@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:53:57.708545+00:00",
+ "generated": "2026-10-27T11:26:13.180028+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.19,
-   "c": -1.09,
-   "d": -0.2,
+   "p": 17.78,
+   "c": -3.32,
+   "d": -0.61,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4013.9,
-   "c": -0.61,
-   "d": -24.5,
+   "p": 4023.0,
+   "c": -0.38,
+   "d": -15.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.265,
-   "c": -1.56,
-   "d": -0.843,
+   "p": 53.48,
+   "c": -1.16,
+   "d": -0.628,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.62,
-   "c": -0.14,
-   "d": -0.14,
+   "p": 100.83,
+   "c": -0.91,
+   "d": -0.93,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.6,
-   "c": -4.5,
-   "d": -5.21,
+   "p": 109.87,
+   "c": -5.13,
+   "d": -5.94,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.238,
-   "c": 0.27,
-   "d": 0.278,
+   "p": 102.195,
+   "c": 0.23,
+   "d": 0.235,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.7815,
+   "p": 49.7835,
    "c": 0.09,
-   "d": 0.043,
+   "d": 0.045,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11158.05,
-   "c": 0.05,
-   "d": 6.05,
+   "p": 11240.0,
+   "c": 0.79,
+   "d": 88.0,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 79895,
-   "c": -0.57,
+   "p": 79805,
+   "c": -0.55,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2314.02,
-   "c": -0.62,
+   "p": 2312.07,
+   "c": -0.6,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.07,
-   "c": -1.35,
+   "p": 99.92,
+   "c": -1.36,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.3,
-   "c": 0.96,
+   "c": 1.11,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 738.9,
-   "c": -0.11,
+   "p": 738.52,
+   "c": -0.07,
    "k": "usd"
   }
  ],
@@ -384,7 +384,30 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "GM to Move Stock Listing to Tech-Focused Nasdaq, Leaving NYSE",
+    "t": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap",
+    "tt": "ABD Vadeli İşlemleri, Fed Öncesi Yapay Zeka İyimserliğinin Azalmasıyla Dalgalanıyor: Piyasalar Sarıldı",
+    "s": "Stocks edged higher and oil declined amid renewed hopes for a diplomatic solution to the US-Iran war, while positive results from companies including United Parcel Service Inc. and Coca-Cola Co. helped buoy sentiment.",
+    "ss": "Anthropic PBC'nin ilk halka arz başvurusunu takiben yapay zeka ticaretine yönelik coşku patlaması Salı günü bir miktar ivme kaybetti; yatırımcıların dikkatlerini tekrar yoğun bir kazanç listesine çevirmesiyle ABD hisse senedi vadeli işlemleri durdu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793052236000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "India Diesel Export Boom Set to Ease Global Crunch Next Year",
+    "tt": "Hindistan Dizel İhracatında Artış Gelecek Yıl Küresel Krizi Hafifletecek",
+    "s": "A surge in Indian diesel exports is set to hit global markets next year as new refining capacity comes online, bringing much-needed supply to fuel-starved markets from the US to Europe.",
+    "ss": "Yeni rafinaj kapasitesinin devreye girmesi ve ABD'den Avrupa'ya kadar yakıt sıkıntısı çeken pazarlara çok ihtiyaç duyulan arzın sağlanmasıyla birlikte Hindistan'ın dizel ihracatında gelecek yıl küresel pazarları etkileyecek bir artış bekleniyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/india-diesel-export-boom-set-to-ease-global-crunch-next-year",
+    "ts": 1793099830000,
+    "tags": []
+   },
+   {
+    "t": "GM to Leave NYSE for Stock Listing on Tech-Focused Nasdaq",
     "tt": "GM, NYSE'den Ayrılarak Hisse Senedi Listelemesini Teknoloji Odaklı Nasdaq'a Taşıyacak",
     "s": "General Motors Co. plans to shift its stock listing to the Nasdaq Global Select Market from the New York Stock Exchange, positioning the old-school automaker as a tech-forward company as it embraces automated driving and electric vehicles.",
     "ss": "General Motors Co., hisse senedi listelemesini New York Menkul Kıymetler Borsası'ndan Nasdaq Global Select Market'e kaydırmayı planlıyor ve eski tip otomobil üreticisini, otonom sürüşü ve elektrikli araçları benimsediği için ileri teknolojiye sahip bir şirket olarak konumlandırıyor.",
@@ -393,84 +416,72 @@
     "tags": []
    },
    {
-    "t": "Guptas’ Johannesburg Homes on Sale as ‘Stigma’ Dampens Interest",
-    "tt": "Guptas'ın Johannesburg Evleri 'Stigma' Olarak Satışa Çıktı İlgiyi Azalttı",
-    "s": "Two multi million rand South African mansions owned by the Gupta brothers, a trio of India-born businessmen at the center of a corruption scandal that triggered the nation’s worst political and economic crisis since apartheid, are back on the market in Johannesburg.",
-    "ss": "Apartheid'den bu yana ülkenin en kötü siyasi ve ekonomik krizini tetikleyen yolsuzluk skandalının merkezinde yer alan Hindistan doğumlu üç iş adamı Gupta kardeşlere ait iki milyon rand değerindeki Güney Afrika malikanesi, Johannesburg'da yeniden satışa sunuldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/guptas-johannesburg-homes-on-sale-as-stigma-dampens-interest",
-    "ts": 1793097385000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic Gives Traders a Pure-Play Bet on Frontier AI",
-    "tt": "Anthropic, Yatırımcılara Frontier AI'da Saf Oyun Bahsi Veriyor",
-    "s": "The mega IPO is the talk of Wall Street.",
-    "ss": "Mega halka arz Wall Street'te konuşulan bir konu.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-gives-traders-a-pure-play-bet-on-frontier-ai",
-    "ts": 1793097319000,
-    "tags": []
-   },
-   {
-    "t": "Pope Leo Keeps South America Trip in November After Lung Surgery",
-    "tt": "Papa Leo, Akciğer Ameliyatı Sonrası Kasım Ayında Güney Amerika Gezisine Devam Edecek",
-    "s": "Pope Leo XIV’s will travel to Latin America as planned following a surgery for lung cancer, a highly awaited trip and the longest in his pontificate yet.",
-    "ss": "Papa XIV.Leo, akciğer kanseri ameliyatının ardından planlandığı gibi Latin Amerika'ya seyahat edecek; bu seyahat, çok beklenen ve papalığındaki en uzun gezi olacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pope-leo-keeps-south-america-trip-in-november-after-lung-surgery",
-    "ts": 1793097127000,
-    "tags": []
-   },
-   {
-    "t": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
-    "tt": "Yatırımcılar Fed Faiz Görüşmesine Hazırlanırken Altın 4.000 Dolar Yakınında Duruyor",
-    "s": "Gold held near $4,000 an ounce as traders prepared for a Federal Reserve decision this week that’s expected to keep interest rates steady.",
-    "ss": "Altın, yatırımcıların Fed'in bu hafta faiz oranlarını sabit tutması beklenen kararına hazırlık yapmasıyla ons başına 4.000 dolar civarında kaldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
-    "ts": 1793056828000,
-    "tags": []
-   },
-   {
-    "t": "US Futures Waver as AI Optimism Wanes Before Fed: Markets Wrap",
-    "tt": "ABD Vadeli İşlemleri, Fed Öncesi Yapay Zeka İyimserliğinin Azalmasıyla Dalgalanıyor: Piyasalar Sarıldı",
-    "s": "The burst of enthusiasm that followed Anthropic PBC’s filing for an initial public offering lost some momentum on Tuesday, with US equity futures stalling as traders turned their attention back to a busy earnings slate, the upcoming Federal Reserve policy decision and simmering Middle East tensions.",
-    "ss": "Anthropic PBC'nin ilk halka arz başvurusunu takiben yapay zeka ticaretine yönelik coşku patlaması Salı günü bir miktar ivme kaybetti; yatırımcıların dikkatlerini tekrar yoğun bir kazanç listesine çevirmesiyle ABD hisse senedi vadeli işlemleri durdu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793052236000,
-    "tags": []
-   },
-   {
-    "t": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-    "tt": "Pop Mart'ın Üçüncü Çeyrek Satışları Labubu Fad'ın Soğumasıyla %50'ye Kadar Düştü",
-    "s": "Pop Mart International Group Ltd. said third-quarter sales fell nearly 50% from a year earlier, hurt by fading Labubu momentum and a tough base of comparison following last year’s blockbuster results.",
-    "ss": "Pop Mart International Group Ltd., üçüncü çeyrek satışlarının bir önceki yıla göre yaklaşık %50 düştüğünü, bunun Labubu ivmesinin zayıflaması ve geçen yılın gişe rekorları kıran sonuçlarının ardından gelen zorlu karşılaştırma temeli nedeniyle zarar gördüğünü söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
-    "ts": 1793090520000,
-    "tags": []
-   },
-   {
-    "t": "JPMorgan’s Michele Sees 7%-8% US Bond Return Over 12 Months",
-    "tt": "JPMorgan'dan Michele, 12 Ayda ABD Tahvilinin %7-%8 ​​Getirisini Görüyor",
-    "s": "The US bond market could return around 7% to 8% over the next 12 months, according to JPMorgan Asset Management’s Bob Michele.",
-    "ss": "JPMorgan Asset Management'tan Bob Michele'e göre ABD tahvil piyasası önümüzdeki 12 ay içinde %7 ila %8 civarında bir getiri elde edebilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/jpmorgan-asset-management-bob-michele-us-bonds-treasury-fed",
-    "ts": 1793071515000,
-    "tags": []
-   },
-   {
-    "t": "Maruti Suzuki Profit Misses Estimate as Costs Squeeze Margins",
+    "t": "Maruti Suzuki Profit Slips 27% as Input Costs Squeeze Margins",
     "tt": "Maliyetler Marjları Sıkıştırırken Maruti Suzuki Karı Tahmini Tutmuyor",
-    "s": "Maruti Suzuki India Ltd. reported lower-than-expected quarterly profit, as rising input costs and a higher share of small car sales weighed on profitability at India’s largest carmaker.",
+    "s": "Maruti Suzuki India Ltd. reported lower-than-expected quarterly profit, as rising input costs weighed on profitability at India’s largest carmaker.",
     "ss": "Maruti Suzuki India Ltd., Hindistan'ın en büyük otomobil üreticisinin artan girdi maliyetleri ve küçük otomobil satışlarının artan payının karlılığı olumsuz etkilemesi nedeniyle beklenenden düşük üç aylık kar bildirdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/maruti-suzuki-profit-misses-estimate-as-costs-squeeze-margins",
     "ts": 1793095739000,
     "tags": []
    },
    {
-    "t": "Le Pen’s Rise Spurs Rush for French Renewable Contracts",
-    "tt": "Le Pen'in Yükselişi Fransa'daki Yenilenebilir Enerji Kontratlarına Hız Verdi",
-    "s": "French renewable developers are rushing to lock in state-backed contracts before next year’s presidential election, fearing a halt to new projects under a Marine Le Pen government.",
-    "ss": "Fransız yenilenebilir enerji geliştiricileri, Marine Le Pen hükümeti altındaki yeni projelerin durmasından korktukları için gelecek yıl yapılacak başkanlık seçimlerinden önce devlet destekli sözleşmelere bağlanmak için acele ediyorlar.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/le-pen-s-rise-spurs-rush-for-french-renewable-contracts",
-    "ts": 1793081700000,
+    "t": "AI Talent War Has Quant Firms Racing to Fund PhDs, Build Labs",
+    "tt": "Yapay Zeka Yetenek Savaşında Quant Firmaları Doktora Programlarını Finanse Etmek ve Laboratuvarlar Kurmak İçin Yarışıyor",
+    "s": "Wall Street’s quant firms have long been among the most lucrative destinations for the world’s top scientific minds. The AI boom has given those mathematicians and physicists another set of deep-pocketed suitors — and sent some of finance’s most secretive employers on an increasingly public recruitm",
+    "ss": "Wall Street'in niceliksel firmaları uzun süredir dünyanın en üst düzey bilimsel zekaları için en kazançlı yerler arasında yer alıyor. Yapay zeka patlaması, bu matematikçilere ve fizikçilere başka bir zengin talip grubu daha kazandırdı ve finans sektörünün en gizli işverenlerinden bazılarını, giderek daha fazla kamuya açık işe alımlara gönderdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/ai-talent-war-has-quant-firms-racing-to-fund-phds-build-labs",
+    "ts": 1793099700000,
+    "tags": []
+   },
+   {
+    "t": "Morocco Tops South Africa in RMB Continental Investment Rank",
+    "tt": "Fas, RMB Continental Yatırım Sıralamasında Güney Afrika'da Birinci Sırada",
+    "s": "Morocco overtook South Africa to become the continent’s fourth-most attractive investment destination as years of industrialization and faster growth propelled it ahead of the region’s biggest economy, FirstRand Ltd.’s Rand Merchant Bank said.",
+    "ss": "FirstRand Ltd.'den Rand Merchant Bank, Fas'ın, yıllar süren sanayileşme ve daha hızlı büyümenin onu bölgenin en büyük ekonomisinin önüne geçirmesiyle Güney Afrika'yı geride bırakarak kıtanın dördüncü en cazip yatırım destinasyonu haline geldiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/morocco-tops-south-africa-in-rmb-continental-investment-ranking",
+    "ts": 1793090955000,
+    "tags": []
+   },
+   {
+    "t": "Indonesia Bond Yield Hits Four-Year High as MSCI Risk, Oil Weigh",
+    "tt": "Endonezya Tahvili Getirisi, MSCI Riski ve Petrolün Ağırlığıyla Dört Yılın En Yüksek Seviyesine Ulaştı",
+    "s": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah weakened toward a record low as elevated oil prices and MSCI Inc.’s threat of a stocks downgrade hurt investor sentiment.",
+    "ss": "Endonezya'nın 10 yıllık devlet tahvili getirisi, artan petrol fiyatları ve MSCI Inc.'in hisse senedi notunu düşürme tehdidinin yatırımcı güvenini olumsuz etkilemesiyle dört yılın en yüksek seviyesine çıktı ve rupiah rekor düşük seviyelere doğru zayıfladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-10-year-yield-at-four-year-high-on-msci-risk-oil",
+    "ts": 1793083958000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "European Stocks Erase Losses as Iran Comments Feed Peace Hopes",
+    "tt": "İran'ın Yorumları Barış Umutlarını Beslerken Avrupa Hisse Senetleri Kayıplarını Sildi",
+    "s": "European stocks erased earlier losses as hopes of renewed negotiations between the US and Iran to end their war offset disappointing earnings from benchmark heavyweight HSBC Holdings Plc.",
+    "ss": "Avrupa borsaları, ABD ile İran arasında savaşı sona erdirmek için müzakerelerin yenileneceği umutlarının, gösterge ağır siklet HSBC Holdings Plc'nin hayal kırıklığı yaratan kazançlarını telafi etmesiyle önceki kayıplarını sildi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/european-stocks-pulled-lower-by-banks-as-hsbc-results-disappoint",
+    "ts": 1793089087000,
+    "tags": []
+   },
+   {
+    "t": "Acts of God Meet Acts of AI in Private Equity’s New Debt Play",
+    "tt": "Özel Sermayenin Yeni Borç Oyununda Doğal Gerçeklerin Eylemleri Yapay Zekanın Eylemleriyle Buluşuyor",
+    "s": "Force majeure has long protected companies from acts of God. Now some borrowers want protection from acts of AI.",
+    "ss": "Mücbir sebep, şirketleri uzun süredir doğal afetlerden korumuştur. Artık bazı borçlular yapay zeka eylemlerinden korunmak istiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/acts-of-god-meet-acts-of-ai-in-private-equity-s-new-debt-play",
+    "ts": 1793099102000,
+    "tags": []
+   },
+   {
+    "t": "RBI’s Gupta Says Emerging Markets Must Bolster Domestic Finances",
+    "tt": "RBI'den Gupta, Gelişmekte Olan Piyasaların Yurtiçi Finansmanı Desteklemesi Gerektiğini Söyledi",
+    "s": "Emerging markets, including India, need to strengthen their finances and build buffers against volatile foreign capital, Reserve Bank of India Deputy Governor Poonam Gupta said Tuesday.",
+    "ss": "Hindistan Merkez Bankası Başkan Yardımcısı Poonam Gupta Salı günü yaptığı açıklamada, aralarında Hindistan'ın da bulunduğu gelişmekte olan piyasaların mali durumlarını güçlendirmeleri ve değişken yabancı sermayeye karşı tamponlar oluşturmaları gerektiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/rbi-s-gupta-says-emerging-markets-must-bolster-domestic-finances",
+    "ts": 1793099014000,
     "tags": []
    }
   ],
@@ -568,6 +579,57 @@
   ],
   "MarketWatch": [
    {
+    "t": "AI stocks haven’t played by the normal valuation rules. Now that rates are higher, they may have to, says UBS",
+    "tt": "AI hisse senetleri normal değerleme kurallarına göre hareket etmiyor. UBS, oranlar artık daha yüksek olduğuna göre, bunu yapmak zorunda kalabileceklerini söylüyor",
+    "s": "Historically, the surges in investment and in the profitability it produced have proven unsustainable for U.S. tech companies, says Michel Lerner.",
+    "ss": "Michel Lerner, tarihsel olarak yatırımlardaki ve bunun yarattığı kârlılıktaki artışların ABD teknoloji şirketleri için sürdürülemez olduğunu kanıtladı.",
+    "u": "https://www.marketwatch.com/story/ai-stocks-havent-played-by-the-normal-valuation-rules-now-that-rates-are-higher-they-may-have-to-says-ubs-f8c78948?mod=mw_rss_topstories",
+    "ts": 1793099700000,
+    "tags": []
+   },
+   {
+    "t": "Options traders are seizing control of the S&P 500",
+    "tt": "Opsiyon tüccarları S&P 500'ün kontrolünü ele geçiriyor",
+    "s": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+    "ss": "UBS'deki bir ekibe göre endeksin Haziran ayından bu yana pek fazla hareket etmemesinin bir nedeni var.",
+    "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+    "ts": 1793099460000,
+    "tags": []
+   },
+   {
+    "t": "Dividend stocks are having an excellent October as tech sector struggles",
+    "tt": "Teknoloji sektörü mücadele ederken temettü stokları mükemmel bir Ekim ayı geçiriyor",
+    "s": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+    "ss": "Temettü hisselerine odaklanan ETF'ler Ekim ayında güçlü bir yükseliş kaydederek 2026'daki büyük kazanımlara katkıda bulunuyor.",
+    "u": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+    "ts": 1793099160000,
+    "tags": []
+   },
+   {
+    "t": "SoFi’s stock climbs as lending surge drives an earnings beat and rosy outlook",
+    "tt": "SoFi'nin hisseleri, kredilerdeki artışın kazançları olumsuz etkilemesi ve iyimser görünümü desteklemesiyle tırmanıyor",
+    "s": "SoFi’s early 2027 forecast is impressing Wall Street.",
+    "ss": "SoFi'nin 2027 başı tahmini Wall Street'i etkiliyor.",
+    "u": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
+    "ts": 1793099160000,
+    "tags": []
+   },
+   {
+    "t": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
+    "tt": "AI borç sorunu, Fed'den Warsh'un daha az faiz artırımıyla istediğini elde etmesine yardımcı olabilir",
+    "s": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
+    "ss": "Sermaye harcamalarındaki artış daha fazla incelenmeye başladıkça yapay zeka finansmanını sağlamak daha zor ve daha pahalı hale geldi.",
+    "u": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+    "ts": 1793098800000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
     "tt": "İstismarcı eski kocam çocuklarımızın eğitimi için 20.000 dolar sözü verdi. Şimdi ödemeyi reddediyor. Yasal olarak yükümlü mü?",
     "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
@@ -611,54 +673,18 @@
     "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
     "ts": 1793073660000,
     "tags": []
-   },
-   {
-    "t": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "tt": "'Yargıç Judy'nin sadece bölümlerini izlemeniz yeterli': 70'li yaşlarımdayım. İnsanlar neden aynı önlenebilir mali hataları yapmaya devam ediyor?",
-    "s": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-    "ss": "\"Kötü kararların bazı tanıdık örneklerini düşünün: kredi kartı borcu biriktirmek veya emeklilik planını yapamamak.\"",
-    "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    "ts": 1793053800000,
-    "tags": []
-   },
-   {
-    "t": "Dividend stocks are having an excellent October as tech sector struggles",
-    "tt": "Teknoloji sektörü mücadele ederken temettü stokları mükemmel bir Ekim ayı geçiriyor",
-    "s": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
-    "ss": "Temettü hisselerine odaklanan ETF'ler Ekim ayında güçlü bir yükseliş kaydederek 2026'daki büyük kazanımlara katkıda bulunuyor.",
-    "u": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
-    "ts": 1793052600000,
-    "tags": []
-   },
-   {
-    "t": "Options traders are seizing control of the S&P 500",
-    "tt": "Opsiyon tüccarları S&P 500'ün kontrolünü ele geçiriyor",
-    "s": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
-    "ss": "UBS'deki bir ekibe göre endeksin Haziran ayından bu yana pek fazla hareket etmemesinin bir nedeni var.",
-    "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-    "ts": 1793052180000,
-    "tags": []
-   },
-   {
-    "t": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
-    "tt": "TikTok'un ana şirketi ByteDance'in sohbet robotu artık seyahat rezervasyonu sitelerine paralarının karşılığını veriyor. Ve senin.",
-    "s": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
-    "ss": "Çin'deki tüketiciler, yeni ortaya çıkan yapay zeka seyahat acentelerinin gizli bir gündeme sahip olup olmadığını - haklı olarak - merak etmeye başlıyor.",
-    "u": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
-    "ts": 1793052000000,
-    "tags": []
-   },
-   {
-    "t": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
-    "tt": "Amerikalıların yüzde 40'ından fazlası herhangi bir plan yapmadan \"kör\" emekliliğe doğru ilerliyor",
-    "s": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
-    "ss": "Amerikalıların neredeyse yarısı emeklilikte neye ihtiyaç duyacaklarını hesaplamadı.",
-    "u": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-    "ts": 1793051700000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "French Consumer Confidence Tanks As Bond Crisis, Far-Left Riots Deepen Gloom",
+    "tt": "Tahvil Krizi ve Aşırı Soldaki Ayaklanmalar Karamsarlığı Derinleştirirken Fransız Tüketici Güveni Düşüyor",
+    "s": "French Consumer Confidence Tanks As Bond Crisis, Far-Left Riots Deepen Gloom French consumer confidence cratered to its lowest level in 13 years as a bond market selloff that sent yields soaring, weeks of social unrest sparked by far-left groups, and political instability all collided at once, casti",
+    "ss": "Tahvil Krizi, Aşırı Sol Ayaklanmalar Kasveti Derinleştirirken Fransız Tüketici Güveni Düşüyor Fransız tüketici güveni, tahvil piyasasında getirilerin yükselmesine neden olan satış dalgası, aşırı sol grupların yol açtığı haftalarca süren toplumsal huzursuzluk ve siyasi istikrarsızlığın bir anda çarpışmasıyla 13 yılın en düşük seviyesine geriledi.",
+    "u": "https://www.zerohedge.com/markets/french-consumer-confidence-tanks-bond-crisis-far-left-riots-deepen-gloom",
+    "ts": 1793100000000,
+    "tags": []
+   },
    {
     "t": "IEA Birol Warns Of No \"Credible Pathway\" Back To Pre-War Energy Markets In 2027",
     "tt": "IEA Birol, 2027'de Savaş Öncesi Enerji Piyasalarına Dönüşün \"Güvenilir Bir Yol\" Olmayacağı Konusunda Uyardı",
@@ -696,6 +722,15 @@
     "tags": []
    },
    {
+    "t": "The Forgotten Trump Campaign Promise That Will Come Back To Haunt Republicans In The Midterms",
+    "tt": "Ara Seçimlerde Cumhuriyetçilerin Peşine Düşecek Unutulan Trump Kampanya Vaadi",
+    "s": "The Forgotten Trump Campaign Promise That Will Come Back To Haunt Republicans In The Midterms A mounting financial burden costing American families thousands of dollars a year is emerging as an overlooked issue in the 2026 midterm elections as new polling suggests that the expense of caring for agin",
+    "ss": "Trump Kampanyasının Ara Dönemlerde Cumhuriyetçilerin Peşine Düşecek Unutulan Vaadi Amerikalı ailelere yılda binlerce dolara mal olan artan mali yük, 2026 ara seçimlerinde gözden kaçan bir konu olarak ortaya çıkıyor; yeni anketler, yeni bir bakımın masraflarını ortaya koyuyor",
+    "u": "https://www.zerohedge.com/political/forgotten-trump-campaign-promise-will-come-back-haunt-republicans-midterms",
+    "ts": 1793091300000,
+    "tags": []
+   },
+   {
     "t": "Europe Plans To Copy Trump's Critical Material Playbook",
     "tt": "Avrupa, Trump'ın Kritik Malzeme Başucu Kitabı'nı Kopyalamayı Planlıyor",
     "s": "Europe Plans To Copy Trump's Critical Material Playbook Brussels is looking to borrow President Trump's playbook to make \"rare earths great again\" in the West , with proposals to take equity stakes in miners and support new critical material projects. The move aims to break an alarming dependency th",
@@ -730,27 +765,45 @@
     "u": "https://www.zerohedge.com/geopolitical/everyone-here-very-optimistic-germans-are-increasingly-emigrating-poland",
     "ts": 1793080800000,
     "tags": []
-   },
-   {
-    "t": "UK Must Be Ready For War In 1,000 Days, Says British Defense Secretary",
-    "tt": "İngiltere Savunma Bakanı: İngiltere 1000 Gün İçinde Savaşa Hazır Olmalı",
-    "s": "UK Must Be Ready For War In 1,000 Days, Says British Defense Secretary Authored by Rachel Roberts via The Epoch Times , British Defense Secretary Wes Streeting has said the country must be ready for war in 1,000 days, after the government advised citizens to stock up on essential supplies. British D",
-    "ss": "Birleşik Krallık 1000 Gün İçinde Savaşa Hazır Olmalı, Diyor İngiliz Savunma Bakanı Rachel Roberts tarafından Epoch Times aracılığıyla yazılan İngiliz Savunma Bakanı Wes Streeting, hükümetin vatandaşlara temel malzemeleri stoklamalarını tavsiye etmesinden sonra ülkenin 1000 gün içinde savaşa hazır olması gerektiğini söyledi. İngiliz D",
-    "u": "https://www.zerohedge.com/geopolitical/uk-must-be-ready-war-1000-days-says-british-defense-secretary",
-    "ts": 1793073000000,
-    "tags": []
-   },
-   {
-    "t": "One Big Club Update: Judge Rules DOJ Unlawfully Fired Epstein Prosecutor Maurene Comey, Orders Her Reinstated",
-    "tt": "Kulüpten Büyük Bir Güncelleme: Yargıç, Adalet Bakanlığı'nın Epstein Savcısı Maurene Comey'i Yasadışı Bir Şekilde Kovduğuna Karar Verdi, Görevine Geri Dönmesini Emretti",
-    "s": "One Big Club Update: Judge Rules DOJ Unlawfully Fired Epstein Prosecutor Maurene Comey, Orders Her Reinstated A federal judge ruled Monday that the Justice Department unlawfully fired Maurene Comey , the former Manhattan federal prosecutor who worked on the Jeffrey Epstein and Ghislaine Maxwell case",
-    "ss": "Kulüpte Büyük Bir Güncelleme: Yargıç, DOJ'un Epstein Savcısı Maurene Comey'i Yasadışı Bir Şekilde Kovduğuna Karar Verdi, Göreve İade Edilmesine Karar Verdi Bir federal yargıç Pazartesi günü, Adalet Bakanlığı'nın, Jeffrey Epstein ve Ghislaine Maxwell davasında çalışan eski Manhattan federal savcısı Maurene Comey'i yasa dışı bir şekilde kovduğuna karar verdi",
-    "u": "https://www.zerohedge.com/political/one-big-club-update-judge-rules-doj-unlawfully-fired-epstein-prosecutor-maurene-comey",
-    "ts": 1793071500000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "2027'de turizm gelirinde hedef 70 milyar dolar",
+    "tt": null,
+    "s": "Türkiye'nin turizm gelirinin 2027'de 70 milyar dolara, ziyaretçi sayısının ise 66,6 milyona ulaşması hedefleniyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/2027-de-turizm-gelirinde-hedef-70-milyar-dolar-3792670",
+    "ts": 1793099901000,
+    "tags": []
+   },
+   {
+    "t": "İran'dan dünyanın en büyük tanker şirketine tehdit",
+    "tt": null,
+    "s": "İran, son haftalarda Hürmüz Boğazı'ndan milyonlarca varil petrol taşıyan dünyanın en büyük petrol tanker işletmecisi Sinokor'a karşı \"yasal işlem\" başlatacağını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-dan-dunyanin-en-buyuk-tanker-sirketine-tehdit-3792668",
+    "ts": 1793099193000,
+    "tags": []
+   },
+   {
+    "t": "Bina deprem yönetmeliği güncellenecek",
+    "tt": null,
+    "s": "Türkiye Bina Deprem Yönetmeliği'nin gelecek yıl revize edilmesi, uygulamaya yönelik eğitim materyalleri hazırlanarak eğitimlerin planlanması öngörülüyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bina-deprem-yonetmeligi-guncellenecek-3792667",
+    "ts": 1793098960000,
+    "tags": []
+   },
+   {
+    "t": "\"Konut kredi faizlerinde yılbaşına kadar düzenleme bekliyoruz\"",
+    "tt": null,
+    "s": "Anadolu Yakası İnşaat Müteahhitleri Derneği (AYİDER) Başkanı Hakan Şişik, konut kredisi faizlerinde yılbaşına kadar yeni bir düzenleme beklediklerini belirterek, sermaye piyasalarındaki son gelişmelerin yatırımcılarda çekingenliğe yol açtığını söyledi. Mevcut dönemin konut alımı için fırsat sunduğun",
+    "ss": null,
+    "u": "https://www.bloomberght.com/konut-kredi-faizlerinde-yilbasina-kadar-duzenleme-bekliyoruz-3792662",
+    "ts": 1793098326000,
+    "tags": []
+   },
    {
     "t": "Euro Bölgesi'nde kredi koşulları sıkılaşıyor",
     "tt": null,
@@ -803,42 +856,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/amundi-ye-gore-altinda-en-kotusu-geride-kaldi-3792653",
     "ts": 1793092134000,
-    "tags": []
-   },
-   {
-    "t": "Endonezya'nın 10 yıllık devlet tahvili getirisi 4 yılın zirvesinde",
-    "tt": null,
-    "s": "Endonezya'nın 10 yıllık devlet tahvili getirisi dört yılın zirvesine tırmanırken, rupi de rekor düşük seviyeye doğru geriledi. Yüksek seyreden petrol fiyatları ve MSCI'in hisse senetlerini gelişmekte olan ülke statüsünden çıkarma tehdidi yatırımcı güvenini olumsuz etkiledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/endonezyanin-10-yillik-devlet-tahvili-getirisi-dort-yilin-zirvesinde-3792651",
-    "ts": 1793090052000,
-    "tags": []
-   },
-   {
-    "t": "SPK tasfiye edilecek fonların tasfiye ve ödeme esaslarını belirledi",
-    "tt": null,
-    "s": "Sermaye Piyasası Kurulu (SPK), tasfiyesine karar verilen bazı yatırım fonlarının tasfiye ve ödemelerine ilişkin usul ve esaslar kapsamında, ara ödemelere öncelikli olarak unvanında \"para piyasası\" ibaresi yer alan yatırım fonlarından başlanacağını bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spk-tasfiye-edilecek-fonlarinin-tasfiye-ve-odeme-esaslarini-belirledi-3792650",
-    "ts": 1793089342000,
-    "tags": []
-   },
-   {
-    "t": "Çinliler altının düşüşünü fırsat bilip alım yapıyor",
-    "tt": null,
-    "s": "Çinli hanehalkının altına olan ilgisi, fiyatların düşmesi ve yurt içi hisse senetlerinin cazibesini yitirmesiyle son iki ayda artış gösterdi. Böylelikle altın fiyatlarının ons başına 4 bin doları test ettiği bir dönemde destek sağlamış oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cinliler-altinin-dususunu-firsat-bilip-alim-yapiyor-3792648",
-    "ts": 1793088237000,
-    "tags": []
-   },
-   {
-    "t": "Chiquita, muz fiyatlarının yükselmesini bekliyor",
-    "tt": null,
-    "s": "Dünyanın en büyük muz şirketlerinden Chiquita, El Nino ve savaşın üretim maliyetlerini artırdığı uyarısında bulundu. Şirket, 2027'de sektörde satış miktarının azalmasını ve fiyatların yükselmesini bekliyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/chiquita-muz-fiyatlarinin-yukselmesini-bekliyor-3792649",
-    "ts": 1793088850000,
     "tags": []
    }
   ]
