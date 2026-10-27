@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:15:54.576775+00:00",
+ "generated": "2026-10-27T10:53:57.708545+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.21,
-   "c": -0.98,
-   "d": -0.18,
+   "p": 18.19,
+   "c": -1.09,
+   "d": -0.2,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4013.0,
-   "c": -0.63,
-   "d": -25.4,
+   "p": 4013.9,
+   "c": -0.61,
+   "d": -24.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.355,
-   "c": -1.39,
-   "d": -0.753,
+   "p": 53.265,
+   "c": -1.56,
+   "d": -0.843,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.91,
-   "c": 0.15,
-   "d": 0.15,
+   "p": 101.62,
+   "c": -0.14,
+   "d": -0.14,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.0,
-   "c": -4.15,
-   "d": -4.81,
+   "p": 110.6,
+   "c": -4.5,
+   "d": -5.21,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.244,
-   "c": 0.28,
-   "d": 0.284,
+   "p": 102.238,
+   "c": 0.27,
+   "d": 0.278,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.7842,
+   "p": 49.7815,
    "c": 0.09,
-   "d": 0.045,
+   "d": 0.043,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11151.1,
-   "c": -0.01,
-   "d": -0.9,
+   "p": 11158.05,
+   "c": 0.05,
+   "d": 6.05,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 79454,
-   "c": -1.12,
+   "p": 79895,
+   "c": -0.57,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2298.01,
-   "c": -1.32,
+   "p": 2314.02,
+   "c": -0.62,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 99.2,
-   "c": -2.15,
+   "p": 100.07,
+   "c": -1.35,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.29,
-   "c": 0.19,
+   "p": 1.3,
+   "c": 0.96,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 733.63,
-   "c": -0.62,
+   "p": 738.9,
+   "c": -0.11,
    "k": "usd"
   }
  ],
@@ -384,6 +384,69 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "GM to Move Stock Listing to Tech-Focused Nasdaq, Leaving NYSE",
+    "tt": "GM, NYSE'den Ayrılarak Hisse Senedi Listelemesini Teknoloji Odaklı Nasdaq'a Taşıyacak",
+    "s": "General Motors Co. plans to shift its stock listing to the Nasdaq Global Select Market from the New York Stock Exchange, positioning the old-school automaker as a tech-forward company as it embraces automated driving and electric vehicles.",
+    "ss": "General Motors Co., hisse senedi listelemesini New York Menkul Kıymetler Borsası'ndan Nasdaq Global Select Market'e kaydırmayı planlıyor ve eski tip otomobil üreticisini, otonom sürüşü ve elektrikli araçları benimsediği için ileri teknolojiye sahip bir şirket olarak konumlandırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gm-to-move-stock-listing-to-tech-focused-nasdaq-leaving-nyse",
+    "ts": 1793097904000,
+    "tags": []
+   },
+   {
+    "t": "Guptas’ Johannesburg Homes on Sale as ‘Stigma’ Dampens Interest",
+    "tt": "Guptas'ın Johannesburg Evleri 'Stigma' Olarak Satışa Çıktı İlgiyi Azalttı",
+    "s": "Two multi million rand South African mansions owned by the Gupta brothers, a trio of India-born businessmen at the center of a corruption scandal that triggered the nation’s worst political and economic crisis since apartheid, are back on the market in Johannesburg.",
+    "ss": "Apartheid'den bu yana ülkenin en kötü siyasi ve ekonomik krizini tetikleyen yolsuzluk skandalının merkezinde yer alan Hindistan doğumlu üç iş adamı Gupta kardeşlere ait iki milyon rand değerindeki Güney Afrika malikanesi, Johannesburg'da yeniden satışa sunuldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/guptas-johannesburg-homes-on-sale-as-stigma-dampens-interest",
+    "ts": 1793097385000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic Gives Traders a Pure-Play Bet on Frontier AI",
+    "tt": "Anthropic, Yatırımcılara Frontier AI'da Saf Oyun Bahsi Veriyor",
+    "s": "The mega IPO is the talk of Wall Street.",
+    "ss": "Mega halka arz Wall Street'te konuşulan bir konu.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-gives-traders-a-pure-play-bet-on-frontier-ai",
+    "ts": 1793097319000,
+    "tags": []
+   },
+   {
+    "t": "Pope Leo Keeps South America Trip in November After Lung Surgery",
+    "tt": "Papa Leo, Akciğer Ameliyatı Sonrası Kasım Ayında Güney Amerika Gezisine Devam Edecek",
+    "s": "Pope Leo XIV’s will travel to Latin America as planned following a surgery for lung cancer, a highly awaited trip and the longest in his pontificate yet.",
+    "ss": "Papa XIV.Leo, akciğer kanseri ameliyatının ardından planlandığı gibi Latin Amerika'ya seyahat edecek; bu seyahat, çok beklenen ve papalığındaki en uzun gezi olacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pope-leo-keeps-south-america-trip-in-november-after-lung-surgery",
+    "ts": 1793097127000,
+    "tags": []
+   },
+   {
+    "t": "Gold Steadies Near $4,000 as Traders Prepare for Fed Rate Call",
+    "tt": "Yatırımcılar Fed Faiz Görüşmesine Hazırlanırken Altın 4.000 Dolar Yakınında Duruyor",
+    "s": "Gold held near $4,000 an ounce as traders prepared for a Federal Reserve decision this week that’s expected to keep interest rates steady.",
+    "ss": "Altın, yatırımcıların Fed'in bu hafta faiz oranlarını sabit tutması beklenen kararına hazırlık yapmasıyla ons başına 4.000 dolar civarında kaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
+    "ts": 1793056828000,
+    "tags": []
+   },
+   {
+    "t": "US Futures Waver as AI Optimism Wanes Before Fed: Markets Wrap",
+    "tt": "ABD Vadeli İşlemleri, Fed Öncesi Yapay Zeka İyimserliğinin Azalmasıyla Dalgalanıyor: Piyasalar Sarıldı",
+    "s": "The burst of enthusiasm that followed Anthropic PBC’s filing for an initial public offering lost some momentum on Tuesday, with US equity futures stalling as traders turned their attention back to a busy earnings slate, the upcoming Federal Reserve policy decision and simmering Middle East tensions.",
+    "ss": "Anthropic PBC'nin ilk halka arz başvurusunu takiben yapay zeka ticaretine yönelik coşku patlaması Salı günü bir miktar ivme kaybetti; yatırımcıların dikkatlerini tekrar yoğun bir kazanç listesine çevirmesiyle ABD hisse senedi vadeli işlemleri durdu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793052236000,
+    "tags": []
+   },
+   {
+    "t": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
+    "tt": "Pop Mart'ın Üçüncü Çeyrek Satışları Labubu Fad'ın Soğumasıyla %50'ye Kadar Düştü",
+    "s": "Pop Mart International Group Ltd. said third-quarter sales fell nearly 50% from a year earlier, hurt by fading Labubu momentum and a tough base of comparison following last year’s blockbuster results.",
+    "ss": "Pop Mart International Group Ltd., üçüncü çeyrek satışlarının bir önceki yıla göre yaklaşık %50 düştüğünü, bunun Labubu ivmesinin zayıflaması ve geçen yılın gişe rekorları kıran sonuçlarının ardından gelen zorlu karşılaştırma temeli nedeniyle zarar gördüğünü söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
+    "ts": 1793090520000,
+    "tags": []
+   },
+   {
     "t": "JPMorgan’s Michele Sees 7%-8% US Bond Return Over 12 Months",
     "tt": "JPMorgan'dan Michele, 12 Ayda ABD Tahvilinin %7-%8 ​​Getirisini Görüyor",
     "s": "The US bond market could return around 7% to 8% over the next 12 months, according to JPMorgan Asset Management’s Bob Michele.",
@@ -393,90 +456,21 @@
     "tags": []
    },
    {
+    "t": "Maruti Suzuki Profit Misses Estimate as Costs Squeeze Margins",
+    "tt": "Maliyetler Marjları Sıkıştırırken Maruti Suzuki Karı Tahmini Tutmuyor",
+    "s": "Maruti Suzuki India Ltd. reported lower-than-expected quarterly profit, as rising input costs and a higher share of small car sales weighed on profitability at India’s largest carmaker.",
+    "ss": "Maruti Suzuki India Ltd., Hindistan'ın en büyük otomobil üreticisinin artan girdi maliyetleri ve küçük otomobil satışlarının artan payının karlılığı olumsuz etkilemesi nedeniyle beklenenden düşük üç aylık kar bildirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/maruti-suzuki-profit-misses-estimate-as-costs-squeeze-margins",
+    "ts": 1793095739000,
+    "tags": []
+   },
+   {
     "t": "Le Pen’s Rise Spurs Rush for French Renewable Contracts",
     "tt": "Le Pen'in Yükselişi Fransa'daki Yenilenebilir Enerji Kontratlarına Hız Verdi",
     "s": "French renewable developers are rushing to lock in state-backed contracts before next year’s presidential election, fearing a halt to new projects under a Marine Le Pen government.",
     "ss": "Fransız yenilenebilir enerji geliştiricileri, Marine Le Pen hükümeti altındaki yeni projelerin durmasından korktukları için gelecek yıl yapılacak başkanlık seçimlerinden önce devlet destekli sözleşmelere bağlanmak için acele ediyorlar.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/le-pen-s-rise-spurs-rush-for-french-renewable-contracts",
     "ts": 1793081700000,
-    "tags": []
-   },
-   {
-    "t": "India’s Green Aviation Push Gives Waste Cooking Oil New Life",
-    "tt": "Hindistan'ın Yeşil Havacılık Hamlesi Atık Yemeklik Yağa Yeni Bir Hayat Veriyor",
-    "s": "India is looking to used cooking oil to help fuel its green aviation ambition and reduce reliance on imported crude. But an inefficient and fragmented supply chain could pose a challenge as the country prepares to introduce its Sustainable Aviation Fuel mandate. (Source: Bloomberg)",
-    "ss": "Hindistan, yeşil havacılık tutkusunu beslemek ve ithal ham petrole olan bağımlılığı azaltmak için yemeklik yağ kullanmayı düşünüyor. Ancak ülke Sürdürülebilir Havacılık Yakıtı talimatını uygulamaya hazırlanırken, verimsiz ve parçalanmış bir tedarik zinciri zorluk teşkil edebilir. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/india-s-green-aviation-push-gives-waste-cooking-oil-new-life",
-    "ts": 1793094967000,
-    "tags": []
-   },
-   {
-    "t": "Iran Says It Will Take Action Against Sinokor Ships in Hormuz",
-    "tt": "İran, Hürmüz'deki Sinokor Gemilerine Karşı Harekete Geçeceğini Açıkladı",
-    "s": "Iran’s Persian Gulf Strait Authority said it would take “legal action” against tankers belonging to Sinokor, the world’s biggest oil tanker owner that has carried millions of barrels out of the Strait of Hormuz in recent weeks.",
-    "ss": "İran'ın Basra Körfezi Boğazı İdaresi, son haftalarda Hürmüz Boğazı'ndan milyonlarca varil taşıyan dünyanın en büyük petrol tankeri sahibi Sinokor'a ait tankerlere karşı \"yasal işlem\" başlatacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/iran-says-it-will-take-action-against-sinokor-ships-in-hormuz",
-    "ts": 1793094496000,
-    "tags": []
-   },
-   {
-    "t": "Bond Market Gives Initial Nod to Serbia’s Untested Ballot Winner",
-    "tt": "Tahvil Piyasası, Sırbistan'ın Test Edilmemiş Oylama Kazananına İlk Onayını Verdi",
-    "s": "Fixed-income investors are giving the benefit of the doubt to an opaque protest force which won power in Serbia on a pledge to root out corruption and strengthen democratic standards.",
-    "ss": "Sabit gelirli yatırımcılar, Sırbistan'da yolsuzluğun kökünü kazıma ve demokratik standartları güçlendirme vaadiyle iktidara gelen şeffaf olmayan protesto gücüne şüpheden yararlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/bond-market-gives-initial-nod-to-serbia-s-untested-ballot-winner",
-    "ts": 1793094449000,
-    "tags": []
-   },
-   {
-    "t": "Indonesia Bond Yield Hits Four-Year High as MSCI Risk, Oil Weigh",
-    "tt": "Endonezya Tahvili Getirisi, MSCI Riski ve Petrolün Ağırlığıyla Dört Yılın En Yüksek Seviyesine Ulaştı",
-    "s": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah weakened toward a record low as elevated oil prices and MSCI Inc.’s threat of a stocks downgrade hurt investor sentiment.",
-    "ss": "Endonezya'nın 10 yıllık devlet tahvili getirisi, artan petrol fiyatları ve MSCI Inc.'in hisse senedi notunu düşürme tehdidinin yatırımcı güvenini olumsuz etkilemesiyle dört yılın en yüksek seviyesine çıktı ve rupiah rekor düşük seviyelere doğru zayıfladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-10-year-yield-at-four-year-high-on-msci-risk-oil",
-    "ts": 1793083958000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Universal Music Discussed Going Private With Buyout Firms",
-    "tt": "Universal Music, Satın Alma Firmalarıyla Özelleşmeyi Tartıştı",
-    "s": "Universal Music Group, the world’s largest record company, has discussed going private with a few prominent Wall Street firms, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre, dünyanın en büyük plak şirketi Universal Music Group, Wall Street'in önde gelen birkaç firmasıyla özelleşmeyi tartıştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/universal-music-group-discussed-going-private-with-buyout-firms",
-    "ts": 1793047596000,
-    "tags": []
-   },
-   {
-    "t": "Aramco Contains Fire Near Ras Tanura Oil Hub After Attack",
-    "tt": "Aramco, Saldırının Ardından Ras Tanura Petrol Merkezi Yakınında Yangını Kontrol Altına Aldı",
-    "s": "Saudi Arabia contained a fire near its biggest oil export terminal at Ras Tanura on the Persian Gulf following an attack in the region, a person with knowledge of the matter said.",
-    "ss": "Konuyla ilgili bilgisi olan bir kişi, Suudi Arabistan'ın, bölgedeki bir saldırının ardından Basra Körfezi'ndeki en büyük petrol ihracat terminali Ras Tanura'nın yakınında çıkan yangını kontrol altına aldığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/saudi-arabia-contains-fire-near-ras-tanura-oil-hub-after-attack",
-    "ts": 1793089542000,
-    "tags": []
-   },
-   {
-    "t": "Malaysian Palm Oil Glut Swamps Storage in Top-Producing State",
-    "tt": "Malezya Palmiye Yağı Bolluğu En Çok Üretilen Eyalette Bataklık Depoluyor",
-    "s": "Malaysia’s swelling palm oil inventories are straining storage capacity in the country’s top-producing state, as a bumper harvest piles pressure on the government to clear excess supplies.",
-    "ss": "Malezya'nın artan palm yağı stokları, ülkenin en çok üretim yapan eyaletindeki depolama kapasitesini zorluyor; çünkü bereketli bir hasat, fazla arzın temizlenmesi için hükümet üzerinde baskı oluşturuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/malaysian-palm-oil-glut-swamps-storage-in-top-producing-state",
-    "ts": 1793092239000,
-    "tags": []
-   },
-   {
-    "t": "US Futures Waver as AI Optimism Wanes Before Fed: Markets Wrap",
-    "tt": "ABD Vadeli İşlemleri, Fed Öncesi Yapay Zeka İyimserliğinin Azalmasıyla Dalgalanıyor: Piyasalar Sarıldı",
-    "s": "The burst of enthusiasm for the artificial intelligence trade that followed Anthropic PBC’s filing for an initial public offering lost some momentum on Tuesday, with US equity futures stalling as traders turned their attention back to a busy earnings slate, the upcoming Federal Reserve policy decisi",
-    "ss": "Anthropic PBC'nin ilk halka arz başvurusunu takiben yapay zeka ticaretine yönelik coşku patlaması Salı günü bir miktar ivme kaybetti; yatırımcıların dikkatlerini tekrar yoğun bir kazanç listesine çevirmesiyle ABD hisse senedi vadeli işlemleri durdu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793052236000,
     "tags": []
    }
   ],
@@ -583,7 +577,7 @@
     "tags": []
    },
    {
-    "t": "Customers are chasing higher-rate products, and that’s bad news for banks like HSBC",
+    "t": "Customers are chasing higher-rate products. That’s bad news for banks like HSBC.",
     "tt": "Müşteriler daha yüksek oranlı ürünleri kovalıyor ve bu HSBC gibi bankalar için kötü haber",
     "s": "Shares of banking giant HSBC Holdings fell as much as 7% on Tuesday as the lender revealed that customers are increasingly turning to higher-rate products.",
     "ss": "Bankacılık devi HSBC Holdings'in hisseleri, bankanın müşterilerin giderek daha yüksek oranlı ürünlere yöneldiğini açıklamasının ardından Salı günü yüzde 7'ye kadar düştü.",
@@ -666,6 +660,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "IEA Birol Warns Of No \"Credible Pathway\" Back To Pre-War Energy Markets In 2027",
+    "tt": "IEA Birol, 2027'de Savaş Öncesi Enerji Piyasalarına Dönüşün \"Güvenilir Bir Yol\" Olmayacağı Konusunda Uyardı",
+    "s": "IEA Birol Warns Of No \"Credible Pathway\" Back To Pre-War Energy Markets In 2027 IEA Executive Director Fatih Birol told the Singapore International Energy Week conference on Monday that global energy markets won't return to pre-war conditions in 2027 and that prolonged supply disruptions, especially",
+    "ss": "IEA Birol, 2027'de Savaş Öncesi Enerji Piyasalarına Dönüş İçin \"Güvenilir Bir Yol\" Olmadığı Konusunda Uyardı IEA İcra Direktörü Fatih Birol, Pazartesi günü Singapur Uluslararası Enerji Haftası konferansında yaptığı konuşmada, küresel enerji piyasalarının 2027'de savaş öncesi koşullara dönmeyeceğini ve özellikle arz kesintilerinin uzun sürdüğünü söyledi.",
+    "u": "https://www.zerohedge.com/energy/iea-birol-warns-no-credible-pathway-back-pre-war-energy-markets-2027",
+    "ts": 1793098500000,
+    "tags": []
+   },
+   {
+    "t": "This Is Easily The Most Stupid Thing Ever...",
+    "tt": "Bu Kesinlikle Şimdiye Kadarki En Aptalca Şey...",
+    "s": "This Is Easily The Most Stupid Thing Ever... Authored by Steve Watson via Modernity , A Council official turned up at the home of YouTube pianist Brendan Kavanagh - better known as Dr K - to investigate his 12-year-old daughter Zoe's pretend teddy bear cafe for illegal trading. Yes, really. Stuffed ",
+    "ss": "Bu Kesinlikle Şimdiye Kadarki En Aptalca Şey... Steve Watson tarafından Modernity aracılığıyla yazılmıştır, Bir Konsey yetkilisi, 12 yaşındaki kızı Zoe'nin oyuncak ayı kafesindeki yasadışı ticareti araştırmak için YouTube piyanisti Brendan Kavanagh'ın (daha çok Dr K olarak bilinir) evine geldi. Evet, gerçekten. Doldurulmuş",
+    "u": "https://www.zerohedge.com/political/easily-most-stupid-thing-ever",
+    "ts": 1793097000000,
+    "tags": []
+   },
+   {
     "t": "MAGA At UN? Trump Admin Floats Viktor Orban For Secretary-General",
     "tt": "MAGA BM'de mi? Trump Yönetimi Genel Sekreterlik görevine Viktor Orban'ı aday gösterdi",
     "s": "MAGA At UN? Trump Admin Floats Viktor Orban For Secretary-General Viktor Orbán as Secretary-General of the United Nations?&nbsp; The proposal was featured in an unexpected weekend Wall Street Journal headline.&nbsp;The publication reports that Trump administration officials are floating the former H",
@@ -736,27 +748,18 @@
     "u": "https://www.zerohedge.com/political/one-big-club-update-judge-rules-doj-unlawfully-fired-epstein-prosecutor-maurene-comey",
     "ts": 1793071500000,
     "tags": []
-   },
-   {
-    "t": "On Election Eve, Israeli Opposition Says Netanyahu Must Face Treason Probe",
-    "tt": "Seçim Arifesinde İsrail Muhalefeti Netanyahu'nun Vatana İhanet Soruşturmasıyla Karşı Karşıya Kalması Gerektiğini Söyledi",
-    "s": "On Election Eve, Israeli Opposition Says Netanyahu Must Face Treason Probe On the eve of Israel's high pressure legislative elections, the explosive and provocative charge of \"treason\" is being thrown around. Former Israeli Finance Minister Avigdor Liberman on Monday called for Prime Minister Benjam",
-    "ss": "Seçim Arifesinde İsrail Muhalefeti, Netanyahu'nun Vatana İhanet Soruşturmasıyla Karşı Karşıya Kalması Gerektiğini Söyledi İsrail'de yoğun baskı altındaki parlamento seçimleri arifesinde, patlayıcı ve provokatif \"ihanet\" suçlaması ortalıkta dolaşıyor. Eski İsrail Maliye Bakanı Avigdor Liberman Pazartesi günü Başbakan Benjam'ı aradı",
-    "u": "https://www.zerohedge.com/geopolitical/election-eve-israeli-opposition-says-netanyahu-must-face-treason-probe",
-    "ts": 1793068500000,
-    "tags": []
-   },
-   {
-    "t": "Ninth Circuit Upholds Block On Trump's Federalization Of California National Guard, Rejecting \"Rebellion\" Claim",
-    "tt": "Dokuzuncu Daire, Trump'ın Kaliforniya Ulusal Muhafızlarını Federalleştirmesine Yönelik Engellemeyi Onayarak \"İsyan\" İddiasını Reddetti",
-    "s": "Ninth Circuit Upholds Block On Trump's Federalization Of California National Guard, Rejecting \"Rebellion\" Claim The U.S. 9th Circuit Court of Appeals on October 23 affirmed a district court order blocking President Donald Trump's June 2025 federalization of 4,000 California National Guard troops for",
-    "ss": "Dokuzuncu Daire, Trump'ın Kaliforniya Ulusal Muhafızlarını Federalleştirmesine Yönelik Engellemeyi Onaylayarak \"İsyan\" İddiasını Reddetti ABD 9. Daire Temyiz Mahkemesi 23 Ekim'de, Başkan Donald Trump'ın Haziran 2025'te 4.000 Kaliforniya Ulusal Muhafız askerini federalleştirmesini engelleyen bölge mahkemesi kararını onayladı.",
-    "u": "https://www.zerohedge.com/political/ninth-circuit-upholds-block-trumps-federalization-california-national-guard-rejecting",
-    "ts": 1793067000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Euro Bölgesi'nde kredi koşulları sıkılaşıyor",
+    "tt": null,
+    "s": "Euro Bölgesi bankaları üçüncü çeyrekte kredi koşullarını sıkılaştırırken, kredilere olan talebin azaldığı bildirildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/euro-bolgesi-nde-kredi-kosullari-sikilasiyor-3792661",
+    "ts": 1793097403000,
+    "tags": []
+   },
    {
     "t": "Alman otomotivinde kâr krizi: Sıra sıra düşürüyorlar",
     "tt": null,
@@ -836,15 +839,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/chiquita-muz-fiyatlarinin-yukselmesini-bekliyor-3792649",
     "ts": 1793088850000,
-    "tags": []
-   },
-   {
-    "t": "Fransa'da tüketici güveni protestolarla 13 yılın dibinde",
-    "tt": null,
-    "s": "Fransa'da tüketici güveni, hanehalkının tahvil piyasasındaki satış dalgasından, şiddet olaylarına dönüşen protestolara kadar pek çok şokla karşı karşıya kalması sonucunda Ekim ayında son 13 yılın en düşük seviyesine geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fransada-tuketici-guveni-protestolarla-13-yilin-dibinde-3792647",
-    "ts": 1793087689000,
     "tags": []
    }
   ]
