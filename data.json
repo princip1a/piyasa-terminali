@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-27T18:15:41.687958+00:00",
+ "generated": "2026-10-27T18:58:52.613628+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7719.7,
-   "c": 0.56,
-   "d": 42.93,
+   "p": 7719.34,
+   "c": 0.55,
+   "d": 42.57,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26463.688,
-   "c": 1.12,
-   "d": 294.307,
+   "p": 26478.514,
+   "c": 1.18,
+   "d": 309.133,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52375.58,
-   "c": 0.03,
-   "d": 14.002,
+   "p": 52365.02,
+   "c": 0.01,
+   "d": 3.442,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.73,
-   "c": -3.59,
-   "d": -0.66,
+   "p": 17.75,
+   "c": -3.48,
+   "d": -0.64,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4071.7,
-   "c": 0.82,
-   "d": 33.3,
+   "p": 4069.3,
+   "c": 0.77,
+   "d": 30.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.39,
-   "c": 0.52,
-   "d": 0.282,
+   "p": 54.295,
+   "c": 0.35,
+   "d": 0.187,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 99.86,
-   "c": -1.87,
-   "d": -1.9,
+   "p": 99.95,
+   "c": -1.78,
+   "d": -1.81,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 109.43,
-   "c": -5.51,
-   "d": -6.38,
+   "p": 109.49,
+   "c": -5.46,
+   "d": -6.32,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.318,
-   "c": 0.35,
-   "d": 0.358,
+   "p": 102.307,
+   "c": 0.34,
+   "d": 0.347,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.7823,
+   "p": 49.7831,
    "c": 0.09,
-   "d": 0.043,
+   "d": 0.044,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80490,
-   "c": 0.38,
+   "p": 80541,
+   "c": 0.74,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2343.0,
-   "c": 0.88,
+   "p": 2341.28,
+   "c": 1.22,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.66,
-   "c": -0.46,
+   "p": 100.83,
+   "c": 0.43,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.32,
-   "c": 1.5,
+   "c": 2.29,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 748.37,
-   "c": 0.6,
+   "p": 748.81,
+   "c": 0.9,
    "k": "usd"
   }
  ],
@@ -384,21 +384,48 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Rise in Run-Up to Tech Results as Oil Falls: Markets Wrap",
+    "tt": "Nasdaq, Teknoloji Kazançlarından Önce Yapay Zeka Bahislerinden 100 Kazanç Kazandı: Piyasa Özeti",
+    "s": "A rally in technology companies lifted stocks ahead of results from industry giants valued at more than $10 trillion, with traders also bracing for the Federal Reserve rate decision.",
+    "ss": "Teknoloji şirketlerindeki yükseliş, endüstri devlerinin değeri 10 trilyon doları aşan sonuçları öncesinde hisse senetlerini yükseltirken, tüccarlar da Fed'in faiz kararına hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793052236000,
+    "tags": []
+   },
+   {
+    "t": "DoorDash Is Said to Near $17B Takeover of Instacart",
+    "tt": null,
+    "s": "Bloomberg's Ryan Gould joins Scarlet Fu on \"Bloomberg Deals.\" DoorDash is in advanced talks to acquire Instacart parent Maplebear for roughly $17 billion, according to people familiar with the matter. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/doordash-is-said-to-near-17b-takeover-of-instacart-video",
+    "ts": 1793127603000,
+    "tags": []
+   },
+   {
+    "t": "Bloomberg Professional Services Spotlight on ASKB",
+    "tt": null,
+    "s": "Bloomberg Client Relationship Manager Yvonne Do highlights ASKB as part of Bloomberg Professional Services Spotlight at Bloomberg Invest Dallas 2026. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-professional-services-spotlight-on-askb-video",
+    "ts": 1793127420000,
+    "tags": []
+   },
+   {
+    "t": "Novogratz Says Credit Market Is Reaching ‘Peak Nervousness’",
+    "tt": null,
+    "s": "Michael Novogratz, the billionaire founder and CEO of the crypto financial services conglomerate and artificial intelligence data-center provider Galaxy Digital Inc., said the anxiety in global credit markets over AI spending is on the verge of easing.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/novogratz-s-galaxy-tops-revenue-estimates-shares-rise",
+    "ts": 1793101050000,
+    "tags": []
+   },
+   {
     "t": "Rules for Investing in Teams Are Evolving, Says Arctos CEO Charles",
     "tt": "Arctos CEO'su Charles, Ekiplere Yatırım Yapmanın Kurallarının Geliştiğini Söyledi",
     "s": "Arctos Chief Executive Officer Ian Charles says the rules for investing in premium professional sports franchises are evolving. He speaks to Dani Burger at Bloomberg Invest Dallas. (Source: Bloomberg)",
     "ss": "Arctos İcra Kurulu Başkanı Ian Charles, birinci sınıf profesyonel spor franchise'larına yatırım yapma kurallarının değiştiğini söylüyor. Bloomberg Invest Dallas'tan Dani Burger ile konuşuyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-10-27/rules-for-investing-in-teams-are-evolving-ian-charles-video",
     "ts": 1793124463000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq 100 Gains on AI Wagers Before Tech Earnings: Markets Wrap",
-    "tt": "Nasdaq, Teknoloji Kazançlarından Önce Yapay Zeka Bahislerinden 100 Kazanç Kazandı: Piyasa Özeti",
-    "s": "A rally in technology companies lifted stocks ahead of results from industry giants valued at more than $10 trillion, with traders also bracing for the Federal Reserve rate decision.",
-    "ss": "Teknoloji şirketlerindeki yükseliş, endüstri devlerinin değeri 10 trilyon doları aşan sonuçları öncesinde hisse senetlerini yükseltirken, tüccarlar da Fed'in faiz kararına hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793052236000,
     "tags": []
    },
    {
@@ -444,33 +471,6 @@
     "ss": "Hesaplamanın başka bir kullanımı.",
     "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/a-visit-to-the-ai-model-retirement-home",
     "ts": 1793120681000,
-    "tags": []
-   },
-   {
-    "t": "Millennium Taps Prediction Markets Data for Trading Edge",
-    "tt": "Millenium, Ticaret Avantajı İçin Tahmin Piyasası Verilerini Kullanıyor",
-    "s": "Millennium Management is exploring ways to use prediction markets to inform its trading strategies, joining a growing roster of Wall Street firms dipping their toes into the space.",
-    "ss": "Millennium Management, ticaret stratejilerini bilgilendirmek için tahmin piyasalarını kullanmanın yollarını araştırıyor ve bu alana ayak basan giderek büyüyen Wall Street firmaları listesine katılıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/millennium-taps-prediction-markets-data-in-hunt-for-trading-edge",
-    "ts": 1793115960000,
-    "tags": []
-   },
-   {
-    "t": "‘Loser’ Stocks Are Appealing Amid AI Frenzy, Causeway CEO Says",
-    "tt": "Causeway CEO'su, 'Kaybeden' Hisse Senetlerinin Yapay Zeka Çılgınlığı Ortasında İlgi Çektiğini Söyledi",
-    "s": "Investors should look beyond the biggest winners in the AI boom and bet on overlooked stocks, according to Causeway Capital Management Chief Executive Officer Sarah Ketterer.",
-    "ss": "Causeway Capital Management İcra Kurulu Başkanı Sarah Ketterer'e göre yatırımcılar, yapay zeka patlamasında en büyük kazananların ötesine bakmalı ve gözden kaçırılan hisse senetlerine bahis yapmalı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/-loser-stocks-are-appealing-amid-ai-frenzy-causeway-ceo-says",
-    "ts": 1793120408000,
-    "tags": []
-   },
-   {
-    "t": "Scotiabank Plans SRT Transaction Tied to $2 Billion of Loans",
-    "tt": "Scotiabank, SRT İşleminin 2 Milyar Dolarlık Krediye Bağlanmasını Planlıyor",
-    "s": "Bank of Nova Scotia is working on a significant risk transfer tied to around $2 billion of loans, joining a growing list of lenders looking to take advantage of strong demand to wrap up deals before year-end.",
-    "ss": "Bank of Nova Scotia, yaklaşık 2 milyar dolarlık krediye bağlı önemli bir risk transferi üzerinde çalışıyor ve anlaşmaları yıl sonundan önce tamamlamak için güçlü talepten yararlanmak isteyen giderek büyüyen kredi verenler listesine katılıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/scotiabank-plans-srt-transaction-tied-to-2-billion-of-loans",
-    "ts": 1793120248000,
     "tags": []
    }
   ],
@@ -568,6 +568,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "tt": null,
+    "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "ts": 1793127600000,
+    "tags": []
+   },
+   {
+    "t": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    "tt": null,
+    "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+    "ts": 1793126700000,
+    "tags": []
+   },
+   {
     "t": "The big reason Boeing’s stock is falling so hard after earnings",
     "tt": "Boeing'in hisselerinin kazançlardan sonra bu kadar sert düşmesinin en büyük nedeni",
     "s": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
@@ -638,27 +656,27 @@
     "u": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
     "ts": 1793114820000,
     "tags": []
-   },
-   {
-    "t": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-    "tt": "Silikon Vadisi'nin önde gelen amigo kızlarından biri, yapay zeka balonu hakkında endişelenmek için gereken tüm nedenleri gösterdi",
-    "s": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
-    "ss": "Borsayı şişiren balon hakkında endişelenmek için başka bir nedene ihtiyacınız varsa, başka yere bakmayın.",
-    "u": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-    "ts": 1793114700000,
-    "tags": []
-   },
-   {
-    "t": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-    "tt": "Emeklilikte garantili, enflasyona dayanıklı gelir yaratmak için i-tahviller nasıl kullanılır?",
-    "s": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
-    "ss": "Yeni tahvil faiz oranı %5,5 veya %5,4 olabilir ancak bu stratejinizi değiştirmemeli.",
-    "u": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-    "ts": 1793114700000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Pentagon's Latest UFO Release: Observers Describe Silent Black Triangle Moving At 1,800 MPH Over Redacted Western US Site",
+    "tt": null,
+    "s": "Pentagon's Latest UFO Release: Observers Describe Silent Black Triangle Moving At 1,800 MPH Over Redacted Western US Site Two senior military observers say they watched a black triangular object fly at extraordinary speed over a sensitive site in the western US earlier this year, according to the ne",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/pentagons-latest-ufo-release-observers-describe-silent-black-triangle-moving-1800-mph",
+    "ts": 1793127600000,
+    "tags": []
+   },
+   {
+    "t": "Alaska Officials Urge Court To Toss Trump Administration's Vote-Counting Lawsuit",
+    "tt": null,
+    "s": "Alaska Officials Urge Court To Toss Trump Administration's Vote-Counting Lawsuit Authored by Zachary Stieber via The Epoch Times , Officials in Alaska urged a federal court to throw out a legal complaint lodged by the Trump administration that pre-challenges the results of an election for a U.S. Sen",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/alaska-officials-urge-court-toss-trump-administrations-vote-counting-lawsuit",
+    "ts": 1793126700000,
+    "tags": []
+   },
    {
     "t": "Trump Offers $1 Million For Voter-Fraud Tips A Week Before The Midterms",
     "tt": "Trump, Ara Sınavlardan Bir Hafta Önce Seçmen Sahtekarlığı İpuçları İçin 1 Milyon Dolar Teklif Ediyor",
@@ -730,27 +748,27 @@
     "u": "https://www.zerohedge.com/political/house-republicans-subpoena-new-jersey-over-6600-noncitizen-voter-registrations",
     "ts": 1793120400000,
     "tags": []
-   },
-   {
-    "t": "Trump Answers Obama's \"Cheesecake Factory\" White House Jab: \"That Just Shows Why You Were A Lousy President\"",
-    "tt": "Trump, Obama'nın Beyaz Saray'daki \"Cheesecake Fabrikası\" İfadesine Yanıt Verdi: \"Bu, Neden Berbat Bir Başkan Olduğunu Gösteriyor\"",
-    "s": "Trump Answers Obama's \"Cheesecake Factory\" White House Jab: \"That Just Shows Why You Were A Lousy President\" President Trump on Monday answered Barack Obama's weekend jab that the renovated White House looks like a Cheesecake Factory , telling reporters at Joint Base Andrews before a campaign trip t",
-    "ss": "Trump, Obama'nın Beyaz Saray'daki \"Cheesecake Fabrikası\" Sözüne Yanıt Verdi: \"Bu, Neden Berbat Bir Başkan Olduğunu Gösteriyor\" Pazartesi günü Başkan Trump, Barack Obama'nın yenilenen Beyaz Saray'ın bir Cheesecake Fabrikası'na benzediği yönündeki hafta sonu iğnelemesine yanıt verdi ve bir kampanya gezisi öncesinde Andrews Ortak Üssü'nde gazetecilere şunları söyledi:",
-    "u": "https://www.zerohedge.com/markets/trump-answers-obamas-cheesecake-factory-white-house-jab-just-shows-why-you-were-lousy",
-    "ts": 1793119500000,
-    "tags": []
-   },
-   {
-    "t": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-    "tt": "İran Savaşı, Trump'ın Ortalama Benzin Fiyatını Biden'ın Üstüne Çıkardı",
-    "s": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's Authored by Charles Kennedy via OilPrice , The average price Americans have paid for gasoline during President Donald Trump's second term has now surpassed the average recorded during Joe Biden's presidency , marking a politically signifi",
-    "ss": "İran Savaşı, Trump'ın Ortalama Benzin Fiyatını Biden'ın Üstüne Çıkarıyor Charles Kennedy tarafından OilPrice aracılığıyla yazılmıştır, Başkan Donald Trump'ın ikinci döneminde Amerikalıların benzin için ödediği ortalama fiyat, artık Joe Biden'ın başkanlığı sırasında kaydedilen ortalamayı aştı ve bu da siyasi açıdan anlamlı bir gelişmeye işaret ediyor.",
-    "u": "https://www.zerohedge.com/personal-finance/iran-war-pushes-trumps-average-gasoline-prices-above-bidens",
-    "ts": 1793117700000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Fon soruşturmasında 4 şüpheli hakimliğe sevk edildi",
+    "tt": null,
+    "s": "Sermaye piyasalarına yönelik yürütülen fon soruşturmasında gözaltına alınan 4 şüpheliden 2'si tutuklama talebiyle hakimliğe sevk edildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fon-sorusturmasinda-4-supheli-hakimlige-sevk-edildi-3792703",
+    "ts": 1793126034000,
+    "tags": []
+   },
+   {
+    "t": "SPK, Tera Yatırım'ın faaliyet izinlerini iptal etti",
+    "tt": null,
+    "s": "SPK, Tera Yatırım Menkul Değerler'in tüm faaliyet izinlerinin ve yetki belgesinin iptaline, yatırımcılarının tazminine ve aracı kurumun tedrici tasfiyesine karar verdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/spk-tera-yatirim-in-faaliyet-izinlerini-iptal-etti-3792702",
+    "ts": 1793125220000,
+    "tags": []
+   },
    {
     "t": "UAEA'dan İran'ın zenginleştirilmiş uranyum stoklarına ilişkin açıklama",
     "tt": null,
@@ -822,24 +840,6 @@
     "u": "https://www.bloomberght.com/abdde-tuketici-guveni-4-ayda-ilk-kez-yukseldi-konut-satislari-dustu-3792689",
     "ts": 1793110969000,
     "tags": []
-   },
-   {
-    "t": "Google Cloud Day Türkiye 2026'da ajan tabanlı yapay zeka öne çıktı",
-    "tt": null,
-    "s": "Google Cloud, Wyndham Grand İstanbul Levent'te düzenlenen Google Cloud Day Türkiye 2026 etkinliğinde ajan tabanlı yapay zekanın uygulamaya geçirilmesine yönelik dönüşümü ele almak üzere iş dünyasının liderlerini, yazılım geliştiricileri ve kamudan karar vericileri kapsayan 800'ün üzerinde katılımcıy",
-    "ss": null,
-    "u": "https://www.bloomberght.com/google-cloud-day-turkiye-2026da-ajan-tabanli-yapay-zeka-one-cikti-3792688",
-    "ts": 1793110401000,
-    "tags": []
-   },
-   {
-    "t": "Bloomberg HT'nin Ekim ayı enflasyon anketi açıklandı",
-    "tt": null,
-    "s": "Bloomberg HT'nin Ekim ayına ilişkin düzenlediği enflasyon anketi sonuçlandı. Ankete katılan 16 kurumun medyan beklentisi enflasyonun aylık yüzde 2,42, yıllık yüzde 29,59 seviyesinde gerçekleşmesi yönünde.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bloomberg-ht-nin-ekim-ayi-enflasyon-anketi-aciklandi-3792687",
-    "ts": 1793110149000,
-    "tags": []
    }
   ]
  },
@@ -855,6 +855,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
