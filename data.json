@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T09:28:02.829042+00:00",
+ "generated": "2026-10-27T10:15:54.576775+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.24,
-   "c": -0.82,
-   "d": -0.15,
+   "p": 18.21,
+   "c": -0.98,
+   "d": -0.18,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4007.2,
-   "c": -0.77,
-   "d": -31.2,
+   "p": 4013.0,
+   "c": -0.63,
+   "d": -25.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.035,
-   "c": -1.98,
-   "d": -1.073,
+   "p": 53.355,
+   "c": -1.39,
+   "d": -0.753,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.11,
-   "c": 0.34,
-   "d": 0.35,
+   "p": 101.91,
+   "c": 0.15,
+   "d": 0.15,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.34,
-   "c": -3.86,
-   "d": -4.47,
+   "p": 111.0,
+   "c": -4.15,
+   "d": -4.81,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.238,
-   "c": 0.27,
-   "d": 0.278,
+   "p": 102.244,
+   "c": 0.28,
+   "d": 0.284,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.7844,
+   "p": 49.7842,
    "c": 0.09,
-   "d": 0.046,
+   "d": 0.045,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11175.96,
-   "c": 0.21,
-   "d": 23.96,
+   "p": 11151.1,
+   "c": -0.01,
+   "d": -0.9,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 79611,
-   "c": -0.99,
+   "p": 79454,
+   "c": -1.12,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2308.73,
-   "c": -0.93,
+   "p": 2298.01,
+   "c": -1.32,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 99.67,
-   "c": -1.64,
+   "p": 99.2,
+   "c": -2.15,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.3,
-   "c": 0.72,
+   "p": 1.29,
+   "c": 0.19,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 735.49,
-   "c": -0.43,
+   "p": 733.63,
+   "c": -0.62,
    "k": "usd"
   }
  ],
@@ -384,6 +384,66 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "JPMorgan’s Michele Sees 7%-8% US Bond Return Over 12 Months",
+    "tt": "JPMorgan'dan Michele, 12 Ayda ABD Tahvilinin %7-%8 ​​Getirisini Görüyor",
+    "s": "The US bond market could return around 7% to 8% over the next 12 months, according to JPMorgan Asset Management’s Bob Michele.",
+    "ss": "JPMorgan Asset Management'tan Bob Michele'e göre ABD tahvil piyasası önümüzdeki 12 ay içinde %7 ila %8 civarında bir getiri elde edebilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/jpmorgan-asset-management-bob-michele-us-bonds-treasury-fed",
+    "ts": 1793071515000,
+    "tags": []
+   },
+   {
+    "t": "Le Pen’s Rise Spurs Rush for French Renewable Contracts",
+    "tt": "Le Pen'in Yükselişi Fransa'daki Yenilenebilir Enerji Kontratlarına Hız Verdi",
+    "s": "French renewable developers are rushing to lock in state-backed contracts before next year’s presidential election, fearing a halt to new projects under a Marine Le Pen government.",
+    "ss": "Fransız yenilenebilir enerji geliştiricileri, Marine Le Pen hükümeti altındaki yeni projelerin durmasından korktukları için gelecek yıl yapılacak başkanlık seçimlerinden önce devlet destekli sözleşmelere bağlanmak için acele ediyorlar.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/le-pen-s-rise-spurs-rush-for-french-renewable-contracts",
+    "ts": 1793081700000,
+    "tags": []
+   },
+   {
+    "t": "India’s Green Aviation Push Gives Waste Cooking Oil New Life",
+    "tt": "Hindistan'ın Yeşil Havacılık Hamlesi Atık Yemeklik Yağa Yeni Bir Hayat Veriyor",
+    "s": "India is looking to used cooking oil to help fuel its green aviation ambition and reduce reliance on imported crude. But an inefficient and fragmented supply chain could pose a challenge as the country prepares to introduce its Sustainable Aviation Fuel mandate. (Source: Bloomberg)",
+    "ss": "Hindistan, yeşil havacılık tutkusunu beslemek ve ithal ham petrole olan bağımlılığı azaltmak için yemeklik yağ kullanmayı düşünüyor. Ancak ülke Sürdürülebilir Havacılık Yakıtı talimatını uygulamaya hazırlanırken, verimsiz ve parçalanmış bir tedarik zinciri zorluk teşkil edebilir. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/india-s-green-aviation-push-gives-waste-cooking-oil-new-life",
+    "ts": 1793094967000,
+    "tags": []
+   },
+   {
+    "t": "Iran Says It Will Take Action Against Sinokor Ships in Hormuz",
+    "tt": "İran, Hürmüz'deki Sinokor Gemilerine Karşı Harekete Geçeceğini Açıkladı",
+    "s": "Iran’s Persian Gulf Strait Authority said it would take “legal action” against tankers belonging to Sinokor, the world’s biggest oil tanker owner that has carried millions of barrels out of the Strait of Hormuz in recent weeks.",
+    "ss": "İran'ın Basra Körfezi Boğazı İdaresi, son haftalarda Hürmüz Boğazı'ndan milyonlarca varil taşıyan dünyanın en büyük petrol tankeri sahibi Sinokor'a ait tankerlere karşı \"yasal işlem\" başlatacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/iran-says-it-will-take-action-against-sinokor-ships-in-hormuz",
+    "ts": 1793094496000,
+    "tags": []
+   },
+   {
+    "t": "Bond Market Gives Initial Nod to Serbia’s Untested Ballot Winner",
+    "tt": "Tahvil Piyasası, Sırbistan'ın Test Edilmemiş Oylama Kazananına İlk Onayını Verdi",
+    "s": "Fixed-income investors are giving the benefit of the doubt to an opaque protest force which won power in Serbia on a pledge to root out corruption and strengthen democratic standards.",
+    "ss": "Sabit gelirli yatırımcılar, Sırbistan'da yolsuzluğun kökünü kazıma ve demokratik standartları güçlendirme vaadiyle iktidara gelen şeffaf olmayan protesto gücüne şüpheden yararlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/bond-market-gives-initial-nod-to-serbia-s-untested-ballot-winner",
+    "ts": 1793094449000,
+    "tags": []
+   },
+   {
+    "t": "Indonesia Bond Yield Hits Four-Year High as MSCI Risk, Oil Weigh",
+    "tt": "Endonezya Tahvili Getirisi, MSCI Riski ve Petrolün Ağırlığıyla Dört Yılın En Yüksek Seviyesine Ulaştı",
+    "s": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah weakened toward a record low as elevated oil prices and MSCI Inc.’s threat of a stocks downgrade hurt investor sentiment.",
+    "ss": "Endonezya'nın 10 yıllık devlet tahvili getirisi, artan petrol fiyatları ve MSCI Inc.'in hisse senedi notunu düşürme tehdidinin yatırımcı güvenini olumsuz etkilemesiyle dört yılın en yüksek seviyesine çıktı ve rupiah rekor düşük seviyelere doğru zayıfladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-10-year-yield-at-four-year-high-on-msci-risk-oil",
+    "ts": 1793083958000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Universal Music Discussed Going Private With Buyout Firms",
     "tt": "Universal Music, Satın Alma Firmalarıyla Özelleşmeyi Tartıştı",
     "s": "Universal Music Group, the world’s largest record company, has discussed going private with a few prominent Wall Street firms, according to people familiar with the matter.",
@@ -402,77 +462,21 @@
     "tags": []
    },
    {
+    "t": "Malaysian Palm Oil Glut Swamps Storage in Top-Producing State",
+    "tt": "Malezya Palmiye Yağı Bolluğu En Çok Üretilen Eyalette Bataklık Depoluyor",
+    "s": "Malaysia’s swelling palm oil inventories are straining storage capacity in the country’s top-producing state, as a bumper harvest piles pressure on the government to clear excess supplies.",
+    "ss": "Malezya'nın artan palm yağı stokları, ülkenin en çok üretim yapan eyaletindeki depolama kapasitesini zorluyor; çünkü bereketli bir hasat, fazla arzın temizlenmesi için hükümet üzerinde baskı oluşturuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/malaysian-palm-oil-glut-swamps-storage-in-top-producing-state",
+    "ts": 1793092239000,
+    "tags": []
+   },
+   {
     "t": "US Futures Waver as AI Optimism Wanes Before Fed: Markets Wrap",
     "tt": "ABD Vadeli İşlemleri, Fed Öncesi Yapay Zeka İyimserliğinin Azalmasıyla Dalgalanıyor: Piyasalar Sarıldı",
     "s": "The burst of enthusiasm for the artificial intelligence trade that followed Anthropic PBC’s filing for an initial public offering lost some momentum on Tuesday, with US equity futures stalling as traders turned their attention back to a busy earnings slate, the upcoming Federal Reserve policy decisi",
     "ss": "Anthropic PBC'nin ilk halka arz başvurusunu takiben yapay zeka ticaretine yönelik coşku patlaması Salı günü bir miktar ivme kaybetti; yatırımcıların dikkatlerini tekrar yoğun bir kazanç listesine çevirmesiyle ABD hisse senedi vadeli işlemleri durdu.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
     "ts": 1793052236000,
-    "tags": []
-   },
-   {
-    "t": "Chinese Stocks’ Final-Hour Slide Shows Reliance on National Team",
-    "tt": "Çin Hisse Senetlerinin Son Saat Slayt Gösterisi Milli Takıma Güveni Gösteriyor",
-    "s": "Chinese stocks extended their slide in the final hour of trading as investors disappointed by a lack of national team buying dumped shares.",
-    "ss": "Çin hisse senetleri, yatırımcıların milli takımın terk edilmiş hisse satın almaması nedeniyle hayal kırıklığına uğramasıyla son işlem saatinde düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/chinese-stocks-final-hour-slide-shows-reliance-on-national-team",
-    "ts": 1793091371000,
-    "tags": []
-   },
-   {
-    "t": "Amundi Says ‘Worst Is Behind Us’ as Gold Flirts With $4,000",
-    "tt": "Amundi, Altın 4.000 Dolarla Flört Ederken \"En Kötüsü Arkamızda\" Dedi",
-    "s": "Amundi SA, Europe’s largest asset manager, expects a recovery in the gold price to around $4,500 an ounce following a selloff that dragged the metal to a three-month low.",
-    "ss": "Avrupa'nın en büyük varlık yöneticisi Amundi SA, altın fiyatının, metali üç ayın en düşük seviyesine sürükleyen satış dalgasının ardından ons başına 4.500 dolar civarına toparlanmasını bekliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/amundi-says-worst-is-behind-us-as-gold-flirts-with-4-000",
-    "ts": 1793091288000,
-    "tags": [
-     "Altın ▼"
-    ]
-   },
-   {
-    "t": "This Paint Can Keep Your House Cooler",
-    "tt": "Bu Boya Evinizi Daha Serin Tutabilir",
-    "s": "Something as simple as paint might be the solution to keeping your house up to 20 degrees cooler, says Bloomberg Opinion columnist Lara Williams. (Source: Bloomberg)",
-    "ss": "Bloomberg Opinion yazarı Lara Williams, boya kadar basit bir şeyin evinizi 20 dereceye kadar daha serin tutmanın çözümü olabileceğini söylüyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/opinion-this-paint-can-keep-your-house-cooler-video",
-    "ts": 1793091204000,
-    "tags": []
-   },
-   {
-    "t": "Morocco Tops South Africa in RMB Continental Investment Ranking",
-    "tt": "Fas, RMB Continental Yatırım Sıralamasında Güney Afrika'da Birinci Sırada",
-    "s": "Morocco overtook South Africa to become the continent’s fourth-most attractive investment destination as years of industrialization and faster growth propelled it ahead of the region’s biggest economy, FirstRand Ltd.’s Rand Merchant Bank said.",
-    "ss": "FirstRand Ltd.'den Rand Merchant Bank, Fas'ın, yıllar süren sanayileşme ve daha hızlı büyümenin onu bölgenin en büyük ekonomisinin önüne geçirmesiyle Güney Afrika'yı geride bırakarak kıtanın dördüncü en cazip yatırım destinasyonu haline geldiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/morocco-tops-south-africa-in-rmb-continental-investment-ranking",
-    "ts": 1793090955000,
-    "tags": []
-   },
-   {
-    "t": "Saudi Arabia’s Houthi Battle Shifts Fears to Non-Oil Economy",
-    "tt": "Suudi Arabistan'ın Husi Savaşı Korkuları Petrol Dışı Ekonomiye Kaydırdı",
-    "s": "Saudi Arabia’s oil industry managed to ride out concerns in the early days of the Iran war and keep exports flowing. Now, with the Houthis staging deadly attacks on the kingdom and signs of disruption stacking up, the worry has shifted to the rest of the economy.",
-    "ss": "Suudi Arabistan'ın petrol endüstrisi, İran savaşının ilk günlerindeki endişeleri gidermeyi ve ihracat akışını sürdürmeyi başardı. Şimdi Husilerin krallığa ölümcül saldırılar düzenlemesi ve aksaklık belirtilerinin artmasıyla birlikte endişe ekonominin geri kalanına kaydı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/saudi-arabia-s-houthi-challenge-shifts-fears-to-non-oil-economy",
-    "ts": 1793027838000,
-    "tags": []
-   },
-   {
-    "t": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-    "tt": "Pop Mart'ın Üçüncü Çeyrek Satışları, Labubu Fad'ın Soğumasıyla %50'ye Kadar Düştü",
-    "s": "Pop Mart International Group Ltd. reported a decline in third-quarter sales from a year earlier, hurt by fading Labubu momentum and a tough base of comparison following last year’s blockbuster results.",
-    "ss": "Pop Mart International Group Ltd., Labubu ivmesinin azalması ve geçen yılın gişe rekorları kıran sonuçlarının ardından gelen zorlu karşılaştırma temeli nedeniyle üçüncü çeyrek satışlarında bir önceki yıla göre düşüş bildirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
-    "ts": 1793090520000,
-    "tags": []
-   },
-   {
-    "t": "Adnoc Drilling CFO: Deals Continue Despite Conflict",
-    "tt": "Adnoc Drilling CFO'su: Anlaşmalar Çatışmalara Rağmen Devam Ediyor",
-    "s": "Adnoc Drilling has reported 3Q results, with revenue at $1.25 billion and profit at $366.3 million largely unchanged from a year ago. Youssef Salem, CFO at Adnoc Drilling spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa. (Source: Bloomberg)",
-    "ss": "Adnoc Drilling, 3. çeyrek sonuçlarını açıkladı; geliri 1,25 milyar dolar, kârı ise bir önceki yıla göre büyük oranda değişmeden 366,3 milyon dolar oldu. Adnoc Drilling CFO'su Youssef Salem, Horizons Orta Doğu ve Afrika konusunda Bloomberg'den Abeer Abu Omar ile konuştu. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/adnoc-drilling-cfo-deals-continue-despite-conflict-video",
-    "ts": 1793089476000,
     "tags": []
    }
   ],
@@ -497,9 +501,9 @@
    },
    {
     "t": "The world’s finance chiefs see new risks — and less China angst",
-    "tt": null,
+    "tt": "Dünyanın finans şefleri yeni riskler görüyor ve Çin'deki endişe azalıyor",
     "s": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-    "ss": null,
+    "ss": "Bangkok'taki IMF-Dünya Bankası toplantılarında borç, yapay zeka ve Ukrayna sohbete yön verirken, 2018'de odak noktası olan Çin arka planda kaldı.",
     "u": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
     "ts": 1792474073000,
     "tags": []
@@ -569,6 +573,24 @@
    }
   ],
   "MarketWatch": [
+   {
+    "t": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    "tt": "İstismarcı eski kocam çocuklarımızın eğitimi için 20.000 dolar sözü verdi. Şimdi ödemeyi reddediyor. Yasal olarak yükümlü mü?",
+    "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+    "ss": "\"Boşanmadan önce eski kayınvalidem, kızlarımızın her biri adına yatırım yapması için ona 20.000 dolar emanet etti.\"",
+    "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+    "ts": 1793096100000,
+    "tags": []
+   },
+   {
+    "t": "Customers are chasing higher-rate products, and that’s bad news for banks like HSBC",
+    "tt": "Müşteriler daha yüksek oranlı ürünleri kovalıyor ve bu HSBC gibi bankalar için kötü haber",
+    "s": "Shares of banking giant HSBC Holdings fell as much as 7% on Tuesday as the lender revealed that customers are increasingly turning to higher-rate products.",
+    "ss": "Bankacılık devi HSBC Holdings'in hisseleri, bankanın müşterilerin giderek daha yüksek oranlı ürünlere yöneldiğini açıklamasının ardından Salı günü yüzde 7'ye kadar düştü.",
+    "u": "https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories",
+    "ts": 1793095320000,
+    "tags": []
+   },
    {
     "t": "Designer Betsey Johnson takes $7 million SoCal home off the market",
     "tt": "Tasarımcı Betsey Johnson 7 milyon dolarlık SoCal'ı piyasadan çekti",
@@ -640,27 +662,18 @@
     "u": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
     "ts": 1793051700000,
     "tags": []
-   },
-   {
-    "t": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-    "tt": "Analistler, olası bir DoorDash-Instacart anlaşmasının tamamen Walmart ve Amazon'a ayak uydurmakla ilgili olduğunu söylüyor",
-    "s": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion",
-    "ss": "Wall Street Journal, DoorDash'in Instacart'ı kabaca 17 milyar dolar değerinde olacak bir anlaşmayla satın almak için \"ileri görüşmelerde\" olduğunu bildiriyor",
-    "u": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-    "ts": 1793051160000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-    "tt": "Nvidia, AMD ve Broadcom, 35 milyar dolarlık hisse senedi teklifinin parçası olarak Meta hisselerini satın alabilir",
-    "s": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-    "ss": "Meta, gelecek yılın başlarına kadar uzanan hisse senedi anlaşmaları yoluyla toplam 95 milyar dolar toplamayı planlıyor.",
-    "u": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-    "ts": 1793051040000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "MAGA At UN? Trump Admin Floats Viktor Orban For Secretary-General",
+    "tt": "MAGA BM'de mi? Trump Yönetimi Genel Sekreterlik görevine Viktor Orban'ı aday gösterdi",
+    "s": "MAGA At UN? Trump Admin Floats Viktor Orban For Secretary-General Viktor Orbán as Secretary-General of the United Nations?&nbsp; The proposal was featured in an unexpected weekend Wall Street Journal headline.&nbsp;The publication reports that Trump administration officials are floating the former H",
+    "ss": "MAGA BM'de mi? Trump Yönetimi, Birleşmiş Milletler Genel Sekreteri olarak Genel Sekreter Viktor Orbán'a Viktor Orban'ı Aday Gösterdi mi?  Teklif beklenmedik bir hafta sonu Wall Street Journal manşetinde yer aldı. Yayın, Trump yönetimi yetkililerinin eski H'yi yüzdürdüğünü bildiriyor",
+    "u": "https://www.zerohedge.com/political/maga-un-trump-admin-floats-viktor-orban-secretary-general",
+    "ts": 1793094300000,
+    "tags": []
+   },
    {
     "t": "Will Germany See Mass Riots On Halloween Night? 'France-Style' Protests Promoted Across Social Media",
     "tt": "Almanya Cadılar Bayramı Gecesinde Kitlesel Ayaklanmaları Görecek mi? Sosyal Medyada 'Fransa Tarzı' Protestolar Tanıtıldı",
@@ -741,18 +754,36 @@
     "u": "https://www.zerohedge.com/political/ninth-circuit-upholds-block-trumps-federalization-california-national-guard-rejecting",
     "ts": 1793067000000,
     "tags": []
-   },
-   {
-    "t": "Former Trump, Obama Advisers Jointly Urge Data Center Regulation Middle Ground",
-    "tt": "Eski Trump ve Obama Danışmanları Ortaklaşa Veri Merkezi Düzenlemesi İçin Orta Yol Çağrısında Bulundu",
-    "s": "Former Trump, Obama Advisers Jointly Urge Data Center Regulation Middle Ground Authored by Jeremy Lott via The Epoch Times , Former economic advisers from the Obama and Trump administrations have issued a roadmap for what they see as a way forward on future data center construction across America. D",
-    "ss": "Eski Trump ve Obama Danışmanları Ortaklaşa Veri Merkezi Düzenlemesi İçin Orta Zemin Çağrısında Bulundu Jeremy Lott tarafından The Epoch Times aracılığıyla, Obama ve Trump yönetimlerinin eski ekonomi danışmanları, Amerika çapında gelecekteki veri merkezi inşaatına yönelik ileriye dönük bir yol olarak gördükleri yol için bir yol haritası yayınladılar. D",
-    "u": "https://www.zerohedge.com/ai/former-trump-obama-advisers-jointly-urge-data-center-regulation-middle-ground",
-    "ts": 1793065500000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Alman otomotivinde kâr krizi: Sıra sıra düşürüyorlar",
+    "tt": null,
+    "s": "Mercedes-Benz Group AG, Çin'deki satışların gerilemesinin ardından rakipleri Volkswagen AG ve BMW AG'ye katılarak kâr beklentisini düşürdü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/alman-otomotivinde-kr-krizi-sira-sira-dusuruyorlar-3792659",
+    "ts": 1793095305000,
+    "tags": []
+   },
+   {
+    "t": "Bayraktar: Akkuyu santraline birkaç hafta içinde nükleer yükleme hedefliyoruz",
+    "tt": null,
+    "s": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Akkuyu nükleer santraline \"Önümüzdeki haftalarda yakıt yükleyerek fiziksel olarak devreye almayı hedefliyoruz\" dedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bayraktar-akkuyu-santraline-birkac-hafta-icinde-nukleer-yukleme-hedefliyoruz-3792658",
+    "ts": 1793094246000,
+    "tags": []
+   },
+   {
+    "t": "Çalışan bağlılığı dikkat çekti: Türkiye'de oran yüzde 8",
+    "tt": null,
+    "s": "PERYÖN'ün 34. İnsan Odağında Yönetim Kongresi'nde çalışma hayatının dönüşümü masaya yatırıldı. Yapay zekâdan liderliğe, gençlerin beklentilerinden kurum kültürüne uzanan gündemde, Gallup verilerine göre Türkiye'de çalışan bağlılığının yüzde 8'de kalması öne çıktı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/calisan-bagliligi-dikkat-cekti-turkiyede-oran-yuzde-8-3792657",
+    "ts": 1793093534000,
+    "tags": []
+   },
    {
     "t": "10 soruda \"tasfiye ve ödemelere ilişkin usul ve esaslar\"",
     "tt": null,
@@ -815,33 +846,6 @@
     "u": "https://www.bloomberght.com/fransada-tuketici-guveni-protestolarla-13-yilin-dibinde-3792647",
     "ts": 1793087689000,
     "tags": []
-   },
-   {
-    "t": "TÜSEDAD: Üretimden çekilme riski artıyor",
-    "tt": null,
-    "s": "TÜSEDAD, çiğ süt tavsiye fiyatının kasım ayında güncellenmesini talep etti. Sektöre ilişkin açıklamada, üreticinin satış fiyatı sabit kalırken maliyetlerin ve raf fiyatlarının arttığı belirtilerek, fiyat güncellemesindeki gecikmenin üretimden çekilme riskini artırdığı vurgulandı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tusedad-uretimden-cekilme-riski-artiyor-3792646",
-    "ts": 1793086474000,
-    "tags": []
-   },
-   {
-    "t": "İşsizlik yedi ayın zirvesinde",
-    "tt": null,
-    "s": "TÜİK verilerine göre işsizlik oranı Eylül'de 0,5 puan artarak yüzde 8,4 olurken, 15-24 yaş grubunu kapsayan genç nüfusta işsizlik oranı bir önceki aya göre 1,6 artarak yüzde 14,8 seviyesinde gerçekleşti. Veri Şubattan bu yana en yüksek seviye olarak kaydedildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/issizlik-yedi-ayin-zirvesinde-3792634",
-    "ts": 1793084266000,
-    "tags": []
-   },
-   {
-    "t": "İlk Evim Arsa Projesi'nde 2027 hedefi",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan 2027 Yılı Cumhurbaşkanlığı Yıllık Programı'na göre İlk Evim Arsa Projesi kapsamında 42 bin 100 hak sahibi için 2027 yılı içerisinde arsa tahsis sürecine geçilecek.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ilk-evim-arsa-projesi-nde-2027-hedefi-3792632",
-    "ts": 1793083028000,
-    "tags": []
    }
   ]
  },
@@ -857,7 +861,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "500 Server Error: Internal Server Error for url: https://translate.googleapis.com/translate_a/single",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
