@@ -1,1 +1,867 @@
-{"generated": null}
+{
+ "generated": "2026-10-27T08:44:28.665271+00:00",
+ "prices": [
+  {
+   "n": "S&P 500",
+   "p": 7676.77,
+   "c": 0.7,
+   "d": 53.09,
+   "k": "idx"
+  },
+  {
+   "n": "Nasdaq",
+   "p": 26169.38,
+   "c": 0.82,
+   "d": 214.04,
+   "k": "idx"
+  },
+  {
+   "n": "Dow",
+   "p": 52361.58,
+   "c": 0.28,
+   "d": 146.42,
+   "k": "idx"
+  },
+  {
+   "n": "VIX",
+   "p": 18.45,
+   "c": 0.33,
+   "d": 0.06,
+   "k": "idx"
+  },
+  {
+   "n": "Altın",
+   "p": 4008.7,
+   "c": -0.74,
+   "d": -29.7,
+   "k": "usd"
+  },
+  {
+   "n": "Gümüş",
+   "p": 52.915,
+   "c": -2.2,
+   "d": -1.193,
+   "k": "usd"
+  },
+  {
+   "n": "WTI",
+   "p": 102.37,
+   "c": 0.6,
+   "d": 0.61,
+   "k": "usd"
+  },
+  {
+   "n": "Brent",
+   "p": 111.41,
+   "c": -3.8,
+   "d": -4.4,
+   "k": "usd"
+  },
+  {
+   "n": "DXY",
+   "p": 102.164,
+   "c": 0.2,
+   "d": 0.204,
+   "k": "idx"
+  },
+  {
+   "n": "ABD 10Y",
+   "p": 4.986,
+   "c": -0.04,
+   "d": -0.002,
+   "k": "yield"
+  },
+  {
+   "n": "USD/TRY",
+   "p": 49.7822,
+   "c": 0.09,
+   "d": 0.043,
+   "k": "idx"
+  },
+  {
+   "n": "BIST 100",
+   "p": 11169.3,
+   "c": 0.16,
+   "d": 17.3,
+   "k": "idx"
+  }
+ ],
+ "crypto": [
+  {
+   "n": "BTC",
+   "p": 79642,
+   "c": -0.75,
+   "k": "usd"
+  },
+  {
+   "n": "ETH",
+   "p": 2307.45,
+   "c": -0.85,
+   "k": "usd"
+  },
+  {
+   "n": "SOL",
+   "p": 99.67,
+   "c": -1.51,
+   "k": "usd"
+  },
+  {
+   "n": "XRP",
+   "p": 1.3,
+   "c": 0.77,
+   "k": "usd"
+  },
+  {
+   "n": "BNB",
+   "p": 735.1,
+   "c": -0.36,
+   "k": "usd"
+  }
+ ],
+ "fred": null,
+ "events": [
+  {
+   "title": "ADP Weekly Employment Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "18.5K",
+   "actual": "",
+   "ts": 1793103300000,
+   "tr": "Sal 27.10 15:15",
+   "reading": null
+  },
+  {
+   "title": "Core Durable Goods Orders m/m",
+   "impact": "Low",
+   "forecast": "0.6%",
+   "previous": "0.3%",
+   "actual": "",
+   "ts": 1793104200000,
+   "tr": "Sal 27.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Durable Goods Orders m/m",
+   "impact": "Low",
+   "forecast": "2.0%",
+   "previous": "0.0%",
+   "actual": "",
+   "ts": 1793104200000,
+   "tr": "Sal 27.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "HPI m/m",
+   "impact": "Low",
+   "forecast": "0.2%",
+   "previous": "0.3%",
+   "actual": "",
+   "ts": 1793106000000,
+   "tr": "Sal 27.10 16:00",
+   "reading": null
+  },
+  {
+   "title": "S&P/CS Composite-20 HPI y/y",
+   "impact": "Low",
+   "forecast": "2.6%",
+   "previous": "2.5%",
+   "actual": "",
+   "ts": 1793106000000,
+   "tr": "Sal 27.10 16:00",
+   "reading": null
+  },
+  {
+   "title": "CB Consumer Confidence",
+   "impact": "Medium",
+   "forecast": "81.2",
+   "previous": "81.9",
+   "actual": "",
+   "ts": 1793109600000,
+   "tr": "Sal 27.10 17:00",
+   "reading": null
+  },
+  {
+   "title": "New Home Sales",
+   "impact": "Low",
+   "forecast": "651K",
+   "previous": "684K",
+   "actual": "",
+   "ts": 1793109600000,
+   "tr": "Sal 27.10 17:00",
+   "reading": null
+  },
+  {
+   "title": "Richmond Manufacturing Index",
+   "impact": "Low",
+   "forecast": "0",
+   "previous": "-2",
+   "actual": "",
+   "ts": 1793109600000,
+   "tr": "Sal 27.10 17:00",
+   "reading": null
+  },
+  {
+   "title": "API Weekly Statistical Bulletin",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793133000000,
+   "tr": "Sal 27.10 23:30",
+   "reading": null
+  },
+  {
+   "title": "Goods Trade Balance",
+   "impact": "Low",
+   "forecast": "-130.4B",
+   "previous": "-132.6B",
+   "actual": "",
+   "ts": 1793190600000,
+   "tr": "Çar 28.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Prelim Wholesale Inventories m/m",
+   "impact": "Low",
+   "forecast": "0.5%",
+   "previous": "0.7%",
+   "actual": "",
+   "ts": 1793190600000,
+   "tr": "Çar 28.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Crude Oil Inventories",
+   "impact": "Low",
+   "forecast": "-0.3M",
+   "previous": "-3.1M",
+   "actual": "",
+   "ts": 1793197800000,
+   "tr": "Çar 28.10 17:30",
+   "reading": null
+  },
+  {
+   "title": "Federal Funds Rate",
+   "impact": "High",
+   "forecast": "4.00%",
+   "previous": "4.00%",
+   "actual": "",
+   "ts": 1793210400000,
+   "tr": "Çar 28.10 21:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Statement",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793210400000,
+   "tr": "Çar 28.10 21:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Press Conference",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793212200000,
+   "tr": "Çar 28.10 21:30",
+   "reading": null
+  },
+  {
+   "title": "Advance GDP q/q",
+   "impact": "High",
+   "forecast": "3.2%",
+   "previous": "1.5%",
+   "actual": "",
+   "ts": 1793277000000,
+   "tr": "Per 29.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Core PCE Price Index m/m",
+   "impact": "High",
+   "forecast": "0.3%",
+   "previous": "0.2%",
+   "actual": "",
+   "ts": 1793277000000,
+   "tr": "Per 29.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Advance GDP Price Index q/q",
+   "impact": "Medium",
+   "forecast": "3.3%",
+   "previous": "6.2%",
+   "actual": "",
+   "ts": 1793277000000,
+   "tr": "Per 29.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Unemployment Claims",
+   "impact": "Medium",
+   "forecast": "198K",
+   "previous": "194K",
+   "actual": "",
+   "ts": 1793277000000,
+   "tr": "Per 29.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Personal Income m/m",
+   "impact": "Low",
+   "forecast": "0.3%",
+   "previous": "0.2%",
+   "actual": "",
+   "ts": 1793277000000,
+   "tr": "Per 29.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Personal Spending m/m",
+   "impact": "Low",
+   "forecast": "0.6%",
+   "previous": "0.9%",
+   "actual": "",
+   "ts": 1793277000000,
+   "tr": "Per 29.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Natural Gas Storage",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "77B",
+   "actual": "",
+   "ts": 1793284200000,
+   "tr": "Per 29.10 17:30",
+   "reading": null
+  },
+  {
+   "title": "Employment Cost Index q/q",
+   "impact": "Medium",
+   "forecast": "0.8%",
+   "previous": "0.9%",
+   "actual": "",
+   "ts": 1793363400000,
+   "tr": "Cum 30.10 15:30",
+   "reading": null
+  },
+  {
+   "title": "Chicago PMI",
+   "impact": "Low",
+   "forecast": "55.8",
+   "previous": "58.8",
+   "actual": "",
+   "ts": 1793367900000,
+   "tr": "Cum 30.10 16:45",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Daly Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793376000000,
+   "tr": "Cum 30.10 19:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Musalem Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793377800000,
+   "tr": "Cum 30.10 19:30",
+   "reading": null
+  }
+ ],
+ "news": {
+  "Bloomberg": [
+   {
+    "t": "Saudi Arabia’s Houthi Battle Shifts Fears to Non-Oil Economy",
+    "tt": null,
+    "s": "Saudi Arabia’s oil industry managed to ride out concerns in the early days of the Iran war and keep exports flowing. Now, with the Houthis staging deadly attacks on the kingdom and signs of disruption stacking up, the worry has shifted to the rest of the economy.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/saudi-arabia-s-houthi-challenge-shifts-fears-to-non-oil-economy",
+    "ts": 1793027838000,
+    "tags": []
+   },
+   {
+    "t": "Pop Mart’s Quarterly Sales Drop on High Base, Sluggish Demand",
+    "tt": null,
+    "s": "Pop Mart International Group Ltd. reported a decline in third-quarter sales from a year earlier, hurt by fading Labubu momentum and a tough base of comparison following last year’s blockbuster results.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
+    "ts": 1793090520000,
+    "tags": []
+   },
+   {
+    "t": "Saudi Arabia Contains Fire Near Ras Tanura Oil Hub After Attack",
+    "tt": null,
+    "s": "Saudi Arabia contained a fire near its biggest export terminal of Ras Tanura along the Persian Gulf following an attack in the region, a person with knowledge of the matter said.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/saudi-arabia-contains-fire-near-ras-tanura-oil-hub-after-attack",
+    "ts": 1793089542000,
+    "tags": []
+   },
+   {
+    "t": "Adnoc Drilling CFO: Deals Continue Despite Conflict",
+    "tt": null,
+    "s": "Adnoc Drilling has reported 3Q results, with revenue at $1.25 billion and profit at $366.3 million largely unchanged from a year ago. Youssef Salem, CFO at Adnoc Drilling spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/adnoc-drilling-cfo-deals-continue-despite-conflict-video",
+    "ts": 1793089476000,
+    "tags": []
+   },
+   {
+    "t": "CIMB Said to Attract BPI, Metrobank for Philippine Unit Sale",
+    "tt": null,
+    "s": "CIMB Group Holdings Bhd.’s planned sale of its business in the Philippines has drawn interest from local rivals including Bank of the Philippine Islands and Metropolitan Bank &amp; Trust Co., according to people with knowledge of the matter.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/cimb-bpi-metrobank-philippine-unit-sale",
+    "ts": 1793071402000,
+    "tags": []
+   },
+   {
+    "t": "US Futures Waver as AI Optimism Wanes Before Fed: Markets Wrap",
+    "tt": null,
+    "s": "The renewed enthusiasm for the artificial intelligence trade that followed Anthropic PBC’s filing for an initial public offering lost some momentum on Tuesday, with US equity futures stalling as traders turned their attention back to a busy earnings slate, the upcoming Federal Reserve policy decisio",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793052236000,
+    "tags": []
+   },
+   {
+    "t": "ESMA Chair on EU Market Volatility, Supervision",
+    "tt": null,
+    "s": "The European Securities and Markets Authority is closely monitoring market activity amid volatility in sovereign bond markets and high tech-stock valuations. In an interview on Bloomberg Daybreak Europe, ESMA's outgoing chair Verena Ross told Bloomberg's Stephen Carroll that there is a risk of \"pote",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/esma-chair-on-eu-market-volatility-supervision-video",
+    "ts": 1793089239000,
+    "tags": []
+   },
+   {
+    "t": "European Stocks Pulled Lower by Banks as HSBC Results Disappoint",
+    "tt": null,
+    "s": "European stocks fell for a third day in four as disappointing earnings from benchmark heavyweight HSBC Holdings Plc dragged down the banking sector.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/european-stocks-pulled-lower-by-banks-as-hsbc-results-disappoint",
+    "ts": 1793089087000,
+    "tags": []
+   },
+   {
+    "t": "Horizons Middle East & Africa 10/27/2026 (Video)",
+    "tt": null,
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/horizons-middle-east-africa-10-27-2026-video",
+    "ts": 1793088758000,
+    "tags": []
+   },
+   {
+    "t": "Indonesia Bond Yield Hits Four-Year High as MSCI Risk, Oil Weigh",
+    "tt": null,
+    "s": "Indonesia’s 10-year government bond yield climbed to a four-year high and the rupiah weakened toward a record low as elevated oil prices and MSCI Inc.’s threat of a stocks downgrade hurt investor sentiment.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-10-year-yield-at-four-year-high-on-msci-risk-oil",
+    "ts": 1793083958000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   }
+  ],
+  "CNBC": [
+   {
+    "t": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+    "tt": null,
+    "s": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+    "ts": 1792596650000,
+    "tags": []
+   },
+   {
+    "t": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+    "tt": null,
+    "s": "Data center campuses house the servers that power AI and cloud computing.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+    "ts": 1792492757000,
+    "tags": []
+   },
+   {
+    "t": "The world’s finance chiefs see new risks — and less China angst",
+    "tt": null,
+    "s": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+    "ts": 1792474073000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "tt": null,
+    "s": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "ts": 1792428134000,
+    "tags": []
+   },
+   {
+    "t": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    "tt": null,
+    "s": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "ts": 1792413241000,
+    "tags": []
+   },
+   {
+    "t": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+    "tt": null,
+    "s": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+    "ts": 1792249201000,
+    "tags": []
+   },
+   {
+    "t": "Software’s new consolidator gets big vote of confidence from Berkshire",
+    "tt": null,
+    "s": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+    "ts": 1792249890000,
+    "tags": []
+   },
+   {
+    "t": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "tt": null,
+    "s": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "ts": 1792169178000,
+    "tags": []
+   },
+   {
+    "t": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "tt": null,
+    "s": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "ts": 1792105201000,
+    "tags": []
+   },
+   {
+    "t": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "tt": null,
+    "s": "The latest 12-month period marked the strongest return for the university's fund since 2021.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
+    "ts": 1792094029000,
+    "tags": []
+   }
+  ],
+  "MarketWatch": [
+   {
+    "t": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+    "tt": null,
+    "s": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+    "ts": 1793073660000,
+    "tags": []
+   },
+   {
+    "t": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+    "tt": null,
+    "s": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+    "ts": 1793053800000,
+    "tags": []
+   },
+   {
+    "t": "Dividend stocks are having an excellent October as tech sector struggles",
+    "tt": null,
+    "s": "ETFs focused on dividend stocks are seeing a powerful rally in October, adding to huge gains in 2026.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+    "ts": 1793052600000,
+    "tags": []
+   },
+   {
+    "t": "Options traders are seizing control of the S&P 500",
+    "tt": null,
+    "s": "There’s a reason the index hasn’t moved much since June, according to a team at UBS.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+    "ts": 1793052180000,
+    "tags": []
+   },
+   {
+    "t": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+    "tt": null,
+    "s": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+    "ts": 1793052000000,
+    "tags": []
+   },
+   {
+    "t": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+    "tt": null,
+    "s": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+    "ts": 1793051700000,
+    "tags": []
+   },
+   {
+    "t": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+    "tt": null,
+    "s": "The Wall Street Journal reports that DoorDash was in ‘advanced talks’ to buy Instacart in a deal that would value Instacart at roughly $17 billion",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+    "ts": 1793051160000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+    "tt": null,
+    "s": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+    "ts": 1793051040000,
+    "tags": []
+   },
+   {
+    "t": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+    "tt": null,
+    "s": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+    "ts": 1793048640000,
+    "tags": []
+   },
+   {
+    "t": "With the Anthropic IPO, the devil is in the details",
+    "tt": null,
+    "s": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+    "ts": 1793047800000,
+    "tags": []
+   }
+  ],
+  "ZeroHedge": [
+   {
+    "t": "Europe Plans To Copy Trump's Critical Material Playbook",
+    "tt": null,
+    "s": "Europe Plans To Copy Trump's Critical Material Playbook Brussels is looking to borrow President Trump's playbook to make \"rare earths great again\" in the West , with proposals to take equity stakes in miners and support new critical material projects. The move aims to break an alarming dependency th",
+    "ss": null,
+    "u": "https://www.zerohedge.com/commodities/europe-plans-copy-trumps-critical-material-playbook",
+    "ts": 1793088900000,
+    "tags": []
+   },
+   {
+    "t": "What's The Real Importance Of Putin's Recent Prediction Of The EU's Inevitable Collapse?",
+    "tt": null,
+    "s": "What's The Real Importance Of Putin's Recent Prediction Of The EU's Inevitable Collapse? Authored by Andrew Korybko via Substack , The salience isn't whether he truly believes it, but whether his Foreign Ministry and intelligence services politicize their assessments of this scenario to conform to w",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/whats-real-importance-putins-recent-prediction-eus-inevitable-collapse",
+    "ts": 1793086200000,
+    "tags": []
+   },
+   {
+    "t": "Trans Activists Want Harry Potter Christmas Lights Pulled Over Rowling - And Sadiq Khan Won't Touch It",
+    "tt": null,
+    "s": "Trans Activists Want Harry Potter Christmas Lights Pulled Over Rowling - And Sadiq Khan Won't Touch It More than 10,000 people have emailed London Mayor Sadiq Khan asking him to cancel Harry Potter-themed Christmas lights on Oxford Street , the Telegraph reported Sunday, and the company that runs th",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/trans-activists-want-harry-potter-christmas-lights-pulled-over-rowling-and-sadiq-khan",
+    "ts": 1793083500000,
+    "tags": []
+   },
+   {
+    "t": "'Everyone Here Is Very Optimistic' - Germans Are Increasingly Emigrating To Poland",
+    "tt": null,
+    "s": "'Everyone Here Is Very Optimistic' - Germans Are Increasingly Emigrating To Poland Authored by Remix News Staff via Remix , Nearly 5,000 Germans emigrated to Poland in 2025, outpacing the numbers who left for Britain, Italy or the Netherlands , according to new government data. Figures from Germany'",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/everyone-here-very-optimistic-germans-are-increasingly-emigrating-poland",
+    "ts": 1793080800000,
+    "tags": []
+   },
+   {
+    "t": "UK Must Be Ready For War In 1,000 Days, Says British Defense Secretary",
+    "tt": null,
+    "s": "UK Must Be Ready For War In 1,000 Days, Says British Defense Secretary Authored by Rachel Roberts via The Epoch Times , British Defense Secretary Wes Streeting has said the country must be ready for war in 1,000 days, after the government advised citizens to stock up on essential supplies. British D",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/uk-must-be-ready-war-1000-days-says-british-defense-secretary",
+    "ts": 1793073000000,
+    "tags": []
+   },
+   {
+    "t": "One Big Club Update: Judge Rules DOJ Unlawfully Fired Epstein Prosecutor Maurene Comey, Orders Her Reinstated",
+    "tt": null,
+    "s": "One Big Club Update: Judge Rules DOJ Unlawfully Fired Epstein Prosecutor Maurene Comey, Orders Her Reinstated A federal judge ruled Monday that the Justice Department unlawfully fired Maurene Comey , the former Manhattan federal prosecutor who worked on the Jeffrey Epstein and Ghislaine Maxwell case",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/one-big-club-update-judge-rules-doj-unlawfully-fired-epstein-prosecutor-maurene-comey",
+    "ts": 1793071500000,
+    "tags": []
+   },
+   {
+    "t": "On Election Eve, Israeli Opposition Says Netanyahu Must Face Treason Probe",
+    "tt": null,
+    "s": "On Election Eve, Israeli Opposition Says Netanyahu Must Face Treason Probe On the eve of Israel's high pressure legislative elections, the explosive and provocative charge of \"treason\" is being thrown around. Former Israeli Finance Minister Avigdor Liberman on Monday called for Prime Minister Benjam",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/election-eve-israeli-opposition-says-netanyahu-must-face-treason-probe",
+    "ts": 1793068500000,
+    "tags": []
+   },
+   {
+    "t": "Ninth Circuit Upholds Block On Trump's Federalization Of California National Guard, Rejecting \"Rebellion\" Claim",
+    "tt": null,
+    "s": "Ninth Circuit Upholds Block On Trump's Federalization Of California National Guard, Rejecting \"Rebellion\" Claim The U.S. 9th Circuit Court of Appeals on October 23 affirmed a district court order blocking President Donald Trump's June 2025 federalization of 4,000 California National Guard troops for",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/ninth-circuit-upholds-block-trumps-federalization-california-national-guard-rejecting",
+    "ts": 1793067000000,
+    "tags": []
+   },
+   {
+    "t": "Former Trump, Obama Advisers Jointly Urge Data Center Regulation Middle Ground",
+    "tt": null,
+    "s": "Former Trump, Obama Advisers Jointly Urge Data Center Regulation Middle Ground Authored by Jeremy Lott via The Epoch Times , Former economic advisers from the Obama and Trump administrations have issued a roadmap for what they see as a way forward on future data center construction across America. D",
+    "ss": null,
+    "u": "https://www.zerohedge.com/ai/former-trump-obama-advisers-jointly-urge-data-center-regulation-middle-ground",
+    "ts": 1793065500000,
+    "tags": []
+   },
+   {
+    "t": "The Forgotten Trump Campaign Promise That Will Come Back To Haunt Republicans In The Midterms",
+    "tt": null,
+    "s": "The Forgotten Trump Campaign Promise That Will Come Back To Haunt Republicans In The Midterms A mounting financial burden costing American families thousands of dollars a year is emerging as an overlooked issue in the 2026 midterm elections as new polling suggests that the expense of caring for agin",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/forgotten-trump-campaign-promise-will-come-back-haunt-republicans-midterms",
+    "ts": 1793062500000,
+    "tags": []
+   }
+  ],
+  "Bloomberg HT": [
+   {
+    "t": "Endonezya'nın 10 yıllık devlet tahvili getirisi 4 yılın zirvesinde",
+    "tt": null,
+    "s": "Endonezya'nın 10 yıllık devlet tahvili getirisi dört yılın zirvesine tırmanırken, rupi de rekor düşük seviyeye doğru geriledi. Yüksek seyreden petrol fiyatları ve MSCI'in hisse senetlerini gelişmekte olan ülke statüsünden çıkarma tehdidi yatırımcı güvenini olumsuz etkiledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/endonezyanin-10-yillik-devlet-tahvili-getirisi-dort-yilin-zirvesinde-3792651",
+    "ts": 1793090052000,
+    "tags": []
+   },
+   {
+    "t": "SPK tasfiye edilecek fonların tasfiye ve ödeme esaslarını belirledi",
+    "tt": null,
+    "s": "Sermaye Piyasası Kurulu (SPK), tasfiyesine karar verilen bazı yatırım fonlarının tasfiye ve ödemelerine ilişkin usul ve esaslar kapsamında, ara ödemelere öncelikli olarak unvanında \"para piyasası\" ibaresi yer alan yatırım fonlarından başlanacağını bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/spk-tasfiye-edilecek-fonlarinin-tasfiye-ve-odeme-esaslarini-belirledi-3792650",
+    "ts": 1793089342000,
+    "tags": []
+   },
+   {
+    "t": "Çinliler altının düşüşünü fırsat bilip alım yapıyor",
+    "tt": null,
+    "s": "Çinli hanehalkının altına olan ilgisi, fiyatların düşmesi ve yurt içi hisse senetlerinin cazibesini yitirmesiyle son iki ayda artış gösterdi. Böylelikle altın fiyatlarının ons başına 4 bin doları test ettiği bir dönemde destek sağlamış oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cinliler-altinin-dususunu-firsat-bilip-alim-yapiyor-3792648",
+    "ts": 1793088237000,
+    "tags": []
+   },
+   {
+    "t": "Chiquita, muz fiyatlarının yükselmesini bekliyor",
+    "tt": null,
+    "s": "Dünyanın en büyük muz şirketlerinden Chiquita, El Nino ve savaşın üretim maliyetlerini artırdığı uyarısında bulundu. Şirket, 2027'de sektörde satış miktarının azalmasını ve fiyatların yükselmesini bekliyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/chiquita-muz-fiyatlarinin-yukselmesini-bekliyor-3792649",
+    "ts": 1793088850000,
+    "tags": []
+   },
+   {
+    "t": "Fransa'da tüketici güveni protestolarla 13 yılın dibinde",
+    "tt": null,
+    "s": "Fransa'da tüketici güveni, hanehalkının tahvil piyasasındaki satış dalgasından, şiddet olaylarına dönüşen protestolara kadar pek çok şokla karşı karşıya kalması sonucunda Ekim ayında son 13 yılın en düşük seviyesine geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fransada-tuketici-guveni-protestolarla-13-yilin-dibinde-3792647",
+    "ts": 1793087689000,
+    "tags": []
+   },
+   {
+    "t": "TÜSEDAD: Üretimden çekilme riski artıyor",
+    "tt": null,
+    "s": "TÜSEDAD, çiğ süt tavsiye fiyatının kasım ayında güncellenmesini talep etti. Sektöre ilişkin açıklamada, üreticinin satış fiyatı sabit kalırken maliyetlerin ve raf fiyatlarının arttığı belirtilerek, fiyat güncellemesindeki gecikmenin üretimden çekilme riskini artırdığı vurgulandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tusedad-uretimden-cekilme-riski-artiyor-3792646",
+    "ts": 1793086474000,
+    "tags": []
+   },
+   {
+    "t": "İşsizlik yedi ayın zirvesinde",
+    "tt": null,
+    "s": "TÜİK verilerine göre işsizlik oranı Eylül'de 0,5 puan artarak yüzde 8,4 olurken, 15-24 yaş grubunu kapsayan genç nüfusta işsizlik oranı bir önceki aya göre 1,6 artarak yüzde 14,8 seviyesinde gerçekleşti. Veri Şubattan bu yana en yüksek seviye olarak kaydedildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/issizlik-yedi-ayin-zirvesinde-3792634",
+    "ts": 1793084266000,
+    "tags": []
+   },
+   {
+    "t": "İlk Evim Arsa Projesi'nde 2027 hedefi",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan 2027 Yılı Cumhurbaşkanlığı Yıllık Programı'na göre İlk Evim Arsa Projesi kapsamında 42 bin 100 hak sahibi için 2027 yılı içerisinde arsa tahsis sürecine geçilecek.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ilk-evim-arsa-projesi-nde-2027-hedefi-3792632",
+    "ts": 1793083028000,
+    "tags": []
+   },
+   {
+    "t": "Borsa İstanbul, üç Tera fonunda işlemleri kapattı",
+    "tt": null,
+    "s": "Sermaye Piyasası Kurulu'nun (SPK) Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetlerini geçici olarak durdurmasının ardından Borsa İstanbul da üç Tera Portföy fonunun işlemlerini kapattı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/borsa-istanbul-uc-tera-fonunda-islemleri-kapatti-3792628",
+    "ts": 1793082530000,
+    "tags": []
+   },
+   {
+    "t": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı yayımlandı",
+    "tt": null,
+    "s": "Türkiye ekonomisine ilişkin hedef ve politikaların yer aldığı 2027 Yılı Cumhurbaşkanlığı Yıllık Programı'nın onaylanmasına ilişkin Cumhurbaşkanı Kararı, Resmi Gazete'nin mükerrer sayısında yayımlandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/2027-yili-cumhurbaskanligi-yillik-programi-yayimlandi-3792626",
+    "ts": 1793081828000,
+    "tags": []
+   }
+  ]
+ },
+ "errors": {
+  "fred:DFF": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:DGS2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:DGS10": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:DGS30": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:T10YIE": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:MORTGAGE30US": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:BAMLH0A0HYM2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:UNRATE": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
+  "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
+  "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
+ }
+}
