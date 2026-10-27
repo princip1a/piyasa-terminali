@@ -1,81 +1,81 @@
 {
- "generated": "2026-10-27T18:58:52.613628+00:00",
+ "generated": "2026-10-27T19:37:32.724249+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7719.34,
-   "c": 0.55,
-   "d": 42.57,
+   "p": 7734.56,
+   "c": 0.75,
+   "d": 57.79,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26478.514,
-   "c": 1.18,
-   "d": 309.133,
+   "p": 26530.795,
+   "c": 1.38,
+   "d": 361.414,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52365.02,
-   "c": 0.01,
-   "d": 3.442,
+   "p": 52449.87,
+   "c": 0.17,
+   "d": 88.292,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.75,
-   "c": -3.48,
-   "d": -0.64,
+   "p": 17.63,
+   "c": -4.13,
+   "d": -0.76,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4069.3,
-   "c": 0.77,
-   "d": 30.9,
+   "p": 4074.1,
+   "c": 0.88,
+   "d": 35.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.295,
-   "c": 0.35,
-   "d": 0.187,
+   "p": 54.46,
+   "c": 0.65,
+   "d": 0.352,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 99.95,
-   "c": -1.78,
-   "d": -1.81,
+   "p": 99.86,
+   "c": -1.87,
+   "d": -1.9,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 109.49,
-   "c": -5.46,
-   "d": -6.32,
+   "p": 109.48,
+   "c": -5.47,
+   "d": -6.33,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.307,
-   "c": 0.34,
-   "d": 0.347,
+   "p": 102.292,
+   "c": 0.33,
+   "d": 0.332,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.995,
-   "c": 0.18,
-   "d": 0.009,
+   "p": 4.993,
+   "c": 0.14,
+   "d": 0.007,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.7831,
+   "p": 49.7836,
    "c": 0.09,
-   "d": 0.044,
+   "d": 0.045,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80541,
-   "c": 0.74,
+   "p": 80577,
+   "c": 0.77,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2341.28,
-   "c": 1.22,
+   "p": 2342.28,
+   "c": 1.15,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.83,
-   "c": 0.43,
+   "p": 101.02,
+   "c": 0.52,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.32,
-   "c": 2.29,
+   "c": 2.12,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 748.81,
-   "c": 0.9,
+   "p": 747.84,
+   "c": 0.78,
    "k": "usd"
   }
  ],
@@ -384,6 +384,80 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "U.S. Bancorp Poised for Canada Bond Return After Two Decades",
+    "tt": null,
+    "s": "U.S. Bancorp is looking to sell as much as C$1 billion ($713 million) of bonds in Canada, tapping the loonie market for the first time in more than two decades.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/u-s-bancorp-poised-for-canada-bond-return-after-two-decades",
+    "ts": 1793119412000,
+    "tags": []
+   },
+   {
+    "t": "Gold Recovers as Bargain Hunters Return Ahead of Fed Decision",
+    "tt": null,
+    "s": "Gold advanced as bargain hunters stepped in after the precious metal fell below a key level, while traders await a Federal Reserve interest-rate decision later this week.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
+    "ts": 1793056828000,
+    "tags": [
+     "Altın ▲"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 27",
+    "tt": null,
+    "s": "Oil dipped as traders weighed moves to de-escalate tensions in the Persian Gulf and awaited the outcome of consequential elections, including in Israel.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27",
+    "ts": 1793052202000,
+    "tags": []
+   },
+   {
+    "t": "Built Environment Not Keeping Up: Hines-Pierce",
+    "tt": null,
+    "s": "Laura Hines-Pierce, co-CEO of Hines, joins Dani Burger on \"Bloomberg Deals.\" They discuss how geopolitics are changing the ways countries, states, and cities are reinvesting in themselves and how we're in a massive capex moment. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/built-environment-not-keeping-up-hines-pierce-video",
+    "ts": 1793129001000,
+    "tags": []
+   },
+   {
+    "t": "Mid-market M&A Is A 'Dam' That's Going To Break: Khalil",
+    "tt": null,
+    "s": "Aasem Khalil, global head of investment banking client services at Goldman Sachs, joins Dani Burger on \"Bloomberg Deals.\" They discuss how mid-market companies understand that they need to grow and how mid-market companies have been experiencing inorganic growth. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/mid-market-m-a-is-a-dam-that-s-going-to-break-khalil-video",
+    "ts": 1793128610000,
+    "tags": []
+   },
+   {
+    "t": "Cinco claves para entender los próximos pasos de la salida a bolsa de Anthropic",
+    "tt": null,
+    "s": "Anthropic PBC presentó públicamente su solicitud de salida a bolsa, un hito importante de cara a la primera cotización en la historia de una empresa dedicada a modelos de IA de vanguardia. A continuación, cinco aspectos que los inversores deberían tener en cuenta en las próximas semanas.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/cinco-claves-para-entender-los-proximos-pasos-de-la-salida-a-bolsa-de-anthropic",
+    "ts": 1793128234000,
+    "tags": []
+   },
+   {
+    "t": "BI's Larry Tabb on Changes in Global Market Structure",
+    "tt": null,
+    "s": "Bloomberg Intelligence Director of Market Structure Research Larry Tabb discusses changes in market structure, securities tokenization, exchange competition and new trading products at Bloomberg Invest Dallas 2026. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/bi-s-larry-tabb-on-changes-in-global-market-structure-video",
+    "ts": 1793128084000,
+    "tags": []
+   },
+   {
+    "t": "Important That GOP Appeals to Black Voters in GA, Says McCormick",
+    "tt": null,
+    "s": "Republican Representative from Georgia Rich McCormick said that addressing hurdles to gains made by the African American community in Georgia is more important than any one candidate running in the state and that it is important the Republican party appeal to Black voters in a state where minorities",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/important-gop-appeals-to-black-voters-in-ga-mccormick-video",
+    "ts": 1793128089000,
+    "tags": []
+   },
+   {
     "t": "Stocks Rise in Run-Up to Tech Results as Oil Falls: Markets Wrap",
     "tt": "Nasdaq, Teknoloji Kazançlarından Önce Yapay Zeka Bahislerinden 100 Kazanç Kazandı: Piyasa Özeti",
     "s": "A rally in technology companies lifted stocks ahead of results from industry giants valued at more than $10 trillion, with traders also bracing for the Federal Reserve rate decision.",
@@ -393,84 +467,12 @@
     "tags": []
    },
    {
-    "t": "DoorDash Is Said to Near $17B Takeover of Instacart",
+    "t": "Texas CIOs Discuss AI & Portfolio Allocations",
     "tt": null,
-    "s": "Bloomberg's Ryan Gould joins Scarlet Fu on \"Bloomberg Deals.\" DoorDash is in advanced talks to acquire Instacart parent Maplebear for roughly $17 billion, according to people familiar with the matter. (Source: Bloomberg)",
+    "s": "Fort Worth Employees’ Retirement Fund Chief Investment Officer Derrick Dagnan; Partners Capital Managing Director & Head of Texas Olivia Newell and Texas Christian University Chief Investment Officer Jason R. Safran discuss asset allocation, inflation, AI and risk management with Bloomberg’s Hema Pa",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/doordash-is-said-to-near-17b-takeover-of-instacart-video",
-    "ts": 1793127603000,
-    "tags": []
-   },
-   {
-    "t": "Bloomberg Professional Services Spotlight on ASKB",
-    "tt": null,
-    "s": "Bloomberg Client Relationship Manager Yvonne Do highlights ASKB as part of Bloomberg Professional Services Spotlight at Bloomberg Invest Dallas 2026. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-professional-services-spotlight-on-askb-video",
-    "ts": 1793127420000,
-    "tags": []
-   },
-   {
-    "t": "Novogratz Says Credit Market Is Reaching ‘Peak Nervousness’",
-    "tt": null,
-    "s": "Michael Novogratz, the billionaire founder and CEO of the crypto financial services conglomerate and artificial intelligence data-center provider Galaxy Digital Inc., said the anxiety in global credit markets over AI spending is on the verge of easing.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/novogratz-s-galaxy-tops-revenue-estimates-shares-rise",
-    "ts": 1793101050000,
-    "tags": []
-   },
-   {
-    "t": "Rules for Investing in Teams Are Evolving, Says Arctos CEO Charles",
-    "tt": "Arctos CEO'su Charles, Ekiplere Yatırım Yapmanın Kurallarının Geliştiğini Söyledi",
-    "s": "Arctos Chief Executive Officer Ian Charles says the rules for investing in premium professional sports franchises are evolving. He speaks to Dani Burger at Bloomberg Invest Dallas. (Source: Bloomberg)",
-    "ss": "Arctos İcra Kurulu Başkanı Ian Charles, birinci sınıf profesyonel spor franchise'larına yatırım yapma kurallarının değiştiğini söylüyor. Bloomberg Invest Dallas'tan Dani Burger ile konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/rules-for-investing-in-teams-are-evolving-ian-charles-video",
-    "ts": 1793124463000,
-    "tags": []
-   },
-   {
-    "t": "Konecta Gets Lender Forbearance to Negotiate Debt Restructuring",
-    "tt": "Konecta, Borç Yeniden Yapılandırma Müzakereleri Konusunda Borç Verenlere Hoşgörü Aldı",
-    "s": "Intermediate Capital Group-controlled Konecta has agreed some breathing room with a group of creditors as it negotiates a debt restructuring.",
-    "ss": "Orta Sermaye Grubu tarafından kontrol edilen Konecta, borç yeniden yapılandırması müzakereleri sırasında bir grup alacaklıyla biraz nefes alma konusunda anlaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/konecta-gets-lender-forbearance-to-negotiate-debt-restructuring",
-    "ts": 1793122720000,
-    "tags": []
-   },
-   {
-    "t": "Corporate-Bond Trading Is Moving Beyond Top Securities, Barclays Says",
-    "tt": "Barclays, Kurumsal Tahvil Ticaretinin En İyi Menkul Kıymetlerin Ötesine Geçtiğini Söyledi",
-    "s": "More corporate bonds from individual blue-chip companies are trading relatively frequently, signaling that the market’s liquidity is growing in the US and Europe.",
-    "ss": "Birinci sınıf şirketlerin daha fazla şirket tahvili nispeten sık işlem görüyor ve bu da ABD ve Avrupa'da piyasanın likiditesinin arttığının sinyalini veriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/corporate-bond-trading-is-moving-beyond-top-securities-barclays-says",
-    "ts": 1793122530000,
-    "tags": []
-   },
-   {
-    "t": "Arctos' Ian Charles on Private Assets Outlook",
-    "tt": "Arctos'tan Ian Charles Özel Varlıklara Bakış Konusunda",
-    "s": "Arctos Managing Partner & CEO and KKR Partner & Head of KKR Solutions Ian Charles discusses capital flows across sports, private credit, equity and digital infrastructure with Bloomberg’s Dani Burger at Bloomberg Invest Dallas 2026. (Source: Bloomberg)",
-    "ss": "Arctos Yönetici Ortağı ve CEO'su ve KKR Ortağı ve KKR Çözümleri Başkanı Ian Charles, Bloomberg Invest Dallas 2026'da Bloomberg'den Dani Burger ile spor, özel kredi, öz sermaye ve dijital altyapıdaki sermaye akışlarını tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/arctos-ian-charles-on-private-assets-outlook-video",
-    "ts": 1793122371000,
-    "tags": []
-   },
-   {
-    "t": "Mbappé Apologizes for Perceived Mao Insult After China Backlash",
-    "tt": "Mbappé, Çin'in Tepkisinin Ardından Mao'ya Hakaret Ettiğini Algıladığı İçin Özür Diledi",
-    "s": "French football star Kylian Mbappé has apologized for offending Chinese fans with comments seen as insulting to Mao Zedong. Tiwa Adebayo explains the backlash. (Source: Bloomberg)",
-    "ss": "Fransız futbol yıldızı Kylian Mbappé, Mao Zedong'a hakaret olarak görülen yorumlarla Çinli taraftarları rahatsız ettiği için özür diledi. Tiwa Adebayo tepkiyi açıklıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/mbappe-apologizes-for-perceived-insult-after-backlash-video",
-    "ts": 1793121188000,
-    "tags": []
-   },
-   {
-    "t": "A Visit to the AI Model Retirement Home",
-    "tt": "AI Model Huzurevine Ziyaret",
-    "s": "Another use of compute.",
-    "ss": "Hesaplamanın başka bir kullanımı.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-27/a-visit-to-the-ai-model-retirement-home",
-    "ts": 1793120681000,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/texas-cios-discuss-ai-portfolio-allocations-video",
+    "ts": 1793127698000,
     "tags": []
    }
   ],
@@ -568,6 +570,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
+    "tt": null,
+    "s": "The failure of a key momentum indicator to match the price highs suggests buyers may have run out of steam.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+    "ts": 1793129040000,
+    "tags": []
+   },
+   {
     "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
     "tt": null,
     "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
@@ -647,18 +658,18 @@
     "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
     "ts": 1793115000000,
     "tags": []
-   },
-   {
-    "t": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-    "tt": "Franchise sahiplerinin kuşların çok büyük olduğunu söylemesi nedeniyle McDonald's'ın tavukla ilgili yeni iddiası çıkmaza giriyor",
-    "s": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
-    "ss": "Bir analist, McDonald's bayilerinin \"sert et\" ve yeni el yapımı tavukla ilgili diğer sorunlardan şikayetçi olduklarını söyledi.",
-    "u": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-    "ts": 1793114820000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Appeals Court Rejects DOJ's Challenge To Suspected Noncitizen Ballots In California",
+    "tt": null,
+    "s": "Appeals Court Rejects DOJ's Challenge To Suspected Noncitizen Ballots In California Authored by Troy Myers via The Epoch Times , A federal appeals court declined to intervene in the Trump administration's lawsuit against California to sequester 20,000 mail-in ballots from individuals it suspects are",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/appeals-court-rejects-dojs-challenge-suspected-noncitizen-ballots-california",
+    "ts": 1793129400000,
+    "tags": []
+   },
    {
     "t": "Pentagon's Latest UFO Release: Observers Describe Silent Black Triangle Moving At 1,800 MPH Over Redacted Western US Site",
     "tt": null,
@@ -723,15 +734,6 @@
     "tags": []
    },
    {
-    "t": "Mexican Illegal Faces Charges After Beheading Iwo Jima Statue",
-    "tt": "Meksikalı Yasadışı, Iwo Jima Heykelinin Kafasını Kestikten Sonra Suçlamalarla Karşı Karşıya",
-    "s": "Mexican Illegal Faces Charges After Beheading Iwo Jima Statue Miguel Alonso Maldonado Sorianom, illegal migrant from Mexico residing in the US, has been officially charged after battering a replica of the Iwo Jima flag-raising statue near the Marine Corps base at Quantico, Virginia. One of the figur",
-    "ss": "Meksikalı Yasadışı, Iwo Jima Heykelinin Kafasını Kestikten Sonra Suçlamalarla Karşı Karşıya ABD'de ikamet eden Meksikalı yasadışı göçmen Miguel Alonso Maldonado Sorianom, Quantico, Virginia'daki Deniz Piyadeleri üssü yakınındaki Iwo Jima bayrak dikme heykelinin bir kopyasını darp ettiği için resmi olarak suçlandı. Şekillerden biri",
-    "u": "https://www.zerohedge.com/political/mexican-illegal-faces-charges-after-beheading-iwo-jima-statue",
-    "ts": 1793121300000,
-    "tags": []
-   },
-   {
     "t": "Boeing Shares Crater Most In 18 Months After Delivery Outlook Cut",
     "tt": "Boeing Hisseleri Teslimattan Sonra 18 Ayın En Fazla Kraterini Düşürdü",
     "s": "Boeing Shares Crater Most In 18 Months After Delivery Outlook Cut Boeing shares cratered in the US cash session by late morning in New York after it slashed its commercial aircraft delivery outlook because it needs more time to ramp up to sustainable production rates.&nbsp; The struggling planemaker",
@@ -741,12 +743,12 @@
     "tags": []
    },
    {
-    "t": "House Republicans Subpoena New Jersey Over 6,600 Noncitizen Voter Registrations",
-    "tt": "Temsilciler Meclisi Cumhuriyetçileri New Jersey'de 6.600'den Fazla Vatandaş Olmayan Seçmen Kaydına Mahkeme Çağrısı Yaptı",
-    "s": "House Republicans Subpoena New Jersey Over 6,600 Noncitizen Voter Registrations Authored by José Niño via Headline USA , House Republicans have subpoenaed New Jersey's top election official, demanding to know how roughly 6,600 noncitizens ended up registered to vote . According to a House Judiciary ",
-    "ss": "Temsilciler Meclisi Cumhuriyetçileri New Jersey'e Mahkeme Çağrısı Yaptı 6.600'den Fazla Vatandaş Olmayan Seçmen Kaydı José Niño tarafından Headline USA aracılığıyla yazılan Temsilciler Meclisi Cumhuriyetçileri, yaklaşık 6.600 vatandaş olmayan seçmenin oy vermek için nasıl kaydolduğunu öğrenmek üzere New Jersey'in en üst düzey seçim yetkilisini mahkemeye çağırdı. Bir Meclis Yargısına göre",
-    "u": "https://www.zerohedge.com/political/house-republicans-subpoena-new-jersey-over-6600-noncitizen-voter-registrations",
-    "ts": 1793120400000,
+    "t": "Mexican Illegal Faces Charges After Beheading Iwo Jima Statue",
+    "tt": "Meksikalı Yasadışı, Iwo Jima Heykelinin Kafasını Kestikten Sonra Suçlamalarla Karşı Karşıya",
+    "s": "Mexican Illegal Faces Charges After Beheading Iwo Jima Statue Miguel Alonso Maldonado Sorianom, illegal migrant from Mexico residing in the US, has been officially charged after battering a replica of the Iwo Jima flag-raising statue near the Marine Corps base at Quantico, Virginia. One of the figur",
+    "ss": "Meksikalı Yasadışı, Iwo Jima Heykelinin Kafasını Kestikten Sonra Suçlamalarla Karşı Karşıya ABD'de ikamet eden Meksikalı yasadışı göçmen Miguel Alonso Maldonado Sorianom, Quantico, Virginia'daki Deniz Piyadeleri üssü yakınındaki Iwo Jima bayrak dikme heykelinin bir kopyasını darp ettiği için resmi olarak suçlandı. Şekillerden biri",
+    "u": "https://www.zerohedge.com/political/mexican-illegal-faces-charges-after-beheading-iwo-jima-statue",
+    "ts": 1793121300000,
     "tags": []
    }
   ],
