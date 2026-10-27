@@ -1,25 +1,25 @@
 {
- "generated": "2026-10-27T15:58:42.391378+00:00",
+ "generated": "2026-10-27T16:41:59.760330+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7729.82,
-   "c": 0.69,
-   "d": 53.05,
+   "p": 7721.48,
+   "c": 0.58,
+   "d": 44.71,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26498.625,
-   "c": 1.26,
-   "d": 329.244,
+   "p": 26481.502,
+   "c": 1.19,
+   "d": 312.121,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52437.86,
-   "c": 0.15,
-   "d": 76.282,
+   "p": 52372.85,
+   "c": 0.02,
+   "d": 11.272,
    "k": "idx"
   },
   {
@@ -31,51 +31,51 @@
   },
   {
    "n": "Altın",
-   "p": 4075.5,
-   "c": 0.92,
-   "d": 37.1,
+   "p": 4071.5,
+   "c": 0.82,
+   "d": 33.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.555,
-   "c": 0.83,
-   "d": 0.447,
+   "p": 54.475,
+   "c": 0.68,
+   "d": 0.367,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 100.06,
-   "c": -1.67,
-   "d": -1.7,
+   "p": 99.84,
+   "c": -1.89,
+   "d": -1.92,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 109.4,
-   "c": -5.53,
-   "d": -6.41,
+   "p": 109.35,
+   "c": -5.58,
+   "d": -6.46,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.25,
-   "c": 0.28,
-   "d": 0.29,
+   "p": 102.254,
+   "c": 0.29,
+   "d": 0.294,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.986,
-   "c": -0.0,
-   "d": -0.0,
+   "p": 4.995,
+   "c": 0.18,
+   "d": 0.009,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.7824,
+   "p": 49.7841,
    "c": 0.09,
-   "d": 0.044,
+   "d": 0.045,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80511,
-   "c": 0.22,
+   "p": 80551,
+   "c": 0.95,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2345.09,
-   "c": 0.8,
+   "p": 2348.13,
+   "c": 1.67,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.86,
-   "c": -0.94,
+   "p": 100.93,
+   "c": 0.05,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.32,
-   "c": 1.66,
+   "c": 2.72,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 749.21,
-   "c": 0.77,
+   "p": 750.75,
+   "c": 1.54,
    "k": "usd"
   }
  ],
@@ -384,39 +384,59 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Adjoa Andoh Says ‘Bridgerton Was Lifechanging’",
-    "tt": "Adjoa Andoh 'Bridgerton'un Hayat Değiştirdiğini' Söyledi",
-    "s": "In this conversation, actor Adjoa Andoh takes Mishal Husain behind the scenes of the hit show “Bridgerton,” and shares how she has shaped Lady Danbury’s character over the years. (Source: Bloomberg)",
-    "ss": "Bu sohbette aktör Adjoa Andoh, Mishal Husain'i hit program “Bridgerton”un perde arkasına götürüyor ve onun Lady Danbury'nin karakterini yıllar içinde nasıl şekillendirdiğini paylaşıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-08-07/adjoa-andoh-says-bridgerton-was-lifechanging",
-    "ts": 1786078808000,
+    "t": "Gold Recovers as Bargain Hunters Return Ahead of Fed Decision",
+    "tt": null,
+    "s": "Gold advanced as bargain hunters stepped in after the precious metal fell below a key level, while traders await a Federal Reserve interest-rate decision later this week.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
+    "ts": 1793056828000,
+    "tags": [
+     "Altın ▲"
+    ]
+   },
+   {
+    "t": "UPS Raises Outlook as CEO Plans to Stay On to Oversee Union Talks",
+    "tt": null,
+    "s": "United Parcel Service Inc. boosted its financial guidance for the year, suggesting the courier expects to benefit from high prices and resilient demand through the holiday season. Carol Tomé intends to lead United Parcel Service Inc. for another two years or more to negotiate another labor deal with",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/ups-raises-outlook-video",
+    "ts": 1793119344000,
     "tags": []
    },
    {
-    "t": "Millennium Taps Prediction Markets Data in Hunt for Trading Edge",
-    "tt": "Millennium, Ticaret Avantajı Avında Tahmin Piyasası Verilerini Kullanıyor",
-    "s": "Millennium Management is exploring ways to use prediction markets to inform its trading strategies, joining a growing roster of Wall Street firms dipping their toes into the space.",
-    "ss": "Millennium Management, ticaret stratejilerini bilgilendirmek için tahmin piyasalarını kullanmanın yollarını araştırıyor ve bu alana ayak basan giderek büyüyen Wall Street firmaları listesine katılıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/millennium-taps-prediction-markets-data-in-hunt-for-trading-edge",
-    "ts": 1793115960000,
+    "t": "Causeway Capital CEO on Value Opportunities Outside US",
+    "tt": null,
+    "s": "Causeway Capital Management CEO & Fundamental Portfolio Manager Sarah H. Ketterer discusses risks and opportunities across global markets and how investors can look beyond concentrated AI megacaps with Bloomberg’s Hema Parmar at Bloomberg Invest Dallas 2026. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/causeway-capital-ceo-on-value-opportunities-outside-us-video",
+    "ts": 1793118938000,
     "tags": []
    },
    {
-    "t": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns",
-    "tt": "Giden Şef, AB'nin SEC-Lite Planının Yönetişime Bağlı Olduğu Uyardı",
-    "s": "The outgoing chair of the European Union’s securities watchdog said it’s unlikely to match the scope of its US counterpart in her lifetime — but warned that a push for more effective market oversight will depend on governance that lets the regulator act swiftly.",
-    "ss": "Avrupa Birliği'nin menkul kıymetler gözlemcisinin görevden ayrılan başkanı, ABD'li emsalinin ömrü boyunca kapsamına uyma ihtimalinin düşük olduğunu söyledi ancak daha etkin bir piyasa gözetimine yönelik baskının, düzenleyicinin hızlı hareket etmesine izin veren yönetişime bağlı olacağı konusunda uyardı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/eu-s-sec-lite-plan-hinges-on-governance-outgoing-chief-warns",
-    "ts": 1793115707000,
+    "t": "NYSE Texas President & AT&T on Dual Listings",
+    "tt": null,
+    "s": "NYSE Texas President, Bryan Daniel and AT&amp;T Senior Vice President, Treasurer & Head of Investor Relations, Brett Feldman discuss the growth of Texas capital markets, dual listings and modern corporate listing strategies with Bloomberg’s Dani Burger at Bloomberg Invest Dallas 2026. (Source: Bloom",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/nyse-texas-president-at-t-on-dual-listings-video",
+    "ts": 1793118867000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Oct. 27",
-    "tt": "27 Ekim Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil edged lower in a volatile session as traders weighed moves to de-escalate tensions in the Persian Gulf and the outcome of consequential elections, including in Israel.",
-    "ss": "Petrol fiyatları, tüccarların Basra Körfezi'ndeki gerilimi azaltmak için atılacak adımlara ve İsrail'de de dahil olmak üzere seçimlerin sonuçlarına ağırlık vermesiyle dalgalı bir seansta düşüş kaydetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27",
-    "ts": 1793052202000,
+    "t": "¿Por qué Netflix está pasando por una sequía de grandes éxitos?",
+    "tt": null,
+    "s": "Netflix construyó un gigante del entretenimiento con series que se convirtieron en fenómenos mundiales. Pero últimamente le cuesta encontrar su próximo gran éxito, mientras YouTube gana terreno. ¿Qué está pasando? (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/-por-que-netflix-pasa-por-una-sequia-de-grandes-exitos-video",
+    "ts": 1793118864000,
+    "tags": []
+   },
+   {
+    "t": "What’s Next for Anthropic’s Mega-IPO: Five Things to Watch",
+    "tt": null,
+    "s": "Anthropic PBC filed publicly for an initial public offering, a major milestone ahead of the first-ever listing of a frontier AI model company. Here are five things investors should be looking for in the weeks ahead.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/what-s-next-for-anthropic-s-mega-ipo-five-things-to-watch",
+    "ts": 1793118601000,
     "tags": []
    },
    {
@@ -429,48 +449,30 @@
     "tags": []
    },
    {
-    "t": "Pork Slump Worsens as High Gas Prices Curb Road Trip Pit Stops",
-    "tt": "Yüksek Benzin Fiyatları Yol Gezilerini Durdurdukça Domuz Eti'ndeki Düşüş Daha da Kötüleşiyor",
-    "s": "The US pork industry, already struggling with weak demand, is facing another blow: high gasoline prices.",
-    "ss": "Zaten zayıf taleple mücadele eden ABD domuz eti endüstrisi başka bir darbeyle karşı karşıya: yüksek benzin fiyatları.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pork-slump-worsens-as-high-gas-prices-curb-road-trip-pit-stops",
-    "ts": 1793115534000,
+    "t": "Acts of God Meet Acts of AI in Private Equity’s New Debt Play",
+    "tt": null,
+    "s": "Force majeure has long protected companies from acts of God. Now some borrowers want protection from acts of AI.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/acts-of-god-meet-acts-of-ai-in-private-equity-s-new-debt-play",
+    "ts": 1793099102000,
     "tags": []
    },
    {
-    "t": "Tech Stocks Power Wall Street Gains as Oil Falls: Markets Wrap",
-    "tt": "ABD Vadeli İşlemleri, Fed Öncesi Yapay Zeka İyimserliğinin Azalmasıyla Dalgalanıyor: Piyasalar Sarıldı",
-    "s": "A rally in technology companies lifted stocks ahead of results from industry giants valued at more than $10 trillion, with traders also bracing for the Federal Reserve rate decision.",
-    "ss": "Anthropic PBC'nin ilk halka arz başvurusunu takiben yapay zeka ticaretine yönelik coşku patlaması Salı günü bir miktar ivme kaybetti; yatırımcıların dikkatlerini tekrar yoğun bir kazanç listesine çevirmesiyle ABD hisse senedi vadeli işlemleri durdu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793052236000,
+    "t": "GM to Leave NYSE for Stock Listing on Tech-Focused Nasdaq",
+    "tt": "GM, Teknoloji Odaklı Nasdaq'ta Hisse Listelenmesi İçin NYSE'den Ayrılacak",
+    "s": "General Motors plans to shift its stock listing to the Nasdaq Global Select Market from the New York Stock Exchange to position the company as a tech-forward company. The company will retain the “GM” ticker symbol when it begins trading on the Nasdaq on Nov. 17, and the new listing offers eligibilit",
+    "ss": "General Motors, şirketi ileri teknolojiye sahip bir şirket olarak konumlandırmak için hisse senedi listelemesini New York Menkul Kıymetler Borsası'ndan Nasdaq Global Select Market'e kaydırmayı planlıyor. Şirket, 17 Kasım'da Nasdaq'ta işlem görmeye başladığında \"GM\" sembolüne sahip olacak ve yeni listeleme, bu sembole uygunluk sunuyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/gm-to-leave-nyse-for-stock-listing-on-nasdaq-video",
+    "ts": 1793118371000,
     "tags": []
    },
    {
-    "t": "Advent's $30B Buyout Push",
-    "tt": "Advent'in 30 Milyar Dolarlık Satın Alma Kampanyası",
-    "s": "Advent is raising $30 billion for its global buyout strategy and launching a dedicated mid-market fund. Managing partner John Maldonado joined Bloomberg Open Interest to talk about the news and how the firm is navigating a tough exit market. (Source: Bloomberg)",
-    "ss": "Advent, küresel satın alma stratejisi için 30 milyar dolar topluyor ve özel bir orta ölçekli pazar fonu başlatıyor. Yönetici ortak John Maldonado, haberler ve firmanın zorlu bir çıkış pazarında nasıl ilerlediği hakkında konuşmak için Bloomberg Open Interest'e katıldı. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/advent-s-30b-buyout-push-video",
-    "ts": 1793114269000,
-    "tags": []
-   },
-   {
-    "t": "Michael Palin on the Philippines and China’s Power",
-    "tt": "Michael Palin, Filipinler ve Çin'in Gücü üzerine",
-    "s": "The Monty Python star reinvented himself as a travel filmmaker, and has now visited more than 100 countries — most recently, the Philippines. (Source: Bloomberg)",
-    "ss": "Monty Python yıldızı, seyahat film yapımcısı olarak kendini yeniden keşfetti ve şu anda 100'den fazla ülkeyi ziyaret etti; en son olarak Filipinler'i ziyaret etti. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-the-philippines-and-china-s-power",
-    "ts": 1792126824000,
-    "tags": []
-   },
-   {
-    "t": "Rory McIlroy on Trump and the Future of Golf",
-    "tt": "Rory McIlroy, Trump ve Golfün Geleceği Üzerine",
-    "s": "Professional golfer Rory McIlroy speaks with Mishal Husain at the Bloomberg New Economy Forum about LIV Golf, playing with Donald Trump and his secret goal. (Source: Bloomberg)",
-    "ss": "Profesyonel golfçü Rory McIlroy, Bloomberg Yeni Ekonomi Forumu'nda Mishal Husain ile LIV Golf, Donald Trump ile oynama ve onun gizli hedefi hakkında konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-20/rory-mcilroy-on-trump-and-the-future-of-golf",
-    "ts": 1792472422000,
+    "t": "CFTC to Publish Commitments of Traders Report Twice Weekly",
+    "tt": null,
+    "s": "The Commodity Futures Trading Commission plans to double the frequency with which it publishes a widely followed report on futures and options trading positions.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/cftc-aims-to-publish-commitments-of-traders-report-twice-weekly",
+    "ts": 1793112072000,
     "tags": []
    }
   ],
@@ -568,7 +570,25 @@
   ],
   "MarketWatch": [
    {
-    "t": "U.S. economy is gathering steam. This is the chief reason why.",
+    "t": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
+    "tt": null,
+    "s": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
+    "ts": 1793119080000,
+    "tags": []
+   },
+   {
+    "t": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
+    "tt": null,
+    "s": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+    "ts": 1793118240000,
+    "tags": []
+   },
+   {
+    "t": "The U.S. economy is gathering steam. This is the chief reason why.",
     "tt": "ABD ekonomisi ivme kazanıyor. Bunun başlıca nedeni budur.",
     "s": "The AI boom shows no sign of easing as Anthropic prepares to go public and businesses gobble up durable goods.",
     "ss": "Anthropic halka açılmaya hazırlanırken ve işletmeler dayanıklı malları silip süpürürken yapay zeka patlaması herhangi bir rahatlama belirtisi göstermiyor.",
@@ -638,27 +658,27 @@
     "u": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
     "ts": 1793113320000,
     "tags": []
-   },
-   {
-    "t": "Microsoft earnings will look funky — but an elusive number is finally arriving",
-    "tt": "Microsoft'un kazançları harika görünecek – ancak sonunda bulunması zor bir rakam geliyor",
-    "s": "Microsoft is about to pull back the curtain on Azure revenue, giving investors a better understanding of the cloud business.",
-    "ss": "Microsoft, Azure gelirindeki perdeyi geri çekerek yatırımcıların bulut işini daha iyi anlamasını sağlamak üzere.",
-    "u": "https://www.marketwatch.com/story/microsoft-earnings-will-look-funky-but-an-elusive-number-is-finally-arriving-73236a94?mod=mw_rss_topstories",
-    "ts": 1793112780000,
-    "tags": []
-   },
-   {
-    "t": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-    "tt": "Kocam 1,5 milyon dolarlık evimizi satıp küçültmek istiyor. Ama burası çocuklarımızı büyüttüğümüz yer ve ben buradan ayrılmaya dayanamıyorum.",
-    "s": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-    "ss": "\"Artık boş yuvacılar olduğumuza göre 600.000 $'a bir şey satın almak istiyor.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-    "ts": 1793111400000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Trump Answers Obama's \"Cheesecake Factory\" White House Jab: \"That Just Shows Why You Were A Lousy President\"",
+    "tt": null,
+    "s": "Trump Answers Obama's \"Cheesecake Factory\" White House Jab: \"That Just Shows Why You Were A Lousy President\" President Trump on Monday answered Barack Obama's weekend jab that the renovated White House looks like a Cheesecake Factory , telling reporters at Joint Base Andrews before a campaign trip t",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/trump-answers-obamas-cheesecake-factory-white-house-jab-just-shows-why-you-were-lousy",
+    "ts": 1793119500000,
+    "tags": []
+   },
+   {
+    "t": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
+    "tt": null,
+    "s": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's Authored by Charles Kennedy via OilPrice , The average price Americans have paid for gasoline during President Donald Trump's second term has now surpassed the average recorded during Joe Biden's presidency , marking a politically signifi",
+    "ss": null,
+    "u": "https://www.zerohedge.com/personal-finance/iran-war-pushes-trumps-average-gasoline-prices-above-bidens",
+    "ts": 1793117700000,
+    "tags": []
+   },
    {
     "t": "Comey Charged A Third Time, Over An Alleged 2016 Leak Of Defense Information To A Reporter",
     "tt": "Comey, 2016 yılında savunma bilgilerinin bir muhabire sızdırıldığı iddiası nedeniyle üçüncü kez suçlandı",
@@ -730,27 +750,27 @@
     "u": "https://www.zerohedge.com/markets/americans-consumer-confidence-rebounded-dramatically-covid-lows-october",
     "ts": 1793110200000,
     "tags": []
-   },
-   {
-    "t": "Iran Says Tanker On Fire After Mine Strike, Following US Commander's Rare Hormuz Flyover",
-    "tt": "İran, ABD'li Komutanın Nadir Hürmüz Üst Geçidinin Ardından Mayın Saldırısı Sonrası Tankerin Alev Aldığını Söyledi",
-    "s": "Iran Says Tanker On Fire After Mine Strike, Following US Commander's Rare Hormuz Flyover Iran has continued hunting tankers in the Strait of Hormuz over the weekend, and on Monday its state media has cited the IRGC to say an 'offending' oil tanker caught fire after hitting mines east of the Strait o",
-    "ss": "İran, ABD Komutanı'nın Nadir Hürmüz Uçuşunun Ardından Mayın Saldırısından Sonra Tankerin Yandığını Söyledi İran, hafta sonu Hürmüz Boğazı'nda tanker avlamaya devam etti ve Pazartesi günü devlet medyası, İran Devrim Muhafızları'ndan, 'rahatsız edici' bir petrol tankerinin Boğaz'ın doğusundaki mayınlara çarptıktan sonra alev aldığını söylediğini aktardı.",
-    "u": "https://www.zerohedge.com/geopolitical/iran-says-tanker-fire-after-mine-strike-following-us-commanders-rare-hormuz-flyover",
-    "ts": 1793109000000,
-    "tags": []
-   },
-   {
-    "t": "Bolsonaro Drops Annulment Bid As Party Concedes To Lula, Vows Congressional \"Fortress\" Against Socialist Rule",
-    "tt": "Bolsonaro, Partinin Lula'yı Kabul Etmesi ve Kongreye Sosyalist Yönetime Karşı \"Kale\" Yemini Vermesiyle İptal Teklifini Geri Çekti",
-    "s": "Bolsonaro Drops Annulment Bid As Party Concedes To Lula, Vows Congressional \"Fortress\" Against Socialist Rule After the Brazilian runoff election, right-wing Flávio Bolsonaro has abandoned plans to seek its annulment , as his Liberal Party has formally recognized the reelection of socialist Presiden",
-    "ss": "Bolsonaro, Partinin Sosyalist Yönetime Karşı Kongre'ye \"Kale\" Yemini Vererek Lula'yı Kabul Etmesiyle İptal Teklifini Geri Çekti Brezilya'daki ikinci tur seçimlerden sonra, sağcı Flávio Bolsonaro, Liberal Partisi'nin sosyalist Başkanın yeniden seçilmesini resmen tanıması nedeniyle, bunun iptalini isteme planlarından vazgeçti.",
-    "u": "https://www.zerohedge.com/markets/bolsonaro-drops-annulment-bid-party-concedes-lula-vows-congressional-fortress-against",
-    "ts": 1793108100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Fitch: Türkiye'nin borçlanma piyasası 2027'ye kadar 550 milyar dolara ulaşabilir",
+    "tt": null,
+    "s": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, Türkiye'nin borçlanma sermaye piyasasında büyümenin devam etmesini ve piyasanın 2027'ye kadar 550 milyar dolarlık büyüklüğe ulaşmasını bekliyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fitch-turkiye-nin-borclanma-piyasasi-2027-ye-kadar-550-milyar-dolara-ulasabilir-3792696",
+    "ts": 1793118468000,
+    "tags": []
+   },
+   {
+    "t": "Türkiye ile İtalyan enerji devi Eni arasında petrolde işbirliği hazırlığı",
+    "tt": null,
+    "s": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin İtalyan enerji şirketi Eni ile petrol alanında büyük bir proje üzerinde çalıştığını ve yakında önemli bir duyuru yapılacağını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkiye-ile-italyan-enerji-devi-eni-arasinda-petrolde-isbirligi-hazirligi-3792695",
+    "ts": 1793117307000,
+    "tags": []
+   },
    {
     "t": "OpenAI, yapay zekayla köklü bir hipotezi çürüttüğünü duyurdu",
     "tt": null,
@@ -822,24 +842,6 @@
     "u": "https://www.bloomberght.com/abd-de-dayanikli-mal-siparisleri-artti-3792678",
     "ts": 1793106740000,
     "tags": []
-   },
-   {
-    "t": "\"Her beş kişiden biri anlamadığı için sigorta yaptırmıyor\"",
-    "tt": null,
-    "s": "HDI Sigorta ve Veri Enstitüsü iş birliğiyle gerçekleştirilen araştırmaya göre, Türkiye'de her beş kişiden biri sigorta ürününü tam olarak anlamadığı için satın alma kararını erteliyor veya ürünü almaktan vazgeçiyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/her-bes-kisiden-biri-anlamadigi-icin-sigorta-yaptirmiyor-3792677",
-    "ts": 1793106495000,
-    "tags": []
-   },
-   {
-    "t": "SIPRI: Artan askeri harcamalar gıda krizini derinleştiriyor",
-    "tt": null,
-    "s": "Stockholm Uluslararası Barış Araştırmaları Enstitüsü (SIPRI), artan jeopolitik riskler karşısında askeri harcamalara öncelik verilmesinin küresel insani yardım bütçeleri üzerinde baskı oluşturduğunu, bu durumun küresel güvensizliği, yapısal yoksulluğu ve gıda krizlerini derinleştiren en büyük unsurl",
-    "ss": null,
-    "u": "https://www.bloomberght.com/sipri-artan-askeri-harcamalar-gida-krizini-derinlestiriyor-3792675",
-    "ts": 1793105321000,
-    "tags": []
    }
   ]
  },
@@ -855,6 +857,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
