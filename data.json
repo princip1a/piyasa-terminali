@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T22:11:20.378153+00:00",
+ "generated": "2026-10-27T22:49:42.305221+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4075.0,
+   "p": 4075.2,
    "c": 0.91,
-   "d": 36.6,
+   "d": 36.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.485,
-   "c": 0.7,
-   "d": 0.377,
+   "p": 54.545,
+   "c": 0.81,
+   "d": 0.437,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 100.2,
-   "c": -1.53,
-   "d": -1.56,
+   "p": 99.98,
+   "c": -1.75,
+   "d": -1.78,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 109.57,
-   "c": -5.39,
-   "d": -6.24,
+   "p": 109.44,
+   "c": -5.5,
+   "d": -6.37,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.359,
-   "c": 0.39,
-   "d": 0.399,
+   "p": 102.365,
+   "c": 0.4,
+   "d": 0.405,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8081,
-   "c": 0.14,
-   "d": 0.069,
+   "p": 49.8346,
+   "c": 0.19,
+   "d": 0.096,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80783,
-   "c": 1.06,
+   "p": 80776,
+   "c": 1.1,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2346.11,
-   "c": 1.64,
+   "p": 2346.53,
+   "c": 1.57,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 101.14,
-   "c": 0.79,
+   "p": 101.13,
+   "c": 0.91,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.32,
-   "c": 2.39,
+   "c": 2.57,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 744.93,
-   "c": 0.46,
+   "p": 744.15,
+   "c": 0.39,
    "k": "usd"
   }
  ],
@@ -384,6 +384,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Haiti Crisis: El Salvador Surges Hundreds of Troops to Find Missing Soldiers",
+    "tt": null,
+    "s": "El Salvador’s troop presence in Haiti has swelled to at least 600, according to a top researcher, a reflection of President Nayib Bukele’s efforts to find four kidnapped soldiers in the troubled Caribbean nation.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/haiti-crisis-el-salvador-surges-hundreds-of-troops-to-find-missing-soldiers",
+    "ts": 1793139827000,
+    "tags": []
+   },
+   {
     "t": "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap",
     "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
     "s": "Asian stocks looked poised to rise Wednesday, tracking gains on Wall Street as renewed enthusiasm for artificial intelligence lifted equities ahead of earnings from industry giants and the Federal Reserve’s rate decision.",
@@ -462,15 +471,6 @@
     "ss": "Bankalar, Broadcom Inc.'in AI geliştiricisi Anthropic PBC için çip finansmanına yardımcı olmak üzere bir araya getirdiği 63 milyar dolarlık finansman paketinin bir parçası olarak önümüzdeki yılın başlarında yaklaşık 21 milyar dolarlık yüksek dereceli tahvil satmayı planlıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/banks-eye-21-billion-of-bonds-for-broadcom-chip-financing-deal",
     "ts": 1793131769000,
-    "tags": []
-   },
-   {
-    "t": "Indonesia’s MSCI Downgrade Threat – What It Means for Investors: Podcast",
-    "tt": "Endonezya'nın MSCI Not Düşürme Tehdidi – Yatırımcılar İçin Ne İfade Ediyor: Podcast",
-    "s": "MSCI’s double downgrade warning sparked Indonesia's sharpest market selloff in nearly 30 years. Now, billions in foreign capital are on the line.",
-    "ss": "MSCI'nın çift not düşürme uyarısı, Endonezya'nın yaklaşık 30 yıldaki en keskin piyasa satışını tetikledi. Şimdi milyarlarca dolarlık yabancı sermaye tehlikede.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-s-msci-downgrade-threat-what-it-means-for-investors-podcast",
-    "ts": 1793135618000,
     "tags": []
    }
   ],
@@ -568,6 +568,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
+    "tt": "Perakende tüccarları çip stoklarındaki düşüşü satın alıyor - ancak Robinhood kripto piyasası tarafından yakılıyor",
+    "s": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
+    "ss": "Robinhood CFO'su, piyasadaki oynaklığın tüccarları \"gerçekten araştırma yaptıkları\" çip stoklarını satın almaktan korkutmadığını söyledi.",
+    "u": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+    "ts": 1793141460000,
+    "tags": []
+   },
+   {
+    "t": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+    "tt": null,
+    "s": "“My late father bought our house for $250,000 in the 1990s.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+    "ts": 1793139480000,
+    "tags": []
+   },
+   {
     "t": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending",
     "tt": "Anthropic'in piyasanın sürdürülebilir harcamalara olan inancını yeniden kazanmasıyla CoreWeave ve diğer AI hisseleri yükseliyor",
     "s": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
@@ -592,15 +610,6 @@
     "ss": "Yapay zeka ticareti Eylül ayında ABD borsasını hareketlendirdi. Ancak Ekim ayında sedye üzerinde gerçekleştiriliyor.",
     "u": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
     "ts": 1793136480000,
-    "tags": []
-   },
-   {
-    "t": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-    "tt": "Perakende tüccarları çip stoklarındaki düşüşü satın alıyor - ancak Robinhood kripto piyasası tarafından yakılıyor",
-    "s": "Robinhood CFO says market volatility didn’t scare traders away from buying chip stocks “that they had really done research on.”",
-    "ss": "Robinhood CFO'su, piyasadaki oynaklığın tüccarları \"gerçekten araştırma yaptıkları\" çip stoklarını satın almaktan korkutmadığını söyledi.",
-    "u": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-    "ts": 1793136000000,
     "tags": []
    },
    {
@@ -647,18 +656,27 @@
     "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
     "ts": 1793133000000,
     "tags": []
-   },
-   {
-    "t": "What gold and platinum are telling us about the stock market’s direction",
-    "tt": "Altın ve platin bize borsanın gidişatı hakkında neler söylüyor?",
-    "s": "The gold-platinum ratio has one of the best historical records predicting the stock market’s subsequent 12-month return",
-    "ss": "Altın-platin oranı, borsanın sonraki 12 aylık getirisini öngören en iyi tarihsel kayıtlardan birine sahip",
-    "u": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
-    "ts": 1793133000000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Chicago Man Who Staged Fake Armed Robberies For $30K Gets Two Years After Botched Job Turns Deadly",
+    "tt": null,
+    "s": "Chicago Man Who Staged Fake Armed Robberies For $30K Gets Two Years After Botched Job Turns Deadly A federal judge in Chicago sentenced Parth Nayi, 29, of Woodridge, to two years in prison and a $50,000 fine on Thursday for organizing staged armed robberies so the people \"robbed\" could apply for 'U ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/chicago-man-who-staged-fake-armed-robberies-30k-gets-two-years-after-botched-job-turns",
+    "ts": 1793140800000,
+    "tags": []
+   },
+   {
+    "t": "Federal Judge Strikes Down New York Body Armor Ban",
+    "tt": null,
+    "s": "Federal Judge Strikes Down New York Body Armor Ban Authored by Jack Phillips via The Epoch Times , A federal judge this past week overturned New York state's ban on the sale and purchase of body armor , saying it violated the Constitution's Second Amendment. In a 47-page ruling on Oct. 21, U.S. Dist",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/federal-judge-strikes-down-new-york-body-armor-ban",
+    "ts": 1793139600000,
+    "tags": []
+   },
    {
     "t": "More Than 250 Hospitals Pledge To Serve Healthier Food: RFK Jr.",
     "tt": "250'den Fazla Hastane Daha Sağlıklı Gıda Sunma Sözü Verdi: RFK Jr.",
@@ -729,24 +747,6 @@
     "ss": "Gazeta do Povo'nun haberine göre, Trump, Lula'nın galibiyetini \"Başka bir Hileli Seçim\" olarak adlandırırken Bannon, Trump'a Brezilya ile bağlarını kesme çağrısında bulundu Steve Bannon, Trump yönetimine Brezilya ile diplomatik ve ticari ilişkileri kesme çağrısında bulundu. Bannon, War Room programının Pazartesi günkü bölümünde Luiz Inácio Lula da Sil'i anlattı",
     "u": "https://www.zerohedge.com/geopolitical/bannon-urges-trump-cut-ties-brazil-trump-calls-lulas-win-another-rigged-election",
     "ts": 1793130300000,
-    "tags": []
-   },
-   {
-    "t": "Appeals Court Rejects DOJ's Challenge To Suspected Noncitizen Ballots In California",
-    "tt": "Temyiz Mahkemesi Adalet Bakanlığı'nın Kaliforniya'da Vatandaş Olmadığından Şüphelenilen Oy Pusulalarına Yönelik İtirazını Reddetti",
-    "s": "Appeals Court Rejects DOJ's Challenge To Suspected Noncitizen Ballots In California Authored by Troy Myers via The Epoch Times , A federal appeals court declined to intervene in the Trump administration's lawsuit against California to sequester 20,000 mail-in ballots from individuals it suspects are",
-    "ss": "Temyiz Mahkemesi Adalet Bakanlığı'nın Kaliforniya'daki Vatandaş Olmayanlardan Şüpheli Oy Pusulalarına Yönelik İtirazını Reddetti Troy Myers tarafından The Epoch Times aracılığıyla yazılmıştır. Bir federal temyiz mahkemesi, Trump yönetiminin California'ya karşı açtığı, şüpheli kişilerden gelen 20.000 posta yoluyla oy pusulasına el konulması yönündeki davasına müdahale etmeyi reddetti.",
-    "u": "https://www.zerohedge.com/political/appeals-court-rejects-dojs-challenge-suspected-noncitizen-ballots-california",
-    "ts": 1793129400000,
-    "tags": []
-   },
-   {
-    "t": "Pentagon's Latest UFO Release: Observers Describe Silent Black Triangle Moving At 1,800 MPH Over Redacted Western US Site",
-    "tt": "Pentagon'un En Son UFO Açıklaması: Gözlemciler, Düzenlenmiş Batı ABD Sitesinde Saatte 1.800 MPH Hızla Hareket Eden Sessiz Siyah Üçgeni Tanımlıyor",
-    "s": "Pentagon's Latest UFO Release: Observers Describe Silent Black Triangle Moving At 1,800 MPH Over Redacted Western US Site Two senior military observers say they watched a black triangular object fly at extraordinary speed over a sensitive site in the western US earlier this year, according to the ne",
-    "ss": "Pentagon'un En Son UFO Açıklaması: Gözlemciler, Redacted Batı ABD Sitesi Üzerinden Saatte 1.800 MPH Hızla Hareket Eden Sessiz Siyah Üçgeni Tanımlıyor İki üst düzey askeri gözlemci, bu yılın başlarında ABD'nin batısındaki hassas bir bölge üzerinde siyah üçgen bir nesnenin olağanüstü hızda uçtuğunu izlediklerini söyledi.",
-    "u": "https://www.zerohedge.com/political/pentagons-latest-ufo-release-observers-describe-silent-black-triangle-moving-1800-mph",
-    "ts": 1793127600000,
     "tags": []
    }
   ],
@@ -855,6 +855,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
