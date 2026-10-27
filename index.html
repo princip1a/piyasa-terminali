@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Piyasa Terminali</title>
+<style>
+:root{color-scheme:dark;--bg:#0f1214;--pn:#15191c;--bd:#242b30;--fg:#cfd6db;--dim:#7d8a93;--up:#6aa884;--dn:#c4706b;--am:#a89363}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:13.5px/1.5 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+header{display:flex;flex-wrap:wrap;gap:6px 22px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--bd);background:var(--pn)}
+header h1{margin:0;font-size:13px;letter-spacing:.1em;font-weight:600}
+.tk{display:flex;gap:18px;overflow-x:auto;flex:1;min-width:0}.tk div{white-space:nowrap}.tk small{color:var(--dim);margin-right:6px}
+.up{color:var(--up)}.dn{color:var(--dn)}.dim{color:var(--dim)}.am{color:var(--am)}
+#meta{padding:6px 16px;color:var(--dim);font-size:12px;border-bottom:1px solid var(--bd)}
+main{display:grid;grid-template-columns:1.25fr 1fr;gap:12px;padding:12px 16px 24px}
+.col{display:flex;flex-direction:column;gap:12px;min-width:0}
+.card{background:var(--pn);border:1px solid var(--bd);border-radius:6px;padding:12px;min-width:0}
+h2{margin:0 0 10px;font-size:11px;font-weight:600;letter-spacing:.08em;color:var(--dim);text-transform:uppercase}
+.tabs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.tabs button{background:transparent;color:var(--dim);border:1px solid var(--bd);border-radius:4px;padding:3px 10px;font:inherit;cursor:pointer}
+.tabs button.on{color:var(--fg);border-color:var(--dim)}
+.nw{padding:9px 0;border-bottom:1px solid var(--bd)}.nw:last-child{border:0}
+.nw a{color:var(--fg);text-decoration:none;font-weight:600}.nw a:hover{text-decoration:underline}
+.nw p{margin:3px 0 5px;color:#aab4bb}.o{color:var(--dim);font-size:12px}
+.chip{display:inline-block;font-size:11px;border:1px solid var(--bd);border-radius:3px;padding:0 6px;margin:0 4px 2px 0}
+.chip.up,.chip.dn{border-color:currentColor}
+.tw{overflow-x:auto}table{width:100%;border-collapse:collapse;min-width:340px}
+th,td{padding:5px 8px;text-align:left;border-bottom:1px solid var(--bd);white-space:nowrap}th{color:var(--dim);font-weight:500;font-size:12px}
+tr.past{opacity:.5}.High{color:var(--dn)}.Medium{color:var(--am)}.Low,.Holiday{color:var(--dim)}
+.a{border-left:3px solid var(--am);padding:4px 8px;background:#12161a;border-radius:3px;margin-top:6px}.a.p{border-color:var(--up)}.a.n{border-color:var(--dn)}
+.ev{border:1px solid var(--bd);border-radius:6px;padding:8px;margin-bottom:8px}
+.links a{display:inline-block;margin:0 10px 6px 0;color:var(--fg)}
+.foot{padding:0 16px 20px;color:var(--dim);font-size:12px}
+@media(max-width:860px){main{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><h1>PİYASA TERMİNALİ</h1><div class="tk" id="tk"></div></header>
+<div id="meta">Yükleniyor...</div>
+<main>
+<div class="col">
+ <div class="card"><h2>Haberler</h2><div class="tabs" id="tabs"></div><div id="news"></div></div>
+</div>
+<div class="col">
+ <div class="card"><h2>Açıklanan verilerin okuması</h2><div id="rd"></div></div>
+ <div class="card"><h2>ABD veri takvimi · Türkiye saati</h2><div class="tw"><table id="cal"></table></div></div>
+ <div class="card"><h2>Faizler ve makro (FRED)</h2><div class="tw"><table id="fr"></table></div></div>
+ <div class="card"><h2>Screw Street</h2><div class="links" id="ss"></div></div>
+</div>
+</main>
+<div class="foot">Veriler otomatik toplanır (Yahoo Finance, CoinGecko, FRED, haber RSS akışları) ve yaklaşık 20 dakikada bir yenilenir; gecikme olabilir. Haber başlıkları ve özetleri makine çevirisidir. ▲▼ etiketleri başlıktaki anahtar kelimelere dayanan yaklaşık bir okumadır; veri okuması genel eğilimlere dayanır. Yatırım tavsiyesi değildir.</div>
+<script>
+const $=id=>document.getElementById(id),h=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
+const nf=(v,d=2)=>Number(v).toLocaleString("tr-TR",{maximumFractionDigits:d});
+const sg=v=>(v>0?"+":v<0?"−":"")+nf(Math.abs(v));
+let D=null,cur=null;
+function link(href,txt,cls){const a=h("a",cls||"",txt);a.href=href;a.target="_blank";a.rel="noopener noreferrer";return a}
+async function load(){try{D=await (await fetch("data.json?t="+Date.now(),{cache:"no-store"})).json();if(!D.generated){$("meta").textContent="İlk veri henüz toplanmadı; Actions sekmesinden çalıştırmayı bekle.";return}draw()}catch(e){$("meta").textContent="data.json okunamadı."}}
+function draw(){
+ const age=Math.round((Date.now()-new Date(D.generated))/60000);
+ const errs=Object.keys(D.errors||{}).filter(k=>!k.includes(":"));
+ $("meta").textContent="Son güncelleme: "+new Date(D.generated).toLocaleString("tr-TR",{timeZone:"Europe/Istanbul",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})+" (TSİ) · "+age+" dk önce"+(errs.length?" · alınamayan kaynak: "+errs.join(", "):"");
+ $("tk").textContent="";[...(D.prices||[]),...(D.crypto||[])].forEach(p=>{const e=h("div");e.append(h("small","",p.n),document.createTextNode(nf(p.p,p.p<10?3:2)+" "));
+  const c=p.k==="yield"?p.d:p.c;e.append(h("span",c>=0?"up":"dn",p.k==="yield"?sg(c)+" puan":sg(c)+"%"));$("tk").append(e)});
+ // haberler
+ const srcs=Object.keys(D.news||{});if(!cur||!D.news[cur])cur=srcs[0];
+ $("tabs").textContent="";srcs.forEach(s=>{const b=h("button",s===cur?"on":"",s);b.onclick=()=>{cur=s;draw()};$("tabs").append(b)});
+ $("news").textContent="";(D.news[cur]||[]).forEach(n=>{const e=h("div","nw");e.append(link(n.u,n.tt||n.t));if(n.tt)e.append(h("div","o",n.t));
+  if(n.ss||n.s)e.append(h("p","",n.ss||n.s));(n.tags||[]).forEach(x=>e.append(h("span","chip "+(x.includes("▲")?"up":"dn"),x)));
+  if(n.ts)e.append(h("div","o",new Date(n.ts).toLocaleString("tr-TR",{timeZone:"Europe/Istanbul",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})));$("news").append(e)});
+ // okuma
+ $("rd").textContent="";const done=(D.events||[]).filter(e=>e.reading).sort((a,b)=>b.ts-a.ts).slice(0,4);
+ if(!done.length)$("rd").append(h("div","dim","Henüz değerlendirilecek açıklanmış veri yok."));
+ done.forEach(e=>{const b=h("div","ev");b.append(h("b","",e.title+" · "+e.tr),h("div","dim","Açıklanan "+e.actual+" · Beklenti "+e.forecast+" · Önceki "+(e.previous||"-")));
+  e.reading.forEach(a=>{const c=h("div","a "+(a.v>0?"p":a.v<0?"n":""));c.append(h("b",a.v>0?"up":a.v<0?"dn":"am",a.n+": "+(a.v>0?"▲ POZİTİF":a.v<0?"▼ NEGATİF":"● NÖTR")+(a.v?" ("+(a.s<.5?"hafif":a.s<.9?"orta":"güçlü")+")":"")),h("div","dim",a.why));b.append(c)});$("rd").append(b)});
+ // takvim
+ const cal=$("cal");cal.textContent="";const hr=cal.insertRow();["Zaman","Önem","Veri","Beklenti","Önceki","Açıklanan"].forEach(x=>hr.append(h("th","",x)));
+ (D.events||[]).filter(e=>e.impact==="High"||e.impact==="Medium").forEach(e=>{const r=cal.insertRow();if(e.ts<Date.now())r.className="past";
+  [[e.tr],[e.impact,e.impact],[e.title],[e.forecast||"-"],[e.previous||"-"],[e.actual||"-",e.actual?"am":""]].forEach(([x,c])=>{const td=r.insertCell();td.textContent=x;if(c)td.className=c})});
+ // fred
+ const fr=$("fr");fr.textContent="";const fh=fr.insertRow();["Gösterge","Son","Değişim","Tarih"].forEach(x=>fh.append(h("th","",x)));
+ (D.fred||[]).forEach(f=>{const r=fr.insertRow(),d=f.v-f.prev;r.insertCell().textContent=f.n;r.insertCell().textContent=nf(f.v)+(f.u==="%"?"%":"");const c=r.insertCell();c.textContent=sg(d);c.className=d>=0?"up":"dn";r.insertCell().textContent=f.date});
+ // screw street
+ $("ss").textContent="";[["Ana sayfa","https://screwstreet.com/"],["Haberler","https://screwstreet.com/news"],["Makro","https://screwstreet.com/macro"],["Hareketliler","https://screwstreet.com/movers"],["Isı haritası","https://screwstreet.com/heatmap"],["Sektörler","https://screwstreet.com/sectors"],["Takvim","https://screwstreet.com/calendar"],["Opsiyonlar","https://screwstreet.com/options"]].forEach(([t,u])=>$("ss").append(link(u,t+" ↗")));
+}
+load();setInterval(load,300000);
+</script>
+</body>
+</html>
