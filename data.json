@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T02:20:19.242871+00:00",
+ "generated": "2026-10-28T03:19:11.559952+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 52377.57,
+   "p": 52377.6,
    "c": 0.03,
-   "d": 15.992,
+   "d": 16.022,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4060.6,
-   "c": -0.34,
-   "d": -14.0,
+   "p": 4061.4,
+   "c": -0.32,
+   "d": -13.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.07,
-   "c": -0.41,
-   "d": -0.223,
+   "p": 54.175,
+   "c": -0.22,
+   "d": -0.118,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.37,
-   "c": 1.47,
-   "d": 1.47,
+   "p": 101.15,
+   "c": 1.25,
+   "d": 1.25,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.3,
-   "c": -2.27,
-   "d": -2.58,
+   "p": 110.77,
+   "c": -2.73,
+   "d": -3.11,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.392,
-   "c": 0.07,
-   "d": 0.072,
+   "p": 102.379,
+   "c": 0.06,
+   "d": 0.059,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8317,
-   "c": 0.1,
-   "d": 0.051,
+   "p": 49.8099,
+   "c": 0.06,
+   "d": 0.029,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81001,
-   "c": 1.32,
+   "p": 80862,
+   "c": 1.63,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2358.89,
-   "c": 1.75,
+   "p": 2355.24,
+   "c": 2.1,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 101.76,
-   "c": 1.32,
+   "p": 101.58,
+   "c": 1.7,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.34,
-   "c": 3.18,
+   "p": 1.33,
+   "c": 2.96,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 744.74,
-   "c": 0.48,
+   "p": 744.82,
+   "c": 1.01,
    "k": "usd"
   }
  ],
@@ -233,7 +233,7 @@
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "-0.1M",
+   "forecast": "0.1M",
    "previous": "-3.1M",
    "actual": "",
    "ts": 1793197800000,
@@ -293,7 +293,7 @@
   {
    "title": "Advance GDP Price Index q/q",
    "impact": "Medium",
-   "forecast": "3.3%",
+   "forecast": "3.2%",
    "previous": "6.2%",
    "actual": "",
    "ts": 1793277000000,
@@ -333,7 +333,7 @@
   {
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "75B",
    "previous": "77B",
    "actual": "",
    "ts": 1793284200000,
@@ -384,36 +384,22 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Jio Platforms Listing Live Updates: Ambani Firm's Trading Debut After Record IPO",
+    "tt": "Jio Platformları Canlı Güncellemeleri Listeliyor: Ambani Firmasının Rekor Halka Arzdan Sonra İlk Ticaretine Çıkışı",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/live-blog/2026-10-28/jio-platforms-trading-debut",
+    "ts": 1793156688000,
+    "tags": []
+   },
+   {
     "t": "Asian Stocks Climb on AI Trade Optimism, Oil Gains: Markets Wrap",
     "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
-    "s": "Asian stocks rose for a second day as enthusiasm over the artificial intelligence trade lifted equities ahead of earnings from tech megacaps and the Federal Reserve’s interest-rate decision. Crude oil rose.",
+    "s": "Asian stocks advanced for a second day as enthusiasm over the artificial intelligence trade lifted equities ahead of earnings from tech megacaps and the Federal Reserve’s interest-rate decision. Crude oil rose.",
     "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
     "ts": 1793138947000,
     "tags": []
-   },
-   {
-    "t": "India’s Record Bank Cash Surplus Fades as RBI Curbs Rupee Bets",
-    "tt": null,
-    "s": "A record cash surplus at Indian banks is fading quickly as the central bank keeps liquidity tight to curb bets against the currency.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/india-s-record-bank-cash-surplus-fades-as-rbi-curbs-rupee-bets",
-    "ts": 1793152270000,
-    "tags": []
-   },
-   {
-    "t": "New Zealand Dollar Slides Most Versus Aussie Since 2017 on RBNZ",
-    "tt": null,
-    "s": "The New Zealand dollar tumbled after the central bank unexpectedly kept its policy rate on hold, defying economists’ forecasts for an interest-rate hike.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/new-zealand-dollar-slides-most-versus-aussie-since-2017-on-rbnz",
-    "ts": 1793152236000,
-    "tags": [
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    },
    {
     "t": "Latest Oil Market News and Analysis for Oct. 28",
@@ -425,19 +411,51 @@
     "tags": []
    },
    {
+    "t": "Jio Looks to Break India Mega-IPO Jinx With a Blockbuster Stock-Market Debut",
+    "tt": "Jio, Hindistan'ın Mega Halka Arzı Jinx'i Gişe Rekortmeni Bir Borsaya Çıkışıyla Kırmayı Hedefliyor",
+    "s": "A gray-market premium of about 22% suggests investors are betting on a strong start.",
+    "ss": "Yaklaşık %22'lik gri piyasa primi, yatırımcıların güçlü bir başlangıç ​​yapacağına dair bahis oynadıklarını gösteriyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-28/jio-looks-to-break-india-mega-ipo-jinx-with-a-blockbuster-stock-market-debut",
+    "ts": 1793154931000,
+    "tags": []
+   },
+   {
+    "t": "India’s Record Bank Cash Surplus Fades as RBI Curbs Rupee Bets",
+    "tt": "Hindistan'ın Rekor Banka Nakit Fazlası, RBI'nin Rupi Bahislerini Kısıtlamasıyla Azaldı",
+    "s": "A record cash surplus at Indian banks is fading quickly as the central bank keeps liquidity tight to curb bets against the currency.",
+    "ss": "Hint bankalarındaki rekor nakit fazlası, merkez bankasının para birimine karşı bahisleri sınırlamak için likiditeyi sıkı tutması nedeniyle hızla azalıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/india-s-record-bank-cash-surplus-fades-as-rbi-curbs-rupee-bets",
+    "ts": 1793152270000,
+    "tags": []
+   },
+   {
+    "t": "New Zealand Dollar Slides Most Versus Aussie Since 2017 on RBNZ",
+    "tt": "RBNZ'de Yeni Zelanda Doları Avustralya Doları karşısında 2017'den bu yana en büyük düşüşünü yaşadı",
+    "s": "The New Zealand dollar tumbled after the central bank unexpectedly kept its policy rate on hold, defying economists’ forecasts for an interest-rate hike.",
+    "ss": "Yeni Zelanda doları, merkez bankasının beklenmedik bir şekilde politika faizini sabit tutarak ekonomistlerin faiz artırımı tahminlerine meydan okumasının ardından değer kaybetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/new-zealand-dollar-slides-most-versus-aussie-since-2017-on-rbnz",
+    "ts": 1793152236000,
+    "tags": [
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Dongshan Precision Slips in Debut After $1.3 Billion HK Listing",
-    "tt": null,
+    "tt": "Dongshan Precision, 1,3 Milyar Dolarlık HK Listesinden Sonra İlk Çıkışını Yaptı",
     "s": "Suzhou Dongshan Precision Manufacturing Co. shares slumped on their first day of trading in Hong Kong after the company raised HK$9.9 billion ($1.3 billion), a debut that tests investor appetite for artificial intelligence-linked listings after a sharp market pullback.",
-    "ss": null,
+    "ss": "Suzhou Dongshan Precision Manufacturing Co. hisseleri, şirketin 9,9 milyar HK$ (1,3 milyar $) artırmasının ardından Hong Kong'da işlem görmesinin ilk gününde düştü; bu, keskin bir piyasa gerilemesinin ardından yatırımcıların yapay zeka bağlantılı listelemelere yönelik iştahını test eden bir başlangıç ​​oldu.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing",
     "ts": 1793142000000,
     "tags": []
    },
    {
     "t": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-    "tt": null,
+    "tt": "Pop Mart'ın Üçüncü Çeyrek Satışları Labubu Fad'ın Soğumasıyla %50'ye Kadar Düştü",
     "s": "Pop Mart International Group Ltd. fell in Hong Kong after the company reported a sharp dip in third-quarter sales, as fading demand for its blockbuster Labubu franchise and a challenging base of comparison weighed on results.",
-    "ss": null,
+    "ss": "Hong Kong'da Pop Mart International Group Ltd., şirketin üçüncü çeyrek satışlarında keskin bir düşüş bildirmesinin ardından, gişe rekorları kıran Labubu franchise'ına olan talebin azalması ve zorlu karşılaştırma tabanının sonuçlar üzerinde baskı yaratması nedeniyle düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
     "ts": 1793090520000,
     "tags": []
@@ -458,24 +476,6 @@
     "ss": "Goldman Sachs Başkan Yardımcısı ve eski Dallas Fed şefi Robert Kaplan, merkez bankasının ekonomik göstergeleri değerlendirmeye devam ederken faiz artırımını bir toplantıya ertelemeyi göze alabileceğini söyledi. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-10-28/robert-kaplan-fed-can-wait-before-hiking-rates-video",
     "ts": 1793148585000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-    "tt": "Anthropic'in, IPO'nun ABD Perakende Arzına Liderlik Etmek İçin JPMorgan'ı Seçtiği Söylendi",
-    "s": "Anthropic PBC has tapped JPMorgan Chase &amp; Co. to lead US sales of shares to individual investors in its potentially record-setting initial public offering, people familiar with the matter said.",
-    "ss": "Konuya aşina olan kaynaklar, Anthropic PBC'nin potansiyel olarak rekor kıran ilk halka arzında ABD'nin bireysel yatırımcılara hisse satışlarına liderlik etmesi için JPMorgan Chase & Co.'dan yardım aldığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering",
-    "ts": 1793147553000,
-    "tags": []
-   },
-   {
-    "t": "Gold Holds Above $4,000 as Traders Look to Fed Rate Decision",
-    "tt": "Yatırımcılar Fed Faiz Kararını Beklerken Altın 4.000 Doların Üzerinde Tutuluyor",
-    "s": "Gold steadied above $4,000 an ounce as dip buyers entered the market before the Federal Reserve’s interest-rate decision due later Wednesday.",
-    "ss": "Altın, Fed'in Çarşamba günü ilerleyen saatlerde açıklayacağı faiz kararı öncesinde dip alıcılarının piyasaya girmesiyle ons başına 4.000 doların üzerinde dengelendi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-    "ts": 1793144218000,
     "tags": []
    }
   ],
@@ -574,9 +574,9 @@
   "MarketWatch": [
    {
     "t": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-    "tt": null,
+    "tt": "Silikon Vadisi'nin önde gelen amigo kızlarından biri, yapay zeka balonu hakkında endişelenmek için gereken tüm nedenleri gösterdi",
     "s": "If you needed any further reasons to be worried about the bubble that has inflated the stock market, look no further.",
-    "ss": null,
+    "ss": "Borsayı şişiren balon hakkında endişelenmek için başka bir nedene ihtiyacınız varsa, başka yere bakmayın.",
     "u": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
     "ts": 1793153700000,
     "tags": []
@@ -665,19 +665,37 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Startup Unveils \"Big Iron\" Rocket Whose Upper Stage Is An Orbital Data Center",
+    "tt": "Startup, Üst Aşaması Orbital Veri Merkezi Olan \"Büyük Demir\" Roketini Tanıttı",
+    "s": "Startup Unveils \"Big Iron\" Rocket Whose Upper Stage Is An Orbital Data Center Cowboy Space Corporation, the former Aetherflux founded by Robinhood co-founder Baiju Bhatt, on Monday unveiled \"Big Iron,\" a rocket whose upper stage is designed to stay in orbit as a megawatt-class data center , rather t",
+    "ss": "Startup, Üst Aşaması Orbital Veri Merkezi Olan \"Büyük Demir\" Roketini Tanıttı Robinhood'un kurucu ortağı Baiju Bhatt tarafından kurulan eski Aetherflux Cowboy Space Corporation, Pazartesi günü, üst aşaması yörüngede kalacak şekilde tasarlanmış bir roket olan \"Big Iron\"ı tanıttı.",
+    "u": "https://www.zerohedge.com/ai/startup-unveils-big-iron-rocket-whose-upper-stage-orbital-data-center",
+    "ts": 1793156400000,
+    "tags": []
+   },
+   {
+    "t": "Why Can't Farmers Butcher Their Own Animals? A New Bill Could Change That",
+    "tt": "Çiftçiler Neden Kendi Hayvanlarını Kesemiyor? Yeni Bir Yasa Bunu Değiştirebilir",
+    "s": "Why Can't Farmers Butcher Their Own Animals? A New Bill Could Change That Authored by Mollie Engelhart via The Epoch Times , This past weekend, I was sitting at the Weston A. Price Foundation's Wise Traditions Conference when Rep. Thomas Massie (R-Ky.) took the stage. Before he could say a word, the",
+    "ss": "Çiftçiler Neden Kendi Hayvanlarını Kesemiyor? Yeni Bir Yasa Tasarısı Bunu Değiştirebilir Mollie Engelhart tarafından The Epoch Times aracılığıyla yazılmıştır. Geçtiğimiz hafta sonu Weston A. Price Vakfı'nın Bilge Gelenekler Konferansı'nda otururken Temsilci Thomas Massie (R-Ky.) sahneye çıktı. Daha o bir kelime söyleyemeden,",
+    "u": "https://www.zerohedge.com/political/why-cant-farmers-butcher-their-own-animals-new-bill-could-change",
+    "ts": 1793154900000,
+    "tags": []
+   },
+   {
     "t": "Top Women's Podcast Promotes Divorce Because \"There's Always Something Better\"",
-    "tt": null,
+    "tt": "En İyi Kadın Podcast'i Boşanmayı Teşvik Ediyor Çünkü \"Her Zaman Daha İyi Bir Şey Vardır\"",
     "s": "Top Women's Podcast Promotes Divorce Because \"There's Always Something Better\" If you want to know why 60% of men in the US (35-years-old or younger) have never been married and say they don't plan on getting married, study the behavior of modern women and you will find your answers in abundance.&nb",
-    "ss": null,
+    "ss": "En İyi Kadın Podcast'leri Boşanmayı Teşvik Ediyor Çünkü \"Her Zaman Daha İyi Bir Şey Vardır\" ABD'deki erkeklerin (35 yaşında veya daha genç) neden %60'ının hiç evlenmediğini bilmek istiyorsanız ve evlenmeyi planlamadıklarını söylüyorsanız, modern kadınların davranışlarını inceleyin ve yanıtlarınızı bolca bulacaksınız.&nb",
     "u": "https://www.zerohedge.com/political/top-womens-podcast-encourages-divorce-because-theres-always-something-better",
     "ts": 1793153400000,
     "tags": []
    },
    {
     "t": "First US Submarine Revealed For Deployment To Australia Under AUKUS",
-    "tt": null,
+    "tt": "AUKUS Kapsamında Avustralya'ya Konuşlandırılacak İlk ABD Denizaltısı Ortaya Çıktı",
     "s": "First US Submarine Revealed For Deployment To Australia Under AUKUS Authored by Jerry Zhu via The Epoch Times , The United States has named the first nuclear-powered submarine to be deployed to Western Australia under the AUKUS defense agreement , marking a significant milestone in Australia's plan ",
-    "ss": null,
+    "ss": "AUKUS Kapsamında Avustralya'ya Konuşlandırılacak İlk ABD Denizaltısı Ortaya Çıktı The Epoch Times aracılığıyla Jerry Zhu tarafından yazılan ABD, AUKUS savunma anlaşması kapsamında Batı Avustralya'ya konuşlandırılacak ilk nükleer enerjiye sahip denizaltının adını verdi ve bu, Avustralya'nın planında önemli bir dönüm noktası oldu.",
     "u": "https://www.zerohedge.com/military/first-us-submarine-revealed-deployment-australia-under-aukus",
     "ts": 1793151900000,
     "tags": []
@@ -735,27 +753,27 @@
     "u": "https://www.zerohedge.com/medical/who-kills-maha-backed-hepatitis-b-baby-vaccine-trial",
     "ts": 1793144400000,
     "tags": []
-   },
-   {
-    "t": "Japan Indicts U.S. Marine For Robbery And Murder Of Okinawa Woman, As U.S. Imposes Month-Long Curfew",
-    "tt": "ABD Aylık Sokağa Çıkma Yasağı Uygularken Japonya, ABD Deniz Kuvvetlerini Okinawa Kadınını Soymak ve Öldürmekle Suçladı",
-    "s": "Japan Indicts U.S. Marine For Robbery And Murder Of Okinawa Woman, As U.S. Imposes Month-Long Curfew Japanese prosecutors have indicted a U.S. Marine on robbery and murder charges over the death of a woman in a hotel in Okinawa, according to NBC News , citing Japanese media. Lance Cpl. Devin Jacob B",
-    "ss": "ABD Bir Aylık Sokağa Çıkma Yasağı Uygularken, Japonya ABD Deniz Kuvvetlerini Okinawa'lı Kadını Soymak ve Öldürmekle Suçladı NBC News'in Japon medyasına dayandırdığı haberine göre, Japon savcılar bir ABD Deniz Piyadesini Okinawa'da bir otelde bir kadının ölümüyle ilgili soygun ve cinayet suçlamalarıyla suçladı. Lance Onbaşı. Devin Jacob B",
-    "u": "https://www.zerohedge.com/geopolitical/japan-indicts-us-marine-robbery-and-murder-okinawa-woman-us-imposes-month-long-curfew",
-    "ts": 1793143200000,
-    "tags": []
-   },
-   {
-    "t": "Democracy Dies In Brazil? Bolsonaro Flees Lula's Totalitarian Crackdown As Trump Admin Plans To Grant Visas",
-    "tt": "Lula'nın Sosyalist Rejimi Siyasi Baskı Korkularını Artırırken Bolsonaro'nun ABD'ye Gideceği Bildirildi",
-    "s": "Democracy Dies In Brazil? Bolsonaro Flees Lula's Totalitarian Crackdown As Trump Admin Plans To Grant Visas Summary:&nbsp; Brazil On Brink Of Political Chaos?&nbsp; Bolsonaro Inbound To US , Trump To Issue Visas&nbsp; Democracy Dies In Brazil Under Lula's Socialist Regime&nbsp; Bolsonaro Reportedly ",
-    "ss": "Lula'nın Sosyalist Rejimi Siyasi Baskı Korkularını Beslerken Bolsonaro'nun ABD'ye Gideceği Bildirildi Özet: Bolsonaro'nun ABD'ye Uçmak İçin Arjantin'e Girdiği Bildirildi Bolsonaro, Sosyalistler Tarafından Siyasi Soruşturulmasının \"Demokrasinin Başarısız Olduğunun İşareti\" Olduğunu Söyledi Bolsonaro, P Olarak İptal Teklifini Düşürdü",
-    "u": "https://www.zerohedge.com/markets/bolsonaro-drops-annulment-bid-party-concedes-lula-vows-congressional-fortress-against",
-    "ts": 1793142488000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Petrol Suudi Arabistan'daki rafineri saldırısıyla yükseldi",
+    "tt": null,
+    "s": "Petrol, dünyanın en büyük ham petrol ihracatçısı Suudi Arabistan'daki bir rafineriye yönelik saldırının Orta Doğu'daki arz risklerine ilişkin endişeleri artırmasıyla çarşamba günü yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrol-suudi-arabistandaki-rafineri-saldirisiyla-yukseltti-3792709",
+    "ts": 1793155798000,
+    "tags": []
+   },
+   {
+    "t": "Ekonomi ve siyaset gündemi- 28 Ekim 2026",
+    "tt": null,
+    "s": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-28-ekim-2026-3792708",
+    "ts": 1793154942000,
+    "tags": []
+   },
    {
     "t": "Google DeepMind, yapay zeka modeli Genie 4'ü tanıttı",
     "tt": null,
@@ -827,24 +845,6 @@
     "u": "https://www.bloomberght.com/akbank-tan-beklentilere-paralel-11-6-milyar-tl-net-kr-3792698",
     "ts": 1793121448000,
     "tags": []
-   },
-   {
-    "t": "Kale Seramik'ten finansal yeniden yapılandırma başvurusu",
-    "tt": null,
-    "s": "Kale Seramik, bankalara olan kredi borçlarının geri ödeme vadelerini faaliyetlerinden elde ettiği nakit akışıyla uyumlu hale getirmek amacıyla finansal yeniden yapılandırma başvurusunda bulunduğunu duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kale-seramik-ten-finansal-yeniden-yapilandirma-basvurusu-3792697",
-    "ts": 1793120817000,
-    "tags": []
-   },
-   {
-    "t": "Fitch: Türkiye'nin borçlanma piyasası 2027'ye kadar 550 milyar dolara ulaşabilir",
-    "tt": null,
-    "s": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, Türkiye'nin borçlanma sermaye piyasasında büyümenin devam etmesini ve piyasanın 2027'ye kadar 550 milyar dolarlık büyüklüğe ulaşmasını bekliyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fitch-turkiye-nin-borclanma-piyasasi-2027-ye-kadar-550-milyar-dolara-ulasabilir-3792696",
-    "ts": 1793118468000,
-    "tags": []
    }
   ]
  },
@@ -860,7 +860,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
