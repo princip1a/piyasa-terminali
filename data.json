@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T22:53:00.708462+00:00",
+ "generated": "2026-10-28T23:23:36.396202+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 4069.0,
-   "c": -0.14,
-   "d": -5.6,
+   "p": 4067.0,
+   "c": -0.19,
+   "d": -7.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.91,
-   "c": -0.71,
-   "d": -0.383,
+   "p": 54.01,
+   "c": -0.52,
+   "d": -0.283,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.97,
-   "c": 2.07,
-   "d": 2.07,
+   "p": 101.99,
+   "c": 2.09,
+   "d": 2.09,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.59,
-   "c": -2.89,
-   "d": -3.29,
+   "p": 110.56,
+   "c": -2.92,
+   "d": -3.32,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8283,
+   "p": 49.831,
    "c": 0.1,
-   "d": 0.047,
+   "d": 0.05,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81219,
-   "c": 0.6,
+   "p": 81275,
+   "c": 0.62,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2358.15,
-   "c": 0.57,
+   "p": 2358.79,
+   "c": 0.56,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.46,
-   "c": 1.36,
+   "p": 102.39,
+   "c": 1.23,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 0.2,
+   "c": 0.07,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 756.27,
-   "c": 1.66,
+   "p": 757.87,
+   "c": 1.87,
    "k": "usd"
   }
  ],
@@ -384,30 +384,20 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Sprouts Sinks After Outlook Cut on Cyclospora, Consumer Woes",
-    "tt": "Cyclospora Salgını Satışları Etkiledikten Sonra Filizler Görünümü Düşürdü",
-    "s": "Sprouts Farmers Market Inc. shares tumbled after slashing its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
-    "ss": "Sprouts Farmers Market Inc. hisseleri, bakkalın satışlarının siklospora marul salgını ve tüketicinin karamsarlığı nedeniyle olumsuz etkilenmesi nedeniyle görünümü düşürmesinin ardından düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
-    "ts": 1793222680000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Decline, Fed Keeps Rates Steady: Markets Wrap",
+    "t": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "US stock futures fell in early Asian trading as investors weighed mixed earnings from megacap technology companies and the Federal Reserve held rates steady without signaling whether a December hike is likely.",
+    "s": "US stock-index futures retreated in early Asian trading after Alphabet Inc.’s earnings disappointed, reviving concerns about the billions of dollars companies are pouring into artificial intelligence.",
     "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
     "ts": 1793225507000,
     "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
+     "DXY ▼"
     ]
    },
    {
     "t": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
     "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
-    "s": "Oil dropped as traders weighed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
+    "s": "Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
     "ss": "Petrol fiyatları, tüccarların ABD'nin İran'a yönelik askeri saldırılarının yeniden başlaması ihtimalini engellemek için Orta Doğu'daki yeni diplomatik çabalara ağırlık vermesiyle düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
     "ts": 1793225101000,
@@ -417,6 +407,24 @@
      "Altın ▲",
      "BTC ▲"
     ]
+   },
+   {
+    "t": "Petrobras Pumps at Record as Iran War Upends Oil Markets",
+    "tt": "İran Savaşı Petrol Piyasalarını Yükseltirken Petrobras Rekor Arttı",
+    "s": "Brazil’s state-controlled oil producer Petrobras lifted production to a record and ran its refineries near full capacity in the third quarter, helping the country weather disruptions to global energy markets from the Iran war.",
+    "ss": "Brezilya'nın devlet kontrolündeki petrol üreticisi Petrobras, üretimi rekor seviyeye çıkardı ve rafinerilerini üçüncü çeyrekte tam kapasiteye yakın çalıştırarak, ülkenin İran savaşından dolayı küresel enerji piyasalarında yaşanan aksaklıkları atlatmasına yardımcı oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets",
+    "ts": 1793228764000,
+    "tags": []
+   },
+   {
+    "t": "Sprouts Sinks After Outlook Cut on Cyclospora, Consumer Woes",
+    "tt": "Cyclospora Salgını Satışları Etkiledikten Sonra Filizler Görünümü Düşürdü",
+    "s": "Sprouts Farmers Market Inc. shares tumbled after slashing its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
+    "ss": "Sprouts Farmers Market Inc. hisseleri, bakkalın satışlarının siklospora marul salgını ve tüketicinin karamsarlığı nedeniyle olumsuz etkilenmesi nedeniyle görünümü düşürmesinin ardından düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
+    "ts": 1793222680000,
+    "tags": []
    },
    {
     "t": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
@@ -473,15 +481,6 @@
     "ss": "Başkan Luiz Inácio Lula da Silva'nın yeniden seçilmesiyle gafil avlanan yatırımcılar, ülkenin varlıklarına yönelik yükseliş iddialarının olağanüstü bir şekilde çözülmesinin ardından Brezilya piyasalarından alım yapmaktan çekiniyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/investors-jolted-by-lula-win-search-for-bottom-after-brazil-rout",
     "ts": 1793196059000,
-    "tags": []
-   },
-   {
-    "t": "The Fed Will Deliver Price Stability, Warsh Says",
-    "tt": "Warsh, Fed'in Fiyat İstikrarını Sağlayacağını Söyledi",
-    "s": "Federal Reserve Chairman Kevin Warsh holds a press conference after officials kept interest rates unchanged. He says inflation is still too high and policy makers will \"deliver price stability.\" (Source: Bloomberg)",
-    "ss": "Fed Başkanı Kevin Warsh, yetkililerin faiz oranlarını değiştirmemesinin ardından basın toplantısı düzenledi. Enflasyonun hala çok yüksek olduğunu ve politika yapıcıların \"fiyat istikrarı sağlayacağını\" söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/the-fed-will-deliver-price-stability-warsh-says-video",
-    "ts": 1793219285000,
     "tags": []
    }
   ],
@@ -579,6 +578,26 @@
   ],
   "MarketWatch": [
    {
+    "t": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+    "tt": "Fortinet'in hisseleri kazançların ardından düşüşe geçti. İşte nedeni.",
+    "s": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+    "ss": "Fortinet'in iş segmentlerinden birinde büyümenin önemli ölçüde yavaşlaması nedeniyle siber güvenlik hisseleri genel olarak düşüyor.",
+    "u": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+    "ts": 1793229480000,
+    "tags": []
+   },
+   {
+    "t": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+    "tt": "ServiceNow'un hisseleri, kazançların artan yapay zeka görünümünü gölgelemesiyle düşüyor",
+    "s": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
+    "ss": "Milyonlarca dolarlık yapay zeka anlaşmalarındaki artışa rağmen ServiceNow'un kazanç sonuçları, yazılıma şüpheyle yaklaşanların desteğini kazanmaya yetmedi.",
+    "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+    "ts": 1793228520000,
+    "tags": [
+     "DXY ▼"
+    ]
+   },
+   {
     "t": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
     "tt": "COLA için perde mi? Sosyal Güvenlikten tasarruf etmek, yaşam maliyeti düzenlemesini değiştirmek anlamına gelebilir.",
     "s": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
@@ -642,32 +661,12 @@
     "tags": []
    },
    {
-    "t": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-    "tt": "ServiceNow'un hisseleri, kazançların artan yapay zeka görünümünü gölgelemesiyle düşüyor",
-    "s": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
-    "ss": "Milyonlarca dolarlık yapay zeka anlaşmalarındaki artışa rağmen ServiceNow'un kazanç sonuçları, yazılıma şüpheyle yaklaşanların desteğini kazanmaya yetmedi.",
-    "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-    "ts": 1793221620000,
-    "tags": [
-     "DXY ▼"
-    ]
-   },
-   {
     "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
     "tt": "Vertiv'in kazançları, Büyük Teknoloji sonuçları öncesinde yapay zeka hakkında iyimser bir sinyal gönderdi",
     "s": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
     "ss": "Yapay zeka altyapı şirketi, satış beklentilerini beş yıldan fazla bir sürenin en geniş marjıyla aştı ve sermaye gideri görünümünü yükseltti.",
     "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
     "ts": 1793220540000,
-    "tags": []
-   },
-   {
-    "t": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-    "tt": "Micron'un hisseleri SK Hynix kazancının ardından yükseldi. İşte bir sonraki büyük testi.",
-    "s": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
-    "ss": "Samsung'un sonuçları, son zamanların en düşük seviyelerinden toparlanan bellek çipi ticareti için bir sonraki büyük barometredir.",
-    "u": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-    "ts": 1793220300000,
     "tags": []
    }
   ],
@@ -765,6 +764,15 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Alphabet'in kârında yüzde 25'lik artış",
+    "tt": null,
+    "s": "ABD'li teknoloji şirketi Alphabet'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yüzde 25 artarak 127,6 milyar dolara yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/alphabet-in-krinda-yuzde-25-lik-artis-3792785",
+    "ts": 1793228353000,
+    "tags": []
+   },
+   {
     "t": "103 yıllık en büyük eser: Cumhuriyet Bayramı kutlu olsun",
     "tt": null,
     "s": "Gazi Mustafa Kemal Atatürk'ün \"En büyük eserim\" dediği Cumhuriyet 103 yaşında. Kurtuluş mücadelesinin ardından yalnızca bir yönetim değişikliğinin değil, eğitimden ekonomiye, sanayiden toplumsal yaşama uzanan büyük bir aydınlanma ve kalkınma hamlesinin de başlangıcı olan Cumhuriyet 29 Ekim 1923'te i",
@@ -843,15 +851,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734",
     "ts": 1793207585000,
-    "tags": []
-   },
-   {
-    "t": "SPK'dan yabancı finans kuruluşlarına ilişkin iddialara yanıt",
-    "tt": null,
-    "s": "SPK, yabancı finans kuruluşlarına ilişkin iddialar hakkında açıklama yaptı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spk-dan-yabanci-finans-kuruluslarina-iliskin-iddialara-yanit-3792733",
-    "ts": 1793206570000,
     "tags": []
    }
   ]
