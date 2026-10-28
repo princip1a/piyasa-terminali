@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-28T18:34:52.075385+00:00",
+ "generated": "2026-10-28T19:27:00.441473+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7736.94,
-   "c": 0.19,
-   "d": 14.34,
+   "p": 7727.79,
+   "c": 0.07,
+   "d": 5.19,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26495.451,
-   "c": 0.07,
-   "d": 17.64,
+   "p": 26446.594,
+   "c": -0.12,
+   "d": -31.217,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52478.25,
-   "c": 0.19,
-   "d": 100.68,
+   "p": 52423.6,
+   "c": 0.09,
+   "d": 46.03,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.41,
-   "c": -0.63,
-   "d": -0.11,
+   "p": 17.18,
+   "c": -1.94,
+   "d": -0.34,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4044.4,
-   "c": -0.74,
-   "d": -30.2,
+   "p": 4059.8,
+   "c": -0.36,
+   "d": -14.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.5,
-   "c": -1.46,
-   "d": -0.793,
+   "p": 53.805,
+   "c": -0.9,
+   "d": -0.488,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 103.01,
-   "c": 3.11,
-   "d": 3.11,
+   "p": 102.72,
+   "c": 2.82,
+   "d": 2.82,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.87,
-   "c": -1.77,
-   "d": -2.01,
+   "p": 111.58,
+   "c": -2.02,
+   "d": -2.3,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.401,
-   "c": 0.08,
-   "d": 0.081,
+   "p": 102.107,
+   "c": -0.21,
+   "d": -0.213,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8339,
+   "p": 49.8335,
    "c": 0.11,
    "d": 0.053,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80820,
-   "c": 0.4,
+   "p": 81086,
+   "c": 0.65,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2343.24,
-   "c": 0.05,
+   "p": 2355.18,
+   "c": 0.63,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 101.33,
-   "c": 0.57,
+   "p": 102.05,
+   "c": 1.06,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.32,
-   "c": 0.04,
+   "p": 1.33,
+   "c": 0.38,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 748.68,
-   "c": -0.0,
+   "p": 750.52,
+   "c": 0.44,
    "k": "usd"
   }
  ],
@@ -384,93 +384,102 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Petroperu Chair Eyes Rare Profit, Investors for Minority Stake",
+    "tt": "Petroperu Başkanı Nadir Kâr ve Azınlık Hissesi Yatırımcılarını Gözetliyor",
+    "s": "Petroperu’s board will look to sell a minority stake in the ailing state-owned oil giant early next year, according to its chairman, who says the company is on track to notch its first annual profit since 2021.",
+    "ss": "Petroperu'nun yönetim kurulu, şirketin 2021'den bu yana ilk yıllık kârını elde etme yolunda ilerlediğini söyleyen yönetim kurulu başkanına göre, zor durumdaki devlete ait petrol devindeki azınlık hissesini gelecek yılın başında satmayı düşünecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/petroperu-chair-eyes-rare-profit-investors-for-minority-stake",
+    "ts": 1793215183000,
+    "tags": []
+   },
+   {
+    "t": "Chickens Are Coming Home to Roost in Credit",
+    "tt": "Tavuklar Krediyle Tünemek İçin Evlerine Geliyor",
+    "s": "Leveraged loans get repriced for a new era.",
+    "ss": "Kaldıraçlı krediler yeni bir dönem için yeniden fiyatlandırılıyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-28/chickens-are-coming-home-to-roost-in-credit",
+    "ts": 1793215004000,
+    "tags": []
+   },
+   {
+    "t": "Boeing Rout a Win For Skeptics Who Rejected Wall Street Optimism",
+    "tt": "Boeing, Wall Street'teki iyimserliği reddeden şüphecilerin galibiyetini bozdu",
+    "s": "Boeing Co.’s disappointing outlook, which sparked the stock’s sharpest selloff since June 2020, handed a win to bearish investors who had shrugged off Wall Street’s increasingly bullish stance over the past several months.",
+    "ss": "Hisse senedinde Haziran 2020'den bu yana en keskin satışı tetikleyen Boeing Co.'nun hayal kırıklığı yaratan görünümü, son birkaç aydır Wall Street'in giderek artan yükseliş eğilimini umursamayan düşüş eğilimli yatırımcılara kazanç sağladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/boeing-rout-a-win-for-skeptics-who-rejected-wall-street-optimism",
+    "ts": 1793206855000,
+    "tags": []
+   },
+   {
+    "t": "Peltz’s Trian Offers $1.4 Billion to Take Wendy’s Private",
+    "tt": "Peltz's Trian, Wendy's Private'ı Almak İçin 1,4 Milyar Dolar Teklif Ediyor",
+    "s": "Nelson Peltz’s Trian Fund Management offered to buy out Wendy’s Co. for about $1.4 billion, saying the burger chain will be better off attempting a multiyear turnaround bid as a private company.",
+    "ss": "Nelson Peltz'in Trian Fon Yönetimi, Wendy's Co.'yu yaklaşık 1,4 milyar dolara satın almayı teklif ederek, burger zincirinin özel bir şirket olarak çok yıllı bir geri dönüş teklifine girişmesinin daha iyi olacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/peltz-s-trian-offers-1-4-billion-for-wendy-s-wsj-reports",
+    "ts": 1793190595000,
+    "tags": []
+   },
+   {
+    "t": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
+    "tt": "Deutsche Telekom'un Dev T-Mobile Birleşmesinde Frene Bastığı Söyleniyor",
+    "s": "Deutsche Telekom AG’s plans to combine with its American arm T-Mobile US Inc. have hit a snag, people familiar with the matter said, casting doubt on what would be the largest-ever public merger.",
+    "ss": "Konuya aşina olan kişiler, Deutsche Telekom AG'nin Amerikan kolu T-Mobile US Inc. ile birleşme planlarının çıkmaza girdiğini söyleyerek, bugüne kadarki en büyük halka açık birleşmenin ne olacağı konusunda şüphe uyandırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
+    "ts": 1793213965000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Drift After Fed Decision as Oracle Surges: Markets Wrap",
+    "tt": "Yatırımcılar Teknoloji Sonuçlarını Beklerken ABD Hisse Senetleri Kayıyor, Fed: Piyasalar Özetlendi",
+    "s": "Stocks churned after the Federal Reserve held interest rates steady, but refrained from offering a clear signal on whether it will hike in December.",
+    "ss": "ABD hisse senedi vadeli kontratları, megacap teknoloji kazançları ve Fed'in Çarşamba günü ilerleyen saatlerde açıklayacağı faiz oranı kararı öncesinde mütevazı yükselişler kaydetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793138947000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Fed's Warsh Says Monetary 'Medicine' Starting to Work",
+    "tt": "Fed'den Warsh: Parasal 'İlacın' İşe Başladığını Söyledi",
+    "s": "Federal Reserve Chairman Kevin Warsh says there are no firm conclusions right now about monetary policy during a news conference after the central bank's policy-setting Federal Open Market Committee decided to leave rates unchanged. (Source: Bloomberg)",
+    "ss": "Federal Rezerv Başkanı Kevin Warsh, merkez bankasının politika belirleyici Federal Açık Piyasa Komitesi'nin faiz oranlarını değiştirmeden bırakma kararı sonrasında düzenlediği basın toplantısında şu anda para politikası hakkında kesin bir sonuca varılmadığını söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-s-warsh-says-monetary-medicine-starting-to-work-video",
+    "ts": 1793213822000,
+    "tags": []
+   },
+   {
+    "t": "Fed Will Raise Rates in December, Clarida Predicts",
+    "tt": "Clarida, Fed'in Aralık'ta Faiz Artıracağını Tahmin Ediyor",
+    "s": "Former Federal Reserve Vice Chairman Richard Clarida expects the Fed to raise rates in December and then possibly again in March. He speaks on \"Bloomberg Surveillance: The Fed Decides.\" (Source: Bloomberg)",
+    "ss": "Eski Federal Reserve Başkan Yardımcısı Richard Clarida, Fed'in Aralık ayında ve ardından muhtemelen Mart ayında faiz artırmasını bekliyor. \"Bloomberg Gözetimi: Fed Karar Veriyor\" hakkında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-will-raise-rates-in-december-clarida-predicts-video",
+    "ts": 1793212865000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Chris Wright Says Diesel Exports From Arabian Gulf Likely to Increase",
+    "tt": "Chris Wright, Basra Körfezi'nden Dizel İhracatının Artabileceğini Söyledi",
+    "s": "Energy Secretary Chris Wright said that he expects diesel prices to be 'dropped significantly' but will need increased exports out of the Arabian Gulf to manage it amid the ongoing war with Iran. Wright also Russia's diesel output, saying that the only way Russia can benefit from recently permitted ",
+    "ss": "Enerji Bakanı Chris Wright, dizel fiyatlarının 'önemli ölçüde düşmesini' beklediğini ancak İran'la devam eden savaş nedeniyle bunu yönetebilmek için Basra Körfezi'nden ihracatın artırılmasına ihtiyaç duyacağını söyledi. Wright ayrıca Rusya'nın dizel üretiminden yararlanabilmesinin tek yolunun Rusya'nın yakın zamanda izin verilenden faydalanabileceğini ifade etti.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/diesel-from-arabian-gulf-likely-to-increase-wright-video",
+    "ts": 1793212688000,
+    "tags": []
+   },
+   {
     "t": "Gold Holds Losses After Fed Keeps Rates Steady With Two Dissents",
     "tt": "Altın, Fed'in İki Muhalefetle Faiz Oranlarını Sabit Tutmasının Ardından Kayıplarını Tuttu",
     "s": "Gold held losses after the Federal Reserve officials left interest rates unchanged and iterated their commitment to containing inflation without offering a clear signal on whether to tighten monetary policy in December.",
     "ss": "Altın, Fed yetkililerinin faiz oranlarını değiştirmemesi ve Aralık ayında para politikasının sıkılaştırılıp sıkılaştırılmayacağı konusunda net bir sinyal vermeden enflasyonu kontrol altına alma taahhütlerini yinelemesinin ardından kayıplarını korudu.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
     "ts": 1793144218000,
-    "tags": []
-   },
-   {
-    "t": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
-    "tt": "Fed Faiz Oranlarını Değiştirmedi, Cook ve Hammack Muhalefeti",
-    "s": "The Federal Open Market Committee voted 10-2 to hold its benchmark federal funds rate in a range of 3.75% to 4%. Governor Lisa Cook and Cleveland Fed President Beth Hammack were the dissenting votes. Bloomberg's Michael McKee reports. (Source: Bloomberg)",
-    "ss": "Federal Açık Piyasa Komitesi, gösterge federal fon oranını %3,75 ila %4 aralığında tutmak için 10-2 oy kullandı. Vali Lisa Cook ve Cleveland Fed Başkanı Beth Hammack muhalif oylardı. Bloomberg'den Michael McKee bildiriyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video",
-    "ts": 1793211575000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Drift as Fed Holds Rates, Gives No Signal: Markets Wrap",
-    "tt": "Yatırımcılar Teknoloji Sonuçlarını Beklerken ABD Hisse Senetleri Kayıyor, Fed: Piyasalar Özetlendi",
-    "s": "Stocks fluctuated after the Federal Reserve held interest rates steady, but refrained from offering a clear signal that it will hike in December.",
-    "ss": "ABD hisse senedi vadeli kontratları, megacap teknoloji kazançları ve Fed'in Çarşamba günü ilerleyen saatlerde açıklayacağı faiz oranı kararı öncesinde mütevazı yükselişler kaydetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793138947000,
-    "tags": []
-   },
-   {
-    "t": "Boston Tower Owner Buys It Again at 68% Discount After Default",
-    "tt": "Boston Office Tower Açık Artırmada 546 Milyon Dolara İndirimle Satılıyor",
-    "s": "A real estate investment firm bought a Boston office tower at a foreclosure auction for one-third the price it paid in 2019, a stark illustration of how far building values have fallen in the wake of the pandemic.",
-    "ss": "Bir emlak yatırım firması, haciz açık artırmasında 2019'da ödediği fiyatın üçte biri karşılığında Boston'daki bir ofis kulesini satın aldı; bu, salgının ardından bina değerlerinin ne kadar düştüğünün çarpıcı bir örneği.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
-    "ts": 1793205948000,
-    "tags": []
-   },
-   {
-    "t": "Bolsonaro huye a Miami y desata ola de memes en Brasil",
-    "tt": "Bolsonaro Miami'yle ve Brezilya'daki memlerle gurur duyuyor",
-    "s": "Flávio Bolsonaro llegó a Miami tras su sorpresiva derrota en las elecciones presidenciales de Brasil. Mientras crecen las especulaciones sobre su salida del país, las redes sociales brasileñas respondieron con una ola de memes. (Source: Bloomberg)",
-    "ss": "Flavio Bolsonaro, Brezilya'daki başkanlık seçimlerinde başarısız olarak Miami'ye gitti. País'deki salida'daki spekülasyonları göz önünde bulundurarak, Brezilya'daki sosyal grupların bir mem ile yanıt vermesini sağladık. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/bolsonaro-huye-a-miami-y-desata-ola-de-memes-en-brasil-video",
-    "ts": 1793210338000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Oct. 28",
-    "tt": "28 Ekim Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil rose as traders weighed whether the US could resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election.",
-    "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail seçimlerinin sıkı geçmesini takip etmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-    "ts": 1793138697000,
-    "tags": []
-   },
-   {
-    "t": "Goldman’s Mericle Says December Hike Looms",
-    "tt": "Goldman'dan Mericle, Aralık Zamının Yaklaşacağını Söyledi",
-    "s": "Economists expect the Federal Reserve to hold interest rates steady while keeping the door open to a December move. Goldman Sachs Chief US Economist David Mericle discusses the economic outlook ahead of the Fed’s October decision on Bloomberg Open Interest. (Source: Bloomberg)",
-    "ss": "Ekonomistler, Fed'in Aralık ayındaki bir hamleye kapıyı açık tutarken faiz oranlarını sabit tutmasını bekliyor. Goldman Sachs ABD Baş Ekonomisti David Mericle, Fed'in Ekim ayında Bloomberg Açık Faiz kararı öncesinde ekonomik görünümü tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/goldman-s-mericle-says-december-hike-looms-video",
-    "ts": 1793209295000,
-    "tags": []
-   },
-   {
-    "t": "Star Hedge Fund Trader Lemssouguer’s Woes at Arini Roil European Junk Bonds",
-    "tt": "Star Hedge Fonu Yatırımcısı Lemssouguer'in Arini Roil'deki Sıkıntıları Avrupa Önemsiz Tahviller",
-    "s": "For as long as Hamza Lemssouguer has traded high-yield debt, he’s been on the offensive, placing bets at a scale few in the cutthroat market dare to match.",
-    "ss": "Hamza Lemssouguer yüksek getirili borç ticareti yaptığı sürece ataktaydı ve kıyasıya piyasada çok az kişinin cesaret edebileceği ölçekte bahisler koyuyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/star-hedge-fund-trader-lemssouguer-s-woes-at-arini-roil-european-junk-bonds",
-    "ts": 1793209112000,
-    "tags": []
-   },
-   {
-    "t": "How Extreme Wealth Is Remaking the South",
-    "tt": "Aşırı Zenginlik Güney'i Nasıl Yeniden Yaratıyor?",
-    "s": "Nashville has always had rich residents, but the money arriving now is on a different level. An influx of ultrawealthy transplants is rapidly remaking the region, part of a broader southern wealth migration. (Source: Bloomberg)",
-    "ss": "Nashville'in her zaman zengin sakinleri oldu ama şimdi gelen para farklı bir seviyede. Ultra varlıklı nakillerin akını, güneydeki daha geniş bir zenginlik göçünün parçası olarak bölgeyi hızla yeniden şekillendiriyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-20/how-extreme-wealth-is-remaking-the-south-video",
-    "ts": 1792485059000,
-    "tags": []
-   },
-   {
-    "t": "DFW’s $12 Billion Transformation",
-    "tt": "DFW'nin 12 Milyar Dolarlık Dönüşümü",
-    "s": "One of the world’s busiest airports, Dallas-Fort Worth International Airport, is undergoing a $12 billion transformation. CEO Chris McLaughlin discusses the massive expansion as DFW targets 100 million annual passengers by 2030. He speaks on Bloomberg Open Interest. (Source: Bloomberg)",
-    "ss": "Dünyanın en yoğun havalimanlarından biri olan Dallas-Fort Worth Uluslararası Havalimanı'nda 12 milyar dolarlık bir dönüşüm yaşanıyor. CEO Chris McLaughlin, DFW'nin 2030 yılına kadar yıllık 100 milyon yolcuyu hedeflemesi nedeniyle devasa genişlemeyi tartışıyor. Bloomberg Open Interest hakkında konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/dfw-s-12-billion-transformation-video",
-    "ts": 1793208362000,
     "tags": []
    }
   ],
@@ -568,6 +577,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+    "tt": "Elon Musk, iki ila üç yıl içinde bir kablosuz taşıyıcı oluşturabileceğini söylüyor. Bu mümkün mü?",
+    "s": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
+    "ss": "Verizon 'sihirli bir değnek' olmadığını söylüyor ancak analistler SpaceX'in bazı kısayolları hedef alıyor olabileceğini belirtiyor.",
+    "u": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+    "ts": 1793213880000,
+    "tags": []
+   },
+   {
+    "t": "The U.S. government will no longer penalize American companies for making six popular peptides",
+    "tt": "ABD hükümeti artık Amerikan şirketlerini altı popüler peptid ürettikleri için cezalandırmayacak",
+    "s": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
+    "ss": "BPC-157 ve TB-500 gibi popüler sağlıklı yaşam ürünleri üreten eczanelerin bileşikleştirilmesine karşı herhangi bir işlem yapılmayacaktır.",
+    "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+    "ts": 1793213760000,
+    "tags": []
+   },
+   {
+    "t": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+    "tt": "Z kuşağı seçmenleri bize ara sınavların sosyal meselelerden ziyade hayat şartlarının karşılanmasıyla ilgili olacağını söyledi",
+    "s": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
+    "ss": "MarketWatch, birçok yaşam hedefinin kendi nesilleri için ulaşılamaz olduğunu söyleyen genç seçmenlerle konuştu.",
+    "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+    "ts": 1793213760000,
+    "tags": []
+   },
+   {
     "t": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
     "tt": "Avrupa'ya bir gezi planlıyorum. Etkileyicilerden seyahat tavsiyesi almak aptalca mı?",
     "s": "“How can I tell if something is a real experience in my price range?”",
@@ -592,15 +628,6 @@
     "ss": "Nelson Peltz'in Trian Fon Yönetimi, Wendy's için 1,4 milyar dolarlık bir teklifte bulundu ve şirketin yeniden yoluna girebilmesi için \"önemli miktarda sermaye yatırımı gerektirdiğini\" söyledi.",
     "u": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
     "ts": 1793208240000,
-    "tags": []
-   },
-   {
-    "t": "The U.S. government will no longer penalize American companies for making six popular peptides",
-    "tt": "ABD hükümeti artık Amerikan şirketlerini altı popüler peptid ürettikleri için cezalandırmayacak",
-    "s": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
-    "ss": "BPC-157 ve TB-500 gibi popüler sağlıklı yaşam ürünleri üreten eczanelerin bileşikleştirilmesine karşı herhangi bir işlem yapılmayacaktır.",
-    "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-    "ts": 1793206620000,
     "tags": []
    },
    {
@@ -638,27 +665,27 @@
     "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
     "ts": 1793201760000,
     "tags": []
-   },
-   {
-    "t": "3 reasons home prices keep going up, even though fewer people are buying",
-    "tt": "Daha az insan satın almasına rağmen ev fiyatlarının artmaya devam etmesinin 3 nedeni",
-    "s": "Weaker demand typically drives prices down, but national readings of home prices indicate that they’re still growing. What explains the disconnect?",
-    "ss": "Zayıf talep genellikle fiyatların düşmesine neden oluyor, ancak ev fiyatlarına ilişkin ulusal okumalar fiyatların hala arttığını gösteriyor. Bağlantının kesilmesini ne açıklıyor?",
-    "u": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-    "ts": 1793201580000,
-    "tags": []
-   },
-   {
-    "t": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-    "tt": "Kocam 1,5 milyon dolarlık evimizi satıp küçültmek istiyor. Ama burası çocuklarımızı büyüttüğümüz yer ve ben buradan ayrılmaya dayanamıyorum.",
-    "s": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-    "ss": "\"Artık boş yuvacılar olduğumuza göre 600.000 $'a bir şey satın almak istiyor.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-    "ts": 1793200500000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Has Apple Peaked?",
+    "tt": "Apple zirveye ulaştı mı?",
+    "s": "Has Apple Peaked? Submitted by QTR's Fringe Finance There’s no disputing that Apple remains one of the greatest companies in the history of capitalism. Its products are still insanely popular, its ecosystem remains one of the most powerful competitive advantages in modern business, and its stock con",
+    "ss": "Apple zirveye ulaştı mı? QTR'den Fringe Finance tarafından sunulmuştur. Apple'ın kapitalizm tarihindeki en büyük şirketlerden biri olmaya devam ettiğine şüphe yok. Ürünleri hâlâ inanılmaz derecede popüler, ekosistemi modern iş dünyasının en güçlü rekabet avantajlarından biri olmaya devam ediyor ve stok durumu da oldukça iyi.",
+    "u": "https://www.zerohedge.com/markets/has-apple-peaked",
+    "ts": 1793215200000,
+    "tags": []
+   },
+   {
+    "t": "California's Billionaire Tax May Cost More Than It Raises, Reports Find",
+    "tt": "Raporlara Göre Kaliforniya'nın Milyarder Vergisi Arttığından Daha Fazlasına Mal Olabilir",
+    "s": "California's Billionaire Tax May Cost More Than It Raises, Reports Find Authored by Thomas Savidge via The Daily Economy , California voters will decide on Proposition 40 , a proposal for \"a one-time 5-percent tax on the worldwide net worth of individuals exceeding $1 billion,\" this November. The me",
+    "ss": "Kaliforniya'nın Milyarder Vergisi Arttığından Daha Fazlasına Mal Olabilir, Raporlar Thomas Savidge tarafından The Daily Economy aracılığıyla yazılmıştır, Kaliforniya'daki seçmenler bu Kasım ayında \"dünya çapında net serveti 1 milyar doları aşan bireylere tek seferlik yüzde 5'lik bir vergi\" teklifi olan Teklif 40'a karar verecek. ben",
+    "u": "https://www.zerohedge.com/political/californias-billionaire-tax-may-cost-more-it-raises-reports-find",
+    "ts": 1793213100000,
+    "tags": []
+   },
    {
     "t": "Watch Live: Fed Chair Warsh Desperately Tries To Explain Why His 'Pause' Is Not Political",
     "tt": "Canlı İzle: Fed Başkanı Warsh Umutsuzca 'Duraklamasının' Neden Siyasi Olmadığını Açıklamaya Çalışıyor",
@@ -735,24 +762,6 @@
     "ss": "İspanya'da İki Yüksek Hızlı Trenin Çarpışması Sonrası En Az 64 Ölü Özet: İspanya'da Tren Kazası, Ölü Sayısı 64'e Çıkarken Ülkenin En Ölümcül Tren Kazası   Madrid'in Güneyinde İki Yüksek Hızlı Tren Çarpıştı  Ölüm Ücreti Arttı  İki yüksek hızlı tren arasında bu sabah meydana gelen çarpışmada ölenlerin sayısı",
     "u": "https://www.zerohedge.com/geopolitical/least-30-dead-after-high-speed-train-collide-south-madrid",
     "ts": 1793203200000,
-    "tags": []
-   },
-   {
-    "t": "The Mortgage Ends, But The Tax Bill Doesn't: Inside America's Property-Tax Revolt",
-    "tt": "Mortgage Bitiyor Ama Vergi Tasarısı Bitmiyor: Amerika'nın Emlak Vergisi İsyanının İçinde",
-    "s": "The Mortgage Ends, But The Tax Bill Doesn't: Inside America's Property-Tax Revolt Paying off a home ends the mortgage. It does not fix the cost of keeping the house. That distinction is becoming the economic fault line beneath America's widening property-tax revolt. Denise DiFabio/Facebook via Reaso",
-    "ss": "Mortgage Sona Eriyor Ama Vergi Yasa Tasarısı Bitmiyor: Amerika'nın Emlak Vergisi İsyanının İçinde Bir evin borcunu ödemek ipoteği sona erdiriyor. Evin bakım maliyetini düzeltmez. Bu ayrım, Amerika'nın genişleyen emlak vergisi isyanının altındaki ekonomik fay hattı haline geliyor. Denise DiFabio/Facebook, Reaso aracılığıyla",
-    "u": "https://www.zerohedge.com/personal-finance/mortgage-ends-tax-bill-doesnt-inside-americas-property-tax-revolt",
-    "ts": 1793200800000,
-    "tags": []
-   },
-   {
-    "t": "Coinbase Denies Systems Breach, Says Vendor Exposed Customer Data",
-    "tt": "Coinbase, Sistem İhlalini Reddetti, Tedarikçinin Müşteri Verilerini İfşa Ettiğini Söyledi",
-    "s": "Coinbase Denies Systems Breach, Says Vendor Exposed Customer Data Authored by Zoltan Vardai via Cointelegraph , Some Coinbase customers' contact information was exposed in a security incident at analytics vendor Amplitude , the exchange said Wednesday. The incident impacted a \"small subset\" of Coinb",
-    "ss": "Coinbase Sistem İhlalini Reddetti, Tedarikçinin Müşteri Verilerini İfşa Ettiğini Söyledi Cointelegraph aracılığıyla Zoltan Vardai tarafından yazılan borsa Çarşamba günü yaptığı açıklamada, bazı Coinbase müşterilerinin iletişim bilgilerinin analiz sağlayıcısı Amplitude'de meydana gelen bir güvenlik olayında açığa çıktığını söyledi. Olay Coinb'in \"küçük bir alt kümesini\" etkiledi",
-    "u": "https://www.zerohedge.com/crypto/coinbase-denies-systems-breach-says-vendor-exposed-customer-data",
-    "ts": 1793199600000,
     "tags": []
    }
   ],
