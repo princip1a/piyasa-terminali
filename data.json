@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T22:14:43.578487+00:00",
+ "generated": "2026-10-28T22:53:00.708462+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,16 +31,16 @@
   },
   {
    "n": "Altın",
-   "p": 4076.9,
-   "c": 0.06,
-   "d": 2.3,
+   "p": 4069.0,
+   "c": -0.14,
+   "d": -5.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.075,
-   "c": -0.4,
-   "d": -0.218,
+   "p": 53.91,
+   "c": -0.71,
+   "d": -0.383,
    "k": "usd"
   },
   {
@@ -52,16 +52,16 @@
   },
   {
    "n": "Brent",
-   "p": 110.5,
-   "c": -2.97,
-   "d": -3.38,
+   "p": 110.59,
+   "c": -2.89,
+   "d": -3.29,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.156,
+   "p": 102.155,
    "c": -0.16,
-   "d": -0.164,
+   "d": -0.165,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8311,
+   "p": 49.8283,
    "c": 0.1,
-   "d": 0.05,
+   "d": 0.047,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81192,
-   "c": 0.47,
+   "p": 81219,
+   "c": 0.6,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2356.56,
-   "c": 0.4,
+   "p": 2358.15,
+   "c": 0.57,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.34,
-   "c": 1.18,
+   "p": 102.46,
+   "c": 1.36,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 0.37,
+   "c": 0.2,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 755.63,
-   "c": 1.43,
+   "p": 756.27,
+   "c": 1.66,
    "k": "usd"
   }
  ],
@@ -384,6 +384,27 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Sprouts Sinks After Outlook Cut on Cyclospora, Consumer Woes",
+    "tt": "Cyclospora Salgını Satışları Etkiledikten Sonra Filizler Görünümü Düşürdü",
+    "s": "Sprouts Farmers Market Inc. shares tumbled after slashing its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
+    "ss": "Sprouts Farmers Market Inc. hisseleri, bakkalın satışlarının siklospora marul salgını ve tüketicinin karamsarlığı nedeniyle olumsuz etkilenmesi nedeniyle görünümü düşürmesinin ardından düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
+    "ts": 1793222680000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Decline, Fed Keeps Rates Steady: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
+    "s": "US stock futures fell in early Asian trading as investors weighed mixed earnings from megacap technology companies and the Federal Reserve held rates steady without signaling whether a December hike is likely.",
+    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793225507000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
     "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
     "s": "Oil dropped as traders weighed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
@@ -404,15 +425,6 @@
     "ss": "Federal Rezerv, farklı ilgi alanlarına yönelik çalışmalar yürütüyor ve enflasyon içeriğinden ödün vermeyi yeniden doğruluyor, ancak olası bir artışa işaret eden sinyallerden kaçınıyor. Karar, EE.UU.'daki orta dönem seçimlerinde bir yarıyılda verilecek ve oy verenlerin aklını meşgul ediyor.",
     "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-mantiene-tasas-sin-dar-muchas-pistas-sobre-diciembre-video",
     "ts": 1793223177000,
-    "tags": []
-   },
-   {
-    "t": "Sprouts Slashes Outlook After Cyclospora Outbreak Hit Sales",
-    "tt": "Cyclospora Salgını Satışları Etkiledikten Sonra Filizler Görünümü Düşürdü",
-    "s": "Sprouts Farmers Market Inc. shares tumbled after cutting its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
-    "ss": "Sprouts Farmers Market Inc. hisseleri, bakkalın satışlarının siklospora marul salgını ve tüketicinin karamsarlığı nedeniyle olumsuz etkilenmesi nedeniyle görünümü düşürmesinin ardından düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
-    "ts": 1793222680000,
     "tags": []
    },
    {
@@ -470,15 +482,6 @@
     "ss": "Fed Başkanı Kevin Warsh, yetkililerin faiz oranlarını değiştirmemesinin ardından basın toplantısı düzenledi. Enflasyonun hala çok yüksek olduğunu ve politika yapıcıların \"fiyat istikrarı sağlayacağını\" söyledi. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-10-28/the-fed-will-deliver-price-stability-warsh-says-video",
     "ts": 1793219285000,
-    "tags": []
-   },
-   {
-    "t": "Global Bond Sales Shatter Record, Fueled by AI Borrowing Binge",
-    "tt": "Yapay Zeka Borçlanma Aşırılığıyla Desteklenen Küresel Tahvil Satışları Rekoru Kırdı",
-    "s": "Global bond sales have soared to an all-time high, catapulted by breakneck borrowing from the tech juggernauts at the forefront of the AI boom.",
-    "ss": "Küresel tahvil satışları, yapay zeka patlamasının ön saflarında yer alan teknoloji canavarlarından aşırı borçlanmanın etkisiyle tüm zamanların en yüksek seviyesine yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
-    "ts": 1793218620000,
     "tags": []
    }
   ],
@@ -576,6 +579,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+    "tt": "COLA için perde mi? Sosyal Güvenlikten tasarruf etmek, yaşam maliyeti düzenlemesini değiştirmek anlamına gelebilir.",
+    "s": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+    "ss": "Bazı tekliflerde emeklilerin enflasyon korumasından yararlanma şeklinin değiştirilmesi düşünülüyor. İşte size maliyeti:",
+    "u": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+    "ts": 1793227260000,
+    "tags": []
+   },
+   {
+    "t": "Chipotle now has more demand from lower-income diners than higher-income ones",
+    "tt": "Arabaya servis 'Chipotlanes' daha fazla mağazaya geldikçe Chipotle bu yıl satışların biraz daha yüksek olmasını bekliyor",
+    "s": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
+    "ss": "Fast-casual zinciri, menü fiyatlarındaki artışların sonuçlara yardımcı olduğunu söylüyor. Ayrıca, insanlar diyetlerine daha fazla protein eklemenin yollarını bulmaya çalıştıkça artan sığır eti maliyetlerine ve \"daha yüksek protein kullanımına\" dikkat çekti.",
+    "u": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+    "ts": 1793226300000,
+    "tags": []
+   },
+   {
     "t": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
     "tt": "Yatırımcılar Marvell'e olası bir satışı sevinçle karşılarken Lumentum'un hisseleri yükseliyor",
     "s": "An agreement between the companies could come next week, Bloomberg reported",
@@ -632,15 +653,6 @@
     ]
    },
    {
-    "t": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
-    "tt": "Arabaya servis 'Chipotlanes' daha fazla mağazaya geldikçe Chipotle bu yıl satışların biraz daha yüksek olmasını bekliyor",
-    "s": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-    "ss": "Fast-casual zinciri, menü fiyatlarındaki artışların sonuçlara yardımcı olduğunu söylüyor. Ayrıca, insanlar diyetlerine daha fazla protein eklemenin yollarını bulmaya çalıştıkça artan sığır eti maliyetlerine ve \"daha yüksek protein kullanımına\" dikkat çekti.",
-    "u": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-    "ts": 1793221080000,
-    "tags": []
-   },
-   {
     "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
     "tt": "Vertiv'in kazançları, Büyük Teknoloji sonuçları öncesinde yapay zeka hakkında iyimser bir sinyal gönderdi",
     "s": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
@@ -657,18 +669,27 @@
     "u": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
     "ts": 1793220300000,
     "tags": []
-   },
-   {
-    "t": "Here’s what just sent Oracle’s stock soaring",
-    "tt": "İşte Oracle'ın hisselerini hızla yükselten şey:",
-    "s": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
-    "ss": "Şirketin yeni finansal hedefleri, yapay zeka ekonomisine ilişkin yatırımcıların korktuğundan daha olumlu bir tablo çiziyor.",
-    "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-    "ts": 1793219880000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Watch: Chaos Erupts At UN As Mike Waltz Gets Into Screaming Match With Cuban Diplomat, U.S. Staffer Allegedly Assaulted",
+    "tt": "İzle: Mike Waltz Kübalı Diplomatla Çığlık Atarak Maça Girerken BM'de Kaos Patlak Veriyor, ABD'li Personelin Saldırıya Uğradığı İddiası",
+    "s": "Watch: Chaos Erupts At UN As Mike Waltz Gets Into Screaming Match With Cuban Diplomat, U.S. Staffer Allegedly Assaulted Cuba's communist regime brought its confrontational tactics into the halls of the United Nations last week, triggering a heated showdown with U.S. Ambassador Mike Waltz. Cuba's Min",
+    "ss": "İzle: BM'de Kaos Patlak Veriyor Mike Waltz, Kübalı Diplomatla Çığlık Atarak Maça Girerken, ABD Personelinin Saldırıya Uğradığı İddia Edilen Küba'nın komünist rejimi, çatışmacı taktiklerini geçen hafta Birleşmiş Milletler salonlarına taşıdı ve ABD Büyükelçisi Mike Waltz ile hararetli bir hesaplaşmayı tetikledi. Küba'nın Min'i",
+    "u": "https://www.zerohedge.com/political/watch-chaos-erupts-un-mike-waltz-gets-screaming-match-cuban-diplomat-us-staffer-allegedly",
+    "ts": 1793227800000,
+    "tags": []
+   },
+   {
+    "t": "Inside The Little-Known Drug Program Making Big Hospitals Billions",
+    "tt": "Büyük Hastanelere Milyarlar Kazandıran Az Bilinen İlaç Programı İçinde",
+    "s": "Inside The Little-Known Drug Program Making Big Hospitals Billions Authored by Sylvia Xu, Lawrence Wilson via The Epoch Times , Hospitals that benefit from a government program intended to help safety-net institutions end up spending less on charity care than other hospitals, a new study has found, ",
+    "ss": "Büyük Hastanelere Milyarlar Kazandıran Az Bilinen İlaç Programı İçinde Yazan: Sylvia Xu, Lawrence Wilson, The Epoch Times aracılığıyla, Güvenlik ağı kurumlarının yardım hizmetleri için diğer hastanelere göre daha az harcama yapmasına yardımcı olmayı amaçlayan bir hükümet programından yararlanan hastanelerin, yeni bir çalışma şunu ortaya çıkardı:",
+    "u": "https://www.zerohedge.com/political/inside-little-known-drug-program-making-big-hospitals-billions",
+    "ts": 1793226600000,
+    "tags": []
+   },
    {
     "t": "NBA Legend Who Earned Nearly $200 Million Admits He's Broke As Wild Spending Habits Revealed",
     "tt": "Yaklaşık 200 Milyon Dolar Kazanan NBA Efsanesi, Çılgın Harcama Alışkanlıkları Ortaya Çıkınca Parasız Olduğunu İtiraf Etti",
@@ -733,34 +754,25 @@
     "tags": []
    },
    {
-    "t": "175 House Democrats Call For Halt To Ilhan Omar Investigation",
-    "tt": "175 Temsilciler Meclisi Demokratlarından İlhan Omar Soruşturmasının Durdurulması Çağrısı",
-    "s": "175 House Democrats Call For Halt To Ilhan Omar Investigation Authored by Guy Birchall via The Epoch Times , Scores of House Democrats have called for an end to the federal investigation into Rep. Ilhan Omar (D-Minn.) , claiming it could affect her reelection bid in next month's midterm elections. A",
-    "ss": "175 Temsilciler Meclisi Demokratı, İlhan Omar Soruşturmasını Durdurma Çağrısında Bulundu Guy Birchall, The Epoch Times aracılığıyla, Çok sayıda Temsilciler Meclisi Demokratı, Temsilci İlhan Omar (D-Minn.) hakkındaki federal soruşturmanın, önümüzdeki ay yapılacak ara seçimlerde yeniden seçilme şansını etkileyebileceğini iddia ederek, son verilmesi çağrısında bulundu. A",
-    "u": "https://www.zerohedge.com/political/175-house-democrats-call-halt-ilhan-omar-investigation",
-    "ts": 1793219100000,
-    "tags": []
-   },
-   {
-    "t": "MSFT Soars On Big Azure Beat... But Backlog Stalls",
-    "tt": "MSFT, Azure Ritimiyle Yükseliyor... Ancak Rezervasyonlar Küçülüyor ve Birikmiş İşler Duruyor",
-    "s": "MSFT Soars On Big Azure Beat... But Backlog Stalls The consensus long delivered. Microsoft (MSFT) reported Azure revenue growth of 48% in constant currency for the September quarter, crushing its own 44-45% guide, the Street's ~45% and even the ~47% buyside whisper that, as we laid out this morning ",
-    "ss": "MSFT, Azure Ritimiyle Yükseliyor... Ancak Rezervasyonlar Küçülüyor ve Birikmiş İşler Duruyor Konsensüs uzun süredir sağlanıyor. Microsoft (MSFT), Eylül çeyreği için sabit para biriminde Azure gelir artışını %48 olarak bildirdi; kendi %44-45'lik rehberini, Street'in ~%45'ini ve hatta ~%47'lik alıcı tarafı fısıltılarını alt üst etti;",
-    "u": "https://www.zerohedge.com/markets/msft-rises-azure-beat-bookings-shrink-and-backlog-stalls",
-    "ts": 1793218500000,
-    "tags": []
-   },
-   {
-    "t": "War Secretary Swears In General Forced To Retire After Refusing COVID-19 Vaccine",
-    "tt": "Savaş Bakanı, Kovid-19 Aşısını Reddettikten Sonra Genel Olarak Emekli Olmaya Zorlanacağına Yemin Etti",
-    "s": "War Secretary Swears In General Forced To Retire After Refusing COVID-19 Vaccine Authored by Zachary Stieber via The Epoch Times , War Secretary Pete Hegseth has welcomed back an Air Force general who was forced to retire because she did not want to take the COVID-19 vaccine when it was mandated dur",
-    "ss": "Savaş Bakanı, Genel Olarak Kovid-19 Aşısını Reddettikten Sonra Emekli Olmaya Zorlanacağına Yemin Etti Zachary Stieber tarafından The Epoch Times aracılığıyla yazılan Savaş Bakanı Pete Hegseth, zorunlu kılındığı dönemde Kovid-19 aşısını almak istemediği için emekliye ayrılmak zorunda kalan bir Hava Kuvvetleri generalini tekrar karşıladı.",
-    "u": "https://www.zerohedge.com/covid-19/war-secretary-swears-general-forced-retire-after-refusing-covid-19-vaccine",
-    "ts": 1793217000000,
+    "t": "First Images Show Flavio Bolsonaro Stepping Off Private Jet In Miami After Lula's Totalitarian Crackdown",
+    "tt": "İlk Görüntüler Flavio Bolsonaro'nun Lula'nın Totaliter Baskısının Ardından Miami'de Özel Jetten İndiğini Gösteriyor",
+    "s": "First Images Show Flavio Bolsonaro Stepping Off Private Jet In Miami After Lula's Totalitarian Crackdown Summary: First Images Of Bolsonaro&nbsp;Exiting Private Jet In Miami Brazil In Political Crisis?&nbsp; Bolsonaro Lands In Miami After Lula's Totalitarian Crackdown Threatens Political Crisis In B",
+    "ss": "İlk Görüntüler Flavio Bolsonaro'nun Lula'nın Totaliter Baskısının Ardından Miami'de Özel Jetten İndiğini Gösteriyor Özet: Bolsonaro'nun Miami'de Özel Jetten Çıkışının İlk Görüntüleri Brezilya Siyasi Krizde mi?  Bolsonaro, Lula'nın Totaliter Baskısının B'deki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıktı",
+    "u": "https://www.zerohedge.com/geopolitical/flavio-bolsonaro-lands-miami-after-lulas-totalitarian-crackdown-threatens-political",
+    "ts": 1793219400000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "103 yıllık en büyük eser: Cumhuriyet Bayramı kutlu olsun",
+    "tt": null,
+    "s": "Gazi Mustafa Kemal Atatürk'ün \"En büyük eserim\" dediği Cumhuriyet 103 yaşında. Kurtuluş mücadelesinin ardından yalnızca bir yönetim değişikliğinin değil, eğitimden ekonomiye, sanayiden toplumsal yaşama uzanan büyük bir aydınlanma ve kalkınma hamlesinin de başlangıcı olan Cumhuriyet 29 Ekim 1923'te i",
+    "ss": null,
+    "u": "https://www.bloomberght.com/103-yillik-en-buyuk-eser-cumhuriyet-bayrami-kutlu-olsun-3792784",
+    "ts": 1793226395000,
+    "tags": []
+   },
    {
     "t": "Fitch: Küresel risk ortamı yeni yıla girerken kötüleşiyor",
     "tt": null,
@@ -840,15 +852,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/spk-dan-yabanci-finans-kuruluslarina-iliskin-iddialara-yanit-3792733",
     "ts": 1793206570000,
-    "tags": []
-   },
-   {
-    "t": "Putin ile Musk arasında uydu teması",
-    "tt": null,
-    "s": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin SpaceX'in kurucusu Elon Musk ile alçak yörüngeli uydu sistemleri konusunda yakın temas halinde olduğunu belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/putin-ile-musk-arasinda-uydu-temasi-3792732",
-    "ts": 1793202961000,
     "tags": []
    }
   ]
