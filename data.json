@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-28T19:27:00.441473+00:00",
+ "generated": "2026-10-28T20:16:57.038432+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7727.79,
-   "c": 0.07,
-   "d": 5.19,
+   "p": 7743.98,
+   "c": 0.28,
+   "d": 21.38,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26446.594,
-   "c": -0.12,
-   "d": -31.217,
+   "p": 26549.852,
+   "c": 0.27,
+   "d": 72.041,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52423.6,
-   "c": 0.09,
-   "d": 46.03,
+   "p": 52475.1,
+   "c": 0.19,
+   "d": 97.53,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.18,
-   "c": -1.94,
-   "d": -0.34,
+   "p": 16.47,
+   "c": -5.99,
+   "d": -1.05,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4059.8,
-   "c": -0.36,
-   "d": -14.8,
+   "p": 4086.6,
+   "c": 0.29,
+   "d": 12.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.805,
-   "c": -0.9,
-   "d": -0.488,
+   "p": 54.39,
+   "c": 0.18,
+   "d": 0.097,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.72,
-   "c": 2.82,
-   "d": 2.82,
+   "p": 101.43,
+   "c": 1.53,
+   "d": 1.53,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.58,
-   "c": -2.02,
-   "d": -2.3,
+   "p": 110.13,
+   "c": -3.29,
+   "d": -3.75,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.107,
+   "p": 102.105,
    "c": -0.21,
-   "d": -0.213,
+   "d": -0.215,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8335,
+   "p": 49.8336,
    "c": 0.11,
    "d": 0.053,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81086,
-   "c": 0.65,
+   "p": 81278,
+   "c": 0.75,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2355.18,
-   "c": 0.63,
+   "p": 2367.65,
+   "c": 0.96,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.05,
-   "c": 1.06,
+   "p": 102.71,
+   "c": 1.59,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 0.38,
+   "c": 0.69,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 750.52,
-   "c": 0.44,
+   "p": 754.62,
+   "c": 0.91,
    "k": "usd"
   }
  ],
@@ -384,6 +384,36 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Edge Higher After Fed as Oracle Surges 11%: Markets Wrap",
+    "tt": "Yatırımcılar Teknoloji Sonuçlarını Beklerken ABD Hisse Senetleri Kayıyor, Fed: Piyasalar Özetlendi",
+    "s": "Stocks edged up as the Federal Reserve held rates steady and refrained from offering a clear signal on whether it will hike in December.",
+    "ss": "ABD hisse senedi vadeli kontratları, megacap teknoloji kazançları ve Fed'in Çarşamba günü ilerleyen saatlerde açıklayacağı faiz oranı kararı öncesinde mütevazı yükselişler kaydetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793138947000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Gold Cuts Losses as Fed Pauses and Stays Silent on Future Hikes",
+    "tt": "Altın, Fed'in İki Muhalefetle Faiz Oranlarını Sabit Tutmasının Ardından Kayıplarını Tuttu",
+    "s": "Gold erased losses after Federal Reserve officials left interest rates unchanged and reiterated their commitment to containing inflation without offering a clear signal on whether to tighten monetary policy in December.",
+    "ss": "Altın, Fed yetkililerinin faiz oranlarını değiştirmemesi ve Aralık ayında para politikasının sıkılaştırılıp sıkılaştırılmayacağı konusunda net bir sinyal vermeden enflasyonu kontrol altına alma taahhütlerini yinelemesinin ardından kayıplarını korudu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
+    "ts": 1793144218000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 28",
+    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose as traders weighed whether the US could resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election.",
+    "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail seçimlerinin sıkı geçmesini takip etmesiyle yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+    "ts": 1793138697000,
+    "tags": []
+   },
+   {
     "t": "Petroperu Chair Eyes Rare Profit, Investors for Minority Stake",
     "tt": "Petroperu Başkanı Nadir Kâr ve Azınlık Hissesi Yatırımcılarını Gözetliyor",
     "s": "Petroperu’s board will look to sell a minority stake in the ailing state-owned oil giant early next year, according to its chairman, who says the company is on track to notch its first annual profit since 2021.",
@@ -429,18 +459,6 @@
     "tags": []
    },
    {
-    "t": "Stocks Drift After Fed Decision as Oracle Surges: Markets Wrap",
-    "tt": "Yatırımcılar Teknoloji Sonuçlarını Beklerken ABD Hisse Senetleri Kayıyor, Fed: Piyasalar Özetlendi",
-    "s": "Stocks churned after the Federal Reserve held interest rates steady, but refrained from offering a clear signal on whether it will hike in December.",
-    "ss": "ABD hisse senedi vadeli kontratları, megacap teknoloji kazançları ve Fed'in Çarşamba günü ilerleyen saatlerde açıklayacağı faiz oranı kararı öncesinde mütevazı yükselişler kaydetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793138947000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
     "t": "Fed's Warsh Says Monetary 'Medicine' Starting to Work",
     "tt": "Fed'den Warsh: Parasal 'İlacın' İşe Başladığını Söyledi",
     "s": "Federal Reserve Chairman Kevin Warsh says there are no firm conclusions right now about monetary policy during a news conference after the central bank's policy-setting Federal Open Market Committee decided to leave rates unchanged. (Source: Bloomberg)",
@@ -463,24 +481,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "Chris Wright Says Diesel Exports From Arabian Gulf Likely to Increase",
-    "tt": "Chris Wright, Basra Körfezi'nden Dizel İhracatının Artabileceğini Söyledi",
-    "s": "Energy Secretary Chris Wright said that he expects diesel prices to be 'dropped significantly' but will need increased exports out of the Arabian Gulf to manage it amid the ongoing war with Iran. Wright also Russia's diesel output, saying that the only way Russia can benefit from recently permitted ",
-    "ss": "Enerji Bakanı Chris Wright, dizel fiyatlarının 'önemli ölçüde düşmesini' beklediğini ancak İran'la devam eden savaş nedeniyle bunu yönetebilmek için Basra Körfezi'nden ihracatın artırılmasına ihtiyaç duyacağını söyledi. Wright ayrıca Rusya'nın dizel üretiminden yararlanabilmesinin tek yolunun Rusya'nın yakın zamanda izin verilenden faydalanabileceğini ifade etti.",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/diesel-from-arabian-gulf-likely-to-increase-wright-video",
-    "ts": 1793212688000,
-    "tags": []
-   },
-   {
-    "t": "Gold Holds Losses After Fed Keeps Rates Steady With Two Dissents",
-    "tt": "Altın, Fed'in İki Muhalefetle Faiz Oranlarını Sabit Tutmasının Ardından Kayıplarını Tuttu",
-    "s": "Gold held losses after the Federal Reserve officials left interest rates unchanged and iterated their commitment to containing inflation without offering a clear signal on whether to tighten monetary policy in December.",
-    "ss": "Altın, Fed yetkililerinin faiz oranlarını değiştirmemesi ve Aralık ayında para politikasının sıkılaştırılıp sıkılaştırılmayacağı konusunda net bir sinyal vermeden enflasyonu kontrol altına alma taahhütlerini yinelemesinin ardından kayıplarını korudu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-    "ts": 1793144218000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -577,12 +577,30 @@
   ],
   "MarketWatch": [
    {
-    "t": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
-    "tt": "Elon Musk, iki ila üç yıl içinde bir kablosuz taşıyıcı oluşturabileceğini söylüyor. Bu mümkün mü?",
-    "s": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
-    "ss": "Verizon 'sihirli bir değnek' olmadığını söylüyor ancak analistler SpaceX'in bazı kısayolları hedef alıyor olabileceğini belirtiyor.",
-    "u": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
-    "ts": 1793213880000,
+    "t": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+    "tt": "Yaşlanan ebeveynlerimize ve sevdiklerimize bakmak için yılda 11.000 dolardan fazla para harcıyoruz",
+    "s": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
+    "ss": "Bir AARP araştırması ailelerin yaptığı mali fedakarlıkları ve bunların uzun vadeli etkilerini gösteriyor.",
+    "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+    "ts": 1793218680000,
+    "tags": []
+   },
+   {
+    "t": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+    "tt": "ABD petrol rafinerisi stokları bu yıl yaklaşık %150 arttı. Bu tarihi koşu ne kadar sürebilir?",
+    "s": "Analyst predicts the ‘mother of all maintenance seasons’ for refineries that have been running at high capacity",
+    "ss": "Analistler, yüksek kapasitede çalışan rafineriler için 'tüm bakım sezonlarının anası' olacağını tahmin ediyor",
+    "u": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
+    "ts": 1793218560000,
+    "tags": []
+   },
+   {
+    "t": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+    "tt": "Seçmenler pahalı araba kredileri, ipotekler ve kredi kartı borçlarıyla mücadele ederken paranın maliyeti de oy pusulasında yer alıyor",
+    "s": "Interest rates aren’t expected to decline anytime soon, as the Federal Reserve holds steady on Wednesday.",
+    "ss": "Fed'in Çarşamba günü sabit kalması nedeniyle faiz oranlarının yakın zamanda düşmesi beklenmiyor.",
+    "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
+    "ts": 1793218260000,
     "tags": []
    },
    {
@@ -591,7 +609,43 @@
     "s": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
     "ss": "BPC-157 ve TB-500 gibi popüler sağlıklı yaşam ürünleri üreten eczanelerin bileşikleştirilmesine karşı herhangi bir işlem yapılmayacaktır.",
     "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-    "ts": 1793213760000,
+    "ts": 1793218020000,
+    "tags": []
+   },
+   {
+    "t": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
+    "tt": "Fed faiz artırmayı neden erteledi? Warsh bunun nedeninin 'bilgi açısından zengin' bir dönemin gelmesi olduğunu söylüyor.",
+    "s": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.",
+    "ss": "Federal Rezerv Başkanı Kevin Warsh, merkez bankasının Çarşamba günü neden faiz oranlarını artırmadığına değindi.",
+    "u": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+    "ts": 1793217360000,
+    "tags": []
+   },
+   {
+    "t": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
+    "tt": "Wendy'nin satın alma teklifi, burger zincirinin revizyonunun çok pahalı olabileceğini gösteriyor",
+    "s": "Nelson Peltz’s Trian Fund Management has made a $1.4 billion offer for Wendy’s and says the company “requires significant capital investment” to get back on track.",
+    "ss": "Nelson Peltz'in Trian Fon Yönetimi, Wendy's için 1,4 milyar dolarlık bir teklifte bulundu ve şirketin yeniden yoluna girebilmesi için \"önemli miktarda sermaye yatırımı gerektirdiğini\" söyledi.",
+    "u": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
+    "ts": 1793217240000,
+    "tags": []
+   },
+   {
+    "t": "Here’s what just sent Oracle’s stock soaring",
+    "tt": "İşte Oracle'ın hisselerini hızla yükselten şey:",
+    "s": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
+    "ss": "Şirketin yeni finansal hedefleri, yapay zeka ekonomisine ilişkin yatırımcıların korktuğundan daha olumlu bir tablo çiziyor.",
+    "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+    "ts": 1793216400000,
+    "tags": []
+   },
+   {
+    "t": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+    "tt": "Elon Musk, iki ila üç yıl içinde bir kablosuz taşıyıcı oluşturabileceğini söylüyor. Bu mümkün mü?",
+    "s": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
+    "ss": "Verizon 'sihirli bir değnek' olmadığını söylüyor ancak analistler SpaceX'in bazı kısayolları hedef alıyor olabileceğini belirtiyor.",
+    "u": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+    "ts": 1793213880000,
     "tags": []
    },
    {
@@ -611,63 +665,51 @@
     "u": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
     "ts": 1793212200000,
     "tags": []
-   },
-   {
-    "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-    "tt": "Vertiv'in kazançları, Büyük Teknoloji sonuçları öncesinde yapay zeka hakkında iyimser bir sinyal gönderdi",
-    "s": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
-    "ss": "Yapay zeka altyapı şirketi, satış beklentilerini beş yıldan fazla bir sürenin en geniş marjıyla aştı ve yatırım giderleri görünümünü yükseltti.",
-    "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-    "ts": 1793209440000,
-    "tags": []
-   },
-   {
-    "t": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
-    "tt": "Wendy'nin satın alma teklifi, burger zincirinin revizyonunun çok pahalı olabileceğini gösteriyor",
-    "s": "Nelson Peltz’s Trian Fund Management has made a $1.4 billion offer for Wendy’s and says the company “requires significant capital investment” to get back on track.",
-    "ss": "Nelson Peltz'in Trian Fon Yönetimi, Wendy's için 1,4 milyar dolarlık bir teklifte bulundu ve şirketin yeniden yoluna girebilmesi için \"önemli miktarda sermaye yatırımı gerektirdiğini\" söyledi.",
-    "u": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-    "ts": 1793208240000,
-    "tags": []
-   },
-   {
-    "t": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-    "tt": "Sağlık sektörü hisseleri son nesildeki en büyük yükselişini yaşıyor. Mitingi kovalamadan önce iki kez düşünün.",
-    "s": "The typically boring healthcare space has delivered a flash of excitement for investors in October, building on its gains from earlier in the year.",
-    "ss": "Tipik olarak sıkıcı olan sağlık alanı, yılın başlarında elde ettiği kazanımların üzerine Ekim ayında yatırımcılar için bir anlık heyecan yaşattı.",
-    "u": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-    "ts": 1793206140000,
-    "tags": []
-   },
-   {
-    "t": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
-    "tt": "Anthropic'te yükseliş beklentisi var ancak halka arza kadar beklemek istemiyor musunuz? İşte bugün nasıl yatırım yapabileceğiniz.",
-    "s": "ETFs and other funds currently available to ordinary investors offer exposure to Anthropic.",
-    "ss": "Şu anda sıradan yatırımcıların kullanımına sunulan ETF'ler ve diğer fonlar, Anthropic'e erişim olanağı sunuyor.",
-    "u": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-    "ts": 1793203980000,
-    "tags": []
-   },
-   {
-    "t": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-    "tt": "Micron'un hisseleri SK Hynix kazancının ardından yükseldi. İşte bir sonraki büyük testi.",
-    "s": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
-    "ss": "Samsung'un sonuçları, son zamanların en düşük seviyelerinden toparlanan bellek çipi ticareti için bir sonraki büyük barometredir.",
-    "u": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-    "ts": 1793203380000,
-    "tags": []
-   },
-   {
-    "t": "We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
-    "tt": "Yaşlanan ebeveynlerimize ve sevdiklerimize bakmak için yılda 11.000 dolardan fazla para harcıyoruz",
-    "s": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-    "ss": "Bir AARP araştırması ailelerin yaptığı mali fedakarlıkları ve bunların uzun vadeli etkilerini gösteriyor.",
-    "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-    "ts": 1793201760000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "MSFT Rises On Azure Beat... But Bookings Shrink And Backlog Stalls",
+    "tt": "MSFT, Azure Ritimiyle Yükseliyor... Ancak Rezervasyonlar Küçülüyor ve Birikmiş İşler Duruyor",
+    "s": "MSFT Rises On Azure Beat... But Bookings Shrink And Backlog Stalls The consensus long delivered. Microsoft (MSFT) reported Azure revenue growth of 48% in constant currency for the September quarter, crushing its own 44-45% guide, the Street's ~45% and even the ~47% buyside whisper that, as we laid o",
+    "ss": "MSFT, Azure Ritimiyle Yükseliyor... Ancak Rezervasyonlar Küçülüyor ve Birikmiş İşler Duruyor Konsensüs uzun süredir sağlanıyor. Microsoft (MSFT), Eylül çeyreği için sabit para biriminde Azure gelir artışını %48 olarak bildirdi; kendi %44-45'lik rehberini, Street'in ~%45'ini ve hatta ~%47'lik alıcı tarafı fısıltılarını alt üst etti;",
+    "u": "https://www.zerohedge.com/markets/msft-rises-azure-beat-bookings-shrink-and-backlog-stalls",
+    "ts": 1793217870000,
+    "tags": []
+   },
+   {
+    "t": "War Secretary Swears In General Forced To Retire After Refusing COVID-19 Vaccine",
+    "tt": "Savaş Bakanı, Kovid-19 Aşısını Reddettikten Sonra Genel Olarak Emekli Olmaya Zorlanacağına Yemin Etti",
+    "s": "War Secretary Swears In General Forced To Retire After Refusing COVID-19 Vaccine Authored by Zachary Stieber via The Epoch Times , War Secretary Pete Hegseth has welcomed back an Air Force general who was forced to retire because she did not want to take the COVID-19 vaccine when it was mandated dur",
+    "ss": "Savaş Bakanı, Genel Olarak Kovid-19 Aşısını Reddettikten Sonra Emekli Olmaya Zorlanacağına Yemin Etti Zachary Stieber tarafından The Epoch Times aracılığıyla yazılan Savaş Bakanı Pete Hegseth, zorunlu kılındığı dönemde Kovid-19 aşısını almak istemediği için emekliye ayrılmak zorunda kalan bir Hava Kuvvetleri generalini tekrar karşıladı.",
+    "u": "https://www.zerohedge.com/covid-19/war-secretary-swears-general-forced-retire-after-refusing-covid-19-vaccine",
+    "ts": 1793217000000,
+    "tags": []
+   },
+   {
+    "t": "Fed Pauses Rate-Hikes As Expected; 2 Dissents Signal Less Hawkish 'Family Fight'",
+    "tt": "Fed Beklenildiği Gibi Faiz Artışlarını Duraklattı; 2 Muhalefet Daha Az Şahin 'Aile Kavgasının' Sinyalini Veriyor",
+    "s": "Fed Pauses Rate-Hikes As Expected; 2 Dissents Signal Less Hawkish 'Family Fight' Since the last FOMC meeting (9/16), where Fed Chair Warsh hiked rates somewhat surprisingly, markets have been wild (even if stocks at the index level may look 'meh'). The biggest standout is the divergence between bitc",
+    "ss": "Fed Beklenildiği Gibi Faiz Artışlarını Duraklattı; 2 Muhalifler Şahin 'Aile Kavgasının' Azaldığının Sinyalini Veriyor Fed Başkanı Warsh'un sürpriz bir şekilde oranları artırdığı son FOMC toplantısından (9/16) bu yana, piyasalar çılgına döndü (endeks seviyesindeki hisse senetleri 'meh' gibi görünse bile). En büyük göze çarpan şey bitc arasındaki farktır.",
+    "u": "https://www.zerohedge.com/markets/fomc-42",
+    "ts": 1793216700000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt",
+    "tt": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Ağır Suçlarla Suçluyor",
+    "s": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt Hennepin County Attorney Mary Moriarty on Wednesday charged conservative provocateur James O'Keefe and influencer Cam Higby with felony unlawful voting and identity theft , over undercover videos they shot ",
+    "ss": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Suçlamalarla Suçladı Hennepin İlçe Savcısı Mary Moriarty, Çarşamba günü muhafazakar provokatör James O'Keefe ve nüfuz sahibi Cam Higby'yi, çektikleri gizli videolar nedeniyle yasa dışı oy verme ve kimlik hırsızlığıyla suçladı",
+    "u": "https://www.zerohedge.com/political/minnesota-charges-james-okeefe-and-cam-higby-felonies-over-polling-place-vouching-stunt",
+    "ts": 1793216100000,
+    "tags": []
+   },
    {
     "t": "Has Apple Peaked?",
     "tt": "Apple zirveye ulaştı mı?",
@@ -696,21 +738,6 @@
     "tags": []
    },
    {
-    "t": "Fed Pauses Rate-Hikes As Expected; 2 Dissents Signal Less Hawkish 'Family Fight'",
-    "tt": "Fed Beklenildiği Gibi Faiz Artışlarını Duraklattı; 2 Muhalefet Daha Az Şahin 'Aile Kavgasının' Sinyalini Veriyor",
-    "s": "Fed Pauses Rate-Hikes As Expected; 2 Dissents Signal Less Hawkish 'Family Fight' Since the last FOMC meeting (9/16), where Fed Chair Warsh hiked rates somewhat surprisingly, markets have been wild (even if stocks at the index level may look 'meh'). The biggest standout is the divergence between bitc",
-    "ss": "Fed Beklenildiği Gibi Faiz Artışlarını Duraklattı; 2 Muhalifler Şahin 'Aile Kavgasının' Azaldığının Sinyalini Veriyor Fed Başkanı Warsh'un sürpriz bir şekilde oranları artırdığı son FOMC toplantısından (9/16) bu yana, piyasalar çılgına döndü (endeks seviyesindeki hisse senetleri 'meh' gibi görünse bile). En büyük göze çarpan şey bitc arasındaki farktır.",
-    "u": "https://www.zerohedge.com/markets/fomc-42",
-    "ts": 1793210400000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
     "t": "\"A Lot Of Bad Things Happening All At Once\": Rubino Warns Of Perfect Storm For Banks... And The World",
     "tt": "\"Birçok Kötü Şey Aynı Anda Oluyor\": Rubino Bankalar ve Dünya İçin Mükemmel Fırtına Uyarısında Bulundu",
     "s": "\"A Lot Of Bad Things Happening All At Once\": Rubino Warns Of Perfect Storm For Banks... And The World Authored by Greg Hunter via USAWatchdog , Analyst and financial writer John Rubino has a new warning about the financial health of the global economy, and it's not good. &nbsp; Look no further than ",
@@ -736,36 +763,27 @@
     "u": "https://www.zerohedge.com/political/grand-jury-refuses-indict-cassidy-hutchinson-over-her-jan-6-testimony",
     "ts": 1793205300000,
     "tags": []
-   },
-   {
-    "t": "Democrats Planning Their Own 'Stop The Steal' If They Don't Win The Midterms",
-    "tt": "Demokratlar Ara Sınavı Kazanamazlarsa Kendi 'Çalmayı Durdurmayı' Planlıyorlar",
-    "s": "Democrats Planning Their Own 'Stop The Steal' If They Don't Win The Midterms After the 2020 presidential election, Democratic leaders spent years condemning President Trump's claims that fraud cost him a second term. They described his refusal to accept the results as an attack on democracy, and the",
-    "ss": "Demokratlar, Ara Sınavları Kazanamazlarsa Kendi 'Çalmayı Durdurmayı' Planlıyor 2020 başkanlık seçimlerinden sonra Demokrat liderler, Başkan Trump'ın sahtekarlığın kendisine ikinci döneme mal olduğu yönündeki iddialarını kınamak için yıllarını harcadılar. Sonuçları kabul etmeyi reddetmesini demokrasiye bir saldırı olarak nitelendirdiler ve",
-    "u": "https://www.zerohedge.com/political/democrats-planning-their-own-stop-steal-if-they-dont-win-midterms",
-    "ts": 1793205000000,
-    "tags": []
-   },
-   {
-    "t": "Inflation Isn't Finished With Us... And We Should Be Worried",
-    "tt": "Enflasyonun Bizimle İşi Bitmedi... Ve Endişelenmemiz Gerekiyor",
-    "s": "Inflation Isn't Finished With Us... And We Should Be Worried Authored by Peter Reagan via BirchGold.com, Today we're going to talk about the good, the bad and the ugly. No, I'm not referring to the classic Clint Eastwood spaghetti western (although, if you haven't watched it recently, you should! It",
-    "ss": "Enflasyonun Bizimle İşi Bitmedi... Ve Endişelenmemiz Gerekiyor BirchGold.com aracılığıyla Peter Reagan tarafından yazılmıştır. Bugün iyi, kötü ve çirkin hakkında konuşacağız. Hayır, Clint Eastwood'un klasik spagetti western'inden bahsetmiyorum (ancak yakın zamanda izlemediyseniz mutlaka izlemelisiniz!",
-    "u": "https://www.zerohedge.com/personal-finance/inflation-isnt-finished-us-and-we-should-be-worried",
-    "ts": 1793203800000,
-    "tags": []
-   },
-   {
-    "t": "At Least 64 Dead After Two High-Speed Trains Collide In Spain",
-    "tt": "İspanya'da iki hızlı trenin çarpışması sonucu en az 64 kişi öldü",
-    "s": "At Least 64 Dead After Two High-Speed Trains Collide In Spain Summary: Spain Train Collision Among Nation's Deadliest As Death Toll Jumps To 64 &nbsp; Two High-Speed Trains Collide South Of Madrid&nbsp; Death Toll Jumps&nbsp; The death toll from this morning's collision between two high-speed trains",
-    "ss": "İspanya'da İki Yüksek Hızlı Trenin Çarpışması Sonrası En Az 64 Ölü Özet: İspanya'da Tren Kazası, Ölü Sayısı 64'e Çıkarken Ülkenin En Ölümcül Tren Kazası   Madrid'in Güneyinde İki Yüksek Hızlı Tren Çarpıştı  Ölüm Ücreti Arttı  İki yüksek hızlı tren arasında bu sabah meydana gelen çarpışmada ölenlerin sayısı",
-    "u": "https://www.zerohedge.com/geopolitical/least-30-dead-after-high-speed-train-collide-south-madrid",
-    "ts": 1793203200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Trump yönetimi, Constellation Energy'ye 5 milyar dolarlık kredi sağlıyor",
+    "tt": null,
+    "s": "Trump yönetimi, Constellation Energy'ye, 8 nükleer santralini modernize etmesi, veri merkezleri ve Amerikan sanayisi için enerji tedariğini artırması için 5 milyar dolarlık kredi veriyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-yonetimi-constellation-energy-ye-5-milyar-dolarlik-kredi-sagliyor-3792779",
+    "ts": 1793218347000,
+    "tags": []
+   },
+   {
+    "t": "Garanti Bankası üçüncü çeyrekte net kârını artırdı",
+    "tt": null,
+    "s": "Garanti Bankası, 2026 yılının üçüncü çeyreğinde 33,8 milyar TL net kâr açıklayarak 32,1 milyar TL'lik piyasa konsensüsünün üzerinde bir performans sergiledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/garanti-bankasi-ucuncu-ceyrekte-net-krini-artirdi-3792778",
+    "ts": 1793217701000,
+    "tags": []
+   },
    {
     "t": "Apple ilk dokunmatik ekranlı MacBook modelini tanıttı",
     "tt": null,
@@ -836,24 +854,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/healey-birlesik-krallik-ekonomisi-2027-de-yavaslayacak-3792728",
     "ts": 1793193239000,
-    "tags": []
-   },
-   {
-    "t": "Vestel Beyaz Eşya'da FAVÖK yeniden pozitife döndü",
-    "tt": null,
-    "s": "Vestel Beyaz Eşya'nın satış gelirleri, 2026'nın üçüncü çeyreğinde önceki çeyreğe göre yüzde 13,2 artarak 15,7 milyar TL'ye yükseldi. İkinci çeyrekte eksi 140 milyon TL olan ve son üç çeyrekte negatif seyreden FAVÖK, üçüncü çeyrekte 1,6 milyar TL'ye ulaşarak yeniden pozitife dönerken FAVÖK marjı yüzd",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vestel-beyaz-esyada-favok-yeniden-pozitife-dondu-3792727",
-    "ts": 1793189959000,
-    "tags": []
-   },
-   {
-    "t": "Fon tasfiyesinde ilk ara ödeme tarihi belli oldu",
-    "tt": null,
-    "s": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplanan Fon Koordinasyon Kurulu, tasfiye sürecindeki son gelişmeleri değerlendirdi. Bugüne kadar 71 bin 899 hesaba toplam 68 milyar lira ödeme yapılırken, olağanüstü tasfiye kapsamındaki fonlarda ilk ara ödemelerin 30 Ekim Cuma günü başlaması kar",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fon-tasfiyesinde-ilk-ara-odeme-tarihi-belli-oldu-3792726",
-    "ts": 1793187471000,
     "tags": []
    }
   ]
