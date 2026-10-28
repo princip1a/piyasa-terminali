@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T10:00:31.542560+00:00",
+ "generated": "2026-10-28T10:58:08.488580+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 17.52,
-   "c": -0.0,
-   "d": -0.0,
+   "p": 17.46,
+   "c": -0.34,
+   "d": -0.06,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4067.1,
-   "c": -0.18,
-   "d": -7.5,
+   "p": 4060.7,
+   "c": -0.34,
+   "d": -13.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.93,
-   "c": -0.67,
-   "d": -0.363,
+   "p": 53.805,
+   "c": -0.9,
+   "d": -0.488,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.44,
-   "c": 1.54,
-   "d": 1.54,
+   "p": 101.31,
+   "c": 1.41,
+   "d": 1.41,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.76,
-   "c": -2.74,
-   "d": -3.12,
+   "p": 111.0,
+   "c": -2.53,
+   "d": -2.88,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.378,
-   "c": 0.06,
-   "d": 0.058,
+   "p": 102.398,
+   "c": 0.08,
+   "d": 0.078,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.834,
-   "c": 0.11,
-   "d": 0.053,
+   "p": 49.8331,
+   "c": 0.1,
+   "d": 0.052,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81420,
-   "c": 2.23,
+   "p": 81438,
+   "c": 1.97,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2369.18,
-   "c": 2.61,
+   "p": 2366.43,
+   "c": 2.31,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.78,
-   "c": 3.09,
+   "p": 102.92,
+   "c": 2.94,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 2.68,
+   "c": 2.02,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 752.58,
-   "c": 2.27,
+   "p": 759.0,
+   "c": 2.74,
    "k": "usd"
   }
  ],
@@ -384,6 +384,80 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
+    "tt": "Bakır, Yatırımcıların Fed Toplantısına Bakmasıyla İki Haftanın En Yüksek Seviyesine Yakın Dalgalandı",
+    "s": "Copper traded near its highest close in two weeks as traders braced for the Federal Reserve’s decision on interest rates.",
+    "ss": "Bakır, yatırımcıların Fed'in faiz kararına hazırlanırken iki haftanın en yüksek kapanışına yakın işlem gördü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
+    "ts": 1793165169000,
+    "tags": []
+   },
+   {
+    "t": "Gold Steadies Above $4,000 as Focus Turns to Fed Rate Decision",
+    "tt": "Altın, Odakların Fed Faiz Kararına Dönmesiyle 4.000 Doların Üzerinde Durdu",
+    "s": "Gold traded in a narrow range above the $4,000-an-ounce threshold ahead of a Federal Reserve interest-rate decision due later on Wednesday.",
+    "ss": "Altın, Fed'in Çarşamba günü açıklayacağı faiz oranı kararı öncesinde ons başına 4.000 dolar eşiğinin üzerinde dar bir aralıkta işlem gördü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
+    "ts": 1793144218000,
+    "tags": []
+   },
+   {
+    "t": "GE Vernova Agrees to Pay $9 Billion to Acquire Trench Group",
+    "tt": "GE Vernova, Trench Group'u Satın Almak İçin 9 Milyar Dolar Ödemeyi Kabul Etti",
+    "s": "GE Vernova Inc. agreed to pay $9 billion to acquire Trench Group in a deal that will expand its capacity to supply high-voltage power grid equipment to help meet the surging demand for electricity.",
+    "ss": "GE Vernova Inc., artan elektrik talebinin karşılanmasına yardımcı olmak amacıyla yüksek voltajlı enerji şebekesi ekipmanı tedarik etme kapasitesini artıracak bir anlaşma kapsamında Trench Group'u satın almak için 9 milyar dolar ödemeyi kabul etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
+    "ts": 1793182576000,
+    "tags": []
+   },
+   {
+    "t": "Weaker Euro Boosts Europe Exporters as Earnings Season Peaks",
+    "tt": "Zayıf Euro, Kazanç Sezonunda Zirveye Ulaşırken Avrupalı ​​İhracatçıları Artırıyor",
+    "s": "The dollar’s rebound is good news for shares in European exporters, just as companies enter the busiest stretch of the third-quarter reporting season.",
+    "ss": "Şirketler üçüncü çeyrek raporlama sezonunun en yoğun dönemine girerken doların toparlanması Avrupalı ​​ihracatçıların hisseleri için iyi bir haber.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
+    "ts": 1793166540000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
+    "tt": "ABD, Gemilere Hürmüz'den Gereksiz Geçişlerden Kaçınmalarını Söyledi",
+    "s": "The US military said vessels that have no need to move between ports in the Gulf of Oman and the Strait of Hormuz should stay away, as tensions ratchet up in the region.",
+    "ss": "ABD ordusu, bölgede gerilimin artması nedeniyle Umman Körfezi ile Hürmüz Boğazı arasındaki limanlar arasında hareket etmesine gerek olmayan gemilerin uzak durması gerektiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz",
+    "ts": 1793183492000,
+    "tags": []
+   },
+   {
+    "t": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
+    "tt": "Wall Street'in Yapay Zeka Borç Makinesi Arzda Boğulmaya Başlıyor",
+    "s": "A new anxiety is gripping Wall Street as it bankrolls the vast network of data centers and chips behind the artificial intelligence boom: Early signs suggest that the credit market is approaching the limits of how much more debt it can absorb.",
+    "ss": "Yapay zeka patlamasının ardındaki geniş veri merkezleri ve çip ağını finanse eden Wall Street'i yeni bir endişe sarıyor: İlk işaretler, kredi piyasasının daha fazla borç alabileceği sınırlara yaklaştığını gösteriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+    "ts": 1793183400000,
+    "tags": []
+   },
+   {
+    "t": "Remy Cointreau’s China Inventory Issues Outweigh Sales Jump",
+    "tt": "Remy Cointreau'nun Çin Envanter Sorunları Satış Artışından Daha Ağır Basıyor",
+    "s": "Remy Cointreau SA reported higher stockpiles in China during its fiscal second quarter, raising concerns about the resilience of a sales rebound in a key market for the Cognac maker.",
+    "ss": "Remy Cointreau SA, mali yılının ikinci çeyreğinde Çin'de daha yüksek stoklar bildirerek, konyak üreticisi için önemli bir pazardaki satış toparlanmasının esnekliğine ilişkin endişeleri artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/remy-cointreau-beats-estimates-on-strong-china-cognac-demand",
+    "ts": 1793168976000,
+    "tags": []
+   },
+   {
+    "t": "Microsoft, Alphabet Have a Lot to Prove to AI Skeptics",
+    "tt": "Microsoft ve Alphabet'in Yapay Zeka Şüphecilerine Kanıtlayacak Çok Şeyi Var",
+    "s": "The stocks have underperformed the market this year on concerns over spending.",
+    "ss": "Hisse senetleri bu yıl harcamalara ilişkin endişeler nedeniyle piyasanın altında performans sergiledi.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-28/microsoft-alphabet-have-a-lot-to-prove-to-ai-skeptics",
+    "ts": 1793182476000,
+    "tags": []
+   },
+   {
     "t": "US Stocks Drift as Caution Sets In Ahead of Fed: Markets Wrap",
     "tt": "Yükselen Petrol Yapay Zeka Kazanımlarını Dengelerken ABD Hisse Senetleri Kayıyor: Piyasalar Sarıldı",
     "s": "US stock futures struggled to follow through on Asia’s tech-led gains as rising oil prices introduced a note of caution ahead of the Federal Reserve’s interest-rate decision and earnings from artificial intelligence giants.",
@@ -399,78 +473,6 @@
     "ss": "Jio tüm ülkeden destek aldı.” Anant Ambani şirketin yolculuğunu anlatırken Mukesh Ambani duygulandı ve listeleme sırasında \"Jio\" veya \"canlı\" kelimesinin anlamı üzerinde oynadı. İlk çıkış aynı zamanda Reliance Group India'nın en değerli holdingi oldu. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-10-28/mukesh-ambani-gets-emotional-at-jio-listing-video",
     "ts": 1793180372000,
-    "tags": []
-   },
-   {
-    "t": "US-Friendly Nations Slash Treasury Purchases by 60%, Led by Asia",
-    "tt": "ABD Dostu Ülkeler, Asya Başında Hazine Alımlarını Yüzde 60 Azalttı",
-    "s": "Being one of Washington’s closest partners no longer means reliably funding the US deficit.",
-    "ss": "Washington'un en yakın ortaklarından biri olmak artık ABD açığının güvenilir bir şekilde finanse edilmesi anlamına gelmiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/us-friendly-nations-slash-treasury-purchases-by-60-led-by-asia",
-    "ts": 1793157671000,
-    "tags": []
-   },
-   {
-    "t": "Israeli Markets Slide Across Board on Election Stalemate Concern",
-    "tt": "İsrail Piyasaları Seçim Çıkmazı Endişesi Üzerine Kayıyor",
-    "s": "Israeli assets slid across the board after the country’s tight election appeared to point to a stalemate, with none of the parties having a clear path toward forming a government.",
-    "ss": "Ülkedeki sıkı seçimlerin bir çıkmaza işaret etmesi ve partilerin hiçbirinin hükümeti kurma konusunda net bir yola sahip olmamasının ardından İsrail varlıkları kayıplar yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-markets-slide-across-board-on-election-stalemate-concern",
-    "ts": 1793179897000,
-    "tags": []
-   },
-   {
-    "t": "Adani Flagship Returns to Profit as Newer Businesses Deliver",
-    "tt": "Adani Amiral Gemisi Yeni İşletmeler Teslimat Yaptıkça Kâra Dönüyor",
-    "s": "Billionaire Gautam Adani-controlled Adani Enterprises Ltd. returned to profit in the second quarter as newer businesses including airports and data centers scaled up.",
-    "ss": "Milyarder Gautam Adani'nin kontrolündeki Adani Enterprises Ltd., havalimanları ve veri merkezleri de dahil olmak üzere yeni işletmelerin büyümesiyle ikinci çeyrekte kâr elde etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/adani-flagship-returns-to-profit-as-newer-businesses-deliver",
-    "ts": 1793175143000,
-    "tags": []
-   },
-   {
-    "t": "Sprake: Fed Now Concerned About High Energy Prices",
-    "tt": "Sprake: Fed Artık Yüksek Enerji Fiyatlarından Endişeli",
-    "s": "The Fed is expected to hold rates steady in their October meeting. Casey Sprake, Market Strategist at AG Capital says while the first hike in September reflected a clear shift in thinking, Kevin Warsh and his team have changed their view again. She spoke to Bloomberg’s Abeer Abu Omar on Horizons Mid",
-    "ss": "Fed'in Ekim toplantısında faiz oranlarını sabit tutması bekleniyor. AG Capital Piyasa Stratejisti Casey Sprake, Eylül ayındaki ilk artışın düşüncede net bir değişimi yansıttığını ancak Kevin Warsh ve ekibinin görüşlerini yeniden değiştirdiğini söylüyor. Horizons Mid'de Bloomberg'den Abeer Abu Omar ile konuştu",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/sprake-fed-now-concerned-about-high-energy-prices-video",
-    "ts": 1793178705000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Oct. 28",
-    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil rose as traders weighed whether the US may resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election.",
-    "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail'deki sıkı seçimleri takip etmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-    "ts": 1793138697000,
-    "tags": []
-   },
-   {
-    "t": "Turkey Cancels License of Brokerage at Heart of Fund Crisis",
-    "tt": "Türkiye, Fon Krizinin Kalbinde Aracılık Lisansını İptal Ediyor",
-    "s": "Turkey’s market authorities canceled Tera Yatirim Menkul Degerler’s license and suspended trading on its stock, part of a continued dismantling of the brokerage at the heart of the country’s fund crisis.",
-    "ss": "Türkiye'deki piyasa otoriteleri, ülkedeki fon krizinin kalbinde yer alan komisyonculuğun devam eden tasfiyesinin bir parçası olarak Tera Yatırım Menkul Değerler'in lisansını iptal etti ve hisse senedi alım satımını askıya aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/turkey-cancels-license-of-brokerage-at-heart-of-fund-crisis",
-    "ts": 1793177191000,
-    "tags": []
-   },
-   {
-    "t": "Oil Is the Real Risk for Another Week: Market Analysis",
-    "tt": "Petrol Bir Haftanın Daha Gerçek Riski: Piyasa Analizi",
-    "s": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "ss": "Anna Edwards, Guy Johnson, Tom Mackenzie ve Mark Cudmore \"Bloomberg: Açılış Ticareti\"nde analistler ve yatırımcılar için bugünün ana temalarını özetliyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/oil-is-the-real-risk-for-another-week-3-minutes-mliv-video",
-    "ts": 1793176995000,
-    "tags": []
-   },
-   {
-    "t": "PHP/USD: Marcos Pledges to “Do All We Can” to Defend Philippine Peso",
-    "tt": "PHP/USD: Marcos, Filipin Pezosu'nu Savunmak İçin \"Elimizden Geleni Yapacağımıza\" Söz Verdi",
-    "s": "President Ferdinand Marcos Jr. pledged that the Philippine authorities will extend their defense of the sinking peso after the currency hit a fresh record low this week.",
-    "ss": "Başkan Ferdinand Marcos Jr., Filipinli yetkililerin pesoya karşı savunmalarını, dövizin bu hafta yeni bir rekor düşük seviyeye ulaşmasının ardından genişleteceklerinin sözünü verdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/php-usd-marcos-pledges-to-do-all-we-can-to-defend-philippine-peso",
-    "ts": 1793161724000,
     "tags": []
    }
   ],
@@ -568,6 +570,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "The real way to tell if Amazon’s AI spending is paying off",
+    "tt": "Amazon'un yapay zeka harcamalarının karşılığını alıp almadığını anlamanın gerçek yolu",
+    "s": "Investors focus on Amazon’s cloud business, but the most important indicator might lie in the company’s warehouses.",
+    "ss": "Yatırımcılar Amazon'un bulut işine odaklanıyor ancak en önemli gösterge şirketin depolarında yatıyor olabilir.",
+    "u": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
+    "ts": 1793183400000,
+    "tags": []
+   },
+   {
+    "t": "Four reasons to start worrying about inflation — including the end of tariff refunds",
+    "tt": "Enflasyon konusunda endişelenmeye başlamak için dört neden - tarife iadelerinin sona ermesi de dahil",
+    "s": "Dennis DeBusschere, of 22V Research, said companies that previously used tariff refunds to ease cost pressures will increasingly hand down those higher costs to consumers.",
+    "ss": "22V Research'ten Dennis DeBusschere, daha önce maliyet baskılarını hafifletmek için tarife iadelerini kullanan şirketlerin bu yüksek maliyetleri giderek tüketicilere aktaracağını söyledi.",
+    "u": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+    "ts": 1793182860000,
+    "tags": []
+   },
+   {
+    "t": "Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner.",
+    "tt": "Bill Ackman'ın yalnızca bir avuç hissesi var. İşte kazananı seçme kuralı.",
+    "s": "What’s a great company? Billionaire hedge-fund manager Bill Ackman says investors can look for some simple characteristics.",
+    "ss": "Harika bir şirket nedir? Milyarder hedge fonu yöneticisi Bill Ackman, yatırımcıların bazı basit özelliklere bakabileceğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
+    "ts": 1793182260000,
+    "tags": []
+   },
+   {
     "t": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
     "tt": "SK Hynix üçüncü çeyrek sonuçlarını açıkladı - ancak Wall Street ve AI ticareti için asıl önemli olan görünümdü",
     "s": "South Korea memory-chip giant says supply constraints will last through 2030.",
@@ -629,36 +658,18 @@
     "u": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
     "ts": 1793137260000,
     "tags": []
-   },
-   {
-    "t": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
-    "tt": "Trump enerji şirketlerinin kaderini överken, ABD'li tüketiciler gaz fiyatlarının bugüne kadarki en pahalı yılıyla karşı karşıya",
-    "s": "President Donald Trump can’t stop touting the fortunes U.S. energy companies have made during the Iran war, while canvassing the country to support Republican candidates ahead of next week’s midterm elections.",
-    "ss": "Başkan Donald Trump, gelecek hafta yapılacak ara seçimler öncesinde Cumhuriyetçi adayları desteklemek için ülkeye propaganda yaparken, ABD enerji şirketlerinin İran savaşı sırasında elde ettiği servetin çığırtkanlığını yapmaktan kendini alamıyor.",
-    "u": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-    "ts": 1793136540000,
-    "tags": []
-   },
-   {
-    "t": "The rest of the market is leaving Big Tech behind after a historic comeback",
-    "tt": "Pazarın geri kalanı tarihi bir geri dönüşün ardından Big Tech'i geride bırakıyor",
-    "s": "The artificial-intelligence trade carried the U.S. stock market in September. But in October, it is being carried out on a stretcher.",
-    "ss": "Yapay zeka ticareti Eylül ayında ABD borsasını hareketlendirdi. Ancak Ekim ayında sedye üzerinde gerçekleştiriliyor.",
-    "u": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-    "ts": 1793136480000,
-    "tags": []
-   },
-   {
-    "t": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-    "tt": "Kocam 1,5 milyon dolarlık evimizi satıp küçültmek istiyor. Ama burası çocuklarımızı büyüttüğümüz yer ve ben buradan ayrılmaya dayanamıyorum.",
-    "s": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-    "ss": "\"Artık boş yuvacılar olduğumuza göre 600.000 $'a bir şey satın almak istiyor.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-    "ts": 1793134800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Trump Admin Says It Has 'No Position' On Orban For UN Chief",
+    "tt": "Trump Yönetimi, BM Şefi İçin Orban Konusunda 'Pozisyonu Olmadığını' Söyledi",
+    "s": "Trump Admin Says It Has 'No Position' On Orban For UN Chief Authored by Owen Evans via The Epoch Times , The Trump administration has said it has no position on whether former Hungarian Prime Minister Viktor Orban should become the next U.N. chief, after The Wall Street Journal reported that Washing",
+    "ss": "Trump Yönetimi, BM Başkanı Orban Konusunda 'Pozisyonu Olmadığını' Söyledi Owen Evans tarafından The Epoch Times aracılığıyla yazıldı. Trump yönetimi, The Wall Street Journal'ın Washington Post'ta Washington'da Washington'da Washington'da Washington'da görev yapan Washington Post'un Washington'da Washington'da Washington'da görev yaptığını bildirdikten sonra eski Macaristan Başbakanı Viktor Orban'ın bir sonraki BM şefi olup olmayacağı konusunda herhangi bir tutumu olmadığını söyledi.",
+    "u": "https://www.zerohedge.com/geopolitical/trump-admin-says-it-has-no-position-orban-un-chief",
+    "ts": 1793183400000,
+    "tags": []
+   },
    {
     "t": "Who's Buying Russian Oil? UBS Has The Answer",
     "tt": "Rus Petrolünü Kim Alıyor? UBS'in Cevabı Var",
@@ -738,15 +749,6 @@
     "ss": "Çiftçiler Neden Kendi Hayvanlarını Kesemiyor? Yeni Bir Yasa Tasarısı Bunu Değiştirebilir Mollie Engelhart tarafından The Epoch Times aracılığıyla yazılmıştır. Geçtiğimiz hafta sonu Weston A. Price Vakfı'nın Bilge Gelenekler Konferansı'nda otururken Temsilci Thomas Massie (R-Ky.) sahneye çıktı. Daha o bir kelime söyleyemeden,",
     "u": "https://www.zerohedge.com/political/why-cant-farmers-butcher-their-own-animals-new-bill-could-change",
     "ts": 1793154900000,
-    "tags": []
-   },
-   {
-    "t": "Top Women's Podcast Promotes Divorce Because \"There's Always Something Better\"",
-    "tt": "En İyi Kadın Podcast'i Boşanmayı Teşvik Ediyor Çünkü \"Her Zaman Daha İyi Bir Şey Vardır\"",
-    "s": "Top Women's Podcast Promotes Divorce Because \"There's Always Something Better\" If you want to know why 60% of men in the US (35-years-old or younger) have never been married and say they don't plan on getting married, study the behavior of modern women and you will find your answers in abundance.&nb",
-    "ss": "En İyi Kadın Podcast'leri Boşanmayı Teşvik Ediyor Çünkü \"Her Zaman Daha İyi Bir Şey Vardır\" ABD'deki erkeklerin (35 yaşında veya daha genç) neden %60'ının hiç evlenmediğini bilmek istiyorsanız ve evlenmeyi planlamadıklarını söylüyorsanız, modern kadınların davranışlarını inceleyin ve yanıtlarınızı bolca bulacaksınız.&nb",
-    "u": "https://www.zerohedge.com/political/top-womens-podcast-encourages-divorce-because-theres-always-something-better",
-    "ts": 1793153400000,
     "tags": []
    }
   ],
