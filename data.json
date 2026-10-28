@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T23:51:12.343442+00:00",
+ "generated": "2026-10-28T00:26:33.310450+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4071.3,
-   "c": 0.81,
-   "d": 32.9,
+   "p": 4078.9,
+   "c": 1.0,
+   "d": 40.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.49,
-   "c": 0.71,
-   "d": 0.382,
+   "p": 54.52,
+   "c": 0.76,
+   "d": 0.412,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 100.05,
-   "c": -1.68,
-   "d": -1.71,
+   "p": 100.41,
+   "c": -1.33,
+   "d": -1.35,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 109.6,
-   "c": -5.36,
-   "d": -6.21,
+   "p": 109.85,
+   "c": -5.15,
+   "d": -5.96,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.365,
-   "c": 0.4,
-   "d": 0.405,
+   "p": 102.33,
+   "c": 0.36,
+   "d": 0.37,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8067,
-   "c": 0.14,
-   "d": 0.068,
+   "p": 49.8272,
+   "c": 0.09,
+   "d": 0.046,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80917,
-   "c": 1.15,
+   "p": 80667,
+   "c": 0.64,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2350.15,
-   "c": 1.35,
+   "p": 2343.99,
+   "c": 0.78,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 101.33,
-   "c": 0.64,
+   "p": 101.14,
+   "c": 0.34,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 2.58,
+   "c": 1.38,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 744.88,
-   "c": 0.5,
+   "p": 741.9,
+   "c": -0.26,
    "k": "usd"
   }
  ],
@@ -384,15 +384,6 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Bolsonaro Arrives in Miami After Fleeing Brazil, O Globo Says",
-    "tt": null,
-    "s": "Brazilian senator Flávio Bolsonaro arrived in Miami on Tuesday after fleeing his country following a defeat in its presidential election, O Globo reported.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/bolsonaro-arrives-in-miami-after-fleeing-brazil-o-globo-says",
-    "ts": 1793144451000,
-    "tags": []
-   },
-   {
     "t": "Gold Holds Above $4,000 as Traders Look to Fed Rate Decision",
     "tt": null,
     "s": "Gold steadied above $4,000 an ounce as dip buyers entered the market before the Federal Reserve’s interest-rate decision due later Wednesday.",
@@ -402,27 +393,40 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap",
+    "t": "Latest Oil Market News and Analysis for Oct. 28",
+    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil steadied after a two-day drop as traders tracked a tight Israeli election that’ll help to shape the course of the US war with Iran.",
+    "ss": "Petrol, tüccarların ABD'nin İran'la savaşının gidişatını şekillendirmeye yardımcı olacak sıkı İsrail seçimlerinin sonuçlarını takip etmesiyle iki günlük düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+    "ts": 1793138697000,
+    "tags": []
+   },
+   {
+    "t": "SK Hynix Posts Record Profit Amid AI Rush",
+    "tt": null,
+    "s": "SK Hynix posted a stronger-than-expected seven-fold surge in quarterly profit and unveiled an additional shareholder return program for 2026 worth 100 trillion won ($75 billion), underscoring relentless demand for AI hardware. Counterpoint Research Director MS Hwang puts the results in the context o",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/sk-hynix-posts-record-profit-amid-ai-rush-video",
+    "ts": 1793146719000,
+    "tags": []
+   },
+   {
+    "t": "Stocks in Asia Advance on Resurgent AI Optimism: Markets Wrap",
     "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
-    "s": "Asian stocks were poised to rise, tracking gains on Wall Street as renewed enthusiasm for artificial intelligence lifted equities ahead of earnings from tech megacaps and the Federal Reserve’s interest-rate decision.",
+    "s": "Asian stocks rose, tracking gains on Wall Street as renewed enthusiasm for the artificial intelligence trade lifted equities ahead of earnings from tech megacaps and the Federal Reserve’s interest-rate decision.",
     "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
     "ts": 1793138947000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Oct. 28",
-    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil held a two-day drop as traders tracked a tight Israeli election that’ll help to shape the course of the US war with Iran.",
-    "ss": "Petrol, tüccarların ABD'nin İran'la savaşının gidişatını şekillendirmeye yardımcı olacak sıkı İsrail seçimlerinin sonuçlarını takip etmesiyle iki günlük düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-    "ts": 1793138697000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "China Stock Premium Over Hong Kong Widens on State Intervention",
+    "tt": null,
+    "s": "Beijing’s efforts to stabilize its equity markets are helping drive the pricing gap between dual-listed stocks in China and Hong Kong to the widest level in nearly 17 months.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/china-stock-premium-over-hong-kong-widens-on-state-intervention",
+    "ts": 1793144977000,
+    "tags": []
    },
    {
     "t": "Dongshan Precision Set to Debut After $1.3 Billion HK Listing",
@@ -467,15 +471,6 @@
     "ss": "Wells Fargo Merkez Bölüm Varlık ve Yatırım Yönetimi Başkanı Heather Hunt-Ruddy; UBS Küresel Aile ve Kurumsal Varlık Genel Müdürü William Thompson ve Citi Genel Müdürü ve Merkezi Bölge Pazar Yöneticisi Clinton Warren, varlık yöneticilerinin varlıklı müşterilere nasıl hizmet ettiğini tartışıyor",
     "u": "https://www.bloomberg.com/news/videos/2026-10-27/wells-fargo-ubs-citi-on-servicing-the-texas-wealthy-video",
     "ts": 1793137371000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq Texas & Walmart Discuss Corp Listing Strategies",
-    "tt": "Nasdaq Texas ve Walmart, Corp Listeleme Stratejilerini Tartışıyor",
-    "s": "Nasdaq Texas President Rachel Racz and Walmart Senior Vice President & Head of Investor Relations Stephanie Wissink discuss how exchanges and public companies are navigating listings, investor engagement and long-term shareholder value with Bloomberg's Amanda Cantrell at Bloomberg Invest Dallas 2026",
-    "ss": "Nasdaq Texas Başkanı Rachel Racz ve Walmart Kıdemli Başkan Yardımcısı ve Yatırımcı İlişkileri Başkanı Stephanie Wissink, Bloomberg Invest Dallas 2026'da Bloomberg'den Amanda Cantrell ile borsaların ve halka açık şirketlerin listelemelerde, yatırımcı katılımında ve uzun vadeli hissedar değerinde nasıl gezindiğini tartışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/nasdaq-texas-walmart-discuss-corp-listing-strategies-video",
-    "ts": 1793137352000,
     "tags": []
    }
   ],
@@ -665,6 +660,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Dozens Of Immigrants Charged With Illegal Voting, Fraudulent Voter Registration",
+    "tt": null,
+    "s": "Dozens Of Immigrants Charged With Illegal Voting, Fraudulent Voter Registration Authored by Zachary Stieber via The Epoch Times , Forty-eight immigrants have been charged with voting in a federal election or other election-related crimes, the Department of Justice announced on Oct. 26. A stack of vo",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/dozens-immigrants-charged-illegal-voting-fraudulent-voter-registration",
+    "ts": 1793146800000,
+    "tags": []
+   },
+   {
+    "t": "\"Never-Ending\" Cruise Hits Dead End: Passengers Stranded In Cambodia As Fuel Bill Sinks Voyage",
+    "tt": null,
+    "s": "\"Never-Ending\" Cruise Hits Dead End: Passengers Stranded In Cambodia As Fuel Bill Sinks Voyage Villa Vie Residences suspended operations of its 650-passenger residential cruise ship on Tuesday, citing \" extraordinary \" fuel costs that have placed its business model under unsustainable financial pres",
+    "ss": null,
+    "u": "https://www.zerohedge.com/energy/never-ending-cruise-hits-dead-end-passengers-stranded-cambodia-fuel-bill-sinks-voyage",
+    "ts": 1793145600000,
+    "tags": []
+   },
+   {
     "t": "WHO Kills MAHA-Backed Hepatitis B Baby Vaccine Trial",
     "tt": null,
     "s": "WHO Kills MAHA-Backed Hepatitis B Baby Vaccine Trial Authored by Benjamin Bartee via Armageddon Prose , Since September of last year, a team of Danish researchers, backed by $1.6 million in funding from RFK Jr.'s CDC, had planned a large-scale hepatitis B vaccine trial in the sub-Saharan African nat",
@@ -734,24 +747,6 @@
     "ss": "Kuzey Karolina Özgürlükçü Senato Adayı, Polisle Canlı Blog Yazma Silahlı Karşılaşmasının Ardından Tutuklandı Özgürlükçü Partinin Cary'nin çoğunu kapsayan Kuzey Karolina eyalet Senatosu sandalyesi adayı Jonathan D. Miller, öğleden sonra 3 civarında tutuklandı. Polisle saatlerce süren çatışmanın ardından Pazartesi günü sona erdi",
     "u": "https://www.zerohedge.com/political/north-carolina-libertarian-senate-candidate-arrested-after-live-blogging-armed-standoff",
     "ts": 1793136000000,
-    "tags": []
-   },
-   {
-    "t": "DOJ Flags More Than 400 Suspected Noncitizens On Washington Voter Rolls",
-    "tt": "DOJ, Washington Seçmen Kütüklerinde 400'den Fazla Şüpheli Vatandaşı İşaretledi",
-    "s": "DOJ Flags More Than 400 Suspected Noncitizens On Washington Voter Rolls Authored by Aldgra Fredly via The Epoch Times , The Department of Justice (DOJ) on Oct. 26 asked Washington state to set aside ballots cast by more than 400 registered voters whom the federal government suspects are noncitizens.",
-    "ss": "DOJ, Washington Seçmen Kütüklerinde 400'den Fazla Şüpheli Vatandaşı İşaretledi Aldgra Fredly tarafından The Epoch Times aracılığıyla yazılmıştır, Adalet Bakanlığı (DOJ), 26 Ekim'de Washington eyaletinden federal hükümetin vatandaş olmadığından şüphelendiği 400'den fazla kayıtlı seçmenin kullandığı oyları iptal etmesini istedi.",
-    "u": "https://www.zerohedge.com/markets/doj-flags-more-400-suspected-noncitizens-washington-voter-rolls",
-    "ts": 1793134800000,
-    "tags": []
-   },
-   {
-    "t": "Anti-Netanyahu Bloc Leads Israel's Election, But Bibi's Likud Is Biggest Party, With No Clear Victor Emerging",
-    "tt": "İsrail Seçimleri: 'Bibi Yorgunluğu' Netanyahu'yu Tehdit Ederken Erken Katılım 45 Yılın En Yüksek Seviyesine Ulaştı",
-    "s": "Anti-Netanyahu Bloc Leads Israel's Election, But Bibi's Likud Is Biggest Party, With No Clear Victor Emerging Summary No Clear Victor: Likud leads as the largest party with 24-25 seats , but the anti-Netanyahu bloc leads overall , with neither side near the 61-seat majority needed to govern. Record ",
-    "ss": "İsrail Seçimleri: 'Bibi Yorgunluğu' Netanyahu'nun Tutumunu Tehdit Ederken Erken Katılım 45 Yılın En Yüksek Seviyesine Ulaştı Shin Bet şefi David Zini, İsrailliler Salı günü rekor sayıda sandık başına giderken şunları söyledi: \"Seçmen katılımı yüksek ve İsrail vatandaşlarına seçimlerin izlendiğini rahatlıkla söyleyebiliriz\"",
-    "u": "https://www.zerohedge.com/geopolitical/israel-election-early-turnout-hits-45-year-high-bibi-fatigue-threatens-netanyahus-grip",
-    "ts": 1793134200000,
     "tags": []
    }
   ],
