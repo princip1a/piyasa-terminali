@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T03:19:11.559952+00:00",
+ "generated": "2026-10-28T04:04:04.838538+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4061.4,
-   "c": -0.32,
-   "d": -13.2,
+   "p": 4058.5,
+   "c": 0.5,
+   "d": 20.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.175,
-   "c": -0.22,
-   "d": -0.118,
+   "p": 54.14,
+   "c": 0.06,
+   "d": 0.032,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.15,
-   "c": 1.25,
-   "d": 1.25,
+   "p": 101.39,
+   "c": -0.36,
+   "d": -0.37,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.77,
-   "c": -2.73,
-   "d": -3.11,
+   "p": 110.92,
+   "c": -4.22,
+   "d": -4.89,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.379,
-   "c": 0.06,
-   "d": 0.059,
+   "p": 102.402,
+   "c": 0.43,
+   "d": 0.442,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8099,
+   "p": 49.8132,
    "c": 0.06,
-   "d": 0.029,
+   "d": 0.032,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80862,
-   "c": 1.63,
+   "p": 81033,
+   "c": 1.66,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2355.24,
-   "c": 2.1,
+   "p": 2357.21,
+   "c": 2.02,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 101.58,
-   "c": 1.7,
+   "p": 101.93,
+   "c": 1.9,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.33,
-   "c": 2.96,
+   "p": 1.34,
+   "c": 2.93,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 744.82,
-   "c": 1.01,
+   "p": 746.41,
+   "c": 1.12,
    "k": "usd"
   }
  ],
@@ -384,6 +384,47 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Traders Brace for Jio Debut",
+    "tt": "Yatırımcılar Jio'nun Çıkışına Hazırlanıyor",
+    "s": "Traders are bracing for the Indian market debut of Jio Platforms. The listing pits Mukesh Ambani's telecom giant against a negative trend for India's megadeals amidst a challenging market environment. (Source: Bloomberg)",
+    "ss": "Yatırımcılar Jio Platformlarının Hindistan pazarına çıkışına hazırlanıyor. Listeleme, Mukesh Ambani'nin telekom devini, zorlu bir pazar ortamında Hindistan'ın mega anlaşmalarına yönelik olumsuz bir trendle karşı karşıya getiriyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/traders-brace-for-jio-debut-video",
+    "ts": 1793160220000,
+    "tags": []
+   },
+   {
+    "t": "Dongshan Precision Shares Erase Losses in Hong Kong Debut",
+    "tt": "Dongshan Precision, 1,3 Milyar Dolarlık HK Listesinden Sonra İlk Çıkışını Yaptı",
+    "s": "Suzhou Dongshan Precision Manufacturing Co. shares erased an opening slide to trade higher in their first day of trading in Hong Kong after the company raised HK$9.9 billion ($1.3 billion), a debut that’s a test of investor appetite for artificial intelligence-linked listings after a sharp market pu",
+    "ss": "Suzhou Dongshan Precision Manufacturing Co. hisseleri, şirketin 9,9 milyar HK$ (1,3 milyar $) artırmasının ardından Hong Kong'da işlem görmesinin ilk gününde düştü; bu, keskin bir piyasa gerilemesinin ardından yatırımcıların yapay zeka bağlantılı listelemelere yönelik iştahını test eden bir başlangıç ​​oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing",
+    "ts": 1793142000000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stock Rally Extends Before Fed, Oil Climbs: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
+    "s": "A global rally in tech stocks extended as enthusiasm over the artificial intelligence trade lifted equities ahead of earnings from tech megacaps and the Federal Reserve’s interest-rate decision. Crude oil rose.",
+    "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793138947000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "US-Friendly Nations Slash Treasury Purchases by 60%, Led by Asia",
+    "tt": "ABD Dostu Ülkeler, Asya Başında Hazine Alımlarını Yüzde 60 Azalttı",
+    "s": "Being one of Washington’s closest partners no longer means reliably funding the US deficit.",
+    "ss": "Washington'un en yakın ortaklarından biri olmak artık ABD açığının güvenilir bir şekilde finanse edilmesi anlamına gelmiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/us-friendly-nations-slash-treasury-purchases-by-60-led-by-asia",
+    "ts": 1793157671000,
+    "tags": []
+   },
+   {
     "t": "Jio Platforms Listing Live Updates: Ambani Firm's Trading Debut After Record IPO",
     "tt": "Jio Platformları Canlı Güncellemeleri Listeliyor: Ambani Firmasının Rekor Halka Arzdan Sonra İlk Ticaretine Çıkışı",
     "s": "",
@@ -393,12 +434,12 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks Climb on AI Trade Optimism, Oil Gains: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
-    "s": "Asian stocks advanced for a second day as enthusiasm over the artificial intelligence trade lifted equities ahead of earnings from tech megacaps and the Federal Reserve’s interest-rate decision. Crude oil rose.",
-    "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793138947000,
+    "t": "Chinese Government to Speed Bond Sales to Stimulate Growth",
+    "tt": "Çin Hükümeti Büyümeyi Teşvik Etmek İçin Tahvil Satışlarını Hızlandıracak",
+    "s": "China’s central and local governments will probably raise at least a net 2.2 trillion yuan ($330 billion) in bond sales in the final two months of the year, the second-highest amount on record for the period, as the authorities step up efforts to support growth.",
+    "ss": "Yetkililer büyümeyi destekleme çabalarını hızlandırdıkça, Çin'in merkezi ve yerel yönetimleri muhtemelen yılın son iki ayında en az net 2,2 trilyon yuan (330 milyar dolar) tahvil satışını artıracak; bu, o dönemde kaydedilen en yüksek ikinci tutar.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/chinese-government-to-speed-bond-sales-to-stimulate-growth",
+    "ts": 1793156409000,
     "tags": []
    },
    {
@@ -441,42 +482,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "Dongshan Precision Slips in Debut After $1.3 Billion HK Listing",
-    "tt": "Dongshan Precision, 1,3 Milyar Dolarlık HK Listesinden Sonra İlk Çıkışını Yaptı",
-    "s": "Suzhou Dongshan Precision Manufacturing Co. shares slumped on their first day of trading in Hong Kong after the company raised HK$9.9 billion ($1.3 billion), a debut that tests investor appetite for artificial intelligence-linked listings after a sharp market pullback.",
-    "ss": "Suzhou Dongshan Precision Manufacturing Co. hisseleri, şirketin 9,9 milyar HK$ (1,3 milyar $) artırmasının ardından Hong Kong'da işlem görmesinin ilk gününde düştü; bu, keskin bir piyasa gerilemesinin ardından yatırımcıların yapay zeka bağlantılı listelemelere yönelik iştahını test eden bir başlangıç ​​oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing",
-    "ts": 1793142000000,
-    "tags": []
-   },
-   {
-    "t": "Pop Mart Third-Quarter Sales Fall Up to 50% as Labubu Fad Cools",
-    "tt": "Pop Mart'ın Üçüncü Çeyrek Satışları Labubu Fad'ın Soğumasıyla %50'ye Kadar Düştü",
-    "s": "Pop Mart International Group Ltd. fell in Hong Kong after the company reported a sharp dip in third-quarter sales, as fading demand for its blockbuster Labubu franchise and a challenging base of comparison weighed on results.",
-    "ss": "Hong Kong'da Pop Mart International Group Ltd., şirketin üçüncü çeyrek satışlarında keskin bir düşüş bildirmesinin ardından, gişe rekorları kıran Labubu franchise'ına olan talebin azalması ve zorlu karşılaştırma tabanının sonuçlar üzerinde baskı yaratması nedeniyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/pop-mart-s-quarterly-sales-drop-on-high-base-sluggish-demand",
-    "ts": 1793090520000,
-    "tags": []
-   },
-   {
-    "t": "Malaysian Palm Oil Glut Swamps Storage in Top-Growing State",
-    "tt": "Malezya Palmiye Yağı Bolluğu En Çok Büyüyen Eyalette Bataklık Depoluyor",
-    "s": "Malaysia’s swelling palm oil inventories are straining storage capacity in the country’s top-producing state, as a bumper harvest piles pressure on the government to clear excess supplies.",
-    "ss": "Malezya'nın artan palm yağı stokları, ülkenin en çok üretim yapan eyaletindeki depolama kapasitesini zorluyor; çünkü bereketli bir hasat, fazla arzın temizlenmesi için hükümet üzerinde baskı oluşturuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/malaysian-palm-oil-glut-swamps-storage-in-top-producing-state",
-    "ts": 1793092239000,
-    "tags": []
-   },
-   {
-    "t": "Robert Kaplan: Fed Can Wait Before Hiking Rates",
-    "tt": "Robert Kaplan: Fed Faiz Artırımından Önce Bekleyebilir",
-    "s": "Goldman Sachs Vice Chairman and former Dallas Fed chief Robert Kaplan says the central bank can afford to hold off on raising rates by one meeting while continuing to assess economic indicators. (Source: Bloomberg)",
-    "ss": "Goldman Sachs Başkan Yardımcısı ve eski Dallas Fed şefi Robert Kaplan, merkez bankasının ekonomik göstergeleri değerlendirmeye devam ederken faiz artırımını bir toplantıya ertelemeyi göze alabileceğini söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/robert-kaplan-fed-can-wait-before-hiking-rates-video",
-    "ts": 1793148585000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -665,6 +670,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Alastair Crooke: The Iran War & The 'Terrible Power Of The Purse'",
+    "tt": "Alastair Crooke: İran Savaşı ve 'Çantanın Korkunç Gücü'",
+    "s": "Alastair Crooke: The Iran War &amp; The 'Terrible Power Of The Purse' Authored by Alastair Crooke The “Grand Design” to “maintain [western civilization’s] place at the head of the world” (as U.S. Secretary of State Marco Rubio put it ) requires the tools for ensuring compliance are two-fold: The cre",
+    "ss": "Alastair Crooke: İran Savaşı ve 'Çantanın Korkunç Gücü' Yazan: Alastair Crooke \"[Batı uygarlığının] dünyanın başındaki yerini korumaya\" yönelik \"Büyük Tasarım\" (ABD Dışişleri Bakanı Marco Rubio'nun belirttiği gibi), uyumluluğu sağlamak için iki yönlü araçlara ihtiyaç duyar: Cre",
+    "u": "https://www.zerohedge.com/geopolitical/alastair-crooke-iran-war-terrible-power-purse",
+    "ts": 1793157900000,
+    "tags": []
+   },
+   {
     "t": "Startup Unveils \"Big Iron\" Rocket Whose Upper Stage Is An Orbital Data Center",
     "tt": "Startup, Üst Aşaması Orbital Veri Merkezi Olan \"Büyük Demir\" Roketini Tanıttı",
     "s": "Startup Unveils \"Big Iron\" Rocket Whose Upper Stage Is An Orbital Data Center Cowboy Space Corporation, the former Aetherflux founded by Robinhood co-founder Baiju Bhatt, on Monday unveiled \"Big Iron,\" a rocket whose upper stage is designed to stay in orbit as a megawatt-class data center , rather t",
@@ -743,15 +757,6 @@
     "ss": "\"Hiç Bitmeyen\" Gemi Yolculuğu Çıkmaza Girdi: Yakıt Faturası Bitince Yolcular Kamboçya'da Mahsur Kaldı Voyage Villa Vie Residences, iş modelini sürdürülemez mali duruma sokan \"olağanüstü\" yakıt maliyetlerini gerekçe göstererek 650 yolcu kapasiteli yolcu gemisinin faaliyetlerini Salı günü askıya aldı",
     "u": "https://www.zerohedge.com/energy/never-ending-cruise-hits-dead-end-passengers-stranded-cambodia-fuel-bill-sinks-voyage",
     "ts": 1793145600000,
-    "tags": []
-   },
-   {
-    "t": "WHO Kills MAHA-Backed Hepatitis B Baby Vaccine Trial",
-    "tt": "DSÖ, MAHA Destekli Hepatit B Bebek Aşısı Denemesini Öldürdü",
-    "s": "WHO Kills MAHA-Backed Hepatitis B Baby Vaccine Trial Authored by Benjamin Bartee via Armageddon Prose , Since September of last year, a team of Danish researchers, backed by $1.6 million in funding from RFK Jr.'s CDC, had planned a large-scale hepatitis B vaccine trial in the sub-Saharan African nat",
-    "ss": "DSÖ, MAHA Destekli Hepatit B Bebek Aşısı Denemesini Öldürdü Benjamin Bartee tarafından Armageddon Prose aracılığıyla yazılmıştır. Geçen yılın Eylül ayından bu yana, RFK Jr.'ın CDC'sinden 1,6 milyon dolarlık fonla desteklenen Danimarkalı araştırmacılardan oluşan bir ekip, Sahra altı Afrika ülkesinde büyük ölçekli bir hepatit B aşısı denemesi planlamıştı.",
-    "u": "https://www.zerohedge.com/medical/who-kills-maha-backed-hepatitis-b-baby-vaccine-trial",
-    "ts": 1793144400000,
     "tags": []
    }
   ],
