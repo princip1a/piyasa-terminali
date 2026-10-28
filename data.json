@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T20:58:52.687833+00:00",
+ "generated": "2026-10-28T21:31:40.688318+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4082.9,
-   "c": 0.2,
-   "d": 8.3,
+   "p": 4081.2,
+   "c": 0.16,
+   "d": 6.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.065,
-   "c": -0.42,
-   "d": -0.228,
+   "p": 54.04,
+   "c": -0.47,
+   "d": -0.253,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.03,
-   "c": 2.13,
-   "d": 2.13,
+   "p": 101.94,
+   "c": 2.04,
+   "d": 2.04,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.65,
-   "c": -2.84,
-   "d": -3.23,
+   "p": 110.44,
+   "c": -3.02,
+   "d": -3.44,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.119,
-   "c": -0.2,
-   "d": -0.201,
+   "p": 102.127,
+   "c": -0.19,
+   "d": -0.193,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8189,
+   "p": 49.823,
    "c": 0.08,
-   "d": 0.038,
+   "d": 0.042,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11165.44,
-   "c": 0.13,
-   "d": 14.44,
+   "c": 0.12,
+   "d": 13.44,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 81182,
+   "p": 81158,
    "c": 0.64,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2357.06,
-   "c": 0.68,
+   "p": 2358.33,
+   "c": 0.79,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.3,
-   "c": 1.38,
+   "p": 102.43,
+   "c": 1.58,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 0.78,
+   "c": 0.81,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 754.08,
-   "c": 1.04,
+   "p": 755.49,
+   "c": 1.33,
    "k": "usd"
   }
  ],
@@ -384,6 +384,24 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Sprouts Slashes Outlook After Cyclospora Outbreak Hit Sales",
+    "tt": null,
+    "s": "Sprouts Farmers Market Inc. shares tumbled after cutting its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
+    "ts": 1793222680000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 28",
+    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose as traders weighed whether the US and Israel would resume military strikes on Iran.",
+    "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail seçimlerinin sıkı geçmesini takip etmesiyle yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+    "ts": 1793138697000,
+    "tags": []
+   },
+   {
     "t": "Lula's Brazil Election Win Deepens Latin America Stock Fund Collapse",
     "tt": null,
     "s": "More than 400 equity funds have disappeared and IPOs are on ice. And that was before Lula’s reelection sparked a rout in Brazilian stocks.",
@@ -423,15 +441,6 @@
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Oct. 28",
-    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil rose as traders weighed whether the US and Israel would resume military strikes on Iran.",
-    "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail seçimlerinin sıkı geçmesini takip etmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-    "ts": 1793138697000,
-    "tags": []
-   },
-   {
     "t": "Global Bond Sales Shatter Record, Fueled by AI Borrowing Binge",
     "tt": null,
     "s": "Global bond sales have soared to an all-time high, catapulted by breakneck borrowing from the tech juggernauts at the forefront of the AI boom.",
@@ -465,15 +474,6 @@
     "ss": "Kaldıraçlı krediler yeni bir dönem için yeniden fiyatlandırılıyor.",
     "u": "https://www.bloomberg.com/news/newsletters/2026-10-28/chickens-are-coming-home-to-roost-in-credit",
     "ts": 1793215004000,
-    "tags": []
-   },
-   {
-    "t": "Boeing Rout a Win For Skeptics Who Rejected Wall Street Optimism",
-    "tt": "Boeing, Wall Street'teki iyimserliği reddeden şüphecilerin galibiyetini bozdu",
-    "s": "Boeing Co.’s disappointing outlook, which sparked the stock’s sharpest selloff since June 2020, handed a win to bearish investors who had shrugged off Wall Street’s increasingly bullish stance over the past several months.",
-    "ss": "Hisse senedinde Haziran 2020'den bu yana en keskin satışı tetikleyen Boeing Co.'nun hayal kırıklığı yaratan görünümü, son birkaç aydır Wall Street'in giderek artan yükseliş eğilimini umursamayan düşüş eğilimli yatırımcılara kazanç sağladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/boeing-rout-a-win-for-skeptics-who-rejected-wall-street-optimism",
-    "ts": 1793206855000,
     "tags": []
    }
   ],
@@ -571,6 +571,35 @@
   ],
   "MarketWatch": [
    {
+    "t": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+    "tt": null,
+    "s": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "ts": 1793223000000,
+    "tags": []
+   },
+   {
+    "t": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
+    "tt": "Fed faiz artırmayı neden erteledi? Warsh bunun nedeninin 'bilgi açısından zengin' bir dönemin gelmesi olduğunu söylüyor.",
+    "s": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.",
+    "ss": "Federal Rezerv Başkanı Kevin Warsh, merkez bankasının Çarşamba günü neden faiz oranlarını artırmadığına değindi.",
+    "u": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+    "ts": 1793222820000,
+    "tags": []
+   },
+   {
+    "t": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+    "tt": null,
+    "s": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+    "ts": 1793221620000,
+    "tags": [
+     "DXY ▼"
+    ]
+   },
+   {
     "t": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
     "tt": null,
     "s": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
@@ -607,17 +636,6 @@
     "tags": []
    },
    {
-    "t": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-    "tt": null,
-    "s": "Even with an uptick in multi-million-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-    "ts": 1793218920000,
-    "tags": [
-     "DXY ▼"
-    ]
-   },
-   {
     "t": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
     "tt": "Yaşlanan ebeveynlerimize ve sevdiklerimize bakmak için yılda 11.000 dolardan fazla para harcıyoruz",
     "s": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
@@ -643,27 +661,27 @@
     "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
     "ts": 1793218260000,
     "tags": []
-   },
-   {
-    "t": "The U.S. government will no longer penalize American companies for making six popular peptides",
-    "tt": "ABD hükümeti artık Amerikan şirketlerini altı popüler peptid ürettikleri için cezalandırmayacak",
-    "s": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
-    "ss": "BPC-157 ve TB-500 gibi popüler sağlıklı yaşam ürünleri üreten eczanelerin bileşikleştirilmesine karşı herhangi bir işlem yapılmayacaktır.",
-    "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-    "ts": 1793218020000,
-    "tags": []
-   },
-   {
-    "t": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
-    "tt": "Fed faiz artırmayı neden erteledi? Warsh bunun nedeninin 'bilgi açısından zengin' bir dönemin gelmesi olduğunu söylüyor.",
-    "s": "Federal Reserve Chairman Kevin Warsh addressed why the central bank didn’t raise interest rates on Wednesday.",
-    "ss": "Federal Rezerv Başkanı Kevin Warsh, merkez bankasının Çarşamba günü neden faiz oranlarını artırmadığına değindi.",
-    "u": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-    "ts": 1793217360000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Democrat Operatives Spent Months Hunting For Alaskans Named Dan Sullivan - Campaign Denies Involvement: Report",
+    "tt": null,
+    "s": "Democrat Operatives Spent Months Hunting For Alaskans Named Dan Sullivan - Campaign Denies Involvement: Report The New York Times reported Wednesday that operatives around Democrat Mary Peltola's Senate campaign spent months looking for a second Dan Sullivan to put in Alaska's race against Republica",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/democrat-operatives-spent-months-hunting-alaskans-named-dan-sullivan-campaign-denies",
+    "ts": 1793223000000,
+    "tags": []
+   },
+   {
+    "t": "Roswell Attracts ETs (Extra Tourists) After Government Releases New UFO Files",
+    "tt": null,
+    "s": "Roswell Attracts ETs (Extra Tourists) After Government Releases New UFO Files Authored by Darlene McCormick Sanchez via The Epoch Times , ROSWELL, N.M. - The 1947 crash of an alleged flying saucer on a ranch outside this high-desert town started a neon-lit alien tourism economy of museums, gift shop",
+    "ss": null,
+    "u": "https://www.zerohedge.com/technology/roswell-attracts-ets-extra-tourists-after-government-releases-new-ufo-files",
+    "ts": 1793221800000,
+    "tags": []
+   },
    {
     "t": "Putin Calls Musk A \"Real Genius,\" Says Russia Coordinating With Him In On Satellites",
     "tt": null,
@@ -741,27 +759,18 @@
     "u": "https://www.zerohedge.com/political/minnesota-charges-james-okeefe-and-cam-higby-felonies-over-polling-place-vouching-stunt",
     "ts": 1793216100000,
     "tags": []
-   },
-   {
-    "t": "Has Apple Peaked?",
-    "tt": "Apple zirveye ulaştı mı?",
-    "s": "Has Apple Peaked? Submitted by QTR's Fringe Finance There’s no disputing that Apple remains one of the greatest companies in the history of capitalism. Its products are still insanely popular, its ecosystem remains one of the most powerful competitive advantages in modern business, and its stock con",
-    "ss": "Apple zirveye ulaştı mı? QTR'den Fringe Finance tarafından sunulmuştur. Apple'ın kapitalizm tarihindeki en büyük şirketlerden biri olmaya devam ettiğine şüphe yok. Ürünleri hâlâ inanılmaz derecede popüler, ekosistemi modern iş dünyasının en güçlü rekabet avantajlarından biri olmaya devam ediyor ve stok durumu da oldukça iyi.",
-    "u": "https://www.zerohedge.com/markets/has-apple-peaked",
-    "ts": 1793215200000,
-    "tags": []
-   },
-   {
-    "t": "California's Billionaire Tax May Cost More Than It Raises, Reports Find",
-    "tt": "Raporlara Göre Kaliforniya'nın Milyarder Vergisi Arttığından Daha Fazlasına Mal Olabilir",
-    "s": "California's Billionaire Tax May Cost More Than It Raises, Reports Find Authored by Thomas Savidge via The Daily Economy , California voters will decide on Proposition 40 , a proposal for \"a one-time 5-percent tax on the worldwide net worth of individuals exceeding $1 billion,\" this November. The me",
-    "ss": "Kaliforniya'nın Milyarder Vergisi Arttığından Daha Fazlasına Mal Olabilir, Raporlar Thomas Savidge tarafından The Daily Economy aracılığıyla yazılmıştır, Kaliforniya'daki seçmenler bu Kasım ayında \"dünya çapında net serveti 1 milyar doları aşan bireylere tek seferlik yüzde 5'lik bir vergi\" teklifi olan Teklif 40'a karar verecek. ben",
-    "u": "https://www.zerohedge.com/political/californias-billionaire-tax-may-cost-more-it-raises-reports-find",
-    "ts": 1793213100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Fitch: Küresel risk ortamı yeni yıla girerken kötüleşiyor",
+    "tt": null,
+    "s": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, yapay zeka yatırımlarına ilişkin artan riskler, Orta Doğu'daki jeopolitik gerilimler ve sıkılaşan finansman koşulları nedeniyle küresel kredi risk ortamının kötüleştiğini bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fitch-kuresel-risk-ortami-yeni-yila-girerken-kotulesiyor-3792783",
+    "ts": 1793221234000,
+    "tags": []
+   },
    {
     "t": "Guidewire, Hyperexponential'ı 1,7 milyar dolara satın aldı",
     "tt": null,
@@ -841,15 +850,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/putin-ile-musk-arasinda-uydu-temasi-3792732",
     "ts": 1793202961000,
-    "tags": []
-   },
-   {
-    "t": "Kanada Merkez Bankası'ndan 2023'ten beri ilk faiz artırımı",
-    "tt": null,
-    "s": "Kanada Merkez Bankası (BoC), 2023'ten bu yana ilk kez faiz artırımına giderek politika faizini 25 baz puan artışla yüzde 2,50'ye çıkardı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kanada-merkez-bankasi-ndan-2023-ten-beri-ilk-faiz-artirimi-3792731",
-    "ts": 1793201098000,
     "tags": []
    }
   ]
