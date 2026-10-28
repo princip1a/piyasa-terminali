@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T21:31:40.688318+00:00",
+ "generated": "2026-10-28T22:14:43.578487+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4081.2,
-   "c": 0.16,
-   "d": 6.6,
+   "p": 4076.9,
+   "c": 0.06,
+   "d": 2.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.04,
-   "c": -0.47,
-   "d": -0.253,
+   "p": 54.075,
+   "c": -0.4,
+   "d": -0.218,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.94,
-   "c": 2.04,
-   "d": 2.04,
+   "p": 101.97,
+   "c": 2.07,
+   "d": 2.07,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.44,
-   "c": -3.02,
-   "d": -3.44,
+   "p": 110.5,
+   "c": -2.97,
+   "d": -3.38,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.127,
-   "c": -0.19,
-   "d": -0.193,
+   "p": 102.156,
+   "c": -0.16,
+   "d": -0.164,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.823,
-   "c": 0.08,
-   "d": 0.042,
+   "p": 49.8311,
+   "c": 0.1,
+   "d": 0.05,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81158,
-   "c": 0.64,
+   "p": 81192,
+   "c": 0.47,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2358.33,
-   "c": 0.79,
+   "p": 2356.56,
+   "c": 0.4,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.43,
-   "c": 1.58,
+   "p": 102.34,
+   "c": 1.18,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 0.81,
+   "c": 0.37,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 755.49,
-   "c": 1.33,
+   "p": 755.63,
+   "c": 1.43,
    "k": "usd"
   }
  ],
@@ -384,12 +384,44 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
+    "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
+    "s": "Oil dropped as traders weighed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
+    "ss": "Petrol fiyatları, tüccarların ABD'nin İran'a yönelik askeri saldırılarının yeniden başlaması ihtimalini engellemek için Orta Doğu'daki yeni diplomatik çabalara ağırlık vermesiyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+    "ts": 1793225101000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
+    "tt": "Fed'in çok fazla parası var",
+    "s": "La Reserva Federal mantuvo las tasas de interés sin cambios y reafirmó su compromiso de contener la inflación, pero evitó dar señales claras sobre un posible aumento en diciembre. La decisión llega a menos de una semana de las elecciones de medio término en EE.UU., con los votantes preocupados por e",
+    "ss": "Federal Rezerv, farklı ilgi alanlarına yönelik çalışmalar yürütüyor ve enflasyon içeriğinden ödün vermeyi yeniden doğruluyor, ancak olası bir artışa işaret eden sinyallerden kaçınıyor. Karar, EE.UU.'daki orta dönem seçimlerinde bir yarıyılda verilecek ve oy verenlerin aklını meşgul ediyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-mantiene-tasas-sin-dar-muchas-pistas-sobre-diciembre-video",
+    "ts": 1793223177000,
+    "tags": []
+   },
+   {
     "t": "Sprouts Slashes Outlook After Cyclospora Outbreak Hit Sales",
-    "tt": null,
+    "tt": "Cyclospora Salgını Satışları Etkiledikten Sonra Filizler Görünümü Düşürdü",
     "s": "Sprouts Farmers Market Inc. shares tumbled after cutting its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
-    "ss": null,
+    "ss": "Sprouts Farmers Market Inc. hisseleri, bakkalın satışlarının siklospora marul salgını ve tüketicinin karamsarlığı nedeniyle olumsuz etkilenmesi nedeniyle görünümü düşürmesinin ardından düşüş yaşadı.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
     "ts": 1793222680000,
+    "tags": []
+   },
+   {
+    "t": "Fed Officials Left Interest Rates Unchanged",
+    "tt": "Fed Yetkilileri Faiz Oranlarını Değiştirmedi",
+    "s": "Jon Ferro, Lisa Abramowicz and Tom Keene host a special edition of \"Bloomberg Surveillance\" as the Federal Open Market Committee voted 10-2 to hold its benchmark federal funds rate in a range of 3.75% to 4% and leave interest rates unchanged. (Source: Bloomberg)",
+    "ss": "Jon Ferro, Lisa Abramowicz ve Tom Keene, Federal Açık Piyasa Komitesi'nin gösterge federal fon oranını %3,75 ila %4 aralığında tutmak ve faiz oranlarını değiştirmemek için 10-2 oy vermesiyle \"Bloomberg Gözetim\"in özel bir baskısına ev sahipliği yaptı. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/bloomberg-surveillance-the-fed-decides-10-27-2026-video",
+    "ts": 1793222110000,
     "tags": []
    },
    {
@@ -403,9 +435,9 @@
    },
    {
     "t": "Lula's Brazil Election Win Deepens Latin America Stock Fund Collapse",
-    "tt": null,
+    "tt": "Lula'nın Brezilya Seçim Galibiyeti Latin Amerika Hisse Senedi Fonu Çöküşünü Derinleştirdi",
     "s": "More than 400 equity funds have disappeared and IPOs are on ice. And that was before Lula’s reelection sparked a rout in Brazilian stocks.",
-    "ss": null,
+    "ss": "400'den fazla hisse senedi fonu ortadan kayboldu ve halka arzlar beklemede. Ve bu, Lula'nın yeniden seçilmesinin Brezilya hisselerinde bir bozgun yaratmasından önceydi.",
     "u": "https://www.bloomberg.com/news/features/2026-10-28/lula-s-brazil-election-win-deepens-latin-america-stock-fund-collapse",
     "ts": 1793221203000,
     "tags": []
@@ -424,56 +456,29 @@
    },
    {
     "t": "Investors Jolted by Lula Win Seek Bottom After Brazil Rout",
-    "tt": null,
+    "tt": "Yatırımcılar, Lula'nın Brezilya Mağlubiyeti Sonrası Dibi Aramayı Kazanmasıyla Sarsıldı",
     "s": "Investors blindsided by President Luiz Inácio Lula da Silva’s re-election are balking at buying into Brazil’s markets after bullish bets on the nation’s assets unraveled spectacularly.",
-    "ss": null,
+    "ss": "Başkan Luiz Inácio Lula da Silva'nın yeniden seçilmesiyle gafil avlanan yatırımcılar, ülkenin varlıklarına yönelik yükseliş iddialarının olağanüstü bir şekilde çözülmesinin ardından Brezilya piyasalarından alım yapmaktan çekiniyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/investors-jolted-by-lula-win-search-for-bottom-after-brazil-rout",
     "ts": 1793196059000,
     "tags": []
    },
    {
     "t": "The Fed Will Deliver Price Stability, Warsh Says",
-    "tt": null,
+    "tt": "Warsh, Fed'in Fiyat İstikrarını Sağlayacağını Söyledi",
     "s": "Federal Reserve Chairman Kevin Warsh holds a press conference after officials kept interest rates unchanged. He says inflation is still too high and policy makers will \"deliver price stability.\" (Source: Bloomberg)",
-    "ss": null,
+    "ss": "Fed Başkanı Kevin Warsh, yetkililerin faiz oranlarını değiştirmemesinin ardından basın toplantısı düzenledi. Enflasyonun hala çok yüksek olduğunu ve politika yapıcıların \"fiyat istikrarı sağlayacağını\" söyledi. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-10-28/the-fed-will-deliver-price-stability-warsh-says-video",
     "ts": 1793219285000,
     "tags": []
    },
    {
     "t": "Global Bond Sales Shatter Record, Fueled by AI Borrowing Binge",
-    "tt": null,
+    "tt": "Yapay Zeka Borçlanma Aşırılığıyla Desteklenen Küresel Tahvil Satışları Rekoru Kırdı",
     "s": "Global bond sales have soared to an all-time high, catapulted by breakneck borrowing from the tech juggernauts at the forefront of the AI boom.",
-    "ss": null,
+    "ss": "Küresel tahvil satışları, yapay zeka patlamasının ön saflarında yer alan teknoloji canavarlarından aşırı borçlanmanın etkisiyle tüm zamanların en yüksek seviyesine yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
     "ts": 1793218620000,
-    "tags": []
-   },
-   {
-    "t": "Gold Cuts Losses as Fed Pauses and Stays Silent on Future Hikes",
-    "tt": "Altın, Fed'in İki Muhalefetle Faiz Oranlarını Sabit Tutmasının Ardından Kayıplarını Tuttu",
-    "s": "Gold erased losses after Federal Reserve officials left interest rates unchanged and reiterated their commitment to containing inflation without offering a clear signal on whether to tighten monetary policy in December.",
-    "ss": "Altın, Fed yetkililerinin faiz oranlarını değiştirmemesi ve Aralık ayında para politikasının sıkılaştırılıp sıkılaştırılmayacağı konusunda net bir sinyal vermeden enflasyonu kontrol altına alma taahhütlerini yinelemesinin ardından kayıplarını korudu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-    "ts": 1793144218000,
-    "tags": []
-   },
-   {
-    "t": "Petroperu Chair Eyes Rare Profit, Investors for Minority Stake",
-    "tt": "Petroperu Başkanı Nadir Kâr ve Azınlık Hissesi Yatırımcılarını Gözetliyor",
-    "s": "Petroperu’s board will look to sell a minority stake in the ailing state-owned oil giant early next year, according to its chairman, who says the company is on track to notch its first annual profit since 2021.",
-    "ss": "Petroperu'nun yönetim kurulu, şirketin 2021'den bu yana ilk yıllık kârını elde etme yolunda ilerlediğini söyleyen yönetim kurulu başkanına göre, zor durumdaki devlete ait petrol devindeki azınlık hissesini gelecek yılın başında satmayı düşünecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/petroperu-chair-eyes-rare-profit-investors-for-minority-stake",
-    "ts": 1793215183000,
-    "tags": []
-   },
-   {
-    "t": "Chickens Are Coming Home to Roost in Credit",
-    "tt": "Tavuklar Krediyle Tünemek İçin Evlerine Geliyor",
-    "s": "Leveraged loans get repriced for a new era.",
-    "ss": "Kaldıraçlı krediler yeni bir dönem için yeniden fiyatlandırılıyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-28/chickens-are-coming-home-to-roost-in-credit",
-    "ts": 1793215004000,
     "tags": []
    }
   ],
@@ -571,10 +576,37 @@
   ],
   "MarketWatch": [
    {
+    "t": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+    "tt": "Yatırımcılar Marvell'e olası bir satışı sevinçle karşılarken Lumentum'un hisseleri yükseliyor",
+    "s": "An agreement between the companies could come next week, Bloomberg reported",
+    "ss": "Bloomberg'in haberine göre şirketler arasında önümüzdeki hafta bir anlaşma yapılabilir",
+    "u": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+    "ts": 1793225280000,
+    "tags": []
+   },
+   {
+    "t": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+    "tt": "Komşularımıza ücretsiz ev onarımı konusunda yardım etmeyi bıraktık ve dostluğumuz soğudu. Kim suçlanacak?",
+    "s": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+    "ss": "\"Geçen yaz çatılarını değiştirmeleri gerektiğinden şikayet ettiler. Birkaç ay sonra yeni bir SUV aldılar.\"",
+    "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+    "ts": 1793224800000,
+    "tags": []
+   },
+   {
+    "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "tt": "Eşim 401(k)'da sadece 80.000 doları olduğunu öğrendiğimde ağladı. 2,2 milyon dolarım var. Şok olmakta haksız mıyım?",
+    "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+    "ss": "\"Geçen baharda emekli olma konusunu açtığımda, ne zaman istersem hazır olduğunu söyledi ve ben de bunu iyi durumda olduğumuz anlamına aldım.\"",
+    "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "ts": 1793223900000,
+    "tags": []
+   },
+   {
     "t": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "tt": null,
+    "tt": "70’li yaşlardayız. Yüzde 2,5'lik ipoteğimizi mi ödemeliyiz yoksa parayı yüksek getirili bir tasarruf hesabına mı koymalıyız?",
     "s": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-    "ss": null,
+    "ss": "\"Diyelim ki bundan 10 yıl sonra, 84 yaşıma geldiğimde yüklü miktarda nakde ihtiyacımız olacak.\"",
     "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
     "ts": 1793223000000,
     "tags": []
@@ -590,9 +622,9 @@
    },
    {
     "t": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-    "tt": null,
+    "tt": "ServiceNow'un hisseleri, kazançların artan yapay zeka görünümünü gölgelemesiyle düşüyor",
     "s": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
-    "ss": null,
+    "ss": "Milyonlarca dolarlık yapay zeka anlaşmalarındaki artışa rağmen ServiceNow'un kazanç sonuçları, yazılıma şüpheyle yaklaşanların desteğini kazanmaya yetmedi.",
     "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
     "ts": 1793221620000,
     "tags": [
@@ -601,27 +633,27 @@
    },
    {
     "t": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
-    "tt": null,
+    "tt": "Arabaya servis 'Chipotlanes' daha fazla mağazaya geldikçe Chipotle bu yıl satışların biraz daha yüksek olmasını bekliyor",
     "s": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-    "ss": null,
+    "ss": "Fast-casual zinciri, menü fiyatlarındaki artışların sonuçlara yardımcı olduğunu söylüyor. Ayrıca, insanlar diyetlerine daha fazla protein eklemenin yollarını bulmaya çalıştıkça artan sığır eti maliyetlerine ve \"daha yüksek protein kullanımına\" dikkat çekti.",
     "u": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
     "ts": 1793221080000,
     "tags": []
    },
    {
     "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-    "tt": null,
+    "tt": "Vertiv'in kazançları, Büyük Teknoloji sonuçları öncesinde yapay zeka hakkında iyimser bir sinyal gönderdi",
     "s": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
-    "ss": null,
+    "ss": "Yapay zeka altyapı şirketi, satış beklentilerini beş yıldan fazla bir sürenin en geniş marjıyla aştı ve sermaye gideri görünümünü yükseltti.",
     "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
     "ts": 1793220540000,
     "tags": []
    },
    {
     "t": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
-    "tt": null,
+    "tt": "Micron'un hisseleri SK Hynix kazancının ardından yükseldi. İşte bir sonraki büyük testi.",
     "s": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
-    "ss": null,
+    "ss": "Samsung'un sonuçları, son zamanların en düşük seviyelerinden toparlanan bellek çipi ticareti için bir sonraki büyük barometredir.",
     "u": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
     "ts": 1793220300000,
     "tags": []
@@ -634,86 +666,77 @@
     "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
     "ts": 1793219880000,
     "tags": []
-   },
-   {
-    "t": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-    "tt": "Yaşlanan ebeveynlerimize ve sevdiklerimize bakmak için yılda 11.000 dolardan fazla para harcıyoruz",
-    "s": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-    "ss": "Bir AARP araştırması ailelerin yaptığı mali fedakarlıkları ve bunların uzun vadeli etkilerini gösteriyor.",
-    "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-    "ts": 1793218680000,
-    "tags": []
-   },
-   {
-    "t": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
-    "tt": "ABD petrol rafinerisi stokları bu yıl yaklaşık %150 arttı. Bu tarihi koşu ne kadar sürebilir?",
-    "s": "Analyst predicts the ‘mother of all maintenance seasons’ for refineries that have been running at high capacity",
-    "ss": "Analistler, yüksek kapasitede çalışan rafineriler için 'tüm bakım sezonlarının anası' olacağını tahmin ediyor",
-    "u": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
-    "ts": 1793218560000,
-    "tags": []
-   },
-   {
-    "t": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-    "tt": "Seçmenler pahalı araba kredileri, ipotekler ve kredi kartı borçlarıyla mücadele ederken paranın maliyeti de oy pusulasında yer alıyor",
-    "s": "Interest rates aren’t expected to decline anytime soon, as the Federal Reserve holds steady on Wednesday.",
-    "ss": "Fed'in Çarşamba günü sabit kalması nedeniyle faiz oranlarının yakın zamanda düşmesi beklenmiyor.",
-    "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-    "ts": 1793218260000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "NBA Legend Who Earned Nearly $200 Million Admits He's Broke As Wild Spending Habits Revealed",
+    "tt": "Yaklaşık 200 Milyon Dolar Kazanan NBA Efsanesi, Çılgın Harcama Alışkanlıkları Ortaya Çıkınca Parasız Olduğunu İtiraf Etti",
+    "s": "NBA Legend Who Earned Nearly $200 Million Admits He's Broke As Wild Spending Habits Revealed NBA legend Paul Pierce claims he is \"drowning financially\" as mounting expenses and a bitter legal battle threaten to drain what's left of his once-massive fortune , according to court documents obtained by ",
+    "ss": "Yaklaşık 200 Milyon Dolar Kazanan NBA Efsanesi, Çılgın Harcama Alışkanlıklarını Bozduğunu İtiraf Etti NBA efsanesi Paul Pierce, artan harcamalar ve sert bir hukuk savaşının, bir zamanların devasa servetinden geriye kalanları tüketme tehlikesiyle karşı karşıya kalması nedeniyle \"mali açıdan boğulduğunu\" iddia ediyor.",
+    "u": "https://www.zerohedge.com/personal-finance/nba-legend-who-earned-nearly-200-million-admits-hes-broke-wild-spending-habits",
+    "ts": 1793225400000,
+    "tags": []
+   },
+   {
+    "t": "US Military's Drug-Boat Strikes Have Now Killed At Least 240 People",
+    "tt": "ABD Ordusunun Uyuşturucu Botu Saldırıları En Az 240 Kişiyi Öldürdü",
+    "s": "US Military's Drug-Boat Strikes Have Now Killed At Least 240 People Authored by Austin Campbell via Task &amp; Purpose , The U.S. military killed five people Tuesday aboard what Southern Command described as a \"go-fast vessel\" associated with \"narco-terrorists\" in the eastern Pacific Ocean , bringin",
+    "ss": "ABD Ordusunun Uyuşturucu Botu Saldırıları En Az 240 Kişiyi Öldürdü Austin Campbell tarafından Task & Purpose aracılığıyla yazılmıştır, ABD ordusu Salı günü Güney Komutanlığının Doğu Pasifik Okyanusu'ndaki \"narko-teröristlerle\" bağlantılı \"hızlı giden bir gemi\" olarak tanımladığı gemide beş kişiyi öldürdü.",
+    "u": "https://www.zerohedge.com/military/us-militarys-drug-boat-strikes-have-now-killed-least-240-people",
+    "ts": 1793224200000,
+    "tags": []
+   },
+   {
     "t": "Democrat Operatives Spent Months Hunting For Alaskans Named Dan Sullivan - Campaign Denies Involvement: Report",
-    "tt": null,
+    "tt": "Demokrat Ajanlar Dan Sullivan Adlı Alaskalıları Aylarca Avladı - Kampanyaya Katıldığı Reddedildi: Rapor",
     "s": "Democrat Operatives Spent Months Hunting For Alaskans Named Dan Sullivan - Campaign Denies Involvement: Report The New York Times reported Wednesday that operatives around Democrat Mary Peltola's Senate campaign spent months looking for a second Dan Sullivan to put in Alaska's race against Republica",
-    "ss": null,
+    "ss": "Demokrat Ajanlar Aylarca Dan Sullivan Adındaki Alaskalıları Avlayarak Harcadı - Kampanyaya Katılımı Reddedildi: Rapor New York Times Çarşamba günü, Demokrat Mary Peltola'nın Senato kampanyası etrafındaki ajanların Alaska'nın Republica'ya karşı yarışına katılacak ikinci bir Dan Sullivan'ı aramak için aylar harcadığını bildirdi",
     "u": "https://www.zerohedge.com/political/democrat-operatives-spent-months-hunting-alaskans-named-dan-sullivan-campaign-denies",
     "ts": 1793223000000,
     "tags": []
    },
    {
     "t": "Roswell Attracts ETs (Extra Tourists) After Government Releases New UFO Files",
-    "tt": null,
+    "tt": "Roswell, Hükümet Yeni UFO Dosyalarını Yayınladıktan Sonra ET'leri (Ekstra Turistler) Çekti",
     "s": "Roswell Attracts ETs (Extra Tourists) After Government Releases New UFO Files Authored by Darlene McCormick Sanchez via The Epoch Times , ROSWELL, N.M. - The 1947 crash of an alleged flying saucer on a ranch outside this high-desert town started a neon-lit alien tourism economy of museums, gift shop",
-    "ss": null,
+    "ss": "Roswell, Hükümet Yeni UFO Dosyalarını Yayınladıktan Sonra ET'leri (Ekstra Turistler) Çekti Darlene McCormick Sanchez tarafından The Epoch Times aracılığıyla yazılmıştır, ROSWELL, N.M. - 1947'de uçan daire olduğu iddia edilen bu yüksek çöl kasabasının dışındaki bir çiftliğe çarpması, müzeler ve hediyelik eşya dükkanlarından oluşan neon ışıklı bir uzaylı turizmi ekonomisini başlattı.",
     "u": "https://www.zerohedge.com/technology/roswell-attracts-ets-extra-tourists-after-government-releases-new-ufo-files",
     "ts": 1793221800000,
     "tags": []
    },
    {
     "t": "Putin Calls Musk A \"Real Genius,\" Says Russia Coordinating With Him In On Satellites",
-    "tt": null,
+    "tt": "Putin, Musk'ı \"Gerçek Bir Dahi\" Olarak Adlandırıyor ve Rusya'nın Uydularda Onunla Koordinasyon Kurduğunu Söyledi",
     "s": "Putin Calls Musk A \"Real Genius,\" Says Russia Coordinating With Him In On Satellites Russian President Vladimir Putin called Elon Musk \"a real genius\" on Wednesday and said Moscow is in touch with him about satellites, days after Ukraine said speed limits that hobbled its drones had been lifted. Put",
-    "ss": null,
+    "ss": "Putin, Musk'a \"Gerçek Bir Dahi\" Dedi, Rusya'nın Uydularda Kendisiyle Koordinasyon Kurduğunu Söyledi Rusya Devlet Başkanı Vladimir Putin, Çarşamba günü Elon Musk'u \"gerçek bir dahi\" olarak nitelendirdi ve Ukrayna'nın insansız hava araçlarını engelleyen hız sınırlarının kaldırıldığını söylemesinden günler sonra Moskova'nın uydular konusunda onunla iletişim halinde olduğunu söyledi. Koymak",
     "u": "https://www.zerohedge.com/geopolitical/putin-calls-musk-real-genius-says-russia-coordinating-him-satellites",
     "ts": 1793220600000,
     "tags": []
    },
    {
     "t": "Google Plunges After Ugly Top And Bottom Line Miss, As AI Cannibalizes Search And Ads",
-    "tt": null,
+    "tt": "Yapay Zeka Arama ve Reklamları Yamyamlaştırdıkça Google, Çirkin Üst ve Alt Hatları Kaçırdıktan Sonra Düşüyor",
     "s": "Google Plunges After Ugly Top And Bottom Line Miss, As AI Cannibalizes Search And Ads Today, ahead of the doubleheader of Mag 7 reports when both Microsoft and Google parent Alphabet report, we wrote in our preview that Microsoft has become the consensus long, while Alphabet \"still feels like the co",
-    "ss": null,
+    "ss": "Yapay Zeka, Arama ve Reklamları Bugün Yamyamlaştırırken, Google Çirkin Üst ve Son Noktadan Sonra Düşüyor Hem Microsoft hem de Google ana Alphabet raporunun çift başlıklı Mag 7 raporlarından önce, ön izlememizde Microsoft'un uzun süredir fikir birliği haline geldiğini, Alphabet'in ise \"hala ortak bir şirket gibi göründüğünü\" yazmıştık.",
     "u": "https://www.zerohedge.com/markets/google-plunges-after-ugly-top-and-bottom-line-miss-ai-cannibalizes-search-and-ads",
     "ts": 1793220420000,
     "tags": []
    },
    {
     "t": "Vance Sends Letter To Iranian \"Hardliner\" Mohsen Rezaei In Bid To Reset Talks",
-    "tt": null,
+    "tt": "Vance, Görüşmeleri Sıfırlamak İçin İranlı \"Sert\" Mohsen Rezaei'ye Mektup Gönderdi",
     "s": "Vance Sends Letter To Iranian \"Hardliner\" Mohsen Rezaei In Bid To Reset Talks Update(1633ET) : We return to the Western MSM Iranian \"hardliners\" schtick and its usage in headlines, with oil prices declining on the following Wednesday afternoon story from The Wall Street Journal : Vice President JD V",
-    "ss": null,
+    "ss": "Vance, Görüşmeleri Sıfırlamak İçin İranlı \"Sert\" Mohsen Rezaei'ye Mektup Gönderdi Güncelleme(1633ET): Batı MSM'nin İranlı \"sert\" lafına ve manşetlerdeki kullanımına geri dönüyoruz; The Wall Street Journal'ın Çarşamba günü öğleden sonra yayınlanan şu haberi üzerine petrol fiyatları düşüyor: Başkan Yardımcısı JD V",
     "u": "https://www.zerohedge.com/geopolitical/new-draft-peace-deal-floated-even-us-warns-short-intense-iran-war-renewal",
     "ts": 1793219520000,
     "tags": []
    },
    {
     "t": "175 House Democrats Call For Halt To Ilhan Omar Investigation",
-    "tt": null,
+    "tt": "175 Temsilciler Meclisi Demokratlarından İlhan Omar Soruşturmasının Durdurulması Çağrısı",
     "s": "175 House Democrats Call For Halt To Ilhan Omar Investigation Authored by Guy Birchall via The Epoch Times , Scores of House Democrats have called for an end to the federal investigation into Rep. Ilhan Omar (D-Minn.) , claiming it could affect her reelection bid in next month's midterm elections. A",
-    "ss": null,
+    "ss": "175 Temsilciler Meclisi Demokratı, İlhan Omar Soruşturmasını Durdurma Çağrısında Bulundu Guy Birchall, The Epoch Times aracılığıyla, Çok sayıda Temsilciler Meclisi Demokratı, Temsilci İlhan Omar (D-Minn.) hakkındaki federal soruşturmanın, önümüzdeki ay yapılacak ara seçimlerde yeniden seçilme şansını etkileyebileceğini iddia ederek, son verilmesi çağrısında bulundu. A",
     "u": "https://www.zerohedge.com/political/175-house-democrats-call-halt-ilhan-omar-investigation",
     "ts": 1793219100000,
     "tags": []
@@ -734,30 +757,6 @@
     "ss": "Savaş Bakanı, Genel Olarak Kovid-19 Aşısını Reddettikten Sonra Emekli Olmaya Zorlanacağına Yemin Etti Zachary Stieber tarafından The Epoch Times aracılığıyla yazılan Savaş Bakanı Pete Hegseth, zorunlu kılındığı dönemde Kovid-19 aşısını almak istemediği için emekliye ayrılmak zorunda kalan bir Hava Kuvvetleri generalini tekrar karşıladı.",
     "u": "https://www.zerohedge.com/covid-19/war-secretary-swears-general-forced-retire-after-refusing-covid-19-vaccine",
     "ts": 1793217000000,
-    "tags": []
-   },
-   {
-    "t": "Fed Pauses Rate-Hikes As Expected; 2 Dissents Signal Less Hawkish 'Family Fight'",
-    "tt": "Fed Beklenildiği Gibi Faiz Artışlarını Duraklattı; 2 Muhalefet Daha Az Şahin 'Aile Kavgasının' Sinyalini Veriyor",
-    "s": "Fed Pauses Rate-Hikes As Expected; 2 Dissents Signal Less Hawkish 'Family Fight' Since the last FOMC meeting (9/16), where Fed Chair Warsh hiked rates somewhat surprisingly, markets have been wild (even if stocks at the index level may look 'meh'). The biggest standout is the divergence between bitc",
-    "ss": "Fed Beklenildiği Gibi Faiz Artışlarını Duraklattı; 2 Muhalifler Şahin 'Aile Kavgasının' Azaldığının Sinyalini Veriyor Fed Başkanı Warsh'un sürpriz bir şekilde oranları artırdığı son FOMC toplantısından (9/16) bu yana, piyasalar çılgına döndü (endeks seviyesindeki hisse senetleri 'meh' gibi görünse bile). En büyük göze çarpan şey bitc arasındaki farktır.",
-    "u": "https://www.zerohedge.com/markets/fomc-42",
-    "ts": 1793216700000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt",
-    "tt": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Ağır Suçlarla Suçluyor",
-    "s": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt Hennepin County Attorney Mary Moriarty on Wednesday charged conservative provocateur James O'Keefe and influencer Cam Higby with felony unlawful voting and identity theft , over undercover videos they shot ",
-    "ss": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Suçlamalarla Suçladı Hennepin İlçe Savcısı Mary Moriarty, Çarşamba günü muhafazakar provokatör James O'Keefe ve nüfuz sahibi Cam Higby'yi, çektikleri gizli videolar nedeniyle yasa dışı oy verme ve kimlik hırsızlığıyla suçladı",
-    "u": "https://www.zerohedge.com/political/minnesota-charges-james-okeefe-and-cam-higby-felonies-over-polling-place-vouching-stunt",
-    "ts": 1793216100000,
     "tags": []
    }
   ],
@@ -866,7 +865,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
