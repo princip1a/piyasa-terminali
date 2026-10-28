@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T20:16:57.038432+00:00",
+ "generated": "2026-10-28T20:58:52.687833+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 16.47,
-   "c": -5.99,
-   "d": -1.05,
+   "p": 16.91,
+   "c": -3.48,
+   "d": -0.61,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4086.6,
-   "c": 0.29,
-   "d": 12.0,
+   "p": 4082.9,
+   "c": 0.2,
+   "d": 8.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.39,
-   "c": 0.18,
-   "d": 0.097,
+   "p": 54.065,
+   "c": -0.42,
+   "d": -0.228,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.43,
-   "c": 1.53,
-   "d": 1.53,
+   "p": 102.03,
+   "c": 2.13,
+   "d": 2.13,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.13,
-   "c": -3.29,
-   "d": -3.75,
+   "p": 110.65,
+   "c": -2.84,
+   "d": -3.23,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.105,
-   "c": -0.21,
-   "d": -0.215,
+   "p": 102.119,
+   "c": -0.2,
+   "d": -0.201,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8336,
-   "c": 0.11,
-   "d": 0.053,
+   "p": 49.8189,
+   "c": 0.08,
+   "d": 0.038,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81278,
-   "c": 0.75,
+   "p": 81182,
+   "c": 0.64,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2367.65,
-   "c": 0.96,
+   "p": 2357.06,
+   "c": 0.68,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.71,
-   "c": 1.59,
+   "p": 102.3,
+   "c": 1.38,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 0.69,
+   "c": 0.78,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 754.62,
-   "c": 0.91,
+   "p": 754.08,
+   "c": 1.04,
    "k": "usd"
   }
  ],
@@ -384,6 +384,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Lula's Brazil Election Win Deepens Latin America Stock Fund Collapse",
+    "tt": null,
+    "s": "More than 400 equity funds have disappeared and IPOs are on ice. And that was before Lula’s reelection sparked a rout in Brazilian stocks.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/features/2026-10-28/lula-s-brazil-election-win-deepens-latin-america-stock-fund-collapse",
+    "ts": 1793221203000,
+    "tags": []
+   },
+   {
     "t": "Stocks Edge Higher After Fed as Oracle Surges 11%: Markets Wrap",
     "tt": "Yatırımcılar Teknoloji Sonuçlarını Beklerken ABD Hisse Senetleri Kayıyor, Fed: Piyasalar Özetlendi",
     "s": "Stocks edged up as the Federal Reserve held rates steady and refrained from offering a clear signal on whether it will hike in December.",
@@ -396,21 +405,48 @@
     ]
    },
    {
+    "t": "Investors Jolted by Lula Win Seek Bottom After Brazil Rout",
+    "tt": null,
+    "s": "Investors blindsided by President Luiz Inácio Lula da Silva’s re-election are balking at buying into Brazil’s markets after bullish bets on the nation’s assets unraveled spectacularly.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/investors-jolted-by-lula-win-search-for-bottom-after-brazil-rout",
+    "ts": 1793196059000,
+    "tags": []
+   },
+   {
+    "t": "The Fed Will Deliver Price Stability, Warsh Says",
+    "tt": null,
+    "s": "Federal Reserve Chairman Kevin Warsh holds a press conference after officials kept interest rates unchanged. He says inflation is still too high and policy makers will \"deliver price stability.\" (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/the-fed-will-deliver-price-stability-warsh-says-video",
+    "ts": 1793219285000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 28",
+    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose as traders weighed whether the US and Israel would resume military strikes on Iran.",
+    "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail seçimlerinin sıkı geçmesini takip etmesiyle yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+    "ts": 1793138697000,
+    "tags": []
+   },
+   {
+    "t": "Global Bond Sales Shatter Record, Fueled by AI Borrowing Binge",
+    "tt": null,
+    "s": "Global bond sales have soared to an all-time high, catapulted by breakneck borrowing from the tech juggernauts at the forefront of the AI boom.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
+    "ts": 1793218620000,
+    "tags": []
+   },
+   {
     "t": "Gold Cuts Losses as Fed Pauses and Stays Silent on Future Hikes",
     "tt": "Altın, Fed'in İki Muhalefetle Faiz Oranlarını Sabit Tutmasının Ardından Kayıplarını Tuttu",
     "s": "Gold erased losses after Federal Reserve officials left interest rates unchanged and reiterated their commitment to containing inflation without offering a clear signal on whether to tighten monetary policy in December.",
     "ss": "Altın, Fed yetkililerinin faiz oranlarını değiştirmemesi ve Aralık ayında para politikasının sıkılaştırılıp sıkılaştırılmayacağı konusunda net bir sinyal vermeden enflasyonu kontrol altına alma taahhütlerini yinelemesinin ardından kayıplarını korudu.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
     "ts": 1793144218000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Oct. 28",
-    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil rose as traders weighed whether the US could resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election.",
-    "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail seçimlerinin sıkı geçmesini takip etmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
-    "ts": 1793138697000,
     "tags": []
    },
    {
@@ -439,48 +475,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/boeing-rout-a-win-for-skeptics-who-rejected-wall-street-optimism",
     "ts": 1793206855000,
     "tags": []
-   },
-   {
-    "t": "Peltz’s Trian Offers $1.4 Billion to Take Wendy’s Private",
-    "tt": "Peltz's Trian, Wendy's Private'ı Almak İçin 1,4 Milyar Dolar Teklif Ediyor",
-    "s": "Nelson Peltz’s Trian Fund Management offered to buy out Wendy’s Co. for about $1.4 billion, saying the burger chain will be better off attempting a multiyear turnaround bid as a private company.",
-    "ss": "Nelson Peltz'in Trian Fon Yönetimi, Wendy's Co.'yu yaklaşık 1,4 milyar dolara satın almayı teklif ederek, burger zincirinin özel bir şirket olarak çok yıllı bir geri dönüş teklifine girişmesinin daha iyi olacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/peltz-s-trian-offers-1-4-billion-for-wendy-s-wsj-reports",
-    "ts": 1793190595000,
-    "tags": []
-   },
-   {
-    "t": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
-    "tt": "Deutsche Telekom'un Dev T-Mobile Birleşmesinde Frene Bastığı Söyleniyor",
-    "s": "Deutsche Telekom AG’s plans to combine with its American arm T-Mobile US Inc. have hit a snag, people familiar with the matter said, casting doubt on what would be the largest-ever public merger.",
-    "ss": "Konuya aşina olan kişiler, Deutsche Telekom AG'nin Amerikan kolu T-Mobile US Inc. ile birleşme planlarının çıkmaza girdiğini söyleyerek, bugüne kadarki en büyük halka açık birleşmenin ne olacağı konusunda şüphe uyandırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-telekom-is-said-to-hit-brakes-on-giant-t-mobile-merger",
-    "ts": 1793213965000,
-    "tags": []
-   },
-   {
-    "t": "Fed's Warsh Says Monetary 'Medicine' Starting to Work",
-    "tt": "Fed'den Warsh: Parasal 'İlacın' İşe Başladığını Söyledi",
-    "s": "Federal Reserve Chairman Kevin Warsh says there are no firm conclusions right now about monetary policy during a news conference after the central bank's policy-setting Federal Open Market Committee decided to leave rates unchanged. (Source: Bloomberg)",
-    "ss": "Federal Rezerv Başkanı Kevin Warsh, merkez bankasının politika belirleyici Federal Açık Piyasa Komitesi'nin faiz oranlarını değiştirmeden bırakma kararı sonrasında düzenlediği basın toplantısında şu anda para politikası hakkında kesin bir sonuca varılmadığını söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-s-warsh-says-monetary-medicine-starting-to-work-video",
-    "ts": 1793213822000,
-    "tags": []
-   },
-   {
-    "t": "Fed Will Raise Rates in December, Clarida Predicts",
-    "tt": "Clarida, Fed'in Aralık'ta Faiz Artıracağını Tahmin Ediyor",
-    "s": "Former Federal Reserve Vice Chairman Richard Clarida expects the Fed to raise rates in December and then possibly again in March. He speaks on \"Bloomberg Surveillance: The Fed Decides.\" (Source: Bloomberg)",
-    "ss": "Eski Federal Reserve Başkan Yardımcısı Richard Clarida, Fed'in Aralık ayında ve ardından muhtemelen Mart ayında faiz artırmasını bekliyor. \"Bloomberg Gözetimi: Fed Karar Veriyor\" hakkında konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-will-raise-rates-in-december-clarida-predicts-video",
-    "ts": 1793212865000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -577,6 +571,53 @@
   ],
   "MarketWatch": [
    {
+    "t": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
+    "tt": null,
+    "s": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+    "ts": 1793221080000,
+    "tags": []
+   },
+   {
+    "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+    "tt": null,
+    "s": "The AI infrastructure company beat sales expectations by the widest margin in more than five years and raised its capex outlook.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+    "ts": 1793220540000,
+    "tags": []
+   },
+   {
+    "t": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+    "tt": null,
+    "s": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+    "ts": 1793220300000,
+    "tags": []
+   },
+   {
+    "t": "Here’s what just sent Oracle’s stock soaring",
+    "tt": "İşte Oracle'ın hisselerini hızla yükselten şey:",
+    "s": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
+    "ss": "Şirketin yeni finansal hedefleri, yapay zeka ekonomisine ilişkin yatırımcıların korktuğundan daha olumlu bir tablo çiziyor.",
+    "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+    "ts": 1793219880000,
+    "tags": []
+   },
+   {
+    "t": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+    "tt": null,
+    "s": "Even with an uptick in multi-million-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+    "ts": 1793218920000,
+    "tags": [
+     "DXY ▼"
+    ]
+   },
+   {
     "t": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
     "tt": "Yaşlanan ebeveynlerimize ve sevdiklerimize bakmak için yılda 11.000 dolardan fazla para harcıyoruz",
     "s": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
@@ -620,61 +661,52 @@
     "u": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
     "ts": 1793217360000,
     "tags": []
-   },
-   {
-    "t": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
-    "tt": "Wendy'nin satın alma teklifi, burger zincirinin revizyonunun çok pahalı olabileceğini gösteriyor",
-    "s": "Nelson Peltz’s Trian Fund Management has made a $1.4 billion offer for Wendy’s and says the company “requires significant capital investment” to get back on track.",
-    "ss": "Nelson Peltz'in Trian Fon Yönetimi, Wendy's için 1,4 milyar dolarlık bir teklifte bulundu ve şirketin yeniden yoluna girebilmesi için \"önemli miktarda sermaye yatırımı gerektirdiğini\" söyledi.",
-    "u": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-    "ts": 1793217240000,
-    "tags": []
-   },
-   {
-    "t": "Here’s what just sent Oracle’s stock soaring",
-    "tt": "İşte Oracle'ın hisselerini hızla yükselten şey:",
-    "s": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
-    "ss": "Şirketin yeni finansal hedefleri, yapay zeka ekonomisine ilişkin yatırımcıların korktuğundan daha olumlu bir tablo çiziyor.",
-    "u": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-    "ts": 1793216400000,
-    "tags": []
-   },
-   {
-    "t": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
-    "tt": "Elon Musk, iki ila üç yıl içinde bir kablosuz taşıyıcı oluşturabileceğini söylüyor. Bu mümkün mü?",
-    "s": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
-    "ss": "Verizon 'sihirli bir değnek' olmadığını söylüyor ancak analistler SpaceX'in bazı kısayolları hedef alıyor olabileceğini belirtiyor.",
-    "u": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
-    "ts": 1793213880000,
-    "tags": []
-   },
-   {
-    "t": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
-    "tt": "Z kuşağı seçmenleri bize ara sınavların sosyal meselelerden ziyade hayat şartlarının karşılanmasıyla ilgili olacağını söyledi",
-    "s": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
-    "ss": "MarketWatch, birçok yaşam hedefinin kendi nesilleri için ulaşılamaz olduğunu söyleyen genç seçmenlerle konuştu.",
-    "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-    "ts": 1793213760000,
-    "tags": []
-   },
-   {
-    "t": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
-    "tt": "Avrupa'ya bir gezi planlıyorum. Etkileyicilerden seyahat tavsiyesi almak aptalca mı?",
-    "s": "“How can I tell if something is a real experience in my price range?”",
-    "ss": "\"Fiyat aralığımdaki bir şeyin gerçek bir deneyim olup olmadığını nasıl anlarım?\"",
-    "u": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
-    "ts": 1793212200000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
-    "t": "MSFT Rises On Azure Beat... But Bookings Shrink And Backlog Stalls",
+    "t": "Putin Calls Musk A \"Real Genius,\" Says Russia Coordinating With Him In On Satellites",
+    "tt": null,
+    "s": "Putin Calls Musk A \"Real Genius,\" Says Russia Coordinating With Him In On Satellites Russian President Vladimir Putin called Elon Musk \"a real genius\" on Wednesday and said Moscow is in touch with him about satellites, days after Ukraine said speed limits that hobbled its drones had been lifted. Put",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/putin-calls-musk-real-genius-says-russia-coordinating-him-satellites",
+    "ts": 1793220600000,
+    "tags": []
+   },
+   {
+    "t": "Google Plunges After Ugly Top And Bottom Line Miss, As AI Cannibalizes Search And Ads",
+    "tt": null,
+    "s": "Google Plunges After Ugly Top And Bottom Line Miss, As AI Cannibalizes Search And Ads Today, ahead of the doubleheader of Mag 7 reports when both Microsoft and Google parent Alphabet report, we wrote in our preview that Microsoft has become the consensus long, while Alphabet \"still feels like the co",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/google-plunges-after-ugly-top-and-bottom-line-miss-ai-cannibalizes-search-and-ads",
+    "ts": 1793220420000,
+    "tags": []
+   },
+   {
+    "t": "Vance Sends Letter To Iranian \"Hardliner\" Mohsen Rezaei In Bid To Reset Talks",
+    "tt": null,
+    "s": "Vance Sends Letter To Iranian \"Hardliner\" Mohsen Rezaei In Bid To Reset Talks Update(1633ET) : We return to the Western MSM Iranian \"hardliners\" schtick and its usage in headlines, with oil prices declining on the following Wednesday afternoon story from The Wall Street Journal : Vice President JD V",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/new-draft-peace-deal-floated-even-us-warns-short-intense-iran-war-renewal",
+    "ts": 1793219520000,
+    "tags": []
+   },
+   {
+    "t": "175 House Democrats Call For Halt To Ilhan Omar Investigation",
+    "tt": null,
+    "s": "175 House Democrats Call For Halt To Ilhan Omar Investigation Authored by Guy Birchall via The Epoch Times , Scores of House Democrats have called for an end to the federal investigation into Rep. Ilhan Omar (D-Minn.) , claiming it could affect her reelection bid in next month's midterm elections. A",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/175-house-democrats-call-halt-ilhan-omar-investigation",
+    "ts": 1793219100000,
+    "tags": []
+   },
+   {
+    "t": "MSFT Soars On Big Azure Beat... But Backlog Stalls",
     "tt": "MSFT, Azure Ritimiyle Yükseliyor... Ancak Rezervasyonlar Küçülüyor ve Birikmiş İşler Duruyor",
-    "s": "MSFT Rises On Azure Beat... But Bookings Shrink And Backlog Stalls The consensus long delivered. Microsoft (MSFT) reported Azure revenue growth of 48% in constant currency for the September quarter, crushing its own 44-45% guide, the Street's ~45% and even the ~47% buyside whisper that, as we laid o",
+    "s": "MSFT Soars On Big Azure Beat... But Backlog Stalls The consensus long delivered. Microsoft (MSFT) reported Azure revenue growth of 48% in constant currency for the September quarter, crushing its own 44-45% guide, the Street's ~45% and even the ~47% buyside whisper that, as we laid out this morning ",
     "ss": "MSFT, Azure Ritimiyle Yükseliyor... Ancak Rezervasyonlar Küçülüyor ve Birikmiş İşler Duruyor Konsensüs uzun süredir sağlanıyor. Microsoft (MSFT), Eylül çeyreği için sabit para biriminde Azure gelir artışını %48 olarak bildirdi; kendi %44-45'lik rehberini, Street'in ~%45'ini ve hatta ~%47'lik alıcı tarafı fısıltılarını alt üst etti;",
     "u": "https://www.zerohedge.com/markets/msft-rises-azure-beat-bookings-shrink-and-backlog-stalls",
-    "ts": 1793217870000,
+    "ts": 1793218500000,
     "tags": []
    },
    {
@@ -727,45 +759,36 @@
     "u": "https://www.zerohedge.com/political/californias-billionaire-tax-may-cost-more-it-raises-reports-find",
     "ts": 1793213100000,
     "tags": []
-   },
-   {
-    "t": "Watch Live: Fed Chair Warsh Desperately Tries To Explain Why His 'Pause' Is Not Political",
-    "tt": "Canlı İzle: Fed Başkanı Warsh Umutsuzca 'Duraklamasının' Neden Siyasi Olmadığını Açıklamaya Çalışıyor",
-    "s": "Watch Live: Fed Chair Warsh Desperately Tries To Explain Why His 'Pause' Is Not Political Warsh will be walking a very fine tightrope in today's press conference that looks especially delicate. The Fed Chair's problem today is that he's spent the last few months telling everyone the Fed needs a \"tim",
-    "ss": "Canlı İzle: Fed Başkanı Warsh Umutsuzca 'Duraklamasının' Neden Siyasi Olmadığını Açıklamaya Çalışıyor Warsh, özellikle hassas görünen bugünkü basın toplantısında çok ince bir ipte yürüyecek. Fed Başkanı'nın bugünkü sorunu, son birkaç ayı herkese Fed'in bir \"zamana\" ihtiyacı olduğunu söyleyerek geçirmiş olması.",
-    "u": "https://www.zerohedge.com/markets/watch-live-fed-chair-warsh-desperately-tries-explain-why-his-pause-not-political",
-    "ts": 1793211900000,
-    "tags": []
-   },
-   {
-    "t": "\"A Lot Of Bad Things Happening All At Once\": Rubino Warns Of Perfect Storm For Banks... And The World",
-    "tt": "\"Birçok Kötü Şey Aynı Anda Oluyor\": Rubino Bankalar ve Dünya İçin Mükemmel Fırtına Uyarısında Bulundu",
-    "s": "\"A Lot Of Bad Things Happening All At Once\": Rubino Warns Of Perfect Storm For Banks... And The World Authored by Greg Hunter via USAWatchdog , Analyst and financial writer John Rubino has a new warning about the financial health of the global economy, and it's not good. &nbsp; Look no further than ",
-    "ss": "\"Birçok Kötü Şey Aynı Anda Oluyor\": Rubino Bankalar İçin Mükemmel Fırtına Uyarısında Bulundu... Ve Dünya Greg Hunter tarafından USAWatchdog aracılığıyla yazılan analist ve finans yazarı John Rubino, küresel ekonominin finansal sağlığı hakkında yeni bir uyarıda bulundu ve bu hiç de iyi değil.   Başka yere bakma",
-    "u": "https://www.zerohedge.com/markets/lot-bad-things-happening-all-once-rubino-warns-perfect-storm-banks-and-world",
-    "ts": 1793208300000,
-    "tags": []
-   },
-   {
-    "t": "U. Connecticut Recruits 'LGBTQ+' Scholars For High School 'Queer Science' Event",
-    "tt": "U. Connecticut, Lisedeki 'Queer Science' Etkinliği İçin 'LGBTQ+' Burslularını İşe Aldı",
-    "s": "U. Connecticut Recruits 'LGBTQ+' Scholars For High School 'Queer Science' Event Authored by Mia Milner via The College Fix , The University of Connecticut's College of Engineering sought LGBTQ+ scientists and engineers to volunteer at its recent \"Queer Science\" conference , a free event for high sch",
-    "ss": "U. Connecticut, Lise 'Queer Science' Etkinliği İçin 'LGBTQ+' Burslularını İşe Aldı Mia Milner tarafından The College Fix aracılığıyla yazılmıştır, Connecticut Üniversitesi Mühendislik Fakültesi, lise öğrencileri için ücretsiz bir etkinlik olan yakın tarihli \"Queer Science\" konferansında gönüllü olmaları için LGBTQ+ bilim adamlarını ve mühendislerini aramıştır.",
-    "u": "https://www.zerohedge.com/political/u-connecticut-recruits-lgbtq-scholars-high-school-queer-science-event",
-    "ts": 1793206200000,
-    "tags": []
-   },
-   {
-    "t": "Grand Jury Refuses To Indict Cassidy Hutchinson Over Her Jan. 6 Testimony",
-    "tt": "Büyük Jüri Cassidy Hutchinson'ı 6 Ocak'taki İfadesi Nedeniyle Suçlamayı Reddetti",
-    "s": "Grand Jury Refuses To Indict Cassidy Hutchinson Over Her Jan. 6 Testimony A federal grand jury in Washington, D.C., has declined to indict former Trump White House aide Cassidy Hutchinson , ending - for now - a Justice Department effort to charge her with lying to the House Jan. 6 committee, accordi",
-    "ss": "Büyük Jüri, Cassidy Hutchinson'ı 6 Ocak'taki İfadesi Nedeniyle Suçlamayı Reddetti Washington D.C.'deki bir federal büyük jüri, Trump'ın eski Beyaz Saray yardımcısı Cassidy Hutchinson'ı suçlamayı reddetti ve Adalet Bakanlığı'nın onu 6 Ocak'taki Temsilciler Meclisi komitesine yalan söylemekle suçlama çabasına şimdilik son verdi, anlaşmaya göre",
-    "u": "https://www.zerohedge.com/political/grand-jury-refuses-indict-cassidy-hutchinson-over-her-jan-6-testimony",
-    "ts": 1793205300000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Guidewire, Hyperexponential'ı 1,7 milyar dolara satın aldı",
+    "tt": null,
+    "s": "Sigorta teknolojileri şirketi Guidewire, yapay zeka destekli sigorta değerlendirme şirketi Hyperexponential'ı 1,7 milyar dolar nakit karşılığında satın aldığını duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/guidewire-hyperexponential-i-1-7-milyar-dolara-satin-aldi-3792782",
+    "ts": 1793219636000,
+    "tags": []
+   },
+   {
+    "t": "Erdoğan, Trump ile telefonda görüştü",
+    "tt": null,
+    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Görüşmede Türkiye-ABD ilişkilerinin yanı sıra Hürmüz Boğazı, Yemen ve Rusya-Ukrayna savaşındaki gelişmeler ele alınırken Erdoğan, bölgesel sorunların diplomatik yollarla çözülmesi gerektiğini vurguladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/erdogan-trump-ile-telefonda-gorustu-3792781",
+    "ts": 1793219221000,
+    "tags": []
+   },
+   {
+    "t": "Avrupa'da doğalgaz fiyatları 4 yılın zirvesinde",
+    "tt": null,
+    "s": "Avrupa'da doğalgaz fiyatları, Orta Doğu'daki gerilimlerin LNG sevkiyatlarını aksatması ve Asya'dan gelen güçlü talebin etkisiyle megavatsaat başına 100 euroyu aşarak Aralık 2022'den bu yana en yüksek seviyesine ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlari-4-yilin-zirvesinde-3792780",
+    "ts": 1793218800000,
+    "tags": []
+   },
    {
     "t": "Trump yönetimi, Constellation Energy'ye 5 milyar dolarlık kredi sağlıyor",
     "tt": null,
@@ -828,33 +851,6 @@
     "u": "https://www.bloomberght.com/kanada-merkez-bankasi-ndan-2023-ten-beri-ilk-faiz-artirimi-3792731",
     "ts": 1793201098000,
     "tags": []
-   },
-   {
-    "t": "Dünya Bankası, emtia fiyatlarının 2026'da yüzde 23 artmasını bekliyor",
-    "tt": null,
-    "s": "Dünya Bankası, küresel şokların artmasıyla emtia fiyatlarının 2026'da yüzde 23,1 yükselmesinin beklendiğini bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/dunya-bankasi-emtia-fiyatlarinin-2026-da-yuzde-23-artmasini-bekliyor-3792730",
-    "ts": 1793197250000,
-    "tags": []
-   },
-   {
-    "t": "YTM'den Tera Yatırım Menkul Değerler'e ilişkin tasfiye süreci duyurusu",
-    "tt": null,
-    "s": "Yatırımcı Tazmin Merkezi (YTM) Tera Yatırım Menkul Değerler'in tedrici tasfiye süreciyle ilgili duyuru yayımladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ytm-den-tera-yatirim-menkul-degerler-e-iliskin-tasfiye-sureci-duyurusu-3792729",
-    "ts": 1793196239000,
-    "tags": []
-   },
-   {
-    "t": "Healey: Birleşik Krallık ekonomisi 2027'de yavaşlayacak",
-    "tt": null,
-    "s": "İngiltere Maliye Bakanı John Healey, ilk bütçe sunumunda Birleşik Krallık'ın 2027 yılı ekonomik büyüme tahmininin yüzde 1'e düşürüldüğünü belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/healey-birlesik-krallik-ekonomisi-2027-de-yavaslayacak-3792728",
-    "ts": 1793193239000,
-    "tags": []
    }
   ]
  },
@@ -870,6 +866,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
