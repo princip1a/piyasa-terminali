@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T11:33:52.883154+00:00",
+ "generated": "2026-10-28T12:15:08.076604+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 17.5,
-   "c": -0.11,
-   "d": -0.02,
+   "p": 17.53,
+   "c": 0.06,
+   "d": 0.01,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4059.8,
-   "c": -0.36,
-   "d": -14.8,
+   "p": 4061.2,
+   "c": -0.33,
+   "d": -13.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.8,
-   "c": -0.91,
-   "d": -0.493,
+   "p": 53.85,
+   "c": -0.82,
+   "d": -0.443,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.6,
-   "c": 1.7,
-   "d": 1.7,
+   "p": 101.65,
+   "c": 1.75,
+   "d": 1.75,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.16,
-   "c": -2.39,
-   "d": -2.72,
+   "p": 111.19,
+   "c": -2.36,
+   "d": -2.69,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.388,
-   "c": 0.07,
-   "d": 0.068,
+   "p": 102.321,
+   "c": 0.0,
+   "d": 0.001,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81305,
-   "c": 1.86,
+   "p": 80965,
+   "c": 1.49,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2361.26,
-   "c": 2.1,
+   "p": 2346.04,
+   "c": 1.5,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.72,
-   "c": 2.76,
+   "p": 102.01,
+   "c": 2.1,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.33,
-   "c": 1.86,
+   "p": 1.32,
+   "c": 1.21,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 758.81,
-   "c": 2.73,
+   "p": 756.76,
+   "c": 2.48,
    "k": "usd"
   }
  ],
@@ -384,6 +384,56 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Lula Feels the Heat From Brazil’s Solar Boom",
+    "tt": "Lula Brezilya'daki Güneş Patlamasının Isısını Hissediyor",
+    "s": "The country has massively expanded renewable power, but grid capacity needs to catch up.",
+    "ss": "Ülke yenilenebilir enerjiyi büyük oranda artırdı ancak şebeke kapasitesinin de buna yetişmesi gerekiyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-28/lula-feels-the-heat-from-brazil-s-solar-boom",
+    "ts": 1793189287000,
+    "tags": []
+   },
+   {
+    "t": "Inside America's Prediction Market Boom",
+    "tt": "Amerika'nın Tahmin Piyasası Patlamasının İçinde",
+    "s": "Emily Chang hits the streets of New York with Tarek Mansour, who along with Luana Lopes Lara created Kalshi, the biggest prediction market in the world. The co-founders face a host of new competitors, vocal opponents and a very public debate about what the platform really is and its impact on societ",
+    "ss": "Emily Chang, Luana Lopes Lara ile birlikte dünyanın en büyük tahmin pazarı olan Kalshi'yi yaratan Tarek Mansour ile New York sokaklarına çıkıyor. Kurucu ortaklar bir dizi yeni rakiple, muhalif muhaliflerle ve platformun gerçekte ne olduğu ve toplum üzerindeki etkisi konusunda oldukça kamusal bir tartışmayla karşı karşıyadır.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/inside-america-s-prediction-market-boom",
+    "ts": 1793188865000,
+    "tags": []
+   },
+   {
+    "t": "Aftermath of Spanish Train Crash Near Madrid",
+    "tt": "Madrid yakınlarındaki İspanyol tren kazasının ardından",
+    "s": "At least 30 people have died in a collision between two high-speed trains south of Madrid, according to a spokesperson for the regional government of Castilla-La Mancha. (Source: Capital Radio/Guardia Civil)",
+    "ss": "Castilla-La Mancha bölgesel hükümeti sözcüsüne göre, Madrid'in güneyinde iki hızlı trenin çarpışması sonucu en az 30 kişi öldü. (Kaynak: Başkent Radyosu/Guardia Civil)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/aftermath-of-spanish-train-crash-near-madrid-video",
+    "ts": 1793188741000,
+    "tags": []
+   },
+   {
+    "t": "GE Vernova Agrees to Pay $9 Billion to Acquire Trench Group",
+    "tt": "GE Vernova, Trench Group'u Satın Almak İçin 9 Milyar Dolar Ödemeyi Kabul Etti",
+    "s": "GE Vernova Inc. agreed to pay $9 billion to acquire Trench Group in a deal aimed at expanding its capacity to supply high-voltage grid equipment to meet the surging demand for electricity.",
+    "ss": "GE Vernova Inc., artan elektrik talebinin karşılanmasına yardımcı olmak amacıyla yüksek voltajlı enerji şebekesi ekipmanı tedarik etme kapasitesini artıracak bir anlaşma kapsamında Trench Group'u satın almak için 9 milyar dolar ödemeyi kabul etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
+    "ts": 1793182576000,
+    "tags": []
+   },
+   {
+    "t": "Saudi Oil Exports Near Wartime High as Houthis Mount Attacks",
+    "tt": "Suudi Petrol İhracatı, Husilerin Saldırılarıyla Savaş Zamanının En Yüksek Seviyesine Yakın",
+    "s": "Saudi Arabia’s oil exports are holding near wartime highs this month despite a wave of attacks on the kingdom’s energy infrastructure and an increase in reported Iranian strikes on tankers in the Strait of Hormuz, according to preliminary data from ship-tracking firms.",
+    "ss": "Gemi takip şirketlerinden alınan ön verilere göre, Suudi Arabistan'ın petrol ihracatı, krallığın enerji altyapısına yönelik saldırı dalgasına ve İran'ın Hürmüz Boğazı'ndaki tankerlere yönelik saldırı raporlarındaki artışa rağmen bu ay savaş zamanlarının en yüksek seviyelerine yakın seyrediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/saudi-oil-exports-near-wartime-high-as-houthis-mount-attacks",
+    "ts": 1793187876000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
     "t": "Fed Communication Has Gotten Confusing, Economist Sahm Says",
     "tt": "Ekonomist Sahm: Fed İletişimi Kafa Karıştırmaya Başladı",
     "s": "“I think there is a strong economic argument for raising rates today by a quarter point,” says Claudia Sahm, chief economist at New Century Advisors. She examines the level of confusion around the Federal Reserve’s communication strategy on “Bloomberg Surveillance.” (Source: Bloomberg)",
@@ -391,6 +441,20 @@
     "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-communication-has-gotten-confusing-economist-sahm-video",
     "ts": 1793186823000,
     "tags": []
+   },
+   {
+    "t": "Trans-Oil Bonds Drop as Agricultural Firm Delays Audited Results",
+    "tt": "Tarım Firmasının Denetlenen Sonuçları Geciktirmesiyle Trans-Petrol Tahvilleri Düştü",
+    "s": "Trans-Oil Group’s bonds fell after the agricultural commodity firm told bondholders it would have to delay its audited full-year results.",
+    "ss": "Trans-Oil Group'un tahvilleri, tarımsal emtia firmasının tahvil sahiplerine denetlenen tüm yıl sonuçlarını ertelemek zorunda kalacağını söylemesinin ardından düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/trans-oil-bonds-drop-as-agricultural-firm-delays-audited-results",
+    "ts": 1793186810000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
    },
    {
     "t": "Jio’s IPO Surge Ends Tata’s Reign as Most Valuable India Group",
@@ -402,77 +466,21 @@
     "tags": []
    },
    {
+    "t": "SK Hynix Profits Surge, Fed Decision on Deck",
+    "tt": "SK Hynix'in Karı Arttı, Fed'in Güverte Kararı",
+    "s": "Traders are rotating back into tech stocks on renewed confidence that AI spending will pay off ahead of results from Microsoft Corp. and Alphabet Inc. due after the close. Attention is also turning to the Federal Reserve, which is widely expected to leave interest rates unchanged on Wednesday. Treas",
+    "ss": "Yatırımcılar, Microsoft Corp. ve Alphabet Inc.'in kapanıştan sonra açıklanacak sonuçları öncesinde yapay zeka harcamalarının karşılığını alacağına dair yenilenen güven nedeniyle teknoloji hisselerine yöneliyor. Dikkatler aynı zamanda Çarşamba günü faiz oranlarını değiştirmemesi beklenen Federal Reserve'e de çevriliyor. hazineler",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/the-opening-trade-10-28-2026-video",
+    "ts": 1793186371000,
+    "tags": []
+   },
+   {
     "t": "Pimco Would Welcome 2027 UK Fiscal Deficit of Around 3.5%",
     "tt": "Pimco, İngiltere'nin 2027 Yılı Yaklaşık %3,5'lik Mali Açığını Hoş Karşılayacak",
     "s": "Pimco economist Peder Beck-Friis looks ahead to UK Chancellor John Healey’s budget announcement, highlighting the Office for Budget Responsibility’s (OBR) fiscal deficit forecast for next year as the critical metric for the gilt market. \"If that comes in in the mid-threes, I think that will be welco",
     "ss": "Pimco ekonomisti Peder Beck-Friis, Birleşik Krallık Şansölyesi John Healey'nin bütçe duyurusunu sabırsızlıkla bekliyor ve Bütçe Sorumluluğu Ofisi'nin (OBR) gelecek yıl için mali açık tahmininin yaldızlı piyasa için kritik ölçüt olduğunu vurguluyor. \"Eğer üçlerin ortasında gelirse bunun memnuniyetle karşılanacağını düşünüyorum.",
     "u": "https://www.bloomberg.com/news/videos/2026-10-28/pimco-would-welcome-uk-2027-fiscal-deficit-around-3-5-video",
     "ts": 1793185511000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Drift as Traders Await Tech Results, Fed: Markets Wrap",
-    "tt": "Yükselen Petrol Yapay Zeka Kazanımlarını Dengelerken ABD Hisse Senetleri Kayıyor: Piyasalar Sarıldı",
-    "s": "US stock futures struggled for traction ahead of megacap tech earnings and the Federal Reserve’s interest-rate decision later Wednesday.",
-    "ss": "Artan petrol fiyatlarının etkisinin yapay zeka ticaretindeki yeni kazanımları dengelemesi nedeniyle ABD hisse senedi vadeli işlemleri yön bulmakta zorlandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793138947000,
-    "tags": []
-   },
-   {
-    "t": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
-    "tt": "Bakır, Yatırımcıların Fed Toplantısına Bakmasıyla İki Haftanın En Yüksek Seviyesine Yakın Dalgalandı",
-    "s": "Copper traded near its highest close in two weeks as traders braced for the Federal Reserve’s decision on interest rates.",
-    "ss": "Bakır, yatırımcıların Fed'in faiz kararına hazırlanırken iki haftanın en yüksek kapanışına yakın işlem gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
-    "ts": 1793165169000,
-    "tags": []
-   },
-   {
-    "t": "Gold Steadies Above $4,000 as Focus Turns to Fed Rate Decision",
-    "tt": "Altın, Odakların Fed Faiz Kararına Dönmesiyle 4.000 Doların Üzerinde Durdu",
-    "s": "Gold traded in a narrow range above the $4,000-an-ounce threshold ahead of a Federal Reserve interest-rate decision due later on Wednesday.",
-    "ss": "Altın, Fed'in Çarşamba günü açıklayacağı faiz oranı kararı öncesinde ons başına 4.000 dolar eşiğinin üzerinde dar bir aralıkta işlem gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-    "ts": 1793144218000,
-    "tags": []
-   },
-   {
-    "t": "GE Vernova Agrees to Pay $9 Billion to Acquire Trench Group",
-    "tt": "GE Vernova, Trench Group'u Satın Almak İçin 9 Milyar Dolar Ödemeyi Kabul Etti",
-    "s": "GE Vernova Inc. agreed to pay $9 billion to acquire Trench Group in a deal that will expand its capacity to supply high-voltage power grid equipment to help meet the surging demand for electricity.",
-    "ss": "GE Vernova Inc., artan elektrik talebinin karşılanmasına yardımcı olmak amacıyla yüksek voltajlı enerji şebekesi ekipmanı tedarik etme kapasitesini artıracak bir anlaşma kapsamında Trench Group'u satın almak için 9 milyar dolar ödemeyi kabul etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
-    "ts": 1793182576000,
-    "tags": []
-   },
-   {
-    "t": "Weaker Euro Boosts Europe Exporters as Earnings Season Peaks",
-    "tt": "Zayıf Euro, Kazanç Sezonunda Zirveye Ulaşırken Avrupalı ​​İhracatçıları Artırıyor",
-    "s": "The dollar’s rebound is good news for shares in European exporters, just as companies enter the busiest stretch of the third-quarter reporting season.",
-    "ss": "Şirketler üçüncü çeyrek raporlama sezonunun en yoğun dönemine girerken doların toparlanması Avrupalı ​​ihracatçıların hisseleri için iyi bir haber.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
-    "ts": 1793166540000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Wall Street’s AI Debt Machine Is Starting to Choke on Supply",
-    "tt": "Wall Street'in Yapay Zeka Borç Makinesi Arzda Boğulmaya Başlıyor",
-    "s": "A new anxiety is gripping Wall Street as it bankrolls the vast network of data centers and chips behind the artificial intelligence boom: Early signs suggest that the credit market is approaching the limits of how much more debt it can absorb.",
-    "ss": "Yapay zeka patlamasının ardındaki geniş veri merkezleri ve çip ağını finanse eden Wall Street'i yeni bir endişe sarıyor: İlk işaretler, kredi piyasasının daha fazla borç alabileceği sınırlara yaklaştığını gösteriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
-    "ts": 1793183400000,
-    "tags": []
-   },
-   {
-    "t": "Remy Cointreau’s China Inventory Issues Outweigh Sales Jump",
-    "tt": "Remy Cointreau'nun Çin Envanter Sorunları Satış Artışından Daha Ağır Basıyor",
-    "s": "Remy Cointreau SA reported higher stockpiles in China during its fiscal second quarter, raising concerns about the resilience of a sales rebound in a key market for the Cognac maker.",
-    "ss": "Remy Cointreau SA, mali yılının ikinci çeyreğinde Çin'de daha yüksek stoklar bildirerek, konyak üreticisi için önemli bir pazardaki satış toparlanmasının esnekliğine ilişkin endişeleri artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/remy-cointreau-beats-estimates-on-strong-china-cognac-demand",
-    "ts": 1793168976000,
     "tags": []
    }
   ],
@@ -662,6 +670,38 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Flavio Bolsonaro Lands In Miami After Lula's Totalitarian Crackdown Threatens Political Crisis In Brazil",
+    "tt": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıktı",
+    "s": "Flavio Bolsonaro Lands In Miami After Lula's Totalitarian Crackdown Threatens Political Crisis In Brazil While Democrats, the Democratic Socialists of America, and Alex Soros were cheering on Sunday after the runoff election victory of Brazil's socialist regime leader, Luiz Inácio Lula da Silva, the",
+    "ss": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıkarken Demokratlar, Amerika'nın Demokratik Sosyalistleri ve Alex Soros, Pazar günü Brezilya'nın sosyalist rejim lideri Luiz Inácio Lula da Silva'nın ikinci tur seçim zaferinin ardından tezahürat yapıyordu.",
+    "u": "https://www.zerohedge.com/geopolitical/flavio-bolsonaro-lands-miami-after-lulas-totalitarian-crackdown-threatens-political",
+    "ts": 1793188800000,
+    "tags": []
+   },
+   {
+    "t": "Futures Rise As Hynix-Fueled Memory Mania Revives AI Trade Ahead Of Fed, Big Tech; Oil Jumps",
+    "tt": "Hynix'in Desteklediği Hafıza Çılgınlığı Fed ve Büyük Teknolojinin Önünde Yapay Zeka Ticaretini Canlandırırken Vadeli İşlemler Yükseliyor; Petrol Sıçramaları",
+    "s": "Futures Rise As Hynix-Fueled Memory Mania Revives AI Trade Ahead Of Fed, Big Tech; Oil Jumps US futures are higher, if only in Nasdaq terms, as a memory-chip frenzy sparked by SK Hynix's blowout results revives the AI trade ahead of today's Fed decision and tonight's Alphabet and Microsoft earnings,",
+    "ss": "Hynix'in Desteklediği Hafıza Çılgınlığı Fed ve Büyük Teknolojinin Önünde Yapay Zeka Ticaretini Canlandırırken Vadeli İşlemler Yükseliyor; Petrol Sıçrayıyor ABD vadeli işlemleri, Nasdaq açısından da olsa, SK Hynix'in patlama sonuçlarının yol açtığı hafıza çipi çılgınlığının bugünkü Fed kararı ve bu geceki Alphabet ve Microsoft kazançları öncesinde yapay zeka ticaretini canlandırmasıyla daha yüksek.",
+    "u": "https://www.zerohedge.com/markets/futures-rise-hynix-fueled-memory-mania-revives-ai-trade-ahead-fed-big-tech-oil-jumps",
+    "ts": 1793188438000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Boats And RVs Still Break The Bank. Citi Reveals Which Leisure Vehicles Are Becoming More Affordable",
+    "tt": "Tekneler ve Karavanlar Hala Bütçeyi Artırıyor. Citi, Hangi Eğlence Araçlarının Daha Uygun Fiyatlı Hale Geldiğini Açıkladı",
+    "s": "Boats And RVs Still Break The Bank. Citi Reveals Which Leisure Vehicles Are Becoming More Affordable Citi analysts examined recreational vehicles and boats and found that high prices and elevated financing costs are keeping much of the market under pressure. There's some good news : motorcycles, off",
+    "ss": "Tekneler ve Karavanlar Hala Bütçeyi Artırıyor. Citi, Hangi Eğlence Araçlarının Daha Uygun Fiyatlı Hale Geldiğini Ortaya Çıkarıyor Citi analistleri eğlence araçlarını ve tekneleri inceledi ve yüksek fiyatların ve artan finansman maliyetlerinin pazarın çoğunu baskı altında tuttuğunu tespit etti. Bazı iyi haberler var: motosikletler kapanıyor",
+    "u": "https://www.zerohedge.com/personal-finance/towable-rv-or-polaris-rzr-citi-reveals-where-buyers-are-getting-priced-out",
+    "ts": 1793187900000,
+    "tags": []
+   },
+   {
     "t": "2 Men Charged In UK Over Military Base Incident Allegedly Linked To Iran",
     "tt": "İngiltere'de İran Bağlantılı Olduğu İddia Edilen Askeri Üs Olayı Nedeniyle 2 Kişi Suçlandı",
     "s": "2 Men Charged In UK Over Military Base Incident Allegedly Linked To Iran Authored by Rachel Roberts via The Epoch Times , Two men were charged under the UK's National Security Act on Oct. 27 over last month's incident at a military base , with prosecutors accusing the pair of attempting to help Iran",
@@ -722,33 +762,6 @@
     "ss": "Yatırımcılar Nihayet \"Büyük Nadir Dünya Bağlantısının Kesilmesine\" Uyanıyor mu? Geçtiğimiz hafta, Canaccord'un kritik mineraller ekibi \"büyük nadir toprak kopukluğu\" dediğimiz şeyin altını çizdi: Sıkı arzlar ve artan spot fiyatların yanı sıra, yaz başlarında başlayan madencilik stoklarında kısır bir ayı piyasası ve eski",
     "u": "https://www.zerohedge.com/markets/are-investors-finally-waking-great-earth-disconnect",
     "ts": 1793175300000,
-    "tags": []
-   },
-   {
-    "t": "Why Saudi Just Abandoned Its Core Oil Rule",
-    "tt": "Suudi Arabistan Temel Petrol Kuralını Neden Terk Etti?",
-    "s": "Why Saudi Just Abandoned Its Core Oil Rule Authored by Simon Watkins via OilPrice , Few could argue with U.S. President Donald Trump's key objective in launching 'Operation Epic Fury' against Iran on February 28 - to prevent Iran from ever being able to develop a nuclear weapon. All members of his C",
-    "ss": "Suudi Arabistan, Simon Watkins'in OilPrice aracılığıyla yazdığı Temel Petrol Kuralını Neden Terk Etti? ABD Başkanı Donald Trump'ın 28 Şubat'ta İran'a karşı 'Epik Öfke Operasyonu'nu başlatmasındaki temel amacının, yani İran'ın nükleer silah geliştirmesini önlemek olduğunu çok az kişi tartışabilir. C'sinin tüm üyeleri",
-    "u": "https://www.zerohedge.com/geopolitical/why-saudi-just-abandoned-its-core-oil-rule",
-    "ts": 1793172600000,
-    "tags": []
-   },
-   {
-    "t": "Nordic Leaders Hold Rare Putin Call, Suddenly Eager For Say In Ukraine Peace Talks",
-    "tt": "Kuzeyli Liderler Nadir Putin Çağrısında Bulundu ve Aniden Ukrayna Barış Görüşmelerinde Söz Konusu Olmaya İstekliler",
-    "s": "Nordic Leaders Hold Rare Putin Call, Suddenly Eager For Say In Ukraine Peace Talks At a moment Washington and Moscow are seeking to improve bilateral relations, and as the Trump administration continues pressuring Ukraine's Zelensky to essentially shut-up and make compromise, European leaders are sc",
-    "ss": "Kuzeyli Liderler Nadir Putin Çağrısında Bulundu ve Ukrayna Barış Görüşmelerinde Aniden Söz Söylemeye İstekliler Bir anda Washington ve Moskova ikili ilişkileri iyileştirmeye çalışıyor ve Trump yönetimi Ukraynalı Zelensky'ye sesini kesip uzlaşmaya varması için baskı yapmayı sürdürürken, Avrupalı ​​liderler bu duruma karşı çıkıyor.",
-    "u": "https://www.zerohedge.com/geopolitical/nordic-leaders-hold-rare-phone-call-putin-suddenly-eager-say-ukraine-peace-talks",
-    "ts": 1793169900000,
-    "tags": []
-   },
-   {
-    "t": "Spain, Brazil 'Allies In Global Progressivism' Says Lula After Sánchez Congratulates Him On Election Victory",
-    "tt": "Lula, Sanchez'in Seçim Zaferinden Dolayı Kendisini Kutlamasının Ardından İspanya ve Brezilya'nın 'Küresel İlerlemeciliğin Müttefikleri' Olduğunu Söyledi",
-    "s": "Spain, Brazil 'Allies In Global Progressivism' Says Lula After Sánchez Congratulates Him On Election Victory Authored by Remix News Staff via Remix , Following his victory in the second round of Brazil's presidential election, President Luiz Inácio Lula da Silva thanked Spanish Prime Minister Pedro ",
-    "ss": "İspanya ve Brezilya, Sanchez'in Seçim Zaferini Kutlamasının Ardından Lula'ya 'Küresel İlerlemeciliğin Müttefikleri' Diyor Remix Haber Ekibi tarafından Remix aracılığıyla yazıldı, Brezilya cumhurbaşkanlığı seçimlerinin ikinci turundaki zaferinin ardından Başkan Luiz Inácio Lula da Silva, İspanya Başbakanı Pedro'ya teşekkür etti",
-    "u": "https://www.zerohedge.com/geopolitical/spain-brazil-allies-global-progressivism-says-lula-after-sanchez-congratulates-him",
-    "ts": 1793167200000,
     "tags": []
    }
   ],
