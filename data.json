@@ -1,79 +1,79 @@
 {
- "generated": "2026-10-28T16:04:05.302809+00:00",
+ "generated": "2026-10-28T17:03:35.494068+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7739.52,
-   "c": 0.22,
-   "d": 16.92,
+   "p": 7743.15,
+   "c": 0.27,
+   "d": 20.55,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26474.508,
-   "c": -0.01,
-   "d": -3.303,
+   "p": 26503.803,
+   "c": 0.1,
+   "d": 25.992,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52531.85,
-   "c": 0.29,
-   "d": 154.28,
+   "p": 52547.28,
+   "c": 0.32,
+   "d": 169.71,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.27,
-   "c": -1.43,
-   "d": -0.25,
+   "p": 17.36,
+   "c": -0.91,
+   "d": -0.16,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4054.7,
-   "c": -0.49,
-   "d": -19.9,
+   "p": 4052.7,
+   "c": -0.54,
+   "d": -21.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.605,
-   "c": -1.27,
-   "d": -0.688,
+   "p": 53.695,
+   "c": -1.1,
+   "d": -0.598,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 103.34,
-   "c": 3.44,
-   "d": 3.44,
+   "p": 103.49,
+   "c": 3.59,
+   "d": 3.59,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 112.42,
-   "c": -1.28,
-   "d": -1.46,
+   "p": 112.43,
+   "c": -1.27,
+   "d": -1.45,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.359,
-   "c": 0.04,
-   "d": 0.039,
+   "p": 102.277,
+   "c": -0.04,
+   "d": -0.043,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.032,
-   "c": 0.78,
-   "d": 0.039,
+   "p": 5.028,
+   "c": 0.7,
+   "d": 0.035,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.8326,
+   "p": 49.8328,
    "c": 0.1,
    "d": 0.052,
    "k": "idx"
@@ -89,20 +89,20 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80477,
-   "c": 0.08,
+   "p": 80461,
+   "c": -0.05,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2331.72,
-   "c": -0.45,
+   "p": 2331.27,
+   "c": -0.61,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.94,
-   "c": 0.18,
+   "p": 101.02,
+   "c": 0.05,
    "k": "usd"
   },
   {
@@ -113,8 +113,8 @@
   },
   {
    "n": "BNB",
-   "p": 748.39,
-   "c": -0.27,
+   "p": 747.41,
+   "c": -0.34,
    "k": "usd"
   }
  ],
@@ -384,21 +384,39 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Wall Street empieza a atragantarse con la gigantesca ola de deuda de la IA",
-    "tt": "Wall Street, IA'nın dev işiyle karşı karşıya geliyor",
-    "s": "Financiar la carrera por la inteligencia artificial se está volviendo más difícil. Suben los rendimientos, los bancos rozan sus límites de exposición y los inversionistas exigen más para asumir el riesgo.",
-    "ss": "Yapay zeka tarafından kariyer finansmanı yapmak çok daha zor. Vericiler, bankalar maruz kalma sınırlarına ulaştı ve inversiyoncular, yükselişi sürdürmek için daha fazla ihtiyaç duyuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-empieza-a-atragantarse-con-la-gigantesca-ola-de-deuda-de-la-ia",
-    "ts": 1793203068000,
+    "t": "Spanish Train Crash Kills at Least 64 People South of Madrid",
+    "tt": "İspanyol Tren Kazası Madrid'in Güneyinde En Az 64 Kişiyi Öldürdü",
+    "s": "A high-speed rail service slammed into another train about 60 miles south of Madrid on Wednesday, killing at least 64 people — the second major accident on Spain’s rail network this year and the deadliest crash in over a decade. (Source: Bloomberg)",
+    "ss": "Çarşamba günü Madrid'in yaklaşık 60 mil güneyinde bir yüksek hızlı demiryolu servisi başka bir trene çarptı ve en az 64 kişinin ölümüne yol açtı; bu, İspanya'nın demiryolu ağındaki bu yılki ikinci büyük kaza ve on yılı aşkın sürenin en ölümcül kazasıydı. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid",
+    "ts": 1793207153000,
     "tags": []
    },
    {
-    "t": "UK Homebuilders Fall as First Time Buyer Support Disappoints",
-    "tt": "Birleşik Krallık'taki Ev İnşaatçıları İlk Kez Alıcı Desteği Hayal Kırıklığına Uğradı",
-    "s": "Shares in the UK’s largest homebuilders slumped Wednesday after the government unveiled fresh details of a new policy designed to help people buy their first home that showed it expected to lend far less than a previous program.",
-    "ss": "İngiltere'nin en büyük konut inşaatı şirketlerinin hisseleri, hükümetin insanların ilk evlerini satın almasına yardımcı olmak için tasarlanan ve önceki programa göre çok daha az kredi vermesi beklendiğini gösteren yeni bir politikanın yeni ayrıntılarını açıklamasının ardından Çarşamba günü düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/uk-homebuilders-fall-as-first-time-buyer-support-disappoints",
-    "ts": 1793201854000,
+    "t": "Boston Office Tower Sells for $546 Million Discount at Auction",
+    "tt": "Boston Office Tower Açık Artırmada 546 Milyon Dolara İndirimle Satılıyor",
+    "s": "A real estate investment firm bought a Boston office tower at a foreclosure auction for one-third the price it paid in 2019, a stark illustration of how far building values have fallen in the wake of the pandemic.",
+    "ss": "Bir emlak yatırım firması, haciz açık artırmasında 2019'da ödediği fiyatın üçte biri karşılığında Boston'daki bir ofis kulesini satın aldı; bu, salgının ardından bina değerlerinin ne kadar düştüğünün çarpıcı bir örneği.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
+    "ts": 1793205948000,
+    "tags": []
+   },
+   {
+    "t": "Machado Thrust Back Into Job as Unifier of Venezuela Opposition",
+    "tt": "Machado, Venezuela Muhalefetinin Birleştiricisi Olarak İşe Geri Döndü",
+    "s": "After a year-long absence, María Corina Machado summoned thousands of followers to the streets as she returned to Caracas on Sunday. Now Venezuela’s most popular politician must reassert herself as the leader of opposition forces that have kept going without her.",
+    "ss": "Bir yıl süren yokluğun ardından María Corina Machado, Pazar günü Karakas'a dönerken binlerce takipçisini sokaklara çağırdı. Şimdi Venezüella'nın en popüler politikacısı, onsuz devam eden muhalefet güçlerinin lideri olarak kendisini yeniden öne sürmeli.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/machado-thrust-back-into-job-as-unifier-of-venezuela-opposition",
+    "ts": 1793205877000,
+    "tags": []
+   },
+   {
+    "t": "GE Vernova to Pay $9 Billion for Grid Supplier Trench Group",
+    "tt": "GE Vernova, Şebeke Tedarikçisi Trench Group'a 9 Milyar Dolar Ödeyecek",
+    "s": "GE Vernova Inc. agreed to pay $9 billion to acquire Trench Group in a deal aimed at bolstering its portfolio of high-voltage power grid equipment to meet the surging demand for electricity.",
+    "ss": "GE Vernova Inc., artan elektrik talebini karşılamak için yüksek voltajlı elektrik şebekesi ekipmanı portföyünü güçlendirmeyi amaçlayan bir anlaşma kapsamında Trench Group'u satın almak için 9 milyar dolar ödemeyi kabul etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
+    "ts": 1793182576000,
     "tags": []
    },
    {
@@ -411,66 +429,48 @@
     "tags": []
    },
    {
+    "t": "Baltic Pushed Brokers to Submit Rates During War, Court Told",
+    "tt": "Mahkeme, Baltık'ın Komisyoncuları Savaş Sırasında Faiz Vermeye Zorladığını Açıkladı",
+    "s": "A freight assessor at the Baltic Exchange told a broker that “a certain amount of cajoling and bullying” was necessary to get companies to provide tanker rates after the Iran war broke out.",
+    "ss": "Baltık Borsası'ndaki bir navlun değerlendiricisi, bir komisyoncuya, İran savaşının patlak vermesinden sonra şirketlerin tanker fiyatlarını vermesini sağlamak için \"belirli bir miktar kandırma ve zorbalığın\" gerekli olduğunu söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/baltic-pushed-brokers-to-submit-rates-during-war-court-told",
+    "ts": 1793203261000,
+    "tags": []
+   },
+   {
+    "t": "Wall Street empieza a atragantarse con la gigantesca ola de deuda de la IA",
+    "tt": "Wall Street, IA'nın dev işiyle karşı karşıya geliyor",
+    "s": "Financiar la carrera por la inteligencia artificial se está volviendo más difícil. Suben los rendimientos, los bancos rozan sus límites de exposición y los inversionistas exigen más para asumir el riesgo.",
+    "ss": "Yapay zeka tarafından kariyer finansmanı yapmak çok daha zor. Vericiler, bankalar maruz kalma sınırlarına ulaştı ve inversiyoncular, yükselişi sürdürmek için daha fazla ihtiyaç duyuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-empieza-a-atragantarse-con-la-gigantesca-ola-de-deuda-de-la-ia",
+    "ts": 1793203068000,
+    "tags": []
+   },
+   {
+    "t": "Wall Street Awaits Fed Interest Rate Decision, Results From Alphabet and Microsoft",
+    "tt": "Wall Street Fed'in Faiz Oranı Kararını, Alphabet ve Microsoft'un Sonuçlarını Bekliyor",
+    "s": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+    "ss": "Jonathan Ferro, Lisa Abramowicz ve Annmarie Hordern, Wall Street'ten Washington'a ve ötesine kadar liderler ve karar alıcılarla her gün konuşuyor. Yatırımcıları ve yöneticileri işlem günü için \"Bloomberg Gözetim\"den daha iyi konumlandıran başka bir program yok. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/bloomberg-surveillance-10-28-2026-video",
+    "ts": 1793202327000,
+    "tags": []
+   },
+   {
+    "t": "UK Homebuilders Fall as First Time Buyer Support Disappoints",
+    "tt": "Birleşik Krallık'taki Ev İnşaatçıları İlk Kez Alıcı Desteği Hayal Kırıklığına Uğradı",
+    "s": "Shares in the UK’s largest homebuilders slumped Wednesday after the government unveiled fresh details of a new policy designed to help people buy their first home that showed it expected to lend far less than a previous program.",
+    "ss": "İngiltere'nin en büyük konut inşaatı şirketlerinin hisseleri, hükümetin insanların ilk evlerini satın almasına yardımcı olmak için tasarlanan ve önceki programa göre çok daha az kredi vermesi beklendiğini gösteren yeni bir politikanın yeni ayrıntılarını açıklamasının ardından Çarşamba günü düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/uk-homebuilders-fall-as-first-time-buyer-support-disappoints",
+    "ts": 1793201854000,
+    "tags": []
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Oct. 28",
     "tt": "28 Ekim Petrol Piyasası Son Haberleri ve Analizleri",
     "s": "Oil rose as traders weighed whether the US could resume military strikes on Iran after next week’s midterms and tracked a tight Israeli election.",
     "ss": "Petrol, yatırımcıların önümüzdeki hafta yapılacak ara seçimlerden sonra ABD'nin İran'a yönelik askeri saldırılarına devam edip edemeyeceğini tartması ve İsrail seçimlerinin sıkı geçmesini takip etmesiyle yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
     "ts": 1793138697000,
-    "tags": []
-   },
-   {
-    "t": "Bank of Canada Raises Interest Rates to 2.5%, First Hike Since 2023",
-    "tt": "Kanada Bankası, Faiz Oranlarını 2023'ten Bu Yana İlk Artışla %2,5'e Yükseltti",
-    "s": "The Bank of Canada raised its benchmark overnight interest rate by 25 basis points to 2.5% on Wednesday. It's the first increase since July of 2023. Governor Tiff Macklem says this move could reduce inflation risks posed by higher energy prices. (Source: Bloomberg)",
-    "ss": "Kanada Bankası Çarşamba günü gösterge gecelik faiz oranını 25 baz puan artırarak %2,5'e yükseltti. Bu, Temmuz 2023'ten bu yana ilk artış. Vali Tiff Macklem, bu hamlenin yüksek enerji fiyatlarının oluşturduğu enflasyon risklerini azaltabileceğini söylüyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/bank-of-canada-raises-interest-rates-to-2-5-video",
-    "ts": 1793199873000,
-    "tags": []
-   },
-   {
-    "t": "UK Offers Energy Bill Relief While Cutting Clean-Energy Spending",
-    "tt": "Birleşik Krallık'tan Healey, Artan Enerji Faturalarıyla Karşı Karşıya Olan Evlere Yardım Teklif Ediyor",
-    "s": "The UK proposed a package of measures to cushion households from another sharp rise in energy bills, while cutting £1 billion ($1.3 billion) from its flagship program to make homes more energy efficient.",
-    "ss": "Birleşik Krallık, hane halklarını enerji faturalarındaki bir başka keskin artıştan korumak için, milyonlarca eve 100 sterlinlik ödemeler ve sabit gaz ücretlerini kaldırma planları da dahil olmak üzere bir önlem paketi önerdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
-    "ts": 1793171233000,
-    "tags": []
-   },
-   {
-    "t": "El Niño Rains in Brazil Threaten Start to Next Sugar Season",
-    "tt": "Brezilya'daki El Niño Yağmurları Bir Sonraki Şeker Sezonunun Başlangıcını Tehdit Ediyor",
-    "s": "Heavy rains from El Niño are disrupting Brazil’s sugarcane harvest, with the delays causing backups in mills that threaten to undermine the start of next season in the world’s top sugar supplier.",
-    "ss": "El Niño'dan gelen şiddetli yağmurlar Brezilya'nın şeker kamışı hasadını sekteye uğratıyor ve gecikmeler fabrikalarda yedeklemelere yol açarak dünyanın bir numaralı şeker tedarikçisinde gelecek sezonun başlangıcını baltalama tehlikesi yaratıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/el-nino-rains-in-brazil-threaten-start-to-next-sugar-season",
-    "ts": 1793181600000,
-    "tags": []
-   },
-   {
-    "t": "John Healey’s First UK Budget: What It Means for Markets",
-    "tt": "John Healey'nin İlk Birleşik Krallık Bütçesi: Piyasalar İçin Ne İfade Ediyor?",
-    "s": "The Opening Trade team delivers special coverage of John Healey's first budget as UK Chancellor of the Exchequer. Anna Edwards, Guy Johnson and Tom Mackenzie anchor the program, joined by Bloomberg's Caroline Hepker live from Abingdon Green, Head of Economics and Government Stephanie Flanders and Pe",
-    "ss": "Açılış Ticareti ekibi, John Healey'nin Birleşik Krallık Maliye Şansölyesi olarak ilk bütçesine ilişkin özel bir haber sunuyor. Programa Anna Edwards, Guy Johnson ve Tom Mackenzie katılıyor, Bloomberg'den Caroline Hepker ise Abingdon Green'den canlı olarak, Ekonomi ve Hükümet Başkanı Stephanie Flanders ve Pe'den katılıyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/the-opening-trade-uk-budget-special-10-28-2026-video",
-    "ts": 1793199000000,
-    "tags": []
-   },
-   {
-    "t": "Flávio chega aos EUA após deixar o Brasil",
-    "tt": "Brezilya'dan sonra EUA'da Flavio chega",
-    "s": "Depois da derrota na eleição, Flávio Bolsonaro chega aos EUA após deixar o país via Argentina. Confira com Leonardo Lara. Edição de Patricia Xavier e produção de Gisele Fernandes e Mariana Lumy. (Source: Bloomberg)",
-    "ss": "Seçimden sonra Flávio Bolsonaro, Arjantin üzerinden Avrupa Birliği'ne geldi. Leonardo Lara ile onaylayın. Patricia Xavier'in editörü ve yapımcı Gisele Fernandes ile Mariana Lumy. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/flavio-chega-aos-eua-apos-deixar-o-brasil-video",
-    "ts": 1793198646000,
-    "tags": []
-   },
-   {
-    "t": "UK Sticks With North Sea Windfall Tax Despite Industry Outcry",
-    "tt": "İngiltere, Sektörün Tepkilerine Rağmen Kuzey Denizi Vergisine Bağlı Kaldı",
-    "s": "The UK government decided to stick with a windfall tax on North Sea oil and gas producers, dismissing the industry’s calls to end it next year.",
-    "ss": "Birleşik Krallık hükümeti, Kuzey Denizi petrol ve gaz üreticilerine yönelik umulmadık bir vergiye bağlı kalmaya karar vererek, sektörün bu vergiyi gelecek yıl sona erdirme çağrılarını reddetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/uk-sticks-with-north-sea-windfall-tax-despite-industry-outcry",
-    "ts": 1793198501000,
     "tags": []
    }
   ],
@@ -568,6 +568,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "The U.S. government will no longer penalize American companies for making six popular peptides",
+    "tt": "ABD hükümeti artık Amerikan şirketlerini altı popüler peptid ürettikleri için cezalandırmayacak",
+    "s": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
+    "ss": "BPC-157 ve TB-500 gibi popüler sağlıklı yaşam ürünleri üreten eczanelerin bileşikleştirilmesine karşı herhangi bir işlem yapılmayacaktır.",
+    "u": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+    "ts": 1793206620000,
+    "tags": []
+   },
+   {
+    "t": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
+    "tt": "Sağlık sektörü hisseleri son nesildeki en büyük yükselişini yaşıyor. Mitingi kovalamadan önce iki kez düşünün.",
+    "s": "The typically boring healthcare space has delivered a flash of excitement for investors in October, building on its gains from earlier in the year.",
+    "ss": "Tipik olarak sıkıcı olan sağlık alanı, yılın başlarında elde ettiği kazanımların üzerine Ekim ayında yatırımcılar için bir anlık heyecan yaşattı.",
+    "u": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
+    "ts": 1793206140000,
+    "tags": []
+   },
+   {
+    "t": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
+    "tt": "Anthropic'te yükseliş beklentisi var ancak halka arza kadar beklemek istemiyor musunuz? İşte bugün nasıl yatırım yapabileceğiniz.",
+    "s": "ETFs and other funds currently available to ordinary investors offer exposure to Anthropic.",
+    "ss": "Şu anda sıradan yatırımcıların kullanımına sunulan ETF'ler ve diğer fonlar, Anthropic'e erişim olanağı sunuyor.",
+    "u": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
+    "ts": 1793203980000,
+    "tags": []
+   },
+   {
     "t": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
     "tt": "Micron'un hisseleri SK Hynix kazancının ardından yükseldi. İşte bir sonraki büyük testi.",
     "s": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
@@ -634,36 +661,36 @@
      "Altın ▼",
      "BTC ▼"
     ]
-   },
-   {
-    "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-    "tt": "Vertiv'in kazançları, Büyük Teknoloji sonuçları öncesinde yapay zeka hakkında iyimser bir sinyal gönderdi",
-    "s": "Vertiv’s big sales beat affirms that the AI buildout is accelerating.",
-    "ss": "Vertiv'in büyük satış ritmi, yapay zeka gelişiminin hızlandığını doğruluyor.",
-    "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-    "ts": 1793199660000,
-    "tags": []
-   },
-   {
-    "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "tt": "Eşim 401(k)'da sadece 80.000 doları olduğunu öğrendiğimde ağladı. 2,2 milyon dolarım var. Şok olmakta haksız mıyım?",
-    "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    "ss": "\"Geçen baharda emekli olmayı gündeme getirdiğimde, ne zaman istersem hazır olduğunu söyledi ve ben de bunu iyi durumda olduğumuz anlamına aldım.\"",
-    "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "ts": 1793198700000,
-    "tags": []
-   },
-   {
-    "t": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "tt": "'Yargıç Judy'yi izleyin': 70'li yaşlarımdayım. İnsanlar neden aynı önlenebilir finansal hataları yapmaya devam ediyor?",
-    "s": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-    "ss": "\"Kötü kararların bazı tanıdık örneklerini düşünün: kredi kartı borcu biriktirmek veya emeklilik planını yapamamak.\"",
-    "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    "ts": 1793196960000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "U. Connecticut Recruits 'LGBTQ+' Scholars For High School 'Queer Science' Event",
+    "tt": "U. Connecticut, Lisedeki 'Queer Science' Etkinliği İçin 'LGBTQ+' Burslularını İşe Aldı",
+    "s": "U. Connecticut Recruits 'LGBTQ+' Scholars For High School 'Queer Science' Event Authored by Mia Milner via The College Fix , The University of Connecticut's College of Engineering sought LGBTQ+ scientists and engineers to volunteer at its recent \"Queer Science\" conference , a free event for high sch",
+    "ss": "U. Connecticut, Lise 'Queer Science' Etkinliği İçin 'LGBTQ+' Burslularını İşe Aldı Mia Milner tarafından The College Fix aracılığıyla yazılmıştır, Connecticut Üniversitesi Mühendislik Fakültesi, lise öğrencileri için ücretsiz bir etkinlik olan yakın tarihli \"Queer Science\" konferansında gönüllü olmaları için LGBTQ+ bilim adamlarını ve mühendislerini aramıştır.",
+    "u": "https://www.zerohedge.com/political/u-connecticut-recruits-lgbtq-scholars-high-school-queer-science-event",
+    "ts": 1793206200000,
+    "tags": []
+   },
+   {
+    "t": "Democrats Planning Their Own 'Stop The Steal' If They Don't Win The Midterms",
+    "tt": "Demokratlar Ara Sınavı Kazanamazlarsa Kendi 'Çalmayı Durdurmayı' Planlıyorlar",
+    "s": "Democrats Planning Their Own 'Stop The Steal' If They Don't Win The Midterms After the 2020 presidential election, Democratic leaders spent years condemning President Trump's claims that fraud cost him a second term. They described his refusal to accept the results as an attack on democracy, and the",
+    "ss": "Demokratlar, Ara Sınavları Kazanamazlarsa Kendi 'Çalmayı Durdurmayı' Planlıyor 2020 başkanlık seçimlerinden sonra Demokrat liderler, Başkan Trump'ın sahtekarlığın kendisine ikinci döneme mal olduğu yönündeki iddialarını kınamak için yıllarını harcadılar. Sonuçları kabul etmeyi reddetmesini demokrasiye bir saldırı olarak nitelendirdiler ve",
+    "u": "https://www.zerohedge.com/political/democrats-planning-their-own-stop-steal-if-they-dont-win-midterms",
+    "ts": 1793205000000,
+    "tags": []
+   },
+   {
+    "t": "Inflation Isn't Finished With Us... And We Should Be Worried",
+    "tt": "Enflasyonun Bizimle İşi Bitmedi... Ve Endişelenmemiz Gerekiyor",
+    "s": "Inflation Isn't Finished With Us... And We Should Be Worried Authored by Peter Reagan via BirchGold.com, Today we're going to talk about the good, the bad and the ugly. No, I'm not referring to the classic Clint Eastwood spaghetti western (although, if you haven't watched it recently, you should! It",
+    "ss": "Enflasyonun Bizimle İşi Bitmedi... Ve Endişelenmemiz Gerekiyor BirchGold.com aracılığıyla Peter Reagan tarafından yazılmıştır. Bugün iyi, kötü ve çirkin hakkında konuşacağız. Hayır, Clint Eastwood'un klasik spagetti western'inden bahsetmiyorum (ancak yakın zamanda izlemediyseniz mutlaka izlemelisiniz!",
+    "u": "https://www.zerohedge.com/personal-finance/inflation-isnt-finished-us-and-we-should-be-worried",
+    "ts": 1793203800000,
+    "tags": []
+   },
    {
     "t": "At Least 64 Dead After Two High-Speed Trains Collide In Spain",
     "tt": "İspanya'da iki hızlı trenin çarpışması sonucu en az 64 kişi öldü",
@@ -731,36 +758,18 @@
     "u": "https://www.zerohedge.com/energy/european-natgas-crosses-100-euro-psychological-mark-winter-supply-fears-mount",
     "ts": 1793197800000,
     "tags": []
-   },
-   {
-    "t": "First Images Show Flavio Bolsonaro Stepping Off Private Jet In Miami After Lula's Totalitarian Crackdown",
-    "tt": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıktı",
-    "s": "First Images Show Flavio Bolsonaro Stepping Off Private Jet In Miami After Lula's Totalitarian Crackdown Summary: First Images Of Bolsonaro&nbsp;Exiting Private Jet In Miami Brazil In Political Crisis?&nbsp; Bolsonaro Lands In Miami After Lula's Totalitarian Crackdown Threatens Political Crisis In B",
-    "ss": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıkarken Demokratlar, Amerika'nın Demokratik Sosyalistleri ve Alex Soros, Pazar günü Brezilya'nın sosyalist rejim lideri Luiz Inácio Lula da Silva'nın ikinci tur seçim zaferinin ardından tezahürat yapıyordu.",
-    "u": "https://www.zerohedge.com/geopolitical/flavio-bolsonaro-lands-miami-after-lulas-totalitarian-crackdown-threatens-political",
-    "ts": 1793197620000,
-    "tags": []
-   },
-   {
-    "t": "Trump Hints Trilateral Ukraine Peace Talks May Not Happen In Person",
-    "tt": "Trump, Üçlü Ukrayna Barış Görüşmelerinin Şahsen Gerçekleşmeyebileceğine İşaret Etti",
-    "s": "Trump Hints Trilateral Ukraine Peace Talks May Not Happen In Person More disappointment: President Trump has hinted that any near-future trilateral talks involving the US, Russia, and Ukraine to end the war might not actually take place in person . Trump told reporters that a meeting is set to happe",
-    "ss": "Trump, Üçlü Ukrayna Barış Görüşmelerinin Şahsen Gerçekleşmeyebileceğine İlişkin İpuçları Daha fazla hayal kırıklığı: Başkan Trump, yakın gelecekte ABD, Rusya ve Ukrayna'nın savaşı sona erdirmeye yönelik üçlü görüşmelerinin aslında şahsen gerçekleşmeyebileceğini ima etti. Trump gazetecilere toplantının planlandığını söyledi",
-    "u": "https://www.zerohedge.com/geopolitical/trump-hints-trilateral-ukraine-peace-talks-may-not-happen-person",
-    "ts": 1793196000000,
-    "tags": []
-   },
-   {
-    "t": "OpenAI Eyes Google's Chips Hours After Oracle Deal, While Anthropic Taps JPMorgan For Retail IPO Amid Warren's 'Existential Risk' Inquisition",
-    "tt": "OpenAI, Oracle Anlaşmasından Saatler Sonra Google'ın Çiplerini Gözetliyor, Anthropic ise Warren'ın \"Varoluşsal Risk\" Soruşturması Arasında Perakende Halka Arzı İçin JPMorgan'ı Tercih Ediyor",
-    "s": "OpenAI Eyes Google's Chips Hours After Oracle Deal, While Anthropic Taps JPMorgan For Retail IPO Amid Warren's 'Existential Risk' Inquisition Alphabet bulls couldn't have scripted the timing any better. Just hours before Google's parent company reports third-quarter earnings - and a day after Oracle",
-    "ss": "OpenAI, Oracle Anlaşmasından Saatler Sonra Google'ın Cipslerini Gözetliyor, Anthropic ise Warren'ın 'Varoluş Riski' Engizisyon Alfabesi Ortasında Perakende Halka Arzı İçin JPMorgan'ı Seçiyor Boğalar zamanlamayı bundan daha iyi yazamazlardı. Google'ın ana şirketinin üçüncü çeyrek kazançlarını açıklamasından sadece birkaç saat önce ve Oracle'dan bir gün sonra",
-    "u": "https://www.zerohedge.com/ai/openai-eyes-googles-chips-hours-after-oracle-deal-while-anthropic-taps-jpmorgan-retail-ipo-amid",
-    "ts": 1793195100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "SPK'dan yabancı finans kuruluşlarına ilişkin iddialara yanıt",
+    "tt": null,
+    "s": "SPK, yabancı finans kuruluşlarına ilişkin iddialar hakkında açıklama yaptı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/spk-dan-yabanci-finans-kuruluslarina-iliskin-iddialara-yanit-3792733",
+    "ts": 1793206570000,
+    "tags": []
+   },
    {
     "t": "Putin ile Musk arasında uydu teması",
     "tt": null,
@@ -840,15 +849,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-den-secim-sonrasi-saldiri-iddiasi-3792724",
     "ts": 1793186236000,
-    "tags": []
-   },
-   {
-    "t": "Hizmet üretim endeksinde ılımlı artış",
-    "tt": null,
-    "s": "Hizmet Üretici Fiyat Endeksi (H-ÜFE), Eylül'de aylık bazda yüzde 0,17, yıllık bazda yüzde 33,23 arttı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hizmet-uretim-endeksinde-ilimli-artis-3792723",
-    "ts": 1793185504000,
     "tags": []
    }
   ]
