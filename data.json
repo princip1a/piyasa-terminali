@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T04:58:00.118173+00:00",
+ "generated": "2026-10-28T05:33:39.500407+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4054.0,
-   "c": -0.51,
-   "d": -20.6,
+   "p": 4049.9,
+   "c": -0.61,
+   "d": -24.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.03,
-   "c": -0.48,
-   "d": -0.263,
+   "p": 54.015,
+   "c": -0.51,
+   "d": -0.278,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.44,
-   "c": 1.54,
-   "d": 1.54,
+   "p": 101.29,
+   "c": 1.39,
+   "d": 1.39,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.97,
-   "c": -2.56,
-   "d": -2.91,
+   "p": 110.89,
+   "c": -2.63,
+   "d": -2.99,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.421,
-   "c": 0.1,
-   "d": 0.101,
+   "p": 102.416,
+   "c": 0.09,
+   "d": 0.096,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8093,
+   "p": 49.8107,
    "c": 0.06,
-   "d": 0.028,
+   "d": 0.03,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80863,
-   "c": 1.59,
+   "p": 80843,
+   "c": 1.46,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2352.13,
-   "c": 1.89,
+   "p": 2353.15,
+   "c": 2.03,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 101.91,
-   "c": 2.0,
+   "p": 101.89,
+   "c": 2.19,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 2.49,
+   "c": 2.59,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 745.72,
-   "c": 1.29,
+   "p": 744.75,
+   "c": 1.16,
    "k": "usd"
   }
  ],
@@ -384,6 +384,69 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
+    "tt": "Bakır, Yatırımcıların Fed Toplantısına Bakmasıyla İki Haftanın En Yüksek Seviyesine Yakın Dalgalanıyor",
+    "s": "Copper traded near its highest close in two weeks as traders braced for the Federal Reserve’s decision on interest rates.",
+    "ss": "Bakır, yatırımcıların Fed'in faiz kararına hazırlanırken iki haftanın en yüksek kapanışına yakın işlem gördü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/copper-wavers-near-two-week-high-as-traders-look-to-fed-meeting",
+    "ts": 1793165169000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 28",
+    "tt": "28 Ekim tarihli Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose on a report the US may resume military strikes on Iran after next week’s midterms, and as traders tracked a tight Israeli election.",
+    "ss": "Petrol fiyatları, ABD'nin önümüzdeki hafta yapılacak ara seçimlerden sonra İran'a askeri saldırılara devam edebileceği haberi ve yatırımcıların sıkı İsrail seçimlerini takip etmesi üzerine yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+    "ts": 1793138697000,
+    "tags": []
+   },
+   {
+    "t": "Japan Retail Traders Shrug Off GMO Hack, Says Central Tanshi FX",
+    "tt": "Central Tanshi FX, Japon Perakendecilerin GDO Hack'ini umursamadığını söylüyor",
+    "s": "Japan’s retail foreign-exchange market has largely shrugged off the cyberattack on GMO Internet Group Inc., with trading volumes holding up even if some investors are closing accounts, according to Central Tanshi FX’s Takayuki Tominaga.",
+    "ss": "Central Tanshi FX'ten Takayuki Tominaga'ya göre, Japonya'nın perakende döviz piyasası, GMO Internet Group Inc.'e yönelik siber saldırıya büyük ölçüde omuz silkti; bazı yatırımcılar hesaplarını kapatsa bile ticaret hacimleri ayakta kaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/japan-retail-traders-shrug-off-gmo-hack-says-central-tanshi-fx",
+    "ts": 1793164740000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stocks Rally After Hynix Earnings, Oil Gains: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
+    "s": "Tech shares climbed across Asia, led by those in South Korea, after blowout earnings from chip heavyweight SK Hynix Inc. prompted investors to charge back into the artificial intelligence trade.",
+    "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793138947000,
+    "tags": []
+   },
+   {
+    "t": "Your Portfolio Reset: How Investors Should Think About The Next Decade",
+    "tt": "Portföy Sıfırlamanız: Yatırımcılar Gelecek On Yıl Hakkında Nasıl Düşünmeli?",
+    "s": "The forces that powered the last 10 years are shifting. Here’s how to prepare for what comes next.&nbsp;",
+    "ss": "Son 10 yıla güç veren güçler değişiyor. İşte bundan sonra olacaklara nasıl hazırlanacağınız. ",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/your-portfolio-reset-how-investors-should-think-about-the-next-decade",
+    "ts": 1793163620000,
+    "tags": []
+   },
+   {
+    "t": "Rome’s Mayor Rules Out ‘Venice-Like’ Entrance Fee for Tourists",
+    "tt": "Roma Belediye Başkanı Turistlere 'Venedik Benzeri' Giriş Ücretini Reddetti",
+    "s": "Rome can best preserve the character of its 3,000-year-old city center with measures like restricting short-term rentals, rather than by increasing taxes imposed on visitors, mayor Roberto Gualtieri said.",
+    "ss": "Belediye Başkanı Roberto Gualtieri, Roma'nın 3000 yıllık şehir merkezinin karakterini, ziyaretçilere uygulanan vergileri artırmak yerine kısa süreli kiralamaları kısıtlamak gibi önlemlerle en iyi şekilde koruyabileceğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/rome-s-mayor-rules-out-venice-like-entrance-fee-for-tourists",
+    "ts": 1793163600000,
+    "tags": []
+   },
+   {
+    "t": "Ambani’s Jio Surges in Debut After India-Record IPO",
+    "tt": "Ambani'den Jio, Hindistan'daki Rekor Halka Arzdan Sonra Çıkışını Yükseltti",
+    "s": "Jio Platforms Ltd. surged in its trading debut on Wednesday after billionaire Mukesh Ambani’s telecom giant raised a record $3.1 billion in India’s biggest initial public offering, defying a poor track record for the country’s mega deals. (Source: Bloomberg)",
+    "ss": "Jio Platforms Ltd., milyarder Mukesh Ambani'nin telekomünikasyon devinin Hindistan'ın en büyük halka arzında 3,1 milyar dolarlık rekor toplayarak ülkenin mega anlaşmalarındaki zayıf performansına meydan okumasının ardından Çarşamba günü ilk ticarette yükselişe geçti. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/ambani-s-jio-surges-in-debut-after-india-record-ipo-video",
+    "ts": 1793163596000,
+    "tags": []
+   },
+   {
     "t": "PHP/USD: Marcos Pledges to “Do All We Can” to Defend Philippine Peso",
     "tt": "PHP/USD: Marcos, Filipin Pezosu'nu Savunmak İçin \"Elimizden Geleni Yapacağımıza\" Söz Verdi",
     "s": "President Ferdinand Marcos Jr. pledged that Philippine authorities will do all they can to defend the peso as the currency weakened to a record low this week.",
@@ -410,76 +473,6 @@
     "ss": "Çin robotik hisseleri, toplu dağıtım için daha kısa zaman çizelgeleri beklentilerinin teşvik ettiği son yükselişini sürdürürken, endüstri lideri Yushu Technology Co.'nun gelecek kazançları da yeni bir destek sağlamaya hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/china-robot-stocks-extend-rally-with-unitree-earnings-in-focus",
     "ts": 1793162493000,
-    "tags": []
-   },
-   {
-    "t": "Korea Financial Firms Hit By More Hacks as Asia Breaches Grow",
-    "tt": "Asya İhlalleri Büyürken Kore Finans Firmaları Daha Fazla Saldırıya Maruz Kaldı",
-    "s": "South Korea’s financial industry was hit by a second wave of cyberattacks in about a month as a wave of breaches across Asia heightens concerns that artificial intelligence is making large-scale hacking easier.",
-    "ss": "Güney Kore'nin finans sektörü, Asya genelindeki ihlal dalgasının yapay zekanın büyük ölçekli hacklemeyi kolaylaştırdığına dair endişeleri artırmasıyla yaklaşık bir ay içinde ikinci bir siber saldırı dalgasıyla karşılaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/korea-financial-firms-hit-by-more-hacks-as-asia-breaches-grow",
-    "ts": 1793162423000,
-    "tags": []
-   },
-   {
-    "t": "Tech Rally Deepens on Hynix Earnings, Oil Climbs: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
-    "s": "South Korean stocks led a third day of gains in global technology shares after blowout results from chip heavyweight SK Hynix Inc. prompted investors to charge back into the artificial intelligence trade. Crude oil rose.",
-    "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793138947000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "Gold Slips to Near $4,000 as Focus Turns to Fed Rate Decision",
-    "tt": "Odaklar Fed Faiz Kararına Döndükçe Altın 4.000 Dolara Düştü",
-    "s": "Gold edged lower, testing the $4,000-an-ounce threshold ahead of the US Federal Reserve’s interest-rate decision due later Wednesday.",
-    "ss": "Altın, ABD Merkez Bankası'nın Çarşamba günü ilerleyen saatlerde açıklayacağı faiz oranı kararı öncesinde düşüş göstererek ons ​​başına 4.000 dolar eşiğini test etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/gold-holds-above-4-000-as-traders-look-to-fed-rate-decision",
-    "ts": 1793144218000,
-    "tags": [
-     "Altın ▼"
-    ]
-   },
-   {
-    "t": "Fortescue Says Iron Ore Deal With China Must Protect Australia",
-    "tt": "Fortescue, Çin'le Yapılan Demir Cevheri Anlaşmasının Avustralya'yı Koruması Gerektiğini Söyledi",
-    "s": "Fortescue Ltd.’s top executives said the miner won’t rush into a deal with China’s state-backed iron ore buyer, and that any agreement must protect the company’s long-term interests as well as Australia’s.",
-    "ss": "Fortescue Ltd.'nin üst düzey yöneticileri, madencinin Çin'in devlet destekli demir cevheri alıcısıyla acele bir anlaşmaya varmayacağını ve herhangi bir anlaşmanın Avustralya'nın yanı sıra şirketin uzun vadeli çıkarlarını da koruması gerektiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/fortescue-says-iron-ore-deal-with-china-must-protect-australia",
-    "ts": 1793161029000,
-    "tags": []
-   },
-   {
-    "t": "Hong Kong's Kevin Choi on Innovation",
-    "tt": "Hong Kong'dan Kevin Choi İnovasyon Konusunda",
-    "s": "Kevin Choi, Permanent Secretary for Innovation, Technology and Industry at the Hong Kong SAR Government, says the city needs to expand its real economy beyond the financial sector, with innovation becoming a second engine of growth. He speaks exclusively on the sidelines of the One Earth Summit in H",
-    "ss": "Hong Kong ÖİB Hükümeti Yenilik, Teknoloji ve Sanayi Daimi Sekreteri Kevin Choi, inovasyonun büyümenin ikinci motoru haline gelmesiyle şehrin reel ekonomisini finans sektörünün ötesine genişletmesi gerektiğini söylüyor. H'deki Tek Dünya Zirvesi'nin oturum aralarında özel olarak konuşuyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/hong-kong-s-kevin-choi-on-innovation-video",
-    "ts": 1793160917000,
-    "tags": []
-   },
-   {
-    "t": "Regal's Poman Lo On Green Investing",
-    "tt": "Regal'in Yeşil Yatırımda Poman Lo'su",
-    "s": "Poman Lo, Founder of One Earth Summit and Vice Chairman and Managing Director at Regal Hotels Group, discusses her push for sustainability and the opportunities she sees in student housing. (Source: Bloomberg)",
-    "ss": "One Earth Summit'in Kurucusu ve Regal Hotels Group Başkan Yardımcısı ve Genel Müdürü Poman Lo, sürdürülebilirlik konusundaki çabasını ve öğrenci konaklamalarında gördüğü fırsatları anlatıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/regal-s-poman-lo-on-green-investing-video",
-    "ts": 1793160695000,
-    "tags": []
-   },
-   {
-    "t": "Traders Brace for Jio Debut",
-    "tt": "Yatırımcılar Jio'nun Çıkışına Hazırlanıyor",
-    "s": "Traders are bracing for the Indian market debut of Jio Platforms. The listing pits Mukesh Ambani's telecom giant against a negative trend for India's megadeals amidst a challenging market environment. (Source: Bloomberg)",
-    "ss": "Yatırımcılar Jio Platformlarının Hindistan pazarına çıkışına hazırlanıyor. Listeleme, Mukesh Ambani'nin telekom devini, zorlu bir pazar ortamında Hindistan'ın mega anlaşmalarına yönelik olumsuz bir trendle karşı karşıya getiriyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/traders-brace-for-jio-debut-video",
-    "ts": 1793160220000,
     "tags": []
    }
   ],
@@ -761,6 +754,33 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Altın, Fed kararı öncesinde 4 bin doların üzerinde tutundu",
+    "tt": null,
+    "s": "Altın, yatırımcıların ABD Merkez Bankası'nın (Fed) faiz kararını beklediği çarşamba günü 4 bin doların üzerinde seyretti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altin-fed-karari-oncesinde-4-bin-dolarin-uzerinde-tutundu-3792713",
+    "ts": 1793164023000,
+    "tags": []
+   },
+   {
+    "t": "Trump, petrol ve gaz sektöründe metan kurallarını gevşetmeyi önerdi",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump, petrol ve doğalgaz sektöründeki metan emisyonu düzenlemelerinin gevşetilmesini önerdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-petrol-ve-gaz-sektorunde-metan-kurallarini-gevsetmeyi-onerdi-3792712",
+    "ts": 1793163581000,
+    "tags": []
+   },
+   {
+    "t": "Fed'in şahin mesajları tahvil piyasasında tersine dönüş riski yaratıyor",
+    "tt": null,
+    "s": "ABD tahvillerinde yükseliş yönlü pozisyonlar, Fed'in yaklaşan para politikası toplantısında beklenenden daha şahin bir tutum sergilemesi halinde sert bir tersine dönüş riskiyle karşı karşıya.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fedin-sahin-mesajlari-tahvil-piyasasinda-tersine-donus-riski-yaratiyor-3792711",
+    "ts": 1793163332000,
+    "tags": []
+   },
+   {
     "t": "Bitcoin'in 100 bin dolara yükselişinin önünde satış baskısı var",
     "tt": null,
     "s": "Bitcoin, 87 bin doların üzerine çıkan yükselişin ardından yeniden 80 bin dolar seviyesine geriledi.",
@@ -821,33 +841,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/fon-sorusturmasinda-4-supheli-hakimlige-sevk-edildi-3792703",
     "ts": 1793126034000,
-    "tags": []
-   },
-   {
-    "t": "SPK, Tera Yatırım'ın faaliyet izinlerini iptal etti",
-    "tt": null,
-    "s": "SPK, Tera Yatırım Menkul Değerler'in tüm faaliyet izinlerinin ve yetki belgesinin iptaline, yatırımcılarının tazminine ve aracı kurumun tedrici tasfiyesine karar verdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spk-tera-yatirim-in-faaliyet-izinlerini-iptal-etti-3792702",
-    "ts": 1793125220000,
-    "tags": []
-   },
-   {
-    "t": "UAEA'dan İran'ın zenginleştirilmiş uranyum stoklarına ilişkin açıklama",
-    "tt": null,
-    "s": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, İran'ın daha önce beyan ettiği 440 kilogram yüksek oranda zenginleştirilmiş uranyumun mevcut durumunun doğrulanabilmesi için nükleer tesislere erişim sağlanması gerektiğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/uaea-dan-iran-in-zenginlestirilmis-uranyum-stoklarina-iliskin-aciklama-3792700",
-    "ts": 1793123004000,
-    "tags": []
-   },
-   {
-    "t": "Yılmaz: 1 milyon liraya kadar ödemeler Cuma günü başlayacak",
-    "tt": null,
-    "s": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, yatırım fonlarının tasfiye süreci kapsamında 23 Ekim itibarıyla 93 fonda 71 bin 899 hesaba toplam 68 milyar liralık ödeme yapıldığını açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yilmaz-1-milyon-liraya-kadar-odemeler-cuma-gunu-baslayacak-3792699",
-    "ts": 1793122767000,
     "tags": []
    }
   ]
