@@ -1,60 +1,60 @@
 {
- "generated": "2026-10-28T14:11:13.542776+00:00",
+ "generated": "2026-10-28T15:06:21.376236+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7728.99,
-   "c": 0.08,
-   "d": 6.39,
+   "p": 7733.97,
+   "c": 0.15,
+   "d": 11.37,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26458.732,
-   "c": -0.07,
-   "d": -19.079,
+   "p": 26469.715,
+   "c": -0.03,
+   "d": -8.096,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52458.2,
-   "c": 0.15,
-   "d": 80.63,
+   "p": 52459.95,
+   "c": 0.16,
+   "d": 82.38,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.58,
-   "c": 0.34,
-   "d": 0.06,
+   "p": 17.4,
+   "c": -0.68,
+   "d": -0.12,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4059.5,
-   "c": -0.37,
-   "d": -15.1,
+   "p": 4053.0,
+   "c": -0.53,
+   "d": -21.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.805,
-   "c": -0.9,
-   "d": -0.488,
+   "p": 53.585,
+   "c": -1.3,
+   "d": -0.708,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.94,
-   "c": 2.04,
-   "d": 2.04,
+   "p": 102.51,
+   "c": 2.61,
+   "d": 2.61,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.3,
-   "c": -2.27,
-   "d": -2.58,
+   "p": 111.93,
+   "c": -1.71,
+   "d": -1.95,
    "k": "usd"
   },
   {
@@ -66,16 +66,16 @@
   },
   {
    "n": "ABD 10Y",
-   "p": 4.999,
-   "c": 0.12,
-   "d": 0.006,
+   "p": 5.028,
+   "c": 0.7,
+   "d": 0.035,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.8321,
-   "c": 0.1,
-   "d": 0.051,
+   "p": 49.8339,
+   "c": 0.11,
+   "d": 0.053,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80652,
-   "c": 0.83,
+   "p": 80557,
+   "c": 0.34,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2332.51,
-   "c": 0.5,
+   "p": 2332.05,
+   "c": -0.01,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.96,
-   "c": 0.79,
+   "p": 100.9,
+   "c": 0.35,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.32,
-   "c": 0.32,
+   "p": 1.31,
+   "c": -0.25,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 749.11,
-   "c": 0.98,
+   "p": 748.78,
+   "c": 0.65,
    "k": "usd"
   }
  ],
@@ -384,6 +384,78 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Bank of Canada Raises Interest Rates to 2.5%, First Hike Since 2023",
+    "tt": "Kanada Bankası, Faiz Oranlarını 2023'ten Bu Yana İlk Artışla %2,5'e Yükseltti",
+    "s": "The Bank of Canada raised its benchmark overnight interest rate by 25 basis points to 2.5% on Wednesday. It's the first increase since July of 2023. Governor Tiff Macklem says this move could reduce inflation risks posed by higher energy prices. (Source: Bloomberg)",
+    "ss": "Kanada Bankası Çarşamba günü gösterge gecelik faiz oranını 25 baz puan artırarak %2,5'e yükseltti. Bu, Temmuz 2023'ten bu yana ilk artış. Vali Tiff Macklem, bu hamlenin yüksek enerji fiyatlarının oluşturduğu enflasyon risklerini azaltabileceğini söylüyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/bank-of-canada-raises-interest-rates-to-2-5-video",
+    "ts": 1793199873000,
+    "tags": []
+   },
+   {
+    "t": "UK Offers Energy Bill Relief While Cutting Clean-Energy Spending",
+    "tt": "Birleşik Krallık'tan Healey, Artan Enerji Faturalarıyla Karşı Karşıya Olan Evlere Yardım Teklif Ediyor",
+    "s": "The UK proposed a package of measures to cushion households from another sharp rise in energy bills, while cutting £1 billion ($1.3 billion) from its flagship program to make homes more energy efficient.",
+    "ss": "Birleşik Krallık, hane halklarını enerji faturalarındaki bir başka keskin artıştan korumak için, milyonlarca eve 100 sterlinlik ödemeler ve sabit gaz ücretlerini kaldırma planları da dahil olmak üzere bir önlem paketi önerdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
+    "ts": 1793171233000,
+    "tags": []
+   },
+   {
+    "t": "Flávio chega aos EUA após deixar o Brasil",
+    "tt": "Brezilya'dan sonra EUA'da Flavio chega",
+    "s": "Depois da derrota na eleição, Flávio Bolsonaro chega aos EUA após deixar o país via Argentina. Confira com Leonardo Lara. Edição de Patricia Xavier e produção de Gisele Fernandes e Mariana Lumy. (Source: Bloomberg)",
+    "ss": "Seçimden sonra Flávio Bolsonaro, Arjantin üzerinden Avrupa Birliği'ne geldi. Leonardo Lara ile onaylayın. Patricia Xavier'in editörü ve yapımcı Gisele Fernandes ile Mariana Lumy. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/flavio-chega-aos-eua-apos-deixar-o-brasil-video",
+    "ts": 1793198646000,
+    "tags": []
+   },
+   {
+    "t": "UK Sticks With North Sea Windfall Tax Despite Industry Outcry",
+    "tt": "İngiltere, Sektörün Tepkilerine Rağmen Kuzey Denizi Vergisine Bağlı Kaldı",
+    "s": "The UK government decided to stick with a windfall tax on North Sea oil and gas producers, dismissing the industry’s calls to end it next year.",
+    "ss": "Birleşik Krallık hükümeti, Kuzey Denizi petrol ve gaz üreticilerine yönelik umulmadık bir vergiye bağlı kalmaya karar vererek, sektörün bu vergiyi gelecek yıl sona erdirme çağrılarını reddetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/uk-sticks-with-north-sea-windfall-tax-despite-industry-outcry",
+    "ts": 1793198501000,
+    "tags": []
+   },
+   {
+    "t": "Sandoz Warns EU May Scrap Antibiotic Protection, Harm Plant",
+    "tt": "Sandoz AB'nin Antibiyotik Korumasını Hurdaya Çıkarabileceği Uyardı",
+    "s": "Sandoz Group AG said Europe’s medicines regulator is proposing to pull amoxicillin from its list of critical medicines, a potential death blow to the last European factory to make the antibiotic from scratch.",
+    "ss": "Sandoz Group AG, Avrupa'nın ilaç düzenleyici kurumunun amoksisilin'i kritik ilaçlar listesinden çıkarmayı önerdiğini, bunun antibiyotiği sıfırdan üreten son Avrupa fabrikasına potansiyel bir ölümcül darbe olduğunu söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sandoz-warns-eu-may-scrap-antibiotic-protection-risking-plant",
+    "ts": 1793180069000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 Churns in Countdown to Fed, Tech Earnings: Markets Wrap",
+    "tt": "Yatırımcılar Teknoloji Sonuçlarını Beklerken ABD Hisse Senetleri Kayıyor, Fed: Piyasalar Özetlendi",
+    "s": "Wall Street investors refrained from making big moves before key tech results and a Federal Reserve decision that will shape the outlook for markets through the remainder of 2026.",
+    "ss": "ABD hisse senedi vadeli kontratları, megacap teknoloji kazançları ve Fed'in Çarşamba günü ilerleyen saatlerde açıklayacağı faiz oranı kararı öncesinde mütevazı yükselişler kaydetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793138947000,
+    "tags": []
+   },
+   {
+    "t": "UK Budget Lacked 'Big Picture Themes,' RBC Capital Says",
+    "tt": "RBC Capital, Birleşik Krallık Bütçesinde 'Büyük Resim Temalarının' Eksik Olduğunu Söyledi",
+    "s": "Peter Schaffrik, global macro strategist at RBC Capital Markets, and Stephanie Flanders of Bloomberg Economics react to Chancellor of the Exchequer John Healey's UK budget announcement. They speak on Bloomberg Television. (Source: Bloomberg)",
+    "ss": "RBC Capital Markets küresel makro strateji uzmanı Peter Schaffrik ve Bloomberg Economics'ten Stephanie Flanders, Maliye Şansölyesi John Healey'nin İngiltere bütçesi açıklamasına tepki gösterdi. Bloomberg Televizyonunda konuşuyorlar. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/uk-budget-lacked-big-picture-themes-rbc-capital-says-video",
+    "ts": 1793197580000,
+    "tags": []
+   },
+   {
+    "t": "Healey Raises UK Banks Tax, Vows to Keep Finances Stable",
+    "tt": "Healey Birleşik Krallık Banka Vergisini Artırdı, Finansmanı İstikrarlı Tutacağına Söz Verdi",
+    "s": "Chancellor of the Exchequer John Healey pledged fiscal discipline in the face of harsh global economic conditions as he delivered the first budget of Andy Burnham’s new Labour administration. His measures included a plan to impose an additional 3% tax on banks, increasing the existing surcharge to 6",
+    "ss": "Maliye Şansölyesi John Healey, Andy Burnham'ın yeni İşçi Partisi yönetiminin ilk bütçesini sunarken, zorlu küresel ekonomik koşullar karşısında mali disiplin sözü verdi. Tedbirleri arasında, bankalara ilave %3 vergi getirilmesi ve mevcut ek ücretin yüzde 6'ya çıkarılması planı da yer alıyordu.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-28/healey-raises-uk-banks-tax-vows-to-keep-finances-stable-video",
+    "ts": 1793197165000,
+    "tags": []
+   },
+   {
     "t": "Investors Jolted by Lula Win Search for Bottom After Brazil Rout",
     "tt": "Yatırımcılar, Brezilya Bozgunu Sonrası Lula'nın Dibi Aramayı Kazanmasıyla Sarsıldı",
     "s": "Investors blindsided by President Luiz Inácio Lula da Silva’s re-election are balking at buying into Brazil’s markets after bullish bets on the nation’s assets unraveled spectacularly.",
@@ -393,84 +465,12 @@
     "tags": []
    },
    {
-    "t": "Peltz’s Trian Offers to Take Wendy’s Private in All-Cash Deal",
-    "tt": "Peltz's Trian, Wendy's Private'ı Tamamı Nakit Anlaşmayla Almayı Teklif Ediyor",
-    "s": "Trian Fund Management offered to acquire all outstanding shares of Wendy’s for about $1.4 billion in cash in a filing on Wednesday. Michael Halen on Bloomberg Intelligence has more on Bloomberg Television. (Source: Bloomberg)",
-    "ss": "Trian Fund Management, Çarşamba günü yaptığı bir başvuruda Wendy's'in tüm tedavüldeki hisselerini yaklaşık 1,4 milyar dolar nakit karşılığında satın almayı teklif etti. Bloomberg Intelligence'dan Michael Halen'in Bloomberg Television'da daha fazlası var. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/trian-offers-to-take-wendy-s-private-in-all-cash-deal-video",
-    "ts": 1793195841000,
-    "tags": []
-   },
-   {
-    "t": "Stocks, Bonds, Dollar Churn Before Fed Decision: Markets Wrap",
-    "tt": "Yatırımcılar Teknoloji Sonuçlarını Beklerken ABD Hisse Senetleri Kayıyor, Fed: Piyasalar Özetlendi",
-    "s": "Wall Street investors refrained from making big moves before key tech results and the Federal Reserve decision that will shape the outlook for markets through the remainder of 2026.",
-    "ss": "ABD hisse senedi vadeli kontratları, megacap teknoloji kazançları ve Fed'in Çarşamba günü ilerleyen saatlerde açıklayacağı faiz oranı kararı öncesinde mütevazı yükselişler kaydetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793138947000,
-    "tags": []
-   },
-   {
-    "t": "Landlocked Botswana Looks to Secure Fuel From Nigeria to Oman",
-    "tt": "Denize kıyısı olmayan Botsvana, Nijerya'dan Umman'a yakıt temin etmeyi hedefliyor",
-    "s": "Landlocked Botswana is negotiating to buy fuel from a wide range of sources to safeguard its supply from war-related shocks and increase its options, according to its energy minister.",
-    "ss": "Enerji bakanına göre, karayla çevrili Botsvana, arzını savaşla ilgili şoklardan korumak ve seçeneklerini artırmak için geniş bir kaynak yelpazesinden yakıt satın almak için pazarlık yapıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/landlocked-botswana-looks-to-secure-fuel-from-nigeria-to-oman",
-    "ts": 1793195472000,
-    "tags": []
-   },
-   {
-    "t": "Peltz’s Trian Offers $1.4 Billion to Take Wendy’s Private",
-    "tt": "Peltz's Trian, Wendy's Private'ı Almak İçin 1,4 Milyar Dolar Teklif Ediyor",
-    "s": "Nelson Peltz’s Trian Fund Management offered to buy out Wendy’s Co. for about $1.4 billion, saying the burger chain will be better off attempting a multiyear turnaround bid as a private company.",
-    "ss": "Nelson Peltz'in Trian Fon Yönetimi, Wendy's Co.'yu yaklaşık 1,4 milyar dolara satın almayı teklif ederek, burger zincirinin özel bir şirket olarak çok yıllı bir geri dönüş teklifine girişmesinin daha iyi olacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/peltz-s-trian-offers-1-4-billion-for-wendy-s-wsj-reports",
-    "ts": 1793190595000,
-    "tags": []
-   },
-   {
-    "t": "Sandoz Warns EU May Scrap Antibiotic Protection",
-    "tt": "Sandoz AB'nin Antibiyotik Korumasını Hurdaya Çıkarabileceği Uyardı",
-    "s": "Sandoz Group AG said Europe’s medicines regulator is proposing to pull amoxicillin from its list of critical medicines, a potential death blow to the last European factory to make the antibiotic from scratch.",
-    "ss": "Sandoz Group AG, Avrupa'nın ilaç düzenleyici kurumunun amoksisilin'i kritik ilaçlar listesinden çıkarmayı önerdiğini, bunun antibiyotiği sıfırdan üreten son Avrupa fabrikasına potansiyel bir ölümcül darbe olduğunu söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sandoz-warns-eu-may-scrap-antibiotic-protection-risking-plant",
-    "ts": 1793180069000,
-    "tags": []
-   },
-   {
-    "t": "GE Vernova to Pay $9 Billion for Grid Supplier Trench Group",
-    "tt": "GE Vernova, Trench Group'u Satın Almak İçin 9 Milyar Dolar Ödemeyi Kabul Etti",
-    "s": "GE Vernova Inc. agreed to pay $9 billion to acquire Trench Group in a deal aimed at bolstering its portfolio of high-voltage power grid equipment to meet the surging demand for electricity.",
-    "ss": "GE Vernova Inc., artan elektrik talebinin karşılanmasına yardımcı olmak amacıyla yüksek voltajlı enerji şebekesi ekipmanı tedarik etme kapasitesini artıracak bir anlaşma kapsamında Trench Group'u satın almak için 9 milyar dolar ödemeyi kabul etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ge-vernova-agrees-to-pay-9-billion-to-acquire-trench-group",
-    "ts": 1793182576000,
-    "tags": []
-   },
-   {
-    "t": "World Bank Raises Commodity Price Outlook Citing War and El Niño",
-    "tt": "Dünya Bankası, Savaş ve El Niño'yu Gerektirerek Emtia Fiyatları Görünümünü Artırdı",
-    "s": "The World Bank increased its price forecasts for commodities, citing disruptions to energy supplies from the Middle East war and the threat to harvests from El Niño.",
-    "ss": "Dünya Bankası, Orta Doğu savaşı nedeniyle enerji arzında yaşanan aksamaları ve El Niño'dan kaynaklanan hasat tehdidini gerekçe göstererek emtia fiyat tahminlerini artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/world-bank-raises-commodity-price-outlook-citing-war-and-el-nino",
-    "ts": 1793194200000,
-    "tags": []
-   },
-   {
-    "t": "UK’s Healey Offers Help to Homes Facing Soaring Energy Bills",
-    "tt": "Birleşik Krallık'tan Healey, Artan Enerji Faturalarıyla Karşı Karşıya Olan Evlere Yardım Teklif Ediyor",
-    "s": "The UK proposed a package of measures to cushion households from another sharp rise in energy bills, including £100 payments to millions of homes and plans to scrap standing charges for gas.",
-    "ss": "Birleşik Krallık, hane halklarını enerji faturalarındaki bir başka keskin artıştan korumak için, milyonlarca eve 100 sterlinlik ödemeler ve sabit gaz ücretlerini kaldırma planları da dahil olmak üzere bir önlem paketi önerdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
-    "ts": 1793171233000,
-    "tags": []
-   },
-   {
-    "t": "Ethiopia Takes Delivery of Russia Fighter Jets Ahead of Schedule",
-    "tt": "Etiyopya, Rusya Savaş Uçaklarını Planlanandan Önce Teslim Aldı",
-    "s": "Ethiopia has received 12 Su-35 fighter jets and four S-400 air defense system batteries from Russia, Prime Minister Abiy Ahmed announced during a visit to Moscow.",
-    "ss": "Başbakan Abiy Ahmed, Moskova ziyareti sırasında Etiyopya'nın Rusya'dan 12 adet Su-35 savaş uçağı ve 4 adet S-400 hava savunma sistemi bataryası aldığını duyurdu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ethiopia-takes-delivery-of-russia-fighter-jets-ahead-of-schedule",
-    "ts": 1793193479000,
+    "t": "Barclays Turns to Insurers to Hedge Billions of Data Center Debt",
+    "tt": "Barclays Milyarlarca Veri Merkezi Borcunu Korumak İçin Sigortacılara Başvuruyor",
+    "s": "Barclays Plc is looking to buy default protection on more than $10 billion of debt to finance artificial intelligence infrastructure in a bid to create capacity for more lending as hyperscaler funding needs soar.",
+    "ss": "Barclays Plc, hiper ölçekleyici finansman ihtiyaçları arttıkça daha fazla kredi verme kapasitesi yaratmak amacıyla yapay zeka altyapısını finanse etmek için 10 milyar dolardan fazla borç için varsayılan koruma satın almayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/barclays-turns-to-insurers-to-hedge-billions-of-data-center-debt",
+    "ts": 1793196028000,
     "tags": []
    }
   ],
@@ -568,6 +568,65 @@
   ],
   "MarketWatch": [
    {
+    "t": "These software stocks could be winners as earnings season kicks into high gear",
+    "tt": "Kazanç sezonu yüksek vitese girerken bu yazılım hisseleri kazananlar olabilir",
+    "s": "The bar is higher for software companies now that their stocks have been outperforming, but analysts identify some top picks whose results could shine through.",
+    "ss": "Yazılım şirketlerinin hisseleri daha iyi performans gösterdiği için çıta artık daha yüksek, ancak analistler sonuçları öne çıkabilecek bazı en iyi seçimleri belirliyor.",
+    "u": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
+    "ts": 1793199960000,
+    "tags": []
+   },
+   {
+    "t": "Heating your home with oil could cost $750 more this winter. Read this before you pay the price.",
+    "tt": "Evinizi yakıtla ısıtmak bu kış 750 dolar daha fazlaya mal olabilir. Bedelini ödemeden önce bunu okuyun.",
+    "s": "Heating-oil prices are at record highs. Washington’s answer is a loan you will never see and a pipeline that does not exist.",
+    "ss": "Kalorifer yakıtı fiyatları rekor seviyelerde. Washington'un cevabı asla göremeyeceğiniz bir kredi ve var olmayan bir boru hattıdır.",
+    "u": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
+    "ts": 1793199780000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+    "tt": "Vertiv'in kazançları, Büyük Teknoloji sonuçları öncesinde yapay zeka hakkında iyimser bir sinyal gönderdi",
+    "s": "Vertiv’s big sales beat affirms that the AI buildout is accelerating.",
+    "ss": "Vertiv'in büyük satış ritmi, yapay zeka gelişiminin hızlandığını doğruluyor.",
+    "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+    "ts": 1793199660000,
+    "tags": []
+   },
+   {
+    "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "tt": "Eşim 401(k)'da sadece 80.000 doları olduğunu öğrendiğimde ağladı. 2,2 milyon dolarım var. Şok olmakta haksız mıyım?",
+    "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+    "ss": "\"Geçen baharda emekli olmayı gündeme getirdiğimde, ne zaman istersem hazır olduğunu söyledi ve ben de bunu iyi durumda olduğumuz anlamına aldım.\"",
+    "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "ts": 1793198700000,
+    "tags": []
+   },
+   {
+    "t": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+    "tt": "'Yargıç Judy'yi izleyin': 70'li yaşlarımdayım. İnsanlar neden aynı önlenebilir finansal hataları yapmaya devam ediyor?",
+    "s": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+    "ss": "\"Kötü kararların bazı tanıdık örneklerini düşünün: kredi kartı borcu biriktirmek veya emeklilik planını yapamamak.\"",
+    "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+    "ts": 1793196960000,
+    "tags": []
+   },
+   {
+    "t": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+    "tt": "Komşularımıza ücretsiz ev onarımı konusunda yardım etmeyi bıraktık ve dostluğumuz soğudu. Kim suçlanacak?",
+    "s": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+    "ss": "\"Geçen yaz çatılarını değiştirmeleri gerektiğinden şikayet ettiler. Birkaç ay sonra yeni bir SUV aldılar.\"",
+    "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+    "ts": 1793196900000,
+    "tags": []
+   },
+   {
     "t": "‘When do I sell my stocks?’ Ignore the noise and focus on these things.",
     "tt": "‘Hisse senetlerimi ne zaman satarım?’ Gürültüyü bir kenara bırakın ve bunlara odaklanın.",
     "s": "Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects",
@@ -605,63 +664,59 @@
     "u": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
     "ts": 1793192040000,
     "tags": []
-   },
-   {
-    "t": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-    "tt": "Vertiv'in kazançları, Büyük Teknoloji sonuçları öncesinde yapay zeka hakkında iyimser bir sinyal gönderdi",
-    "s": "Vertiv’s big sales beat affirms that the AI buildout is accelerating.",
-    "ss": "Vertiv'in büyük satış ritmi, yapay zeka gelişiminin hızlandığını doğruluyor.",
-    "u": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-    "ts": 1793191680000,
-    "tags": []
-   },
-   {
-    "t": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
-    "tt": "70’li yaşlardayız. %2,5 ipoteğimizi mi ödemeliyiz yoksa tasarruflarımızı mı biriktirmeliyiz?",
-    "s": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-    "ss": "\"Diyelim ki bundan 10 yıl sonra, 84 yaşıma geldiğimde yüklü miktarda nakde ihtiyacımız olacak.\"",
-    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "ts": 1793191500000,
-    "tags": []
-   },
-   {
-    "t": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
-    "tt": "SK Hynix üçüncü çeyrek sonuçlarını açıkladı - ancak Wall Street ve AI ticareti için asıl önemli olan görünümdü",
-    "s": "South Korea memory-chip giant says supply constraints will last through 2030.",
-    "ss": "Güney Koreli hafıza çipi devi, tedarik kısıtlamalarının 2030'a kadar süreceğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
-    "ts": 1793190840000,
-    "tags": []
-   },
-   {
-    "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "tt": "Eşim 401(k)'da sadece 80.000 doları olduğunu öğrendiğimde ağladı. 2,2 milyon dolarım var. Şok olmakta haksız mıyım?",
-    "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    "ss": "\"Geçen baharda emekli olmayı gündeme getirdiğimde, ne zaman istersem hazır olduğunu söyledi ve ben de bunu iyi durumda olduğumuz anlamına aldım.\"",
-    "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "ts": 1793190600000,
-    "tags": []
-   },
-   {
-    "t": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    "tt": "İstismarcı eski kocam çocuklarımızın eğitimi için 20.000 dolar sözü verdi. Şimdi ödemeyi reddediyor. Yasal olarak yükümlü mü?",
-    "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-    "ss": "\"Boşanmadan önce eski kayınvalidem, kızlarımızın her biri adına yatırım yapması için ona 20.000 dolar emanet etti.\"",
-    "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-    "ts": 1793190600000,
-    "tags": []
-   },
-   {
-    "t": "The AI boom is starting to break time-tested stock-market signals",
-    "tt": "Yapay zeka patlaması zamanla test edilmiş borsa sinyallerini kırmaya başlıyor",
-    "s": "The relationship between gold and platinum used to be a reliable stock-market signal. Has artificial-intelligence spending caused it to short-circuit? Meanwhile, the Fed faces a big question of its own today.",
-    "ss": "Altın ve platin arasındaki ilişki eskiden güvenilir bir borsa sinyaliydi. Yapay zeka harcamaları kısa devreye neden oldu mu? Bu arada Fed bugün kendine ait büyük bir soruyla karşı karşıya.",
-    "u": "https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories",
-    "ts": 1793186700000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Coinbase Denies Systems Breach, Says Vendor Exposed Customer Data",
+    "tt": "Coinbase, Sistem İhlalini Reddetti, Tedarikçinin Müşteri Verilerini İfşa Ettiğini Söyledi",
+    "s": "Coinbase Denies Systems Breach, Says Vendor Exposed Customer Data Authored by Zoltan Vardai via Cointelegraph , Some Coinbase customers' contact information was exposed in a security incident at analytics vendor Amplitude , the exchange said Wednesday. The incident impacted a \"small subset\" of Coinb",
+    "ss": "Coinbase Sistem İhlalini Reddetti, Tedarikçinin Müşteri Verilerini İfşa Ettiğini Söyledi Cointelegraph aracılığıyla Zoltan Vardai tarafından yazılan borsa Çarşamba günü yaptığı açıklamada, bazı Coinbase müşterilerinin iletişim bilgilerinin analiz sağlayıcısı Amplitude'de meydana gelen bir güvenlik olayında açığa çıktığını söyledi. Olay Coinb'in \"küçük bir alt kümesini\" etkiledi",
+    "u": "https://www.zerohedge.com/crypto/coinbase-denies-systems-breach-says-vendor-exposed-customer-data",
+    "ts": 1793199600000,
+    "tags": []
+   },
+   {
+    "t": "World Peace",
+    "tt": "Dünya Barışı",
+    "s": "World Peace By Molly Schwartz, cross-asset macro strategist at Rabobank Wall Street traders walked into the office yesterday morning to see headlines that world peace was just beyond the horizon, as Turkish, Saudi, Qatari, and Pakistani officials wrapped up meetings in Tehran to try and bring an end",
+    "ss": "Dünya Barışı Yazan Molly Schwartz, Rabobank Wall Street'te varlık makro stratejisti",
+    "u": "https://www.zerohedge.com/markets/world-peace",
+    "ts": 1793198700000,
+    "tags": []
+   },
+   {
+    "t": "WTI Surges Back Near War Highs: Gasoline Inventories Surge, US Production Rebounds To Record High",
+    "tt": "WTI Savaşın En Yüksek Seviyelerine Yakın Yükseldi: Benzin Stokları Arttı, ABD Üretimi Rekor Seviyesine Yükseldi",
+    "s": "WTI Surges Back Near War Highs: Gasoline Inventories Surge, US Production Rebounds To Record High Oil prices rose Wednesday as traders focused on renewed threats to Middle East energy supplies after Yemen's Houthi militants said they targeted Saudi Arabia's largest oil refinery. The Houthis said Tue",
+    "ss": "WTI, Savaşın En Yüksek Seviyelerine Yakın Yükseldi: Benzin Stokları Arttı, ABD Üretimi Rekor Yüksek Seviyeye Yükseldi Petrol fiyatları Çarşamba günü, tüccarların Yemen'deki Husi militanlarının Suudi Arabistan'ın en büyük petrol rafinerisini hedeflediklerini söylemelerinin ardından Orta Doğu'daki enerji arzına yönelik yeni tehditlere odaklanmasıyla yükseldi. Husiler salı dedi",
+    "u": "https://www.zerohedge.com/energy/wti-surges-back-near-war-highs-gasoline-inventories-surge-us-production-rebounds-record-high",
+    "ts": 1793198400000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "European NatGas Crosses 100-Euro \"Psychological Mark\" As Winter Supply Fears Mount",
+    "tt": "Avrupa NatGas Kış Arzının Artmasından Korktukça 100 Euroluk \"Psikolojik İşareti\" Aştı",
+    "s": "European NatGas Crosses 100-Euro \"Psychological Mark\" As Winter Supply Fears Mount European natural gas prices hit triple-digit territory for the first time since December 2022. The energy-stricken continent has already begun drawing from critical stockpiles, with levels well below seasonal norms, a",
+    "ss": "Avrupa Doğal Gaz, Kış Arzı Korkusu Artarken 100 Euro'luk \"Psikolojik İşareti\" Aştı Avrupa doğal gaz fiyatları Aralık 2022'den bu yana ilk kez üç haneli seviyelere ulaştı. Enerji sıkıntısı çeken kıta, mevsimsel normallerin çok altındaki seviyelerle kritik stoklardan yararlanmaya başladı bile.",
+    "u": "https://www.zerohedge.com/energy/european-natgas-crosses-100-euro-psychological-mark-winter-supply-fears-mount",
+    "ts": 1793197800000,
+    "tags": []
+   },
+   {
+    "t": "First Images Show Flavio Bolsonaro Stepping Off Private Jet In Miami After Lula's Totalitarian Crackdown",
+    "tt": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıktı",
+    "s": "First Images Show Flavio Bolsonaro Stepping Off Private Jet In Miami After Lula's Totalitarian Crackdown Summary: First Images Of Bolsonaro&nbsp;Exiting Private Jet In Miami Brazil In Political Crisis?&nbsp; Bolsonaro Lands In Miami After Lula's Totalitarian Crackdown Threatens Political Crisis In B",
+    "ss": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıkarken Demokratlar, Amerika'nın Demokratik Sosyalistleri ve Alex Soros, Pazar günü Brezilya'nın sosyalist rejim lideri Luiz Inácio Lula da Silva'nın ikinci tur seçim zaferinin ardından tezahürat yapıyordu.",
+    "u": "https://www.zerohedge.com/geopolitical/flavio-bolsonaro-lands-miami-after-lulas-totalitarian-crackdown-threatens-political",
+    "ts": 1793197620000,
+    "tags": []
+   },
    {
     "t": "Trump Hints Trilateral Ukraine Peace Talks May Not Happen In Person",
     "tt": "Trump, Üçlü Ukrayna Barış Görüşmelerinin Şahsen Gerçekleşmeyebileceğine İşaret Etti",
@@ -706,59 +761,27 @@
     "u": "https://www.zerohedge.com/technology/chinese-humanoid-stocks-catch-bid-unitree-pulls-forward-breakthrough-timeline-jpm-turns",
     "ts": 1793194200000,
     "tags": []
-   },
-   {
-    "t": "Alexander Brothers Sentenced To 30 Years Each After Sex Trafficking Conviction",
-    "tt": "Alexander Kardeşler Seks Kaçakçılığı Mahkûmiyetinden Sonra Her Biri 30'ar Yıl Hapse Mahkûm Edildi",
-    "s": "Alexander Brothers Sentenced To 30 Years Each After Sex Trafficking Conviction Authored by Kimberly Hayek via The Epoch Times , Three brothers guilty of luring women to parties where they were drugged and raped have each been sentenced to 30 years in prison . Oren and Tal Alexander co-founded the lu",
-    "ss": "Alexander Kardeşlerin Her Biri Seks Kaçakçılığı Mahkûmiyetinden Sonra 30'ar Yıl Hapse Mahkûm Edildi Kimberly Hayek tarafından The Epoch Times aracılığıyla yazılmıştır. Kadınları uyuşturuldukları ve tecavüze uğradıkları partilere çekmekten suçlu olan üç erkek kardeşin her biri 30'ar yıl hapis cezasına çarptırıldı. Oren ve Tal Alexander lu'yu kurdular",
-    "u": "https://www.zerohedge.com/medical/alexander-brothers-sentenced-30-years-each-after-sex-trafficking-conviction",
-    "ts": 1793193300000,
-    "tags": []
-   },
-   {
-    "t": "Flavio Bolsonaro Lands In Miami After Lula's Totalitarian Crackdown Threatens Political Crisis In Brazil",
-    "tt": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıktı",
-    "s": "Flavio Bolsonaro Lands In Miami After Lula's Totalitarian Crackdown Threatens Political Crisis In Brazil Polymarket : Will the US grant Flávio Bolsonaro political asylum in 2026? * &nbsp; * &nbsp; * &nbsp; Video: Flávio Bolsonaro Lands in Miami&nbsp; 🚨 JUST IN: RIGHT-WING FLAVIO BOLSONARO reportedly",
-    "ss": "Flavio Bolsonaro, Lula'nın Totaliter Baskısının Brezilya'daki Siyasi Krizi Tehdit Etmesinin Ardından Miami'ye Çıkarken Demokratlar, Amerika'nın Demokratik Sosyalistleri ve Alex Soros, Pazar günü Brezilya'nın sosyalist rejim lideri Luiz Inácio Lula da Silva'nın ikinci tur seçim zaferinin ardından tezahürat yapıyordu.",
-    "u": "https://www.zerohedge.com/geopolitical/flavio-bolsonaro-lands-miami-after-lulas-totalitarian-crackdown-threatens-political",
-    "ts": 1793192400000,
-    "tags": []
-   },
-   {
-    "t": "Watchdog Calls Out Deep State Leftist Operatives At The IRS",
-    "tt": "Watchdog, IRS'deki Derin Devletin Solcu Operatörlerini Çağırıyor",
-    "s": "Watchdog Calls Out Deep State Leftist Operatives At The IRS Authored by Jordan Schachtel via The Dossier , With the midterms exactly one week away, and control of the House and Senate in the balance, it's more critical than ever for a Republican president to ensure that Democrat operatives don't hav",
-    "ss": "Watchdog, IRS'deki Derin Devletin Solcu Operatörlerine Sesleniyor Jordan Schachtel tarafından The Dossier aracılığıyla yazıldı, Ara seçimlere tam olarak bir hafta kala ve Temsilciler Meclisi ile Senato'nun kontrolü dengedeyken, Cumhuriyetçi bir başkanın Demokrat ajanların",
-    "u": "https://www.zerohedge.com/political/watchdog-calls-out-deep-state-leftist-operatives-irs",
-    "ts": 1793190600000,
-    "tags": []
-   },
-   {
-    "t": "Israel Faces Political Deadlock After Netanyahu's Better Than Expected Comeback, Trump Hails 'Win'",
-    "tt": "İsrail, Netanyahu'nun Beklenenden Daha İyi Geri Dönüşünün Ardından Siyasi Çıkmazla Karşı Karşıya, Trump 'Kazanmayı' Memnun Ediyor",
-    "s": "Israel Faces Political Deadlock After Netanyahu's Better Than Expected Comeback, Trump Hails 'Win' At over 84% of the vote counted - or more than four million - both main rival parties have fallen short of achieving a majority in parliament and therefore a mandate to govern . However, by all account",
-    "ss": "Netanyahu'nun Beklenenden Daha İyi Geri Dönüşünün Ardından İsrail Siyasi Çıkmazla Karşı Karşıya, Trump 'Kazanmayı' Memnun Ediyor Sayılan oyların %84'ünden fazlası - yani dört milyonun üzerinde - her iki ana rakip parti de parlamentoda çoğunluğu ve dolayısıyla yönetme yetkisini elde etmekte yetersiz kaldı. Ancak her açıdan",
-    "u": "https://www.zerohedge.com/geopolitical/israel-braces-post-election-gridlock-after-netanyahus-better-expected-comeback-trump",
-    "ts": 1793190000000,
-    "tags": []
-   },
-   {
-    "t": "Futures Rise As Hynix-Fueled Memory Mania Revives AI Trade Ahead Of Fed, Big Tech; Oil Jumps",
-    "tt": "Hynix'in Desteklediği Hafıza Çılgınlığı Fed ve Büyük Teknolojinin Önünde Yapay Zeka Ticaretini Canlandırırken Vadeli İşlemler Yükseliyor; Petrol Sıçramaları",
-    "s": "Futures Rise As Hynix-Fueled Memory Mania Revives AI Trade Ahead Of Fed, Big Tech; Oil Jumps US futures are higher, if only in Nasdaq terms, as a memory-chip frenzy sparked by SK Hynix's blowout results revives the AI trade ahead of today's Fed decision and tonight's Alphabet and Microsoft earnings,",
-    "ss": "Hynix'in Desteklediği Hafıza Çılgınlığı Fed ve Büyük Teknolojinin Önünde Yapay Zeka Ticaretini Canlandırırken Vadeli İşlemler Yükseliyor; Petrol Sıçrayıyor ABD vadeli işlemleri, Nasdaq açısından da olsa, SK Hynix'in patlama sonuçlarının yol açtığı hafıza çipi çılgınlığının bugünkü Fed kararı ve bu geceki Alphabet ve Microsoft kazançları öncesinde yapay zeka ticaretini canlandırmasıyla daha yüksek.",
-    "u": "https://www.zerohedge.com/markets/futures-rise-hynix-fueled-memory-mania-revives-ai-trade-ahead-fed-big-tech-oil-jumps",
-    "ts": 1793189460000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Dünya Bankası, emtia fiyatlarının 2026'da yüzde 23 artmasını bekliyor",
+    "tt": null,
+    "s": "Dünya Bankası, küresel şokların artmasıyla emtia fiyatlarının 2026'da yüzde 23,1 yükselmesinin beklendiğini bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dunya-bankasi-emtia-fiyatlarinin-2026-da-yuzde-23-artmasini-bekliyor-3792730",
+    "ts": 1793197250000,
+    "tags": []
+   },
+   {
+    "t": "YTM'den Tera Yatırım Menkul Değerler'e ilişkin tasfiye süreci duyurusu",
+    "tt": null,
+    "s": "Yatırımcı Tazmin Merkezi (YTM) Tera Yatırım Menkul Değerler'in tedrici tasfiye süreciyle ilgili duyuru yayımladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ytm-den-tera-yatirim-menkul-degerler-e-iliskin-tasfiye-sureci-duyurusu-3792729",
+    "ts": 1793196239000,
+    "tags": []
+   },
    {
     "t": "Healey: Birleşik Krallık ekonomisi 2027'de yavaşlayacak",
     "tt": null,
@@ -829,24 +852,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/merrill-lynch-international-sekerbank-taki-payini-ikiye-katladi-3792717",
     "ts": 1793168045000,
-    "tags": []
-   },
-   {
-    "t": "WSJ: ABD Körfez ülkelerini İran'a yeni saldırı için uyardı",
-    "tt": null,
-    "s": "Wall Street Journal'ın konu hakkında bilgi sahibi kaynaklara dayandırdığı haberine göre, ABD birkaç Körfez Arap ülkesine ara seçimlerin ardından kısa ve yoğun bir askeri harekata hazırlıklı olmaları gerektiğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/wsj-abd-korfez-ulkelerini-irana-yeni-saldiri-icin-uyardi-3792716",
-    "ts": 1793166759000,
-    "tags": []
-   },
-   {
-    "t": "Fed toplantısı öncesi ipuçları",
-    "tt": null,
-    "s": "Küresel piyasalarda dikkatler Fed toplantısına çevrilirken, piyasa aktörleri gelecek yönlendirmeye yönelik işaretlere odaklandı. İşte karar öncesi öne çıkan detaylar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fed-toplantisi-oncesi-ipuclari-3792715",
-    "ts": 1793166609000,
     "tags": []
    }
   ]
