@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T05:33:39.500407+00:00",
+ "generated": "2026-10-28T06:14:51.797462+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4049.9,
-   "c": -0.61,
-   "d": -24.7,
+   "p": 4043.0,
+   "c": -0.78,
+   "d": -31.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.015,
-   "c": -0.51,
-   "d": -0.278,
+   "p": 53.885,
+   "c": -0.75,
+   "d": -0.408,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.29,
-   "c": 1.39,
-   "d": 1.39,
+   "p": 101.45,
+   "c": 1.55,
+   "d": 1.55,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.89,
-   "c": -2.63,
-   "d": -2.99,
+   "p": 111.09,
+   "c": -2.45,
+   "d": -2.79,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.416,
-   "c": 0.09,
-   "d": 0.096,
+   "p": 102.432,
+   "c": 0.11,
+   "d": 0.112,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8107,
+   "p": 49.8089,
    "c": 0.06,
-   "d": 0.03,
+   "d": 0.028,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80843,
-   "c": 1.46,
+   "p": 80816,
+   "c": 1.25,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2353.15,
-   "c": 2.03,
+   "p": 2350.88,
+   "c": 1.77,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 101.89,
-   "c": 2.19,
+   "p": 101.9,
+   "c": 2.03,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.33,
-   "c": 2.59,
+   "c": 2.06,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 744.75,
-   "c": 1.16,
+   "p": 744.38,
+   "c": 0.98,
    "k": "usd"
   }
  ],
@@ -384,6 +384,44 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Tech Stocks Rally After Hynix Earnings, Oil Gains: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
+    "s": "Tech shares climbed across Asia, led by those in South Korea, after blowout earnings from chip heavyweight SK Hynix Inc. prompted investors to charge back into the artificial intelligence trade.",
+    "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793138947000,
+    "tags": []
+   },
+   {
+    "t": "Deutsche Bank’s Fixed-Income Trading Meets Estimate in Quarter",
+    "tt": "Deutsche Bank'ın Sabit Getirili Alım Satım İşlemleri Çeyrek Ayında Tahmini Karşıladı",
+    "s": "Deutsche Bank AG’s revenue from fixed-income trading declined in the third quarter, meeting analyst estimates.",
+    "ss": "Deutsche Bank AG'nin sabit getirili ticaretten elde ettiği gelir üçüncü çeyrekte analist tahminlerini karşılayarak düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/deutsche-bank-s-fixed-income-trading-meets-estimate-in-quarter",
+    "ts": 1793167310000,
+    "tags": []
+   },
+   {
+    "t": "Weaker Euro Boosts European Exporters as Earnings Season Peaks",
+    "tt": "Zayıf Euro, Kazanç Sezonunda Zirveye Ulaşırken Avrupalı ​​İhracatçıları Artırıyor",
+    "s": "The dollar’s rebound is good news for shares in European exporters, just as companies enter the busiest stretch of the third-quarter reporting season.",
+    "ss": "Şirketler üçüncü çeyrek raporlama sezonunun en yoğun dönemine girerken doların toparlanması Avrupalı ​​ihracatçıların hisseleri için iyi bir haber.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/weaker-euro-boosts-european-exporters-as-earnings-season-peaks",
+    "ts": 1793166540000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Ambani Sheds Tears as India’s Richest Family Hails Jio Debut Pop",
+    "tt": "Hindistan'ın En Zengin Ailesi Jio'nun İlk Popunu Selamlarken Ambani Gözyaşları Döktü",
+    "s": "Jio Platforms Ltd.’s stock market debut was an emotional moment for Mukesh Ambani, 69, as four generations of India’s wealthiest business dynasty came together to ring the opening bell.",
+    "ss": "Jio Platforms Ltd.'nin borsaya çıkışı, 69 yaşındaki Mukesh Ambani için duygusal bir an oldu; Hindistan'ın en zengin iş hanedanının dört nesli açılış zilini çalmak için bir araya geldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-sheds-tears-as-india-s-richest-family-hails-jio-debut-pop",
+    "ts": 1793166145000,
+    "tags": []
+   },
+   {
     "t": "Copper Wavers Near Two-Week High as Traders Look to Fed Meeting",
     "tt": "Bakır, Yatırımcıların Fed Toplantısına Bakmasıyla İki Haftanın En Yüksek Seviyesine Yakın Dalgalanıyor",
     "s": "Copper traded near its highest close in two weeks as traders braced for the Federal Reserve’s decision on interest rates.",
@@ -411,30 +449,12 @@
     "tags": []
    },
    {
-    "t": "Tech Stocks Rally After Hynix Earnings, Oil Gains: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Yeniden Yükselen Yapay Zeka İyimserliğiyle Kazanmaya Hazır: Piyasalar İyileşiyor",
-    "s": "Tech shares climbed across Asia, led by those in South Korea, after blowout earnings from chip heavyweight SK Hynix Inc. prompted investors to charge back into the artificial intelligence trade.",
-    "ss": "Asya borsaları Çarşamba günü yükselmeye hazır görünüyordu ve yapay zekaya yönelik yenilenen ilginin endüstri devlerinin kazançları ve Federal Reserve'ün faiz kararı öncesinde hisse senetlerini artırmasıyla Wall Street'teki kazanımları takip etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793138947000,
-    "tags": []
-   },
-   {
     "t": "Your Portfolio Reset: How Investors Should Think About The Next Decade",
     "tt": "Portföy Sıfırlamanız: Yatırımcılar Gelecek On Yıl Hakkında Nasıl Düşünmeli?",
     "s": "The forces that powered the last 10 years are shifting. Here’s how to prepare for what comes next.&nbsp;",
     "ss": "Son 10 yıla güç veren güçler değişiyor. İşte bundan sonra olacaklara nasıl hazırlanacağınız. ",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/your-portfolio-reset-how-investors-should-think-about-the-next-decade",
     "ts": 1793163620000,
-    "tags": []
-   },
-   {
-    "t": "Rome’s Mayor Rules Out ‘Venice-Like’ Entrance Fee for Tourists",
-    "tt": "Roma Belediye Başkanı Turistlere 'Venedik Benzeri' Giriş Ücretini Reddetti",
-    "s": "Rome can best preserve the character of its 3,000-year-old city center with measures like restricting short-term rentals, rather than by increasing taxes imposed on visitors, mayor Roberto Gualtieri said.",
-    "ss": "Belediye Başkanı Roberto Gualtieri, Roma'nın 3000 yıllık şehir merkezinin karakterini, ziyaretçilere uygulanan vergileri artırmak yerine kısa süreli kiralamaları kısıtlamak gibi önlemlerle en iyi şekilde koruyabileceğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/rome-s-mayor-rules-out-venice-like-entrance-fee-for-tourists",
-    "ts": 1793163600000,
     "tags": []
    },
    {
@@ -453,26 +473,6 @@
     "ss": "Başkan Ferdinand Marcos Jr., bu hafta rekor düşük bir değere gerileyen pesoyu korumak için Filipinli yetkililerin ellerinden geleni yapacaklarının sözünü verdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/php-usd-marcos-pledges-to-do-all-we-can-to-defend-philippine-peso",
     "ts": 1793161724000,
-    "tags": []
-   },
-   {
-    "t": "Aussie-Kiwi Rates Split Drives Biggest Currency Move in 9 Years",
-    "tt": "RBNZ'de Yeni Zelanda Doları Avustralya Doları karşısında 2017'den bu yana en büyük düşüşünü yaşadı",
-    "s": "New Zealand’s dollar slid the most in nine years against its Australian peer after the smaller nation’s central bank unexpectedly kept policy rates on hold, while cost pressures across the Tasman accelerated.",
-    "ss": "Yeni Zelanda doları, merkez bankasının beklenmedik bir şekilde politika faizini sabit tutarak ekonomistlerin faiz artırımı tahminlerine meydan okumasının ardından değer kaybetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/new-zealand-dollar-slides-most-versus-aussie-since-2017-on-rbnz",
-    "ts": 1793152236000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "China Robot Stocks Extend Rally With Unitree Earnings in Focus",
-    "tt": "Çin Robot Hisseleri, Odak Noktasında Unitree Kazançları Varken Yükselişini Genişletiyor",
-    "s": "Chinese robotic stocks extended a recent rally spurred by expectations of shorter timelines for mass deployment, with upcoming earnings from industry leader Yushu Technology Co. poised to provide another boost.",
-    "ss": "Çin robotik hisseleri, toplu dağıtım için daha kısa zaman çizelgeleri beklentilerinin teşvik ettiği son yükselişini sürdürürken, endüstri lideri Yushu Technology Co.'nun gelecek kazançları da yeni bir destek sağlamaya hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/china-robot-stocks-extend-rally-with-unitree-earnings-in-focus",
-    "ts": 1793162493000,
     "tags": []
    }
   ],
@@ -662,6 +662,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Spain, Brazil 'Allies In Global Progressivism' Says Lula After Sánchez Congratulates Him On Election Victory",
+    "tt": "Lula, Sanchez'in Seçim Zaferinden Dolayı Kendisini Kutlamasının Ardından İspanya ve Brezilya'nın 'Küresel İlerlemeciliğin Müttefikleri' Olduğunu Söyledi",
+    "s": "Spain, Brazil 'Allies In Global Progressivism' Says Lula After Sánchez Congratulates Him On Election Victory Authored by Remix News Staff via Remix , Following his victory in the second round of Brazil's presidential election, President Luiz Inácio Lula da Silva thanked Spanish Prime Minister Pedro ",
+    "ss": "İspanya ve Brezilya, Sanchez'in Seçim Zaferini Kutlamasının Ardından Lula'ya 'Küresel İlerlemeciliğin Müttefikleri' Diyor Remix Haber Ekibi tarafından Remix aracılığıyla yazıldı, Brezilya cumhurbaşkanlığı seçimlerinin ikinci turundaki zaferinin ardından Başkan Luiz Inácio Lula da Silva, İspanya Başbakanı Pedro'ya teşekkür etti",
+    "u": "https://www.zerohedge.com/geopolitical/spain-brazil-allies-global-progressivism-says-lula-after-sanchez-congratulates-him",
+    "ts": 1793167200000,
+    "tags": []
+   },
+   {
     "t": "Alastair Crooke: The Iran War & The 'Terrible Power Of The Purse'",
     "tt": "Alastair Crooke: İran Savaşı ve 'Çantanın Korkunç Gücü'",
     "s": "Alastair Crooke: The Iran War &amp; The 'Terrible Power Of The Purse' Authored by Alastair Crooke The “Grand Design” to “maintain [western civilization’s] place at the head of the world” (as U.S. Secretary of State Marco Rubio put it ) requires the tools for ensuring compliance are two-fold: The cre",
@@ -741,18 +750,45 @@
     "u": "https://www.zerohedge.com/political/dozens-immigrants-charged-illegal-voting-fraudulent-voter-registration",
     "ts": 1793146800000,
     "tags": []
-   },
-   {
-    "t": "\"Never-Ending\" Cruise Hits Dead End: Passengers Stranded In Cambodia As Fuel Bill Sinks Voyage",
-    "tt": "\"Hiç Bitmeyen\" Yolculuk Çıkmaz Sokağa Vurdu: Yakıt Faturası Yolculukta Düşerken Yolcular Kamboçya'da Mahsur Kaldı",
-    "s": "\"Never-Ending\" Cruise Hits Dead End: Passengers Stranded In Cambodia As Fuel Bill Sinks Voyage Villa Vie Residences suspended operations of its 650-passenger residential cruise ship on Tuesday, citing \" extraordinary \" fuel costs that have placed its business model under unsustainable financial pres",
-    "ss": "\"Hiç Bitmeyen\" Gemi Yolculuğu Çıkmaza Girdi: Yakıt Faturası Bitince Yolcular Kamboçya'da Mahsur Kaldı Voyage Villa Vie Residences, iş modelini sürdürülemez mali duruma sokan \"olağanüstü\" yakıt maliyetlerini gerekçe göstererek 650 yolcu kapasiteli yolcu gemisinin faaliyetlerini Salı günü askıya aldı",
-    "u": "https://www.zerohedge.com/energy/never-ending-cruise-hits-dead-end-passengers-stranded-cambodia-fuel-bill-sinks-voyage",
-    "ts": 1793145600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Merrill Lynch International Şekerbank'taki payını ikiye katladı",
+    "tt": null,
+    "s": "Bank of America'nın iştiraki Merrill Lynch International Şekerbank'taki payını yüzde 1,607 seviyesinden yüzde 3,248 seviyesine yükseltti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/merrill-lynch-international-sekerbank-taki-payini-ikiye-katladi-3792717",
+    "ts": 1793168045000,
+    "tags": []
+   },
+   {
+    "t": "WSJ: ABD Körfez ülkelerini İran'a yeni saldırı için uyardı",
+    "tt": null,
+    "s": "Wall Street Journal'ın konu hakkında bilgi sahibi kaynaklara dayandırdığı haberine göre, ABD birkaç Körfez Arap ülkesine ara seçimlerin ardından kısa ve yoğun bir askeri harekata hazırlıklı olmaları gerektiğini söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/wsj-abd-korfez-ulkelerini-irana-yeni-saldiri-icin-uyardi-3792716",
+    "ts": 1793166759000,
+    "tags": []
+   },
+   {
+    "t": "Fed toplantısı öncesi ipuçları",
+    "tt": null,
+    "s": "Küresel piyasalarda dikkatler Fed toplantısına çevrilirken, piyasa aktörleri gelecek yönlendirmeye yönelik işaretlere odaklandı. İşte karar öncesi öne çıkan detaylar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fed-toplantisi-oncesi-ipuclari-3792715",
+    "ts": 1793166609000,
+    "tags": []
+   },
+   {
+    "t": "Küresel piyasalar Fed kararına odaklandı",
+    "tt": null,
+    "s": "Fed'in faizleri sabit tutması beklenirken, Aralık ayında olası bir artışa ilişkin sinyal verip vermeyeceği izlenecek.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalar-fed-kararina-odaklandi-3792714",
+    "ts": 1793166317000,
+    "tags": []
+   },
    {
     "t": "Altın, Fed kararı öncesinde 4 bin doların üzerinde tutundu",
     "tt": null,
@@ -805,42 +841,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-28-ekim-2026-3792708",
     "ts": 1793154942000,
-    "tags": []
-   },
-   {
-    "t": "Google DeepMind, yapay zeka modeli Genie 4'ü tanıttı",
-    "tt": null,
-    "s": "Google DeepMind, metin komutlarıyla gerçek zamanlı sanal dünya üreten yeni yapay zeka modeli Genie 4'ü tanıttı. Google DeepMind Genie 4, yapay zekanın sanal ortamlar oluşturma yeteneklerini bir adım ileri taşıyarak sanal dünyaya ses, doğal insan hareketleri ve etkileşimli diyaloglar kazandırıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/google-deepmind-yapay-zeka-modeli-genie-4-u-tanitti-3792707",
-    "ts": 1793136324000,
-    "tags": []
-   },
-   {
-    "t": "Resmi Gazete'de bugün (28.10.2026)",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-28102026-3792706",
-    "ts": 1793135047000,
-    "tags": []
-   },
-   {
-    "t": "Aselsan'ın üçüncü çeyrek net kârı beklentileri aştı",
-    "tt": null,
-    "s": "Aselsan, 2026 yılının üçüncü çeyreğinde 11,2 milyar TL net kâr açıklayarak 8,9 milyar TL'lik piyasa konsensüsünün üzerinde bir performans sergiledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/aselsan-in-ucuncu-ceyrek-net-kari-beklentileri-asti-3792704",
-    "ts": 1793130290000,
-    "tags": []
-   },
-   {
-    "t": "Fon soruşturmasında 4 şüpheli hakimliğe sevk edildi",
-    "tt": null,
-    "s": "Sermaye piyasalarına yönelik yürütülen fon soruşturmasında gözaltına alınan 4 şüpheliden 2'si tutuklama talebiyle hakimliğe sevk edildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fon-sorusturmasinda-4-supheli-hakimlige-sevk-edildi-3792703",
-    "ts": 1793126034000,
     "tags": []
    }
   ]
