@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T06:01:40.400841+00:00",
+ "generated": "2026-10-29T07:14:34.771652+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4040.0,
-   "c": -0.29,
-   "d": -11.6,
+   "p": 4047.1,
+   "c": -0.11,
+   "d": -4.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.02,
-   "c": -0.82,
-   "d": -0.437,
+   "p": 52.99,
+   "c": -0.87,
+   "d": -0.467,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.33,
-   "c": -1.41,
-   "d": -1.45,
+   "p": 101.54,
+   "c": -1.21,
+   "d": -1.24,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.12,
-   "c": -4.51,
-   "d": -5.2,
+   "p": 110.3,
+   "c": -4.35,
+   "d": -5.02,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.234,
-   "c": 0.04,
-   "d": 0.044,
+   "p": 102.24,
+   "c": 0.05,
+   "d": 0.05,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8302,
-   "c": 0.06,
-   "d": 0.031,
+   "p": 49.8334,
+   "c": 0.07,
+   "d": 0.034,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80152,
-   "c": -0.81,
+   "p": 79817,
+   "c": -1.25,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2320.96,
-   "c": -1.21,
+   "p": 2307.2,
+   "c": -1.87,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.25,
-   "c": -1.46,
+   "p": 99.78,
+   "c": -2.09,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.3,
-   "c": -1.97,
+   "p": 1.29,
+   "c": -2.57,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 754.57,
-   "c": 1.36,
+   "p": 750.75,
+   "c": 0.92,
    "k": "usd"
   }
  ],
@@ -384,6 +384,61 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Shell Reports Second-Highest Profit Ever as Refining Hits Record",
+    "tt": null,
+    "s": "Shell Plc reported the second-highest profit in its history on the back of record oil refining margins as the Iran war and the Russia-Ukraine conflict deprive the world of fuel-making capacity.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shell-reports-second-highest-profit-ever-as-refining-hits-record",
+    "ts": 1793257576000,
+    "tags": []
+   },
+   {
+    "t": "Hong Kong Housing Secretary Quits After Inquiry Into Deadly Fire",
+    "tt": null,
+    "s": "Hong Kong’s leader John Lee said his housing secretary has stepped down over the city’s deadliest fire in decades, as pressure mounted on his government to hold officials to account.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hong-kong-housing-secretary-quits-after-inquiry-into-deadly-fire",
+    "ts": 1793257542000,
+    "tags": []
+   },
+   {
+    "t": "Tech Rally Stalls as Earnings Disappoint, Oil Dips: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
+    "s": "A global rally in technology shares stalled after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns.",
+    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793225507000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲",
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Gold Dips to Near $4,000 as Fed Holds Rates With Little Guidance",
+    "tt": null,
+    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+    "ts": 1793231042000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "FTSE 100 Live: UK Stock Futures Edge Higher to Dodge AI Selloff",
+    "tt": null,
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/live-blog/2026-10-29/ftse-100-live-updates-pound-gilts-shell-lloyds-wpp-ecb-rates-ai-stocks-gbp-healey-budget-what-s-moving-uk-markets-right-now-markets-today",
+    "ts": 1793256488000,
+    "tags": []
+   },
+   {
     "t": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
     "tt": "Healey İngiltere Bütçesini Savundu, Önümüzde 'Zor Kararlar' Uyardı",
     "s": "Chancellor of the Exchequer John Healey defended his first budget against criticism that it lacked ambition, while warning the UK would face “tough decisions” about its spending priorities in the years ahead. Speaking to Bloomberg’s Caroline Hepker, Healey said a tax increase on banks would be tempo",
@@ -400,19 +455,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/jio-s-halo-brightens-momentum-for-mega-deals-in-india-pipeline",
     "ts": 1793252950000,
     "tags": []
-   },
-   {
-    "t": "Stocks Pare Tech-Led Losses, Crude Oil Declines: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "Technology stocks trimmed their losses as the European session neared, after disappointing earnings from two industry heavyweights earlier revived doubts over whether billions of dollars in AI spending will deliver sufficient returns. Oil fell.",
-    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793225507000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼",
-     "DXY ▼"
-    ]
    },
    {
     "t": "Anthropic IPO: How Investors in Asia Can Get In",
@@ -445,44 +487,6 @@
     "u": "https://www.bloomberg.com/news/videos/2026-10-29/the-asia-trade-10-29-2026-video",
     "ts": 1793250808000,
     "tags": []
-   },
-   {
-    "t": "Chinese Tech Stocks Sink Even as Chipmaker Sales Surge 1,800%",
-    "tt": "Çin Teknoloji Hisseleri, Chipmaker Satışlarının %1.800 Artmasına Rağmen Düştü",
-    "s": "Chinese tech hardware shares tumbled as impressive quarterly results at some companies failed to offset persistent concerns over fundamentals and weak global AI sentiment.",
-    "ss": "Çin teknoloji donanım hisseleri, bazı şirketlerin üç aylık çarpıcı sonuçlarının, temel unsurlara ilişkin ısrarcı endişeleri ve zayıf küresel yapay zeka duyarlılığını dengelemede başarısız olmasıyla düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/chinese-tech-stocks-sink-even-as-chipmaker-sales-surge-1-800",
-    "ts": 1793248143000,
-    "tags": []
-   },
-   {
-    "t": "Henderson Land: HK Home Market Resilient to High Rates",
-    "tt": "Henderson Land: HK İç Piyasası Yüksek Faizlere Dayanıklı",
-    "s": "Andrew Fung, CFO at Henderson Land, discusses the impact of higher interest rates on Hong Kong's property market. He also says rental yields are supporting the housing market in the financial hub. He speaks exclusively on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
-    "ss": "Henderson Land CFO'su Andrew Fung, yüksek faiz oranlarının Hong Kong emlak piyasası üzerindeki etkisini tartışıyor. Ayrıca kira getirilerinin finans merkezindeki konut piyasasını desteklediğini söylüyor. Yalnızca \"Bloomberg: The China Show\"da konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/henderson-land-hk-home-market-resilient-to-high-rates-video",
-    "ts": 1793247115000,
-    "tags": []
-   },
-   {
-    "t": "Japan 2-Year Bond Sale Sees Firm Demand Before BOJ Decision",
-    "tt": "Japonya’nın İki Yıllık Tahvil Satış Talebi 12 Aylık Ortalamadan Daha Güçlü",
-    "s": "Japan’s two-year government bond auction drew firm demand, as elevated yields attracted investors ahead of a Bank of Japan policy decision on Friday, where rates are widely expected to remain unchanged.",
-    "ss": "Japonya'nın Perşembe günkü iki yıllık devlet tahvili ihalesi, artan getirilerin alımları desteklemesiyle 12 aylık ortalamanın üzerinde talep gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average",
-    "ts": 1793245083000,
-    "tags": []
-   },
-   {
-    "t": "HK Dollar Peg Architect Says Narrower Band May Ease Speculation",
-    "tt": "HK Dollar Peg Architect, Dar Bandın Spekülasyonları Kolaylaştırabileceğini Söyledi",
-    "s": "Narrowing the Hong Kong dollar’s trading band against the US greenback may enhance stability and reassure the public if such a move were ever implemented, according to John Greenwood, the economist dubbed the father of the city’s currency peg.",
-    "ss": "Şehrin sabit döviz kurunun babası olarak anılan ekonomist John Greenwood'a göre, Hong Kong dolarının ABD doları karşısında işlem bandının daraltılması istikrarı artırabilir ve böyle bir hamlenin uygulanması halinde kamuoyuna güven verebilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hk-dollar-peg-architect-says-narrower-band-may-ease-speculation",
-    "ts": 1793240144000,
-    "tags": [
-     "DXY ▲"
-    ]
    }
   ],
   "CNBC": [
@@ -673,6 +677,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Italy's Meloni Freezes New Military Aid Package For Ukraine, Pending US Midterm Outcome",
+    "tt": null,
+    "s": "Italy's Meloni Freezes New Military Aid Package For Ukraine, Pending US Midterm Outcome Ongoing White House pressure on Ukraine's Zelensky is having a chilling effect . After the US throttled its intelligence-sharing and weapons flows while demanding Ukraine halt strikes on Russian oil refineries, m",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/italys-meloni-freezes-new-military-aid-package-ukraine-pending-us-midterm-outcome",
+    "ts": 1793256300000,
+    "tags": []
+   },
+   {
     "t": "The Fall Of Europe",
     "tt": "Avrupa'nın Çöküşü",
     "s": "The Fall Of Europe Authored by Milton Madriz Cedeño via The Daily Sceptic , Europe is falling because it has confused the management of inherited wealth with the ability to create new wealth. Part of its political leadership turned public spending, proliferating rules, excessive regulation and presu",
@@ -752,18 +765,18 @@
     "u": "https://www.zerohedge.com/political/arrested-assistant-principal-resigns-after-12-year-olds-softball-brawl-left-dad",
     "ts": 1793233800000,
     "tags": []
-   },
-   {
-    "t": "More Americans Are Falling For Romance Scams. Here's How They Entice You...",
-    "tt": "Daha Fazla Amerikalı Romantik Dolandırıcılıklara Kanıyor. İşte Sizi Nasıl Baştan Çıkarıyorlar...",
-    "s": "More Americans Are Falling For Romance Scams. Here's How They Entice You... Authored by Chris Summers and Eva Fu via The Epoch Times , Romance scams make up a large share of fraud perpetrated against Americans , with scammers often contacting victims through online dating apps, social media, or prof",
-    "ss": "Daha Fazla Amerikalı Romantik Dolandırıcılıklara Kanıyor. İşte Sizi Nasıl Baştan Çıkarıyorlar... The Epoch Times aracılığıyla Chris Summers ve Eva Fu tarafından yazıldı , Romantik dolandırıcılıklar, Amerikalılara karşı işlenen dolandırıcılıkların büyük bir kısmını oluşturuyor , dolandırıcılar genellikle kurbanlarla çevrimiçi flört uygulamaları, sosyal medya veya profesyoneller aracılığıyla iletişime geçiyor",
-    "u": "https://www.zerohedge.com/personal-finance/more-americans-are-falling-romance-scams-heres-how-they-entice-you",
-    "ts": 1793232300000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "AMB'nin faizleri sabit tutması bekleniyor",
+    "tt": null,
+    "s": "Avrupa Merkez Bankası'nın (AMB), Fransa tahvil piyasasındaki çalkantı ve enerji fiyatlarındaki yükselişin yarattığı belirsizlikler nedeniyle politika faizini yüzde 2,5 seviyesinde sabit tutması bekleniyor. Ekonomistler, bankanın aralık ayında yılın üçüncü ve son faiz artışına gideceğini öngörüyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/amb-nin-faizleri-sabit-tutmasi-bekleniyor-3792788",
+    "ts": 1793257529000,
+    "tags": []
+   },
    {
     "t": "Alphabet'in kârında yüzde 25'lik artış",
     "tt": null,
@@ -771,6 +784,24 @@
     "ss": null,
     "u": "https://www.bloomberght.com/alphabet-in-krinda-yuzde-25-lik-artis-3792785",
     "ts": 1793228353000,
+    "tags": []
+   },
+   {
+    "t": "Altın fiyatları: 29 Ekim 2026 Perşembe gram altın ne kadar oldu? Çeyrek altın kaç TL'den satılıyor?",
+    "tt": null,
+    "s": "Altının onsu 29 Ekim 2026 Perşembe günü 4,035 dolardan işlem görürken gram altın 6.458,90 TL olarak güne başladı. Çeyrek altın 10.560,31 liradan Cumhuriyet altını ise 42.112,05 liradan işlem görüyor. Altın fiyatlarındaki son gelişmeler hakkında anında bilgi sahibi olmak istiyorsanız haberimizi takip",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altin-fiyatlari-29-ekim-2026-persembe-gram-altin-ne-kadar-oldu-ceyrek-altin-kac-tlden-satiliyor-pkh1-3792787",
+    "ts": 1793257201000,
+    "tags": []
+   },
+   {
+    "t": "Dolar ve Euro kuru bugün ne kadar oldu? 29 Ekim 2026 döviz fiyatları…",
+    "tt": null,
+    "s": "Dolar haftanın dördüncü işlem gününde (saat 09:30 itibari ile) 49.8348 liradan, euro ise 55.6272 liradan işlem görüyor. Serbest döviz piyasalarındaki anlık dolar/euro işlemleri ile ilgili merak ettiğiniz tüm detaylar burada; dolar kaç TL oldu, euro kaç liradan satılıyor, dolar/euro bugün ne kadar? g",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-29-ekim-2026-doviz-fiyatlari-pkh2-3792786",
+    "ts": 1793255402000,
     "tags": []
    },
    {
@@ -826,33 +857,6 @@
     "u": "https://www.bloomberght.com/trump-yonetimi-constellation-energy-ye-5-milyar-dolarlik-kredi-sagliyor-3792779",
     "ts": 1793218347000,
     "tags": []
-   },
-   {
-    "t": "Garanti Bankası üçüncü çeyrekte net kârını artırdı",
-    "tt": null,
-    "s": "Garanti Bankası, 2026 yılının üçüncü çeyreğinde 33,8 milyar TL net kâr açıklayarak 32,1 milyar TL'lik piyasa konsensüsünün üzerinde bir performans sergiledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/garanti-bankasi-ucuncu-ceyrekte-net-krini-artirdi-3792778",
-    "ts": 1793217701000,
-    "tags": []
-   },
-   {
-    "t": "Apple ilk dokunmatik ekranlı MacBook modelini tanıttı",
-    "tt": null,
-    "s": "Apple, yaklaşık 20 yıldır karşı çıktığı dokunmatik ekran teknolojisini MacBook Pro serisine taşıyarak yeni modellerini tanıttı. OLED ekran ve Dynamic Island özelliğine sahip ilk Mac olan yeni MacBook Pro, 14 ve 16 inçlik seçeneklerle sunulurken, başlangıç fiyatları 2 bin 899 dolar ve 3 bin 399 dolar",
-    "ss": null,
-    "u": "https://www.bloomberght.com/apple-ilk-dokunmatik-ekranli-macbook-modellerini-tanitti-3792745",
-    "ts": 1793211943000,
-    "tags": []
-   },
-   {
-    "t": "Faizi sabit tutan Fed Aralık'a ilişkin net sinyal vermedi",
-    "tt": null,
-    "s": "Eylül ayında üç yıl sonra faizleri artırma adımı atan Fed Ekim toplantısında ise faizleri sabit tutma kararı aldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734",
-    "ts": 1793207585000,
-    "tags": []
    }
   ]
  },
@@ -868,6 +872,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
