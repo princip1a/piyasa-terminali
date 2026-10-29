@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T05:19:39.781362+00:00",
+ "generated": "2026-10-29T06:01:40.400841+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4053.8,
-   "c": 0.05,
-   "d": 2.2,
+   "p": 4040.0,
+   "c": -0.29,
+   "d": -11.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.425,
-   "c": -0.06,
-   "d": -0.032,
+   "p": 53.02,
+   "c": -0.82,
+   "d": -0.437,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.27,
-   "c": -1.47,
-   "d": -1.51,
+   "p": 101.33,
+   "c": -1.41,
+   "d": -1.45,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.13,
-   "c": -4.5,
-   "d": -5.19,
+   "p": 110.12,
+   "c": -4.51,
+   "d": -5.2,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.215,
-   "c": 0.02,
-   "d": 0.025,
+   "p": 102.234,
+   "c": 0.04,
+   "d": 0.044,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8305,
+   "p": 49.8302,
    "c": 0.06,
    "d": 0.031,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80373,
-   "c": -0.58,
+   "p": 80152,
+   "c": -0.81,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2329.39,
-   "c": -0.92,
+   "p": 2320.96,
+   "c": -1.21,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.55,
-   "c": -1.29,
+   "p": 100.25,
+   "c": -1.46,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.3,
-   "c": -1.9,
+   "c": -1.97,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 757.13,
-   "c": 1.63,
+   "p": 754.57,
+   "c": 1.36,
    "k": "usd"
   }
  ],
@@ -384,17 +384,67 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
+    "t": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
+    "tt": "Healey İngiltere Bütçesini Savundu, Önümüzde 'Zor Kararlar' Uyardı",
+    "s": "Chancellor of the Exchequer John Healey defended his first budget against criticism that it lacked ambition, while warning the UK would face “tough decisions” about its spending priorities in the years ahead. Speaking to Bloomberg’s Caroline Hepker, Healey said a tax increase on banks would be tempo",
+    "ss": "Maliye Şansölyesi John Healey, ilk bütçesini hırssız olduğu yönündeki eleştirilere karşı savunurken, İngiltere'nin önümüzdeki yıllarda harcama öncelikleri konusunda \"zor kararlarla\" karşı karşıya kalacağı konusunda uyardı. Bloomberg'den Caroline Hepker'e konuşan Healey, bankalara yönelik vergi artışının tempo olacağını söyledi",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/healey-defends-uk-budget-warns-hard-decisions-ahead",
+    "ts": 1793253636000,
+    "tags": []
+   },
+   {
+    "t": "Jio’s Halo Brightens Momentum for Mega Deals in India Pipeline",
+    "tt": "Jio'nun Halo'su Hindistan Boru Hattındaki Mega Anlaşmalara Yönelik İvmeyi Aydınlatıyor",
+    "s": "Jio Platforms Ltd.’s sparkling debut was met with enthusiasm among investors, paving the way for more potential offerings by some of the country’s largest privately held companies.",
+    "ss": "Jio Platforms Ltd.'nin parlak başlangıcı yatırımcılar arasında coşkuyla karşılandı ve ülkenin en büyük özel şirketlerinden bazılarının daha fazla potansiyel teklif vermesinin önünü açtı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/jio-s-halo-brightens-momentum-for-mega-deals-in-india-pipeline",
+    "ts": 1793252950000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Pare Tech-Led Losses, Crude Oil Declines: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "Technology shares fell, stalling this week’s rally, after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns.",
+    "s": "Technology stocks trimmed their losses as the European session neared, after disappointing earnings from two industry heavyweights earlier revived doubts over whether billions of dollars in AI spending will deliver sufficient returns. Oil fell.",
     "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
     "ts": 1793225507000,
     "tags": [
-     "BTC ▲",
-     "Altcoin ▲",
-     "DXY ▲"
+     "BTC ▼",
+     "Altcoin ▼",
+     "DXY ▼"
     ]
+   },
+   {
+    "t": "Anthropic IPO: How Investors in Asia Can Get In",
+    "tt": "Antropik Halka Arz: Asya'daki Yatırımcılar Nasıl Girebilir?",
+    "s": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades. (Source: Bloomberg)",
+    "ss": "Asya'nın büyük bir kısmı için Anthropic'in gişe rekorları kıran halka arzından bir parça almak neredeyse imkansız olabilir. Abhishek Vishnoi, yatırımcıların vekaleten alım satım yoluyla nasıl yaratıcı olduklarını inceliyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/anthropic-ipo-how-investors-in-asia-can-get-in",
+    "ts": 1793252178000,
+    "tags": []
+   },
+   {
+    "t": "Oil Drops as Traders Parse Vance’s Diplomatic Maneuver on Iran",
+    "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
+    "s": "Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
+    "ss": "Petrol fiyatları, tüccarların ABD'nin İran'a yönelik askeri saldırılarının yeniden başlaması ihtimalini engellemek için Orta Doğu'daki yeni diplomatik çabalara ağırlık vermesiyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+    "ts": 1793225101000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
+    "tt": "Teknoloji Rallisi Alfabe Olarak Durdu, Samsung Hayal Kırıklığına Uğradı",
+    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global",
+    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Shery Ahn ve Haidi Stroud-Watts ile Tokyo ve Sidney'den canlı yayında, haber yapımcılarından ve sektör liderlerinden dünyayı şekillendiren en büyük hikayeler hakkında fikir ve analiz alıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/the-asia-trade-10-29-2026-video",
+    "ts": 1793250808000,
+    "tags": []
    },
    {
     "t": "Chinese Tech Stocks Sink Even as Chipmaker Sales Surge 1,800%",
@@ -424,20 +474,6 @@
     "tags": []
    },
    {
-    "t": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
-    "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
-    "s": "Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
-    "ss": "Petrol fiyatları, tüccarların ABD'nin İran'a yönelik askeri saldırılarının yeniden başlaması ihtimalini engellemek için Orta Doğu'daki yeni diplomatik çabalara ağırlık vermesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-    "ts": 1793225101000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
     "t": "HK Dollar Peg Architect Says Narrower Band May Ease Speculation",
     "tt": "HK Dollar Peg Architect, Dar Bandın Spekülasyonları Kolaylaştırabileceğini Söyledi",
     "s": "Narrowing the Hong Kong dollar’s trading band against the US greenback may enhance stability and reassure the public if such a move were ever implemented, according to John Greenwood, the economist dubbed the father of the city’s currency peg.",
@@ -447,42 +483,6 @@
     "tags": [
      "DXY ▲"
     ]
-   },
-   {
-    "t": "Prediction Markets Avoid Australia’s Tough Line on Gambling",
-    "tt": "Tahmin Piyasaları Avustralya'nın Kumar Konusunda Zorlu Çizgisinden Uzak Duruyor",
-    "s": "Australia’s corporate regulator has not received a single application from a prediction market provider to operate in the country, where such platforms would likely face gambling rather than financial regulations.",
-    "ss": "Avustralya'nın kurumsal düzenleyicisi, bu tür platformların finansal düzenlemeler yerine kumarla karşı karşıya kalacağı ülkede faaliyet gösteren bir tahmin piyasası sağlayıcısından tek bir başvuru bile almadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/prediction-markets-avoid-australia-s-tough-line-on-gambling",
-    "ts": 1793243614000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs",
-    "tt": "Anthropic'in Halka Arz Planları Avustralyalı CIO'ların Şüpheciliğini Çekiyor",
-    "s": "Some Australian investment chiefs are expressing caution over the impending blockbuster initial public offering of Anthropic PBC, as the company brings a fresh artificial intelligence bet to the local market.",
-    "ss": "Bazı Avustralyalı yatırım şefleri, şirketin yerel pazara yeni bir yapay zeka iddiası getirmesi nedeniyle, Anthropic PBC'nin gişe rekorları kıran ilk halka arzına ilişkin ihtiyatlı olduklarını ifade ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/anthropic-s-ipo-plans-draw-skepticism-from-australian-cios",
-    "ts": 1793243600000,
-    "tags": []
-   },
-   {
-    "t": "Fed's Warsh on Why He Watches Korea's Economy Closely",
-    "tt": "Fed'in Kore Ekonomisini Neden Yakından İzlediğine İlişkin Warsh",
-    "s": "Federal Reserve Chairman Kevin Warsh closely monitors South Korea's economy because he views its tech exports as vital \"feedstocks\" and a leading indicator for what is coming through the global supply chain, a point he highlighted while noting that a task force will deliver recommendations on the Fe",
-    "ss": "Federal Rezerv Başkanı Kevin Warsh, Güney Kore ekonomisini yakından izliyor çünkü teknoloji ihracatını hayati \"hammaddeler\" ve küresel tedarik zincirinden gelecekler için öncü bir gösterge olarak görüyor; bir görev gücünün Fe ile ilgili tavsiyeler sunacağını belirtirken bu noktanın altını çizdi.",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/fed-s-warsh-on-why-he-watches-korea-s-economy-closely-video",
-    "ts": 1793243393000,
-    "tags": []
-   },
-   {
-    "t": "Biggest Pharmacy Chain in Malaysia Plans $565 Million Share Sale",
-    "tt": "Malezya'nın En Büyük Eczane Zinciri 565 Milyon Dolarlık Hisse Satışı Planlıyor",
-    "s": "Malaysia’s biggest pharmacy chain Big Caring Group Bhd. is offering shares worth up to 2.3 billion ringgit ($565 million) in an initial public offering that’s poised to be the country’s second largest listing this year.",
-    "ss": "Malezya'nın en büyük eczane zinciri Big Caring Group Bhd., bu yıl ülkenin en büyük ikinci halka arzı olacak ilk halka arzda 2,3 milyar ringgit (565 milyon dolar) değerinde hisse sunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/biggest-pharmacy-chain-in-malaysia-plans-565-million-share-sale",
-    "ts": 1793242783000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -673,6 +673,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "The Fall Of Europe",
+    "tt": "Avrupa'nın Çöküşü",
+    "s": "The Fall Of Europe Authored by Milton Madriz Cedeño via The Daily Sceptic , Europe is falling because it has confused the management of inherited wealth with the ability to create new wealth. Part of its political leadership turned public spending, proliferating rules, excessive regulation and presu",
+    "ss": "Avrupa'nın Düşüşü Milton Madriz Cedeño tarafından The Daily Skeptic aracılığıyla yazılmıştır. Avrupa, miras alınan zenginliğin yönetimini yeni zenginlik yaratma yeteneğiyle karıştırdığı için düşüyor. Siyasi liderliğinin bir kısmı kamu harcamalarını, artan kuralları, aşırı düzenlemeleri ve baskıyı dönüştürdü.",
+    "u": "https://www.zerohedge.com/geopolitical/fall-europe-0",
+    "ts": 1793253600000,
+    "tags": []
+   },
+   {
     "t": "How Censorship Works",
     "tt": "Sansür Nasıl İşler?",
     "s": "How Censorship Works Authored by Jeffrey A. Tucker via The Epoch Times , The Holodomor (meaning death by hunger) was a man-made famine in Soviet Ukraine in 1932-1933 that killed millions of people, primarily Ukrainian peasants. It was part of a wider Soviet famine (roughly 1930-1934) that also affec",
@@ -751,15 +760,6 @@
     "ss": "Daha Fazla Amerikalı Romantik Dolandırıcılıklara Kanıyor. İşte Sizi Nasıl Baştan Çıkarıyorlar... The Epoch Times aracılığıyla Chris Summers ve Eva Fu tarafından yazıldı , Romantik dolandırıcılıklar, Amerikalılara karşı işlenen dolandırıcılıkların büyük bir kısmını oluşturuyor , dolandırıcılar genellikle kurbanlarla çevrimiçi flört uygulamaları, sosyal medya veya profesyoneller aracılığıyla iletişime geçiyor",
     "u": "https://www.zerohedge.com/personal-finance/more-americans-are-falling-romance-scams-heres-how-they-entice-you",
     "ts": 1793232300000,
-    "tags": []
-   },
-   {
-    "t": "Democratic Socialist Of America Puts Crosshairs On United Airlines, Elbit System: \"We Will Sever Supply Chains\"",
-    "tt": "Amerika'nın Demokratik Sosyalisti United Airlines ve Elbit Sistemini Hedef Alıyor: \"Tedarik Zincirlerini Keseceğiz\"",
-    "s": "Democratic Socialist Of America Puts Crosshairs On United Airlines, Elbit System: \"We Will Sever Supply Chains\" The Democratic Socialists of America's list of targeted US companies, coupled with its aim to \" sever the supply chain ,\" raises national security concerns about the movement's actual agen",
-    "ss": "Amerika'nın Demokratik Sosyalisti, United Airlines ve Elbit Sisteminin Hedefini Belirledi: \"Tedarik Zincirlerini Keseceğiz\" Amerika'nın Demokratik Sosyalistleri'nin hedeflenen ABD şirketleri listesi, \"tedarik zincirini kesme\" hedefiyle birleştiğinde, hareketin asıl ajanı hakkında ulusal güvenlik endişelerini artırıyor",
-    "u": "https://www.zerohedge.com/political/democratic-socialist-america-puts-crosshairs-united-airlines-elbit-system-we-will-sever",
-    "ts": 1793230800000,
     "tags": []
    }
   ],
