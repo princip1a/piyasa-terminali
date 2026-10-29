@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T02:06:42.646360+00:00",
+ "generated": "2026-10-29T02:59:39.469955+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4074.7,
-   "c": 0.57,
-   "d": 23.1,
+   "p": 4057.4,
+   "c": 0.14,
+   "d": 5.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.975,
-   "c": 0.97,
-   "d": 0.518,
+   "p": 53.655,
+   "c": 0.37,
+   "d": 0.198,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.88,
-   "c": -0.88,
-   "d": -0.9,
+   "p": 101.58,
+   "c": -1.17,
+   "d": -1.2,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.58,
-   "c": -4.11,
-   "d": -4.74,
+   "p": 110.38,
+   "c": -4.28,
+   "d": -4.94,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.132,
-   "c": -0.06,
-   "d": -0.058,
+   "p": 102.122,
+   "c": -0.07,
+   "d": -0.068,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8311,
-   "c": 0.06,
-   "d": 0.032,
+   "p": 49.8321,
+   "c": 0.07,
+   "d": 0.033,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80068,
-   "c": -0.87,
+   "p": 79862,
+   "c": -1.26,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2314.6,
-   "c": -1.56,
+   "p": 2307.28,
+   "c": -2.07,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 99.85,
+   "p": 99.95,
    "c": -1.61,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.3,
-   "c": -2.47,
+   "p": 1.29,
+   "c": -2.96,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 747.51,
-   "c": 0.54,
+   "p": 748.36,
+   "c": 0.46,
    "k": "usd"
   }
  ],
@@ -384,57 +384,63 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Lynas Expects One-Month Shutdown at Malaysian Rare-Earths Plant",
-    "tt": "Lynas, Malezya Nadir Toprak Tesisinin Bir Aylık Kapatılmasını Bekliyor",
-    "s": "Lynas Rare Earths Ltd. said planned maintenance at its refinery in Malaysia would cut production this quarter, but expects stockpiles of the critical minerals will ensure that customer orders aren’t affected.",
-    "ss": "Lynas Rare Earths Ltd., Malezya'daki rafinerisinde planlı bakımın bu çeyrekte üretimi azaltacağını ancak kritik mineral stoklarının müşteri siparişlerinin etkilenmemesini sağlayacağını beklediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/lynas-expects-one-month-shutdown-at-malaysian-rare-earths-plant",
-    "ts": 1793239126000,
+    "t": "Hello Kitty Owner Sanrio Axes Japan Show Ties After China Furor",
+    "tt": null,
+    "s": "Sanrio Co. apologized and scrapped a collaboration with Japanese television drama Vivant after the spy program drew criticism in China over its portrayal of wartime history.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hello-kitty-owner-sanrio-axes-japan-show-ties-after-china-furor",
+    "ts": 1793242521000,
     "tags": []
    },
    {
-    "t": "Tech Stocks Drop as Alphabet, Samsung Disappoint: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "Technology shares fell, snapping this week’s rally, after disappointing earnings from two industry heavyweights revived concerns about the billions of dollars companies are pouring into artificial intelligence.",
-    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793225507000,
+    "t": "Gold Dips to Near $4,000 as Fed Holds Rates With Little Guidance",
+    "tt": null,
+    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+    "ts": 1793231042000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Iron Ore’s Drop Below $90 Tests High-Cost Supply as Losses Mount",
+    "tt": null,
+    "s": "Iron ore’s fall below $90 a ton has pushed as much as 170 million tons of production into losses, but prices will need to remain depressed for longer before enough supply exits to tighten the market, according to UBS Group AG.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/iron-ore-s-drop-below-90-tests-high-cost-supply-as-losses-mount",
+    "ts": 1793241670000,
     "tags": []
    },
    {
-    "t": "Philippines May Use More Tools to Stem Peso Slide, Analysts Say",
-    "tt": "Analistler, Filipinler'in Peso Kaymasını Durdurmak İçin Daha Fazla Araç Kullanabileceğini Söyledi",
-    "s": "The Philippine peso’s nearly 8% slide against the dollar this year may prompt the central bank to deploy more tools to stabilize the currency, according to marketwatchers.",
-    "ss": "Piyasa gözlemcilerine göre Filipin pesosunun bu yıl dolar karşısında yaklaşık %8 oranında değer kaybetmesi, merkez bankasının para birimini istikrara kavuşturmak için daha fazla araç kullanmasına neden olabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/philippines-may-use-more-tools-to-stem-peso-slide-analysts-say",
-    "ts": 1793236502000,
+    "t": "CLSA Analyst: Samsung Shares Fell on Lack of Buybacks",
+    "tt": null,
+    "s": "Samsung shares slid due to a lack of new announcements of share buybacks, according to CLSA Head of North Asia Semiconductors Research Sanjeev Rana. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/clsa-analyst-samsung-shares-fell-on-lack-of-buybacks-video",
+    "ts": 1793241190000,
     "tags": []
    },
    {
-    "t": "Siam Cement, PTT Global Forge $5.5 Billion Petrochemical Deal",
-    "tt": "Siam Cement ve PTT Global 5,5 Milyar Dolarlık Petrokimya Anlaşması İmzaladı",
-    "s": "Siam Cement Pcl and PTT Global Chemical Pcl agreed to combine Thai olefins and polyolefins businesses valued at 187 billion baht ($5.5 billion), seeking to bolster their petrochemical operations amid a prolonged downturn.",
-    "ss": "Siam Cement Pcl ve PTT Global Chemical Pcl, uzun süren bir gerileme döneminde petrokimya faaliyetlerini desteklemek amacıyla 187 milyar baht (5,5 milyar dolar) değerindeki Tayland olefin ve poliolefin işletmelerini birleştirme konusunda anlaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/siam-cement-ptt-global-forge-5-5-billion-petrochemical-deal",
-    "ts": 1793236250000,
+    "t": "Indonesia’s Wealth Fund CIO Owns Stake in Sanctioned Brokerage",
+    "tt": null,
+    "s": "Pandu Sjahrir, the prominent Indonesian wealth fund executive who has publicly supported MSCI Inc.’s scrutiny of the nation’s stock market, is the co-owner of a brokerage sanctioned in connection with a stock-market manipulation probe.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/indonesia-s-wealth-fund-cio-owns-stake-in-sanctioned-brokerage",
+    "ts": 1793241057000,
     "tags": []
    },
    {
-    "t": "Shapoorji Seeks to Raise Up to $200 Million to Repay Debt",
-    "tt": "Shapoorji Borcunu Geri Ödemek İçin 200 Milyon Dolara Kadar Kaynak Artırmak İstiyor",
-    "s": "Shapoorji Pallonji Group is looking to raise $150 million to $200 million, according to people familiar with the matter, as the Indian conglomerate faces mounting debt obligations.",
-    "ss": "Konuya yakın kaynaklara göre Shapoorji Pallonji Group, Hintli holdingin artan borç yükümlülükleriyle karşı karşıya kalması nedeniyle 150 ila 200 milyon dolar toplamayı planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shapoorji-seeks-to-raise-up-to-200-million-to-repay-debt",
-    "ts": 1793235404000,
-    "tags": []
-   },
-   {
-    "t": "Ambani Magic Captivates India Once More With Blockbuster Deal",
-    "tt": "Ambani Magic, Gişe Rekortmeni Anlaşmayla Hindistan'ı Bir Kez Daha Büyüledi",
-    "s": "Mukesh Ambani’s ability to raise billions of dollars and win over investors has endured for decades. He showed it once again with Jio Platforms Ltd., which pulled off India’s biggest-ever initial public offering and a strong trading debut despite a difficult market backdrop.",
-    "ss": "Mukesh Ambani'nin milyarlarca dolar toplama ve yatırımcıları kazanma yeteneği onlarca yıldır devam ediyor. Hindistan'ın bugüne kadarki en büyük halka arzını gerçekleştiren ve zorlu piyasa ortamına rağmen güçlü bir ticaret başlangıcı gerçekleştiren Jio Platforms Ltd. ile bunu bir kez daha gösterdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-magic-captivates-india-once-more-with-blockbuster-deal",
-    "ts": 1793189299000,
+    "t": "Jio Breaks the Mega-IPO Jinx With Record Delivery Volumes to Boot",
+    "tt": null,
+    "s": "High delivery ratio on debut points to sticky investor demand for the stock.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/jio-breaks-the-mega-ipo-jinx-with-record-delivery-volumes-to-boot",
+    "ts": 1793241038000,
     "tags": []
    },
    {
@@ -452,30 +458,32 @@
     ]
    },
    {
-    "t": "Bankers in Failed Firmus IPO Probed by Australian Regulator",
-    "tt": "Başarısız Firmus Halka Arzındaki Bankacılar Avustralya Düzenleyici Tarafından Soruşturuldu",
-    "s": "Australia’s corporate regulator is seeking information from investment banks on the failed Firmus Grid Ltd. initial public offering earlier this month, stopping short of opening a formal investigation into the matter.",
-    "ss": "Avustralya'nın kurumsal düzenleyici kurumu, Firmus Grid Ltd.'nin bu ayın başlarında başarısız olan ilk halka arzı hakkında yatırım bankalarından bilgi istiyor ve konuyla ilgili resmi bir soruşturma başlatmayı başaramadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/bankers-in-failed-firmus-ipo-probed-by-australian-regulator-asic",
-    "ts": 1793228481000,
+    "t": "HK Dollar Peg Architect Says Narrower Band May Ease Speculation",
+    "tt": null,
+    "s": "Narrowing the Hong Kong dollar’s trading band against the US greenback may enhance stability and reassure the public if such a move were ever implemented, according to John Greenwood, the economist dubbed the father of the city’s currency peg.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hk-dollar-peg-architect-says-narrower-band-may-ease-speculation",
+    "ts": 1793240144000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Tech Stocks Drop as Alphabet, Samsung Disappoint: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
+    "s": "Technology shares fell, snapping this week’s rally, after disappointing earnings from two industry heavyweights revived concerns about the billions of dollars companies are pouring into artificial intelligence.",
+    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793225507000,
     "tags": []
    },
    {
-    "t": "China’s Green Exports Enough to Offset Brazil’s Emissions: CREA",
-    "tt": "Çin'in Yeşil İhracatı Brezilya'nın Emisyonlarını Dengelemeye Yeterli: CREA",
-    "s": "Chinese exports of clean technologies this year could offset the equivalent of Brazil’s annual emissions from fossil fuels, underscoring the Asian country’s role in speeding up the global energy transition.",
-    "ss": "Çin'in bu yılki temiz teknoloji ihracatı, Brezilya'nın fosil yakıtlardan kaynaklanan yıllık emisyonlarının eşdeğerini telafi edebilir ve bu da Asya ülkesinin küresel enerji geçişini hızlandırmadaki rolünün altını çizebilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/china-s-green-exports-enough-to-offset-brazil-s-emissions-crea",
-    "ts": 1793232068000,
-    "tags": []
-   },
-   {
-    "t": "Irish Government Spending to Aid Economic Growth, AIB Says",
-    "tt": "AIB, İrlanda Hükümeti Harcamalarının Ekonomik Büyümeye Yardımcı Olduğunu Açıkladı",
-    "s": "AIB Group Plc expects Ireland’s domestic economy to grow more than previously forecast, driven by government investment in housing infrastructure.",
-    "ss": "AIB Group Plc, hükümetin konut altyapısına yaptığı yatırımların etkisiyle İrlanda'nın yerel ekonomisinin önceden tahmin edilenden daha fazla büyümesini bekliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/irish-government-spending-to-aid-economic-growth-aib-says",
-    "ts": 1793232060000,
+    "t": "Philippines May Use More Tools to Stem Peso Slide, Analysts Say",
+    "tt": "Analistler, Filipinler'in Peso Kaymasını Durdurmak İçin Daha Fazla Araç Kullanabileceğini Söyledi",
+    "s": "The Philippine peso’s nearly 8% slide against the dollar this year may prompt the central bank to deploy more tools to stabilize the currency, according to marketwatchers.",
+    "ss": "Piyasa gözlemcilerine göre Filipin pesosunun bu yıl dolar karşısında yaklaşık %8 oranında değer kaybetmesi, merkez bankasının para birimini istikrara kavuşturmak için daha fazla araç kullanmasına neden olabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/philippines-may-use-more-tools-to-stem-peso-slide-analysts-say",
+    "ts": 1793236502000,
     "tags": []
    }
   ],
@@ -667,6 +675,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "The Day After Midterms: Diplomacy Or Another \"Epic Fury\"?",
+    "tt": null,
+    "s": "The Day After Midterms: Diplomacy Or Another \"Epic Fury\"? Brent crude futures topped $116.50 a barrel early Wednesday after a WSJ report said the Trump administration is preparing for a brief military campaign against Iran after the midterm elections .&nbsp; Trump said at a rally last week, \" We may",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/day-after-midterms-diplomacy-or-another-epic-fury",
+    "ts": 1793242800000,
+    "tags": []
+   },
+   {
+    "t": "There Are Multiple Paths Out Of Israel's Election Deadlock",
+    "tt": null,
+    "s": "There Are Multiple Paths Out Of Israel's Election Deadlock Via Middle East Eye More&nbsp;Israelis&nbsp;voted in Tuesday’s election than in any poll since 2001, yet neither Israeli Prime Minister Benjamin Netanyahu nor his challengers have a straightforward path to power. Complicating matters are the",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/three-most-likely-paths-forward-out-israels-election-deadlock",
+    "ts": 1793241300000,
+    "tags": []
+   },
+   {
     "t": "Final Defendants Plead Guilty In $65 Million Elder Fraud Ring Exposed By YouTube Scambaiters",
     "tt": "Son Sanıklar, YouTube Dolandırıcıları Tarafından İfşa Edilen 65 Milyon Dolarlık Yaşlı Dolandırıcılık Yüzüğünde Suçunu İtiraf Etti",
     "s": "Final Defendants Plead Guilty In $65 Million Elder Fraud Ring Exposed By YouTube Scambaiters The final two arrested members of a sprawling $65 million fraud syndicate that preyed on thousands of elderly Americans have pleaded guilty in San Diego federal court, the U.S. Attorney's Office for the Sout",
@@ -736,24 +762,6 @@
     "ss": "İzle: BM'de Kaos Patlak Veriyor Mike Waltz, Kübalı Diplomatla Çığlık Atarak Maça Girerken, ABD Personelinin Saldırıya Uğradığı İddia Edilen Küba'nın komünist rejimi, çatışmacı taktiklerini geçen hafta Birleşmiş Milletler salonlarına taşıdı ve ABD Büyükelçisi Mike Waltz ile hararetli bir hesaplaşmayı tetikledi. Küba'nın Min'i",
     "u": "https://www.zerohedge.com/political/watch-chaos-erupts-un-mike-waltz-gets-screaming-match-cuban-diplomat-us-staffer-allegedly",
     "ts": 1793227800000,
-    "tags": []
-   },
-   {
-    "t": "Inside The Little-Known Drug Program Making Big Hospitals Billions",
-    "tt": "Büyük Hastanelere Milyarlar Kazandıran Az Bilinen İlaç Programı İçinde",
-    "s": "Inside The Little-Known Drug Program Making Big Hospitals Billions Authored by Sylvia Xu, Lawrence Wilson via The Epoch Times , Hospitals that benefit from a government program intended to help safety-net institutions end up spending less on charity care than other hospitals, a new study has found, ",
-    "ss": "Büyük Hastanelere Milyarlar Kazandıran Az Bilinen İlaç Programı İçinde Yazan: Sylvia Xu, Lawrence Wilson, The Epoch Times aracılığıyla, Güvenlik ağı kurumlarının yardım hizmetleri için diğer hastanelere göre daha az harcama yapmasına yardımcı olmayı amaçlayan bir hükümet programından yararlanan hastanelerin, yeni bir çalışma şunu ortaya çıkardı:",
-    "u": "https://www.zerohedge.com/political/inside-little-known-drug-program-making-big-hospitals-billions",
-    "ts": 1793226600000,
-    "tags": []
-   },
-   {
-    "t": "NBA Legend Who Earned Nearly $200 Million Admits He's Broke As Wild Spending Habits Revealed",
-    "tt": "Yaklaşık 200 Milyon Dolar Kazanan NBA Efsanesi, Çılgın Harcama Alışkanlıkları Ortaya Çıkınca Parasız Olduğunu İtiraf Etti",
-    "s": "NBA Legend Who Earned Nearly $200 Million Admits He's Broke As Wild Spending Habits Revealed NBA legend Paul Pierce claims he is \"drowning financially\" as mounting expenses and a bitter legal battle threaten to drain what's left of his once-massive fortune , according to court documents obtained by ",
-    "ss": "Yaklaşık 200 Milyon Dolar Kazanan NBA Efsanesi, Çılgın Harcama Alışkanlıklarını Bozduğunu İtiraf Etti NBA efsanesi Paul Pierce, artan harcamalar ve sert bir hukuk savaşının, bir zamanların devasa servetinden geriye kalanları tüketme tehlikesiyle karşı karşıya kalması nedeniyle \"mali açıdan boğulduğunu\" iddia ediyor.",
-    "u": "https://www.zerohedge.com/personal-finance/nba-legend-who-earned-nearly-200-million-admits-hes-broke-wild-spending-habits",
-    "ts": 1793225400000,
     "tags": []
    }
   ],
@@ -862,6 +870,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
