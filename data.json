@@ -1,81 +1,81 @@
 {
- "generated": "2026-10-29T15:26:59.714436+00:00",
+ "generated": "2026-10-29T16:27:46.851255+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7723.07,
-   "c": -0.27,
-   "d": -20.91,
+   "p": 7717.27,
+   "c": -0.34,
+   "d": -26.71,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26228.04,
-   "c": -1.21,
-   "d": -321.81,
+   "p": 26198.812,
+   "c": -1.32,
+   "d": -351.038,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52355.95,
-   "c": -0.23,
-   "d": -119.152,
+   "p": 52308.59,
+   "c": -0.32,
+   "d": -166.512,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 16.44,
-   "c": -2.78,
-   "d": -0.47,
+   "p": 16.46,
+   "c": -2.66,
+   "d": -0.45,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4034.5,
-   "c": -0.42,
-   "d": -17.1,
+   "p": 4026.5,
+   "c": -0.62,
+   "d": -25.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.515,
-   "c": -1.76,
-   "d": -0.942,
+   "p": 52.465,
+   "c": -1.86,
+   "d": -0.992,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 100.19,
-   "c": -2.52,
-   "d": -2.59,
+   "p": 100.89,
+   "c": -1.84,
+   "d": -1.89,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 109.5,
-   "c": -5.05,
-   "d": -5.82,
+   "p": 109.89,
+   "c": -4.71,
+   "d": -5.43,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.969,
-   "c": -0.22,
-   "d": -0.221,
+   "p": 101.993,
+   "c": -0.19,
+   "d": -0.197,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.978,
-   "c": -1.33,
-   "d": -0.067,
+   "p": 4.995,
+   "c": -0.99,
+   "d": -0.05,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.8324,
+   "p": 49.8344,
    "c": 0.07,
-   "d": 0.033,
+   "d": 0.035,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81464,
-   "c": 1.04,
+   "p": 81412,
+   "c": 1.25,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2357.17,
-   "c": 0.87,
+   "p": 2357.14,
+   "c": 1.17,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.07,
-   "c": 0.94,
+   "p": 102.2,
+   "c": 1.3,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.31,
-   "c": -0.54,
+   "p": 1.3,
+   "c": -0.45,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 750.87,
-   "c": 0.26,
+   "p": 748.92,
+   "c": -0.02,
    "k": "usd"
   }
  ],
@@ -384,58 +384,73 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "China Makes First Inquiry for US Wheat Since Trump-Xi Summit",
-    "tt": null,
-    "s": "China has inquired about buying US wheat, signaling that Beijing may be gearing up to expand its purchases of American crops beyond soybeans following the presidential summit in September.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/china-makes-first-inquiry-for-us-wheat-since-trump-xi-summit",
-    "ts": 1793287319000,
+    "t": "Venezuelan Leader Commits to Elections Ahead of Machado Speech",
+    "tt": "Venezuela Lideri Machado Konuşması Öncesinde Seçimlere Gideceğini Açıkladı",
+    "s": "Venezuela will hold elections organized by an overhauled electoral regulator and witnessed by the international community, acting President Delcy Rodríguez said in a rare televised address Thursday, as pressure builds on her interim government after the return of opposition leader María Corina Macha",
+    "ss": "Muhalefet lideri María Corina Macha'nın dönüşünün ardından geçici hükümet üzerindeki baskı artarken, Başkan Vekili Delcy Rodríguez Perşembe günü televizyonda nadir görülen bir konuşmasında Venezuela'da, elden geçirilmiş bir seçim düzenleyicisi tarafından düzenlenen ve uluslararası toplumun tanık olduğu seçimler düzenleneceğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
+    "ts": 1793291228000,
     "tags": []
    },
    {
-    "t": "Applebee’s Owner Adopts Poison Pill to Fend off Hostile Takeover",
-    "tt": null,
+    "t": "Tech Stocks Slide as Alphabet’s Record Plunge Revives AI Fears",
+    "tt": "Alphabet'in Rekor Düşüşü Yapay Zeka Korkularını Canlandırırken Teknoloji Hisseleri Kayıyor",
+    "s": "Tech stocks were dragged lower by a record drop in Alphabet Inc. after disappointing results renewed investor concerns about the threat that artificial intelligence poses to its core business.",
+    "ss": "Teknoloji hisseleri, hayal kırıklığı yaratan sonuçların yatırımcıların yapay zekanın ana faaliyet alanı için oluşturduğu tehdide ilişkin endişelerini yenilemesinin ardından Alphabet Inc.'deki rekor düşüşle düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
+    "ts": 1793272199000,
+    "tags": []
+   },
+   {
+    "t": "DoorDash to Buy Rival Instacart in $17 Billion Deal",
+    "tt": "DoorDash, Rakip Instacart'ı 17 Milyar Dolara Satın Alacak",
+    "s": "DoorDash Inc. agreed to buy rival Instacart in a deal that values the company at about $17 billion. The transaction is expected to close near the end of next year, the deal is still pending. DoorDash says it will keep Instacart's brand, tech products and app. Bloomberg's Natalie Lung reports. (Sourc",
+    "ss": "DoorDash Inc., şirkete yaklaşık 17 milyar dolar değerinde bir anlaşma yaparak rakip Instacart'ı satın almayı kabul etti. İşlemin gelecek yılın sonuna doğru tamamlanması bekleniyor, anlaşma halen beklemede. DoorDash, Instacart'ın markasını, teknoloji ürünlerini ve uygulamasını koruyacağını söylüyor. Bloomberg'den Natalie Lung bildirdi. (Kaynak",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/doordash-to-buy-rival-instacart-in-17-billion-deal-video",
+    "ts": 1793290505000,
+    "tags": []
+   },
+   {
+    "t": "Hungary, US Sign Agreement on ‘Trump Peace Pipeline Framework’",
+    "tt": "Macaristan ve ABD 'Trump Barış Boru Hattı Çerçevesi' Anlaşması İmzaladı",
+    "s": "Hungary and the US signed an agreement on the “Trump Peace Pipelines Framework” to strengthen cooperation on developing regional natural gas and oil infrastructure, Hungarian Foreign Minister Anita Orban said.",
+    "ss": "Macaristan Dışişleri Bakanı Anita Orban, Macaristan ve ABD'nin bölgesel doğal gaz ve petrol altyapısının geliştirilmesine yönelik iş birliğini güçlendirmek amacıyla \"Trump Barış Boru Hatları Çerçevesi\" konusunda bir anlaşma imzaladığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hungary-us-sign-agreement-on-trump-peace-pipeline-framework",
+    "ts": 1793290104000,
+    "tags": []
+   },
+   {
+    "t": "DWS Americas CEO: Europe Is a Bet on a Physical Economy",
+    "tt": "DWS Amerika CEO'su: Avrupa, Fiziki Ekonomi Üzerine Bir Bahistir",
+    "s": "DWS Americas CEO Hepsen Uzcan discusses whether investors are getting enough clarity from Kevin Warsh and other Fed members about monetary policy. Uzcan says the Fed has paused rate changes, not its fight against inflation. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "ss": "DWS Amerika CEO'su Hepsen Uzcan, yatırımcıların Kevin Warsh ve diğer Fed üyelerinden para politikası konusunda yeterince netlik alıp almadığını tartışıyor. Uzcan, Fed'in enflasyonla mücadeleyi değil, faiz değişimlerini duraklattığını söylüyor. \"The Close\"da Romaine Bostick ile konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/dws-americas-ceo-europe-is-a-bet-on-a-physical-economy-video",
+    "ts": 1793290081000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "The ETF Graveyard: Closures in Leveraged ETFs, Metaverse and ESGs",
+    "tt": "ETF Mezarlığı: Kaldıraçlı ETF'lerde, Metaverse'lerde ve ESG'lerde Kapanışlar",
+    "s": "While the industry is on track for its highest&nbsp;number of launches, a more sobering threshold is in sight as well.&nbsp;",
+    "ss": "Sektör en yüksek lansman sayısına doğru ilerlerken, daha ciddi bir eşik de ufukta görünüyor. ",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/the-etf-graveyard-closures-in-leveraged-etfs-metaverse-and-esgs",
+    "ts": 1793289940000,
+    "tags": []
+   },
+   {
+    "t": "Applebee’s Owner Adopts Poison Pill to Fend Off Takeover",
+    "tt": "Applebee'nin Sahibi Devralmayı Önlemek İçin Zehirli Hap Kullandı",
     "s": "Applebee’s parent Dine Brands Global Inc. has adopted a poison pill to fend off a takeover bid from the investment firms Cobblers Cove Capital and Arkhouse Management.",
-    "ss": null,
+    "ss": "Applebee'nin ana şirketi Dine Brands Global Inc., yatırım firmaları Cobblers Cove Capital ve Arkhouse Management'ın satın alma teklifini savuşturmak için zehirli bir hap benimsedi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/applebee-s-owner-adopts-poison-pill-to-fend-off-hostile-takeover",
     "ts": 1793287267000,
     "tags": []
    },
    {
-    "t": "Paschi Investors Deal Crushing Blow to CEO in Win for Intesa",
-    "tt": null,
-    "s": "Banca Monte dei Paschi di Siena SpA’s investors overwhelmingly rejected the main element of CEO Luigi Lovaglio’s defense against a takeover by Intesa Sanpaolo SpA, setting up the world’s oldest bank for the potential loss of its independence.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/monte-paschi-investors-reject-banco-bpm-bid-in-win-for-intesa",
-    "ts": 1793285016000,
-    "tags": []
-   },
-   {
-    "t": "Google Debt-Risk Gauge Rises as Earnings Revive AI Debt Jitters",
-    "tt": null,
-    "s": "The cost of insuring against losses on Alphabet Inc.’s debt rose on Thursday as its shares plummeted, after disappointing results intensified fears that its massive bet on debt-funded AI spending may fail to pay off.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/google-debt-risk-gauge-rises-as-earnings-revive-ai-debt-jitters",
-    "ts": 1793286153000,
-    "tags": []
-   },
-   {
-    "t": "Fed Can’t Beat Inflation Without Market Pain, Says Dawson",
-    "tt": null,
-    "s": "Federal Reserve officials left interest rates unchanged and reiterated their commitment to containing inflation without offering a clear signal they might raise rates at their next meeting in December. NewEdge Wealth CIO Cameron Dawson says the Fed faces a contradiction as it tries to tighten financ",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/fed-can-t-tighten-without-market-pain-says-dawson-video",
-    "ts": 1793286055000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Nasdaq 100 Falls 1.5% as AI Trade Shows New Cracks: Markets Wrap",
+    "t": "Nasdaq 100 Falls as Alphabet’s Sales Fuel AI Angst: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
     "s": "A global rally in technology shares faltered as disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in artificial-intelligence spending will deliver sufficient returns.",
     "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
@@ -444,44 +459,21 @@
     "tags": []
    },
    {
-    "t": "Polymarket Investigating Suspicious Trades on Israeli Election",
-    "tt": null,
-    "s": "Polymarket is investigating a string of well-timed and profitable trades on the Israeli election this week in the latest case to raise concerns about potential insider trading on prediction markets.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
-    "ts": 1793285869000,
+    "t": "Fondos de acciones latinas: una especie rumbo a la extinción",
+    "tt": "Latin Amerika Faaliyetlerinin Fondos'u: yok olmayla ilgili özel bir olay",
+    "s": "Más de 660 fondos invertían en acciones latinoamericanas en 2015. Hoy quedan apenas 226. El prolongado declive refleja una región con poco crecimiento, innovación y nuevas empresas.",
+    "ss": "2015'te Latin Amerika'daki faaliyetlerde 660 fondan fazlası tersine çevrildi. Bunların sayısı 226'ya ulaştı. Uzun süre devam eden liste, yeni girişimler, yenilikler ve yeni girişimlerle dolu bir bölgeyi yansıtıyor.",
+    "u": "https://www.bloomberg.com/news/features/2026-10-29/fondos-de-acciones-latinas-una-especie-rumbo-a-la-extincion",
+    "ts": 1793289291000,
     "tags": []
    },
    {
-    "t": "NHL’s Billionaire Samueli Family Strikes $100 Million-Plus Deal for Anaheim Museum",
-    "tt": null,
-    "s": "OCVIBE CEO Bill Foltz discusses the Samueli family-backed, 100-acre development in Anaheim and its more than $100 million deal with digital art collective teamLab to open its first permanent US location. Foltz and teamLab Communications Director Takashi Kudo say the project hopes to draw some of the",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/samueli-family-strikes-deal-to-build-new-anaheim-museum-video",
-    "ts": 1793285062000,
-    "tags": []
-   },
-   {
-    "t": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
-    "tt": null,
-    "s": "Oil eased as fresh diplomatic efforts in the Middle East eroded some risk premium associated with a resumption of US military strikes on Iran.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-    "ts": 1793225101000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Ajuste en Bolivia entusiasma a inversionistas y golpea al país",
-    "tt": null,
-    "s": "Rodrigo Paz está logrando estabilizar la moneda y recuperar el acceso de Bolivia a los mercados de deuda. El desafío ahora es político: sostener el ajuste mientras la economía se contrae y el costo de vida golpea a los hogares. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/ajuste-en-bolivia-entusiasma-a-inversionistas-y-golpea-al-pais",
-    "ts": 1793283816000,
+    "t": "SEC Eyes Manipulation, Insider Risk in Prediction Markets",
+    "tt": "SEC Göz Manipülasyonu, Tahmin Piyasalarında İçeriden Alınan Risk",
+    "s": "Add another regulator to the list of watchdogs monitoring risks in the fast-growing prediction market industry: the Securities and Exchange Commission.",
+    "ss": "Hızla büyüyen tahmin piyasası endüstrisindeki riskleri izleyen gözlemciler listesine bir başka düzenleyici daha ekleyin: Menkul Kıymetler ve Borsa Komisyonu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/sec-eyes-manipulation-insider-risk-in-prediction-markets",
+    "ts": 1793288700000,
     "tags": []
    }
   ],
@@ -579,34 +571,73 @@
   ],
   "MarketWatch": [
    {
+    "t": "You can’t rely on the S&P 500 as much as you may think",
+    "tt": "S&P 500'e sandığınız kadar güvenemezsiniz",
+    "s": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+    "ss": "Endeksin zayıflığı, \"hisse senetleri her zaman yükselir\" inancıyla büyüyen bir nesil yatırımcıyı şaşırtabilir.",
+    "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+    "ts": 1793291160000,
+    "tags": []
+   },
+   {
+    "t": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+    "tt": "Kilisemizin bir banka hesabında %3,75 kazanç sağlayan 1,5 milyon dolarlık bir mirası var. Enflasyon bunu aşındırıyor mu?",
+    "s": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+    "ss": "\"Bu hediyenin boyutu ve uzun vadeli doğası göz önüne alındığında, fonların ihtiyatlı bir şekilde yönetildiğinden emin olmak istiyoruz.\"",
+    "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+    "ts": 1793289600000,
+    "tags": []
+   },
+   {
+    "t": "Looking for income? These dividend stocks have high yields that seem well supported.",
+    "tt": "Gelir mi arıyorsunuz? Bu temettü stoklarının iyi desteklenmiş gibi görünen yüksek getirileri var.",
+    "s": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&amp;P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.",
+    "ss": "Ford, Pfizer ve Verizon, şirketlerin serbest nakit akışının iyi bir şekilde karşılanması beklenen yüksek temettü getirileri nedeniyle S&P 500 listesinden geçen 11 hisse arasında yer alıyor.",
+    "u": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
+    "ts": 1793289240000,
+    "tags": []
+   },
+   {
+    "t": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+    "tt": "'Gösterişli arabaların çekiciliği yok': Hayatımız boyunca biriktirdiğimiz birikimleri geride bırakma şansımız %99'dur. Neden harcamıyorsunuz, harcamıyorsunuz, harcamıyorsunuz?",
+    "s": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+    "ss": "\"Ben 68 yaşındayım, o 74 yaşında ve ikimizin de sağlığı iyi. Daha sonra evlendik ve çocuğumuz yok.\"",
+    "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+    "ts": 1793288700000,
+    "tags": []
+   },
+   {
+    "t": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+    "tt": "Florida emlak vergilerinin düşürülüp düşürülmeyeceği konusunda oylama yapıyor. İşte bunun kime fayda sağlayacağı ve zarar vereceği.",
+    "s": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+    "ss": "Değişiklik 3'ün geçişi diğer eyaletlerin emlak vergilerini azaltma çabalarına ivme kazandırabilir",
+    "u": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+    "ts": 1793288340000,
+    "tags": []
+   },
+   {
     "t": "Caterpillar’s stock is sinking. Here’s what that means for the Dow.",
-    "tt": null,
+    "tt": "Caterpillar'ın hisseleri düşüyor. İşte bunun Dow için anlamı:",
     "s": "Caterpillar’s data-center business is fine, but other areas disappointed. The stock was heading for its biggest loss in years.",
-    "ss": null,
+    "ss": "Caterpillar'ın veri merkezi işi iyi durumda ancak diğer alanlar hayal kırıklığı yaratıyor. Hisse son yılların en büyük kaybına doğru ilerliyor.",
     "u": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
     "ts": 1793286720000,
     "tags": []
    },
    {
-    "t": "Consumer spending flattens out after U.S. inflation surge",
-    "tt": null,
+    "t": "Consumers are spending more, but they’re not getting their money’s worth due to inflation",
+    "tt": "Tüketiciler daha fazla harcıyor ancak enflasyon nedeniyle paralarının karşılığını alamıyorlar",
     "s": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
-    "ss": null,
+    "ss": "Tüketici harcamaları Eylül ayında keskin bir artış gösterdi ancak bu büyük ölçüde hane halkının enerji maliyetlerindeki artışın ardından gaz ve ulaşıma daha fazla harcama yaptığını yansıtıyor.",
     "u": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
     "ts": 1793286240000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
+    "tags": []
    },
    {
     "t": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
-    "tt": null,
+    "tt": "PCE'ye göre enflasyon yükseliyor. Fiyatlar hâlâ yükselişteyken Fed'in faiz artırımlarına ara vermesi pek uzun sürmeyecek.",
     "s": "Even though the Federal Reserve temporarily put its inflation fight on hold this week, the cost of living rose sharply again last month in a sign the central bank’s work is far from done.",
-    "ss": null,
+    "ss": "Federal Reserve bu hafta enflasyonla mücadeleyi geçici olarak askıya alsa da, geçim maliyetinin geçen ay yeniden keskin bir şekilde artması, merkez bankasının işinin henüz bitmediğini gösteriyor.",
     "u": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
     "ts": 1793284680000,
     "tags": [
@@ -619,161 +650,125 @@
    },
    {
     "t": "The midterms are crucial to the future of Social Security – no matter how old you are",
-    "tt": null,
+    "tt": "Ara sınavlar, kaç yaşında olursanız olun, Sosyal Güvenliğin geleceği açısından çok önemlidir",
     "s": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
-    "ss": null,
+    "ss": "Önümüzdeki altı yıl içinde programın parasının tükenmesi bekleniyor; bu da bir senatörün görev süresiyle aynı süreye denk geliyor.",
     "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
     "ts": 1793284620000,
     "tags": []
    },
    {
     "t": "3 reasons home prices keep going up, even though fewer people are buying",
-    "tt": null,
+    "tt": "Daha az insan satın almasına rağmen ev fiyatlarının artmaya devam etmesinin 3 nedeni",
     "s": "Weaker demand typically drives prices down, but national readings of home prices indicate that they’re still growing. What explains the disconnect?",
-    "ss": null,
+    "ss": "Zayıf talep genellikle fiyatların düşmesine neden oluyor, ancak ev fiyatlarına ilişkin ulusal okumalar fiyatların hala arttığını gösteriyor. Bağlantının kesilmesini ne açıklıyor?",
     "u": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
     "ts": 1793284560000,
-    "tags": []
-   },
-   {
-    "t": "Gen Z midterm voters told us they’re focused on their financial future, as social causes take a back seat",
-    "tt": null,
-    "s": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-    "ts": 1793284140000,
-    "tags": []
-   },
-   {
-    "t": "ServiceNow’s stock is on track for its worst day ever. Here’s what went wrong.",
-    "tt": null,
-    "s": "Shares in the software company were down 24% on Thursday morning as investors digested its third-quarter earnings.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
-    "ts": 1793282460000,
-    "tags": []
-   },
-   {
-    "t": "As voters struggle with pricey car loans, mortgages and credit-card debt, the cost of money itself is on the ballot",
-    "tt": null,
-    "s": "Interest rates aren’t expected to decline anytime soon, as the Federal Reserve held rates steady on Wednesday",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-    "ts": 1793282220000,
-    "tags": []
-   },
-   {
-    "t": "Economy grows at fastest pace in a year, GDP shows — and shows little sign of slowing",
-    "tt": null,
-    "s": "The U.S. economy ripped off its fastest rate of growth in a year, amped up by the boom in artificial intelligence and strong spending by wealthier Americans.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/u-s-economy-grows-at-fastest-pace-in-almost-three-years-third-quarter-gdp-shows-0e15b810?mod=mw_rss_topstories",
-    "ts": 1793282160000,
-    "tags": []
-   },
-   {
-    "t": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
-    "tt": "Lilly, Zepbound satışlarının artmasıyla birlikte bu yıl üçüncü kez görünümünü yükseltti",
-    "s": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
-    "ss": "GLP-1 ilacı ABD'de reçeteli kilo verme ilaçları pazarında hakimiyetini sürdürüyor.",
-    "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
-    "ts": 1793281740000,
     "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Major Fast-Food Chain Faces Wave Of Restaurant Closures As Franchise Giant Files For Bankruptcy",
+    "tt": "Büyük Fast Food Zinciri, Dev Franchise İflas Başvurusunda Bulunurken Restoran Kapanma Dalgasıyla Karşı Karşıya",
+    "s": "Major Fast-Food Chain Faces Wave Of Restaurant Closures As Franchise Giant Files For Bankruptcy Wendy's could see up to 60 more restaurants closed across the United States through mid-November as one of its largest franchise operators battles bankruptcy, according to USA Today . Meritage Hospitality",
+    "ss": "Büyük Fast Food Zinciri, Franchise Devi İflas Başvurusunda Bulunurken Restoran Kapanma Dalgasıyla Karşı Karşıya USA Today'e göre Wendy's, en büyük franchise operatörlerinden biri iflasla mücadele ederken, Kasım ortasına kadar Amerika Birleşik Devletleri'nde 60'a kadar restoranın daha kapandığını görebilir. Meritage Misafirperverliği",
+    "u": "https://www.zerohedge.com/economics/major-fast-food-chain-faces-wave-restaurant-closures-franchise-giant-files-bankruptcy",
+    "ts": 1793291100000,
+    "tags": []
+   },
+   {
+    "t": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know?",
+    "tt": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor?",
+    "s": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know? The same Obama-appointed judge that President Donald Trump once branded a \"Radical Left Lunatic\" and demanded be impeached is now tasked with deciding whether the public can see what federal agent",
+    "ss": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor? Başkan Donald Trump'ın bir zamanlar \"Radikal Sol Deli\" olarak damgaladığı ve görevden alınmasını talep ettiği, Obama tarafından atanan yargıç, şimdi halkın hangi federal ajanı görüp göremeyeceğine karar vermekle görevlendirildi.",
+    "u": "https://www.zerohedge.com/political/trump-faces-plot-twist-ilhan-omar-warrant-fight-old-foe-reemerges-and-what-did-obamas-fbi",
+    "ts": 1793289300000,
+    "tags": []
+   },
+   {
+    "t": "Netanyahu's Likud Accuses Qatar, Turkey Of Election Interference Aimed At 'Islamizing Israel'",
+    "tt": "Netanyahu'nun Likud'u, Katar ve Türkiye'yi \"İsrail'i İslamlaştırmayı\" Amaçlayan Seçimlere Müdahale Etmekle Suçluyor",
+    "s": "Netanyahu's Likud Accuses Qatar, Turkey Of Election Interference Aimed At 'Islamizing Israel' Via The Cradle Israeli Prime Minister Benjamin Netanyahu accused Qatar and Turkey of financing the unprecedented success achieved by Palestinian-Israeli parties in the election this week, with his Likud par",
+    "ss": "Netanyahu'nun Likud'u, Katar ve Türkiye'yi Beşik Aracılığıyla \"İsrail'i İslamlaştırmayı\" Amaçlayan Seçimlere Müdahaleyle Suçladı İsrail Başbakanı Binyamin Netanyahu, Katar ve Türkiye'yi, Likud partisiyle bu haftaki seçimlerde Filistin-İsrail partilerinin elde ettiği benzeri görülmemiş başarıyı finanse etmekle suçladı",
+    "u": "https://www.zerohedge.com/geopolitical/netanyahus-likud-accuses-qatar-turkey-election-interference-aimed-islamizing-israel",
+    "ts": 1793288400000,
+    "tags": []
+   },
+   {
     "t": "Now Is The Time To Accumulate Bitcoin, Galaxy Says",
-    "tt": null,
+    "tt": "Galaxy, Şimdi Bitcoin Biriktirme Zamanının Geldiğini Söyledi",
     "s": "Now Is The Time To Accumulate Bitcoin, Galaxy Says Authored by James Van Straten via CoinDesk , Bitcoin's recovery above its 50-week moving average and reduced speculative exposure suggest June marked the cycle low, according to Galaxy. Rising government debt strengthens its investment case, althoug",
-    "ss": null,
+    "ss": "Galaxy, Şimdi Bitcoin Biriktirmenin Zamanı, Yazan: James Van Straten, CoinDesk aracılığıyla, Galaxy'ye göre, Bitcoin'in 50 haftalık hareketli ortalamanın üzerindeki toparlanması ve spekülatif riskin azalması, Haziran ayının döngünün düşük olduğunu gösteriyor. Artan hükümet borcu yatırım senaryosunu güçlendiriyor",
     "u": "https://www.zerohedge.com/crypto/now-time-accumulate-bitcoin-galaxy-says",
     "ts": 1793286600000,
     "tags": []
    },
    {
     "t": "Hegseth Fires Pentagon's Top Military Planner Over Alleged Iran, Ukraine War Leaks",
-    "tt": null,
+    "tt": "Hegseth, İran ve Ukrayna Savaşı Sızıntıları İddiası Üzerine Pentagon'un En İyi Askeri Planlayıcısını Kovdu",
     "s": "Hegseth Fires Pentagon's Top Military Planner Over Alleged Iran, Ukraine War Leaks Critics have called it a \"purge\" - but defenders have said the military's general officer ranks have been bloated and redundant. Secretary of War Pete Hegseth has abruptly fired one of the Pentagon's top military stra",
-    "ss": null,
+    "ss": "Hegseth, İran ve Ukrayna Savaş Sızıntıları İddiası Üzerine Pentagon'un En İyi Askeri Planlayıcısını Kovdu Eleştirmenler bunu bir \"tasfiye\" olarak nitelendirdi; ancak savunucular, ordunun genel subay rütbelerinin şişirilmiş ve gereksiz olduğunu söyledi. Savaş Bakanı Pete Hegseth, Pentagon'un en üst düzey askeri kademelerinden birini aniden kovdu.",
     "u": "https://www.zerohedge.com/military/hegseth-fires-pentagons-top-military-planner-over-alleged-iran-ukraine-war-leaks",
     "ts": 1793285700000,
     "tags": []
    },
    {
     "t": "FBI, ICE Agents Won't Monitor Polls During Midterms: Filing",
-    "tt": null,
+    "tt": "FBI ve ICE Ajanları Ara Sınavlar Sırasında Anketleri İzlemeyecek: Başvuru",
     "s": "FBI, ICE Agents Won't Monitor Polls During Midterms: Filing Authored by Zachary Stieber via The Epoch Times , FBI and Immigration and Customs Enforcement (ICE) employees will not monitor voting locations during the upcoming midterm elections, although other law enforcement agents will , a government",
-    "ss": null,
+    "ss": "FBI ve ICE Temsilcileri Ara Sınavlar Sırasında Anketleri Denetlemeyecek: Dosyalama Zachary Stieber tarafından The Epoch Times aracılığıyla yazılmıştır, FBI ve Göçmenlik ve Gümrük Muhafaza (ICE) çalışanları yaklaşan ara seçimler sırasında oy verme yerlerini izlemeyecek, ancak diğer kolluk kuvvetleri bir hükümet tarafından denetlenecek.",
     "u": "https://www.zerohedge.com/political/fbi-ice-agents-wont-monitor-polls-during-midterms-filing",
     "ts": 1793284800000,
     "tags": []
    },
    {
     "t": "Nvidia CEO Jensen Huang Reportedly Targeted In Chinese Spy Plot",
-    "tt": null,
+    "tt": "Nvidia CEO'su Jensen Huang'ın Çin Casus Planında Hedef Aldığı Bildirildi",
     "s": "Nvidia CEO Jensen Huang Reportedly Targeted In Chinese Spy Plot U.S. spy agencies concluded that a Chinese businesswoman who had cultivated Nvidia CEO Jensen Huang was passing intelligence to Beijing , and that President Trump was briefed on it roughly a year ago and took no action, according to cla",
-    "ss": null,
+    "ss": "Nvidia CEO'su Jensen Huang'ın Çin Casus Planında Hedef Aldığı Bildirildi ABD casus teşkilatları, Nvidia CEO'su Jensen Huang'ı yetiştiren Çinli bir iş kadınının Pekin'e istihbarat aktardığı ve Başkan Trump'ın yaklaşık bir yıl önce bu konuda bilgilendirildiği ve hiçbir eylemde bulunmadığı sonucuna vardı.",
     "u": "https://www.zerohedge.com/ai/nvidia-ceo-jensen-huang-reportedly-targeted-chinese-spy-plot",
     "ts": 1793283900000,
     "tags": []
    },
    {
     "t": "Here's What They're Desperate To Hide...",
-    "tt": null,
+    "tt": "İşte Saklamaktan Vazgeçtikleri Şey...",
     "s": "Here's What They're Desperate To Hide... Authored by Steve Watson via Modernity , GB News has released exclusive analysis of British police data showing a clear spike in reported crime in areas around three hotels used to house illegal migrants. Between September 2023 and August 2026 there were 673 ",
-    "ss": null,
+    "ss": "İşte Saklamak İçin Çaresiz Olduğu Şeyler... Modernity aracılığıyla Steve Watson tarafından yazılan GB News, İngiliz polisi verilerinin özel bir analizini yayınladı ve yasadışı göçmenlerin barındırıldığı üç otelin çevresindeki bölgelerde rapor edilen suçlarda açık bir artış olduğunu gösterdi. Eylül 2023 ile Ağustos 2026 arasında 673 kişi vardı.",
     "u": "https://www.zerohedge.com/political/heres-what-theyre-desperate-hide",
     "ts": 1793282100000,
     "tags": []
    },
    {
     "t": "EUR Dips After ECB Leaves Rates Unch As Expected",
-    "tt": null,
+    "tt": "EUR, ECB'nin Beklenildiği Gibi Faiz Oranlarını Açık Tutmasının Ardından Düştü",
     "s": "EUR Dips After ECB Leaves Rates Unch As Expected Hot on the heels of ECB President Lagarde's statement about early retirement , The&nbsp;European Central Bank&nbsp;kept interest rates unchanged as was fully expected. The&nbsp;deposit rate&nbsp;was left at 2.5%, as predicted by almost all economists ",
-    "ss": null,
+    "ss": "ECB'nin Faiz Oranlarını Beklendiği Gibi Düşük Bırakmasının Ardından EUR Düştü ECB Başkanı Lagarde'ın erken emeklilik açıklamasının hemen ardından, Avrupa Merkez Bankası tam olarak beklendiği gibi faiz oranlarını değiştirmedi. Mevduat oranı neredeyse tüm ekonomistlerin öngördüğü gibi %2,5'te kaldı",
     "u": "https://www.zerohedge.com/markets/eur-dips-after-ecb-leaves-rates-unch-expected",
     "ts": 1793280921000,
     "tags": []
    },
    {
     "t": "IRGC Says 3 Tankers On Fire In Hormuz, Challenges US Narrative Strait Is 'Demined'",
-    "tt": null,
+    "tt": "Devrim Muhafızları, Hürmüz'de 3 Tankerin Ateşte Olduğunu Söyledi, ABD'nin Anlatısına Göre Boğazın 'mayınlardan Arındırıldığına' İtiraz Ediyor",
     "s": "IRGC Says 3 Tankers On Fire In Hormuz, Challenges US Narrative Strait Is 'Demined' Three tankers exploded ​and caught fire in the Strait of Hormuz after attempting 'unauthorized' passage over the prior 24 hours , according to Iran's Revolutionary Guards (IRGC) on Thursday. The trio of vessels are al",
-    "ss": null,
+    "ss": "İran Devrim Muhafızları'na (IRGC) göre Perşembe günü yapılan açıklamaya göre, İran Devrim Muhafızları'na göre, Hürmüz'de 3 Tanker Yanıyor, ABD'nin Anlatısına göre Boğaz'ın 'mayınlardan arındırıldığına' meydan okuyan İran Devrim Muhafızları'na (IRGC) göre, son 24 saat içinde 'izinsiz' geçiş girişiminde bulunan üç tanker Hürmüz Boğazı'nda patladı ve alev aldı. Gemilerin üçlüsü hepsi",
     "u": "https://www.zerohedge.com/geopolitical/irgc-says-3-tankers-fire-hormuz-challenges-us-narrative-strait-demined",
     "ts": 1793280600000,
-    "tags": []
-   },
-   {
-    "t": "The Commercial Real Estate Crisis Is Far From Over",
-    "tt": null,
-    "s": "The Commercial Real Estate Crisis Is Far From Over Submitted by QTR's Fringe Finance I‘ve been harping on the problems in commercial real estate for years now, and one of the more interesting developments over the last several months has been how little anybody seems to be talking it them anymore. F",
-    "ss": null,
-    "u": "https://www.zerohedge.com/markets/commercial-real-estate-crisis-far-over",
-    "ts": 1793280000000,
-    "tags": []
-   },
-   {
-    "t": "Zelensky Sends Massive Overnight Drone Wave On Russia, With Record 1,214 UAVs Intercepted",
-    "tt": null,
-    "s": "Zelensky Sends Massive Overnight Drone Wave On Russia, With Record 1,214 UAVs Intercepted Facing pressure from President Trump to halt all attacks on Russian refineries, Ukraine's Zelensky is perhaps getting his last licks in. Overnight Ukraine sent a record number of drones into Russian territory, ",
-    "ss": null,
-    "u": "https://www.zerohedge.com/geopolitical/zelensky-sends-massive-overnight-drone-wave-russia-which-intercepted-record-1214",
-    "ts": 1793279100000,
-    "tags": []
-   },
-   {
-    "t": "US Economy Grows 3.4% In Q3, Fastest Pace In A Year, Supercharged By Massive AI Capex Spending",
-    "tt": null,
-    "s": "US Economy Grows 3.4% In Q3, Fastest Pace In A Year, Supercharged By Massive AI Capex Spending The US economy grew in the third quarter at the fastest pace in a year, supercharged by the debt-funded AI capex spending spree and a resilient American consumer. Real Gross domestic product&nbsp;(adjusted",
-    "ss": null,
-    "u": "https://www.zerohedge.com/markets/us-economy-grows-34-q3-fastest-pace-year-supercharged-massive-ai-capex-spending",
-    "ts": 1793278803000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Von der Leyen, Kanada için ortak üyelik modelini anlattı",
+    "tt": null,
+    "s": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Kanada için ısrarla önerdiği \"ortak üyelik\" modelinin ayrıntılarını açıklayarak, bu modelin Avrupa dışındaki diğer en yakın ortaklara da açık olacağını bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/von-der-leyen-kanada-icin-ortak-uyelik-modelini-anlatti-3792808",
+    "ts": 1793287797000,
+    "tags": []
+   },
    {
     "t": "Google'ın eski mühendisinden yapay zeka ve emeklilik açıklaması",
     "tt": null,
@@ -854,15 +849,6 @@
     "u": "https://www.bloomberght.com/lagarde-amb-baskanligi-gorevinden-subat-ta-ayrilacak-3792798",
     "ts": 1793268730000,
     "tags": []
-   },
-   {
-    "t": "Shell'in üçüncü çeyrek net kârı ikiye katlandı",
-    "tt": null,
-    "s": "Enerji şirketi Shell'in bu yılın üçüncü çeyreğindeki net kârı geçen yılın aynı dönemine göre yüzde 99 artışla 10,81 milyar dolara yükselerek piyasa beklentilerini aştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/shell-in-ucuncu-ceyrek-net-kri-ikiye-katlandi-3792797",
-    "ts": 1793268155000,
-    "tags": []
    }
   ]
  },
@@ -878,7 +864,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
