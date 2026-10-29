@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T10:03:25.577344+00:00",
+ "generated": "2026-10-29T10:59:36.605799+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 17.05,
-   "c": 0.83,
-   "d": 0.14,
+   "p": 17.14,
+   "c": 1.36,
+   "d": 0.23,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4038.1,
-   "c": -0.33,
-   "d": -13.5,
+   "p": 4038.0,
+   "c": -0.34,
+   "d": -13.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.6,
-   "c": -1.6,
-   "d": -0.857,
+   "p": 52.89,
+   "c": -1.06,
+   "d": -0.567,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.62,
-   "c": -1.13,
-   "d": -1.16,
+   "p": 101.54,
+   "c": -1.21,
+   "d": -1.24,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.56,
-   "c": -4.13,
-   "d": -4.76,
+   "p": 110.34,
+   "c": -4.32,
+   "d": -4.98,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.28,
-   "c": 0.09,
-   "d": 0.09,
+   "p": 102.185,
+   "c": -0.0,
+   "d": -0.005,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8322,
+   "p": 49.8347,
    "c": 0.07,
-   "d": 0.033,
+   "d": 0.036,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80103,
-   "c": -1.67,
+   "p": 80197,
+   "c": -1.48,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2318.35,
-   "c": -2.24,
+   "p": 2323.87,
+   "c": -1.77,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.18,
-   "c": -2.72,
+   "p": 100.44,
+   "c": -2.34,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.29,
-   "c": -3.02,
+   "c": -2.61,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 747.21,
-   "c": -0.88,
+   "p": 740.86,
+   "c": -2.39,
    "k": "usd"
   }
  ],
@@ -384,6 +384,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Shell Lifts Buyback to $5 Billion as Refining Windfall Grows",
+    "tt": "Shell, Petrol Rafineri Tesisi Olarak 5 Milyar Dolarlık Geri Alımı Duyurdu",
+    "s": "Shell Plc boosted its share buyback to one of the highest levels in its history, returning more of a wartime refining windfall to investors as disruptions across the Middle East and Russia squeeze global fuel supplies.",
+    "ss": "Shell Plc, İran savaşı ve Rusya-Ukrayna çatışmasının petrol rafinaj işinde rekor marjlara yol açması ve karlarının artması nedeniyle şimdiye kadarki en yüksek hisse geri alımlarından birini duyurdu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shell-reports-second-highest-profit-ever-as-refining-hits-record",
+    "ts": 1793257576000,
+    "tags": []
+   },
+   {
     "t": "Nasdaq Futures Sink as AI Trade Shows New Cracks: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
     "s": "A global rally in technology shares stalled after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in artificial intelligence spending will deliver sufficient returns.",
@@ -397,6 +406,65 @@
     ]
    },
    {
+    "t": "Anwar Cuts a Deal With Opposition to Clear a 2027 Budget Hurdle",
+    "tt": "Anwar, 2027 Bütçe Engelini Ortadan Kaldırmak İçin Muhalefetle Anlaşmaya Vardı",
+    "s": "Malaysia’s 2027 budget cleared its first major parliamentary hurdle after Prime Minister Anwar Ibrahim’s government struck a pact with several opposition and independent lawmakers, securing their support for the spending plan in exchange for constituency development funds.",
+    "ss": "Malezya'nın 2027 bütçesi, Başbakan Anwar İbrahim'in hükümetinin çeşitli muhalefet ve bağımsız milletvekilleriyle bir anlaşmaya vararak seçim bölgesi geliştirme fonları karşılığında harcama planına destek sağlamalarının ardından ilk büyük parlamento engelini aştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/anwar-cuts-a-deal-with-opposition-to-clear-a-2027-budget-hurdle",
+    "ts": 1793271128000,
+    "tags": []
+   },
+   {
+    "t": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
+    "tt": "Petrol, Yatırımcıların Geçici İran Diplomasisinin İşaretlerini Tartmasıyla Kayıyor",
+    "s": "Oil eased as traders assessed fresh diplomatic efforts in the Middle East to avert a resumption of US military strikes on Iran, a prospect that has pushed prices higher in recent weeks.",
+    "ss": "Petrol fiyatları, tüccarların ABD'nin İran'a yönelik askeri saldırılarının yeniden başlamasını engellemek için Orta Doğu'daki yeni diplomatik çabalarını değerlendirmesiyle geriledi; bu da fiyatların son haftalarda yükselişe geçmesine neden oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+    "ts": 1793225101000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Investors May Have Bought All the AI Bonds They Can Handle",
+    "tt": "Yatırımcılar Kullanabilecekleri Tüm Yapay Zeka Tahvillerini Satın Almış Olabilir",
+    "s": "Credit default swaps show growing risk of data-center bonds.",
+    "ss": "Kredi temerrüt takasları, veri merkezi tahvillerinin artan riskini gösteriyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/investors-may-have-bought-all-the-ai-bonds-they-can-handle",
+    "ts": 1793269790000,
+    "tags": []
+   },
+   {
+    "t": "Cosco Profit Jumps Most in Two Years as Turmoil Supports Rates",
+    "tt": "Cosco'nun Karı, Kargaşanın Faizleri Desteklemesiyle İki Yılda En Çok Arttı",
+    "s": "Cosco Shipping Holdings Co. earnings jumped the most in two years as persistent geopolitical disruptions rerouted trade routes, tying up more of its vessels for longer while container rates surged.",
+    "ss": "Cosco Shipping Holdings Co.'nun kazançları, devam eden jeopolitik aksaklıkların ticaret rotalarını yeniden yönlendirmesi, daha fazla gemisini daha uzun süreliğine bağlaması ve konteyner fiyatlarının artmasıyla iki yılın en büyük artışını yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/cosco-profit-jumps-most-in-two-years-as-turmoil-supports-rates",
+    "ts": 1793269126000,
+    "tags": []
+   },
+   {
+    "t": "Lagarde to Step Down as ECB President on Feb. 7",
+    "tt": "Lagarde 7 Şubat'ta ECB Başkanlığından Ayrılacak",
+    "s": "European Central Bank President Christine Lagarde informed the Governing Council and European Council President António Costa that she will resign effective February 7, 2027. Bloomberg's Oliver Crook reports from Frankfurt. (Source: Bloomberg)",
+    "ss": "Avrupa Merkez Bankası Başkanı Christine Lagarde, Yönetim Konseyi ve Avrupa Konseyi Başkanı António Costa'ya 7 Şubat 2027'den itibaren istifa edeceğini bildirdi. Bloomberg'den Oliver Crook, Frankfurt'tan bildirdi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-to-step-down-as-ecb-president-on-feb-7-video",
+    "ts": 1793269110000,
+    "tags": []
+   },
+   {
+    "t": "Qatar to Buy LNG From Woodside as It Scours for US Supply",
+    "tt": "Katar, ABD Tedarikine Yönelirken Woodside'dan LNG Alacak",
+    "s": "QatarEnergy agreed to purchase US liquefied natural gas from Woodside Energy Group Ltd. for two decades, saying it’s now the top buyer of the American fuel as it diversifies from the Middle East.",
+    "ss": "QatarEnergy, ABD sıvılaştırılmış doğal gazını Woodside Energy Group Ltd.'den yirmi yıl boyunca satın almayı kabul etti ve Orta Doğu'dan farklılaştığı için artık Amerikan yakıtının en büyük alıcısı olduğunu söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/qatar-agrees-to-buy-lng-from-woodside-in-second-long-term-deal",
+    "ts": 1793262944000,
+    "tags": []
+   },
+   {
     "t": "Can Chancellor Healey's Budget Aid Britain's Founders?",
     "tt": "Şansölye Healey'nin Bütçesi Britanya'nın Kurucularına Yardımcı Olabilir mi?",
     "s": "Bloomberg UK Senior Columnist Merryn Somerset Webb discusses Chancellor of the Exchequer John Healey's promise of a founder's allowance and government support for young entrepreneurs. \"It's an announcement but it is meaningless and, of course, a lot of the stuff in the budget is that,\" she says on \"",
@@ -407,74 +475,11 @@
    },
    {
     "t": "Healey's Budget Placates Gilt Markets, Santander Says",
-    "tt": null,
+    "tt": "Santander, Healey'nin Bütçesinin Yaldızlı Piyasaları Sakinleştirdiğini Söyledi",
     "s": "Santander CIB's UK Chief Economist Victoria Clarke says, \"The UK fiscal trajectory was printed on paper yesterday: it does not look brilliant but it looks okay and it wasn't massively worse, but it needs to be delivered.\" She speaks at an exclusive event in London for Bloomberg.com subscribers follo",
-    "ss": null,
+    "ss": "Santander CIB'nin Birleşik Krallık Baş Ekonomisti Victoria Clarke şöyle diyor: \"Birleşik Krallık'ın mali gidişatı dün kağıda basıldı: parlak görünmüyor ama iyi görünüyor ve çok daha kötü de değildi, ancak yerine getirilmesi gerekiyor.\" Bloomberg.com abonelerine yönelik Londra'daki özel bir etkinlikte konuşuyor",
     "u": "https://www.bloomberg.com/news/videos/2026-10-29/healey-s-budget-placates-gilt-markets-santander-says-video",
     "ts": 1793267877000,
-    "tags": []
-   },
-   {
-    "t": "Shell Lifts Buyback to $5 Billion as Refining Windfall Grows",
-    "tt": "Shell, Petrol Rafineri Tesisi Olarak 5 Milyar Dolarlık Geri Alımı Duyurdu",
-    "s": "Shell Plc boosted its share buyback to one of the highest levels in its history, returning more of a wartime refining windfall to investors as disruptions across the Middle East and Russia squeeze global fuel supplies.",
-    "ss": "Shell Plc, İran savaşı ve Rusya-Ukrayna çatışmasının petrol rafinaj işinde rekor marjlara yol açması ve karlarının artması nedeniyle şimdiye kadarki en yüksek hisse geri alımlarından birini duyurdu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shell-reports-second-highest-profit-ever-as-refining-hits-record",
-    "ts": 1793257576000,
-    "tags": []
-   },
-   {
-    "t": "Have Britain's Income Taxes Grown Too High?",
-    "tt": null,
-    "s": "Bloomberg UK Senior Reporter John Stepek discusses Chancellor of the Exchequer John Healey's budget and the potential impact of his tax measures on the labor market and general public. He speaks during an event held exclusively for Bloomberg.com subscribers in London. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/have-britain-s-income-taxes-grown-too-high-video",
-    "ts": 1793266694000,
-    "tags": []
-   },
-   {
-    "t": "Stronger UK-EU Ties Would Strengthen Pound, JPMorgan's Gimber Says",
-    "tt": null,
-    "s": "JPMorgan Asset Management Global Market Strategist Hugh Gimber comments on the outlook for the UK economy following yesterday's budget, saying \"measures that brought the UK closer to the EU would enhance the prospect of strong investment over the years to come.\" He speaks before a live audience on T",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/jpmorgan-says-stronger-uk-eu-ties-would-strengthen-pound-video",
-    "ts": 1793266410000,
-    "tags": []
-   },
-   {
-    "t": "Euro Bearish Bias Persists in Options and Charts Before ECB",
-    "tt": null,
-    "s": "The euro is trading near its weakest level since May 2025 in the run-up to the European Central Bank’s interest rate meeting later Thursday, with options and technical signals pointing to the risk of further losses.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/euro-bearish-bias-persists-in-options-and-charts-before-ecb",
-    "ts": 1793265778000,
-    "tags": []
-   },
-   {
-    "t": "‘Free the Onions’ Rally Sparks Debate on 68-Year-Old Trading Ban",
-    "tt": null,
-    "s": "Outside the Chicago Mercantile Exchange last week, a small group of university students staged an irreverent rally that sparked a serious debate among some of America’s financial elite about what can and can’t be traded.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/-free-the-onions-rally-sparks-debate-on-68-year-old-trading-ban",
-    "ts": 1793265300000,
-    "tags": []
-   },
-   {
-    "t": "Bank Assets in India Hub That Competes With Singapore Jump 60%",
-    "tt": "Singapur ile Rekabet Eden Hindistan Merkezindeki Banka Varlıkları %60 Atladı",
-    "s": "Banking assets in India’s international financial hub have surged about 60% since June, a top official said, as growth in the nation’s credit markets boosts GIFT City that’s competing with Singapore and Hong Kong in attracting foreign capital.",
-    "ss": "Üst düzey bir yetkili, Hindistan'ın uluslararası finans merkezindeki bankacılık varlıklarının Haziran ayından bu yana yaklaşık yüzde 60 arttığını, çünkü ülkenin kredi piyasalarındaki büyümenin, yabancı sermaye çekme konusunda Singapur ve Hong Kong ile rekabet eden GIFT City'yi desteklediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/bank-assets-in-india-hub-that-competes-with-singapore-jump-60",
-    "ts": 1793264268000,
-    "tags": []
-   },
-   {
-    "t": "Tata Group’s Boardroom Battle Sparks Political Spat in India",
-    "tt": null,
-    "s": "A senior minister in the Narendra Modi-led administration pushed back on opposition leader Rahul Gandhi’s comments on social media suggesting the government’s involvement in a power struggle at the $185 billion Tata Group.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/tata-group-s-boardroom-battle-sparks-political-spat-in-india",
-    "ts": 1793264255000,
     "tags": []
    }
   ],
@@ -572,19 +577,37 @@
   ],
   "MarketWatch": [
    {
+    "t": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+    "tt": "Medicare, hasta bakımını önceden onaylamak için yapay zekayı kullandı ve bu, tıbbi hizmetlerde anında büyük bir düşüşe yol açtı",
+    "s": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+    "ss": "Medicare, israfa yönelik tıbbi harcamaları hedeflemek amacıyla ön yetkilendirmeler yapmak için yapay zeka kullanımını test ediyor",
+    "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+    "ts": 1793271600000,
+    "tags": []
+   },
+   {
+    "t": "‘There may be better investment options’: My church received $1.5 million from a parishioner. Is 3.75% interest enough?",
+    "tt": "'Daha iyi yatırım seçenekleri olabilir': Kilisem bir cemaatten 1,5 milyon dolar aldı. %3,75 faiz yeterli mi?",
+    "s": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+    "ss": "\"Bu hediyenin boyutu ve uzun vadeli doğası göz önüne alındığında, fonların ihtiyatlı bir şekilde yönetildiğinden emin olmak istiyoruz.\"",
+    "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+    "ts": 1793268900000,
+    "tags": []
+   },
+   {
     "t": "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.",
-    "tt": null,
+    "tt": "ServiceNow hisseleri tarihteki en büyük düşüşe doğru ilerliyor. Ancak JPMorgan parlak bir nokta görüyor.",
     "s": "Shares in the software company declined nearly 18% in premarket trading on Thursday as investors digested its third-quarter earnings.",
-    "ss": null,
+    "ss": "Yazılım şirketinin hisseleri, yatırımcıların üçüncü çeyrek kazançlarını sindirmesiyle Perşembe günü piyasa öncesi işlemlerde yaklaşık %18 düştü.",
     "u": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
     "ts": 1793267520000,
     "tags": []
    },
    {
     "t": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
-    "tt": null,
+    "tt": "'Gösterişli arabaların çekiciliği yok': Eşim ve benim tasarruflarımızdan daha uzun yaşama şansımız %99. Neden hepsini harcamıyoruz?",
     "s": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children or close family remaining.”",
-    "ss": null,
+    "ss": "\"Ben 68 yaşındayım, o 74 yaşında ve ikimizin de sağlığı iyi. Daha sonra evlendik ve ne çocuğumuz ne de yakın ailemiz kaldı.\"",
     "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
     "ts": 1793265300000,
     "tags": []
@@ -642,34 +665,32 @@
     "u": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
     "ts": 1793232600000,
     "tags": []
-   },
-   {
-    "t": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-    "tt": "Fortinet'in hisseleri kazançların ardından düşüşe geçti. İşte nedeni.",
-    "s": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
-    "ss": "Fortinet'in iş segmentlerinden birinde büyümenin önemli ölçüde yavaşlaması nedeniyle siber güvenlik hisseleri genel olarak düşüyor.",
-    "u": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-    "ts": 1793229480000,
-    "tags": []
-   },
-   {
-    "t": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-    "tt": "ServiceNow'un hisseleri, kazançların artan yapay zeka görünümünü gölgelemesiyle düşüyor",
-    "s": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
-    "ss": "Milyonlarca dolarlık yapay zeka anlaşmalarındaki artışa rağmen ServiceNow'un kazanç sonuçları, yazılıma şüpheyle yaklaşanların desteğini kazanmaya yetmedi.",
-    "u": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-    "ts": 1793228520000,
-    "tags": [
-     "DXY ▼"
-    ]
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Democratic Sweep Fears Batter Drone Stocks As Miller Tabak Spots Buying Opportunities",
+    "tt": "Miller Tabak'ın Satın Alma Fırsatlarını Fark Etmesiyle Demokratik Süpürme, Vurucu Drone Hisselerinin Yükselmesinden Korkuyor",
+    "s": "Democratic Sweep Fears Batter Drone Stocks As Miller Tabak Spots Buying Opportunities Jefferies aerospace and defense analyst Sheila Kahyaoglu warned in a new note that \" A Democratic sweep would certainly put the reconciliation proposal at risk ,\" potentially jeopardizing the Trump administration's",
+    "ss": "Miller Tabak, Satın Alma Fırsatlarını Belirlerken Demokratik Süpürme, Drone Hisselerini Kaybetmesinden Korkuyor Jefferies havacılık ve savunma analisti Sheila Kahyaoğlu, yeni bir notta \"Demokratik bir süpürme, uzlaşma önerisini kesinlikle riske atacak\" ve potansiyel olarak Trump yönetiminin teklifini tehlikeye atacağı konusunda uyardı.",
+    "u": "https://www.zerohedge.com/military/democratic-sweep-fears-batter-drone-stocks-miller-tabak-spots-buying-opportunities",
+    "ts": 1793271300000,
+    "tags": []
+   },
+   {
+    "t": "UK Orders Independent Review Into Handcuffed Murder Victim Henry Nowak",
+    "tt": "İngiltere, Kelepçeli Cinayet Kurbanı Henry Nowak'ın Bağımsız İncelemesini Emretti",
+    "s": "UK Orders Independent Review Into Handcuffed Murder Victim Henry Nowak Authored by AG News Staff via American Greatness , The British government has ordered an independent investigation into the murder of 18-year-old university student Henry Nowak , following public outrage over police officers hand",
+    "ss": "Birleşik Krallık, Kelepçeli Cinayet Kurbanı Henry Nowak Hakkında Bağımsız İnceleme Emri Verdi AG Haber Personeli tarafından American Greatness aracılığıyla yazılmıştır. İngiliz hükümeti, polis memurlarının ellerine yönelik halk öfkesinin ardından 18 yaşındaki üniversite öğrencisi Henry Nowak'ın öldürülmesiyle ilgili bağımsız bir soruşturma yapılmasını emretti.",
+    "u": "https://www.zerohedge.com/political/uk-orders-independent-review-handcuffed-murder-victim-henry-nowak",
+    "ts": 1793269800000,
+    "tags": []
+   },
+   {
     "t": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad",
-    "tt": null,
+    "tt": "İsviçre, Çad'daki Cinsel Sömürü Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu",
     "s": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad Switzerland's aid agency has frozen CHF1.25 million ($1.52 million) in funding to Doctors Without Borders (MSF) over how the charity handled sexual exploitation by its staff in Chad, swissinfo reported Oct. 26. T",
-    "ss": null,
+    "ss": "İsviçre, Çad'daki Cinsel İstismar Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu Swissinfo'nun 26 Ekim tarihli haberine göre, İsviçre yardım kuruluşu, yardım kuruluşunun Çad'daki personelinin cinsel istismarını nasıl ele aldığıyla ilgili olarak Sınır Tanımayan Doktorlar'a (MSF) sağlanan 1,25 milyon CHF (1,52 milyon $) tutarındaki fonu dondurdu.",
     "u": "https://www.zerohedge.com/geopolitical/switzerland-freezes-funding-doctors-without-borders-over-sexual-exploitation-chad",
     "ts": 1793267100000,
     "tags": []
@@ -736,27 +757,36 @@
     "u": "https://www.zerohedge.com/geopolitical/day-after-midterms-diplomacy-or-another-epic-fury",
     "ts": 1793242800000,
     "tags": []
-   },
-   {
-    "t": "There Are Multiple Paths Out Of Israel's Election Deadlock",
-    "tt": "İsrail'in Seçim Çıkmazından Çıkışın Çok Sayıda Yolu Var",
-    "s": "There Are Multiple Paths Out Of Israel's Election Deadlock Via Middle East Eye More&nbsp;Israelis&nbsp;voted in Tuesday’s election than in any poll since 2001, yet neither Israeli Prime Minister Benjamin Netanyahu nor his challengers have a straightforward path to power. Complicating matters are the",
-    "ss": "Ortadoğu'nun Gözüyle İsrail'in Seçim Çıkmazından Çıkışın Çok Sayıda Yolu Var Salı günkü seçimlerde 2001'den bu yana yapılan tüm anketlerde olduğundan daha fazla İsrailli oy kullandı, ancak ne İsrail Başbakanı Binyamin Netanyahu'nun ne de rakiplerinin iktidara giden basit bir yolu yok. Karmaşık meseleler",
-    "u": "https://www.zerohedge.com/geopolitical/three-most-likely-paths-forward-out-israels-election-deadlock",
-    "ts": 1793241300000,
-    "tags": []
-   },
-   {
-    "t": "Final Defendants Plead Guilty In $65 Million Elder Fraud Ring Exposed By YouTube Scambaiters",
-    "tt": "Son Sanıklar, YouTube Dolandırıcıları Tarafından İfşa Edilen 65 Milyon Dolarlık Yaşlı Dolandırıcılık Yüzüğünde Suçunu İtiraf Etti",
-    "s": "Final Defendants Plead Guilty In $65 Million Elder Fraud Ring Exposed By YouTube Scambaiters The final two arrested members of a sprawling $65 million fraud syndicate that preyed on thousands of elderly Americans have pleaded guilty in San Diego federal court, the U.S. Attorney's Office for the Sout",
-    "ss": "Son Sanıklar, YouTube Dolandırıcıları Tarafından İfşa Edilen 65 Milyon Dolarlık Yaşlı Dolandırıcılık Yüzüğünün Suçunu Kabul Etti Binlerce yaşlı Amerikalıyı hedef alan 65 milyon dolarlık dolandırıcılık örgütünün tutuklanan son iki üyesi, ABD Güney Başsavcılığı olan San Diego federal mahkemesinde suçlarını kabul etti",
-    "u": "https://www.zerohedge.com/political/final-defendants-plead-guilty-65-million-elder-fraud-ring-exposed-youtube-scambaiters",
-    "ts": 1793239800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "İtalya'da banka ve enerji sektörlerine vergi artışı geliyor",
+    "tt": null,
+    "s": "İtalya'da Başbakan Giorgia Meloni liderliğindeki sağ koalisyon hükümeti, banka, sigorta ve enerji sektörlerine yönelik vergilerin artırılmasını öngören 2027 bütçe planını onayladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/italya-da-banka-ve-enerji-sektorlerine-vergi-artisi-geliyor-3792799",
+    "ts": 1793271079000,
+    "tags": []
+   },
+   {
+    "t": "Lagarde AMB Başkanlığı görevinden Şubat'ta ayrılacak",
+    "tt": null,
+    "s": "Avrupa Merkez Bankası (AMB) Başkanı Christine Lagarde, görevinden 7 Şubat 2027'de ayrılacağını açıkladı. Görev süresi Ekim 2027'de sona erecek Lagarde'ın erken ayrılık kararı, Avrupa'nın en önemli ekonomi yönetimi pozisyonlarından biri için başkanlık yarışını hızlandırdı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/lagarde-amb-baskanligi-gorevinden-subat-ta-ayrilacak-3792798",
+    "ts": 1793268730000,
+    "tags": []
+   },
+   {
+    "t": "Shell'in üçüncü çeyrek net kârı ikiye katlandı",
+    "tt": null,
+    "s": "Enerji şirketi Shell'in bu yılın üçüncü çeyreğindeki net kârı geçen yılın aynı dönemine göre yüzde 99 artışla 10,81 milyar dolara yükselerek piyasa beklentilerini aştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/shell-in-ucuncu-ceyrek-net-kri-ikiye-katlandi-3792797",
+    "ts": 1793268155000,
+    "tags": []
+   },
    {
     "t": "Lloyds'tan yüzde 100'lük kâr artışı",
     "tt": null,
@@ -819,33 +849,6 @@
     "u": "https://www.bloomberght.com/ispanya-daki-tren-kazasinda-can-kaybi-artti-3792790",
     "ts": 1793260047000,
     "tags": []
-   },
-   {
-    "t": "Petrolde müzakere etkisi",
-    "tt": null,
-    "s": "Brent petrolün varil fiyatı, bugün saat 09.30 itibarıyla kapanışa göre yaklaşık yüzde 1,3 azalarak 110,22 dolara geriledi. Fiyatlardaki düşüşte, ABD ile İran arasında müzakerelerin yeniden başlamasına yönelik diplomatik çabaların bölgedeki petrol arzına ilişkin endişeleri hafifletmesi etkili oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/petrolde-muzakere-etkisi-3792789",
-    "ts": 1793258835000,
-    "tags": []
-   },
-   {
-    "t": "AMB'nin faizleri sabit tutması bekleniyor",
-    "tt": null,
-    "s": "Avrupa Merkez Bankası'nın (AMB), Fransa tahvil piyasasındaki çalkantı ve enerji fiyatlarındaki yükselişin yarattığı belirsizlikler nedeniyle politika faizini yüzde 2,5 seviyesinde sabit tutması bekleniyor. Ekonomistler, bankanın aralık ayında yılın üçüncü ve son faiz artışına gideceğini öngörüyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/amb-nin-faizleri-sabit-tutmasi-bekleniyor-3792788",
-    "ts": 1793257529000,
-    "tags": []
-   },
-   {
-    "t": "Alphabet'in kârında yüzde 25'lik artış",
-    "tt": null,
-    "s": "ABD'li teknoloji şirketi Alphabet'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yüzde 25 artarak 127,6 milyar dolara yükseldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/alphabet-in-krinda-yuzde-25-lik-artis-3792785",
-    "ts": 1793228353000,
-    "tags": []
    }
   ]
  },
@@ -861,7 +864,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
