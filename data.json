@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T03:41:44.333713+00:00",
+ "generated": "2026-10-29T04:34:45.108338+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4051.4,
-   "c": -0.0,
-   "d": -0.2,
+   "p": 4048.9,
+   "c": -0.07,
+   "d": -2.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.15,
-   "c": -0.57,
-   "d": -0.307,
+   "p": 53.275,
+   "c": -0.34,
+   "d": -0.182,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.47,
-   "c": -1.27,
-   "d": -1.31,
+   "p": 101.35,
+   "c": -1.39,
+   "d": -1.43,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.22,
-   "c": -4.42,
-   "d": -5.1,
+   "p": 110.21,
+   "c": -4.43,
+   "d": -5.11,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.131,
-   "c": -0.06,
-   "d": -0.059,
+   "p": 102.172,
+   "c": -0.02,
+   "d": -0.018,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8309,
+   "p": 49.83,
    "c": 0.06,
-   "d": 0.032,
+   "d": 0.031,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 79725,
-   "c": -1.71,
+   "p": 79833,
+   "c": -1.4,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2303.41,
-   "c": -2.54,
+   "p": 2309.32,
+   "c": -1.91,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 99.54,
-   "c": -2.56,
+   "p": 99.58,
+   "c": -2.21,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.29,
-   "c": -3.71,
+   "c": -3.09,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 745.22,
-   "c": -0.25,
+   "p": 748.82,
+   "c": 0.34,
    "k": "usd"
   }
  ],
@@ -384,6 +384,46 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Chinese Tech Stocks Sink Even as Chipmaker Sales Surge 1,800%",
+    "tt": "Çin Teknoloji Hisseleri, Chipmaker Satışlarının %1.800 Artmasına Rağmen Düştü",
+    "s": "Chinese tech hardware shares tumbled as eye-popping quarterly results at some companies failed to offset persistent concerns over fundamentals and weak global AI sentiment.",
+    "ss": "Çin teknoloji donanım hisseleri, bazı şirketlerin üç aylık çarpıcı sonuçlarının, temel unsurlara ilişkin ısrarcı endişeleri ve zayıf küresel yapay zeka duyarlılığını dengelemede başarısız olmasıyla düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/chinese-tech-stocks-sink-even-as-chipmaker-sales-surge-1-800",
+    "ts": 1793248143000,
+    "tags": []
+   },
+   {
+    "t": "Henderson Land: HK Home Market Resilient to High Rates",
+    "tt": "Henderson Land: HK İç Piyasası Yüksek Faizlere Dayanıklı",
+    "s": "Andrew Fung, CFO at Henderson Land, discusses the impact of higher interest rates on Hong Kong's property market. He also says rental yields are supporting the housing market in the financial hub. He speaks exclusively on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
+    "ss": "Henderson Land CFO'su Andrew Fung, yüksek faiz oranlarının Hong Kong emlak piyasası üzerindeki etkisini tartışıyor. Ayrıca kira getirilerinin finans merkezindeki konut piyasasını desteklediğini söylüyor. Yalnızca \"Bloomberg: The China Show\"da konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/henderson-land-hk-home-market-resilient-to-high-rates-video",
+    "ts": 1793247115000,
+    "tags": []
+   },
+   {
+    "t": "Japan 2-Year Bond Sale Sees Firm Demand Before BOJ Decision",
+    "tt": "Japonya’nın İki Yıllık Tahvil Satış Talebi 12 Aylık Ortalamadan Daha Güçlü",
+    "s": "Japan’s two-year government bond auction drew firm demand, as elevated yields attracted investors ahead of a Bank of Japan policy decision on Friday, where rates are widely expected to remain unchanged.",
+    "ss": "Japonya'nın Perşembe günkü iki yıllık devlet tahvili ihalesi, artan getirilerin alımları desteklemesiyle 12 aylık ortalamanın üzerinde talep gördü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average",
+    "ts": 1793245083000,
+    "tags": []
+   },
+   {
+    "t": "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
+    "s": "Technology shares fell, stalling this week’s rally, after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns.",
+    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793225507000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲",
+     "DXY ▲"
+    ]
+   },
+   {
     "t": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
     "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
     "s": "Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
@@ -396,15 +436,6 @@
      "Altın ▲",
      "BTC ▲"
     ]
-   },
-   {
-    "t": "Japan’s Two-Year Bond Sale Demand Stronger Than 12-Month Average",
-    "tt": "Japonya’nın İki Yıllık Tahvil Satış Talebi 12 Aylık Ortalamadan Daha Güçlü",
-    "s": "Japan’s two-year government bond auction on Thursday saw stronger demand than the 12-month average as elevated yields underpinned buying.",
-    "ss": "Japonya'nın Perşembe günkü iki yıllık devlet tahvili ihalesi, artan getirilerin alımları desteklemesiyle 12 aylık ortalamanın üzerinde talep gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average",
-    "ts": 1793245083000,
-    "tags": []
    },
    {
     "t": "HK Dollar Peg Architect Says Narrower Band May Ease Speculation",
@@ -445,28 +476,6 @@
     "tags": []
    },
    {
-    "t": "RBC Flags Risks of Renewed US Strikes on Iran Despite Diplomacy",
-    "tt": "RBC, Diplomasiye Rağmen ABD'nin İran'a Yeni Saldırı Risklerini İşaretledi",
-    "s": "Renewed US military strikes against Iran remain possible despite a flurry of diplomatic activity in recent days ahead of the midterm elections, according to RBC Capital Markets LLC.",
-    "ss": "RBC Capital Markets LLC'ye göre, ara seçimler öncesinde son günlerde yaşanan diplomatik faaliyetlere rağmen ABD'nin İran'a yönelik yeni askeri saldırıları mümkün olmaya devam ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/rbc-flags-risks-of-renewed-us-strikes-on-iran-despite-diplomacy",
-    "ts": 1793243371000,
-    "tags": []
-   },
-   {
-    "t": "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "Technology shares fell, stalling this week’s rally, after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns.",
-    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793225507000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲",
-     "DXY ▲"
-    ]
-   },
-   {
     "t": "Biggest Pharmacy Chain in Malaysia Plans $565 Million Share Sale",
     "tt": "Malezya'nın En Büyük Eczane Zinciri 565 Milyon Dolarlık Hisse Satışı Planlıyor",
     "s": "Malaysia’s biggest pharmacy chain Big Caring Group Bhd. is offering shares worth up to 2.3 billion ringgit ($565 million) in an initial public offering that’s poised to be the country’s second largest listing this year.",
@@ -474,21 +483,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/biggest-pharmacy-chain-in-malaysia-plans-565-million-share-sale",
     "ts": 1793242783000,
     "tags": []
-   },
-   {
-    "t": "Gold Dips to Near $4,000 as Fed Holds Rates With Little Guidance",
-    "tt": "Altın, Fed'in Faizleri Çok Az Yönlendirmeyle Tutması ile 4.000 Dolara Yakınlarına Düştü",
-    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
-    "ss": "Altın, Fed'in borçlanma maliyetlerini sabit tutması ve bir sonraki adımına ilişkin birkaç ipucu sunarak yıl sonundan önce faiz artırımı ihtimalini açık bırakmasının ardından geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
-    "ts": 1793231042000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "CNBC": [
