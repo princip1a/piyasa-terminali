@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T12:17:41.023758+00:00",
+ "generated": "2026-10-29T13:21:43.036618+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,58 +24,58 @@
   },
   {
    "n": "VIX",
-   "p": 17.25,
-   "c": 2.01,
-   "d": 0.34,
+   "p": 16.87,
+   "c": -0.24,
+   "d": -0.04,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4034.3,
-   "c": -0.43,
-   "d": -17.3,
+   "p": 4036.9,
+   "c": -0.36,
+   "d": -14.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.52,
-   "c": -1.75,
-   "d": -0.937,
+   "p": 52.575,
+   "c": -1.65,
+   "d": -0.882,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.93,
-   "c": -0.83,
-   "d": -0.85,
+   "p": 100.66,
+   "c": -2.06,
+   "d": -2.12,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.58,
-   "c": -4.11,
-   "d": -4.74,
+   "p": 109.75,
+   "c": -4.83,
+   "d": -5.57,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.233,
-   "c": 0.04,
-   "d": 0.043,
+   "p": 102.278,
+   "c": 0.09,
+   "d": 0.088,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.045,
-   "c": 1.04,
-   "d": 0.052,
+   "p": 5.003,
+   "c": -0.83,
+   "d": -0.042,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.8326,
+   "p": 49.8337,
    "c": 0.07,
-   "d": 0.033,
+   "d": 0.035,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80032,
-   "c": -1.1,
+   "p": 80103,
+   "c": -0.61,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2320.93,
-   "c": -1.08,
+   "p": 2323.84,
+   "c": -0.51,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.17,
-   "c": -1.78,
+   "p": 100.58,
+   "c": -0.64,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.29,
-   "c": -2.14,
+   "c": -1.83,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 739.56,
-   "c": -2.36,
+   "p": 741.35,
+   "c": -1.49,
    "k": "usd"
   }
  ],
@@ -384,13 +384,33 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Stock Futures Fall as Alphabet Sales Miss Revives AI Fears",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Alfabe Satışlarının Yapay Zeka Korkularını Yeniden Canlandırmasıyla Düştü",
-    "s": "US stock futures fell, dragged lower by a plunge in Alphabet Inc. after disappointing results revived investor concerns that its losing ground despite massive artificial intelligence spending.",
-    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan sonuçların yatırımcıların yoğun yapay zeka harcamalarına rağmen zemin kaybettiği yönündeki endişelerini yeniden canlandırmasının ardından Alphabet Inc.'deki düşüş nedeniyle düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
-    "ts": 1793272199000,
-    "tags": []
+    "t": "Gold Dips Near $4,000 as Fed Holds Rates With Little Guidance",
+    "tt": null,
+    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+    "ts": 1793231042000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
+    "tt": null,
+    "s": "Oil eased as traders assessed fresh diplomatic efforts in the Middle East to avert a resumption of US military strikes on Iran, a prospect that has pushed prices higher.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+    "ts": 1793225101000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
    },
    {
     "t": "Nasdaq Futures Sink as AI Trade Shows New Cracks: Markets Wrap",
@@ -404,6 +424,33 @@
      "Altcoin ▲",
      "DXY ▲"
     ]
+   },
+   {
+    "t": "Shell CEO Faces Test of Turning a Cash Windfall Into Durable Growth",
+    "tt": null,
+    "s": "To catch US rivals, Wael Sawan needs to show he can combine spending discipline with expansion.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/shell-ceo-faces-test-of-turning-a-cash-windfall-into-durable-growth",
+    "ts": 1793277313000,
+    "tags": []
+   },
+   {
+    "t": "HSBC Seeks to Hedge Data Center Debt With Credit Risk Insurance",
+    "tt": null,
+    "s": "HSBC Holdings Plc is looking to offload credit risk on data center loans to insurers as demand for artificial intelligence-related finance continues to grow.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hsbc-seeks-to-hedge-data-center-debt-with-credit-risk-insurance",
+    "ts": 1793276404000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Fall as Alphabet Sales Miss Revives AI Fears",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Alfabe Satışlarının Yapay Zeka Korkularını Yeniden Canlandırmasıyla Düştü",
+    "s": "US stock futures fell, dragged lower by a plunge in Alphabet Inc. after disappointing results revived investor concerns that its losing ground despite massive artificial intelligence spending.",
+    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan sonuçların yatırımcıların yoğun yapay zeka harcamalarına rağmen zemin kaybettiği yönündeki endişelerini yeniden canlandırmasının ardından Alphabet Inc.'deki düşüş nedeniyle düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
+    "ts": 1793272199000,
+    "tags": []
    },
    {
     "t": "After the Budget, Before the Bell With The Opening Trade",
@@ -441,42 +488,6 @@
     "ss": "Küresel tahvil satışları, yapay zeka patlamasının ön saflarında yer alan teknoloji canavarlarından aşırı borçlanmanın etkisiyle tüm zamanların en yüksek seviyesine yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
     "ts": 1793218620000,
-    "tags": []
-   },
-   {
-    "t": "Investors Buy Rogers (RCI), BCE, Telus Stocks After Canada Telecom Selloff",
-    "tt": "Yatırımcılar Kanada Telekom Satışından Sonra Rogers (RCI), BCE ve Telus Hisselerini Aldı",
-    "s": "Investors are bargain hunting in Canadian telecommunication stocks after rising government-bond yields and competition from SpaceX sparked steep declines in the group.",
-    "ss": "Yatırımcılar, artan devlet tahvili getirileri ve SpaceX'in rekabetinin grupta sert düşüşlere yol açmasının ardından Kanada telekomünikasyon hisselerinde pazarlık peşinde koşuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/investors-buy-rogers-rci-bce-telus-stocks-after-canada-telecom-selloff",
-    "ts": 1793273887000,
-    "tags": []
-   },
-   {
-    "t": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally",
-    "tt": "Amazon'un Sorunlu Hisse Senedinin Yükselişi Canlandırmak İçin Bulut Büyümesinin Artmasına İhtiyacı Var",
-    "s": "Blistering cloud growth sent Amazon.com Inc. shares soaring after its last earnings report. Now with more than half those gains gone, the firm needs to deliver a repeat performance in order to reignite its faltering stock.",
-    "ss": "Buluttaki hızlı büyüme, Amazon.com Inc. hisselerinin son kazanç raporunun ardından yükselişe geçmesine neden oldu. Artık bu kazanımların yarısından fazlası gitmişken, firmanın bocalayan hisselerini yeniden canlandırmak için tekrarlanan bir performans sergilemesi gerekiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-s-ailing-stock-needs-booming-cloud-growth-to-revive-rally",
-    "ts": 1793273401000,
-    "tags": []
-   },
-   {
-    "t": "Ray-Ban Heir Rejects $3.9 Billion Offer for Stake in Family Firm",
-    "tt": "Ray-Ban'in Varisi, Aile Şirketinin 3,9 Milyar Dolarlık Hisse Teklifini Reddetti",
-    "s": "Ray-Ban heir Rocco Basilico rebuffed a €3.5 billion ($3.9 billion) offer for his 12.5% stake in Delfin Sarl, the family investment company behind EssilorLuxottica SA, people familiar with the matter said.",
-    "ss": "Konuya yakın kaynaklar, Ray-Ban'in varisi Rocco Basilico'nun, EssilorLuxottica SA'nın arkasındaki aile yatırım şirketi Delfin Sarl'daki %12,5 hissesi için 3,5 milyar Euro'luk (3,9 milyar dolar) teklifi geri çevirdiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/ray-ban-heir-rejects-3-9-billion-offer-for-stake-in-family-firm",
-    "ts": 1793273373000,
-    "tags": []
-   },
-   {
-    "t": "Europe Set to Release 42 Million Barrels of Oil, France Says",
-    "tt": "Fransa, Avrupa'nın 42 Milyon Varil Petrol Çıkaracağını Açıkladı",
-    "s": "Europe will release 42 million barrels of oil reserves into the market over the next three months as part of its commitment to ease prices, France’s economy minister Roland Lescure said Thursday.",
-    "ss": "Fransa Ekonomi Bakanı Roland Lescure Perşembe günü yaptığı açıklamada, Avrupa'nın fiyatları gevşetme taahhüdünün bir parçası olarak önümüzdeki üç ay içinde piyasaya 42 milyon varil petrol rezervi sunacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/europe-set-to-release-42-million-barrels-of-oil-france-says",
-    "ts": 1793272952000,
     "tags": []
    }
   ],
@@ -574,57 +585,21 @@
   ],
   "MarketWatch": [
    {
-    "t": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
-    "tt": "Lilly, Zepbound satışlarının artmasıyla birlikte bu yıl üçüncü kez görünümünü yükseltti",
-    "s": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
-    "ss": "GLP-1 ilacı ABD'de reçeteli kilo verme ilaçları pazarında hakimiyetini sürdürüyor.",
-    "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
-    "ts": 1793275380000,
+    "t": "Marvell is reportedly close to buying Lumentum. Analysts say they see logic in a potential deal.",
+    "tt": null,
+    "s": "Shares in Lumentum Holdings rose 5.5% in premarket trading as investors weighed a potential combination with Marvell Technology.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+    "ts": 1793279100000,
     "tags": []
    },
    {
-    "t": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-    "tt": "Bu, ABD'nin şimdiye kadar gördüğü en tuhaf iş piyasası. Düşük işe alım ve düşük ateş ekonomisi 3 yaşına giriyor.",
-    "s": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
-    "ss": "Amerika her zaman istihdam yaratan bir makine olmuştur. Üst üste üç yıldır bozuldu ve sonuçları uzun süre bizimle birlikte olabilir.",
-    "u": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-    "ts": 1793275200000,
-    "tags": []
-   },
-   {
-    "t": "Is it dumb to take travel advice from influencers?",
-    "tt": "Etkileyicilerden seyahat tavsiyesi almak aptalca mı?",
-    "s": "“I want to travel to Europe … How can I tell if something is a real experience in my price range?”",
-    "ss": "\"Avrupa'ya seyahat etmek istiyorum... Benim fiyat aralığımda bir şeyin gerçek bir deneyim olup olmadığını nasıl anlarım?\"",
-    "u": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
-    "ts": 1793274480000,
-    "tags": []
-   },
-   {
-    "t": "You can’t rely on the S&P 500 as much as you may think",
-    "tt": "S&P 500'e sandığınız kadar güvenemezsiniz",
-    "s": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
-    "ss": "Endeksin zayıflığı, \"hisse senetleri her zaman yükselir\" inancıyla büyüyen bir nesil yatırımcıyı şaşırtabilir.",
-    "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-    "ts": 1793273400000,
-    "tags": []
-   },
-   {
-    "t": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "tt": "70’li yaşlardayız. Yüzde 2,5'lik ipoteğimizi mi ödemeliyiz yoksa parayı yüksek getirili bir tasarruf hesabına mı koymalıyız?",
-    "s": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-    "ss": "\"Diyelim ki bundan 10 yıl sonra, 84 yaşıma geldiğimde yüklü miktarda nakde ihtiyacımız olacak.\"",
-    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "ts": 1793272500000,
-    "tags": []
-   },
-   {
-    "t": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
-    "tt": "Fed faiz artırımına ara verdi. Bugünkü GSYİH ve enflasyon raporları beklemeyi zorlaştırabilir.",
-    "s": "GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.",
-    "ss": "GSYİH ve enflasyon rakamları Doğu saatiyle sabah 08.30'da bir araya geliyor. Güçlü büyüme ve kalıcı fiyat baskıları Aralık ayında faiz artırımı ihtimalini güçlendirebilir.",
-    "u": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
-    "ts": 1793272260000,
+    "t": "Consumer spending flattens out after inflation surge",
+    "tt": null,
+    "s": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+    "ts": 1793278860000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -634,43 +609,163 @@
     ]
    },
    {
-    "t": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-    "tt": "Samsung Electronics neredeyse Microsoft ve Alphabet'in toplamı kadar kazandı. Koreli dev şimdi hafıza çipi görünümü hakkında ne söylüyor?",
-    "s": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
-    "ss": "Samsung Electronics, başka hiçbir teknoloji şirketinin görmediği bir çeyreklik yayınladı.",
-    "u": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-    "ts": 1793272140000,
+    "t": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+    "tt": null,
+    "s": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+    "ts": 1793278800000,
     "tags": []
    },
    {
-    "t": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-    "tt": "Medicare, hasta bakımını önceden onaylamak için yapay zekayı kullandı ve bu, tıbbi hizmetlerde anında büyük bir düşüşe yol açtı",
-    "s": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-    "ss": "Medicare, israfa yönelik tıbbi harcamaları hedeflemek amacıyla ön yetkilendirmeler yapmak için yapay zeka kullanımını test ediyor",
-    "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-    "ts": 1793271600000,
-    "tags": []
-   },
-   {
-    "t": "‘There may be better investment options’: My church received $1.5 million from a parishioner. Is 3.75% interest enough?",
+    "t": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
     "tt": "'Daha iyi yatırım seçenekleri olabilir': Kilisem bir cemaatten 1,5 milyon dolar aldı. %3,75 faiz yeterli mi?",
     "s": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
     "ss": "\"Bu hediyenin boyutu ve uzun vadeli doğası göz önüne alındığında, fonların ihtiyatlı bir şekilde yönetildiğinden emin olmak istiyoruz.\"",
     "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-    "ts": 1793268900000,
+    "ts": 1793278800000,
     "tags": []
    },
    {
-    "t": "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.",
-    "tt": "ServiceNow hisseleri tarihteki en büyük düşüşe doğru ilerliyor. Ancak JPMorgan parlak bir nokta görüyor.",
-    "s": "Shares in the software company declined nearly 18% in premarket trading on Thursday as investors digested its third-quarter earnings.",
-    "ss": "Yazılım şirketinin hisseleri, yatırımcıların üçüncü çeyrek kazançlarını sindirmesiyle Perşembe günü piyasa öncesi işlemlerde yaklaşık %18 düştü.",
-    "u": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
-    "ts": 1793267520000,
+    "t": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
+    "tt": null,
+    "s": "The companies say their proposed merger will help smaller grocers compete, but analysts wonder if regulators will conduct an “extended review” of antitrust risks.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
+    "ts": 1793278680000,
+    "tags": []
+   },
+   {
+    "t": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+    "tt": null,
+    "s": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+    "ts": 1793277900000,
+    "tags": []
+   },
+   {
+    "t": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last long with prices still rising.",
+    "tt": null,
+    "s": "Even though the Federal Reserve temporarily put its inflation fight on hold this week, the cost of living rose sharply again last month in a sign the central bank’s work is far from done.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
+    "ts": 1793277360000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Economy grows at fastest pace in a year, GDP shows, and shows little sign of slowing",
+    "tt": null,
+    "s": "The U.S. economy ripped off its fastest rate of growth in a year, amped up by the boom in artificial intelligence and strong spending by wealthier Americans.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/u-s-economy-grows-at-fastest-pace-in-almost-three-years-third-quarter-gdp-shows-0e15b810?mod=mw_rss_topstories",
+    "ts": 1793277300000,
+    "tags": []
+   },
+   {
+    "t": "Caterpillar’s stock heads for worst day in 7 years — and what that means for the Dow",
+    "tt": null,
+    "s": "Caterpillar’s data center business is fine, but other areas disappointed and the stock was heading for its biggest loss in years.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
+    "ts": 1793276700000,
+    "tags": []
+   },
+   {
+    "t": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
+    "tt": "Lilly, Zepbound satışlarının artmasıyla birlikte bu yıl üçüncü kez görünümünü yükseltti",
+    "s": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
+    "ss": "GLP-1 ilacı ABD'de reçeteli kilo verme ilaçları pazarında hakimiyetini sürdürüyor.",
+    "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+    "ts": 1793275380000,
     "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "The Commercial Real Estate Crisis Is Far From Over",
+    "tt": null,
+    "s": "The Commercial Real Estate Crisis Is Far From Over Submitted by QTR's Fringe Finance I‘ve been harping on the problems in commercial real estate for years now, and one of the more interesting developments over the last several months has been how little anybody seems to be talking it them anymore. F",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/commercial-real-estate-crisis-far-over",
+    "ts": 1793280000000,
+    "tags": []
+   },
+   {
+    "t": "Zelensky Sends Massive Overnight Drone Wave On Russia, With Record 1,214 UAVs Intercepted",
+    "tt": null,
+    "s": "Zelensky Sends Massive Overnight Drone Wave On Russia, With Record 1,214 UAVs Intercepted Facing pressure from President Trump to halt all attacks on Russian refineries, Ukraine's Zelensky is perhaps getting his last licks in. Overnight Ukraine sent a record number of drones into Russian territory, ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/zelensky-sends-massive-overnight-drone-wave-russia-which-intercepted-record-1214",
+    "ts": 1793279100000,
+    "tags": []
+   },
+   {
+    "t": "US Economy Grows 3.4% In Q3, Fastest Pace In A Year, Supercharged By Massive AI Capex Spending",
+    "tt": null,
+    "s": "US Economy Grows 3.4% In Q3, Fastest Pace In A Year, Supercharged By Massive AI Capex Spending The US economy grew in the third quarter at the fastest pace in a year, supercharged by the debt-funded AI capex spending spree and a resilient American consumer. Real Gross domestic product&nbsp;(adjusted",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/us-economy-grows-34-q3-fastest-pace-year-supercharged-massive-ai-capex-spending",
+    "ts": 1793278803000,
+    "tags": []
+   },
+   {
+    "t": "'Low-Hire, Low Fire, Low-Inspire' Economy Rolls On With Jobless Claims Holding Near 60-Year Lows",
+    "tt": null,
+    "s": "'Low-Hire, Low Fire, Low-Inspire' Economy Rolls On With Jobless Claims Holding Near 60-Year Lows The number of American filing for unemployment benefits for the first time dropped (again) last week to 194k (less than the 198k exp) - basically in line with 60 year lows ... Continuing Claims also tick",
+    "ss": null,
+    "u": "https://www.zerohedge.com/personal-finance/low-hire-low-fire-low-inspire-economy-rolls-jobless-claims-holding-near-60-year",
+    "ts": 1793278200000,
+    "tags": []
+   },
+   {
+    "t": "Watch: Store Refuses Service Because They \"Hate Trump\"",
+    "tt": null,
+    "s": "Watch: Store Refuses Service Because They \"Hate Trump\" Authored by Steve Watson via Modernity , In an incident proving that TDS is still rampant, a Michaels Arts &amp; Crafts store in Mayfield Heights, Ohio, refused to custom-frame a portrait of President Trump , as well as a historic moon landing n",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/watch-store-refuses-service-because-they-hate-trump",
+    "ts": 1793278200000,
+    "tags": []
+   },
+   {
+    "t": "IRGC Says 3 Tankers On Fire In Hormuz, Challenges US Narrative Strait Is 'Demined'",
+    "tt": null,
+    "s": "IRGC Says 3 Tankers On Fire In Hormuz, Challenges US Narrative Strait Is 'Demined' Three tankers exploded ​and caught fire in the Strait of Hormuz after attempting 'unauthorized' passage over the prior 24 hours , according to Iran's Revolutionary Guards (IRGC) on Thursday. The trio of vessels are al",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/irgc-says-3-tankers-fire-hormuz-challenges-us-narrative-strait-demined",
+    "ts": 1793277000000,
+    "tags": []
+   },
+   {
+    "t": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad",
+    "tt": "İsviçre, Çad'daki Cinsel Sömürü Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu",
+    "s": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad Switzerland's aid agency has frozen CHF1.25 million ($1.52 million) in funding to Doctors Without Borders (MSF) over how the charity handled sexual exploitation by its staff in Chad, swissinfo reported Oct. 26. T",
+    "ss": "İsviçre, Çad'daki Cinsel İstismar Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu Swissinfo'nun 26 Ekim tarihli haberine göre, İsviçre yardım kuruluşu, yardım kuruluşunun Çad'daki personelinin cinsel istismarını nasıl ele aldığıyla ilgili olarak Sınır Tanımayan Doktorlar'a (MSF) sağlanan 1,25 milyon CHF (1,52 milyon $) tutarındaki fonu dondurdu.",
+    "u": "https://www.zerohedge.com/geopolitical/switzerland-freezes-funding-doctors-without-borders-over-sexual-exploitation-chad",
+    "ts": 1793276700000,
+    "tags": []
+   },
+   {
+    "t": "Fed's Favorite Inflation Indicator Surges In September As Soaring Energy Costs Drags Americans' Savings Rate To 4-Year Lows",
+    "tt": null,
+    "s": "Fed's Favorite Inflation Indicator Surges In September As Soaring Energy Costs Drags Americans' Savings Rate To 4-Year Lows Following the hot CPI and PPI (and the internals), this morning's PCE should not provide too many surprises with expectations for the headline price Index to rise a significant",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/feds-favorite-inflation-indicator-surges-september-soaring-energy-drags-americans-savings",
+    "ts": 1793276140000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
    {
     "t": "Tech Futures Tumble As Alphabet Plunges, Small Caps Rise Ahead Of PCE, ECB",
     "tt": "Teknoloji Vadeli İşlemleri Alfabenin Düşüşüyle ​​Düşüyor, PCE ve ECB'nin Önünde Küçük Hisseler Yükseliyor",
@@ -688,81 +783,27 @@
     "u": "https://www.zerohedge.com/markets/usaid-accused-using-taxpayer-dollars-advance-left-wing-agendas-latin-america",
     "ts": 1793275800000,
     "tags": []
-   },
-   {
-    "t": "InstaDash? DoorDash To Buy Instacart For $17 Billion",
-    "tt": "InstaDash'i mi? DoorDash, Instacart'ı 17 Milyar Dolara Satın Alacak",
-    "s": "InstaDash? DoorDash To Buy Instacart For $17 Billion Three days after The Wall Street Journal reported that DoorDash was in advanced talks to acquire Instacart, the companies announced a cash-and-stock deal early Thursday that values Instacart at about $17 billion . The takeover deal would expand Do",
-    "ss": "InstaDash'i mi? DoorDash Instacart'ı 17 Milyar Dolara Satın Alacak The Wall Street Journal'ın DoorDash'in Instacart'ı satın almak için ileri görüşmelerde bulunduğunu bildirmesinden üç gün sonra, şirketler Perşembe günü erken saatlerde Instacart'a yaklaşık 17 milyar dolar değerinde bir nakit ve hisse senedi anlaşması duyurdular. Devralma anlaşması Do'yu genişletecek",
-    "u": "https://www.zerohedge.com/markets/instadash-doordash-buy-instacart-17-billion",
-    "ts": 1793275800000,
-    "tags": []
-   },
-   {
-    "t": "Behind France's School Blockades And 'Yellow Vest' Riots, A Far-Left Network Years In The Making",
-    "tt": "Fransa'daki Okul Ablukalarının ve 'Sarı Yelekli' Ayaklanmalarının Arkasında, Yıllardır Oluşmakta Olan Aşırı Sol Bir Örgüt Var",
-    "s": "Behind France's School Blockades And 'Yellow Vest' Riots, A Far-Left Network Years In The Making Authored by Etienne Fauchaire via The Epoch Times , PARIS - Five weeks have passed since students in the Paris suburbs blockaded a high school to protest overcrowding and staff shortages. Within a month,",
-    "ss": "Fransa'daki Okul Ablukaları ve 'Sarı Yelekli' Ayaklanmaların Arkasında, Aşırı Soldan Bir Ağ Oluşuyor Yıllardır Etienne Fauchaire tarafından The Epoch Times aracılığıyla, PARIS - Paris banliyölerindeki öğrencilerin aşırı kalabalığı ve personel eksikliğini protesto etmek için bir liseyi ablukaya almalarının üzerinden beş hafta geçti. Bir ay içinde,",
-    "u": "https://www.zerohedge.com/geopolitical/behind-frances-school-blockades-and-yellow-vest-riots-far-left-network-years-making",
-    "ts": 1793275500000,
-    "tags": []
-   },
-   {
-    "t": "ECB President Lagarde To Step Down In Feb, Months Before Her Term Ends",
-    "tt": "Avrupa Merkez Bankası Başkanı Lagarde, Görev Süresinin Bitmesine Aylar Kalmadan Şubat Ayında İstifa Edecek",
-    "s": "ECB President Lagarde To Step Down In Feb, Months Before Her Term Ends European Central Bank President Christine Lagarde said this morning that she will step down on Feb. 7, 2027 , months ahead of the October 2027 end of her term. I have just informed my colleagues that I will step down as @ECB Pres",
-    "ss": "ECB Başkanı Lagarde, Görev Süresinin Bitmesine Aylar Önce Şubat Ayında İstifa Edecek Avrupa Merkez Bankası Başkanı Christine Lagarde, bu sabah yaptığı açıklamada, görev süresinin Ekim 2027'de bitmesine aylar kala, 7 Şubat 2027'de görevinden ayrılacağını söyledi. Az önce meslektaşlarıma @ECB Başkanlığı görevinden ayrılacağımı bildirdim",
-    "u": "https://www.zerohedge.com/markets/ecb-president-lagarde-step-down-feb-months-her-term-ends",
-    "ts": 1793273400000,
-    "tags": []
-   },
-   {
-    "t": "Greenwald Unpacks Brazil's Political Drama As Bolsonaro Deletes \"True President-Elect\" Claim",
-    "tt": "Bolsonaro \"Gerçek Başkan Seçilmiş\" İddiasını Silerken Greenwald Brezilya'nın Siyasi Dramasını Açıklıyor",
-    "s": "Greenwald Unpacks Brazil's Political Drama As Bolsonaro Deletes \"True President-Elect\" Claim Brazilian Senator Flávio Bolsonaro briefly declared himself \" the true president-elect of Brazil\" on Wednesday before deleting the statement.&nbsp; President Trump said the same day that he would not endorse",
-    "ss": "Bolsonaro \"Gerçek Başkan-Seçilmiş\" İddiasını Silerken Greenwald Brezilya'nın Siyasi Dramasını Açığa Çıkarıyor Brezilyalı Senatör Flávio Bolsonaro, açıklamayı silmeden önce Çarşamba günü kısaca kendisini \"Brezilya'nın gerçek gelecek başkanı\" ilan etti.  Başkan Trump aynı gün onaylamayacağını söyledi",
-    "u": "https://www.zerohedge.com/political/greenwald-unpacks-brazils-political-drama-bolsonaro-deletes-true-president-elect-claim",
-    "ts": 1793272200000,
-    "tags": []
-   },
-   {
-    "t": "Democratic Sweep Fears Batter Drone Stocks As Miller Tabak Spots Buying Opportunities",
-    "tt": "Miller Tabak'ın Satın Alma Fırsatlarını Fark Etmesiyle Demokratik Süpürme, Vurucu Drone Hisselerinin Yükselmesinden Korkuyor",
-    "s": "Democratic Sweep Fears Batter Drone Stocks As Miller Tabak Spots Buying Opportunities Jefferies aerospace and defense analyst Sheila Kahyaoglu warned in a new note that \" A Democratic sweep would certainly put the reconciliation proposal at risk ,\" potentially jeopardizing the Trump administration's",
-    "ss": "Miller Tabak, Satın Alma Fırsatlarını Belirlerken Demokratik Süpürme, Drone Hisselerini Kaybetmesinden Korkuyor Jefferies havacılık ve savunma analisti Sheila Kahyaoğlu, yeni bir notta \"Demokratik bir süpürme, uzlaşma önerisini kesinlikle riske atacak\" ve potansiyel olarak Trump yönetiminin teklifini tehlikeye atacağı konusunda uyardı.",
-    "u": "https://www.zerohedge.com/military/democratic-sweep-fears-batter-drone-stocks-miller-tabak-spots-buying-opportunities",
-    "ts": 1793271300000,
-    "tags": []
-   },
-   {
-    "t": "UK Orders Independent Review Into Handcuffed Murder Victim Henry Nowak",
-    "tt": "İngiltere, Kelepçeli Cinayet Kurbanı Henry Nowak'ın Bağımsız İncelemesini Emretti",
-    "s": "UK Orders Independent Review Into Handcuffed Murder Victim Henry Nowak Authored by AG News Staff via American Greatness , The British government has ordered an independent investigation into the murder of 18-year-old university student Henry Nowak , following public outrage over police officers hand",
-    "ss": "Birleşik Krallık, Kelepçeli Cinayet Kurbanı Henry Nowak Hakkında Bağımsız İnceleme Emri Verdi AG Haber Personeli tarafından American Greatness aracılığıyla yazılmıştır. İngiliz hükümeti, polis memurlarının ellerine yönelik halk öfkesinin ardından 18 yaşındaki üniversite öğrencisi Henry Nowak'ın öldürülmesiyle ilgili bağımsız bir soruşturma yapılmasını emretti.",
-    "u": "https://www.zerohedge.com/political/uk-orders-independent-review-handcuffed-murder-victim-henry-nowak",
-    "ts": 1793269800000,
-    "tags": []
-   },
-   {
-    "t": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt",
-    "tt": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Ağır Suçlarla Suçluyor",
-    "s": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt Hennepin County Attorney Mary Moriarty on Wednesday charged conservative provocateur James O'Keefe and influencer Cam Higby with felony unlawful voting and identity theft , over undercover videos they shot ",
-    "ss": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Suçlamalarla Suçladı Hennepin İlçe Savcısı Mary Moriarty, Çarşamba günü muhafazakar provokatör James O'Keefe ve nüfuz sahibi Cam Higby'yi, çektikleri gizli videolar nedeniyle yasa dışı oy verme ve kimlik hırsızlığıyla suçladı",
-    "u": "https://www.zerohedge.com/political/minnesota-charges-james-okeefe-and-cam-higby-felonies-over-polling-place-vouching-stunt",
-    "ts": 1793269800000,
-    "tags": []
-   },
-   {
-    "t": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad",
-    "tt": "İsviçre, Çad'daki Cinsel Sömürü Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu",
-    "s": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad Switzerland's aid agency has frozen CHF1.25 million ($1.52 million) in funding to Doctors Without Borders (MSF) over how the charity handled sexual exploitation by its staff in Chad, swissinfo reported Oct. 26. T",
-    "ss": "İsviçre, Çad'daki Cinsel İstismar Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu Swissinfo'nun 26 Ekim tarihli haberine göre, İsviçre yardım kuruluşu, yardım kuruluşunun Çad'daki personelinin cinsel istismarını nasıl ele aldığıyla ilgili olarak Sınır Tanımayan Doktorlar'a (MSF) sağlanan 1,25 milyon CHF (1,52 milyon $) tutarındaki fonu dondurdu.",
-    "u": "https://www.zerohedge.com/geopolitical/switzerland-freezes-funding-doctors-without-borders-over-sexual-exploitation-chad",
-    "ts": 1793267100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "ABD'de kritik veriler açıklandı: Büyüme hızlandı",
+    "tt": null,
+    "s": "ABD ekonomisi, güçlü şirket yatırımları ve tüketici harcamalarının desteğiyle üçüncü çeyrekte yüzde 3,4 büyüyerek son bir yılın en yüksek büyüme hızına ulaştı. Büyüme verisi ekonomistlerin beklentilerini geride bıraktı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-kritik-veriler-aciklandi-3792803",
+    "ts": 1793279707000,
+    "tags": []
+   },
+   {
+    "t": "AMB Ekim toplantısını pas geçti",
+    "tt": null,
+    "s": "Avrupa Merkez Bankası (AMB) piyasa beklentileri doğrultusunda faizleri sabit tutma kararı aldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/amb-ekim-toplantisini-pas-gecti-3792802",
+    "ts": 1793279096000,
+    "tags": []
+   },
    {
     "t": "Volkswagen Grubu'ndan 3. çeyrekte zarar",
     "tt": null,
@@ -834,24 +875,6 @@
     "u": "https://www.bloomberght.com/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-3792793",
     "ts": 1793261556000,
     "tags": []
-   },
-   {
-    "t": "ABD'nin ticari ham petrol stokları geriledi",
-    "tt": null,
-    "s": "ABD'nin ticari ham petrol stokları, geçen hafta önceki haftaya göre yaklaşık 1 milyon 900 bin varil azaldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-nin-ticari-ham-petrol-stoklari-geriledi-3792792",
-    "ts": 1793261342000,
-    "tags": []
-   },
-   {
-    "t": "Asya borsaları karışık seyrediyor",
-    "tt": null,
-    "s": "Asya borsaları, yapay zeka tarafında yüksek değerleme endişeleriyle karışık seyrediyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/asya-borsalari-karisik-seyrediyor-3792791",
-    "ts": 1793260494000,
-    "tags": []
    }
   ]
  },
@@ -867,6 +890,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
