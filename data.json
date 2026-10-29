@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T21:59:45.770012+00:00",
+ "generated": "2026-10-29T22:35:39.846858+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4033.3,
-   "c": -0.45,
-   "d": -18.3,
+   "p": 4030.0,
+   "c": -0.53,
+   "d": -21.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.22,
-   "c": -2.31,
-   "d": -1.237,
+   "p": 52.12,
+   "c": -2.5,
+   "d": -1.337,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.86,
-   "c": 0.08,
-   "d": 0.08,
+   "p": 102.85,
+   "c": 0.07,
+   "d": 0.07,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.54,
-   "c": -3.28,
-   "d": -3.78,
+   "p": 111.56,
+   "c": -3.26,
+   "d": -3.76,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.913,
-   "c": -0.27,
-   "d": -0.277,
+   "p": 101.854,
+   "c": -0.33,
+   "d": -0.336,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8786,
-   "c": 0.16,
-   "d": 0.079,
+   "p": 49.8857,
+   "c": 0.17,
+   "d": 0.087,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 78977,
-   "c": -2.83,
+   "p": 78898,
+   "c": -2.97,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2271.91,
-   "c": -3.86,
+   "p": 2273.43,
+   "c": -3.73,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 97.35,
-   "c": -5.22,
+   "p": 97.27,
+   "c": -5.18,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -5.89,
+   "c": -6.09,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 704.5,
-   "c": -6.97,
+   "p": 700.68,
+   "c": -7.49,
    "k": "usd"
   }
  ],
@@ -384,6 +384,42 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Jersey Mike's CEO on 3Q Earnings, Expansion Plans",
+    "tt": "Jersey Mike'ın 3. Çeyrek Kazançları ve Genişleme Planlarından Sorumlu CEO'su",
+    "s": "Jersey Mike’s shares rose after the company beat third-quarter earnings expectations. CEO Charlie Morrison, discussing the brand’s first full earnings report since going public, said same-store sales increased about 3% and he believes the growth is sustainable. He speaks with Romaine Bostick on \"The",
+    "ss": "Jersey Mike'ın hisseleri, şirketin üçüncü çeyrek kazanç beklentilerini aşmasının ardından yükseldi. Markanın halka açılmasından bu yana ilk tam kazanç raporunu tartışan CEO Charlie Morrison, aynı mağazadaki satışların yaklaşık %3 arttığını ve büyümenin sürdürülebilir olduğuna inandığını söyledi. Romaine Bostick ile \"The",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/jersey-mike-s-ceo-on-3q-earnings-expansion-plans-video",
+    "ts": 1793312583000,
+    "tags": []
+   },
+   {
+    "t": "Fed Is Facing Same Issues Greenspan Did in 2001: Kelton",
+    "tt": "Fed, Greenspan'in 2001'de Karşılaştığı Sorunlarla Karşı Karşıya: Kelton",
+    "s": "Stephanie Kelton, Professor of Public Policy and Economics at Stony Brook University, said the U.S. economy is outperforming its G7 peers, with fiscal support contributing to growth even as the deficit runs at roughly 6.5% of GDP. She noted that about half of the roughly $2 trillion deficit reflects",
+    "ss": "Stony Brook Üniversitesi Kamu Politikası ve Ekonomi Profesörü Stephanie Kelton, ABD ekonomisinin G7 ekonomilerinden daha iyi bir performans sergilediğini, bütçe açığının GSYH'nin kabaca yüzde 6,5'i seviyesinde olmasına rağmen mali desteğin büyümeye katkıda bulunduğunu söyledi. Yaklaşık 2 trilyon dolarlık açığın yaklaşık yarısının bu açığı yansıttığını belirtti.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/fed-is-facing-same-issues-greenspan-did-in-2001-kelton-video",
+    "ts": 1793312030000,
+    "tags": []
+   },
+   {
+    "t": "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
+    "s": "Stocks in Asia were set to fall after a selloff in US technology giants drove investors into other parts of the equity market and boosted demand for bonds.",
+    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793311676000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 30",
+    "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
+    "ss": "Petrol, ABD'nin İran'a karşı askeri saldırılara yeniden başlayabileceği ve bölgede enerji akışına zarar verebilecek yeni türbülans riskine yol açabileceği işaretleri üzerine yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+    "ts": 1793311337000,
+    "tags": []
+   },
+   {
     "t": "Blue Owl Looks to Raise Insurance Capital for AI Deals",
     "tt": "Mavi Baykuş Yapay Zeka Anlaşmaları İçin Sigorta Sermayesini Artırmaya Çalışıyor",
     "s": "Blue Owl is telling investors that it needs more cash, particularly from deep-pocketed insurance firms, given the trillions of dollars needed to finance the artificial intelligence build-out.",
@@ -438,42 +474,6 @@
     "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
     "ts": 1793225507000,
-    "tags": []
-   },
-   {
-    "t": "Moving Down in High-Grade Quality: Goldman's Lynam",
-    "tt": "Yüksek Kaliteli Kalitede Düşüş: Goldman'ın Lynam'ı",
-    "s": "Amanda Lynam, chief credit strategist at Goldman Sachs, and Winnie Cisar, global head of credit strategy at CreditSights, joins Scarlet Fu on \"Bloomberg Real Yield.\" US investment-grade bond sales set an annual record as a surge in artificial intelligence spending drives companies to borrow hundreds",
-    "ss": "Goldman Sachs'ın baş kredi stratejisti Amanda Lynam ve CreditSights'ın küresel kredi stratejisi başkanı Winnie Cisar, \"Bloomberg Real Yield\" programında Scarlet Fu'ya katılıyor. Yapay zeka harcamalarındaki artışın şirketlerin yüzlerce borç almasına neden olması nedeniyle ABD'de yatırım yapılabilir tahvil satışları yıllık rekor kırdı",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/moving-down-in-high-grade-quality-goldman-s-lynam-video",
-    "ts": 1793306457000,
-    "tags": []
-   },
-   {
-    "t": "Need to Position Against AI Concentration Risk, Said D.J. Tierney",
-    "tt": "D.J., Yapay Zeka Yoğunlaşması Riskine Karşı Pozisyon Almamız Gerektiğini Söyledi. Tierney",
-    "s": "D.J. Tierney, senior investment portfolio strategist at Schwab Asset Management, said that 'we don't know' when the party is over for the AI trade and that Schwab is advising investors to start making changes at the margins to position themselves to insure against concentration risk. (Source: Bloomb",
-    "ss": "D.J. Schwab Asset Management'ın kıdemli yatırım portföy stratejisti Tierney, yapay zeka ticareti için partinin ne zaman biteceğini 'bilmediğimizi' söyledi ve Schwab, yatırımcılara yoğunlaşma riskine karşı kendilerini güvence altına almak için marjlarda değişiklik yapmaya başlamalarını tavsiye etti. (Kaynak: Bloomb",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video",
-    "ts": 1793306148000,
-    "tags": []
-   },
-   {
-    "t": "US Farm Firms Signal More Murky Times With Soaring Costs",
-    "tt": "ABD Tarım Firmaları Artan Maliyetlerle Daha Karanlık Zamanların Sinyalini Veriyor",
-    "s": "Record diesel prices and uneven agriculture exports are heaping more uncertainty onto crop traders and farm machinery makers that are pining for a long-awaited recovery to take hold.",
-    "ss": "Rekor dizel fiyatları ve dengesiz tarım ihracatı, uzun zamandır beklenen toparlanmanın gerçekleşmesini sabırsızlıkla bekleyen mahsul tüccarları ve tarım makinesi üreticileri üzerinde daha fazla belirsizlik yaratıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/america-s-farm-firms-signal-more-murky-times-with-soaring-costs",
-    "ts": 1793295142000,
-    "tags": []
-   },
-   {
-    "t": "Oil Wavers on Conflicting Reports of US Military Moves in Iran",
-    "tt": "Petrol, ABD'nin İran'daki Askeri Hareketlerine İlişkin Çelişkili Raporlardan Dolayı Dalgalanıyor",
-    "s": "Oil fluctuated in a choppy session as traders weighed conflicting signals on the direction of US military strategy in Iran.",
-    "ss": "Petrol fiyatları, tüccarların ABD'nin İran'daki askeri stratejisinin yönüne ilişkin çelişkili sinyalleri değerlendirmesiyle dalgalı bir seansta dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-    "ts": 1793225101000,
     "tags": []
    }
   ],
@@ -663,6 +663,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "41,000 Homeland Security Employees And Undercover ICE Agents Exposed In Data Leak, Hackers Say",
+    "tt": "Bilgisayar korsanları, 41.000 İç Güvenlik Çalışanının ve Gizli ICE Ajanının Veri Sızıntısında Açığa Çıktığını Söyledi",
+    "s": "41,000 Homeland Security Employees And Undercover ICE Agents Exposed In Data Leak, Hackers Say Authored by Jill McLaughlin via The Epoch Times , An internal database with personal information identifying more than 41,000 employees at the Department of Homeland Security (DHS) - including undercover i",
+    "ss": "Bilgisayar Korsanları, 41.000 Ulusal Güvenlik Çalışanının ve Gizli ICE Ajanının Veri Sızıntısında Açığa Çıktığını Söyledi Bilgisayar Korsanları, The Epoch Times aracılığıyla Jill McLaughlin tarafından yazılmıştır. İç Güvenlik Bakanlığı'ndaki (DHS) 41.000'den fazla çalışanı tanımlayan kişisel bilgileri içeren dahili bir veritabanı - gizli görevdekiler de dahil",
+    "u": "https://www.zerohedge.com/technology/41000-homeland-security-employees-and-undercover-ice-agents-exposed-data-leak-hackers",
+    "ts": 1793312400000,
+    "tags": []
+   },
+   {
     "t": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know?",
     "tt": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor?",
     "s": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know? The same Obama-appointed judge that President Donald Trump once branded a \"Radical Left Lunatic\" and demanded be impeached is now tasked with deciding whether the public can see what federal agent",
@@ -742,18 +751,18 @@
     "u": "https://www.zerohedge.com/political/bronx-prosecutors-reportedly-told-keep-childs-age-out-sex-crime-plea-offenses",
     "ts": 1793303400000,
     "tags": []
-   },
-   {
-    "t": "Chaos In Florida: Woman (?) In Full Burqa Blasts Islamic Call To Prayer At Pinellas County Meeting",
-    "tt": "Florida'da Kaos: Tam Burkalı Kadın (?) Pinellas İlçesi Toplantısında İslami Ezan Ezanını Patlatıyor",
-    "s": "Chaos In Florida: Woman (?) In Full Burqa Blasts Islamic Call To Prayer At Pinellas County Meeting A woman (we think) in a full black burqa walked up to the public-comment microphone at the Pinellas County, Florida, commission meeting Wednesday and played a recording of the Islamic call to prayer in",
-    "ss": "Florida'da Kaos: Tam Burkalı Kadın (?) Pinellas İlçesi Toplantısında İslami Ezanı Patlatıyor Tamamen siyah burkalı bir kadın (sanıyoruz) Florida'nın Pinellas İlçesi'ndeki komisyon toplantısının kamuya açık yorum mikrofonunun yanına yürüdü ve Çarşamba günü İslami ezan kaydını dinletti.",
-    "u": "https://www.zerohedge.com/political/chaos-florida-woman-full-burqa-blasts-islamic-call-prayer-pinellas-county-meeting",
-    "ts": 1793302500000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Amazon'da satış arttı kâr azaldı",
+    "tt": null,
+    "s": "ABD'li e-ticaret devi Amazon'un net satışları, bu yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 12 artarken net kârı yüzde 2,4 azaldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/amazon-da-satis-artti-kr-azaldi-3792814",
+    "ts": 1793310943000,
+    "tags": []
+   },
    {
     "t": "Resmi Gazete'de bugün (29.10.2026)",
     "tt": null,
@@ -833,15 +842,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/katar-abdden-20-yil-boyunca-yilda-3-milyon-ton-lng-satin-alacak-3792805",
     "ts": 1793284541000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de kişisel tüketim harcamaları beklentinin altında arttı",
-    "tt": null,
-    "s": "ABD'de kişisel tüketim harcamaları Eylül'de aylık bazda yüzde 0,5 artarak piyasa beklentilerinin altında gerçekleşti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-kisisel-tuketim-harcamalari-bekletinin-altinda-artti-3792804",
-    "ts": 1793282135000,
     "tags": []
    }
   ]
