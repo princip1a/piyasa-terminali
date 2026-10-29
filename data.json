@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T23:13:57.083164+00:00",
+ "generated": "2026-10-29T23:50:45.680420+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 4028.8,
-   "c": -0.56,
-   "d": -22.8,
+   "p": 4024.1,
+   "c": -0.68,
+   "d": -27.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.99,
-   "c": -2.74,
-   "d": -1.467,
+   "p": 51.985,
+   "c": -2.75,
+   "d": -1.472,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.8,
-   "c": 0.02,
-   "d": 0.02,
+   "p": 102.66,
+   "c": -0.12,
+   "d": -0.12,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.48,
-   "c": -3.33,
-   "d": -3.84,
+   "p": 111.42,
+   "c": -3.38,
+   "d": -3.9,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9298,
-   "c": 0.26,
-   "d": 0.131,
+   "p": 49.885,
+   "c": 0.17,
+   "d": 0.086,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 78688,
-   "c": -3.14,
+   "p": 77920,
+   "c": -4.08,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2263.44,
-   "c": -4.05,
+   "p": 2249.38,
+   "c": -4.53,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 96.42,
-   "c": -5.82,
+   "p": 95.69,
+   "c": -6.42,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.24,
-   "c": -6.57,
+   "c": -6.69,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 701.44,
-   "c": -7.31,
+   "p": 700.43,
+   "c": -7.61,
    "k": "usd"
   }
  ],
@@ -384,6 +384,60 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Air Canada Reduces Profit Outlook Again on Jet Fuel Costs",
+    "tt": "Air Canada, Jet Yakıtı Maliyetlerinde Kâr Görünümünü Yine Düşürdü",
+    "s": "Air Canada slashed its full-year guidance for the second quarter in a row as high jet fuel prices proved worse than the country’s biggest airline expected.",
+    "ss": "Air Canada, yüksek jet yakıtı fiyatlarının ülkenin en büyük havayolunun beklediğinden daha kötü olması nedeniyle üst üste ikinci çeyrek için tüm yıl tahminini düşürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
+    "ts": 1793307810000,
+    "tags": []
+   },
+   {
+    "t": "Vale Iron Ore Output Trails Forecast on Serra Norte Curbs",
+    "tt": null,
+    "s": "Vale SA’s iron ore production fell short of estimates in the third quarter as the world’s largest producer of the steelmaking ingredient faced challenges at a mine in northern Brazil.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/vale-iron-ore-output-trails-forecasts-despite-mine-ramp-ups",
+    "ts": 1793312965000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq Futures Fall as Tech Struggles on Earnings: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
+    "s": "Technology stocks looked set for further losses as another round of disappointing earnings fueled a rotation out of the artificial intelligence trade, with heavy spending raising doubts about returns from those investments.",
+    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793311676000,
+    "tags": []
+   },
+   {
+    "t": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+    "tt": null,
+    "s": "Gold steadied near $4,000 an ounce, and was on track for a second monthly loss, as energy-led inflation raised the prospects for a US rate increase before year-end.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+    "ts": 1793316726000,
+    "tags": []
+   },
+   {
+    "t": "JPMorgan Asset Sees Yuan Gaining 10% as Global Push Deepens",
+    "tt": null,
+    "s": "China’s push to internationalize the yuan has entered a “steady, slow, but nonstop” phase that is likely to support further gains in the currency, according to JPMorgan Asset Management.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/jpmorgan-asset-sees-yuan-gaining-10-as-global-push-deepens",
+    "ts": 1793316606000,
+    "tags": []
+   },
+   {
+    "t": "Rio Tinto Halts Underground Operations at Major Copper Mine",
+    "tt": null,
+    "s": "Rio Tinto Group has suspended underground operations at its massive Oyu Tolgoi copper mine in Mongolia.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations",
+    "ts": 1793293370000,
+    "tags": []
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Oct. 30",
     "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
     "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
@@ -393,39 +447,12 @@
     "tags": []
    },
    {
-    "t": "Rio Tinto’s Oyu Tolgoi Copper Mine Halts Operations",
-    "tt": null,
-    "s": "Rio Tinto Group has suspended the underground operation of the Oyu Tolgoi copper mine in Mongolia, according to two people familiar with the matter.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations",
-    "ts": 1793293370000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq Futures Fall as Tech Struggles, Bonds Gain: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
-    "s": "US equity-index futures dropped as more earnings from technology companies disappointed, driving investors into other parts of the stock market. Bonds gained.",
-    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793311676000,
-    "tags": []
-   },
-   {
     "t": "Kioxia Faces Test to Impress With Earnings After 60% Stock Slump",
     "tt": null,
     "s": "Kioxia Holdings Corp. needs to clear a high bar with its upcoming results, after its swift slump from the world’s top stock gainer to the worst performer in the battered memory chip sector.",
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/kioxia-faces-test-to-impress-with-earnings-after-60-stock-slump",
     "ts": 1793313000000,
-    "tags": []
-   },
-   {
-    "t": "Vale Iron Ore Output Trails Forecast on Serra Norte Challenges",
-    "tt": null,
-    "s": "Vale SA’s iron ore production fell short of estimates in the third quarter as the world’s largest producer of the steelmaking ingredient faced challenges at a mine in northern Brazil.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/vale-iron-ore-output-trails-forecasts-despite-mine-ramp-ups",
-    "ts": 1793312965000,
     "tags": []
    },
    {
@@ -445,36 +472,6 @@
     "u": "https://www.bloomberg.com/news/videos/2026-10-29/fed-is-facing-same-issues-greenspan-did-in-2001-kelton-video",
     "ts": 1793312030000,
     "tags": []
-   },
-   {
-    "t": "Blue Owl Looks to Raise Insurance Capital for AI Deals",
-    "tt": "Mavi Baykuş Yapay Zeka Anlaşmaları İçin Sigorta Sermayesini Artırmaya Çalışıyor",
-    "s": "Blue Owl is telling investors that it needs more cash, particularly from deep-pocketed insurance firms, given the trillions of dollars needed to finance the artificial intelligence build-out.",
-    "ss": "Blue Owl, yatırımcılara, yapay zeka gelişimini finanse etmek için gereken trilyonlarca dolar göz önüne alındığında, özellikle cebi zengin sigorta şirketlerinden daha fazla nakde ihtiyacı olduğunu söylüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/blue-owl-fees-beat-estimates-though-redemptions-weigh-on-inflows",
-    "ts": 1793271773000,
-    "tags": []
-   },
-   {
-    "t": "Air Canada Reduces Profit Outlook Again on Jet Fuel Costs",
-    "tt": "Air Canada, Jet Yakıtı Maliyetlerinde Kâr Görünümünü Yine Düşürdü",
-    "s": "Air Canada slashed its full-year guidance for the second quarter in a row as high jet fuel prices proved worse than the country’s biggest airline expected.",
-    "ss": "Air Canada, yüksek jet yakıtı fiyatlarının ülkenin en büyük havayolunun beklediğinden daha kötü olması nedeniyle üst üste ikinci çeyrek için tüm yıl tahminini düşürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
-    "ts": 1793307810000,
-    "tags": []
-   },
-   {
-    "t": "Coinbase Returns to Profitability While Posting Another Revenue Drop",
-    "tt": "Coinbase Bir Gelir Düşüşü Daha Kaydederken Kârlılığa Döndü",
-    "s": "Coinbase Global Inc. returned to profitability for the first time in a year while posting a quarterly decline in revenue, showing how closely the largest US digital-asset platform’s fortunes remain wedded to crypto markets.",
-    "ss": "Coinbase Global Inc., bir yıl içinde ilk kez kârlılığa geri döndü ve gelirinde üç ayda bir düşüş bildirdi; bu, ABD'nin en büyük dijital varlık platformunun servetinin kripto piyasalarına ne kadar bağlı kaldığını gösterdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop",
-    "ts": 1793305970000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -576,7 +573,7 @@
     "s": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
     "ss": null,
     "u": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-    "ts": 1793315460000,
+    "ts": 1793316060000,
     "tags": []
    },
    {
@@ -663,6 +660,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Texas Children's Hospital Opens Nation's First Detransition Clinic Following Paxton Settlement",
+    "tt": null,
+    "s": "Texas Children's Hospital Opens Nation's First Detransition Clinic Following Paxton Settlement Authored by AG News Staff via American Greatness , Texas Attorney General Ken Paxton announced that Texas Children's Hospital has opened what his office calls the nation's first detransition clinic , fulfi",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/texas-childrens-hospital-opens-nations-first-detransition-clinic-following-paxton",
+    "ts": 1793316300000,
+    "tags": []
+   },
+   {
+    "t": "Trump Abruptly Cancels High-Stakes Rally In Ominous Sign Ahead Of Midterms",
+    "tt": "Trump, Ara Sınavlar Öncesinde Uğursuz Bir İşaretle Yüksek Bahisli Ralliyi Aniden İptal Etti",
+    "s": "Trump Abruptly Cancels High-Stakes Rally In Ominous Sign Ahead Of Midterms President Donald Trump abruptly canceled a planned campaign rally in Kansas just days before the midterm elections , raising fresh questions about Republicans' prospects of maintaining their grip on the Senate. President Dona",
+    "ss": "Trump, Ara Seçimler Öncesinde Uğursuz Bir İşaretle Yüksek Bahisli Mitingi Aniden İptal Etti Başkan Donald Trump, ara seçimlerden sadece birkaç gün önce Kansas'ta planlanan bir kampanya mitingini aniden iptal etti ve Cumhuriyetçilerin Senato üzerindeki hakimiyetlerini sürdürme umutları hakkında yeni soruları gündeme getirdi. Başkan Dona",
+    "u": "https://www.zerohedge.com/political/trump-abruptly-cancels-high-stakes-rally-ominous-sign-ahead-midterms",
+    "ts": 1793316000000,
+    "tags": []
+   },
+   {
     "t": "Binance Investigates Possible Hack After Billions Transferred Out; Tether And Circle Freeze Stablecoins",
     "tt": null,
     "s": "Binance Investigates Possible Hack After Billions Transferred Out; Tether And Circle Freeze Stablecoins Binance said Thursday it is investigating a \"potential security issue\" after billions of dollars in crypto left its exchange wallets , and the issuers of the two largest dollar stablecoins say the",
@@ -717,15 +732,6 @@
     "tags": []
    },
    {
-    "t": "Trump Abruptly Cancels High-Stakes Rally In Ominous Sign Ahead Of Midterms",
-    "tt": "Trump, Ara Sınavlar Öncesinde Uğursuz Bir İşaretle Yüksek Bahisli Ralliyi Aniden İptal Etti",
-    "s": "Trump Abruptly Cancels High-Stakes Rally In Ominous Sign Ahead Of Midterms President Donald Trump abruptly canceled a planned campaign rally in Kansas just days before the midterm elections , raising fresh questions about Republicans' prospects of maintaining their grip on the Senate. President Dona",
-    "ss": "Trump, Ara Seçimler Öncesinde Uğursuz Bir İşaretle Yüksek Bahisli Mitingi Aniden İptal Etti Başkan Donald Trump, ara seçimlerden sadece birkaç gün önce Kansas'ta planlanan bir kampanya mitingini aniden iptal etti ve Cumhuriyetçilerin Senato üzerindeki hakimiyetlerini sürdürme umutları hakkında yeni soruları gündeme getirdi. Başkan Dona",
-    "u": "https://www.zerohedge.com/political/trump-abruptly-cancels-high-stakes-rally-ominous-sign-ahead-midterms",
-    "ts": 1793308800000,
-    "tags": []
-   },
-   {
     "t": "Teachers Unions Spent More Than $930 Million On Political Activism & Lobbying Over Decade, Watchdog Finds",
     "tt": "Watchdog, Öğretmen Sendikalarının On Yıl Boyunca Siyasi Aktivizm ve Lobi Faaliyetlerine 930 Milyon Dolardan Fazla Harcadığını Belirledi",
     "s": "Teachers Unions Spent More Than $930 Million On Political Activism &amp; Lobbying Over Decade, Watchdog Finds Authored by AG News Staff via American Greatness , Two of America's largest teachers unions spent more than $930 million on political activism, lobbying and progressive advocacy over the pas",
@@ -741,15 +747,6 @@
     "ss": "New York City, Restoranlar Artan Mali Baskıyla Karşı Karşıyayken 30.000 Kişiyi İşinden Ediyor ABD'nin en agresif şekilde düzenlenen şehirlerinden birinde daha boğucu düzenlemelerin işletmelere pek faydası olmadığı ortaya çıktı... Haydi bakalım... Aslında, artan işletme maliyetleri, bürokratik gecikmeler ve ısrarlar",
     "u": "https://www.zerohedge.com/markets/new-york-city-sheds-30000-jobs-restaurants-face-mounting-financial-pressure",
     "ts": 1793306400000,
-    "tags": []
-   },
-   {
-    "t": "Amazon Craters As Cash Burn Explodes, Weak Guide",
-    "tt": "Nakit Yakımı Patlarken Amazon Kraterleri, Zayıf Kılavuz",
-    "s": "Amazon Craters As Cash Burn Explodes, Weak Guide Earlier today we asked the question every Amazon holder has been asking all year: why does this stock never work? Tonight Amazon (AMZN) answered it with one number: -$33.5 billion . That is how much free cash flow Amazon burned in Q3 alone. Bloomberg ",
-    "ss": "Nakit Yakımı Patlarken Amazon Kraterleri, Zayıf Kılavuz Bugün erken saatlerde her Amazon sahibinin tüm yıl boyunca sorduğu soruyu sorduk: Bu hisse senedi neden hiç çalışmıyor? Bu gece Amazon (AMZN) bu soruya tek bir rakamla yanıt verdi: -33,5 milyar dolar. Amazon'un yalnızca üçüncü çeyrekte harcadığı serbest nakit akışı miktarı bu kadar. Bloomberg",
-    "u": "https://www.zerohedge.com/markets/amazon-craters-cash-burn-explodes",
-    "ts": 1793305500000,
     "tags": []
    }
   ],
