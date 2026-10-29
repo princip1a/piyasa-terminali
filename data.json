@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-29T19:59:07.146040+00:00",
+ "generated": "2026-10-29T20:37:09.591612+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7717.87,
-   "c": -0.34,
-   "d": -26.11,
+   "p": 7720.39,
+   "c": -0.3,
+   "d": -23.59,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26173.445,
-   "c": -1.42,
-   "d": -376.405,
+   "p": 26184.725,
+   "c": -1.38,
+   "d": -365.125,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52322.6,
-   "c": -0.29,
-   "d": -152.502,
+   "p": 52342.56,
+   "c": -0.25,
+   "d": -132.542,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 16.62,
-   "c": -1.71,
-   "d": -0.29,
+   "p": 17.2,
+   "c": 1.71,
+   "d": 0.29,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4031.2,
-   "c": -0.5,
-   "d": -20.4,
+   "p": 4036.7,
+   "c": -0.37,
+   "d": -14.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.255,
-   "c": -2.25,
-   "d": -1.202,
+   "p": 52.305,
+   "c": -2.16,
+   "d": -1.152,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.37,
-   "c": -0.4,
-   "d": -0.41,
+   "p": 102.98,
+   "c": 0.19,
+   "d": 0.2,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.07,
-   "c": -3.69,
-   "d": -4.25,
+   "p": 111.79,
+   "c": -3.06,
+   "d": -3.53,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.0,
-   "c": -0.19,
-   "d": -0.19,
+   "p": 101.899,
+   "c": -0.28,
+   "d": -0.291,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8325,
+   "p": 49.8323,
    "c": 0.07,
    "d": 0.033,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80788,
-   "c": -0.85,
+   "p": 79911,
+   "c": -1.51,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2334.31,
-   "c": -1.44,
+   "p": 2295.08,
+   "c": -2.48,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 99.95,
-   "c": -2.8,
+   "p": 98.61,
+   "c": -3.36,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.28,
-   "c": -3.86,
+   "p": 1.26,
+   "c": -5.02,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 744.34,
-   "c": -1.3,
+   "p": 720.42,
+   "c": -4.25,
    "k": "usd"
   }
  ],
@@ -384,66 +384,7 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Ares CEO Says It’s Avoiding Backing AI Chips, Citing Complexity",
-    "tt": null,
-    "s": "Ares Management Corp. is avoiding financing deals to back the high-powered processing units that run sophisticated AI models, opting to invest in the data centers that house them instead.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/ares-ceo-says-it-s-avoiding-backing-ai-chips-citing-complexity",
-    "ts": 1793302699000,
-    "tags": []
-   },
-   {
-    "t": "Tokenization Gives Illiquid Funds a 24/7 Trading Twist",
-    "tt": null,
-    "s": "Putting interval funds on the blockchain could change more than just how their shares trade.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/tokenization-gives-illiquid-funds-a-24-7-trading-twist",
-    "ts": 1793302444000,
-    "tags": []
-   },
-   {
-    "t": "Venezuela’s Rodríguez Vows to Hold Election; Machado Asks When",
-    "tt": null,
-    "s": "Venezuela’s acting president pledged to hold elections once the agency that oversees voting is overhauled, offering her most specific vision yet for restoring democracy even as the nation’s leading opposition figure pressed her to commit to a date next year.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
-    "ts": 1793291228000,
-    "tags": []
-   },
-   {
-    "t": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
-    "tt": null,
-    "s": "Oil eased as fresh diplomatic efforts in the Middle East eroded some risk premium associated with a resumption of US military strikes on Iran.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-    "ts": 1793225101000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
-    "tt": null,
-    "s": "Investors are worried that Federal Reserve Chairman Kevin Warsh’s plan to reduce the number of interest-rate decisions each year could be a recipe for more volatility in the $32 trillion Treasury market.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/warsh-s-forward-silence-risks-bigger-treasury-market-swings",
-    "ts": 1793301814000,
-    "tags": []
-   },
-   {
-    "t": "AI Creating New Pathways to Engage Clients, Says Schwab CEO",
-    "tt": null,
-    "s": "Schwab president and CEO Rick Wurster said that AI integration is helping the company streamline operations and create 'new pathways to engage with clients' after the Schwab announced investment in AI startup Nevis. Wurster also commented on the AI investment landscape, saying that he is reassured t",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/ai-creating-new-pathways-to-engage-clients-schwab-ceo-video",
-    "ts": 1793301507000,
-    "tags": []
-   },
-   {
-    "t": "Stock Rotation Hits AI Winners on Alphabet’s Miss: Markets Wrap",
+    "t": "Stock Rotation Hits AI Winners on Spending Worries: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
     "s": "A selloff in several tech companies spurred a rotation into a broader category of stocks while fueling a push toward the safety of bonds.",
     "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
@@ -452,32 +393,87 @@
     "tags": []
    },
    {
-    "t": "Canadian Dollar Poised for Best Month Since April After BOC Hike",
+    "t": "Need to Position Against AI Concentration Risk, Said D.J. Tierney",
     "tt": null,
-    "s": "The Canadian dollar is heading for its largest monthly gain since April, supported by elevated oil prices and the Bank of Canada’s shift toward tighter monetary policy.",
+    "s": "D.J. Tierney, senior investment portfolio strategist at Schwab Asset Management, said that 'we don't know' when the party is over for the AI trade and that Schwab is advising investors to start making changes at the margins to position themselves to insure against concentration risk. (Source: Bloomb",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/canadian-dollar-poised-for-best-month-since-april-after-boc-hike",
-    "ts": 1793301033000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "The Fearsome Rise of the Haunted Attraction",
-    "tt": null,
-    "s": "Once low-tech staples of Halloween carnivals, haunted houses have become elaborate immersive environments that can draw crowds to forgotten parts of US cities. David Dudley reports. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/the-fearsome-rise-of-the-haunted-attraction",
-    "ts": 1793292140000,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/need-to-position-against-ai-concentration-risk-tierney-video",
+    "ts": 1793306148000,
     "tags": []
    },
    {
-    "t": "Maybe Wall Street Has Never Been ‘AI-Pilled’",
+    "t": "Coinbase Returns to Profitability While Posting Another Revenue Drop",
     "tt": null,
-    "s": "Maybe the lines should be going up even more.",
+    "s": "Coinbase Global Inc. returned to profitability for the first time in a year while posting a quarterly decline in revenue, showing how closely the largest US digital-asset platform’s fortunes remain wedded to crypto markets.",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/maybe-wall-street-has-never-been-ai-pilled",
-    "ts": 1793299063000,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop",
+    "ts": 1793305970000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "US Farm Firms Signal More Murky Times With Soaring Costs",
+    "tt": null,
+    "s": "Record diesel prices and uneven agriculture exports are heaping more uncertainty onto crop traders and farm machinery makers that are pining for a long-awaited recovery to take hold.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/america-s-farm-firms-signal-more-murky-times-with-soaring-costs",
+    "ts": 1793295142000,
+    "tags": []
+   },
+   {
+    "t": "Oil Wavers on Conflicting Reports of US Military Moves in Iran",
+    "tt": null,
+    "s": "Oil fluctuated in a choppy session as traders weighed conflicting signals on the direction of US military strategy in Iran.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+    "ts": 1793225101000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stocks Slide as Alphabet’s Record Plunge Revives AI Fears",
+    "tt": null,
+    "s": "Tech stocks were dragged lower by a record drop in Alphabet Inc. after disappointing results renewed investor concerns about the threat that artificial intelligence poses to its core business.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
+    "ts": 1793272199000,
+    "tags": []
+   },
+   {
+    "t": "Issuers Come to Market When Window Opens: CreditSights' Cisar",
+    "tt": null,
+    "s": "Amanda Lynam, chief credit strategist at Goldman Sachs, and Winnie Cisar, global head of credit strategy at CreditSights, joins Scarlet Fu on \"Bloomberg Real Yield.\" Microsoft drew blowout demand for its $25 billion bond offering. The top-rated company’s first major issuance in almost a decade attra",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/issuers-come-to-market-when-window-opens-cisar-video",
+    "ts": 1793305661000,
+    "tags": []
+   },
+   {
+    "t": "Polymarket Investigates Suspicious Trades on Israel Election",
+    "tt": null,
+    "s": "Polymarket is investigating a string of well-timed and profitable trades on the Israeli election this week in the latest case to raise concerns about potential insider trading on prediction markets.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
+    "ts": 1793285869000,
+    "tags": []
+   },
+   {
+    "t": "Lagarde Quits ECB Early, French Debt: Global Return",
+    "tt": null,
+    "s": "Bloomberg's Alice Gledhill joins Scarlet Fu on \"Bloomberg Real Yield.\" They discuss the French bond market, and the decision by ECB president Christine Lagarde to resign on February 7, before the end of her term next October. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-quits-ecb-early-french-debt-global-return-video",
+    "ts": 1793304788000,
+    "tags": []
+   },
+   {
+    "t": "Safe Haven Demand Will Persist: Larosiliere",
+    "tt": null,
+    "s": "Kay Herr, CIO of US GFICC at JPMorgan Asset Management, and Stephanie Larosiliere, head of fixed income business strategy at Invesco, joins Scarlet Fu on \"Bloomberg Real Yield.\" US Treasuries on Thursday rose as a selloff in shares of US technology giants revived investor appetite for bonds as insur",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/safe-haven-demand-will-persist-larosiliere-video",
+    "ts": 1793304750000,
     "tags": []
    }
   ],
@@ -575,6 +571,78 @@
   ],
   "MarketWatch": [
    {
+    "t": "The S&P 500 isn’t the big winner you may think it is",
+    "tt": null,
+    "s": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+    "ts": 1793306340000,
+    "tags": []
+   },
+   {
+    "t": "Sandisk sees revenue nearly quintuple — and its stock is heading higher",
+    "tt": null,
+    "s": "Sandisk’s earnings show that the company is growing quite profitably.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+    "ts": 1793306340000,
+    "tags": []
+   },
+   {
+    "t": "All the reasons Marvell investors are ‘freaking out’ as Lumentum deal rumors swirl",
+    "tt": null,
+    "s": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+    "ts": 1793305860000,
+    "tags": []
+   },
+   {
+    "t": "This is where most people go wrong in their 30s and 40s",
+    "tt": null,
+    "s": "These big life decisions will determine just how well you retire.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+    "ts": 1793305800000,
+    "tags": []
+   },
+   {
+    "t": "The stock market’s best forecasting tool says returns over the next 10 years will be dismal",
+    "tt": null,
+    "s": "The average U.S. household’s equity allocation is at an all-time high, and that doesn’t bode well, according to the ‘Single Greatest Predictor’",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/the-stock-markets-best-forecasting-tool-says-returns-over-the-next-10-years-will-be-dismal-f94fcd87?mod=mw_rss_topstories",
+    "ts": 1793305560000,
+    "tags": []
+   },
+   {
+    "t": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high.",
+    "tt": null,
+    "s": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+    "ts": 1793305320000,
+    "tags": []
+   },
+   {
+    "t": "The midterms are crucial to the future of Social Security — no matter how old you are",
+    "tt": null,
+    "s": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+    "ts": 1793305320000,
+    "tags": []
+   },
+   {
+    "t": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+    "tt": null,
+    "s": "What’s changed since the summer is which companies investors want to back in the AI race — and at what level.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories",
+    "ts": 1793304060000,
+    "tags": []
+   },
+   {
     "t": "What’s the first thing most people do with their 401(k) after they retire? Nothing.",
     "tt": null,
     "s": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
@@ -591,81 +659,36 @@
     "u": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
     "ts": 1793303340000,
     "tags": []
-   },
-   {
-    "t": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
-    "tt": null,
-    "s": "The oil market may soon reach a point where the dust finally settles enough to see the true chaos the eight-month-old conflict in the Middle East and its shipping disruptions have wrought upon the global crude sector.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/the-100-level-is-ours-for-awhile-oil-wont-be-getting-cheap-anytime-soon-no-matter-what-happens-in-the-gulf-99d628bf?mod=mw_rss_topstories",
-    "ts": 1793301120000,
-    "tags": []
-   },
-   {
-    "t": "Alphabet’s stock just triggered a ‘death cross.’ Could the worst of the selloff be over?",
-    "tt": null,
-    "s": "A postearnings skid sent the Google parent’s shares sliding into bearish territory, but some trading signals hint at a turnaround.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/alphabets-stock-just-triggered-a-death-cross-could-the-worst-of-the-selloff-be-over-9f70d765?mod=mw_rss_topstories",
-    "ts": 1793300940000,
-    "tags": []
-   },
-   {
-    "t": "Why Alphabet’s stock is on track for its worst day ever after the latest results",
-    "tt": null,
-    "s": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-    "ts": 1793299800000,
-    "tags": []
-   },
-   {
-    "t": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-    "tt": null,
-    "s": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-    "ts": 1793299320000,
-    "tags": []
-   },
-   {
-    "t": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-    "tt": "Kilisemizin bir banka hesabında %3,75 kazanç sağlayan 1,5 milyon dolarlık bir mirası var. Enflasyon bunu aşındırıyor mu?",
-    "s": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-    "ss": "\"Bu hediyenin boyutu ve uzun vadeli doğası göz önüne alındığında, fonların ihtiyatlı bir şekilde yönetildiğinden emin olmak istiyoruz.\"",
-    "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-    "ts": 1793298600000,
-    "tags": []
-   },
-   {
-    "t": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-    "tt": "'Gösterişli arabaların çekiciliği yok': Hayatımız boyunca biriktirdiğimiz birikimleri geride bırakma şansımız %99'dur. Neden harcamıyorsunuz, harcamıyorsunuz, harcamıyorsunuz?",
-    "s": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-    "ss": "\"Ben 68 yaşındayım, o 74 yaşında ve ikimizin de sağlığı iyi. Daha sonra evlendik ve çocuğumuz yok.\"",
-    "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "ts": 1793297760000,
-    "tags": []
-   },
-   {
-    "t": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
-    "tt": null,
-    "s": "As focus shifts to the Treasury’s funding plans, there’s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
-    "ts": 1793296740000,
-    "tags": []
-   },
-   {
-    "t": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-    "tt": null,
-    "s": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-    "ts": 1793293800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "New York City Sheds 30,000 Jobs As Restaurants Face Mounting Financial Pressure",
+    "tt": null,
+    "s": "New York City Sheds 30,000 Jobs As Restaurants Face Mounting Financial Pressure It turns out that more suffocating regulation in one of the most aggressively regulated cities in the U.S. is not&nbsp; helpful to businesses...go figure... In fact, rising operating costs, bureaucratic delays and persis",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/new-york-city-sheds-30000-jobs-restaurants-face-mounting-financial-pressure",
+    "ts": 1793306400000,
+    "tags": []
+   },
+   {
+    "t": "Amazon Craters As Cash Burn Explodes, Weak Guide",
+    "tt": null,
+    "s": "Amazon Craters As Cash Burn Explodes, Weak Guide Earlier today we asked the question every Amazon holder has been asking all year: why does this stock never work? Tonight Amazon (AMZN) answered it with one number: -$33.5 billion . That is how much free cash flow Amazon burned in Q3 alone. Bloomberg ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/amazon-craters-cash-burn-explodes",
+    "ts": 1793305500000,
+    "tags": []
+   },
+   {
+    "t": "Why Do They Despise Musk?",
+    "tt": null,
+    "s": "Why Do They Despise Musk? Authored by Victor Davis Hanson via American Greatness , As the midterms approach, the Left has gone nearly berserk in its hatred of trillionaire entrepreneur Elon Musk . Yet its escalating venom would have been almost inconceivable before 2022, when Musk publicly declared ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/why-do-they-despise-musk",
+    "ts": 1793304900000,
+    "tags": []
+   },
    {
     "t": "Bronx Prosecutors Reportedly Told To Keep Child's Age Out Of Sex-Crime Plea Offenses",
     "tt": null,
@@ -727,33 +750,6 @@
     "ss": null,
     "u": "https://www.zerohedge.com/political/hilton-says-he-can-win-california-if-every-trump-voter-shows",
     "ts": 1793296500000,
-    "tags": []
-   },
-   {
-    "t": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know?",
-    "tt": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor?",
-    "s": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know? The same Obama-appointed judge that President Donald Trump once branded a \"Radical Left Lunatic\" and demanded be impeached is now tasked with deciding whether the public can see what federal agent",
-    "ss": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor? Başkan Donald Trump'ın bir zamanlar \"Radikal Sol Deli\" olarak damgaladığı ve görevden alınmasını talep ettiği, Obama tarafından atanan yargıç, şimdi halkın hangi federal ajanı görüp göremeyeceğine karar vermekle görevlendirildi.",
-    "u": "https://www.zerohedge.com/political/trump-faces-plot-twist-ilhan-omar-warrant-fight-old-foe-reemerges-and-what-did-obamas-fbi",
-    "ts": 1793295600000,
-    "tags": []
-   },
-   {
-    "t": "Republican Sen. Murkowski Endorses Democrat For Alaska Governor",
-    "tt": null,
-    "s": "Republican Sen. Murkowski Endorses Democrat For Alaska Governor Authored by Chase Smith via The Epoch Times , Sen. Lisa Murkowski (R-Alaska) has endorsed Democrat Jonathan Kreiss-Tomkins for Alaska governor , backing the former state lawmaker over three Republicans ahead of Election Day. Alaska Demo",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/republican-sen-murkowski-endorses-democrat-alaska-governor",
-    "ts": 1793295600000,
-    "tags": []
-   },
-   {
-    "t": "Nearly 3 In 10 New-Car Trade-Ins Are Underwater, Edmunds Finds",
-    "tt": null,
-    "s": "Nearly 3 In 10 New-Car Trade-Ins Are Underwater, Edmunds Finds Authored by Bill Pan via The Epoch Times , Almost three in 10 vehicles traded toward a new car are worth less than the amount still owed on their loans , a new report suggests. In the third quarter of 2026, about 29.1 percent of trade-in",
-    "ss": null,
-    "u": "https://www.zerohedge.com/personal-finance/nearly-3-10-new-car-trade-ins-are-underwater-edmunds-finds",
-    "ts": 1793293800000,
     "tags": []
    }
   ],
