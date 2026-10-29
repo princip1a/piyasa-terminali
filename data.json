@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T02:59:39.469955+00:00",
+ "generated": "2026-10-29T03:41:44.333713+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4057.4,
-   "c": 0.14,
-   "d": 5.8,
+   "p": 4051.4,
+   "c": -0.0,
+   "d": -0.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.655,
-   "c": 0.37,
-   "d": 0.198,
+   "p": 53.15,
+   "c": -0.57,
+   "d": -0.307,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.58,
-   "c": -1.17,
-   "d": -1.2,
+   "p": 101.47,
+   "c": -1.27,
+   "d": -1.31,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.38,
-   "c": -4.28,
-   "d": -4.94,
+   "p": 110.22,
+   "c": -4.42,
+   "d": -5.1,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.122,
-   "c": -0.07,
-   "d": -0.068,
+   "p": 102.131,
+   "c": -0.06,
+   "d": -0.059,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8321,
-   "c": 0.07,
-   "d": 0.033,
+   "p": 49.8309,
+   "c": 0.06,
+   "d": 0.032,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 79862,
-   "c": -1.26,
+   "p": 79725,
+   "c": -1.71,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2307.28,
-   "c": -2.07,
+   "p": 2303.41,
+   "c": -2.54,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 99.95,
-   "c": -1.61,
+   "p": 99.54,
+   "c": -2.56,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.29,
-   "c": -2.96,
+   "c": -3.71,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 748.36,
-   "c": 0.46,
+   "p": 745.22,
+   "c": -0.25,
    "k": "usd"
   }
  ],
@@ -384,66 +384,6 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Hello Kitty Owner Sanrio Axes Japan Show Ties After China Furor",
-    "tt": null,
-    "s": "Sanrio Co. apologized and scrapped a collaboration with Japanese television drama Vivant after the spy program drew criticism in China over its portrayal of wartime history.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hello-kitty-owner-sanrio-axes-japan-show-ties-after-china-furor",
-    "ts": 1793242521000,
-    "tags": []
-   },
-   {
-    "t": "Gold Dips to Near $4,000 as Fed Holds Rates With Little Guidance",
-    "tt": null,
-    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
-    "ts": 1793231042000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Iron Ore’s Drop Below $90 Tests High-Cost Supply as Losses Mount",
-    "tt": null,
-    "s": "Iron ore’s fall below $90 a ton has pushed as much as 170 million tons of production into losses, but prices will need to remain depressed for longer before enough supply exits to tighten the market, according to UBS Group AG.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/iron-ore-s-drop-below-90-tests-high-cost-supply-as-losses-mount",
-    "ts": 1793241670000,
-    "tags": []
-   },
-   {
-    "t": "CLSA Analyst: Samsung Shares Fell on Lack of Buybacks",
-    "tt": null,
-    "s": "Samsung shares slid due to a lack of new announcements of share buybacks, according to CLSA Head of North Asia Semiconductors Research Sanjeev Rana. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/clsa-analyst-samsung-shares-fell-on-lack-of-buybacks-video",
-    "ts": 1793241190000,
-    "tags": []
-   },
-   {
-    "t": "Indonesia’s Wealth Fund CIO Owns Stake in Sanctioned Brokerage",
-    "tt": null,
-    "s": "Pandu Sjahrir, the prominent Indonesian wealth fund executive who has publicly supported MSCI Inc.’s scrutiny of the nation’s stock market, is the co-owner of a brokerage sanctioned in connection with a stock-market manipulation probe.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/indonesia-s-wealth-fund-cio-owns-stake-in-sanctioned-brokerage",
-    "ts": 1793241057000,
-    "tags": []
-   },
-   {
-    "t": "Jio Breaks the Mega-IPO Jinx With Record Delivery Volumes to Boot",
-    "tt": null,
-    "s": "High delivery ratio on debut points to sticky investor demand for the stock.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/jio-breaks-the-mega-ipo-jinx-with-record-delivery-volumes-to-boot",
-    "ts": 1793241038000,
-    "tags": []
-   },
-   {
     "t": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
     "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
     "s": "Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
@@ -458,10 +398,19 @@
     ]
    },
    {
+    "t": "Japan’s Two-Year Bond Sale Demand Stronger Than 12-Month Average",
+    "tt": "Japonya’nın İki Yıllık Tahvil Satış Talebi 12 Aylık Ortalamadan Daha Güçlü",
+    "s": "Japan’s two-year government bond auction on Thursday saw stronger demand than the 12-month average as elevated yields underpinned buying.",
+    "ss": "Japonya'nın Perşembe günkü iki yıllık devlet tahvili ihalesi, artan getirilerin alımları desteklemesiyle 12 aylık ortalamanın üzerinde talep gördü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/japan-s-two-year-bond-sale-demand-stronger-than-12-month-average",
+    "ts": 1793245083000,
+    "tags": []
+   },
+   {
     "t": "HK Dollar Peg Architect Says Narrower Band May Ease Speculation",
-    "tt": null,
+    "tt": "HK Dollar Peg Architect, Dar Bandın Spekülasyonları Kolaylaştırabileceğini Söyledi",
     "s": "Narrowing the Hong Kong dollar’s trading band against the US greenback may enhance stability and reassure the public if such a move were ever implemented, according to John Greenwood, the economist dubbed the father of the city’s currency peg.",
-    "ss": null,
+    "ss": "Şehrin sabit döviz kurunun babası olarak anılan ekonomist John Greenwood'a göre, Hong Kong dolarının ABD doları karşısında işlem bandının daraltılması istikrarı artırabilir ve böyle bir hamlenin uygulanması halinde kamuoyuna güven verebilir.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/hk-dollar-peg-architect-says-narrower-band-may-ease-speculation",
     "ts": 1793240144000,
     "tags": [
@@ -469,22 +418,77 @@
     ]
    },
    {
-    "t": "Tech Stocks Drop as Alphabet, Samsung Disappoint: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "Technology shares fell, snapping this week’s rally, after disappointing earnings from two industry heavyweights revived concerns about the billions of dollars companies are pouring into artificial intelligence.",
-    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793225507000,
+    "t": "Prediction Markets Avoid Australia’s Tough Line on Gambling",
+    "tt": "Tahmin Piyasaları Avustralya'nın Kumar Konusunda Zorlu Çizgisinden Uzak Duruyor",
+    "s": "Australia’s corporate regulator has not received a single application from a prediction market provider to operate in the country, where such platforms would likely face gambling rather than financial regulations.",
+    "ss": "Avustralya'nın kurumsal düzenleyicisi, bu tür platformların finansal düzenlemeler yerine kumarla karşı karşıya kalacağı ülkede faaliyet gösteren bir tahmin piyasası sağlayıcısından tek bir başvuru bile almadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/prediction-markets-avoid-australia-s-tough-line-on-gambling",
+    "ts": 1793243614000,
     "tags": []
    },
    {
-    "t": "Philippines May Use More Tools to Stem Peso Slide, Analysts Say",
-    "tt": "Analistler, Filipinler'in Peso Kaymasını Durdurmak İçin Daha Fazla Araç Kullanabileceğini Söyledi",
-    "s": "The Philippine peso’s nearly 8% slide against the dollar this year may prompt the central bank to deploy more tools to stabilize the currency, according to marketwatchers.",
-    "ss": "Piyasa gözlemcilerine göre Filipin pesosunun bu yıl dolar karşısında yaklaşık %8 oranında değer kaybetmesi, merkez bankasının para birimini istikrara kavuşturmak için daha fazla araç kullanmasına neden olabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/philippines-may-use-more-tools-to-stem-peso-slide-analysts-say",
-    "ts": 1793236502000,
+    "t": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs",
+    "tt": "Anthropic'in Halka Arz Planları Avustralyalı CIO'ların Şüpheciliğini Çekiyor",
+    "s": "Some Australian investment chiefs are expressing caution over the impending blockbuster initial public offering of Anthropic PBC, as the company brings a fresh artificial intelligence bet to the local market.",
+    "ss": "Bazı Avustralyalı yatırım şefleri, şirketin yerel pazara yeni bir yapay zeka iddiası getirmesi nedeniyle, Anthropic PBC'nin gişe rekorları kıran ilk halka arzına ilişkin ihtiyatlı olduklarını ifade ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/anthropic-s-ipo-plans-draw-skepticism-from-australian-cios",
+    "ts": 1793243600000,
     "tags": []
+   },
+   {
+    "t": "Fed's Warsh on Why He Watches Korea's Economy Closely",
+    "tt": "Fed'in Kore Ekonomisini Neden Yakından İzlediğine İlişkin Warsh",
+    "s": "Federal Reserve Chairman Kevin Warsh closely monitors South Korea's economy because he views its tech exports as vital \"feedstocks\" and a leading indicator for what is coming through the global supply chain, a point he highlighted while noting that a task force will deliver recommendations on the Fe",
+    "ss": "Federal Rezerv Başkanı Kevin Warsh, Güney Kore ekonomisini yakından izliyor çünkü teknoloji ihracatını hayati \"hammaddeler\" ve küresel tedarik zincirinden gelecekler için öncü bir gösterge olarak görüyor; bir görev gücünün Fe ile ilgili tavsiyeler sunacağını belirtirken bu noktanın altını çizdi.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/fed-s-warsh-on-why-he-watches-korea-s-economy-closely-video",
+    "ts": 1793243393000,
+    "tags": []
+   },
+   {
+    "t": "RBC Flags Risks of Renewed US Strikes on Iran Despite Diplomacy",
+    "tt": "RBC, Diplomasiye Rağmen ABD'nin İran'a Yeni Saldırı Risklerini İşaretledi",
+    "s": "Renewed US military strikes against Iran remain possible despite a flurry of diplomatic activity in recent days ahead of the midterm elections, according to RBC Capital Markets LLC.",
+    "ss": "RBC Capital Markets LLC'ye göre, ara seçimler öncesinde son günlerde yaşanan diplomatik faaliyetlere rağmen ABD'nin İran'a yönelik yeni askeri saldırıları mümkün olmaya devam ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/rbc-flags-risks-of-renewed-us-strikes-on-iran-despite-diplomacy",
+    "ts": 1793243371000,
+    "tags": []
+   },
+   {
+    "t": "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
+    "s": "Technology shares fell, stalling this week’s rally, after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns.",
+    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793225507000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲",
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Biggest Pharmacy Chain in Malaysia Plans $565 Million Share Sale",
+    "tt": "Malezya'nın En Büyük Eczane Zinciri 565 Milyon Dolarlık Hisse Satışı Planlıyor",
+    "s": "Malaysia’s biggest pharmacy chain Big Caring Group Bhd. is offering shares worth up to 2.3 billion ringgit ($565 million) in an initial public offering that’s poised to be the country’s second largest listing this year.",
+    "ss": "Malezya'nın en büyük eczane zinciri Big Caring Group Bhd., bu yıl ülkenin en büyük ikinci halka arzı olacak ilk halka arzda 2,3 milyar ringgit (565 milyon dolar) değerinde hisse sunuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/biggest-pharmacy-chain-in-malaysia-plans-565-million-share-sale",
+    "ts": 1793242783000,
+    "tags": []
+   },
+   {
+    "t": "Gold Dips to Near $4,000 as Fed Holds Rates With Little Guidance",
+    "tt": "Altın, Fed'in Faizleri Çok Az Yönlendirmeyle Tutması ile 4.000 Dolara Yakınlarına Düştü",
+    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
+    "ss": "Altın, Fed'in borçlanma maliyetlerini sabit tutması ve bir sonraki adımına ilişkin birkaç ipucu sunarak yıl sonundan önce faiz artırımı ihtimalini açık bırakmasının ardından geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+    "ts": 1793231042000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    }
   ],
   "CNBC": [
@@ -675,19 +679,28 @@
   ],
   "ZeroHedge": [
    {
+    "t": "How Censorship Works",
+    "tt": "Sansür Nasıl İşler?",
+    "s": "How Censorship Works Authored by Jeffrey A. Tucker via The Epoch Times , The Holodomor (meaning death by hunger) was a man-made famine in Soviet Ukraine in 1932-1933 that killed millions of people, primarily Ukrainian peasants. It was part of a wider Soviet famine (roughly 1930-1934) that also affec",
+    "ss": "Sansür Nasıl Çalışır? Jeffrey A. Tucker tarafından The Epoch Times aracılığıyla yazılmıştır. Holodomor (açlık nedeniyle ölüm anlamına gelir), 1932-1933'te Sovyet Ukrayna'da başta Ukraynalı köylüler olmak üzere milyonlarca insanı öldüren insan yapımı bir kıtlıktı. Bu aynı zamanda Sovyet kıtlığının (kabaca 1930-1934) bir parçasıydı.",
+    "u": "https://www.zerohedge.com/geopolitical/how-censorship-works",
+    "ts": 1793244300000,
+    "tags": []
+   },
+   {
     "t": "The Day After Midterms: Diplomacy Or Another \"Epic Fury\"?",
-    "tt": null,
+    "tt": "Ara Sınavlardan Sonraki Gün: Diplomasi mi Yoksa Başka Bir \"Epik Öfke\" mi?",
     "s": "The Day After Midterms: Diplomacy Or Another \"Epic Fury\"? Brent crude futures topped $116.50 a barrel early Wednesday after a WSJ report said the Trump administration is preparing for a brief military campaign against Iran after the midterm elections .&nbsp; Trump said at a rally last week, \" We may",
-    "ss": null,
+    "ss": "Ara Sınavlardan Sonraki Gün: Diplomasi mi Yoksa Başka Bir \"Epik Öfke\" mi? Brent ham petrol vadeli işlemleri, WSJ'nin Trump yönetiminin ara seçimlerden sonra İran'a karşı kısa bir askeri harekata hazırlandığını belirten bir raporunun ardından Çarşamba günü erken saatlerde varil başına 116,50 doların üzerine çıktı.  Trump geçen hafta bir mitingde şunları söyledi: \"Yapabiliriz",
     "u": "https://www.zerohedge.com/geopolitical/day-after-midterms-diplomacy-or-another-epic-fury",
     "ts": 1793242800000,
     "tags": []
    },
    {
     "t": "There Are Multiple Paths Out Of Israel's Election Deadlock",
-    "tt": null,
+    "tt": "İsrail'in Seçim Çıkmazından Çıkışın Çok Sayıda Yolu Var",
     "s": "There Are Multiple Paths Out Of Israel's Election Deadlock Via Middle East Eye More&nbsp;Israelis&nbsp;voted in Tuesday’s election than in any poll since 2001, yet neither Israeli Prime Minister Benjamin Netanyahu nor his challengers have a straightforward path to power. Complicating matters are the",
-    "ss": null,
+    "ss": "Ortadoğu'nun Gözüyle İsrail'in Seçim Çıkmazından Çıkışın Çok Sayıda Yolu Var Salı günkü seçimlerde 2001'den bu yana yapılan tüm anketlerde olduğundan daha fazla İsrailli oy kullandı, ancak ne İsrail Başbakanı Binyamin Netanyahu'nun ne de rakiplerinin iktidara giden basit bir yolu yok. Karmaşık meseleler",
     "u": "https://www.zerohedge.com/geopolitical/three-most-likely-paths-forward-out-israels-election-deadlock",
     "ts": 1793241300000,
     "tags": []
@@ -753,15 +766,6 @@
     "ss": "Amerika'nın Demokratik Sosyalisti, United Airlines ve Elbit Sisteminin Hedefini Belirledi: \"Tedarik Zincirlerini Keseceğiz\" Amerika'nın Demokratik Sosyalistleri'nin hedeflenen ABD şirketleri listesi, \"tedarik zincirini kesme\" hedefiyle birleştiğinde, hareketin asıl ajanı hakkında ulusal güvenlik endişelerini artırıyor",
     "u": "https://www.zerohedge.com/political/democratic-socialist-america-puts-crosshairs-united-airlines-elbit-system-we-will-sever",
     "ts": 1793230800000,
-    "tags": []
-   },
-   {
-    "t": "Watch: Chaos Erupts At UN As Mike Waltz Gets Into Screaming Match With Cuban Diplomat, U.S. Staffer Allegedly Assaulted",
-    "tt": "İzle: Mike Waltz Kübalı Diplomatla Çığlık Atarak Maça Girerken BM'de Kaos Patlak Veriyor, ABD'li Personelin Saldırıya Uğradığı İddiası",
-    "s": "Watch: Chaos Erupts At UN As Mike Waltz Gets Into Screaming Match With Cuban Diplomat, U.S. Staffer Allegedly Assaulted Cuba's communist regime brought its confrontational tactics into the halls of the United Nations last week, triggering a heated showdown with U.S. Ambassador Mike Waltz. Cuba's Min",
-    "ss": "İzle: BM'de Kaos Patlak Veriyor Mike Waltz, Kübalı Diplomatla Çığlık Atarak Maça Girerken, ABD Personelinin Saldırıya Uğradığı İddia Edilen Küba'nın komünist rejimi, çatışmacı taktiklerini geçen hafta Birleşmiş Milletler salonlarına taşıdı ve ABD Büyükelçisi Mike Waltz ile hararetli bir hesaplaşmayı tetikledi. Küba'nın Min'i",
-    "u": "https://www.zerohedge.com/political/watch-chaos-erupts-un-mike-waltz-gets-screaming-match-cuban-diplomat-us-staffer-allegedly",
-    "ts": 1793227800000,
     "tags": []
    }
   ],
@@ -870,7 +874,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
