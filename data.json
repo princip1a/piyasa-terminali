@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T07:14:34.771652+00:00",
+ "generated": "2026-10-29T08:12:59.602340+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 16.91,
-   "c": -3.48,
-   "d": -0.61,
+   "p": 17.33,
+   "c": 2.48,
+   "d": 0.42,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4047.1,
-   "c": -0.11,
-   "d": -4.5,
+   "p": 4042.2,
+   "c": -0.23,
+   "d": -9.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.99,
-   "c": -0.87,
-   "d": -0.467,
+   "p": 52.89,
+   "c": -1.06,
+   "d": -0.567,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.54,
-   "c": -1.21,
-   "d": -1.24,
+   "p": 101.9,
+   "c": -0.86,
+   "d": -0.88,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.3,
-   "c": -4.35,
-   "d": -5.02,
+   "p": 110.83,
+   "c": -3.89,
+   "d": -4.49,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.24,
-   "c": 0.05,
-   "d": 0.05,
+   "p": 102.151,
+   "c": -0.04,
+   "d": -0.039,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8334,
+   "p": 49.8324,
    "c": 0.07,
-   "d": 0.034,
+   "d": 0.033,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 79817,
-   "c": -1.25,
+   "p": 79955,
+   "c": -1.37,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2307.2,
-   "c": -1.87,
+   "p": 2314.11,
+   "c": -2.08,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 99.78,
-   "c": -2.09,
+   "p": 99.91,
+   "c": -2.29,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.29,
-   "c": -2.57,
+   "c": -2.99,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 750.75,
-   "c": 0.92,
+   "p": 750.51,
+   "c": 0.44,
    "k": "usd"
   }
  ],
@@ -384,27 +384,9 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Shell Reports Second-Highest Profit Ever as Refining Hits Record",
-    "tt": null,
-    "s": "Shell Plc reported the second-highest profit in its history on the back of record oil refining margins as the Iran war and the Russia-Ukraine conflict deprive the world of fuel-making capacity.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shell-reports-second-highest-profit-ever-as-refining-hits-record",
-    "ts": 1793257576000,
-    "tags": []
-   },
-   {
-    "t": "Hong Kong Housing Secretary Quits After Inquiry Into Deadly Fire",
-    "tt": null,
-    "s": "Hong Kong’s leader John Lee said his housing secretary has stepped down over the city’s deadliest fire in decades, as pressure mounted on his government to hold officials to account.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hong-kong-housing-secretary-quits-after-inquiry-into-deadly-fire",
-    "ts": 1793257542000,
-    "tags": []
-   },
-   {
-    "t": "Tech Rally Stalls as Earnings Disappoint, Oil Dips: Markets Wrap",
+    "t": "Nasdaq Futures Sink as AI Trade Shows New Cracks: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "A global rally in technology shares stalled after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in AI spending will deliver sufficient returns.",
+    "s": "A global rally in technology shares stalled after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in artificial intelligence spending will deliver sufficient returns.",
     "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
     "ts": 1793225507000,
@@ -415,77 +397,84 @@
     ]
    },
    {
-    "t": "Gold Dips to Near $4,000 as Fed Holds Rates With Little Guidance",
-    "tt": null,
-    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
-    "ts": 1793231042000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
+    "t": "Shell Announces $5 Billion Buyback as Oil Refining Booms",
+    "tt": "Shell, Petrol Rafineri Tesisi Olarak 5 Milyar Dolarlık Geri Alımı Duyurdu",
+    "s": "Shell Plc announced one of its highest-ever share buybacks as the Iran war and the Russia-Ukraine conflict lead to record margins for its oil-refining business and surging profits.",
+    "ss": "Shell Plc, İran savaşı ve Rusya-Ukrayna çatışmasının petrol rafinaj işinde rekor marjlara yol açması ve karlarının artması nedeniyle şimdiye kadarki en yüksek hisse geri alımlarından birini duyurdu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shell-reports-second-highest-profit-ever-as-refining-hits-record",
+    "ts": 1793257576000,
+    "tags": []
    },
    {
-    "t": "FTSE 100 Live: UK Stock Futures Edge Higher to Dodge AI Selloff",
-    "tt": null,
+    "t": "How Taylor Rooks Interviews Big-Name Athletes",
+    "tt": "Taylor Rooks Tanınmış Sporcularla Nasıl Röportaj Yapıyor?",
+    "s": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with the sports broadcaster Taylor Rooks about the art of the interview. (Source: Bloomberg)",
+    "ss": "The Deal'ın bu bölümünde Alex Rodriguez ve Jason Kelly, spor yayıncısı Taylor Rooks ile röportaj sanatı hakkında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/how-taylor-rooks-interviews-big-name-athletes-video",
+    "ts": 1793260867000,
+    "tags": []
+   },
+   {
+    "t": "What Wall Street Really Thanks About the AI Trade (Podcast)",
+    "tt": "Wall Street'in Yapay Zeka Ticareti Hakkında Gerçekten Neye Teşekkür Ettiği (Podcast)",
+    "s": "It has been a big week for the AI trade — we've seen wobbles in the market, many of them in response to headlines like the Anthropic S-1 and earnings from the hyperscalers (Oracle, Microsoft, etc.). So what does Wall Street make of all the news, and how are they processing an increasing sense that t",
+    "ss": "Yapay zeka ticareti için büyük bir hafta oldu; piyasada birçoğu Antropik S-1 gibi manşetlere ve hiper ölçekleyicilerden (Oracle, Microsoft, vb.) elde edilen kazançlara tepki olarak yalpalamalar gördük. Peki Wall Street tüm bu haberlerden ne anlıyor ve giderek artan bir şekilde \"bunun mümkün olmadığı\" hissini nasıl işliyorlar?",
+    "u": "https://www.bloomberg.com/news/audio/2026-10-29/what-wall-street-really-thanks-about-the-ai-trade-podcast",
+    "ts": 1793260800000,
+    "tags": []
+   },
+   {
+    "t": "Horizons Middle East & Africa 10/29/2026 (Video)",
+    "tt": "Horizons Orta Doğu ve Afrika 29.10.2026 (Video)",
     "s": "",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/live-blog/2026-10-29/ftse-100-live-updates-pound-gilts-shell-lloyds-wpp-ecb-rates-ai-stocks-gbp-healey-budget-what-s-moving-uk-markets-right-now-markets-today",
-    "ts": 1793256488000,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/horizons-middle-east-africa-10-29-2026-video",
+    "ts": 1793259700000,
     "tags": []
    },
    {
-    "t": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
-    "tt": "Healey İngiltere Bütçesini Savundu, Önümüzde 'Zor Kararlar' Uyardı",
-    "s": "Chancellor of the Exchequer John Healey defended his first budget against criticism that it lacked ambition, while warning the UK would face “tough decisions” about its spending priorities in the years ahead. Speaking to Bloomberg’s Caroline Hepker, Healey said a tax increase on banks would be tempo",
-    "ss": "Maliye Şansölyesi John Healey, ilk bütçesini hırssız olduğu yönündeki eleştirilere karşı savunurken, İngiltere'nin önümüzdeki yıllarda harcama öncelikleri konusunda \"zor kararlarla\" karşı karşıya kalacağı konusunda uyardı. Bloomberg'den Caroline Hepker'e konuşan Healey, bankalara yönelik vergi artışının tempo olacağını söyledi",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/healey-defends-uk-budget-warns-hard-decisions-ahead",
-    "ts": 1793253636000,
+    "t": "ECB Expected to Keep Rates on Hold",
+    "tt": "ECB'nin Faiz Oranlarını Sabit Tutması Bekleniyor",
+    "s": "The European Central Bank is set to keep borrowing costs steady as it weighs bond-market turmoil in France and a renewed advance in energy costs. Bloomberg's Oliver Crook reports from Frankfurt. (Source: Bloomberg)",
+    "ss": "Avrupa Merkez Bankası, Fransa'daki tahvil piyasasındaki çalkantı ve enerji maliyetlerindeki yenilenen artış nedeniyle borçlanma maliyetlerini sabit tutmaya hazırlanıyor. Bloomberg'den Oliver Crook Frankfurt'tan bildiriyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/ecb-expected-to-keep-rates-on-hold-video",
+    "ts": 1793259608000,
     "tags": []
    },
    {
-    "t": "Jio’s Halo Brightens Momentum for Mega Deals in India Pipeline",
-    "tt": "Jio'nun Halo'su Hindistan Boru Hattındaki Mega Anlaşmalara Yönelik İvmeyi Aydınlatıyor",
-    "s": "Jio Platforms Ltd.’s sparkling debut was met with enthusiasm among investors, paving the way for more potential offerings by some of the country’s largest privately held companies.",
-    "ss": "Jio Platforms Ltd.'nin parlak başlangıcı yatırımcılar arasında coşkuyla karşılandı ve ülkenin en büyük özel şirketlerinden bazılarının daha fazla potansiyel teklif vermesinin önünü açtı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/jio-s-halo-brightens-momentum-for-mega-deals-in-india-pipeline",
-    "ts": 1793252950000,
+    "t": "India’s GIFT City Steps Up Push for Global Capital",
+    "tt": "Hindistan’ın GIFT Şehri Küresel Sermayeye Yönelik Baskıyı Hızlandırıyor",
+    "s": "IFSCA Chairperson K. Rajaraman discusses how GIFT City can help attract global capital to India. He also addresses tax incentives, infrastructure and net-zero investment, fund management and progress toward dual listings. (Source: Bloomberg)",
+    "ss": "IFSCA Başkanı K. Rajaraman, GIFT City'nin küresel sermayeyi Hindistan'a çekmeye nasıl yardımcı olabileceğini anlatıyor. Aynı zamanda vergi teşvikleri, altyapı ve net sıfır yatırım, fon yönetimi ve ikili listeleme yönündeki ilerlemeyi de ele alıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/india-s-gift-city-steps-up-push-for-global-capital-video",
+    "ts": 1793259408000,
     "tags": []
    },
    {
-    "t": "Anthropic IPO: How Investors in Asia Can Get In",
-    "tt": "Antropik Halka Arz: Asya'daki Yatırımcılar Nasıl Girebilir?",
-    "s": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades. (Source: Bloomberg)",
-    "ss": "Asya'nın büyük bir kısmı için Anthropic'in gişe rekorları kıran halka arzından bir parça almak neredeyse imkansız olabilir. Abhishek Vishnoi, yatırımcıların vekaleten alım satım yoluyla nasıl yaratıcı olduklarını inceliyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/anthropic-ipo-how-investors-in-asia-can-get-in",
-    "ts": 1793252178000,
+    "t": "UK Budget Is Bond-Friendly But Healey Warns of Hard Decisions Ahead",
+    "tt": "İngiltere Bütçesi Tahvil Dostu Ancak Healey Önümüzdeki Zor Kararlar Konusunda Uyardı",
+    "s": "The chancellor warns on future spending decisions",
+    "ss": "Şansölye gelecekteki harcama kararları konusunda uyardı",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/uk-budget-is-bond-friendly-but-healey-warns-of-hard-decisions-ahead",
+    "ts": 1793259149000,
     "tags": []
    },
    {
-    "t": "Oil Drops as Traders Parse Vance’s Diplomatic Maneuver on Iran",
-    "tt": "Petrol, Yatırımcıların İran'a Yönelik Yeni Diplomasinin İşaretlerini Analiz Etmesiyle Düşüyor",
-    "s": "Oil dropped as traders assessed fresh diplomatic efforts in the Middle East to avert a potential restart of US military strikes on Iran.",
-    "ss": "Petrol fiyatları, tüccarların ABD'nin İran'a yönelik askeri saldırılarının yeniden başlaması ihtimalini engellemek için Orta Doğu'daki yeni diplomatik çabalara ağırlık vermesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-    "ts": 1793225101000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "South African Bank Absa Expands to Dubai",
+    "tt": "Güney Afrika Bankası Absa Dubai'ye Genişliyor",
+    "s": "South Africa’s Absa Group has expanded to Dubai’s DIFC. The bank aims to use the location to better support trade and investment flows between Gulf and African markets. Absa International Chief Executive Cheryl Buss spoke to Bloomberg's Chief Africa Correspondent Jennifer Zabasajja on the expansion.",
+    "ss": "Güney Afrika'nın Absa Grubu, Dubai'nin DIFC'sine kadar genişledi. Banka, bu konumu Körfez ve Afrika pazarları arasındaki ticaret ve yatırım akışlarını daha iyi desteklemek için kullanmayı amaçlıyor. Absa Uluslararası İcra Kurulu Başkanı Cheryl Buss, genişleme konusunda Bloomberg'in Afrika Baş Muhabiri Jennifer Zabasajja ile konuştu.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/south-african-bank-absa-expands-to-dubai-video",
+    "ts": 1793258888000,
+    "tags": []
    },
    {
-    "t": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
-    "tt": "Teknoloji Rallisi Alfabe Olarak Durdu, Samsung Hayal Kırıklığına Uğradı",
-    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global",
-    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Shery Ahn ve Haidi Stroud-Watts ile Tokyo ve Sidney'den canlı yayında, haber yapımcılarından ve sektör liderlerinden dünyayı şekillendiren en büyük hikayeler hakkında fikir ve analiz alıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/the-asia-trade-10-29-2026-video",
-    "ts": 1793250808000,
+    "t": "Kochugovindan: Two Dissents Shows Fed Independence",
+    "tt": "Kochugovindan: İki Muhalefet Fed'in Bağımsızlığını Gösteriyor",
+    "s": "The Fed held interest rates as largely expected but did not offer a clear signal on their movement in the next meeting in December. Sree Kochugovindan, Senior Research Economist at Aberdeen Investments spoke to Bloomberg’s Abeer Abu Omar on the decision which was widely anticipated (Source: Bloomber",
+    "ss": "Fed, faiz oranlarını büyük ölçüde beklendiği gibi tuttu ancak Aralık ayındaki bir sonraki toplantıda faiz oranlarına ilişkin net bir sinyal sunmadı. Aberdeen Investments Kıdemli Araştırma Ekonomisti Sree Kochugovindan, geniş çapta beklenen karar hakkında Bloomberg'den Abeer Abu Omar ile konuştu (Kaynak: Bloomber)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/kochugovindan-two-dissents-shows-fed-independence-video",
+    "ts": 1793258821000,
     "tags": []
    }
   ],
@@ -677,10 +666,28 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Russian Oil Refineries Boost Output Following Ukraine's 3-Day Pause On Energy Attacks",
+    "tt": "Ukrayna'nın Enerji Saldırılarına 3 Günlük Duraklamasının Ardından Rus Petrol Rafinerileri Üretimi Artırdı",
+    "s": "Russian Oil Refineries Boost Output Following Ukraine's 3-Day Pause On Energy Attacks Just after Ukraine's President Zelensky conceded Tuesday that he did in fact hold to a brief energy ceasefire at President Trump's insistence, Reuters is reporting a major rebound in Russian crude output . \"Russian",
+    "ss": "Ukrayna'nın Enerji Saldırılarına 3 Günlük Duraklaması Sonrasında Rus Petrol Rafinerileri Üretimi Artırdı Ukrayna Devlet Başkanı Zelensky'nin Salı günü Başkan Trump'ın ısrarı üzerine enerjide kısa süreli bir ateşkesi sürdürdüğünü kabul etmesinin hemen ardından Reuters, Rusya'nın ham petrol üretiminde büyük bir toparlanma olduğunu bildirdi. \"Rusça",
+    "u": "https://www.zerohedge.com/energy/russian-oil-refineries-boost-output-following-ukraines-3-day-pause-energy-attacks",
+    "ts": 1793261700000,
+    "tags": []
+   },
+   {
+    "t": "Europe's Muslim Population Has Surged Since 2000, And Forecasts See More Growth To Come",
+    "tt": "Avrupa'nın Müslüman Nüfusu 2000'den Bu Yana Arttı ve Tahminler Daha Fazla Büyüme Görüyor",
+    "s": "Europe's Muslim Population Has Surged Since 2000, And Forecasts See More Growth To Come Via Remix News, Conservative voices have long raised concerns over the demographic shift arising from high sustained migration from the Middle East and Africa , and new data confirms these fears. According to dat",
+    "ss": "Avrupa'nın Müslüman Nüfusu 2000'den Bu Yana Arttı ve Tahminler Remix Haberleri Yoluyla Daha Fazla Büyümenin Geleceğini GÖSTERİYOR. Muhafazakar sesler, Orta Doğu ve Afrika'dan yüksek sürekli göçten kaynaklanan demografik değişime ilişkin endişelerini uzun süredir dile getiriyor ve yeni veriler bu korkuları doğruluyor. Tarihe göre",
+    "u": "https://www.zerohedge.com/geopolitical/europes-muslim-population-has-surged-2000-and-forecasts-see-more-growth-come",
+    "ts": 1793259000000,
+    "tags": []
+   },
+   {
     "t": "Italy's Meloni Freezes New Military Aid Package For Ukraine, Pending US Midterm Outcome",
-    "tt": null,
+    "tt": "İtalyan Meloni Ukrayna'ya Yönelik Yeni Askeri Yardım Paketini Dondurdu, ABD Ara Dönem Sonucu Bekleniyor",
     "s": "Italy's Meloni Freezes New Military Aid Package For Ukraine, Pending US Midterm Outcome Ongoing White House pressure on Ukraine's Zelensky is having a chilling effect . After the US throttled its intelligence-sharing and weapons flows while demanding Ukraine halt strikes on Russian oil refineries, m",
-    "ss": null,
+    "ss": "İtalyan Meloni Ukrayna'ya Yönelik Yeni Askeri Yardım Paketini Dondurdu, ABD'nin Ara Dönem Sonucu Bekleniyor Beyaz Saray'ın Ukraynalı Zelensky üzerinde devam eden baskısı caydırıcı bir etki yaratıyor. ABD, Ukrayna'dan Rus petrol rafinerilerine yönelik saldırıları durdurmasını talep ederken istihbarat paylaşımını ve silah akışını kısıtladıktan sonra, m.",
     "u": "https://www.zerohedge.com/geopolitical/italys-meloni-freezes-new-military-aid-package-ukraine-pending-us-midterm-outcome",
     "ts": 1793256300000,
     "tags": []
@@ -747,27 +754,36 @@
     "u": "https://www.zerohedge.com/markets/shadow-government-fbi-official-got-advance-word-nbcs-hunter-laptop-foreign-op-story",
     "ts": 1793236800000,
     "tags": []
-   },
-   {
-    "t": "A Surveilled Country Is Not A Free Country",
-    "tt": "Gözetlenen Bir Ülke Özgür Bir Ülke Değildir",
-    "s": "A Surveilled Country Is Not A Free Country Authored by Daniel Nuccio via Brownstone Institute , If you currently live in the United States, I regret to inform you that you no longer live in a free country. You are no longer a free person. Actually, you haven't been for quite some time. This may soun",
-    "ss": "Gözetlenen Bir Ülke Özgür Bir Ülke Değildir Yazan: Daniel Nuccio, Brownstone Enstitüsü aracılığıyla, Şu anda Amerika Birleşik Devletleri'nde yaşıyorsanız, üzülerek belirtmek isterim ki artık özgür bir ülkede yaşamazsınız. Artık özgür bir insan değilsin. Aslında uzun zamandır yoktun. Bu kulağa hoş gelebilir",
-    "u": "https://www.zerohedge.com/political/surveilled-country-not-free-country",
-    "ts": 1793235300000,
-    "tags": []
-   },
-   {
-    "t": "Arrested Assistant Principal Resigns After 12-Year-Olds' Softball Brawl That Left A Dad Unconscious",
-    "tt": "Tutuklanan Müdür Yardımcısı, 12 Yaşındaki Çocukların Bir Babayı Bilincini Kaybeden Softbol Kavgasının Ardından İstifa Etti",
-    "s": "Arrested Assistant Principal Resigns After 12-Year-Olds' Softball Brawl That Left A Dad Unconscious A youth softball game in Sugar Land, Texas, turned violent Saturday, and a father is still in the hospital with a broken jaw, a fractured skull and three brain bleeds , according to his attorney. Poli",
-    "ss": "Tutuklanan Müdür Yardımcısı, 12 Yaşındaki Çocukların Babasını Bilincini Kaybetmesine Neden Olan Softbol Kavgasının Ardından İstifa Etti Sugar Land, Teksas'ta gençler arasında oynanan softbol maçı cumartesi günü şiddet olaylarına dönüştü ve avukatına göre bir baba, çenesi kırık, kafatası kırığı ve üç beyin kanamasıyla hâlâ hastanede bulunuyor. Poli",
-    "u": "https://www.zerohedge.com/political/arrested-assistant-principal-resigns-after-12-year-olds-softball-brawl-left-dad",
-    "ts": 1793233800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Asya borsaları karışık seyrediyor",
+    "tt": null,
+    "s": "Asya borsaları, yapay zeka tarafında yüksek değerleme endişeleriyle karışık seyrediyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/asya-borsalari-karisik-seyrediyor-3792791",
+    "ts": 1793260494000,
+    "tags": []
+   },
+   {
+    "t": "İspanya'daki tren kazasında can kaybı arttı",
+    "tt": null,
+    "s": "İspanya'nın Toledo kenti çevresinde 2 hızlı yolcu treninden biri durmuşken diğerinin arkadan çarpması sonucu ölenlerin sayısı 68'e yükseldi. Kazanın insan hatasından kaynaklandığı belirtildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ispanya-daki-tren-kazasinda-can-kaybi-artti-3792790",
+    "ts": 1793260047000,
+    "tags": []
+   },
+   {
+    "t": "Petrolde müzakere etkisi",
+    "tt": null,
+    "s": "Brent petrolün varil fiyatı, bugün saat 09.30 itibarıyla kapanışa göre yaklaşık yüzde 1,3 azalarak 110,22 dolara geriledi. Fiyatlardaki düşüşte, ABD ile İran arasında müzakerelerin yeniden başlamasına yönelik diplomatik çabaların bölgedeki petrol arzına ilişkin endişeleri hafifletmesi etkili oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrolde-muzakere-etkisi-3792789",
+    "ts": 1793258835000,
+    "tags": []
+   },
    {
     "t": "AMB'nin faizleri sabit tutması bekleniyor",
     "tt": null,
@@ -830,33 +846,6 @@
     "u": "https://www.bloomberght.com/guidewire-hyperexponential-i-1-7-milyar-dolara-satin-aldi-3792782",
     "ts": 1793219636000,
     "tags": []
-   },
-   {
-    "t": "Erdoğan, Trump ile telefonda görüştü",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Görüşmede Türkiye-ABD ilişkilerinin yanı sıra Hürmüz Boğazı, Yemen ve Rusya-Ukrayna savaşındaki gelişmeler ele alınırken Erdoğan, bölgesel sorunların diplomatik yollarla çözülmesi gerektiğini vurguladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/erdogan-trump-ile-telefonda-gorustu-3792781",
-    "ts": 1793219221000,
-    "tags": []
-   },
-   {
-    "t": "Avrupa'da doğalgaz fiyatları 4 yılın zirvesinde",
-    "tt": null,
-    "s": "Avrupa'da doğalgaz fiyatları, Orta Doğu'daki gerilimlerin LNG sevkiyatlarını aksatması ve Asya'dan gelen güçlü talebin etkisiyle megavatsaat başına 100 euroyu aşarak Aralık 2022'den bu yana en yüksek seviyesine ulaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlari-4-yilin-zirvesinde-3792780",
-    "ts": 1793218800000,
-    "tags": []
-   },
-   {
-    "t": "Trump yönetimi, Constellation Energy'ye 5 milyar dolarlık kredi sağlıyor",
-    "tt": null,
-    "s": "Trump yönetimi, Constellation Energy'ye, 8 nükleer santralini modernize etmesi, veri merkezleri ve Amerikan sanayisi için enerji tedariğini artırması için 5 milyar dolarlık kredi veriyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-yonetimi-constellation-energy-ye-5-milyar-dolarlik-kredi-sagliyor-3792779",
-    "ts": 1793218347000,
-    "tags": []
    }
   ]
  },
@@ -872,7 +861,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
