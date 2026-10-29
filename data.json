@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-29T19:15:18.757294+00:00",
+ "generated": "2026-10-29T19:59:07.146040+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7698.35,
-   "c": -0.59,
-   "d": -45.63,
+   "p": 7717.87,
+   "c": -0.34,
+   "d": -26.11,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26109.385,
-   "c": -1.66,
-   "d": -440.465,
+   "p": 26173.445,
+   "c": -1.42,
+   "d": -376.405,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52210.3,
-   "c": -0.5,
-   "d": -264.802,
+   "p": 52322.6,
+   "c": -0.29,
+   "d": -152.502,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 16.94,
-   "c": 0.18,
-   "d": 0.03,
+   "p": 16.62,
+   "c": -1.71,
+   "d": -0.29,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4025.5,
-   "c": -0.64,
-   "d": -26.1,
+   "p": 4031.2,
+   "c": -0.5,
+   "d": -20.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.16,
-   "c": -2.43,
-   "d": -1.297,
+   "p": 52.255,
+   "c": -2.25,
+   "d": -1.202,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.15,
-   "c": -0.61,
-   "d": -0.63,
+   "p": 102.37,
+   "c": -0.4,
+   "d": -0.41,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.83,
-   "c": -3.89,
-   "d": -4.49,
+   "p": 111.07,
+   "c": -3.69,
+   "d": -4.25,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.016,
-   "c": -0.17,
-   "d": -0.174,
+   "p": 102.0,
+   "c": -0.19,
+   "d": -0.19,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8311,
-   "c": 0.06,
-   "d": 0.032,
+   "p": 49.8325,
+   "c": 0.07,
+   "d": 0.033,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80750,
-   "c": -0.35,
+   "p": 80788,
+   "c": -0.85,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2327.35,
-   "c": -1.19,
+   "p": 2334.31,
+   "c": -1.44,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.31,
-   "c": -1.69,
+   "p": 99.95,
+   "c": -2.8,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.28,
-   "c": -3.23,
+   "c": -3.86,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 743.74,
-   "c": -0.96,
+   "p": 744.34,
+   "c": -1.3,
    "k": "usd"
   }
  ],
@@ -384,6 +384,65 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Ares CEO Says It’s Avoiding Backing AI Chips, Citing Complexity",
+    "tt": null,
+    "s": "Ares Management Corp. is avoiding financing deals to back the high-powered processing units that run sophisticated AI models, opting to invest in the data centers that house them instead.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/ares-ceo-says-it-s-avoiding-backing-ai-chips-citing-complexity",
+    "ts": 1793302699000,
+    "tags": []
+   },
+   {
+    "t": "Tokenization Gives Illiquid Funds a 24/7 Trading Twist",
+    "tt": null,
+    "s": "Putting interval funds on the blockchain could change more than just how their shares trade.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/tokenization-gives-illiquid-funds-a-24-7-trading-twist",
+    "ts": 1793302444000,
+    "tags": []
+   },
+   {
+    "t": "Venezuela’s Rodríguez Vows to Hold Election; Machado Asks When",
+    "tt": null,
+    "s": "Venezuela’s acting president pledged to hold elections once the agency that oversees voting is overhauled, offering her most specific vision yet for restoring democracy even as the nation’s leading opposition figure pressed her to commit to a date next year.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
+    "ts": 1793291228000,
+    "tags": []
+   },
+   {
+    "t": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
+    "tt": null,
+    "s": "Oil eased as fresh diplomatic efforts in the Middle East eroded some risk premium associated with a resumption of US military strikes on Iran.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+    "ts": 1793225101000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
+    "tt": null,
+    "s": "Investors are worried that Federal Reserve Chairman Kevin Warsh’s plan to reduce the number of interest-rate decisions each year could be a recipe for more volatility in the $32 trillion Treasury market.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/warsh-s-forward-silence-risks-bigger-treasury-market-swings",
+    "ts": 1793301814000,
+    "tags": []
+   },
+   {
+    "t": "AI Creating New Pathways to Engage Clients, Says Schwab CEO",
+    "tt": null,
+    "s": "Schwab president and CEO Rick Wurster said that AI integration is helping the company streamline operations and create 'new pathways to engage with clients' after the Schwab announced investment in AI startup Nevis. Wurster also commented on the AI investment landscape, saying that he is reassured t",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/ai-creating-new-pathways-to-engage-clients-schwab-ceo-video",
+    "ts": 1793301507000,
+    "tags": []
+   },
+   {
     "t": "Stock Rotation Hits AI Winners on Alphabet’s Miss: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
     "s": "A selloff in several tech companies spurred a rotation into a broader category of stocks while fueling a push toward the safety of bonds.",
@@ -391,6 +450,17 @@
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
     "ts": 1793225507000,
     "tags": []
+   },
+   {
+    "t": "Canadian Dollar Poised for Best Month Since April After BOC Hike",
+    "tt": null,
+    "s": "The Canadian dollar is heading for its largest monthly gain since April, supported by elevated oil prices and the Bank of Canada’s shift toward tighter monetary policy.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/canadian-dollar-poised-for-best-month-since-april-after-boc-hike",
+    "ts": 1793301033000,
+    "tags": [
+     "DXY ▲"
+    ]
    },
    {
     "t": "The Fearsome Rise of the Haunted Attraction",
@@ -408,69 +478,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/maybe-wall-street-has-never-been-ai-pilled",
     "ts": 1793299063000,
-    "tags": []
-   },
-   {
-    "t": "Lenders Seek to Sell Debt of Rovensa as Firm Burns Cash",
-    "tt": null,
-    "s": "Lenders to Partners Group-backed Rovensa are looking to offload the debt of the Iberian agricultural products maker as the firm burns through cash.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/lenders-seek-to-sell-debt-of-rovensa-as-firm-burns-through-cash",
-    "ts": 1793294136000,
-    "tags": []
-   },
-   {
-    "t": "Investors Buy Rogers (RCI), BCE, Telus Stocks After Canada Telecom Selloff",
-    "tt": null,
-    "s": "Investors are bargain hunting in Canadian telecommunication stocks after rising government-bond yields and competition from SpaceX sparked steep declines in the group.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/investors-buy-rogers-rci-bce-telus-stocks-after-canada-telecom-selloff",
-    "ts": 1793273887000,
-    "tags": []
-   },
-   {
-    "t": "Venezuela Leader Commits to Election as Machado Applies Pressure",
-    "tt": null,
-    "s": "Venezuela will hold elections organized by an overhauled electoral regulator and witnessed by the international community, acting President Delcy Rodríguez said in a rare televised address Thursday, as pressure builds on her interim government after the return of opposition leader María Corina Macha",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
-    "ts": 1793291228000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stocks Slide as Alphabet’s Record Plunge Revives AI Fears",
-    "tt": null,
-    "s": "Tech stocks were dragged lower by a record drop in Alphabet Inc. after disappointing results renewed investor concerns about the threat that artificial intelligence poses to its core business.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
-    "ts": 1793272199000,
-    "tags": []
-   },
-   {
-    "t": "Agnico Eagle (AEM) Flags Diesel Risk to Gold Output Costs Next Year",
-    "tt": null,
-    "s": "Agnico Eagle Mines Ltd. warned that rising diesel prices risk raising the cost of producing gold by as much as $80 per ounce next year, signaling mounting inflationary pressures for the mining industry.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/agnico-eagle-aem-flags-diesel-risk-to-gold-output-costs-next-year",
-    "ts": 1793296638000,
-    "tags": []
-   },
-   {
-    "t": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally",
-    "tt": null,
-    "s": "Blistering cloud growth sent Amazon.com Inc. shares soaring after its last earnings report. Now with more than half those gains gone, the firm needs to deliver a repeat performance in order to reignite its faltering stock.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-s-ailing-stock-needs-booming-cloud-growth-to-revive-rally",
-    "ts": 1793273401000,
-    "tags": []
-   },
-   {
-    "t": "Shanghai Exchange Halts Duty-Free Metal Delivery Against Futures",
-    "tt": null,
-    "s": "The Shanghai Futures Exchange has suspended the settlement of copper and aluminum futures with deliveries from duty-free warehouses, a mechanism that has long helped Chinese traders avoid paying taxes on metal that can be sold overseas.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shanghai-exchange-halts-bonded-copper-aluminium-deliveries",
-    "ts": 1793271031000,
     "tags": []
    }
   ],
@@ -568,6 +575,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "What’s the first thing most people do with their 401(k) after they retire? Nothing.",
+    "tt": null,
+    "s": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+    "ts": 1793303760000,
+    "tags": []
+   },
+   {
+    "t": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
+    "tt": null,
+    "s": "The companies say their proposed merger will help smaller grocers compete — but analysts wonder if regulators will conduct an “extended review” of antitrust risks",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
+    "ts": 1793303340000,
+    "tags": []
+   },
+   {
     "t": "‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf",
     "tt": null,
     "s": "The oil market may soon reach a point where the dust finally settles enough to see the true chaos the eight-month-old conflict in the Middle East and its shipping disruptions have wrought upon the global crude sector.",
@@ -638,33 +663,36 @@
     "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
     "ts": 1793293800000,
     "tags": []
-   },
-   {
-    "t": "All the reasons Marvell investors are ‘freaking out’ as Lumentum deal rumors swirl",
-    "tt": null,
-    "s": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
-    "ts": 1793293680000,
-    "tags": []
-   },
-   {
-    "t": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
-    "tt": null,
-    "s": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
-    "ts": 1793292540000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Bronx Prosecutors Reportedly Told To Keep Child's Age Out Of Sex-Crime Plea Offenses",
+    "tt": null,
+    "s": "Bronx Prosecutors Reportedly Told To Keep Child's Age Out Of Sex-Crime Plea Offenses Authored by David Manney via PJ Media , A child's age can be central to a sex crime. It helps establish what happened, identify the victim's vulnerability, and determine the consequences for the person responsible. ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/bronx-prosecutors-reportedly-told-keep-childs-age-out-sex-crime-plea-offenses",
+    "ts": 1793303400000,
+    "tags": []
+   },
+   {
+    "t": "Chaos In Florida: Woman (?) In Full Burqa Blasts Islamic Call To Prayer At Pinellas County Meeting",
+    "tt": null,
+    "s": "Chaos In Florida: Woman (?) In Full Burqa Blasts Islamic Call To Prayer At Pinellas County Meeting A woman (we think) in a full black burqa walked up to the public-comment microphone at the Pinellas County, Florida, commission meeting Wednesday and played a recording of the Islamic call to prayer in",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/chaos-florida-woman-full-burqa-blasts-islamic-call-prayer-pinellas-county-meeting",
+    "ts": 1793302500000,
+    "tags": []
+   },
+   {
+    "t": "Greenwald Unpacks Brazil's Political Drama As Bolsonaro Deletes \"True President-Elect\" Claim",
+    "tt": null,
+    "s": "Greenwald Unpacks Brazil's Political Drama As Bolsonaro Deletes \"True President-Elect\" Claim Brazilian Senator Flávio Bolsonaro briefly declared himself \" the true president-elect of Brazil\" on Wednesday before deleting the statement.&nbsp; President Trump said the same day that he would not endorse",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/greenwald-unpacks-brazils-political-drama-bolsonaro-deletes-true-president-elect-claim",
+    "ts": 1793302200000,
+    "tags": []
+   },
    {
     "t": "Luxury Hotel In One Of America's Wokest Cities Sells At Shocking 94% Loss",
     "tt": null,
@@ -702,6 +730,15 @@
     "tags": []
    },
    {
+    "t": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know?",
+    "tt": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor?",
+    "s": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know? The same Obama-appointed judge that President Donald Trump once branded a \"Radical Left Lunatic\" and demanded be impeached is now tasked with deciding whether the public can see what federal agent",
+    "ss": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor? Başkan Donald Trump'ın bir zamanlar \"Radikal Sol Deli\" olarak damgaladığı ve görevden alınmasını talep ettiği, Obama tarafından atanan yargıç, şimdi halkın hangi federal ajanı görüp göremeyeceğine karar vermekle görevlendirildi.",
+    "u": "https://www.zerohedge.com/political/trump-faces-plot-twist-ilhan-omar-warrant-fight-old-foe-reemerges-and-what-did-obamas-fbi",
+    "ts": 1793295600000,
+    "tags": []
+   },
+   {
     "t": "Republican Sen. Murkowski Endorses Democrat For Alaska Governor",
     "tt": null,
     "s": "Republican Sen. Murkowski Endorses Democrat For Alaska Governor Authored by Chase Smith via The Epoch Times , Sen. Lisa Murkowski (R-Alaska) has endorsed Democrat Jonathan Kreiss-Tomkins for Alaska governor , backing the former state lawmaker over three Republicans ahead of Election Day. Alaska Demo",
@@ -717,42 +754,6 @@
     "ss": null,
     "u": "https://www.zerohedge.com/personal-finance/nearly-3-10-new-car-trade-ins-are-underwater-edmunds-finds",
     "ts": 1793293800000,
-    "tags": []
-   },
-   {
-    "t": "Maker Of Wild Turkey And Grand Marnier Tumbles After North American Sales Go Flat",
-    "tt": null,
-    "s": "Maker Of Wild Turkey And Grand Marnier Tumbles After North American Sales Go Flat Shares of Italian spirits group Campari, maker of&nbsp; Aperol, Wild Turkey, SKYY vodka, and Grand Marnier , plunged the most in European trading since May after an unexpected decline in third-quarter North American sa",
-    "ss": null,
-    "u": "https://www.zerohedge.com/markets/maker-wild-turkey-and-grand-marnier-tumbles-after-north-american-sales-go-flat",
-    "ts": 1793292900000,
-    "tags": []
-   },
-   {
-    "t": "Kamala Harris Warns Democrats Against Impeaching Trump If They Capture Congress",
-    "tt": null,
-    "s": "Kamala Harris Warns Democrats Against Impeaching Trump If They Capture Congress Authored by Jack Phillips via The Epoch Times , Former Vice President Kamala Harris on Tuesday cautioned congressional Democrats from moving to impeach President Donald Trump if they prevail in the midterm elections. \"I ",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/kamala-harris-warns-democrats-against-impeaching-trump-if-they-capture-congress",
-    "ts": 1793292000000,
-    "tags": []
-   },
-   {
-    "t": "Major Fast-Food Chain Faces Wave Of Restaurant Closures As Franchise Giant Files For Bankruptcy",
-    "tt": "Büyük Fast Food Zinciri, Dev Franchise İflas Başvurusunda Bulunurken Restoran Kapanma Dalgasıyla Karşı Karşıya",
-    "s": "Major Fast-Food Chain Faces Wave Of Restaurant Closures As Franchise Giant Files For Bankruptcy Wendy's could see up to 60 more restaurants closed across the United States through mid-November as one of its largest franchise operators battles bankruptcy, according to USA Today . Meritage Hospitality",
-    "ss": "Büyük Fast Food Zinciri, Franchise Devi İflas Başvurusunda Bulunurken Restoran Kapanma Dalgasıyla Karşı Karşıya USA Today'e göre Wendy's, en büyük franchise operatörlerinden biri iflasla mücadele ederken, Kasım ortasına kadar Amerika Birleşik Devletleri'nde 60'a kadar restoranın daha kapandığını görebilir. Meritage Misafirperverliği",
-    "u": "https://www.zerohedge.com/economics/major-fast-food-chain-faces-wave-restaurant-closures-franchise-giant-files-bankruptcy",
-    "ts": 1793291100000,
-    "tags": []
-   },
-   {
-    "t": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know?",
-    "tt": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor?",
-    "s": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know? The same Obama-appointed judge that President Donald Trump once branded a \"Radical Left Lunatic\" and demanded be impeached is now tasked with deciding whether the public can see what federal agent",
-    "ss": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor? Başkan Donald Trump'ın bir zamanlar \"Radikal Sol Deli\" olarak damgaladığı ve görevden alınmasını talep ettiği, Obama tarafından atanan yargıç, şimdi halkın hangi federal ajanı görüp göremeyeceğine karar vermekle görevlendirildi.",
-    "u": "https://www.zerohedge.com/political/trump-faces-plot-twist-ilhan-omar-warrant-fight-old-foe-reemerges-and-what-did-obamas-fbi",
-    "ts": 1793289300000,
     "tags": []
    }
   ],
