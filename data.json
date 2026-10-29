@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T10:59:36.605799+00:00",
+ "generated": "2026-10-29T11:38:05.113178+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 17.14,
-   "c": 1.36,
-   "d": 0.23,
+   "p": 16.97,
+   "c": 0.35,
+   "d": 0.06,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4038.0,
-   "c": -0.34,
-   "d": -13.6,
+   "p": 4045.8,
+   "c": -0.14,
+   "d": -5.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.89,
-   "c": -1.06,
-   "d": -0.567,
+   "p": 52.945,
+   "c": -0.96,
+   "d": -0.512,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.54,
-   "c": -1.21,
-   "d": -1.24,
+   "p": 101.34,
+   "c": -1.4,
+   "d": -1.44,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.34,
-   "c": -4.32,
-   "d": -4.98,
+   "p": 110.03,
+   "c": -4.59,
+   "d": -5.29,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.185,
-   "c": -0.0,
-   "d": -0.005,
+   "p": 102.139,
+   "c": -0.05,
+   "d": -0.051,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8347,
+   "p": 49.8339,
    "c": 0.07,
-   "d": 0.036,
+   "d": 0.035,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80197,
-   "c": -1.48,
+   "p": 80088,
+   "c": -1.52,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2323.87,
-   "c": -1.77,
+   "p": 2322.52,
+   "c": -1.7,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.44,
-   "c": -2.34,
+   "p": 100.35,
+   "c": -2.36,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.29,
-   "c": -2.61,
+   "c": -2.68,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 740.86,
-   "c": -2.39,
+   "p": 738.14,
+   "c": -2.91,
    "k": "usd"
   }
  ],
@@ -384,6 +384,84 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally",
+    "tt": "Amazon'un Sorunlu Hisse Senedinin Yükselişi Canlandırmak İçin Bulut Büyümesinin Artmasına İhtiyacı Var",
+    "s": "Blistering cloud growth sent Amazon.com Inc. shares soaring after its last earnings report. Now with more than half those gains gone, the firm needs to deliver a repeat performance in order to reignite its faltering stock.",
+    "ss": "Buluttaki hızlı büyüme, Amazon.com Inc. hisselerinin son kazanç raporunun ardından yükselişe geçmesine neden oldu. Artık bu kazanımların yarısından fazlası gitmişken, firmanın bocalayan hisselerini yeniden canlandırmak için tekrarlanan bir performans sergilemesi gerekiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-s-ailing-stock-needs-booming-cloud-growth-to-revive-rally",
+    "ts": 1793273401000,
+    "tags": []
+   },
+   {
+    "t": "Europe Set to Release 42 Million Barrels of Oil, France Says",
+    "tt": "Fransa, Avrupa'nın 42 Milyon Varil Petrol Çıkaracağını Açıkladı",
+    "s": "Europe will release 42 million barrels of oil reserves into the market over the next three months as part of its commitment to ease prices, France’s economy minister Roland Lescure said Thursday.",
+    "ss": "Fransa Ekonomi Bakanı Roland Lescure Perşembe günü yaptığı açıklamada, Avrupa'nın fiyatları gevşetme taahhüdünün bir parçası olarak önümüzdeki üç ay içinde piyasaya 42 milyon varil petrol rezervi sunacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/europe-set-to-release-42-million-barrels-of-oil-france-says",
+    "ts": 1793272952000,
+    "tags": []
+   },
+   {
+    "t": "Gold Dips Near $4,000 as Fed Holds Rates With Little Guidance",
+    "tt": "Altın, Fed'in Faizleri Çok Az Yönlendirmeyle Tutması ile 4.000 Dolara Yakınına Düştü",
+    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
+    "ss": "Altın, Fed'in borçlanma maliyetlerini sabit tutması ve bir sonraki adımına ilişkin birkaç ipucu sunarak yıl sonundan önce faiz artırımı ihtimalini açık bırakmasının ardından geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+    "ts": 1793231042000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Prabowo’s Own Brother Sounds Alarm Over Indonesian Stock Market",
+    "tt": "Prabowo'nun Kardeşi Endonezya Borsası Üzerinden Alarm Verdi",
+    "s": "Indonesian President Prabowo Subianto’s brother stressed the importance of a trusted and transparent local share market, saying the country must “mitigate the MSCI issue” and telling business leaders at a forum Thursday to stop “deep frying” stocks.",
+    "ss": "Endonezya Devlet Başkanı Prabowo Subianto'nun erkek kardeşi, güvenilir ve şeffaf bir yerel hisse senedi piyasasının önemini vurguladı, ülkenin \"MSCI sorununu hafifletmesi\" gerektiğini söyledi ve Perşembe günü düzenlenen bir forumda iş dünyası liderlerine hisse senetlerini \"derin yağda kızartmayı\" bırakmalarını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/prabowo-s-own-brother-sounds-alarm-over-indonesian-stock-market",
+    "ts": 1793272662000,
+    "tags": []
+   },
+   {
+    "t": "Hong Kong leader apologizes over deadly Tai Po blaze",
+    "tt": "Hong Kong lideri ölümcül Tai Po yangını nedeniyle özür diledi",
+    "s": "Hong Kong’s leader John Lee issued a rare apology and said his housing secretary has stepped down over the city’s deadliest fire in decades. (Source: Bloomberg)",
+    "ss": "Hong Kong lideri John Lee ender görülen bir özür yayınladı ve konut sekreterinin şehrin son yıllardaki en ölümcül yangını nedeniyle istifa ettiğini söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/hong-kong-leader-apologizes-over-deadly-tai-po-blaze-video",
+    "ts": 1793272472000,
+    "tags": []
+   },
+   {
+    "t": "Lloyds Profit Beat Marred by Flat Outlook Amid Rising Rates",
+    "tt": "Lloyds'un Karı Artan Faizler Arasında Sabit Görünümle gölgelendi",
+    "s": "Lloyds Banking Group Plc’s profit beat estimates in the third quarter, but disappointed investors as the UK lender kept its guidance steady against a rising rate environment.",
+    "ss": "Lloyds Banking Group Plc'nin karı üçüncü çeyrekte tahminleri aştı ancak İngiltere'deki borç verenin artan faiz ortamına karşı rehberliğini sabit tutması yatırımcıları hayal kırıklığına uğrattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/lloyds-beats-estimates-on-rise-in-fees-and-interest-income",
+    "ts": 1793258652000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Fall as Alphabet Sales Miss Revives AI Fears",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Alfabe Satışlarının Yapay Zeka Korkularını Yeniden Canlandırmasıyla Düştü",
+    "s": "US stock futures fell, dragged lower by a plunge in Alphabet Inc. after disappointing results revived investor concerns that it’s losing ground despite massive artificial intelligence spending.",
+    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan sonuçların yatırımcıların yoğun yapay zeka harcamalarına rağmen zemin kaybettiği yönündeki endişelerini yeniden canlandırmasının ardından Alphabet Inc.'deki düşüş nedeniyle düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
+    "ts": 1793272199000,
+    "tags": []
+   },
+   {
+    "t": "Blue Owl Fees Beat Estimates Though Redemptions Weigh on Inflows",
+    "tt": "Mavi Baykuş Ücretleri Tahminleri Geride Bıraksa da Geri Ödemeler Girişleri Etkiliyor",
+    "s": "Blue Owl Capital Inc. reported a larger uptick in fees than analysts expected in the third quarter, though the private credit firm’s inflows were weighed down by investors seeking to redeem holdings in certain funds.",
+    "ss": "Blue Owl Capital Inc., üçüncü çeyrekte ücretlerde analistlerin beklediğinden daha büyük bir artış bildirdi ancak özel kredi firmasının girişleri, belirli fonlardaki varlıklarını geri almak isteyen yatırımcılar tarafından baskılandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/blue-owl-fees-beat-estimates-though-redemptions-weigh-on-inflows",
+    "ts": 1793271773000,
+    "tags": []
+   },
+   {
     "t": "Shell Lifts Buyback to $5 Billion as Refining Windfall Grows",
     "tt": "Shell, Petrol Rafineri Tesisi Olarak 5 Milyar Dolarlık Geri Alımı Duyurdu",
     "s": "Shell Plc boosted its share buyback to one of the highest levels in its history, returning more of a wartime refining windfall to investors as disruptions across the Middle East and Russia squeeze global fuel supplies.",
@@ -404,83 +482,6 @@
      "Altcoin ▲",
      "DXY ▲"
     ]
-   },
-   {
-    "t": "Anwar Cuts a Deal With Opposition to Clear a 2027 Budget Hurdle",
-    "tt": "Anwar, 2027 Bütçe Engelini Ortadan Kaldırmak İçin Muhalefetle Anlaşmaya Vardı",
-    "s": "Malaysia’s 2027 budget cleared its first major parliamentary hurdle after Prime Minister Anwar Ibrahim’s government struck a pact with several opposition and independent lawmakers, securing their support for the spending plan in exchange for constituency development funds.",
-    "ss": "Malezya'nın 2027 bütçesi, Başbakan Anwar İbrahim'in hükümetinin çeşitli muhalefet ve bağımsız milletvekilleriyle bir anlaşmaya vararak seçim bölgesi geliştirme fonları karşılığında harcama planına destek sağlamalarının ardından ilk büyük parlamento engelini aştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/anwar-cuts-a-deal-with-opposition-to-clear-a-2027-budget-hurdle",
-    "ts": 1793271128000,
-    "tags": []
-   },
-   {
-    "t": "Oil Slides as Traders Weigh Signs of Tentative Iran Diplomacy",
-    "tt": "Petrol, Yatırımcıların Geçici İran Diplomasisinin İşaretlerini Tartmasıyla Kayıyor",
-    "s": "Oil eased as traders assessed fresh diplomatic efforts in the Middle East to avert a resumption of US military strikes on Iran, a prospect that has pushed prices higher in recent weeks.",
-    "ss": "Petrol fiyatları, tüccarların ABD'nin İran'a yönelik askeri saldırılarının yeniden başlamasını engellemek için Orta Doğu'daki yeni diplomatik çabalarını değerlendirmesiyle geriledi; bu da fiyatların son haftalarda yükselişe geçmesine neden oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
-    "ts": 1793225101000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Investors May Have Bought All the AI Bonds They Can Handle",
-    "tt": "Yatırımcılar Kullanabilecekleri Tüm Yapay Zeka Tahvillerini Satın Almış Olabilir",
-    "s": "Credit default swaps show growing risk of data-center bonds.",
-    "ss": "Kredi temerrüt takasları, veri merkezi tahvillerinin artan riskini gösteriyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-29/investors-may-have-bought-all-the-ai-bonds-they-can-handle",
-    "ts": 1793269790000,
-    "tags": []
-   },
-   {
-    "t": "Cosco Profit Jumps Most in Two Years as Turmoil Supports Rates",
-    "tt": "Cosco'nun Karı, Kargaşanın Faizleri Desteklemesiyle İki Yılda En Çok Arttı",
-    "s": "Cosco Shipping Holdings Co. earnings jumped the most in two years as persistent geopolitical disruptions rerouted trade routes, tying up more of its vessels for longer while container rates surged.",
-    "ss": "Cosco Shipping Holdings Co.'nun kazançları, devam eden jeopolitik aksaklıkların ticaret rotalarını yeniden yönlendirmesi, daha fazla gemisini daha uzun süreliğine bağlaması ve konteyner fiyatlarının artmasıyla iki yılın en büyük artışını yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/cosco-profit-jumps-most-in-two-years-as-turmoil-supports-rates",
-    "ts": 1793269126000,
-    "tags": []
-   },
-   {
-    "t": "Lagarde to Step Down as ECB President on Feb. 7",
-    "tt": "Lagarde 7 Şubat'ta ECB Başkanlığından Ayrılacak",
-    "s": "European Central Bank President Christine Lagarde informed the Governing Council and European Council President António Costa that she will resign effective February 7, 2027. Bloomberg's Oliver Crook reports from Frankfurt. (Source: Bloomberg)",
-    "ss": "Avrupa Merkez Bankası Başkanı Christine Lagarde, Yönetim Konseyi ve Avrupa Konseyi Başkanı António Costa'ya 7 Şubat 2027'den itibaren istifa edeceğini bildirdi. Bloomberg'den Oliver Crook, Frankfurt'tan bildirdi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/lagarde-to-step-down-as-ecb-president-on-feb-7-video",
-    "ts": 1793269110000,
-    "tags": []
-   },
-   {
-    "t": "Qatar to Buy LNG From Woodside as It Scours for US Supply",
-    "tt": "Katar, ABD Tedarikine Yönelirken Woodside'dan LNG Alacak",
-    "s": "QatarEnergy agreed to purchase US liquefied natural gas from Woodside Energy Group Ltd. for two decades, saying it’s now the top buyer of the American fuel as it diversifies from the Middle East.",
-    "ss": "QatarEnergy, ABD sıvılaştırılmış doğal gazını Woodside Energy Group Ltd.'den yirmi yıl boyunca satın almayı kabul etti ve Orta Doğu'dan farklılaştığı için artık Amerikan yakıtının en büyük alıcısı olduğunu söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/qatar-agrees-to-buy-lng-from-woodside-in-second-long-term-deal",
-    "ts": 1793262944000,
-    "tags": []
-   },
-   {
-    "t": "Can Chancellor Healey's Budget Aid Britain's Founders?",
-    "tt": "Şansölye Healey'nin Bütçesi Britanya'nın Kurucularına Yardımcı Olabilir mi?",
-    "s": "Bloomberg UK Senior Columnist Merryn Somerset Webb discusses Chancellor of the Exchequer John Healey's promise of a founder's allowance and government support for young entrepreneurs. \"It's an announcement but it is meaningless and, of course, a lot of the stuff in the budget is that,\" she says on \"",
-    "ss": "Bloomberg Birleşik Krallık Kıdemli Köşe Yazarı Merryn Somerset Webb, Maliye Şansölyesi John Healey'nin kurucu ödeneği ve genç girişimcilere devlet desteği vaadini tartışıyor. \"Bu bir duyuru ama anlamsız ve tabii ki bütçedeki çoğu şey bundan ibaret\" diyor \"",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/can-chancellor-healey-s-budget-aid-britain-s-founders-video",
-    "ts": 1793263253000,
-    "tags": []
-   },
-   {
-    "t": "Healey's Budget Placates Gilt Markets, Santander Says",
-    "tt": "Santander, Healey'nin Bütçesinin Yaldızlı Piyasaları Sakinleştirdiğini Söyledi",
-    "s": "Santander CIB's UK Chief Economist Victoria Clarke says, \"The UK fiscal trajectory was printed on paper yesterday: it does not look brilliant but it looks okay and it wasn't massively worse, but it needs to be delivered.\" She speaks at an exclusive event in London for Bloomberg.com subscribers follo",
-    "ss": "Santander CIB'nin Birleşik Krallık Baş Ekonomisti Victoria Clarke şöyle diyor: \"Birleşik Krallık'ın mali gidişatı dün kağıda basıldı: parlak görünmüyor ama iyi görünüyor ve çok daha kötü de değildi, ancak yerine getirilmesi gerekiyor.\" Bloomberg.com abonelerine yönelik Londra'daki özel bir etkinlikte konuşuyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/healey-s-budget-placates-gilt-markets-santander-says-video",
-    "ts": 1793267877000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -577,6 +578,57 @@
   ],
   "MarketWatch": [
    {
+    "t": "You can’t rely on the S&P 500 as much as you may think",
+    "tt": "S&P 500'e sandığınız kadar güvenemezsiniz",
+    "s": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+    "ss": "Endeksin zayıflığı, \"hisse senetleri her zaman yükselir\" inancıyla büyüyen bir nesil yatırımcıyı şaşırtabilir.",
+    "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+    "ts": 1793273400000,
+    "tags": []
+   },
+   {
+    "t": "Lilly raises outlook for third time this year as Zepbound sales soar",
+    "tt": "Lilly, Zepbound satışlarının artmasıyla birlikte bu yıl üçüncü kez görünümünü yükseltti",
+    "s": "The GLP-1 drug continues to dominate the market for prescription weight-loss drugs in the U.S.",
+    "ss": "GLP-1 ilacı ABD'de reçeteli kilo verme ilaçları pazarında hakimiyetini sürdürüyor.",
+    "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+    "ts": 1793272740000,
+    "tags": []
+   },
+   {
+    "t": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+    "tt": "70’li yaşlardayız. Yüzde 2,5'lik ipoteğimizi mi ödemeliyiz yoksa parayı yüksek getirili bir tasarruf hesabına mı koymalıyız?",
+    "s": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
+    "ss": "\"Diyelim ki bundan 10 yıl sonra, 84 yaşıma geldiğimde yüklü miktarda nakde ihtiyacımız olacak.\"",
+    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "ts": 1793272500000,
+    "tags": []
+   },
+   {
+    "t": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+    "tt": "Fed faiz artırımına ara verdi. Bugünkü GSYİH ve enflasyon raporları beklemeyi zorlaştırabilir.",
+    "s": "GDP and inflation figures arrive together at 8:30 a.m. Eastern time. Strong growth and persistent price pressures could strengthen the case for an interest-rate increase in December.",
+    "ss": "GSYİH ve enflasyon rakamları Doğu saatiyle sabah 08.30'da bir araya geliyor. Güçlü büyüme ve kalıcı fiyat baskıları Aralık ayında faiz artırımı ihtimalini güçlendirebilir.",
+    "u": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
+    "ts": 1793272260000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+    "tt": "Samsung Electronics neredeyse Microsoft ve Alphabet'in toplamı kadar kazandı. Koreli dev şimdi hafıza çipi görünümü hakkında ne söylüyor?",
+    "s": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
+    "ss": "Samsung Electronics, başka hiçbir teknoloji şirketinin görmediği bir çeyreklik yayınladı.",
+    "u": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+    "ts": 1793272140000,
+    "tags": []
+   },
+   {
     "t": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
     "tt": "Medicare, hasta bakımını önceden onaylamak için yapay zekayı kullandı ve bu, tıbbi hizmetlerde anında büyük bir düşüşe yol açtı",
     "s": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
@@ -620,54 +672,27 @@
     "u": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
     "ts": 1793264880000,
     "tags": []
-   },
-   {
-    "t": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
-    "tt": "NBA yıldızı LaMelo Ball, Hornets'tan ayrıldıktan sonra Charlotte'taki 2,6 milyon dolarlık lüks dairesini satıyor",
-    "s": "NBA point guard LaMelo Ball is making another major move: selling his $2.6 million home in one of Uptown Charlotte’s most exclusive residential buildings.",
-    "ss": "NBA oyun kurucusu LaMelo Ball başka bir büyük hamle daha yapıyor: Uptown Charlotte'un en seçkin konut binalarından birindeki 2,6 milyon dolarlık evini satıyor.",
-    "u": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
-    "ts": 1793264520000,
-    "tags": []
-   },
-   {
-    "t": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-    "tt": "Samsung Electronics neredeyse Microsoft ve Alphabet'in toplamı kadar kazandı. Koreli dev şimdi hafıza çipi görünümü hakkında ne söylüyor?",
-    "s": "Samsung Electronics just posted a quarter that no other tech company has ever seen.",
-    "ss": "Samsung Electronics, başka hiçbir teknoloji şirketinin görmediği bir çeyreklik yayınladı.",
-    "u": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-    "ts": 1793264460000,
-    "tags": []
-   },
-   {
-    "t": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-    "tt": "Yatırımcılar Marvell'e olası bir satışı sevinçle karşılarken Lumentum'un hisseleri yükseliyor",
-    "s": "An agreement between the companies could come next week, Bloomberg reported",
-    "ss": "Bloomberg'in haberine göre şirketler arasında önümüzdeki hafta bir anlaşma yapılabilir",
-    "u": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-    "ts": 1793233200000,
-    "tags": []
-   },
-   {
-    "t": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "tt": "'Yargıç Judy'yi izleyin': 70'li yaşlarımdayım. İnsanlar neden aynı önlenebilir mali hataları yapmaya devam ediyor?",
-    "s": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-    "ss": "\"Kötü kararların bazı tanıdık örneklerini düşünün: kredi kartı borcu biriktirmek veya emeklilik planını yapamamak.\"",
-    "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    "ts": 1793232900000,
-    "tags": []
-   },
-   {
-    "t": "The major reason Microsoft’s stock is heading higher after earnings",
-    "tt": "Microsoft'un hisselerinin kazançların ardından yükselişe geçmesinin ana nedeni",
-    "s": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
-    "ss": "Microsoft, yatırımcılara harcamaları kontrol altında tutarken hızla büyüyebileceğini gösterdi.",
-    "u": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-    "ts": 1793232600000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "ECB President Lagarde To Step Down In Feb, Months Before Her Term Ends",
+    "tt": "Avrupa Merkez Bankası Başkanı Lagarde, Görev Süresinin Bitmesine Aylar Kalmadan Şubat Ayında İstifa Edecek",
+    "s": "ECB President Lagarde To Step Down In Feb, Months Before Her Term Ends European Central Bank President Christine Lagarde said this morning that she will step down on Feb. 7, 2027 , months ahead of the October 2027 end of her term. I have just informed my colleagues that I will step down as @ECB Pres",
+    "ss": "ECB Başkanı Lagarde, Görev Süresinin Bitmesine Aylar Önce Şubat Ayında İstifa Edecek Avrupa Merkez Bankası Başkanı Christine Lagarde, bu sabah yaptığı açıklamada, görev süresinin Ekim 2027'de bitmesine aylar kala, 7 Şubat 2027'de görevinden ayrılacağını söyledi. Az önce meslektaşlarıma @ECB Başkanlığı görevinden ayrılacağımı bildirdim",
+    "u": "https://www.zerohedge.com/markets/ecb-president-lagarde-step-down-feb-months-her-term-ends",
+    "ts": 1793273400000,
+    "tags": []
+   },
+   {
+    "t": "Greenwald Unpacks Brazil's Political Drama As Bolsonaro Deletes \"True President-Elect\" Claim",
+    "tt": "Bolsonaro \"Gerçek Başkan Seçilmiş\" İddiasını Silerken Greenwald Brezilya'nın Siyasi Dramasını Açıklıyor",
+    "s": "Greenwald Unpacks Brazil's Political Drama As Bolsonaro Deletes \"True President-Elect\" Claim Brazilian Senator Flávio Bolsonaro briefly declared himself \" the true president-elect of Brazil\" on Wednesday before deleting the statement.&nbsp; President Trump said the same day that he would not endorse",
+    "ss": "Bolsonaro \"Gerçek Başkan-Seçilmiş\" İddiasını Silerken Greenwald Brezilya'nın Siyasi Dramasını Açığa Çıkarıyor Brezilyalı Senatör Flávio Bolsonaro, açıklamayı silmeden önce Çarşamba günü kısaca kendisini \"Brezilya'nın gerçek gelecek başkanı\" ilan etti.  Başkan Trump aynı gün onaylamayacağını söyledi",
+    "u": "https://www.zerohedge.com/political/greenwald-unpacks-brazils-political-drama-bolsonaro-deletes-true-president-elect-claim",
+    "ts": 1793272200000,
+    "tags": []
+   },
    {
     "t": "Democratic Sweep Fears Batter Drone Stocks As Miller Tabak Spots Buying Opportunities",
     "tt": "Miller Tabak'ın Satın Alma Fırsatlarını Fark Etmesiyle Demokratik Süpürme, Vurucu Drone Hisselerinin Yükselmesinden Korkuyor",
@@ -739,27 +764,18 @@
     "u": "https://www.zerohedge.com/geopolitical/fall-europe-0",
     "ts": 1793253600000,
     "tags": []
-   },
-   {
-    "t": "How Censorship Works",
-    "tt": "Sansür Nasıl İşler?",
-    "s": "How Censorship Works Authored by Jeffrey A. Tucker via The Epoch Times , The Holodomor (meaning death by hunger) was a man-made famine in Soviet Ukraine in 1932-1933 that killed millions of people, primarily Ukrainian peasants. It was part of a wider Soviet famine (roughly 1930-1934) that also affec",
-    "ss": "Sansür Nasıl Çalışır? Jeffrey A. Tucker tarafından The Epoch Times aracılığıyla yazılmıştır. Holodomor (açlık nedeniyle ölüm anlamına gelir), 1932-1933'te Sovyet Ukrayna'da başta Ukraynalı köylüler olmak üzere milyonlarca insanı öldüren insan yapımı bir kıtlıktı. Bu aynı zamanda Sovyet kıtlığının (kabaca 1930-1934) bir parçasıydı.",
-    "u": "https://www.zerohedge.com/geopolitical/how-censorship-works",
-    "ts": 1793244300000,
-    "tags": []
-   },
-   {
-    "t": "The Day After Midterms: Diplomacy Or Another \"Epic Fury\"?",
-    "tt": "Ara Sınavlardan Sonraki Gün: Diplomasi mi Yoksa Başka Bir \"Epik Öfke\" mi?",
-    "s": "The Day After Midterms: Diplomacy Or Another \"Epic Fury\"? Brent crude futures topped $116.50 a barrel early Wednesday after a WSJ report said the Trump administration is preparing for a brief military campaign against Iran after the midterm elections .&nbsp; Trump said at a rally last week, \" We may",
-    "ss": "Ara Sınavlardan Sonraki Gün: Diplomasi mi Yoksa Başka Bir \"Epik Öfke\" mi? Brent ham petrol vadeli işlemleri, WSJ'nin Trump yönetiminin ara seçimlerden sonra İran'a karşı kısa bir askeri harekata hazırlandığını belirten bir raporunun ardından Çarşamba günü erken saatlerde varil başına 116,50 doların üzerine çıktı.  Trump geçen hafta bir mitingde şunları söyledi: \"Yapabiliriz",
-    "u": "https://www.zerohedge.com/geopolitical/day-after-midterms-diplomacy-or-another-epic-fury",
-    "ts": 1793242800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Volkswagen Grubu'ndan 3. çeyrekte zarar",
+    "tt": null,
+    "s": "Alman otomotiv üreticisi Volkswagen (VW) Grubu, 2026 yılının üçüncü çeyreğinde 5,9 milyar euro faaliyet zararı, Ocak-Eylül döneminde ise 2,72 milyar euro net zarar açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/volkswagen-grubu-ndan-3-ceyrekte-zarar-3792800",
+    "ts": 1793272000000,
+    "tags": []
+   },
    {
     "t": "İtalya'da banka ve enerji sektörlerine vergi artışı geliyor",
     "tt": null,
@@ -839,15 +855,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/asya-borsalari-karisik-seyrediyor-3792791",
     "ts": 1793260494000,
-    "tags": []
-   },
-   {
-    "t": "İspanya'daki tren kazasında can kaybı arttı",
-    "tt": null,
-    "s": "İspanya'nın Toledo kenti çevresinde 2 hızlı yolcu treninden biri durmuşken diğerinin arkadan çarpması sonucu ölenlerin sayısı 68'e yükseldi. Kazanın insan hatasından kaynaklandığı belirtildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ispanya-daki-tren-kazasinda-can-kaybi-artti-3792790",
-    "ts": 1793260047000,
     "tags": []
    }
   ]
