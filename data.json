@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T11:38:05.113178+00:00",
+ "generated": "2026-10-29T12:17:41.023758+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 16.97,
-   "c": 0.35,
-   "d": 0.06,
+   "p": 17.25,
+   "c": 2.01,
+   "d": 0.34,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4045.8,
-   "c": -0.14,
-   "d": -5.8,
+   "p": 4034.3,
+   "c": -0.43,
+   "d": -17.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.945,
-   "c": -0.96,
-   "d": -0.512,
+   "p": 52.52,
+   "c": -1.75,
+   "d": -0.937,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.34,
-   "c": -1.4,
-   "d": -1.44,
+   "p": 101.93,
+   "c": -0.83,
+   "d": -0.85,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.03,
-   "c": -4.59,
-   "d": -5.29,
+   "p": 110.58,
+   "c": -4.11,
+   "d": -4.74,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.139,
-   "c": -0.05,
-   "d": -0.051,
+   "p": 102.233,
+   "c": 0.04,
+   "d": 0.043,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8339,
+   "p": 49.8326,
    "c": 0.07,
-   "d": 0.035,
+   "d": 0.033,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80088,
-   "c": -1.52,
+   "p": 80032,
+   "c": -1.1,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2322.52,
-   "c": -1.7,
+   "p": 2320.93,
+   "c": -1.08,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 100.35,
-   "c": -2.36,
+   "p": 100.17,
+   "c": -1.78,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.29,
-   "c": -2.68,
+   "c": -2.14,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 738.14,
-   "c": -2.91,
+   "p": 739.56,
+   "c": -2.36,
    "k": "usd"
   }
  ],
@@ -384,12 +384,90 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "US Stock Futures Fall as Alphabet Sales Miss Revives AI Fears",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Alfabe Satışlarının Yapay Zeka Korkularını Yeniden Canlandırmasıyla Düştü",
+    "s": "US stock futures fell, dragged lower by a plunge in Alphabet Inc. after disappointing results revived investor concerns that its losing ground despite massive artificial intelligence spending.",
+    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan sonuçların yatırımcıların yoğun yapay zeka harcamalarına rağmen zemin kaybettiği yönündeki endişelerini yeniden canlandırmasının ardından Alphabet Inc.'deki düşüş nedeniyle düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
+    "ts": 1793272199000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq Futures Sink as AI Trade Shows New Cracks: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
+    "s": "A global rally in technology shares faltered after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in artificial intelligence spending will deliver sufficient returns.",
+    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793225507000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲",
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "After the Budget, Before the Bell With The Opening Trade",
+    "tt": "Bütçeden Sonra, Açılış Ticareti Zilden Önce",
+    "s": "With Britain at a fiscal crossroads, Chancellor John Healey delivered the nation's annual budget in Parliament on Wednesday. As the UK's borrowing costs, its ties to Europe and growth outlook hang in the balance, \"The Opening Trade\" took Bloomberg.com subscribers behind the scenes for an exclusive b",
+    "ss": "İngiltere mali açıdan bir dönüm noktasındayken, Şansölye John Healey ülkenin yıllık bütçesini Çarşamba günü Parlamento'ya sundu. İngiltere'nin borçlanma maliyetleri, Avrupa ile bağları ve büyüme görünümü dengede kalırken, \"Açılış Ticareti\" Bloomberg.com abonelerini özel bir etkinlik için perde arkasına götürdü.",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-29/after-the-budget-before-the-bell-with-the-opening-trade-video",
+    "ts": 1793275118000,
+    "tags": []
+   },
+   {
+    "t": "EU Must Act to Curb Power Bills as Costs Surge, Trade Body Says",
+    "tt": "Ticaret Kurumu, AB'nin Maliyetler Arttıkça Elektrik Faturalarını Kısıtlamak İçin Harekete Geçmesi Gerektiğini Söyledi",
+    "s": "Europe must do more to bring down power bills for consumers as wholesale costs soar to levels last seen during the 2022 energy crisis, Eurelectric said.",
+    "ss": "Eurelectric, toptan satış maliyetlerinin en son 2022 enerji krizi sırasında görülen seviyelere yükselmesi nedeniyle Avrupa'nın tüketicilerin elektrik faturalarını düşürmek için daha fazlasını yapması gerektiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/eu-must-act-to-curb-power-bills-as-costs-surge-trade-body-says",
+    "ts": 1793274978000,
+    "tags": []
+   },
+   {
+    "t": "HK Dollar Peg Architect Says Narrower Band May Ease Speculation",
+    "tt": "HK Dollar Peg Architect, Dar Bandın Spekülasyonları Kolaylaştırabileceğini Söyledi",
+    "s": "Narrowing the Hong Kong dollar’s trading band against the US greenback, an option proposed by some market participants for academic discussion, may enhance stability and reassure the public if such a move were ever implemented, according to John Greenwood, the economist dubbed the father of the city",
+    "ss": "Şehrin babası olarak anılan ekonomist John Greenwood'a göre, bazı piyasa katılımcılarının akademik tartışma için önerdiği bir seçenek olan Hong Kong dolarının ABD doları karşısında işlem bandını daraltmak, istikrarı artırabilir ve böyle bir hareketin uygulanması halinde kamuoyuna güven verebilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/hk-dollar-peg-architect-says-narrower-band-may-ease-speculation",
+    "ts": 1793240144000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Global Bond Sales Smash Record, Fueled by AI Borrowing Binge",
+    "tt": "Yapay Zeka Borçlanma Aşırılığıyla Desteklenen Küresel Tahvil Satışlarında Çarpıcı Rekor",
+    "s": "Global bond sales have soared to an all-time high, catapulted by breakneck borrowing from the tech juggernauts at the forefront of the AI boom.",
+    "ss": "Küresel tahvil satışları, yapay zeka patlamasının ön saflarında yer alan teknoloji canavarlarından aşırı borçlanmanın etkisiyle tüm zamanların en yüksek seviyesine yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/global-bond-sales-shatter-record-fueled-by-ai-borrowing-binge",
+    "ts": 1793218620000,
+    "tags": []
+   },
+   {
+    "t": "Investors Buy Rogers (RCI), BCE, Telus Stocks After Canada Telecom Selloff",
+    "tt": "Yatırımcılar Kanada Telekom Satışından Sonra Rogers (RCI), BCE ve Telus Hisselerini Aldı",
+    "s": "Investors are bargain hunting in Canadian telecommunication stocks after rising government-bond yields and competition from SpaceX sparked steep declines in the group.",
+    "ss": "Yatırımcılar, artan devlet tahvili getirileri ve SpaceX'in rekabetinin grupta sert düşüşlere yol açmasının ardından Kanada telekomünikasyon hisselerinde pazarlık peşinde koşuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/investors-buy-rogers-rci-bce-telus-stocks-after-canada-telecom-selloff",
+    "ts": 1793273887000,
+    "tags": []
+   },
+   {
     "t": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally",
     "tt": "Amazon'un Sorunlu Hisse Senedinin Yükselişi Canlandırmak İçin Bulut Büyümesinin Artmasına İhtiyacı Var",
     "s": "Blistering cloud growth sent Amazon.com Inc. shares soaring after its last earnings report. Now with more than half those gains gone, the firm needs to deliver a repeat performance in order to reignite its faltering stock.",
     "ss": "Buluttaki hızlı büyüme, Amazon.com Inc. hisselerinin son kazanç raporunun ardından yükselişe geçmesine neden oldu. Artık bu kazanımların yarısından fazlası gitmişken, firmanın bocalayan hisselerini yeniden canlandırmak için tekrarlanan bir performans sergilemesi gerekiyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-s-ailing-stock-needs-booming-cloud-growth-to-revive-rally",
     "ts": 1793273401000,
+    "tags": []
+   },
+   {
+    "t": "Ray-Ban Heir Rejects $3.9 Billion Offer for Stake in Family Firm",
+    "tt": "Ray-Ban'in Varisi, Aile Şirketinin 3,9 Milyar Dolarlık Hisse Teklifini Reddetti",
+    "s": "Ray-Ban heir Rocco Basilico rebuffed a €3.5 billion ($3.9 billion) offer for his 12.5% stake in Delfin Sarl, the family investment company behind EssilorLuxottica SA, people familiar with the matter said.",
+    "ss": "Konuya yakın kaynaklar, Ray-Ban'in varisi Rocco Basilico'nun, EssilorLuxottica SA'nın arkasındaki aile yatırım şirketi Delfin Sarl'daki %12,5 hissesi için 3,5 milyar Euro'luk (3,9 milyar dolar) teklifi geri çevirdiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/ray-ban-heir-rejects-3-9-billion-offer-for-stake-in-family-firm",
+    "ts": 1793273373000,
     "tags": []
    },
    {
@@ -400,88 +478,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/europe-set-to-release-42-million-barrels-of-oil-france-says",
     "ts": 1793272952000,
     "tags": []
-   },
-   {
-    "t": "Gold Dips Near $4,000 as Fed Holds Rates With Little Guidance",
-    "tt": "Altın, Fed'in Faizleri Çok Az Yönlendirmeyle Tutması ile 4.000 Dolara Yakınına Düştü",
-    "s": "Gold declined after the Federal Reserve kept borrowing costs steady and offered few clues on its next move, leaving open the prospect of a rate hike before year-end.",
-    "ss": "Altın, Fed'in borçlanma maliyetlerini sabit tutması ve bir sonraki adımına ilişkin birkaç ipucu sunarak yıl sonundan önce faiz artırımı ihtimalini açık bırakmasının ardından geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
-    "ts": 1793231042000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Prabowo’s Own Brother Sounds Alarm Over Indonesian Stock Market",
-    "tt": "Prabowo'nun Kardeşi Endonezya Borsası Üzerinden Alarm Verdi",
-    "s": "Indonesian President Prabowo Subianto’s brother stressed the importance of a trusted and transparent local share market, saying the country must “mitigate the MSCI issue” and telling business leaders at a forum Thursday to stop “deep frying” stocks.",
-    "ss": "Endonezya Devlet Başkanı Prabowo Subianto'nun erkek kardeşi, güvenilir ve şeffaf bir yerel hisse senedi piyasasının önemini vurguladı, ülkenin \"MSCI sorununu hafifletmesi\" gerektiğini söyledi ve Perşembe günü düzenlenen bir forumda iş dünyası liderlerine hisse senetlerini \"derin yağda kızartmayı\" bırakmalarını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/prabowo-s-own-brother-sounds-alarm-over-indonesian-stock-market",
-    "ts": 1793272662000,
-    "tags": []
-   },
-   {
-    "t": "Hong Kong leader apologizes over deadly Tai Po blaze",
-    "tt": "Hong Kong lideri ölümcül Tai Po yangını nedeniyle özür diledi",
-    "s": "Hong Kong’s leader John Lee issued a rare apology and said his housing secretary has stepped down over the city’s deadliest fire in decades. (Source: Bloomberg)",
-    "ss": "Hong Kong lideri John Lee ender görülen bir özür yayınladı ve konut sekreterinin şehrin son yıllardaki en ölümcül yangını nedeniyle istifa ettiğini söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-29/hong-kong-leader-apologizes-over-deadly-tai-po-blaze-video",
-    "ts": 1793272472000,
-    "tags": []
-   },
-   {
-    "t": "Lloyds Profit Beat Marred by Flat Outlook Amid Rising Rates",
-    "tt": "Lloyds'un Karı Artan Faizler Arasında Sabit Görünümle gölgelendi",
-    "s": "Lloyds Banking Group Plc’s profit beat estimates in the third quarter, but disappointed investors as the UK lender kept its guidance steady against a rising rate environment.",
-    "ss": "Lloyds Banking Group Plc'nin karı üçüncü çeyrekte tahminleri aştı ancak İngiltere'deki borç verenin artan faiz ortamına karşı rehberliğini sabit tutması yatırımcıları hayal kırıklığına uğrattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/lloyds-beats-estimates-on-rise-in-fees-and-interest-income",
-    "ts": 1793258652000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Fall as Alphabet Sales Miss Revives AI Fears",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Alfabe Satışlarının Yapay Zeka Korkularını Yeniden Canlandırmasıyla Düştü",
-    "s": "US stock futures fell, dragged lower by a plunge in Alphabet Inc. after disappointing results revived investor concerns that it’s losing ground despite massive artificial intelligence spending.",
-    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan sonuçların yatırımcıların yoğun yapay zeka harcamalarına rağmen zemin kaybettiği yönündeki endişelerini yeniden canlandırmasının ardından Alphabet Inc.'deki düşüş nedeniyle düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
-    "ts": 1793272199000,
-    "tags": []
-   },
-   {
-    "t": "Blue Owl Fees Beat Estimates Though Redemptions Weigh on Inflows",
-    "tt": "Mavi Baykuş Ücretleri Tahminleri Geride Bıraksa da Geri Ödemeler Girişleri Etkiliyor",
-    "s": "Blue Owl Capital Inc. reported a larger uptick in fees than analysts expected in the third quarter, though the private credit firm’s inflows were weighed down by investors seeking to redeem holdings in certain funds.",
-    "ss": "Blue Owl Capital Inc., üçüncü çeyrekte ücretlerde analistlerin beklediğinden daha büyük bir artış bildirdi ancak özel kredi firmasının girişleri, belirli fonlardaki varlıklarını geri almak isteyen yatırımcılar tarafından baskılandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/blue-owl-fees-beat-estimates-though-redemptions-weigh-on-inflows",
-    "ts": 1793271773000,
-    "tags": []
-   },
-   {
-    "t": "Shell Lifts Buyback to $5 Billion as Refining Windfall Grows",
-    "tt": "Shell, Petrol Rafineri Tesisi Olarak 5 Milyar Dolarlık Geri Alımı Duyurdu",
-    "s": "Shell Plc boosted its share buyback to one of the highest levels in its history, returning more of a wartime refining windfall to investors as disruptions across the Middle East and Russia squeeze global fuel supplies.",
-    "ss": "Shell Plc, İran savaşı ve Rusya-Ukrayna çatışmasının petrol rafinaj işinde rekor marjlara yol açması ve karlarının artması nedeniyle şimdiye kadarki en yüksek hisse geri alımlarından birini duyurdu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shell-reports-second-highest-profit-ever-as-refining-hits-record",
-    "ts": 1793257576000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq Futures Sink as AI Trade Shows New Cracks: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "A global rally in technology shares stalled after disappointing earnings from two industry heavyweights revived doubts over whether billions of dollars in artificial intelligence spending will deliver sufficient returns.",
-    "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793225507000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲",
-     "DXY ▲"
-    ]
    }
   ],
   "CNBC": [
@@ -578,21 +574,39 @@
   ],
   "MarketWatch": [
    {
+    "t": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
+    "tt": "Lilly, Zepbound satışlarının artmasıyla birlikte bu yıl üçüncü kez görünümünü yükseltti",
+    "s": "The drugmaker continues to dominate the market for prescription weight-loss drugs in the U.S.",
+    "ss": "GLP-1 ilacı ABD'de reçeteli kilo verme ilaçları pazarında hakimiyetini sürdürüyor.",
+    "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
+    "ts": 1793275380000,
+    "tags": []
+   },
+   {
+    "t": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+    "tt": "Bu, ABD'nin şimdiye kadar gördüğü en tuhaf iş piyasası. Düşük işe alım ve düşük ateş ekonomisi 3 yaşına giriyor.",
+    "s": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
+    "ss": "Amerika her zaman istihdam yaratan bir makine olmuştur. Üst üste üç yıldır bozuldu ve sonuçları uzun süre bizimle birlikte olabilir.",
+    "u": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+    "ts": 1793275200000,
+    "tags": []
+   },
+   {
+    "t": "Is it dumb to take travel advice from influencers?",
+    "tt": "Etkileyicilerden seyahat tavsiyesi almak aptalca mı?",
+    "s": "“I want to travel to Europe … How can I tell if something is a real experience in my price range?”",
+    "ss": "\"Avrupa'ya seyahat etmek istiyorum... Benim fiyat aralığımda bir şeyin gerçek bir deneyim olup olmadığını nasıl anlarım?\"",
+    "u": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+    "ts": 1793274480000,
+    "tags": []
+   },
+   {
     "t": "You can’t rely on the S&P 500 as much as you may think",
     "tt": "S&P 500'e sandığınız kadar güvenemezsiniz",
     "s": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
     "ss": "Endeksin zayıflığı, \"hisse senetleri her zaman yükselir\" inancıyla büyüyen bir nesil yatırımcıyı şaşırtabilir.",
     "u": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
     "ts": 1793273400000,
-    "tags": []
-   },
-   {
-    "t": "Lilly raises outlook for third time this year as Zepbound sales soar",
-    "tt": "Lilly, Zepbound satışlarının artmasıyla birlikte bu yıl üçüncü kez görünümünü yükseltti",
-    "s": "The GLP-1 drug continues to dominate the market for prescription weight-loss drugs in the U.S.",
-    "ss": "GLP-1 ilacı ABD'de reçeteli kilo verme ilaçları pazarında hakimiyetini sürdürüyor.",
-    "u": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
-    "ts": 1793272740000,
     "tags": []
    },
    {
@@ -654,27 +668,45 @@
     "u": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
     "ts": 1793267520000,
     "tags": []
-   },
-   {
-    "t": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
-    "tt": "'Gösterişli arabaların çekiciliği yok': Eşim ve benim tasarruflarımızdan daha uzun yaşama şansımız %99. Neden hepsini harcamıyoruz?",
-    "s": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children or close family remaining.”",
-    "ss": "\"Ben 68 yaşındayım, o 74 yaşında ve ikimizin de sağlığı iyi. Daha sonra evlendik ve ne çocuğumuz ne de yakın ailemiz kaldı.\"",
-    "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "ts": 1793265300000,
-    "tags": []
-   },
-   {
-    "t": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-    "tt": "Alphabet'in hisseleri neden son sonuçlardan sonra son yılların en kötü düşüşünü görebilir?",
-    "s": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-    "ss": "Yatırımcıların yapay zekanın şirketin arama sorgularından para kazanma becerisine zarar verdiğine dair endişeleri arttıkça, bulut gelirinin iki katına çıkması Wall Street'i yatıştırmaya yetmedi.",
-    "u": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-    "ts": 1793264880000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Tech Futures Tumble As Alphabet Plunges, Small Caps Rise Ahead Of PCE, ECB",
+    "tt": "Teknoloji Vadeli İşlemleri Alfabenin Düşüşüyle ​​Düşüyor, PCE ve ECB'nin Önünde Küçük Hisseler Yükseliyor",
+    "s": "Tech Futures Tumble As Alphabet Plunges, Small Caps Rise Ahead Of PCE, ECB US futures are lower, with Nasdaq contracts sliding as Alphabet's ugly search miss revived the \"is AI capex paying off\" debate , while Microsoft's Azure beat and lighter capex, a roughly 1% drop in oil on fresh US-Iran diplom",
+    "ss": "Alphabet Düşerken Teknoloji Vadeli İşlemleri Düşüyor, PCE Önünde Küçük Hisseler Yükseliyor, ECB ABD vadeli işlemleri düşük; Alphabet'in çirkin arama kaçırması \"Yapay Zeka sermaye harcaması karşılığını veriyor mu\" tartışmasını yeniden canlandırırken Nasdaq kontratları düşüyor; Microsoft'un Azure yatırım sermayesi yatırımı karşılığını alıyor mu tartışmasını yeniden canlandırdı; yeni ABD-İran diplomunda petrolde kabaca %1'lik bir düşüş yaşandı.",
+    "u": "https://www.zerohedge.com/markets/tech-futures-tumble-alphabet-plunges-small-caps-rise-ahead-pce-ecb",
+    "ts": 1793275982000,
+    "tags": []
+   },
+   {
+    "t": "USAID Accused Of Using Taxpayer Dollars To Advance Left-Wing Agendas In Latin America",
+    "tt": "USAID, Latin Amerika'da Sol Gündemleri İlerletmek İçin Vergi Mükelleflerinin Dolarını Kullanmakla Suçlanıyor",
+    "s": "USAID Accused Of Using Taxpayer Dollars To Advance Left-Wing Agendas In Latin America Authored by AG News Staff via American Greatness , U.S. and Latin American officials are raising serious allegations that the U.S. Agency for International Development (USAID) used American taxpayer dollars to prom",
+    "ss": "USAID, Latin Amerika'da Sol Gündemleri İlerletmek İçin Vergi Mükelleflerinin Dolarını Kullanmakla Suçlanıyor AG Haber Personeli tarafından American Greatness aracılığıyla yazılmıştır, ABD ve Latin Amerikalı yetkililer, ABD Uluslararası Kalkınma Ajansı'nın (USAID) Amerikan vergi mükelleflerinin dolarlarını balo için kullandığına dair ciddi iddiaları gündeme getiriyor",
+    "u": "https://www.zerohedge.com/markets/usaid-accused-using-taxpayer-dollars-advance-left-wing-agendas-latin-america",
+    "ts": 1793275800000,
+    "tags": []
+   },
+   {
+    "t": "InstaDash? DoorDash To Buy Instacart For $17 Billion",
+    "tt": "InstaDash'i mi? DoorDash, Instacart'ı 17 Milyar Dolara Satın Alacak",
+    "s": "InstaDash? DoorDash To Buy Instacart For $17 Billion Three days after The Wall Street Journal reported that DoorDash was in advanced talks to acquire Instacart, the companies announced a cash-and-stock deal early Thursday that values Instacart at about $17 billion . The takeover deal would expand Do",
+    "ss": "InstaDash'i mi? DoorDash Instacart'ı 17 Milyar Dolara Satın Alacak The Wall Street Journal'ın DoorDash'in Instacart'ı satın almak için ileri görüşmelerde bulunduğunu bildirmesinden üç gün sonra, şirketler Perşembe günü erken saatlerde Instacart'a yaklaşık 17 milyar dolar değerinde bir nakit ve hisse senedi anlaşması duyurdular. Devralma anlaşması Do'yu genişletecek",
+    "u": "https://www.zerohedge.com/markets/instadash-doordash-buy-instacart-17-billion",
+    "ts": 1793275800000,
+    "tags": []
+   },
+   {
+    "t": "Behind France's School Blockades And 'Yellow Vest' Riots, A Far-Left Network Years In The Making",
+    "tt": "Fransa'daki Okul Ablukalarının ve 'Sarı Yelekli' Ayaklanmalarının Arkasında, Yıllardır Oluşmakta Olan Aşırı Sol Bir Örgüt Var",
+    "s": "Behind France's School Blockades And 'Yellow Vest' Riots, A Far-Left Network Years In The Making Authored by Etienne Fauchaire via The Epoch Times , PARIS - Five weeks have passed since students in the Paris suburbs blockaded a high school to protest overcrowding and staff shortages. Within a month,",
+    "ss": "Fransa'daki Okul Ablukaları ve 'Sarı Yelekli' Ayaklanmaların Arkasında, Aşırı Soldan Bir Ağ Oluşuyor Yıllardır Etienne Fauchaire tarafından The Epoch Times aracılığıyla, PARIS - Paris banliyölerindeki öğrencilerin aşırı kalabalığı ve personel eksikliğini protesto etmek için bir liseyi ablukaya almalarının üzerinden beş hafta geçti. Bir ay içinde,",
+    "u": "https://www.zerohedge.com/geopolitical/behind-frances-school-blockades-and-yellow-vest-riots-far-left-network-years-making",
+    "ts": 1793275500000,
+    "tags": []
+   },
    {
     "t": "ECB President Lagarde To Step Down In Feb, Months Before Her Term Ends",
     "tt": "Avrupa Merkez Bankası Başkanı Lagarde, Görev Süresinin Bitmesine Aylar Kalmadan Şubat Ayında İstifa Edecek",
@@ -712,57 +744,21 @@
     "tags": []
    },
    {
+    "t": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt",
+    "tt": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Ağır Suçlarla Suçluyor",
+    "s": "Minnesota Charges James O'Keefe And Cam Higby With Felonies Over Polling-Place Vouching Stunt Hennepin County Attorney Mary Moriarty on Wednesday charged conservative provocateur James O'Keefe and influencer Cam Higby with felony unlawful voting and identity theft , over undercover videos they shot ",
+    "ss": "Minnesota, James O'Keefe ve Cam Higby'yi Oy Verme Yeri Kuponu Gösterisi Nedeniyle Suçlamalarla Suçladı Hennepin İlçe Savcısı Mary Moriarty, Çarşamba günü muhafazakar provokatör James O'Keefe ve nüfuz sahibi Cam Higby'yi, çektikleri gizli videolar nedeniyle yasa dışı oy verme ve kimlik hırsızlığıyla suçladı",
+    "u": "https://www.zerohedge.com/political/minnesota-charges-james-okeefe-and-cam-higby-felonies-over-polling-place-vouching-stunt",
+    "ts": 1793269800000,
+    "tags": []
+   },
+   {
     "t": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad",
     "tt": "İsviçre, Çad'daki Cinsel Sömürü Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu",
     "s": "Switzerland Freezes Funding To Doctors Without Borders Over Sexual Exploitation In Chad Switzerland's aid agency has frozen CHF1.25 million ($1.52 million) in funding to Doctors Without Borders (MSF) over how the charity handled sexual exploitation by its staff in Chad, swissinfo reported Oct. 26. T",
     "ss": "İsviçre, Çad'daki Cinsel İstismar Nedeniyle Sınır Tanımayan Doktorlara Sağlanan Fonu Dondurdu Swissinfo'nun 26 Ekim tarihli haberine göre, İsviçre yardım kuruluşu, yardım kuruluşunun Çad'daki personelinin cinsel istismarını nasıl ele aldığıyla ilgili olarak Sınır Tanımayan Doktorlar'a (MSF) sağlanan 1,25 milyon CHF (1,52 milyon $) tutarındaki fonu dondurdu.",
     "u": "https://www.zerohedge.com/geopolitical/switzerland-freezes-funding-doctors-without-borders-over-sexual-exploitation-chad",
     "ts": 1793267100000,
-    "tags": []
-   },
-   {
-    "t": "The Post-War European Security Architecture Is Beginning To Take Shape",
-    "tt": "Savaş Sonrası Avrupa Güvenlik Mimarisi Şekillenmeye Başlıyor",
-    "s": "The Post-War European Security Architecture Is Beginning To Take Shape Authored by Andrew Korybko via Substack , This emerging order is the most sustainable one possible given the circumstances. The grand strategic goal that Russia sought to advance through its large-scale military intervention in U",
-    "ss": "Savaş Sonrası Avrupa Güvenlik Mimarisi Şekillenmeye Başlıyor Andrew Korybko tarafından Substack aracılığıyla yazılmıştır. Ortaya çıkan bu düzen, koşullar göz önüne alındığında mümkün olan en sürdürülebilir düzendir. Rusya'nın ABD'ye geniş çaplı askeri müdahalesi yoluyla ilerlemeye çalıştığı büyük stratejik hedef",
-    "u": "https://www.zerohedge.com/geopolitical/post-war-european-security-architecture-beginning-take-shape",
-    "ts": 1793264400000,
-    "tags": []
-   },
-   {
-    "t": "Russian Oil Refineries Boost Output Following Ukraine's 3-Day Pause On Energy Attacks",
-    "tt": "Ukrayna'nın Enerji Saldırılarına 3 Günlük Duraklamasının Ardından Rus Petrol Rafinerileri Üretimi Artırdı",
-    "s": "Russian Oil Refineries Boost Output Following Ukraine's 3-Day Pause On Energy Attacks Just after Ukraine's President Zelensky conceded Tuesday that he did in fact hold to a brief energy ceasefire at President Trump's insistence, Reuters is reporting a major rebound in Russian crude output . \"Russian",
-    "ss": "Ukrayna'nın Enerji Saldırılarına 3 Günlük Duraklaması Sonrasında Rus Petrol Rafinerileri Üretimi Artırdı Ukrayna Devlet Başkanı Zelensky'nin Salı günü Başkan Trump'ın ısrarı üzerine enerjide kısa süreli bir ateşkesi sürdürdüğünü kabul etmesinin hemen ardından Reuters, Rusya'nın ham petrol üretiminde büyük bir toparlanma olduğunu bildirdi. \"Rusça",
-    "u": "https://www.zerohedge.com/energy/russian-oil-refineries-boost-output-following-ukraines-3-day-pause-energy-attacks",
-    "ts": 1793261700000,
-    "tags": []
-   },
-   {
-    "t": "Europe's Muslim Population Has Surged Since 2000, And Forecasts See More Growth To Come",
-    "tt": "Avrupa'nın Müslüman Nüfusu 2000'den Bu Yana Arttı ve Tahminler Daha Fazla Büyüme Görüyor",
-    "s": "Europe's Muslim Population Has Surged Since 2000, And Forecasts See More Growth To Come Via Remix News, Conservative voices have long raised concerns over the demographic shift arising from high sustained migration from the Middle East and Africa , and new data confirms these fears. According to dat",
-    "ss": "Avrupa'nın Müslüman Nüfusu 2000'den Bu Yana Arttı ve Tahminler Remix Haberleri Yoluyla Daha Fazla Büyümenin Geleceğini GÖSTERİYOR. Muhafazakar sesler, Orta Doğu ve Afrika'dan yüksek sürekli göçten kaynaklanan demografik değişime ilişkin endişelerini uzun süredir dile getiriyor ve yeni veriler bu korkuları doğruluyor. Tarihe göre",
-    "u": "https://www.zerohedge.com/geopolitical/europes-muslim-population-has-surged-2000-and-forecasts-see-more-growth-come",
-    "ts": 1793259000000,
-    "tags": []
-   },
-   {
-    "t": "Italy's Meloni Freezes New Military Aid Package For Ukraine, Pending US Midterm Outcome",
-    "tt": "İtalyan Meloni Ukrayna'ya Yönelik Yeni Askeri Yardım Paketini Dondurdu, ABD Ara Dönem Sonucu Bekleniyor",
-    "s": "Italy's Meloni Freezes New Military Aid Package For Ukraine, Pending US Midterm Outcome Ongoing White House pressure on Ukraine's Zelensky is having a chilling effect . After the US throttled its intelligence-sharing and weapons flows while demanding Ukraine halt strikes on Russian oil refineries, m",
-    "ss": "İtalyan Meloni Ukrayna'ya Yönelik Yeni Askeri Yardım Paketini Dondurdu, ABD'nin Ara Dönem Sonucu Bekleniyor Beyaz Saray'ın Ukraynalı Zelensky üzerinde devam eden baskısı caydırıcı bir etki yaratıyor. ABD, Ukrayna'dan Rus petrol rafinerilerine yönelik saldırıları durdurmasını talep ederken istihbarat paylaşımını ve silah akışını kısıtladıktan sonra, m.",
-    "u": "https://www.zerohedge.com/geopolitical/italys-meloni-freezes-new-military-aid-package-ukraine-pending-us-midterm-outcome",
-    "ts": 1793256300000,
-    "tags": []
-   },
-   {
-    "t": "The Fall Of Europe",
-    "tt": "Avrupa'nın Çöküşü",
-    "s": "The Fall Of Europe Authored by Milton Madriz Cedeño via The Daily Sceptic , Europe is falling because it has confused the management of inherited wealth with the ability to create new wealth. Part of its political leadership turned public spending, proliferating rules, excessive regulation and presu",
-    "ss": "Avrupa'nın Düşüşü Milton Madriz Cedeño tarafından The Daily Skeptic aracılığıyla yazılmıştır. Avrupa, miras alınan zenginliğin yönetimini yeni zenginlik yaratma yeteneğiyle karıştırdığı için düşüyor. Siyasi liderliğinin bir kısmı kamu harcamalarını, artan kuralları, aşırı düzenlemeleri ve baskıyı dönüştürdü.",
-    "u": "https://www.zerohedge.com/geopolitical/fall-europe-0",
-    "ts": 1793253600000,
     "tags": []
    }
   ],
