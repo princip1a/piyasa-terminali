@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T00:08:03.663787+00:00",
+ "generated": "2026-10-29T01:13:51.237588+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4068.6,
-   "c": -0.15,
-   "d": -6.0,
+   "p": 4055.0,
+   "c": -0.48,
+   "d": -19.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 54.01,
-   "c": -0.52,
-   "d": -0.283,
+   "p": 53.74,
+   "c": -1.02,
+   "d": -0.553,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.85,
-   "c": 1.95,
-   "d": 1.95,
+   "p": 101.95,
+   "c": 2.05,
+   "d": 2.05,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.46,
-   "c": -3.0,
-   "d": -3.42,
+   "p": 110.68,
+   "c": -2.81,
+   "d": -3.2,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.117,
-   "c": -0.2,
-   "d": -0.203,
+   "p": 102.239,
+   "c": -0.08,
+   "d": -0.081,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8294,
+   "p": 49.8298,
    "c": 0.06,
-   "d": 0.03,
+   "d": 0.031,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 81223,
-   "c": 0.67,
+   "p": 80826,
+   "c": 0.38,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2356.66,
-   "c": 0.51,
+   "p": 2342.22,
+   "c": 0.13,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 102.26,
-   "c": 1.15,
+   "p": 101.38,
+   "c": 0.38,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.32,
-   "c": -0.27,
+   "c": -0.73,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 759.37,
-   "c": 2.25,
+   "p": 752.93,
+   "c": 1.5,
    "k": "usd"
   }
  ],
@@ -384,9 +384,9 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap",
+    "t": "US Futures Fall as Alphabet, Samsung Disappoint: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri Düşüyor, Fed Oranları Sabit Tutuyor: Piyasalar İyileşiyor",
-    "s": "US stock-index futures retreated after Alphabet Inc.’s earnings disappointed, reviving concerns about the billions of dollars companies are pouring into artificial intelligence.",
+    "s": "US stock-index futures retreated after both Samsung Electronics Co. and Alphabet Inc.’s earnings disappointed, reviving concerns about the billions of dollars companies are pouring into artificial intelligence.",
     "ss": "ABD hisse senedi vadeli kontratları, yatırımcıların mega büyük teknoloji şirketlerinden elde edilen karışık kazançlara ağırlık vermesi ve Federal Reserve'ün Aralık ayındaki bir artışın olası olup olmadığına dair bir sinyal vermeden faiz oranlarını sabit tutmasıyla Asya ticaretinde düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
     "ts": 1793225507000,
@@ -395,39 +395,21 @@
     ]
    },
    {
-    "t": "Bankers in Failed Firmus IPO Probed by Australian Regulator",
-    "tt": null,
-    "s": "Australia’s corporate regulator is seeking information from investment banks on the failed Firmus Grid Ltd. initial public offering earlier this month, stopping short of opening a formal investigation into the matter.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/bankers-in-failed-firmus-ipo-probed-by-australian-regulator-asic",
-    "ts": 1793228481000,
+    "t": "Shapoorji Seeks to Raise Up to $200 Million to Repay Debt",
+    "tt": "Shapoorji Borcunu Geri Ödemek İçin 200 Milyon Dolara Kadar Kaynak Artırmak İstiyor",
+    "s": "Shapoorji Pallonji Group is looking to raise $150 million to $200 million, according to people familiar with the matter, as the Indian conglomerate faces mounting debt obligations.",
+    "ss": "Konuya yakın kaynaklara göre Shapoorji Pallonji Group, Hintli holdingin artan borç yükümlülükleriyle karşı karşıya kalması nedeniyle 150 ila 200 milyon dolar toplamayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/shapoorji-seeks-to-raise-up-to-200-million-to-repay-debt",
+    "ts": 1793235404000,
     "tags": []
    },
    {
-    "t": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
-    "tt": null,
-    "s": "Gold dipped after the Federal Reserve kept interest rates unchanged and offered little guidance on its next move, leaving traders guessing over the prospect of a hike before year-end.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
-    "ts": 1793231042000,
-    "tags": []
-   },
-   {
-    "t": "China Bonds Rally As Gloom Deepens Over Stocks",
-    "tt": null,
-    "s": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: B",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-27/the-china-show-12-27-26-video",
-    "ts": 1793083101000,
-    "tags": []
-   },
-   {
-    "t": "BYD Short Sellers Retreat Ahead of Expected Profit Rebound",
-    "tt": null,
-    "s": "Short sellers are paring back bets against BYD Co. ahead of earnings, with the Chinese electric vehicle giant poised to post a rebound in profit helped by accelerating overseas sales and a domestic market recovery.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/byd-short-sellers-retreat-ahead-of-expected-profit-rebound",
-    "ts": 1793230200000,
+    "t": "Ambani Magic Captivates India Once More With Blockbuster Deal",
+    "tt": "Ambani Magic, Gişe Rekortmeni Anlaşmayla Hindistan'ı Bir Kez Daha Büyüledi",
+    "s": "Mukesh Ambani’s ability to raise billions of dollars and win over investors has endured for decades. He showed it once again with Jio Platforms Ltd., which pulled off India’s biggest-ever initial public offering and a strong trading debut despite a difficult market backdrop.",
+    "ss": "Mukesh Ambani'nin milyarlarca dolar toplama ve yatırımcıları kazanma yeteneği onlarca yıldır devam ediyor. Hindistan'ın bugüne kadarki en büyük halka arzını gerçekleştiren ve zorlu piyasa ortamına rağmen güçlü bir ticaret başlangıcı gerçekleştiren Jio Platforms Ltd. ile bunu bir kez daha gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-magic-captivates-india-once-more-with-blockbuster-deal",
+    "ts": 1793189299000,
     "tags": []
    },
    {
@@ -445,39 +427,57 @@
     ]
    },
    {
-    "t": "Petrobras Pumps at Record as Iran War Upends Oil Markets",
-    "tt": "İran Savaşı Petrol Piyasalarını Yükseltirken Petrobras Rekor Arttı",
-    "s": "Brazil’s state-controlled oil producer Petrobras lifted production to a record and ran its refineries near full capacity in the third quarter, helping the country weather disruptions to global energy markets from the Iran war.",
-    "ss": "Brezilya'nın devlet kontrolündeki petrol üreticisi Petrobras, üretimi rekor seviyeye çıkardı ve rafinerilerini üçüncü çeyrekte tam kapasiteye yakın çalıştırarak, ülkenin İran savaşından dolayı küresel enerji piyasalarında yaşanan aksaklıkları atlatmasına yardımcı oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets",
-    "ts": 1793228764000,
+    "t": "Bankers in Failed Firmus IPO Probed by Australian Regulator",
+    "tt": "Başarısız Firmus Halka Arzındaki Bankacılar Avustralya Düzenleyici Tarafından Soruşturuldu",
+    "s": "Australia’s corporate regulator is seeking information from investment banks on the failed Firmus Grid Ltd. initial public offering earlier this month, stopping short of opening a formal investigation into the matter.",
+    "ss": "Avustralya'nın kurumsal düzenleyici kurumu, Firmus Grid Ltd.'nin bu ayın başlarında başarısız olan ilk halka arzı hakkında yatırım bankalarından bilgi istiyor ve konuyla ilgili resmi bir soruşturma başlatmayı başaramadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/bankers-in-failed-firmus-ipo-probed-by-australian-regulator-asic",
+    "ts": 1793228481000,
     "tags": []
    },
    {
-    "t": "Sprouts Sinks After Outlook Cut on Cyclospora, Consumer Woes",
-    "tt": "Cyclospora Salgını Satışları Etkiledikten Sonra Filizler Görünümü Düşürdü",
-    "s": "Sprouts Farmers Market Inc. shares tumbled after slashing its outlook, as the grocer’s sales suffered from the cyclospora lettuce outbreak and a gloomy consumer.",
-    "ss": "Sprouts Farmers Market Inc. hisseleri, bakkalın satışlarının siklospora marul salgını ve tüketicinin karamsarlığı nedeniyle olumsuz etkilenmesi nedeniyle görünümü düşürmesinin ardından düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
-    "ts": 1793222680000,
+    "t": "China’s Green Exports Enough to Offset Brazil’s Emissions: CREA",
+    "tt": "Çin'in Yeşil İhracatı Brezilya'nın Emisyonlarını Dengelemeye Yeterli: CREA",
+    "s": "Chinese exports of clean technologies this year could offset the equivalent of Brazil’s annual emissions from fossil fuels, underscoring the Asian country’s role in speeding up the global energy transition.",
+    "ss": "Çin'in bu yılki temiz teknoloji ihracatı, Brezilya'nın fosil yakıtlardan kaynaklanan yıllık emisyonlarının eşdeğerini telafi edebilir ve bu da Asya ülkesinin küresel enerji geçişini hızlandırmadaki rolünün altını çizebilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/china-s-green-exports-enough-to-offset-brazil-s-emissions-crea",
+    "ts": 1793232068000,
     "tags": []
    },
    {
-    "t": "Fed mantiene tasas sin dar muchas pistas sobre diciembre",
-    "tt": "Fed'in çok fazla parası var",
-    "s": "La Reserva Federal mantuvo las tasas de interés sin cambios y reafirmó su compromiso de contener la inflación, pero evitó dar señales claras sobre un posible aumento en diciembre. La decisión llega a menos de una semana de las elecciones de medio término en EE.UU., con los votantes preocupados por e",
-    "ss": "Federal Rezerv, farklı ilgi alanlarına yönelik çalışmalar yürütüyor ve enflasyon içeriğinden ödün vermeyi yeniden doğruluyor, ancak olası bir artışa işaret eden sinyallerden kaçınıyor. Karar, EE.UU.'daki orta dönem seçimlerinde bir yarıyılda verilecek ve oy verenlerin aklını meşgul ediyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/fed-mantiene-tasas-sin-dar-muchas-pistas-sobre-diciembre-video",
-    "ts": 1793223177000,
+    "t": "Irish Government Spending to Aid Economic Growth, AIB Says",
+    "tt": "AIB, İrlanda Hükümeti Harcamalarının Ekonomik Büyümeye Yardımcı Olduğunu Açıkladı",
+    "s": "AIB Group Plc expects Ireland’s domestic economy to grow more than previously forecast, driven by government investment in housing infrastructure.",
+    "ss": "AIB Group Plc, hükümetin konut altyapısına yaptığı yatırımların etkisiyle İrlanda'nın yerel ekonomisinin önceden tahmin edilenden daha fazla büyümesini bekliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/irish-government-spending-to-aid-economic-growth-aib-says",
+    "ts": 1793232060000,
     "tags": []
    },
    {
-    "t": "Fed Officials Left Interest Rates Unchanged",
-    "tt": "Fed Yetkilileri Faiz Oranlarını Değiştirmedi",
-    "s": "Jon Ferro, Lisa Abramowicz and Tom Keene host a special edition of \"Bloomberg Surveillance\" as the Federal Open Market Committee voted 10-2 to hold its benchmark federal funds rate in a range of 3.75% to 4% and leave interest rates unchanged. (Source: Bloomberg)",
-    "ss": "Jon Ferro, Lisa Abramowicz ve Tom Keene, Federal Açık Piyasa Komitesi'nin gösterge federal fon oranını %3,75 ila %4 aralığında tutmak ve faiz oranlarını değiştirmemek için 10-2 oy vermesiyle \"Bloomberg Gözetim\"in özel bir baskısına ev sahipliği yaptı. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-28/bloomberg-surveillance-the-fed-decides-10-27-2026-video",
-    "ts": 1793222110000,
+    "t": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
+    "tt": "Altın, Fed'in Sınırlı Yönlendirmeyle Faiz Oranlarını Tutmasının Ardından Düştü",
+    "s": "Gold dipped after the Federal Reserve kept interest rates unchanged and offered little guidance on its next move, leaving traders guessing over the prospect of a hike before year-end.",
+    "ss": "Altın, Fed'in faiz oranlarını değiştirmemesi ve bir sonraki hamlesine ilişkin çok az rehberlik sunmasının ardından, yatırımcıların yıl sonundan önce faiz artırımı ihtimalini tahmin etmesine neden olmasının ardından düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+    "ts": 1793231042000,
+    "tags": []
+   },
+   {
+    "t": "China Bonds Rally As Gloom Deepens Over Stocks",
+    "tt": "Hisse Senetlerindeki Karamsarlığın Derinleşmesiyle Çin Tahvilleri Yükseliyor",
+    "s": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: B",
+    "ss": "“Bloomberg: The China Show” dünyanın ikinci büyük ekonomisine ilişkin haber ve analizler için eksiksiz kaynağınızdır. Yvonne Man ve David Ingles, politika ve politikadan teknoloji ve trendlere kadar küresel yatırımcılara benzersiz bilgiler vererek önemli haber yapıcılarla derinlemesine tartışmalar gerçekleştiriyor. (Kaynak: B",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-27/the-china-show-12-27-26-video",
+    "ts": 1793083101000,
+    "tags": []
+   },
+   {
+    "t": "BYD Short Sellers Retreat Ahead of Expected Profit Rebound",
+    "tt": "BYD Açığa Satış Yapan Satıcılar Beklenen Kar Artışı Öncesinde Geri Çekildi",
+    "s": "Short sellers are paring back bets against BYD Co. ahead of earnings, with the Chinese electric vehicle giant poised to post a rebound in profit helped by accelerating overseas sales and a domestic market recovery.",
+    "ss": "Açığa satış yapanlar, kazançlar öncesinde BYD Co.'ya karşı olan bahislerini geri çekiyor; Çin elektrikli araç devi, yurt dışı satışların hızlanması ve yurt içi pazardaki toparlanmanın yardımıyla kârda bir toparlanma kaydetmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-28/byd-short-sellers-retreat-ahead-of-expected-profit-rebound",
+    "ts": 1793230200000,
     "tags": []
    }
   ],
@@ -575,21 +575,39 @@
   ],
   "MarketWatch": [
    {
-    "t": "The major reason Microsoft’s stock is heading higher after earnings",
-    "tt": null,
-    "s": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-    "ts": 1793232600000,
+    "t": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+    "tt": "Yatırımcılar Marvell'e olası bir satışı sevinçle karşılarken Lumentum'un hisseleri yükseliyor",
+    "s": "An agreement between the companies could come next week, Bloomberg reported",
+    "ss": "Bloomberg'in haberine göre şirketler arasında önümüzdeki hafta bir anlaşma yapılabilir",
+    "u": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+    "ts": 1793233200000,
     "tags": []
    },
    {
     "t": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-    "tt": null,
+    "tt": "Alphabet'in hisseleri neden son sonuçlardan sonra son yılların en kötü düşüşünü görebilir?",
     "s": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-    "ss": null,
+    "ss": "Yatırımcıların yapay zekanın şirketin arama sorgularından para kazanma becerisine zarar verdiğine dair endişeleri arttıkça, bulut gelirinin iki katına çıkması Wall Street'i yatıştırmaya yetmedi.",
     "u": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-    "ts": 1793231040000,
+    "ts": 1793233020000,
+    "tags": []
+   },
+   {
+    "t": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+    "tt": "'Yargıç Judy'yi izleyin': 70'li yaşlarımdayım. İnsanlar neden aynı önlenebilir mali hataları yapmaya devam ediyor?",
+    "s": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+    "ss": "\"Kötü kararların bazı tanıdık örneklerini düşünün: kredi kartı borcu biriktirmek veya emeklilik planını yapamamak.\"",
+    "u": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+    "ts": 1793232900000,
+    "tags": []
+   },
+   {
+    "t": "The major reason Microsoft’s stock is heading higher after earnings",
+    "tt": "Microsoft'un hisselerinin kazançların ardından yükselişe geçmesinin ana nedeni",
+    "s": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+    "ss": "Microsoft, yatırımcılara harcamaları kontrol altında tutarken hızla büyüyebileceğini gösterdi.",
+    "u": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+    "ts": 1793232600000,
     "tags": []
    },
    {
@@ -631,15 +649,6 @@
     "tags": []
    },
    {
-    "t": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-    "tt": "Yatırımcılar Marvell'e olası bir satışı sevinçle karşılarken Lumentum'un hisseleri yükseliyor",
-    "s": "An agreement between the companies could come next week, Bloomberg reported",
-    "ss": "Bloomberg'in haberine göre şirketler arasında önümüzdeki hafta bir anlaşma yapılabilir",
-    "u": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-    "ts": 1793225280000,
-    "tags": []
-   },
-   {
     "t": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
     "tt": "Komşularımıza ücretsiz ev onarımı konusunda yardım etmeyi bıraktık ve dostluğumuz soğudu. Kim suçlanacak?",
     "s": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
@@ -656,32 +665,41 @@
     "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
     "ts": 1793223900000,
     "tags": []
-   },
-   {
-    "t": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "tt": "70’li yaşlardayız. Yüzde 2,5'lik ipoteğimizi mi ödemeliyiz yoksa parayı yüksek getirili bir tasarruf hesabına mı koymalıyız?",
-    "s": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-    "ss": "\"Diyelim ki bundan 10 yıl sonra, 84 yaşıma geldiğimde yüklü miktarda nakde ihtiyacımız olacak.\"",
-    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "ts": 1793223000000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "A Surveilled Country Is Not A Free Country",
+    "tt": "Gözetlenen Bir Ülke Özgür Bir Ülke Değildir",
+    "s": "A Surveilled Country Is Not A Free Country Authored by Daniel Nuccio via Brownstone Institute , If you currently live in the United States, I regret to inform you that you no longer live in a free country. You are no longer a free person. Actually, you haven't been for quite some time. This may soun",
+    "ss": "Gözetlenen Bir Ülke Özgür Bir Ülke Değildir Yazan: Daniel Nuccio, Brownstone Enstitüsü aracılığıyla, Şu anda Amerika Birleşik Devletleri'nde yaşıyorsanız, üzülerek belirtmek isterim ki artık özgür bir ülkede yaşamazsınız. Artık özgür bir insan değilsin. Aslında uzun zamandır yoktun. Bu kulağa hoş gelebilir",
+    "u": "https://www.zerohedge.com/political/surveilled-country-not-free-country",
+    "ts": 1793235300000,
+    "tags": []
+   },
+   {
+    "t": "Arrested Assistant Principal Resigns After 12-Year-Olds' Softball Brawl That Left A Dad Unconscious",
+    "tt": "Tutuklanan Müdür Yardımcısı, 12 Yaşındaki Çocukların Bir Babayı Bilincini Kaybeden Softbol Kavgasının Ardından İstifa Etti",
+    "s": "Arrested Assistant Principal Resigns After 12-Year-Olds' Softball Brawl That Left A Dad Unconscious A youth softball game in Sugar Land, Texas, turned violent Saturday, and a father is still in the hospital with a broken jaw, a fractured skull and three brain bleeds , according to his attorney. Poli",
+    "ss": "Tutuklanan Müdür Yardımcısı, 12 Yaşındaki Çocukların Babasını Bilincini Kaybetmesine Neden Olan Softbol Kavgasının Ardından İstifa Etti Sugar Land, Teksas'ta gençler arasında oynanan softbol maçı cumartesi günü şiddet olaylarına dönüştü ve avukatına göre bir baba, çenesi kırık, kafatası kırığı ve üç beyin kanamasıyla hâlâ hastanede bulunuyor. Poli",
+    "u": "https://www.zerohedge.com/political/arrested-assistant-principal-resigns-after-12-year-olds-softball-brawl-left-dad",
+    "ts": 1793233800000,
+    "tags": []
+   },
+   {
     "t": "More Americans Are Falling For Romance Scams. Here's How They Entice You...",
-    "tt": null,
+    "tt": "Daha Fazla Amerikalı Romantik Dolandırıcılıklara Kanıyor. İşte Sizi Nasıl Baştan Çıkarıyorlar...",
     "s": "More Americans Are Falling For Romance Scams. Here's How They Entice You... Authored by Chris Summers and Eva Fu via The Epoch Times , Romance scams make up a large share of fraud perpetrated against Americans , with scammers often contacting victims through online dating apps, social media, or prof",
-    "ss": null,
+    "ss": "Daha Fazla Amerikalı Romantik Dolandırıcılıklara Kanıyor. İşte Sizi Nasıl Baştan Çıkarıyorlar... The Epoch Times aracılığıyla Chris Summers ve Eva Fu tarafından yazıldı , Romantik dolandırıcılıklar, Amerikalılara karşı işlenen dolandırıcılıkların büyük bir kısmını oluşturuyor , dolandırıcılar genellikle kurbanlarla çevrimiçi flört uygulamaları, sosyal medya veya profesyoneller aracılığıyla iletişime geçiyor",
     "u": "https://www.zerohedge.com/personal-finance/more-americans-are-falling-romance-scams-heres-how-they-entice-you",
     "ts": 1793232300000,
     "tags": []
    },
    {
     "t": "Democratic Socialist Of America Puts Crosshairs On United Airlines, Elbit System: \"We Will Sever Supply Chains\"",
-    "tt": null,
+    "tt": "Amerika'nın Demokratik Sosyalisti United Airlines ve Elbit Sistemini Hedef Alıyor: \"Tedarik Zincirlerini Keseceğiz\"",
     "s": "Democratic Socialist Of America Puts Crosshairs On United Airlines, Elbit System: \"We Will Sever Supply Chains\" The Democratic Socialists of America's list of targeted US companies, coupled with its aim to \" sever the supply chain ,\" raises national security concerns about the movement's actual agen",
-    "ss": null,
+    "ss": "Amerika'nın Demokratik Sosyalisti, United Airlines ve Elbit Sisteminin Hedefini Belirledi: \"Tedarik Zincirlerini Keseceğiz\" Amerika'nın Demokratik Sosyalistleri'nin hedeflenen ABD şirketleri listesi, \"tedarik zincirini kesme\" hedefiyle birleştiğinde, hareketin asıl ajanı hakkında ulusal güvenlik endişelerini artırıyor",
     "u": "https://www.zerohedge.com/political/democratic-socialist-america-puts-crosshairs-united-airlines-elbit-system-we-will-sever",
     "ts": 1793230800000,
     "tags": []
@@ -738,24 +756,6 @@
     "ss": "Roswell, Hükümet Yeni UFO Dosyalarını Yayınladıktan Sonra ET'leri (Ekstra Turistler) Çekti Darlene McCormick Sanchez tarafından The Epoch Times aracılığıyla yazılmıştır, ROSWELL, N.M. - 1947'de uçan daire olduğu iddia edilen bu yüksek çöl kasabasının dışındaki bir çiftliğe çarpması, müzeler ve hediyelik eşya dükkanlarından oluşan neon ışıklı bir uzaylı turizmi ekonomisini başlattı.",
     "u": "https://www.zerohedge.com/technology/roswell-attracts-ets-extra-tourists-after-government-releases-new-ufo-files",
     "ts": 1793221800000,
-    "tags": []
-   },
-   {
-    "t": "Putin Calls Musk A \"Real Genius,\" Says Russia Coordinating With Him In On Satellites",
-    "tt": "Putin, Musk'ı \"Gerçek Bir Dahi\" Olarak Adlandırıyor ve Rusya'nın Uydularda Onunla Koordinasyon Kurduğunu Söyledi",
-    "s": "Putin Calls Musk A \"Real Genius,\" Says Russia Coordinating With Him In On Satellites Russian President Vladimir Putin called Elon Musk \"a real genius\" on Wednesday and said Moscow is in touch with him about satellites, days after Ukraine said speed limits that hobbled its drones had been lifted. Put",
-    "ss": "Putin, Musk'a \"Gerçek Bir Dahi\" Dedi, Rusya'nın Uydularda Kendisiyle Koordinasyon Kurduğunu Söyledi Rusya Devlet Başkanı Vladimir Putin, Çarşamba günü Elon Musk'u \"gerçek bir dahi\" olarak nitelendirdi ve Ukrayna'nın insansız hava araçlarını engelleyen hız sınırlarının kaldırıldığını söylemesinden günler sonra Moskova'nın uydular konusunda onunla iletişim halinde olduğunu söyledi. Koymak",
-    "u": "https://www.zerohedge.com/geopolitical/putin-calls-musk-real-genius-says-russia-coordinating-him-satellites",
-    "ts": 1793220600000,
-    "tags": []
-   },
-   {
-    "t": "Google Plunges After Ugly Top And Bottom Line Miss, As AI Cannibalizes Search And Ads",
-    "tt": "Yapay Zeka Arama ve Reklamları Yamyamlaştırdıkça Google, Çirkin Üst ve Alt Hatları Kaçırdıktan Sonra Düşüyor",
-    "s": "Google Plunges After Ugly Top And Bottom Line Miss, As AI Cannibalizes Search And Ads Today, ahead of the doubleheader of Mag 7 reports when both Microsoft and Google parent Alphabet report, we wrote in our preview that Microsoft has become the consensus long, while Alphabet \"still feels like the co",
-    "ss": "Yapay Zeka, Arama ve Reklamları Bugün Yamyamlaştırırken, Google Çirkin Üst ve Son Noktadan Sonra Düşüyor Hem Microsoft hem de Google ana Alphabet raporunun çift başlıklı Mag 7 raporlarından önce, ön izlememizde Microsoft'un uzun süredir fikir birliği haline geldiğini, Alphabet'in ise \"hala ortak bir şirket gibi göründüğünü\" yazmıştık.",
-    "u": "https://www.zerohedge.com/markets/google-plunges-after-ugly-top-and-bottom-line-miss-ai-cannibalizes-search-and-ads",
-    "ts": 1793220420000,
     "tags": []
    }
   ],
@@ -864,7 +864,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
