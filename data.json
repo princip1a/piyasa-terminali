@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T01:37:32.643934+00:00",
+ "generated": "2026-10-30T02:22:53.750666+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4020.1,
-   "c": -0.78,
-   "d": -31.5,
+   "p": 4021.6,
+   "c": -0.24,
+   "d": -9.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.58,
-   "c": -3.51,
-   "d": -1.877,
+   "p": 51.635,
+   "c": -1.07,
+   "d": -0.556,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.79,
-   "c": 0.01,
-   "d": 0.01,
+   "p": 104.26,
+   "c": 2.22,
+   "d": 2.26,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.64,
-   "c": -3.19,
-   "d": -3.68,
+   "p": 113.25,
+   "c": -1.42,
+   "d": -1.63,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.622,
-   "c": -0.41,
-   "d": -0.418,
+   "p": 101.75,
+   "c": -0.28,
+   "d": -0.29,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9231,
-   "c": 0.19,
-   "d": 0.094,
+   "p": 49.9404,
+   "c": 0.22,
+   "d": 0.111,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 76917,
-   "c": -4.55,
+   "p": 76954,
+   "c": -3.69,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2203.7,
-   "c": -5.57,
+   "p": 2206.04,
+   "c": -4.39,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.18,
-   "c": -6.84,
+   "p": 94.5,
+   "c": -5.24,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.21,
-   "c": -7.63,
+   "c": -6.3,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 697.07,
-   "c": -7.34,
+   "p": 708.53,
+   "c": -5.12,
    "k": "usd"
   }
  ],
@@ -384,7 +384,25 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Treasuries Extend Rally With Global Peers on Tech Stock Selloff",
+    "t": "Japan’s Top Insurers Revive Lending as Rates Boost Returns",
+    "tt": null,
+    "s": "Japan’s biggest life insurers are stepping up lending, with a focus on overseas projects including data centers, as higher interest rates make loans more attractive and surging investment in artificial intelligence and power networks fuels demand for capital.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/japan-s-top-insurers-revive-lending-as-rates-boost-returns",
+    "ts": 1793327131000,
+    "tags": []
+   },
+   {
+    "t": "China’s Oil Majors Get More Firepower for Energy Security Push",
+    "tt": null,
+    "s": "Improved profits at China’s state-owned oil majors are likely to help them deliver on Beijing’s demands for energy security.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-oil-majors-get-more-firepower-for-energy-security-push",
+    "ts": 1793326416000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Extend Rally With Global Peers as Risk-Off Haven",
     "tt": null,
     "s": "A rally in Treasuries gathered pace in Asia on Friday as a selloff in US tech stocks drove investors to the safety of US government debt.",
     "ss": null,
@@ -393,43 +411,16 @@
     "tags": []
    },
    {
-    "t": "Stock Selloff Deepens on Tech Earnings, Bonds Rise: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
-    "s": "Technology shares led a global stock selloff as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets. Treasuries rallied.",
-    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793311676000,
-    "tags": []
-   },
-   {
-    "t": "Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks",
+    "t": "Kioxia Faces Test to Impress With Earnings After 60% Stock Slump",
     "tt": null,
-    "s": "Asian chip stocks are taking another hit from US tech earnings, with Intel Corp.’s weak outlook raising concerns about semiconductor demand while Amazon.com Inc.’s post-results slump further sours sentiment toward the AI trade.",
+    "s": "Kioxia Holdings Corp. needs to clear a high bar with its upcoming results, after its swift slump from the world’s top stock gainer to the worst performer in the battered memory chip sector.",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks",
-    "ts": 1793319656000,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/kioxia-faces-test-to-impress-with-earnings-after-60-stock-slump",
+    "ts": 1793313000000,
     "tags": []
    },
    {
-    "t": "Bayer Wins St. Louis Roundup Trial, Bolstering Settlement Push",
-    "tt": null,
-    "s": "A jury in St. Louis rejected claims by three women who blamed Bayer AG’s Roundup weedkiller for their cancers, bolstering the company’s effort to contain the cost of tens of thousands of similar lawsuits in the US that it has offered to settle.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/bayer-wins-st-louis-roundup-trial-bolstering-settlement-push",
-    "ts": 1793321170000,
-    "tags": []
-   },
-   {
-    "t": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
-    "tt": null,
-    "s": "Gold steadied near $4,000 an ounce, and was on track for a second monthly loss, as energy-led inflation raised the prospects for a US rate increase before year-end.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
-    "ts": 1793316726000,
-    "tags": []
-   },
-   {
-    "t": "Dollar’s Rate-Fueled Rally Set to Ride Out US Midterm Gridlock",
+    "t": "Dollar’s Rate-Fueled Rally Seen Surviving US Midterm Gridlock",
     "tt": null,
     "s": "The dollar’s rally may have enough momentum to shrug off the US midterm election, with high interest rates and a surge in AI-related spending drawing capital even if the vote delivers political gridlock.",
     "ss": null,
@@ -440,39 +431,58 @@
     ]
    },
    {
+    "t": "Chinese Investors Seek Shelter in Long-Bond ETFs as Stocks Sink",
+    "tt": null,
+    "s": "Chinese investors are piling into exchange-traded funds tracking longer-dated government bonds, seeking shelter in a rallying debt market while local stocks keep sliding.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-investors-seek-shelter-in-long-bond-etfs-as-stocks-sink",
+    "ts": 1793325621000,
+    "tags": []
+   },
+   {
+    "t": "Codelco Dismisses Eight Staff as Copper Output Scandal Widens",
+    "tt": null,
+    "s": "Chilean copper giant Codelco let go eight employees after investigations into irregularities in the recording and reporting of production in 2024 and 2025 uncovered new evidence.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/codelco-dismisses-eight-staff-as-copper-output-scandal-widens",
+    "ts": 1793325611000,
+    "tags": []
+   },
+   {
+    "t": "Stock Selloff Deepens on Tech Earnings, Bonds Rise: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
+    "s": "Technology shares led a global stock selloff as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil rallied.",
+    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793311676000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Oct. 30",
     "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
+    "s": "Oil surged on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
     "ss": "Petrol, ABD'nin İran'a karşı askeri saldırılara yeniden başlayabileceği ve bölgede enerji akışına zarar verebilecek yeni türbülans riskine yol açabileceği işaretleri üzerine yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
     "ts": 1793311337000,
-    "tags": []
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
    },
    {
-    "t": "China Elevates Key Actor With Rare Politburo Pick",
+    "t": "Binance Suspends Withdrawals After Suspected Hack",
     "tt": null,
-    "s": "The Chinese Communist Party restocked its powerful Politburo for the first time in more than three decades and announced plans to hold a congress next year, where it’s set to unveil new leadership. (Source: Bloomberg)",
+    "s": "Binance suspended all deposits and withdrawals as it investigates a security incident that has resulted in the freezing of more than $2.5 billion in assets. Bloomberg's Suvashree Ghosh breaks down the news. (Source: Bloomberg)",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-30/china-elevates-key-actor-with-rare-politburo-pick-video",
-    "ts": 1793319589000,
-    "tags": []
-   },
-   {
-    "t": "Foxconn CEO: AI to Drive Consumer Update Cycle",
-    "tt": null,
-    "s": "Foxconn rotating CEO Michael Chiang expresses optimism about the AI boom and says he expects it to drive a new cycle of consumer hardware upgrades. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-30/foxconn-ceo-ai-to-drive-consumer-update-cycle-video",
-    "ts": 1793319455000,
-    "tags": []
-   },
-   {
-    "t": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
-    "tt": null,
-    "s": "Chinese investors are pulling back from Hong Kong’s stocks at the fastest pace in more than five years, threatening to deepen a selloff.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
-    "ts": 1793318400000,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suspends-withdrawals-after-suspected-hack-video",
+    "ts": 1793324940000,
     "tags": []
    }
   ],
@@ -662,6 +672,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Ted Cruz Got Something Right On The Iran War",
+    "tt": null,
+    "s": "Ted Cruz Got Something Right On The Iran War \"You’ll see Iran in a couple of weeks, if you don’t mind,\" Trump told a crowd on Tuesday during a rally in Lubbock, referencing plans to potentially renew a major air campaign on Iran. Days away from the midterm elections, and White House officials are st",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/ted-cruz-got-something-right-iran-war",
+    "ts": 1793326800000,
+    "tags": []
+   },
+   {
+    "t": "\"Uncharted Territory\": Arctic Vortex Could Break Earliest On Record",
+    "tt": null,
+    "s": "\"Uncharted Territory\": Arctic Vortex Could Break Earliest On Record Weather forecasting website Severe Weather Europe warns that the Arctic polar vortex could undergo a sudden stratospheric warming in early November, potentially the earliest on record . The rapid warming could weaken, displace, or s",
+    "ss": null,
+    "u": "https://www.zerohedge.com/weather/uncharted-territory-arctic-vortex-could-break-earliest-record",
+    "ts": 1793325300000,
+    "tags": []
+   },
+   {
     "t": "Kathleen Kennedy Named Head Of Ceremonies For 2028 Olympics",
     "tt": null,
     "s": "Kathleen Kennedy Named Head Of Ceremonies For 2028 Olympics The 2028 Olympic Summer Games are slated to be held in Los Angeles, California - An event they have not hosted since 1984. &nbsp;It's not surprising that the city, currently in the midst of an entertainment industry decline, is desperate to",
@@ -731,24 +759,6 @@
     "ss": null,
     "u": "https://www.zerohedge.com/political/alaska-gov-orders-criminal-investigation-peltola-campaign",
     "ts": 1793313600000,
-    "tags": []
-   },
-   {
-    "t": "41,000 Homeland Security Employees And Undercover ICE Agents Exposed In Data Leak, Hackers Say",
-    "tt": "Bilgisayar korsanları, 41.000 İç Güvenlik Çalışanının ve Gizli ICE Ajanının Veri Sızıntısında Açığa Çıktığını Söyledi",
-    "s": "41,000 Homeland Security Employees And Undercover ICE Agents Exposed In Data Leak, Hackers Say Authored by Jill McLaughlin via The Epoch Times , An internal database with personal information identifying more than 41,000 employees at the Department of Homeland Security (DHS) - including undercover i",
-    "ss": "Bilgisayar Korsanları, 41.000 Ulusal Güvenlik Çalışanının ve Gizli ICE Ajanının Veri Sızıntısında Açığa Çıktığını Söyledi Bilgisayar Korsanları, The Epoch Times aracılığıyla Jill McLaughlin tarafından yazılmıştır. İç Güvenlik Bakanlığı'ndaki (DHS) 41.000'den fazla çalışanı tanımlayan kişisel bilgileri içeren dahili bir veritabanı - gizli görevdekiler de dahil",
-    "u": "https://www.zerohedge.com/technology/41000-homeland-security-employees-and-undercover-ice-agents-exposed-data-leak-hackers",
-    "ts": 1793312400000,
-    "tags": []
-   },
-   {
-    "t": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know?",
-    "tt": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor?",
-    "s": "Trump Faces Plot Twist In Ilhan Omar Warrant Fight As Old Foe Reemerges; And What Did Obama's FBI Know? The same Obama-appointed judge that President Donald Trump once branded a \"Radical Left Lunatic\" and demanded be impeached is now tasked with deciding whether the public can see what federal agent",
-    "ss": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor? Başkan Donald Trump'ın bir zamanlar \"Radikal Sol Deli\" olarak damgaladığı ve görevden alınmasını talep ettiği, Obama tarafından atanan yargıç, şimdi halkın hangi federal ajanı görüp göremeyeceğine karar vermekle görevlendirildi.",
-    "u": "https://www.zerohedge.com/political/trump-faces-plot-twist-ilhan-omar-warrant-fight-old-foe-reemerges-and-what-did-obamas-fbi",
-    "ts": 1793311300000,
     "tags": []
    }
   ],
