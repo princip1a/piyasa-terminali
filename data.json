@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:29:05.503343+00:00",
+ "generated": "2026-10-30T12:15:01.063543+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.42,
-   "c": 7.09,
-   "d": 1.22,
+   "p": 18.63,
+   "c": 8.31,
+   "d": 1.43,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3982.4,
-   "c": -1.22,
-   "d": -49.0,
+   "p": 3974.0,
+   "c": -1.42,
+   "d": -57.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.435,
-   "c": -3.36,
-   "d": -1.756,
+   "p": 50.21,
+   "c": -3.8,
+   "d": -1.981,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 104.22,
-   "c": 2.18,
-   "d": 2.22,
+   "p": 104.0,
+   "c": 1.96,
+   "d": 2.0,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 113.5,
-   "c": -1.2,
-   "d": -1.38,
+   "p": 113.2,
+   "c": -1.46,
+   "d": -1.68,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.642,
-   "c": -0.39,
-   "d": -0.398,
+   "p": 101.671,
+   "c": -0.36,
+   "d": -0.369,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9448,
+   "p": 49.9441,
    "c": 0.23,
    "d": 0.115,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10960.73,
-   "c": -1.83,
-   "d": -204.67,
+   "p": 10960.31,
+   "c": -1.84,
+   "d": -205.09,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77695,
-   "c": -2.99,
+   "p": 77452,
+   "c": -3.2,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2245.63,
-   "c": -3.28,
+   "p": 2237.64,
+   "c": -3.55,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 96.94,
-   "c": -3.42,
+   "p": 96.72,
+   "c": -3.39,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -3.04,
+   "c": -3.28,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 702.47,
-   "c": -4.89,
+   "p": 700.85,
+   "c": -5.19,
    "k": "usd"
   }
  ],
@@ -384,6 +384,62 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Big Oil Scores $56 Billion Windfall on War-Driven Refining Spike",
+    "tt": "Büyük Petrol, Savaş Kaynaklı Rafinaj Artışıyla 56 Milyar Dolarlık Beklenmedik Bir Kazanç Sağladı",
+    "s": "Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia roiled energy markets and drove refining results to record highs.",
+    "ss": "Big Oil, Basra Körfezi ve Rusya'daki çatışmaların enerji piyasalarını sarsması ve rafineri sonuçlarını rekor seviyelere taşıması nedeniyle beklenmedik bir şekilde 50 milyar dolardan fazla kar elde etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
+    "ts": 1793356222000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "US Natural Gas Drillers Scale Up as Demand Grows",
+    "tt": "ABD Doğal Gaz Sondajcıları Talep Arttıkça Büyüyor",
+    "s": "A wave of consolidation is creating bigger producers better equipped to secure long-term deals with LNG exporters and power-hungry data centers.",
+    "ss": "Konsolidasyon dalgası, LNG ihracatçıları ve enerjiye aç veri merkezleriyle uzun vadeli anlaşmalar yapmak için daha donanımlı daha büyük üreticiler yaratıyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-30/us-natural-gas-drillers-scale-up-as-demand-grows",
+    "ts": 1793362231000,
+    "tags": []
+   },
+   {
+    "t": "Exxon Increases Stake in Mozambique Gas Project",
+    "tt": "Exxon, Mozambik Gaz Projesindeki Hissesini Artırdı",
+    "s": "ExxonMobil Holdings Corp. increased its stake in the planned Rovuma liquefied natural gas project in Mozambique after a swap with Eni SpA.",
+    "ss": "ExxonMobil Holdings Corp., Eni SpA ile yapılan takasın ardından Mozambik'te planlanan Rovuma sıvılaştırılmış doğal gaz projesindeki hissesini artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
+    "ts": 1793356262000,
+    "tags": []
+   },
+   {
+    "t": "Gold Slips Below $4,000 on Hot Inflation, Tech-Stock Rout",
+    "tt": "Altın, Sıcak Enflasyon ve Tech-Stock Çöküşüyle ​​4.000 Doların Altına Düştü",
+    "s": "Gold fell below $4,000 an ounce — on track for a second monthly loss — as rising oil prices added to inflationary pressures and a tech-stock rout raised the risk of investors selling the metal to cover losses.",
+    "ss": "Altın fiyatlarının ons başına 4.000 doların altına gerilemesi, artan petrol fiyatlarının enflasyonist baskıları artırması ve teknoloji hisselerindeki düşüşün yatırımcıların zararlarını karşılamak için metali satma riskini artırmasıyla ikinci aylık kayıp yolunda ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+    "ts": 1793316726000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Weil Gotshal Private Equity Partner Blakey to Jump to Simpson",
+    "tt": "Weil Gotshal Özel Sermaye Ortağı Blakey, Simpson'a Geçecek",
+    "s": "A Weil Gotshal &amp; Manges private equity partner, Lewis Blakey, in London is set to move to Simpson Thacher &amp; Bartlett, marking the latest exit from the stricken Wall Street law firm, according to people with knowledge of the matter.",
+    "ss": "Konuyla ilgili bilgisi olan kaynaklara göre, Weil Gotshal & Manges'in Londra'daki özel sermaye ortağı Lewis Blakey, zor durumdaki Wall Street hukuk firmasından son çıkış olarak Simpson Thacher & Bartlett'e taşınmaya hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/weil-gotshal-private-equity-partner-blakey-to-jump-to-simpson",
+    "ts": 1793360019000,
+    "tags": []
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Oct. 30",
     "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
     "s": "Oil rose on worries that the US may resume strikes against Iran, risking fresh turbulence in the Middle East.",
@@ -426,53 +482,6 @@
     "ss": "YouTube Yıldızı Mark Rober, eğitimde nelerin eksik olduğunu, viral hale gelmek için neler gerektiğini ve kendisini en çok hangi teknolojinin heyecanlandırdığını paylaşıyor. Bloomberg'den Max Chafkin ile konuşuyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-10-30/five-questions-for-youtube-star-mark-rober",
     "ts": 1793358048000,
-    "tags": []
-   },
-   {
-    "t": "AI Policy Fears Grip Stock, Bond Traders With Midterms Days Away",
-    "tt": "Yapay Zeka Politikası, Hisse Senedi ve Ara Sınav Günlerine Kalan Tahvil Yatırımcılarından Korkuyor",
-    "s": "Wall Street expects Democrats to win at least one of the houses of Congress in the US midterm elections on Tuesday, setting the stage for a potentially volatile ride in the stock and bond markets with artificial intelligence oversight, defense spending and crypto legislation on the table.",
-    "ss": "Wall Street, Salı günü yapılacak ABD ara seçimlerinde Demokratların Kongre meclislerinden en az birini kazanmasını bekliyor; bu da yapay zeka gözetimi, savunma harcamaları ve kripto mevzuatının masada olmasıyla hisse senedi ve tahvil piyasalarında potansiyel olarak istikrarsız bir gidişata zemin hazırlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
-    "ts": 1793358000000,
-    "tags": []
-   },
-   {
-    "t": "UK Debt Chief Sees Volatility Driving Demand for Short Gilts",
-    "tt": "Birleşik Krallık Borç Şefi, Volatilitenin Kısa Yaldızlılara Talebi Artırdığını Görüyor",
-    "s": "The UK Debt Management Office is pulling back further from long-dated gilts to meet investor demand for shorter tenors that are less exposed to swings in the bond market, Chief Executive Jessica Pulay said.",
-    "ss": "İcra Kurulu Başkanı Jessica Pulay, Birleşik Krallık Borç Yönetim Ofisi'nin, yatırımcıların tahvil piyasasındaki dalgalanmalara daha az maruz kalan daha kısa vadelere yönelik talebini karşılamak için uzun vadeli tahvillerden daha da geri çekildiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/uk-debt-chief-sees-volatility-driving-demand-for-short-gilts",
-    "ts": 1793357817000,
-    "tags": []
-   },
-   {
-    "t": "Tech Rout Deepens as Earnings Stoke AI Reckoning: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
-    "s": "US stock futures fell for a second day as another batch of disappointing tech earnings intensified the sellof in the sector, with investors increasingly questioning the payoff from massive artificial intelligence spending as signs emerge that the core businesses of America’s technology giants are lo",
-    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793311676000,
-    "tags": []
-   },
-   {
-    "t": "Dollar’s Rate-Fueled Gain Seen Surviving US Midterm Gridlock",
-    "tt": "Doların Faiz Oranından Kaynaklanan Kazancının ABD'deki Orta Vadedeki Tıkanıklıktan Kurtulduğu Görülüyor",
-    "s": "The dollar’s rally may have enough momentum to shrug off the US midterm election, with high interest rates and a surge in AI-related spending drawing capital even if the vote delivers political gridlock.",
-    "ss": "Doların rallisi, yüksek faiz oranları ve yapay zeka ile ilgili harcamalardaki artışın oylama siyasi çıkmaza yol açsa bile sermaye çekmesi nedeniyle ABD ara seçimlerini umursamamaya yetecek ivmeye sahip olabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
-    "ts": 1793320503000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Euro Set For Worst Month Versus Pound Since 2022 on French Woes",
-    "tt": "Euro, Fransa'daki Sıkıntılar Nedeniyle 2022'den Bu Yana Pound Karşısında En Kötü Ayı Kaydediyor",
-    "s": "The euro is set for its weakest month in more than four years compared to the pound as concern about France’s outlook weighs on the common currency.",
-    "ss": "Fransa'nın görünümüne ilişkin endişelerin ortak para birimi üzerinde baskı oluşturmasıyla euro, pound karşısında dört yıldan fazla bir sürenin en zayıf ayını yaşamaya hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/euro-set-for-worst-month-versus-pound-since-2022-on-french-woes",
-    "ts": 1793357631000,
     "tags": []
    }
   ],
@@ -662,6 +671,36 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Adam Carolla To The Atlantic: \"F*ck Off And Eat Sh*t\"",
+    "tt": "Adam Carolla Atlantik'e: \"Siktir git ve bok ye\"",
+    "s": "Adam Carolla To The Atlantic: \"F*ck Off And Eat Sh*t\" Comedian Adam Carolla told The Atlantic to \"f*ck off\" and \"eat sh*t\" over its call for a pandemic \"amnesty.\" \"Of course all the people who wanted everyone drawn and quartered for not getting vaccinated or wearing a mask want a f*cking amnesty,\" C",
+    "ss": "Adam Carolla Atlantik'e: \"Siktir git ve ye s*k\" Komedyen Adam Carolla, The Atlantic'e pandemik \"af\" çağrısı üzerine \"siktir git\" ve \"bok ye\" dedi. \"Elbette aşı yaptırmadığı veya maske takmadığı için herkesin cezalandırılmasını ve dörde bölünmesini isteyen herkes kahrolası bir af istiyor.\" C",
+    "u": "https://www.zerohedge.com/political/adam-carolla-atlantic-fck-and-eat-sht",
+    "ts": 1793362500000,
+    "tags": []
+   },
+   {
+    "t": "Terrifying Study Reveals Truth About Flying That Could Make You Never Want To Board A Plane Again",
+    "tt": "Korkunç Araştırma, Bir Daha Uçağa Binmek İstememenize Sebep Olabilecek Uçma Hakkındaki Gerçeği Ortaya Çıkarıyor",
+    "s": "Terrifying Study Reveals Truth About Flying That Could Make You Never Want To Board A Plane Again A disturbing new study conducted by the European Cockpit Association (ECA) found that nearly one in four European airline pilots routinely take to the skies despite being too exhausted to safely perform",
+    "ss": "Korkunç Araştırma, Bir Daha Uçağa Binmek İstememenize Sebep Olabilecek Uçma Hakkındaki Gerçeği Ortaya Çıkarıyor Avrupa Kokpit Birliği (ECA) tarafından yürütülen rahatsız edici yeni bir araştırma, neredeyse dört Avrupalı ​​havayolu pilotundan birinin güvenli bir şekilde uçuş yapamayacak kadar yorgun olmasına rağmen rutin olarak göklere çıktığını ortaya çıkardı",
+    "u": "https://www.zerohedge.com/medical/terrifying-study-reveals-truth-about-flying-could-make-you-never-want-board-plane-again",
+    "ts": 1793360700000,
+    "tags": []
+   },
+   {
+    "t": "North Korea Blamed For $6.3 Billion Binance Heist: \"Stole 19% Of Its Yearly Income In 20 Minutes\"",
+    "tt": "Kuzey Kore, 6,3 Milyar Dolarlık Binance Soygunuyla Suçlandı: \"Yıllık Gelirinin %19'unu 20 Dakikada Çaldı\"",
+    "s": "North Korea Blamed For $6.3 Billion Binance Heist: \"Stole 19% Of Its Yearly Income In 20 Minutes\" Summary: North Korea stole 19% of its yearly income in about 20 minutes . Bitcoin plunged to a six-week low of $76,348 Reuters Puts Theft Figure At $6.3 Billion &nbsp; TRM Labs and Chainalysis Blame Nor",
+    "ss": "Kuzey Kore, 6,3 Milyar Dolarlık Binance Soygunundan Suçlandı: \"Yıllık Gelirinin %19'unu 20 Dakikada Çaldı\" Özet: Kuzey Kore, yaklaşık 20 dakika içinde yıllık gelirinin %19'unu çaldı. Bitcoin, 76.348 Dolar ile altı haftanın en düşük seviyesine geriledi Reuters Hırsızlık Rakamını 6,3 Milyar Dolar Olarak Belirledi   TRM Laboratuvarları ve Chainaliz Nor'u Suçluyor",
+    "u": "https://www.zerohedge.com/crypto/binance-investigates-possible-hack-after-billions-transferred-out-tether-and-circle-freeze",
+    "ts": 1793360340000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "The Riots In France Expose The Dangerous Fiction That Public Spending And 'Integration' Create A Peaceful Society",
     "tt": "Fransa'daki Ayaklanmalar, Kamu Harcamaları ve 'Entegrasyon'un Barışçıl Bir Toplum Yarattığı yönündeki tehlikeli kurguyu açığa çıkardı",
     "s": "The Riots In France Expose The Dangerous Fiction That Public Spending And 'Integration' Create A Peaceful Society Authored by Matt Roberts via The Daily Sceptic , The violence, looting and burning in France over the weekend of October 24th-25th was somewhat less intense and widespread than it had be",
@@ -728,36 +767,36 @@
     "u": "https://www.zerohedge.com/geopolitical/afd-hits-record-west-german-state-voters-dissatisfied-current-government-surge",
     "ts": 1793345400000,
     "tags": []
-   },
-   {
-    "t": "\"Let's Get Ready To Rumble,\" Armenian Parliament-Style: Fists And Chairs Fly In All-Out Brawl",
-    "tt": "\"Gürültüye Hazır Olalım\" Ermeni Parlamentosu Tarzı: Topyekün Kavgada Yumruklar ve Sandalyeler Uçuyor",
-    "s": "\"Let's Get Ready To Rumble,\" Armenian Parliament-Style: Fists And Chairs Fly In All-Out Brawl Armenia's parliament erupted into a WWE-style brawl earlier today as lawmakers traded punches and threw objects at one another, leaving several injured. The fight between the ruling Civil Contract party and",
-    "ss": "\"Gürültüye Hazır Olalım\" Ermeni Parlamentosu Tarzı: Yumruklar ve Sandalyeler Topyekün Kavgada Uçuyor Ermenistan parlamentosu bugün erken saatlerde milletvekillerinin yumruklaşması ve birbirlerine nesneler fırlatması sonucu WWE tarzı bir kavgaya dönüştü ve çok sayıda kişi yaralandı. İktidardaki Sivil Sözleşme Partisi ile parti arasındaki kavga",
-    "u": "https://www.zerohedge.com/political/lets-get-ready-rumble-armenian-parliament-style-fists-and-chairs-fly-all-out-brawl",
-    "ts": 1793342700000,
-    "tags": []
-   },
-   {
-    "t": "Trump Talks Peace While The CIA Is Fueling The War In Ukraine",
-    "tt": "CIA Ukrayna'daki savaşı körüklerken Trump barıştan bahsediyor",
-    "s": "Trump Talks Peace While The CIA Is Fueling The War In Ukraine Authored by Larry C. Johnson via Sonar21 , I spent enough years at the Central Intelligence Agency that I learned how to read the press stories that the agency's friends place for it. Shane Harris's new profile of CIA Director John Ratcli",
-    "ss": "CIA Ukrayna'daki Savaşı Körüklerken Trump Barıştan Bahsediyor Larry C. Johnson tarafından Sonar21 aracılığıyla yazıldı. Merkezi İstihbarat Teşkilatında yeterince yıl geçirdim ve teşkilatın arkadaşlarının onun için hazırladığı basın haberlerini nasıl okuyacağımı öğrendim. Shane Harris'in CIA Direktörü John Ratcli'nin yeni profili",
-    "u": "https://www.zerohedge.com/geopolitical/trump-talks-peace-while-cia-fueling-war-ukraine",
-    "ts": 1793340000000,
-    "tags": []
-   },
-   {
-    "t": "The Non-Obvious Anatomy Of A Slow Collapse: How Economic Decline Reshapes Nations, Concentrates Wealth, And Paves The Way For A New Order",
-    "tt": "Yavaş Bir Çöküşün Açık Olmayan Anatomisi: Ekonomik Gerileme Milletleri Nasıl Yeniden Şekillendiriyor, Zenginliği Nasıl Yoğunlaştırıyor ve Yeni Bir Düzenin Yolunu Açıyor",
-    "s": "The Non-Obvious Anatomy Of A Slow Collapse: How Economic Decline Reshapes Nations, Concentrates Wealth, And Paves The Way For A New Order Authored by Milan Adams via Preppgroup , Debt is a promise dressed as a number, and the rich world has spent four decades making promises its productive capacity ",
-    "ss": "Yavaş Bir Çöküşün Açık Olmayan Anatomisi: Ekonomik Gerileme Ulusları Nasıl Yeniden Şekillendiriyor, Zenginliği Nasıl Yoğunlaştırıyor ve Preppgroup aracılığıyla Milan Adams tarafından yazılan Yeni Bir Düzenin Yolunu Nasıl Açıyor Borç rakam gibi giyinmiş bir vaattir ve zengin dünya kırk yıl boyunca üretken kapasitesine dair sözler verdi.",
-    "u": "https://www.zerohedge.com/geopolitical/non-obvious-anatomy-slow-collapse-how-economic-decline-reshapes-nations-concentrates",
-    "ts": 1793331300000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "TCMB rezervleri 4 ayın en düşük seviyesinde",
+    "tt": null,
+    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) brüt rezervleri 23 Ekim haftasında 6,9 milyar düşüşle 162,2 milyar doları görerek 4 ayın en düşük seviyesine geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tcmb-rezervleri-4-ayin-en-dusuk-seviyesinde-3792923",
+    "ts": 1793360727000,
+    "tags": []
+   },
+   {
+    "t": "Türkiye'nin ham çelik üretimi 9 ayda yüzde 6,1 arttı",
+    "tt": null,
+    "s": "Türkiye'nin ham çelik üretimi, Ocak-Eylül döneminde geçen yılın aynı dönemine göre yüzde 6,1 artarak 29,8 milyon tona yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkiye-nin-ham-celik-uretimi-9-ayda-yuzde-6-1-artti-3792919",
+    "ts": 1793359785000,
+    "tags": []
+   },
+   {
+    "t": "Turizmde fiyat kıskacı: Tur operatörleri yeni zamları kabul etmiyor",
+    "tt": null,
+    "s": "Gürok Turizm Grup Genel Direktörü Tunç Batum, turizm sektöründe artan maliyetlere rağmen fiyat artışlarının sınırlı kaldığını belirterek, \"Dolar bazında yüzde 5-10 arasında zam yapabilmeyi iyi görüyoruz\" dedi. Yılın ilk dokuz ayında TL bazında maliyetlerin yüzde 30 arttığını söyleyen Batum, tur oper",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turizmde-fiyat-kiskaci-tur-operatorleri-yeni-zamlari-kabul-etmiyor-3792918",
+    "ts": 1793359663000,
+    "tags": []
+   },
    {
     "t": "TCMB: Manşet enflasyondaki yükselişin ana eğilime etkisi sınırlı kalacak",
     "tt": null,
@@ -819,33 +858,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/turist-sayisi-ilk-9-ayda-yuzde-1-72-azaldi-3792893",
     "ts": 1793347965000,
-    "tags": []
-   },
-   {
-    "t": "Rus rafinerilerinde savaş hasarı bitmiyor",
-    "tt": null,
-    "s": "NASA uydu görüntüleri, Ukrayna'nın iki hafta içinde Rusya'daki yakıt tesislerine düzenlediği ilk saldırı olarak değerlendirilen eyleminin ardından, ülkedeki büyük bir petrol rafinerisinin yakınlarında yangın çıktığına işaret etti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/rus-rafinerilerinde-savas-hasari-bitmiyor-3792882",
-    "ts": 1793347344000,
-    "tags": []
-   },
-   {
-    "t": "Erdoğan: Türk dünyasının ekonomik bütünleşmesi önceliklerin başında",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Teşkilatı bünyesinde ekonomik bütünleşmenin öncelikli hedeflerden biri olduğunu belirterek, Türk Yatırım Fonu'nun daha etkin kullanılacağını ve ülkeler arasındaki ticaretin önündeki engellerin kaldırılması için çalışılacağını açıkladı. Erdoğan, Haz",
-    "ss": null,
-    "u": "https://www.bloomberght.com/erdogan-turk-dunyasinin-ekonomik-butunlesmesi-onceliklerin-basinda-3792896",
-    "ts": 1793351892000,
-    "tags": []
-   },
-   {
-    "t": "Türkiye Sigorta, finansal riskler için taslak bilançoda 16,3 milyar lira karşılık ayırdı",
-    "tt": null,
-    "s": "Üst düzey yöneticileri fon soruşturmasında tutuklanan ve üçüncü çeyrek bilançosunun yayımı ertelenen Türk Sigorta, taslak bilançoda finansal riskler için karşılık ayırdığını belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-sigorta-finansal-riskler-icin-taslak-bilancoda-16-3-milyar-lira-karsilik-ayirdi-3792876",
-    "ts": 1793347100000,
     "tags": []
    }
   ]
