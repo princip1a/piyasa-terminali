@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T10:03:28.379442+00:00",
+ "generated": "2026-10-30T10:57:37.517717+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.33,
-   "c": 6.57,
-   "d": 1.13,
+   "p": 18.47,
+   "c": 7.38,
+   "d": 1.27,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4002.1,
-   "c": -0.73,
-   "d": -29.3,
+   "p": 3986.1,
+   "c": -1.12,
+   "d": -45.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.795,
-   "c": -2.67,
-   "d": -1.396,
+   "p": 50.56,
+   "c": -3.13,
+   "d": -1.631,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 104.13,
-   "c": 2.09,
-   "d": 2.13,
+   "p": 104.14,
+   "c": 2.1,
+   "d": 2.14,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 113.29,
-   "c": -1.38,
-   "d": -1.59,
+   "p": 113.54,
+   "c": -1.17,
+   "d": -1.34,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.67,
-   "c": -0.36,
-   "d": -0.37,
+   "p": 101.657,
+   "c": -0.38,
+   "d": -0.383,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9424,
+   "p": 49.9426,
    "c": 0.23,
    "d": 0.113,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10970.69,
-   "c": -1.74,
-   "d": -194.71,
+   "p": 10940.52,
+   "c": -2.01,
+   "d": -224.88,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77568,
-   "c": -3.16,
+   "p": 77651,
+   "c": -3.18,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2224.96,
-   "c": -4.01,
+   "p": 2244.6,
+   "c": -3.44,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 96.63,
-   "c": -3.54,
+   "p": 97.07,
+   "c": -3.39,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.25,
-   "c": -3.08,
+   "p": 1.26,
+   "c": -2.66,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 701.77,
-   "c": -5.95,
+   "p": 702.74,
+   "c": -5.2,
    "k": "usd"
   }
  ],
@@ -384,30 +384,32 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Kalshi, Polymarket Piled On Media Deals Ahead of the Midterms",
-    "tt": "Kalshi ve Polymarket Ara Sınavlar Öncesinde Medya Anlaşmalarına Hazırlanıyor",
-    "s": "Prediction markets have become a growing source of revenue for media companies just ahead of the midterm elections, but not everyone thinks the proliferation of gambling odds in political reporting is a good thing.",
-    "ss": "Tahmin piyasaları, ara seçimler öncesinde medya şirketleri için büyüyen bir gelir kaynağı haline geldi, ancak herkes siyasi habercilikte kumar ihtimalinin çoğalmasının iyi bir şey olduğunu düşünmüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/kalshi-polymarket-piled-on-media-deals-ahead-of-the-midterms",
-    "ts": 1793354400000,
-    "tags": []
-   },
-   {
-    "t": "Tesco Strikes €1.7 Billion Deal to Sell Czech, Slovakia Unit",
-    "tt": "Tesco Çek ve Slovakya Birimini 1,7 Milyar Avroya Satmak İçin Anlaşma Yaptı",
-    "s": "Tesco Plc agreed to sell its supermarket arm in Czech Republic and Slovakia to Ahold Delhaize for an enterprise value of €1.7 billion (£1.5 billion), effectively marking the end of its previous plan to become a global grocery giant.",
-    "ss": "Tesco Plc, Birleşik Krallık'taki ana faaliyetlerine odaklanmaya devam ederken, Çek Cumhuriyeti ve Slovakya'daki süpermarket bölümünü 1,7 milyar Euro (1,5 milyar £) kurumsal değer karşılığında Ahold Delhaize'ye satmayı kabul etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/tesco-strikes-deal-to-sell-czech-slovakia-unit-for-1-7-billion",
-    "ts": 1793346403000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+    "t": "Tech Rout Deepens as Earnings Stoke AI Reckoning: Markets Wrap",
     "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
-    "s": "US stock futures fell for a second day after another round of disappointing tech earnings accelerated a rotation out of the sector amid signs that the core businesses of America’s tech giants are slowing as they pour money into artificial intelligence. Crude oil gained.",
+    "s": "US stock futures fell for a second day as another batch of disappointing tech earnings intensified the sellof in the sector, with investors increasingly questioning the payoff from massive artificial intelligence spending as signs emerge that the core businesses of America’s technology giants are lo",
     "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
     "ts": 1793311676000,
+    "tags": []
+   },
+   {
+    "t": "Dollar’s Rate-Fueled Gain Seen Surviving US Midterm Gridlock",
+    "tt": "Doların Faiz Oranından Kaynaklanan Kazancının ABD'deki Orta Vadedeki Tıkanıklıktan Kurtulduğu Görülüyor",
+    "s": "The dollar’s rally may have enough momentum to shrug off the US midterm election, with high interest rates and a surge in AI-related spending drawing capital even if the vote delivers political gridlock.",
+    "ss": "Doların rallisi, yüksek faiz oranları ve yapay zeka ile ilgili harcamalardaki artışın oylama siyasi çıkmaza yol açsa bile sermaye çekmesi nedeniyle ABD ara seçimlerini umursamamaya yetecek ivmeye sahip olabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
+    "ts": 1793320503000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Exxon and Chevron Beat Estimates as Oil Refining Profits Soar",
+    "tt": "Petrol Rafineri Kârları Yükselirken Exxon ve Chevron Tahminleri Geçti",
+    "s": "ExxonMobil Holdings Corp. and Chevron Corp. beat profit expectations as conflicts in the Persian Gulf and Russia roiled energy markets, driving refining results to record highs.",
+    "ss": "ExxonMobil Holdings Corp. ve Chevron Corp., Basra Körfezi ve Rusya'daki çatışmaların enerji piyasalarını sarsması ve rafineri sonuçlarının rekor seviyelere yükselmesiyle kar beklentilerini aştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
+    "ts": 1793356222000,
     "tags": [
      "Petrol ▲",
      "DXY ▲",
@@ -416,66 +418,76 @@
     ]
    },
    {
-    "t": "Taiwan Stocks Near Correction as Global AI Selloff Deepens",
-    "tt": "Küresel Yapay Zeka Satışları Derinleşirken Tayvan Hisse Senetleri Düzeltmeye Yakın",
-    "s": "Taiwan’s stock benchmark narrowly avoided a technical correction Friday as a deepening global selloff in artificial intelligence shares hit one of the world’s most AI-exposed markets.",
-    "ss": "Yapay zeka hisselerinde derinleşen küresel satışların dünyanın yapay zekaya en çok maruz kalan pazarlarından birini vurmasıyla Tayvan hisse senedi endeksi Cuma günü teknik bir düzeltmeden kıl payı kurtuldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
-    "ts": 1793331295000,
+    "t": "Copper Declines as Tech Selloff, Oil Rally Dent Risk Appetite",
+    "tt": "Bakır, Teknoloji Satışları ve Petroldeki Yükseliş Risk İştahını Azalttıkça Düştü",
+    "s": "Copper slipped on the London Metal Exchange as a selloff in technology stocks and higher oil prices fueled concerns about global growth.",
+    "ss": "Bakır, teknoloji hisselerindeki satışların ve yüksek petrol fiyatlarının küresel büyümeye ilişkin endişeleri artırmasının ardından Londra Metal Borsası'nda değer kaybetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/copper-declines-as-tech-selloff-oil-rally-dent-risk-appetite",
+    "ts": 1793331111000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Exxon Increases Stake in Mozambique Gas Project Via Eni Swap",
+    "tt": "Exxon, Eni Swap Aracılığıyla Mozambik Gaz Projesindeki Payını Artırdı",
+    "s": "ExxonMobil Holdings Corp. increased its stake in the planned Rovuma liquefied natural gas project in Mozambique after a swap with Eni SpA.",
+    "ss": "ExxonMobil Holdings Corp., Eni SpA ile yapılan takasın ardından Mozambik'te planlanan Rovuma sıvılaştırılmış doğal gaz projesindeki hissesini artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
+    "ts": 1793356262000,
     "tags": []
    },
    {
-    "t": "Whistleblowers Claimed Key Oil Tanker Rate Was Manipulated",
-    "tt": "Muhbirler, Önemli Petrol Tankeri Oranının Manipüle Edildiğini İddia Etti",
-    "s": "The Baltic Exchange has received two whistleblowing claims of attempted manipulation of the world’s benchmark tanker rate since the beginning of the war in Iran, according to documents made public as part of a major legal battle with trading house Mercuria Energy Group.",
-    "ss": "Ticaret şirketi Mercuria Energy Group ile yapılan büyük bir hukuki mücadelenin parçası olarak kamuoyuna açıklanan belgelere göre, Baltık Borsası, İran'daki savaşın başlangıcından bu yana dünya tanker oranlarında manipülasyon girişiminde bulunulduğuna dair iki ihbar iddiası aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/mercuria-baltic-case-reveals-claims-tanker-rate-was-manipulated",
-    "ts": 1793303505000,
+    "t": "BP Profit Hits 18-Year High as Oil Refining Margins Surge",
+    "tt": "Petrol Rafineri Marjlarının Artmasıyla BP'nin Kârı 18 Yılın En Yüksek Seviyesine Ulaştı",
+    "s": "BP Plc said profit surged to the highest in 18 years as soaring refining margins boosted earnings, speeding up the energy giant’s efforts to fix its balance sheet and pay down debt.",
+    "ss": "BP Plc, artan rafinaj marjlarının kazançları artırması ve enerji devinin bilançosunu düzeltme ve borçlarını ödeme çabalarını hızlandırmasıyla kârın 18 yılın en yüksek seviyesine çıktığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/bp-profit-surges-as-refining-windfall-aids-o-neill-turnaround",
+    "ts": 1793344091000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Yields Too High to Ignore Lure Investors Back to Longer Debt",
+    "tt": "Getiriler Göz ardı edilemeyecek kadar yüksek Yatırımcıları Daha Uzun Borçlara Döndürüyor",
+    "s": "Long-dated government bonds spent much of the year punishing anyone brave enough to own them. Now yields are high enough that investors are coming back.",
+    "ss": "Uzun vadeli devlet tahvilleri yılın çoğunu bunlara sahip olacak kadar cesur olan herkesi cezalandırmakla geçirdi. Artık getiriler yatırımcıların geri gelmesini sağlayacak kadar yüksek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/yields-too-high-to-ignore-lure-investors-back-to-long-dated-debt",
+    "ts": 1793340000000,
     "tags": []
    },
    {
-    "t": "China’s Mega Banks Report Profit Jumps as Margins Recover",
-    "tt": "Çin'in Mega Bankaları Marjlar İyileştikçe Kârlarının Arttığını Bildiriyor",
-    "s": "China’s mega banks reported their biggest quarterly profit increases in recent years as they reined in bad loans and interest margins recovered from record lows.",
-    "ss": "Çin'in mega bankaları, batık kredileri dizginlemeleri ve faiz marjlarının rekor düşük seviyelerden toparlanmasıyla son yıllardaki en büyük üç aylık kar artışlarını bildirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
-    "ts": 1793350188000,
+    "t": "US Treasuries Gain on Haven Buying After Tech Selloff",
+    "tt": "ABD Hazine Tahvilleri Teknoloji Satışlarından Sonra Haven Alımıyla Kazanç Sağladı",
+    "s": "Treasuries gained on Friday after a selloff in US tech stocks drove investors to the safety of US government debt.",
+    "ss": "Hazine tahvilleri, ABD teknoloji hisselerindeki satışların yatırımcıları ABD devlet borçlarının güvenliğine itmesinin ardından Cuma günü değer kazandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
+    "ts": 1793322822000,
     "tags": []
    },
    {
-    "t": "Bayer Wins Roundup Trial as Settlement Decision Looms",
-    "tt": "Uzlaşma Kararı Yaklaşırken Bayer Toparlama Davasını Kazandı",
-    "s": "Bayer AG won a St. Louis trial over its Roundup weedkiller, defeating claims by three women who blamed the herbicide for their cancers and bolstering its efforts to draw a line under its US litigation overhang.",
-    "ss": "Bayer AG, Roundup yabani ot öldürücüyle ilgili St. Louis davasını kazandı; kanserlerinden ot öldürücüyü sorumlu tutan üç kadının iddialarını boşa çıkardı ve ABD'deki dava çıkıntısının altına bir çizgi çekme çabalarını güçlendirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/bayer-wins-st-louis-roundup-trial-bolstering-settlement-push",
-    "ts": 1793321170000,
+    "t": "South Korea's Latest Viral Youth Trend is Reading Books",
+    "tt": "Güney Kore'nin Son Viral Gençlik Trendi Kitap Okumak",
+    "s": "Why are young people raised on short-form video suddenly reading books in public? Thu-Huong Ha reports on South Korea’s \"texthip\" phenomenon, where reading has become the newest cultural status symbol. (Source: Bloomberg)",
+    "ss": "Neden gençler kısa videolarla büyüyüp birdenbire herkesin önünde kitap okuyorlar? Thu-Huong Ha, okumanın en yeni kültürel statü sembolü haline geldiği Güney Kore'nin \"texthip\" olgusunu anlatıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-30/south-korea-s-latest-viral-youth-trend-is-reading-books-video",
+    "ts": 1793355346000,
     "tags": []
    },
    {
-    "t": "Genmab’s Stellar Cancer-Drug Data Fuels Stock’s $10 Billion Week",
-    "tt": "Genmab'ın Yıldız Kanser İlaç Verileri Hisse Senedinin 10 Milyar Dolarlık Haftasını Güçlendiriyor",
-    "s": "It’s been a breakout week for Danish biotech Genmab A/S.",
-    "ss": "Danimarka biyoteknolojisi Genmab A/S için bir çıkış haftası oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/genmab-s-stellar-cancer-drug-data-fuels-stock-s-10-billion-week",
-    "ts": 1793350912000,
-    "tags": []
-   },
-   {
-    "t": "UK Wins Back Bond Investors With Dose of Fiscal Restraint",
-    "tt": "İngiltere, Bir Doz Mali Kısıtlamayla Tahvil Yatırımcılarını Geri Kazandı",
-    "s": "The rehabilitation of the UK bond market took another step forward as Prime Minister Andy Burnham’s debut budget reassured investors this week, sending yields to a five-week low.",
-    "ss": "İngiltere tahvil piyasasının rehabilitasyonu, Başbakan Andy Burnham'ın ilk bütçesinin bu hafta yatırımcılara güvence vererek getirileri beş haftanın en düşük seviyesine göndermesiyle bir adım daha ileri gitti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/uk-wins-back-bond-investors-with-dose-of-fiscal-restraint",
-    "ts": 1793350088000,
-    "tags": []
-   },
-   {
-    "t": "Bleak Friday Looms for Stocks: Market Analysis",
-    "tt": "Hisse Senetlerine Kasvetli Cuma Geliyor: Piyasa Analizi",
-    "s": "Tom Mackenzie, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "ss": "Tom Mackenzie, Guy Johnson ve Mark Cudmore \"Bloomberg: Açılış Ticareti\"nde analistler ve yatırımcılar için bugünün ana temalarını ayrıntılarıyla anlatıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-30/bleak-friday-looms-for-stocks-3-minutes-mliv-video",
-    "ts": 1793348947000,
+    "t": "Chevron Exceeds Forecasts on Oil Prices, Swollen Fuel-Making Returns",
+    "tt": "Chevron, Petrol Fiyatları ve Artan Yakıt Üretim Getirileri Konusunda Tahminleri Aştı",
+    "s": "Chevron Corp. surpassed analysts’ estimates as high oil prices combined with record US refining margins to lift earnings to the fourth highest in company history.",
+    "ss": "Chevron Corp., yüksek petrol fiyatlarının rekor ABD rafinaj marjlarıyla birleşerek kazançlarını şirket tarihindeki en yüksek dördüncü seviyeye çıkarmasıyla analistlerin tahminlerini aştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-exceeds-forecasts-on-oil-prices-swollen-fuel-making-returns",
+    "ts": 1793355311000,
     "tags": []
    }
   ],
@@ -573,6 +585,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
+    "tt": "İşte Amazon CEO'sunun iki trilyon dolarlık gelir elde etme yolunda ilerlediği iddiasının matematiği",
+    "s": "Amazon chief executive Andy Jassy set a bold target on the conference call announcing third-quarter earnings.",
+    "ss": "Amazon CEO'su Andy Jassy, ​​üçüncü çeyrek kazançlarını açıklayan konferans görüşmesinde cesur bir hedef belirledi.",
+    "u": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
+    "ts": 1793356440000,
+    "tags": []
+   },
+   {
+    "t": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+    "tt": "‘Kalbi kırılmıştı’: Kocamın çocukları ölürken onu terk etti. Her şeyi bana bırakmakta haklı mıydı?",
+    "s": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+    "ss": "\"Sonunda onlara birkaç duygusal hatıra, bazı koleksiyon parçaları ve eski fotoğraflar bıraktı.\"",
+    "u": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+    "ts": 1793355300000,
+    "tags": []
+   },
+   {
     "t": "Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack",
     "tt": "İşte Binance, şimdiye kadarki en büyük 6,3 milyar dolarlık hack olduğuna inanılan olayın ardından yeniden açılmayı planlıyor",
     "s": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
@@ -591,7 +621,7 @@
     "tags": []
    },
    {
-    "t": "‘There’s a lot of hurt between us’: My father’s caregiver is using his debit card for DoorDash orders. What can I do?",
+    "t": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
     "tt": "'Aramızda çok kırgınlık var': Babamın bakıcısı DoorDash siparişleri için banka kartını kullanıyor. Ne yapabilirim?",
     "s": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
     "ss": "\"Yatılı bakıcının ebeveynimin cömertliğinden yararlandığından şüpheleniyorum.\"",
@@ -643,27 +673,32 @@
     "u": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
     "ts": 1793318760000,
     "tags": []
-   },
-   {
-    "t": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-    "tt": "Kilisemizin banka hesabında %3,75 kazanç sağlayan 1,5 milyon dolarlık bir mirası var. Enflasyon bunu aşındırıyor mu?",
-    "s": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-    "ss": "\"Bu hediyenin boyutu ve uzun vadeli doğası göz önüne alındığında, fonların ihtiyatlı bir şekilde yönetildiğinden emin olmak istiyoruz.\"",
-    "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-    "ts": 1793318700000,
-    "tags": []
-   },
-   {
-    "t": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    "tt": "İstismarcı eski kocam çocuklarımızın eğitimi için 20.000 dolar sözü verdi. Şimdi ödemeyi reddediyor. Yasal olarak yükümlü mü?",
-    "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-    "ss": "\"Boşanmadan önce eski kayınvalidem, kızlarımızın her biri adına yatırım yapması için ona 20.000 dolar emanet etti.\"",
-    "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-    "ts": 1793313900000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Brent January Futs Hit New Highs As Oil Market Braces For Post-Midterm Gulf Escalation",
+    "tt": "Petrol Piyasası Orta Vade Sonrası Körfez Artışına Hazırlanırken Brent Ocak Futları Yeni Yüksek Seviyelere Ulaştı",
+    "s": "Brent January Futs Hit New Highs As Oil Market Braces For Post-Midterm Gulf Escalation Brent crude futures tagged $118 a barrel early Friday, touching a six-month high as more attacks on commercial vessels in the Strait of Hormuz and on Saudi energy assets raised concerns about a potential flare-up ",
+    "ss": "Petrol Piyasası Orta Vadeli Körfez Artışına Hazırlanırken Brent Ocak Futları Yeni Zirvelere Ulaştı Brent ham vadeli işlemleri Cuma günü varil başına 118 doları gördü ve Hürmüz Boğazı'ndaki ticari gemilere ve Suudi enerji varlıklarına yönelik saldırıların artmasının potansiyel bir alevlenme endişesini artırmasıyla altı ayın en yüksek seviyesine ulaştı.",
+    "u": "https://www.zerohedge.com/energy/brent-january-futs-hit-new-highs-oil-market-braces-post-midterm-gulf-escalation",
+    "ts": 1793357700000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Nearly 50 Recon/Intel Marines Headed To Guard Undersea Cables In Europe",
+    "tt": "Yaklaşık 50 Recon/Intel Deniz Piyadesi Avrupa'daki Denizaltı Kablolarını Korumaya Gidiyor",
+    "s": "Nearly 50 Recon/Intel Marines Headed To Guard Undersea Cables In Europe Authored by Matt White via Task &amp; Purpose , A team of close to 50 reconnaissance and intelligence-focused Marines are being sent to join a NATO mission that oversees the network of undersea internet cables and pipelines in t",
+    "ss": "Yaklaşık 50 Keşif/Intel Deniz Piyadesi Avrupa'da Denizaltı Kablolarını Korumaya Gidiyor Matt White tarafından Task & Purpose aracılığıyla yazılmıştır. 50'ye yakın keşif ve istihbarat odaklı Deniz Piyadesinden oluşan bir ekip, deniz altı internet kabloları ve boru hatları ağını denetleyen bir NATO misyonuna katılmak üzere gönderiliyor.",
+    "u": "https://www.zerohedge.com/military/nearly-50-reconintel-marines-headed-guard-undersea-cables-europe",
+    "ts": 1793356200000,
+    "tags": []
+   },
    {
     "t": "Key China Copper Gauge Flashes Warning As Mysteel Global Warns Metal Is \"Sold Out Everywhere\"",
     "tt": "Mysteel Global, Metalin \"Her Yerde Tükendiği\" Uyarısında Bulunurken, Key China Bakır Ölçer Uyarı Yanıp Sönüyor",
@@ -735,27 +770,27 @@
     "u": "https://www.zerohedge.com/markets/amateur-prospector-discovers-gold-nugget-worth-150000-australian-outback",
     "ts": 1793329800000,
     "tags": []
-   },
-   {
-    "t": "Lebanese Church Damage & Viral Soldier Photo Prompt Calls For Pope's Intervention",
-    "tt": "Lübnan Kilisesi Hasarı ve Viral Asker Fotoğrafı Papa'nın Müdahale Çağrısını Yaptı",
-    "s": "Lebanese Church Damage &amp; Viral Soldier Photo Prompt Calls For Pope's Intervention Authored by Jason Ditz via AntiWar.com Since invading Lebanon in early March, Israeli officials have tried to frame the war as primarily targeting Lebanon’s Shi'ite population - as a result of attacks by Hezbollah ",
-    "ss": "Lübnan Kilisesi Hasarı ve Viral Asker Fotoğrafı Papa'nın Müdahale Çağrısını Yazan Jason Ditz, AntiWar.com aracılığıyla Mart ayının başında Lübnan'ı işgal etmesinden bu yana, İsrailli yetkililer savaşı, Hizbullah'ın saldırılarının bir sonucu olarak öncelikli olarak Lübnan'ın Şii nüfusunu hedef alan bir çerçeveye oturtmaya çalıştılar.",
-    "u": "https://www.zerohedge.com/geopolitical/lebanese-church-damage-viral-soldier-photo-prompt-calls-popes-intervention",
-    "ts": 1793328300000,
-    "tags": []
-   },
-   {
-    "t": "Ted Cruz Got Something Right On The Iran War",
-    "tt": "Ted Cruz İran Savaşı Konusunda Doğru Bir Şey Anladı",
-    "s": "Ted Cruz Got Something Right On The Iran War \"You’ll see Iran in a couple of weeks, if you don’t mind,\" Trump told a crowd on Tuesday during a rally in Lubbock, referencing plans to potentially renew a major air campaign on Iran. Days away from the midterm elections, and White House officials are st",
-    "ss": "Ted Cruz, İran Savaşı Konusunda Doğru Bir Şey Anladı Trump, Salı günü Lubbock'ta düzenlenen bir miting sırasında kalabalığa, İran'a yönelik büyük bir hava saldırısını potansiyel olarak yenileme planlarına atıfta bulunarak, \"Bir sakıncası yoksa, birkaç hafta içinde İran'ı göreceksiniz\" dedi. Ara seçimlere günler kaldı ve Beyaz Saray yetkilileri gergin",
-    "u": "https://www.zerohedge.com/political/ted-cruz-got-something-right-iran-war",
-    "ts": 1793326800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Bloomberg Businessweek Türkiye'nin 154. sayısı yayında",
+    "tt": null,
+    "s": "Bloomberg Businessweek Türkiye'nin yapay zeka odaklı kapak konusuna sahip yeni sayısı dijital platformlardaki yerini aldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bloomberg-businessweek-turkiye-nin-154-sayisi-yayinda-3792906",
+    "ts": 1793356399000,
+    "tags": []
+   },
+   {
+    "t": "Binance TR: Kripto varlık çekimleri geçici olarak durduruldu",
+    "tt": null,
+    "s": "Kripto varlık piyasasının en büyük siber saldırılarından biriyle karşı karşıya kalan Binance'ın Türkiye biriminden açıklama geldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/binance-tr-kripto-varlik-cekimleri-gecici-olarak-durduruldu-3792904",
+    "ts": 1793354521000,
+    "tags": []
+   },
    {
     "t": "Nagel: AMB gerekirse kararlı adımlar atacak",
     "tt": null,
@@ -826,24 +861,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/trive-dan-faaliyet-izninin-gecici-iptali-icin-basvuru-3792867",
     "ts": 1793346059000,
-    "tags": []
-   },
-   {
-    "t": "Kripto tarihinin en büyük 8 saldırısı",
-    "tt": null,
-    "s": "Kripto para piyasası, tarihinin en büyük siber güvenlik krizlerinden biriyle karşı karşıya. Bybit, Ronin Network ve Coincheck gibi platformların milyarlarca dolarlık saldırılara maruz kaldığı sektörde, bugün Binance'e yönelik yaklaşık 6,3 milyar dolarlık güvenlik ihlali gündeme oturdu. Saldırının bo",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kripto-tarihinin-en-buyuk-8-saldirisi-3792866",
-    "ts": 1793345270000,
-    "tags": []
-   },
-   {
-    "t": "Beyaz eşya sektöründe ihracat ve üretimde daralma sürdü",
-    "tt": null,
-    "s": "Beyaz eşya sektöründe 2026 yılının ilk dokuz ayında 6 ana ürün grubunda ihracat geçen yılın aynı dönemine göre yüzde 17 azalarak 12,6 milyon adede gerilerken, üretim yüzde 11 düşüşle 19,8 milyon adet olarak gerçekleşti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/beyaz-esya-sektorunde-ihracat-ve-uretimde-daralma-surdu-3792861",
-    "ts": 1793344397000,
     "tags": []
    }
   ]
