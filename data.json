@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T00:28:13.865081+00:00",
+ "generated": "2026-10-30T01:37:32.643934+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4023.6,
-   "c": -0.69,
-   "d": -28.0,
+   "p": 4020.1,
+   "c": -0.78,
+   "d": -31.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.045,
-   "c": -2.64,
-   "d": -1.412,
+   "p": 51.58,
+   "c": -3.51,
+   "d": -1.877,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.74,
-   "c": -0.04,
-   "d": -0.04,
+   "p": 102.79,
+   "c": 0.01,
+   "d": 0.01,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.45,
-   "c": -3.36,
-   "d": -3.87,
+   "p": 111.64,
+   "c": -3.19,
+   "d": -3.68,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.852,
-   "c": -0.33,
-   "d": -0.338,
+   "p": 101.622,
+   "c": -0.41,
+   "d": -0.418,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.8869,
-   "c": 0.12,
-   "d": 0.057,
+   "p": 49.9231,
+   "c": 0.19,
+   "d": 0.094,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 76993,
-   "c": -5.13,
+   "p": 76917,
+   "c": -4.55,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2211.49,
-   "c": -6.12,
+   "p": 2203.7,
+   "c": -5.57,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 93.37,
-   "c": -8.65,
+   "p": 94.18,
+   "c": -6.84,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.22,
-   "c": -8.03,
+   "p": 1.21,
+   "c": -7.63,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 684.02,
-   "c": -9.94,
+   "p": 697.07,
+   "c": -7.34,
    "k": "usd"
   }
  ],
@@ -384,21 +384,68 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Treasuries Extend Rally With Global Peers on Tech Stock Selloff",
+    "tt": null,
+    "s": "A rally in Treasuries gathered pace in Asia on Friday as a selloff in US tech stocks drove investors to the safety of US government debt.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
+    "ts": 1793322822000,
+    "tags": []
+   },
+   {
+    "t": "Stock Selloff Deepens on Tech Earnings, Bonds Rise: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
+    "s": "Technology shares led a global stock selloff as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets. Treasuries rallied.",
+    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793311676000,
+    "tags": []
+   },
+   {
+    "t": "Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks",
+    "tt": null,
+    "s": "Asian chip stocks are taking another hit from US tech earnings, with Intel Corp.’s weak outlook raising concerns about semiconductor demand while Amazon.com Inc.’s post-results slump further sours sentiment toward the AI trade.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks",
+    "ts": 1793319656000,
+    "tags": []
+   },
+   {
+    "t": "Bayer Wins St. Louis Roundup Trial, Bolstering Settlement Push",
+    "tt": null,
+    "s": "A jury in St. Louis rejected claims by three women who blamed Bayer AG’s Roundup weedkiller for their cancers, bolstering the company’s effort to contain the cost of tens of thousands of similar lawsuits in the US that it has offered to settle.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/bayer-wins-st-louis-roundup-trial-bolstering-settlement-push",
+    "ts": 1793321170000,
+    "tags": []
+   },
+   {
+    "t": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+    "tt": null,
+    "s": "Gold steadied near $4,000 an ounce, and was on track for a second monthly loss, as energy-led inflation raised the prospects for a US rate increase before year-end.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+    "ts": 1793316726000,
+    "tags": []
+   },
+   {
+    "t": "Dollar’s Rate-Fueled Rally Set to Ride Out US Midterm Gridlock",
+    "tt": null,
+    "s": "The dollar’s rally may have enough momentum to shrug off the US midterm election, with high interest rates and a surge in AI-related spending drawing capital even if the vote delivers political gridlock.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
+    "ts": 1793320503000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Oct. 30",
     "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
     "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
     "ss": "Petrol, ABD'nin İran'a karşı askeri saldırılara yeniden başlayabileceği ve bölgede enerji akışına zarar verebilecek yeni türbülans riskine yol açabileceği işaretleri üzerine yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
     "ts": 1793311337000,
-    "tags": []
-   },
-   {
-    "t": "Big Tech’s Deepening AI Funding Concerns Sink Asian Chip Stocks",
-    "tt": null,
-    "s": "A crucial earnings season for the fate of the artificial intelligence trade is falling flat, fueling stock losses in global chipmakers as worries mount over soaring costs and the durability of demand.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks",
-    "ts": 1793319656000,
     "tags": []
    },
    {
@@ -420,63 +467,12 @@
     "tags": []
    },
    {
-    "t": "Nasdaq Futures Fall as Tech Struggles on Earnings: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
-    "s": "Technology stocks sold off for a second straight session as another round of disappointing earnings fueled a rotation out of the artificial intelligence trade, with heavy spending raising doubts about returns from those investments.",
-    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793311676000,
-    "tags": []
-   },
-   {
     "t": "Hong Kong Stocks Lose a Key Backer as Chinese Investors Head for Exit",
     "tt": null,
     "s": "Chinese investors are pulling back from Hong Kong’s stocks at the fastest pace in more than five years, threatening to deepen a selloff.",
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-10-30/hk-stocks-lose-a-key-backer-as-chinese-investors-head-for-exit",
     "ts": 1793318400000,
-    "tags": []
-   },
-   {
-    "t": "Philippine Bonds Are Most Exposed in Emerging Asia to Fed Hikes",
-    "tt": null,
-    "s": "Philippine bonds are the most vulnerable in emerging Asia to a hawkish Federal Reserve, according to an analysis by Bloomberg.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-bonds-are-most-exposed-in-emerging-asia-to-fed-hikes",
-    "ts": 1793318400000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Topix Overhaul Kicks Off: Three Things Investors Need to Know",
-    "tt": null,
-    "s": "Japan Exchange Group Inc.’s first large-scale reshuffle of the Topix Index goes into effect Friday, part of the biggest overhaul in the benchmark’s history that may shrink the number of constituents by more than one-third.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/topix-overhaul-kicks-off-three-things-investors-need-to-know",
-    "ts": 1793318214000,
-    "tags": []
-   },
-   {
-    "t": "PAG Agrees to Buy China Evergrande Unit for $514 Million",
-    "tt": null,
-    "s": "Private equity firm PAG has agreed to buy a majority stake in Evergrande Property Services Group Ltd. for HK$4.03 billion ($514 million), according to a Hong Kong stock exchange filing, confirming a previous Bloomberg report.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/pag-agrees-to-buy-china-evergrande-unit-for-514-million",
-    "ts": 1793317981000,
-    "tags": []
-   },
-   {
-    "t": "Air Canada Reduces Profit Outlook Again on Jet Fuel Costs",
-    "tt": "Air Canada, Jet Yakıtı Maliyetlerinde Kâr Görünümünü Yine Düşürdü",
-    "s": "Air Canada slashed its full-year guidance for the second quarter in a row as high jet fuel prices proved worse than the country’s biggest airline expected.",
-    "ss": "Air Canada, yüksek jet yakıtı fiyatlarının ülkenin en büyük havayolunun beklediğinden daha kötü olması nedeniyle üst üste ikinci çeyrek için tüm yıl tahminini düşürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
-    "ts": 1793307810000,
     "tags": []
    }
   ],
@@ -666,6 +662,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Kathleen Kennedy Named Head Of Ceremonies For 2028 Olympics",
+    "tt": null,
+    "s": "Kathleen Kennedy Named Head Of Ceremonies For 2028 Olympics The 2028 Olympic Summer Games are slated to be held in Los Angeles, California - An event they have not hosted since 1984. &nbsp;It's not surprising that the city, currently in the midst of an entertainment industry decline, is desperate to",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/kathleen-kennedy-named-head-ceremonies-2028-olympics",
+    "ts": 1793323800000,
+    "tags": []
+   },
+   {
+    "t": "CDC Issues Emergency Response Over Dengue Surge In Florida",
+    "tt": null,
+    "s": "CDC Issues Emergency Response Over Dengue Surge In Florida Authored by Zachary Stieber via The Epoch Times , The Centers for Disease Control and Prevention has launched an emergency response to the surge in Florida of cases of dengue , a disease caused by a mosquito-borne virus, the agency confirmed",
+    "ss": null,
+    "u": "https://www.zerohedge.com/medical/cdc-issues-emergency-response-over-dengue-surge-florida",
+    "ts": 1793322300000,
+    "tags": []
+   },
+   {
+    "t": "RFK Goes Off On Muslims And The Media Is Outraged",
+    "tt": null,
+    "s": "RFK Goes Off On Muslims And The Media Is Outraged Robert F. Kennedy Jr.’s remarks at a Republican campaign rally in Grand Rapids have caused a media firestorm , in large part because his Democrat background gives extra sting to his recent criticisms of Islamic culture. In liberal and independent wes",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/rfk-goes-muslims-and-media-outraged",
+    "ts": 1793320800000,
+    "tags": []
+   },
+   {
     "t": "Texas Federal Judge Told Lawyer He Was Intimidated By \"Black Excellence\" In Light Of His \"White Mediocrity\"",
     "tt": null,
     "s": "Texas Federal Judge Told Lawyer He Was Intimidated By \"Black Excellence\" In Light Of His \"White Mediocrity\" A federal judge in Dallas told a Latino lawyer he was \"very intimidated for some reason, Mr. Young, with Black excellence, in light of your White mediocrity,\" according to the April 24 hearing",
@@ -726,33 +749,6 @@
     "ss": "Trump, Eski Düşmanın Yeniden Ortaya Çıkmasıyla İlhan Omar'ın Garantili Mücadelesinde Entrikayla Karşı Karşıya; Ve Obama'nın FBI'ı Ne Biliyor? Başkan Donald Trump'ın bir zamanlar \"Radikal Sol Deli\" olarak damgaladığı ve görevden alınmasını talep ettiği, Obama tarafından atanan yargıç, şimdi halkın hangi federal ajanı görüp göremeyeceğine karar vermekle görevlendirildi.",
     "u": "https://www.zerohedge.com/political/trump-faces-plot-twist-ilhan-omar-warrant-fight-old-foe-reemerges-and-what-did-obamas-fbi",
     "ts": 1793311300000,
-    "tags": []
-   },
-   {
-    "t": "Woke California Bakery In Business For 50 Years Shuts Down",
-    "tt": "50 Yıldır Faaliyet Gösteren California Fırını Woke Kapandı",
-    "s": "Woke California Bakery In Business For 50 Years Shuts Down If woke businesses can't survive in Berkeley, California, then they can't survive anywhere. &nbsp;It's a lesson learned far too late for many companies over the past few years as American society continues to shift away from progressive ideo",
-    "ss": "50 Yıldır Faaliyet Gösteren Kaliforniya Fırını Woke Kapanıyor Eğer uyanan işletmeler Kaliforniya, Berkeley'de hayatta kalamıyorsa, o zaman hiçbir yerde hayatta kalamazlar.  Bu, Amerikan toplumunun ilerici ideolojiden uzaklaşmaya devam etmesi nedeniyle son birkaç yılda pek çok şirket için çok geç öğrenilen bir derstir.",
-    "u": "https://www.zerohedge.com/political/woke-california-bakery-business-50-years-shuts-down",
-    "ts": 1793311200000,
-    "tags": []
-   },
-   {
-    "t": "Tax The Rich: The Promise That Leaves The Middle Class Paying The Bill",
-    "tt": "Zenginlere Vergi: Orta Sınıfın Faturayı Ödemesine İzin Veren Vaat",
-    "s": "Tax The Rich: The Promise That Leaves The Middle Class Paying The Bill Authored by Christian Vezilj via American Thinker , For more than sixty years, I have listened to politicians repeat the same familiar promise: tax the rich . Every election cycle, the message returns, wrapped in new slogans and ",
-    "ss": "Zenginlere Vergi: Orta Sınıfı Faturayı Ödemeye Bırakan Vaat Christian Vezilj tarafından American Thinker aracılığıyla yazılmıştır. Altmış yıldan fazla bir süredir politikacıların aynı bildik vaadi tekrarladıklarını dinledim: zenginleri vergilendirin. Her seçim döngüsünde mesaj yeni sloganlarla sarılmış olarak geri döner ve",
-    "u": "https://www.zerohedge.com/political/tax-rich-promise-leaves-middle-class-paying-bill",
-    "ts": 1793310000000,
-    "tags": []
-   },
-   {
-    "t": "Teachers Unions Spent More Than $930 Million On Political Activism & Lobbying Over Decade, Watchdog Finds",
-    "tt": "Watchdog, Öğretmen Sendikalarının On Yıl Boyunca Siyasi Aktivizm ve Lobi Faaliyetlerine 930 Milyon Dolardan Fazla Harcadığını Belirledi",
-    "s": "Teachers Unions Spent More Than $930 Million On Political Activism &amp; Lobbying Over Decade, Watchdog Finds Authored by AG News Staff via American Greatness , Two of America's largest teachers unions spent more than $930 million on political activism, lobbying and progressive advocacy over the pas",
-    "ss": "Öğretmen Sendikaları On Yıl Boyunca Siyasi Aktivizm ve Lobicilik İçin 930 Milyon Dolardan Fazla Harcadı, Watchdog Bulguları AG News Staff tarafından American Greatness aracılığıyla yazılmıştır. Amerika'nın en büyük öğretmen sendikalarından ikisi, geçtiğimiz yıl boyunca siyasi aktivizm, lobicilik ve ilerici savunuculuk için 930 milyon dolardan fazla harcadı",
-    "u": "https://www.zerohedge.com/political/teachers-unions-spent-more-930-million-political-activism-lobbying-over-decade-watchdog",
-    "ts": 1793307600000,
     "tags": []
    }
   ],
