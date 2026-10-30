@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T05:19:38.215212+00:00",
+ "generated": "2026-10-30T06:02:17.075273+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4008.3,
+   "p": 4008.6,
    "c": -0.57,
-   "d": -23.1,
+   "d": -22.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.5,
-   "c": -1.32,
-   "d": -0.691,
+   "p": 51.36,
+   "c": -1.59,
+   "d": -0.831,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.96,
-   "c": 0.94,
-   "d": 0.96,
+   "p": 103.42,
+   "c": 1.39,
+   "d": 1.42,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 111.97,
-   "c": -2.53,
-   "d": -2.91,
+   "p": 112.38,
+   "c": -2.18,
+   "d": -2.5,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.815,
-   "c": -0.22,
-   "d": -0.225,
+   "p": 101.841,
+   "c": -0.2,
+   "d": -0.199,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9354,
-   "c": 0.21,
-   "d": 0.106,
+   "p": 49.9447,
+   "c": 0.23,
+   "d": 0.115,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 78463,
-   "c": -2.37,
+   "p": 78446,
+   "c": -2.12,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2245.4,
-   "c": -3.59,
+   "p": 2237.06,
+   "c": -3.66,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 97.7,
-   "c": -2.83,
+   "p": 97.9,
+   "c": -2.34,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.26,
-   "c": -3.37,
+   "c": -3.31,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 717.71,
-   "c": -5.17,
+   "p": 715.29,
+   "c": -5.2,
    "k": "usd"
   }
  ],
@@ -384,46 +384,88 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Ather CEO Says EV Demand Is Outstripping Supply in India",
-    "tt": null,
-    "s": "Ather Energy co-founder and CEO Tarun Mehta joined Insight with Haslinda Amin to discuss why electric-scooter demand is outpacing supply in India and how Ather plans to expand capacity. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-30/ather-ceo-says-ev-demand-is-outstripping-supply-in-india-video",
-    "ts": 1793337497000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Oct. 30",
-    "tt": null,
-    "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
-    "ts": 1793311337000,
-    "tags": []
+    "t": "Philippine Bonds Most Exposed in Emerging Asia to Fed Hikes",
+    "tt": "Gelişmekte olan Asya'da Fed'in Artışlarına En Çok Maruz Kalan Filipin Tahvilleri",
+    "s": "Philippine bonds are the most vulnerable in emerging Asia to a hawkish Federal Reserve, according to an analysis by Bloomberg.",
+    "ss": "Bloomberg tarafından yapılan bir analize göre, Filipin tahvilleri gelişmekte olan Asya'da şahin Fed'e karşı en savunmasız tahviller arasında yer alıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-bonds-are-most-exposed-in-emerging-asia-to-fed-hikes",
+    "ts": 1793318400000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    },
    {
     "t": "Tech Stock Selloff Deepens on Earnings, Bonds Rise: Markets Wrap",
     "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
-    "s": "Technology shares sold for a second consecutive day as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil gained.",
+    "s": "Technology shares sold off for a second consecutive day as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil gained.",
     "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
     "ts": 1793311676000,
     "tags": []
    },
    {
-    "t": "Britain Tests the Limits With Plan to Tax Its Way Out of Debt",
-    "tt": null,
-    "s": "Britain was singled out for praise by the International Monetary Fund this month for the boldest deficit-reduction plan of any Group of Seven nation. Bolder still is its decision to deliver the whole squeeze with higher taxes, with economists warning that Chancellor of the Exchequer John Healey is p",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/britain-tests-the-limits-with-plan-to-tax-its-way-out-of-debt",
-    "ts": 1793336400000,
+    "t": "Yields Too High to Ignore Lure Investors Back to Long-Dated Debt",
+    "tt": "Getiriler Gözardı Edilemeyecek Kadar Yüksek Yatırımcıları Uzun Vadeli Borca Döndürüyor",
+    "s": "Long-dated government bonds spent much of the year punishing anyone brave enough to own them. Now yields are high enough that investors are coming back.",
+    "ss": "Uzun vadeli devlet tahvilleri yılın çoğunu bunlara sahip olacak kadar cesur olan herkesi cezalandırmakla geçirdi. Artık getiriler yatırımcıların geri gelmesini sağlayacak kadar yüksek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/yields-too-high-to-ignore-lure-investors-back-to-long-dated-debt",
+    "ts": 1793340000000,
+    "tags": []
+   },
+   {
+    "t": "Estimated $6.3 Billion Hacked in Binance Security Breach",
+    "tt": "Binance Güvenlik İhlalinde Tahmini 6,3 Milyar Dolar Hacklendi",
+    "s": "Binance, the world’s largest crypto exchange, said $6.3 billion of funds have been impacted in what the industry is describing as crypto’s biggest-ever hack. (Source: Bloomberg)",
+    "ss": "Dünyanın en büyük kripto borsası Binance, sektörün kriptonun şimdiye kadarki en büyük hacklemesi olarak tanımladığı olaydan 6,3 milyar dolarlık fonun etkilendiğini söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-30/estimated-6-3-billion-hacked-in-binance-security-breach-video",
+    "ts": 1793339457000,
+    "tags": []
+   },
+   {
+    "t": "Japanese Stocks Signal Confidence Over Faster BOJ ETF Sales",
+    "tt": "Japon Hisse Senetleri Daha Hızlı BOJ ETF Satışlarına İlişkin Güven Sinyali Veriyor",
+    "s": "Japanese equities shrugged off the Bank of Japan’s surprise move to accelerate selling of its massive holdings of exchange-traded funds, as investors showed confidence in the market’s ability to absorb the extra supply.",
+    "ss": "Japon hisse senetleri, yatırımcıların piyasanın ekstra arzı absorbe etme kabiliyetine güven duymasıyla, Japonya Merkez Bankası'nın devasa miktardaki borsada işlem gören fonlarının satışını hızlandırmaya yönelik sürpriz hamlesini umursamadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/japanese-stocks-signal-confidence-over-faster-boj-etf-sales",
+    "ts": 1793339304000,
+    "tags": []
+   },
+   {
+    "t": "Jio Keeps Ambani Magic Alive as Investors Await Earnings",
+    "tt": "Yatırımcılar Kazançları Beklerken Jio, Ambani Sihrini Canlı Tutuyor",
+    "s": "Jio Platforms’ strong post-listing performance may continue in the coming weeks, supported by limited competition in India’s telecom market. Investors now look for cues from the company's second-quarter earnings on Friday. Menaka Doshi explains. (Source: Bloomberg)",
+    "ss": "Jio Platforms'un listeleme sonrası güçlü performansı, Hindistan telekom pazarındaki sınırlı rekabetin desteğiyle önümüzdeki haftalarda da devam edebilir. Yatırımcılar şimdi şirketin Cuma günkü ikinci çeyrek kazançlarından ipuçları arıyor. Menaka Doshi açıklıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-30/jio-keeps-ambani-magic-alive-as-investors-await-earnings-video",
+    "ts": 1793338233000,
+    "tags": []
+   },
+   {
+    "t": "Ather CEO Says EV Demand Is Outstripping Supply in India",
+    "tt": "Ather CEO'su Hindistan'da Elektrikli Araç Talebinin Arzı Geride Bıraktığını Söyledi",
+    "s": "Ather Energy co-founder and CEO Tarun Mehta joined Insight with Haslinda Amin to discuss why electric-scooter demand is outpacing supply in India and how Ather plans to expand capacity. (Source: Bloomberg)",
+    "ss": "Ather Energy kurucu ortağı ve CEO'su Tarun Mehta, Hindistan'da elektrikli scooter talebinin neden arzı geride bıraktığını ve Ather'in kapasiteyi nasıl artırmayı planladığını tartışmak üzere Insight'a Haslinda Amin ile katıldı. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-30/ather-ceo-says-ev-demand-is-outstripping-supply-in-india-video",
+    "ts": 1793337497000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 30",
+    "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
+    "ss": "Petrol, ABD'nin İran'a karşı askeri saldırılara yeniden başlayabileceği ve bölgede enerji akışına zarar verebilecek yeni türbülans riskine yol açabileceği işaretleri üzerine yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+    "ts": 1793311337000,
     "tags": []
    },
    {
     "t": "Big Tech Earnings Stoke Fresh Unease Across Asian Chip Stocks",
-    "tt": null,
+    "tt": "Büyük Teknoloji Kazançları Asya Chip Hisselerinde Yeni Rahatsızlıklara Yol Açtı",
     "s": "Asian chip stocks are taking another hit from US tech earnings, with Intel Corp.’s weak outlook raising concerns about semiconductor demand while Amazon.com Inc.’s post-results slump further sours sentiment toward the AI trade.",
-    "ss": null,
+    "ss": "Asya çip hisseleri ABD teknoloji kazançlarından bir darbe daha alırken, Intel Corp.'un zayıf görünümü yarı iletken talebine ilişkin endişeleri artırırken, Amazon.com Inc.'in post-sonuçları yapay zeka ticaretine yönelik hissiyatı daha da kötüleştiriyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-deepening-ai-funding-concerns-sink-asian-chip-stocks",
     "ts": 1793319656000,
     "tags": []
@@ -438,42 +480,6 @@
     "tags": [
      "DXY ▲"
     ]
-   },
-   {
-    "t": "Iron Ore Heads for Lowest Month-End Close Since October 2022",
-    "tt": "Demir Cevheri Ekim 2022'den Bu Yana En Düşük Ay Sonu Kapanışına Gidiyor",
-    "s": "Iron ore futures in Singapore headed for the lowest month-end close in four years, as ample global supplies and elevated Chinese port stockpiles curbed demand.",
-    "ss": "Singapur'da demir cevheri vadeli işlemleri, küresel arzın bolluğu ve Çin limanlarında artan stokların talebi kısıtlamasıyla dört yılın en düşük ay sonu kapanışına yöneldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022",
-    "ts": 1793333601000,
-    "tags": []
-   },
-   {
-    "t": "Chinese Investors Seek Shelter in Long-Bond ETFs as Stocks Sink",
-    "tt": "Hisse senetleri batarken Çinli yatırımcılar uzun tahvil ETF'lerine sığındı",
-    "s": "Chinese investors are piling into exchange-traded funds tracking longer-dated government bonds, seeking shelter in a rallying debt market while local stocks keep sliding.",
-    "ss": "Çinli yatırımcılar, yerel hisse senetleri düşmeye devam ederken, yükselen bir borç piyasasına sığınmak için uzun vadeli devlet tahvillerini takip eden borsada işlem gören fonlara akın ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-investors-seek-shelter-in-long-bond-etfs-as-stocks-sink",
-    "ts": 1793325621000,
-    "tags": []
-   },
-   {
-    "t": "African Export-Import Bank Mulls First Offshore Yuan Loan",
-    "tt": null,
-    "s": "African Export-Import Bank is planning a $1 billion syndicated loan that could include an offshore yuan tranche, according to people familiar with the matter, in what would be its first foray into the offshore renminbi market amid growing China-Africa trade ties.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/african-export-import-bank-mulls-first-offshore-yuan-loan",
-    "ts": 1793333375000,
-    "tags": []
-   },
-   {
-    "t": "Taiwan Stocks Heads for Correction as Global AI Selloff Deepens",
-    "tt": "Tayvan Hisse Senetleri Küresel Yapay Zeka Satışları Derinleştikçe Düzeltmeye Gidiyor",
-    "s": "Taiwan’s stock benchmark is on the verge of entering into a technical correction as the global selloff in artificial intelligence stocks deepens.",
-    "ss": "Yapay zeka hisselerindeki küresel satışlar derinleştikçe Tayvan hisse senedi endeksi teknik düzeltmeye girmenin eşiğinde.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
-    "ts": 1793331295000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -662,6 +668,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Trump Talks Peace While The CIA Is Fueling The War In Ukraine",
+    "tt": "CIA Ukrayna'daki savaşı körüklerken Trump barıştan bahsediyor",
+    "s": "Trump Talks Peace While The CIA Is Fueling The War In Ukraine Authored by Larry C. Johnson via Sonar21 , I spent enough years at the Central Intelligence Agency that I learned how to read the press stories that the agency's friends place for it. Shane Harris's new profile of CIA Director John Ratcli",
+    "ss": "CIA Ukrayna'daki Savaşı Körüklerken Trump Barıştan Bahsediyor Larry C. Johnson tarafından Sonar21 aracılığıyla yazıldı. Merkezi İstihbarat Teşkilatında yeterince yıl geçirdim ve teşkilatın arkadaşlarının onun için hazırladığı basın haberlerini nasıl okuyacağımı öğrendim. Shane Harris'in CIA Direktörü John Ratcli'nin yeni profili",
+    "u": "https://www.zerohedge.com/geopolitical/trump-talks-peace-while-cia-fueling-war-ukraine",
+    "ts": 1793340000000,
+    "tags": []
+   },
+   {
     "t": "The Non-Obvious Anatomy Of A Slow Collapse: How Economic Decline Reshapes Nations, Concentrates Wealth, And Paves The Way For A New Order",
     "tt": "Yavaş Bir Çöküşün Açık Olmayan Anatomisi: Ekonomik Gerileme Milletleri Nasıl Yeniden Şekillendiriyor, Zenginliği Nasıl Yoğunlaştırıyor ve Yeni Bir Düzenin Yolunu Açıyor",
     "s": "The Non-Obvious Anatomy Of A Slow Collapse: How Economic Decline Reshapes Nations, Concentrates Wealth, And Paves The Way For A New Order Authored by Milan Adams via Preppgroup , Debt is a promise dressed as a number, and the rich world has spent four decades making promises its productive capacity ",
@@ -741,18 +756,36 @@
     "u": "https://www.zerohedge.com/political/texas-federal-judge-told-lawyer-he-was-intimidated-black-excellence-light-his-white",
     "ts": 1793319300000,
     "tags": []
-   },
-   {
-    "t": "Texas Children's Hospital Opens Nation's First Detransition Clinic Following Paxton Settlement",
-    "tt": "Teksas Çocuk Hastanesi, Paxton Yerleşiminin Ardından Ülkenin İlk Geçiş Kliniğini Açtı",
-    "s": "Texas Children's Hospital Opens Nation's First Detransition Clinic Following Paxton Settlement Authored by AG News Staff via American Greatness , Texas Attorney General Ken Paxton announced that Texas Children's Hospital has opened what his office calls the nation's first detransition clinic , fulfi",
-    "ss": "Teksas Çocuk Hastanesi, Paxton Anlaşmasının Ardından Ülkenin İlk Geçiş Kliniği Açtı AG Haber Personeli tarafından American Greatness aracılığıyla yazılmıştır, Teksas Başsavcısı Ken Paxton, Teksas Çocuk Hastanesi'nin ofisinin ülkenin ilk geçiş kliniği olarak adlandırdığı kliniği açtığını duyurdu, fulfi",
-    "u": "https://www.zerohedge.com/political/texas-childrens-hospital-opens-nations-first-detransition-clinic-following-paxton",
-    "ts": 1793316300000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Küresel piyasalarda rotasyon eğilimi",
+    "tt": null,
+    "s": "Intel ve Amazon'un beklentileri karşılamayan geleceğe ilişkin tahminleri teknoloji hisselerindeki satışları derinleştirirken, yatırımcılar büyük teknoloji şirketlerinin hızla artan yapay zeka harcamalarının ne zaman karşılık vereceğini sorguluyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-rotasyon-egilimi-3792827",
+    "ts": 1793340000000,
+    "tags": []
+   },
+   {
+    "t": "Dolarda direnç beklentisi",
+    "tt": null,
+    "s": "ABD'de ara seçimler öncesi yüksek faiz ve yapay zeka yatırımlarının doları desteklemeyi sürdürmesi bekleniyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dolarda-direnc-beklentisi-3792825",
+    "ts": 1793338892000,
+    "tags": []
+   },
+   {
+    "t": "Teknolojide yapay zeka harcamaları baskı yaratıyor",
+    "tt": null,
+    "s": "Teknoloji hisselerindeki satışlar cuma günü derinleşti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/teknolojide-yapay-zeka-harcamalari-baski-yaratiyor-3792824",
+    "ts": 1793338891000,
+    "tags": []
+   },
    {
     "t": "Altın petrol ve enflasyon baskısıyla 4 bin doların altına geriledi",
     "tt": null,
@@ -790,7 +823,7 @@
     "tags": []
    },
    {
-    "t": "Kripto para borsası Binance'te siber saldırı şüphesi: 2,54 milyar dolarlık varlık donduruldu",
+    "t": "Kripto varlık piyasasında Binance depremi",
     "tt": null,
     "s": "Kripto para borsası Binance, olası bir güvenlik sorununa ilişkin inceleme sürerken dondurulan varlıkların doğrulanmış toplam tutarının 2,54 milyar dolar olduğunu bildirdi.",
     "ss": null,
@@ -815,33 +848,6 @@
     "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-30-ekim-2026-3792815",
     "ts": 1793329854000,
     "tags": []
-   },
-   {
-    "t": "Amazon'da satış arttı kâr azaldı",
-    "tt": null,
-    "s": "ABD'li e-ticaret devi Amazon'un net satışları, bu yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 12 artarken net kârı yüzde 2,4 azaldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/amazon-da-satis-artti-kr-azaldi-3792814",
-    "ts": 1793310943000,
-    "tags": []
-   },
-   {
-    "t": "Resmi Gazete'de bugün (29.10.2026)",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-29102026-3792813",
-    "ts": 1793308569000,
-    "tags": []
-   },
-   {
-    "t": "Yapı denetiminde üç il için yeni düzenleme",
-    "tt": null,
-    "s": "Resmî Gazete'de yayımlanan düzenlemeyle Antalya, Kocaeli ve Balıkesir'de yapı denetim kuruluşlarının görevlendirilmesine ilişkin bölgesel esaslar değiştirildi. Kocaeli iki, Balıkesir üç bölgeye ayrılırken, yapı denetim şirketlerine merkezlerinin bulunduğu bölge dışında görev almama talebinde bulunma",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yapi-denetiminde-uc-il-icin-yeni-duzenleme-3792812",
-    "ts": 1793308263000,
-    "tags": []
    }
   ]
  },
@@ -857,7 +863,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
