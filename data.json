@@ -1,67 +1,67 @@
 {
- "generated": "2026-10-30T13:11:15.279629+00:00",
+ "generated": "2026-10-30T14:11:43.296246+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7720.39,
-   "c": -0.3,
-   "d": -23.59,
+   "p": 7618.75,
+   "c": -1.32,
+   "d": -101.64,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 26184.725,
-   "c": -1.38,
-   "d": -365.125,
+   "p": 25583.764,
+   "c": -2.3,
+   "d": -600.957,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52342.56,
-   "c": -0.25,
-   "d": -132.542,
+   "p": 52046.33,
+   "c": -0.57,
+   "d": -296.229,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 18.69,
-   "c": 8.66,
-   "d": 1.49,
+   "p": 18.95,
+   "c": 10.17,
+   "d": 1.75,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3960.7,
-   "c": -1.75,
-   "d": -70.7,
+   "p": 3929.8,
+   "c": -2.52,
+   "d": -101.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.07,
-   "c": -4.06,
-   "d": -2.121,
+   "p": 49.475,
+   "c": -5.2,
+   "d": -2.716,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 103.79,
-   "c": 1.75,
-   "d": 1.79,
+   "p": 104.3,
+   "c": 2.25,
+   "d": 2.3,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 112.97,
-   "c": -1.66,
-   "d": -1.91,
+   "p": 113.53,
+   "c": -1.18,
+   "d": -1.35,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.831,
-   "c": -0.2,
-   "d": -0.209,
+   "p": 102.011,
+   "c": -0.03,
+   "d": -0.029,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9426,
-   "c": 0.23,
-   "d": 0.113,
+   "p": 49.9245,
+   "c": 0.19,
+   "d": 0.095,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10937.62,
-   "c": -2.04,
-   "d": -227.78,
+   "p": 10935.56,
+   "c": -2.06,
+   "d": -229.84,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77262,
-   "c": -3.46,
+   "p": 76842,
+   "c": -4.23,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2228.68,
-   "c": -4.1,
+   "p": 2220.08,
+   "c": -4.4,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 96.55,
-   "c": -3.98,
+   "p": 94.76,
+   "c": -5.7,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.24,
-   "c": -3.75,
+   "c": -4.17,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 699.61,
-   "c": -5.53,
+   "p": 696.12,
+   "c": -6.25,
    "k": "usd"
   }
  ],
@@ -384,49 +384,65 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Employment Costs Trail Inflation for Second Straight Quarter",
-    "tt": "ABD İstihdam Maliyetleri Üst Üste İkinci Çeyrekte Enflasyonu Takip Ediyor",
-    "s": "US labor costs grew slower than inflation for a second straight quarter, the latest sign that rising prices are squeezing Americans’ budgets.",
-    "ss": "ABD'de işgücü maliyetleri art arda ikinci çeyrekte enflasyondan daha yavaş arttı; bu, artan fiyatların Amerikalıların bütçelerini sıkıştırdığının son işareti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/us-employment-cost-growth-holds-steady-stays-below-inflation",
-    "ts": 1793363577000,
+    "t": "Gold Slumps to Lowest in a Year on Inflation, Tech-Stock Rout",
+    "tt": "Altın Enflasyon ve Teknoloji Hisselerinin Çöküşüyle ​​Son Bir Yılın En Düşük Seviyesine Düştü",
+    "s": "Gold tumbled to the lowest in a year as rising oil prices added to inflationary pressures while traders sold the precious metal to cover losses elsewhere amid a global tech-stock rout.",
+    "ss": "Altın, artan petrol fiyatlarının enflasyonist baskıları artırmasıyla bir yılın en düşük seviyesine gerilerken, tüccarlar küresel teknoloji hisselerindeki düşüş nedeniyle başka yerlerdeki kayıplarını kapatmak için değerli metali sattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+    "ts": 1793316726000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "Investor Said to Look to Bid on Club Pilates-Owner Xponential",
+    "tt": "Yatırımcının Club Pilates Sahibi Xponential'a Teklif Vereceği Söylendi",
+    "s": "Fund 1 Investments LLC, the third-largest shareholder in Xponential Fitness Inc., the owner of Club Pilates and Pure Barre brands, is pushing for a take-private and is looking to buy the company itself, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, Club Pilates ve Pure Barre markalarının sahibi Xponential Fitness Inc.'in üçüncü büyük hissedarı Fund 1 Investments LLC, özel bir hisse için baskı yapıyor ve şirketin kendisini satın almak istiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
+    "ts": 1793368712000,
     "tags": []
    },
    {
-    "t": "US Treasury Borrows Record $839 Billion in Auctions This Week",
-    "tt": "ABD Hazinesi Bu Hafta İhalelerde 839 Milyar Dolarlık Rekor Borç Aldı",
-    "s": "The US government borrowed a record $839 billion this week via its sales of Treasury bills and notes — both to repay holders of maturing debt and to raise the additional capital needed to finance the federal deficit.",
-    "ss": "ABD hükümeti bu hafta, hem vadesi dolan borç sahiplerine ödeme yapmak hem de federal açığı finanse etmek için gereken ek sermayeyi toplamak amacıyla Hazine bonosu ve tahvil satışı yoluyla 839 milyar dolarlık rekor borç aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/us-treasury-borrows-record-839-billion-in-auctions-this-week",
-    "ts": 1793365241000,
+    "t": "Chile Copper Mines Deliver Worst Quarter in at Least Two Decades",
+    "tt": "Şili Bakır Madenleri En Az Yirmi Yılın En Kötü Çeyrek Dönemini Yaşadı",
+    "s": "Chile’s copper output slumped to its lowest quarterly level in at least two decades as accidents and wild weather compounded operational setbacks and the effects of deteriorating ore quality in the top-producing nation.",
+    "ss": "Şili'nin bakır üretimi, kazalar ve sert hava koşullarının operasyonel aksaklıkları artırması ve en çok üretim yapan ülkede cevher kalitesinin bozulmasının etkilerini artırması nedeniyle en az yirmi yılın en düşük üç aylık seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/chile-copper-mines-deliver-worst-quarter-in-at-least-two-decades",
+    "ts": 1793368470000,
     "tags": []
    },
    {
-    "t": "Xi Urges Germany to Maintain ‘Pragmatic’ Policy Toward China",
-    "tt": "Xi, Almanya'yı Çin'e Yönelik 'Pragmatik' Politikayı Korumaya Çağırdı",
-    "s": "Chinese President Xi Jinping urged Germany to maintain a pragmatic policy toward China, as Beijing seeks to stabilize ties with Europe.",
-    "ss": "Çin Devlet Başkanı Xi Jinping, Pekin Avrupa ile ilişkileri istikrara kavuşturmaya çalışırken, Almanya'yı Çin'e karşı pragmatik bir politika sürdürmeye çağırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/xi-urges-germany-to-maintain-pragmatic-policy-toward-china",
-    "ts": 1793364919000,
+    "t": "Munis Head for Best October in More Than Four Decades After Rout",
+    "tt": "Munis, Bozgundan Sonra Kırk Yıldan Fazla Sürenin En İyi Ekimine Gidiyor",
+    "s": "US state and local government debt is on track to notch its strongest October in more than four decades, as a relief rally follows one of the worst months for the bond market in years.",
+    "ss": "ABD eyalet ve yerel yönetim borçları, tahvil piyasasının son yıllardaki en kötü aylarından birinin ardından gelen rahatlama rallisiyle kırk yılı aşkın sürenin en güçlü Ekim ayına ulaşma yolunda ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/munis-head-for-best-october-in-more-than-four-decades-after-rout",
+    "ts": 1793368441000,
     "tags": []
    },
    {
-    "t": "Tech Rout Deepens as Earnings Stoke AI Reckoning: Markets Wrap",
-    "tt": "Kazançlar Stoke AI Hesaplaşmasıyla Teknoloji Rotası Derinleşiyor: Piyasalar Özeti",
-    "s": "US stock futures fell for a second day as another batch of disappointing tech earnings intensified the sellof in the sector, with investors increasingly questioning the payoff from massive artificial intelligence spending as signs emerged that the core businesses of America’s technology giants are l",
-    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan başka bir grup teknoloji kazancının sektördeki satışları yoğunlaştırması ve Amerika'nın teknoloji devlerinin ana iş kollarının zayıf olduğuna dair işaretlerin ortaya çıkmasıyla birlikte yatırımcıların devasa yapay zeka harcamalarının getirisini giderek daha fazla sorgulamasıyla ikinci günde de düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793311676000,
+    "t": "Exxon, Chevron Deliver Big Profits on Strong Refining",
+    "tt": "Exxon ve Chevron Güçlü Rafinajdan Büyük Kârlar Sağlıyor",
+    "s": "Exxon and Chevron shares rose in premarket trading after both companies beat earnings estimates due in part to strong refining margins and higher gas prices. Bloomberg's Kevin Crowley says the oil majors earned a combined $56 billion in the third quarter, the third highest on record. He reports from",
+    "ss": "Exxon ve Chevron hisseleri, her iki şirketin de kısmen güçlü rafinaj marjları ve yüksek gaz fiyatları nedeniyle kazanç tahminlerini aşmasının ardından piyasa öncesi işlemlerde yükseldi. Bloomberg'den Kevin Crowley, petrol devlerinin üçüncü çeyrekte toplam 56 milyar dolar kazanarak rekordaki üçüncü en yüksek geliri elde ettiğini söyledi. Şuradan bildiriyor:",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-30/exxon-chevron-deliver-big-profits-on-strong-refining-video",
+    "ts": 1793368218000,
     "tags": []
    },
    {
-    "t": "Las políticas económicas de Milei dividen a Argentina en dos",
-    "tt": "Milei'nin ekonomik politikası Arjantin'i ikiye bölüyor",
-    "s": "Argentina, una economía partida en dos: en el oeste, Vaca Muerta y la minería atraen inversiones; en el este, la industria, el comercio y la construcción atraviesan una profunda crisis. ¿Es sostenible este modelo? ¿Qué desafíos plantea para Milei rumbo a 2027? (Source: Bloomberg)",
-    "ss": "Arjantin, bir ekonominin parçası: Batıda, Vaca Muerta'da ve madencilik ters yönde; Bu sektörde, ticarette ve inşaatta derin bir kriz yaşanıyor. Bu model böyle mi? 2027'de Milei'de bir bitki var mı? (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-30/politicas-economicas-de-milei-dividen-a-argentina-en-dos-video",
-    "ts": 1793363427000,
-    "tags": []
+    "t": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
+    "tt": "Büyük Petrol, Savaş Kaynaklı Rafinaj Artışıyla 56 Milyar Dolarlık Beklenmedik Bir Kazanç Sağladı",
+    "s": "Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia roiled energy markets and drove refining results to record highs.",
+    "ss": "Big Oil, Basra Körfezi ve Rusya'daki çatışmaların enerji piyasalarını sarsması ve rafineri sonuçlarını rekor seviyelere taşıması nedeniyle beklenmedik bir şekilde 50 milyar dolardan fazla kar elde etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
+    "ts": 1793356222000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
    },
    {
     "t": "Wall Street Turns Ruthless as Earnings Misses Fuel Deep Selloffs",
@@ -438,44 +454,38 @@
     "tags": []
    },
    {
-    "t": "Exxon Increases Stake in Mozambique Gas Project",
-    "tt": "Exxon, Mozambik Gaz Projesindeki Hissesini Artırdı",
-    "s": "ExxonMobil Holdings Corp. increased its stake in the planned Rovuma liquefied natural gas project in Mozambique after a swap with Eni SpA.",
-    "ss": "ExxonMobil Holdings Corp., Eni SpA ile yapılan takasın ardından Mozambik'te planlanan Rovuma sıvılaştırılmış doğal gaz projesindeki hissesini artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
-    "ts": 1793356262000,
+    "t": "Lockheed’s Yearslong F-35 Deal Drives New Morgan Stanley Bull",
+    "tt": "Lockheed'in Yıllardır Süren F-35 Anlaşması Yeni Morgan Stanley Boğasını Güçlendirdi",
+    "s": "Lockheed Martin Corp.’s multi-year fighter jet deal has won over one more Wall Street bull, who has also set a Street-high price target for the company.",
+    "ss": "Lockheed Martin Corp.'un çok yıllı savaş uçağı anlaşması, şirket için Street'in en yüksek fiyat hedefini de belirleyen bir Wall Street boğasını daha kazandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/lockheed-s-yearslong-f-35-deal-drives-new-morgan-stanley-bull",
+    "ts": 1793368048000,
     "tags": []
    },
    {
-    "t": "Indian Stocks Top Performers in Asia as Anti-AI Appeal Grows",
-    "tt": "Yapay Zeka Karşıtlığı Artarken Hint Hisse Senetleri Asya'da En İyi Performansı Gösteren Hisse Senetleri",
-    "s": "Indian stocks closed higher Friday, with the benchmark gauge posting its best month since July as local shares emerged as a haven from the global tech selloff.",
-    "ss": "Hint hisse senetleri Cuma gününü yükselişle kapattı; gösterge gösterge, yerel hisse senetlerinin küresel teknoloji satışlarından sonra sığınak olarak ortaya çıkmasıyla Temmuz ayından bu yana en iyi ayını kaydetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/indian-stocks-top-performers-in-asia-as-anti-ai-appeal-grows",
-    "ts": 1793363257000,
-    "tags": []
-   },
-   {
-    "t": "Copper-Overcounting Case Spurs More Codelco Staff Dismissals",
-    "tt": "Fazla Bakır Sayımı Durumu Codelco'da Daha Fazla Personelin İşten Çıkarılmasına Neden Oldu",
-    "s": "Codelco dismissed eight managers and employees after investigations into production figures uncovered new evidence of irregularities, deepening the fallout from an accounting scandal at the Chilean copper giant.",
-    "ss": "Codelco, üretim rakamlarına ilişkin soruşturmalarda usulsüzlüklere ilişkin yeni delillerin ortaya çıkması ve Şilili bakır devindeki muhasebe skandalının etkilerini derinleştirmesinin ardından sekiz yönetici ve çalışanını işten çıkardı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/codelco-dismisses-eight-staff-as-copper-output-scandal-widens",
-    "ts": 1793325611000,
-    "tags": []
-   },
-   {
-    "t": "Big Oil Scores $56 Billion Windfall on War-Driven Refining Spike",
-    "tt": "Büyük Petrol, Savaş Kaynaklı Rafinaj Artışıyla 56 Milyar Dolarlık Beklenmedik Bir Kazanç Sağladı",
-    "s": "Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia roiled energy markets and drove refining results to record highs.",
-    "ss": "Big Oil, Basra Körfezi ve Rusya'daki çatışmaların enerji piyasalarını sarsması ve rafineri sonuçlarını rekor seviyelere taşıması nedeniyle beklenmedik bir şekilde 50 milyar dolardan fazla kar elde etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
-    "ts": 1793356222000,
+    "t": "Nasdaq 100 Falls 3% as Earnings Stoke AI Reckoning: Markets Wrap",
+    "tt": "Kazançlar Stoke AI Hesaplaşmasıyla Teknoloji Rotası Derinleşiyor: Piyasalar Özeti",
+    "s": "A burst of heavy selling pummeled technology stocks and cryptocurrencies, spurring losses in equities while reinforcing a bid for the safest corners of the market.",
+    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan başka bir grup teknoloji kazancının sektördeki satışları yoğunlaştırması ve Amerika'nın teknoloji devlerinin ana iş kollarının zayıf olduğuna dair işaretlerin ortaya çıkmasıyla birlikte yatırımcıların devasa yapay zeka harcamalarının getirisini giderek daha fazla sorgulamasıyla ikinci günde de düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793311676000,
     "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 30",
+    "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil climbed on worries that the US may resume strikes against Iran, risking fresh turbulence in the Middle East.",
+    "ss": "Petrol, ABD'nin İran'a yönelik saldırılara devam edebileceği ve Orta Doğu'da yeni türbülans riski yaratabileceği endişeleriyle yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+    "ts": 1793311337000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
     ]
    }
   ],
@@ -573,6 +583,75 @@
   ],
   "MarketWatch": [
    {
+    "t": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
+    "tt": "Bu Cadılar Bayramı'nda büyük boy şeker çubukları, eğlence boyutundaki şekerlerden daha mı iyi?",
+    "s": "Several TikTokers influencers claim you can save money and be the coolest house on the block with bigger candy this year. Let’s see how that adds up.",
+    "ss": "Birkaç TikToker fenomeni, bu yıl paradan tasarruf edebileceğinizi ve daha büyük şekerlerle mahalledeki en havalı ev olabileceğinizi iddia ediyor. Bunun nasıl eklendiğini görelim.",
+    "u": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+    "ts": 1793369520000,
+    "tags": []
+   },
+   {
+    "t": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout",
+    "tt": "Intel'in hisseleri neden iki yılın en kötü düşüşüne doğru gidiyor?",
+    "s": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
+    "ss": "Bellek yongası fiyatlarının talebi düşürmesi ve kurumsal BT ekiplerinin dizüstü bilgisayarlar için daha az bütçeye sahip olması nedeniyle Intel'in PC işi baskı altında.",
+    "u": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+    "ts": 1793369400000,
+    "tags": []
+   },
+   {
+    "t": "AMD’s stock slides after Intel earnings reveal two big issues",
+    "tt": "AMD'nin hisseleri, Intel'in kazançlarının iki büyük sorunu ortaya çıkarmasının ardından düşüşe geçti",
+    "s": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
+    "ss": "Intel, yeterli miktarda yapay zeka sunucu yongası üretmekte zorlanıyor ve zayıf bir bilgisayar pazarıyla uğraşıyor. Yatırımcılar yakında AMD'nin aynı sorunlardan ne ölçüde muzdarip olduğunu öğrenecekler.",
+    "u": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+    "ts": 1793368140000,
+    "tags": []
+   },
+   {
+    "t": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+    "tt": "Seçmenler pahalı araba kredileri, ipotekler ve kredi kartı borçlarıyla mücadele ederken paranın maliyeti de oy pusulasında yer alıyor",
+    "s": "Nearly nine in 10 voters — 88% — say they worry the national debt is adding to their own borrowing costs.",
+    "ss": "10 seçmenden neredeyse dokuzu (%88) ulusal borcun kendi borçlanma maliyetlerini artırmasından endişe duyduğunu söylüyor.",
+    "u": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
+    "ts": 1793367720000,
+    "tags": []
+   },
+   {
+    "t": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
+    "tt": "Z kuşağı seçmenleri, sosyal nedenlerin arka planda kalması nedeniyle ara sınavların hayat masraflarını karşılamaya indirgendiğini söyledi",
+    "s": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
+    "ss": "MarketWatch, birçok yaşam hedefinin kendi nesilleri için ulaşılamaz olduğunu söyleyen genç seçmenlerle konuştu.",
+    "u": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+    "ts": 1793366760000,
+    "tags": []
+   },
+   {
+    "t": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+    "tt": "Faiz oranları tırmanırken bu kredi kartı borçla mücadelede 'en iyi silah'",
+    "s": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+    "ss": "Eylül ayındaki faiz artışı ve Aralık ayında öngörülen bir başka artışın ardından, kredi kartı bakiyesi olan Amerikalılar için borçlanma maliyetlerinin artmaya devam etmesi bekleniyor.",
+    "u": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+    "ts": 1793366160000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Is this suspicious?",
+    "tt": "'Aramızda çok kırgınlık var': Babamın bakıcısı DoorDash siparişleri için banka kartını kullanıyor. Ne yapabilirim?",
+    "s": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+    "ss": "\"Yatılı bakıcının ebeveynimin cömertliğinden yararlandığından şüpheleniyorum.\"",
+    "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+    "ts": 1793366100000,
+    "tags": []
+   },
+   {
     "t": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
     "tt": "İşte Binance, şimdiye kadarki en büyük 6,3 milyar dolarlık hack olduğuna inanılan olayın ardından yeniden açılmayı planlıyor",
     "s": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
@@ -601,72 +680,63 @@
     "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
     "ts": 1793363400000,
     "tags": []
-   },
-   {
-    "t": "Amazon’s and Intel’s stocks are set to plunge. But Wall Street’s October winners may surprise you.",
-    "tt": "Amazon ve Intel'in hisseleri düşmeye hazırlanıyor. Ancak Wall Street'in Ekim ayı kazananları sizi şaşırtabilir.",
-    "s": "A rough month in the technology sector was less spooky in other sections of the stock market.",
-    "ss": "Teknoloji sektöründe zorlu bir ay, borsanın diğer bölümlerinde daha az ürkütücü geçti.",
-    "u": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
-    "ts": 1793359920000,
-    "tags": []
-   },
-   {
-    "t": "Why Intel’s stock is sinking toward its worst day in two years — and a $128 billion wipeout",
-    "tt": "Intel'in hisseleri neden iki yılın en kötü düşüşüne doğru gidiyor?",
-    "s": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
-    "ss": "Bellek yongası fiyatlarının talebi düşürmesi ve kurumsal BT ekiplerinin dizüstü bilgisayarlar için daha az bütçeye sahip olması nedeniyle Intel'in PC işi baskı altında.",
-    "u": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-    "ts": 1793359620000,
-    "tags": []
-   },
-   {
-    "t": "AI could hit consumers’ ability to manage their debt. Here’s the trade.",
-    "tt": "Yapay zeka, tüketicilerin borçlarını yönetme becerisini etkileyebilir. İşte ticaret.",
-    "s": "If AI causes workers to lose their jobs then households face credit stress",
-    "ss": "Yapay zeka çalışanların işlerini kaybetmesine neden olursa haneler kredi stresiyle karşı karşıya kalır",
-    "u": "https://www.marketwatch.com/story/ai-could-hit-consumers-ability-to-manage-their-debt-heres-the-trade-43d1787e?mod=mw_rss_topstories",
-    "ts": 1793358540000,
-    "tags": []
-   },
-   {
-    "t": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    "tt": "70’li yaşlardayız. Yüzde 2,5'lik ipoteğimizi mi ödemeliyiz yoksa parayı yüksek getirili bir tasarruf hesabına mı koymalıyız?",
-    "s": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-    "ss": "\"Diyelim ki bundan 10 yıl sonra, 84 yaşıma geldiğimde yüklü miktarda nakde ihtiyacımız olacak.\"",
-    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    "ts": 1793358060000,
-    "tags": []
-   },
-   {
-    "t": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar-revenue businesses",
-    "tt": "İşte Amazon CEO'sunun iki trilyon dolarlık gelir elde etme yolunda ilerlediği iddiasının matematiği",
-    "s": "Amazon chief executive Andy Jassy set a bold target on the conference call announcing third-quarter earnings.",
-    "ss": "Amazon CEO'su Andy Jassy, ​​üçüncü çeyrek kazançlarını açıklayan konferans görüşmesinde cesur bir hedef belirledi.",
-    "u": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-    "ts": 1793356440000,
-    "tags": []
-   },
-   {
-    "t": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    "tt": "‘Kalbi kırılmıştı’: Kocamın çocukları ölürken onu terk etti. Her şeyi bana bırakmakta haklı mıydı?",
-    "s": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-    "ss": "\"Sonunda onlara birkaç duygusal hatıra, bazı koleksiyon parçaları ve eski fotoğraflar bıraktı.\"",
-    "u": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    "ts": 1793355300000,
-    "tags": []
-   },
-   {
-    "t": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-    "tt": "'Aramızda çok kırgınlık var': Babamın bakıcısı DoorDash siparişleri için banka kartını kullanıyor. Ne yapabilirim?",
-    "s": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-    "ss": "\"Yatılı bakıcının ebeveynimin cömertliğinden yararlandığından şüpheleniyorum.\"",
-    "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-    "ts": 1793351700000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Flash Crash: Kioxia Warns NAND Price Surge Ending, Sending Sandisk Plunging",
+    "tt": "Ani Çöküş: Kioxia, NAND Fiyat Artışının Sona Erdiği ve Sandisk'in Düşüşe Yol Açacağı Uyarısında Bulundu",
+    "s": "Flash Crash: Kioxia Warns NAND Price Surge Ending, Sending Sandisk Plunging In memory, the only number that matters is the second derivative. This morning it turned. Sandisk did just about everything right last night: a revenue and EPS beat, 85% gross margins, a guide above the Street, another $5 bi",
+    "ss": "Flash Crash: Kioxia, NAND Fiyat Artışının Sonu, Sandisk'in Düşüşüne Yol Açacağı Uyarısında Bulundu Bellekte önemli olan tek sayı ikinci türevdir. Bu sabah durum değişti. Sandisk dün gece neredeyse her şeyi doğru yaptı: bir gelir ve EPS'yi aştı, %85 brüt kar marjı, Street'in üzerinde bir kılavuz, bir 5 milyar dolar daha",
+    "u": "https://www.zerohedge.com/markets/flash-crash-kioxia-warns-nand-price-surge-ending-sending-sandisk-plunging",
+    "ts": 1793369419000,
+    "tags": []
+   },
+   {
+    "t": "Reddit Crashes As Weak User Growth Spooks Wall Street",
+    "tt": "Reddit, zayıf kullanıcı artışının Wall Street'i korkutmasıyla çöktü",
+    "s": "Reddit Crashes As Weak User Growth Spooks Wall Street Reddit shares crashed in premarket trading in New York after quarterly user numbers missed the Bloomberg consensus estimates and its revenue outlook disappointed. This sparked concerns about slowing search traffic and new plans to restrict platfo",
+    "ss": "Reddit, Zayıf Kullanıcı Büyümesinin Korkutması Nedeniyle Çöktü Wall Street Reddit hisseleri, üç aylık kullanıcı sayılarının Bloomberg konsensüs tahminlerini kaçırması ve gelir görünümünün hayal kırıklığına uğramasının ardından New York'ta piyasa öncesi işlemlerde çöktü. Bu durum, arama trafiğinin yavaşlaması ve platformları kısıtlamaya yönelik yeni planlar konusunda endişelere yol açtı.",
+    "u": "https://www.zerohedge.com/markets/reddit-crashes-weak-user-growth-spooks-wall-street",
+    "ts": 1793368800000,
+    "tags": []
+   },
+   {
+    "t": "Intel Shares Crash Most On Record",
+    "tt": "\"Şaşırtıcı Derecede Şiddetli PC Düzeltmesi\" Wall Street'i Şok Ederken Intel %25 Çöktü",
+    "s": "Intel Shares Crash Most On Record Summary: Intel Shares Crash Most On Record Intel Crashes 25% As \" Surprisingly Severe PC Correction \" Shocks Wall Street Shares Crash Intel shares cratered about 29.7% during regular US trading, marking their steepest intraday decline in Bloomberg data going back to",
+    "ss": "\"Şaşırtıcı Derecede Şiddetli PC Düzeltmesi\" Şok Ederken Intel %25 Çöktü Wall Street AI altyapı hisseleri, Amazon ve Intel'in hayal kırıklığı yaratan sonuçlarının ardından New York'taki piyasa öncesi ticarette düşüş yaşadı. Amazon, Perşembe günkü kazanç raporunun ardından nakit yakımının artması ve zayıf rehberliğin etkisiyle yaklaşık %7 kayıp yaşadı",
+    "u": "https://www.zerohedge.com/markets/intel-crashes-25-surprisingly-severe-pc-correction-shocks-wall-street",
+    "ts": 1793368560000,
+    "tags": []
+   },
+   {
+    "t": "\"Mission Accomplished\": BOJ Declares Victory Over Deflation, Then Speeds Up ETF Dump To A Breakneck 43 Years",
+    "tt": "\"Görev Tamamlandı\": BOJ, Deflasyona Karşı Zaferi Açıkladı, Ardından ETF Boşaltımını 43 Yıl Boyunca Son Noktaya Kadar Hızlandırdı",
+    "s": "\"Mission Accomplished\": BOJ Declares Victory Over Deflation, Then Speeds Up ETF Dump To A Breakneck 43 Years Fourteen years, three governors, negative rates, yield curve control and the largest central bank equity hoard in history later, the Bank of Japan finally said the words. In its quarterly Out",
+    "ss": "\"Görev Tamamlandı\": BOJ Deflasyona Karşı Zafer İlan Etti, Ardından ETF Boşalmasını 43 Yıl Boyunca Hızlandırdı On dört yıl, üç yönetici, negatif faiz oranları, getiri eğrisi kontrolü ve tarihteki en büyük merkez bankası özsermaye istifi, Japonya Merkez Bankası nihayet sözlerini söyledi. Üç aylık Çıkışında",
+    "u": "https://www.zerohedge.com/markets/mission-accomplished-boj-declares-victory-over-deflation-then-speeds-etf-dump-breakneck-43",
+    "ts": 1793367741000,
+    "tags": []
+   },
+   {
+    "t": "Tech, AI, & Semis Aren't The Only Problem...",
+    "tt": "Tek Sorun Teknoloji, Yapay Zeka ve Seminerler Değil...",
+    "s": "Tech, AI, &amp; Semis Aren't The Only Problem... Submitted by QTR's Fringe Finance While the Nasdaq is getting its teeth kicked in Friday morning on disappointing earnings from Amazon and Intel, I’m keeping a close eye on another corner of the market that I believe could play an outsized role in the",
+    "ss": "Tek Sorun Teknoloji, Yapay Zeka ve Seminerler Değil... QTR'den Fringe Finance Tarafından Sunuldu Nasdaq Cuma sabahı Amazon ve Intel'den gelen hayal kırıklığı yaratan kazançlar nedeniyle dişlerine tekme atarken, ben de piyasanın başka bir köşesini yakından takip ediyorum ki bu da küresel büyümede büyük bir rol oynayabileceğine inanıyorum.",
+    "u": "https://www.zerohedge.com/markets/tech-ai-and-semis-arent-only-problem",
+    "ts": 1793367300000,
+    "tags": []
+   },
+   {
+    "t": "Senator Rips Trump's 'Insane' Plan For Iran Escalation, As Pentagon Transport Planes Land In Israel",
+    "tt": "Pentagon Nakliye Uçakları İsrail'e İnerken Senatör, Trump'ın İran'ı Gerginleştirmeye Yönelik 'Çılgın' Planını Çöktürdü",
+    "s": "Senator Rips Trump's 'Insane' Plan For Iran Escalation, As Pentagon Transport Planes Land In Israel There are continuing signs that President Trump may be ready to pull the trigger on ordering another major attack against Iran, though the American public might be wondering what the endgame or 'missi",
+    "ss": "Pentagon Nakliye Uçakları İsrail'e İnerken, Senatör Trump'ın İran'ı Gerginleştirmeye Yönelik 'Çılgın' Planını Çöktürdü Başkan Trump'ın İran'a karşı başka bir büyük saldırı emrini vermek için tetiği çekmeye hazır olabileceğine dair işaretler devam ediyor, ancak Amerikan kamuoyu oyunun sonunun veya \"missi\"nin ne olduğunu merak ediyor olabilir",
+    "u": "https://www.zerohedge.com/geopolitical/senator-rips-trumps-insane-plan-iran-escalation-pentagon-airlifts-land-israel",
+    "ts": 1793366700000,
+    "tags": []
+   },
    {
     "t": "95-Year-Old Wall Street Law Firm Weil Gotshal Suddenly Lurches Towards Shutdown",
     "tt": "95 Yaşındaki Wall Street Hukuk Bürosu Weil Gotshal Aniden Kapanmaya Doğru Sarsıldı",
@@ -674,15 +744,6 @@
     "ss": "95 Yaşındaki Wall Street Hukuk Bürosu Weil Gotshal Aniden Kapanmaya Doğru Gidiyor Bill Pan tarafından The Epoch Times aracılığıyla yazıldı Weil, Gotshal & Manges, üst düzey ortakların ayrılması ve başarısızlıkla sonuçlanan birleşme görüşmeleri dalgasının ardından kapanmaya hazırlanıyor ve bu da Wall Street'teki hukuk firmasına potansiyel bir son getiriyor.",
     "u": "https://www.zerohedge.com/economics/95-year-old-wall-street-law-firm-weil-gotshal-suddenly-lurches-towards-shutdown",
     "ts": 1793365500000,
-    "tags": []
-   },
-   {
-    "t": "Intel Crashes 25% As \"Surprisingly Severe PC Correction\" Shocks Wall Street",
-    "tt": "\"Şaşırtıcı Derecede Şiddetli PC Düzeltmesi\" Wall Street'i Şok Ederken Intel %25 Çöktü",
-    "s": "Intel Crashes 25% As \"Surprisingly Severe PC Correction\" Shocks Wall Street AI infrastructure stocks tumbled in premarket trading in New York after disappointing results from Amazon and Intel. Amazon is down about 7% following Thursday's earnings report , as cash burn surged and weak guidance spooke",
-    "ss": "\"Şaşırtıcı Derecede Şiddetli PC Düzeltmesi\" Şok Ederken Intel %25 Çöktü Wall Street AI altyapı hisseleri, Amazon ve Intel'in hayal kırıklığı yaratan sonuçlarının ardından New York'taki piyasa öncesi ticarette düşüş yaşadı. Amazon, Perşembe günkü kazanç raporunun ardından nakit yakımının artması ve zayıf rehberliğin etkisiyle yaklaşık %7 kayıp yaşadı",
-    "u": "https://www.zerohedge.com/markets/intel-crashes-25-surprisingly-severe-pc-correction-shocks-wall-street",
-    "ts": 1793363700000,
     "tags": []
    },
    {
@@ -716,62 +777,36 @@
     "u": "https://www.zerohedge.com/political/adam-carolla-atlantic-fck-and-eat-sht",
     "ts": 1793362500000,
     "tags": []
-   },
-   {
-    "t": "Terrifying Study Reveals Truth About Flying That Could Make You Never Want To Board A Plane Again",
-    "tt": "Korkunç Araştırma, Bir Daha Uçağa Binmek İstememenize Sebep Olabilecek Uçma Hakkındaki Gerçeği Ortaya Çıkarıyor",
-    "s": "Terrifying Study Reveals Truth About Flying That Could Make You Never Want To Board A Plane Again A disturbing new study conducted by the European Cockpit Association (ECA) found that nearly one in four European airline pilots routinely take to the skies despite being too exhausted to safely perform",
-    "ss": "Korkunç Araştırma, Bir Daha Uçağa Binmek İstememenize Sebep Olabilecek Uçma Hakkındaki Gerçeği Ortaya Çıkarıyor Avrupa Kokpit Birliği (ECA) tarafından yürütülen rahatsız edici yeni bir araştırma, neredeyse dört Avrupalı ​​havayolu pilotundan birinin güvenli bir şekilde uçuş yapamayacak kadar yorgun olmasına rağmen rutin olarak göklere çıktığını ortaya çıkardı",
-    "u": "https://www.zerohedge.com/medical/terrifying-study-reveals-truth-about-flying-could-make-you-never-want-board-plane-again",
-    "ts": 1793360700000,
-    "tags": []
-   },
-   {
-    "t": "North Korea Blamed For $6.3 Billion Binance Heist: \"Stole 19% Of Its Yearly Income In 20 Minutes\"",
-    "tt": "Kuzey Kore, 6,3 Milyar Dolarlık Binance Soygunuyla Suçlandı: \"Yıllık Gelirinin %19'unu 20 Dakikada Çaldı\"",
-    "s": "North Korea Blamed For $6.3 Billion Binance Heist: \"Stole 19% Of Its Yearly Income In 20 Minutes\" Summary: North Korea stole 19% of its yearly income in about 20 minutes . Bitcoin plunged to a six-week low of $76,348 Reuters Puts Theft Figure At $6.3 Billion &nbsp; TRM Labs and Chainalysis Blame Nor",
-    "ss": "Kuzey Kore, 6,3 Milyar Dolarlık Binance Soygunundan Suçlandı: \"Yıllık Gelirinin %19'unu 20 Dakikada Çaldı\" Özet: Kuzey Kore, yaklaşık 20 dakika içinde yıllık gelirinin %19'unu çaldı. Bitcoin, 76.348 Dolar ile altı haftanın en düşük seviyesine geriledi Reuters Hırsızlık Rakamını 6,3 Milyar Dolar Olarak Belirledi   TRM Laboratuvarları ve Chainaliz Nor'u Suçluyor",
-    "u": "https://www.zerohedge.com/crypto/binance-investigates-possible-hack-after-billions-transferred-out-tether-and-circle-freeze",
-    "ts": 1793360340000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "The Riots In France Expose The Dangerous Fiction That Public Spending And 'Integration' Create A Peaceful Society",
-    "tt": "Fransa'daki Ayaklanmalar, Kamu Harcamaları ve 'Entegrasyon'un Barışçıl Bir Toplum Yarattığı yönündeki tehlikeli kurguyu açığa çıkardı",
-    "s": "The Riots In France Expose The Dangerous Fiction That Public Spending And 'Integration' Create A Peaceful Society Authored by Matt Roberts via The Daily Sceptic , The violence, looting and burning in France over the weekend of October 24th-25th was somewhat less intense and widespread than it had be",
-    "ss": "Fransa'daki Ayaklanmalar, Kamu Harcamalarının ve 'Entegrasyonun' Barışçıl Bir Toplum Yarattığı şeklindeki Tehlikeli Kurgusu Ortaya Çıkarıyor Matt Roberts tarafından The Daily Skeptic aracılığıyla yazıldı. Fransa'da 24-25 Ekim hafta sonu boyunca yaşanan şiddet, yağma ve yakma, eskisinden biraz daha az yoğun ve yaygındı.",
-    "u": "https://www.zerohedge.com/political/riots-france-expose-dangerous-fiction-public-spending-and-integration-create-peaceful",
-    "ts": 1793359200000,
-    "tags": []
-   },
-   {
-    "t": "Brent January Futs Hit New Highs As Oil Market Braces For Post-Midterm Gulf Escalation",
-    "tt": "Petrol Piyasası Orta Vade Sonrası Körfez Artışına Hazırlanırken Brent Ocak Futları Yeni Yüksek Seviyelere Ulaştı",
-    "s": "Brent January Futs Hit New Highs As Oil Market Braces For Post-Midterm Gulf Escalation Brent crude futures tagged $118 a barrel early Friday, touching a six-month high as more attacks on commercial vessels in the Strait of Hormuz and on Saudi energy assets raised concerns about a potential flare-up ",
-    "ss": "Petrol Piyasası Orta Vadeli Körfez Artışına Hazırlanırken Brent Ocak Futları Yeni Zirvelere Ulaştı Brent ham vadeli işlemleri Cuma günü varil başına 118 doları gördü ve Hürmüz Boğazı'ndaki ticari gemilere ve Suudi enerji varlıklarına yönelik saldırıların artmasının potansiyel bir alevlenme endişesini artırmasıyla altı ayın en yüksek seviyesine ulaştı.",
-    "u": "https://www.zerohedge.com/energy/brent-january-futs-hit-new-highs-oil-market-braces-post-midterm-gulf-escalation",
-    "ts": 1793357700000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "Nearly 50 Recon/Intel Marines Headed To Guard Undersea Cables In Europe",
-    "tt": "Yaklaşık 50 Recon/Intel Deniz Piyadesi Avrupa'daki Denizaltı Kablolarını Korumaya Gidiyor",
-    "s": "Nearly 50 Recon/Intel Marines Headed To Guard Undersea Cables In Europe Authored by Matt White via Task &amp; Purpose , A team of close to 50 reconnaissance and intelligence-focused Marines are being sent to join a NATO mission that oversees the network of undersea internet cables and pipelines in t",
-    "ss": "Yaklaşık 50 Keşif/Intel Deniz Piyadesi Avrupa'da Denizaltı Kablolarını Korumaya Gidiyor Matt White tarafından Task & Purpose aracılığıyla yazılmıştır. 50'ye yakın keşif ve istihbarat odaklı Deniz Piyadesinden oluşan bir ekip, deniz altı internet kabloları ve boru hatları ağını denetleyen bir NATO misyonuna katılmak üzere gönderiliyor.",
-    "u": "https://www.zerohedge.com/military/nearly-50-reconintel-marines-headed-guard-undersea-cables-europe",
-    "ts": 1793356200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Intel hisselerinde tarihi düşüş",
+    "tt": null,
+    "s": "Intel Corp.'un hisseleri, PC işlemcilerine yönelik zayıflayan talep ve veri merkezi bileşenlerindeki tedarik zinciri aksamaları nedeniyle gelir tahminlerinin beklentileri karşılayamaması üzerine son iki yılı aşkın sürenin en sert düşüşünü kaydetti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/intel-hisselerinde-tarihi-dusus-3792937",
+    "ts": 1793368414000,
+    "tags": []
+   },
+   {
+    "t": "Borsa İstanbul, Barikat İnternet Güvenliği ile sözleşmeyi sonlandırdı",
+    "tt": null,
+    "s": "Borsa İstanbul Grubu, Barikat İnternet Güvenliği Bilişim Ticaret AŞ ile 2017'de başlayan sözleşme ilişkisinin şirketin ortaklık yapısındaki değişiklik nedeniyle erken sonlandırıldığını ve söz konusu şirketin Borsa İstanbul'un bilgi ve sistemlerine erişiminin bulunmadığını bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/borsa-istanbul-barikat-internet-guvenligi-ile-sozlesmeyi-sonlandirdi-3792933",
+    "ts": 1793367202000,
+    "tags": []
+   },
+   {
+    "t": "Almanya'da enflasyon keskin şekilde yavaşladı",
+    "tt": null,
+    "s": "Almanya'da Ekim ayında enflasyon, hükümetin yılın başlarında uyguladığı geçici akaryakıt vergisi indirimini yeniden yürürlüğe koymasının ardından beklentilerin üzerinde yavaşlama gösterdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/almanyada-enflasyon-keskin-sekilde-yavasladi-3792932",
+    "ts": 1793366000000,
+    "tags": []
+   },
    {
     "t": "Elektrikte sübvansiyon limiti düşürüldü",
     "tt": null,
@@ -833,33 +868,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/bankacilik-sektorunun-dokuz-aylik-net-kri-yuzde-16-6-artti-3792916",
     "ts": 1793358973000,
-    "tags": []
-   },
-   {
-    "t": "Euro Bölgesi, Fransa'daki daralmaya rağmen beklentilerin üzerinde büyüdü",
-    "tt": null,
-    "s": "Euro Bölgesi ekonomisi, üçüncü çeyrekte yüzde 0,4 büyüyerek, analistlerin öngördüğünden iki kat daha hızlı bir büyüme kaydetti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/euro-bolgesi-fransa-daki-daralmaya-ragmen-beklentilerin-uzerinde-buyudu-3792908",
-    "ts": 1793358062000,
-    "tags": []
-   },
-   {
-    "t": "Bloomberg Businessweek Türkiye'nin 154. sayısı yayında",
-    "tt": null,
-    "s": "Bloomberg Businessweek Türkiye'nin yapay zeka odaklı kapak konusuna sahip yeni sayısı dijital platformlardaki yerini aldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bloomberg-businessweek-turkiye-nin-154-sayisi-yayinda-3792906",
-    "ts": 1793356399000,
-    "tags": []
-   },
-   {
-    "t": "Binance TR: Kripto varlık çekimleri geçici olarak durduruldu",
-    "tt": null,
-    "s": "Kripto varlık piyasasının en büyük siber saldırılarından biriyle karşı karşıya kalan Binance'ın Türkiye biriminden açıklama geldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/binance-tr-kripto-varlik-cekimleri-gecici-olarak-durduruldu-3792904",
-    "ts": 1793354521000,
     "tags": []
    }
   ]
