@@ -1,79 +1,79 @@
 {
- "generated": "2026-10-30T17:35:40.646621+00:00",
+ "generated": "2026-10-30T18:15:34.775164+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7573.86,
-   "c": -1.9,
-   "d": -146.53,
+   "p": 7554.13,
+   "c": -2.15,
+   "d": -166.26,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25360.973,
-   "c": -3.15,
-   "d": -823.748,
+   "p": 25293.39,
+   "c": -3.4,
+   "d": -891.331,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 51825.19,
-   "c": -0.99,
-   "d": -517.369,
+   "p": 51728.38,
+   "c": -1.17,
+   "d": -614.179,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.73,
-   "c": 20.52,
-   "d": 3.53,
+   "p": 21.88,
+   "c": 27.21,
+   "d": 4.68,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3898.4,
-   "c": -3.3,
-   "d": -133.0,
+   "p": 3888.1,
+   "c": -3.55,
+   "d": -143.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.22,
-   "c": -5.69,
-   "d": -2.971,
+   "p": 49.255,
+   "c": -5.63,
+   "d": -2.936,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 104.4,
-   "c": 2.35,
-   "d": 2.4,
+   "p": 104.79,
+   "c": 2.74,
+   "d": 2.79,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 114.16,
-   "c": -0.63,
-   "d": -0.72,
+   "p": 113.47,
+   "c": -1.23,
+   "d": -1.41,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.948,
-   "c": -0.09,
-   "d": -0.092,
+   "p": 101.967,
+   "c": -0.07,
+   "d": -0.073,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.933,
-   "c": -1.12,
-   "d": -0.056,
+   "p": 4.945,
+   "c": -0.88,
+   "d": -0.044,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.9437,
+   "p": 49.9439,
    "c": 0.23,
    "d": 0.114,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77177,
-   "c": -4.77,
+   "p": 77060,
+   "c": -4.63,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2239.32,
-   "c": -4.66,
+   "p": 2240.31,
+   "c": -4.21,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.61,
-   "c": -6.82,
+   "p": 94.3,
+   "c": -6.66,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.25,
-   "c": -3.78,
+   "p": 1.24,
+   "c": -4.09,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 700.78,
-   "c": -6.19,
+   "p": 699.86,
+   "c": -6.0,
    "k": "usd"
   }
  ],
@@ -379,10 +379,38 @@
    "ts": 1793377800000,
    "tr": "Cum 30.10 19:30",
    "reading": null
+  },
+  {
+   "title": "FOMC Member Logan Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793381400000,
+   "tr": "Cum 30.10 20:30",
+   "reading": null
   }
  ],
  "news": {
   "Bloomberg": [
+   {
+    "t": "Nasdaq 100 Sinks 4%, Gets Close to Correction Zone: Markets Wrap",
+    "tt": "Kazançlar Stoke AI Hesaplaşmasıyla Teknoloji Rotası Derinleşiyor: Piyasalar Özeti",
+    "s": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.",
+    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan başka bir grup teknoloji kazancının sektördeki satışları yoğunlaştırması ve Amerika'nın teknoloji devlerinin ana iş kollarının zayıf olduğuna dair işaretlerin ortaya çıkmasıyla birlikte yatırımcıların devasa yapay zeka harcamalarının getirisini giderek daha fazla sorgulamasıyla ikinci günde de düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793311676000,
+    "tags": []
+   },
+   {
+    "t": "Air Canada Shares Sink Amid Jet Fuel Costs, Lower Profit Outlook",
+    "tt": "Air Canada Hisseleri Jet Yakıtı Maliyetleri ve Düşük Kâr Görünümü Nedeniyle Düştü",
+    "s": "Air Canada’s stock price tumbled the most in more than a month after the airline slashed its full-year guidance for the second quarter in a row on higher-than-expected jet fuel prices.",
+    "ss": "Air Canada'nın hisse senedi fiyatı, havayolunun beklenenden yüksek jet yakıtı fiyatları nedeniyle art arda ikinci çeyrek için tüm yıl tahminini düşürmesinin ardından bir aydan fazla bir sürenin en sert düşüşünü yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
+    "ts": 1793307810000,
+    "tags": []
+   },
    {
     "t": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
     "tt": "Büyük Petrol Akaryakıt Fiyatlarındaki Artışla 56 Milyar Dolarlık Düşüş Kazandı",
@@ -404,15 +432,6 @@
     "ss": "Intel ve Amazon'dan elde edilen hayal kırıklığı yaratan kazançlar, yapay zeka ticaretinde zorlu bir haftayı daha da şiddetlendirerek Hazine tahvillerine kaçışı körükledi. Bessemer Trust CEO'su Holly MacDonald, firmanın bu pazarda fırsat cepleri gördüğü noktada yıkılıyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-10-30/bessemer-trust-ceo-constructive-on-markets-video",
     "ts": 1793380377000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
-    "tt": "Kazançlar Stoke AI Hesaplaşmasıyla Teknoloji Rotası Derinleşiyor: Piyasalar Özeti",
-    "s": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.",
-    "ss": "ABD hisse senedi vadeli kontratları, hayal kırıklığı yaratan başka bir grup teknoloji kazancının sektördeki satışları yoğunlaştırması ve Amerika'nın teknoloji devlerinin ana iş kollarının zayıf olduğuna dair işaretlerin ortaya çıkmasıyla birlikte yatırımcıların devasa yapay zeka harcamalarının getirisini giderek daha fazla sorgulamasıyla ikinci günde de düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793311676000,
     "tags": []
    },
    {
@@ -461,15 +480,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "Miami Firms Buy InterContinental Hotel for About $300 Million",
-    "tt": "Miami Firmaları InterContinental Otelini Yaklaşık 300 Milyon Dolara Satın Aldı",
-    "s": "Gencom and White Bridge Capital bought the InterContinental hotel in downtown Miami, marking the companies’ third joint hospitality deal in the past year.",
-    "ss": "Gencom ve White Bridge Capital, Miami şehir merkezindeki InterContinental otelini satın alarak, şirketlerin geçen yılki üçüncü ortak konaklama anlaşmasına imza attı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/miami-firms-buy-intercontinental-hotel-for-about-300-million",
-    "ts": 1793377329000,
-    "tags": []
    },
    {
     "t": "Come See Lina Khan at Odd Lots LIVE on 12/9 in NYC",
@@ -584,6 +594,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+    "tt": "Microsoft bulut savaşlarını kazanıyor ve Wall Street'in yeni altın çocuğu oluyor",
+    "s": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+    "ss": "Analistler, çeşitli faktörlerin Microsoft'un bulut rakiplerinden daha iyi bir mali konumda olduğunu gösterdiğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+    "ts": 1793383740000,
+    "tags": []
+   },
+   {
+    "t": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+    "tt": "‘Kalbi kırılmıştı’: Kocamın çocukları ölürken onu terk etti. Her şeyi bana bırakmakta haklı mıydı?",
+    "s": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+    "ss": "\"Sonunda onlara birkaç duygusal hatıra, bazı koleksiyon parçaları ve eski fotoğraflar bıraktı.\"",
+    "u": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+    "ts": 1793383200000,
+    "tags": []
+   },
+   {
+    "t": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
+    "tt": "Amerikalı işçiler, cüzdanlarının 'gittikçe incelmesiyle' evlerine aldıkları maaşın enflasyona ayak uyduramadığını fark ediyor",
+    "s": "Worker compensation grows slower than inflation for second straight quarter",
+    "ss": "İşçi tazminatları üst üste ikinci çeyrekte enflasyondan daha yavaş arttı",
+    "u": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+    "ts": 1793382240000,
+    "tags": []
+   },
+   {
     "t": "You can expect the stock market to rally no matter who wins on Election Day",
     "tt": "Seçim Günü kim kazanırsa kazansın borsanın toparlanmasını bekleyebilirsiniz",
     "s": "Also in Weekend Reads: Dividend stocks, a way to jump on the Anthropic bandwagon ahead of its IPO, and advice from The Moneyist.",
@@ -645,36 +682,18 @@
     "u": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
     "ts": 1793375580000,
     "tags": []
-   },
-   {
-    "t": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
-    "tt": "Kilisemizin tasarruf hesabında %3,75 kazandıran 1,5 milyon dolarlık bir mirası var. Parayı çöpe mi atıyoruz?",
-    "s": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-    "ss": "\"Bu hediyenin boyutu ve uzun vadeli doğası göz önüne alındığında, fonların ihtiyatlı bir şekilde yönetildiğinden emin olmak istiyoruz.\"",
-    "u": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-    "ts": 1793374200000,
-    "tags": []
-   },
-   {
-    "t": "In a wild October for markets, these stocks were the biggest winners and losers",
-    "tt": "Piyasalar için çılgın bir Ekim ayında en çok kazanan ve kaybedenler bu hisse senetleri oldu",
-    "s": "Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
-    "ss": "Birçok Büyük Teknoloji hissesi sert darbe aldı ancak S&P 500 yüzeyde güç gösterdi ve hisselerin çoğunluğu ay için kazanç gösterdi.",
-    "u": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
-    "ts": 1793373960000,
-    "tags": []
-   },
-   {
-    "t": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-    "tt": "Komşularımıza ücretsiz ev onarımı konusunda yardım etmeyi bıraktık ve dostluğumuz soğudu. Kim suçlanacak?",
-    "s": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-    "ss": "\"Geçen yaz çatılarını değiştirmeleri gerektiğinden şikayet ettiler. Birkaç ay sonra yeni bir SUV aldılar.\"",
-    "u": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-    "ts": 1793373300000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "DOJ To Place 1,000 Staffers At Polling Locations In Every State - Some Of Them Criminal Prosecutors",
+    "tt": "DOJ Her Eyaletteki Oy Verme Yerlerine 1.000 Personel Yerleştirecek - Bunlardan Bazıları Ceza Savcıları",
+    "s": "DOJ To Place 1,000 Staffers At Polling Locations In Every State - Some Of Them Criminal Prosecutors The Justice Department plans to put about 1,000 of its own employees in polling places across the country on Election Day, Nov. 3 , and has not yet said where. Civil Rights Division chief Harmeet Dhil",
+    "ss": "DOJ Her Eyaletteki Oy Verme Yerlerine 1.000 Personel Yerleştirecek - Bunlardan Bazıları Ceza Savcıları Adalet Bakanlığı, 3 Kasım Seçim Günü'nde ülke genelinde kendi çalışanlarından yaklaşık 1.000 kişiyi oy verme yerlerine yerleştirmeyi planlıyor ve bunun yerini henüz söylemedi. Sivil Haklar Bölümü şefi Harmeet Dhil",
+    "u": "https://www.zerohedge.com/political/doj-station-about-1000-its-staff-polling-places-every-state-some-them-criminal",
+    "ts": 1793382900000,
+    "tags": []
+   },
    {
     "t": "Minnesota Fraud Ringleader Gets 30 Years In Prison For $44 Million Scheme",
     "tt": "Minnesota Dolandırıcılık Elebaşı 44 Milyon Dolarlık Plan Karşılığında 30 Yıl Hapis Cezasına çarptırıldı",
@@ -755,18 +774,27 @@
     "u": "https://www.zerohedge.com/geopolitical/tanker-fire-friday-iran-claims-least-two-more-attacks-strait-hormuz",
     "ts": 1793373000000,
     "tags": []
-   },
-   {
-    "t": "Trump Reverses Course Again After Canceling Key Midterm Rallies",
-    "tt": "Trump, Önemli Ara Dönem Toplantılarını İptal Ettikten Sonra Rotayı Tekrar Ters Çevirdi",
-    "s": "Trump Reverses Course Again After Canceling Key Midterm Rallies President Donald Trump has reinstating back-to-back campaign rallies in Kansas and Iowa on Sunday less than 24 hours after canceling them , according to the Associated Press . The sudden reversal comes after the Trump scrapped appearanc",
-    "ss": "Trump, Önemli Ara Dönem Mitinglerini İptal Ettikten Sonra Rotayı Tekrar Ters Çevirdi Associated Press'e göre Başkan Donald Trump, Kansas ve Iowa'da arka arkaya kampanya mitinglerini iptal ettikten 24 saatten daha kısa bir süre sonra Pazar günü yeniden başlatacak. Ani geri dönüş, Trump'ın görünümü hurdaya çıkarmasının ardından geldi",
-    "u": "https://www.zerohedge.com/political/trump-abruptly-cancels-high-stakes-rally-ominous-sign-ahead-midterms",
-    "ts": 1793372420000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Waymo, robotaksi operasyonları için Toyota ile anlaştı",
+    "tt": null,
+    "s": "Waymo, Japonya ve Birleşik Krallık'taki robotaksi operasyonları için Toyota ile anlaştı. Otonom bZ4X araçları ilk, Waymo'nun ileride robotaksi hizmeti sunmayı planladığı Japonya'da test edilecek. Amaç, bu araçları Birleşik Krallık gibi trafiğin soldan aktığı diğer ülkelerde de devreye almak. Waymo, ",
+    "ss": null,
+    "u": "https://www.bloomberght.com/waymo-robotaksi-operasyonlari-icin-toyota-ile-anlasti-3792969",
+    "ts": 1793382208000,
+    "tags": []
+   },
+   {
+    "t": "BOTAŞ, Kasım ve Aralık ayları için doğalgaz tüketim limitlerini güncelledi",
+    "tt": null,
+    "s": "Boru Hatları ile Petrol Taşıma A.Ş. (BOTAŞ), konutlarda uygulanan kademeli doğalgaz tarifesi kapsamında Kasım ve Aralık aylarına ilişkin 81 ildeki tüketim limitlerini güncelledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/botas-kasim-ve-aralik-aylari-icin-dogalgaz-tuketim-limitlerini-guncelledi-3792968",
+    "ts": 1793381721000,
+    "tags": []
+   },
    {
     "t": "Fed/Musalem: Yakında ilave sıkılaşma gerekecek",
     "tt": null,
@@ -837,24 +865,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/hazine-912-4-milyar-liralik-ic-borclanmaya-gidecek-3792951",
     "ts": 1793371038000,
-    "tags": []
-   },
-   {
-    "t": "Richmond Fed Başkanı'ndan kademeli yaklaşıma destek",
-    "tt": null,
-    "s": "Richmond Fed Başkanı Tom Barkin, işsizliğin düşük ve ekonomik talebin güçlü olduğu bir ortamda enflasyonun yüksek seviyelerde seyretmesi nedeniyle kademeli faiz artışlarının mantıklı olduğunu savundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/richmond-fed-baskani-ndan-kademeli-yaklasima-destek-3792948",
-    "ts": 1793370883000,
-    "tags": []
-   },
-   {
-    "t": "Intel hisselerinde tarihi düşüş",
-    "tt": null,
-    "s": "Intel Corp.'un hisseleri, PC işlemcilerine yönelik zayıflayan talep ve veri merkezi bileşenlerindeki tedarik zinciri aksamaları nedeniyle gelir tahminlerinin beklentileri karşılayamaması üzerine son iki yılı aşkın sürenin en sert düşüşünü kaydetti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/intel-hisselerinde-tarihi-dusus-3792937",
-    "ts": 1793368414000,
     "tags": []
    }
   ]
