@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T03:20:50.081737+00:00",
+ "generated": "2026-10-30T04:21:40.952680+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4004.0,
-   "c": -0.68,
-   "d": -27.4,
+   "p": 4000.4,
+   "c": -0.77,
+   "d": -31.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.365,
-   "c": -1.58,
-   "d": -0.826,
+   "p": 51.26,
+   "c": -1.78,
+   "d": -0.931,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 103.42,
-   "c": 1.39,
-   "d": 1.42,
+   "p": 103.23,
+   "c": 1.21,
+   "d": 1.23,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 112.37,
-   "c": -2.18,
-   "d": -2.51,
+   "p": 112.13,
+   "c": -2.39,
+   "d": -2.75,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.69,
-   "c": -0.34,
-   "d": -0.35,
+   "p": 101.752,
+   "c": -0.28,
+   "d": -0.288,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9345,
-   "c": 0.21,
-   "d": 0.105,
+   "p": 49.9223,
+   "c": 0.19,
+   "d": 0.093,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77221,
-   "c": -3.29,
+   "p": 78167,
+   "c": -2.02,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2209.53,
-   "c": -4.21,
+   "p": 2237.15,
+   "c": -3.03,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.52,
-   "c": -4.26,
+   "p": 97.28,
+   "c": -2.34,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.23,
-   "c": -5.25,
+   "p": 1.25,
+   "c": -2.96,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 707.59,
-   "c": -5.33,
+   "p": 716.61,
+   "c": -4.06,
    "k": "usd"
   }
  ],
@@ -384,6 +384,17 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady",
+    "tt": "Yen, BOJ'un Faiz Oranlarını Sabit Tutmasının Ardından Dolar Karşısındaki Kazançlarını Arttırdı",
+    "s": "The yen extended gains against the dollar after the Bank of Japan kept interest rates unchanged as expected and indicated that underlying inflation has reached 2% for the first time.",
+    "ss": "Japonya Merkez Bankası'nın faiz oranlarını beklendiği gibi değiştirmemesi ve temel enflasyonun ilk kez %2'ye ulaştığını belirtmesinin ardından yen, dolar karşısında kazançlarını sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady",
+    "ts": 1793330131000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
     "t": "Stocks Drop, Bonds Gain as Tech Results Underwhelm: Markets Wrap",
     "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
     "s": "Technology shares led a global stock selloff as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil gained.",
@@ -393,92 +404,75 @@
     "tags": []
    },
    {
-    "t": "Yen Holds Gains Against Dollar After BOJ Keeps Rates Steady",
-    "tt": null,
-    "s": "The yen held gains against the dollar after the Bank of Japan kept interest rates unchanged as expected and indicated that the price trend reaches 2% for the first time.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady",
-    "ts": 1793330131000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "US-Owned Startup Plans $600 Million Malaysia Rare-Earth Refinery",
-    "tt": null,
-    "s": "A US majority-owned startup plans to invest $600 million in a rare-earth refinery in Malaysia, seeking to develop a new source of the critical minerals as Washington pushes to reduce its reliance on China.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/us-owned-startup-plans-600-million-malaysia-rare-earth-refinery",
-    "ts": 1793330030000,
+    "t": "Iron Ore Heads for Lowest Month-End Close Since October 2022",
+    "tt": "Demir Cevheri Ekim 2022'den Bu Yana En Düşük Ay Sonu Kapanışına Gidiyor",
+    "s": "Iron ore futures in Singapore headed for the lowest month-end close in four years, as ample global supplies and elevated Chinese port stockpiles curbed demand.",
+    "ss": "Singapur'da demir cevheri vadeli işlemleri, küresel arzın bolluğu ve Çin limanlarında artan stokların talebi kısıtlamasıyla dört yılın en düşük ay sonu kapanışına yöneldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/iron-ore-heads-for-lowest-month-end-close-since-october-2022",
+    "ts": 1793333601000,
     "tags": []
    },
    {
-    "t": "Prabowo’s Brother Sounds Alarm Over Indonesian Stock Market",
-    "tt": null,
-    "s": "Indonesian President Prabowo Subianto’s brother stressed the importance of a trusted and transparent local share market, saying the country must “mitigate the MSCI issue” and telling business leaders at a forum Thursday to stop “deep frying” stocks.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/prabowo-s-own-brother-sounds-alarm-over-indonesian-stock-market",
-    "ts": 1793272662000,
+    "t": "Chinese Investors Seek Shelter in Long-Bond ETFs as Stocks Sink",
+    "tt": "Hisse senetleri batarken Çinli yatırımcılar uzun tahvil ETF'lerine sığındı",
+    "s": "Chinese investors are piling into exchange-traded funds tracking longer-dated government bonds, seeking shelter in a rallying debt market while local stocks keep sliding.",
+    "ss": "Çinli yatırımcılar, yerel hisse senetleri düşmeye devam ederken, yükselen bir borç piyasasına sığınmak için uzun vadeli devlet tahvillerini takip eden borsada işlem gören fonlara akın ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-investors-seek-shelter-in-long-bond-etfs-as-stocks-sink",
+    "ts": 1793325621000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Oct. 30",
-    "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
-    "ss": "Petrol, ABD'nin İran'a karşı askeri saldırılara yeniden başlayabileceği ve bölgede enerji akışına zarar verebilecek yeni türbülans riskine yol açabileceği işaretleri üzerine yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
-    "ts": 1793311337000,
+    "t": "African Export-Import Bank Mulls First Offshore Yuan Loan",
+    "tt": null,
+    "s": "African Export-Import Bank is planning a $1 billion syndicated loan that could include an offshore yuan tranche, according to people familiar with the matter, in what would be its first foray into the offshore renminbi market amid growing China-Africa trade ties.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/african-export-import-bank-mulls-first-offshore-yuan-loan",
+    "ts": 1793333375000,
     "tags": []
    },
    {
-    "t": "Gold Drops to Near $4,000 on Hot Inflation, Tech-Stock Selloff",
-    "tt": null,
-    "s": "Gold fell to near $4,000 an ounce — on track for a second monthly loss — as rising oil prices added to inflationary pressure and a tech-stock selloff raised the risk of investors selling the metal to cover losses.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
-    "ts": 1793316726000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Rio Tinto Halts Underground Operations at Major Copper Mine",
-    "tt": null,
-    "s": "Rio Tinto Group has suspended underground operations at its massive Oyu Tolgoi copper mine in Mongolia.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations",
-    "ts": 1793293370000,
+    "t": "Taiwan Stocks Heads for Correction as Global AI Selloff Deepens",
+    "tt": "Tayvan Hisse Senetleri Küresel Yapay Zeka Satışları Derinleştikçe Düzeltmeye Gidiyor",
+    "s": "Taiwan’s stock benchmark is on the verge of entering into a technical correction as the global selloff in artificial intelligence stocks deepens.",
+    "ss": "Yapay zeka hisselerindeki küresel satışlar derinleştikçe Tayvan hisse senedi endeksi teknik düzeltmeye girmenin eşiğinde.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
+    "ts": 1793331295000,
     "tags": []
    },
    {
-    "t": "India’s Small Investors Dump Stocks, Chase New Listings",
+    "t": "Chinese Conglomerate Huafa Faces Risk of Downgrade by Fitch",
     "tt": null,
-    "s": "Individuals and proprietary traders sold more than 70 billion rupees of shares this month through Oct. 26.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-10-30/india-s-small-investors-dump-stocks-chase-new-listings",
-    "ts": 1793327459000,
-    "tags": []
-   },
-   {
-    "t": "Zhuhai Huafa Put on Negative Watch by Fitch on Refinancing Risk",
-    "tt": null,
-    "s": "Fitch Ratings said it has placed Zhuhai Huafa Group Co. on negative watch on heightened refinancing risks, days after a selloff in the Chinese company’s offshore bonds.",
+    "s": "Zhuhai Huafa Group Co., one of China’s biggest local-government owned conglomerates, was placed on rating watch negative by Fitch Ratings over heightened refinancing risks, a step that signals increased possibility of a downgrade.",
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk",
     "ts": 1793327371000,
     "tags": []
    },
    {
-    "t": "Japan’s Top Insurers Revive Lending as Rates Boost Returns",
-    "tt": null,
-    "s": "Japan’s biggest life insurers are stepping up lending, with a focus on overseas projects including data centers, as higher interest rates make loans more attractive and surging investment in artificial intelligence and power networks fuels demand for capital.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/japan-s-top-insurers-revive-lending-as-rates-boost-returns",
-    "ts": 1793327131000,
+    "t": "Chinese Junk Dollar Bonds Head for Worst Week in a Year on Huafa",
+    "tt": "Çin Hurda Dolar Tahvilleri Huafa'da Yılın En Kötü Haftasına Gidiyor",
+    "s": "China’s high-yield dollar bonds are heading for their worst week in more than a year as signs of liquidity strains at state-owned conglomerate Zhuhai Huafa Group Co. sapped sentiment.",
+    "ss": "Çin'in yüksek getirili dolar tahvilleri, devlete ait holding şirketi Zhuhai Huafa Group Co.'daki likidite sıkıntısı işaretlerinin güveni olumsuz etkilemesiyle bir yılı aşkın sürenin en kötü haftasına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-junk-dollar-bonds-head-for-worst-week-in-a-year-on-huafa",
+    "ts": 1793332009000,
+    "tags": []
+   },
+   {
+    "t": "Binance Freezes Assets After Suspected Hack",
+    "tt": "Binance, Şüpheli Saldırının Ardından Varlıkları Dondurdu",
+    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global",
+    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Shery Ahn ve Haidi Stroud-Watts ile Tokyo ve Sidney'den canlı yayında, haber yapımcılarından ve sektör liderlerinden dünyayı şekillendiren en büyük hikayeler hakkında fikir ve analiz alıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-10-30/the-asia-trade-10-30-2026-video",
+    "ts": 1793331878000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Extend Rally With Global Peers as Risk-Off Haven",
+    "tt": "Hazine Tahvilleri Riskten Kaçınma Cenneti Olarak Küresel Benzerleriyle Yükselişini Genişletiyor",
+    "s": "A rally in Treasuries gathered pace in Asia on Friday as a selloff in US tech stocks drove investors to the safety of US government debt.",
+    "ss": "ABD teknoloji hisselerindeki satışların yatırımcıları ABD devlet borçlarının güvenliğine itmesiyle birlikte Cuma günü Asya'da Hazine tahvillerindeki yükseliş hız kazandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
+    "ts": 1793322822000,
     "tags": []
    }
   ],
@@ -577,18 +571,18 @@
   "MarketWatch": [
    {
     "t": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-    "tt": null,
+    "tt": "Bu şehre 'emekli olmak için en iyi yer' unvanını veren şey neydi? Aslında orada yaşamayı karşılayabilirsin.",
     "s": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
-    "ss": null,
+    "ss": "Kazanmak için düşük yaşam maliyeti, yüksek yaşam kalitesi ve emekliler için avantajlı vergiler.",
     "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
     "ts": 1793330160000,
     "tags": []
    },
    {
     "t": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-    "tt": null,
+    "tt": "Amazon'un hisseleri, yeni ve cesur bulut tahminlerine rağmen düşüyor",
     "s": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
-    "ss": null,
+    "ss": "Mütevazı AWS sonuçları ve zayıf reklam büyümesi, Amazon'un üçüncü çeyrek kazançlarında Wall Street'i hayal kırıklığına uğrattı",
     "u": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
     "ts": 1793319300000,
     "tags": []
@@ -622,18 +616,18 @@
    },
    {
     "t": "Why Intel’s stock is sinking toward its worst drop in two years",
-    "tt": null,
+    "tt": "Intel'in hisseleri neden iki yılın en kötü düşüşüne doğru gidiyor?",
     "s": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
-    "ss": null,
+    "ss": "Bellek yongası fiyatlarının talebi düşürmesi ve kurumsal BT ekiplerinin dizüstü bilgisayarlar için daha az bütçeye sahip olması nedeniyle Intel'in PC işi baskı altında.",
     "u": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
     "ts": 1793316060000,
     "tags": []
    },
    {
     "t": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    "tt": null,
+    "tt": "İstismarcı eski kocam çocuklarımızın eğitimi için 20.000 dolar sözü verdi. Şimdi ödemeyi reddediyor. Yasal olarak yükümlü mü?",
     "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-    "ss": null,
+    "ss": "\"Boşanmadan önce eski kayınvalidem, kızlarımızın her biri adına yatırım yapması için ona 20.000 dolar emanet etti.\"",
     "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
     "ts": 1793313900000,
     "tags": []
@@ -668,97 +662,151 @@
   ],
   "ZeroHedge": [
    {
+    "t": "The Non-Obvious Anatomy Of A Slow Collapse: How Economic Decline Reshapes Nations, Concentrates Wealth, And Paves The Way For A New Order",
+    "tt": "Yavaş Bir Çöküşün Açık Olmayan Anatomisi: Ekonomik Gerileme Milletleri Nasıl Yeniden Şekillendiriyor, Zenginliği Nasıl Yoğunlaştırıyor ve Yeni Bir Düzenin Yolunu Açıyor",
+    "s": "The Non-Obvious Anatomy Of A Slow Collapse: How Economic Decline Reshapes Nations, Concentrates Wealth, And Paves The Way For A New Order Authored by Milan Adams via Preppgroup , Debt is a promise dressed as a number, and the rich world has spent four decades making promises its productive capacity ",
+    "ss": "Yavaş Bir Çöküşün Açık Olmayan Anatomisi: Ekonomik Gerileme Ulusları Nasıl Yeniden Şekillendiriyor, Zenginliği Nasıl Yoğunlaştırıyor ve Preppgroup aracılığıyla Milan Adams tarafından yazılan Yeni Bir Düzenin Yolunu Nasıl Açıyor Borç rakam gibi giyinmiş bir vaattir ve zengin dünya kırk yıl boyunca üretken kapasitesine dair sözler verdi.",
+    "u": "https://www.zerohedge.com/geopolitical/non-obvious-anatomy-slow-collapse-how-economic-decline-reshapes-nations-concentrates",
+    "ts": 1793331300000,
+    "tags": []
+   },
+   {
     "t": "Amateur Prospector Discovers Gold Nugget Worth $150,000 In Australian Outback",
-    "tt": null,
+    "tt": "Amatör Madenci Avustralya Taşrasında 150.000 Dolar Değerindeki Altın Külçesini Keşfetti",
     "s": "Amateur Prospector Discovers Gold Nugget Worth $150,000 In Australian Outback A recreational treasure hunter in Australia has struck gold in spectacular fashion, discovering a massive nugget that could ultimately sell for as much as $200,000, according to ABC News . The find occurred earlier this mo",
-    "ss": null,
+    "ss": "Amatör Madenci Avustralya Taşrasında 150.000 Dolar Değerindeki Altın Külçesini Keşfetti ABC News'e göre, Avustralya'daki eğlence amaçlı bir hazine avcısı muhteşem bir şekilde altın buldu ve sonunda 200.000 dolara kadar satılabilecek devasa bir külçe keşfetti. Buluntu bu ayın başlarında meydana geldi",
     "u": "https://www.zerohedge.com/markets/amateur-prospector-discovers-gold-nugget-worth-150000-australian-outback",
     "ts": 1793329800000,
     "tags": []
    },
    {
     "t": "Lebanese Church Damage & Viral Soldier Photo Prompt Calls For Pope's Intervention",
-    "tt": null,
+    "tt": "Lübnan Kilisesi Hasarı ve Viral Asker Fotoğrafı Papa'nın Müdahale Çağrısını Yaptı",
     "s": "Lebanese Church Damage &amp; Viral Soldier Photo Prompt Calls For Pope's Intervention Authored by Jason Ditz via AntiWar.com Since invading Lebanon in early March, Israeli officials have tried to frame the war as primarily targeting Lebanon’s Shi'ite population - as a result of attacks by Hezbollah ",
-    "ss": null,
+    "ss": "Lübnan Kilisesi Hasarı ve Viral Asker Fotoğrafı Papa'nın Müdahale Çağrısını Yazan Jason Ditz, AntiWar.com aracılığıyla Mart ayının başında Lübnan'ı işgal etmesinden bu yana, İsrailli yetkililer savaşı, Hizbullah'ın saldırılarının bir sonucu olarak öncelikli olarak Lübnan'ın Şii nüfusunu hedef alan bir çerçeveye oturtmaya çalıştılar.",
     "u": "https://www.zerohedge.com/geopolitical/lebanese-church-damage-viral-soldier-photo-prompt-calls-popes-intervention",
     "ts": 1793328300000,
     "tags": []
    },
    {
     "t": "Ted Cruz Got Something Right On The Iran War",
-    "tt": null,
+    "tt": "Ted Cruz İran Savaşı Konusunda Doğru Bir Şey Anladı",
     "s": "Ted Cruz Got Something Right On The Iran War \"You’ll see Iran in a couple of weeks, if you don’t mind,\" Trump told a crowd on Tuesday during a rally in Lubbock, referencing plans to potentially renew a major air campaign on Iran. Days away from the midterm elections, and White House officials are st",
-    "ss": null,
+    "ss": "Ted Cruz, İran Savaşı Konusunda Doğru Bir Şey Anladı Trump, Salı günü Lubbock'ta düzenlenen bir miting sırasında kalabalığa, İran'a yönelik büyük bir hava saldırısını potansiyel olarak yenileme planlarına atıfta bulunarak, \"Bir sakıncası yoksa, birkaç hafta içinde İran'ı göreceksiniz\" dedi. Ara seçimlere günler kaldı ve Beyaz Saray yetkilileri gergin",
     "u": "https://www.zerohedge.com/political/ted-cruz-got-something-right-iran-war",
     "ts": 1793326800000,
     "tags": []
    },
    {
     "t": "\"Uncharted Territory\": Arctic Vortex Could Break Earliest On Record",
-    "tt": null,
+    "tt": "\"Bilinmeyen Bölge\": Arctic Vortex Rekora En Erken Kırılabilir",
     "s": "\"Uncharted Territory\": Arctic Vortex Could Break Earliest On Record Weather forecasting website Severe Weather Europe warns that the Arctic polar vortex could undergo a sudden stratospheric warming in early November, potentially the earliest on record . The rapid warming could weaken, displace, or s",
-    "ss": null,
+    "ss": "\"Bilinmeyen Bölge\": Arktik Vorteks En Erken Rekor Kırılabilir Hava tahmini web sitesi Şiddetli Hava Durumu Avrupa, Arktik kutup girdabının Kasım ayı başında ani bir stratosferik ısınmaya maruz kalabileceği konusunda uyarıyor; bu, potansiyel olarak kayıtlara geçen en erken dönem. Hızlı ısınma zayıflatabilir, yerini değiştirebilir veya",
     "u": "https://www.zerohedge.com/weather/uncharted-territory-arctic-vortex-could-break-earliest-record",
     "ts": 1793325300000,
     "tags": []
    },
    {
     "t": "Kathleen Kennedy Named Head Of Ceremonies For 2028 Olympics",
-    "tt": null,
+    "tt": "Kathleen Kennedy, 2028 Olimpiyatları Törenlerinin Başkanı Oldu",
     "s": "Kathleen Kennedy Named Head Of Ceremonies For 2028 Olympics The 2028 Olympic Summer Games are slated to be held in Los Angeles, California - An event they have not hosted since 1984. &nbsp;It's not surprising that the city, currently in the midst of an entertainment industry decline, is desperate to",
-    "ss": null,
+    "ss": "Kathleen Kennedy, 2028 Olimpiyatları Törenlerinin Başkanı Olarak Atandı 2028 Olimpiyat Yaz Oyunlarının Los Angeles, Kaliforniya'da yapılması planlanıyor - 1984'ten beri ev sahipliği yapmadıkları bir etkinlik.  Şu anda eğlence endüstrisindeki bir gerilemenin ortasında olan şehrin, Los Angeles, Kaliforniya'da düzenlenmesi planlanıyor.",
     "u": "https://www.zerohedge.com/political/kathleen-kennedy-named-head-ceremonies-2028-olympics",
     "ts": 1793323800000,
     "tags": []
    },
    {
     "t": "CDC Issues Emergency Response Over Dengue Surge In Florida",
-    "tt": null,
+    "tt": "CDC, Florida'daki Dang humması nedeniyle acil müdahale yayınladı",
     "s": "CDC Issues Emergency Response Over Dengue Surge In Florida Authored by Zachary Stieber via The Epoch Times , The Centers for Disease Control and Prevention has launched an emergency response to the surge in Florida of cases of dengue , a disease caused by a mosquito-borne virus, the agency confirmed",
-    "ss": null,
+    "ss": "CDC, Florida'daki Dang Humması Dalgasında Acil Durum Müdahalesi Yayınladı Zachary Stieber, The Epoch Times aracılığıyla, Hastalık Kontrol ve Önleme Merkezleri Florida'da sivrisinek kaynaklı bir virüsün neden olduğu bir hastalık olan dang humması vakalarındaki artışa karşı acil müdahale başlattığını doğruladı",
     "u": "https://www.zerohedge.com/medical/cdc-issues-emergency-response-over-dengue-surge-florida",
     "ts": 1793322300000,
     "tags": []
    },
    {
     "t": "RFK Goes Off On Muslims And The Media Is Outraged",
-    "tt": null,
+    "tt": "RFK Müslümanlara Saldırıyor ve Medya Öfkeli",
     "s": "RFK Goes Off On Muslims And The Media Is Outraged Robert F. Kennedy Jr.’s remarks at a Republican campaign rally in Grand Rapids have caused a media firestorm , in large part because his Democrat background gives extra sting to his recent criticisms of Islamic culture. In liberal and independent wes",
-    "ss": null,
+    "ss": "RFK Müslümanlara Saldırıyor ve Medya Öfkeleniyor Robert F. Kennedy Jr.'ın Grand Rapids'deki bir Cumhuriyetçi kampanya mitinginde yaptığı açıklamalar medyada büyük bir fırtınaya neden oldu, bunun nedeni büyük ölçüde Demokrat geçmişinin İslam kültürüne yönelik son eleştirilerine ekstra bir darbe vurmasıydı. Liberal ve bağımsız Batı'da",
     "u": "https://www.zerohedge.com/political/rfk-goes-muslims-and-media-outraged",
     "ts": 1793320800000,
     "tags": []
    },
    {
     "t": "Texas Federal Judge Told Lawyer He Was Intimidated By \"Black Excellence\" In Light Of His \"White Mediocrity\"",
-    "tt": null,
+    "tt": "Teksas Federal Yargıcı, Avukatına \"Beyaz Sıradanlığı\" Işığında \"Siyahi Mükemmelliğinden\" Korktuğunu Söyledi",
     "s": "Texas Federal Judge Told Lawyer He Was Intimidated By \"Black Excellence\" In Light Of His \"White Mediocrity\" A federal judge in Dallas told a Latino lawyer he was \"very intimidated for some reason, Mr. Young, with Black excellence, in light of your White mediocrity,\" according to the April 24 hearing",
-    "ss": null,
+    "ss": "Teksas Federal Yargıcı, Avukata \"Beyaz Sıradanlığı\" Işığında \"Siyahi Mükemmelliğinden\" Korktuğunu Söyledi Dallas'taki bir federal yargıç, Latin kökenli bir avukata \"bir nedenden ötürü çok korktuğunu söyledi, Bay Young, sizin Beyaz sıradanlığınız ışığında Siyah mükemmelliğiyle.\"",
     "u": "https://www.zerohedge.com/political/texas-federal-judge-told-lawyer-he-was-intimidated-black-excellence-light-his-white",
     "ts": 1793319300000,
     "tags": []
    },
    {
     "t": "Texas Children's Hospital Opens Nation's First Detransition Clinic Following Paxton Settlement",
-    "tt": null,
+    "tt": "Teksas Çocuk Hastanesi, Paxton Yerleşiminin Ardından Ülkenin İlk Geçiş Kliniğini Açtı",
     "s": "Texas Children's Hospital Opens Nation's First Detransition Clinic Following Paxton Settlement Authored by AG News Staff via American Greatness , Texas Attorney General Ken Paxton announced that Texas Children's Hospital has opened what his office calls the nation's first detransition clinic , fulfi",
-    "ss": null,
+    "ss": "Teksas Çocuk Hastanesi, Paxton Anlaşmasının Ardından Ülkenin İlk Geçiş Kliniği Açtı AG Haber Personeli tarafından American Greatness aracılığıyla yazılmıştır, Teksas Başsavcısı Ken Paxton, Teksas Çocuk Hastanesi'nin ofisinin ülkenin ilk geçiş kliniği olarak adlandırdığı kliniği açtığını duyurdu, fulfi",
     "u": "https://www.zerohedge.com/political/texas-childrens-hospital-opens-nations-first-detransition-clinic-following-paxton",
     "ts": 1793316300000,
-    "tags": []
-   },
-   {
-    "t": "Trump Abruptly Cancels High-Stakes Rally In Ominous Sign Ahead Of Midterms",
-    "tt": "Trump, Ara Sınavlar Öncesinde Uğursuz Bir İşaretle Yüksek Bahisli Ralliyi Aniden İptal Etti",
-    "s": "Trump Abruptly Cancels High-Stakes Rally In Ominous Sign Ahead Of Midterms President Donald Trump abruptly canceled a planned campaign rally in Kansas just days before the midterm elections , raising fresh questions about Republicans' prospects of maintaining their grip on the Senate. President Dona",
-    "ss": "Trump, Ara Seçimler Öncesinde Uğursuz Bir İşaretle Yüksek Bahisli Mitingi Aniden İptal Etti Başkan Donald Trump, ara seçimlerden sadece birkaç gün önce Kansas'ta planlanan bir kampanya mitingini aniden iptal etti ve Cumhuriyetçilerin Senato üzerindeki hakimiyetlerini sürdürme umutları hakkında yeni soruları gündeme getirdi. Başkan Dona",
-    "u": "https://www.zerohedge.com/political/trump-abruptly-cancels-high-stakes-rally-ominous-sign-ahead-midterms",
-    "ts": 1793316000000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Altın petrol ve enflasyon baskısıyla 4 bin doların altına geriledi",
+    "tt": null,
+    "s": "Altın, yükselen petrol fiyatlarının enflasyon endişelerini artırması ve ABD'den gelen güçlü enflasyon verilerinin Fed'in yıl içinde yeniden faiz artırabileceği beklentisini güçlendirmesiyle cuma günü geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altin-petrol-ve-enflasyon-baskisiyla-4-bin-dolarin-altina-geriledi-3792821",
+    "ts": 1793332303000,
+    "tags": []
+   },
+   {
+    "t": "Petrol Hürmüz Boğazı ve Suudi Arabistan'daki saldırılarla yükseldi",
+    "tt": null,
+    "s": "Petrol, Yemen'deki İran destekli Husilerin Suudi Arabistan'daki enerji tesislerine yönelik saldırıları ve Orta Doğu'da arz kesintisi endişelerinin etkisiyle cuma günü yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrol-hurmuz-bogazi-ve-suudi-arabistandaki-saldirilarla-yukseldi-3792820",
+    "ts": 1793332160000,
+    "tags": []
+   },
+   {
+    "t": "Binance'deki güvenlik endişesi Bitcoin'i 78 bin doların altına çekti",
+    "tt": null,
+    "s": "Bitcoin, kripto para borsası Binance'de olası güvenlik ihlali endişelerinin dijital varlık piyasalarını sarsmasıyla cuma günü 78 bin doların altına geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/binancedeki-guvenlik-endisesi-bitcoini-78-bin-dolarin-altina-cekti-3792819",
+    "ts": 1793331954000,
+    "tags": []
+   },
+   {
+    "t": "Japonya Merkez Bankası faizi sabit tuttu, artırım sinyali verdi",
+    "tt": null,
+    "s": "Japonya Merkez Bankası (BOJ), 2013'te yüzde 2 enflasyon hedefini benimsemesinden bu yana ilk kez fiyat artışlarının genel olarak hedefle uyumlu olduğunu açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/japonya-merkez-bankasi-faizi-sabit-tuttu-artirim-sinyali-verdi-3792818",
+    "ts": 1793331131000,
+    "tags": []
+   },
+   {
+    "t": "Kripto para borsası Binance'te siber saldırı şüphesi: 2,54 milyar dolarlık varlık donduruldu",
+    "tt": null,
+    "s": "Kripto para borsası Binance, olası bir güvenlik sorununa ilişkin inceleme sürerken dondurulan varlıkların doğrulanmış toplam tutarının 2,54 milyar dolar olduğunu bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/binance-olasi-guvenlik-sorununda-dondurulan-varliklarin-2-54-milyar-dolar-oldugunu-acikladi-3792817",
+    "ts": 1793330612000,
+    "tags": []
+   },
+   {
+    "t": "Intel'in kârı üçüncü çeyrekte geriledi",
+    "tt": null,
+    "s": "ABD'li çip üreticisi Intel'in net karı, yılın üçüncü çeyreğinde yıllık bazda yüzde 18 azalış gösterdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/intel-in-kri-ucuncu-ceyrekte-geriledi-3792816",
+    "ts": 1793330246000,
+    "tags": []
+   },
    {
     "t": "Ekonomi ve siyaset gündemi- 30 Ekim 2026",
     "tt": null,
@@ -794,60 +842,6 @@
     "u": "https://www.bloomberght.com/yapi-denetiminde-uc-il-icin-yeni-duzenleme-3792812",
     "ts": 1793308263000,
     "tags": []
-   },
-   {
-    "t": "ABD kamu borcu 80 yılın zirvesinde",
-    "tt": null,
-    "s": "ABD'de federal kamu borcunun gayrisafi yurt içi hasılaya (GSYH) oranı, 30 Eylül'de sona eren 2026 mali yılında yüzde 100'e ulaşarak 1946'dan bu yana en yüksek seviyesine çıktı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-kamu-borcu-80-yilin-zirvesinde-3792811",
-    "ts": 1793307541000,
-    "tags": []
-   },
-   {
-    "t": "Cumhurbaşkanı Erdoğan Donald Trump'la görüştü",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump, 24 saatte ikinci kez telefonla görüştü.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cumhurbaskani-erdogan-donald-trump-la-gorustu-3792810",
-    "ts": 1793300518000,
-    "tags": []
-   },
-   {
-    "t": "Putin'den AB ile savaş yorumu",
-    "tt": null,
-    "s": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/putin-den-ab-ile-savas-yorumu-3792809",
-    "ts": 1793300076000,
-    "tags": []
-   },
-   {
-    "t": "Von der Leyen, Kanada için ortak üyelik modelini anlattı",
-    "tt": null,
-    "s": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Kanada için ısrarla önerdiği \"ortak üyelik\" modelinin ayrıntılarını açıklayarak, bu modelin Avrupa dışındaki diğer en yakın ortaklara da açık olacağını bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/von-der-leyen-kanada-icin-ortak-uyelik-modelini-anlatti-3792808",
-    "ts": 1793287797000,
-    "tags": []
-   },
-   {
-    "t": "Google'ın eski mühendisinden yapay zeka ve emeklilik açıklaması",
-    "tt": null,
-    "s": "ABD'li teknoloji şirketi Google'ın eski mühendisi ve Makine Zekası Araştırma Enstitüsünün (MIRI) Başkanı Nate Soares, yapay zeka nedeniyle insanların \"10 yıl sonra var olmayabileceğini, bu nedenle emeklilik için birikim yapmadığını\" söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/google-in-eski-muhendisinden-yapay-zeka-ve-emeklilik-aciklamasi-3792807",
-    "ts": 1793286810000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de işsizlik maaşı başvuruları düştü",
-    "tt": null,
-    "s": "ABD'de ilk kez işsizlik maaşı başvurusunda bulunanların sayısı, 24 Ekim'de sona eren haftada 194 bine gerileyerek piyasa beklentilerinin altında gerçekleşti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3792806",
-    "ts": 1793285841000,
-    "tags": []
    }
   ]
  },
@@ -863,7 +857,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
+  "çeviri": "500 Server Error: Internal Server Error for url: https://translate.googleapis.com/translate_a/single",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
