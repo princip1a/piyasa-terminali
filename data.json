@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T02:22:53.750666+00:00",
+ "generated": "2026-10-30T03:20:50.081737+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4021.6,
-   "c": -0.24,
-   "d": -9.8,
+   "p": 4004.0,
+   "c": -0.68,
+   "d": -27.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.635,
-   "c": -1.07,
-   "d": -0.556,
+   "p": 51.365,
+   "c": -1.58,
+   "d": -0.826,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 104.26,
-   "c": 2.22,
-   "d": 2.26,
+   "p": 103.42,
+   "c": 1.39,
+   "d": 1.42,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 113.25,
-   "c": -1.42,
-   "d": -1.63,
+   "p": 112.37,
+   "c": -2.18,
+   "d": -2.51,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.75,
-   "c": -0.28,
-   "d": -0.29,
+   "p": 101.69,
+   "c": -0.34,
+   "d": -0.35,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9404,
-   "c": 0.22,
-   "d": 0.111,
+   "p": 49.9345,
+   "c": 0.21,
+   "d": 0.105,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 76954,
-   "c": -3.69,
+   "p": 77221,
+   "c": -3.29,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2206.04,
-   "c": -4.39,
+   "p": 2209.53,
+   "c": -4.21,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.5,
-   "c": -5.24,
+   "p": 95.52,
+   "c": -4.26,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.21,
-   "c": -6.3,
+   "p": 1.23,
+   "c": -5.25,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 708.53,
-   "c": -5.12,
+   "p": 707.59,
+   "c": -5.33,
    "k": "usd"
   }
  ],
@@ -384,105 +384,101 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Drop, Bonds Gain as Tech Results Underwhelm: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
+    "s": "Technology shares led a global stock selloff as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil gained.",
+    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793311676000,
+    "tags": []
+   },
+   {
+    "t": "Yen Holds Gains Against Dollar After BOJ Keeps Rates Steady",
+    "tt": null,
+    "s": "The yen held gains against the dollar after the Bank of Japan kept interest rates unchanged as expected and indicated that the price trend reaches 2% for the first time.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/yen-holds-gains-against-dollar-after-boj-keeps-rates-steady",
+    "ts": 1793330131000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "US-Owned Startup Plans $600 Million Malaysia Rare-Earth Refinery",
+    "tt": null,
+    "s": "A US majority-owned startup plans to invest $600 million in a rare-earth refinery in Malaysia, seeking to develop a new source of the critical minerals as Washington pushes to reduce its reliance on China.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/us-owned-startup-plans-600-million-malaysia-rare-earth-refinery",
+    "ts": 1793330030000,
+    "tags": []
+   },
+   {
+    "t": "Prabowo’s Brother Sounds Alarm Over Indonesian Stock Market",
+    "tt": null,
+    "s": "Indonesian President Prabowo Subianto’s brother stressed the importance of a trusted and transparent local share market, saying the country must “mitigate the MSCI issue” and telling business leaders at a forum Thursday to stop “deep frying” stocks.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/prabowo-s-own-brother-sounds-alarm-over-indonesian-stock-market",
+    "ts": 1793272662000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Oct. 30",
+    "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
+    "ss": "Petrol, ABD'nin İran'a karşı askeri saldırılara yeniden başlayabileceği ve bölgede enerji akışına zarar verebilecek yeni türbülans riskine yol açabileceği işaretleri üzerine yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+    "ts": 1793311337000,
+    "tags": []
+   },
+   {
+    "t": "Gold Drops to Near $4,000 on Hot Inflation, Tech-Stock Selloff",
+    "tt": null,
+    "s": "Gold fell to near $4,000 an ounce — on track for a second monthly loss — as rising oil prices added to inflationary pressure and a tech-stock selloff raised the risk of investors selling the metal to cover losses.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+    "ts": 1793316726000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Rio Tinto Halts Underground Operations at Major Copper Mine",
+    "tt": null,
+    "s": "Rio Tinto Group has suspended underground operations at its massive Oyu Tolgoi copper mine in Mongolia.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-29/rio-tinto-s-oyu-tolgoi-mine-suspended-underground-operations",
+    "ts": 1793293370000,
+    "tags": []
+   },
+   {
+    "t": "India’s Small Investors Dump Stocks, Chase New Listings",
+    "tt": null,
+    "s": "Individuals and proprietary traders sold more than 70 billion rupees of shares this month through Oct. 26.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-10-30/india-s-small-investors-dump-stocks-chase-new-listings",
+    "ts": 1793327459000,
+    "tags": []
+   },
+   {
+    "t": "Zhuhai Huafa Put on Negative Watch by Fitch on Refinancing Risk",
+    "tt": null,
+    "s": "Fitch Ratings said it has placed Zhuhai Huafa Group Co. on negative watch on heightened refinancing risks, days after a selloff in the Chinese company’s offshore bonds.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk",
+    "ts": 1793327371000,
+    "tags": []
+   },
+   {
     "t": "Japan’s Top Insurers Revive Lending as Rates Boost Returns",
     "tt": null,
     "s": "Japan’s biggest life insurers are stepping up lending, with a focus on overseas projects including data centers, as higher interest rates make loans more attractive and surging investment in artificial intelligence and power networks fuels demand for capital.",
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-10-30/japan-s-top-insurers-revive-lending-as-rates-boost-returns",
     "ts": 1793327131000,
-    "tags": []
-   },
-   {
-    "t": "China’s Oil Majors Get More Firepower for Energy Security Push",
-    "tt": null,
-    "s": "Improved profits at China’s state-owned oil majors are likely to help them deliver on Beijing’s demands for energy security.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-oil-majors-get-more-firepower-for-energy-security-push",
-    "ts": 1793326416000,
-    "tags": []
-   },
-   {
-    "t": "Treasuries Extend Rally With Global Peers as Risk-Off Haven",
-    "tt": null,
-    "s": "A rally in Treasuries gathered pace in Asia on Friday as a selloff in US tech stocks drove investors to the safety of US government debt.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/treasuries-extend-rally-with-global-peers-on-tech-stock-selloff",
-    "ts": 1793322822000,
-    "tags": []
-   },
-   {
-    "t": "Kioxia Faces Test to Impress With Earnings After 60% Stock Slump",
-    "tt": null,
-    "s": "Kioxia Holdings Corp. needs to clear a high bar with its upcoming results, after its swift slump from the world’s top stock gainer to the worst performer in the battered memory chip sector.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/kioxia-faces-test-to-impress-with-earnings-after-60-stock-slump",
-    "ts": 1793313000000,
-    "tags": []
-   },
-   {
-    "t": "Dollar’s Rate-Fueled Rally Seen Surviving US Midterm Gridlock",
-    "tt": null,
-    "s": "The dollar’s rally may have enough momentum to shrug off the US midterm election, with high interest rates and a surge in AI-related spending drawing capital even if the vote delivers political gridlock.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/dollar-s-rate-fueled-rally-set-to-ride-out-us-midterm-gridlock",
-    "ts": 1793320503000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Chinese Investors Seek Shelter in Long-Bond ETFs as Stocks Sink",
-    "tt": null,
-    "s": "Chinese investors are piling into exchange-traded funds tracking longer-dated government bonds, seeking shelter in a rallying debt market while local stocks keep sliding.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-investors-seek-shelter-in-long-bond-etfs-as-stocks-sink",
-    "ts": 1793325621000,
-    "tags": []
-   },
-   {
-    "t": "Codelco Dismisses Eight Staff as Copper Output Scandal Widens",
-    "tt": null,
-    "s": "Chilean copper giant Codelco let go eight employees after investigations into irregularities in the recording and reporting of production in 2024 and 2025 uncovered new evidence.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/codelco-dismisses-eight-staff-as-copper-output-scandal-widens",
-    "ts": 1793325611000,
-    "tags": []
-   },
-   {
-    "t": "Stock Selloff Deepens on Tech Earnings, Bonds Rise: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Baskı Altında, Liman Teklifi Tahvilleri Artırdı: Piyasalar İyileşiyor",
-    "s": "Technology shares led a global stock selloff as another round of disappointing earnings accelerated a rotation out of the artificial intelligence trade and drove investors toward haven assets such as Treasuries. Crude oil rallied.",
-    "ss": "Asya'daki hisse senetleri, ABD teknoloji devlerindeki satış dalgasının yatırımcıları hisse senedi piyasasının diğer bölümlerine yöneltmesi ve tahvil talebini artırmasının ardından düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793311676000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Oct. 30",
-    "tt": "30 Ekim Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil surged on signs the US may resume military strikes against Iran, risking fresh turbulence in the region that may hurt energy flows.",
-    "ss": "Petrol, ABD'nin İran'a karşı askeri saldırılara yeniden başlayabileceği ve bölgede enerji akışına zarar verebilecek yeni türbülans riskine yol açabileceği işaretleri üzerine yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
-    "ts": 1793311337000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "Binance Suspends Withdrawals After Suspected Hack",
-    "tt": null,
-    "s": "Binance suspended all deposits and withdrawals as it investigates a security incident that has resulted in the freezing of more than $2.5 billion in assets. Bloomberg's Suvashree Ghosh breaks down the news. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-10-30/binance-suspends-withdrawals-after-suspected-hack-video",
-    "ts": 1793324940000,
     "tags": []
    }
   ],
@@ -580,6 +576,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+    "tt": null,
+    "s": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+    "ts": 1793330160000,
+    "tags": []
+   },
+   {
     "t": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
     "tt": null,
     "s": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
@@ -659,18 +664,27 @@
     "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
     "ts": 1793309460000,
     "tags": []
-   },
-   {
-    "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "tt": "Eşim 401(k)'da sadece 80.000 doları olduğunu öğrendiğimde ağladı. 2,2 milyon dolarım var. Şok olmakta haksız mıyım?",
-    "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    "ss": "\"Geçen baharda emekli olma konusunu açtığımda, ne zaman istersem hazır olduğunu söyledi ve ben de bunu iyi durumda olduğumuz anlamına aldım.\"",
-    "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "ts": 1793306700000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Amateur Prospector Discovers Gold Nugget Worth $150,000 In Australian Outback",
+    "tt": null,
+    "s": "Amateur Prospector Discovers Gold Nugget Worth $150,000 In Australian Outback A recreational treasure hunter in Australia has struck gold in spectacular fashion, discovering a massive nugget that could ultimately sell for as much as $200,000, according to ABC News . The find occurred earlier this mo",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/amateur-prospector-discovers-gold-nugget-worth-150000-australian-outback",
+    "ts": 1793329800000,
+    "tags": []
+   },
+   {
+    "t": "Lebanese Church Damage & Viral Soldier Photo Prompt Calls For Pope's Intervention",
+    "tt": null,
+    "s": "Lebanese Church Damage &amp; Viral Soldier Photo Prompt Calls For Pope's Intervention Authored by Jason Ditz via AntiWar.com Since invading Lebanon in early March, Israeli officials have tried to frame the war as primarily targeting Lebanon’s Shi'ite population - as a result of attacks by Hezbollah ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/lebanese-church-damage-viral-soldier-photo-prompt-calls-popes-intervention",
+    "ts": 1793328300000,
+    "tags": []
+   },
    {
     "t": "Ted Cruz Got Something Right On The Iran War",
     "tt": null,
@@ -742,27 +756,18 @@
     "u": "https://www.zerohedge.com/political/trump-abruptly-cancels-high-stakes-rally-ominous-sign-ahead-midterms",
     "ts": 1793316000000,
     "tags": []
-   },
-   {
-    "t": "Crypto Rattled By Possible Binance Hack; Tether, Circle Freeze Billions In Stablecoins",
-    "tt": null,
-    "s": "Crypto Rattled By Possible Binance Hack; Tether, Circle Freeze Billions In Stablecoins Binance said Thursday it is investigating a \"potential security issue\" after billions of dollars in crypto left its exchange wallets , and the issuers of the two largest dollar stablecoins say they have frozen wel",
-    "ss": null,
-    "u": "https://www.zerohedge.com/crypto/binance-investigates-possible-hack-after-billions-transferred-out-tether-and-circle-freeze",
-    "ts": 1793314800000,
-    "tags": []
-   },
-   {
-    "t": "Alaska Gov. Orders Criminal Investigation Into Peltola Campaign",
-    "tt": null,
-    "s": "Alaska Gov. Orders Criminal Investigation Into Peltola Campaign Alaska Gov. Mike Dunleavy on Wednesday ordered an investigation into whether Democratic Senate candidate Mary Peltola's campaign should face criminal charges or civil penalties for recruiting a candidate who shares the name of Republica",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/alaska-gov-orders-criminal-investigation-peltola-campaign",
-    "ts": 1793313600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Ekonomi ve siyaset gündemi- 30 Ekim 2026",
+    "tt": null,
+    "s": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-30-ekim-2026-3792815",
+    "ts": 1793329854000,
+    "tags": []
+   },
    {
     "t": "Amazon'da satış arttı kâr azaldı",
     "tt": null,
@@ -842,15 +847,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3792806",
     "ts": 1793285841000,
-    "tags": []
-   },
-   {
-    "t": "Katar ABD'den 20 yıl boyunca yılda 3 milyon ton LNG satın alacak",
-    "tt": null,
-    "s": "Katar, Avustralya merkezli Woodside Energy şirketiyle 20 yıl boyunca yıllık 3 milyon ton sıvılaştırılmış doğalgaz (LNG) satın almak üzere anlaşma imzaladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/katar-abdden-20-yil-boyunca-yilda-3-milyon-ton-lng-satin-alacak-3792805",
-    "ts": 1793284541000,
     "tags": []
    }
   ]
