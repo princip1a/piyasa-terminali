@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T04:20:14.057435+00:00",
+ "generated": "2026-10-31T05:02:02.857275+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 3884.9,
-   "c": -3.63,
-   "d": -146.5,
+   "p": 3898.9,
+   "c": -3.29,
+   "d": -132.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.135,
-   "c": -5.86,
-   "d": -3.056,
+   "p": 49.276,
+   "c": -5.59,
+   "d": -2.915,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 102.95,
-   "c": 0.93,
-   "d": 0.95,
+   "p": 104.12,
+   "c": 2.08,
+   "d": 2.12,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 112.33,
-   "c": -2.22,
-   "d": -2.55,
+   "p": 113.43,
+   "c": -1.26,
+   "d": -1.45,
    "k": "usd"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77118,
-   "c": -1.34,
+   "p": 77094,
+   "c": -1.37,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2238.09,
-   "c": 0.05,
+   "p": 2237.29,
+   "c": -0.16,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 96.12,
-   "c": -1.19,
+   "p": 95.66,
+   "c": -1.61,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.24,
-   "c": -0.5,
+   "c": -0.79,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 702.71,
-   "c": -1.94,
+   "p": 701.31,
+   "c": -2.17,
    "k": "usd"
   }
  ],
@@ -578,6 +578,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+    "tt": "Grand Theft Callout: 'GTA 6' hayranları oyunun çıkış gününde işlerini kaçırıyorlar çünkü artık 'beklemek istemiyorlar'",
+    "s": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+    "ss": "Bu video oyunu için 13 yıl bekledikten sonra çalışanların neredeyse beşte biri, 19 Kasım'da yayınlandığında 'Grand Theft Auto VI' oynamak için bir gün izin almayı planlıyor",
+    "u": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+    "ts": 1793421000000,
+    "tags": []
+   },
+   {
     "t": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
     "tt": "Teknoloji balonu patladı mı? Nasdaq'ın zorlu yolculuğu neden ürkütücü bir şekilde 2000 yılına benziyor?",
     "s": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
@@ -665,15 +674,6 @@
     "u": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
     "ts": 1793392080000,
     "tags": []
-   },
-   {
-    "t": "The selloff in tech stocks is shifting into overdrive",
-    "tt": "Teknoloji hisselerindeki satışlar aşırı hızlanmaya doğru gidiyor",
-    "s": "Technology stocks had been priced for perfection. They are now getting hammered.",
-    "ss": "Teknoloji stokları mükemmellik için fiyatlanmıştı. Artık dövülmeye başlandılar.",
-    "u": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-    "ts": 1793391960000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
@@ -697,9 +697,9 @@
    },
    {
     "t": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens",
-    "tt": null,
+    "tt": "Moskova'nın Kaldıraç Gücü Zayıflarken Çin, Rus Gazında Büyük İndirim Sağladı",
     "s": "China Secures Massive Discount On Russian Gas As Moscow's Leverage Weakens Authored by Eurasianet via OilPrice , Russian government projections show China paying approximately 56% less for Russian natural gas than other foreign customers outside the former Soviet Union in 2026. Chinese companies are",
-    "ss": null,
+    "ss": "Moskova'nın Kaldıracı Zayıflarken Çin, Rus Gazında Büyük İndirim Sağladı Eurasianet tarafından OilPrice aracılığıyla yazılan Rus hükümeti tahminleri, Çin'in 2026'da eski Sovyetler Birliği dışındaki diğer yabancı müşterilere göre Rus doğalgazına yaklaşık %56 daha az ödeyeceğini gösteriyor.",
     "u": "https://www.zerohedge.com/energy/china-secures-massive-discount-russian-gas-moscows-leverage-weakens",
     "ts": 1793414100000,
     "tags": []
@@ -873,7 +873,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli"
+  "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
