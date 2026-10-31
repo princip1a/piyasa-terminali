@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T09:16:47.234292+00:00",
+ "generated": "2026-10-31T09:55:38.018294+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77327,
-   "c": -0.54,
+   "p": 77341,
+   "c": -0.29,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2240.95,
-   "c": 0.85,
+   "p": 2242.7,
+   "c": 0.76,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.38,
-   "c": -1.72,
+   "p": 95.33,
+   "c": -1.49,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.24,
-   "c": -1.28,
+   "p": 1.25,
+   "c": -0.43,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 701.68,
-   "c": -0.28,
+   "p": 701.95,
+   "c": -0.06,
    "k": "usd"
   }
  ],
@@ -476,9 +476,9 @@
    },
    {
     "t": "Investor Looks to Bid on Club Pilates-Owner Xponential",
-    "tt": null,
+    "tt": "Yatırımcı Club Pilates Sahibi Xponential'a Teklif Vermeyi Düşünüyor",
     "s": "Fund 1 Investments LLC, the third-largest shareholder in Xponential Fitness Inc., the owner of Club Pilates and Pure Barre brands, said it’s pushing for a take-private and is looking to buy the company itself.",
-    "ss": null,
+    "ss": "Club Pilates ve Pure Barre markalarının sahibi Xponential Fitness Inc.'in üçüncü büyük hissedarı Fund 1 Investments LLC, özel bir hisse için baskı yaptığını ve şirketin kendisini satın almak istediğini söyledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
     "ts": 1793368712000,
     "tags": []
@@ -873,7 +873,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
