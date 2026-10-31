@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T09:55:38.018294+00:00",
+ "generated": "2026-10-31T10:24:38.921852+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77341,
-   "c": -0.29,
+   "p": 77413,
+   "c": 0.07,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2242.7,
-   "c": 0.76,
+   "p": 2245.08,
+   "c": 0.99,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.33,
-   "c": -1.49,
+   "p": 95.58,
+   "c": -0.92,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -0.43,
+   "c": 0.1,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 701.95,
-   "c": -0.06,
+   "p": 702.75,
+   "c": 0.25,
    "k": "usd"
   }
  ],
@@ -394,6 +394,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
+    "tt": null,
+    "s": "Angola, sub-Saharan Africa’s second-largest oil producer, plans to cut spending on fuel subsidies in 2027 without significant increases in pump prices, relying instead on other measures to reduce costs.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
+    "ts": 1793439585000,
+    "tags": []
+   },
+   {
     "t": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
     "tt": "Kazançlar Stoke AI Hesaplaşmasıyla Teknoloji Rotası Derinleşiyor: Piyasalar Özeti",
     "s": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.",
@@ -472,15 +481,6 @@
     "ss": "Burger King ABD ve Kanada Başkanı Tom Curtis, görüşmede %6,2'lik tahmine karşılık %8,4 olarak belirtilen zincirin karşılaştırılabilir satış büyümesini tartıştı. Curtis, büyümenin büyük ölçüde, ziyareti bırakan ve şimdi geri dönen müşteriler tarafından sağlandığını ve bu müşterilerle yenilenen bir bağlantının çekici olduğunu söyledi.",
     "u": "https://www.bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
     "ts": 1793397078000,
-    "tags": []
-   },
-   {
-    "t": "Investor Looks to Bid on Club Pilates-Owner Xponential",
-    "tt": "Yatırımcı Club Pilates Sahibi Xponential'a Teklif Vermeyi Düşünüyor",
-    "s": "Fund 1 Investments LLC, the third-largest shareholder in Xponential Fitness Inc., the owner of Club Pilates and Pure Barre brands, said it’s pushing for a take-private and is looking to buy the company itself.",
-    "ss": "Club Pilates ve Pure Barre markalarının sahibi Xponential Fitness Inc.'in üçüncü büyük hissedarı Fund 1 Investments LLC, özel bir hisse için baskı yaptığını ve şirketin kendisini satın almak istediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
-    "ts": 1793368712000,
     "tags": []
    }
   ],
@@ -770,6 +770,15 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Çin'de ekonomik aktivite Ekim'de yeniden daralma seyrine girdi",
+    "tt": null,
+    "s": "Çin'de imalat sanayi Satın Alma Yöneticileri Endeksi (PMI) Ekim'de geçen aya kıyasla 0,8 puan azalarak 49,3'e, imalat dışı PMI endeksi de 0,5 puan azalarak 49,7'ye geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-de-ekonomik-aktivite-ekim-de-yeniden-daralma-seyrine-girdi-3792985",
+    "ts": 1793441572000,
+    "tags": []
+   },
+   {
     "t": "AMB Başkanı Lagarde'ın halefini \"Fransa krizi\" bekliyor",
     "tt": null,
     "s": "Avrupa Merkez Bankası (AMB) Başkanı Christine Lagarde'ın normal süresinin dolmasından yaklaşık 9 ay önce görevi bırakacağını açıklaması, küresel piyasalarda ve Avrupa siyasetinde derin yankı uyandırdı.",
@@ -849,15 +858,6 @@
     "u": "https://www.bloomberght.com/bddk-dan-kurum-ve-baskan-kavcioglu-hakkindaki-iddialara-yalanlama-3792976",
     "ts": 1793392999000,
     "tags": []
-   },
-   {
-    "t": "İran'dan Avrupa'ya savaşın maliyetine ilişkin sert mesaj",
-    "tt": null,
-    "s": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, Avrupa ülkelerini İsrail'in faaliyetlerine verdikleri destek nedeniyle eleştirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-dan-avrupa-ya-savasin-maliyetine-iliskin-sert-mesaj-3792975",
-    "ts": 1793390983000,
-    "tags": []
    }
   ]
  },
@@ -873,6 +873,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
