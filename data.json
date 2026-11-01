@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T05:23:06.999429+00:00",
+ "generated": "2026-11-01T06:18:20.857916+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77744,
-   "c": 0.75,
+   "p": 77902,
+   "c": 0.92,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2266.2,
-   "c": 1.23,
+   "p": 2270.51,
+   "c": 1.32,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.51,
-   "c": -0.45,
+   "p": 95.78,
+   "c": -0.15,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": 0.57,
+   "c": 0.64,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 704.46,
-   "c": 0.39,
+   "p": 705.5,
+   "c": 0.32,
    "k": "usd"
   }
  ],
@@ -463,15 +463,6 @@
     "tags": []
    },
    {
-    "t": "Australia Home Auction Clearance Rate Falls to Six-Year Low",
-    "tt": "Avustralya Ev Açık Artırma Onay Oranı Altı Yılın En Düşük Seviyesine Düştü",
-    "s": "Australia’s auction clearance rate fell to a six-year low as a public holiday in Melbourne and the threat of higher interest rates weighed on the nation’s residential real estate market.",
-    "ss": "Avustralya'nın açık artırma onay oranı, Melbourne'da resmi tatil olması ve yüksek faiz oranları tehdidinin ülkenin konut emlak piyasası üzerinde baskı yaratması nedeniyle altı yılın en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/australia-home-auction-clearance-rate-falls-to-six-year-low",
-    "ts": 1793505677000,
-    "tags": []
-   },
-   {
     "t": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
     "tt": "ABD Ara Seçimleri Öncesinde Asyalı Hisse Senedi Yatırımcılarının Rehberi",
     "s": "Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.",
@@ -541,6 +532,15 @@
     "ss": "Avrupa Birliği'nin üst düzey diplomatı Kaja Kallas'a göre, Vladimir Putin'in Aralık ayında Florida'da yapılacak 20 Liderler Grubu zirvesine olası katılımı, Ukrayna'daki savaşı devam ederken Rusya'nın uluslararası forumlara dönüşünün düzenli hale getirilmesi riskini doğuracak.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
     "ts": 1793455861000,
+    "tags": []
+   },
+   {
+    "t": "Stadiums Rethink the Women’s Restroom",
+    "tt": null,
+    "s": "On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal restroom space does not necessarily mean equal access. Speaking with host Lisa Mateo, Graham says newer venues are dedicati",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video",
+    "ts": 1793454508000,
     "tags": []
    }
   ],
@@ -822,6 +822,15 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Bir maaş kiraya, bir maaş hayata",
+    "tt": null,
+    "s": "Türkiye'de kiralar ile çalışanların gelirleri arasındaki makas, barınmayı giderek daha ağır bir ekonomik yüke dönüştürdü. İstanbul'da iki kişinin çalıştığı bir hanenin toplam gelirinin yüzde 83'üne ulaşabilen kira bedelleri, büyük kentlerde yaşamanın maliyetini gözler önüne seriyor. Aynı gelire sahi",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bir-maas-kiraya-bir-maas-hayata-3792996",
+    "ts": 1793510436000,
+    "tags": []
+   },
+   {
     "t": "Resmi Gazete'de bugün (01.11.2026)",
     "tt": null,
     "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
@@ -901,15 +910,6 @@
     "u": "https://www.bloomberght.com/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti-3792987",
     "ts": 1793453145000,
     "tags": []
-   },
-   {
-    "t": "EPDK meskenlere yönelik elektrik tüketim limitinde değişikliğe gitti",
-    "tt": null,
-    "s": "Enerji Piyasası Düzenleme Kurumu (EPDK), Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ'de değişikliğe gitti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti-3792986",
-    "ts": 1793441632000,
-    "tags": []
    }
   ]
  },
@@ -925,6 +925,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
