@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T13:56:16.884225+00:00",
+ "generated": "2026-11-01T14:27:10.652963+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -74,8 +74,8 @@
   {
    "n": "USD/TRY",
    "p": 49.9308,
-   "c": 0.2,
-   "d": 0.101,
+   "c": -0.02,
+   "d": -0.012,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77870,
-   "c": 0.5,
+   "p": 77976,
+   "c": 0.76,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2265.35,
-   "c": 0.66,
+   "p": 2268.5,
+   "c": 0.92,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.78,
-   "c": -1.01,
+   "p": 95.05,
+   "c": -0.61,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": 0.28,
+   "c": 0.48,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 714.71,
-   "c": 1.59,
+   "p": 715.08,
+   "c": 1.77,
    "k": "usd"
   }
  ],
@@ -454,6 +454,24 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "AI Talent War Spreads to Wall Street",
+    "tt": "Yapay Zeka Yetenek Savaşı Wall Street'e Yayılıyor",
+    "s": "Bloomberg Senior Markets Reporter Justina Lee tells Bloomberg This Weekend that quantitative trading firms are competing with AI labs for top scientists and researchers, with first-year compensation for some PhDs reaching as much as $800,000. Speaking with hosts David Gura and Lisa Mateo, Lee explai",
+    "ss": "Bloomberg Kıdemli Piyasalar Muhabiri Justina Lee, Bu Hafta Sonu Bloomberg'e niceliksel ticaret firmalarının en iyi bilim adamları ve araştırmacılar için yapay zeka laboratuvarlarıyla rekabet ettiğini ve bazı doktoraların ilk yıl tazminatlarının 800.000 dolara kadar ulaştığını söyledi. Sunucular David Gura ve Lisa Mateo ile konuşan Lee şunları açıklıyor:",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-01/ai-talent-war-spreads-to-wall-street-video",
+    "ts": 1793543216000,
+    "tags": []
+   },
+   {
+    "t": "Mike Wilson Says Buy Stock Dip Regardless of Who Wins Midterms",
+    "tt": "Mike Wilson, Ara Sınavları Kim Kazanırsa Kazansın, Hisse Senedi Düşüşünü Satın Alın diyor",
+    "s": "Morgan Stanley’s Mike Wilson says he sees a few “clearing events” ahead for the stock market that have the potential to take it lower temporarily, creating a great opportunity for investors to pile back in.",
+    "ss": "Morgan Stanley'den Mike Wilson, borsanın önünde, hisse senedini geçici olarak düşürme potansiyeline sahip birkaç \"takas olayı\" gördüğünü ve yatırımcıların yeniden toparlanmaları için harika bir fırsat yaratacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/mike-wilson-says-buy-stock-dip-regardless-of-who-wins-midterms",
+    "ts": 1793541600000,
+    "tags": []
+   },
+   {
     "t": "Tech Selloff Could Ease Pressure on the Fed",
     "tt": "Tech Selloff Fed Üzerindeki Baskıyı Azaltabilir",
     "s": "BMO Capital Markets Senior Economist and Managing Director Jennifer Lee tells Bloomberg This Weekend that heavy AI investment has helped drive interest rates and inflation pressures higher, while a cooling in the sector could make the Federal Reserve’s job easier. Speaking with hosts David Gura and ",
@@ -529,24 +547,6 @@
     "ss": "İki delege, Orta Doğu'daki çatışmaların grubun üretimini kısıtlamaya devam etmesi nedeniyle, başlıca OPEC+ ülkelerinin Aralık ayında petrol üretim kotalarını değiştirmeme planlarına sadık kalacağını söyledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
     "ts": 1793524777000,
-    "tags": []
-   },
-   {
-    "t": "Germany Misses Gas Storage Target as Cold Snap Sets In",
-    "tt": "Soğuk Ani Gelmeye Başlarken Almanya Gaz Depolama Hedefini Iskaladı",
-    "s": "Germany is set to miss its official target for filling natural gas storage sites, leaving it with a reduced buffer against surging winter demand.",
-    "ss": "Almanya, doğal gaz depolama sahalarını doldurma yönündeki resmi hedefini kaçıracak ve bu da onu artan kış talebine karşı azaltılmış bir tamponla karşı karşıya bırakacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/germany-misses-gas-storage-target-as-cold-snap-sets-in",
-    "ts": 1793525381000,
-    "tags": []
-   },
-   {
-    "t": "Serbia’s Banks Urged to Scrutinize Money Flows Amid Power Shift",
-    "tt": "Sırbistan Bankalarına Güç Değişimi Ortasında Para Akışlarını İnceleme Çağrısı",
-    "s": "Serbia’s student-led movement that’s poised to take power after last month’s election, is urging banks to step up scrutiny of capital flows from the country during the transition period to a new government.",
-    "ss": "Geçtiğimiz ay yapılan seçimlerden sonra iktidara gelmeye hazırlanan Sırbistan'ın öğrenci liderliğindeki hareketi, bankaları yeni hükümete geçiş döneminde ülkeden sermaye akışları üzerindeki denetimlerini artırmaya çağırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/serbia-s-banks-urged-to-scrutinize-money-flows-amid-power-shift",
-    "ts": 1793529664000,
     "tags": []
    }
   ],
@@ -644,6 +644,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "This is the biggest threat to the AI-powered bull market",
+    "tt": "Bu yapay zeka destekli boğa piyasasına yönelik en büyük tehdit",
+    "s": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+    "ss": "Gişe rekorları kıran kazanç büyümesi, borsanın 2026'da daha da yükselmesine yardımcı oldu. 2027'de bu motor durabilir.",
+    "u": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+    "ts": 1793541600000,
+    "tags": []
+   },
+   {
     "t": "America is doing better than you think. Your algorithm is just hiding it.",
     "tt": "Amerika sandığınızdan daha iyi durumda. Algoritmanız sadece onu gizliyor.",
     "s": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
@@ -722,15 +731,6 @@
     "ss": "Bir AARP araştırması ailelerin yaptığı mali fedakarlıkları ve bunların uzun vadeli etkilerini gösteriyor.",
     "u": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
     "ts": 1793470200000,
-    "tags": []
-   },
-   {
-    "t": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
-    "tt": "Medicare, hasta bakımını önceden onaylamak için yapay zekayı kullandı ve bu, tıbbi hizmetlerde anında büyük bir düşüşe yol açtı",
-    "s": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
-    "ss": "Medicare, israfa yönelik tıbbi harcamaları hedeflemek amacıyla ön yetkilendirmeler yapmak için yapay zeka kullanımını test ediyor",
-    "u": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
-    "ts": 1793467560000,
     "tags": []
    }
   ],
@@ -828,6 +828,24 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Türkiye'nin 'aklı' yurt dışında",
+    "tt": null,
+    "s": "TÜİK'in açıkladığı verilere göre beyin göçü, veri setinin tutulduğu 2015 yılından bu yana görülen en yüksek seviyeye çıktı. Gençler eğitimlerini tamamladıktan sonra kariyerlerini yurt dışında devam ettirme konusunda oldukça hevesli. Ancak sürecin bu şekilde devam etmesi Türkiye'deki yetenek açığını ",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkiyenin-akli-yurt-disinda-3793002",
+    "ts": 1793542259000,
+    "tags": []
+   },
+   {
+    "t": "ABD'deki Kongre ara seçimleri yaklaşırken anketlerdeki tablo netleşiyor",
+    "tt": null,
+    "s": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimleri yaklaşırken, anketlerin ortaya koyduğu tablo da netleşmeye başladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-deki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor-3793001",
+    "ts": 1793541803000,
+    "tags": []
+   },
+   {
     "t": "İstanbul'da aylık enflasyon Ekim'de hızlandı",
     "tt": null,
     "s": "İstanbul Ticaret Odası'nın (İTO) açıkladığı verilere göre, İstanbul'da Ekim ayında perakende fiyatlar aylık yüzde 2,47 artarken, yıllık bazda ise yüzde 32,47 oldu. Önceki ay aylık enflasyon yüzde 1,66, yıllık enflasyon yüzde 34,96 olmuştu.",
@@ -897,24 +915,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-3792993",
     "ts": 1793467201000,
-    "tags": []
-   },
-   {
-    "t": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladı",
-    "tt": null,
-    "s": "Kripto para borsası Binance, siber saldırıda çalınan varlıklardan kaynaklanan kayıpların yüzde 90'ını karşıladığını, kalan kısmı da tamamlamak için piyasa ve tezgah üstü (OTC) kanallarından alımlarını sürdürdüğünü duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/binance-siber-saldirida-calinan-varliklarin-yuzde-90-ini-karsiladi-3792992",
-    "ts": 1793465454000,
-    "tags": []
-   },
-   {
-    "t": "Erdoğan İstanbul'da Zelenskiy ile görüştü",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Ukrayna Devlet Başkanı Volodimir Zelenskiy ile bir araya geldi. Görüşmenin ardından Cumhurbaşkanı Erdoğan, Karadeniz'de sivil gemilere yönelik saldırıların kabul edilemez olduğunu vurgularken Zelenskiy, Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çal",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cumhurbaskani-erdogan-istanbul-da-zelenskiy-ile-gorustu-3792991",
-    "ts": 1793464780000,
     "tags": []
    }
   ]
