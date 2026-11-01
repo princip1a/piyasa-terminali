@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T04:26:33.036357+00:00",
+ "generated": "2026-11-01T05:23:06.999429+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,115 +89,145 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77694,
-   "c": 0.63,
+   "p": 77744,
+   "c": 0.75,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2266.17,
-   "c": 1.21,
+   "p": 2266.2,
+   "c": 1.23,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.52,
-   "c": -0.66,
+   "p": 95.51,
+   "c": -0.45,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": 0.34,
+   "c": 0.57,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 704.54,
-   "c": 0.25,
+   "p": 704.46,
+   "c": 0.39,
    "k": "usd"
   }
  ],
  "fred": null,
  "events": [
   {
-   "title": "ADP Weekly Employment Change",
+   "title": "Daylight Saving Time Shift",
+   "impact": "Holiday",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793516400000,
+   "tr": "Paz 01.11 10:00",
+   "reading": null
+  },
+  {
+   "title": "Final Manufacturing PMI",
+   "impact": "Low",
+   "forecast": "56.0",
+   "previous": "56.0",
+   "actual": "",
+   "ts": 1793630700000,
+   "tr": "Pzt 02.11 17:45",
+   "reading": null
+  },
+  {
+   "title": "ISM Manufacturing PMI",
+   "impact": "Medium",
+   "forecast": "54.7",
+   "previous": "54.5",
+   "actual": "",
+   "ts": 1793631600000,
+   "tr": "Pzt 02.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "Construction Spending m/m",
+   "impact": "Low",
+   "forecast": "0.3%",
+   "previous": "0.9%",
+   "actual": "",
+   "ts": 1793631600000,
+   "tr": "Pzt 02.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "ISM Manufacturing Prices",
+   "impact": "Low",
+   "forecast": "77.2",
+   "previous": "77.9",
+   "actual": "",
+   "ts": 1793631600000,
+   "tr": "Pzt 02.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "Loan Officer Survey",
    "impact": "Low",
    "forecast": "",
-   "previous": "18.5K",
+   "previous": "",
    "actual": "",
-   "ts": 1793103300000,
-   "tr": "Sal 27.10 15:15",
+   "ts": 1793646180000,
+   "tr": "Pzt 02.11 22:03",
    "reading": null
   },
   {
-   "title": "Core Durable Goods Orders m/m",
-   "impact": "Low",
-   "forecast": "0.6%",
-   "previous": "0.3%",
-   "actual": "",
-   "ts": 1793104200000,
-   "tr": "Sal 27.10 15:30",
-   "reading": null
-  },
-  {
-   "title": "Durable Goods Orders m/m",
-   "impact": "Low",
-   "forecast": "2.0%",
-   "previous": "0.0%",
-   "actual": "",
-   "ts": 1793104200000,
-   "tr": "Sal 27.10 15:30",
-   "reading": null
-  },
-  {
-   "title": "HPI m/m",
-   "impact": "Low",
-   "forecast": "0.2%",
-   "previous": "0.3%",
-   "actual": "",
-   "ts": 1793106000000,
-   "tr": "Sal 27.10 16:00",
-   "reading": null
-  },
-  {
-   "title": "S&P/CS Composite-20 HPI y/y",
-   "impact": "Low",
-   "forecast": "2.6%",
-   "previous": "2.5%",
-   "actual": "",
-   "ts": 1793106000000,
-   "tr": "Sal 27.10 16:00",
-   "reading": null
-  },
-  {
-   "title": "CB Consumer Confidence",
+   "title": "JOLTS Job Openings",
    "impact": "Medium",
-   "forecast": "81.2",
-   "previous": "81.9",
+   "forecast": "7.11M",
+   "previous": "7.08M",
    "actual": "",
-   "ts": 1793109600000,
-   "tr": "Sal 27.10 17:00",
+   "ts": 1793718000000,
+   "tr": "Sal 03.11 18:00",
    "reading": null
   },
   {
-   "title": "New Home Sales",
+   "title": "Factory Orders m/m",
    "impact": "Low",
-   "forecast": "651K",
-   "previous": "684K",
+   "forecast": "1.2%",
+   "previous": "0.1%",
    "actual": "",
-   "ts": 1793109600000,
-   "tr": "Sal 27.10 17:00",
+   "ts": 1793718000000,
+   "tr": "Sal 03.11 18:00",
    "reading": null
   },
   {
-   "title": "Richmond Manufacturing Index",
+   "title": "RCM/TIPP Economic Optimism",
    "impact": "Low",
-   "forecast": "0",
-   "previous": "-2",
+   "forecast": "46.2",
+   "previous": "46.8",
    "actual": "",
-   "ts": 1793109600000,
-   "tr": "Sal 27.10 17:00",
+   "ts": 1793718600000,
+   "tr": "Sal 03.11 18:10",
+   "reading": null
+  },
+  {
+   "title": "Omdia Total Vehicle Sales",
+   "impact": "Low",
+   "forecast": "15.9M",
+   "previous": "16.0M",
+   "actual": "",
+   "ts": 1793718900000,
+   "tr": "Sal 03.11 18:15",
+   "reading": null
+  },
+  {
+   "title": "Congressional Elections",
+   "impact": "High",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793718960000,
+   "tr": "Sal 03.11 18:16",
    "reading": null
   },
   {
@@ -206,168 +236,168 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793133000000,
-   "tr": "Sal 27.10 23:30",
+   "ts": 1793741400000,
+   "tr": "Çar 04.11 00:30",
    "reading": null
   },
   {
-   "title": "Goods Trade Balance",
+   "title": "ADP Non-Farm Employment Change",
    "impact": "Low",
-   "forecast": "-130.4B",
-   "previous": "-132.6B",
+   "forecast": "68K",
+   "previous": "90K",
    "actual": "",
-   "ts": 1793190600000,
-   "tr": "Çar 28.10 15:30",
+   "ts": 1793798100000,
+   "tr": "Çar 04.11 16:15",
    "reading": null
   },
   {
-   "title": "Prelim Wholesale Inventories m/m",
+   "title": "Trade Balance",
    "impact": "Low",
-   "forecast": "0.5%",
-   "previous": "0.7%",
+   "forecast": "-107.9B",
+   "previous": "-105.6B",
    "actual": "",
-   "ts": 1793190600000,
-   "tr": "Çar 28.10 15:30",
+   "ts": 1793799000000,
+   "tr": "Çar 04.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Final Services PMI",
+   "impact": "Low",
+   "forecast": "57.9",
+   "previous": "57.9",
+   "actual": "",
+   "ts": 1793803500000,
+   "tr": "Çar 04.11 17:45",
+   "reading": null
+  },
+  {
+   "title": "ISM Services PMI",
+   "impact": "Medium",
+   "forecast": "54.9",
+   "previous": "54.9",
+   "actual": "",
+   "ts": 1793804400000,
+   "tr": "Çar 04.11 18:00",
    "reading": null
   },
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "0.1M",
-   "previous": "-3.1M",
-   "actual": "",
-   "ts": 1793197800000,
-   "tr": "Çar 28.10 17:30",
-   "reading": null
-  },
-  {
-   "title": "Federal Funds Rate",
-   "impact": "High",
-   "forecast": "4.00%",
-   "previous": "4.00%",
-   "actual": "",
-   "ts": 1793210400000,
-   "tr": "Çar 28.10 21:00",
-   "reading": null
-  },
-  {
-   "title": "FOMC Statement",
-   "impact": "High",
    "forecast": "",
-   "previous": "",
+   "previous": "-1.9M",
    "actual": "",
-   "ts": 1793210400000,
-   "tr": "Çar 28.10 21:00",
+   "ts": 1793806200000,
+   "tr": "Çar 04.11 18:30",
    "reading": null
   },
   {
-   "title": "FOMC Press Conference",
-   "impact": "High",
+   "title": "Challenger Job Cuts y/y",
+   "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "-19.9%",
    "actual": "",
-   "ts": 1793212200000,
-   "tr": "Çar 28.10 21:30",
-   "reading": null
-  },
-  {
-   "title": "Advance GDP q/q",
-   "impact": "High",
-   "forecast": "3.2%",
-   "previous": "1.5%",
-   "actual": "",
-   "ts": 1793277000000,
-   "tr": "Per 29.10 15:30",
-   "reading": null
-  },
-  {
-   "title": "Core PCE Price Index m/m",
-   "impact": "High",
-   "forecast": "0.3%",
-   "previous": "0.2%",
-   "actual": "",
-   "ts": 1793277000000,
-   "tr": "Per 29.10 15:30",
-   "reading": null
-  },
-  {
-   "title": "Advance GDP Price Index q/q",
-   "impact": "Medium",
-   "forecast": "3.2%",
-   "previous": "6.2%",
-   "actual": "",
-   "ts": 1793277000000,
-   "tr": "Per 29.10 15:30",
+   "ts": 1793874600000,
+   "tr": "Per 05.11 13:30",
    "reading": null
   },
   {
    "title": "Unemployment Claims",
    "impact": "Medium",
-   "forecast": "198K",
+   "forecast": "197K",
    "previous": "194K",
    "actual": "",
-   "ts": 1793277000000,
-   "tr": "Per 29.10 15:30",
+   "ts": 1793885400000,
+   "tr": "Per 05.11 16:30",
    "reading": null
   },
   {
-   "title": "Personal Income m/m",
+   "title": "Prelim Nonfarm Productivity q/q",
+   "impact": "Low",
+   "forecast": "2.8%",
+   "previous": "1.4%",
+   "actual": "",
+   "ts": 1793885400000,
+   "tr": "Per 05.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Prelim Unit Labor Costs q/q",
    "impact": "Low",
    "forecast": "0.3%",
-   "previous": "0.2%",
+   "previous": "1.3%",
    "actual": "",
-   "ts": 1793277000000,
-   "tr": "Per 29.10 15:30",
+   "ts": 1793885400000,
+   "tr": "Per 05.11 16:30",
    "reading": null
   },
   {
-   "title": "Personal Spending m/m",
+   "title": "FOMC Member Hammack Speaks",
    "impact": "Low",
-   "forecast": "0.6%",
-   "previous": "0.9%",
+   "forecast": "",
+   "previous": "",
    "actual": "",
-   "ts": 1793277000000,
-   "tr": "Per 29.10 15:30",
+   "ts": 1793886600000,
+   "tr": "Per 05.11 16:50",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Barkin Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1793887800000,
+   "tr": "Per 05.11 17:10",
    "reading": null
   },
   {
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "75B",
-   "previous": "77B",
+   "forecast": "",
+   "previous": "80B",
    "actual": "",
-   "ts": 1793284200000,
-   "tr": "Per 29.10 17:30",
+   "ts": 1793892600000,
+   "tr": "Per 05.11 18:30",
    "reading": null
   },
   {
-   "title": "Employment Cost Index q/q",
-   "impact": "Medium",
-   "forecast": "0.8%",
-   "previous": "0.9%",
-   "actual": "",
-   "ts": 1793363400000,
-   "tr": "Cum 30.10 15:30",
-   "reading": null
-  },
-  {
-   "title": "Chicago PMI",
-   "impact": "Low",
-   "forecast": "55.8",
-   "previous": "58.8",
-   "actual": "",
-   "ts": 1793367900000,
-   "tr": "Cum 30.10 16:45",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Daly Speaks",
+   "title": "FOMC Member Williams Speaks",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793376000000,
-   "tr": "Cum 30.10 19:00",
+   "ts": 1793957400000,
+   "tr": "Cum 06.11 12:30",
+   "reading": null
+  },
+  {
+   "title": "Average Hourly Earnings m/m",
+   "impact": "High",
+   "forecast": "0.3%",
+   "previous": "0.1%",
+   "actual": "",
+   "ts": 1793971800000,
+   "tr": "Cum 06.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Non-Farm Employment Change",
+   "impact": "High",
+   "forecast": "63K",
+   "previous": "29K",
+   "actual": "",
+   "ts": 1793971800000,
+   "tr": "Cum 06.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Unemployment Rate",
+   "impact": "High",
+   "forecast": "4.2%",
+   "previous": "4.2%",
+   "actual": "",
+   "ts": 1793971800000,
+   "tr": "Cum 06.11 16:30",
    "reading": null
   },
   {
@@ -376,23 +406,62 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793377800000,
-   "tr": "Cum 30.10 19:30",
+   "ts": 1793974200000,
+   "tr": "Cum 06.11 17:10",
    "reading": null
   },
   {
-   "title": "FOMC Member Logan Speaks",
+   "title": "Prelim UoM Consumer Sentiment",
+   "impact": "Medium",
+   "forecast": "47.8",
+   "previous": "46.3",
+   "actual": "",
+   "ts": 1793977200000,
+   "tr": "Cum 06.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "Prelim UoM Inflation Expectations",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "4.7%",
+   "actual": "",
+   "ts": 1793977200000,
+   "tr": "Cum 06.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Bowman Speaks",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793381400000,
-   "tr": "Cum 30.10 20:30",
+   "ts": 1793985300000,
+   "tr": "Cum 06.11 20:15",
+   "reading": null
+  },
+  {
+   "title": "Consumer Credit m/m",
+   "impact": "Low",
+   "forecast": "12.0B",
+   "previous": "8.3B",
+   "actual": "",
+   "ts": 1793995200000,
+   "tr": "Cum 06.11 23:00",
    "reading": null
   }
  ],
  "news": {
   "Bloomberg": [
+   {
+    "t": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+    "tt": "Makao Oyun Gelirlerindeki Düşüş, Altın Hafta Artışına Rağmen Devam Ediyor",
+    "s": "Macau’s gaming revenue declined for a fifth straight month in October, as weak spending by high-end players offset a surge in Golden Week visitors.",
+    "ss": "Macau'nun oyun geliri, üst düzey oyuncuların zayıf harcamalarının Altın Hafta ziyaretçilerindeki artışı telafi etmesiyle Ekim ayında art arda beşinci ayda da düşüş gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+    "ts": 1793510089000,
+    "tags": []
+   },
    {
     "t": "Australia Home Auction Clearance Rate Falls to Six-Year Low",
     "tt": "Avustralya Ev Açık Artırma Onay Oranı Altı Yılın En Düşük Seviyesine Düştü",
@@ -472,15 +541,6 @@
     "ss": "Avrupa Birliği'nin üst düzey diplomatı Kaja Kallas'a göre, Vladimir Putin'in Aralık ayında Florida'da yapılacak 20 Liderler Grubu zirvesine olası katılımı, Ukrayna'daki savaşı devam ederken Rusya'nın uluslararası forumlara dönüşünün düzenli hale getirilmesi riskini doğuracak.",
     "u": "https://www.bloomberg.com/news/articles/2026-10-31/eu-s-kallas-hosting-putin-at-g20-risks-normalizing-war-crimes",
     "ts": 1793455861000,
-    "tags": []
-   },
-   {
-    "t": "Stadiums Rethink the Women’s Restroom",
-    "tt": "Stadyumlar Kadınlar Tuvaletini Yeniden Düşünüyor",
-    "s": "On Bloomberg This Weekend, Writer and Journalist Benton Graham explains how stadiums and arenas are redesigning restrooms as women’s sports grow and venues recognize that equal restroom space does not necessarily mean equal access. Speaking with host Lisa Mateo, Graham says newer venues are dedicati",
-    "ss": "Bu Hafta Sonu Bloomberg'de Yazar ve Gazeteci Benton Graham, kadın sporları büyüdükçe ve mekanlar eşit tuvalet alanının mutlaka eşit erişim anlamına gelmediğinin farkına vardıkça stadyumların ve arenaların tuvaletlerini nasıl yeniden tasarladığını açıklıyor. Sunucu Lisa Mateo ile konuşan Graham, yeni mekanların özel olduğunu söylüyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-10-31/stadiums-rethink-the-women-s-restroom-video",
-    "ts": 1793454508000,
     "tags": []
    }
   ],
