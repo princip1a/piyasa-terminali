@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T01:43:25.993865+00:00",
+ "generated": "2026-11-02T02:40:01.402364+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3922.0,
-   "c": 0.59,
-   "d": 23.1,
+   "p": 3921.5,
+   "c": 0.58,
+   "d": 22.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.045,
-   "c": 1.93,
-   "d": 0.948,
+   "p": 50.03,
+   "c": 1.9,
+   "d": 0.933,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.6,
-   "c": -2.42,
-   "d": -2.52,
+   "p": 101.16,
+   "c": -2.84,
+   "d": -2.96,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.97,
-   "c": -5.67,
-   "d": -6.67,
+   "p": 110.57,
+   "c": -6.01,
+   "d": -7.07,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.936,
-   "c": 0.05,
-   "d": 0.056,
+   "p": 101.98,
+   "c": 0.1,
+   "d": 0.1,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9557,
-   "c": 0.03,
-   "d": 0.013,
+   "p": 49.966,
+   "c": 0.05,
+   "d": 0.023,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 78485,
-   "c": 1.07,
+   "p": 78421,
+   "c": 1.02,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2294.0,
-   "c": 1.1,
+   "p": 2290.46,
+   "c": 1.15,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.11,
-   "c": -0.68,
+   "p": 94.85,
+   "c": -0.55,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.26,
-   "c": 0.3,
+   "p": 1.25,
+   "c": 0.38,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 713.98,
-   "c": 1.54,
+   "p": 711.6,
+   "c": 1.41,
    "k": "usd"
   }
  ],
@@ -454,57 +454,30 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+    "tt": "Küresel Yapay Zeka Satışı ve Küçük Sermaye Ağrısı Yatırımcıları Hindistan Büyük Sermayelerine Yönlendiriyor",
+    "s": "Software services exporters claim all five top spots in the large-cap index in October.",
+    "ss": "Yazılım hizmetleri ihracatçıları Ekim ayında büyük sermaye endeksinde ilk beş sırayı da aldı.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps",
+    "ts": 1793586655000,
+    "tags": []
+   },
+   {
     "t": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
-    "tt": null,
+    "tt": "PBOC, Politika Çıpa Değişimi Nedeniyle Gecelik Ters Repo Yapıyor",
     "s": "China’s central bank launched daily overnight reverse repurchase operations on Monday, kicking off a revamped liquidity framework that establishes the short-term tool as its primary policy anchor.",
-    "ss": null,
+    "ss": "Çin merkez bankası Pazartesi günü günlük gecelik ters geri alım operasyonlarını başlattı ve kısa vadeli aracı temel politika dayanağı olarak belirleyen yenilenmiş bir likidite çerçevesini başlattı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
     "ts": 1793583559000,
     "tags": []
    },
    {
-    "t": "China Reportedly Discusses Ways to Support Stocks With Banks",
-    "tt": "Raporlara göre Çin, Borsayı Destekleme Konulu Toplantı Düzenleyecek",
-    "s": "China’s financial regulators will hold a meeting with banks and securities firms Monday to discuss measures to support the capital market, signaling authorities’ renewed effort to halt the slump in Chinese stocks.",
-    "ss": "Yerel basında çıkan haberlere göre, Çin merkez bankası ve menkul kıymetler düzenleyicisi, ülkenin sermaye piyasasını desteklemek için tasarlanan araçların kullanımını tartışmak üzere Pazartesi günü bir toplantı yapacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-    "ts": 1793527729000,
-    "tags": []
-   },
-   {
-    "t": "Japan’s Katayama Says Ready to Act for Stable FX Market",
-    "tt": null,
-    "s": "Japanese authorities are prepared to respond if currency market movements become disorderly, acting in accordance with a standing pact with her US counterpart, Finance Minister Satsuki Katayama said, one day before the US holds its midterm elections.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
-    "ts": 1793581769000,
-    "tags": []
-   },
-   {
-    "t": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
-    "tt": "Altın, Dip Alıcılarının Kaymayı Tutuklamasıyla Bir Yılın En Düşük Seviyesinden Geriye Tırmandı",
-    "s": "Gold rose, as lower oil prices offered some respite from inflationary pressures and dip buyers were drawn by the metal’s slide Friday to the lowest in a year.",
-    "ss": "Altın, düşük petrol fiyatlarının enflasyonist baskılara bir miktar nefes alması ve metalin Cuma günü bir yılın en düşük seviyesine gerilemesinin dip alıcıları çekmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-    "ts": 1793577816000,
-    "tags": []
-   },
-   {
-    "t": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
-    "tt": null,
-    "s": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
-    "ts": 1793581227000,
-    "tags": []
-   },
-   {
-    "t": "Stock Selloff Eases in Asian Trade, Oil Declines: Markets Wrap",
-    "tt": "Asya Hisse Senetleri, Tech Rout'un Yapay Zeka Korkularını Artırmasıyla Düşecek: Piyasalar Sarılıyor",
-    "s": "A selloff in stocks eased in early Monday trade as Asian equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
-    "ss": "Asya hisse senetleri, teknoloji hisselerindeki sert düşüşün yapay zekadaki yükselişin çok ileri gitmiş olabileceği yönündeki endişeleri derinleştirmesi nedeniyle Cuma günkü Wall Street'teki sert satışın ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793568484000,
+    "t": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+    "tt": "Japon Hisse Senetleri, Kioxia'nın Kâr Görünümü Olan Teknoloji Satışları Nedeniyle Düştü",
+    "s": "Japanese stocks fell, with technology shares taking a hit from a steep selloff in their US peers, while chipmaker Kioxia Holdings Corp. slumped after a disappointing profit outlook.",
+    "ss": "Japon hisseleri, teknoloji hisselerinin ABD'deki sert satışlardan darbe almasıyla düşerken, çip üreticisi Kioxia Holdings Corp. da hayal kırıklığı yaratan bir kâr görünümünün ardından düşmeye hazırlanıyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+    "ts": 1793578520000,
     "tags": []
    },
    {
@@ -522,30 +495,57 @@
     ]
    },
    {
-    "t": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
-    "tt": "Japon Hisse Senetleri, Kioxia'nın Kâr Görünümü Olan Teknoloji Satışları Nedeniyle Düştü",
-    "s": "Japanese stocks fell, with technology shares taking a hit from a steep selloff in their US peers, while chipmaker Kioxia Holdings Corp. was set to drop after a disappointing profit outlook.",
-    "ss": "Japon hisseleri, teknoloji hisselerinin ABD'deki sert satışlardan darbe almasıyla düşerken, çip üreticisi Kioxia Holdings Corp. da hayal kırıklığı yaratan bir kâr görünümünün ardından düşmeye hazırlanıyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
-    "ts": 1793578520000,
+    "t": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
+    "tt": "Westpac CEO'sunun Maaşları Arttı, Kar Analistlerin Tahminlerini Tutamadı",
+    "s": "Westpac Banking Corp. Chief Executive Officer Anthony Miller’s pay surged to A$7.5 million ($5.3 million), despite profit missing expectations and the lender flagging an uncertain outlook for Australia’s economy.",
+    "ss": "Westpac Banking Corp. İcra Kurulu Başkanı Anthony Miller'ın maaşı, kâr beklentilerinde düşüş olmasına ve borç verenin Avustralya ekonomisi için belirsiz bir görünüm sergilemesine rağmen 7,5 milyon A$'na (5,3 milyon $) yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
+    "ts": 1793565670000,
     "tags": []
    },
    {
-    "t": "Gulf States Fear Iran Retaliation If US Strikes Again",
-    "tt": "Körfez Ülkeleri, ABD'nin Tekrar Saldırması Halinde İran'ın Misillemesinden Korkuyor",
-    "s": "Gulf states fear another US-Israeli attack on Iran could unleash a more destructive war across the region, leaving them to pick up the pieces. Bloomberg's Michael Heath has the latest. (Source: Bloomberg)",
-    "ss": "Körfez ülkeleri, ABD-İsrail'in İran'a yönelik yeni bir saldırısının, bölgede daha yıkıcı bir savaşa yol açabileceğinden ve parçaları toplamak zorunda kalabileceğinden korkuyor. Bloomberg'den Michael Heath en son haberlere sahip. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video",
-    "ts": 1793577670000,
+    "t": "Stock Selloff Eases in Asian Trade, Oil Declines: Markets Wrap",
+    "tt": "Asya Hisse Senetleri, Tech Rout'un Yapay Zeka Korkularını Artırmasıyla Düşecek: Piyasalar Sarılıyor",
+    "s": "A selloff in stocks eased during early Monday trading as Asian equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
+    "ss": "Asya hisse senetleri, teknoloji hisselerindeki sert düşüşün yapay zekadaki yükselişin çok ileri gitmiş olabileceği yönündeki endişeleri derinleştirmesi nedeniyle Cuma günkü Wall Street'teki sert satışın ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793568484000,
     "tags": []
    },
    {
-    "t": "Philippine Bonds Can Beat Asia If War Risks Ebb, Says Brandywine",
-    "tt": "Brandywine, Savaş Riskinin Geri Çekilmesi Halinde Filipin Tahvillerinin Asya'yı Yenebileceğini Söyledi",
-    "s": "Philippine bonds may become one of Asia’s best performers once inflation pressures ease and risks from the Iran war recede, according to Brandywine Global Investment Management.",
-    "ss": "Brandywine Global Investment Management'a göre Filipin tahvilleri, enflasyon baskıları hafiflediğinde ve İran savaşından kaynaklanan riskler azaldığında Asya'nın en iyi performans gösteren tahvillerinden biri haline gelebilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine",
-    "ts": 1793577315000,
+    "t": "China Reportedly Discusses Ways to Support Stocks With Banks",
+    "tt": "Raporlara göre Çin, Borsayı Destekleme Konulu Toplantı Düzenleyecek",
+    "s": "China’s financial regulators will hold a meeting with banks and securities firms Monday to discuss measures to support the capital market, signaling authorities’ renewed effort to halt the slump in Chinese stocks.",
+    "ss": "Yerel basında çıkan haberlere göre, Çin merkez bankası ve menkul kıymetler düzenleyicisi, ülkenin sermaye piyasasını desteklemek için tasarlanan araçların kullanımını tartışmak üzere Pazartesi günü bir toplantı yapacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+    "ts": 1793527729000,
+    "tags": []
+   },
+   {
+    "t": "Japan’s Katayama Says Ready to Act for Stable FX Market",
+    "tt": "Japon Katayama, İstikrarlı Döviz Piyasası İçin Harekete Geçmeye Hazır Olduğunu Söyledi",
+    "s": "Japanese authorities are prepared to respond if currency market movements become disorderly, acting in accordance with a standing pact with her US counterpart, Finance Minister Satsuki Katayama said, one day before the US holds its midterm elections.",
+    "ss": "Maliye Bakanı Satsuki Katayama, ABD'de ara seçimlerin yapılmasından bir gün önce yaptığı açıklamada, Japon yetkililerin ABD'li mevkidaşı ile mevcut bir anlaşma uyarınca hareket ederek döviz piyasası hareketlerinin düzensiz hale gelmesi durumunda yanıt vermeye hazır olduklarını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
+    "ts": 1793581769000,
+    "tags": []
+   },
+   {
+    "t": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
+    "tt": "Altın, Dip Alıcılarının Kaymayı Tutuklamasıyla Bir Yılın En Düşük Seviyesinden Geriye Tırmandı",
+    "s": "Gold rose, as lower oil prices offered some respite from inflationary pressures and dip buyers were drawn by the metal’s slide Friday to the lowest in a year.",
+    "ss": "Altın, düşük petrol fiyatlarının enflasyonist baskılara bir miktar nefes alması ve metalin Cuma günü bir yılın en düşük seviyesine gerilemesinin dip alıcıları çekmesiyle yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+    "ts": 1793577816000,
+    "tags": []
+   },
+   {
+    "t": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+    "tt": "Yabancılar AI Rout'la Tayvan Hisse Senetlerinden Rekor Çekildi",
+    "s": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
+    "ss": "Tayvan hisse senetlerinden yabancı çıkışlar, yapay zeka oyunlarındaki küresel satışların adanın gösterge endeksini teknik düzeltmeye yaklaştırmasıyla Ekim ayında rekor seviyeye ulaştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+    "ts": 1793581227000,
     "tags": []
    }
   ],
@@ -735,10 +735,37 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Chinese Couriers Posed As Federal Agents To Scam Over $10 Million In Cash From Elderly Victims In 19 States",
+    "tt": "Çinli Kuryeler, 19 Eyaletteki Yaşlı Kurbanlardan 10 Milyon Doların Üzerinde Nakit Dolandırmak İçin Federal Ajan Gibi Davrandı",
+    "s": "Chinese Couriers Posed As Federal Agents To Scam Over $10 Million In Cash From Elderly Victims In 19 States A federal judge in Pennsylvania sentenced three Chinese nationals this month for their roles in a scheme in which couriers went to elderly victims' homes, posed as federal law enforcement offi",
+    "ss": "Çinli Kuryeler, 19 Eyaletteki Yaşlı Kurbanlardan 10 Milyon Doların Üzerinde Nakit Dolandırıcılık Yapmak İçin Federal Ajan Gibi Davrandılar Pensilvanya'daki bir federal yargıç, bu ay üç Çin vatandaşını, kuryelerin federal kolluk kuvvetleri görevlisi gibi davranarak yaşlı kurbanların evlerine gittiği bir plandaki rollerinden dolayı mahkum etti.",
+    "u": "https://www.zerohedge.com/political/chinese-couriers-posed-federal-agents-scam-over-10-million-cash-elderly-victims-19-states",
+    "ts": 1793587200000,
+    "tags": []
+   },
+   {
+    "t": "Down Under, Going Under: Australian Housing Implodes As RBA Hikes Into The Slump",
+    "tt": "Düşüyor, Batıyor: RBA Çöküşe Girerken Avustralya Konutları Patlıyor",
+    "s": "Down Under, Going Under: Australian Housing Implodes As RBA Hikes Into The Slump For three decades, the one trade every Australian knew by heart was \"buy property in Sydney.\" Now it's disintegrating. That's the gist of a Bloomberg feature from this summer, titled \" One of the World's Longest Housing",
+    "ss": "Düşüyor, Batıyor: RBA Çöküşe Girerken Avustralya Konutları Patlıyor Otuz yıl boyunca her Avustralyalının ezbere bildiği tek ticaret \"Sidney'de mülk satın almak\"tı. Şimdi parçalanıyor. Bloomberg'in bu yaz yayınlayacağı \" Dünyanın En Uzun Konutlarından Biri\" başlıklı haberin özü bu.",
+    "u": "https://www.zerohedge.com/markets/down-under-going-under-australian-housing-implodes-rba-hikes-slump",
+    "ts": 1793585700000,
+    "tags": []
+   },
+   {
+    "t": "House GOP Demands Smithsonian Docs After Exhibit Ties US Military Doctrine to 'Domicide'",
+    "tt": "Temsilciler Meclisi GOP, Sergiden Sonra Smithsonian Belgelerini İstedi ABD Askeri Doktrinini 'Domicide' ile Bağladı",
+    "s": "House GOP Demands Smithsonian Docs After Exhibit Ties US Military Doctrine to 'Domicide' Authored by AG News Staff via American Greatness , House Republicans are demanding answers from the Smithsonian Institution after an internal investigation revealed that a museum exhibit linked the U.S. military",
+    "ss": "Temsilciler Meclisi GOP, Serginin ABD Askeri Doktrinini 'İntihar'a Bağladıktan Sonra Smithsonian Belgelerini İstedi AG Haber Personeli tarafından American Greatness aracılığıyla yazılmıştır; Temsilciler Meclisi Cumhuriyetçileri, bir iç soruşturmanın bir müze sergisinin ABD ordusuyla bağlantılı olduğunu ortaya çıkarmasının ardından Smithsonian Enstitüsü'nden yanıtlar talep ediyor",
+    "u": "https://www.zerohedge.com/political/house-gop-demands-smithsonian-docs-after-exhibit-ties-us-military-doctrine-domicide",
+    "ts": 1793584200000,
+    "tags": []
+   },
+   {
     "t": "America Begs For Speed, Gets Bureaucracy: Thiel-Backed Nuclear Enrichment Project Told To Wait As Orano Misses Deadlines",
-    "tt": null,
+    "tt": "Amerika Hız İstiyor, Bürokrasiye Kavuşuyor: Thiel Destekli Nükleer Zenginleştirme Projesine Orano'nun Son Teslim Tarihini Kaçırması Nedeniyle Beklemesi Söyleniyor",
     "s": "America Begs For Speed, Gets Bureaucracy: Thiel-Backed Nuclear Enrichment Project Told To Wait As Orano Misses Deadlines Two recently published letters from the Nuclear Regulatory Commission (NRC) display a painfully large gap in the sense of urgency felt by America's two newest uranium enrichment p",
-    "ss": null,
+    "ss": "Amerika Hız İstiyor, Bürokrasiye Başlıyor: Orano Son Teslim Tarihini Kaçırırken Thiel Destekli Nükleer Zenginleştirme Projesine Beklemesi Söylendi Nükleer Düzenleme Komisyonu'ndan (NRC) yakın zamanda yayınlanan iki mektup, Amerika'nın en yeni iki uranyum zenginleştirme projesinin aciliyet anlamında acı verici derecede büyük bir boşluğu ortaya koyuyor",
     "u": "https://www.zerohedge.com/energy/general-matter-asks-go-faster-while-orano-asks-more-time",
     "ts": 1793582700000,
     "tags": []
@@ -795,33 +822,6 @@
     "ss": "Kadın, ChatGPT Tarafından Sağlanan Tıbbi Tavsiyeye Uyduktan Sonra Öldü Yazar Bryan Hyde, American Greatness aracılığıyla, Feci bir nöbetten ölen 31 yaşındaki Seattlelı bir kadının ailesi, kadının ChatGPT'nin epilepsi ilacını almayı bırakması yönündeki tıbbi tavsiyesine uymasının ardından OpenAI'ye dava açıyor",
     "u": "https://www.zerohedge.com/ai/woman-dies-after-following-medical-advice-provided-chatgpt",
     "ts": 1793570700000,
-    "tags": []
-   },
-   {
-    "t": "\"Going To Crash Into The Ground\": Chilling ATC Audio Captures Private Jet's Final Seconds Over Palm Beach County",
-    "tt": "Dramatik Görüntüler Palm Beach İlçesinde Özel Jet Düşüşünü Gösteriyor",
-    "s": "\"Going To Crash Into The Ground\": Chilling ATC Audio Captures Private Jet's Final Seconds Over Palm Beach County Summary:&nbsp; Chilling ATC Audio With Pilot: \" Declare An Emergency \"&nbsp; N722BD was headed for North Eleuthera Airport in the Bahamas Learjet 60 (N722BD) Crashes In Palm Beach County,",
-    "ss": "Dramatik Görüntüler Palm Beach İlçesinde Özel Jet Kazasını Gösteriyor Wilmington, Delaware merkezli LR60271 LLC'ye kayıtlı bir Learjet 60 (N722BD), Pazar günü öğleden sonra Austin, Teksas'tan Bahama'daki Kuzey Eleuthera Havaalanına uçarken Palm Beach County, Florida'nın bir yerleşim bölgesinde düştü.",
-    "u": "https://www.zerohedge.com/markets/dramatic-footage-shows-private-jet-crashing-palm-beach-county",
-    "ts": 1793568600000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic's IPO Will Make Its Effective Altruist-Aligned Founders Worth Hundreds Of Billions",
-    "tt": "Anthropic'in Halka Arzı, Etkin Fedakar Uyumlu Kurucularının Yüz Milyarlarca Değerinde Olmasını Sağlayacak",
-    "s": "Anthropic's IPO Will Make Its Effective Altruist-Aligned Founders Worth Hundreds Of Billions Authored by Jordan Schachtel via American Greatness , Anthropic's upcoming IPO is going to make its founders very, very rich. And unfortunately for freedom-loving Americans, it will dramatically expand the l",
-    "ss": "Anthropic'in Halka Arzı, Fedakar Hizalı Kurucularını Yüz Milyarlarca Değere Getirecek Jordan Schachtel tarafından American Greatness aracılığıyla yazılan Anthropic'in yaklaşan halka arzı, kurucularını çok ama çok zengin yapacak. Ve ne yazık ki özgürlüğü seven Amerikalılar için bu, yaşam alanını çarpıcı biçimde genişletecek.",
-    "u": "https://www.zerohedge.com/political/anthropics-ipo-will-make-its-effective-altruist-aligned-founders-worth-hundreds-billions",
-    "ts": 1793568000000,
-    "tags": []
-   },
-   {
-    "t": "'Despicable Betrayal!','Sold Her Soul!': Haley Stevens' Staff Quits, Dems Melt Down After She Endorses Republican In Michigan",
-    "tt": "'Çılgın İhanet!','Ruhunu Sattı!': Haley Stevens'ın Personeli Ayrıldı, Dems Michigan'da Cumhuriyetçiyi Destekledikten Sonra Eridi",
-    "s": "'Despicable Betrayal!','Sold Her Soul!': Haley Stevens' Staff Quits, Dems Melt Down After She Endorses Republican In Michigan Update (1335ET): Democrats are having a meltdown after Rep. Haley Stevens flipped and endorsed Republican Mike Rogers for a coveted Michigan Senate seat - appearing with him ",
-    "ss": "'Çılgın İhanet!', 'Ruhunu Sattı!': Haley Stevens'ın Personeli Ayrıldı, Demokratlar Michigan'da Cumhuriyetçiyi Onayladıktan Sonra Eridi Güncelleme (1335ET): Temsilci Haley Stevens'ın Cumhuriyetçi Mike Rogers'ı çok beğenilen Michigan Senatosu koltuğu için destekleyip desteklemesinin ardından Demokratlar kriz yaşıyor.",
-    "u": "https://www.zerohedge.com/markets/democrat-haley-stevens-flips-endorses-el-sayeds-republican-opponent-two-days-michigan",
-    "ts": 1793568000000,
     "tags": []
    }
   ],
@@ -930,7 +930,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
