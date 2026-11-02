@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-02T18:42:19.480435+00:00",
+ "generated": "2026-11-02T19:43:03.284629+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7597.68,
-   "c": 0.23,
-   "d": 17.61,
+   "p": 7564.11,
+   "c": -0.21,
+   "d": -15.96,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25460.246,
-   "c": 0.09,
-   "d": 23.246,
+   "p": 25282.812,
+   "c": -0.61,
+   "d": -154.188,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52250.76,
-   "c": 0.93,
-   "d": 480.451,
+   "p": 52093.79,
+   "c": 0.62,
+   "d": 323.481,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 19.64,
-   "c": 1.13,
-   "d": 0.22,
+   "p": 20.88,
+   "c": 7.52,
+   "d": 1.46,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3969.2,
-   "c": 1.8,
-   "d": 70.3,
+   "p": 3957.1,
+   "c": 1.49,
+   "d": 58.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.805,
-   "c": 3.48,
-   "d": 1.708,
+   "p": 50.585,
+   "c": 3.03,
+   "d": 1.488,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 96.0,
-   "c": -7.8,
-   "d": -8.12,
+   "p": 96.6,
+   "c": -7.22,
+   "d": -7.52,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 104.31,
-   "c": -11.33,
-   "d": -13.33,
+   "p": 104.9,
+   "c": -10.83,
+   "d": -12.74,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.753,
-   "c": -0.12,
-   "d": -0.127,
+   "p": 101.719,
+   "c": -0.16,
+   "d": -0.161,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.882,
-   "c": -0.95,
-   "d": -0.047,
+   "p": 4.884,
+   "c": -0.91,
+   "d": -0.045,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.9574,
-   "c": 0.03,
-   "d": 0.015,
+   "p": 49.9663,
+   "c": 0.05,
+   "d": 0.024,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 76914,
-   "c": -1.29,
+   "p": 76638,
+   "c": -1.32,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2249.67,
-   "c": -0.6,
+   "p": 2236.41,
+   "c": -0.84,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 91.83,
-   "c": -2.77,
+   "p": 90.92,
+   "c": -3.01,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.24,
-   "c": -0.9,
+   "c": -0.28,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 697.58,
-   "c": -1.69,
+   "p": 693.23,
+   "c": -2.03,
    "k": "usd"
   }
  ],
@@ -176,8 +176,8 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793646180000,
-   "tr": "Pzt 02.11 22:03",
+   "ts": 1793646000000,
+   "tr": "Pzt 02.11 22:00",
    "reading": null
   },
   {
@@ -454,118 +454,94 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Anthropic IPO Explained: S-1 Filing, Nasdaq Listing and Key Risks",
-    "tt": "Antropik Halka Arz Açıklaması: S-1 Başvurusu, Nasdaq Listelemesi ve Temel Riskler",
-    "s": "In late 2020, a group of senior OpenAI employees unhappy with what they saw as the company’s failure to adequately prioritize AI ethics and safety left the firm to form Anthropic PBC. Just a few years later, the younger company has become an artificial intelligence behemoth that is expected to hold ",
-    "ss": "2020'nin sonlarında, bir grup üst düzey OpenAI çalışanı, şirketin yapay zeka etiğini ve güvenliğini yeterince önceliklendirmedeki başarısızlığı olarak gördükleri durumdan memnun olmadan, Anthropic PBC'yi kurmak üzere firmayı terk etti. Sadece birkaç yıl sonra, genç şirket, ayakta kalması beklenen bir yapay zeka devi haline geldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-ipo-explained-s-1-filing-nasdaq-listing-and-key-risks",
-    "ts": 1793644529000,
-    "tags": []
-   },
-   {
-    "t": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
-    "tt": "İran Görüşmelerine Yönelik Umut Yeniden Ortaya Çıkırken ABD Doğal Gazı Petrolle Birlikte Düştü",
-    "s": "US natural gas futures dropped, reversing earlier gains, as renewed hope for talks between the US and Iran caused oil and European gas prices to plunge. Those falling prices likely triggered a selloff of baskets of commodities that include US gas, even though US gas is insulated in the short-run fro",
-    "ss": "ABD ile İran arasındaki müzakerelere dair yenilenen umutların petrol ve Avrupa gaz fiyatlarının düşmesine neden olmasıyla, ABD doğal gaz vadeli işlemleri düştü ve daha önceki kazanımları tersine çevirdi. Bu düşen fiyatlar, ABD gazı kısa vadede izole edilmiş olsa da, büyük ihtimalle ABD gazını da içeren emtia sepetlerinin satışını tetikledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
-    "ts": 1793632080000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 2",
-    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil slumped the most in more than five months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
-    "ss": "Petrol, Washington ve Tahran'ın Orta Doğu enerji arzını rahatsız eden aylardır süren anlaşmazlığın çözümü için müzakerelere açık oldukları sinyalini vermesinin ardından beş aydan fazla bir sürenin en sert düşüşünü yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-    "ts": 1793574710000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Oracle Kicks Off $20 Billion Capital Raise for AI Spending Plan",
-    "tt": "Oracle, Yapay Zeka Harcama Planı İçin 20 Milyar Dolarlık Sermaye Artırımına Başladı",
-    "s": "Oracle Corp. started selling $20 billion of debt and equity on Monday, pushing ahead with plans to raise money for artificial intelligence investments despite increasing signs that money managers are jittery about tech companies’ spending.",
-    "ss": "Oracle Corp., para yöneticilerinin teknoloji şirketlerinin harcamaları konusunda tedirgin olduklarına dair artan işaretlere rağmen yapay zeka yatırımları için para toplama planlarını ilerleterek Pazartesi günü 20 milyar dolarlık borç ve özsermaye satmaya başladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
-    "ts": 1793623505000,
-    "tags": []
-   },
-   {
-    "t": "Vista, Elliott’s Cloud Software to Refinance $2 Billion of Debt",
-    "tt": "Elliott'un Bulut Yazılımı Vista, 2 Milyar Dolarlık Borcu Yeniden Finanse Edecek",
-    "s": "Private equity-backed Cloud Software Group, which owns brands including Citrix and Tibco, kicked off a transaction on Monday to address its upcoming debt maturities.",
-    "ss": "Citrix ve Tibco gibi markaların sahibi olan özel sermaye destekli Cloud Software Group, yaklaşmakta olan borç vadelerini karşılamak için Pazartesi günü bir işlem başlattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/vista-elliott-s-cloud-software-to-refinance-2-billion-of-debt",
-    "ts": 1793643815000,
-    "tags": []
-   },
-   {
-    "t": "Stocks, Bonds Rise as Oil Tumbles on US-Iran Hopes: Markets Wrap",
+    "t": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
-    "s": "Stocks joined bonds higher as hopes for diplomatic efforts to end the war in Iran spurred a slump in oil prices, easing inflation anxiety.",
+    "s": "A selloff in chipmakers weighed on stocks, offsetting a slump in oil prices driven by hopes for diplomatic efforts to end the war in Iran.",
     "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
     "ts": 1793568484000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Anthropic Braces for Pre-IPO Election Impact as AI Debate Rages",
-    "tt": "Yapay Zeka Tartışması Şiddetlenirken Halka Arz Öncesi Seçim Etkisi için Antropik Destekler",
-    "s": "Anthropic PBC’s initial public offering has plenty of hurdles to clear, and one of the biggest will hit Nov. 3, when US midterm elections threaten to upend the political status quo that’s been broadly supportive of developing artificial intelligence at a breakneck pace.",
-    "ss": "Antropik PBC'nin ilk halka arzının aşılması gereken pek çok engeli var ve en büyük engellerden biri, ABD ara seçimlerinin, yapay zekanın baş döndürücü bir hızla geliştirilmesini genel olarak destekleyen siyasi statükoyu altüst etme tehlikesiyle karşı karşıya olduğu 3 Kasım'da gerçekleşecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-braces-for-pre-ipo-election-impact-as-ai-debate-rages",
-    "ts": 1793642586000,
     "tags": []
    },
    {
-    "t": "US Stocks Advance as AI-Led Selloff Eases, Oil Prices Plunge",
-    "tt": "ABD Hisse Senetleri Yapay Zekanın Öncülüğündeki Satışların Hafiflemesi ve Petrol Fiyatlarının Düşmesiyle Yükseliyor",
-    "s": "US equities advanced as falling oil prices offered relief after a bruising week for the artificial intelligence trade.",
-    "ss": "ABD hisse senetleri, düşen petrol fiyatlarının yapay zeka ticaretinde yaşanan sıkıntılı bir haftanın ardından rahatlama sağlamasıyla yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
-    "ts": 1793624910000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "'Bipartisan' ETF 'Makes Sense': Weiskopf",
+    "tt": "'İki partili' ETF 'Mantıklı': Weiskopf",
+    "s": "Dan Weiskopf, portfolio manager at Subversive ETF, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" (Source: Bloomberg)",
+    "ss": "Subversive ETF portföy yöneticisi Dan Weiskopf, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/-bipartisan-etf-makes-sense-weiskopf-video",
+    "ts": 1793648011000,
+    "tags": []
    },
    {
-    "t": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
-    "tt": "Altın, İran Diplomasisinin Petrolün Düşüşünü Umut Etmesiyle Yükseliyor",
-    "s": "Gold rebounded as oil plunged on renewed hopes for diplomatic efforts to end the war in Iran.",
-    "ss": "Altın, İran'daki savaşı sona erdirmeye yönelik diplomatik çabaların yeniden canlanmasıyla birlikte petrolün gerilemesiyle toparlandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-    "ts": 1793577816000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "ETF Canadian Market 'Home Biased': Linda Ma",
+    "tt": "ETF Kanada Piyasası 'Ev Taraflı': Linda Ma",
+    "s": "Linda Ma, director, ETFs & financial products research at National Bank of Canada Capital Markets, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" (Source: Bloomberg)",
+    "ss": "National Bank of Canada Capital Markets ETF'ler ve finansal ürünler araştırma direktörü Linda Ma, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/etf-canadian-market-home-biased-linda-ma-video",
+    "ts": 1793647119000,
+    "tags": []
    },
    {
-    "t": "Treasury Yields Extend Past Month’s Slide as Oil Prices Tumble",
-    "tt": "Petrol Fiyatlarındaki Düşüşle Hazine Getirileri Geçtiğimiz Aydaki Kaymayı Uzattı",
-    "s": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes.",
-    "ss": "Düşen petrol fiyatlarının enflasyon baskısına ilişkin endişeleri hafifletmesi ve Fed'in ilave faiz artırımlarına yol açmasıyla Hazine tahvilleri iki yıldan fazla bir sürenin en büyük aylık yükselişini gerçekleştirerek yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
-    "ts": 1793641480000,
-    "tags": [
-     "Gümüş ▼",
-     "Altcoin ▼",
-     "Petrol ▼"
-    ]
+    "t": "Equal-Weight Keeps You In Investing Game: Tema's Nardini",
+    "tt": "Eşit Ağırlık Sizi Yatırım Oyununda Tutar: Tema's Nardini",
+    "s": "Paisley Nardini, head of investment strategy at Tema ETFs, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss Anthropic's upcoming IPO and concentration risk. (Source: Bloomberg)",
+    "ss": "Tema ETF'lerinin yatırım stratejisi başkanı Paisley Nardini, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. Anthropic'in yaklaşan halka arzını ve yoğunlaşma riskini tartışıyorlar. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/equal-weight-keeps-you-in-investing-game-tema-s-nardini-video",
+    "ts": 1793646513000,
+    "tags": []
+   },
+   {
+    "t": "Owning Anthropic Before It Goes Public",
+    "tt": "Halka Açık Olmadan Önce Antropik Sahip Olmak",
+    "s": "John Cole Scott, president and & CIO of CEF Advisors, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" Anthropic filed on Oct. 26 for an IPO that’s set to take place before Thanksgiving. Anthropic is seeking to meet or exceed the amount SpaceX raised in its $86.2 billion debut, people fami",
+    "ss": "CEF Advisors başkanı ve CIO'su John Cole Scott, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. Anthropic, Şükran Günü'nden önce gerçekleşmesi planlanan halka arz için 26 Ekim'de başvuruda bulundu. Anthropic, SpaceX'in 86,2 milyar dolarlık ilk çıkışında topladığı miktarı karşılamaya veya aşmaya çalışıyor, insanlar aile",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/owning-anthropic-before-it-goes-public-video",
+    "ts": 1793646413000,
+    "tags": []
+   },
+   {
+    "t": "Carney’s Push to Fast-Track Oil Pipeline Faces Mounting Indigenous Lawsuits",
+    "tt": "Carney'nin Petrol Boru Hattını Hızlandırmaya Yönelik Girişimi Yerli Davalarla Karşı Karşıya",
+    "s": "Prime Minister Mark Carney faces a wave of court challenges to his decision to fast-track a pipeline project under a legal mechanism his government devised to speed up construction of major infrastructure.",
+    "ss": "Başbakan Mark Carney, hükümetinin büyük altyapı inşaatını hızlandırmak için tasarladığı yasal mekanizma kapsamında bir boru hattı projesini hızlandırma kararına karşı bir dizi mahkeme itirazıyla karşı karşıya.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/carney-s-push-to-fast-track-oil-pipeline-faces-mounting-indigenous-lawsuits",
+    "ts": 1793646263000,
+    "tags": []
+   },
+   {
+    "t": "Alphabet Pays Up to Entice Buyers to €6 Billion Bond Sale",
+    "tt": "Alphabet, Alıcıları 6 Milyar Euro'luk Tahvil Satışına Cezbetmek İçin Ödeme Yapıyor",
+    "s": "Alphabet Inc. raised €6 billion ($6.7 billion) in its second euro bond sale this year, offering considerably higher yields than in its transaction in May after concerns over the pace of AI spending drove a credit-market selloff.",
+    "ss": "Alphabet Inc., bu yılki ikinci euro tahvil satışında 6 milyar Euro (6,7 milyar dolar) topladı ve yapay zeka harcamalarının hızına ilişkin endişelerin kredi piyasasındaki satışları artırmasının ardından Mayıs ayındaki işlemine göre çok daha yüksek getiriler sundu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
+    "ts": 1793603871000,
+    "tags": []
+   },
+   {
+    "t": "Millennium Pulls Over $1.5 Billion From Two External Hedge Funds",
+    "tt": "Millennium, İki Harici Hedge Fonundan 1,5 Milyar Dolardan Fazla Para Çekti",
+    "s": "Millennium Management is redeeming more than $1.5 billion of leveraged cash from two external hedge funds that the multistrategy investment firm backed last year.",
+    "ss": "Millennium Management, çok stratejili yatırım firmasının geçen yıl desteklediği iki harici hedge fonundan 1,5 milyar dolardan fazla kaldıraçlı nakit kullanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/millennium-pulls-over-1-5-billion-from-two-external-hedge-funds",
+    "ts": 1793646002000,
+    "tags": []
+   },
+   {
+    "t": "Oracle Leads 17-Firm High-Grade Bond Push Before US Midterm Vote",
+    "tt": "Oracle, ABD Ara Dönem Oyu Öncesi 17 Firmalı Yüksek Dereceli Tahvil İhalesine Liderlik Ediyor",
+    "s": "Oracle Corp. is leading a charge of 17 companies rushing to sell bonds in the US high-grade market on Monday ahead of the US midterm elections, in the longest lineup since September.",
+    "ss": "Oracle Corp., ABD ara seçimleri öncesinde Pazartesi günü ABD yüksek kaliteli tahvil piyasasında Eylül ayından bu yana en uzun süreli tahvil satışına koşan 17 şirketin başında yer alıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-leads-17-firm-high-grade-bond-push-before-us-midterm-vote",
+    "ts": 1793645755000,
+    "tags": []
+   },
+   {
+    "t": "Midterm Rally May Be Tricky as AI Trade Becomes ‘Show Me’ Story",
+    "tt": "Yapay Zeka Ticareti 'Bana Göster' Hikayesine Dönüştüğünden Ara Dönem Rallisi Zor Olabilir",
+    "s": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, according to Wolfe Research.",
+    "ss": "Wolfe Research'e göre, ABD ara seçimlerinin hisse senetleri için bir takas olayı olmasını bekleyen tüccarlar, kendilerini piyasanın yükselişini engelleyen bir yapay zeka \"endişe duvarı\" ile karşı karşıya bulabilirler.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
+    "ts": 1793645313000,
+    "tags": []
    }
   ],
   "CNBC": [
@@ -662,6 +638,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "How soon gas prices could go down now that oil is tumbling",
+    "tt": "Petrol düşerken gaz fiyatları ne kadar sürede düşebilir?",
+    "s": "Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.",
+    "ss": "Perakende gaz fiyatları Pazartesi günü ABD petrol fiyatlarının varil başına 100 doların altına düşmesiyle galon başına 4,12 dolara düştü.",
+    "u": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+    "ts": 1793647620000,
+    "tags": []
+   },
+   {
     "t": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
     "tt": "Ara seçim sonuçlarını hesaplamak haftalar alabilir. İşte Wall Street'in endişelenmemesinin nedeni.",
     "s": "It’s crucial to distinguish economic from political uncertainty, because only one really moves the stock market.",
@@ -707,7 +692,7 @@
     "tags": []
    },
    {
-    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
+    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
     "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden bizi Roth dönüşümleri yapmaya zorluyor?",
     "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
     "ss": "“Temel yaşam masraflarımız yıllık 110.000 dolar emekli maaşı ve Sosyal Güvenlik tarafından karşılanıyor.”",
@@ -741,18 +726,18 @@
     "u": "https://www.marketwatch.com/story/behind-anthropics-1-127-revenue-surge-and-the-computing-bill-that-erased-its-profit-2fe7e513?mod=mw_rss_topstories",
     "ts": 1793636520000,
     "tags": []
-   },
-   {
-    "t": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-    "tt": "Grand Theft Callout: 'GTA 6' hayranları oyunun çıkış gününde işlerini kaçırıyorlar çünkü artık 'beklemek istemiyorlar'",
-    "s": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
-    "ss": "Bu video oyunu için 13 yıl bekledikten sonra çalışanların neredeyse beşte biri, 19 Kasım'da yayınlandığında 'Grand Theft Auto VI' oynamak için bir gün izin almayı planlıyor",
-    "u": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-    "ts": 1793635860000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Trump Says He'll Turn Into 'Mr. Veto' And Issue Preemptive Pardons If Dems Dominate Midterms",
+    "tt": "Trump 'Bay'a dönüşeceğini söylüyor Demokratların Ara Sınavlarda Hakim Olması Halinde Veto ve Önleyici Aflar Çıkarma",
+    "s": "Trump Says He'll Turn Into 'Mr. Veto' And Issue Preemptive Pardons If Dems Dominate Midterms President Trump said that if Democrats win the House or the Senate on Tuesday, he will govern by veto until the two sides cut a deal , telling Fox News' Miranda Devine that he would \"become Mr. Veto.\" Presid",
+    "ss": "Trump 'Bay'a dönüşeceğini söylüyor Veto ve Demokratların Ara Sınavlarda Hakim Olması Halinde Önleyici Aflar Çıkarın Başkan Trump, Salı günü Demokratların Temsilciler Meclisi veya Senato'yu kazanması halinde, iki taraf bir anlaşmaya varana kadar veto yoluyla yöneteceğini söyledi ve Fox News'tan Miranda Devine'e \"Bay Veto olacağını\" söyledi. Başkan",
+    "u": "https://www.zerohedge.com/markets/trump-says-hell-be-mr-veto-if-democrats-win-congress-tuesdays-midterms",
+    "ts": 1793646300000,
+    "tags": []
+   },
    {
     "t": "Skynet, Spies, And Your Vote Doesn't Count: The 10 Biggest Red Flags In Anthropic's IPO Filing",
     "tt": "Skynet, Casuslar ve Oyunuz Önemli Değil: Anthropic'in Halka Arz Başvurusunda En Büyük 10 Kırmızı Bayrak",
@@ -808,9 +793,9 @@
     "tags": []
    },
    {
-    "t": "Iran's Supreme Leader Floats More US Talks In Rare Overture; Oil Prices Tumble",
+    "t": "Iran's Supreme Leader Floats More US Talks In Rare Overture",
     "tt": "İran'ın Dini Lideri Nadir Uvertürde Daha Fazla ABD Görüşmesi Yapıyor; Petrol Fiyatları Düşüyor",
-    "s": "Iran's Supreme Leader Floats More US Talks In Rare Overture; Oil Prices Tumble Update(0855ET) : Oil is tumbling in the wake of a somewhat rare headline out of Tehran&nbsp; Iranian President Pezeshkian says the Supreme Leader has granted the government some authority on dialogue , ISNA reports OIL FA",
+    "s": "Iran's Supreme Leader Floats More US Talks In Rare Overture Update(0855ET) : Oil is tumbling in the wake of a somewhat rare headline out of Tehran&nbsp; Iranian President Pezeshkian says the Supreme Leader has granted the government some authority on dialogue , ISNA reports OIL FALLS TO INTRADAY LOW",
     "ss": "İran'ın Dini Lideri Nadir Uvertürde Daha Fazla ABD Görüşmesi Yapıyor; Petrol Fiyatlarında Düşüş Güncellemesi(0855ET): Petrol, Tahran'dan gelen nadir bir manşetin ardından düşüşe geçti ISNA'nın OIL FA raporuna göre, İran Cumhurbaşkanı Pezeshkian, Dini Liderin hükümete diyalog konusunda bir miktar yetki verdiğini söyledi",
     "u": "https://www.zerohedge.com/energy/brent-wti-futs-tumble-trump-may-give-diplomacy-chance-iran-floats-two-day-hormuz-reopening",
     "ts": 1793640600000,
@@ -838,18 +823,36 @@
     "u": "https://www.zerohedge.com/political/dc-judge-tosses-charges-against-former-fbi-officials-accused-lying-about-hunter-biden",
     "ts": 1793639100000,
     "tags": []
-   },
-   {
-    "t": "France Votes To Tax Big Tech By The Gigabyte - And Someone Just Bent The Barrel Back",
-    "tt": "Fransa Büyük Teknolojiyi Gigabyte'larca Vergilendirmeyi Oyladı - Ve Birileri Az Önce Namluyu Eğdi",
-    "s": "France Votes To Tax Big Tech By The Gigabyte - And Someone Just Bent The Barrel Back France's National Assembly voted on Friday to tax the internet by the gigabyte. An amendment to the 2027 budget would charge every company that sends data to French internet subscribers €0.055 per gigabyte , and its",
-    "ss": "Fransa, Büyük Teknolojiyi Gigabayt Boyutunda Vergilendirmeyi Oyladı - Ve Birisi Az önce Namluyu Eğdi Fransa Ulusal Meclisi, interneti gigabayt cinsinden vergilendirmek için Cuma günü oy kullandı. 2027 bütçesinde yapılacak bir değişiklik, Fransız internet abonelerine veri gönderen her şirketten gigabayt başına 0,055 Euro tutarında ücret talep edecek.",
-    "u": "https://www.zerohedge.com/geopolitical/france-votes-tax-big-tech-gigabyte-and-someone-just-bent-barrel-back",
-    "ts": 1793637000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "AB'den İngiltere'nin yeniden üyeliğine esneklik sinyali",
+    "tt": null,
+    "s": "Avrupa Birliği'nin, İngiltere'nin yeniden üyelik başvurusunda bulunması halinde Euro ve Schengen Bölgesi'ne katılma şartlarında esneklik sağlayabileceği öne sürüldü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-den-ingiltere-nin-yeniden-uyeligine-esneklik-sinyali-3793128",
+    "ts": 1793647113000,
+    "tags": []
+   },
+   {
+    "t": "Meta, tahvil ihracıyla en az 20 milyar dolar toplamayı hedefliyor",
+    "tt": null,
+    "s": "Meta, yapay zeka yatırımlarını finanse etmek amacıyla dolar ve euro cinsinden gerçekleştirmeyi değerlendirdiği tahvil ihracıyla en az 20 milyar dolar kaynak toplamayı hedefliyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/meta-tahvil-ihraciyla-en-az-20-milyar-dolar-toplamayi-hedefliyor-3793127",
+    "ts": 1793646178000,
+    "tags": []
+   },
+   {
+    "t": "Enerjisa'dan üçüncü çeyrekte beklentileri aşan net kâr",
+    "tt": null,
+    "s": "Enerjisa üçüncü çeyrekte 3,8 milyar TL net kâr açıkladı. Analist beklentilerinin üzerinde gerçekleşen performansta piyasa konsensüsü şirketin 2,3 milyar TL net kâr elde etmesi yönündeydi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/enerjisa-dan-ucuncu-ceyrekte-beklentileri-asan-net-kr-3793126",
+    "ts": 1793645750000,
+    "tags": []
+   },
    {
     "t": "Marvell, Lumentum'u 115 milyar dolara satın alıyor",
     "tt": null,
@@ -911,33 +914,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abdde-imalat-sektoru-10-aydir-kesintisiz-buyuyor-3793115",
     "ts": 1793633351000,
-    "tags": []
-   },
-   {
-    "t": "Sermaye piyasası işlemleri soruşturmasında Korkmaz Enes Ergun adliyede",
-    "tt": null,
-    "s": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddiasıyla gözaltına alınan eski Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun adliyeye sevk edildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/sermaye-piyasasi-islemleri-sorusturmasinda-korkmaz-enes-ergun-adliyede-3793097",
-    "ts": 1793627728000,
-    "tags": []
-   },
-   {
-    "t": "Para piyasası fonları altı ayın en düşük seviyesinde",
-    "tt": null,
-    "s": "Merkez Bankası'nın yayımladığı haftalık Para ve Banka İstatistikleri'ne göre para piyasası fonlarında Nisan ayından bu yana en düşük seviye kaydedildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/para-piyasasi-fonlari-alti-ayin-en-dusuk-seviyesinde-3793089",
-    "ts": 1793623617000,
-    "tags": []
-   },
-   {
-    "t": "Eximbank Yönetim Kurulu Başkanı Çelik istifa etti",
-    "tt": null,
-    "s": "Eximbank Yönetim Kurulu Başkanı Osman Çelik görevinden istifa etti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/eximbank-yonetim-kurulu-baskani-celik-istifa-etti-3793087",
-    "ts": 1793622637000,
     "tags": []
    }
   ]
