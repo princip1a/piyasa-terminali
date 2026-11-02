@@ -1,79 +1,79 @@
 {
- "generated": "2026-11-02T15:46:44.793209+00:00",
+ "generated": "2026-11-02T16:51:01.579030+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7654.5,
-   "c": 0.98,
-   "d": 74.43,
+   "p": 7625.49,
+   "c": 0.6,
+   "d": 45.42,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25768.629,
-   "c": 1.3,
-   "d": 331.629,
+   "p": 25610.572,
+   "c": 0.68,
+   "d": 173.572,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52376.7,
-   "c": 1.17,
-   "d": 606.391,
+   "p": 52339.21,
+   "c": 1.1,
+   "d": 568.901,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 18.12,
-   "c": -6.69,
-   "d": -1.3,
+   "p": 18.77,
+   "c": -3.35,
+   "d": -0.65,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3962.3,
-   "c": 1.63,
-   "d": 63.4,
+   "p": 3979.0,
+   "c": 2.05,
+   "d": 80.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.87,
-   "c": 3.61,
-   "d": 1.773,
+   "p": 51.015,
+   "c": 3.91,
+   "d": 1.918,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 97.56,
-   "c": -6.3,
-   "d": -6.56,
+   "p": 96.6,
+   "c": -7.22,
+   "d": -7.52,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 106.13,
-   "c": -9.78,
-   "d": -11.51,
+   "p": 104.74,
+   "c": -10.97,
+   "d": -12.9,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.722,
+   "p": 101.719,
    "c": -0.16,
-   "d": -0.158,
+   "d": -0.161,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.898,
-   "c": -0.63,
-   "d": -0.031,
+   "p": 4.882,
+   "c": -0.95,
+   "d": -0.047,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.9647,
+   "p": 49.9649,
    "c": 0.04,
    "d": 0.022,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77929,
-   "c": -0.09,
+   "p": 77424,
+   "c": -0.79,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2289.47,
-   "c": 0.95,
+   "p": 2268.02,
+   "c": 0.05,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.21,
-   "c": -0.72,
+   "p": 93.42,
+   "c": -1.33,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": 0.27,
+   "c": 0.01,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 704.34,
-   "c": -1.26,
+   "p": 702.17,
+   "c": -1.27,
    "k": "usd"
   }
  ],
@@ -454,26 +454,21 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 2",
-    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil and natural gas slumped the most in roughly three months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
-    "ss": "Petrol, İran'ın dini liderinin hükümete Orta Doğu'daki petrol arzını bozan aylardır süren çatışmayı çözebilecek müzakerelerin sürdürülmesi yönünde onay vermesinin ardından kayıplarını artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-    "ts": 1793574710000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "Muddy Waters-Backed Gold Project Fast-Tracked by Ontario",
+    "tt": "Çamurlu Sulara Dayalı Altın Projesi Ontario Tarafından Hızla Takip Ediliyor",
+    "s": "A Canadian gold project backed by famed short seller Carson Block will be fast-tracked under a framework to cut permitting timelines in Ontario, extending the provincial government’s efforts to support the mining sector.",
+    "ss": "Ünlü açığa satış satıcısı Carson Block tarafından desteklenen bir Kanada altın projesi, Ontario'daki izin sürelerini kısaltacak bir çerçeve kapsamında hızlandırılarak eyalet hükümetinin madencilik sektörünü destekleme çabalarını genişletecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/muddy-waters-backed-gold-project-to-be-fast-tracked-by-ontario",
+    "ts": 1793619000000,
+    "tags": []
    },
    {
-    "t": "Outback Steakhouse Franchisee Files Bankruptcy After Costs Swell",
-    "tt": null,
-    "s": "Cerca Trova Restaurant Group, once the biggest franchisee of Outback Steakhouse restaurants, filed bankruptcy Monday, blaming factors including rising food costs and California’s minimum wage law for its demise.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/outback-steakhouse-franchisee-files-bankruptcy-after-costs-swell",
-    "ts": 1793633810000,
+    "t": "Oracle Kicks Off $20 Billion Capital Raise for AI Spending Plan",
+    "tt": "Oracle, Tahvil Piyasası Karşılığında 10 Milyar Dolar Toplamayı Hedefliyor",
+    "s": "Oracle Corp. started selling $20 billion of debt and equity on Monday, pushing ahead with plans to raise money for artificial intelligence investments despite increasing signs that money managers are jittery about tech companies’ spending.",
+    "ss": "Oracle Corp., yapay zeka altyapısına yatırımlarını finanse etmek için yeni sermaye harcaması planlarını açıklamasından sadece birkaç gün sonra, ABD doları tutarındaki tahvil satışından 10 milyar dolar elde etmeye çalışıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+    "ts": 1793623505000,
     "tags": []
    },
    {
@@ -491,72 +486,75 @@
     ]
    },
    {
-    "t": "Romania Selling Eurobonds After New Government Takes Office",
-    "tt": null,
-    "s": "Romania is tapping international debt markets for the first time after the country approved a new government to overcome more than five months of political turmoil.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
-    "ts": 1793620148000,
+    "t": "Marvell’s AI Megadeal Hands Wall St Multiple M&A Milestones",
+    "tt": "Marvell'in Yapay Zeka Megadeal Wall St Çoklu Birleşme ve Satın Alma Aşamalarını Elinde Tutuyor",
+    "s": "Marvell Technology Inc.’s $115 billion takeover of data center laser maker Lumentum Holdings Inc. will move Wall Street past a number of mergers and acquisitions milestones in a year already chock-full of megadeals.",
+    "ss": "Marvell Technology Inc.'in veri merkezi lazer üreticisi Lumentum Holdings Inc.'i 115 milyar dolara satın alması, Wall Street'i hali hazırda büyük anlaşmalarla dolu bir yılda bir dizi birleşme ve satın alma kilometre taşının ötesine taşıyacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones",
+    "ts": 1793627939000,
     "tags": []
    },
    {
-    "t": "Oracle Kicks Off $20 Billion Capital Raise for AI Spending Plan",
-    "tt": "Oracle, Tahvil Piyasası Karşılığında 10 Milyar Dolar Toplamayı Hedefliyor",
-    "s": "Oracle Corp. has kicked off an effort to raise $20 billion in debt and equity, just days after unveiling a long-term fundraising plan to finance its artificial intelligence infrastructure spending spree.",
-    "ss": "Oracle Corp., yapay zeka altyapısına yatırımlarını finanse etmek için yeni sermaye harcaması planlarını açıklamasından sadece birkaç gün sonra, ABD doları tutarındaki tahvil satışından 10 milyar dolar elde etmeye çalışıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
-    "ts": 1793623505000,
+    "t": "Indonesia’s MSCI Crisis Driven By Wash Trades and 5,000% Rallies",
+    "tt": "Endonezya'daki MSCI Krizi, Yıkama İşlemleri ve %5.000 Yükselişlerden Kaynaklandı",
+    "s": "Stock trading schemes that helped enrich Indonesia’s tycoons have put the country on the verge of a costly MSCI downgrade.",
+    "ss": "Endonezya'nın kodamanlarının zenginleşmesine yardımcı olan hisse senedi alım satım planları, ülkeyi maliyetli bir MSCI notunun düşürülmesinin eşiğine getirdi.",
+    "u": "https://www.bloomberg.com/news/features/2026-11-01/indonesia-s-msci-crisis-driven-by-wash-trades-and-5-000-rallies",
+    "ts": 1793570400000,
     "tags": []
    },
    {
-    "t": "US Natural Gas Rises on Lower Appalachian Output, Cooler Weather",
-    "tt": null,
-    "s": "US natural gas futures increased as production dropped over the weekend, led by declines in the shale fields of Appalachia. The dip in supply signals producers may be curtailing output because of low prices. Forecasts also shifted slightly cooler, indicating higher demand for the furnace and power-p",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
-    "ts": 1793632080000,
+    "t": "EchoStar Gains on SpaceX Talks; Lumentum, Marvell Reach Deal | Stock Movers",
+    "tt": "EchoStar, SpaceX Görüşmelerinden Kazanç Sağlıyor; Lumentum, Marvell Anlaşmaya Ulaştı | Stok Taşıyıcıları",
+    "s": "On this episode of Stock Movers: - EchoStar (ECHO) is gaining on news Elon Musk's SpaceX is looking to start a wireless service with Echostar. - Lumentum (LITE) is moving on news Marvell Technology has reached a deal to buy Lumentum at an enterprise value of $115 billion. Lumentum makes lasers and o",
+    "ss": "Stock Movers'ın bu bölümünde: - EchoStar (ECHO), Elon Musk'un SpaceX'inin Echostar ile kablosuz hizmet başlatmayı planladığı haberlerini alıyor. - Lumentum (LITE) ilerliyor Marvell Technology, Lumentum'u 115 milyar dolarlık kurumsal değerle satın almak için anlaşmaya vardı. Lumentum lazerler yapar ve o",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/echostar-spacex-talks-lumentum-marvell-reach-deal-video",
+    "ts": 1793635723000,
     "tags": []
    },
    {
-    "t": "Gold Investors Rocked by Wipeout, Seek Firmer Footing After Vote",
-    "tt": null,
-    "s": "As gold heads toward its worst annual loss in more than a decade, investors are gauging the odds a political shift in the US will restore the precious metal’s haven allure.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-investors-rocked-by-wipeout-seek-firmer-footing-after-vote",
-    "ts": 1793631983000,
+    "t": "Gold Rebounds as Investors Seek Cash",
+    "tt": "Yatırımcıların Nakit Arayışıyla Altın Yükseliyor",
+    "s": "Gold is trying to recover after its worst October since 2008, but market jitters are turning the metal into a source of liquidity, not a safe haven. Suki Cooper, Standard Chartered Global Head of Commodities Research explains the pressure near $4,000, where support may emerge, and why silver faces e",
+    "ss": "Altın, 2008'den beri gördüğü en kötü Ekim ayının ardından toparlanmaya çalışıyor ancak piyasadaki gerginlikler, altını güvenli bir liman değil, bir likidite kaynağına dönüştürüyor. Standard Chartered Küresel Emtia Araştırması Başkanı Suki Cooper, desteğin ortaya çıkabileceği 4.000 dolar civarındaki baskıyı ve gümüşün neden karşı karşıya olduğunu açıklıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/gold-rebounds-as-investors-seek-cash-video",
+    "ts": 1793635621000,
+    "tags": [
+     "Altın ▲",
+     "Gümüş ▲"
+    ]
+   },
+   {
+    "t": "Lachlan Murdoch Blames Fox News Ratings Dip on ‘Viewer Fatigue’",
+    "tt": "Lachlan Murdoch, Fox News'un Reyting Düşüşünü 'İzleyici Yorgunluğundan' Sorumlu Tuttu",
+    "s": "Fox Corp. Chief Executive Officer Lachlan Murdoch acknowledged a steep decline in viewership on Fox News ahead of midterm elections and attributed it to “viewer fatigue.”",
+    "ss": "Fox Corp. İcra Kurulu Başkanı Lachlan Murdoch, ara seçimler öncesinde Fox News'un izlenme sayısında keskin bir düşüş olduğunu kabul etti ve bunu \"izleyici yorgunluğuna\" bağladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/lachlan-murdoch-blames-fox-news-ratings-dip-on-viewer-fatigue",
+    "ts": 1793634869000,
     "tags": []
    },
    {
-    "t": "China Boosts Use of Stock Support Tools to Stabilize Market",
-    "tt": null,
-    "s": "China will encourage financial institutions to make fuller use of two stock support tools and optimize their terms, as authorities step up efforts to bolster market stability and confidence.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
-    "ts": 1793625052000,
-    "tags": []
-   },
-   {
-    "t": "Credit Boss at Top Canada Pension Warns of ‘Bubble-Like’ AI Rush",
-    "tt": null,
-    "s": "The credit chief for Canada’s largest pension sees signs of “bubble-like” exuberance in the rush to finance AI, cautioning that investors should scrutinize their exposure to the nascent technology.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/credit-boss-at-top-canada-pension-warns-of-bubble-like-ai-rush",
-    "ts": 1793631692000,
-    "tags": []
-   },
-   {
-    "t": "Gold Recovers as Iran Leader’s Nod for Talks Sends Oil Tumbling",
-    "tt": "Altın, İran Liderinin Müzakere Onayının Petrolü Düşürmesiyle Toparlanıyor",
-    "s": "Gold extended gains as oil plunged after Iran’s supreme leader gave the government approval to pursue talks with the US.",
-    "ss": "Altın, İran'ın dini liderinin hükümete ABD ile müzakerelerin sürdürülmesi için onay vermesinin ardından petroldeki düşüşle birlikte kazançlarını sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-    "ts": 1793577816000,
+    "t": "Latest Oil Market News and Analysis for Nov. 2",
+    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil and natural gas slumped the most in roughly three months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
+    "ss": "Petrol, İran'ın dini liderinin hükümete Orta Doğu'daki petrol arzını bozan aylardır süren çatışmayı çözebilecek müzakerelerin sürdürülmesi yönünde onay vermesinin ardından kayıplarını artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+    "ts": 1793574710000,
     "tags": [
      "Petrol ▼",
      "DXY ▼",
      "Altın ▲",
      "BTC ▲"
     ]
+   },
+   {
+    "t": "Outback Steakhouse Franchisee Files Bankruptcy After Costs Swell",
+    "tt": "Outback Steakhouse Franchise Sahibi, Maliyetlerin Artmasının Ardından İflas Başvurusunda Bulundu",
+    "s": "Cerca Trova Restaurant Group, once the biggest franchisee of Outback Steakhouse restaurants, filed bankruptcy Monday, blaming factors including rising food costs and California’s minimum wage law for its demise.",
+    "ss": "Bir zamanlar Outback Steakhouse restoranlarının en büyük franchise sahibi olan Cerca Trova Restaurant Group, Pazartesi günü iflas başvurusunda bulunarak, artan gıda maliyetleri ve Kaliforniya'nın asgari ücret kanunu gibi faktörleri bu çöküşten sorumlu tuttu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/outback-steakhouse-franchisee-files-bankruptcy-after-costs-swell",
+    "ts": 1793633810000,
+    "tags": []
    }
   ],
   "CNBC": [
@@ -653,111 +651,165 @@
   ],
   "MarketWatch": [
    {
+    "t": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+    "tt": "S&P 500 risklerini azaltmak isteyen yatırımcılar için 6 temettü hissesi",
+    "s": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.",
+    "ss": "Novartis, Mitsubishi ve Canadian Natural, ABD dışındaki gelişmiş pazarlarda yüksek temettü getirisi ve fiyat ve kazançlarda düşük oynaklık için taramalardan geçen şirketlerin örnekleridir.",
+    "u": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+    "ts": 1793638320000,
+    "tags": []
+   },
+   {
+    "t": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
+    "tt": "Analistler, bu teknoloji hisselerinin geçen haftaki satışlarda haksız bir şekilde yükseldiğini söylüyor",
+    "s": "One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.",
+    "ss": "Bir analist, çip sektörünün bazı köşelerinde \"fiyat ile temeller arasında anlamlı bir uçurum\" olduğuna dikkat çekiyor.",
+    "u": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
+    "ts": 1793638200000,
+    "tags": []
+   },
+   {
+    "t": "Behind Anthropic’s 1,127% revenue surge — and the computing bill that erased its profit",
+    "tt": "Anthropic'in %1.127'lik gelir artışının ve kârını silen bilgi işlem faturasının arkasında",
+    "s": "Anthropic just filed updated financial paperwork ahead of an IPO that could come by the end of this month.",
+    "ss": "Anthropic, bu ayın sonuna kadar gerçekleşebilecek halka arz öncesinde güncellenmiş mali evrakları sundu.",
+    "u": "https://www.marketwatch.com/story/behind-anthropics-1-127-revenue-surge-and-the-computing-bill-that-erased-its-profit-2fe7e513?mod=mw_rss_topstories",
+    "ts": 1793636520000,
+    "tags": []
+   },
+   {
+    "t": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+    "tt": "Grand Theft Callout: 'GTA 6' hayranları oyunun çıkış gününde işlerini kaçırıyorlar çünkü artık 'beklemek istemiyorlar'",
+    "s": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
+    "ss": "Bu video oyunu için 13 yıl bekledikten sonra çalışanların neredeyse beşte biri, 19 Kasım'da yayınlandığında 'Grand Theft Auto VI' oynamak için bir gün izin almayı planlıyor",
+    "u": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+    "ts": 1793635860000,
+    "tags": []
+   },
+   {
+    "t": "When you turn this age, it’s your best chance to get crucial tax and healthcare plans in place for retirement",
+    "tt": "Bu yaşa ulaştığınızda, emeklilik için önemli vergi ve sağlık planlarını uygulamaya koymak en iyi şansınızdır",
+    "s": "Ages 60 through 63 involve key healthcare, financial and tax decisions.",
+    "ss": "60 ila 63 yaş arası temel sağlık, finans ve vergi kararlarını içerir.",
+    "u": "https://www.marketwatch.com/story/when-you-turn-this-age-its-your-best-chance-to-get-crucial-tax-and-healthcare-plans-in-place-for-retirement-e9400392?mod=mw_rss_topstories",
+    "ts": 1793635740000,
+    "tags": []
+   },
+   {
+    "t": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
+    "tt": "Hızla büyüyen ABD'li üreticiler talebe yetişemiyor ve yüksek enflasyon da buna yardımcı olmuyor",
+    "s": "U.S. manufacturers in October pumped out the most goods — plastics, computers, electrical equipment and so forth — in five years as a growing economy and a revolution in artificial intelligence stoked demand.",
+    "ss": "ABD'li imalatçılar Ekim ayında, büyüyen ekonomi ve yapay zeka devriminin talebi artırması nedeniyle beş yıl içinde plastik, bilgisayar, elektrikli ekipman ve benzeri çoğu ürünü piyasaya sürdü.",
+    "u": "https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories",
+    "ts": 1793635140000,
+    "tags": []
+   },
+   {
     "t": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
-    "tt": null,
+    "tt": "Eşim ve ben 70'li yaşlardayız. Yüzde 2,5'lik ipoteğimizi mi ödemeliyiz yoksa yapay zekanın yönlendirdiği bir borsaya mı yatırım yapmalıyız?",
     "s": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”",
-    "ss": null,
+    "ss": "“Yapay zekanın yönlendirdiği bir pazara yatırım yapmanın akıllıca olup olmadığını değerlendiriyoruz.”",
     "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
     "ts": 1793634300000,
     "tags": []
    },
    {
     "t": "SpaceX has big wireless dreams — and Boost Mobile may be its shortcut",
-    "tt": null,
+    "tt": "SpaceX'in büyük kablosuz hayalleri var ve Boost Mobile onun kısayolu olabilir",
     "s": "In recent weeks there has been intense speculation surrounding SpaceX’s ambitions in the cellular market with multiple acquisition targets suggested. Boost Mobile is the latest.",
-    "ss": null,
+    "ss": "Son haftalarda SpaceX'in hücresel pazardaki hedefleri etrafında, birden fazla satın alma hedefi öne sürülen yoğun spekülasyonlar vardı. Boost Mobile en yenisidir.",
     "u": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
     "ts": 1793634000000,
     "tags": []
    },
    {
     "t": "Want guaranteed income in retirement without an annuity? Try laddering I-bonds.",
-    "tt": null,
+    "tt": "Emeklilikte yıllık gelir olmadan garantili gelir mi istiyorsunuz? I-bağlarını basamaklandırmayı deneyin.",
     "s": "The new 5.51% rate might entice you to use I-bonds to create inflation-proof income in retirement.",
-    "ss": null,
+    "ss": "Yeni %5,51 oranı sizi emeklilikte enflasyona dayanıklı gelir elde etmek için tahvil kullanmaya ikna edebilir.",
     "u": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
     "ts": 1793633520000,
     "tags": []
    },
    {
     "t": "My ex-husband sent me a text, promising $20,000 for our children’s education. Now he refuses to pay. What can I do?",
-    "tt": null,
+    "tt": "Eski kocam bana bir mesaj göndererek çocuklarımızın eğitimi için 20.000 dolar sözü verdi. Şimdi ödemeyi reddediyor. Ne yapabilirim?",
     "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-    "ss": null,
+    "ss": "\"Boşanmadan önce eski kayınvalidem, kızlarımızın her biri adına yatırım yapması için ona 20.000 dolar emanet etti.\"",
     "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
     "ts": 1793632500000,
-    "tags": []
-   },
-   {
-    "t": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
-    "tt": "Marvell ve Lumentum resmi olarak birleşmeyi planlıyor. İşte bilmeniz gerekenler.",
-    "s": "Newly announced $115 billion deal for Lumentum will be financed entirely through stock: “There’s a real echo of 2000 here.”",
-    "ss": "Yeni önerilen bir anlaşma stokla finanse edilecek ve sıcak optik ağ pazarını hedef alacak.",
-    "u": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-    "ts": 1793631900000,
-    "tags": []
-   },
-   {
-    "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    "tt": "Eşim 401(k)'da sadece 80.000 doları olduğunu öğrendiğimde ağladı. 2,2 milyon dolarım var. Şok olmakta haksız mıyım?",
-    "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    "ss": "\"Geçen baharda emekli olma konusunu açtığımda, ne zaman istersem hazır olduğunu söyledi ve ben de bunu iyi durumda olduğumuz anlamına aldım.\"",
-    "u": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    "ts": 1793629800000,
-    "tags": []
-   },
-   {
-    "t": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-    "tt": "'O A Tipi bir kişilik': Üvey annem, rahmetli babamın 40.000 dolarlık düğün hediyesini geri ödememi istiyor. Zorunlu mu olmalıyım?",
-    "s": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-    "ss": "\"Cenazesinden yaklaşık iki ay sonra üvey annem aradı ve parayı geri istediğini söyledi.\"",
-    "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "ts": 1793628900000,
-    "tags": []
-   },
-   {
-    "t": "Oracle’s stock falls as the company details plan to raise $20 billion",
-    "tt": "Oracle'ın hisseleri, şirketin 20 milyar dolar toplamayı planladığının ayrıntılarıyla düşüyor",
-    "s": "Oracle has been borrowing money and issuing stock to help finance its AI cloud growth.",
-    "ss": "Oracle, yapay zeka bulutunun büyümesini finanse etmek için borç alıyor ve hisse senedi ihraç ediyor.",
-    "u": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
-    "ts": 1793628180000,
-    "tags": []
-   },
-   {
-    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
-    "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden bizi Roth dönüşümleri yapmaya zorluyor?",
-    "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-    "ss": "“Temel yaşam masraflarımız yıllık 110.000 dolar emekli maaşı ve Sosyal Güvenlik tarafından karşılanıyor.”",
-    "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "ts": 1793628000000,
-    "tags": []
-   },
-   {
-    "t": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
-    "tt": "Goldman Sachs'a göre petrol fiyatları gelecek yıl varil başına ortalama 130 dolar olabilir",
-    "s": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
-    "ss": "Yatırım bankasındaki analistler, Orta Doğu'da gerilimin kötüleşmesi halinde Brent ham petrolünün gelecek yıl varil başına 140 dolara ulaşabileceğini söyledi.",
-    "u": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-    "ts": 1793627160000,
     "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Goldman Hikes 2027 Brent Forecast For These Two Reasons",
+    "tt": "Goldman Bu İki Nedenle 2027 Brent Tahminini Artırdı",
+    "s": "Goldman Hikes 2027 Brent Forecast For These Two Reasons On Sunday, Goldman Sachs' head of oil research, Daan Struyven, raised his crude oil price forecasts , warning that the threat of renewed supply disruptions will keep a higher geopolitical risk premium in crude prices even as Gulf area productio",
+    "ss": "Goldman 2027 Brent Tahminini Bu İki Nedenle Artırdı Goldman Sachs'ın petrol araştırma başkanı Daan Struyven Pazar günü ham petrol fiyatı tahminlerini yükselterek, yeni arz kesintileri tehdidinin, Körfez bölgesindeki üretim devam ederken bile ham petrol fiyatlarında daha yüksek jeopolitik risk primini koruyacağı uyarısında bulundu.",
+    "u": "https://www.zerohedge.com/energy/goldman-hikes-2027-brent-forecast-these-two-reasons",
+    "ts": 1793637900000,
+    "tags": []
+   },
+   {
+    "t": "France Votes To Tax Big Tech By The Gigabyte - And Someone Just Bent The Barrel Back",
+    "tt": "Fransa Büyük Teknolojiyi Gigabyte'larca Vergilendirmeyi Oyladı - Ve Birileri Az Önce Namluyu Eğdi",
+    "s": "France Votes To Tax Big Tech By The Gigabyte - And Someone Just Bent The Barrel Back France's National Assembly voted on Friday to tax the internet by the gigabyte. An amendment to the 2027 budget would charge every company that sends data to French internet subscribers €0.055 per gigabyte , and its",
+    "ss": "Fransa, Büyük Teknolojiyi Gigabayt Boyutunda Vergilendirmeyi Oyladı - Ve Birisi Az önce Namluyu Eğdi Fransa Ulusal Meclisi, interneti gigabayt cinsinden vergilendirmek için Cuma günü oy kullandı. 2027 bütçesinde yapılacak bir değişiklik, Fransız internet abonelerine veri gönderen her şirketten gigabayt başına 0,055 Euro tutarında ücret talep edecek.",
+    "u": "https://www.zerohedge.com/geopolitical/france-votes-tax-big-tech-gigabyte-and-someone-just-bent-barrel-back",
+    "ts": 1793637000000,
+    "tags": []
+   },
+   {
+    "t": "Mechanical, Technicals, And An Election",
+    "tt": "Mekanik, Teknik ve Seçim",
+    "s": "Mechanical, Technicals, And An Election Submitted by Peter Tchir, Academy Securities Another hectic week! This market is not getting any easier to manage. I want to refocus attention on a subject that continues to come up in conversations and that we tried to address in last week’s report: Stocks &a",
+    "ss": "Mekanik, Teknik ve Akademi Menkul Kıymetler Peter Tchir'in Sunduğu Seçimler Yine yoğun bir hafta! Bu piyasayı yönetmek artık daha kolay değil. Konuşmalarda sürekli gündeme gelen ve geçen haftaki raporda ele almaya çalıştığımız bir konuya dikkat çekmek istiyorum: Hisse Senetleri &a",
+    "u": "https://www.zerohedge.com/markets/mechanical-technicals-and-election",
+    "ts": 1793636100000,
+    "tags": []
+   },
+   {
+    "t": "Key Events This Week: Midterms, Jobs, Earnings, Central Banks And More",
+    "tt": "Bu Haftanın Önemli Olayları: Ara Sınavlar, İş İlanları, Kazançlar, Merkez Bankaları ve Daha Fazlası",
+    "s": "Key Events This Week: Midterms, Jobs, Earnings, Central Banks And More Welcome to the first business day of November, and as DB's Jim Reid writes in his Morning Reid note, the week ahead is a big one in the US and with it for global markets, with tomorrow’s midterm elections and Friday’s October job",
+    "ss": "Bu Haftanın Önemli Olayları: Ara Sınavlar, İş İlanları, Kazançlar, Merkez Bankaları ve Daha Fazlası Kasım ayının ilk iş gününe hoş geldiniz ve DB'den Jim Reid'in Morning Reid notunda yazdığı gibi önümüzdeki hafta, yarınki ara seçimler ve Cuma günkü Ekim işiyle birlikte ABD'de ve onunla birlikte küresel piyasalar için büyük bir hafta olacak.",
+    "u": "https://www.zerohedge.com/economics/key-events-week-midterms-jobs-earnings-central-banks-and-more",
+    "ts": 1793635521000,
+    "tags": []
+   },
+   {
+    "t": "5 Days Later: Oracle Slides After Blowing Through Entire Four-Year \"Hard Cap\" In One Morning With $20BN Bond, Stock Offering",
+    "tt": "5 Gün Sonra: Oracle, Hisse Arzıyla 20 Milyar Dolarlık Tahville Bir Sabah Dört Yıllık \"Hard Cap\"in Tamamını Patlattıktan Sonra Kaydı",
+    "s": "5 Days Later: Oracle Slides After Blowing Through Entire Four-Year \"Hard Cap\" In One Morning With $20BN Bond, Stock Offering Another day, another hyperscaler scrambling to raise capital. Just one week after Meta tapped shareholders for up to $95 billion , when we said, well, the obvious... Good for ",
+    "ss": "5 Gün Sonra: Oracle, Bir Sabah 20 Milyar Dolarlık Tahvil ve Hisse Senedi Teklifiyle Tüm Dört Yıllık \"Hard Cap\"i Bitirdikten Sonra Kaydı Başka bir gün, başka bir hiper ölçekleyici sermaye artırmak için çabalıyor. Meta'nın hissedarlara 95 milyar dolara kadar teklifte bulunmasından yalnızca bir hafta sonra, biz şunu söylediğimizde, bu çok açık...",
+    "u": "https://www.zerohedge.com/markets/5-days-later-oracle-slides-after-blowing-through-entire-four-year-hard-cap-one-morning-20bn",
+    "ts": 1793635509000,
+    "tags": []
+   },
+   {
+    "t": "Kid Rock Tells Bill Maher What He Thinks Of El-Sayed - Compares To 'Pieces Of Sh*t' 9/11 Hijackers",
+    "tt": "Kid Rock, Bill Maher'e El-Sayed Hakkında Ne Düşündüğünü Anlatıyor - '11 Eylül'ü Korsanların 'Bok Parçalarıyla' Karşılaştırıyor",
+    "s": "Kid Rock Tells Bill Maher What He Thinks Of El-Sayed - Compares To 'Pieces Of Sh*t' 9/11 Hijackers Kid Rock used a Friday night appearance on Bill Maher's HBO show to go after Abdul El-Sayed, the Democratic nominee in Michigan's Senate race, comparing a candidate he called \"well-spoken, even a good-",
+    "ss": "Kid Rock, Bill Maher'e El-Sayed Hakkında Ne Düşündüğünü Anlatıyor - 'Pieces of Sh*t' 9/11 Korsanları ile Kıyaslanıyor Kid Rock, Cuma gecesi Bill Maher'in HBO programında yer alarak Michigan Senatosu yarışında Demokratların adayı Abdul El-Sayed'in peşine düştü ve \"iyi konuşan, hatta iyi bir adam\" olarak adlandırdığı bir adayı karşılaştırdı.",
+    "u": "https://www.zerohedge.com/political/kid-rock-tells-bill-maher-what-he-thinks-el-sayed-compares-pieces-sht-911-hijackers",
+    "ts": 1793635200000,
+    "tags": []
+   },
+   {
     "t": "Lindsay Clancy Returns To Court As Defense, Prosecutors Discuss 2nd Trial Date",
-    "tt": null,
+    "tt": "Lindsay Clancy Savunma Olarak Mahkemeye Dönüyor, Savcılar 2. Duruşma Tarihini Tartışıyor",
     "s": "Lindsay Clancy Returns To Court As Defense, Prosecutors Discuss 2nd Trial Date Authored by Stacy Robinson via The Epoch Times , Lindsay Clancy is scheduled to appear in court again on Nov. 2 as her attorneys and prosecutors convene to discuss possible dates for a new trial , and finish presenting mo",
-    "ss": null,
+    "ss": "Lindsay Clancy Savunma Olarak Mahkemeye Dönüyor, Savcılar 2. Duruşma Tarihini Tartışıyor Stacy Robinson tarafından The Epoch Times aracılığıyla yazılmıştır. Lindsay Clancy'nin, avukatları ve savcıları yeni bir duruşma için olası tarihleri ​​tartışmak üzere bir araya gelerek 2 Kasım'da tekrar mahkemeye çıkması planlanıyor ve ay içinde sunumunu bitirecek",
     "u": "https://www.zerohedge.com/political/lindsay-clancy-returns-court-defense-prosecutors-discuss-2nd-trial-date",
     "ts": 1793634300000,
     "tags": []
    },
    {
     "t": "Showdowns",
-    "tt": null,
+    "tt": "Hesaplaşmalar",
     "s": "Showdowns This week is shaping up as a series of showdowns. &nbsp;In the United States we have the midterm elections where prediction markets favor the Democrats overwhelmingly to take control of the House and, less assuredly, to also net control of the Senate. Dem sweep odds, from BofA's Michael Ha",
-    "ss": null,
+    "ss": "Hesaplaşmalar Bu hafta bir dizi hesaplaşma olarak şekilleniyor.  Amerika Birleşik Devletleri'nde, tahmin piyasalarının Temsilciler Meclisi'nin kontrolünü ele geçirmesi ve daha az kesin olarak da olsa Senato'nun net kontrolünü ele geçirmesi konusunda Demokratların lehine olduğu ara seçimler yaşıyoruz. BofA'dan Michael Ha'dan dem oranları süpürdü",
     "u": "https://www.zerohedge.com/markets/showdowns",
     "ts": 1793632800000,
     "tags": []
@@ -773,74 +825,51 @@
    },
    {
     "t": "South Africa's Biggest City Faces Total Infrastructure Collapse",
-    "tt": null,
+    "tt": "Güney Afrika'nın En Büyük Şehri Toplam Altyapı Çöküşüyle ​​Karşı Karşıya",
     "s": "South Africa's Biggest City Faces Total Infrastructure Collapse Over 50 years of communist anti-colonialism in the third world, aided by some liberal governments in the west, has provided uncomfortable truths about what works and what doesn't when it comes to human civilization. &nbsp;The first and ",
-    "ss": null,
+    "ss": "Güney Afrika'nın En Büyük Şehri Tamamen Altyapı Çöküşüyle ​​Karşı Karşıya Üçüncü dünyada 50 yılı aşkın süredir devam eden komünist anti-sömürgecilik, batıdaki bazı liberal hükümetlerin de yardımıyla, insan uygarlığı söz konusu olduğunda neyin işe yarayıp neyin yaramadığı konusunda rahatsız edici gerçekleri ortaya çıkardı.  İlk ve",
     "u": "https://www.zerohedge.com/political/south-africas-biggest-city-faces-total-infrastructure-collapse",
     "ts": 1793631300000,
-    "tags": []
-   },
-   {
-    "t": "For First Time In Years, Air Force Sends F-16s To Remote Aleutians, Near Russia",
-    "tt": "Yıllardan Sonra İlk Kez Hava Kuvvetleri Rusya Yakınlarındaki Uzak Aleutianlara F-16'lar Gönderdi",
-    "s": "For First Time In Years, Air Force Sends F-16s To Remote Aleutians, Near Russia Authored by Nicholas Slayton via Task &amp; Purpose , The Air Force sent several F-16 Fighting Falcon fighter jets to a remote part of the western Aleutian Islands this month , as part of a wider North American Aerospace",
-    "ss": "Yıllardır İlk Kez, Hava Kuvvetleri Rusya Yakınlarındaki Uzak Aleutianlara F-16'lar Gönderiyor Nicholas Slayton tarafından Task & Purpose aracılığıyla yazılmıştır. Hava Kuvvetleri, bu ay daha geniş bir Kuzey Amerika Havacılık ve Uzay Projesinin bir parçası olarak batı Aleutian Adaları'nın uzak bir kısmına birkaç F-16 Fighting Falcon savaş uçağı gönderdi.",
-    "u": "https://www.zerohedge.com/military/first-time-years-air-force-sends-f-16s-remote-aleutians-near-russia",
-    "ts": 1793630400000,
-    "tags": []
-   },
-   {
-    "t": "Trump To Deliver Final Midterm Pitch At Lincoln Memorial Reflecting Pool",
-    "tt": "Trump, Lincoln Anıtı Yansıma Havuzunda Son Ara Sınav Konuşmasını Sunacak",
-    "s": "Trump To Deliver Final Midterm Pitch At Lincoln Memorial Reflecting Pool Authored by Emel Akan via The Epoch Times , President Trump will deliver remarks at the Lincoln Memorial Reflecting Pool on Nov. 2 , a day before the midterms, according to a White House official. The address is expected to ser",
-    "ss": "Trump, Lincoln Memorial Reflecting Pool'da Son Ara Sunumu Sunacak Emel Akan'ın The Epoch Times aracılığıyla yazdığı bir Beyaz Saray yetkilisinin verdiği bilgiye göre Başkan Trump, ara sınavlardan bir gün önce, 2 Kasım'da Lincoln Memorial Reflecting Pool'da konuşma yapacak. Adresin sunulması bekleniyor",
-    "u": "https://www.zerohedge.com/political/trump-deliver-final-midterm-pitch-lincoln-memorial-reflecting-pool",
-    "ts": 1793628600000,
-    "tags": []
-   },
-   {
-    "t": "5 Days Later: Oracle Slides After Blowing Through Entire Four-Year \"Hard Cap\" In One Morning With $20BN Bond, Stock Offering",
-    "tt": "5 Gün Sonra: Oracle, Hisse Arzıyla 20 Milyar Dolarlık Tahville Bir Sabah Dört Yıllık \"Hard Cap\"in Tamamını Patlattıktan Sonra Kaydı",
-    "s": "5 Days Later: Oracle Slides After Blowing Through Entire Four-Year \"Hard Cap\" In One Morning With $20BN Bond, Stock Offering Another day, another hyperscaler scrambling to raise capital. Just one week after Meta tapped shareholders for up to $95 billion , when we said, well, the obvious... Good for ",
-    "ss": "5 Gün Sonra: Oracle, Bir Sabah 20 Milyar Dolarlık Tahvil ve Hisse Senedi Teklifiyle Tüm Dört Yıllık \"Hard Cap\"i Bitirdikten Sonra Kaydı Başka bir gün, başka bir hiper ölçekleyici sermaye artırmak için çabalıyor. Meta'nın hissedarlara 95 milyar dolara kadar teklifte bulunmasından yalnızca bir hafta sonra, biz şunu söylediğimizde, bu çok açık...",
-    "u": "https://www.zerohedge.com/markets/5-days-later-oracle-slides-after-blowing-through-entire-four-year-hard-cap-one-morning-20bn",
-    "ts": 1793627709000,
-    "tags": []
-   },
-   {
-    "t": "Iran's Supreme Leader Floats More US Talks In Rare Overture; Oil Prices Tumble",
-    "tt": "Brent ve WTI, Trump'ın Diplomasiye Şans Vermesiyle Düşüşte ve İran, Hürmüzün Yeniden Açılmasında İki Gün Boyunca Dalgalanıyor",
-    "s": "Iran's Supreme Leader Floats More US Talks In Rare Overture; Oil Prices Tumble Update(0855ET) : Oil is tumbling in the wake of a somewhat rare headline out of Tehran&nbsp; Iranian President Pezeshkian says the Supreme Leader has granted the government some authority on dialogue , ISNA reports OIL FA",
-    "ss": "Brent ve WTI Düşüşte, Trump Diplomasiye Şans Verebilir, İran İki Gün Hürmüzde Dalgalanıyor Brent ham petrol vadeli işlemleri varil başına 108,41 dolara düşerken, Axios'un Başkan Trump'ın yeni bir anlaşma başlatmadan önce Tahran'la diplomasiye daha fazla zaman vermeyi tercih ettiğini bildirmesinin ardından WTI bu sabah 100 doların altına geriledi.",
-    "u": "https://www.zerohedge.com/energy/brent-wti-futs-tumble-trump-may-give-diplomacy-chance-iran-floats-two-day-hormuz-reopening",
-    "ts": 1793627700000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Ukrainian & Russian Emergency Alert Apps Hacked With Fake Nuclear Attack Warnings",
-    "tt": "Ukrayna ve Rusya'nın Acil Durum Uyarı Uygulamaları Sahte Nükleer Saldırı Uyarılarıyla Hacklendi",
-    "s": "Ukrainian &amp; Russian Emergency Alert Apps Hacked With Fake Nuclear Attack Warnings Uknown hackers have perpretrated an incredibly cruel prank or action meant to sow mass fear and confusion within the Ukranian population, amid the ongoing war. The country's nationwide emergency alert mobile app wa",
-    "ss": "Ukraynalı ve Rus Acil Durum Uyarı Uygulamaları Sahte Nükleer Saldırı Uyarılarıyla Hacklendi Bilinen bilgisayar korsanları, devam eden savaşın ortasında Ukrayna halkına kitlesel korku ve kafa karışıklığı yaratmayı amaçlayan inanılmaz derecede acımasız bir şaka veya eylem gerçekleştirdi. Ülkenin ülke çapındaki acil durum uyarı mobil uygulaması",
-    "u": "https://www.zerohedge.com/geopolitical/ukrainian-emergency-alert-app-hacked-fake-nuclear-chemical-attack-warnings",
-    "ts": 1793626800000,
-    "tags": []
-   },
-   {
-    "t": "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
-    "tt": "Hürmüz Boğazı'ndan Yüzlerce Mil Uzaktaki Gemiye Nadir İran Saldırısı",
-    "s": "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz Sunday saw another vessel attacked in Persian Gulf regional waters. The UK Maritime Trade Operations agency (UKMTO) reported that a ship was struck by two projectiles some 83 miles east of Ras al-Khafji, which is the Saudi town on",
-    "ss": "İran'ın Hürmüz Boğazı'ndan Yüzlerce Mil Uzaktaki Gemiye Nadir Saldırısı Pazar günü, Basra Körfezi bölgesel sularında başka bir gemiye saldırı düzenlendi. Birleşik Krallık Deniz Ticaret Operasyonları ajansı (UKMTO), Suudi kasabası Ras al-Khafji'nin yaklaşık 83 mil doğusunda bir gemiye iki merminin çarptığını bildirdi.",
-    "u": "https://www.zerohedge.com/geopolitical/rare-iranian-strike-vessel-hundreds-miles-strait-hormuz",
-    "ts": 1793625900000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Pezeşkiyan: Hamaney, ABD ile diyalog için hükümete bazı yetkiler verdi",
+    "tt": null,
+    "s": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ile yaşanan savaş riskini diyalog yoluyla ortadan kaldırmak için ülke lideri Mücteba Hamaney'in hükümete bazı yetkiler verdiğini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/pezeskiyan-hamaney-abd-ile-diyalog-icin-hukumete-bazi-yetkiler-verdi-3793123",
+    "ts": 1793637910000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de inşaat harcamaları beklentilerin aksine geriledi",
+    "tt": null,
+    "s": "ABD'de inşaat harcamaları, Eylül ayında yüzde 0,4'lük artış beklentisinin aksine aylık bazda yüzde 1,9 azalarak 2,18 trilyon dolara geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-insaat-harcamalari-beklentilerin-aksine-geriledi-3793122",
+    "ts": 1793637609000,
+    "tags": []
+   },
+   {
+    "t": "Uzay teknolojileri şirketi Northwood Space, 2 milyar dolar değerlemeye ulaştı",
+    "tt": null,
+    "s": "Uzay altyapı şirketi Northwood Space, a16z ve DFJ Growth liderliğindeki C Serisi yatırım turunda 2 milyar dolar değerleme üzerinden 375 milyon dolar topladı. 2022 yılında kurulan Northwood, uyduların Dünya ile daha iyi iletişim kurmasını sağlayan antenler, yazılımlar ve çeşitli teknolojiler geliştir",
+    "ss": null,
+    "u": "https://www.bloomberght.com/uzay-teknolojileri-sirketi-northwood-space-2-milyar-dolar-degerlemeye-ulasti-3793121",
+    "ts": 1793636084000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic'in geliri dev halka arz öncesi 17 milyar dolara ulaştı",
+    "tt": null,
+    "s": "Anthropic'in gelirleri, dev halka arz öncesinde üçüncü çeyrekte 16,96 milyar dolara yükselirken net zararı 66,3 milyar dolardan 23,29 milyar dolara geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/anthropic-in-geliri-dev-halka-arz-oncesi-17-milyar-dolara-ulasti-3793119",
+    "ts": 1793635200000,
+    "tags": []
+   },
    {
     "t": "ABD'de imalat sektörü 10 aydır kesintisiz büyüyor",
     "tt": null,
@@ -894,42 +923,6 @@
     "u": "https://www.bloomberght.com/ford-kullanicilarin-veri-guvenligi-icin-gizlilik-taahhudu-veriyor-3793084",
     "ts": 1793622284000,
     "tags": []
-   },
-   {
-    "t": "Akbank/Gür: Türkiye'nin COP31 ev sahipliğini kalıcı bir iklim finansmanı fırsatına dönüştürmeliyiz",
-    "tt": null,
-    "s": "Akbank, 2030 sürdürülebilir finansman hedefini 2,5 trilyon TL'ye yükseltti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/akbankgur-turkiyenin-cop31-ev-sahipligini-kalici-bir-iklim-finansmani-firsatina-donusturmeliyiz-3793083",
-    "ts": 1793621553000,
-    "tags": []
-   },
-   {
-    "t": "Döviz mevduatlarında yükseliş",
-    "tt": null,
-    "s": "23 Ekim haftasında yurt içi yerleşiklerin döviz mevduatları parite etkisinden arındırılmış verilere göre 223 milyon dolar yükseldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/doviz-mevduatlarinda-yukselis-3793081",
-    "ts": 1793620015000,
-    "tags": []
-   },
-   {
-    "t": "Yabancıdan satış haftası",
-    "tt": null,
-    "s": "TCMB tarafından açıklanan verilere göre, yabancı yatırımcı 23 Ekim haftasında 100 milyon dolarlık hisse 163 milyon dolarlık da tahvil sattı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yabancidan-satis-haftasi-3793080",
-    "ts": 1793619511000,
-    "tags": []
-   },
-   {
-    "t": "Apple CEO'su Ternus: Yapay zekada derinliğe önem veriyoruz",
-    "tt": null,
-    "s": "Apple CEO'su John Ternus, şirketin yapay zeka stratejisine dair \"Sırf yapay zekâ olsun diye yapay zekâ sunmak istemiyoruz. İşi doğru yaptığımızda, kullanıcılar bir işlemin yapay zekâ tarafından mı yoksa geleneksel yazılımlar tarafından mı gerçekleştirildiğini düşünmek zorunda kalmayacaklar\" diyerek ",
-    "ss": null,
-    "u": "https://www.bloomberght.com/apple-ceo-su-ternus-yapay-zekada-derinlige-onem-veriyoruz-3793074",
-    "ts": 1793618602000,
-    "tags": []
    }
   ]
  },
@@ -945,7 +938,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
