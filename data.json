@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T10:46:13.589560+00:00",
+ "generated": "2026-11-02T11:40:42.083165+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.9,
-   "c": -2.68,
-   "d": -0.52,
+   "p": 18.95,
+   "c": -2.42,
+   "d": -0.47,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3906.1,
-   "c": 0.18,
-   "d": 7.2,
+   "p": 3914.3,
+   "c": 0.39,
+   "d": 15.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.26,
-   "c": 2.37,
-   "d": 1.163,
+   "p": 50.29,
+   "c": 2.43,
+   "d": 1.193,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 99.86,
-   "c": -4.09,
-   "d": -4.26,
+   "p": 99.41,
+   "c": -4.52,
+   "d": -4.71,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 108.85,
-   "c": -7.47,
-   "d": -8.79,
+   "p": 108.46,
+   "c": -7.8,
+   "d": -9.18,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.696,
-   "c": -0.18,
-   "d": -0.184,
+   "p": 101.638,
+   "c": -0.24,
+   "d": -0.242,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9638,
-   "c": 0.04,
-   "d": 0.021,
+   "p": 49.9657,
+   "c": 0.05,
+   "d": 0.023,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10836.03,
-   "c": 0.71,
-   "d": 76.43,
+   "p": 10901.94,
+   "c": 1.32,
+   "d": 142.34,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77898,
-   "c": -0.1,
+   "p": 77820,
+   "c": -0.06,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2283.39,
-   "c": 0.62,
+   "p": 2283.94,
+   "c": 0.76,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.0,
-   "c": -1.37,
+   "p": 93.85,
+   "c": -1.41,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -0.63,
+   "c": -0.24,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 705.96,
-   "c": -1.11,
+   "p": 703.81,
+   "c": -1.26,
    "k": "usd"
   }
  ],
@@ -454,94 +454,104 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
-    "tt": "Altın, Dip Alıcılarının Kaymayı Tutuklamasıyla Bir Yılın En Düşük Seviyesinden Geriye Tırmandı",
-    "s": "Gold rose, as lower oil prices offered some respite from inflationary pressures and dip buyers were drawn by the metal’s slide on Friday to the lowest in a year.",
-    "ss": "Altın, düşük petrol fiyatlarının enflasyonist baskılara bir miktar nefes alması ve metalin Cuma günü son bir yılın en düşük seviyesine gerilemesinin alıcıları çekmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-    "ts": 1793577816000,
+    "t": "Euronext Joins Push for Integrated Nordic Capital Markets",
+    "tt": "Euronext, Entegre İskandinav Sermaye Piyasalarına Yönelik Çabalara Katılıyor",
+    "s": "Stock exchange operator Euronext NV has joined the Nordic Compass alliance, adding Europe’s biggest stock exchange group to a consortium of about three dozen major companies and institutions pushing for closer Nordic integration.",
+    "ss": "Borsa operatörü Euronext NV, Nordic Compass ittifakına katılarak Avrupa'nın en büyük borsa grubunu, İskandinavya'nın daha yakın entegrasyonunu isteyen yaklaşık üç düzine büyük şirket ve kurumdan oluşan konsorsiyuma ekledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/euronext-joins-industry-push-to-integrate-nordic-capital-markets",
+    "ts": 1793599200000,
     "tags": []
    },
    {
-    "t": "Currie Sees Permanent 'Regime Shift' in Oil Market",
-    "tt": "Currie, Petrol Piyasasında Kalıcı 'Rejim Değişimi' Görüyor",
-    "s": "Jeff Currie, CEO and founder of Real Macro, says physical oil is pricing in a permanent \"regime shift\" in energy markets. Speaking to Bloomberg's Abeer Abu Omar at the Adipec conference in Abu Dhabi, Currie explains why Brent is close to $99 a barrel for long-dated contracts, and why the true driver",
-    "ss": "Real Macro'nun CEO'su ve kurucusu Jeff Currie, fiziksel petrolün enerji piyasalarında kalıcı bir \"rejim değişikliğini\" fiyatladığını söylüyor. Abu Dabi'deki Adipec konferansında Bloomberg'den Abeer Abu Omar'a konuşan Currie, Brent'in neden uzun vadeli kontratlarda varil başına 99 dolara yakın olduğunu ve neden gerçek itici gücün olduğunu açıklıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/currie-sees-permanent-regime-shift-in-oil-market-video",
-    "ts": 1793616318000,
+    "t": "Muddy Waters-Backed Gold Project to Be Fast-Tracked by Ontario",
+    "tt": "Çamurlu Sulara Dayalı Altın Projesi Ontario Tarafından Hızla Takip Edilecek",
+    "s": "A Canadian gold project backed by famed short seller Carson Block will be fast-tracked under a framework to cut permitting timelines in Ontario, extending the provincial government’s efforts to support the mining sector.",
+    "ss": "Ünlü açığa satış satıcısı Carson Block tarafından desteklenen bir Kanada altın projesi, Ontario'daki izin sürelerini kısaltacak bir çerçeve kapsamında hızlandırılarak eyalet hükümetinin madencilik sektörünü destekleme çabalarını genişletecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/muddy-waters-backed-gold-project-to-be-fast-tracked-by-ontario",
+    "ts": 1793619000000,
     "tags": []
    },
    {
-    "t": "Niger Gets First Algerian Fuel Shipment, Escorted by Troops",
-    "tt": "Nijer, Askerlerin Eşliğinde Cezayir'den İlk Yakıt Sevkiyatını Aldı",
-    "s": "Niger received its first fuel shipment from Algeria, with 53 trucks escorted by troops from both countries arriving in the northern city of Agadez, as the two African neighbors deepen energy and security ties.",
-    "ss": "Nijer, ilk yakıt sevkiyatını Cezayir'den aldı; iki Afrikalı komşunun enerji ve güvenlik bağlarını derinleştirmesi üzerine, her iki ülkeden askerlerin eşlik ettiği 53 kamyon kuzeydeki Agadez şehrine ulaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/niger-gets-first-algerian-fuel-shipment-escorted-by-troops",
-    "ts": 1793615311000,
+    "t": "Saudi Business Model Built on Corporate Commuters Challenged by War",
+    "tt": "Suudi İş Modeli, Savaşla Karşı Karşıya Olan Kurumsal Yolcular Üzerine Kuruldu",
+    "s": "Soon after Houthi attacks forced Saudi Arabia to shutter its capital’s main airport, one consultant drove for hours to get to Riyadh from Oman. The executive left two weeks later and plans to return soon, this time via Doha, betting that showing up will offer an edge over rivals who’re staying away.",
+    "ss": "Husi saldırılarının Suudi Arabistan'ı başkentin ana havaalanını kapatmaya zorlamasından kısa bir süre sonra, bir danışman Umman'dan Riyad'a gitmek için saatlerce araba sürdü. Yönetici iki hafta sonra ayrıldı ve yakında bu kez Doha üzerinden geri dönmeyi planlıyor ve gelmenin, uzak duran rakiplere karşı bir avantaj sağlayacağına bahse giriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/saudi-business-model-built-on-corporate-commuters-challenged-by-war",
+    "ts": 1793618834000,
     "tags": []
    },
    {
     "t": "Indian Bonds Rally as Oil Falls, Higher Yields Attract Buyers",
     "tt": "Petrol Düşerken Hindistan Tahvilleri Yükseliyor ve Yüksek Getiriler Alıcıları Çekiyor",
-    "s": "Indian bonds gained the most in six months on Monday as crude oil prices extended losses, easing inflation concerns for the fuel-importing nation.",
+    "s": "Indian bonds gained the most in six months on Monday as crude prices extended losses, easing inflation concerns for the fuel-importing nation.",
     "ss": "Hindistan tahvilleri, ham petrol fiyatlarının kayıplarını artırması ve akaryakıt ithalatçısı ülke için enflasyon endişelerini hafifletmesiyle Pazartesi günü altı ayın en büyük yükselişini gerçekleştirdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-02/indian-bonds-rally-as-oil-falls-higher-yields-attract-buyers",
     "ts": 1793615010000,
     "tags": []
    },
    {
-    "t": "Taiwan Says China Sought to Diminish Its Status With Emailed APEC Invitation",
-    "tt": "Tayvan, Çin'in E-postayla Gönderilen APEC Daveti ile Statüsünü Küçültmek İstediğini Söyledi",
-    "s": "Taiwan criticized China for breaching protocol in its invitation to an upcoming APEC meeting, with Beijing seen as having slighted both President Lai Ching-te and the island’s international standing.",
-    "ss": "Tayvan, yaklaşan APEC toplantısına davetinde Çin'i protokolü ihlal ettiği için eleştirdi; Pekin'in hem Başkan Lai Ching-te'yi hem de adanın uluslararası duruşunu küçümsediği görüldü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-says-china-sought-to-diminish-its-status-with-emailed-apec-invitation",
-    "ts": 1793614815000,
+    "t": "India’s Sitharaman Aims to Keep Up Spending to Sustain Growth",
+    "tt": "Hindistan'ın Sitharaman'ı Büyümeyi Sürdürmek İçin Harcamalarını Sürdürmeyi Hedefliyor",
+    "s": "India will keep up its spending on roads and bridges to ports to sustain economic growth while maintaining fiscal prudence, Finance Minister Nirmala Sitharaman said, as she begins preparations for the next federal budget.",
+    "ss": "Maliye Bakanı Nirmala Sitharaman bir sonraki federal bütçe hazırlıklarına başlarken Hindistan'ın mali ihtiyatı korurken ekonomik büyümeyi sürdürmek için limanlara giden yol ve köprülere yönelik harcamalarını sürdüreceğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/india-s-sitharaman-aims-to-keep-up-spending-to-sustain-growth",
+    "ts": 1793618684000,
     "tags": []
    },
    {
-    "t": "Inflation Talk Returns to Earnings Calls in Echo of 2022 Shock",
-    "tt": "Enflasyon Konuşmaları 2022 Şokunun Yankısı'nda Kazanç Çağrılarına Döndü",
-    "s": "Inflation is top of mind for Corporate America this earnings season, with mentions on earnings calls on track for their biggest jump since the 2022 price shock.",
-    "ss": "Enflasyon, bu kazanç sezonunda Kurumsal Amerika'nın akıllarının en başında gelirken, kazançlara ilişkin söylentilerin 2022 fiyat şokundan bu yana en büyük sıçramayı gerçekleştirme yolunda olduğu belirtiliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/inflation-talk-returns-to-earnings-calls-in-echo-of-2022-shock",
-    "ts": 1793614774000,
+    "t": "Bloomberg News Now",
+    "tt": "Bloomberg Haberleri Şimdi",
+    "s": "Trump Banks on Rallies to Turn Out MAGA Faithful Again Dems Show Strength Ahead of Election Day: NYT/ Siena Polls Haley Stevens Backs GOP’s Mike Rogers in Michigan DOJ Appeals Judge’s Dismissal of AK Senate Lawsuit Gulf States Fear Fiercer Iran Retaliation If US Strikes Ukraine, Russia Report Cybera",
+    "ss": "Trump, Demokratların Yeniden MAGA'ya Sadık Çıkmasını Sağlamak İçin Mitinglere Hazır: NYT/ Siena Anketleri Haley Stevens, GOP'tan Mike Rogers'ı Michigan'da Destekledi DOJ Yargıcın AK Senato Davasını Reddetmesine Temyiz Körfez Devletleri, ABD'nin Ukrayna ve Rusya'ya Saldırması Halinde İran'ın Daha Şiddetli Misilleme Yapacağından Korkuyor Sibera Raporu",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-news-now-video",
+    "ts": 1793618333000,
     "tags": []
    },
    {
-    "t": "India’s IDBI Bank Employees Strike Over Fairfax Acquisition",
-    "tt": "Hindistan'ın IDBI Bankası Çalışanları Fairfax'in Satın Alınması Konusunda Grev Yaptı",
-    "s": "IDBI Bank Ltd. employees started a two-day nationwide strike on Monday to protest against the planned privatization of the lender, calling on the federal government to scrap the sale to Fairfax Financial Holdings Ltd.",
-    "ss": "IDBI Bank Ltd. çalışanları, kredi veren kurumun özelleştirilmesi planını protesto etmek için Pazartesi günü ülke çapında iki günlük bir grev başlattı ve federal hükümete, Fairfax Financial Holdings Ltd.'ye yapılan satışı iptal etmesi çağrısında bulundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/india-s-idbi-bank-employees-strike-over-fairfax-acquisition",
-    "ts": 1793614593000,
+    "t": "Emerging Currencies on Edge on Politics; Polish Zloty Slides",
+    "tt": "Siyasetin Sınırında Yükselen Para Birimleri; Polonya Zlotisi Slaytları",
+    "s": "An index of emerging-market currencies briefly traded at one-month lows on Monday, hit by a mix of domestic politics and wariness ahead of US mid-term elections.",
+    "ss": "Gelişmekte olan ülke para birimleri endeksi, iç politika ve ABD ara seçimleri öncesindeki ihtiyatlılığın etkisiyle Pazartesi günü kısa süreliğine bir ayın en düşük seviyesinde işlem gördü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
+    "ts": 1793591768000,
     "tags": []
    },
    {
-    "t": "Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears",
-    "tt": "Bakır, Teknolojinin Rahatsızlığı ve Petrolün Yavaşlayan Büyüme Korkuları ile Toparlanıyor",
-    "s": "Copper rebounded from its lowest close in a week as a rout in technology stocks subsided and oil prices pulled back, easing fears around global growth.",
-    "ss": "Bakır, teknoloji hisselerindeki düşüşün azalması ve petrol fiyatlarının gerileyerek küresel büyümeye ilişkin korkuları hafifletmesiyle bir haftanın en düşük kapanışından toparlandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/copper-recovers-as-easing-tech-rout-lower-oil-calm-growth-fears",
-    "ts": 1793594677000,
+    "t": "US Stock Futures Rise as Oil Slump Buoys Sentiment: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
+    "s": "US equity futures advanced to halt a bruising selloff in the artificial intelligence trade, with falling oil prices helping stocks to start the month on a positive note.",
+    "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793568484000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Reliance Adds Record $19 Billion in Market Value on Profit Beat",
+    "tt": "Reliance, Profit Beat ile Piyasa Değerine 19 Milyar Dolar Rekor Kattı",
+    "s": "Reliance Industries Ltd. shares surged almost 12%, adding more than $19 billion in market value in a record single-day gain for an Indian company, after quarterly profit surpassed expectations.",
+    "ss": "Üç aylık kârın beklentileri aşmasının ardından Reliance Industries Ltd. hisseleri neredeyse %12 arttı ve Hintli bir şirket için rekor bir tek günlük kazançla piyasa değerine 19 milyar dolardan fazla değer kattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/reliance-industries-surges-most-in-nine-months-on-earnings-beat",
+    "ts": 1793591691000,
     "tags": []
    },
    {
-    "t": "Chinese Stock Selloff Halts on Expectation of Support Measures",
-    "tt": "Çin Hisse Senedi Satışları Destek Tedbirleri Beklentisiyle Durdu",
-    "s": "Chinese stocks advanced on expectations of renewed liquidity support as the nation’s central bank huddled with financial firms and introduced measures to stabilize the capital market.",
-    "ss": "Çin hisse senetleri, düzenleyicilerin piyasa tedbirlerini görüşmek üzere bankalar ve aracı kurumlarla bir araya geldiği yönündeki haberlerin ardından, yenilenen likidite desteği beklentileri üzerine yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-    "ts": 1793527729000,
-    "tags": []
-   },
-   {
-    "t": "UBS’s Fowler Says Market Is Underpricing the Length of AI Cycle",
-    "tt": "UBS'den Fowler, Piyasanın Yapay Zeka Döngüsünün Uzunluğunu Düşük Fiyatlandırdığını Söyledi",
-    "s": "Hyperscaler valuations look attractive after the recent AI unwind as the market prices in a shorter AI cycle than is likely to play out, according to Gerry Fowler, chief European equity strategist and head of derivatives at UBS AG.",
-    "ss": "UBS AG'nin Avrupa hisse senedi stratejisti ve türevler başkanı Gerry Fowler'a göre, piyasa fiyatları muhtemelen beklenenden daha kısa bir yapay zeka döngüsünde olduğundan, yakın zamandaki yapay zekanın gevşemesinden sonra hiper ölçekleyici değerlemeleri çekici görünüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/ubs-s-fowler-says-market-is-underpricing-the-length-of-ai-cycle",
-    "ts": 1793613873000,
-    "tags": []
+    "t": "Chile Bond Investors Turn to Inflation-Linked Notes as Oil Soars",
+    "tt": "Şili Tahvili Yatırımcıları Petrol Yükselirken Enflasyona Bağlı Tahvillere Yöneliyor",
+    "s": "Chilean fixed income investors are flocking to index-linked notes as the war in Iran drags on into its nine month, pushing oil prices to levels not seen since April and stoking inflation expectations.",
+    "ss": "İran'daki savaşın dokuz ayına girmesi, petrol fiyatlarının Nisan ayından bu yana görülmeyen seviyelere yükselmesi ve enflasyon beklentilerinin yükselmesi nedeniyle Şilili sabit getirili yatırımcılar endeks bağlantılı tahvillere akın ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/chile-bond-investors-turn-to-inflation-linked-notes-as-oil-soars",
+    "ts": 1793617200000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
    }
   ],
   "CNBC": [
@@ -638,12 +648,21 @@
   ],
   "MarketWatch": [
    {
-    "t": "The latest market wobble sees Citi giving up on this big tech trade",
+    "t": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
+    "tt": "Goldman Sachs'a göre petrol fiyatları gelecek yıl varil başına ortalama 130 dolar olabilir",
+    "s": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
+    "ss": "Yatırım bankasındaki analistler, Orta Doğu'da gerilimin kötüleşmesi halinde Brent ham petrolünün gelecek yıl varil başına 140 dolara ulaşabileceğini söyledi.",
+    "u": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+    "ts": 1793618040000,
+    "tags": []
+   },
+   {
+    "t": "Citi throws in the towel on hyperscalers after a key market bet misfires",
     "tt": "Pazardaki son dalgalanma, Citi'nin bu büyük teknoloji ticaretinden vazgeçmesine neden oldu",
     "s": "Hyperscalers and growth plays have underperformed amid a sharp rotation",
     "ss": "Hiper ölçekleyiciler ve büyüme oyunları keskin bir rotasyon karşısında düşük performans gösterdi",
     "u": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-    "ts": 1793615760000,
+    "ts": 1793617680000,
     "tags": []
    },
    {
@@ -685,7 +704,7 @@
    {
     "t": "The election will be good news, regardless of outcome, says Morgan Stanley’s chief stock-market strategist",
     "tt": "Morgan Stanley'in baş borsa stratejisti, sonuçtan bağımsız olarak seçimin iyi bir haber olacağını söylüyor",
-    "s": "Morgan Stanley’s chief stock-market strategist, Mike Wilson, said the midterm elections are a classic “clearing event” whose outcome at this point doesn’t really matter.",
+    "s": "Mike Wilson, Morgan Stanley’s chief stock-market strategist, said the midterm elections are a classic “clearing event” whose outcome at this point doesn’t really matter.",
     "ss": "Morgan Stanley'nin baş borsa stratejisti Mike Wilson, ara seçimlerin klasik bir \"temizlik olayı\" olduğunu ve bu noktada sonucunun pek önemli olmadığını söyledi.",
     "u": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
     "ts": 1793610900000,
@@ -717,18 +736,18 @@
     "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
     "ts": 1793589780000,
     "tags": []
-   },
-   {
-    "t": "This is the biggest threat to the AI-powered bull market",
-    "tt": "Bu yapay zeka destekli boğa piyasasına yönelik en büyük tehdit",
-    "s": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-    "ss": "Gişe rekorları kıran kazanç büyümesi, borsanın 2026'da daha da yükselmesine yardımcı oldu. 2027'de bu motor durabilir.",
-    "u": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-    "ts": 1793578920000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"Absolutely Zero Chance\": DHS Vows To Block Latest Migrant Caravan While State Dept Targets Organizers With Visa Restrictions",
+    "tt": "\"Kesinlikle Sıfır Şans\": DHS, Son Göçmen Kervanını Engelleme Sözü Verirken, Devlet Bakanlığı Vize Kısıtlamalarıyla Organizatörleri Hedef Alıyor",
+    "s": "\"Absolutely Zero Chance\": DHS Vows To Block Latest Migrant Caravan While State Dept Targets Organizers With Visa Restrictions Authored by Kimberly Hayek via The Epoch Times , The State Department has taken steps in the past week to impose visa restrictions on more than 15 people allegedly involved i",
+    "ss": "\"Kesinlikle Sıfır Şans\": DHS, Son Göçmen Kafilesini Engelleme Sözü Verirken, Dışişleri Bakanlığı Vize Kısıtlamalarıyla Organizatörleri Hedef Aldı Kimberly Hayek tarafından The Epoch Times aracılığıyla yazılmıştır.",
+    "u": "https://www.zerohedge.com/geopolitical/absolutely-zero-chance-dhs-vows-block-latest-migrant-caravan-while-state-dept-targets",
+    "ts": 1793619000000,
+    "tags": []
+   },
    {
     "t": "South Africa's Biggest City Faces Total Infrastructure Collapse",
     "tt": "Güney Afrika'nın En Büyük Şehri Toplam Altyapı Çöküşüyle ​​Karşı Karşıya",
@@ -809,18 +828,18 @@
     "u": "https://www.zerohedge.com/political/doj-uncovers-29m-more-minnesota-benefits-fraud-calls-state-epicenter-fraud-america",
     "ts": 1793590200000,
     "tags": []
-   },
-   {
-    "t": "Chinese Couriers Posed As Federal Agents To Scam Over $10 Million In Cash From Elderly Victims In 19 States",
-    "tt": "Çinli Kuryeler, 19 Eyaletteki Yaşlı Kurbanlardan 10 Milyon Doların Üzerinde Nakit Dolandırmak İçin Federal Ajan Gibi Davrandı",
-    "s": "Chinese Couriers Posed As Federal Agents To Scam Over $10 Million In Cash From Elderly Victims In 19 States A federal judge in Pennsylvania sentenced three Chinese nationals this month for their roles in a scheme in which couriers went to elderly victims' homes, posed as federal law enforcement offi",
-    "ss": "Çinli Kuryeler, 19 Eyaletteki Yaşlı Kurbanlardan 10 Milyon Doların Üzerinde Nakit Dolandırıcılık Yapmak İçin Federal Ajan Gibi Davrandılar Pensilvanya'daki bir federal yargıç, bu ay üç Çin vatandaşını, kuryelerin federal kolluk kuvvetleri görevlisi gibi davranarak yaşlı kurbanların evlerine gittiği bir plandaki rollerinden dolayı mahkum etti.",
-    "u": "https://www.zerohedge.com/political/chinese-couriers-posed-federal-agents-scam-over-10-million-cash-elderly-victims-19-states",
-    "ts": 1793587200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Belçika'da bütçe uyuşmazlığı siyasi istifa getirdi",
+    "tt": null,
+    "s": "Belçika Başbakanı Bart De Wever'in federal hükümetin bütçe müzakerelerinde uzlaşma sağlayamamasının ardından istifasını Kral Philippe'e sunduğu bildirildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/belcika-da-butce-uyusmazligi-siyasi-istifa-getirdi-3793068",
+    "ts": 1793616668000,
+    "tags": []
+   },
    {
     "t": "Yılmaz: Tarife indirimleri ile yetinmeyip kapsamlı ticaret zemini aranmalı",
     "tt": null,
@@ -900,15 +919,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/belcika-da-butcenin-siyaset-krizi-doguracagi-iddiasi-3793045",
     "ts": 1793607007000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de yarın düzenlenecek Kongre ara seçimlerindeki anketlerde tablo netleşiyor",
-    "tt": null,
-    "s": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimleri yaklaşırken, anketlerin ortaya koyduğu tablo da netleşmeye başladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-yarin-duzenlenecek-kongre-ara-secimlerindeki-anketlerde-tablo-netlesiyor-3793042",
-    "ts": 1793606325000,
     "tags": []
    }
   ]
