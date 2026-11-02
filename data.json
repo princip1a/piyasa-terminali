@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T11:40:42.083165+00:00",
+ "generated": "2026-11-02T12:45:04.853139+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.95,
-   "c": -2.42,
-   "d": -0.47,
+   "p": 19.24,
+   "c": -0.93,
+   "d": -0.18,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3914.3,
-   "c": 0.39,
-   "d": 15.4,
+   "p": 3910.8,
+   "c": 0.31,
+   "d": 11.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.29,
-   "c": 2.43,
-   "d": 1.193,
+   "p": 50.12,
+   "c": 2.08,
+   "d": 1.023,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 99.41,
-   "c": -4.52,
-   "d": -4.71,
+   "p": 99.7,
+   "c": -4.25,
+   "d": -4.42,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 108.46,
-   "c": -7.8,
-   "d": -9.18,
+   "p": 108.94,
+   "c": -7.4,
+   "d": -8.7,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.638,
-   "c": -0.24,
-   "d": -0.242,
+   "p": 101.601,
+   "c": -0.27,
+   "d": -0.279,
    "k": "idx"
   },
   {
@@ -73,47 +73,47 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9657,
-   "c": 0.05,
-   "d": 0.023,
+   "p": 49.9641,
+   "c": 0.04,
+   "d": 0.021,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10901.94,
-   "c": 1.32,
-   "d": 142.34,
+   "p": 10930.23,
+   "c": 1.59,
+   "d": 170.63,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77820,
-   "c": -0.06,
+   "p": 77681,
+   "c": -0.15,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2283.94,
-   "c": 0.76,
+   "p": 2281.99,
+   "c": 0.88,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 93.85,
-   "c": -1.41,
+   "p": 93.96,
+   "c": -0.97,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -0.24,
+   "c": -0.09,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 703.81,
+   "p": 703.31,
    "c": -1.26,
    "k": "usd"
   }
@@ -454,72 +454,33 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Euronext Joins Push for Integrated Nordic Capital Markets",
-    "tt": "Euronext, Entegre İskandinav Sermaye Piyasalarına Yönelik Çabalara Katılıyor",
-    "s": "Stock exchange operator Euronext NV has joined the Nordic Compass alliance, adding Europe’s biggest stock exchange group to a consortium of about three dozen major companies and institutions pushing for closer Nordic integration.",
-    "ss": "Borsa operatörü Euronext NV, Nordic Compass ittifakına katılarak Avrupa'nın en büyük borsa grubunu, İskandinavya'nın daha yakın entegrasyonunu isteyen yaklaşık üç düzine büyük şirket ve kurumdan oluşan konsorsiyuma ekledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/euronext-joins-industry-push-to-integrate-nordic-capital-markets",
-    "ts": 1793599200000,
+    "t": "Fed May Need 4 or 5 Rate Hikes in Total , Economist Dutta Says",
+    "tt": "Ekonomist Dutta: Fed'in Toplamda 4 veya 5 Faiz Artışına İhtiyacı Olabilir",
+    "s": "Neil Dutta, head of US economic research at Renaissance Macro Research, expects a change to the Federal Reserve’s inflation expectations in early 2027 and sees the need for a total of 4 or 5 interest-rate hikes from the central bank. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "ss": "Renaissance Macro Research'ün ABD ekonomik araştırmaları başkanı Neil Dutta, Federal Reserve'ün 2027 başında enflasyon beklentilerinde bir değişiklik bekliyor ve merkez bankasının toplam 4 veya 5 faiz artışı yapması gerektiğini görüyor. “Bloomberg Gözetim” hakkında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/fed-may-need-total-of-4-or-5-rate-hikes-economist-dutta-video",
+    "ts": 1793622738000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Marriott Beats as US Demand Helps Boost Outlook; Shares Rise",
+    "tt": "ABD Talebi Görünümü Arttırırken Marriott İyileşiyor; Hisse Yükselişi",
+    "s": "Marriott International Inc. reported third-quarter earnings that beat expectations, as bookings surged across the company’s US hotels.",
+    "ss": "Marriott International Inc., şirketin ABD'deki otellerindeki rezervasyonların artmasıyla üçüncü çeyrekte beklentilerin üzerinde kazanç bildirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/marriott-beats-as-us-demand-helps-boost-outlook-shares-rise",
+    "ts": 1793622202000,
     "tags": []
    },
    {
-    "t": "Muddy Waters-Backed Gold Project to Be Fast-Tracked by Ontario",
-    "tt": "Çamurlu Sulara Dayalı Altın Projesi Ontario Tarafından Hızla Takip Edilecek",
-    "s": "A Canadian gold project backed by famed short seller Carson Block will be fast-tracked under a framework to cut permitting timelines in Ontario, extending the provincial government’s efforts to support the mining sector.",
-    "ss": "Ünlü açığa satış satıcısı Carson Block tarafından desteklenen bir Kanada altın projesi, Ontario'daki izin sürelerini kısaltacak bir çerçeve kapsamında hızlandırılarak eyalet hükümetinin madencilik sektörünü destekleme çabalarını genişletecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/muddy-waters-backed-gold-project-to-be-fast-tracked-by-ontario",
-    "ts": 1793619000000,
-    "tags": []
-   },
-   {
-    "t": "Saudi Business Model Built on Corporate Commuters Challenged by War",
-    "tt": "Suudi İş Modeli, Savaşla Karşı Karşıya Olan Kurumsal Yolcular Üzerine Kuruldu",
-    "s": "Soon after Houthi attacks forced Saudi Arabia to shutter its capital’s main airport, one consultant drove for hours to get to Riyadh from Oman. The executive left two weeks later and plans to return soon, this time via Doha, betting that showing up will offer an edge over rivals who’re staying away.",
-    "ss": "Husi saldırılarının Suudi Arabistan'ı başkentin ana havaalanını kapatmaya zorlamasından kısa bir süre sonra, bir danışman Umman'dan Riyad'a gitmek için saatlerce araba sürdü. Yönetici iki hafta sonra ayrıldı ve yakında bu kez Doha üzerinden geri dönmeyi planlıyor ve gelmenin, uzak duran rakiplere karşı bir avantaj sağlayacağına bahse giriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/saudi-business-model-built-on-corporate-commuters-challenged-by-war",
-    "ts": 1793618834000,
-    "tags": []
-   },
-   {
-    "t": "Indian Bonds Rally as Oil Falls, Higher Yields Attract Buyers",
-    "tt": "Petrol Düşerken Hindistan Tahvilleri Yükseliyor ve Yüksek Getiriler Alıcıları Çekiyor",
-    "s": "Indian bonds gained the most in six months on Monday as crude prices extended losses, easing inflation concerns for the fuel-importing nation.",
-    "ss": "Hindistan tahvilleri, ham petrol fiyatlarının kayıplarını artırması ve akaryakıt ithalatçısı ülke için enflasyon endişelerini hafifletmesiyle Pazartesi günü altı ayın en büyük yükselişini gerçekleştirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/indian-bonds-rally-as-oil-falls-higher-yields-attract-buyers",
-    "ts": 1793615010000,
-    "tags": []
-   },
-   {
-    "t": "India’s Sitharaman Aims to Keep Up Spending to Sustain Growth",
-    "tt": "Hindistan'ın Sitharaman'ı Büyümeyi Sürdürmek İçin Harcamalarını Sürdürmeyi Hedefliyor",
-    "s": "India will keep up its spending on roads and bridges to ports to sustain economic growth while maintaining fiscal prudence, Finance Minister Nirmala Sitharaman said, as she begins preparations for the next federal budget.",
-    "ss": "Maliye Bakanı Nirmala Sitharaman bir sonraki federal bütçe hazırlıklarına başlarken Hindistan'ın mali ihtiyatı korurken ekonomik büyümeyi sürdürmek için limanlara giden yol ve köprülere yönelik harcamalarını sürdüreceğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/india-s-sitharaman-aims-to-keep-up-spending-to-sustain-growth",
-    "ts": 1793618684000,
-    "tags": []
-   },
-   {
-    "t": "Bloomberg News Now",
-    "tt": "Bloomberg Haberleri Şimdi",
-    "s": "Trump Banks on Rallies to Turn Out MAGA Faithful Again Dems Show Strength Ahead of Election Day: NYT/ Siena Polls Haley Stevens Backs GOP’s Mike Rogers in Michigan DOJ Appeals Judge’s Dismissal of AK Senate Lawsuit Gulf States Fear Fiercer Iran Retaliation If US Strikes Ukraine, Russia Report Cybera",
-    "ss": "Trump, Demokratların Yeniden MAGA'ya Sadık Çıkmasını Sağlamak İçin Mitinglere Hazır: NYT/ Siena Anketleri Haley Stevens, GOP'tan Mike Rogers'ı Michigan'da Destekledi DOJ Yargıcın AK Senato Davasını Reddetmesine Temyiz Körfez Devletleri, ABD'nin Ukrayna ve Rusya'ya Saldırması Halinde İran'ın Daha Şiddetli Misilleme Yapacağından Korkuyor Sibera Raporu",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/bloomberg-news-now-video",
-    "ts": 1793618333000,
-    "tags": []
-   },
-   {
-    "t": "Emerging Currencies on Edge on Politics; Polish Zloty Slides",
-    "tt": "Siyasetin Sınırında Yükselen Para Birimleri; Polonya Zlotisi Slaytları",
-    "s": "An index of emerging-market currencies briefly traded at one-month lows on Monday, hit by a mix of domestic politics and wariness ahead of US mid-term elections.",
-    "ss": "Gelişmekte olan ülke para birimleri endeksi, iç politika ve ABD ara seçimleri öncesindeki ihtiyatlılığın etkisiyle Pazartesi günü kısa süreliğine bir ayın en düşük seviyesinde işlem gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
-    "ts": 1793591768000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Rise as Oil Slump Buoys Sentiment: Markets Wrap",
+    "t": "US Stock Futures Rise as Oil Drop Buoys Sentiment: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
-    "s": "US equity futures advanced to halt a bruising selloff in the artificial intelligence trade, with falling oil prices helping stocks to start the month on a positive note.",
+    "s": "US equity futures advanced, signaling some respite after a bruising selloff in the artificial intelligence trade, with falling oil prices helping stocks to start the month on a positive note.",
     "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
     "ts": 1793568484000,
@@ -531,26 +492,71 @@
     ]
    },
    {
-    "t": "Reliance Adds Record $19 Billion in Market Value on Profit Beat",
-    "tt": "Reliance, Profit Beat ile Piyasa Değerine 19 Milyar Dolar Rekor Kattı",
-    "s": "Reliance Industries Ltd. shares surged almost 12%, adding more than $19 billion in market value in a record single-day gain for an Indian company, after quarterly profit surpassed expectations.",
-    "ss": "Üç aylık kârın beklentileri aşmasının ardından Reliance Industries Ltd. hisseleri neredeyse %12 arttı ve Hintli bir şirket için rekor bir tek günlük kazançla piyasa değerine 19 milyar dolardan fazla değer kattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/reliance-industries-surges-most-in-nine-months-on-earnings-beat",
-    "ts": 1793591691000,
+    "t": "Data Center Restrictions Make the Ballot in Dozens of US Cities",
+    "tt": "Veri Merkezi Kısıtlamaları Düzinelerce ABD Şehrinde Oy Veriyor",
+    "s": "Voters in dozens of US counties and cities will soon have the chance to help enact policies that would slow down the development of data centers.",
+    "ss": "Düzinelerce ABD ilçesinde ve şehrinde seçmenler, yakında veri merkezlerinin gelişimini yavaşlatacak politikaların yürürlüğe girmesine yardımcı olma şansına sahip olacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/data-center-restrictions-make-the-ballot-in-dozens-of-us-cities",
+    "ts": 1793621700000,
     "tags": []
    },
    {
-    "t": "Chile Bond Investors Turn to Inflation-Linked Notes as Oil Soars",
-    "tt": "Şili Tahvili Yatırımcıları Petrol Yükselirken Enflasyona Bağlı Tahvillere Yöneliyor",
-    "s": "Chilean fixed income investors are flocking to index-linked notes as the war in Iran drags on into its nine month, pushing oil prices to levels not seen since April and stoking inflation expectations.",
-    "ss": "İran'daki savaşın dokuz ayına girmesi, petrol fiyatlarının Nisan ayından bu yana görülmeyen seviyelere yükselmesi ve enflasyon beklentilerinin yükselmesi nedeniyle Şilili sabit getirili yatırımcılar endeks bağlantılı tahvillere akın ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/chile-bond-investors-turn-to-inflation-linked-notes-as-oil-soars",
-    "ts": 1793617200000,
+    "t": "Cash-Strapped LNG Buyers Like Bangladesh Are at Breaking Point",
+    "tt": "Bangladeş gibi nakit sıkıntısı çeken LNG alıcıları kırılma noktasında",
+    "s": "Reliance on Qatari LNG has been a disaster for Bangladesh’s textile manufacturers, who risk losing orders to international competitors.",
+    "ss": "Katar LNG'sine güvenmek, siparişlerini uluslararası rakiplerine kaptırma riskiyle karşı karşıya olan Bangladeşli tekstil üreticileri için bir felaket oldu.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-02/cash-strapped-lng-buyers-like-bangladesh-are-at-breaking-point",
+    "ts": 1793621471000,
+    "tags": []
+   },
+   {
+    "t": "Alphabet Is Paying Up for Euro Bonds in Test of AI Appetite",
+    "tt": "Alphabet, Yapay Zeka İştahı Testinde Euro Tahvillerinin Bedelini Ödüyor",
+    "s": "Alphabet Inc. is raising funds in the euro bond market for the second time this year, offering considerably higher yields than in its sale in May after concerns over the pace of AI spending drove a credit-market selloff.",
+    "ss": "Alphabet Inc., bu yıl ikinci kez euro tahvil piyasasında fon topluyor ve yapay zeka harcamalarının hızına ilişkin endişelerin kredi piyasasındaki satışları artırmasının ardından Mayıs ayındaki satışına kıyasla oldukça yüksek getiri sunuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
+    "ts": 1793603871000,
+    "tags": []
+   },
+   {
+    "t": "Romania Is Offering Eurobonds After New Government Takes Office",
+    "tt": "Romanya Yeni Hükümet Göreve Başladıktan Sonra Eurobond Teklif Edecek",
+    "s": "Romania is selling bonds on the international market for the first time after the country approved a new government to overcome more than five months of political turmoil.",
+    "ss": "Romanya, beş aydan uzun süredir devam eden siyasi çalkantıların üstesinden gelmek için yeni bir hükümeti onaylamasının ardından ilk kez uluslararası piyasada tahvil satıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
+    "ts": 1793620148000,
+    "tags": []
+   },
+   {
+    "t": "Trump Says He May Become ‘Mr. Veto’ if Democrats Win Midterms",
+    "tt": "Trump 'Bay' Olabileceğini Söyledi Demokratlar Ara Sınavı Kazanırsa Veto",
+    "s": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Derek Halpenny, MUF",
+    "ss": "\"Francine Lacqua'nın Nabzı\" küresel iş dünyasının, ekonominin, finansın ve politikanın atan kalbinde yüksek profilli konuklarla yapılan sohbetleri konu alıyor. Londra merkezli olarak hikayenin olduğu yere gidiyoruz, size özel röportajlar ve piyasayı harekete geçiren haberler getiriyoruz. Bugünün konukları: Derek Halpenny, MUF",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/the-pulse-11-2-2026-video",
+    "ts": 1793619956000,
+    "tags": []
+   },
+   {
+    "t": "Euronext Joins Push for Integrated Nordic Capital Markets",
+    "tt": "Euronext, Entegre İskandinav Sermaye Piyasalarına Yönelik Çabalara Katılıyor",
+    "s": "Stock exchange operator Euronext NV has joined the Nordic Compass alliance, adding Europe’s biggest stock exchange group to a consortium of about three dozen major companies and institutions pushing for closer Nordic integration.",
+    "ss": "Borsa operatörü Euronext NV, Nordic Compass ittifakına katılarak Avrupa'nın en büyük borsa grubunu, İskandinavya'nın daha yakın entegrasyonunu isteyen yaklaşık üç düzine büyük şirket ve kurumdan oluşan konsorsiyuma ekledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/euronext-joins-industry-push-to-integrate-nordic-capital-markets",
+    "ts": 1793599200000,
+    "tags": []
+   },
+   {
+    "t": "Oil Prices Retreat, Apple Results on Deck",
+    "tt": "Petrol Fiyatları Geriledi, Apple Sonuçları Açıklandı",
+    "s": "A report that says President Donald Trump wants to give diplomacy with Iran more time helped ease pressure on oil prices, with Brent falling more than 3% to below $110 a barrel. Apple reclaimed the title of world’s most valuable company on Friday, taking the mantle from Nvidia as investors seek the ",
+    "ss": "Başkan Donald Trump'ın İran'la diplomasiye daha fazla zaman vermek istediğini belirten bir rapor, petrol fiyatları üzerindeki baskının hafiflemesine yardımcı olurken, Brent %3'ün üzerinde düşüşle varil başına 110 doların altına geriledi. Apple, yatırımcıların yeni şirket arayışında olduğu bir dönemde Nvidia'nın elinden alarak Cuma günü dünyanın en değerli şirketi unvanını geri aldı.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/the-opening-trade-11-02-2026-video",
+    "ts": 1793619671000,
     "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
     ]
    }
   ],
@@ -648,6 +654,60 @@
   ],
   "MarketWatch": [
    {
+    "t": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
+    "tt": "Marvell ve Lumentum resmi olarak birleşmeyi planlıyor. İşte bilmeniz gerekenler.",
+    "s": "A newly proposed deal would be financed in stock and target the hot optical-networking market.",
+    "ss": "Yeni önerilen bir anlaşma stokla finanse edilecek ve sıcak optik ağ pazarını hedef alacak.",
+    "u": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+    "ts": 1793622360000,
+    "tags": []
+   },
+   {
+    "t": "This is the biggest threat to the AI-powered bull market",
+    "tt": "Bu yapay zeka destekli boğa piyasasına yönelik en büyük tehdit",
+    "s": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+    "ss": "Gişe rekorları kıran kazanç büyümesi, borsanın 2026'da daha da yükselmesine yardımcı oldu. 2027'de bu motor durabilir.",
+    "u": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+    "ts": 1793622180000,
+    "tags": []
+   },
+   {
+    "t": "America is doing better than you think — just ask those in the bottom half of household wealth",
+    "tt": "Amerika düşündüğünüzden daha iyi durumda; hane halkının servetinin en alt yarısındakilere sorun",
+    "s": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
+    "ss": "Amerikalıların alt yarısının net serveti 2019'dan bu yana iki kattan fazla arttı. Bunu sosyal medyada gezinerek bilemezsiniz.",
+    "u": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+    "ts": 1793622120000,
+    "tags": []
+   },
+   {
+    "t": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
+    "tt": "1 trilyon dolarlık gelir arayışında olan SpaceX'in bir anlaşma için Boost Mobile'ı hedeflediği bildiriliyor",
+    "s": "In recent weeks there has been intense speculation surrounding SpaceX ambitions in the cellular market with multiple acquisition targets suggested; Boost Mobile is the latest",
+    "ss": "Son haftalarda SpaceX'in hücresel pazardaki hedefleri etrafında, birden fazla satın alma hedefi öne sürülen yoğun spekülasyonlar vardı; Boost Mobile'ın en yeni sürümü",
+    "u": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
+    "ts": 1793622000000,
+    "tags": []
+   },
+   {
+    "t": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+    "tt": "‘Kalbi kırılmıştı’: Kocamın çocukları ölürken onu terk etti. Her şeyi bana bırakmakta haklı mıydı?",
+    "s": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+    "ss": "\"Sonunda onlara birkaç duygusal hatıra, bazı koleksiyon parçaları ve eski fotoğraflar bıraktı.\"",
+    "u": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+    "ts": 1793621700000,
+    "tags": []
+   },
+   {
+    "t": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
+    "tt": "Teknoloji hisseleri acımasız bir Ekim'in ardından Kasım ayına giriyor: Düşüşü satın almanın zamanı geldi mi?",
+    "s": "Both the stock and bond markets are raising doubts about the sustainability of the AI trade.",
+    "ss": "Hem hisse senedi hem de tahvil piyasaları yapay zeka ticaretinin sürdürülebilirliği konusunda şüpheleri artırıyor.",
+    "u": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
+    "ts": 1793621400000,
+    "tags": []
+   },
+   {
     "t": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
     "tt": "Goldman Sachs'a göre petrol fiyatları gelecek yıl varil başına ortalama 130 dolar olabilir",
     "s": "Analysts at the investment bank said Brent crude could reach $140 a barrel next year if tensions worsen in the Middle East.",
@@ -659,7 +719,7 @@
    {
     "t": "Citi throws in the towel on hyperscalers after a key market bet misfires",
     "tt": "Pazardaki son dalgalanma, Citi'nin bu büyük teknoloji ticaretinden vazgeçmesine neden oldu",
-    "s": "Hyperscalers and growth plays have underperformed amid a sharp rotation",
+    "s": "Hyperscalers and growth plays have underperformed amid a sharp rotation.",
     "ss": "Hiper ölçekleyiciler ve büyüme oyunları keskin bir rotasyon karşısında düşük performans gösterdi",
     "u": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
     "ts": 1793617680000,
@@ -682,63 +742,41 @@
     "u": "https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories",
     "ts": 1793613780000,
     "tags": []
-   },
-   {
-    "t": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-    "tt": "Emekli Dünya Serisi şampiyonu Matt Holliday, aylar önce satın aldığı 11,6 milyon dolarlık Arizona mülkünü listeliyor",
-    "s": "Retired Major League Baseball star Matt Holliday is ready to part ways with the newly built Paradise Valley, Ariz., estate he purchased earlier this year.",
-    "ss": "Emekli Major League Baseball yıldızı Matt Holliday, bu yılın başlarında satın aldığı yeni inşa edilen Paradise Valley, Ariz. mülküyle yollarını ayırmaya hazır.",
-    "u": "https://www.marketwatch.com/story/retired-world-series-champ-matt-holliday-lists-11-6-million-arizona-estate-he-bought-months-ago-a48b6a9b?mod=mw_rss_topstories",
-    "ts": 1793613480000,
-    "tags": []
-   },
-   {
-    "t": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-    "tt": "Teknoloji hisseleri 30 ayda beş kez büyük V şeklinde toparlanma kaydetti ve şimdi Deutsche Bank yeni bir sıçrama öngörüyor",
-    "s": "Positioning among equity investors in tech stocks is consistent with much slower earnings growth than the sector is achieving. Deutsche Bank thinks it’s time to go overweight once again as the risk-reward profile favors a sector that is suddenly out of fashion.",
-    "ss": "Hisse senedi yatırımcıları arasında teknoloji hisse senetlerindeki konumlandırma, sektörün elde ettiğinden çok daha yavaş kazanç büyümesiyle tutarlıdır. Deutsche Bank, risk-ödül profilinin aniden modası geçmiş bir sektörü tercih etmesi nedeniyle bir kez daha aşırı kilo alma zamanının geldiğini düşünüyor.",
-    "u": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-    "ts": 1793612820000,
-    "tags": []
-   },
-   {
-    "t": "The election will be good news, regardless of outcome, says Morgan Stanley’s chief stock-market strategist",
-    "tt": "Morgan Stanley'in baş borsa stratejisti, sonuçtan bağımsız olarak seçimin iyi bir haber olacağını söylüyor",
-    "s": "Mike Wilson, Morgan Stanley’s chief stock-market strategist, said the midterm elections are a classic “clearing event” whose outcome at this point doesn’t really matter.",
-    "ss": "Morgan Stanley'nin baş borsa stratejisti Mike Wilson, ara seçimlerin klasik bir \"temizlik olayı\" olduğunu ve bu noktada sonucunun pek önemli olmadığını söyledi.",
-    "u": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
-    "ts": 1793610900000,
-    "tags": []
-   },
-   {
-    "t": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-    "tt": "Hisse senedi portföyünüz giderek tahvil piyasasına ve ara seçimlere bağlı hale geliyor",
-    "s": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
-    "ss": "Ekim ayının sonlarında teknoloji hisseleri, kurumsal tahvil piyasasını aylardır zorlayan soğuğa yakalandı.",
-    "u": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-    "ts": 1793609760000,
-    "tags": []
-   },
-   {
-    "t": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
-    "tt": "Makro strateji uzmanı olan deniz keskin nişancısı, bu boğa piyasasının altı ila 12 ayı kaldığını söylüyor. İşte onun taktik kitabı.",
-    "s": "Alex Barrow, founder of Macro Ops, says the bull market is on borrowed time and will ratchet back painfully for investors who aren’t prepared.",
-    "ss": "Macro Ops'un kurucusu Alex Barrow, boğa piyasasının ödünç alınmış bir zamanda olduğunu ve hazırlıklı olmayan yatırımcılar için acı verici bir şekilde geri çekileceğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
-    "ts": 1793604300000,
-    "tags": []
-   },
-   {
-    "t": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-    "tt": "Yetişkin çocuklarınıza ve torunlarınıza gerçekten yardım etmek istiyorsanız, onlara hâlâ hayattayken para verin.",
-    "s": "How to manage “giving while living” without endangering your own retirement.",
-    "ss": "Kendi emekliliğinizi tehlikeye atmadan \"yaşarken vermeyi\" nasıl yönetebilirsiniz?",
-    "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-    "ts": 1793589780000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "'Despicable Betrayal!','Sold Her Soul!': Haley Stevens' Staff Quits, Dems Melt Down After She Endorses Republican In Michigan",
+    "tt": "'Çılgın İhanet!','Ruhunu Sattı!': Haley Stevens'ın Çalışanları Ayrıldı, Dems Michigan'da Cumhuriyetçiyi Destekledikten Sonra Eridi",
+    "s": "'Despicable Betrayal!','Sold Her Soul!': Haley Stevens' Staff Quits, Dems Melt Down After She Endorses Republican In Michigan Update (1335ET): Democrats are having a meltdown after Rep. Haley Stevens flipped and endorsed Republican Mike Rogers for a coveted Michigan Senate seat - appearing with him ",
+    "ss": "'Çılgın İhanet!', 'Ruhunu Sattı!': Haley Stevens'ın Personeli Ayrıldı, Demokratlar Michigan'da Cumhuriyetçiyi Onayladıktan Sonra Eridi Güncelleme (1335ET): Temsilci Haley Stevens'ın Cumhuriyetçi Mike Rogers'ı çok beğenilen Michigan Senatosu koltuğu için destekleyip desteklemesinin ardından Demokratlar bir kriz yaşıyor.",
+    "u": "https://www.zerohedge.com/markets/democrat-haley-stevens-flips-endorses-el-sayeds-republican-opponent-two-days-michigan",
+    "ts": 1793622300000,
+    "tags": []
+   },
+   {
+    "t": "Trump Agrees To Expedite Visa For Ghanaian Mother Of Teen Killed In NYC Shooting, Mamdani Says",
+    "tt": "Mamdani, Trump'ın New York'taki silahlı saldırıda öldürülen Ganalı gencin annesi için vize sürecini hızlandırmayı kabul ettiğini söyledi",
+    "s": "Trump Agrees To Expedite Visa For Ghanaian Mother Of Teen Killed In NYC Shooting, Mamdani Says Authored by Aldgra Fredly via The Epoch Times , New York Mayor Zohran Mamdani said on Oct. 31 that President Donald Trump has agreed to grant an expedited B-2 visa to a Ghanaian mother whose teenage son wa",
+    "ss": "Trump, New York'taki Saldırıda Ölen Ganalı Gençin Annesi İçin Vizeyi Hızlandırmayı Kabul Etti Mamdani: Aldgra Fredly tarafından The Epoch Times aracılığıyla yazıldı. New York Belediye Başkanı Zohran Mamdani 31 Ekim'de Başkan Donald Trump'ın ergenlik çağındaki oğlu Ganalı bir anneye hızlandırılmış B-2 vizesi vermeyi kabul ettiğini söyledi.",
+    "u": "https://www.zerohedge.com/political/trump-agrees-expedite-visa-ghanaian-mother-teen-killed-nyc-shooting-mamdani-says",
+    "ts": 1793622300000,
+    "tags": []
+   },
+   {
+    "t": "Brent, WTI Futs Tumble As Trump May Give Diplomacy A Chance, Iran Floats Two-Day Hormuz Reopening",
+    "tt": "Brent ve WTI, Trump'ın Diplomasiye Şans Vermesiyle Düşüşte ve İran, Hürmüzün Yeniden Açılmasında İki Gün Boyunca Dalgalanıyor",
+    "s": "Brent, WTI Futs Tumble As Trump May Give Diplomacy A Chance, Iran Floats Two-Day Hormuz Reopening Brent crude futures fell to $108.41 a barrel, while WTI slipped below $100 this morning, after Axios reported that President Trump favored giving diplomacy with Tehran more time before launching another",
+    "ss": "Brent ve WTI Düşüşte, Trump Diplomasiye Şans Verebilir, İran İki Gün Hürmüzde Dalgalanıyor Brent ham petrol vadeli işlemleri varil başına 108,41 dolara düşerken, Axios'un Başkan Trump'ın yeni bir anlaşma başlatmadan önce Tahran'la diplomasiye daha fazla zaman vermeyi tercih ettiğini bildirmesinin ardından WTI bu sabah 100 doların altına geriledi.",
+    "u": "https://www.zerohedge.com/energy/brent-wti-futs-tumble-trump-may-give-diplomacy-chance-iran-floats-two-day-hormuz-reopening",
+    "ts": 1793621400000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
    {
     "t": "\"Absolutely Zero Chance\": DHS Vows To Block Latest Migrant Caravan While State Dept Targets Organizers With Visa Restrictions",
     "tt": "\"Kesinlikle Sıfır Şans\": DHS, Son Göçmen Kervanını Engelleme Sözü Verirken, Devlet Bakanlığı Vize Kısıtlamalarıyla Organizatörleri Hedef Alıyor",
@@ -801,124 +839,97 @@
     "u": "https://www.zerohedge.com/geopolitical/poland-symptom-and-europe-patient",
     "ts": 1793602800000,
     "tags": []
-   },
-   {
-    "t": "Why Are So Many Countries Suddenly Warning Their Citizens To Prepare For An Emergency And Stockpile Essential Survival Supplies?",
-    "tt": "Neden Pek Çok Ülke Vatandaşlarını Acil Durumlara Hazırlanmaları ve Temel Hayatta Kalma Malzemeleri Stoklamaları konusunda Aniden Uyarıyor?",
-    "s": "Why Are So Many Countries Suddenly Warning Their Citizens To Prepare For An Emergency And Stockpile Essential Survival Supplies? Authored by Michael Snyder via The Economic Collapse , What in the world is going on? Why are governments all over the planet suddenly encouraging their citizens to become",
-    "ss": "Neden Pek Çok Ülke Vatandaşlarını Acil Durumlara Hazırlanmaları ve Temel Hayatta Kalma Malzemeleri Stoklamaları konusunda Aniden Uyarıyor? Michael Snyder tarafından Ekonomik Çöküş aracılığıyla yazılmıştır. Dünyada neler oluyor? Neden gezegenin her yerindeki hükümetler vatandaşlarını birdenbire olmaya teşvik ediyor?",
-    "u": "https://www.zerohedge.com/geopolitical/why-are-so-many-countries-suddenly-warning-their-citizens-prepare-emergency-and",
-    "ts": 1793593200000,
-    "tags": []
-   },
-   {
-    "t": "Chinese Company Develops $1,000 AI-Powered Laser System To Kill Mosquitoes",
-    "tt": "Çinli Şirket Sivrisinekleri Öldürmek İçin 1.000 Dolarlık Yapay Zeka Destekli Lazer Sistemi Geliştiriyor",
-    "s": "Chinese Company Develops $1,000 AI-Powered Laser System To Kill Mosquitoes A Chinese startup claims it has developed a $1,000 machine capable of hunting mosquitoes with artificial intelligence and shooting them down with a laser, bringing a futuristic approach to an age-old household nuisance, accor",
-    "ss": "Çinli Şirket, Sivrisinekleri Öldürmek İçin 1.000 Dolarlık Yapay Zeka Destekli Lazer Sistemi Geliştiriyor Çinli bir startup, sivrisinekleri yapay zekayla avlayabilen ve onları lazerle vurabilen 1.000 dolarlık bir makine geliştirdiğini iddia ediyor.",
-    "u": "https://www.zerohedge.com/markets/chinese-company-develops-1000-ai-powered-laser-system-kill-mosquitoes",
-    "ts": 1793591700000,
-    "tags": []
-   },
-   {
-    "t": "DOJ Uncovers $29M More In Minnesota Benefits Fraud, Calls State 'Epicenter For Fraud In America'",
-    "tt": "DOJ, Minnesota Faydaları Dolandırıcılığında 29 Milyon Dolar Daha Fazlasını Ortaya Çıkardı ve Eyaleti 'Amerika'daki Dolandırıcılığın Merkez Üssü' Olarak Çağırdı",
-    "s": "DOJ Uncovers $29M More In Minnesota Benefits Fraud, Calls State 'Epicenter For Fraud In America' Authored by Naveen Athrappully via The Epoch Times , The Department of Justice (DOJ) announced it identified roughly $29.1 million in government benefits fraud in Minnesota over a one-month period . Betw",
-    "ss": "DOJ, Minnesota Yardım Dolandırıcılığında 29 Milyon Dolar Daha Fazlasını Ortaya Çıkardı, Eyalete \"Amerika'daki Dolandırıcılığın Merkez Üssü\" Diyor Naveen Athrappully tarafından The Epoch Times aracılığıyla yazılmıştır, Adalet Bakanlığı (DOJ), Minnesota'da bir aylık bir süre içinde yaklaşık 29,1 milyon dolarlık devlet yardımı dolandırıcılığını tespit ettiğini duyurdu. Arasında",
-    "u": "https://www.zerohedge.com/political/doj-uncovers-29m-more-minnesota-benefits-fraud-calls-state-epicenter-fraud-america",
-    "ts": 1793590200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
    {
-    "t": "Belçika'da bütçe uyuşmazlığı siyasi istifa getirdi",
+    "t": "Eximbank Yönetim Kurulu Başkanı Çelik istifa etti",
     "tt": null,
-    "s": "Belçika Başbakanı Bart De Wever'in federal hükümetin bütçe müzakerelerinde uzlaşma sağlayamamasının ardından istifasını Kral Philippe'e sunduğu bildirildi.",
+    "s": "Eximbank Yönetim Kurulu Başkanı Osman Çelik görevinden istifa etti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/belcika-da-butce-uyusmazligi-siyasi-istifa-getirdi-3793068",
-    "ts": 1793616668000,
+    "u": "https://www.bloomberght.com/eximbank-yonetim-kurulu-baskani-celik-istifa-etti-3793087",
+    "ts": 1793622637000,
     "tags": []
    },
    {
-    "t": "Yılmaz: Tarife indirimleri ile yetinmeyip kapsamlı ticaret zemini aranmalı",
+    "t": "Anadolu Sigorta'da üst düzey atama",
     "tt": null,
-    "s": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Geçtiğimiz yıl aldığımız karara binaen Sistemin daha etkin uygulanması ve kapsamının genişletilmesi için Ticaret Müzakereleri Komitesi bünyesinde yürütülen çalışmaları memnuniyetle karşılıyorum. Bu noktada tarife indirimleriyle yetinmeyip, gümrük işlemlerinin",
+    "s": "Anadolu Sigorta'da Genel Müdürlük görevine Serkan Uğraş Kaygalak atandı. Kaygalak, gerekli yasal izinlerin alınmasının ardından yeni görevine başlayacak.",
     "ss": null,
-    "u": "https://www.bloomberght.com/yilmaz-tarife-indirimleri-ile-yetinmeyip-kapsamli-ticaret-zemini-aranmali-3793066",
-    "ts": 1793615632000,
+    "u": "https://www.bloomberght.com/anadolu-sigorta-da-ust-duzey-atama-3793086",
+    "ts": 1793622577000,
     "tags": []
    },
    {
-    "t": "Euro Bölgesi imalat sanayi PMI iki ayın en düşük seviyesinde",
+    "t": "Ford, kullanıcıların veri güvenliği için gizlilik taahhüdü veriyor",
     "tt": null,
-    "s": "Euro Bölgesi'nde imalat sanayi Satınalma Yöneticileri Endeksi (PMI), ekimde 52,7 puana gerileyerek son iki ayın en düşük seviyesine indi.",
+    "s": "Ford, müşteri verilerini nasıl ve neden kullandığını açıklayan gizlilik sözü olarak adlandırdığı taahhüdü duyurdu. Bu yeni gizlilik girişimi, otomobil üreticilerinin araçlarını giderek daha fazla bağlantılı hale getirdiği bir dönemde ortaya çıkıyor. Çünkü araç içi verilerin konum, sürüş alışkanlıkla",
     "ss": null,
-    "u": "https://www.bloomberght.com/euro-bolgesi-imalat-sanayi-pmi-iki-ayin-en-dusuk-seviyesinde-3793064",
-    "ts": 1793612615000,
+    "u": "https://www.bloomberght.com/ford-kullanicilarin-veri-guvenligi-icin-gizlilik-taahhudu-veriyor-3793084",
+    "ts": 1793622284000,
     "tags": []
    },
    {
-    "t": "Nefes Kredisi'nde yeni dilim başvuruları başlıyor",
+    "t": "Akbank/Gür: Türkiye'nin COP31 ev sahipliğini kalıcı bir iklim finansmanı fırsatına dönüştürmeliyiz",
     "tt": null,
-    "s": "Türkiye Odalar ve Borsalar Birliği (TOBB) Nefes Kredisi başvuruları 3 Kasım itibarıyla yeniden başlayacak, krediler 6 ay anapara ödemesiz dönem dahil azami 48 ay vadeli olacak.",
+    "s": "Akbank, 2030 sürdürülebilir finansman hedefini 2,5 trilyon TL'ye yükseltti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/nefes-kredisi-nde-yeni-dilim-basvurulari-3-kasim-da-baslayacak-3793063",
-    "ts": 1793612097000,
+    "u": "https://www.bloomberght.com/akbankgur-turkiyenin-cop31-ev-sahipligini-kalici-bir-iklim-finansmani-firsatina-donusturmeliyiz-3793083",
+    "ts": 1793621553000,
     "tags": []
    },
    {
-    "t": "YEKA RES-2026 yarışmalarında en iyi teklifler belirlendi",
+    "t": "Döviz mevduatlarında yükseliş",
     "tt": null,
-    "s": "Enerji ve Tabii Kaynaklar Bakanlığının 7 proje için toplam 1500 megavatlık rüzgar enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları (YEKA RES-2026) yarışmaları 11 şirketin katılımıyla yapıldı.",
+    "s": "23 Ekim haftasında yurt içi yerleşiklerin döviz mevduatları parite etkisinden arındırılmış verilere göre 223 milyon dolar yükseldi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/yeka-res-2026-yarismalarinda-en-iyi-teklifler-belirlendi-3793062",
-    "ts": 1793611461000,
+    "u": "https://www.bloomberght.com/doviz-mevduatlarinda-yukselis-3793081",
+    "ts": 1793620015000,
     "tags": []
    },
    {
-    "t": "Enerjide 6 milyar dolarlık satış",
+    "t": "Yabancıdan satış haftası",
     "tt": null,
-    "s": "Enerji şirketi bp, Castrol'deki yüzde 65'lik hissesini 6 milyar dolar karşılığında ABD merkezli özel sermaye şirketi Stonepeak'e sattı.",
+    "s": "TCMB tarafından açıklanan verilere göre, yabancı yatırımcı 23 Ekim haftasında 100 milyon dolarlık hisse 163 milyon dolarlık da tahvil sattı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/enerjide-6-milyar-dolarlik-satis-3793057",
-    "ts": 1793609278000,
+    "u": "https://www.bloomberght.com/yabancidan-satis-haftasi-3793080",
+    "ts": 1793619511000,
     "tags": []
    },
    {
-    "t": "Musk'tan Grok'un maliyeti ve geliri yorumu",
+    "t": "Apple CEO'su Ternus: Yapay zekada derinliğe önem veriyoruz",
     "tt": null,
-    "s": "ABD'li milyarder iş insanı Elon Musk, yapay zeka sohbet botu Grok'un işlem maliyetinin, elde edilen gelire kıyasla \"sürdürülemez derecede yüksek\" olduğunu ifade etti.",
+    "s": "Apple CEO'su John Ternus, şirketin yapay zeka stratejisine dair \"Sırf yapay zekâ olsun diye yapay zekâ sunmak istemiyoruz. İşi doğru yaptığımızda, kullanıcılar bir işlemin yapay zekâ tarafından mı yoksa geleneksel yazılımlar tarafından mı gerçekleştirildiğini düşünmek zorunda kalmayacaklar\" diyerek ",
     "ss": null,
-    "u": "https://www.bloomberght.com/musk-tan-grok-un-maliyeti-ve-geliri-yorumu-3793050",
-    "ts": 1793607903000,
+    "u": "https://www.bloomberght.com/apple-ceo-su-ternus-yapay-zekada-derinlige-onem-veriyoruz-3793074",
+    "ts": 1793618602000,
     "tags": []
    },
    {
-    "t": "Google yapay zeka hizmetlerine rekabet soruşturması",
+    "t": "Trump'tan ara seçimler öncesi veto tehdidi",
     "tt": null,
-    "s": "Rekabet Kurumu, Google yapay zeka hizmetlerine ilişkin soruşturma açılması kararı verdi.",
+    "s": "ABD Başkanı Donald Trump, ara seçimleri Demokratların kazanması durumunda her şeyi veto edeceğini söyledi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/google-yapay-zeka-hizmetlerine-rekabet-sorusturmasi-3793049",
-    "ts": 1793607356000,
+    "u": "https://www.bloomberght.com/trump-tan-ara-secimler-oncesi-veto-tehdidi-3793073",
+    "ts": 1793618600000,
     "tags": []
    },
    {
-    "t": "OpenAI ile BAE arasında kritik anlaşmalar",
+    "t": "Bain&Company: Türkiye'nin net sıfır dönüşümü için 500 milyar doların üzerinde yatırım gerekiyor",
     "tt": null,
-    "s": "OpenAI, Birleşik Arap Emirlikleri'nde enerji şirketleri, yatırım firmaları ve devlet kurumlarında yapay zeka teknolojisini kullanıma sunmak için anlaşmalar imzaladı.",
+    "s": "Bain&amp;Company'nin COP31 öncesinde hazırladığı Türkiye'nin enerji dönüşümüne ilişkin rapora göre, ülkenin 2053 net sıfır emisyon hedeflerine ulaşabilmesi için 500 milyar doların üzerinde yatırım gerekiyor. Yenilenebilir enerji kaynakları Türkiye'nin toplam elektrik kurulu gücünün yüzde 62'sini olu",
     "ss": null,
-    "u": "https://www.bloomberght.com/openai-ile-bae-arasinda-kritik-anlasmalar-3793048",
-    "ts": 1793607303000,
+    "u": "https://www.bloomberght.com/bain-company-turkiye-nin-net-sifir-donusumu-icin-500-milyar-dolarin-uzerinde-yatirim-gerekiyor-3793071",
+    "ts": 1793618022000,
     "tags": []
    },
    {
-    "t": "Belçika'da bütçenin siyaset krizi doğuracağı iddiası",
+    "t": "Gazprom 9 ayda zarardan kâra geçti",
     "tt": null,
-    "s": "Belçika'da federal hükümetin bütçe konusunda uzlaşmaya varamaması üzerine Başbakan Bart De Wever'in istifasını sunabileceği ve hükümetin dağılabileceği öne sürüldü.",
+    "s": "Rus enerji şirketi Gazprom, 2026'nın Ocak-Eylül döneminde geçen yılın aynı dönemindeki 170,3 milyar rublelik zararın ardından 114,8 milyar ruble (yaklaşık 1,4 milyar dolar) net kâr elde etti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/belcika-da-butcenin-siyaset-krizi-doguracagi-iddiasi-3793045",
-    "ts": 1793607007000,
+    "u": "https://www.bloomberght.com/gazprom-9-ayda-zarardan-kra-gecti-3793069",
+    "ts": 1793617855000,
     "tags": []
    }
   ]
