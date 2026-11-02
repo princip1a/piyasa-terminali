@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T03:30:15.152950+00:00",
+ "generated": "2026-11-02T04:34:17.664959+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3908.3,
-   "c": 0.24,
-   "d": 9.4,
+   "p": 3914.9,
+   "c": 0.41,
+   "d": 16.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.01,
-   "c": 1.86,
-   "d": 0.913,
+   "p": 50.12,
+   "c": 2.08,
+   "d": 1.023,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 100.95,
-   "c": -3.04,
-   "d": -3.17,
+   "p": 100.58,
+   "c": -3.4,
+   "d": -3.54,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.2,
-   "c": -6.32,
-   "d": -7.44,
+   "p": 109.72,
+   "c": -6.73,
+   "d": -7.92,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.958,
-   "c": 0.08,
-   "d": 0.078,
+   "p": 101.915,
+   "c": 0.03,
+   "d": 0.035,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9657,
-   "c": 0.05,
-   "d": 0.023,
+   "p": 49.9552,
+   "c": 0.02,
+   "d": 0.012,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 78534,
-   "c": 1.09,
+   "p": 78566,
+   "c": 1.08,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2306.68,
-   "c": 1.72,
+   "p": 2305.36,
+   "c": 1.75,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.45,
-   "c": -0.06,
+   "p": 95.4,
+   "c": -0.09,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.26,
-   "c": 0.8,
+   "c": 0.58,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 714.72,
-   "c": 1.69,
+   "p": 713.13,
+   "c": 1.19,
    "k": "usd"
   }
  ],
@@ -454,24 +454,18 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Weak China PMIs Spark Fresh Stimulus Bets",
-    "tt": "Zayıf Çin PMI'ları Yeni Teşvik Bahislerini Ateşledi",
-    "s": "Bloomberg's Minmin Low breaks down why developments in China’s official manufacturing gauge are fueling expectations for another PBOC interest rate cut. (Source: Bloomberg)",
-    "ss": "Bloomberg'den Minmin Low, Çin'in resmi imalat göstergesindeki gelişmelerin neden PBOC'nin başka bir faiz indirimi beklentilerini artırdığını açıklıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/weak-china-pmis-spark-fresh-stimulus-bets-video",
-    "ts": 1793590087000,
-    "tags": [
-     "DXY ▼",
-     "Altın ▲",
-     "Gümüş ▲",
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
+    "t": "Japanese Stocks Mixed on Domestic Earnings, Ahead of US Midterms",
+    "tt": "Japon Hisse Senetleri, Kioxia'nın Kâr Görünümü Olan Teknoloji Satışları Nedeniyle Düştü",
+    "s": "Japanese stocks were mixed, with investors assessing individual earnings in Japan while remaining on the sidelines as they await the US midterm elections this week.",
+    "ss": "Japon hisseleri, teknoloji hisselerinin ABD'deki sert satışlardan darbe almasıyla düşerken, çip üreticisi Kioxia Holdings Corp. da hayal kırıklığı yaratan bir kâr görünümünün ardından düşmeye hazırlanıyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+    "ts": 1793578520000,
+    "tags": []
    },
    {
-    "t": "Stock Selloff Eases in Asian Trade, Crude Falls: Markets Wrap",
+    "t": "Most Asian Stocks Rise With US Futures, Oil Falls: Markets Wrap",
     "tt": "Asya Hisse Senetleri, Tech Rout'un Yapay Zeka Korkularını Artırmasıyla Düşecek: Piyasalar Sarılıyor",
-    "s": "A selloff in stocks eased during Asian trading on Monday as regional equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
+    "s": "Most Asian stocks rose with US equity futures as investors recovered their risk appetite following last week’s slump in tech shares. Oil fell.",
     "ss": "Asya hisse senetleri, teknoloji hisselerindeki sert düşüşün yapay zekadaki yükselişin çok ileri gitmiş olabileceği yönündeki endişeleri derinleştirmesi nedeniyle Cuma günkü Wall Street'teki sert satışın ardından düşmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
     "ts": 1793568484000,
@@ -483,75 +477,75 @@
     ]
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 2",
-    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.",
-    "ss": "Petrol fiyatları, ABD Başkanı Donald Trump'ın Salı günkü ara seçimlerin ardından İran'a yönelik saldırıların devam edip etmeyeceğine karar vermeden önce diplomasiye daha fazla zaman vermek istediğini belirten bir raporun ardından düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-    "ts": 1793574710000,
+    "t": "Reliance Shares Hit Nine-Month High as Iran War Boosts Refining",
+    "tt": null,
+    "s": "Shares of Reliance Industries Ltd. rallied the most in nine months after earnings from India’s most valuable company beat analyst estimates, driven by a strong performance in its oil-to-chemicals business.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/reliance-industries-surges-most-in-nine-months-on-earnings-beat",
+    "ts": 1793591691000,
     "tags": []
    },
    {
-    "t": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
-    "tt": "Yabancılar AI Rout'la Tayvan Hisse Senetlerinden Rekor Çekildi",
-    "s": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
-    "ss": "Tayvan hisse senetlerinden yabancı çıkışlar, yapay zeka oyunlarındaki küresel satışların adanın gösterge endeksini teknik düzeltmeye yaklaştırmasıyla Ekim ayında rekor seviyeye ulaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
-    "ts": 1793581227000,
+    "t": "Tokyo, Chubu Power Price Hit Multi-Year High as Fuel Costs Climb",
+    "tt": null,
+    "s": "Japan’s spot power prices surged at the weekend, with elevated fuel costs driving rates in major electricity-consuming regions Tokyo and Chubu to multi-year highs.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/tokyo-chubu-power-price-hit-multi-year-high-as-fuel-costs-climb",
+    "ts": 1793592540000,
     "tags": []
    },
    {
-    "t": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
-    "tt": "Küresel Yapay Zeka Satışı ve Küçük Sermaye Ağrısı Yatırımcıları Hindistan Büyük Sermayelerine Yönlendiriyor",
-    "s": "Software services exporters claim all five top spots in the large-cap index in October.",
-    "ss": "Yazılım hizmetleri ihracatçıları Ekim ayında büyük sermaye endeksinde ilk beş sırayı da aldı.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps",
-    "ts": 1793586655000,
+    "t": "Citi Cuts Lithium Forecasts on Worsening Battery Demand Outlook",
+    "tt": null,
+    "s": "Citigroup Inc. cut its price targets for lithium for the next two years, citing concerns over a slowdown in battery demand growth, rising trade uncertainty and broader macroeconomic headwinds.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/citi-cuts-lithium-forecasts-on-worsening-battery-demand-outlook",
+    "ts": 1793592204000,
     "tags": []
    },
    {
-    "t": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
-    "tt": "PBOC, Politika Çıpa Değişimi Nedeniyle Gecelik Ters Repo Yapıyor",
-    "s": "China’s central bank launched daily overnight reverse repurchase operations on Monday, kicking off a revamped liquidity framework that establishes the short-term tool as its primary policy anchor.",
-    "ss": "Çin merkez bankası Pazartesi günü günlük gecelik ters geri alım operasyonlarını başlattı ve kısa vadeli aracı temel politika dayanağı olarak belirleyen yenilenmiş bir likidite çerçevesini başlattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
-    "ts": 1793583559000,
+    "t": "Chinese Steel Group Chides Mills for Ignoring Output Curb Calls",
+    "tt": null,
+    "s": "Some Chinese steel mills have ignored calls to curb output and reduce inventories, leaving the sector oversupplied and struggling for profitability, according to a commentary published by the industry’s main association.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/chinese-steel-group-chides-mills-for-ignoring-output-curb-calls",
+    "ts": 1793592181000,
     "tags": []
    },
    {
-    "t": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
-    "tt": "Japon Hisse Senetleri, Kioxia'nın Kâr Görünümü Olan Teknoloji Satışları Nedeniyle Düştü",
-    "s": "Japanese stocks fell, with technology shares taking a hit from a steep selloff in their US peers, while chipmaker Kioxia Holdings Corp. slumped after a disappointing profit outlook.",
-    "ss": "Japon hisseleri, teknoloji hisselerinin ABD'deki sert satışlardan darbe almasıyla düşerken, çip üreticisi Kioxia Holdings Corp. da hayal kırıklığı yaratan bir kâr görünümünün ardından düşmeye hazırlanıyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
-    "ts": 1793578520000,
+    "t": "Emerging-Market FX Slips as Traders Await Iran Progress, US Data",
+    "tt": null,
+    "s": "Emerging-market currencies fell as investors weighed lingering Middle East tensions and awaited US economic data later this week.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
+    "ts": 1793591768000,
     "tags": []
    },
    {
-    "t": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
-    "tt": "Westpac CEO'sunun Maaşları Arttı, Kar Analistlerin Tahminlerini Tutamadı",
-    "s": "Westpac Banking Corp. Chief Executive Officer Anthony Miller’s pay surged to A$7.5 million ($5.3 million), despite profit missing expectations and the lender flagging an uncertain outlook for Australia’s economy.",
-    "ss": "Westpac Banking Corp. İcra Kurulu Başkanı Anthony Miller'ın maaşı, kâr beklentilerinde düşüş olmasına ve borç verenin Avustralya ekonomisi için belirsiz bir görünüm sergilemesine rağmen 7,5 milyon A$'na (5,3 milyon $) yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
-    "ts": 1793565670000,
+    "t": "Coal India Unit South Eastern Coalfields Files for India IPO",
+    "tt": null,
+    "s": "South Eastern Coalfields Ltd., a unit of state-run Coal India Ltd., has filed a draft prospectus with India’s markets regulator for an initial public offering.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/coal-india-unit-south-eastern-coalfields-files-for-india-ipo-mvypw49t",
+    "ts": 1793591200000,
     "tags": []
    },
    {
-    "t": "China Reportedly Discusses Ways to Support Stocks With Banks",
-    "tt": "Raporlara göre Çin, Borsayı Destekleme Konulu Toplantı Düzenleyecek",
-    "s": "China’s financial regulators will hold a meeting with banks and securities firms Monday to discuss measures to support the capital market, signaling authorities’ renewed effort to halt the slump in Chinese stocks.",
-    "ss": "Yerel basında çıkan haberlere göre, Çin merkez bankası ve menkul kıymetler düzenleyicisi, ülkenin sermaye piyasasını desteklemek için tasarlanan araçların kullanımını tartışmak üzere Pazartesi günü bir toplantı yapacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-    "ts": 1793527729000,
+    "t": "Indonesia Court Voids VP’s High-School Equivalency Certificate",
+    "tt": null,
+    "s": "Indonesia’s Supreme Court invalidated a high-school equivalency certificate submitted by Vice President Gibran Rakabuming Raka as part of his candidacy in the 2024 election, raising questions about his ability to remain in office or run again in 2029.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/indonesia-court-voids-vp-s-high-school-equivalency-certificate",
+    "ts": 1793591079000,
     "tags": []
    },
    {
-    "t": "Japan’s Katayama Says Ready to Act for Stable FX Market",
-    "tt": "Japon Katayama, İstikrarlı Döviz Piyasası İçin Harekete Geçmeye Hazır Olduğunu Söyledi",
-    "s": "Japanese authorities are prepared to respond if currency market movements become disorderly, acting in accordance with a standing pact with her US counterpart, Finance Minister Satsuki Katayama said, one day before the US holds its midterm elections.",
-    "ss": "Maliye Bakanı Satsuki Katayama, ABD'de ara seçimlerin yapılmasından bir gün önce yaptığı açıklamada, Japon yetkililerin ABD'li mevkidaşı ile mevcut bir anlaşma uyarınca hareket ederek döviz piyasası hareketlerinin düzensiz hale gelmesi durumunda yanıt vermeye hazır olduklarını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
-    "ts": 1793581769000,
+    "t": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
+    "tt": null,
+    "s": "Gold rose, as lower oil prices offered some respite from inflationary pressures and dip buyers were drawn by the metal’s slide Friday to the lowest in a year.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+    "ts": 1793577816000,
     "tags": []
    }
   ],
@@ -649,7 +643,7 @@
   ],
   "MarketWatch": [
    {
-    "t": "If you really want to help your adult kids and grandkids, give them money while you’re still alive",
+    "t": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
     "tt": "Yetişkin çocuklarınıza ve torunlarınıza gerçekten yardım etmek istiyorsanız, onlara hâlâ hayattayken para verin.",
     "s": "How to manage “giving while living” without endangering your own retirement.",
     "ss": "Kendi emekliliğinizi tehlikeye atmadan \"yaşarken vermeyi\" nasıl yönetebilirsiniz?",
@@ -741,6 +735,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Why Are So Many Countries Suddenly Warning Their Citizens To Prepare For An Emergency And Stockpile Essential Survival Supplies?",
+    "tt": null,
+    "s": "Why Are So Many Countries Suddenly Warning Their Citizens To Prepare For An Emergency And Stockpile Essential Survival Supplies? Authored by Michael Snyder via The Economic Collapse , What in the world is going on? Why are governments all over the planet suddenly encouraging their citizens to become",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/why-are-so-many-countries-suddenly-warning-their-citizens-prepare-emergency-and",
+    "ts": 1793593200000,
+    "tags": []
+   },
+   {
+    "t": "Chinese Company Develops $1,000 AI-Powered Laser System To Kill Mosquitoes",
+    "tt": null,
+    "s": "Chinese Company Develops $1,000 AI-Powered Laser System To Kill Mosquitoes A Chinese startup claims it has developed a $1,000 machine capable of hunting mosquitoes with artificial intelligence and shooting them down with a laser, bringing a futuristic approach to an age-old household nuisance, accor",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/chinese-company-develops-1000-ai-powered-laser-system-kill-mosquitoes",
+    "ts": 1793591700000,
+    "tags": []
+   },
+   {
     "t": "DOJ Uncovers $29M More In Minnesota Benefits Fraud, Calls State 'Epicenter For Fraud In America'",
     "tt": "DOJ, Minnesota Faydaları Dolandırıcılığında 29 Milyon Dolar Daha Fazlasını Ortaya Çıkardı ve Eyaleti 'Amerika'daki Dolandırıcılığın Merkez Üssü' Olarak Çağırdı",
     "s": "DOJ Uncovers $29M More In Minnesota Benefits Fraud, Calls State 'Epicenter For Fraud In America' Authored by Naveen Athrappully via The Epoch Times , The Department of Justice (DOJ) announced it identified roughly $29.1 million in government benefits fraud in Minnesota over a one-month period . Betw",
@@ -811,27 +823,45 @@
     "u": "https://www.zerohedge.com/geopolitical/treasury-uncovers-8-billion-suspicious-foreign-directed-wire-payments-bessent",
     "ts": 1793576700000,
     "tags": []
-   },
-   {
-    "t": "\"The Pope Doesn't Take Sides\": Should A Foreign Head Of State Be Able To Vote In United States Elections?",
-    "tt": "\"Papa Taraf Tutmuyor\": Yabancı Bir Devlet Başkanı Amerika Birleşik Devletleri Seçimlerinde Oy Kullanmalı mı?",
-    "s": "\"The Pope Doesn't Take Sides\": Should A Foreign Head Of State Be Able To Vote In United States Elections? Authored by Jonathan Turley via Jonathan Turley , \"So, the Pope doesn't take sides. Prevost has another opinion, but we won't do that now.\" That funny quip from Pope Leo XIV (born Robert Prevost",
-    "ss": "\"Papa Taraf Tutmuyor\": Yabancı Bir Devlet Başkanı Amerika Birleşik Devletleri Seçimlerinde Oy Kullanmalı mı? Jonathan Turley tarafından Jonathan Turley aracılığıyla yazılmıştır, \"Yani Papa taraf tutmuyor. Prevost'un başka bir görüşü var ama biz bunu şimdi yapmayacağız.\" Papa Leo XIV'in (doğum adı Robert Prevost) bu komik esprisi",
-    "u": "https://www.zerohedge.com/political/pope-doesnt-take-sides-should-foreign-head-state-be-able-vote-united-states-elections",
-    "ts": 1793573700000,
-    "tags": []
-   },
-   {
-    "t": "Nikola Founder Trevor Milton Drops Lawsuit Against FBI Agent 17 Days After Filing",
-    "tt": "Nikola Kurucusu Trevor Milton, FBI Ajanına Karşı Davayı Açtıktan 17 Gün Sonra Geri Çekti",
-    "s": "Nikola Founder Trevor Milton Drops Lawsuit Against FBI Agent 17 Days After Filing Former Nikola founder Trevor Milton has withdrawn a lawsuit against FBI agent Christopher Essick and Nikola whistleblower Paul Lackey just 17 days after filing it. On October 30, Milton’s attorneys filed a voluntary di",
-    "ss": "Nikola'nın Kurucusu Trevor Milton, FBI Ajanına Karşı Davayı Açtıktan 17 Gün Sonra Geri Çekti Eski Nikola'nın kurucusu Trevor Milton, FBI ajanı Christopher Essick ve Nikola'yı ihbar eden Paul Lackey'e karşı açtığı davayı, açtıktan sadece 17 gün sonra geri çekti. 30 Ekim'de Milton'ın avukatları gönüllü bir savunma dilekçesi sundular.",
-    "u": "https://www.zerohedge.com/markets/nikola-founder-trevor-milton-drops-lawsuit-against-fbi-agent-17-days-after-filing",
-    "ts": 1793572200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "WSJ: ABD, Rus gazı için baskı yapıyor",
+    "tt": null,
+    "s": "Wall Street Journal'ın haberine göre, ABD'li yetkililer, Rusya'nın Ukrayna üzerinden geçen boru hatları vasıtasıyla Avrupa'ya doğalgaz satışını yeniden başlatmasına yönelik bir planı destekliyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/wsj-abd-rus-gazi-icin-baski-yapiyor-3793010",
+    "ts": 1793593747000,
+    "tags": []
+   },
+   {
+    "t": "Çin'de fabrika faaliyetlerinde yatay seyir",
+    "tt": null,
+    "s": "Çin'in imalat sektörü faaliyeti Temmuz ayından bu yana ilk kez daha yavaş bir hızda genişledi ancak yatay seyrini korudu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-de-fabrika-faaliyetlerinde-yatay-seyir-3793009",
+    "ts": 1793592620000,
+    "tags": []
+   },
+   {
+    "t": "Goldman, arz riskleri nedeniyle petrol fiyatı tahminlerini yükseltti",
+    "tt": null,
+    "s": "Goldman Sachs, arz üzerindeki artan riskler nedeniyle yıl sonu ve 2027 yılına ilişkin petrol fiyatı tahminlerini yükseltti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/goldman-arz-riskleri-nedeniyle-petrol-fiyati-tahminlerini-yukseltti-3793008",
+    "ts": 1793591070000,
+    "tags": []
+   },
+   {
+    "t": "Altın, bir yılın en düşük seviyesinden toparlandı",
+    "tt": null,
+    "s": "Altın fiyatları cuma günü bir yılın en düşük seviyesine gerilemesinin ardından tekrar toparlandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altin-bir-yilin-en-dusuk-seviyesinden-toparlandi-3793007",
+    "ts": 1793590142000,
+    "tags": []
+   },
    {
     "t": "Petrol fiyatları diplomasi umuduyla düştü",
     "tt": null,
@@ -885,42 +915,6 @@
     "u": "https://www.bloomberght.com/abd-deki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor-3793001",
     "ts": 1793541803000,
     "tags": []
-   },
-   {
-    "t": "İstanbul'da aylık enflasyon Ekim'de hızlandı",
-    "tt": null,
-    "s": "İstanbul Ticaret Odası'nın (İTO) açıkladığı verilere göre, İstanbul'da Ekim ayında perakende fiyatlar aylık yüzde 2,47 artarken, yıllık bazda ise yüzde 32,47 oldu. Önceki ay aylık enflasyon yüzde 1,66, yıllık enflasyon yüzde 34,96 olmuştu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/istanbulda-aylik-enflasyon-ekim-de-hizlandi-3793000",
-    "ts": 1793528822000,
-    "tags": []
-   },
-   {
-    "t": "TOBB Nefes Kredisi'nde yeni dilim başvuruları 3 Kasım'da başlayacak",
-    "tt": null,
-    "s": "Türkiye Odalar ve Borsalar Birliği (TOBB) Nefes Kredisi başvuruları 3 Kasım itibarıyla yeniden başlayacak, krediler 6 ay anapara ödemesiz dönem dahil azami 48 ay vadeli olacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tobb-nefes-kredisi-nde-yeni-dilim-basvurulari-3-kasim-da-baslayacak-3792999",
-    "ts": 1793527986000,
-    "tags": []
-   },
-   {
-    "t": "Küresel piyasaların radarında ABD'deki ara seçimler var",
-    "tt": null,
-    "s": "ABD'de 3 Kasım'da gerçekleşecek Kongre ara seçimlerinden çıkacak sonucun gelecek hafta piyasalar üzerinde etkili olması öngörülüyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-piyasalarin-radarinda-abd-deki-ara-secimler-var-3792998",
-    "ts": 1793526933000,
-    "tags": []
-   },
-   {
-    "t": "FBI, kripto hırsızlığından Kuzey Kore'yi sorumlu tuttu",
-    "tt": null,
-    "s": "ABD Federal Soruşturma Bürosu (FBI), Kuzey Kore'yi, kripto para borsası Binance'den 6,3 milyar dolar değerinde dijital varlık çalmakla suçladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fbi-kripto-hirsizligindan-kuzey-kore-yi-sorumlu-tuttu-3792997",
-    "ts": 1793518616000,
-    "tags": []
    }
   ]
  },
@@ -936,6 +930,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
