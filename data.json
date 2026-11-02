@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T04:34:17.664959+00:00",
+ "generated": "2026-11-02T05:33:49.141754+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3914.9,
-   "c": 0.41,
-   "d": 16.0,
+   "p": 3916.6,
+   "c": 0.45,
+   "d": 17.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.12,
-   "c": 2.08,
-   "d": 1.023,
+   "p": 50.255,
+   "c": 2.36,
+   "d": 1.158,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 100.58,
-   "c": -3.4,
-   "d": -3.54,
+   "p": 100.41,
+   "c": -3.56,
+   "d": -3.71,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 109.72,
-   "c": -6.73,
-   "d": -7.92,
+   "p": 109.75,
+   "c": -6.71,
+   "d": -7.89,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.915,
-   "c": 0.03,
-   "d": 0.035,
+   "p": 101.825,
+   "c": -0.05,
+   "d": -0.055,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9552,
-   "c": 0.02,
-   "d": 0.012,
+   "p": 49.9654,
+   "c": 0.05,
+   "d": 0.023,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 78566,
-   "c": 1.08,
+   "p": 78270,
+   "c": 0.66,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2305.36,
-   "c": 1.75,
+   "p": 2289.9,
+   "c": 0.98,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.4,
-   "c": -0.09,
+   "p": 94.74,
+   "c": -0.86,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.26,
-   "c": 0.58,
+   "p": 1.25,
+   "c": -0.05,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 713.13,
-   "c": 1.19,
+   "p": 709.78,
+   "c": 0.65,
    "k": "usd"
   }
  ],
@@ -454,18 +454,9 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Japanese Stocks Mixed on Domestic Earnings, Ahead of US Midterms",
-    "tt": "Japon Hisse Senetleri, Kioxia'nın Kâr Görünümü Olan Teknoloji Satışları Nedeniyle Düştü",
-    "s": "Japanese stocks were mixed, with investors assessing individual earnings in Japan while remaining on the sidelines as they await the US midterm elections this week.",
-    "ss": "Japon hisseleri, teknoloji hisselerinin ABD'deki sert satışlardan darbe almasıyla düşerken, çip üreticisi Kioxia Holdings Corp. da hayal kırıklığı yaratan bir kâr görünümünün ardından düşmeye hazırlanıyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
-    "ts": 1793578520000,
-    "tags": []
-   },
-   {
-    "t": "Most Asian Stocks Rise With US Futures, Oil Falls: Markets Wrap",
+    "t": "Most Asian Stocks Gain With US Futures, Oil Falls: Markets Wrap",
     "tt": "Asya Hisse Senetleri, Tech Rout'un Yapay Zeka Korkularını Artırmasıyla Düşecek: Piyasalar Sarılıyor",
-    "s": "Most Asian stocks rose with US equity futures as investors recovered their risk appetite following last week’s slump in tech shares. Oil fell.",
+    "s": "Most Asian stocks rose with US equity futures as risk appetite stabilized following last week’s slump in tech shares. Oil fell.",
     "ss": "Asya hisse senetleri, teknoloji hisselerindeki sert düşüşün yapay zekadaki yükselişin çok ileri gitmiş olabileceği yönündeki endişeleri derinleştirmesi nedeniyle Cuma günkü Wall Street'teki sert satışın ardından düşmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
     "ts": 1793568484000,
@@ -477,75 +468,87 @@
     ]
    },
    {
-    "t": "Reliance Shares Hit Nine-Month High as Iran War Boosts Refining",
-    "tt": null,
-    "s": "Shares of Reliance Industries Ltd. rallied the most in nine months after earnings from India’s most valuable company beat analyst estimates, driven by a strong performance in its oil-to-chemicals business.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/reliance-industries-surges-most-in-nine-months-on-earnings-beat",
-    "ts": 1793591691000,
+    "t": "Latest Oil Market News and Analysis for Nov. 2",
+    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.",
+    "ss": "Petrol fiyatları, ABD Başkanı Donald Trump'ın Salı günkü ara seçimlerin ardından olası saldırılara devam etmeden önce İran'la diplomasiye daha fazla zaman vermek istediğini belirten bir raporun ardından düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+    "ts": 1793574710000,
     "tags": []
    },
    {
-    "t": "Tokyo, Chubu Power Price Hit Multi-Year High as Fuel Costs Climb",
-    "tt": null,
-    "s": "Japan’s spot power prices surged at the weekend, with elevated fuel costs driving rates in major electricity-consuming regions Tokyo and Chubu to multi-year highs.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/tokyo-chubu-power-price-hit-multi-year-high-as-fuel-costs-climb",
-    "ts": 1793592540000,
+    "t": "NY’s MTA Could Save $2.5 Billion With Faster Buses, Expense Cuts",
+    "tt": "NY'li MTA, Daha Hızlı Otobüsler ve Gider Kesintileriyle 2,5 Milyar Dolar Tasarruf Sağlayabilir",
+    "s": "New York’s Metropolitan Transportation Authority could save up to $2.5 billion each year through operational improvements, faster buses and getting current and retired employees to pay more for their health insurance coverage, according to a fiscal watchdog group.",
+    "ss": "Bir mali gözlemci grubuna göre, New York Metropolitan Ulaşım Otoritesi operasyonel iyileştirmeler, daha hızlı otobüsler ve mevcut ve emekli çalışanların sağlık sigortaları için daha fazla ödeme yapmalarını sağlayarak her yıl 2,5 milyar dolara kadar tasarruf sağlayabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/ny-s-mta-could-save-2-5-billion-with-faster-buses-expense-cuts",
+    "ts": 1793595660000,
     "tags": []
    },
    {
-    "t": "Citi Cuts Lithium Forecasts on Worsening Battery Demand Outlook",
-    "tt": null,
-    "s": "Citigroup Inc. cut its price targets for lithium for the next two years, citing concerns over a slowdown in battery demand growth, rising trade uncertainty and broader macroeconomic headwinds.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/citi-cuts-lithium-forecasts-on-worsening-battery-demand-outlook",
-    "ts": 1793592204000,
+    "t": "The Icelandic DNA Behind Amgen’s Hunt for the Next Ozempic",
+    "tt": "Amgen'in Bir Sonraki Ozempic Avının Arkasındaki İzlanda DNA'sı",
+    "s": "Amgen's best chance at breaking into the high-stakes obesity drug market got its start in a basement at the University of Iceland Science Park in Reykjavík, in a freezer chilled to minus-13 degrees Fahrenheit. Bloomberg's Madison Muller explains. (Source: Bloomberg)",
+    "ss": "Amgen'in yüksek riskli obezite ilacı pazarına girme şansı, Reykjavík'teki İzlanda Üniversitesi Bilim Parkı'nın bodrum katında, eksi -13 Fahrenheit dereceye kadar soğutulmuş bir dondurucuda başladı. Bloomberg'den Madison Muller açıklıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/the-icelandic-dna-behind-amgen-s-hunt-for-the-next-ozempic",
+    "ts": 1793595619000,
     "tags": []
    },
    {
-    "t": "Chinese Steel Group Chides Mills for Ignoring Output Curb Calls",
-    "tt": null,
-    "s": "Some Chinese steel mills have ignored calls to curb output and reduce inventories, leaving the sector oversupplied and struggling for profitability, according to a commentary published by the industry’s main association.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/chinese-steel-group-chides-mills-for-ignoring-output-curb-calls",
-    "ts": 1793592181000,
+    "t": "South Africa’s Low-Key Municipal Polls Pose Risks for Investors",
+    "tt": "Güney Afrika'nın Düşük Anahtarlı Belediye Anketleri Yatırımcılar İçin Risk Oluşturuyor",
+    "s": "South Africa’s nationwide municipal elections on Wednesday hold few fears for investors, if market indicators are anything to go by. But shifts in broad support for the major political parties could provide a read on the future of the governing coalition that has steered the country’s fiscal and eco",
+    "ss": "Piyasa göstergeleri dikkate alınırsa, Güney Afrika'da Çarşamba günü ülke çapında yapılacak belediye seçimleri yatırımcılar için pek fazla korku taşımıyor. Ancak büyük siyasi partilere verilen geniş destekteki değişiklikler, ülkenin mali ve eko sektörünü yönlendiren iktidardaki koalisyonun geleceği hakkında bir fikir verebilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/south-africa-s-low-key-municipal-polls-pose-risks-for-investors",
+    "ts": 1793595600000,
     "tags": []
    },
    {
-    "t": "Emerging-Market FX Slips as Traders Await Iran Progress, US Data",
-    "tt": null,
-    "s": "Emerging-market currencies fell as investors weighed lingering Middle East tensions and awaited US economic data later this week.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/emerging-market-fx-slips-as-traders-await-iran-progress-us-data",
-    "ts": 1793591768000,
+    "t": "US Gulf Allies Confront Escalation Fears",
+    "tt": "ABD Körfez Müttefikleri Gerilme Korkularıyla Karşı Karşıya",
+    "s": "Bloomberg's Jon Herskovitz details Donald Trump’s dual-track Iran strategy, balancing regional diplomatic talks against a US military buildup. Meanwhile, Gulf allies fear renewed strikes could trigger severe Iranian retaliation against critical energy infrastructure. (Source: Bloomberg)",
+    "ss": "Bloomberg'den Jon Herskovitz, Donald Trump'ın bölgesel diplomatik görüşmeleri ABD askeri takviyesine karşı dengeleyen çift yönlü İran stratejisini ayrıntılarıyla anlatıyor. Bu arada Körfez müttefikleri, yenilenen saldırıların İran'ın kritik enerji altyapısına karşı şiddetli misillemesini tetikleyebileceğinden korkuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/us-gulf-allies-confront-escalation-fears-video",
+    "ts": 1793595273000,
     "tags": []
    },
    {
-    "t": "Coal India Unit South Eastern Coalfields Files for India IPO",
-    "tt": null,
-    "s": "South Eastern Coalfields Ltd., a unit of state-run Coal India Ltd., has filed a draft prospectus with India’s markets regulator for an initial public offering.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/coal-india-unit-south-eastern-coalfields-files-for-india-ipo-mvypw49t",
-    "ts": 1793591200000,
+    "t": "Binance Details $3.6 Billion in Net Outflows",
+    "tt": "Binance, 3,6 Milyar Dolarlık Net Çıkışın Detaylarını Paylaştı",
+    "s": "Binance posted a net outflow of $3.6 billion in cryptoassets after restoring customer withdrawals on Sunday, following the largest cyber theft in history attributed to North Korean hackers. Bloomberg's Suvashree Ghosh breaks down the latest developments. (Source: Bloomberg)",
+    "ss": "Binance, Kuzey Koreli bilgisayar korsanlarının gerçekleştirdiği tarihteki en büyük siber hırsızlığın ardından, Pazar günü müşteri çekimlerini yeniden başlattıktan sonra kripto varlıklarda 3,6 milyar dolarlık net çıkış bildirdi. Bloomberg'den Suvashree Ghosh son gelişmeleri aktarıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/binance-details-3-6-billion-in-net-outflows-video",
+    "ts": 1793595139000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "NSE Shares Win Wall Street Backing After Muted Trading Debut",
+    "tt": "NSE Hisseleri Sessiz İşleme Çıkışından Sonra Wall Street Desteğini Kazandı",
+    "s": "The National Stock Exchange of India Ltd. is winning bullish backing from Wall Street brokers, as they expect the bourse’s dominance to gain in India’s deepening capital markets.",
+    "ss": "National Stock Exchange of India Ltd., Hindistan'ın derinleşen sermaye piyasalarında borsanın hakimiyetinin artmasını bekledikleri için Wall Street brokerlarından yükseliş desteği alıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/nse-shares-win-wall-street-backing-after-muted-trading-debut",
+    "ts": 1793594924000,
     "tags": []
    },
    {
-    "t": "Indonesia Court Voids VP’s High-School Equivalency Certificate",
-    "tt": null,
-    "s": "Indonesia’s Supreme Court invalidated a high-school equivalency certificate submitted by Vice President Gibran Rakabuming Raka as part of his candidacy in the 2024 election, raising questions about his ability to remain in office or run again in 2029.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/indonesia-court-voids-vp-s-high-school-equivalency-certificate",
-    "ts": 1793591079000,
+    "t": "China Stocks Rise on Reports of Market Support Measures",
+    "tt": "Çin Hisse Senetleri Piyasa Destek Tedbirleri Raporuyla Yükseldi",
+    "s": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: B",
+    "ss": "“Bloomberg: The China Show” dünyanın ikinci büyük ekonomisine ilişkin haber ve analizler için eksiksiz kaynağınızdır. Yvonne Man ve David Ingles, politika ve politikadan teknoloji ve trendlere kadar küresel yatırımcılara benzersiz bilgiler vererek önemli haber yapıcılarla derinlemesine tartışmalar gerçekleştiriyor. (Kaynak: B",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/the-china-show-11-02-2026-video",
+    "ts": 1793594733000,
     "tags": []
    },
    {
-    "t": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
-    "tt": null,
-    "s": "Gold rose, as lower oil prices offered some respite from inflationary pressures and dip buyers were drawn by the metal’s slide Friday to the lowest in a year.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-    "ts": 1793577816000,
+    "t": "Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears",
+    "tt": "Bakır, Teknolojinin Rahatsızlığı ve Petrolün Yavaşlayan Büyüme Korkuları ile Toparlanıyor",
+    "s": "Copper rebounded from its lowest close in a week as a rout in technology stocks subsided and oil prices pulled back, easing fears around global growth.",
+    "ss": "Bakır, teknoloji hisselerindeki düşüşün azalması ve petrol fiyatlarının gerileyerek küresel büyümeye ilişkin korkuları hafifletmesiyle bir haftanın en düşük kapanışından toparlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/copper-recovers-as-easing-tech-rout-lower-oil-calm-growth-fears",
+    "ts": 1793594677000,
     "tags": []
    }
   ],
@@ -736,18 +739,18 @@
   "ZeroHedge": [
    {
     "t": "Why Are So Many Countries Suddenly Warning Their Citizens To Prepare For An Emergency And Stockpile Essential Survival Supplies?",
-    "tt": null,
+    "tt": "Neden Pek Çok Ülke Vatandaşlarını Acil Durumlara Hazırlanmaları ve Temel Hayatta Kalma Malzemeleri Stoklamaları konusunda Aniden Uyarıyor?",
     "s": "Why Are So Many Countries Suddenly Warning Their Citizens To Prepare For An Emergency And Stockpile Essential Survival Supplies? Authored by Michael Snyder via The Economic Collapse , What in the world is going on? Why are governments all over the planet suddenly encouraging their citizens to become",
-    "ss": null,
+    "ss": "Neden Pek Çok Ülke Vatandaşlarını Acil Durumlara Hazırlanmaları ve Temel Hayatta Kalma Malzemeleri Stoklamaları konusunda Aniden Uyarıyor? Michael Snyder tarafından Ekonomik Çöküş aracılığıyla yazılmıştır. Dünyada neler oluyor? Neden gezegenin her yerindeki hükümetler vatandaşlarını birdenbire olmaya teşvik ediyor?",
     "u": "https://www.zerohedge.com/geopolitical/why-are-so-many-countries-suddenly-warning-their-citizens-prepare-emergency-and",
     "ts": 1793593200000,
     "tags": []
    },
    {
     "t": "Chinese Company Develops $1,000 AI-Powered Laser System To Kill Mosquitoes",
-    "tt": null,
+    "tt": "Çinli Şirket Sivrisinekleri Öldürmek İçin 1.000 Dolarlık Yapay Zeka Destekli Lazer Sistemi Geliştiriyor",
     "s": "Chinese Company Develops $1,000 AI-Powered Laser System To Kill Mosquitoes A Chinese startup claims it has developed a $1,000 machine capable of hunting mosquitoes with artificial intelligence and shooting them down with a laser, bringing a futuristic approach to an age-old household nuisance, accor",
-    "ss": null,
+    "ss": "Çinli Şirket, Sivrisinekleri Öldürmek İçin 1.000 Dolarlık Yapay Zeka Destekli Lazer Sistemi Geliştiriyor Çinli bir startup, sivrisinekleri yapay zekayla avlayabilen ve onları lazerle vurabilen 1.000 dolarlık bir makine geliştirdiğini iddia ediyor.",
     "u": "https://www.zerohedge.com/markets/chinese-company-develops-1000-ai-powered-laser-system-kill-mosquitoes",
     "ts": 1793591700000,
     "tags": []
@@ -827,6 +830,33 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "\"Ara seçim düşüşü S&P 500'de alım fırsatı yaratabilir\"",
+    "tt": null,
+    "s": "Morgan Stanley ABD Hisse Senedi Başstratejisti Mike Wilson'a göre ABD ara seçimleri, yapay zeka harcamalarına ilişkin endişeler ve likidite kısıtları S&amp;P 500'ü son rekorundan yaklaşık yüzde 9 aşağı çekerek 7.100 seviyesine indirebilir.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/morgan-stanley-ara-secim-dususu-s-p-500de-alim-firsati-yaratabilir-3793013",
+    "ts": 1793596733000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de tahvil ihraçlarında oyun planı değişikliği gündemde",
+    "tt": null,
+    "s": "ABD Hazinesi uzun vadeli tahvil satışlarını azaltıp kısa vadeli borçlanmaya daha fazla ağırlık verebilecek bir strateji değişikliğine hazırlanıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-tahvil-ihraclarinda-oyun-plani-degisikligi-gundemde-3793012",
+    "ts": 1793596593000,
+    "tags": []
+   },
+   {
+    "t": "Bakır fiyatlarında üç haftalık gerilemenin ardından yükseliş",
+    "tt": null,
+    "s": "Bakır fiyatları, teknoloji hisselerindeki sert düşüşün yatışmasının ve petrol fiyatlarının gerilemesinin küresel büyümeye ilişkin endişeleri hafifletmesiyle bir haftanın en düşük kapanış seviyesinden toparlandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bakir-fiyatlari-bir-haftanin-en-dusuk-seviyesinden-toparlandi-3793011",
+    "ts": 1793595678000,
+    "tags": []
+   },
+   {
     "t": "WSJ: ABD, Rus gazı için baskı yapıyor",
     "tt": null,
     "s": "Wall Street Journal'ın haberine göre, ABD'li yetkililer, Rusya'nın Ukrayna üzerinden geçen boru hatları vasıtasıyla Avrupa'ya doğalgaz satışını yeniden başlatmasına yönelik bir planı destekliyor.",
@@ -888,33 +918,6 @@
     "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-02112026-3793004",
     "ts": 1793587745000,
     "tags": []
-   },
-   {
-    "t": "Borsa İstanbul Genel Müdürlüğü'ne vekaleten Atila Türeli getirildi",
-    "tt": null,
-    "s": "Borsa İstanbul A.Ş. Genel Müdürlüğü görevine vekaleten Borsa İstanbul A.Ş. Genel Müdür Yardımcısı Atila Türeli getirildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/borsa-istanbul-genel-mudurlugu-ne-vekaleten-atama-3793003",
-    "ts": 1793544193000,
-    "tags": []
-   },
-   {
-    "t": "Türkiye'nin 'aklı' yurt dışında",
-    "tt": null,
-    "s": "TÜİK'in açıkladığı verilere göre beyin göçü, veri setinin tutulduğu 2015 yılından bu yana görülen en yüksek seviyeye çıktı. Gençler eğitimlerini tamamladıktan sonra kariyerlerini yurt dışında devam ettirme konusunda oldukça hevesli. Ancak sürecin bu şekilde devam etmesi Türkiye'deki yetenek açığını ",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiyenin-akli-yurt-disinda-3793002",
-    "ts": 1793542259000,
-    "tags": []
-   },
-   {
-    "t": "ABD'deki Kongre ara seçimleri yaklaşırken anketlerdeki tablo netleşiyor",
-    "tt": null,
-    "s": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimleri yaklaşırken, anketlerin ortaya koyduğu tablo da netleşmeye başladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-deki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor-3793001",
-    "ts": 1793541803000,
-    "tags": []
    }
   ]
  },
@@ -930,7 +933,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
