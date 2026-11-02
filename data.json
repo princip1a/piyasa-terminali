@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T02:40:01.402364+00:00",
+ "generated": "2026-11-02T03:30:15.152950+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3921.5,
-   "c": 0.58,
-   "d": 22.6,
+   "p": 3908.3,
+   "c": 0.24,
+   "d": 9.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.03,
-   "c": 1.9,
-   "d": 0.933,
+   "p": 50.01,
+   "c": 1.86,
+   "d": 0.913,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 101.16,
-   "c": -2.84,
-   "d": -2.96,
+   "p": 100.95,
+   "c": -3.04,
+   "d": -3.17,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 110.57,
-   "c": -6.01,
-   "d": -7.07,
+   "p": 110.2,
+   "c": -6.32,
+   "d": -7.44,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.98,
-   "c": 0.1,
-   "d": 0.1,
+   "p": 101.958,
+   "c": 0.08,
+   "d": 0.078,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.966,
+   "p": 49.9657,
    "c": 0.05,
    "d": 0.023,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 78421,
-   "c": 1.02,
+   "p": 78534,
+   "c": 1.09,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2290.46,
-   "c": 1.15,
+   "p": 2306.68,
+   "c": 1.72,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.85,
-   "c": -0.55,
+   "p": 95.45,
+   "c": -0.06,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.25,
-   "c": 0.38,
+   "p": 1.26,
+   "c": 0.8,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 711.6,
-   "c": 1.41,
+   "p": 714.72,
+   "c": 1.69,
    "k": "usd"
   }
  ],
@@ -454,6 +454,53 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Weak China PMIs Spark Fresh Stimulus Bets",
+    "tt": "Zayıf Çin PMI'ları Yeni Teşvik Bahislerini Ateşledi",
+    "s": "Bloomberg's Minmin Low breaks down why developments in China’s official manufacturing gauge are fueling expectations for another PBOC interest rate cut. (Source: Bloomberg)",
+    "ss": "Bloomberg'den Minmin Low, Çin'in resmi imalat göstergesindeki gelişmelerin neden PBOC'nin başka bir faiz indirimi beklentilerini artırdığını açıklıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/weak-china-pmis-spark-fresh-stimulus-bets-video",
+    "ts": 1793590087000,
+    "tags": [
+     "DXY ▼",
+     "Altın ▲",
+     "Gümüş ▲",
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Stock Selloff Eases in Asian Trade, Crude Falls: Markets Wrap",
+    "tt": "Asya Hisse Senetleri, Tech Rout'un Yapay Zeka Korkularını Artırmasıyla Düşecek: Piyasalar Sarılıyor",
+    "s": "A selloff in stocks eased during Asian trading on Monday as regional equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
+    "ss": "Asya hisse senetleri, teknoloji hisselerindeki sert düşüşün yapay zekadaki yükselişin çok ileri gitmiş olabileceği yönündeki endişeleri derinleştirmesi nedeniyle Cuma günkü Wall Street'teki sert satışın ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793568484000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 2",
+    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil declined after a report said US President Donald Trump wants to give diplomacy with Iran more time before potentially resuming strikes following Tuesday’s midterm elections.",
+    "ss": "Petrol fiyatları, ABD Başkanı Donald Trump'ın Salı günkü ara seçimlerin ardından İran'a yönelik saldırıların devam edip etmeyeceğine karar vermeden önce diplomasiye daha fazla zaman vermek istediğini belirten bir raporun ardından düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+    "ts": 1793574710000,
+    "tags": []
+   },
+   {
+    "t": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
+    "tt": "Yabancılar AI Rout'la Tayvan Hisse Senetlerinden Rekor Çekildi",
+    "s": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
+    "ss": "Tayvan hisse senetlerinden yabancı çıkışlar, yapay zeka oyunlarındaki küresel satışların adanın gösterge endeksini teknik düzeltmeye yaklaştırmasıyla Ekim ayında rekor seviyeye ulaştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
+    "ts": 1793581227000,
+    "tags": []
+   },
+   {
     "t": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
     "tt": "Küresel Yapay Zeka Satışı ve Küçük Sermaye Ağrısı Yatırımcıları Hindistan Büyük Sermayelerine Yönlendiriyor",
     "s": "Software services exporters claim all five top spots in the large-cap index in October.",
@@ -481,35 +528,12 @@
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 2",
-    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil dropped after a report said US President Donald Trump wants to give diplomacy more time before deciding whether to resume strikes on Iran following Tuesday’s midterm elections.",
-    "ss": "Petrol fiyatları, ABD Başkanı Donald Trump'ın Salı günkü ara seçimlerin ardından İran'a yönelik saldırıların devam edip etmeyeceğine karar vermeden önce diplomasiye daha fazla zaman vermek istediğini belirten bir raporun ardından düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-    "ts": 1793574710000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "Altcoin ▼"
-    ]
-   },
-   {
     "t": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
     "tt": "Westpac CEO'sunun Maaşları Arttı, Kar Analistlerin Tahminlerini Tutamadı",
     "s": "Westpac Banking Corp. Chief Executive Officer Anthony Miller’s pay surged to A$7.5 million ($5.3 million), despite profit missing expectations and the lender flagging an uncertain outlook for Australia’s economy.",
     "ss": "Westpac Banking Corp. İcra Kurulu Başkanı Anthony Miller'ın maaşı, kâr beklentilerinde düşüş olmasına ve borç verenin Avustralya ekonomisi için belirsiz bir görünüm sergilemesine rağmen 7,5 milyon A$'na (5,3 milyon $) yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
     "ts": 1793565670000,
-    "tags": []
-   },
-   {
-    "t": "Stock Selloff Eases in Asian Trade, Oil Declines: Markets Wrap",
-    "tt": "Asya Hisse Senetleri, Tech Rout'un Yapay Zeka Korkularını Artırmasıyla Düşecek: Piyasalar Sarılıyor",
-    "s": "A selloff in stocks eased during early Monday trading as Asian equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
-    "ss": "Asya hisse senetleri, teknoloji hisselerindeki sert düşüşün yapay zekadaki yükselişin çok ileri gitmiş olabileceği yönündeki endişeleri derinleştirmesi nedeniyle Cuma günkü Wall Street'teki sert satışın ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793568484000,
     "tags": []
    },
    {
@@ -528,24 +552,6 @@
     "ss": "Maliye Bakanı Satsuki Katayama, ABD'de ara seçimlerin yapılmasından bir gün önce yaptığı açıklamada, Japon yetkililerin ABD'li mevkidaşı ile mevcut bir anlaşma uyarınca hareket ederek döviz piyasası hareketlerinin düzensiz hale gelmesi durumunda yanıt vermeye hazır olduklarını söyledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-02/japan-s-katayama-says-ready-to-take-steps-for-stable-fx-market",
     "ts": 1793581769000,
-    "tags": []
-   },
-   {
-    "t": "Gold Climbs Back From One-Year Low as Dip Buyers Arrest Slide",
-    "tt": "Altın, Dip Alıcılarının Kaymayı Tutuklamasıyla Bir Yılın En Düşük Seviyesinden Geriye Tırmandı",
-    "s": "Gold rose, as lower oil prices offered some respite from inflationary pressures and dip buyers were drawn by the metal’s slide Friday to the lowest in a year.",
-    "ss": "Altın, düşük petrol fiyatlarının enflasyonist baskılara bir miktar nefes alması ve metalin Cuma günü bir yılın en düşük seviyesine gerilemesinin dip alıcıları çekmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
-    "ts": 1793577816000,
-    "tags": []
-   },
-   {
-    "t": "Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout",
-    "tt": "Yabancılar AI Rout'la Tayvan Hisse Senetlerinden Rekor Çekildi",
-    "s": "Foreign outflows from Taiwanese stocks hit a record in October as a global selloff in artificial intelligence play pushed the island’s benchmark closer to a technical correction.",
-    "ss": "Tayvan hisse senetlerinden yabancı çıkışlar, yapay zeka oyunlarındaki küresel satışların adanın gösterge endeksini teknik düzeltmeye yaklaştırmasıyla Ekim ayında rekor seviyeye ulaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/foreigners-make-record-withdrawal-from-taiwan-stocks-on-ai-rout",
-    "ts": 1793581227000,
     "tags": []
    }
   ],
@@ -643,6 +649,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "If you really want to help your adult kids and grandkids, give them money while you’re still alive",
+    "tt": "Yetişkin çocuklarınıza ve torunlarınıza gerçekten yardım etmek istiyorsanız, onlara hâlâ hayattayken para verin.",
+    "s": "How to manage “giving while living” without endangering your own retirement.",
+    "ss": "Kendi emekliliğinizi tehlikeye atmadan \"yaşarken vermeyi\" nasıl yönetebilirsiniz?",
+    "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+    "ts": 1793589780000,
+    "tags": []
+   },
+   {
     "t": "This is the biggest threat to the AI-powered bull market",
     "tt": "Bu yapay zeka destekli boğa piyasasına yönelik en büyük tehdit",
     "s": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
@@ -722,18 +737,18 @@
     "u": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
     "ts": 1793538000000,
     "tags": []
-   },
-   {
-    "t": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    "tt": "İstismarcı eski kocam çocuklarımızın eğitimi için 20.000 dolar sözü verdi. Şimdi ödemeyi reddediyor. Yasal olarak yükümlü mü?",
-    "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-    "ss": "\"Boşanmadan önce eski kayınvalidem, kızlarımızın her biri adına yatırım yapması için ona 20.000 dolar emanet etti.\"",
-    "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-    "ts": 1793477700000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "DOJ Uncovers $29M More In Minnesota Benefits Fraud, Calls State 'Epicenter For Fraud In America'",
+    "tt": "DOJ, Minnesota Faydaları Dolandırıcılığında 29 Milyon Dolar Daha Fazlasını Ortaya Çıkardı ve Eyaleti 'Amerika'daki Dolandırıcılığın Merkez Üssü' Olarak Çağırdı",
+    "s": "DOJ Uncovers $29M More In Minnesota Benefits Fraud, Calls State 'Epicenter For Fraud In America' Authored by Naveen Athrappully via The Epoch Times , The Department of Justice (DOJ) announced it identified roughly $29.1 million in government benefits fraud in Minnesota over a one-month period . Betw",
+    "ss": "DOJ, Minnesota Yardım Dolandırıcılığında 29 Milyon Dolar Daha Fazlasını Ortaya Çıkardı, Eyalete \"Amerika'daki Dolandırıcılığın Merkez Üssü\" Diyor Naveen Athrappully tarafından The Epoch Times aracılığıyla yazılmıştır, Adalet Bakanlığı (DOJ), Minnesota'da bir aylık bir süre içinde yaklaşık 29,1 milyon dolarlık devlet yardımı dolandırıcılığını tespit ettiğini duyurdu. Arasında",
+    "u": "https://www.zerohedge.com/political/doj-uncovers-29m-more-minnesota-benefits-fraud-calls-state-epicenter-fraud-america",
+    "ts": 1793590200000,
+    "tags": []
+   },
    {
     "t": "Chinese Couriers Posed As Federal Agents To Scam Over $10 Million In Cash From Elderly Victims In 19 States",
     "tt": "Çinli Kuryeler, 19 Eyaletteki Yaşlı Kurbanlardan 10 Milyon Doların Üzerinde Nakit Dolandırmak İçin Federal Ajan Gibi Davrandı",
@@ -814,18 +829,36 @@
     "u": "https://www.zerohedge.com/markets/nikola-founder-trevor-milton-drops-lawsuit-against-fbi-agent-17-days-after-filing",
     "ts": 1793572200000,
     "tags": []
-   },
-   {
-    "t": "Woman Dies After Following Medical Advice Provided By ChatGPT",
-    "tt": "Kadın ChatGPT Tarafından Sağlanan Tıbbi Tavsiyeye Uyduktan Sonra Öldü",
-    "s": "Woman Dies After Following Medical Advice Provided By ChatGPT Authored by Bryan Hyde via American Greatness , The family of a 31-year-old Seattle woman who died from a catastrophic seizure is suing OpenAI after the woman followed medical advice from ChatGPT urging her to stop taking her epilepsy med",
-    "ss": "Kadın, ChatGPT Tarafından Sağlanan Tıbbi Tavsiyeye Uyduktan Sonra Öldü Yazar Bryan Hyde, American Greatness aracılığıyla, Feci bir nöbetten ölen 31 yaşındaki Seattlelı bir kadının ailesi, kadının ChatGPT'nin epilepsi ilacını almayı bırakması yönündeki tıbbi tavsiyesine uymasının ardından OpenAI'ye dava açıyor",
-    "u": "https://www.zerohedge.com/ai/woman-dies-after-following-medical-advice-provided-chatgpt",
-    "ts": 1793570700000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Petrol fiyatları diplomasi umuduyla düştü",
+    "tt": null,
+    "s": "Petrol fiyatları, ABD Başkanı Donald Trump'ın ara seçimlerin ardından İran'a yönelik saldırıları yeniden başlatıp başlatmayacağına karar vermeden önce diplomasiye daha fazla zaman tanımak istediğine dair haberin ardından düştü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrol-fiyatlari-diplomasi-umuduyla-dustu-3793006",
+    "ts": 1793589151000,
+    "tags": []
+   },
+   {
+    "t": "Ekonomi ve siyaset gündemi- 2 Kasım 2026",
+    "tt": null,
+    "s": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-2-kasim-2026-3793005",
+    "ts": 1793588243000,
+    "tags": []
+   },
+   {
+    "t": "Resmi Gazete'de bugün (02.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-02112026-3793004",
+    "ts": 1793587745000,
+    "tags": []
+   },
    {
     "t": "Borsa İstanbul Genel Müdürlüğü'ne vekaleten Atila Türeli getirildi",
     "tt": null,
@@ -887,33 +920,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/fbi-kripto-hirsizligindan-kuzey-kore-yi-sorumlu-tuttu-3792997",
     "ts": 1793518616000,
-    "tags": []
-   },
-   {
-    "t": "Bir maaş kiraya, bir maaş hayata",
-    "tt": null,
-    "s": "Türkiye'de kiralar ile çalışanların gelirleri arasındaki makas, barınmayı giderek daha ağır bir ekonomik yüke dönüştürdü. İstanbul'da iki kişinin çalıştığı bir hanenin toplam gelirinin yüzde 83'üne ulaşabilen kira bedelleri, büyük kentlerde yaşamanın maliyetini gözler önüne seriyor. Aynı gelire sahi",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bir-maas-kiraya-bir-maas-hayata-3792996",
-    "ts": 1793510436000,
-    "tags": []
-   },
-   {
-    "t": "Resmi Gazete'de bugün (01.11.2026)",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-01112026-3792995",
-    "ts": 1793481412000,
-    "tags": []
-   },
-   {
-    "t": "SPK Başkanlığına Muhsin Atcı atandı",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan atama kararlarına göre, Sermaye Piyasası Kurulu (SPK) Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spk-baskanligi-na-muhsin-atci-atandi-3792994",
-    "ts": 1793480785000,
     "tags": []
    }
   ]
