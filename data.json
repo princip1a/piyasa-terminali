@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-02T19:43:03.284629+00:00",
+ "generated": "2026-11-02T20:34:33.890190+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7564.11,
-   "c": -0.21,
-   "d": -15.96,
+   "p": 7553.95,
+   "c": -0.34,
+   "d": -26.12,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25282.812,
-   "c": -0.61,
-   "d": -154.188,
+   "p": 25221.518,
+   "c": -0.85,
+   "d": -215.482,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52093.79,
-   "c": 0.62,
-   "d": 323.481,
+   "p": 52071.54,
+   "c": 0.58,
+   "d": 301.231,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.88,
-   "c": 7.52,
-   "d": 1.46,
+   "p": 20.85,
+   "c": 7.36,
+   "d": 1.43,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3957.1,
-   "c": 1.49,
-   "d": 58.2,
+   "p": 3951.3,
+   "c": 1.34,
+   "d": 52.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.585,
-   "c": 3.03,
-   "d": 1.488,
+   "p": 50.66,
+   "c": 3.18,
+   "d": 1.563,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 96.6,
-   "c": -7.22,
-   "d": -7.52,
+   "p": 95.98,
+   "c": -7.82,
+   "d": -8.14,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 104.9,
-   "c": -10.83,
-   "d": -12.74,
+   "p": 104.09,
+   "c": -11.52,
+   "d": -13.55,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.719,
-   "c": -0.16,
-   "d": -0.161,
+   "p": 101.76,
+   "c": -0.12,
+   "d": -0.12,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.884,
-   "c": -0.91,
-   "d": -0.045,
+   "p": 4.894,
+   "c": -0.71,
+   "d": -0.035,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.9663,
+   "p": 49.966,
    "c": 0.05,
-   "d": 0.024,
+   "d": 0.023,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 76638,
-   "c": -1.32,
+   "p": 76812,
+   "c": -1.15,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2236.41,
-   "c": -0.84,
+   "p": 2245.47,
+   "c": -0.56,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 90.92,
-   "c": -3.01,
+   "p": 91.45,
+   "c": -2.74,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.24,
-   "c": -0.28,
+   "p": 1.25,
+   "c": -0.12,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 693.23,
-   "c": -2.03,
+   "p": 695.63,
+   "c": -1.68,
    "k": "usd"
   }
  ],
@@ -454,7 +454,89 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
+    "t": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
+    "tt": "Altın, İran Diplomasisinin Petrolün Düşüşünü Umut Etmesiyle Yükseliyor",
+    "s": "Gold rebounded as oil plunged on renewed hopes for diplomatic efforts to end the war in Iran.",
+    "ss": "Altın, İran'daki savaşı sona erdirmeye yönelik diplomatik çabaların yeniden canlanmasıyla birlikte petrolün gerilemesiyle toparlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-climbs-back-from-one-year-low-as-dip-buyers-arrest-slide",
+    "ts": 1793577816000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "NYC Marathon Winner Andreas Almgren on Debut Victory",
+    "tt": "NYC Maratonu Kazananı Andreas Almgren İlk Zaferinde",
+    "s": "Following his debut victory in the New York City Marathon, Men's Winner Andreas Almgren sat down with Bloomberg's Randall Williams to discuss his victory, the mindset behind winning the marathon, and his path forward. (Source: Bloomberg)",
+    "ss": "Erkekler Şampiyonu Andreas Almgren, New York City Maratonu'ndaki ilk zaferinin ardından Bloomberg'den Randall Williams ile bir araya gelerek zaferini, maratonu kazanmanın ardındaki zihniyeti ve ileriye giden yolu tartıştı. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/nyc-marathon-winner-andreas-almgren-on-debut-victory-video",
+    "ts": 1793651185000,
+    "tags": []
+   },
+   {
+    "t": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+    "tt": "Oracle, Meta'nın Yeni Borcunu Ağırlaştırırken Yapay Zeka Büyümesi için 20 Milyar Dolar Arıyor",
+    "s": "For almost three months, Big Tech companies didn’t borrow in the US bond market. Now they’re flooding in again.",
+    "ss": "Büyük Teknoloji şirketleri neredeyse üç ay boyunca ABD tahvil piyasasından borçlanmadı. Şimdi tekrar akın ediyorlar.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+    "ts": 1793623505000,
+    "tags": []
+   },
+   {
+    "t": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
+    "tt": "Yapay Zeka Ticareti 'Bana Göster' Hikayesine Dönüştüğünden Ara Dönem Rallisi Zor Olabilir",
+    "s": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, according to Wolfe Research.",
+    "ss": "Wolfe Research'e göre, ABD ara seçimlerinin hisse senetleri için bir takas olayı olmasını bekleyen tüccarlar, kendilerini piyasanın yükselişini engelleyen bir yapay zeka \"endişe duvarı\" ile karşı karşıya bulabilirler.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
+    "ts": 1793645313000,
+    "tags": []
+   },
+   {
+    "t": "US Tech Stocks Hover Near Correction on Middle East Tensions",
+    "tt": "ABD Teknoloji Hisse Senetleri Orta Doğu Gerginliklerinde Düzeltmeye Yakın Oluyor",
+    "s": "Technology stocks are leading US equities lower as renewed tensions in the Middle East and worries around the artificial intelligence trade pushed traders toward the exits.",
+    "ss": "Orta Doğu'da yenilenen gerilimler ve yapay zeka ticaretine ilişkin endişelerin tüccarları çıkışlara doğru itmesiyle teknoloji hisseleri ABD hisse senetlerinin düşmesine neden oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
+    "ts": 1793624910000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 2",
+    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil slumped the most in three months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
+    "ss": "Petrol, Washington ve Tahran'ın Orta Doğu enerji arzını rahatsız eden aylardır süren anlaşmazlığın çözümü için müzakerelere açık olduklarının sinyalini vermesinin ardından üç ayın en sert düşüşünü yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+    "ts": 1793574710000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Buyers Circle Mark Walter’s F1 Team as He Offloads Sports Assets",
+    "tt": "Alıcılar Grubu, Spor Varlıklarını Dağıtırken Walter'ın F1 Takımını İşaretliyor",
+    "s": "Buyers have begun circling Mark Walter’s Cadillac F1 team, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre alıcılar Mark Walter'ın Cadillac F1 takımının etrafında dolaşmaya başladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/buyers-circle-mark-walter-s-f1-team-as-he-offloads-sports-assets",
+    "ts": 1793649755000,
+    "tags": []
+   },
+   {
+    "t": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
+    "tt": "İran Görüşmelerine Yönelik Umut Yeniden Ortaya Çıkarken ABD Doğal Gazı Petrolle Birlikte Düştü",
+    "s": "US natural gas futures ended lower, reversing earlier gains, as renewed hope for talks between the US and Iran caused oil and European gas prices to plunge. Those falling prices likely triggered a selloff of baskets of commodities that include US gas, even though US gas is insulated in the short-run",
+    "ss": "ABD ile İran arasındaki görüşmelere dair yenilenen umutların petrol ve Avrupa gaz fiyatlarının düşmesine neden olmasıyla, ABD doğal gaz vadeli işlemleri daha önceki kazanımlarını tersine çevirerek düşüşle sonuçlandı. Bu düşen fiyatlar, ABD gazı kısa vadede izole edilmiş olsa da, muhtemelen ABD gazını da içeren emtia sepetlerinin satışını tetikledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
+    "ts": 1793632080000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 Wavers as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
     "s": "A selloff in chipmakers weighed on stocks, offsetting a slump in oil prices driven by hopes for diplomatic efforts to end the war in Iran.",
     "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
@@ -470,173 +552,113 @@
     "u": "https://www.bloomberg.com/news/videos/2026-11-02/-bipartisan-etf-makes-sense-weiskopf-video",
     "ts": 1793648011000,
     "tags": []
-   },
-   {
-    "t": "ETF Canadian Market 'Home Biased': Linda Ma",
-    "tt": "ETF Kanada Piyasası 'Ev Taraflı': Linda Ma",
-    "s": "Linda Ma, director, ETFs & financial products research at National Bank of Canada Capital Markets, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" (Source: Bloomberg)",
-    "ss": "National Bank of Canada Capital Markets ETF'ler ve finansal ürünler araştırma direktörü Linda Ma, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/etf-canadian-market-home-biased-linda-ma-video",
-    "ts": 1793647119000,
-    "tags": []
-   },
-   {
-    "t": "Equal-Weight Keeps You In Investing Game: Tema's Nardini",
-    "tt": "Eşit Ağırlık Sizi Yatırım Oyununda Tutar: Tema's Nardini",
-    "s": "Paisley Nardini, head of investment strategy at Tema ETFs, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss Anthropic's upcoming IPO and concentration risk. (Source: Bloomberg)",
-    "ss": "Tema ETF'lerinin yatırım stratejisi başkanı Paisley Nardini, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. Anthropic'in yaklaşan halka arzını ve yoğunlaşma riskini tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/equal-weight-keeps-you-in-investing-game-tema-s-nardini-video",
-    "ts": 1793646513000,
-    "tags": []
-   },
-   {
-    "t": "Owning Anthropic Before It Goes Public",
-    "tt": "Halka Açık Olmadan Önce Antropik Sahip Olmak",
-    "s": "John Cole Scott, president and & CIO of CEF Advisors, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" Anthropic filed on Oct. 26 for an IPO that’s set to take place before Thanksgiving. Anthropic is seeking to meet or exceed the amount SpaceX raised in its $86.2 billion debut, people fami",
-    "ss": "CEF Advisors başkanı ve CIO'su John Cole Scott, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. Anthropic, Şükran Günü'nden önce gerçekleşmesi planlanan halka arz için 26 Ekim'de başvuruda bulundu. Anthropic, SpaceX'in 86,2 milyar dolarlık ilk çıkışında topladığı miktarı karşılamaya veya aşmaya çalışıyor, insanlar aile",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/owning-anthropic-before-it-goes-public-video",
-    "ts": 1793646413000,
-    "tags": []
-   },
-   {
-    "t": "Carney’s Push to Fast-Track Oil Pipeline Faces Mounting Indigenous Lawsuits",
-    "tt": "Carney'nin Petrol Boru Hattını Hızlandırmaya Yönelik Girişimi Yerli Davalarla Karşı Karşıya",
-    "s": "Prime Minister Mark Carney faces a wave of court challenges to his decision to fast-track a pipeline project under a legal mechanism his government devised to speed up construction of major infrastructure.",
-    "ss": "Başbakan Mark Carney, hükümetinin büyük altyapı inşaatını hızlandırmak için tasarladığı yasal mekanizma kapsamında bir boru hattı projesini hızlandırma kararına karşı bir dizi mahkeme itirazıyla karşı karşıya.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/carney-s-push-to-fast-track-oil-pipeline-faces-mounting-indigenous-lawsuits",
-    "ts": 1793646263000,
-    "tags": []
-   },
-   {
-    "t": "Alphabet Pays Up to Entice Buyers to €6 Billion Bond Sale",
-    "tt": "Alphabet, Alıcıları 6 Milyar Euro'luk Tahvil Satışına Cezbetmek İçin Ödeme Yapıyor",
-    "s": "Alphabet Inc. raised €6 billion ($6.7 billion) in its second euro bond sale this year, offering considerably higher yields than in its transaction in May after concerns over the pace of AI spending drove a credit-market selloff.",
-    "ss": "Alphabet Inc., bu yılki ikinci euro tahvil satışında 6 milyar Euro (6,7 milyar dolar) topladı ve yapay zeka harcamalarının hızına ilişkin endişelerin kredi piyasasındaki satışları artırmasının ardından Mayıs ayındaki işlemine göre çok daha yüksek getiriler sundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
-    "ts": 1793603871000,
-    "tags": []
-   },
-   {
-    "t": "Millennium Pulls Over $1.5 Billion From Two External Hedge Funds",
-    "tt": "Millennium, İki Harici Hedge Fonundan 1,5 Milyar Dolardan Fazla Para Çekti",
-    "s": "Millennium Management is redeeming more than $1.5 billion of leveraged cash from two external hedge funds that the multistrategy investment firm backed last year.",
-    "ss": "Millennium Management, çok stratejili yatırım firmasının geçen yıl desteklediği iki harici hedge fonundan 1,5 milyar dolardan fazla kaldıraçlı nakit kullanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/millennium-pulls-over-1-5-billion-from-two-external-hedge-funds",
-    "ts": 1793646002000,
-    "tags": []
-   },
-   {
-    "t": "Oracle Leads 17-Firm High-Grade Bond Push Before US Midterm Vote",
-    "tt": "Oracle, ABD Ara Dönem Oyu Öncesi 17 Firmalı Yüksek Dereceli Tahvil İhalesine Liderlik Ediyor",
-    "s": "Oracle Corp. is leading a charge of 17 companies rushing to sell bonds in the US high-grade market on Monday ahead of the US midterm elections, in the longest lineup since September.",
-    "ss": "Oracle Corp., ABD ara seçimleri öncesinde Pazartesi günü ABD yüksek kaliteli tahvil piyasasında Eylül ayından bu yana en uzun süreli tahvil satışına koşan 17 şirketin başında yer alıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-leads-17-firm-high-grade-bond-push-before-us-midterm-vote",
-    "ts": 1793645755000,
-    "tags": []
-   },
-   {
-    "t": "Midterm Rally May Be Tricky as AI Trade Becomes ‘Show Me’ Story",
-    "tt": "Yapay Zeka Ticareti 'Bana Göster' Hikayesine Dönüştüğünden Ara Dönem Rallisi Zor Olabilir",
-    "s": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, according to Wolfe Research.",
-    "ss": "Wolfe Research'e göre, ABD ara seçimlerinin hisse senetleri için bir takas olayı olmasını bekleyen tüccarlar, kendilerini piyasanın yükselişini engelleyen bir yapay zeka \"endişe duvarı\" ile karşı karşıya bulabilirler.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-    "ts": 1793645313000,
-    "tags": []
    }
   ],
   "CNBC": [
    {
-    "t": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-    "tt": "Goldman Sachs, JPMorgan ve Morgan Stanley yapay zeka hisse senedi yükselişine hakim durumdalar. İşte onların üstünlüğü",
-    "s": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-    "ss": "Wall Street'in Üç Büyükleri bu yıl 52 milyar dolar hisse senedi alım satım geliri elde ederek hedge fonlarına verilen artan marj kredileri sayesinde piyasanın yaklaşık %80'ini ele geçirdiler.",
-    "u": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-    "ts": 1792596650000,
+    "t": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "tt": "Tahmin pazarlarında Teksas valiliği yarışı sıkılaşıyor ancak Abbott tercih edilmeye devam ediyor",
+    "s": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+    "ss": "Tahmin piyasaları hâlâ görevdeki Cumhuriyetçinin dördüncü dönemi kazanmayı tercih ettiğini gösteriyor ancak son haftalarda oranlar daraldı.",
+    "u": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "ts": 1793645644000,
     "tags": []
    },
    {
-    "t": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-    "tt": "HSBC CEO'su yapay zeka patlamasının her veri merkezini iyi bir bahis haline getirmeyeceği konusunda uyardı",
-    "s": "Data center campuses house the servers that power AI and cloud computing.",
-    "ss": "Veri merkezi kampüsleri, yapay zeka ve bulut bilişime güç veren sunucuları barındırır.",
-    "u": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-    "ts": 1792492757000,
+    "t": "Stock market after midterm elections: What S&P 500 history shows",
+    "tt": "Ara seçimlerden sonra borsa: S&P 500 geçmişi neler gösteriyor?",
+    "s": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
+    "ss": "Ara sınavlar S&P 500 için tarihsel olarak güçlü bir yılın öncesinde gerçekleşir. Demokratlar Kongreyi geri kazanırsa ne bilmeli?",
+    "u": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "ts": 1793642255000,
     "tags": []
    },
    {
-    "t": "The world’s finance chiefs see new risks — and less China angst",
-    "tt": "Dünyanın finans şefleri yeni riskler görüyor ve Çin'deki endişe azalıyor",
-    "s": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-    "ss": "Bangkok'taki IMF-Dünya Bankası toplantılarında borç, yapay zeka ve Ukrayna sohbete yön verirken, 2018'de odak noktası olan Çin arka planda kaldı.",
-    "u": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-    "ts": 1792474073000,
+    "t": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+    "tt": "Binance'in 6,3 milyar dolarlık saldırısı, kripto cüzdan güvenliğiyle ilgili soruları gündeme getiriyor",
+    "s": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
+    "ss": "Bu hafta, tarihteki en büyük kripto hırsızlığı da dahil olmak üzere iki yüksek profilli güvenlik olayı, gözaltı ve güvenlik endişelerini artırdı.",
+    "u": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+    "ts": 1793450828000,
     "tags": []
    },
    {
-    "t": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "tt": "Antropik, yapay zeka ticaretinin bu yıl büyük bir halka arz için son büyük umudu",
-    "s": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
-    "ss": "Kalshi'de Anthropic, OpenAI'nin halka arzını geciktirdikten sonra 2026'daki son büyük halka arz olarak görülüyor. Diğerleri de erteledi.",
-    "u": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "ts": 1792428134000,
+    "t": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+    "tt": "Çikolata maliyetleri arttıkça Cadılar Bayramı daha da pahalılaşıyor - Hershey sıkıntıyı hissedebilir",
+    "s": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+    "ss": "Yüksek kakao ve şeker fiyatları, şekerlemede ortalamanın üzerinde maliyet enflasyonunu artırıyor",
+    "u": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+    "ts": 1793379341000,
     "tags": []
    },
    {
-    "t": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-    "tt": "Robot fabrikaları ve hipersonik füzeler: JPMorgan Chase'in ilk 5 milyar dolarlık savunma yatırımı",
-    "s": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
-    "ss": "Bilançosundaki 5 milyar doları halihazırda dağıtmış olan JPMorgan Chase, savunma teknolojisi, donanım ve tedarik zincirlerine doğrudan yatırım yapma konusunda hızla ilerliyor.",
-    "u": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "ts": 1792413241000,
+    "t": "Fed officials are already saying they’ll need to get back to hiking rates",
+    "tt": "Fed yetkilileri zaten faiz artırımlarına geri dönmeleri gerektiğini söylüyor",
+    "s": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
+    "ss": "Federal Rezerv Başkanları Alberto Musalem ve Lorie Logan'ın yorumları, Fed'deki liderlerin bundan sonra ne olacağına ilişkin ilk içgörü kırıntılarını sunuyor.",
+    "u": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "ts": 1793397190000,
     "tags": []
    },
    {
-    "t": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-    "tt": "On yıldır 'ölü para': Bu hedge fonu yaklaşımı neden tahvillere göre avantaj sağlayabilir?",
-    "s": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-    "ss": "Yatırımcılar tahvil tahsislerini yeniden düşünmek ve yönetilen vadeli işlemler riskini tercih etmek isteyebilir.",
-    "u": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-    "ts": 1792249201000,
+    "t": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+    "tt": "Coinbase'in net geliri üçüncü çeyrekte %66 arttı ve Bitcoin yatırım kazançlarından faydalandı",
+    "s": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
+    "ss": "Coinbase, büyük ölçüde kripto para piyasasındaki toparlanma nedeniyle üçüncü çeyrekte beklenenden daha iyi kazanç elde etti.",
+    "u": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+    "ts": 1793309896000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+    "tt": "Bilgisayar korsanları tarafından çalınan bazı Polymarket kullanıcı fonları; Konuyu Birleşik Krallık yetkililerine iletin",
+    "s": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+    "ss": "Kesinti, platformun ABD ara seçimleri sırasında ticarette artış yaşanmasının beklenmesinden birkaç gün önce gerçekleşti.",
+    "u": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+    "ts": 1793391529000,
     "tags": []
    },
    {
-    "t": "Software’s new consolidator gets big vote of confidence from Berkshire",
-    "tt": "Software'in yeni birleştiricisi Berkshire'dan büyük güven oyu aldı",
-    "s": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
-    "ss": "Halka açık bir şirket olarak dört aydan kısa bir süre içinde Bending Spoons, bu hafta Berkshire Hathaway'den büyük bir güven oyu aldı.",
-    "u": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-    "ts": 1792249890000,
+    "t": "Aon CEO warns AI data center insurance risks could threaten financing",
+    "tt": "Aon CEO'su yapay zeka veri merkezi sigorta risklerinin finansmanı tehdit edebileceği konusunda uyardı",
+    "s": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
+    "ss": "Aon CEO'su Greg Case, yapay zeka veri merkezlerindeki yoğunlaşma riskinin sigorta kapasitesini kısıtlayabileceğini ve yeni projelerin finansmanını değiştirebileceğini söyledi.",
+    "u": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+    "ts": 1793304749000,
     "tags": []
    },
    {
-    "t": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "tt": "Yetkili, ABD'nin ikili Bangkok görüşmelerinde Mastercard ve Citigroup pazarına erişim konusunda Çin'e baskı yaptığını söyledi",
-    "s": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-    "ss": "Bir ABD Hazine yetkilisi, ABD'nin bu hafta Bangkok'ta yapılan ikili görüşmelerde Mastercard ve Citigroup'un Çin'deki pazara erişim sorunlarını gündeme getirdiğini söyledi.",
-    "u": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "ts": 1792169178000,
+    "t": "Kalshi valuation jumps to $40 billion in latest funding round",
+    "tt": "Kalshi'nin değerlemesi son finansman turunda 40 milyar dolara yükseldi",
+    "s": "The prediction market platform one year ago was valued at $5 billion.",
+    "ss": "Bir yıl önce tahmin piyasası platformunun değeri 5 milyar dolardı.",
+    "u": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
+    "ts": 1793275518000,
     "tags": []
    },
    {
-    "t": "People in China are spending nearly as much of their income as Americans on healthcare",
-    "tt": "Çin'de insanlar gelirlerinin neredeyse yarısını Amerikalılar kadar sağlık hizmetlerine harcıyor",
-    "s": "Increasing government spending on healthcare could help boost consumption in China, the International Monetary Fund said.",
-    "ss": "Uluslararası Para Fonu, sağlık hizmetlerine yönelik hükümet harcamalarının artırılmasının Çin'deki tüketimin artmasına yardımcı olabileceğini söyledi.",
-    "u": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-    "ts": 1792105201000,
-    "tags": []
-   },
-   {
-    "t": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-    "tt": "Harvard'ın bağışları 2026 mali yılında %27 arttı ve bu, SpaceX'in en büyük varlık olmasıyla desteklendi",
-    "s": "The latest 12-month period marked the strongest return for the university's fund since 2021.",
-    "ss": "Son 12 aylık dönem, üniversitenin fonunun 2021'den bu yana en güçlü getirisine işaret etti.",
-    "u": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
-    "ts": 1792094029000,
+    "t": "It's a 'socialist' bank — and North Dakota Republicans love it",
+    "tt": "Bu 'sosyalist' bir banka ve Kuzey Dakota Cumhuriyetçileri onu seviyor",
+    "s": "North Dakota's state-owned bank has broad Republican support and is drawing interest from public-banking advocates in other states.",
+    "ss": "Kuzey Dakota'nın devlet bankası geniş bir Cumhuriyetçi desteğe sahip ve diğer eyaletlerdeki kamu bankacılığı savunucularının ilgisini çekiyor.",
+    "u": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+    "ts": 1793398356000,
     "tags": []
    }
   ],
   "MarketWatch": [
+   {
+    "t": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
+    "tt": "Çip stokları 'güven krizi' yaşıyor ancak işler göründüğü kadar kasvetli değil",
+    "s": "Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.",
+    "ss": "Yatırımcılar çiplere yönelik talebin sürekli olup olmayacağı konusunda endişeli ancak bir analist, büyük teknoloji şirketlerinin hâlâ yoğun harcamalar yaptığını belirtiyor.",
+    "u": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
+    "ts": 1793651400000,
+    "tags": []
+   },
    {
     "t": "How soon gas prices could go down now that oil is tumbling",
     "tt": "Petrol düşerken gaz fiyatları ne kadar sürede düşebilir?",
@@ -717,18 +739,27 @@
     "u": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
     "ts": 1793638200000,
     "tags": []
-   },
-   {
-    "t": "Behind Anthropic’s 1,127% revenue surge — and the computing bill that erased its profit",
-    "tt": "Anthropic'in %1.127'lik gelir artışının ve kârını silen bilgi işlem faturasının arkasında",
-    "s": "Anthropic just filed updated financial paperwork ahead of an IPO that could come by the end of this month.",
-    "ss": "Anthropic, bu ayın sonuna kadar gerçekleşebilecek halka arz öncesinde güncellenmiş mali evrakları sundu.",
-    "u": "https://www.marketwatch.com/story/behind-anthropics-1-127-revenue-surge-and-the-computing-bill-that-erased-its-profit-2fe7e513?mod=mw_rss_topstories",
-    "ts": 1793636520000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"Not Acceptable At All\": Trump Blasts Former US Attorney's $50M Concord Deal After NYT Report",
+    "tt": "\"Hiç Kabul Edilemez\": Trump, NYT Raporunun Ardından Eski ABD Başsavcısının 50 Milyon Dolarlık Concord Anlaşmasını Vurdu",
+    "s": "\"Not Acceptable At All\": Trump Blasts Former US Attorney's $50M Concord Deal After NYT Report Authored by T.J. Muscaro via The Epoch Times , President Donald Trump said on Oct. 31 that it's \"unacceptable\" that former U.S. Attorney Alina Habba Mildon signed a $50 million multi-year contract while ser",
+    "ss": "\"Hiç Kabul Edilemez\": Trump, Eski ABD Savcısının 50 Milyon Dolarlık Concord Anlaşmasını T.J. The Epoch Times aracılığıyla Muscaro'da konuşan Başkan Donald Trump, 31 Ekim'de eski ABD Savcısı Alina Habba Mildon'ın 50 milyon dolarlık çok yıllı bir sözleşme imzalamasının \"kabul edilemez\" olduğunu söyledi.",
+    "u": "https://www.zerohedge.com/political/not-acceptable-all-trump-blasts-former-us-attorneys-50m-concord-deal-after-nyt-report",
+    "ts": 1793651400000,
+    "tags": []
+   },
+   {
+    "t": "Poland Launches Security Operation Along Kaliningrad Border, Fearing Russian 'Sabotage'",
+    "tt": "Polonya, Rusya'nın 'Sabotajından' Korkarak Kaliningrad Sınırı Boyunca Güvenlik Operasyonu Başlattı",
+    "s": "Poland Launches Security Operation Along Kaliningrad Border, Fearing Russian 'Sabotage' More border tensions have emeged between Poland and the Russian exclave of Kaliningrad, at a moment tensions continue to soar related to the Ukraine war as well as Western accusations of Kremlin-orchestrated sabo",
+    "ss": "Polonya, Rusya'nın 'Sabotajından' Korkarak Kaliningrad Sınırı Boyunca Güvenlik Operasyonu Başlattı Polonya ile Rusya'nın dış bölgesi Kaliningrad arasında daha fazla sınır gerilimi ortaya çıktı, şu anda Ukrayna savaşıyla ve Batı'nın Kremlin'in düzenlediği saboya yönelik suçlamalarıyla ilgili gerilimler yükselmeye devam ediyor",
+    "u": "https://www.zerohedge.com/geopolitical/poland-launches-security-operation-along-kaliningrad-border-fearing-russian-sabotage",
+    "ts": 1793650500000,
+    "tags": []
+   },
    {
     "t": "Trump Says He'll Turn Into 'Mr. Veto' And Issue Preemptive Pardons If Dems Dominate Midterms",
     "tt": "Trump 'Bay'a dönüşeceğini söylüyor Demokratların Ara Sınavlarda Hakim Olması Halinde Veto ve Önleyici Aflar Çıkarma",
@@ -805,27 +836,27 @@
      "Altın ▲",
      "BTC ▲"
     ]
-   },
-   {
-    "t": "DOE Announces $10.1B In Loans To Constellation, Alliant, For 3.7 GW",
-    "tt": "DOE, Constellation Alliant'a 3,7 GW İçin 10,1 Milyar Dolarlık Kredi Vereceğini Açıkladı",
-    "s": "DOE Announces $10.1B In Loans To Constellation, Alliant, For 3.7 GW By Robert Walton, Senior Editor at UtilityDive The U.S. Department of Energy announced $10.1 billion in loans and loan guarantees to Constellation Energy and Alliant Energy this week, aiming to support 3.7 GW of new capacity from nu",
-    "ss": "DOE, Constellation, Alliant'a 3,7 GW İçin 10,1 Milyar Dolarlık Kredi Duyurdu Yazan: UtilityDive Kıdemli Editörü Robert Walton ABD Enerji Bakanlığı, Nu'dan 3,7 GW'lık yeni kapasiteyi desteklemeyi amaçlayan Constellation Energy ve Alliant Energy'ye bu hafta 10,1 milyar dolarlık kredi ve kredi garantisi duyurdu",
-    "u": "https://www.zerohedge.com/markets/doe-announces-101b-loans-constellation-alliant-37-gw",
-    "ts": 1793640000000,
-    "tags": []
-   },
-   {
-    "t": "DC Judge Tosses Charges Against Former F.B.I. Officials Accused Of Lying About Hunter Biden Laptop",
-    "tt": "DC Hakimi Eski FBI'a Karşı Suçlamaları Reddetti Yetkililer Hunter Biden Dizüstü Bilgisayarı Hakkında Yalan Söylemekle Suçlandı",
-    "s": "DC Judge Tosses Charges Against Former F.B.I. Officials Accused Of Lying About Hunter Biden Laptop A federal magistrate judge on Monday dismissed the criminal complaint against two former FBI officials accused of misleading Congress in 2023 about the bureau's work on the Hunter Biden laptop investig",
-    "ss": "DC Hakimi Eski FBI'a Karşı Suçlamaları Reddetti Yetkililer Hunter Biden Dizüstü Bilgisayarı Hakkında Yalan Söylemekle Suçlandı Bir federal sulh hakimi Pazartesi günü, büronun Hunter Biden dizüstü bilgisayar soruşturması hakkındaki çalışmaları hakkında 2023'te Kongre'yi yanıltmakla suçlanan iki eski FBI yetkilisine yönelik suç duyurusunu reddetti",
-    "u": "https://www.zerohedge.com/political/dc-judge-tosses-charges-against-former-fbi-officials-accused-lying-about-hunter-biden",
-    "ts": 1793639100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Ahmet Nazif Zorlu hayatını kaybetti",
+    "tt": null,
+    "s": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, bir süredir tedavi gördüğü hastanede hayatını kaybetti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ahmet-nazif-zorlu-hayatini-kaybetti-3793131",
+    "ts": 1793650320000,
+    "tags": []
+   },
+   {
+    "t": "ABD'nin LNG ihracatı Ekim'de rekor seviyelere yaklaştı",
+    "tt": null,
+    "s": "ABD'nin sıvılaştırılmış doğalgaz (LNG) ihracatı, Avrupa'dan gelen güçlü talep ve yüksek doğalgaz fiyatlarının etkisiyle Ekim'de kayıtlardaki en yüksek ikinci aylık seviyesine ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-nin-lng-ihracati-ekim-de-rekor-seviyelere-yaklasti-3793129",
+    "ts": 1793648384000,
+    "tags": []
+   },
    {
     "t": "AB'den İngiltere'nin yeniden üyeliğine esneklik sinyali",
     "tt": null,
@@ -896,24 +927,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/uzay-teknolojileri-sirketi-northwood-space-2-milyar-dolar-degerlemeye-ulasti-3793121",
     "ts": 1793636084000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic'in geliri dev halka arz öncesi 17 milyar dolara ulaştı",
-    "tt": null,
-    "s": "Anthropic'in gelirleri, dev halka arz öncesinde üçüncü çeyrekte 16,96 milyar dolara yükselirken net zararı 66,3 milyar dolardan 23,29 milyar dolara geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/anthropic-in-geliri-dev-halka-arz-oncesi-17-milyar-dolara-ulasti-3793119",
-    "ts": 1793635200000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de imalat sektörü 10 aydır kesintisiz büyüyor",
-    "tt": null,
-    "s": "ABD'de imalat sektörü faaliyetleri, Ekim ayında üretimin yaklaşık beş yılın en güçlü artışını kaydetmesiyle ivme kazandı. İmalat sanayi endeksi 55,5'e yükselerek beklentileri aşarken, sektördeki büyüme üst üste 10. ayına ulaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abdde-imalat-sektoru-10-aydir-kesintisiz-buyuyor-3793115",
-    "ts": 1793633351000,
     "tags": []
    }
   ]
