@@ -1,120 +1,120 @@
 {
- "generated": "2026-11-02T14:52:17.104046+00:00",
+ "generated": "2026-11-02T15:46:44.793209+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7625.26,
-   "c": 0.6,
-   "d": 45.19,
+   "p": 7654.5,
+   "c": 0.98,
+   "d": 74.43,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25632.164,
-   "c": 0.77,
-   "d": 195.164,
+   "p": 25768.629,
+   "c": 1.3,
+   "d": 331.629,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52327.91,
-   "c": 1.08,
-   "d": 557.601,
+   "p": 52376.7,
+   "c": 1.17,
+   "d": 606.391,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 19.08,
-   "c": -1.75,
-   "d": -0.34,
+   "p": 18.12,
+   "c": -6.69,
+   "d": -1.3,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3973.8,
-   "c": 1.92,
-   "d": 74.9,
+   "p": 3962.3,
+   "c": 1.63,
+   "d": 63.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.905,
-   "c": 3.68,
-   "d": 1.808,
+   "p": 50.87,
+   "c": 3.61,
+   "d": 1.773,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 97.2,
-   "c": -6.65,
-   "d": -6.92,
+   "p": 97.56,
+   "c": -6.3,
+   "d": -6.56,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 106.08,
-   "c": -9.83,
-   "d": -11.56,
+   "p": 106.13,
+   "c": -9.78,
+   "d": -11.51,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.612,
-   "c": -0.26,
-   "d": -0.268,
+   "p": 101.722,
+   "c": -0.16,
+   "d": -0.158,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.892,
-   "c": -0.75,
-   "d": -0.037,
+   "p": 4.898,
+   "c": -0.63,
+   "d": -0.031,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.88,
-   "c": -0.13,
-   "d": -0.063,
+   "p": 49.9647,
+   "c": 0.04,
+   "d": 0.022,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10991.35,
-   "c": 2.15,
-   "d": 231.75,
+   "p": 10961.67,
+   "c": 1.88,
+   "d": 202.07,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77683,
-   "c": -0.38,
+   "p": 77929,
+   "c": -0.09,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2285.62,
-   "c": 0.7,
+   "p": 2289.47,
+   "c": 0.95,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 94.18,
-   "c": -0.93,
+   "p": 94.21,
+   "c": -0.72,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -0.16,
+   "c": 0.27,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 703.39,
-   "c": -1.76,
+   "p": 704.34,
+   "c": -1.26,
    "k": "usd"
   }
  ],
@@ -454,18 +454,9 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Oracle Kicks Off $20 Billion Capital Raise for AI Plan",
-    "tt": "Oracle, Tahvil Piyasası Karşılığında 10 Milyar Dolar Toplamayı Hedefliyor",
-    "s": "Oracle Corp. has kicked off an effort to raise $20 billion in debt and equity, just days after unveiling a long-term fundraising plan to finance its artificial intelligence infrastructure spending spree.",
-    "ss": "Oracle Corp., yapay zeka altyapısına yatırımlarını finanse etmek için yeni sermaye harcaması planlarını açıklamasından sadece birkaç gün sonra, ABD doları tutarındaki tahvil satışından 10 milyar dolar elde etmeye çalışıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
-    "ts": 1793623505000,
-    "tags": []
-   },
-   {
     "t": "Latest Oil Market News and Analysis for Nov. 2",
     "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil slumped the most since August after Washington and Tehran signaled oppenness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
+    "s": "Oil and natural gas slumped the most in roughly three months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
     "ss": "Petrol, İran'ın dini liderinin hükümete Orta Doğu'daki petrol arzını bozan aylardır süren çatışmayı çözebilecek müzakerelerin sürdürülmesi yönünde onay vermesinin ardından kayıplarını artırdı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
     "ts": 1793574710000,
@@ -475,6 +466,83 @@
      "Altın ▲",
      "BTC ▲"
     ]
+   },
+   {
+    "t": "Outback Steakhouse Franchisee Files Bankruptcy After Costs Swell",
+    "tt": null,
+    "s": "Cerca Trova Restaurant Group, once the biggest franchisee of Outback Steakhouse restaurants, filed bankruptcy Monday, blaming factors including rising food costs and California’s minimum wage law for its demise.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/outback-steakhouse-franchisee-files-bankruptcy-after-costs-swell",
+    "ts": 1793633810000,
+    "tags": []
+   },
+   {
+    "t": "Stocks, Bonds Rise as Oil Tumbles on US-Iran Hopes: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
+    "s": "Stocks joined bonds higher as hopes for diplomatic efforts to end the war in Iran spurred a slump in oil prices, easing inflation anxiety.",
+    "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793568484000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Romania Selling Eurobonds After New Government Takes Office",
+    "tt": null,
+    "s": "Romania is tapping international debt markets for the first time after the country approved a new government to overcome more than five months of political turmoil.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office",
+    "ts": 1793620148000,
+    "tags": []
+   },
+   {
+    "t": "Oracle Kicks Off $20 Billion Capital Raise for AI Spending Plan",
+    "tt": "Oracle, Tahvil Piyasası Karşılığında 10 Milyar Dolar Toplamayı Hedefliyor",
+    "s": "Oracle Corp. has kicked off an effort to raise $20 billion in debt and equity, just days after unveiling a long-term fundraising plan to finance its artificial intelligence infrastructure spending spree.",
+    "ss": "Oracle Corp., yapay zeka altyapısına yatırımlarını finanse etmek için yeni sermaye harcaması planlarını açıklamasından sadece birkaç gün sonra, ABD doları tutarındaki tahvil satışından 10 milyar dolar elde etmeye çalışıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+    "ts": 1793623505000,
+    "tags": []
+   },
+   {
+    "t": "US Natural Gas Rises on Lower Appalachian Output, Cooler Weather",
+    "tt": null,
+    "s": "US natural gas futures increased as production dropped over the weekend, led by declines in the shale fields of Appalachia. The dip in supply signals producers may be curtailing output because of low prices. Forecasts also shifted slightly cooler, indicating higher demand for the furnace and power-p",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
+    "ts": 1793632080000,
+    "tags": []
+   },
+   {
+    "t": "Gold Investors Rocked by Wipeout, Seek Firmer Footing After Vote",
+    "tt": null,
+    "s": "As gold heads toward its worst annual loss in more than a decade, investors are gauging the odds a political shift in the US will restore the precious metal’s haven allure.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/gold-investors-rocked-by-wipeout-seek-firmer-footing-after-vote",
+    "ts": 1793631983000,
+    "tags": []
+   },
+   {
+    "t": "China Boosts Use of Stock Support Tools to Stabilize Market",
+    "tt": null,
+    "s": "China will encourage financial institutions to make fuller use of two stock support tools and optimize their terms, as authorities step up efforts to bolster market stability and confidence.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
+    "ts": 1793625052000,
+    "tags": []
+   },
+   {
+    "t": "Credit Boss at Top Canada Pension Warns of ‘Bubble-Like’ AI Rush",
+    "tt": null,
+    "s": "The credit chief for Canada’s largest pension sees signs of “bubble-like” exuberance in the rush to finance AI, cautioning that investors should scrutinize their exposure to the nascent technology.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/credit-boss-at-top-canada-pension-warns-of-bubble-like-ai-rush",
+    "ts": 1793631692000,
+    "tags": []
    },
    {
     "t": "Gold Recovers as Iran Leader’s Nod for Talks Sends Oil Tumbling",
@@ -489,79 +557,6 @@
      "Altın ▲",
      "BTC ▲"
     ]
-   },
-   {
-    "t": "US Stocks Rise as Oil Prices Drop Easing AI-Led Selloff",
-    "tt": "ABD Hisse Senetleri, Petrol Fiyatlarındaki Düşüşün Yapay Zeka Öncülüğündeki Satışları Hafifletmesiyle Yükseliyor",
-    "s": "US equities advanced, led by technology shares, as falling oil prices offered relief after a bruising week for the artificial intelligence trade.",
-    "ss": "ABD hisse senetleri, yapay zeka ticareti açısından zorlu bir haftanın ardından düşen petrol fiyatlarının rahatlama sağlamasıyla teknoloji hisselerinin öncülüğünde yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
-    "ts": 1793624910000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Stocks, Bonds Rise as Oil Tumbles on US-Iran Hopes: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
-    "s": "Stocks joined bonds higher as hopes for diplomatic efforts to end the months-long conflict in Iran spurred a slump in oil prices, easing inflation anxiety.",
-    "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793568484000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Greek Stocks to Suffer Outflows on MSCI Upgrade, JPMorgan Says",
-    "tt": "JPMorgan, Yunan Hisse Senetlerinin MSCI Yükselişiyle Çıkış Yaşayacağını Açıkladı",
-    "s": "Greek stocks will suffer outflows as MSCI Inc.’s upgrade of the country to developed-market status forces emerging-market trackers to sell, according to JPMorgan Chase &amp; Co. strategists.",
-    "ss": "JPMorgan Chase & Co. stratejistlerine göre, MSCI Inc.'in ülkeyi gelişmiş piyasa statüsüne yükseltmesinin gelişen piyasa takipçilerini satış yapmaya zorlaması nedeniyle Yunan hisse senetleri çıkış yaşayacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/greek-stocks-to-suffer-outflows-on-msci-upgrade-jpmorgan-says",
-    "ts": 1793629586000,
-    "tags": []
-   },
-   {
-    "t": "Alphabet Is Paying Up to Entice Buyers to €6 Billion Bond Sale",
-    "tt": "Alphabet, Alıcıları 6 Milyar Avroluk Tahvil Satışına Cezbetmek İçin Ödeme Yapıyor",
-    "s": "Alphabet Inc. is set to raise €6 billion ($6.7 billion) in its second euro bond sale this year, offering considerably higher yields than in its transaction in May after concerns over the pace of AI spending drove a credit-market selloff.",
-    "ss": "Alphabet Inc., bu yılki ikinci euro tahvil satışında 6 milyar Euro (6,7 milyar dolar) artırmaya hazırlanıyor ve yapay zeka harcamalarının hızına ilişkin endişelerin kredi piyasasındaki satışları artırmasının ardından Mayıs ayındaki işlemine göre oldukça yüksek getiri sunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
-    "ts": 1793603871000,
-    "tags": []
-   },
-   {
-    "t": "How Ethiopia’s Gas-Car Ban Sparked an EV Boom",
-    "tt": "Etiyopya'nın Gazlı Araba Yasağı EV Patlamasını Nasıl Ateşledi?",
-    "s": "Ethiopia became the first country to ban imports of gasoline-powered cars in 2024. Today, its EV share outpaces the global average, but the road ahead is uncertain. Can Ethiopia’s bet on EVs pay off? (Source: Bloomberg)",
-    "ss": "Etiyopya, 2024 yılında benzinle çalışan otomobil ithalatını yasaklayan ilk ülke oldu. Bugün elektrikli araç payı küresel ortalamanın üzerinde ancak önümüzdeki yol belirsiz. Etiyopya'nın elektrikli araçlara yönelik iddiası işe yarayabilir mi? (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/how-ethiopia-s-gas-car-ban-sparked-an-ev-boom-video",
-    "ts": 1793628238000,
-    "tags": []
-   },
-   {
-    "t": "Marvell’s AI Megadeal Hands Wall Street Multiple M&A Milestones",
-    "tt": "Marvell'in Yapay Zeka Mega Anlaşması Wall Street'te Birden Fazla Birleşme ve Satın Alma Aşamasını Elinde Tutuyor",
-    "s": "Marvell Technology Inc.’s $115 billion takeover of data center laser maker Lumentum Holdings Inc. will move Wall Street past a number of mergers and acquisitions milestones in a year already chock-full of megadeals.",
-    "ss": "Marvell Technology Inc.'in veri merkezi lazer üreticisi Lumentum Holdings Inc.'i 115 milyar dolara satın alması, Wall Street'i hali hazırda büyük anlaşmalarla dolu bir yılda bir dizi birleşme ve satın alma kilometre taşının ötesine taşıyacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones",
-    "ts": 1793627939000,
-    "tags": []
-   },
-   {
-    "t": "A Fundamental Problem With the Economy",
-    "tt": "Ekonominin Temel Bir Sorunu",
-    "s": "The US economy isn’t in crisis, but US consumers seem to be, despite stable growth, low unemployment, a relatively low rate of inflation and robust retail spending, Bloomberg Opinion columnist Kathryn Anne Edwards says. (Source: Bloomberg)",
-    "ss": "Bloomberg Opinion köşe yazarı Kathryn Anne Edwards, ABD ekonomisinin krizde olmadığını ancak istikrarlı büyümeye, düşük işsizliğe, nispeten düşük enflasyon oranına ve güçlü perakende harcamalarına rağmen ABD tüketicilerinin krizde gibi göründüğünü söylüyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/opinion-a-fundamental-problem-with-the-economy-video",
-    "ts": 1793627543000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -658,6 +653,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
+    "tt": null,
+    "s": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "ts": 1793634300000,
+    "tags": []
+   },
+   {
+    "t": "SpaceX has big wireless dreams — and Boost Mobile may be its shortcut",
+    "tt": null,
+    "s": "In recent weeks there has been intense speculation surrounding SpaceX’s ambitions in the cellular market with multiple acquisition targets suggested. Boost Mobile is the latest.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
+    "ts": 1793634000000,
+    "tags": []
+   },
+   {
+    "t": "Want guaranteed income in retirement without an annuity? Try laddering I-bonds.",
+    "tt": null,
+    "s": "The new 5.51% rate might entice you to use I-bonds to create inflation-proof income in retirement.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+    "ts": 1793633520000,
+    "tags": []
+   },
+   {
+    "t": "My ex-husband sent me a text, promising $20,000 for our children’s education. Now he refuses to pay. What can I do?",
+    "tt": null,
+    "s": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+    "ts": 1793632500000,
+    "tags": []
+   },
+   {
+    "t": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
+    "tt": "Marvell ve Lumentum resmi olarak birleşmeyi planlıyor. İşte bilmeniz gerekenler.",
+    "s": "Newly announced $115 billion deal for Lumentum will be financed entirely through stock: “There’s a real echo of 2000 here.”",
+    "ss": "Yeni önerilen bir anlaşma stokla finanse edilecek ve sıcak optik ağ pazarını hedef alacak.",
+    "u": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+    "ts": 1793631900000,
+    "tags": []
+   },
+   {
     "t": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
     "tt": "Eşim 401(k)'da sadece 80.000 doları olduğunu öğrendiğimde ağladı. 2,2 milyon dolarım var. Şok olmakta haksız mıyım?",
     "s": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
@@ -701,60 +741,42 @@
     "u": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
     "ts": 1793627160000,
     "tags": []
-   },
-   {
-    "t": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-    "tt": "Bu 10 mega bağışçı ara seçimlere toplam 1 milyar dolar harcadı",
-    "s": "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
-    "ss": "Bu yılın ara sınavlarının \"kayıttaki en pahalı seçim döngüsüne\" dönüşmesine yardımcı oldular.",
-    "u": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
-    "ts": 1793627040000,
-    "tags": []
-   },
-   {
-    "t": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-    "tt": "Babam Alzheimer hastası ve bakıcısı onun banka kartını DoorDash için kullanıyor. Ben müdahale eder miyim?",
-    "s": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-    "ss": "\"Yatılı bakıcının ebeveynimin cömertliğinden yararlandığından şüpheleniyorum.\"",
-    "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-    "ts": 1793625300000,
-    "tags": []
-   },
-   {
-    "t": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
-    "tt": "Marvell ve Lumentum resmi olarak birleşmeyi planlıyor. İşte bilmeniz gerekenler.",
-    "s": "A newly proposed deal would be financed in stock and target the hot optical-networking market.",
-    "ss": "Yeni önerilen bir anlaşma stokla finanse edilecek ve sıcak optik ağ pazarını hedef alacak.",
-    "u": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-    "ts": 1793622360000,
-    "tags": []
-   },
-   {
-    "t": "This is the biggest threat to the AI-powered bull market",
-    "tt": "Bu yapay zeka destekli boğa piyasasına yönelik en büyük tehdit",
-    "s": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-    "ss": "Gişe rekorları kıran kazanç büyümesi, borsanın 2026'da daha da yükselmesine yardımcı oldu. 2027'de bu motor durabilir.",
-    "u": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-    "ts": 1793622180000,
-    "tags": []
-   },
-   {
-    "t": "America is doing better than you think — just ask those in the bottom half of household wealth",
-    "tt": "Amerika düşündüğünüzden daha iyi durumda; hane halkının servetinin en alt yarısındakilere sorun",
-    "s": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
-    "ss": "Amerikalıların alt yarısının net serveti 2019'dan bu yana iki kattan fazla arttı. Bunu sosyal medyada gezinerek bilemezsiniz.",
-    "u": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    "ts": 1793622120000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Lindsay Clancy Returns To Court As Defense, Prosecutors Discuss 2nd Trial Date",
+    "tt": null,
+    "s": "Lindsay Clancy Returns To Court As Defense, Prosecutors Discuss 2nd Trial Date Authored by Stacy Robinson via The Epoch Times , Lindsay Clancy is scheduled to appear in court again on Nov. 2 as her attorneys and prosecutors convene to discuss possible dates for a new trial , and finish presenting mo",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/lindsay-clancy-returns-court-defense-prosecutors-discuss-2nd-trial-date",
+    "ts": 1793634300000,
+    "tags": []
+   },
+   {
+    "t": "Showdowns",
+    "tt": null,
+    "s": "Showdowns This week is shaping up as a series of showdowns. &nbsp;In the United States we have the midterm elections where prediction markets favor the Democrats overwhelmingly to take control of the House and, less assuredly, to also net control of the Senate. Dem sweep odds, from BofA's Michael Ha",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/showdowns",
+    "ts": 1793632800000,
+    "tags": []
+   },
    {
     "t": "Shorts Beware? China's Plunge Protection Team Stabilizes Stocks With $15 Billion Swap Rescue Plan",
     "tt": "Şort Dikkat Edin mi? Çin'in Dalmaya Karşı Koruma Ekibi, 15 Milyar Dolarlık Takas Kurtarma Planıyla Hisse Senetlerini Stabilize Ediyor",
     "s": "Shorts Beware? China's Plunge Protection Team Stabilizes Stocks With $15 Billion Swap Rescue Plan China's version of the Plunge Protection Team is coming out swinging Monday morning, after the central bank announced earlier today that it would inject a new round of a $15 billion swap facility to res",
     "ss": "Şort Dikkat Edin mi? Çin'in Dalma Koruma Ekibi, Hisse Senetlerini 15 Milyar Dolarlık Swap Kurtarma Planıyla Stabilize Ediyor Çin'in Dalma Koruma Ekibi versiyonu, merkez bankasının bugün erken saatlerde res'e 15 milyar dolarlık yeni bir takas tesisi ekleyeceğini duyurmasının ardından Pazartesi sabahı sallanarak çıkıyor.",
     "u": "https://www.zerohedge.com/markets/shorts-beware-chinas-plunge-protection-team-stabilizes-stocks-15-billion-swap-rescue-plan",
+    "ts": 1793631300000,
+    "tags": []
+   },
+   {
+    "t": "South Africa's Biggest City Faces Total Infrastructure Collapse",
+    "tt": null,
+    "s": "South Africa's Biggest City Faces Total Infrastructure Collapse Over 50 years of communist anti-colonialism in the third world, aided by some liberal governments in the west, has provided uncomfortable truths about what works and what doesn't when it comes to human civilization. &nbsp;The first and ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/south-africas-biggest-city-faces-total-infrastructure-collapse",
     "ts": 1793631300000,
     "tags": []
    },
@@ -816,41 +838,18 @@
     "u": "https://www.zerohedge.com/geopolitical/rare-iranian-strike-vessel-hundreds-miles-strait-hormuz",
     "ts": 1793625900000,
     "tags": []
-   },
-   {
-    "t": "Futures Rise As Oil Slides Below $100 On Trump Iran Diplomacy Report, Tech Bounces Ahead Of Midterms",
-    "tt": "Vadeli işlemler, Trump'ın İran Diplomasi Raporu Üzerine Petrolün 100 Doların Altına Düşmesiyle Yükseliyor, Teknoloji Ara Sınavlar Öncesinde Yükseliyor",
-    "s": "Futures Rise As Oil Slides Below $100 On Trump Iran Diplomacy Report, Tech Bounces Ahead Of Midterms US futures are higher as a slide in oil, a tentative tech rebound and some old-fashioned seasonality lift sentiment on the eve of the midterms: crude tumbled more than 4% after Axios reported that Tr",
-    "ss": "Vadeli İşlemler, Trump İran Diplomasi Raporunda Petrol 100 Doların Altına Düşerken Yükseliyor, Ara Sınavlar Öncesinde Teknoloji Sıçrayıyor ABD vadeli işlemleri, petroldeki düşüş, geçici teknoloji toparlanması ve ara sınav arifesinde bazı eski moda mevsimsellik hissiyatının artmasıyla yükseldi: Axios'un Tr.",
-    "u": "https://www.zerohedge.com/markets/futures-rise-oil-slides-below-100-trump-iran-diplomacy-report-tech-bounces-ahead-midterms",
-    "ts": 1793625006000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "French Rail Giant Alstom Crashes On \"Painful\" Second Warning",
-    "tt": "Fransız Demiryolu Devi Alstom \"Acı Veren\" İkinci Uyarı Üzerine Kaza Yaptı",
-    "s": "French Rail Giant Alstom Crashes On \"Painful\" Second Warning Alstom shares crashed in European trading after costly delays on German train orders forced the French train manufacturer and rail-equipment supplier to slash its earnings outlook (again) , forecast a 1.5 billion euro cash burn, and signal",
-    "ss": "Fransız Demiryolu Devi Alstom \"Acı Veren\" İkinci Uyarı Üzerine Çöktü Alstom hisseleri, Alman tren siparişlerindeki maliyetli gecikmelerin Fransız tren üreticisi ve demiryolu ekipmanı tedarikçisini kazanç görünümünü (yine) düşürmeye zorlaması, 1,5 milyar euro nakit yakımı öngörmesi ve sinyal vermesinin ardından Avrupa ticaretinde çöktü",
-    "u": "https://www.zerohedge.com/markets/french-rail-giant-alstom-crashes-painful-second-warning",
-    "ts": 1793625000000,
-    "tags": []
-   },
-   {
-    "t": "Iranian 'Ghost Fleet' Tanker Filmed Slipping US Blockade With 500,000 Barrels Of LPG For China",
-    "tt": "İran'ın 'Hayalet Filosu' Tankeri, Çin'e Yönelik 500.000 Varil LPG İle ABD Ablukasını Kaydırırken Görüntülendi",
-    "s": "Iranian 'Ghost Fleet' Tanker Filmed Slipping US Blockade With 500,000 Barrels Of LPG For China A sanctioned Iranian tanker carrying about 500,000 barrels of liquefied petroleum gas slipped past the U.S. naval blockade and delivered its cargo to China , according to United Against Nuclear Iran (UANI)",
-    "ss": "İran'ın 'Hayalet Filo' Tankeri, Çin'e Yönelik 500.000 Varil LPG ile ABD Ablukasını Aşarken Görüntülendi United Against Nuclear Iran'a (UANI) göre, yaklaşık 500.000 varil sıvılaştırılmış petrol gazı taşıyan yaptırım uygulanan bir İran tankeri, ABD deniz ablukasını geçerek yükünü Çin'e teslim etti.",
-    "u": "https://www.zerohedge.com/geopolitical/iranian-ghost-fleet-tanker-filmed-slipping-us-blockade-500000-barrels-lpg-china",
-    "ts": 1793624100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "ABD'de imalat sektörü 10 aydır kesintisiz büyüyor",
+    "tt": null,
+    "s": "ABD'de imalat sektörü faaliyetleri, Ekim ayında üretimin yaklaşık beş yılın en güçlü artışını kaydetmesiyle ivme kazandı. İmalat sanayi endeksi 55,5'e yükselerek beklentileri aşarken, sektördeki büyüme üst üste 10. ayına ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abdde-imalat-sektoru-10-aydir-kesintisiz-buyuyor-3793115",
+    "ts": 1793633351000,
+    "tags": []
+   },
    {
     "t": "Sermaye piyasası işlemleri soruşturmasında Korkmaz Enes Ergun adliyede",
     "tt": null,
@@ -931,15 +930,6 @@
     "u": "https://www.bloomberght.com/apple-ceo-su-ternus-yapay-zekada-derinlige-onem-veriyoruz-3793074",
     "ts": 1793618602000,
     "tags": []
-   },
-   {
-    "t": "Trump'tan ara seçimler öncesi veto tehdidi",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, ara seçimleri Demokratların kazanması durumunda her şeyi veto edeceğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-tan-ara-secimler-oncesi-veto-tehdidi-3793073",
-    "ts": 1793618600000,
-    "tags": []
    }
   ]
  },
@@ -955,6 +945,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
