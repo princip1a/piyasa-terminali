@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-02T20:34:33.890190+00:00",
+ "generated": "2026-11-02T21:21:23.050007+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7553.95,
-   "c": -0.34,
-   "d": -26.12,
+   "p": 7541.4,
+   "c": -0.51,
+   "d": -38.67,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25221.518,
-   "c": -0.85,
-   "d": -215.482,
+   "p": 25164.316,
+   "c": -1.07,
+   "d": -272.684,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52071.54,
-   "c": 0.58,
-   "d": 301.231,
+   "p": 51983.98,
+   "c": 0.41,
+   "d": 213.671,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.85,
-   "c": 7.36,
-   "d": 1.43,
+   "p": 21.27,
+   "c": 9.53,
+   "d": 1.85,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3951.3,
-   "c": 1.34,
-   "d": 52.4,
+   "p": 3955.9,
+   "c": 1.46,
+   "d": 57.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.66,
-   "c": 3.18,
-   "d": 1.563,
+   "p": 50.615,
+   "c": 3.09,
+   "d": 1.518,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 95.98,
-   "c": -7.82,
-   "d": -8.14,
+   "p": 96.02,
+   "c": -7.78,
+   "d": -8.1,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 104.09,
-   "c": -11.52,
-   "d": -13.55,
+   "p": 104.14,
+   "c": -11.48,
+   "d": -13.5,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.76,
-   "c": -0.12,
-   "d": -0.12,
+   "p": 101.773,
+   "c": -0.11,
+   "d": -0.107,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.966,
+   "p": 49.9653,
    "c": 0.05,
    "d": 0.023,
    "k": "idx"
@@ -81,40 +81,40 @@
   {
    "n": "BIST 100",
    "p": 10961.67,
-   "c": 1.88,
-   "d": 202.07,
+   "c": -1.82,
+   "d": -203.73,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 76812,
-   "c": -1.15,
+   "p": 76801,
+   "c": -1.33,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2245.47,
-   "c": -0.56,
+   "p": 2250.69,
+   "c": -0.43,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 91.45,
-   "c": -2.74,
+   "p": 91.66,
+   "c": -2.59,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -0.12,
+   "c": 0.06,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 695.63,
-   "c": -1.68,
+   "p": 696.14,
+   "c": -1.51,
    "k": "usd"
   }
  ],
@@ -454,6 +454,64 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "US Tech Stocks Enter Correction on AI and Midterm Election Risks",
+    "tt": "ABD Teknoloji Hisse Senetleri Orta Doğu Gerginliklerinde Düzeltmeye Yakın Oluyor",
+    "s": "Technology stocks led US equities lower on Monday as worries around the artificial intelligence trade outweighed hopes of US-Iran diplomacy.",
+    "ss": "Orta Doğu'da yenilenen gerilimler ve yapay zeka ticaretine ilişkin endişelerin tüccarları çıkışlara doğru itmesiyle teknoloji hisseleri ABD hisse senetlerinin düşmesine neden oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
+    "ts": 1793624910000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
+    "s": "A selloff in chipmakers weighed on stocks, offsetting a slump in oil prices driven by hopes for diplomatic efforts to end the war in Iran.",
+    "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793568484000,
+    "tags": []
+   },
+   {
+    "t": "Treasury Yields Extend Past Month’s Slide as Oil Prices Drop",
+    "tt": "Petrol Fiyatları Düşerken Hazine Getirileri Geçtiğimiz Aydaki Kaymayı Uzattı",
+    "s": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes.",
+    "ss": "Düşen petrol fiyatlarının Fed'in ilave faiz artırımlarına yol açacak enflasyon baskısına ilişkin endişeleri hafifletmesiyle Hazine tahvilleri iki yıldan fazla bir sürenin en büyük aylık yükselişini gerçekleştirerek yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/treasury-yields-extend-past-month-s-slide-as-oil-prices-tumble",
+    "ts": 1793641480000,
+    "tags": [
+     "Gümüş ▼",
+     "Altcoin ▼",
+     "Petrol ▼"
+    ]
+   },
+   {
+    "t": "Citi FX Traders Back Carry but Warn Against ‘Set and Forget’",
+    "tt": "Citi FX Yatırımcıları Geri Taşıdı Ancak 'Ayarla ve Unut'a Karşı Uyardı",
+    "s": "Citigroup Inc.’s US currency desk expects the carry trade to keep offering opportunities for investors even though the strategy may struggle to replicate a period of standout returns.",
+    "ss": "Citigroup Inc.'in ABD döviz masası, stratejinin göze çarpan getiri dönemini tekrarlamakta zorlansa da, taşıma ticaretinin yatırımcılara fırsatlar sunmaya devam etmesini bekliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/citi-fx-traders-like-carry-but-say-it-s-no-set-and-forget-bet",
+    "ts": 1793638800000,
+    "tags": []
+   },
+   {
+    "t": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
+    "tt": "NTSB, Learjet'in Florida'daki Ölümcül Kazadan Önce Parçalanmış Olduğunu Söyledi",
+    "s": "US air safety investigators said there are early indications the Learjet 60 that crashed in Palm Beach, Florida, on Sunday had broken up before impacting the ground, killing all nine people on board and injuring at least one person on the ground. (Source: Bloomberg)",
+    "ss": "ABD'li hava güvenliği araştırmacıları, Pazar günü Palm Beach, Florida'da düşen Learjet 60'ın yere çarpmadan önce parçalandığına, uçaktaki dokuz kişinin tamamının öldüğüne ve yerde en az bir kişinin de yaralandığına dair erken belirtilerin bulunduğunu söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/learjet-may-have-broken-up-before-fatal-florida-crash-ntsb-says",
+    "ts": 1793653499000,
+    "tags": []
+   },
+   {
+    "t": "ETF Anthropic Exposure, Political Funds, BOJ Unwinds ETFs",
+    "tt": "ETF Antropik Risk, Siyasi Fonlar, BOJ, ETF'leri Çözüyor",
+    "s": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Active Investment Company Alliance Founder & Executive Chair John Cole Scott, Tema ETFs Head of Investment Strategy Paisley Nardini",
+    "ss": "\"Bloomberg ETF IQ\", küresel borsa yatırım fonları endüstrisindeki trilyonlarca dolara bağlı fırsatlara, risklere ve mevcut eğilimlere odaklanıyor. Bugünün konukları: Active Investment Company Alliance Kurucusu ve İcra Kurulu Başkanı John Cole Scott, Tema ETF'ler Yatırım Stratejisi Başkanı Paisley Nardini",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/etf-iq-10-2-2026-video",
+    "ts": 1793652963000,
+    "tags": []
+   },
+   {
     "t": "Gold Rebounds as Iran Diplomacy Hopes Send Oil Tumbling",
     "tt": "Altın, İran Diplomasisinin Petrolün Düşüşünü Umut Etmesiyle Yükseliyor",
     "s": "Gold rebounded as oil plunged on renewed hopes for diplomatic efforts to end the war in Iran.",
@@ -466,6 +524,15 @@
      "Altın ▲",
      "BTC ▲"
     ]
+   },
+   {
+    "t": "Robinhood in ‘Food Fight’ for Anthropic IPO Retail Allocation",
+    "tt": "Antropik Halka Arz Perakende Tahsisi için 'Gıda Savaşı'nda Robinhood",
+    "s": "Robinhood CFO Shiv Verma said that the company is in a 'food fight' for retail access to shares in Anthropic's upcoming IPO. Verma said Robinhood is going to let its demand for shares 'speak for itself' and let trading momentum on Robinhood's platform drive the argument for access. (Source: Bloomber",
+    "ss": "Robinhood CFO'su Shiv Verma, şirketin Anthropic'in yaklaşan halka arzındaki hisselere perakende erişim için 'yemek savaşı' içinde olduğunu söyledi. Verma, Robinhood'un hisse talebinin 'kendi adına konuşmasına' izin vereceğini ve Robinhood platformundaki ticaret ivmesinin erişim argümanını yönlendirmesine izin vereceğini söyledi. (Kaynak: Bloomber",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/robinhood-in-food-fight-for-anthropic-ipo-allocation-video",
+    "ts": 1793651497000,
+    "tags": []
    },
    {
     "t": "NYC Marathon Winner Andreas Almgren on Debut Victory",
@@ -484,74 +551,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
     "ts": 1793623505000,
     "tags": []
-   },
-   {
-    "t": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
-    "tt": "Yapay Zeka Ticareti 'Bana Göster' Hikayesine Dönüştüğünden Ara Dönem Rallisi Zor Olabilir",
-    "s": "Traders expecting the US midterm elections to be a clearing event for stocks may find themselves coming up against an artificial intelligence “wall of worry” that keeps the market from moving higher, according to Wolfe Research.",
-    "ss": "Wolfe Research'e göre, ABD ara seçimlerinin hisse senetleri için bir takas olayı olmasını bekleyen tüccarlar, kendilerini piyasanın yükselişini engelleyen bir yapay zeka \"endişe duvarı\" ile karşı karşıya bulabilirler.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
-    "ts": 1793645313000,
-    "tags": []
-   },
-   {
-    "t": "US Tech Stocks Hover Near Correction on Middle East Tensions",
-    "tt": "ABD Teknoloji Hisse Senetleri Orta Doğu Gerginliklerinde Düzeltmeye Yakın Oluyor",
-    "s": "Technology stocks are leading US equities lower as renewed tensions in the Middle East and worries around the artificial intelligence trade pushed traders toward the exits.",
-    "ss": "Orta Doğu'da yenilenen gerilimler ve yapay zeka ticaretine ilişkin endişelerin tüccarları çıkışlara doğru itmesiyle teknoloji hisseleri ABD hisse senetlerinin düşmesine neden oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
-    "ts": 1793624910000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 2",
-    "tt": "2 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil slumped the most in three months after Washington and Tehran signaled openness to talks to resolve the months-long conflict roiling Middle East energy supplies.",
-    "ss": "Petrol, Washington ve Tahran'ın Orta Doğu enerji arzını rahatsız eden aylardır süren anlaşmazlığın çözümü için müzakerelere açık olduklarının sinyalini vermesinin ardından üç ayın en sert düşüşünü yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
-    "ts": 1793574710000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Buyers Circle Mark Walter’s F1 Team as He Offloads Sports Assets",
-    "tt": "Alıcılar Grubu, Spor Varlıklarını Dağıtırken Walter'ın F1 Takımını İşaretliyor",
-    "s": "Buyers have begun circling Mark Walter’s Cadillac F1 team, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre alıcılar Mark Walter'ın Cadillac F1 takımının etrafında dolaşmaya başladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/buyers-circle-mark-walter-s-f1-team-as-he-offloads-sports-assets",
-    "ts": 1793649755000,
-    "tags": []
-   },
-   {
-    "t": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
-    "tt": "İran Görüşmelerine Yönelik Umut Yeniden Ortaya Çıkarken ABD Doğal Gazı Petrolle Birlikte Düştü",
-    "s": "US natural gas futures ended lower, reversing earlier gains, as renewed hope for talks between the US and Iran caused oil and European gas prices to plunge. Those falling prices likely triggered a selloff of baskets of commodities that include US gas, even though US gas is insulated in the short-run",
-    "ss": "ABD ile İran arasındaki görüşmelere dair yenilenen umutların petrol ve Avrupa gaz fiyatlarının düşmesine neden olmasıyla, ABD doğal gaz vadeli işlemleri daha önceki kazanımlarını tersine çevirerek düşüşle sonuçlandı. Bu düşen fiyatlar, ABD gazı kısa vadede izole edilmiş olsa da, muhtemelen ABD gazını da içeren emtia sepetlerinin satışını tetikledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
-    "ts": 1793632080000,
-    "tags": []
-   },
-   {
-    "t": "S&P 500 Wavers as Chip Rout Offsets US-Iran Hopes: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Petroldeki Çöküşün Duyarlılığı Desteklemesiyle Yükseliyor: Piyasalar İyileşiyor",
-    "s": "A selloff in chipmakers weighed on stocks, offsetting a slump in oil prices driven by hopes for diplomatic efforts to end the war in Iran.",
-    "ss": "ABD hisse senedi vadeli kontratları, yapay zeka ticaretindeki can sıkıcı satışları durdurmak için yükseldi; düşen petrol fiyatları hisse senetlerinin aya olumlu başlamasına yardımcı oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793568484000,
-    "tags": []
-   },
-   {
-    "t": "'Bipartisan' ETF 'Makes Sense': Weiskopf",
-    "tt": "'İki partili' ETF 'Mantıklı': Weiskopf",
-    "s": "Dan Weiskopf, portfolio manager at Subversive ETF, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" (Source: Bloomberg)",
-    "ss": "Subversive ETF portföy yöneticisi Dan Weiskopf, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/-bipartisan-etf-makes-sense-weiskopf-video",
-    "ts": 1793648011000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -561,7 +560,7 @@
     "s": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
     "ss": "Tahmin piyasaları hâlâ görevdeki Cumhuriyetçinin dördüncü dönemi kazanmayı tercih ettiğini gösteriyor ancak son haftalarda oranlar daraldı.",
     "u": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "ts": 1793645644000,
+    "ts": 1793654023000,
     "tags": []
    },
    {
@@ -651,6 +650,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Palantir earnings reveal a major AI turning point",
+    "tt": "Palantir'in kazançları yapay zekada büyük bir dönüm noktasını ortaya koyuyor",
+    "s": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter.",
+    "ss": "ABD ticari sektörü üçüncü çeyrekte ABD hükümet kesiminden daha fazla para getirdi.",
+    "u": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+    "ts": 1793653740000,
+    "tags": []
+   },
+   {
+    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden bizi Roth dönüşümleri yapmaya zorluyor?",
+    "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+    "ss": "“Temel yaşam masraflarımız yıllık 110.000 dolar emekli maaşı ve Sosyal Güvenlik tarafından karşılanıyor.”",
+    "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "ts": 1793653200000,
+    "tags": []
+   },
+   {
     "t": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
     "tt": "Çip stokları 'güven krizi' yaşıyor ancak işler göründüğü kadar kasvetli değil",
     "s": "Investors are worried about whether there will be sustained demand for chips, but one analyst notes that large tech companies are still spending heavily.",
@@ -714,15 +731,6 @@
     "tags": []
    },
    {
-    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden bizi Roth dönüşümleri yapmaya zorluyor?",
-    "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-    "ss": "“Temel yaşam masraflarımız yıllık 110.000 dolar emekli maaşı ve Sosyal Güvenlik tarafından karşılanıyor.”",
-    "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "ts": 1793638800000,
-    "tags": []
-   },
-   {
     "t": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
     "tt": "S&P 500 risklerini azaltmak isteyen yatırımcılar için 6 temettü hissesi",
     "s": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.",
@@ -730,18 +738,50 @@
     "u": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
     "ts": 1793638560000,
     "tags": []
-   },
-   {
-    "t": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
-    "tt": "Analistler, bu teknoloji hisselerinin geçen haftaki satışlarda haksız bir şekilde yükseldiğini söylüyor",
-    "s": "One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.",
-    "ss": "Bir analist, çip sektörünün bazı köşelerinde \"fiyat ile temeller arasında anlamlı bir uçurum\" olduğuna dikkat çekiyor.",
-    "u": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-    "ts": 1793638200000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "'The Coup Is Underway': Kunstler Sees A 'Turnstile Into The Next Phase Of The Fourth Turning'",
+    "tt": "'Darbe Başlıyor': Kunstler 'Dördüncü Dönüşün Sonraki Aşamasına Giden Turnike' Görüyor",
+    "s": "'The Coup Is Underway': Kunstler Sees A 'Turnstile Into The Next Phase Of The Fourth Turning' Authored by James Howard Kunstler via Kunstler.com , Forcing Function \"Where Enlightenment philosopher Descartes said, 'I think, therefore I am,' the Communist says, 'I'm right, therefore I'm in charge.'&nb",
+    "ss": "'Darbe Başlıyor': Kunstler, 'Dördüncü Dönüşün Sonraki Aşamasına Giden Turnike' Görüyor James Howard Kunstler, Kunstler.com aracılığıyla, Zorlama İşlevi \"Aydınlanma filozofu Descartes'ın 'Düşünüyorum, öyleyse varım' dediği yerde Komünist, 'Haklıyım, dolayısıyla yetkiliyim' der.&nb",
+    "u": "https://www.zerohedge.com/political/coup-underway-kunstler-sees-turnstile-next-phase-fourth-turning",
+    "ts": 1793654400000,
+    "tags": []
+   },
+   {
+    "t": "From Stablecoin To Foundation: Tether CEO Unveils Asimovian Vision To \"Reduce The Darkness\"",
+    "tt": "Stablecoin'den Vakfına: Tether CEO'su Asimov'un \"Karanlığı Azaltma\" Vizyonunu Açıkladı",
+    "s": "From Stablecoin To Foundation: Tether CEO Unveils Asimovian Vision To \"Reduce The Darkness\" Tether CEO Paolo Ardoino cast the company as Asimov's Foundation, a seed of light for the coming dark age. Somewhat ironically, the seed money, it turns out, is the Empire's own debt, and a growing pile of Sw",
+    "ss": "Stablecoin'den Vakfına: Tether CEO'su, Asimov'un \"Karanlığı Azaltma\" Vizyonunu Açıkladı Tether CEO'su Paolo Ardoino, şirketi, yaklaşan karanlık çağ için bir ışık tohumu olan Asimov Vakfı olarak belirledi. Biraz ironik bir şekilde, başlangıç ​​parasının İmparatorluğun kendi borcu olduğu ve büyüyen bir Sw yığını olduğu ortaya çıktı.",
+    "u": "https://www.zerohedge.com/crypto/stablecoin-foundation-tether-ceo-unveils-asimovian-vision-reduce-darkness",
+    "ts": 1793652600000,
+    "tags": []
+   },
+   {
+    "t": "Trump Says 'No Rush' On Renewing Iran War, Oil Prices 'Dropping Like A Rock'",
+    "tt": "İran'ın Dini Lideri Nadir Uvertürde Daha Fazla ABD Görüşmesi Yapıyor; Petrol Fiyatları Düşüyor",
+    "s": "Trump Says 'No Rush' On Renewing Iran War, Oil Prices 'Dropping Like A Rock' Summary Trump Delays Iran Decision: Trump says he is in no rush to resume strikes, favoring more time for diplomacy despite Netanyahu's reported push for renewed military action. Ayatollah Signals Openness to Talks: Supreme",
+    "ss": "İran'ın Dini Lideri Nadir Uvertürde Daha Fazla ABD Görüşmesi Yapıyor; Petrol Fiyatlarında Düşüş Güncellemesi(0855ET): Petrol, Tahran'dan gelen nadir bir manşetin ardından düşüşe geçti ISNA'nın OIL FA raporuna göre, İran Cumhurbaşkanı Pezeshkian, Dini Liderin hükümete diyalog konusunda bir miktar yetki verdiğini söyledi",
+    "u": "https://www.zerohedge.com/energy/brent-wti-futs-tumble-trump-may-give-diplomacy-chance-iran-floats-two-day-hormuz-reopening",
+    "ts": 1793652600000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Robot Mowers Invade America's Golf Courses, Putting Groundskeepers On Notice",
+    "tt": "Robot Biçme Makineleri Amerika'nın Golf Sahalarını İstila Ederek Saha Bekçilerini Dikkate Aldı",
+    "s": "Robot Mowers Invade America's Golf Courses, Putting Groundskeepers On Notice From Four Seasons' Tranquilo Golf Club in Florida and Barton Hills Country Club in Michigan to Baltimore Country Club in Maryland and the Country Club of New Bedford in Massachusetts, robotic mowers are being spotted at gol",
+    "ss": "Robot Biçme Makineleri Amerika'nın Golf Sahalarını İstila Ediyor, Florida'daki Four Seasons'ın Tranquilo Golf Kulübü'nden ve Michigan'daki Barton Hills Country Club'dan Maryland'deki Baltimore Country Club'a ve Massachusetts'teki New Bedford Country Club'a kadar saha görevlilerini ihbar ediyor, robot çim biçme makineleri gol sahasında görülüyor",
+    "u": "https://www.zerohedge.com/technology/robot-mowers-invade-americas-golf-courses-putting-groundskeepers-notice",
+    "ts": 1793652300000,
+    "tags": []
+   },
    {
     "t": "\"Not Acceptable At All\": Trump Blasts Former US Attorney's $50M Concord Deal After NYT Report",
     "tt": "\"Hiç Kabul Edilemez\": Trump, NYT Raporunun Ardından Eski ABD Başsavcısının 50 Milyon Dolarlık Concord Anlaşmasını Vurdu",
@@ -795,52 +835,38 @@
     "u": "https://www.zerohedge.com/markets/3-midterm-outcomes-how-theyd-move-stocks",
     "ts": 1793643600000,
     "tags": []
-   },
-   {
-    "t": "From Stablecoin To Foundation: Tether CEO Unveils Asimovian Vision To \"Reduce The Darkness\"",
-    "tt": "Stablecoin'den Vakfına: Tether CEO'su Asimov'un \"Karanlığı Azaltma\" Vizyonunu Açıkladı",
-    "s": "From Stablecoin To Foundation: Tether CEO Unveils Asimovian Vision To \"Reduce The Darkness\" Tether CEO Paolo Ardoino cast the company as Asimov's Foundation, a seed of light for the coming dark age. Somewhat ironically, the seed money, it turns out, is the Empire's own debt, and a growing pile of Sw",
-    "ss": "Stablecoin'den Vakfına: Tether CEO'su, Asimov'un \"Karanlığı Azaltma\" Vizyonunu Açıkladı Tether CEO'su Paolo Ardoino, şirketi, yaklaşan karanlık çağ için bir ışık tohumu olan Asimov Vakfı olarak belirledi. Biraz ironik bir şekilde, başlangıç ​​parasının İmparatorluğun kendi borcu olduğu ve büyüyen bir Sw yığını olduğu ortaya çıktı.",
-    "u": "https://www.zerohedge.com/crypto/stablecoin-foundation-tether-ceo-unveils-asimovian-vision-reduce-darkness",
-    "ts": 1793643600000,
-    "tags": []
-   },
-   {
-    "t": "State Department Goes Dark After Substation \"Event\" Cuts Power To DC's Foggy Bottom",
-    "tt": "Trafo Merkezi \"Olayının\" DC'nin Sisli Dibindeki Gücü Kesmesinin Ardından Dışişleri Bakanlığı Karanlığa Döndü",
-    "s": "State Department Goes Dark After Substation \"Event\" Cuts Power To DC's Foggy Bottom News broke late this morning that Washington's Foggy Bottom neighborhood had lost power in what local reports describe as an \"unscheduled loss of electrical power.\" Local outlet 7News reports that more than 1,100 Pep",
-    "ss": "Trafo Merkezi \"Olayının\" DC'nin Foggy Bottom'a Elektriği Kestiğinden Sonra Dışişleri Bakanlığı Karanlığa Gömüldü Bu sabah geç saatlerde Washington'un Foggy Bottom mahallesinin, yerel raporların \"planlanmamış elektrik gücü kaybı\" olarak tanımladığı şekilde elektrik kaybettiğine dair bir haber geldi. Yerel yayın organı 7News'in bildirdiğine göre 1.100'den fazla Pep",
-    "u": "https://www.zerohedge.com/political/washingtons-foggy-bottom-hit-unscheduled-power-loss",
-    "ts": 1793642700000,
-    "tags": []
-   },
-   {
-    "t": "Conservatives In Disbelief Over Democrat's Answer: \"One Of The Craziest Things I've Ever Heard A Politician Say\"",
-    "tt": "Muhafazakarlar Demokratların Cevabına İnanmıyor: \"Bir Politikacının Söylediğini Duyduğum En Çılgınca Şeylerden Biri\"",
-    "s": "Conservatives In Disbelief Over Democrat's Answer: \"One Of The Craziest Things I've Ever Heard A Politician Say\" Michigan Democrat Senate nominee Abdul El-Sayed is facing backlash after suggesting that concerns over transgender students in girls' sports and locker rooms are so-called manufactured po",
-    "ss": "Muhafazakarlar Demokratların Cevabına İnanmıyor: \"Bir Politikacının Söylediğini Duyduğum En Çılgınca Şeylerden Biri\" Michigan Demokrat Senatosu adayı Abdul El-Sayed, kızların spor salonlarında ve soyunma odalarındaki transseksüel öğrencilerle ilgili endişelerin sözde üretilmiş pohpohlama olduğunu öne sürdükten sonra tepkiyle karşı karşıya kaldı",
-    "u": "https://www.zerohedge.com/political/conservatives-disbelief-over-democrats-answer-one-craziest-things-ive-ever-heard",
-    "ts": 1793640900000,
-    "tags": []
-   },
-   {
-    "t": "Iran's Supreme Leader Floats More US Talks In Rare Overture",
-    "tt": "İran'ın Dini Lideri Nadir Uvertürde Daha Fazla ABD Görüşmesi Yapıyor; Petrol Fiyatları Düşüyor",
-    "s": "Iran's Supreme Leader Floats More US Talks In Rare Overture Update(0855ET) : Oil is tumbling in the wake of a somewhat rare headline out of Tehran&nbsp; Iranian President Pezeshkian says the Supreme Leader has granted the government some authority on dialogue , ISNA reports OIL FALLS TO INTRADAY LOW",
-    "ss": "İran'ın Dini Lideri Nadir Uvertürde Daha Fazla ABD Görüşmesi Yapıyor; Petrol Fiyatlarında Düşüş Güncellemesi(0855ET): Petrol, Tahran'dan gelen nadir bir manşetin ardından düşüşe geçti ISNA'nın OIL FA raporuna göre, İran Cumhurbaşkanı Pezeshkian, Dini Liderin hükümete diyalog konusunda bir miktar yetki verdiğini söyledi",
-    "u": "https://www.zerohedge.com/energy/brent-wti-futs-tumble-trump-may-give-diplomacy-chance-iran-floats-two-day-hormuz-reopening",
-    "ts": 1793640600000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
    }
   ],
   "Bloomberg HT": [
    {
-    "t": "Ahmet Nazif Zorlu hayatını kaybetti",
+    "t": "Resmi Gazete'de bugün (03.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-03112026-3793134",
+    "ts": 1793653879000,
+    "tags": []
+   },
+   {
+    "t": "Bakan Kacır: İmalat sanayisine 250 milyar liralık kredi imkânı sağlıyoruz",
+    "tt": null,
+    "s": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İmalat Sanayisi Finansman Programı'nı başlattıklarını belirterek 150 milyar liralık kefalet desteğiyle sanayicilerin toplam 250 milyar liralık krediye erişiminin önünü açtıklarını açıkladı. Kacır, programın gelecek yıl genişletilerek sürdürüleceğini bil",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bakan-kacir-imalat-sanayisine-250-milyar-liralik-kredi-imkani-sagliyoruz-3793133",
+    "ts": 1793652805000,
+    "tags": []
+   },
+   {
+    "t": "Trump: İran'la savaşı yeniden başlatma konusunda acelem yok",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump, İran'la savaşı yeniden başlatıp başlatmama konusunda henüz karar vermediğini ve acele etmediğini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-iran-la-savasi-yeniden-baslatma-konusunda-acelem-yok-3793132",
+    "ts": 1793652320000,
+    "tags": []
+   },
+   {
+    "t": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu hayatını kaybetti",
     "tt": null,
     "s": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, bir süredir tedavi gördüğü hastanede hayatını kaybetti.",
     "ss": null,
@@ -900,33 +926,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/totalenergies-abd-de-yenilenebilir-enerji-yatirimlarini-artiriyor-3793124",
     "ts": 1793639111000,
-    "tags": []
-   },
-   {
-    "t": "Pezeşkiyan: Hamaney, ABD ile diyalog için hükümete bazı yetkiler verdi",
-    "tt": null,
-    "s": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ile yaşanan savaş riskini diyalog yoluyla ortadan kaldırmak için ülke lideri Mücteba Hamaney'in hükümete bazı yetkiler verdiğini açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/pezeskiyan-hamaney-abd-ile-diyalog-icin-hukumete-bazi-yetkiler-verdi-3793123",
-    "ts": 1793637910000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de inşaat harcamaları beklentilerin aksine geriledi",
-    "tt": null,
-    "s": "ABD'de inşaat harcamaları, Eylül ayında yüzde 0,4'lük artış beklentisinin aksine aylık bazda yüzde 1,9 azalarak 2,18 trilyon dolara geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-insaat-harcamalari-beklentilerin-aksine-geriledi-3793122",
-    "ts": 1793637609000,
-    "tags": []
-   },
-   {
-    "t": "Uzay teknolojileri şirketi Northwood Space, 2 milyar dolar değerlemeye ulaştı",
-    "tt": null,
-    "s": "Uzay altyapı şirketi Northwood Space, a16z ve DFJ Growth liderliğindeki C Serisi yatırım turunda 2 milyar dolar değerleme üzerinden 375 milyon dolar topladı. 2022 yılında kurulan Northwood, uyduların Dünya ile daha iyi iletişim kurmasını sağlayan antenler, yazılımlar ve çeşitli teknolojiler geliştir",
-    "ss": null,
-    "u": "https://www.bloomberght.com/uzay-teknolojileri-sirketi-northwood-space-2-milyar-dolar-degerlemeye-ulasti-3793121",
-    "ts": 1793636084000,
     "tags": []
    }
   ]
