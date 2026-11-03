@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T04:28:06.325179+00:00",
+ "generated": "2026-11-03T05:28:17.232338+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3936.6,
+   "p": 3936.5,
    "c": -0.83,
-   "d": -33.0,
+   "d": -33.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.725,
-   "c": -1.96,
-   "d": -0.995,
+   "p": 49.6,
+   "c": -2.21,
+   "d": -1.12,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 96.7,
-   "c": 0.25,
-   "d": 0.24,
+   "p": 97.01,
+   "c": 0.57,
+   "d": 0.55,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 104.85,
-   "c": 0.08,
-   "d": 0.08,
+   "p": 105.21,
+   "c": 0.42,
+   "d": 0.44,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.763,
-   "c": 0.01,
-   "d": 0.013,
+   "p": 101.755,
+   "c": 0.0,
+   "d": 0.005,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9811,
-   "c": 0.03,
-   "d": 0.015,
+   "p": 49.9885,
+   "c": 0.05,
+   "d": 0.023,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 76832,
-   "c": -2.17,
+   "p": 76716,
+   "c": -1.98,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2251.86,
-   "c": -2.32,
+   "p": 2251.0,
+   "c": -1.58,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 92.2,
-   "c": -3.37,
+   "p": 91.98,
+   "c": -2.85,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": -0.38,
+   "c": -0.15,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 695.36,
-   "c": -2.52,
+   "p": 695.45,
+   "c": -1.97,
    "k": "usd"
   }
  ],
@@ -454,12 +454,80 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+    "tt": "Offshore Yuan, PBOC'nin Soğuk Döviz Rallisine Hareket Etmesinin Ardından Zayıfladı",
+    "s": "The onshore yuan ended its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
+    "ss": "Offshore yuan, Çin Halk Bankası'nın 15 Kasım'dan itibaren döviz zorunlu karşılık oranını artıracağını açıklamasının ardından neredeyse üç haftadan bu yana ilk düşüşünü yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
+    "ts": 1793667975000,
+    "tags": []
+   },
+   {
     "t": "Asian Stocks Fall on US Tech Jitters, Yuan Weakens: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Kayıpların Ardından Düştü, Petrol Düşüşünü Sürdürdü: Piyasalar İyileşiyor",
-    "s": "Asian stocks fell after a selloff in US chipmakers deepened, overshadowing a plunge in oil prices driven by optimism over progress toward ending the war in Iran. The yuan weakened.",
+    "s": "Asian stocks fell as a selloff in US chipmakers deepened and investors grew reluctant to trade ahead of the US midterm elections. The yuan weakened.",
     "ss": "Asya borsaları, ABD'li çip üreticilerindeki satışların derinleşmesinin ve İran'daki savaşın sona erdirilmesine yönelik diplomatik ilerlemeye ilişkin iyimserliğin petrol fiyatlarındaki düşüşü gölgelemesinin ardından düşüşle açıldı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
     "ts": 1793658314000,
+    "tags": []
+   },
+   {
+    "t": "Shoprite CEO Pay Plan Meets Resistance From Proxy Advisers",
+    "tt": null,
+    "s": "Investors in South African equities face an early test of their new power to cast binding votes over pay when Shoprite Holdings Ltd. asks shareholders to approve another multimillion-rand incentive plan for its chief executive officer.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/shoprite-ceo-pay-plan-meets-resistance-from-proxy-advisers",
+    "ts": 1793682000000,
+    "tags": []
+   },
+   {
+    "t": "China Soybean Oil Stocks Hit Record as Crushing Outpaces Demand",
+    "tt": null,
+    "s": "China’s soybean oil inventories surged to a record as elevated crushing rates boosted supplies while consumption of the edible oil remained sluggish.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/china-soybean-oil-stocks-hit-record-as-crushing-outpaces-demand",
+    "ts": 1793681967000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Middle East Oil Markets Flash Signs of Abundance as Flows Rise",
+    "tt": null,
+    "s": "Middle East oil markets are indicating near-term supply is outpacing demand for the first time since July — when global prices plummeted after a temporary ceasefire between the US and Iran allowed tankers to exit the Persian Gulf through the Strait of Hormuz.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/middle-east-oil-markets-flash-signs-of-abundance-as-flows-rise",
+    "ts": 1793681141000,
+    "tags": []
+   },
+   {
+    "t": "Taiwan Says China Sought to Diminish Its Status With Emailed APEC Invitation",
+    "tt": null,
+    "s": "Taiwan criticized China for breaching protocol in its invitation to an upcoming APEC meeting, with Beijing seen as having slighted both President Lai Ching-te and the island’s international standing.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/taiwan-says-china-sought-to-diminish-its-status-with-emailed-apec-invitation",
+    "ts": 1793614815000,
+    "tags": []
+   },
+   {
+    "t": "Coal India Said to Plan $1 Billion MCL IPO as Soon as This Month",
+    "tt": null,
+    "s": "State-owned Coal India Ltd. is preparing to launch an initial public offering of its unit Mahanadi Coalfields Ltd. as early as this month, according to people familiar with the matter.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/coal-india-said-to-plan-1-billion-mcl-ipo-as-soon-as-this-month",
+    "ts": 1793680462000,
+    "tags": []
+   },
+   {
+    "t": "China Talks Up Market Openness While Steering Stocks and Yuan",
+    "tt": null,
+    "s": "China’s top economic officials are talking up openness in Hong Kong. Back on the mainland, authorities are showing investors just how active they remain in steering financial markets.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/china-talks-up-market-openness-while-steering-stocks-and-yuan",
+    "ts": 1793680368000,
     "tags": []
    },
    {
@@ -478,71 +546,6 @@
     "ss": "Goldman Sachs İcra Kurulu Başkanı David Solomon, anlaşma talebinin güçlü kalması nedeniyle teknoloji süper döngüsünün sermaye piyasalarına ve finansman faaliyetlerine hakim olacağını söyledi. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals-video",
     "ts": 1793678509000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 3",
-    "tt": "3 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Brent oil steadied after plunging almost 8% in the previous session, with the US and Iran signaling a willingness to pursue peace talks as the war in the Middle East enters its ninth month.",
-    "ss": "Petrol fiyatları, ABD ve İran'ın Orta Doğu'daki savaş dokuzuncu ayına girerken barış görüşmelerini sürdürmeye istekli olduklarının sinyallerini vermesiyle üç aydan fazla bir sürenin en büyük düşüşünün ardından sakinleşti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-    "ts": 1793660479000,
-    "tags": []
-   },
-   {
-    "t": "Oracle Raises $20 Billion for AI Growth as Meta Weighs New Debt",
-    "tt": "Oracle, Meta'nın Yeni Borcunu Ağırlaştırırken Yapay Zeka Büyümesi İçin 20 Milyar Dolar Artırdı",
-    "s": "For almost three months, Big Tech companies didn’t borrow in the US bond market after they spooked investors with a debt binge in the hundreds of billions of dollars. Now they’re flooding in again.",
-    "ss": "Büyük Teknoloji şirketleri, yatırımcıları yüz milyarlarca dolarlık borç çılgınlığıyla korkuttuktan sonra neredeyse üç ay boyunca ABD tahvil piyasasından borçlanmadı. Şimdi tekrar akın ediyorlar.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
-    "ts": 1793623505000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
-    "tt": "Pakistan'ın Toparlanması Ekonomi Üzerindeki Daha Derin Sorunları Maskeliyor",
-    "s": "Pakistan’s soaring stock market, record foreign reserves and improving credit ratings are signaling an economy on the mend. Beneath the surface, the recovery remains far less convincing.",
-    "ss": "Pakistan'ın yükselen borsası, rekor seviyedeki döviz rezervleri ve yükselen kredi notları, ekonominin iyileşmekte olduğuna işaret ediyor. Görünüşe göre iyileşme çok daha az inandırıcı olmaya devam ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy",
-    "ts": 1793667600000,
-    "tags": []
-   },
-   {
-    "t": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
-    "tt": "Offshore Yuan, PBOC'nin Soğuk Döviz Rallisine Hareket Etmesinin Ardından Zayıfladı",
-    "s": "The onshore yuan ended its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
-    "ss": "Offshore yuan, Çin Halk Bankası'nın 15 Kasım'dan itibaren döviz zorunlu karşılık oranını artıracağını açıklamasının ardından neredeyse üç haftadan bu yana ilk düşüşünü yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
-    "ts": 1793667975000,
-    "tags": []
-   },
-   {
-    "t": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
-    "tt": "Huafa'nın 62 Milyar Dolarlık Borç Gerginliği Çin Kredi Piyasasını Sarstı",
-    "s": "China’s credit market just suffered its worst selloff in two years as a major conglomerate’s plunge into distress tests the assumption that government ties can protect state-owned firms from financial peril.",
-    "ss": "Çin'in kredi piyasası, büyük bir holdingin sıkıntıya girmesinin hükümet bağlarının devlete ait firmaları mali tehlikeden koruyabileceği varsayımını test etmesiyle son iki yılın en kötü satışını yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market",
-    "ts": 1793676129000,
-    "tags": []
-   },
-   {
-    "t": "Solomon on Tech Supercycle 'Bumps'",
-    "tt": "Solomon, Tech Supercycle 'Çarpışmalar' hakkında",
-    "s": "Goldman’s David Solomon said there will be “bumps” during this technology supercycle, while praising the US economy as resilient. (Source: Bloomberg)",
-    "ss": "Goldman'dan David Solomon, ABD ekonomisinin dirençli olduğunu överken, bu teknoloji süper döngüsü sırasında \"çarpışmalar\" olacağını söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/solomon-on-tech-supercycle-bumps-video",
-    "ts": 1793675413000,
-    "tags": []
-   },
-   {
-    "t": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff",
-    "tt": "Yenilenen AI Hisse Senetlerindeki Satışlarda Bakır ve Kalay ile Baz Metaller Düşüyor",
-    "s": "Copper and tin fell with other industrial metals, as a renewed selloff in technology stocks in Asia weakened the demand outlook for materials used in data centers and to solder circuit boards.",
-    "ss": "Asya'da teknoloji stoklarında yenilenen satışların veri merkezlerinde kullanılan malzemelere ve lehim devre kartlarına yönelik talep görünümünü zayıflatmasıyla bakır ve kalay diğer endüstriyel metallerle birlikte düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
-    "ts": 1793674516000,
     "tags": []
    }
   ],
@@ -827,6 +830,42 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Küresel piyasalarda düzeltme eğilimleri",
+    "tt": null,
+    "s": "Apple'ın marj görünümü, Palantir'in büyüme hızına ilişkin endişeler teknoloji hisselerindeki kötümserliği artırdı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-duzeltme-egilimleri-3793148",
+    "ts": 1793683400000,
+    "tags": []
+   },
+   {
+    "t": "\"Yapay zeka finansmanı aşırıya kaçacak\"",
+    "tt": null,
+    "s": "Pimco CEO'su Emmanuel Roman yapay zeka finansmanının önümüzdeki yıllarda aşırı seviyelere ulaşabileceği uyarısında bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yapay-zeka-finansmani-asiriya-kacacak-3793147",
+    "ts": 1793682870000,
+    "tags": []
+   },
+   {
+    "t": "Elliott: Ayı piyasası için tüm alarm zilleri çalıyor",
+    "tt": null,
+    "s": "Hedge fonu Elliott Investment Management borçla finanse edilen risk iştahı ve yeni teknolojilere yönelik coşkunun hakim olduğu mevcut piyasa ortamını Büyük Buhran öncesindeki \"Çılgın 20'ler\" dönemine benzeterek, \"Şu anda ileride ciddi bir ayı piyasasına işaret eden neredeyse bütün alarm zilleri çalı",
+    "ss": null,
+    "u": "https://www.bloomberght.com/elliott-ayi-piyasasi-icin-tum-alarm-zilleri-caliyor-3793145",
+    "ts": 1793682556000,
+    "tags": []
+   },
+   {
+    "t": "Avustralya faiz oranını 18 yılın zirvesine çıkardı",
+    "tt": null,
+    "s": "Avustralya Merkez Bankası (RBA), faiz oranını 18 yılın en yüksek seviyesine çıkardı. Böylece, politika yapıcıların enflasyonu hedef seviyeye geri çekmekte zorlandığı bir ortamda, gelişmiş ülkeler arasında en agresif sıkılaştırma döngüsü uzatılmış oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/avustralya-faiz-oranini-18-yilin-zirvesine-cikardi-3793144",
+    "ts": 1793680204000,
+    "tags": []
+   },
+   {
     "t": "Altında iki ayın en hızlı artışından sonra istikrar",
     "tt": null,
     "s": "Altın, pazartesi günü son iki ayın en büyük sıçramasını kaydettikten sonra istikrarlı seyrediyor.",
@@ -879,42 +918,6 @@
     "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-3-kasim-2026-3793138",
     "ts": 1793673879000,
     "tags": []
-   },
-   {
-    "t": "Trump'tan ara seçimler öncesi seçmenlere \"sandığa gidin\" çağrısı",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, 3 Kasım'da yapılacak Kongre ara seçimleri öncesinde seçmenlere sandığa gitme çağrısında bulunarak Cumhuriyetçi adaylara destek istedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-tan-ara-secimler-oncesi-secmenlere-sandiga-gidin-cagrisi-3793137",
-    "ts": 1793655273000,
-    "tags": []
-   },
-   {
-    "t": "Fon soruşturmasında Korkmaz Enes Ergun'a tutuklama talebi",
-    "tt": null,
-    "s": "Sermaye piyasalarındaki işlemlere yönelik yürütülen fon soruşturması kapsamında gözaltına alınan eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, savcılıktaki ifadesinin ardından \"rüşvet almak\" suçundan tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fon-sorusturmasinda-korkmaz-enes-ergun-a-tutuklama-talebi-3793136",
-    "ts": 1793654752000,
-    "tags": []
-   },
-   {
-    "t": "ABD Hazinesi borçlanma tahminini 618 milyar dolara düşürdü",
-    "tt": null,
-    "s": "ABD Hazine Bakanlığı, 2026'nın son çeyreğine ilişkin borçlanma tahminini 10 milyar dolar azaltarak 618 milyar dolara düşürdü. Bakanlık, 2027'nin ilk çeyreğinde ise 800 milyar dolar borçlanma öngördüğünü açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-hazinesi-borclanma-tahminini-618-milyar-dolara-dusurdu-3793135",
-    "ts": 1793654304000,
-    "tags": []
-   },
-   {
-    "t": "Resmi Gazete'de bugün (03.11.2026)",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-03112026-3793134",
-    "ts": 1793653879000,
-    "tags": []
    }
   ]
  },
@@ -930,6 +933,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
