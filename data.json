@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T09:45:06.179805+00:00",
+ "generated": "2026-11-03T10:45:15.500011+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 21.6,
-   "c": 2.13,
-   "d": 0.45,
+   "p": 21.32,
+   "c": 0.8,
+   "d": 0.17,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3915.2,
-   "c": -1.37,
-   "d": -54.4,
+   "p": 3913.3,
+   "c": -1.42,
+   "d": -56.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 48.83,
-   "c": -3.73,
-   "d": -1.89,
+   "p": 48.92,
+   "c": -3.55,
+   "d": -1.8,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 98.11,
-   "c": 1.71,
-   "d": 1.65,
+   "p": 97.79,
+   "c": 1.38,
+   "d": 1.33,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 106.5,
-   "c": 1.65,
-   "d": 1.73,
+   "p": 105.97,
+   "c": 1.15,
+   "d": 1.2,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.741,
-   "c": -0.01,
-   "d": -0.009,
+   "p": 101.792,
+   "c": 0.04,
+   "d": 0.042,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9676,
-   "c": 0.0,
-   "d": 0.002,
+   "p": 49.9139,
+   "c": -0.1,
+   "d": -0.052,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10964.25,
-   "c": 0.02,
-   "d": 2.55,
+   "p": 11024.66,
+   "c": 0.57,
+   "d": 62.96,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 76899,
-   "c": -1.43,
+   "p": 76937,
+   "c": -1.27,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2263.01,
-   "c": -1.11,
+   "p": 2266.66,
+   "c": -0.76,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 92.14,
-   "c": -2.27,
+   "p": 92.29,
+   "c": -1.87,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": 0.26,
+   "c": 0.5,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 695.45,
-   "c": -1.66,
+   "p": 696.58,
+   "c": -1.34,
    "k": "usd"
   }
  ],
@@ -454,48 +454,75 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "SBI’s Profit Beats Estimates on Loan Growth, One-Time Gain",
-    "tt": null,
-    "s": "State Bank of India reported better-than-expected profit in the fiscal second quarter, as the country’s biggest lender by assets saw strong credit growth and booked a one-time gain from a sale of shares in its funds management unit earlier in the year.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/sbi-s-strong-loan-growth-drives-second-quarter-profit-beat",
-    "ts": 1793694507000,
+    "t": "Emaar Is Said to Study Buyout of $14 Billion Construction Arm",
+    "tt": "Emaar'ın 14 Milyar Dolarlık İnşaat Kolunun Satın Alınması Üzerinde Çalıştığı Söyleniyor",
+    "s": "Dubai’s Emaar Properties PJSC is considering plans to take over its listed construction arm in a potential multibillion-dollar deal, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, Dubai'deki Emaar Properties PJSC, milyarlarca dolarlık potansiyel bir anlaşmayla listelenen inşaat kolunu devralmayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
+    "ts": 1793702391000,
+    "tags": []
+   },
+   {
+    "t": "Europe’s Junk Market Sees Another Loan Pulled as Iqony Axes Deal",
+    "tt": "Avrupa Hurda Pazarı, Iqony Axes Anlaşmasıyla Bir Kredinin Daha Çekildiğini Görüyor",
+    "s": "Banks marketing a €550 million ($616 million) loan refinancing for European energy infrastructure and services company Iqony have pulled the deal after failing to garner enough investor interest amid wider market turmoil.",
+    "ss": "Avrupalı ​​enerji altyapı ve hizmet şirketi Iqony için 550 milyon Euro'luk (616 milyon dolar) kredi yeniden finansmanı pazarlayan bankalar, daha geniş piyasa çalkantılarının ortasında yeterli yatırımcı ilgisini toplayamadığı için anlaşmayı geri çekti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/europe-s-junk-market-sees-another-loan-pulled-as-iqony-axes-deal",
+    "ts": 1793700629000,
+    "tags": []
+   },
+   {
+    "t": "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap",
+    "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
+    "s": "US stock futures struggled for direction as investors held back from adding risk just hours before voting starts in the midterm elections.",
+    "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793658314000,
+    "tags": []
+   },
+   {
+    "t": "Turkey’s Stock Market CEO Arrested as Fund Scandal Widens",
+    "tt": "Fon Skandalı Büyürken Borsa CEO'su Tutuklandı",
+    "s": "Turkish authorities arrested Borsa Istanbul Chief Executive Officer Korkmaz Ergun on bribery charges as they investigate a fund scandal the justice minister linked to a criminal network involving senior financial officials.",
+    "ss": "Türk yetkililer, Adalet Bakanı'nın üst düzey mali yetkililerin yer aldığı bir suç şebekesiyle bağlantılı olduğu fon skandalını araştırırken Borsa İstanbul İcra Kurulu Başkanı Korkmaz Ergun'u rüşvet suçlamasıyla tutukladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/turkish-stock-market-chief-arrested-in-funds-probe-anadolu-says",
+    "ts": 1793689825000,
+    "tags": []
+   },
+   {
+    "t": "Lula Victory Adds to Brazil Farm Angst as Defaults Hit Record",
+    "tt": "Lula Zaferi, Brezilya'nın Çiftçi Öfkesine Eklenerek Varsayılan Başarı Rekorunu Arttırdı",
+    "s": "Brazil’s farming sector was already battling record breaking defaults. Last week’s election results only deepen the gloom for growers hoping for a swift turnaround for one of the nation’s most important economic forces.",
+    "ss": "Brezilya'nın tarım sektörü zaten rekor kıran temerrütlerle mücadele ediyordu. Geçen haftaki seçim sonuçları, ülkenin en önemli ekonomik güçlerinden birinde hızlı bir toparlanma umuduyla yetiştiricilerin karamsarlığını daha da artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/lula-victory-adds-to-brazil-farm-angst-as-defaults-hit-record",
+    "ts": 1793700000000,
     "tags": []
    },
    {
     "t": "An Election Day Special With Nate Silver",
-    "tt": null,
+    "tt": "Nate Silver ile Seçim Günü Özel",
     "s": "Sorry, we have to talk about politics for a day.",
-    "ss": null,
+    "ss": "Kusura bakmayın, bir gün siyaset konuşmamız gerekiyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
     "ts": 1793696421000,
     "tags": []
    },
    {
     "t": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
-    "tt": null,
+    "tt": "Garip Lotlar: Nate Silver ile Bir Seçim Günü Özel (Podcast)",
     "s": "Nate Silver tells us he is calling this midterms the “rock and a hard place election” — the background conditions are great for Democrats to win both the House and the Senate, but for that to come to pass, the party has to pull off some things that haven't happened in generations, like winning Texas",
-    "ss": null,
+    "ss": "Nate Silver bize bu ara seçimleri \"sarsıcı ve zor bir seçim\" olarak adlandırdığını söylüyor - Demokratların hem Temsilciler Meclisi'ni hem de Senato'yu kazanması için arka plan koşulları harika, ancak bunun gerçekleşmesi için partinin Teksas'ı kazanmak gibi nesillerdir gerçekleşmemiş bazı şeyleri başarması gerekiyor.",
     "u": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
     "ts": 1793696400000,
     "tags": []
    },
    {
     "t": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
-    "tt": null,
+    "tt": "PBOC Döviz Rezerv Oranını Artırırken Onshore Yuan Kazanma Serisini Yakaladı",
     "s": "The onshore yuan halted its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
-    "ss": null,
+    "ss": "Çin Merkez Bankası'nın bankalardan daha fazla yabancı para birimini rezervde tutmalarını talep ederek yükselişini soğutmaya yönelik hamlesinin ardından, karadaki yuan otuz yılın en uzun kazanç serisini durdurdu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
     "ts": 1793667975000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Slip as Oil Rebounds Before Midterms: Markets Wrap",
-    "tt": null,
-    "s": "US stock futures fell as oil prices rebounded on worries that America and Iran remain far apart on a peace deal, adding to subdued risk sentiment before voting starts in the midterm elections.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793658314000,
     "tags": []
    },
    {
@@ -514,33 +541,6 @@
     "ss": "Brookfield Asset Management ve Katar Yatırım Otoritesi, İngiltere'deki elektrik üreticisi Drax Group Plc ile bir veri merkezi projesine 2,5 milyar £ (3,4 milyar $) yatırım yapmak üzere anlaşmaya vardı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/brookfield-qai-to-invest-2-5-billion-in-data-center-for-drax",
     "ts": 1793689200000,
-    "tags": []
-   },
-   {
-    "t": "Wall Street Heavyweights Weigh the Risks to the AI Boom",
-    "tt": null,
-    "s": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/insight-with-haslinda-amin-11-3-2026-video",
-    "ts": 1793693976000,
-    "tags": []
-   },
-   {
-    "t": "Eyesan: Strong Interest in New Nigerian Oil Blocks",
-    "tt": null,
-    "s": "Nigeria is offering 40 deepwater, shallow water and onshore blocks as it seeks to attract investment in its oil industry. Nigerian Upstream Petroleum Regulatory Commission Chief Executive Oritsemeyiwa Eyesan spoke to Bloomberg’s Abeer Abu Omar about plans to accelerate operations and development. (S",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/eyesan-strong-interest-in-new-nigerian-oil-blocks-video",
-    "ts": 1793693720000,
-    "tags": []
-   },
-   {
-    "t": "Oil Is the Biggest Binary Risk: Market Analysis",
-    "tt": null,
-    "s": "Anna Edwards, Guy Johnson, and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/oil-is-the-biggest-binary-risk-3-minutes-mliv-video",
-    "ts": 1793693708000,
     "tags": []
    }
   ],
@@ -641,6 +641,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
+    "tt": "Binlerce Disney'de işten çıkarmalar yaklaşıyor olabilir. Yatırımcılar bundan sonra ne olacağını soruyor.",
+    "s": "Reports that Walt Disney is poised to lay off thousands of workers wasn’t moving the needle for its languishing stock on Tuesday.",
+    "ss": "Walt Disney'in binlerce işçiyi işten çıkarmaya hazırlandığı yönündeki haberler Salı günü zayıflayan stokları için ibreyi hareket ettirmiyordu.",
+    "u": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
+    "ts": 1793702160000,
+    "tags": []
+   },
+   {
+    "t": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500",
+    "tt": "Kurumsal tahvil piyasasından gelen bu sinyal, tarihsel olarak S&P 500'deki büyük düşüşlerden önce geldi.",
+    "s": "The corporate bond market has been flashing a signal that historically precedes bad news for the stock market.",
+    "ss": "Kurumsal tahvil piyasası, tarihsel olarak borsa için kötü haberlerin öncesinde gelen bir sinyal veriyor.",
+    "u": "https://www.marketwatch.com/story/this-signal-from-the-corporate-bond-market-has-historically-preceded-big-drawdowns-for-the-s-p-500-8c1a3d25?mod=mw_rss_topstories",
+    "ts": 1793701860000,
+    "tags": []
+   },
+   {
+    "t": "What analysts are saying as Apple’s stock falls after earnings report",
+    "tt": "Apple'ın hisseleri kazanç raporunun ardından düşerken analistler ne diyor?",
+    "s": "Shares in Apple declined 4.5% in premarket trading after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue growth.",
+    "ss": "Apple hisseleri, yatırımcıların şirketin brüt kar görünümü ve hizmet gelirlerindeki yavaşlama nedeniyle hayal kırıklığına uğramasının ardından piyasa öncesi işlemlerde %4,5 değer kaybetti.",
+    "u": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+    "ts": 1793701200000,
+    "tags": []
+   },
+   {
+    "t": "Motivational speaker Mel Robbins’ real estate journey from a Massachusetts farmhouse to a Vermont retreat",
+    "tt": "Motivasyon konuşmacısı Mel Robbins'in Massachusetts'teki bir çiftlik evinden Vermont'taki bir sığınağa uzanan emlak yolculuğu",
+    "s": "Mel Robbins has built a career around helping people change their lives—and her own housing history includes a major change of direction.",
+    "ss": "Mel Robbins, kariyerini insanların hayatlarını değiştirmelerine yardımcı olmak üzerine kurdu ve kendi konut geçmişi de büyük bir yön değişikliği içeriyor.",
+    "u": "https://www.marketwatch.com/story/motivational-speaker-mel-robbins-real-estate-journey-from-a-massachusetts-farmhouse-to-a-vermont-retreat-85b4d958?mod=mw_rss_topstories",
+    "ts": 1793700120000,
+    "tags": []
+   },
+   {
     "t": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
     "tt": "İşte Palantir'in hisselerinin \"bomba gibi\" bir çeyreğe rağmen düşüş göstermesinin nedeni",
     "s": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir’s earnings beat.",
@@ -693,68 +729,41 @@
     "u": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
     "ts": 1793655900000,
     "tags": []
-   },
-   {
-    "t": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-    "tt": "Yetişkin çocuklarınıza ve torunlarınıza yardım etmek ister misiniz? Hala hayattayken onlara para verin.",
-    "s": "How to manage “giving while living” without endangering your own retirement.",
-    "ss": "Kendi emekliliğinizi tehlikeye atmadan \"yaşarken vermeyi\" nasıl yönetebilirsiniz?",
-    "u": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-    "ts": 1793655300000,
-    "tags": []
-   },
-   {
-    "t": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-    "tt": "'O A Tipi bir kişilik': Üvey annem, rahmetli babamın 40.000 dolarlık düğün hediyesini geri ödememi istiyor. Zorunlu mu olmalıyım?",
-    "s": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-    "ss": "\"Cenazesinden yaklaşık iki ay sonra üvey annem aradı ve parayı geri istediğini söyledi.\"",
-    "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "ts": 1793655000000,
-    "tags": []
-   },
-   {
-    "t": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
-    "tt": "Borsa son 5 aydır hiçbir yere gitmedi. Artık bir pazarlık gibi görünüyor.",
-    "s": "The S&amp;P 500’s forward price-to-earnings ratio is below its five-year and 10-year averages.",
-    "ss": "S&P 500'ün vadeli fiyat-kazanç oranı beş yıllık ve 10 yıllık ortalamaların altında.",
-    "u": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-    "ts": 1793654940000,
-    "tags": []
-   },
-   {
-    "t": "Palantir earnings reveal a major AI turning point",
-    "tt": "Palantir'in kazançları yapay zekada büyük bir dönüm noktasını ortaya koyuyor",
-    "s": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter.",
-    "ss": "ABD ticari sektörü üçüncü çeyrekte ABD hükümet kesiminden daha fazla para getirdi.",
-    "u": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
-    "ts": 1793653740000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Was October The Peak Of Hormuz Ship Attacks?",
+    "tt": "Ekim ayı Hürmüz Gemi Saldırılarının Zirvesi miydi?",
+    "s": "Was October The Peak Of Hormuz Ship Attacks? A renewed diplomatic push between the Trump administration and Tehran ahead of the US midterms sent Brent and WTI futures spiraling lower yesterday. The selloff comes despite a record number of commercial ship attacks in the Gulf waters during October . R",
+    "ss": "Ekim ayı Hürmüz Gemi Saldırılarının Zirvesi miydi? ABD ara seçimleri öncesinde Trump yönetimi ile Tahran arasında yenilenen diplomatik hamle, dün Brent ve WTI vadeli işlemlerinin düşüşe geçmesine neden oldu. Satışlar, Ekim ayında Körfez sularında rekor sayıda ticari gemi saldırısına rağmen gerçekleşti. R",
+    "u": "https://www.zerohedge.com/energy/was-october-peak-hormuz-ship-attacks",
+    "ts": 1793701200000,
+    "tags": []
+   },
+   {
     "t": "Why Are So Many British Teens Being Treated As Terrorists?",
-    "tt": null,
+    "tt": "Neden Bu Kadar Çok Britanyalı Genç Terörist Olarak Muamele Ediliyor?",
     "s": "Why Are So Many British Teens Being Treated As Terrorists? Authored by Joanna Williams via Spiked , What is going on with Britain's children? Last year, more than 6,000 under-18s were referred to Prevent , the UK government's counter-terrorism scheme, with a record number reported for being obsessed",
-    "ss": null,
+    "ss": "Neden Bu Kadar Çok Britanyalı Genç Terörist Olarak Muamele Ediliyor? Joanna Williams tarafından Spiked aracılığıyla yazılmıştır, Britanya'nın çocuklarına neler oluyor? Geçtiğimiz yıl, 18 yaşın altındaki 6.000'den fazla kişi Birleşik Krallık hükümetinin terörle mücadele planı olan Prevent'e yönlendirildi ve rekor sayıda kişinin takıntılı olduğu bildirildi",
     "u": "https://www.zerohedge.com/political/why-are-so-many-teens-being-treated-terrorists",
     "ts": 1793698800000,
     "tags": []
    },
    {
     "t": "Europe Under Attack? Far-Left Sabotage UK Military Satellite Equipment Supply Chain",
-    "tt": null,
+    "tt": "Avrupa Saldırı Altında mı? Aşırı Sol Sabotaj Birleşik Krallık Askeri Uydu Ekipmanları Tedarik Zinciri",
     "s": "Europe Under Attack? Far-Left Sabotage UK Military Satellite Equipment Supply Chain Europe faces growing national security risks from violent far-left groups seeking to destroy capitalism and the continent amid weeks of riots, looting and unrest in France and elsewhere. The chaos has not yet stopped",
-    "ss": null,
+    "ss": "Avrupa Saldırı Altında mı? Aşırı Soldan Birleşik Krallık Askeri Uydu Ekipmanı Tedarik Zincirine Sabotaj Avrupa, Fransa'da ve başka yerlerde haftalarca süren ayaklanmalar, yağma ve huzursuzlukların ortasında kapitalizmi ve kıtayı yok etmeye çalışan şiddet yanlısı aşırı sol gruplardan kaynaklanan artan ulusal güvenlik riskleriyle karşı karşıya. Kaos henüz durmadı",
     "u": "https://www.zerohedge.com/military/europe-under-attack-far-left-sabotage-uk-military-satellite-equipment-supply-chain",
     "ts": 1793696400000,
     "tags": []
    },
    {
     "t": "Israel Intentionally Released Footage Of Mossad Operatives In Iran To Provoke Mass Arrests",
-    "tt": null,
+    "tt": "İsrail, kitlesel tutuklamaları kışkırtmak amacıyla İran'daki Mossad ajanlarının görüntülerini kasıtlı olarak yayınladı",
     "s": "Israel Intentionally Released Footage Of Mossad Operatives In Iran To Provoke Mass Arrests Via Middle East Eye Former Mossad chief David Barnea has said Israel intentionally released images of their covert operation in Iran during the June 2025 conflict to provoke mass arrests and make it harder for",
-    "ss": null,
+    "ss": "İsrail, Ortadoğu Gözü Aracılığıyla Toplu Tutuklamaları Kışkırtmak İçin İran'daki Mossad Operatörlerinin Görüntülerini Kasıtlı Olarak Yayınladı Eski Mossad şefi David Barnea, İsrail'in, kitlesel tutuklamaları kışkırtmak ve İran'ın işini zorlaştırmak amacıyla Haziran 2025 çatışması sırasında İran'daki gizli operasyonlarının görüntülerini kasıtlı olarak yayınladığını söyledi.",
     "u": "https://www.zerohedge.com/geopolitical/israel-intentionally-released-footage-mossad-operatives-iran-provoke-mass-arrests",
     "ts": 1793694000000,
     "tags": []
@@ -812,18 +821,45 @@
     "u": "https://www.zerohedge.com/geopolitical/lavrov-complains-us-stance-ukraine-fundamentally-unchanged-arms-intel-still-flowing",
     "ts": 1793675400000,
     "tags": []
-   },
-   {
-    "t": "Red Baron Pizza-Stocker Who Ripped Instagram Pranksters Raises $700,000",
-    "tt": "Instagram Şakacılarını Dolandıran Kırmızı Baron Pizza Stokçusu 700.000 Dolar Topladı",
-    "s": "Red Baron Pizza-Stocker Who Ripped Instagram Pranksters Raises $700,000 Authored by Catherine Salgado via PJ Media , When some stupid, lazy, nasty Instagram influencers attempted to pull a cruel prank on a man who works stocking pizzas in stores for the Red Baron Pizza company, the man furiously ber",
-    "ss": "Instagram Şakacılarını Dolandıran Red Baron Pizza Stokçusu 700.000 Dolar Topladı Yazan: Catherine Salgado, PJ Media aracılığıyla , Bazı aptal, tembel, iğrenç Instagram fenomenleri, Red Baron Pizza şirketi için mağazalarda pizza stoklayan bir adama acımasız bir şaka yapmaya kalkıştığında, adam öfkeyle bağırdı.",
-    "u": "https://www.zerohedge.com/personal-finance/red-baron-pizza-stocker-who-ripped-instagram-pranksters-raises-700000",
-    "ts": 1793674200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Çelik sektöründen net sıfır emisyon için yol haritası",
+    "tt": null,
+    "s": "\"Türkiye Çelik Sektörü: 2053 Net Sıfır Emisyon Yol Haritası\" raporu İstanbul'da açıklandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/celik-sektorunden-net-sifir-emisyon-icin-yol-haritasi-3793263",
+    "ts": 1793702480000,
+    "tags": []
+   },
+   {
+    "t": "YEKA GES-2026 yarışmalarında n iyi teklifler belli oldu",
+    "tt": null,
+    "s": "Enerji ve Tabii Kaynaklar Bakanlığının 11 proje için toplam 785 megavatlık güneş enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları (YEKA GES-2026) yarışmaları 19 şirketin katılımıyla yapıldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yeka-ges-2026-yarismalarinda-n-iyi-teklifler-belli-oldu-3793262",
+    "ts": 1793702357000,
+    "tags": []
+   },
+   {
+    "t": "\"Bankacılıkta yeni normal daha az masraf\"",
+    "tt": null,
+    "s": "ING Türkiye'nin 'Eskiyen Normaller Araştırması'na göre katılımcıların yüzde 80'i kredi kartı yıllık aidatı ödemeyi, yüzde 73'ü FAST/Havale/EFT işlemlerinde ücret ödemeyi, yüzde 65'i SWIFT işlemlerinde masraf ödemeyi normal bulmuyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bankacilikta-yeni-normal-daha-az-masraf-3793261",
+    "ts": 1793702112000,
+    "tags": []
+   },
+   {
+    "t": "İletişim Başkanlığı: Toplam 100 fonda 97,3 milyar TL ödeme yapıldı",
+    "tt": null,
+    "s": "İletişim Başkanlığı 30 Ekim 2026 tarihi itibarıyla Atlas, Pusula ve Tera Portföy Yönetim Şirketlerinin oluşturduğu fonlarda, olağanüstü tasfiye kapsamında toplam 29,3 milyar TL fon sahiplerinin hesaplarına yatırıldığını duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iletisim-baskanligi-toplam-100-fonda-97-3-milyar-tl-odeme-yapildi-3793254",
+    "ts": 1793699848000,
+    "tags": []
+   },
    {
     "t": "Erdoğan: Güney Kore ile ikili ticaretimizde 15 milyar doları aşan adımlar attık",
     "tt": null,
@@ -877,42 +913,6 @@
     "u": "https://www.bloomberght.com/amb-yetkilisi-ekimdeki-duraklama-sikilastirmanin-bittigi-anlamina-gelmiyor-3793205",
     "ts": 1793693356000,
     "tags": []
-   },
-   {
-    "t": "Sigortacılık sektörünün aktif büyüklüğü 4,7 trilyon TL'yi aştı",
-    "tt": null,
-    "s": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK), sigortacılık sektörünün 2026 yılının üçüncü çeyreğinde 1,1 trilyon TL'nin üzerinde prim üretimine ulaştığını açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/sigortacilik-sektorunun-aktif-buyuklugu-4-7-trilyon-tl-yi-asti-3793203",
-    "ts": 1793692739000,
-    "tags": []
-   },
-   {
-    "t": "Bakan Bolat: Ekim ayında ihracat 25,9 milyar doları aştı",
-    "tt": null,
-    "s": "Ticaret Bakanı Ömer Bolat, ekim ayı dış ticaret verilerini açıkladı. Türkiye'nin ihracatı ekimde geçen yılın aynı ayına göre yüzde 8,1 artarak 25 milyar 885 milyon dolara ulaştı. Böylece Cumhuriyet tarihinin en yüksek ekim ayı ihracatı kaydedildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bakan-bolat-ekim-ayinda-ihracat-25-9-milyar-dolari-asti-3793197",
-    "ts": 1793691229000,
-    "tags": []
-   },
-   {
-    "t": "Aselsan'a yeni sözleşme",
-    "tt": null,
-    "s": "Aselsan, uluslararası bir müşteriyle 1,1 milyar dolarlık ihracat sözleşmesi yaptı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/aselsan-a-yeni-sozlesme-3793191",
-    "ts": 1793690480000,
-    "tags": []
-   },
-   {
-    "t": "2027 için yeniden değerleme oranı belli oldu",
-    "tt": null,
-    "s": "Yeniden değerleme oranı 2027 yılı için yüzde 27,83 olarak tespit edildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/2027-icin-yeniden-degerleme-orani-belli-oldu-3793170",
-    "ts": 1793689149000,
-    "tags": []
    }
   ]
  },
@@ -928,7 +928,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
