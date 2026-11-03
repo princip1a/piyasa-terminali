@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-03T18:20:33.962974+00:00",
+ "generated": "2026-11-03T19:29:51.710011+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7586.62,
-   "c": 0.6,
-   "d": 45.22,
+   "p": 7577.68,
+   "c": 0.48,
+   "d": 36.28,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25432.248,
-   "c": 1.06,
-   "d": 267.937,
+   "p": 25398.021,
+   "c": 0.93,
+   "d": 233.71,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 51879.41,
-   "c": -0.2,
-   "d": -104.57,
+   "p": 51849.3,
+   "c": -0.26,
+   "d": -134.68,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.61,
-   "c": -2.55,
-   "d": -0.54,
+   "p": 20.64,
+   "c": -2.41,
+   "d": -0.51,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3943.3,
-   "c": -0.66,
-   "d": -26.3,
+   "p": 3934.1,
+   "c": -0.89,
+   "d": -35.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.765,
-   "c": -1.88,
-   "d": -0.955,
+   "p": 49.665,
+   "c": -2.08,
+   "d": -1.055,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 96.09,
-   "c": -0.38,
-   "d": -0.37,
+   "p": 95.95,
+   "c": -0.53,
+   "d": -0.51,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 103.59,
-   "c": -1.13,
-   "d": -1.18,
+   "p": 103.54,
+   "c": -1.17,
+   "d": -1.23,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.776,
-   "c": 0.03,
-   "d": 0.026,
+   "p": 101.836,
+   "c": 0.08,
+   "d": 0.086,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.954,
-   "c": 1.23,
-   "d": 0.06,
+   "p": 4.948,
+   "c": 1.1,
+   "d": 0.054,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.9918,
+   "p": 49.9933,
    "c": 0.05,
-   "d": 0.026,
+   "d": 0.027,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77620,
-   "c": 0.69,
+   "p": 77543,
+   "c": 0.84,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2295.71,
-   "c": 1.81,
+   "p": 2288.2,
+   "c": 1.75,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 93.54,
-   "c": 1.52,
+   "p": 93.24,
+   "c": 1.86,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.28,
-   "c": 3.35,
+   "c": 2.65,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 697.29,
-   "c": -0.25,
+   "p": 696.78,
+   "c": -0.03,
    "k": "usd"
   }
  ],
@@ -454,59 +454,21 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Copper Falls as Traders Assess AI Trade, US-Iran Diplomacy Hopes",
+    "tt": null,
+    "s": "Copper slumped to a seven-week low as traders assessed the artificial-intelligence trade and the prospects of diplomacy in the Middle East conflict.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
+    "ts": 1793674516000,
+    "tags": []
+   },
+   {
     "t": "Trading on US Stock Perpetuals Contracts Is Approved by CFTC",
     "tt": "ABD Sürekli Hisse Senedi Sözleşmelerinde İşlem Yapmak CFTC Tarafından Onaylandı",
     "s": "A type of so-called perpetual derivative contracts tied to equities got the US Commodity Futures Trading Commission’s green light to start trading.",
     "ss": "Hisse senetlerine bağlı kalıcı türev sözleşmeler olarak adlandırılan bir tür sözleşme, ABD Emtia Vadeli İşlemler Ticaret Komisyonu'nun ticarete başlamasına yeşil ışık yaktı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/trading-on-us-stock-perpetuals-contracts-is-approved-by-cftc",
     "ts": 1793721006000,
-    "tags": []
-   },
-   {
-    "t": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
-    "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
-    "s": "A revival of the artificial-intelligence trade powered Wall Street gains as US voting got underway in the midterm elections.",
-    "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793658314000,
-    "tags": []
-   },
-   {
-    "t": "NextEra Offers New Safeguards for $67 Billion Dominion Deal",
-    "tt": "NextEra, 67 Milyar Dolarlık Dominion Anlaşması İçin Yeni Güvenceler Sunuyor",
-    "s": "NextEra Energy Inc. and Dominion Energy Inc. offered Virginia additional concessions in their latest bid to convince the state to approve its $67 billion merger, although the utilities didn’t bow to the biggest demand from Governor Abigail Spanberger.",
-    "ss": "NextEra Energy Inc. ve Dominion Energy Inc., eyaleti 67 milyar dolarlık birleşmeyi onaylamaya ikna etmek için yaptıkları son teklifte Virginia'ya ek tavizler teklif etti, ancak kamu hizmetleri Vali Abigail Spanberger'in en büyük talebine boyun eğmedi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
-    "ts": 1793708662000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 3",
-    "tt": "3 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil prices swung in a choppy session as traders parsed conflicting signs on the trajectory of peace talks between the US and Iran.",
-    "ss": "Petrol fiyatları, tüccarların ABD ile İran arasındaki barış görüşmelerinin gidişatına ilişkin çelişkili işaretleri analiz etmesiyle dalgalı bir seansta dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-    "ts": 1793660479000,
-    "tags": []
-   },
-   {
-    "t": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
-    "tt": "Dolar, İran'a Odaklanmanın Seçimlerden Ağır Gelmesiyle ABD Getirileriyle Yükseliyor",
-    "s": "The dollar rose on Election Day in the US, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback’s direction.",
-    "ss": "ABD'de seçim gününde dolar, artan Hazine tahvil getirileri ve sağlam ekonomik verilerin etkisiyle yükselirken, tüccarlar doların yönüne dair bir fikir edinmek için Orta Doğu'daki gelişmeleri izledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
-    "ts": 1793728156000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "JPMorgan’s Michele Urges Treasury to Ax ‘Orphan’ 20-Year Bond",
-    "tt": "JPMorgan'dan Michele, Hazine'ye 20 Yıllık 'Yetim Tahvilini' İptal Etme Çağrısında Bulundu",
-    "s": "JPMorgan Asset Management’s Bob Michele has some advice for Treasury Secretary Scott Bessent: get rid of the 20-year bond.",
-    "ss": "JPMorgan Asset Management'tan Bob Michele'nin Hazine Bakanı Scott Bessent'e bazı tavsiyeleri var: 20 yıllık tahvillerden kurtulun.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/jpmorgan-s-michele-urges-treasury-to-ax-orphan-20-year-bond",
-    "ts": 1793726762000,
     "tags": []
    },
    {
@@ -519,21 +481,41 @@
     "tags": []
    },
    {
-    "t": "Majority of London’s Thames Bridges Are in Poor Condition",
-    "tt": "Londra'daki Thames Köprülerinin Çoğunluğu Kötü Durumda",
-    "s": "Over half of London’s bridges across the River Thames are in ‘poor’ or ‘very poor’ condition, the worst possible ratings, with the crossing in Chelsea deteriorating after heavy vehicles were recently diverted from a nearby crossing.",
-    "ss": "Londra'nın Thames Nehri üzerindeki köprülerinin yarısından fazlası \"kötü\" veya \"çok kötü\" durumda; bu olası en kötü derecelendirmeler; Chelsea'deki geçiş yakın zamanda ağır araçların yakındaki bir geçişten başka yöne çekilmesi nedeniyle kötüleşiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/majority-of-london-s-thames-bridges-are-in-poor-condition",
-    "ts": 1793726119000,
+    "t": "Gold Declines as Traders Weigh US-Iran Diplomacy Prospects",
+    "tt": null,
+    "s": "Gold declined as traders assessed the prospects of diplomacy in the US-Iran conflict while refraining from taking big positions on the US midterm election day.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
+    "ts": 1793665216000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "Bank of Canada Says Fiscal Policy Isn’t Stoking Inflation Yet",
+    "tt": null,
+    "s": "Bank of Canada Governor Tiff Macklem said Prime Minister Mark Carney’s fiscal plans aren’t yet making it harder for the central bank to control inflation.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/bank-of-canada-says-fiscal-and-monetary-policy-aren-t-at-odds",
+    "ts": 1793732638000,
     "tags": []
    },
    {
-    "t": "Stocks Bounce Back as Wall Street Awaits Midterm Election Results",
-    "tt": "Wall Street Ara Seçim Sonuçlarını Beklerken Hisse Senetleri Yükselişe Geçti",
-    "s": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "ss": "Jonathan Ferro, Lisa Abramowicz ve Annmarie Hordern, Wall Street'ten Washington'a ve ötesine kadar liderler ve karar alıcılarla her gün konuşuyor. Yatırımcıları ve yöneticileri işlem günü için \"Bloomberg Gözetim\"den daha iyi konumlandıran başka bir program yok. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/bloomberg-surveillance-11-3-2026-video",
-    "ts": 1793725068000,
+    "t": "Chip Rally Powers Stock Gains on US Election Day: Markets Wrap",
+    "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
+    "s": "A revival of the artificial-intelligence trade powered Wall Street gains as US voting got underway in the midterm elections.",
+    "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793658314000,
+    "tags": []
+   },
+   {
+    "t": "AMD Needs a Huge Outlook to Avoid Intel’s Fate as AI Fears Rise",
+    "tt": null,
+    "s": "Advanced Micro Devices Inc. is one of this year’s best-performing chip stocks, but with skepticism about artificial-intelligence spending on the rise, it could use strong results and an aggressive outlook to maintain the momentum when the firm reports earnings Tuesday afternoon.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/amd-needs-a-huge-outlook-to-avoid-intel-s-fate-as-ai-fears-rise",
+    "ts": 1793706197000,
     "tags": []
    },
    {
@@ -543,6 +525,24 @@
     "ss": "ABD hisse senedi vadeli işlemleri, Amerikalıların Seçim Günü sandık başına gitmesiyle, her iki Kongre odasının da kontrol edilmesiyle ve yatırımcıların yapay zeka ticaretine yönelik artan riskleri tartmasıyla pek değişmedi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
     "ts": 1793711716000,
+    "tags": []
+   },
+   {
+    "t": "AMLO’s Son Denies Crime Allegations Ahead of Mexico Congress Run",
+    "tt": null,
+    "s": "Andrés Manuel López Beltrán, son of Mexico’s former president and a member of the ruling party, took to social media to deny involvement amid scrutiny over alleged corruption cases.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/amlo-s-son-denies-crime-allegations-ahead-of-mexico-congress-run",
+    "ts": 1793729781000,
+    "tags": []
+   },
+   {
+    "t": "NextEra Offers New Safeguards for $67 Billion Dominion Deal",
+    "tt": "NextEra, 67 Milyar Dolarlık Dominion Anlaşması İçin Yeni Güvenceler Sunuyor",
+    "s": "NextEra Energy Inc. and Dominion Energy Inc. offered Virginia additional concessions in their latest bid to convince the state to approve its $67 billion merger, although the utilities didn’t bow to the biggest demand from Governor Abigail Spanberger.",
+    "ss": "NextEra Energy Inc. ve Dominion Energy Inc., eyaleti 67 milyar dolarlık birleşmeyi onaylamaya ikna etmek için yaptıkları son teklifte Virginia'ya ek tavizler teklif etti, ancak kamu hizmetleri Vali Abigail Spanberger'in en büyük talebine boyun eğmedi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
+    "ts": 1793708662000,
     "tags": []
    }
   ],
@@ -643,6 +643,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+    "tt": null,
+    "s": "Don’t sit on the sidelines during open enrollment.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+    "ts": 1793733780000,
+    "tags": []
+   },
+   {
+    "t": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
+    "tt": null,
+    "s": "“I’m 68, she’s 74, and we’re both in good health.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+    "ts": 1793732400000,
+    "tags": []
+   },
+   {
+    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "tt": null,
+    "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "ts": 1793730600000,
+    "tags": []
+   },
+   {
+    "t": "Once election results are in, here’s what investors should focus on next",
+    "tt": null,
+    "s": "It is important to separate your political preferences from your investment and trading decisions.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
+    "ts": 1793730420000,
+    "tags": []
+   },
+   {
     "t": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
     "tt": "Babam Alzheimer hastası ve bakıcısı onun banka kartını DoorDash için kullanıyor. Müdahale etmeli miyim?",
     "s": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
@@ -695,45 +731,54 @@
     "u": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
     "ts": 1793723460000,
     "tags": []
-   },
-   {
-    "t": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-    "tt": "'Yaşlı olmak güzel': Yıllık gelir satış konuşmalarına dönüşen bir düzine bedava yemeğe davet edildim. Gitmeyi bırakmalı mıyım?",
-    "s": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-    "ss": "\"Satış görevlileri genellikle yıllık gelirleri, Medicare planlarını ve emlak planlama hizmetlerini öne çıkarıyor.\"",
-    "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-    "ts": 1793723400000,
-    "tags": []
-   },
-   {
-    "t": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
-    "tt": "İşte Palantir'in hisselerinin \"bomba gibi\" bir çeyreğe rağmen düşüş göstermesinin nedeni",
-    "s": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir’s earnings beat.",
-    "ss": "ABD ticari kontrat büyümesindeki yavaşlama, Palantir'in kazançlarının iyi olmasına rağmen bazı Wall Street analistlerinin duraklamasına neden oldu.",
-    "u": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
-    "ts": 1793722860000,
-    "tags": []
-   },
-   {
-    "t": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
-    "tt": "Teksas valisinin yarışı, sallanan bir yapay zeka ticareti için bir ya başar ya da son yarışması olabilir",
-    "s": "Democrats are favored to take both the House and Senate in Tuesday’s U.S. midterm election, but there is another race to which artificial-intelligence investors should be paying close attention.",
-    "ss": "Salı günkü ABD ara seçimlerinde Demokratların hem Temsilciler Meclisi'ni hem de Senato'yu alması bekleniyor ancak yapay zeka yatırımcılarının yakından ilgilenmesi gereken başka bir yarış daha var.",
-    "u": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
-    "ts": 1793720640000,
-    "tags": []
-   },
-   {
-    "t": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
-    "tt": "Microsoft'un 60.000 çalışanına yaptığı gibi patronunuz size satın alma teklif ederse sormanız gereken 5 soru",
-    "s": "Two days after Microsoft asked more than a quarter of its workers if they’d take a buyout, it reported $45.2 billion in capital spending in a single quarter, most of it for AI.",
-    "ss": "Microsoft, çalışanlarının dörtte birinden fazlasının satın almayı kabul edip etmeyeceklerini sormasından iki gün sonra, tek bir çeyrekte çoğu yapay zeka için olmak üzere 45,2 milyar dolarlık sermaye harcaması bildirdi.",
-    "u": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
-    "ts": 1793718240000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Physical Oil Flips From Bidding War To Fire Sale As Gulf Barrels Flood Back",
+    "tt": null,
+    "s": "Physical Oil Flips From Bidding War To Fire Sale As Gulf Barrels Flood Back For much of the past two months, the most important oil price in the world was the one nobody saw on TV. While ICE Brent futures chopped around in a range, the price of actual, deliverable barrels went parabolic: as we noted",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/physical-oil-flips-bidding-war-fire-sale-gulf-barrels-flood-back",
+    "ts": 1793734200000,
+    "tags": []
+   },
+   {
+    "t": "Expert Flags Crucial Mistake That May Have Doomed Florida Learjet",
+    "tt": null,
+    "s": "Expert Flags Crucial Mistake That May Have Doomed Florida Learjet The crucial mistake may have come before the Learjet began its fatal plunge: flying into dangerous weather instead of going around it , according to a veteran pilot interviewed by the New York Post . Justin Crabbe, a pilot and CEO of ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/mach-tuck-investigators-say-learjet-60-may-have-broke-apart-florida-crash",
+    "ts": 1793733900000,
+    "tags": []
+   },
+   {
+    "t": "BMW ADRs Tumble On Full-Year Outlook Cut, China Demand Woes",
+    "tt": null,
+    "s": "BMW ADRs Tumble On Full-Year Outlook Cut, China Demand Woes Add BMW to the growing list of European automakers slashing forecasts due to softening demand, especially in China. BMW's ADRs fell 5% late in the US cash session after news that the struggling automaker slashed its full-year automotive pro",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/bmw-adrs-tumble-full-year-outlook-cut-china-demand-woes",
+    "ts": 1793733300000,
+    "tags": []
+   },
+   {
+    "t": "Seven Toss-Ups, A Decoy Candidate, & A 1AM Finish: Your Election Night Survival Guide",
+    "tt": null,
+    "s": "Seven Toss-Ups, A Decoy Candidate, &amp; A 1AM Finish: Your Election Night Survival Guide The House is done. Or at least the market thinks so. Going into tonight, Polymarket traders give Democrats a 96% chance of taking the House and 74% for the Senate , the highest Democratic Senate odds since the ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/seven-toss-ups-decoy-candidate-and-1am-finish-your-election-night-survival-guide",
+    "ts": 1793731500000,
+    "tags": []
+   },
+   {
+    "t": "Houthis Launch Cross-Border Ground Raids On Saudi Territory",
+    "tt": null,
+    "s": "Houthis Launch Cross-Border Ground Raids On Saudi Territory Fresh reporting in Mideast regional outlets suggesst a major escalation in Houthi attacks on Saudi Arabia. While drones and missiles have been launched on Saudi territory almost daily since September, a new report says that Houthi militants",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/houthis-launch-cross-border-raids-saudi-territory-huge-escalation",
+    "ts": 1793730600000,
+    "tags": []
+   },
    {
     "t": "\"Laboratories Of Democracy\": Five State Ballot Measures To Watch Today",
     "tt": "\"Demokrasi Laboratuvarları\": Bugün İzlenecek Beş Eyalet Oylama Tedbiri",
@@ -741,6 +786,15 @@
     "ss": "\"Demokrasi Laboratuvarları\": Bugün İzlenecek Beş Eyalet Oylama Önlemi Jon Miltimore tarafından The Daily Economy aracılığıyla yazıldı. Salı gecesi milyonlarca Amerikalı, oylamalar sayıldıktan sonra Kongre'yi hangi partinin kontrol ettiğini görmek için seçim sonuçlarını takip edecek. Duruma çok daha az dikkat gösterilecek",
     "u": "https://www.zerohedge.com/political/laboratories-democracy-five-state-ballot-measures-watch-today",
     "ts": 1793729700000,
+    "tags": []
+   },
+   {
+    "t": "Iran Rejects Latest Draft Proposal To End War: US 'Must Act On 7 Conditions' To Reopen Hormuz",
+    "tt": null,
+    "s": "Iran Rejects Latest Draft Proposal To End War: US 'Must Act On 7 Conditions' To Reopen Hormuz Summary Iran Rejects US Draft Proposal: Tehran insists all seven conditions must be met before reopening the Strait of Hormuz. Negotiations Remain Uncertain: Reports of US-Iran concessions raised hopes of a",
+    "ss": null,
+    "u": "https://www.zerohedge.com/energy/irgc-claims-3-more-tankers-blown-naval-mines-hormuz",
+    "ts": 1793728800000,
     "tags": []
    },
    {
@@ -769,63 +823,27 @@
     "u": "https://www.zerohedge.com/energy/dubai-benchmark-slips-contango-first-time-july",
     "ts": 1793726100000,
     "tags": []
-   },
-   {
-    "t": "Buying The Median US Home Now Takes A $112,700 Salary... And $492,000 In San Jose",
-    "tt": "Ortalama ABD Evini Satın Almak Artık 112.700 Dolar Maaş Alıyor... Ve San Jose'de 492.000 Dolar",
-    "s": "Buying The Median US Home Now Takes A $112,700 Salary... And $492,000 In San Jose Buying the national median-priced home ($434,900, per HSH.com 's second-quarter 2026 data) takes an income of $112,695 a year with 20% down ($347,920 borrowed) at a 6.41% mortgage rate. That is $9,213 more than in the ",
-    "ss": "Ortalama ABD Evini Satın Almak Artık 112.700 Dolarlık Maaş Alıyor... Ve San Jose'de 492.000 Dolar Ulusal ortalama fiyatlı ev satın almak (HSH.com'un 2026 ikinci çeyrek verilerine göre 434.900 dolar), %6,41 ipotek oranıyla %20 düşüşle (347.920 dolar ödünç) yılda 112.695 dolar gelir elde ediyor. Bu, öncekinden 9.213 dolar daha fazla.",
-    "u": "https://www.zerohedge.com/personal-finance/buying-median-us-home-now-takes-112700-salary-and-492000-san-jose",
-    "ts": 1793724300000,
-    "tags": []
-   },
-   {
-    "t": "Obama Judge Orders Federal Officials To Stop Sending Lists Of Noncitizen Voters To States",
-    "tt": "Obama Hakimi, Federal Yetkililere Vatandaş Olmayan Seçmen Listelerinin Eyaletlere Gönderilmesinin Durdurulmasını Emretti",
-    "s": "Obama Judge Orders Federal Officials To Stop Sending Lists Of Noncitizen Voters To States Authored by Zachary Stieber via The Epoch Times , The federal government must stop transmitting lists of people officials say are confirmed or suspected noncitizens registered to vote , a U.S. judge ruled on No",
-    "ss": "Obama Hakimi, Federal Yetkililere, Epoch Times aracılığıyla Zachary Stieber tarafından yazılan, Vatandaş Olmayan Seçmen Listelerini Eyaletlere Göndermeyi Durdurmalarını Emretti. ABD'li bir yargıç, yetkililerin oy vermek için kayıtlı olduğu doğrulanan veya vatandaş olmadığından şüphelenilen kişilerin listelerini iletmeyi durdurması gerektiğini söyledi.",
-    "u": "https://www.zerohedge.com/political/obama-judge-orders-federal-officials-stop-sending-lists-noncitizen-voters-states",
-    "ts": 1793723400000,
-    "tags": []
-   },
-   {
-    "t": "Trump To Cut Off $4B Annual Israel Aid By Year-End, Jokes He'd Move There To Become PM 'If People Got Tired Of Me'",
-    "tt": "Trump, İsrail'e Yıllık 4 Milyar Dolarlık Yardımı Yıl Sonuna Kadar Kesecek, \"İnsanlar Benden Bıktıysa\" Başbakan Olmak İçin Oraya Taşınacağını Şaka Ediyor",
-    "s": "Trump To Cut Off $4B Annual Israel Aid By Year-End, Jokes He'd Move There To Become PM 'If People Got Tired Of Me' President Donald Trump announced Tuesday that the United States will end its nearly $4 billion in annual military aid to Israel by the end of the year , saying he and Prime Minister Ben",
-    "ss": "Trump, İsrail'e Yıllık 4 Milyar Dolarlık Yardımı Yıl Sonuna Kadar Kesecek, Şakalar Başbakan Olmak İçin Oraya Taşınırdı 'İnsanlar Benden Bıktıysa' Başkan Donald Trump Salı günü yaptığı açıklamada, kendisinin ve Başbakan Ben'in söylediği gibi, ABD'nin İsrail'e yıllık yaklaşık 4 milyar dolarlık askeri yardımını yıl sonuna kadar sonlandıracağını duyurdu.",
-    "u": "https://www.zerohedge.com/geopolitical/trump-cut-4b-annual-israel-aid-year-end-jokes-hed-move-there-become-pm-if-people-got",
-    "ts": 1793722500000,
-    "tags": []
-   },
-   {
-    "t": "Voting Machines Reject Paper Ballots Across Westchester County, Home To A Key House Battleground",
-    "tt": "Oylama Makineleri, Önemli Bir Savaş Alanına Ev Sahipliği Yapan Westchester İlçesindeki Kağıt Oy Pusulalarını Reddediyor",
-    "s": "Voting Machines Reject Paper Ballots Across Westchester County, Home To A Key House Battleground Ballot scanners at polling places across Westchester County, New York, stopped accepting paper ballots on Election Day, raising the prospect of delayed results in one of the country's most closely watche",
-    "ss": "Oylama Makineleri, Anahtar Ev Savaş Alanına Ev Sahipliği Yapan Westchester County Genelinde Kağıt Oy Pusulalarını Reddediyor New York'un Westchester County genelindeki oy verme yerlerindeki oy pusulası tarayıcıları, Seçim Günü kağıt oy pusulalarını kabul etmeyi bıraktı ve bu da ülkenin en yakından izlenen eyaletlerinden birinde sonuçların gecikmesi ihtimalini artırdı",
-    "u": "https://www.zerohedge.com/political/voting-machines-reject-paper-ballots-across-westchester-county-home-key-house",
-    "ts": 1793721600000,
-    "tags": []
-   },
-   {
-    "t": "Job Openings Unexpectedly Soar By Over 330K, Amid Near-Record Surge In Americans Quitting",
-    "tt": "Amerikalıların İşten Ayrılmasında Rekora Yakın Bir Artış Ortasında İş İlanları Beklenmedik Bir Şekilde 330.000'in Üzerinde Arttı",
-    "s": "Job Openings Unexpectedly Soar By Over 330K, Amid Near-Record Surge In Americans Quitting After three straight months of disappointing JOLTS reports, moments ago the BLS reported that in September the number of job openings soared by 333K from an upward revised 7.190 million (vs 7.079 million pre-re",
-    "ss": "İş İlanları Beklenmedik Bir Şekilde 330.000'in Üzerinde Arttı, Amerikalıların İşten Ayrılmalarında Rekora Yakın Bir Artış Art arda üç ay süren hayal kırıklığı yaratan JOLTS raporlarının ardından, birkaç dakika önce BLS, Eylül ayında iş açılışlarının sayısının yukarı doğru revize edilen 7.190 milyondan (önceki 7.079 milyona kıyasla) 333.000 arttığını bildirdi.",
-    "u": "https://www.zerohedge.com/economics/job-openings-unexpectedly-soar-over-330k-amid-near-record-surge-americans-quitting",
-    "ts": 1793720750000,
-    "tags": []
-   },
-   {
-    "t": "Directed-Energy Weapon Deployed At Trump's Mar-A-Lago Club",
-    "tt": "Yönlendirilmiş Enerji Silahı Trump'ın Mar-A-Lago Kulübünde Konuşlandırıldı",
-    "s": "Directed-Energy Weapon Deployed At Trump's Mar-A-Lago Club There has been a lot of X chatter about the US military installing air-defense systems around President Trump’s Mar-a-Lago club and at Palm Beach International Airport. Photographs published by local media outlets show a self-propelled surfa",
-    "ss": "Yönlendirilmiş Enerji Silahı Trump'ın Mar-a-Lago Kulübünde Konuşlandırıldı ABD ordusunun Başkan Trump'ın Mar-a-Lago kulübü çevresine ve Palm Beach Uluslararası Havaalanı'na hava savunma sistemleri kurmasıyla ilgili pek çok X sohbeti yapıldı. Yerel medya kuruluşları tarafından yayınlanan fotoğraflar, kendinden tahrikli bir sörf aracını gösteriyor",
-    "u": "https://www.zerohedge.com/military/directed-energy-weapon-deployed-trumps-mar-lago-club",
-    "ts": 1793719800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Merkez bankaları, altın fiyatlarındaki düşüşü alım fırsatına çevirdi",
+    "tt": null,
+    "s": "Dünya Altın Konseyi'nin raporuna göre, küresel altın talebi üçüncü çeyrekte yıllık bazda yüzde 1 gerileyerek 1.369 tona düştü. Altın fiyatlarındaki düşüşü alım fırsatı olarak değerlendiren merkez bankaları ise aynı dönemde alımlarını yüzde 42 artırarak 321,2 tona yükseltti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/merkez-bankalari-altin-fiyatlarindaki-dususu-alim-firsatina-cevirdi-3793354",
+    "ts": 1793733476000,
+    "tags": []
+   },
+   {
+    "t": "İran'dan dört ülkeye Hürmüz'den geçiş muafiyeti",
+    "tt": null,
+    "s": "İran, Hindistan, Çin, Irak ve Katar'a ait gemileri Hürmüz Boğazı'ndaki geçiş kısıtlamalarından muaf tuttuğunu açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-dan-dort-ulkeye-hurmuz-den-gecis-muafiyeti-3793353",
+    "ts": 1793731874000,
+    "tags": []
+   },
    {
     "t": "Coca-Cola İçecek üçüncü çeyrekte 7,8 milyar TL net kâr açıkladı",
     "tt": null,
@@ -897,24 +915,6 @@
     "u": "https://www.bloomberght.com/biontech-ucuncu-ceyrekte-yeniden-kra-gecti-3793340",
     "ts": 1793720398000,
     "tags": []
-   },
-   {
-    "t": "İran: ABD'nin taleplerimize yanıtı ikna edici olmadı",
-    "tt": null,
-    "s": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin Tahran yönetiminin taleplerine verdiği yanıtı ikna edici bulmadıklarını açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-abd-nin-taleplerimize-yaniti-ikna-edici-olmadi-3793330",
-    "ts": 1793719955000,
-    "tags": []
-   },
-   {
-    "t": "Bakan Bayraktar'dan YEKA GES değerlendirmesi",
-    "tt": null,
-    "s": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, YEKA RES-2026 ve YEKA GES-2026 yarışmaları kapsamında 18 ayrı sahada toplam 2 bin 285 megavatlık kapasite tahsisi gerçekleştirildiğini açıkladı. Bayraktar, söz konusu projelerle Türkiye'ye 1,9 milyar dolarlık yeni yatırım kazandırılacağını belirt",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bakan-bayraktar-dan-yeka-ges-degerlendirmesi-3793318",
-    "ts": 1793716537000,
-    "tags": []
    }
   ]
  },
@@ -930,6 +930,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
