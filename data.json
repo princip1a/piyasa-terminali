@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T10:45:15.500011+00:00",
+ "generated": "2026-11-03T11:40:13.980497+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 21.32,
-   "c": 0.8,
-   "d": 0.17,
+   "p": 21.45,
+   "c": 1.42,
+   "d": 0.3,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3913.3,
-   "c": -1.42,
-   "d": -56.3,
+   "p": 3914.7,
+   "c": -1.38,
+   "d": -54.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 48.92,
-   "c": -3.55,
-   "d": -1.8,
+   "p": 48.98,
+   "c": -3.43,
+   "d": -1.74,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 97.79,
-   "c": 1.38,
-   "d": 1.33,
+   "p": 98.42,
+   "c": 2.03,
+   "d": 1.96,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 105.97,
-   "c": 1.15,
-   "d": 1.2,
+   "p": 106.44,
+   "c": 1.59,
+   "d": 1.67,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.792,
-   "c": 0.04,
-   "d": 0.042,
+   "p": 101.871,
+   "c": 0.12,
+   "d": 0.121,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9139,
-   "c": -0.1,
-   "d": -0.052,
+   "p": 49.994,
+   "c": 0.06,
+   "d": 0.028,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11024.66,
-   "c": 0.57,
-   "d": 62.96,
+   "p": 10998.67,
+   "c": 0.34,
+   "d": 36.97,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 76937,
-   "c": -1.27,
+   "p": 76973,
+   "c": -1.06,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2266.66,
-   "c": -0.76,
+   "p": 2262.2,
+   "c": -0.92,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 92.29,
-   "c": -1.87,
+   "p": 92.3,
+   "c": -1.62,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": 0.5,
+   "c": 0.51,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 696.58,
-   "c": -1.34,
+   "p": 696.44,
+   "c": -1.04,
    "k": "usd"
   }
  ],
@@ -454,12 +454,57 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Emaar Is Said to Study Buyout of $14 Billion Construction Arm",
+    "t": "JPM’s Michele Tells US Treasury ‘Get Rid of the 20-Year’",
+    "tt": "JPM'den Michele, ABD Hazinesine '20 Yıllıktan Kurtulun' Söyledi",
+    "s": "Bob Michele, global head of fixed income at JPMorgan Asset Management, offers guidance to the US Treasury ahead of the November 2026 quarterly refunding announcement. He says the equity market “is going to go through some of its demons” to the benefit of the bond market and provides his outlook for ",
+    "ss": "JPMorgan Asset Management'ın küresel sabit gelir başkanı Bob Michele, Kasım 2026'daki üç aylık geri ödeme duyurusu öncesinde ABD Hazinesine rehberlik sunuyor. Hisse senedi piyasasının, tahvil piyasasının yararına \"bazı şeytanlarla karşılaşacağını\" söylüyor ve geleceğe yönelik bakış açısını aktarıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/jpm-s-michele-tells-us-treasury-get-rid-of-the-20-year-video",
+    "ts": 1793706052000,
+    "tags": []
+   },
+   {
+    "t": "Emaar Said to Study Buyout of $15 Billion Construction Arm",
     "tt": "Emaar'ın 14 Milyar Dolarlık İnşaat Kolunun Satın Alınması Üzerinde Çalıştığı Söyleniyor",
     "s": "Dubai’s Emaar Properties PJSC is considering plans to take over its listed construction arm in a potential multibillion-dollar deal, according to people familiar with the matter.",
     "ss": "Konuyu bilen kaynaklara göre, Dubai'deki Emaar Properties PJSC, milyarlarca dolarlık potansiyel bir anlaşmayla listelenen inşaat kolunu devralmayı planlıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
     "ts": 1793702391000,
+    "tags": []
+   },
+   {
+    "t": "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap",
+    "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
+    "s": "US stock futures struggled for direction as investors held back from adding risk with voting about to get underway in the midterm elections.",
+    "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793658314000,
+    "tags": []
+   },
+   {
+    "t": "Gold Falls After Oil Rebounds on Lack of US-Iran Deal Progress",
+    "tt": "Altın, ABD-İran Anlaşmasında İlerleme Sağlanamaması Nedeniyle Petrolün Toparlanmasının Ardından Düştü",
+    "s": "Gold fell, paring Monday’s rebound, as oil rose on renewed doubts that the US and Iran are close to an agreement to end their war.",
+    "ss": "Petrol, ABD ve İran'ın savaşlarını sona erdirme konusunda bir anlaşmaya varmaya yaklaştıklarına dair şüphelerin yeniden canlanmasıyla birlikte yükselirken, altın Pazartesi günkü toparlanmasını zayıflatarak düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
+    "ts": 1793665216000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 3",
+    "tt": "3 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil rose early Tuesday, paring some of a plunge in the previous session, as the US launched strikes on Iran and the two sides appeared far from a breakthrough to fully reopen the world’s most important energy chokepoint.",
+    "ss": "Petrol Salı günü erken saatlerde yükseldi ve ABD'nin İran'a saldırı başlatması ve iki tarafın dünyanın en önemli enerji geçiş noktasını tamamen yeniden açma yönünde bir atılımdan uzak görünmesiyle bir önceki oturumdaki düşüşünün bir kısmını telafi etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+    "ts": 1793660479000,
+    "tags": []
+   },
+   {
+    "t": "China Steps in to Boost Stocks, Cool Off Yuan",
+    "tt": "Çin Hisse Senetlerini Artırmak İçin Adım Atıyor, Yuan'ı Soğutuyor",
+    "s": "Stimulus effort falls flat.",
+    "ss": "Teşvik çabası başarısız oluyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-03/china-steps-in-to-boost-stocks-cool-off-yuan",
+    "ts": 1793703488000,
     "tags": []
    },
    {
@@ -469,15 +514,6 @@
     "ss": "Avrupalı ​​enerji altyapı ve hizmet şirketi Iqony için 550 milyon Euro'luk (616 milyon dolar) kredi yeniden finansmanı pazarlayan bankalar, daha geniş piyasa çalkantılarının ortasında yeterli yatırımcı ilgisini toplayamadığı için anlaşmayı geri çekti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/europe-s-junk-market-sees-another-loan-pulled-as-iqony-axes-deal",
     "ts": 1793700629000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap",
-    "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
-    "s": "US stock futures struggled for direction as investors held back from adding risk just hours before voting starts in the midterm elections.",
-    "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793658314000,
     "tags": []
    },
    {
@@ -505,42 +541,6 @@
     "ss": "Kusura bakmayın, bir gün siyaset konuşmamız gerekiyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/an-election-day-special-with-nate-silver",
     "ts": 1793696421000,
-    "tags": []
-   },
-   {
-    "t": "Odd Lots: An Election Day Special With Nate Silver (Podcast)",
-    "tt": "Garip Lotlar: Nate Silver ile Bir Seçim Günü Özel (Podcast)",
-    "s": "Nate Silver tells us he is calling this midterms the “rock and a hard place election” — the background conditions are great for Democrats to win both the House and the Senate, but for that to come to pass, the party has to pull off some things that haven't happened in generations, like winning Texas",
-    "ss": "Nate Silver bize bu ara seçimleri \"sarsıcı ve zor bir seçim\" olarak adlandırdığını söylüyor - Demokratların hem Temsilciler Meclisi'ni hem de Senato'yu kazanması için arka plan koşulları harika, ancak bunun gerçekleşmesi için partinin Teksas'ı kazanmak gibi nesillerdir gerçekleşmemiş bazı şeyleri başarması gerekiyor.",
-    "u": "https://www.bloomberg.com/news/audio/2026-11-03/odd-lots-an-election-day-special-with-nate-silver-podcast",
-    "ts": 1793696400000,
-    "tags": []
-   },
-   {
-    "t": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
-    "tt": "PBOC Döviz Rezerv Oranını Artırırken Onshore Yuan Kazanma Serisini Yakaladı",
-    "s": "The onshore yuan halted its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
-    "ss": "Çin Merkez Bankası'nın bankalardan daha fazla yabancı para birimini rezervde tutmalarını talep ederek yükselişini soğutmaya yönelik hamlesinin ardından, karadaki yuan otuz yılın en uzun kazanç serisini durdurdu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
-    "ts": 1793667975000,
-    "tags": []
-   },
-   {
-    "t": "Bayer Raises Profit Outlook on Strong Demand for Drugs",
-    "tt": "Bayer, Güçlü İlaç Talebi Nedeniyle Kâr Görünümünü Artırdı",
-    "s": "Bayer AG raised its annual profit outlook after demand for some newer drugs drove a better-than-expected performance at its pharmaceutical unit.",
-    "ss": "Bayer AG, bazı yeni ilaçlarına olan talebin artmasının, ilaç biriminde beklenenden daha iyi bir performansa yol açmasının ardından yıllık kar görünümünü yükseltti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/bayer-raises-profit-outlook-helped-by-strong-demand-for-drugs",
-    "ts": 1793688266000,
-    "tags": []
-   },
-   {
-    "t": "Brookfield, QIA to Invest £2.5 Billion in Drax Data Center",
-    "tt": "Brookfield ve QIA, Drax ile Veri Merkezine Yatırım Yapacak",
-    "s": "Brookfield Asset Management and the Qatar Investment Authority have reached an agreement to invest £2.5 billion ($3.4 billion) in a data center project with UK power generator Drax Group Plc.",
-    "ss": "Brookfield Asset Management ve Katar Yatırım Otoritesi, İngiltere'deki elektrik üreticisi Drax Group Plc ile bir veri merkezi projesine 2,5 milyar £ (3,4 milyar $) yatırım yapmak üzere anlaşmaya vardı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/brookfield-qai-to-invest-2-5-billion-in-data-center-for-drax",
-    "ts": 1793689200000,
     "tags": []
    }
   ],
@@ -641,6 +641,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve",
+    "tt": "Petrol büyük bir yükseliş yaşadı, ancak öne çıkan boğa orta vadeli arifesinde bir dönüm noktası görüyor",
+    "s": "Closely followed oil strategist Jeff Currie says it’s time to cash in on gains that crude has seen this year, but that the structural supercycle is still intact.",
+    "ss": "Yakından takip edilen petrol stratejisti Jeff Currie, ham petrolün bu yıl elde ettiği kazanımlardan para kazanma zamanının geldiğini ancak yapısal süper döngünün hâlâ sağlam olduğunu söylüyor.",
+    "u": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
+    "ts": 1793703240000,
+    "tags": []
+   },
+   {
     "t": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
     "tt": "Binlerce Disney'de işten çıkarmalar yaklaşıyor olabilir. Yatırımcılar bundan sonra ne olacağını soruyor.",
     "s": "Reports that Walt Disney is poised to lay off thousands of workers wasn’t moving the needle for its languishing stock on Tuesday.",
@@ -720,18 +729,27 @@
     "u": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
     "ts": 1793656980000,
     "tags": []
-   },
-   {
-    "t": "Wall Street’s most hated stocks are faring far better than its favorites",
-    "tt": "Wall Street'in en nefret edilen hisseleri favorilerinden çok daha iyi durumda",
-    "s": "The thrashing that Wall Street’s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market.",
-    "ss": "Wall Street'in yapay zeka sevgililerinin son birkaç aydır üstlendiği darbe, ABD borsasında alışılmadık bir duruma yol açtı.",
-    "u": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-    "ts": 1793655900000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Ukrainian Intelligence Just Tried Its Own Version Of The Israeli Pager Attack",
+    "tt": "Ukrayna İstihbaratı İsrail Çağrı Cihazı Saldırısının Kendi Versiyonunu Denedi",
+    "s": "Ukrainian Intelligence Just Tried Its Own Version Of The Israeli Pager Attack It appears Ukrainian intelligence has attempted to do its own version of the Israeli pager bomb attacks that decimated many Hezbollah commanders in September 2024. Russian authorities announced Monday the uncovering of a b",
+    "ss": "Ukrayna İstihbaratı İsrail Çağrı Cihazı Saldırısının Kendi Versiyonunu Denedi Görünen o ki Ukrayna istihbaratı, Eylül 2024'te birçok Hizbullah komutanını yok eden İsrail çağrı cihazı bombalı saldırılarının kendi versiyonunu yapmaya çalışmış. Rus yetkililer Pazartesi günü yaptıkları duyuruda, bir b",
+    "u": "https://www.zerohedge.com/geopolitical/ukrainian-intelligence-just-tried-its-own-version-israeli-pager-attack",
+    "ts": 1793705400000,
+    "tags": []
+   },
+   {
+    "t": "\"We Want To F**k Leipzig\": Germany Vows Tough Response As Migrant Youths Admit Real Motives Behind Protests",
+    "tt": "\"Leipzig'i Sikmek İstiyoruz\": Göçmen Gençler Protestoların Arkasındaki Gerçek Sebepleri Kabul Ederken Almanya Sert Cevap Veriyor",
+    "s": "\"We Want To F**k Leipzig\": Germany Vows Tough Response As Migrant Youths Admit Real Motives Behind Protests Authored by Remix News Staff via Remix News , Following clashes with police and looting during the Gen Z protests on Halloween night in Germany, one interviewer attempted to speak with a group",
+    "ss": "\"Leipzig'i becermek İstiyoruz\": Göçmen Gençler Protestoların Arkasındaki Gerçek Sebepleri İtiraf Ederken, Almanya Sert Karşılık Vermeye Söz Verdi Remix Haber Çalışanları tarafından Remix News aracılığıyla yazılmıştır, Almanya'da Cadılar Bayramı gecesinde Z Kuşağı protestoları sırasında polisle yaşanan çatışmalar ve yağmaların ardından, bir röportajcı bir grupla konuşmaya çalıştı",
+    "u": "https://www.zerohedge.com/geopolitical/we-want-fk-leipzig-germany-vows-tough-response-migrant-youths-admit-real-motives",
+    "ts": 1793703600000,
+    "tags": []
+   },
    {
     "t": "Was October The Peak Of Hormuz Ship Attacks?",
     "tt": "Ekim ayı Hürmüz Gemi Saldırılarının Zirvesi miydi?",
@@ -803,27 +821,72 @@
     "u": "https://www.zerohedge.com/markets/unhappiest-place-wall-street-disney-readies-thousands-layoffs-managers-told-slash-20-costs",
     "ts": 1793678848000,
     "tags": []
-   },
-   {
-    "t": "Army Tests Autonomous Robots That Hunt Enemy Targets",
-    "tt": "Ordu, Düşman Hedeflerini Avlayan Otonom Robotları Test Ediyor",
-    "s": "Army Tests Autonomous Robots That Hunt Enemy Targets Authored by Austin Campbell and Nicholas Slayton via Task &amp; Purpose , Four robotic vehicles were sent hunting for enemy targets during a military demonstration at Fort Knox, Kentucky , recently, but only one initially moved. Guided by satellit",
-    "ss": "Ordu, Düşman Hedeflerini Avlayan Otonom Robotları Test Ediyor Austin Campbell ve Nicholas Slayton tarafından Task & Purpose aracılığıyla yazılmıştır. Yakın zamanda Fort Knox, Kentucky'deki bir askeri gösteri sırasında dört robotik araç düşman hedeflerini aramak için gönderildi, ancak başlangıçta yalnızca biri hareket etti. Uydu tarafından yönlendiriliyor",
-    "u": "https://www.zerohedge.com/military/army-tests-autonomous-robots-hunt-enemy-targets",
-    "ts": 1793676900000,
-    "tags": []
-   },
-   {
-    "t": "Lavrov: Washington's Ukraine Policy Unchanged As US Continues Pouring In Arms & Intelligence",
-    "tt": "Lavrov: ABD Silah ve İstihbarat Sağlamaya Devam Ederken Washington'un Ukrayna Politikası Değişmiyor",
-    "s": "Lavrov: Washington's Ukraine Policy Unchanged As US Continues Pouring In Arms &amp; Intelligence Russian Foreign Minister Sergei Lavrov was in Atlanta Friday and into the weekend, and while there he issued some surprisingly blunt remarks to reporters on the sidelines of a G20 meeting, related to the",
-    "ss": "Lavrov: ABD Silah ve İstihbarat Akıtmayı Sürdürürken Washington'un Ukrayna Politikası Değişmedi Rusya Dışişleri Bakanı Sergei Lavrov Cuma günü ve hafta sonu Atlanta'daydı ve oradayken G20 toplantısının oturum aralarında gazetecilere, ABD'nin nükleer silahlarıyla ilgili şaşırtıcı derecede açık sözlü bazı açıklamalarda bulundu.",
-    "u": "https://www.zerohedge.com/geopolitical/lavrov-complains-us-stance-ukraine-fundamentally-unchanged-arms-intel-still-flowing",
-    "ts": 1793675400000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "ABD ara seçimlerinde piyasada hangi senaryo, nasıl fiyatlanıyor?",
+    "tt": null,
+    "s": "ABD ara seçimler için sandık başına giderken Wall Street, Demokratların Kongre'nin her iki kanadının da kontrolünü yeniden ele geçirmesi durumunda hisse senetlerinde yaşanabilecek olası bir düşüşe hazırlanıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-ara-secimlerinde-piyasada-hangi-senaryo-nasil-fiyatlaniyor-3793289",
+    "ts": 1793705515000,
+    "tags": []
+   },
+   {
+    "t": "\"COP31'e giden süreçte çevre dostu finansman çözümleri ele alındı\"",
+    "tt": null,
+    "s": "VakıfBank Genel Müdürü Osman Arslan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) oldukça hayati olduğunu belirterek, \"VakıfBank olarak gerçekten başta Dünya Bankası olmak üzere önemli kalkınma bankalarından sağlamış olduğumuz kaynakları, ülkemizi",
+    "ss": null,
+    "u": "https://www.bloomberght.com/vakifbank-genel-muduru-arslan-kaynaklari-ulkeyi-kalkindiracak-alanlara-yonlendirecegiz-3793281",
+    "ts": 1793704945000,
+    "tags": []
+   },
+   {
+    "t": "Avrupa kışa 13 yılın en düşük gaz stokuyla giriyor",
+    "tt": null,
+    "s": "Küresel doğalgaz arz güvenliğine yönelik riskler devam ederken Avrupa Birliği (AB), kış dönemine 2013'ten beri görülen en düşük doğalgaz stok seviyeleriyle giriyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/avrupa-kisa-13-yilin-en-dusuk-gaz-stokuyla-giriyor-3793269",
+    "ts": 1793704091000,
+    "tags": []
+   },
+   {
+    "t": "Otomotiv pazarı Ekim'de yüzde 30 daraldı: \"Yıl sonunda 1 milyon adedin altına inebilir\"",
+    "tt": null,
+    "s": "Otomotiv Distribütörleri ve Mobilite Derneği (ODMD) Yönetim Kurulu Başkanı Hakan Tiftik, yılı kapatırken ekim ayındaki daralma eğiliminin sürmesi halinde pazarın 1 milyon adedin altına gerileyebileceğini söyleyen Tiftik, sermaye piyasalarındaki gelişmelerin ardından aracını satıp nakde dönmek isteye",
+    "ss": null,
+    "u": "https://www.bloomberght.com/otomotiv-pazari-ekimde-yuzde-30-daraldi-yil-sonunda-1-milyon-adedin-altina-inebilir-3793268",
+    "ts": 1793704069000,
+    "tags": []
+   },
+   {
+    "t": "ABD ara seçimler için sandık başında: Trump için en büyük referandum",
+    "tt": null,
+    "s": "ABD'de Başkan Donald Trump'ın ikinci dönemine ilişkin referandum niteliği taşıyan ara seçimler için seçmenler sandık başında olacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-ara-secimler-icin-sandik-basinda-trump-icin-en-buyuk-referandum-3793267",
+    "ts": 1793703934000,
+    "tags": []
+   },
+   {
+    "t": "Grafiklerle Ekim enflasyonu",
+    "tt": null,
+    "s": "Türkiye İstatistik Kurumu'nun (TÜİK) Ekim ayına ilişkin tüketici ve üretici fiyat endeksleri verilerine göre yıllık tüketici fiyat artışı Eylül'deki %29,73 seviyesinden Ekim ayında yüzde 29,77'e yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/grafiklerle-ekim-enflasyonu-3793266",
+    "ts": 1793703929000,
+    "tags": []
+   },
+   {
+    "t": "COP31'de küresel elektrifikasyon gündemi",
+    "tt": null,
+    "s": "Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler (BM) iklim müzakereleri COP31'de küresel enerji tüketiminde elektriğin payını 2035'e kadar yüzde 35'e çıkarmak için bir taahhüdün kabul edilmesi hedeflenirken uzmanlara göre elektrifikasyonda bu hedefe ulaşılması için ekonominin tüm sektör",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cop31-de-kuresel-elektrifikasyon-gundemi-3793264",
+    "ts": 1793702794000,
+    "tags": []
+   },
    {
     "t": "Çelik sektöründen net sıfır emisyon için yol haritası",
     "tt": null,
@@ -849,69 +912,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/bankacilikta-yeni-normal-daha-az-masraf-3793261",
     "ts": 1793702112000,
-    "tags": []
-   },
-   {
-    "t": "İletişim Başkanlığı: Toplam 100 fonda 97,3 milyar TL ödeme yapıldı",
-    "tt": null,
-    "s": "İletişim Başkanlığı 30 Ekim 2026 tarihi itibarıyla Atlas, Pusula ve Tera Portföy Yönetim Şirketlerinin oluşturduğu fonlarda, olağanüstü tasfiye kapsamında toplam 29,3 milyar TL fon sahiplerinin hesaplarına yatırıldığını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iletisim-baskanligi-toplam-100-fonda-97-3-milyar-tl-odeme-yapildi-3793254",
-    "ts": 1793699848000,
-    "tags": []
-   },
-   {
-    "t": "Erdoğan: Güney Kore ile ikili ticaretimizde 15 milyar doları aşan adımlar attık",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, devlet töreni ile karşılandığı Güney Kore'de yaptığı açıklamada, \"11 milyar doları aşan ikili ticaretimizi 15 milyar dolar hedefine ulaştaracak adımları görüştük\" dedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-ile-guney-kore-arasinda-4-anlasma-imzalandi-3793246",
-    "ts": 1793697368000,
-    "tags": []
-   },
-   {
-    "t": "Yapı Kredi Bankası'ndan beklentilere paralel net kâr",
-    "tt": null,
-    "s": "Yapı Kredi, 2026 yılının üçüncü çeyreğinde 10,66 milyar TL net kâr açıkladı. Bankanın net kârı, 10,51 milyar TL'lik piyasa konsensüsüyle uyumlu gerçekleşti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yapi-kredi-bankasindan-beklentilere-paralel-net-kr-3793242",
-    "ts": 1793696684000,
-    "tags": []
-   },
-   {
-    "t": "Bakan Işıkhan'dan emekli maaşı açıklaması",
-    "tt": null,
-    "s": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Emeklilerimizin yaşadığı ekonomik koşulların farkındayız ve refah seviyelerini yükseltmeye yönelik çalışmalarımızı, kararlılıkla sürdürüyoruz. Bu kapsamda, 2027 yılı Ocak ayından itibaren geçerli olması hedeflenen, mevcut yasal artışlara ilave, iyile",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bakan-isikhan-dan-emekli-maasi-aciklamasi-3793241",
-    "ts": 1793696193000,
-    "tags": []
-   },
-   {
-    "t": "Cevdet Yılmaz'dan enflasyon değerlendirmesi",
-    "tt": null,
-    "s": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz enflasyon verisi sonrası değerlendirmelerde bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cevdet-yilmaz-dan-enflasyon-degerlendirmesi-3793233",
-    "ts": 1793695787000,
-    "tags": []
-   },
-   {
-    "t": "Bakan Gürlek: Şu ana kadar 30 milyar lira gönüllü iade toplandı",
-    "tt": null,
-    "s": "Şimdiye kadar yaklaşık 30 milyar TL değerindeki varlığın gönüllü iade hesabı kapsamında iade edildiğini söyleyen Adalet Bakanı Akın Gürlek, fon soruşturmalarında üst düzey finans bürokrasisine kadar uzanan organize bir suç yapılanması tespit edildiğini açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bakan-gurlek-su-ana-kadar-30-milyar-lira-gonullu-iade-toplandi-3793221",
-    "ts": 1793694450000,
-    "tags": []
-   },
-   {
-    "t": "AMB yetkilisi: Ekim'deki duraklama, sıkılaştırmanın bittiği anlamına gelmiyor",
-    "tt": null,
-    "s": "Avrupa Merkez Bankası Yönetim Konseyi üyesi ve Bulgaristan Merkez Bankası Başkanı Dimitar Radev, bankanın geçen ay faiz oranlarını değiştirmeme kararının, faizlerin ileride daha da artırılmayacağı anlamına gelmediğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/amb-yetkilisi-ekimdeki-duraklama-sikilastirmanin-bittigi-anlamina-gelmiyor-3793205",
-    "ts": 1793693356000,
     "tags": []
    }
   ]
