@@ -1,74 +1,74 @@
 {
- "generated": "2026-11-03T13:59:20.837860+00:00",
+ "generated": "2026-11-03T14:52:26.723790+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7541.4,
-   "c": -0.51,
-   "d": -38.67,
+   "p": 7564.84,
+   "c": 0.31,
+   "d": 23.44,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25164.363,
-   "c": -1.07,
-   "d": -272.637,
+   "p": 25352.295,
+   "c": 0.75,
+   "d": 187.984,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 51983.98,
-   "c": 0.41,
-   "d": 213.671,
+   "p": 51698.55,
+   "c": -0.55,
+   "d": -285.43,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.83,
-   "c": -1.51,
-   "d": -0.32,
+   "p": 20.78,
+   "c": -1.75,
+   "d": -0.37,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3974.6,
-   "c": 0.13,
-   "d": 5.0,
+   "p": 3955.8,
+   "c": -0.35,
+   "d": -13.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.43,
-   "c": -0.57,
-   "d": -0.29,
+   "p": 50.045,
+   "c": -1.33,
+   "d": -0.675,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 94.55,
-   "c": -1.98,
-   "d": -1.91,
+   "p": 96.3,
+   "c": -0.17,
+   "d": -0.16,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 101.57,
-   "c": -3.05,
-   "d": -3.2,
+   "p": 103.75,
+   "c": -0.97,
+   "d": -1.02,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.782,
-   "c": 0.03,
-   "d": 0.032,
+   "p": 101.843,
+   "c": 0.09,
+   "d": 0.093,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.898,
-   "c": 0.08,
-   "d": 0.004,
+   "p": 4.929,
+   "c": 0.72,
+   "d": 0.035,
    "k": "yield"
   },
   {
@@ -80,41 +80,41 @@
   },
   {
    "n": "BIST 100",
-   "p": 11125.39,
-   "c": 1.49,
-   "d": 163.69,
+   "p": 11026.29,
+   "c": 0.59,
+   "d": 64.59,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77296,
-   "c": -0.76,
+   "p": 77217,
+   "c": -0.55,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2284.26,
-   "c": -0.1,
+   "p": 2286.45,
+   "c": 0.15,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 93.07,
-   "c": -1.36,
+   "p": 93.35,
+   "c": -0.8,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.28,
-   "c": 2.36,
+   "c": 2.09,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 697.49,
-   "c": -0.91,
+   "p": 697.66,
+   "c": -0.77,
    "k": "usd"
   }
  ],
@@ -181,6 +181,16 @@
    "reading": null
   },
   {
+   "title": "RCM/TIPP Economic Optimism",
+   "impact": "Low",
+   "forecast": "46.2",
+   "previous": "46.8",
+   "actual": "",
+   "ts": 1793696400000,
+   "tr": "Sal 03.11 12:00",
+   "reading": null
+  },
+  {
    "title": "JOLTS Job Openings",
    "impact": "Medium",
    "forecast": "7.15M",
@@ -198,16 +208,6 @@
    "actual": "",
    "ts": 1793718000000,
    "tr": "Sal 03.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "RCM/TIPP Economic Optimism",
-   "impact": "Low",
-   "forecast": "46.2",
-   "previous": "46.8",
-   "actual": "",
-   "ts": 1793718600000,
-   "tr": "Sal 03.11 18:10",
    "reading": null
   },
   {
@@ -454,29 +454,45 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Russia Raises Crude Shipments Even as Refineries Ramp Up",
-    "tt": "Rafineriler Hızlanırken Rusya Ham Petrol Sevkiyatını Artırıyor",
-    "s": "Exports edged higher despite a lull in Ukrainian attacks that&nbsp;boosted processing",
-    "ss": "Ukrayna saldırılarında işlemeyi hızlandıran durgunluğa rağmen ihracat artış gösterdi",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/russia-raises-crude-shipments-even-as-refineries-ramp-up",
-    "ts": 1793714537000,
+    "t": "A Luxury Cruise Exposes the Fuel Divide",
+    "tt": "Lüks Bir Gemi Yolculuğu Yakıt Bölünmesini Ortaya Çıkarıyor",
+    "s": "Passengers aboard the Villa Vie Odyssey were told to disembark in Cambodia after the company said it couldn't afford fuel. Bloomberg Opinion columnist David Fickling explains how low occupancy and soaring fuel costs exposed the ship's financial weaknesses. (Source: Bloomberg)",
+    "ss": "Şirketin yakıt alamayacağını söylemesinin ardından Villa Vie Odyssey'deki yolculara Kamboçya'ya inmeleri söylendi. Bloomberg Opinion köşe yazarı David Fickling, düşük doluluk oranının ve artan yakıt maliyetlerinin geminin mali zayıflıklarını nasıl ortaya çıkardığını açıklıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/opinion-a-luxury-cruise-exposes-the-fuel-divide-video",
+    "ts": 1793717459000,
     "tags": []
    },
    {
-    "t": "Gold Rises as Iran-US Deal Hopes Send Oil Prices Tumbling",
-    "tt": "Altın, İran-ABD Anlaşmasının Petrol Fiyatlarını Düşüreceği Umuduyla Yükseliyor",
-    "s": "Gold gained on unconfirmed reports of further diplomacy in the US-Iran conflict, which sent oil plunging.",
-    "ss": "Altın, petrolün düşmesine neden olan ABD-İran ihtilafında diplomasinin devam edeceği yönündeki doğrulanmamış raporlarla değer kazandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
-    "ts": 1793665216000,
-    "tags": [
-     "Altın ▲"
-    ]
+    "t": "NextEra Offers New Safeguards for $67 Billion Dominion Deal",
+    "tt": "NextEra, 67 Milyar Dolarlık Dominion Anlaşması İçin Yeni Korumalar Sunuyor",
+    "s": "NextEra Energy Inc. offered Virginia additional customer and financial protections, the utility’s latest bid to convince the state to approve its $67 billion acquisition of Dominion Energy Inc.",
+    "ss": "NextEra Energy Inc., Virginia'ya ek müşteri ve finansal korumalar teklif etti; bu, kamu hizmeti şirketinin eyaleti Dominion Energy Inc.'i 67 milyar dolarlık satın alımını onaylamaya ikna etmek için yaptığı son teklifti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
+    "ts": 1793708662000,
+    "tags": []
    },
    {
-    "t": "US Stocks Rise as Oil Extends Slide, Vote Begins: Markets Wrap",
+    "t": "US Stocks Inch Up Even as Election, AI Risks Weigh on Outlook",
+    "tt": "ABD Hisse Senetleri Seçimle Dalgalanıyor, Yapay Zeka Balonu Riskleri Görünümü Ağırlaştırıyor",
+    "s": "US stocks were higher after the market opened as Americans headed to the polls on Election Day, with control of both chambers of Congress at stake and investors weighing mounting risks to the artificial intelligence trade.",
+    "ss": "ABD hisse senedi vadeli işlemleri, Amerikalıların Seçim Günü sandık başına gitmesiyle, her iki Kongre odasının da kontrol edilmesiyle ve yatırımcıların yapay zeka ticaretine yönelik artan riskleri tartmasıyla pek değişmedi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
+    "ts": 1793711716000,
+    "tags": []
+   },
+   {
+    "t": "Disney Targets 20% Cost Savings in Thousands of Layoffs",
+    "tt": "Disney Binlerce İşten Çıkarmada %20 Maliyet Tasarrufu Hedefliyor",
+    "s": "Disney is planning thousands of job cuts and asking some managers to target 20% in annual cost savings that could come from job eliminations as well as from expense reductions, according to people familiar with the matter. Geetha Ranganathan of Bloomberg Intelligence has more. (Source: Bloomberg)",
+    "ss": "Konuya aşina kaynaklara göre Disney, binlerce işten çıkarma planlıyor ve bazı yöneticilerden, işten çıkarmaların yanı sıra gider kesintilerinden de elde edilebilecek yıllık maliyet tasarruflarında %20'yi hedeflemelerini istiyor. Bloomberg Intelligence'dan Geetha Ranganathan'da daha fazlası var. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/disney-targets-20-cost-savings-in-thousands-of-layoffs-video",
+    "ts": 1793716699000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 Edges Up as Oil Falls on US Election Day: Markets Wrap",
     "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
-    "s": "US stock futures edged higher alongside short-dated Treasuries as sliding oil prices eased some pressure on markets, with voting underway in the midterm elections.",
+    "s": "Wall Street traders refrained from making big moves as US voting got underway in the midterm elections, with stocks, bonds and the dollar churning.",
     "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
     "ts": 1793658314000,
@@ -488,6 +504,24 @@
     ]
    },
    {
+    "t": "AMD Needs a Huge Outlook to Avoid Intel’s Fate as AI Fears Rise",
+    "tt": "Yapay Zeka Korkuları Yükselirken AMD'nin Intel'in Kaderinden Kaçınmak İçin Büyük Bir Bakış Açısına İhtiyacı Var",
+    "s": "Advanced Micro Devices Inc. is one of this year’s best-performing chip stocks, but with skepticism about artificial-intelligence spending on the rise, it could use strong results and an aggressive outlook to maintain the momentum when the firm reports earnings Tuesday afternoon.",
+    "ss": "Advanced Micro Devices Inc., bu yılın en iyi performans gösteren çip hisselerinden biri ancak yapay zeka harcamalarının arttığına dair şüpheler nedeniyle, Salı öğleden sonra kazanç açıklarken momentumu korumak için güçlü sonuçlar ve agresif bir görünüm kullanabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/amd-needs-a-huge-outlook-to-avoid-intel-s-fate-as-ai-fears-rise",
+    "ts": 1793706197000,
+    "tags": []
+   },
+   {
+    "t": "NSE Profit Rises in First Earnings Since September Listing",
+    "tt": "NSE'nin Kârı Eylül Listesinden Bu Yana İlk Kârında Arttı",
+    "s": "The National Stock Exchange of India Ltd.’s fiscal second-quarter profit rose 23% on robust trading volumes as heightened market volatility boosted activity.",
+    "ss": "National Stock Exchange of India Ltd.'nin ikinci çeyrek mali karı, artan piyasa oynaklığının faaliyeti artırmasıyla güçlü işlem hacimleri sayesinde %23 arttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/nse-profit-rises-in-first-earnings-since-september-listing",
+    "ts": 1793708723000,
+    "tags": []
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Nov. 3",
     "tt": "3 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
     "s": "Oil and natural gas extended a plunge on unconfirmed reports of further diplomacy in the US-Iran conflict.",
@@ -497,57 +531,21 @@
     "tags": []
    },
    {
-    "t": "Foodtastic Offers $720 Million for Canada’s MTY Food",
-    "tt": "Foodtastic, Restoran Franchisoru MTY'ye 750 Milyon Dolar Teklif Ediyor",
-    "s": "Restaurant operator Foodtastic Inc. has offered to acquire Canadian franchisor MTY Food Group Inc. for about C$1 billion ($720 million), according to a letter reviewed by Bloomberg News, after two earlier approaches were rebuffed.",
-    "ss": "Bloomberg News tarafından incelenen bir mektuba göre, restoran işletmecisi Foodtastic Inc., Kanadalı franchisor MTY Food Group Inc.'i yaklaşık 1 milyar C$ (720 milyon $) karşılığında satın almayı teklif etti; daha önceki iki yaklaşımın reddedilmesinin ardından.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/foodtastic-offers-750-million-for-restaurant-franchisor-mty",
-    "ts": 1793709095000,
+    "t": "Owning Anthropic Before It Goes Public",
+    "tt": "Halka Açık Olmadan Önce Antropik Sahip Olmak",
+    "s": "John Cole Scott, president & CIO of CEF Advisors, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" Anthropic filed on Oct. 26 for an IPO that’s set to take place before Thanksgiving. Anthropic is seeking to meet or exceed the amount SpaceX raised in its $86.2 billion debut, people familiar",
+    "ss": "CEF Advisors başkanı ve CIO'su John Cole Scott, \"Bloomberg ETF IQ\" programında Scarlet Fu ve Eric Balchunas'a katılıyor. Anthropic, Şükran Günü'nden önce gerçekleşmesi planlanan halka arz için 26 Ekim'de başvuruda bulundu. Anthropic, SpaceX'in 86,2 milyar dolarlık ilk çıkışında topladığı miktarı karşılamaya veya aşmaya çalışıyor, tanıdıklar",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-02/owning-anthropic-before-it-goes-public-video",
+    "ts": 1793646413000,
     "tags": []
    },
    {
-    "t": "Argentina’s US IPO Revival Stalls as Market Rout Chills Debuts",
-    "tt": "Arjantin'in ABD'deki halka arz canlanması, piyasanın soğumasıyla birlikte duruyor",
-    "s": "Two Argentine energy companies have put plans for US initial public offerings this year on hold, dealing a blow to hopes of reviving the country’s long-dormant market for New York stock listings as a rout in local assets and global market turmoil dampen investor appetite.",
-    "ss": "İki Arjantinli enerji şirketi, bu yıl ABD'nin ilk halka arz planlarını askıya alarak, yerel varlıklardaki bir bozgun ve küresel piyasadaki çalkantının yatırımcı iştahını azaltması nedeniyle, ülkenin New York hisse senedi listelerinde uzun süredir hareketsiz olan piyasasını yeniden canlandırma umutlarına bir darbe indirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/argentina-s-us-ipo-revival-stalls-as-market-rout-chills-debuts",
-    "ts": 1793712411000,
-    "tags": []
-   },
-   {
-    "t": "Saudi Budget Deficit More Than Doubles as War Strains Finances",
-    "tt": "Savaş finansmanı zorlarken Suudi bütçe açığı iki kattan fazla arttı",
-    "s": "Saudi Arabia’s quarterly fiscal deficit more than doubled as the kingdom faces the financial toll of the US-Iran war that began more than eight months ago.",
-    "ss": "Suudi Arabistan'ın üç aylık mali açığı, krallığın sekiz ay önce başlayan ABD-İran savaşının mali bedeliyle karşı karşıya kalmasıyla iki katından fazla arttı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-budget-deficit-more-than-doubles-as-war-strains-finances",
-    "ts": 1793711981000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Waver as Election, AI Bubble Risks Weigh on Outlook",
-    "tt": "ABD Hisse Senetleri Seçimle Dalgalanıyor, Yapay Zeka Balonu Riskleri Görünümü Ağırlaştırıyor",
-    "s": "US stock futures were little changed as Americans headed to the polls on Election Day, with control of both chambers of Congress at stake and investors weighing mounting risks to the artificial intelligence trade.",
-    "ss": "ABD hisse senedi vadeli işlemleri, Amerikalıların Seçim Günü sandık başına gitmesiyle, her iki Kongre odasının da kontrol edilmesiyle ve yatırımcıların yapay zeka ticaretine yönelik artan riskleri tartmasıyla pek değişmedi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
-    "ts": 1793711716000,
-    "tags": []
-   },
-   {
-    "t": "Sugar Falls as Indian Output Data Signal Less Need to Import",
-    "tt": "Hindistan Üretim Verileri İthalat İhtiyacının Azaldığının Sinyaliyle Şeker Düşüyor",
-    "s": "Sugar slid at the open on Tuesday after data showed Indian production is running well ahead of last season following an earlier start to the harvest. Profit-taking also added to the slide.",
-    "ss": "Şeker, hasatın daha erken başlamasının ardından Hindistan üretiminin geçen sezona göre oldukça ileri gittiğini gösteren verilerin ardından Salı günü açılışta düştü. Slayta kâr alma da eklendi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/sugar-falls-as-indian-output-data-signal-less-need-to-import",
-    "ts": 1793711544000,
-    "tags": []
-   },
-   {
-    "t": "Oil to Remain at $100 Per Barrel Through 2027, Oil Analyst Sankey Warns",
-    "tt": "Petrol Analisti Sankey, Petrolün 2027'ye Kadar Varil Başına 100 Dolarda Kalacağı Uyardı",
-    "s": "Paul Sankey, president at Sankey Research, explains the factors that will keep crude above $100 per barrel for the year ahead and how that could impact diesel prices. Sankey also offers his outlook for European energy supplies, saying, “it’s gonna be an expensive winter for the average European.” He",
-    "ss": "Sankey Research başkanı Paul Sankey, önümüzdeki yıl ham petrolü varil başına 100 doların üzerinde tutacak faktörleri ve bunun dizel fiyatlarını nasıl etkileyebileceğini açıklıyor. Sankey aynı zamanda Avrupa'nın enerji arzına ilişkin öngörüsünü de sunarak \"ortalama bir Avrupalı ​​için pahalı bir kış olacak\" diyor. O",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/oil-to-remain-at-100-per-barrel-through-2027-sankey-video",
-    "ts": 1793710939000,
+    "t": "Cinven Set to Back Theramex Acquisition With €1.5 Billion Debt",
+    "tt": "Cinven, Theramex'in Satın Alınmasını 1,5 Milyar Euro Borçla Destekleyecek",
+    "s": "Cinven is tapping banks to help finance its acquisition of specialty pharmaceutical company Theramex with debt financing of around €1.5 billion ($1.7 billion).",
+    "ss": "Cinven, yaklaşık 1,5 milyar Euro (1,7 milyar dolar) borç finansmanıyla özel ilaç şirketi Theramex'i satın almasının finansmanına yardımcı olmak için bankalardan yardım alıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/cinven-set-to-back-theramex-acquisition-with-1-5-billion-debt",
+    "ts": 1793714787000,
     "tags": []
    }
   ],
@@ -648,6 +646,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Learning from ‘Love Is Blind’ money drama",
+    "tt": "'Aşkın Körüdür' para dramasından ders almak",
+    "s": "Hear me out: These reality-TV couples are having really important conversations about love and money heading into Wednesday’s finale.",
+    "ss": "Beni dinleyin: Reality TV çiftleri, Çarşamba günkü finale doğru aşk ve para hakkında gerçekten önemli konuşmalar yapıyorlar.",
+    "u": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+    "ts": 1793717160000,
+    "tags": []
+   },
+   {
+    "t": "This indicator has triggered just 5 times since 2000 — and it warns of a trap for stocks",
+    "tt": "Bu gösterge 2000 yılından bu yana yalnızca 5 kez tetiklendi ve hisse senetleri için bir tuzağa karşı uyarıda bulundu",
+    "s": "Compared with previous market drawdowns, the current market setup is vulnerable because rising inflation limits the ability of central banks to ease rates and reflate asset prices. Reduce stocks and add bonds and cash, this macro research house advises",
+    "ss": "Önceki piyasa düşüşleriyle karşılaştırıldığında, mevcut piyasa düzeni kırılgan çünkü artan enflasyon merkez bankalarının faiz oranlarını düşürme ve varlık fiyatlarını yeniden ayarlama yeteneğini sınırlıyor. Bu makro araştırma evi, stokları azaltıp tahvil ve nakit eklemeyi öneriyor",
+    "u": "https://www.marketwatch.com/story/this-indicator-has-triggered-just-5-times-since-2000-and-it-warns-of-a-trap-for-stocks-a1cbd579?mod=mw_rss_topstories",
+    "ts": 1793714760000,
+    "tags": []
+   },
+   {
     "t": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
     "tt": "'Yaşlı olmak güzel': Yıllık gelir satış konuşmalarına dönüşen bir düzine bedava yemeğe davet edildim. Gitmeyi bırakmalı mıyım?",
     "s": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
@@ -718,27 +734,27 @@
     "u": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
     "ts": 1793708400000,
     "tags": []
-   },
-   {
-    "t": "My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-    "tt": "'O bir A Tipi kişiliktir': Üvey annem, rahmetli babamın 40.000 dolarlık düğün hediyesini geri ödememi istiyor. Zorunlu mu olmalıyım?",
-    "s": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-    "ss": "\"Cenazesinden yaklaşık iki ay sonra üvey annem aradı ve parayı geri istediğini söyledi.\"",
-    "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "ts": 1793708100000,
-    "tags": []
-   },
-   {
-    "t": "The stock market loves gridlock. But midterm elections won’t resolve two big money fights.",
-    "tt": "Borsa tıkanıklığı sever. Ancak ara seçimler iki büyük para kavgasını çözmeyecek.",
-    "s": "Investors hoping for an Election Day lift face a looming government-spending showdown and growing opposition to AI data centers.",
-    "ss": "Seçim Günü yükselişi ümit eden yatırımcılar, yaklaşan hükümet harcamaları hesaplaşmasıyla ve yapay zeka veri merkezlerine karşı artan muhalefetle karşı karşıya.",
-    "u": "https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories",
-    "ts": 1793707920000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Shopify Crashes On First Revenue Miss In Four Years, Wells Fargo Warns AI Costs Hitting Margins",
+    "tt": "Shopify Dört Yıl İçinde İlk Gelir Kaybıyla Çöktü, Wells Fargo Yapay Zeka Maliyetlerinin Marjlara Ulaştığı konusunda Uyardı",
+    "s": "Shopify Crashes On First Revenue Miss In Four Years, Wells Fargo Warns AI Costs Hitting Margins Shopify shares crashed in premarket trading in New York after the first sales miss since 2022 . Investors focused on subscription revenue that fell short of the Bloomberg Consensus estimate, and Wells Far",
+    "ss": "Shopify, Dört Yıl İçinde İlk Gelir Kaybında Çöktü, Wells Fargo Yapay Zeka Maliyetlerinin Marjlara Ulaştığı konusunda Uyardı Shopify hisseleri, 2022'den bu yana ilk satış kaybının ardından New York'ta piyasa öncesi ticarette çöktü. Yatırımcılar Bloomberg Consensus tahmininin altında kalan abonelik gelirlerine odaklandı ve Wells Far",
+    "u": "https://www.zerohedge.com/markets/shopify-crashes-first-revenue-miss-four-years-wells-fargo-warns-ai-costs-hitting-margins",
+    "ts": 1793717100000,
+    "tags": []
+   },
+   {
+    "t": "\"Mach Tuck\"? Investigators Say Learjet 60 May Have Broken Apart Before Florida Crash",
+    "tt": "\"Mach Tuck\" mı? Müfettişler Learjet 60'ın Florida Kazasından Önce Parçalanmış Olabileceğini Söyledi",
+    "s": "\"Mach Tuck\"? Investigators Say Learjet 60 May Have Broken Apart Before Florida Crash The Learjet 60 that crashed on Sunday afternoon in Palm Beach County, Florida, killing all nine people aboard, may have broken apart before slamming into the ground . The Learjet 60 (N722BD) was flying from Austin, ",
+    "ss": "\"Mach Tuck\" mı? Müfettişler, Learjet 60'ın Florida Kazasından Önce Parçalanmış Olabileceğini Söyledi Pazar günü öğleden sonra Florida'nın Palm Beach County bölgesinde düşen ve içindeki dokuz kişinin tamamını öldüren Learjet 60, yere çarpmadan önce parçalanmış olabilir. Learjet 60 (N722BD) Austin'den uçuyordu.",
+    "u": "https://www.zerohedge.com/markets/mach-tuck-investigators-say-learjet-60-may-have-broke-apart-florida-crash",
+    "ts": 1793715300000,
+    "tags": []
+   },
    {
     "t": "Alarming Abuse Identified In Secret Ukraine Azov Battalion Detainment & Forced Conscript Transition-House",
     "tt": "Gizli Ukrayna Azak Taburu Gözaltında ve Zorunlu Askere Alma Geçiş Evi'nde Tespit Edilen Endişe verici İstismar",
@@ -815,27 +831,27 @@
     "u": "https://www.zerohedge.com/political/doj-charges-63-people-illegal-voting-voter-fraud-across-us",
     "ts": 1793708100000,
     "tags": []
-   },
-   {
-    "t": "Child Dies In New York's First Measles Death In 30 Years; Hochul Blames Washington",
-    "tt": "New York'ta 30 Yıl Sonra İlk Kızamık Ölümünde Çocuk Öldü; Hochul Washington'u suçladı",
-    "s": "Child Dies In New York's First Measles Death In 30 Years; Hochul Blames Washington A child in Lewis County has died in the state's ongoing measles outbreak , New York health officials said Monday, the first measles-associated death in New York in more than 30 years. The state Department of Health an",
-    "ss": "New York'ta 30 Yıl Sonra İlk Kızamık Ölümünde Çocuk Öldü; Hochul, Washington'u Suçluyor New York sağlık yetkilileri Pazartesi günü yaptığı açıklamada, Lewis County'de bir çocuğun eyalette devam eden kızamık salgını nedeniyle öldüğünü söyledi; bu, New York'ta 30 yıldan fazla bir süredir kızamıkla bağlantılı ilk ölüm oldu. Eyalet Sağlık Bakanlığı bir",
-    "u": "https://www.zerohedge.com/political/child-dies-new-yorks-first-measles-death-30-years-hochul-blames-washington",
-    "ts": 1793707800000,
-    "tags": []
-   },
-   {
-    "t": "Beijing's Stock Rescue Turns More Desperate: Regulators Reportedly Halt IPOs",
-    "tt": "Pekin'in Hisse Kurtarma Süreci Daha Çaresiz Hale Geliyor: Düzenleyicilerin Halka Arzları Durdurduğu Bildirildi",
-    "s": "Beijing's Stock Rescue Turns More Desperate: Regulators Reportedly Halt IPOs China's version of the \"Plunge Protection Team\" was back in action on Tuesday. The Financial Times reports that the securities regulator has instructed investment banks to pause initial public offerings , curbing new equity",
-    "ss": "Pekin'in Hisse Kurtarma Çalışmaları Daha Çaresiz Hale Geliyor: Düzenleyicilerin Halka Arzları Durdurduğu Bildirildi Çin'in \"Dalma Koruma Ekibi\" versiyonu Salı günü yeniden faaliyete geçti. Financial Times, menkul kıymetler düzenleyici kurumunun yatırım bankalarına ilk halka arzları duraklatmaları ve yeni özsermayeleri kısıtlamaları talimatını verdiğini bildiriyor",
-    "u": "https://www.zerohedge.com/markets/beijings-stock-rescue-turns-more-desperate-regulators-reportedly-halt-ipos-amid-bear-market",
-    "ts": 1793707200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Bakan Bayraktar'dan YEKA GES değerlendirmesi",
+    "tt": null,
+    "s": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, YEKA RES-2026 ve YEKA GES-2026 yarışmaları kapsamında 18 ayrı sahada toplam 2 bin 285 megavatlık kapasite tahsisi gerçekleştirildiğini açıkladı. Bayraktar, söz konusu projelerle Türkiye'ye 1,9 milyar dolarlık yeni yatırım kazandırılacağını belirt",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bakan-bayraktar-dan-yeka-ges-degerlendirmesi-3793318",
+    "ts": 1793716537000,
+    "tags": []
+   },
+   {
+    "t": "Trump'tan İsrail'e yardım durdurma kararı",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump, ABD'nin İsrail'e yapacağı 4 milyar dolarlık yardımın durdurulacağını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-tan-israil-e-yardimi-durdurma-karari-3793315",
+    "ts": 1793714821000,
+    "tags": []
+   },
    {
     "t": "İran'dan ABD'nin nükleer tehdidine rest",
     "tt": null,
@@ -906,24 +922,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/katar-dan-abd-iran-savasi-icin-diplomasi-mesaji-3793290",
     "ts": 1793706833000,
-    "tags": []
-   },
-   {
-    "t": "ABD ara seçimlerinde piyasada hangi senaryo, nasıl fiyatlanıyor?",
-    "tt": null,
-    "s": "ABD ara seçimler için sandık başına giderken Wall Street, Demokratların Kongre'nin her iki kanadının da kontrolünü yeniden ele geçirmesi durumunda hisse senetlerinde yaşanabilecek olası bir düşüşe hazırlanıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-ara-secimlerinde-piyasada-hangi-senaryo-nasil-fiyatlaniyor-3793289",
-    "ts": 1793705515000,
-    "tags": []
-   },
-   {
-    "t": "\"COP31'e giden süreçte çevre dostu finansman çözümleri ele alındı\"",
-    "tt": null,
-    "s": "VakıfBank Genel Müdürü Osman Arslan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) oldukça hayati olduğunu belirterek, \"VakıfBank olarak gerçekten başta Dünya Bankası olmak üzere önemli kalkınma bankalarından sağlamış olduğumuz kaynakları, ülkemizi",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vakifbank-genel-muduru-arslan-kaynaklari-ulkeyi-kalkindiracak-alanlara-yonlendirecegiz-3793281",
-    "ts": 1793704945000,
     "tags": []
    }
   ]
