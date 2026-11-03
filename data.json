@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T07:48:36.692650+00:00",
+ "generated": "2026-11-03T08:47:54.502656+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 21.15,
-   "c": 8.91,
-   "d": 1.73,
+   "p": 21.71,
+   "c": 2.65,
+   "d": 0.56,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3918.6,
-   "c": -1.28,
-   "d": -51.0,
+   "p": 3917.3,
+   "c": -1.32,
+   "d": -52.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.065,
-   "c": -3.26,
-   "d": -1.655,
+   "p": 48.95,
+   "c": -3.49,
+   "d": -1.77,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 98.03,
-   "c": 1.63,
-   "d": 1.57,
-   "k": "usd"
-  },
-  {
-   "n": "Brent",
-   "p": 106.53,
-   "c": 1.68,
+   "p": 98.22,
+   "c": 1.82,
    "d": 1.76,
    "k": "usd"
   },
   {
+   "n": "Brent",
+   "p": 106.96,
+   "c": 2.09,
+   "d": 2.19,
+   "k": "usd"
+  },
+  {
    "n": "DXY",
-   "p": 101.67,
-   "c": -0.08,
-   "d": -0.08,
+   "p": 101.73,
+   "c": -0.02,
+   "d": -0.02,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9942,
-   "c": 0.06,
-   "d": 0.028,
+   "p": 49.9926,
+   "c": 0.05,
+   "d": 0.027,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10893.99,
-   "c": -0.62,
-   "d": -67.71,
+   "p": 10918.14,
+   "c": -0.4,
+   "d": -43.56,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 76765,
-   "c": -1.48,
+   "p": 76434,
+   "c": -2.31,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2254.39,
-   "c": -1.01,
+   "p": 2249.02,
+   "c": -2.07,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 92.04,
-   "c": -2.28,
+   "p": 91.55,
+   "c": -3.31,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.25,
-   "c": 0.23,
+   "c": -0.23,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 693.65,
-   "c": -1.66,
+   "p": 691.52,
+   "c": -2.61,
    "k": "usd"
   }
  ],
@@ -454,16 +454,43 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Copper Dips Below $14,000 as Tech Selloff Rattles LME Metals",
-    "tt": "Bakır, Tech Satışlarının LME Metalleri Sarsmasıyla 14.000 Doların Altına Düştü",
-    "s": "Copper hit a seven-week low — dipping below $14,000 a ton — as a slump in technology stocks hurt risk appetite and clouded the demand outlook.",
-    "ss": "Bakır, teknoloji hisselerindeki düşüşün risk iştahını olumsuz etkilemesi ve talep görünümünü gölgelemesiyle ton başına 14.000 doların altına düşerek yedi haftanın en düşük seviyesini gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
-    "ts": 1793674516000,
+    "t": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+    "tt": null,
+    "s": "The onshore yuan halted its longest winning streak in three decades after the People’s Bank of China moved to cool its rally by asking banks to hold more foreign currencies in reserve.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
+    "ts": 1793667975000,
     "tags": []
    },
    {
-    "t": "Brookfield, QIA to Invest in Data Center With Drax",
+    "t": "US Stocks Slip as Oil Rebounds Before Midterms: Markets Wrap",
+    "tt": null,
+    "s": "US stock futures fell as oil prices rebounded on worries that America and Iran remain far apart on a peace deal, adding to subdued risk sentiment before voting starts in the midterm elections.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793658314000,
+    "tags": []
+   },
+   {
+    "t": "Bayer Raises Profit Outlook on Strong Demand for Drugs",
+    "tt": "Bayer, Güçlü İlaç Talebi Nedeniyle Kâr Görünümünü Artırdı",
+    "s": "Bayer AG raised its annual profit outlook after demand for some newer drugs drove a better-than-expected performance at its pharmaceutical unit.",
+    "ss": "Bayer AG, bazı yeni ilaçlarına olan talebin artmasının, ilaç biriminde beklenenden daha iyi bir performansa yol açmasının ardından yıllık kar görünümünü yükseltti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/bayer-raises-profit-outlook-helped-by-strong-demand-for-drugs",
+    "ts": 1793688266000,
+    "tags": []
+   },
+   {
+    "t": "SBI’s Strong Loan Growth Drives Second-Quarter Profit Beat",
+    "tt": null,
+    "s": "State Bank of India reported better-than-expected profit in the fiscal second quarter, as the country’s biggest lender by assets saw strong credit growth.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/sbi-s-strong-loan-growth-drives-second-quarter-profit-beat",
+    "ts": 1793694507000,
+    "tags": []
+   },
+   {
+    "t": "Brookfield, QIA to Invest £2.5 Billion in Drax Data Center",
     "tt": "Brookfield ve QIA, Drax ile Veri Merkezine Yatırım Yapacak",
     "s": "Brookfield Asset Management and the Qatar Investment Authority have reached an agreement to invest £2.5 billion ($3.4 billion) in a data center project with UK power generator Drax Group Plc.",
     "ss": "Brookfield Asset Management ve Katar Yatırım Otoritesi, İngiltere'deki elektrik üreticisi Drax Group Plc ile bir veri merkezi projesine 2,5 milyar £ (3,4 milyar $) yatırım yapmak üzere anlaşmaya vardı.",
@@ -472,75 +499,48 @@
     "tags": []
    },
    {
-    "t": "BOE Interest-Rate Path Divides Traders and Economists Ahead of Expected Hike",
-    "tt": "BOE Faiz Oranı Yolu, Beklenen Artış Önünde Yatırımcıları ve Ekonomistleri Bölündü",
-    "s": "Plus, Primark parent AB Foods reports results",
-    "ss": "Ayrıca Primark'ın ana şirketi AB Foods sonuçları rapor ediyor",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-03/boe-interest-rate-path-divides-traders-and-economists-ahead-of-expected-hike",
-    "ts": 1793691247000,
+    "t": "Eyesan: Strong Interest in New Nigerian Oil Blocks",
+    "tt": null,
+    "s": "Nigeria is offering 40 deepwater, shallow water and onshore blocks as it seeks to attract investment in its oil industry. Nigerian Upstream Petroleum Regulatory Commission Chief Executive Oritsemeyiwa Eyesan spoke to Bloomberg’s Abeer Abu Omar about plans to accelerate operations and development. (S",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/eyesan-strong-interest-in-new-nigerian-oil-blocks-video",
+    "ts": 1793693720000,
     "tags": []
    },
    {
-    "t": "Jefferies CEO Visits India as US Firm Eyes Expansion, Hiring",
-    "tt": "Jefferies CEO'su ABD Firmasının Genişleme ve İşe Alma Konusunda Hindistan'ı Ziyaret Etti",
-    "s": "Jefferies Financial Group Inc. Chief Executive Officer Rich Handler is visiting India this week as the Wall Street firm weighs further expansion in one of its fastest-growing markets, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre Jefferies Financial Group Inc. İcra Kurulu Başkanı Rich Handler, Wall Street firması en hızlı büyüyen pazarlarından birinde daha fazla genişlemeyi değerlendirirken bu hafta Hindistan'ı ziyaret ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/jefferies-ceo-visits-india-as-us-firm-eyes-expansion-hiring",
-    "ts": 1793691084000,
+    "t": "Oil Is the Biggest Binary Risk: Market Analysis",
+    "tt": null,
+    "s": "Anna Edwards, Guy Johnson, and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/oil-is-the-biggest-binary-risk-3-minutes-mliv-video",
+    "ts": 1793693708000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 3",
-    "tt": "3 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Brent crude rose, after plunging almost 8% in the previous session, on concern Iran and the US have far to go before reaching a deal to end their war.",
-    "ss": "Brent ham petrolü, İran ve ABD'nin savaşlarını sona erdirecek bir anlaşmaya varmadan önce daha çok yol almaları gerektiği endişesiyle önceki seansta neredeyse %8 düştükten sonra yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-    "ts": 1793660479000,
+    "t": "Marin: YPF Eyes November Deal with XRG and Eni",
+    "tt": null,
+    "s": "YPF Chairman and CEO Horacio Marin says the company is working with Eni and XRG and aims to sign an agreement by the end of November. Marin spoke to Bloomberg’s Abeer Abu Omar about the project and the need for more energy supply amid conflicts in the Middle East and the Russia-Ukraine war. (Source:",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/marin-ypf-eyes-november-deal-with-xrg-and-eni-video",
+    "ts": 1793693560000,
     "tags": []
    },
    {
-    "t": "Bayer Raises Profit Outlook on Strong Demand for Drugs",
-    "tt": "Bayer, Güçlü İlaç Talebi Nedeniyle Kâr Görünümünü Artırdı",
-    "s": "Bayer AG raised its annual profit outlook after increased demand for some of its newer drugs drove a better-than-expected performance at its pharmaceutical unit.",
-    "ss": "Bayer AG, bazı yeni ilaçlarına olan talebin artmasının, ilaç biriminde beklenenden daha iyi bir performansa yol açmasının ardından yıllık kar görünümünü yükseltti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/bayer-raises-profit-outlook-helped-by-strong-demand-for-drugs",
-    "ts": 1793688266000,
+    "t": "Amer: BGN Investing in Ships as Iran War Disrupts Trade",
+    "tt": null,
+    "s": "BGN is investing in more vessels, including VLCCs, as shipping companies navigate disruptions from the Iran war. Wael Amer, group chief operating officer at BGN, spoke to Bloomberg’s Abeer Abu Omar about the company’s investments aimed at helping the energy trader continue reaching customers during ",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/amer-bgn-investing-in-ships-as-iran-war-disrupts-trade-video",
+    "ts": 1793693486000,
     "tags": []
    },
    {
-    "t": "Congo to Probe Illegal Mining After Seizing Copper and Cobalt",
-    "tt": "Kongo, Bakır ve Kobalt Ele Geçirdikten Sonra Yasadışı Madenciliği Soruşturacak",
-    "s": "Officials in the Democratic Republic of Congo seized thousands of tons of copper and cobalt, prompting the justice minister to order an investigation into allegations of widespread illegal mining.",
-    "ss": "Demokratik Kongo Cumhuriyeti'ndeki yetkililerin binlerce ton bakır ve kobalt ele geçirmesi, adalet bakanının yaygın yasadışı madencilik iddialarına ilişkin soruşturma emri vermesine yol açtı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/congo-to-probe-illegal-mining-after-seizing-copper-and-cobalt",
-    "ts": 1793690750000,
-    "tags": []
-   },
-   {
-    "t": "Chinese Stock Selloff Resumes as Rescue Tools Face Skepticism",
-    "tt": "Kurtarma Araçları Şüphecilikle Karşı Karşıyayken Çin Hisse Senedi Satışları Devam Ediyor",
-    "s": "China’s efforts to stem a market rout by reviving tools from the 2024 downturn were met with skepticism as stocks resumed their selloff.",
-    "ss": "Çin'in 2024'teki krizden kalan araçları yeniden canlandırarak piyasadaki bozgunları durdurma çabaları, hisse senetleri yeniden satışlara başladığında şüpheyle karşılandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market",
-    "ts": 1793625052000,
-    "tags": []
-   },
-   {
-    "t": "EFG CEO Sees Strong Wealth Growth Across Asia",
-    "tt": "EFG CEO'su Asya'da Güçlü Servet Büyümesi Görüyor",
-    "s": "EFG International CEO Giorgio Pradelli discusses strong wealth creation across markets, says the company is seeing incredible growth in China and expects IPOs to grow there. Pradelli spoke to Yvonne Man and David Ingles on the sidelines of the HKMA Global Financial Leaders’ Investment Summit. (Sourc",
-    "ss": "EFG International CEO'su Giorgio Pradelli, pazarlarda güçlü servet yaratımını tartışıyor, şirketin Çin'de inanılmaz bir büyüme gördüğünü ve halka arzların orada büyümesini beklediğini söylüyor. Pradelli, HKMA Küresel Finansal Liderlerin Yatırım Zirvesi oturum aralarında Yvonne Man ve David Ingles ile konuştu. (Kaynak",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/efg-ceo-sees-strong-wealth-growth-across-asia-video",
-    "ts": 1793690066000,
-    "tags": []
-   },
-   {
-    "t": "Ares CEO Sees Growing Demand for Private Credit in Asia",
-    "tt": "Ares CEO'su Asya'da Özel Kredi Talebinin Arttığını Görüyor",
-    "s": "Ares Management CEO and Co-Founder Michael Arougheti says Asia’s private-credit market is not yet large enough to meet demand as global investors increasingly look to the region. He spoke to Yvonne Man and David Ingles on the sidelines of the HKMA Global Financial Leaders’ Investment Summit. (Source",
-    "ss": "Ares Management CEO'su ve Kurucu Ortağı Michael Arougheti, küresel yatırımcıların giderek bölgeye yönelmesi nedeniyle Asya'nın özel kredi piyasasının henüz talebi karşılayacak kadar büyük olmadığını söylüyor. HKMA Küresel Finansal Liderlerin Yatırım Zirvesi oturum aralarında Yvonne Man ve David Ingles ile konuştu. (Kaynak",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/ares-ceo-sees-growing-demand-for-private-credit-in-asia-video",
-    "ts": 1793689848000,
+    "t": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+    "tt": null,
+    "s": "China’s credit market just suffered its worst selloff in two years as a major conglomerate’s plunge into distress tests the assumption that government ties can protect state-owned firms from financial peril.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market",
+    "ts": 1793676129000,
     "tags": []
    }
   ],
@@ -733,6 +733,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Israel Intentionally Released Footage Of Mossad Operatives In Iran To Provoke Mass Arrests",
+    "tt": null,
+    "s": "Israel Intentionally Released Footage Of Mossad Operatives In Iran To Provoke Mass Arrests Via Middle East Eye Former Mossad chief David Barnea has said Israel intentionally released images of their covert operation in Iran during the June 2025 conflict to provoke mass arrests and make it harder for",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/israel-intentionally-released-footage-mossad-operatives-iran-provoke-mass-arrests",
+    "ts": 1793694000000,
+    "tags": []
+   },
+   {
     "t": "Watch: King Charles Shows Rare Flash Of Anger After Being Left Soaking Wet In Antigua",
     "tt": "İzle: Kral Charles, Antigua'da Islak Bırakıldıktan Sonra Nadiren Öfke Parıltısı Gösteriyor",
     "s": "Watch: King Charles Shows Rare Flash Of Anger After Being Left Soaking Wet In Antigua King Charles was royally ticked off after being left soaking wet in a tropical downpour during a visit to Antigua. Britain's King Charles and Queen Camilla, who is holding an umbrella, stand together on the day of ",
@@ -812,22 +821,40 @@
     "u": "https://www.zerohedge.com/geopolitical/tusk-cries-russian-interference-opposition-pushes-no-confidence-vote-court-takeover",
     "ts": 1793670600000,
     "tags": []
-   },
-   {
-    "t": "The Price Of This Short Domestic Flight Is So Absurd You'll Think It's A Typo",
-    "tt": "Bu Kısa Yurt İçi Uçuşunun Fiyatı O Kadar Saçma ki Yazım Hatası Olduğunu Düşüneceksiniz",
-    "s": "The Price Of This Short Domestic Flight Is So Absurd You'll Think It's A Typo Americans hoping to fly home for the holidays are in for a brutal case of sticker shock. Just how bad has the airfare insanity become? One flight between two cities in the same state reportedly came with a price tag so out",
-    "ss": "Bu Kısa Yurtiçi Uçuşun Fiyatı O Kadar Saçma ki, Bunu Bir Yazım Hatası Düşüneceksiniz Tatil için evlerine uçmayı ümit eden Amerikalılar, acımasız bir çıkartma şokuyla karşı karşıya. Uçak bileti çılgınlığı ne kadar kötü hale geldi? Aynı eyaletteki iki şehir arasındaki bir uçuşun fiyat etiketiyle geldiği bildirildi",
-    "u": "https://www.zerohedge.com/personal-finance/price-short-domestic-flight-so-absurd-youll-think-its-typo",
-    "ts": 1793670600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
    {
+    "t": "Bakanı Gürlek: Şu ana kadar 30 milyar lira gönüllü iade toplandı",
+    "tt": null,
+    "s": "Şimdiye kadar yaklaşık 30 milyar TL değerindeki varlığın gönüllü iade hesabı kapsamında iade edildiğini söyleyen Adalet Bakanı Akın Gürlek, fon soruşturmalarında üst düzey finans bürokrasisine kadar uzanan organize bir suç yapılanması tespit edildiğini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bakani-gurlek-ten-fon-aciklamasi-3793221",
+    "ts": 1793694450000,
+    "tags": []
+   },
+   {
+    "t": "AMB yetkilisi: Ekim'deki duraklama, sıkılaştırmanın bittiği anlamına gelmiyor",
+    "tt": null,
+    "s": "Avrupa Merkez Bankası Yönetim Konseyi üyesi ve Bulgaristan Merkez Bankası Başkanı Dimitar Radev, bankanın geçen ay faiz oranlarını değiştirmeme kararının, faizlerin ileride daha da artırılmayacağı anlamına gelmediğini belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/amb-yetkilisi-ekimdeki-duraklama-sikilastirmanin-bittigi-anlamina-gelmiyor-3793205",
+    "ts": 1793693356000,
+    "tags": []
+   },
+   {
+    "t": "Sigortacılık sektörünün aktif büyüklüğü 4,7 trilyon TL'yi aştı",
+    "tt": null,
+    "s": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK), sigortacılık sektörünün 2026 yılının üçüncü çeyreğinde 1,1 trilyon TL'nin üzerinde prim üretimine ulaştığını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/sigortacilik-sektorunun-aktif-buyuklugu-4-7-trilyon-tl-yi-asti-3793203",
+    "ts": 1793692739000,
+    "tags": []
+   },
+   {
     "t": "Bakan Bolat: Ekim ayında ihracat 25,9 milyar doları aştı",
     "tt": null,
-    "s": "Ticaret Bakanı Ömer Bolat, ekim ayı dış ticaret verilerini açıkladı. Türkiye'nin ihracatı ekimde geçen yılın aynı ayına göre yüzde 8,1 artarak 25 milyar 885 milyon dolara ulaştı. Böylece Cumhuriyet tarihinin en yüksek ekim ayı ihracatı kaydedildi. Ocak-ekim döneminde ihracat yüzde 5,5 artışla 236,8 ",
+    "s": "Ticaret Bakanı Ömer Bolat, ekim ayı dış ticaret verilerini açıkladı. Türkiye'nin ihracatı ekimde geçen yılın aynı ayına göre yüzde 8,1 artarak 25 milyar 885 milyon dolara ulaştı. Böylece Cumhuriyet tarihinin en yüksek ekim ayı ihracatı kaydedildi.",
     "ss": null,
     "u": "https://www.bloomberght.com/bakan-bolat-ekim-ayinda-ihracat-25-9-milyar-dolari-asti-3793197",
     "ts": 1793691229000,
@@ -886,33 +913,6 @@
     "u": "https://www.bloomberght.com/enflasyonda-ekim-tablosu-3793165",
     "ts": 1793688855000,
     "tags": []
-   },
-   {
-    "t": "Kira zam tavanında enflasyon sonrası yeni oran",
-    "tt": null,
-    "s": "Türkiye İstatistik Kurumu'nun (TÜİK) Ekim ayına ilişkin enflasyon verilerini açıklamasının ardından konut ve işyeri kiralarında uygulanabilecek tavan zam oranı da belli oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kira-zam-tavaninda-enflasyon-sonrasi-yeni-oran-3793160",
-    "ts": 1793688014000,
-    "tags": []
-   },
-   {
-    "t": "Aramco'nun üçüncü çeyrek kârı yüzde 9 arttı",
-    "tt": null,
-    "s": "Suudi Aramco, rafinerilerinden elde ettiği kârın artması ve İran'daki savaşın petrol fiyatlarını yukarı çekmesi sonucunda üçüncü çeyrek kârında yüzde 9'luk bir artış kaydetti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/aramconun-ucuncu-ceyrek-kri-yuzde-9-artti-3793159",
-    "ts": 1793687836000,
-    "tags": []
-   },
-   {
-    "t": "Merkez bankalarından iki yılın en hızlı altın alımı",
-    "tt": null,
-    "s": "Merkez bankaları, yüksek petrol fiyatları ve faiz oranlarının oluşturduğu baskıya rağmen üçüncü çeyrekte 2024'ün sonundan bu yana en hızlı tempoda altın alımı gerçekleştirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/merkez-bankalarindan-iki-yilin-en-hizli-altin-alimi-3793156",
-    "ts": 1793687177000,
-    "tags": []
    }
   ]
  },
@@ -928,6 +928,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
