@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T12:45:53.168088+00:00",
+ "generated": "2026-11-03T13:59:20.837860+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,97 +24,97 @@
   },
   {
    "n": "VIX",
-   "p": 21.36,
-   "c": 0.99,
-   "d": 0.21,
+   "p": 20.83,
+   "c": -1.51,
+   "d": -0.32,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3922.6,
-   "c": -1.18,
-   "d": -47.0,
+   "p": 3974.6,
+   "c": 0.13,
+   "d": 5.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.235,
-   "c": -2.93,
-   "d": -1.485,
+   "p": 50.43,
+   "c": -0.57,
+   "d": -0.29,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 97.34,
-   "c": 0.91,
-   "d": 0.88,
+   "p": 94.55,
+   "c": -1.98,
+   "d": -1.91,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 105.16,
-   "c": 0.37,
-   "d": 0.39,
+   "p": 101.57,
+   "c": -3.05,
+   "d": -3.2,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.871,
-   "c": 0.12,
-   "d": 0.121,
+   "p": 101.782,
+   "c": 0.03,
+   "d": 0.032,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.894,
-   "c": -0.71,
-   "d": -0.035,
+   "p": 4.898,
+   "c": 0.08,
+   "d": 0.004,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 49.9041,
-   "c": -0.12,
-   "d": -0.062,
+   "p": 49.9942,
+   "c": 0.06,
+   "d": 0.028,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11025.97,
-   "c": 0.59,
-   "d": 64.27,
+   "p": 11125.39,
+   "c": 1.49,
+   "d": 163.69,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 77297,
-   "c": -0.65,
+   "p": 77296,
+   "c": -0.76,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2278.76,
-   "c": -0.23,
+   "p": 2284.26,
+   "c": -0.1,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 92.9,
-   "c": -1.31,
+   "p": 93.07,
+   "c": -1.36,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.28,
-   "c": 2.55,
+   "c": 2.36,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 700.0,
-   "c": -0.55,
+   "p": 697.49,
+   "c": -0.91,
    "k": "usd"
   }
  ],
@@ -283,7 +283,7 @@
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.1M",
    "previous": "-1.9M",
    "actual": "",
    "ts": 1793806200000,
@@ -454,7 +454,50 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Foodtastic Offers $750 Million for Restaurant Franchisor MTY",
+    "t": "Russia Raises Crude Shipments Even as Refineries Ramp Up",
+    "tt": "Rafineriler Hızlanırken Rusya Ham Petrol Sevkiyatını Artırıyor",
+    "s": "Exports edged higher despite a lull in Ukrainian attacks that&nbsp;boosted processing",
+    "ss": "Ukrayna saldırılarında işlemeyi hızlandıran durgunluğa rağmen ihracat artış gösterdi",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/russia-raises-crude-shipments-even-as-refineries-ramp-up",
+    "ts": 1793714537000,
+    "tags": []
+   },
+   {
+    "t": "Gold Rises as Iran-US Deal Hopes Send Oil Prices Tumbling",
+    "tt": "Altın, İran-ABD Anlaşmasının Petrol Fiyatlarını Düşüreceği Umuduyla Yükseliyor",
+    "s": "Gold gained on unconfirmed reports of further diplomacy in the US-Iran conflict, which sent oil plunging.",
+    "ss": "Altın, petrolün düşmesine neden olan ABD-İran ihtilafında diplomasinin devam edeceği yönündeki doğrulanmamış raporlarla değer kazandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/gold-holds-biggest-jump-in-two-months-on-iran-peace-deal-hopes",
+    "ts": 1793665216000,
+    "tags": [
+     "Altın ▲"
+    ]
+   },
+   {
+    "t": "US Stocks Rise as Oil Extends Slide, Vote Begins: Markets Wrap",
+    "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
+    "s": "US stock futures edged higher alongside short-dated Treasuries as sliding oil prices eased some pressure on markets, with voting underway in the midterm elections.",
+    "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793658314000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 3",
+    "tt": "3 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil and natural gas extended a plunge on unconfirmed reports of further diplomacy in the US-Iran conflict.",
+    "ss": "Petrol ve doğal gaz, ABD-İran ihtilafında diplomasinin devam edeceği yönündeki doğrulanmamış raporlar üzerine düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+    "ts": 1793660479000,
+    "tags": []
+   },
+   {
+    "t": "Foodtastic Offers $720 Million for Canada’s MTY Food",
     "tt": "Foodtastic, Restoran Franchisoru MTY'ye 750 Milyon Dolar Teklif Ediyor",
     "s": "Restaurant operator Foodtastic Inc. has offered to acquire Canadian franchisor MTY Food Group Inc. for about C$1 billion ($720 million), according to a letter reviewed by Bloomberg News, after two earlier approaches were rebuffed.",
     "ss": "Bloomberg News tarafından incelenen bir mektuba göre, restoran işletmecisi Foodtastic Inc., Kanadalı franchisor MTY Food Group Inc.'i yaklaşık 1 milyar C$ (720 milyon $) karşılığında satın almayı teklif etti; daha önceki iki yaklaşımın reddedilmesinin ardından.",
@@ -463,84 +506,48 @@
     "tags": []
    },
    {
-    "t": "Palantir on AI and Technology in Europe",
-    "tt": "Avrupa'da Yapay Zeka ve Teknoloji üzerine Palantir",
-    "s": "Louis Mosley, Executive Vice President, United Kingdom & Europe, Palantir, discusses AI, technology and the company’s outlook in Europe with Bloomberg’s Tom Giles at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
-    "ss": "Palantir Birleşik Krallık ve Avrupa'dan Sorumlu Genel Başkan Yardımcısı Louis Mosley, Londra'daki Bloomberg Tech 2026'da Bloomberg'den Tom Giles ile yapay zeka, teknoloji ve şirketin Avrupa'daki görünümünü tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/palantir-on-ai-in-europe-video",
-    "ts": 1793708812000,
+    "t": "Argentina’s US IPO Revival Stalls as Market Rout Chills Debuts",
+    "tt": "Arjantin'in ABD'deki halka arz canlanması, piyasanın soğumasıyla birlikte duruyor",
+    "s": "Two Argentine energy companies have put plans for US initial public offerings this year on hold, dealing a blow to hopes of reviving the country’s long-dormant market for New York stock listings as a rout in local assets and global market turmoil dampen investor appetite.",
+    "ss": "İki Arjantinli enerji şirketi, bu yıl ABD'nin ilk halka arz planlarını askıya alarak, yerel varlıklardaki bir bozgun ve küresel piyasadaki çalkantının yatırımcı iştahını azaltması nedeniyle, ülkenin New York hisse senedi listelerinde uzun süredir hareketsiz olan piyasasını yeniden canlandırma umutlarına bir darbe indirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/argentina-s-us-ipo-revival-stalls-as-market-rout-chills-debuts",
+    "ts": 1793712411000,
     "tags": []
    },
    {
-    "t": "NSE Profit Rises in First Earnings Since September Listing",
-    "tt": "NSE'nin Kârı Eylül Listesinden Bu Yana İlk Kârında Arttı",
-    "s": "The National Stock Exchange of India Ltd.’s fiscal second-quarter profit rose 23% on robust trading volumes as heightened market volatility boosted activity.",
-    "ss": "National Stock Exchange of India Ltd.'nin ikinci çeyrek mali karı, artan piyasa oynaklığının faaliyeti artırmasıyla güçlü işlem hacimleri sayesinde %23 arttı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/nse-profit-rises-in-first-earnings-since-september-listing",
-    "ts": 1793708723000,
+    "t": "Saudi Budget Deficit More Than Doubles as War Strains Finances",
+    "tt": "Savaş finansmanı zorlarken Suudi bütçe açığı iki kattan fazla arttı",
+    "s": "Saudi Arabia’s quarterly fiscal deficit more than doubled as the kingdom faces the financial toll of the US-Iran war that began more than eight months ago.",
+    "ss": "Suudi Arabistan'ın üç aylık mali açığı, krallığın sekiz ay önce başlayan ABD-İran savaşının mali bedeliyle karşı karşıya kalmasıyla iki katından fazla arttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-budget-deficit-more-than-doubles-as-war-strains-finances",
+    "ts": 1793711981000,
     "tags": []
    },
    {
-    "t": "NextEra Agrees to More Safeguards for $67 Billion Dominion Deal",
-    "tt": "NextEra, 67 Milyar Dolarlık Dominion Anlaşması İçin Daha Fazla Korumayı Kabul Etti",
-    "s": "NextEra Energy Inc. offered Virginia additional customer and financial protections, the utility’s latest bid to convince the state to approve its $67 billion acquisition of Dominion Energy Inc.",
-    "ss": "NextEra Energy Inc., Virginia'ya ek müşteri ve finansal korumalar teklif etti; bu, kamu hizmeti şirketinin eyaleti Dominion Energy Inc.'i 67 milyar dolarlık satın alımını onaylamaya ikna etmek için yaptığı son teklifti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/nextera-agrees-to-more-safeguards-for-67-billion-dominion-deal",
-    "ts": 1793708662000,
+    "t": "US Stocks Waver as Election, AI Bubble Risks Weigh on Outlook",
+    "tt": "ABD Hisse Senetleri Seçimle Dalgalanıyor, Yapay Zeka Balonu Riskleri Görünümü Ağırlaştırıyor",
+    "s": "US stock futures were little changed as Americans headed to the polls on Election Day, with control of both chambers of Congress at stake and investors weighing mounting risks to the artificial intelligence trade.",
+    "ss": "ABD hisse senedi vadeli işlemleri, Amerikalıların Seçim Günü sandık başına gitmesiyle, her iki Kongre odasının da kontrol edilmesiyle ve yatırımcıların yapay zeka ticaretine yönelik artan riskleri tartmasıyla pek değişmedi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
+    "ts": 1793711716000,
     "tags": []
    },
    {
-    "t": "Emaar Said to Study Buyout of $15 Billion Construction Arm",
-    "tt": "Emaar'ın 14 Milyar Dolarlık İnşaat Kolunun Satın Alınması Üzerinde Çalıştığı Söyleniyor",
-    "s": "Dubai’s Emaar Properties PJSC is considering plans to take over its listed construction arm in a potential multibillion-dollar deal, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre, Dubai'deki Emaar Properties PJSC, milyarlarca dolarlık potansiyel bir anlaşmayla listelenen inşaat kolunu devralmayı planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/emaar-is-said-to-study-buyout-of-14-billion-construction-arm",
-    "ts": 1793702391000,
+    "t": "Sugar Falls as Indian Output Data Signal Less Need to Import",
+    "tt": "Hindistan Üretim Verileri İthalat İhtiyacının Azaldığının Sinyaliyle Şeker Düşüyor",
+    "s": "Sugar slid at the open on Tuesday after data showed Indian production is running well ahead of last season following an earlier start to the harvest. Profit-taking also added to the slide.",
+    "ss": "Şeker, hasatın daha erken başlamasının ardından Hindistan üretiminin geçen sezona göre oldukça ileri gittiğini gösteren verilerin ardından Salı günü açılışta düştü. Slayta kâr alma da eklendi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/sugar-falls-as-indian-output-data-signal-less-need-to-import",
+    "ts": 1793711544000,
     "tags": []
    },
    {
-    "t": "Saudi Wealth Fund Raises $3 Billion Loan Backed by Italy’s Sace",
-    "tt": "Suudi Varlık Fonu, İtalyan Sace Desteğiyle 3 Milyar Dolarlık Kredi Topladı",
-    "s": "Saudi Arabia’s sovereign wealth fund has raised loans equivalent to around $3 billion that will be guaranteed by the Italian insurer and export credit agency Sace, as ties between the two countries and their companies continue to deepen.",
-    "ss": "Suudi Arabistan'ın egemen servet fonu, iki ülke ve şirketleri arasındaki bağlar derinleşmeye devam ederken, İtalyan sigorta şirketi ve ihracat kredi kuruluşu Sace tarafından garanti edilecek yaklaşık 3 milyar dolara eşdeğer kredi topladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-wealth-fund-raises-3-billion-loan-backed-by-italy-s-sace",
-    "ts": 1793707890000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Slip as Midterms Keep Traders Cautious: Markets Wrap",
-    "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
-    "s": "US stock futures slipped as investors held back from adding risk after voting got underway in the midterm elections.",
-    "ss": "ABD hisse senedi vadeli işlemleri, yatırımcıların ara seçimlerde oylamanın başlamasına yalnızca saatler kala risk eklemekten kaçınmasıyla yön bulmakta zorlandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793658314000,
-    "tags": []
-   },
-   {
-    "t": "Copper Slumps Below $14,000 as Tech Selloff Rattles LME Metals",
-    "tt": "Bakır, Tech Satışlarının LME Metalleri Sarsmasıyla 14.000 Doların Altına Düştü",
-    "s": "Copper slumped to an 11-week low — dropping below $14,000 a ton — as a fresh selloff in technology stocks hurt risk appetite and clouded the demand outlook.",
-    "ss": "Bakır, teknoloji hisselerindeki yeni satışların risk iştahını olumsuz etkilemesi ve talep görünümünü bulandırmasıyla 11 haftanın en düşük seviyesine gerileyerek ton başına 14.000 doların altına geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
-    "ts": 1793674516000,
-    "tags": []
-   },
-   {
-    "t": "AMD Needs a Huge Outlook to Avoid Intel’s Fate as AI Fears Rise",
-    "tt": "Yapay Zeka Korkuları Yükselirken AMD'nin Intel'in Kaderinden Kaçınmak İçin Büyük Bir Bakış Açısına İhtiyacı Var",
-    "s": "Advanced Micro Devices Inc. is one of this year’s best-performing chip stocks, but with skepticism about artificial-intelligence spending on the rise, it could use strong results and an aggressive outlook to maintain the momentum when the firm reports earnings Tuesday afternoon.",
-    "ss": "Advanced Micro Devices Inc., bu yılın en iyi performans gösteren çip hisselerinden biri ancak yapay zeka harcamalarının arttığına dair şüpheler nedeniyle, Salı öğleden sonra kazanç açıklarken momentumu korumak için güçlü sonuçlar ve agresif bir görünüm kullanabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/amd-needs-a-huge-outlook-to-avoid-intel-s-fate-as-ai-fears-rise",
-    "ts": 1793706197000,
-    "tags": []
-   },
-   {
-    "t": "JPM’s Michele Tells US Treasury ‘Get Rid of the 20-Year’",
-    "tt": "JPM'den Michele, ABD Hazinesine '20 Yıllıktan Kurtulun' Söyledi",
-    "s": "Bob Michele, global head of fixed income at JPMorgan Asset Management, offers guidance to the US Treasury ahead of the November 2026 quarterly refunding announcement. He says the equity market “is going to go through some of its demons” to the benefit of the bond market and provides his outlook for ",
-    "ss": "JPMorgan Asset Management'ın küresel sabit gelir başkanı Bob Michele, Kasım 2026'daki üç aylık geri ödeme duyurusu öncesinde ABD Hazinesine rehberlik sunuyor. Hisse senedi piyasasının, tahvil piyasasının yararına \"bazı şeytanlarla karşılaşacağını\" söylüyor ve geleceğe yönelik bakış açısını aktarıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/jpm-s-michele-tells-us-treasury-get-rid-of-the-20-year-video",
-    "ts": 1793706052000,
+    "t": "Oil to Remain at $100 Per Barrel Through 2027, Oil Analyst Sankey Warns",
+    "tt": "Petrol Analisti Sankey, Petrolün 2027'ye Kadar Varil Başına 100 Dolarda Kalacağı Uyardı",
+    "s": "Paul Sankey, president at Sankey Research, explains the factors that will keep crude above $100 per barrel for the year ahead and how that could impact diesel prices. Sankey also offers his outlook for European energy supplies, saying, “it’s gonna be an expensive winter for the average European.” He",
+    "ss": "Sankey Research başkanı Paul Sankey, önümüzdeki yıl ham petrolü varil başına 100 doların üzerinde tutacak faktörleri ve bunun dizel fiyatlarını nasıl etkileyebileceğini açıklıyor. Sankey aynı zamanda Avrupa'nın enerji arzına ilişkin öngörüsünü de sunarak \"ortalama bir Avrupalı ​​için pahalı bir kış olacak\" diyor. O",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/oil-to-remain-at-100-per-barrel-through-2027-sankey-video",
+    "ts": 1793710939000,
     "tags": []
    }
   ],
@@ -560,7 +567,7 @@
     "s": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
     "ss": "Tahmin piyasaları hâlâ görevdeki Cumhuriyetçinin dördüncü dönemi kazanmayı tercih ettiğini gösteriyor ancak son haftalarda oranlar daraldı.",
     "u": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "ts": 1793654023000,
+    "ts": 1793712791000,
     "tags": []
    },
    {
@@ -569,7 +576,7 @@
     "s": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
     "ss": "Ara sınavlar S&P 500 için tarihsel olarak güçlü bir yılın öncesinde gerçekleşir. Demokratlar Kongreyi geri kazanırsa ne bilmeli?",
     "u": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "ts": 1793661214000,
+    "ts": 1793712435000,
     "tags": []
    },
    {
@@ -641,6 +648,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+    "tt": "'Yaşlı olmak güzel': Yıllık gelir satış konuşmalarına dönüşen bir düzine bedava yemeğe davet edildim. Gitmeyi bırakmalı mıyım?",
+    "s": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
+    "ss": "\"Satış görevlileri genellikle yıllık gelirleri, Medicare planlarını ve emlak planlama hizmetlerini öne çıkarıyor.\"",
+    "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+    "ts": 1793712660000,
+    "tags": []
+   },
+   {
+    "t": "It’s finally Election Day — and prediction markets may show ‘too much confidence in a good night for Democrats’",
+    "tt": "Nihayet Seçim Günü geldi ve tahmin piyasaları 'Demokratlar için iyi bir geceye çok fazla güven' gösterebilir",
+    "s": "Prediction markets may be running the risk of “suggesting too much confidence in a good night for Democrats,” one analyst says.",
+    "ss": "Bir analist, tahmin piyasalarının \"Demokratlara iyi geceler konusunda çok fazla güven telkin etme\" riskiyle karşı karşıya olabileceğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/its-finally-election-day-and-prediction-markets-may-show-too-much-confidence-in-a-good-night-for-democrats-3c6742df?mod=mw_rss_topstories",
+    "ts": 1793712360000,
+    "tags": []
+   },
+   {
+    "t": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+    "tt": "Shopify'ın hisseleri kazançların ardından düşüşe geçti. Wall Street'i endişelendiren de bu.",
+    "s": "The company missed revenue expectations, a tough outcome in today’s less-forgiving tech market.",
+    "ss": "Şirket, günümüzün daha az affedici teknoloji pazarında zor bir sonuç olan gelir beklentilerini kaçırdı.",
+    "u": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+    "ts": 1793712360000,
+    "tags": []
+   },
+   {
+    "t": "3 signs cash-strapped consumers are nearing a ‘spend-pocalypse’ that would hurt the economy",
+    "tt": "Nakit sıkıntısı çeken tüketicilerin ekonomiye zarar verecek bir \"harcama kıyametine\" yaklaştıklarının 3 işareti",
+    "s": "Nearly 70% of U.S. GDP comes from consumers. What happens when they stop spending?",
+    "ss": "ABD GSYİH'sının yaklaşık %70'i tüketicilerden geliyor. Harcamayı bıraktıklarında ne olur?",
+    "u": "https://www.marketwatch.com/story/3-signs-cash-strapped-consumers-are-nearing-a-spend-pocalypse-that-would-hurt-the-economy-2ab4c3dd?mod=mw_rss_topstories",
+    "ts": 1793710800000,
+    "tags": []
+   },
+   {
     "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
     "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden Roth'un dönüşümünü zorluyor?",
     "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
@@ -677,7 +720,7 @@
     "tags": []
    },
    {
-    "t": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+    "t": "My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
     "tt": "'O bir A Tipi kişiliktir': Üvey annem, rahmetli babamın 40.000 dolarlık düğün hediyesini geri ödememi istiyor. Zorunlu mu olmalıyım?",
     "s": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
     "ss": "\"Cenazesinden yaklaşık iki ay sonra üvey annem aradı ve parayı geri istediğini söyledi.\"",
@@ -693,45 +736,68 @@
     "u": "https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories",
     "ts": 1793707920000,
     "tags": []
-   },
-   {
-    "t": "Palantir stock is down 8%. Analysts say bookings growth is to blame.",
-    "tt": "Palantir hisseleri %8 düştü. Analistler bunun sorumlusunun rezervasyonlardaki büyüme olduğunu söylüyor.",
-    "s": "Analysts at Morgan Stanley pointed to a slowdown in a number of bookings metrics in the third quarter as worth picking at.",
-    "ss": "Morgan Stanley'deki analistler, üçüncü çeyrekte bazı rezervasyon ölçümlerinde dikkate değer bir yavaşlamaya işaret etti.",
-    "u": "https://www.marketwatch.com/story/palantir-stock-is-down-8-analysts-say-bookings-growth-is-to-blame-0492921b?mod=mw_rss_topstories",
-    "ts": 1793707560000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-    "tt": "Yapay zeka endişelerinin artmasıyla Nasdaq-100 bu yıl üçüncü düzeltmesine girdi",
-    "s": "The “tech wreck” from October continues. Is a bear market next?",
-    "ss": "Ekim ayındaki “teknoloji enkazı” devam ediyor. Sırada ayı piyasası mı var?",
-    "u": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-    "ts": 1793706960000,
-    "tags": []
-   },
-   {
-    "t": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve",
-    "tt": "Petrol büyük bir yükseliş yaşadı, ancak öne çıkan boğa orta vadeli arifesinde bir dönüm noktası görüyor",
-    "s": "Closely followed oil strategist Jeff Currie says it’s time to cash in on gains that crude has seen this year, but that the structural supercycle is still intact.",
-    "ss": "Yakından takip edilen petrol stratejisti Jeff Currie, ham petrolün bu yıl elde ettiği kazanımlardan para kazanma zamanının geldiğini ancak yapısal süper döngünün hâlâ sağlam olduğunu söylüyor.",
-    "u": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
-    "ts": 1793703240000,
-    "tags": []
-   },
-   {
-    "t": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
-    "tt": "Binlerce Disney'de işten çıkarmalar yaklaşıyor olabilir. Yatırımcılar bundan sonra ne olacağını soruyor.",
-    "s": "Reports that the Walt Disney Company is poised to lay off thousands of workers didn’t seem to move the needle for its languishing stock on Tuesday.",
-    "ss": "Walt Disney'in binlerce işçiyi işten çıkarmaya hazırlandığı yönündeki haberler Salı günü zayıflayan stokları için ibreyi hareket ettirmiyordu.",
-    "u": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
-    "ts": 1793702160000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Alarming Abuse Identified In Secret Ukraine Azov Battalion Detainment & Forced Conscript Transition-House",
+    "tt": "Gizli Ukrayna Azak Taburu Gözaltında ve Zorunlu Askere Alma Geçiş Evi'nde Tespit Edilen Endişe verici İstismar",
+    "s": "Alarming Abuse Identified In Secret Ukraine Azov Battalion Detainment &amp; Forced Conscript Transition-House Authored by Sundance via The Last Refuge , War is hell. Forced war upon the innocents is even worse and this story is very disturbing. Ukraine has forced conscription. Essentially a radical ",
+    "ss": "Gizli Ukrayna'da Tespit Edilen Endişe Verici İstismar Azak Taburu Gözaltı ve Zorunlu Askere Alma Geçiş Evi Sundance tarafından Son Sığınak aracılığıyla yazılmıştır, Savaş cehennemdir. Masumlara yönelik zorla savaş daha da kötü ve bu hikaye çok rahatsız edici. Ukrayna zorunlu askerliği zorunlu kıldı. Aslında radikal",
+    "u": "https://www.zerohedge.com/military/alarming-abuse-identified-secret-ukraine-azov-battalion-detainment-forced-conscript",
+    "ts": 1793714400000,
+    "tags": []
+   },
+   {
+    "t": "Trump Unloads On El-Sayed And Alaska's 'Decoy Dan' In Election-Day Truth Social Posts",
+    "tt": "Trump, Seçim Günü Gerçeği Sosyal Paylaşımlarında El-Sayed ve Alaska'nın 'Tuzak Dan'ını Boşaltıyor",
+    "s": "Trump Unloads On El-Sayed And Alaska's 'Decoy Dan' In Election-Day Truth Social Posts President Trump took to Truth Social overnight to attack Michigan Democratic Senate nominee Abdul El-Sayed and the second Dan Sullivan on Alaska's ballot , hours before polls opened in two Senate races that could d",
+    "ss": "Trump, Seçim Günü Hakikat Sosyal Paylaşımlarında El-Sayed ve Alaska'nın 'Tuzak Dan'ini Boşaltıyor Başkan Trump, Michigan Demokratik Senatosu adayı Abdul El-Sayed'e ve Alaska'nın oy pusulasındaki ikinci Dan Sullivan'a saldırmak için bir gecede Truth Social'a gitti, iki Senato yarışında sandıkların açılmasından saatler önce",
+    "u": "https://www.zerohedge.com/political/trump-unloads-el-sayed-and-alaskas-decoy-dan-election-day-truth-social-posts",
+    "ts": 1793713500000,
+    "tags": []
+   },
+   {
+    "t": "US-Iran Reportedly Agree To Concessions On Nuclear File, Oil Plunges",
+    "tt": "ABD-İran'ın Nükleer Dosya Konusunda Taviz Vermeyi Kabul Ettiği Bildirildi, Petrol Düştü",
+    "s": "US-Iran Reportedly Agree To Concessions On Nuclear File, Oil Plunges Update(0835ET) : US-Iran headlines are once again swinging between mediator proposals and Tehran declaring it is \"now in a state of war\" after the Qeshm strike - which is a sadly all too familiar pattern from this past summer. The ",
+    "ss": "ABD-İran'ın Nükleer Dosya Konusunda Taviz Vermeyi Kabul Ettiği Bildirildi, Petrol Düşüşleri Güncellemesi(0835ET): ABD-İran manşetleri bir kez daha arabulucu önerileri arasında gidip geliyor ve Tahran'ın Keşm saldırısının ardından \"şu anda savaş halinde\" olduğunu ilan etmesi - ki bu ne yazık ki geçtiğimiz yazdan çok tanıdık bir model.",
+    "u": "https://www.zerohedge.com/energy/irgc-claims-3-more-tankers-blown-naval-mines-hormuz",
+    "ts": 1793713020000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Second Wave Of Cyberattacks Paralyze Supermarket Fridges Across EU, Weeks After Gov'ts Urged Food Stockpiling",
+    "tt": "Hükümetlerin Gıda Stoku Yapma Çağrısında Bulunmasından Haftalar Sonra İkinci Siber Saldırı Dalgası AB'deki Süpermarket Buzdolaplarını Felç Etti",
+    "s": "Second Wave Of Cyberattacks Paralyze Supermarket Fridges Across EU, Weeks After Gov'ts Urged Food Stockpiling Cyberattacks disrupted supermarket refrigeration systems across Sweden, Belgium, Luxembourg, Ireland and Estonia on Monday morning, forcing retailers to discard spoiled food and exposing the",
+    "ss": "Hükümetlerin Gıda Stoklama Çağrısından Haftalar Sonra İkinci Siber Saldırı Dalgası AB Genelinde Süpermarket Buzdolaplarını Felç Ediyor Siber saldırılar Pazartesi sabahı İsveç, Belçika, Lüksemburg, İrlanda ve Estonya'da süpermarketlerin soğutma sistemlerini bozdu ve perakendecileri bozulmuş yiyecekleri atmaya zorladı ve",
+    "u": "https://www.zerohedge.com/geopolitical/cyberattacks-hit-supermarket-freezers-across-europe-hackers-target-food-supply-chain",
+    "ts": 1793712600000,
+    "tags": []
+   },
+   {
+    "t": "Futures Mixed As America Votes, Apple Slides And Oil Rebounds After \"Defensive\" US Strike On Iran",
+    "tt": "Vadeli İşlemler, Amerika'nın Oy Vermesi, Apple'ın Kayması ve ABD'nin İran'a Yönelik \"Savunma Amaçlı\" Saldırısının Ardından Petrolün Yükselişiyle Karışık",
+    "s": "Futures Mixed As America Votes, Apple Slides And Oil Rebounds After \"Defensive\" US Strike On Iran US futures are down but off session lows, with Nasdaq contracts edging higher, as America heads to the polls for the midterms, chips rebound even as Apple slides on a gross margin warning and Palantir t",
+    "ss": "Vadeli İşlemler, Amerika'nın Oy Vermesi, Apple'ın Kayması ve ABD'nin İran'a Yönelik \"Savunma Amaçlı\" Saldırısının Ardından Petrolün Toparlanmasıyla Karışık ABD vadeli işlemleri düşüşte ancak seans dip seviyelerinde, Nasdaq kontratları yükselişte, Amerika ara seçimler için sandık başına giderken, Apple'ın brüt kar marjı uyarısı ve Palantir'in geri çekilmesine rağmen fişler toparlanıyor",
+    "u": "https://www.zerohedge.com/markets/futures-mixed-america-votes-apple-slides-and-oil-rebounds-after-defensive-us-strike-iran",
+    "ts": 1793712247000,
+    "tags": []
+   },
+   {
+    "t": "The Chart That Should Terrify Brussels: EU NatGas Reserves Could Crater By Winter's End",
+    "tt": "Brüksel'i Korkutması Gereken Tablo: AB Doğalgaz Rezervleri Kış Sonuna Kadar Düşebilir",
+    "s": "The Chart That Should Terrify Brussels: EU NatGas Reserves Could Crater By Winter's End Diplomatic signals between the US and Iran ahead of the US midterms sent Brent crude and European natural gas futures tumbling on Monday, but the relief rally has done little to resolve Europe's energy crisis ahe",
+    "ss": "Brüksel'i Korkutması Gereken Tablo: AB Doğal Gaz Rezervleri Kış Sonuna Kadar Düşebilir ABD ara dönemleri öncesinde ABD ile İran arasındaki diplomatik sinyaller, Pazartesi günü Brent ham petrolü ve Avrupa doğal gaz vadeli işlemlerinin düşüşe geçmesine neden oldu, ancak yardım rallisi Avrupa'nın enerji krizini çözmek için çok az şey yaptı",
+    "u": "https://www.zerohedge.com/energy/chart-should-terrify-brussels-eu-natgas-reserves-could-crater-winters-end",
+    "ts": 1793710800000,
+    "tags": []
+   },
    {
     "t": "Leftists Flee Trump's America In Search Of Utopia In Europe",
     "tt": "Solcular Avrupa'da Ütopya Arayışında Trump'ın Amerika'sından Kaçıyor",
@@ -767,63 +833,36 @@
     "u": "https://www.zerohedge.com/markets/beijings-stock-rescue-turns-more-desperate-regulators-reportedly-halt-ipos-amid-bear-market",
     "ts": 1793707200000,
     "tags": []
-   },
-   {
-    "t": "Conservatives In Disbelief Over Democrat's Answer: \"One Of The Craziest Things I've Ever Heard A Politician Say\"",
-    "tt": "Muhafazakarlar Demokratların Cevabına İnanmıyor: \"Bir Politikacının Söylediğini Duyduğum En Çılgınca Şeylerden Biri\"",
-    "s": "Conservatives In Disbelief Over Democrat's Answer: \"One Of The Craziest Things I've Ever Heard A Politician Say\" Michigan Democrat Senate nominee Abdul El-Sayed is facing backlash after suggesting that concerns over transgender students in girls' sports and locker rooms are so-called manufactured po",
-    "ss": "Muhafazakarlar Demokratların Cevabına İnanmıyor: \"Bir Politikacının Söylediğini Duyduğum En Çılgınca Şeylerden Biri\" Michigan Demokrat Senatosu adayı Abdul El-Sayed, kızların spor salonlarında ve soyunma odalarındaki transseksüel öğrencilerle ilgili endişelerin sözde üretilmiş pohpohlama olduğunu öne sürdükten sonra tepkiyle karşı karşıya kaldı",
-    "u": "https://www.zerohedge.com/political/conservatives-disbelief-over-democrats-answer-one-craziest-things-ive-ever-heard",
-    "ts": 1793705700000,
-    "tags": []
-   },
-   {
-    "t": "Ukrainian Intelligence Just Tried Its Own Version Of The Israeli Pager Attack",
-    "tt": "Ukrayna İstihbaratı İsrail Çağrı Cihazı Saldırısının Kendi Versiyonunu Denedi",
-    "s": "Ukrainian Intelligence Just Tried Its Own Version Of The Israeli Pager Attack It appears Ukrainian intelligence has attempted to do its own version of the Israeli pager bomb attacks that decimated many Hezbollah commanders in September 2024. Russian authorities announced Monday the uncovering of a b",
-    "ss": "Ukrayna İstihbaratı İsrail Çağrı Cihazı Saldırısının Kendi Versiyonunu Denedi Görünen o ki Ukrayna istihbaratı, Eylül 2024'te birçok Hizbullah komutanını yok eden İsrail çağrı cihazı bombalı saldırılarının kendi versiyonunu yapmaya çalışmış. Rus yetkililer Pazartesi günü yaptıkları duyuruda, bir b",
-    "u": "https://www.zerohedge.com/geopolitical/ukrainian-intelligence-just-tried-its-own-version-israeli-pager-attack",
-    "ts": 1793705400000,
-    "tags": []
-   },
-   {
-    "t": "\"We Want To F**k Leipzig\": Germany Vows Tough Response As Migrant Youths Admit Real Motives Behind Protests",
-    "tt": "\"Leipzig'i Sikmek İstiyoruz\": Göçmen Gençler Protestoların Arkasındaki Gerçek Sebepleri Kabul Ederken Almanya Sert Cevap Veriyor",
-    "s": "\"We Want To F**k Leipzig\": Germany Vows Tough Response As Migrant Youths Admit Real Motives Behind Protests Authored by Remix News Staff via Remix News , Following clashes with police and looting during the Gen Z protests on Halloween night in Germany, one interviewer attempted to speak with a group",
-    "ss": "\"Leipzig'i becermek İstiyoruz\": Göçmen Gençler Protestoların Arkasındaki Gerçek Sebepleri İtiraf Ederken, Almanya Sert Karşılık Vermeye Söz Verdi Remix Haber Çalışanları tarafından Remix News aracılığıyla yazılmıştır, Almanya'da Cadılar Bayramı gecesinde Z Kuşağı protestoları sırasında polisle yaşanan çatışmalar ve yağmaların ardından, bir röportajcı bir grupla konuşmaya çalıştı",
-    "u": "https://www.zerohedge.com/geopolitical/we-want-fk-leipzig-germany-vows-tough-response-migrant-youths-admit-real-motives",
-    "ts": 1793703600000,
-    "tags": []
-   },
-   {
-    "t": "Was October The Peak Of Hormuz Ship Attacks?",
-    "tt": "Ekim ayı Hürmüz Gemi Saldırılarının Zirvesi miydi?",
-    "s": "Was October The Peak Of Hormuz Ship Attacks? A renewed diplomatic push between the Trump administration and Tehran ahead of the US midterms sent Brent and WTI futures spiraling lower yesterday. The selloff comes despite a record number of commercial ship attacks in the Gulf waters during October . R",
-    "ss": "Ekim ayı Hürmüz Gemi Saldırılarının Zirvesi miydi? ABD ara seçimleri öncesinde Trump yönetimi ile Tahran arasında yenilenen diplomatik hamle, dün Brent ve WTI vadeli işlemlerinin düşüşe geçmesine neden oldu. Satışlar, Ekim ayında Körfez sularında rekor sayıda ticari gemi saldırısına rağmen gerçekleşti. R",
-    "u": "https://www.zerohedge.com/energy/was-october-peak-hormuz-ship-attacks",
-    "ts": 1793701200000,
-    "tags": []
-   },
-   {
-    "t": "Why Are So Many British Teens Being Treated As Terrorists?",
-    "tt": "Neden Bu Kadar Çok Britanyalı Genç Terörist Olarak Muamele Ediliyor?",
-    "s": "Why Are So Many British Teens Being Treated As Terrorists? Authored by Joanna Williams via Spiked , What is going on with Britain's children? Last year, more than 6,000 under-18s were referred to Prevent , the UK government's counter-terrorism scheme, with a record number reported for being obsessed",
-    "ss": "Neden Bu Kadar Çok Britanyalı Genç Terörist Olarak Muamele Ediliyor? Joanna Williams tarafından Spiked aracılığıyla yazılmıştır, Britanya'nın çocuklarına neler oluyor? Geçtiğimiz yıl, 18 yaşın altındaki 6.000'den fazla kişi Birleşik Krallık hükümetinin terörle mücadele planı olan Prevent'e yönlendirildi ve rekor sayıda kişinin takıntılı olduğu bildirildi",
-    "u": "https://www.zerohedge.com/political/why-are-so-many-teens-being-treated-terrorists",
-    "ts": 1793698800000,
-    "tags": []
-   },
-   {
-    "t": "Europe Under Attack? Far-Left Sabotage UK Military Satellite Equipment Supply Chain",
-    "tt": "Avrupa Saldırı Altında mı? Aşırı Sol Sabotaj Birleşik Krallık Askeri Uydu Ekipmanları Tedarik Zinciri",
-    "s": "Europe Under Attack? Far-Left Sabotage UK Military Satellite Equipment Supply Chain Europe faces growing national security risks from violent far-left groups seeking to destroy capitalism and the continent amid weeks of riots, looting and unrest in France and elsewhere. The chaos has not yet stopped",
-    "ss": "Avrupa Saldırı Altında mı? Aşırı Soldan Birleşik Krallık Askeri Uydu Ekipmanı Tedarik Zincirine Sabotaj Avrupa, Fransa'da ve başka yerlerde haftalarca süren ayaklanmalar, yağma ve huzursuzlukların ortasında kapitalizmi ve kıtayı yok etmeye çalışan şiddet yanlısı aşırı sol gruplardan kaynaklanan artan ulusal güvenlik riskleriyle karşı karşıya. Kaos henüz durmadı",
-    "u": "https://www.zerohedge.com/military/europe-under-attack-far-left-sabotage-uk-military-satellite-equipment-supply-chain",
-    "ts": 1793696400000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "İran'dan ABD'nin nükleer tehdidine rest",
+    "tt": null,
+    "s": "İran Dışişleri Bakanlığı Sözcüsü Kazım Garibabadi, ülkesine karşı nükleer silah kullanılması durumunda uluslararası düzeyde yasal yollara başvurmakla yetinmeyeceklerini, ülkesinin bu tür koşullarda gerekli önlemleri alacağını ve \"ellerinin bağlı kalmayacağını\" söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-dan-abd-nin-nukleer-tehdidine-rest-3793309",
+    "ts": 1793712581000,
+    "tags": []
+   },
+   {
+    "t": "Şimşek: Yükselen enerji fiyatları dezenflasyonu sınırladı",
+    "tt": null,
+    "s": "Ekim enflasyonunu değerlendiren Hazine ve Maliye Bakanı Mehmet Şimşek yıllık tüketici enflasyonunun bir önceki yılın aynı ayına göre 3,1 puan azaldığını belirterek \"Enflasyondaki düşüş ulaştırma ve enerji hariç genele yayıldı\" dedi. Şimşek savaşın etkisiyle yükselen enerji fiyatlarının dezenflasyonu",
+    "ss": null,
+    "u": "https://www.bloomberght.com/simsek-yukselen-enerji-fiyatlari-dezenflasyonu-sinirladi-3793306",
+    "ts": 1793711949000,
+    "tags": []
+   },
+   {
+    "t": "Dünya Bankası ile Türkiye arasında elektrik projesi görüşmeleri",
+    "tt": null,
+    "s": "Bloomberg'in haberine göre, Dünya Bankası Türkiye ile 4,5 milyar dolar elektrik projesini görüşüyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dunya-bankasi-ile-turkiye-arasinda-elektrik-projesi-gorusmeleri-3793300",
+    "ts": 1793710013000,
+    "tags": []
+   },
    {
     "t": "Euro Bölgesi ülkeleri AMB başkanlığı için adayları 6 Kasım'a kadar bildirecek",
     "tt": null,
@@ -885,33 +924,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/vakifbank-genel-muduru-arslan-kaynaklari-ulkeyi-kalkindiracak-alanlara-yonlendirecegiz-3793281",
     "ts": 1793704945000,
-    "tags": []
-   },
-   {
-    "t": "Avrupa kışa 13 yılın en düşük gaz stokuyla giriyor",
-    "tt": null,
-    "s": "Küresel doğalgaz arz güvenliğine yönelik riskler devam ederken Avrupa Birliği (AB), kış dönemine 2013'ten beri görülen en düşük doğalgaz stok seviyeleriyle giriyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/avrupa-kisa-13-yilin-en-dusuk-gaz-stokuyla-giriyor-3793269",
-    "ts": 1793704091000,
-    "tags": []
-   },
-   {
-    "t": "Otomotiv pazarı Ekim'de yüzde 30 daraldı: \"Yıl sonunda 1 milyon adedin altına inebilir\"",
-    "tt": null,
-    "s": "Otomotiv Distribütörleri ve Mobilite Derneği (ODMD) Yönetim Kurulu Başkanı Hakan Tiftik, yılı kapatırken Ekim ayındaki daralma eğiliminin sürmesi halinde pazarın 1 milyon adedin altına gerileyebileceğini söyleyen Tiftik, sermaye piyasalarındaki gelişmelerin ardından aracını satıp nakde dönmek isteye",
-    "ss": null,
-    "u": "https://www.bloomberght.com/otomotiv-pazari-ekimde-yuzde-30-daraldi-yil-sonunda-1-milyon-adedin-altina-inebilir-3793268",
-    "ts": 1793704069000,
-    "tags": []
-   },
-   {
-    "t": "ABD ara seçimler için sandık başında: Trump için en büyük referandum",
-    "tt": null,
-    "s": "ABD'de Başkan Donald Trump'ın ikinci dönemine ilişkin referandum niteliği taşıyan ara seçimler için seçmenler sandık başında olacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-ara-secimler-icin-sandik-basinda-trump-icin-en-buyuk-referandum-3793267",
-    "ts": 1793703934000,
     "tags": []
    }
   ]
