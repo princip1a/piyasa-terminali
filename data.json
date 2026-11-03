@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T23:04:20.926155+00:00",
+ "generated": "2026-11-03T23:51:22.108848+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3940.2,
-   "c": -0.74,
-   "d": -29.4,
+   "p": 3937.3,
+   "c": -0.81,
+   "d": -32.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.81,
-   "c": -1.79,
-   "d": -0.91,
+   "p": 49.695,
+   "c": -2.02,
+   "d": -1.025,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 96.76,
-   "c": 0.31,
-   "d": 0.3,
+   "p": 96.61,
+   "c": 0.16,
+   "d": 0.15,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 104.42,
-   "c": -0.33,
-   "d": -0.35,
+   "p": 104.35,
+   "c": -0.4,
+   "d": -0.42,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.876,
-   "c": 0.12,
-   "d": 0.126,
+   "p": 101.89,
+   "c": 0.14,
+   "d": 0.14,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.0012,
-   "c": 0.07,
-   "d": 0.035,
+   "p": 50.014,
+   "c": 0.1,
+   "d": 0.048,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77788,
-   "c": 1.41,
+   "p": 77673,
+   "c": 1.23,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2289.72,
-   "c": 1.8,
+   "p": 2282.12,
+   "c": 1.41,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 93.37,
-   "c": 1.73,
+   "p": 93.17,
+   "c": 1.45,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.28,
-   "c": 2.57,
+   "c": 2.61,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 700.03,
-   "c": 0.35,
+   "p": 699.92,
+   "c": 0.27,
    "k": "usd"
   }
  ],
@@ -283,7 +283,7 @@
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "-0.1M",
+   "forecast": "-1.7M",
    "previous": "-1.9M",
    "actual": "",
    "ts": 1793806200000,
@@ -353,7 +353,7 @@
   {
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "81B",
    "previous": "80B",
    "actual": "",
    "ts": 1793892600000,
@@ -454,6 +454,56 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "AMLO’s Son Denies Graft Charges Ahead of Mexico Congress Run",
+    "tt": null,
+    "s": "Andrés Manuel López Beltrán, son of Mexico’s former president and a member of the ruling party, denied corruption allegations that threaten his run for Congress next year.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/amlo-s-son-denies-crime-allegations-ahead-of-mexico-congress-run",
+    "ts": 1793729781000,
+    "tags": []
+   },
+   {
+    "t": "UOB Profits Miss Estimates as Lower Trading Income Dampens Gains",
+    "tt": null,
+    "s": "United Overseas Bank Ltd. reported third-quarter profit that missed expectations, as a decline in trading and investment income dampened gains from lending and fees.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
+    "ts": 1793747657000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Climb on AI Rally as US Votes: Markets Wrap",
+    "tt": null,
+    "s": "US equity futures advanced as the artificial-intelligence trade regained momentum, while investors awaited the results of the US midterm elections.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793744422000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 4",
+    "tt": null,
+    "s": "Oil edged higher after a two-day decline as traders weighed the outlook for the US-Iran war following conflicting signals on the trajectory of peace talks.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
+    "ts": 1793747284000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
+    "tt": null,
+    "s": "Hong Kong’s two-year fundraising boom is slowing, with the rate of abandoned stock listings spiking to the highest since the global financial crisis.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
+    "ts": 1793746800000,
+    "tags": []
+   },
+   {
     "t": "New Zealand Jobless Rises to 11-Year High as Election Looms",
     "tt": null,
     "s": "New Zealand’s jobless rate unexpectedly increased to a fresh 11-year high in the third quarter, adding to pressure on the government just three days from an election.",
@@ -469,15 +519,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
     "ts": 1793740803000,
-    "tags": []
-   },
-   {
-    "t": "Asian Tech Stocks to Rise on AI Rally as US Votes: Markets Wrap",
-    "tt": null,
-    "s": "Asian tech stocks looked set to rise after a revival in the artificial-intelligence trade lifted Wall Street, as investors awaited the results of the US midterm elections.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793744422000,
     "tags": []
    },
    {
@@ -505,44 +546,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/venezuela-moves-to-unwind-hate-speech-law-that-jailed-thousands",
     "ts": 1793743717000,
-    "tags": []
-   },
-   {
-    "t": "Booking Sees Weaker Final Quarter as Prices, Unrest Hurt Travel",
-    "tt": null,
-    "s": "Booking Holdings Inc.’s outlook for the fourth quarter fell short of analyst expectations as pricier flights and protests in Paris affected demand in October.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel",
-    "ts": 1793742982000,
-    "tags": []
-   },
-   {
-    "t": "Dollar Rises Most in a Month on Higher US Yields, Strong Data",
-    "tt": null,
-    "s": "The dollar advanced the most in a month, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback’s direction.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
-    "ts": 1793728156000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Trading on US Stock Perpetuals Contracts Is Approved by CFTC",
-    "tt": null,
-    "s": "A type of so-called perpetual derivative contracts tied to equities got the US Commodity Futures Trading Commission’s green light to start trading.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/trading-on-us-stock-perpetuals-contracts-is-approved-by-cftc",
-    "ts": 1793721006000,
-    "tags": []
-   },
-   {
-    "t": "Traders Turn Less Bearish on Treasuries Before Refunding, Jobs",
-    "tt": null,
-    "s": "A shift in momentum in US Treasuries has traders adding to long positions and paring back bearish wagers ahead of a trifecta of key events this week.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/traders-turn-less-bearish-on-treasuries-before-refunding-jobs",
-    "ts": 1793741423000,
     "tags": []
    }
   ],
@@ -735,6 +738,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "'Made In China' Hypercar Crashes In 300-MPH Test-Run",
+    "tt": null,
+    "s": "'Made In China' Hypercar Crashes In 300-MPH Test-Run Chinese automotive news website CarNewsChina reports that BYD's Yangwang U9 Xtreme supercar crashed on a closed-loop track in China while attempting to reach a mind-boggling 500 kilometers per hour, or about 311 miles per hour. Footage of the $3 m",
+    "ss": null,
+    "u": "https://www.zerohedge.com/technology/made-china-hypercar-crashes-300-mph-test-run",
+    "ts": 1793749800000,
+    "tags": []
+   },
+   {
+    "t": "California Released 24,000 Illegal Immigrants With ICE Detainers, DHS Says",
+    "tt": null,
+    "s": "California Released 24,000 Illegal Immigrants With ICE Detainers, DHS Says Authored by Naveen Athrappully via The Epoch Times , Almost 24,000 illegal immigrants with criminal convictions or charges have been released into communities since Jan. 20, 2025, due to California's refusal to honor Immigrat",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/california-released-24000-illegal-immigrants-ice-detainers-dhs-says",
+    "ts": 1793748600000,
+    "tags": []
+   },
+   {
+    "t": "Eisenkot Refuses To Join US-Backed 'Unity Government' With Netanyahu",
+    "tt": null,
+    "s": "Eisenkot Refuses To Join US-Backed 'Unity Government' With Netanyahu Via The Cradle Israeli Yashar party chairman Gadi Eisenkot says he will not serve in any government led by Prime Minister Benjamin Netanyahu, even at the personal request of US President Donald Trump , Israel's Public Broadcaster (",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/eisenkot-refuses-join-us-backed-unity-government-netanyahu",
+    "ts": 1793747400000,
+    "tags": []
+   },
+   {
     "t": "Jim Bovard: Cynicism Should Win The Mid-Term Elections",
     "tt": null,
     "s": "Jim Bovard: Cynicism Should Win The Mid-Term Elections Authored by Jim Bovard In an era of clueless voters and profoundly dishonest candidates, cynicism is one of the last best checks on political power run amok.&nbsp; Regardless of the final vote count in Tuesday’s mid-term congressional elections,",
@@ -753,9 +783,9 @@
     "tags": []
    },
    {
-    "t": "Seven Toss-Ups, A Decoy Candidate, & A 1AM Finish: Your Election Night Survival Guide",
+    "t": "Seven Toss-Ups, A Decoy Candidate, & A 1AM Finish: Watch Election Night Results Live Here",
     "tt": null,
-    "s": "Seven Toss-Ups, A Decoy Candidate, &amp; A 1AM Finish: Your Election Night Survival Guide And so it begins... The drama of election night in the US plays out across 50 states and six time zones, with poll closings cascading across the country from east to west. Each state sets its own polling hours,",
+    "s": "Seven Toss-Ups, A Decoy Candidate, &amp; A 1AM Finish: Watch Election Night Results Live Here And so it begins... The drama of election night in the US plays out across 50 states and six time zones, with poll closings cascading across the country from east to west. Each state sets its own polling ho",
     "ss": null,
     "u": "https://www.zerohedge.com/political/seven-toss-ups-decoy-candidate-and-1am-finish-your-election-night-survival-guide",
     "ts": 1793744400000,
@@ -795,33 +825,6 @@
     "ss": null,
     "u": "https://www.zerohedge.com/energy/inside-250-electric-bill-dissecting-midterms-most-hated-piece-mail",
     "ts": 1793741400000,
-    "tags": []
-   },
-   {
-    "t": "Midterm Election Incoherences, Misadventures, & Paradoxes",
-    "tt": null,
-    "s": "Midterm Election Incoherences, Misadventures, &amp; Paradoxes Authored by Victor Davis Hanson via American Greatness , The predicted blue wave may never materialize. And even if Democrats retake Congress, history suggests Trump could emerge stronger, not weaker, with the presidency's expansive power",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/midterm-election-incoherences-misadventures-paradoxes",
-    "ts": 1793740800000,
-    "tags": []
-   },
-   {
-    "t": "\"Technical Glitch\" Disrupts Westchester Voting, Potentially Affecting 250,000 Ballots",
-    "tt": null,
-    "s": "\"Technical Glitch\" Disrupts Westchester Voting, Potentially Affecting 250,000 Ballots Summary:&nbsp; Blamed on a \" Technical Glitch \"&nbsp; Westchester County Key House Battleground Voting Machines Reject Paper Ballots Across Westchester County \"Technical Glitch\" Impacts 250,000 Ballots In Westchest",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/voting-machines-reject-paper-ballots-across-westchester-county-home-key-house",
-    "ts": 1793739240000,
-    "tags": []
-   },
-   {
-    "t": "The Great Wealth Divide: Own The Right Assets... Or Fall Behind",
-    "tt": "Büyük Zenginlik Bölünmesi: Doğru Varlıklara Sahip Olun... Veya Geride Kalın",
-    "s": "The Great Wealth Divide: Own The Right Assets... Or Fall Behind Authored by Kelly Caro via Doug Casey's International Man , Let's start with three assumptions that I consider rock-solid. 1. Government spending will continue to grow. 2. The government will need more currency debasement to finance tha",
-    "ss": "Büyük Zenginlik Bölünmesi: Doğru Varlıklara Sahip Olun... Veya Geriye Düşmek Kelly Caro tarafından Doug Casey'nin Uluslararası Adamı aracılığıyla yazılmıştır. Sağlam olduğunu düşündüğüm üç varsayımla başlayalım. 1. Devlet harcamaları artmaya devam edecek. 2. Hükümetin bunu finanse etmek için daha fazla para biriminin değer kaybetmesine ihtiyacı olacak",
-    "u": "https://www.zerohedge.com/personal-finance/great-wealth-divide-own-right-assets-or-fall-behind",
-    "ts": 1793738700000,
     "tags": []
    }
   ],
