@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T21:21:23.891161+00:00",
+ "generated": "2026-11-03T22:19:57.576109+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 20.85,
-   "c": -1.42,
-   "d": -0.3,
+   "p": 20.83,
+   "c": -1.51,
+   "d": -0.32,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3931.8,
-   "c": -0.95,
-   "d": -37.8,
+   "p": 3940.2,
+   "c": -0.74,
+   "d": -29.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.705,
-   "c": -2.0,
-   "d": -1.015,
+   "p": 49.81,
+   "c": -1.79,
+   "d": -0.91,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 96.71,
-   "c": 0.26,
-   "d": 0.25,
+   "p": 96.76,
+   "c": 0.31,
+   "d": 0.3,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 104.33,
-   "c": -0.42,
-   "d": -0.44,
+   "p": 104.42,
+   "c": -0.33,
+   "d": -0.35,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.866,
-   "c": 0.11,
-   "d": 0.116,
+   "p": 101.869,
+   "c": 0.12,
+   "d": 0.119,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9919,
-   "c": 0.05,
-   "d": 0.026,
+   "p": 50.0063,
+   "c": 0.08,
+   "d": 0.04,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77880,
-   "c": 1.43,
+   "p": 77759,
+   "c": 1.15,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2295.29,
-   "c": 2.01,
+   "p": 2291.64,
+   "c": 1.58,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 93.74,
-   "c": 2.3,
+   "p": 93.52,
+   "c": 1.57,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.28,
-   "c": 2.84,
+   "c": 2.36,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 699.93,
-   "c": 0.57,
+   "p": 700.21,
+   "c": 0.15,
    "k": "usd"
   }
  ],
@@ -454,6 +454,80 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Bedrock CEO on Future of Detroit Real Estate",
+    "tt": null,
+    "s": "Bedrock CEO Jared Fleisher discussed Detroit’s redevelopment, pointing to Dan Gilbert’s investment in restoring and filling 140 buildings across Detroit and Cleveland, totaling more than 21 million square feet. Fleisher highlighted the Hudson’s site, where a new tower is rising on the former departm",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-03/bedrock-ceo-on-future-of-detroit-real-estate-video",
+    "ts": 1793744373000,
+    "tags": []
+   },
+   {
+    "t": "Congo to Probe Illegal Mining After Seizing Copper, Cobalt",
+    "tt": null,
+    "s": "Officials in the Democratic Republic of Congo seized thousands of tons of copper and cobalt, prompting the justice minister to order an investigation into allegations of widespread illegal mining.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/congo-to-probe-illegal-mining-after-seizing-copper-and-cobalt",
+    "ts": 1793690750000,
+    "tags": []
+   },
+   {
+    "t": "Venezuela Moves to Unwind Hate Speech Law That Jailed Thousands",
+    "tt": null,
+    "s": "Venezuelan lawmakers took the first step toward reforming a controversial law long used to jail dissidents as the interim government further unwinds some of the tools of repression imposed under ousted leader Nicolás Maduro.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/venezuela-moves-to-unwind-hate-speech-law-that-jailed-thousands",
+    "ts": 1793743717000,
+    "tags": []
+   },
+   {
+    "t": "Booking Sees Weaker Final Quarter as Prices, Unrest Hurt Travel",
+    "tt": null,
+    "s": "Booking Holdings Inc.’s outlook for the fourth quarter fell short of analyst expectations as pricier flights and protests in Paris affected demand in October.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel",
+    "ts": 1793742982000,
+    "tags": []
+   },
+   {
+    "t": "Dollar Rises Most in a Month on Higher US Yields, Strong Data",
+    "tt": null,
+    "s": "The dollar advanced the most in a month, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback’s direction.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
+    "ts": 1793728156000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "New Zealand Jobless Rises to 11-Year High as Election Looms",
+    "tt": null,
+    "s": "New Zealand’s jobless rate unexpectedly increased to a fresh 11-year high in the third quarter, adding to pressure on the government just three days from an election.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/new-zealand-jobless-rises-to-11-year-high-as-election-looms",
+    "ts": 1793742639000,
+    "tags": []
+   },
+   {
+    "t": "Trading on US Stock Perpetuals Contracts Is Approved by CFTC",
+    "tt": null,
+    "s": "A type of so-called perpetual derivative contracts tied to equities got the US Commodity Futures Trading Commission’s green light to start trading.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/trading-on-us-stock-perpetuals-contracts-is-approved-by-cftc",
+    "ts": 1793721006000,
+    "tags": []
+   },
+   {
+    "t": "Traders Turn Less Bearish on Treasuries Before Refunding, Jobs",
+    "tt": null,
+    "s": "A shift in momentum in US Treasuries has traders adding to long positions and paring back bearish wagers ahead of a trifecta of key events this week.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/traders-turn-less-bearish-on-treasuries-before-refunding-jobs",
+    "ts": 1793741423000,
+    "tags": []
+   },
+   {
     "t": "Chip Stocks Rally as Bonds Fall on US Election Day: Markets Wrap",
     "tt": "ABD Hisse Senetleri Ara Sınavlar Yatırımcıları Dikkatli Tutarken Kayıyor: Piyasalar İyileşiyor",
     "s": "A revival of the artificial-intelligence trade powered Wall Street gains, bonds fell and the dollar rose on US Election Day.",
@@ -469,78 +543,6 @@
     "ss": "ABD hisse senetleri, Amerikalıların Seçim Günü sandık başına gitmesiyle yükseldi; her iki Kongre odasının da kontrolü tehlikedeydi ve yatırımcılar yapay zeka ticaretine yönelik potansiyel riskleri değerlendiriyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
     "ts": 1793711716000,
-    "tags": []
-   },
-   {
-    "t": "Jack Dorsey’s Block Modestly Beats Third-Quarter Expectations",
-    "tt": null,
-    "s": "Block Inc., the payments company behind Square and Cash App, inched past Wall Street’s earnings expectations on Tuesday and lifted its outlook slightly following a revamp announced earlier this year.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
-    "ts": 1793740803000,
-    "tags": []
-   },
-   {
-    "t": "Super Micro Rallies on Strong AI Data Center Sales Outlook | Closing Bell",
-    "tt": null,
-    "s": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/super-micro-rallies-on-ai-outlook-closing-bell-video",
-    "ts": 1793740778000,
-    "tags": []
-   },
-   {
-    "t": "Schneider Electric Coalition Spotlight",
-    "tt": "Schneider Electric Koalisyonu İncelemesi",
-    "s": "Frédéric Godemel, Executive Vice-President for Energy Management, Schneider Electric, discusses the energy systems and infrastructure needed to support AI-driven growth with Bloomberg's Dana Perkins at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
-    "ss": "Schneider Electric Enerji Yönetiminden Sorumlu Genel Başkan Yardımcısı Frédéric Godemel, Londra'daki Bloomberg Tech 2026'da Bloomberg'den Dana Perkins ile yapay zeka odaklı büyümeyi desteklemek için gereken enerji sistemlerini ve altyapıyı tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/schneider-electric-coalition-spotlight-video",
-    "ts": 1793740716000,
-    "tags": []
-   },
-   {
-    "t": "Black Forest Lab on AI’s Next Phase",
-    "tt": null,
-    "s": "Andi Blattman, Co-Founder, Black Forest Lab discusses where lasting AI value will be created, who is positioned to capture it and the enterprise, infrastructure, safety and policy forces shaping the next phase with Bloomberg’s Shirin Ghaffary at Bloomberg Tech 2026 in London. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/black-forest-lab-on-ai-s-next-phase-video",
-    "ts": 1793739825000,
-    "tags": []
-   },
-   {
-    "t": "The Big AI Stock Selloff Is Happening at a Bad Time",
-    "tt": "Büyük Yapay Zeka Hisse Senedi Satışı Kötü Bir Zamanda Gerçekleşiyor",
-    "s": "Leaning on equity just as share prices fall.",
-    "ss": "Hisse fiyatları düşerken öz sermayeye yaslanmak.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-03/the-big-ai-stock-selloff-is-happening-at-a-bad-time",
-    "ts": 1793739444000,
-    "tags": []
-   },
-   {
-    "t": "Far Left Could Force Jeffries to Work With GOP, Says Sarah Chamberlain",
-    "tt": null,
-    "s": "Sarah Chamberlain, president and CEO of Republican Main Street Partnership, said that Democrats will need to win the House by at least a 25 seat majority in order to give Hakeem Jeffries 'wiggle room' to get elected as Speaker and pass legislation. Chamberlain said that the presence of new 'far left",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/dsa-could-force-jeffries-to-work-with-gop-chamberlain-video",
-    "ts": 1793738532000,
-    "tags": []
-   },
-   {
-    "t": "Oasis Drops Board Nominees in Vail Resorts Proxy Battle",
-    "tt": "Oasis, Vail Resorts Vekalet Savaşında Yönetim Kurulu Adaylarını Düşürdü",
-    "s": "Bloomberg's Mengqi Sun joins Dani Burger on \"Bloomberg Deals.\" Activist investor Oasis is dropping two of its four board nominees in its proxy challenge at Vail Resorts. (Source: Bloomberg)",
-    "ss": "Bloomberg'den Mengqi Sun, \"Bloomberg Fırsatları\"nda Dani Burger'a katılıyor. Aktivist yatırımcı Oasis, Vail Resorts'taki vekalet mücadelesinde dört yönetim kurulu adayından ikisini geri çekiyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/oasis-drops-board-nominees-in-vail-resorts-proxy-battle-video",
-    "ts": 1793736953000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 3",
-    "tt": null,
-    "s": "Oil prices swung in a choppy session as traders parsed conflicting signs on the trajectory of peace talks between the US and Iran.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-    "ts": 1793660479000,
     "tags": []
    }
   ],
@@ -641,6 +643,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "AI’s control over the bond market is growing — even rivaling war and elections",
+    "tt": null,
+    "s": "“Hyperscalers” burned through their cash. Now their bond deals are helping fuel the economy.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+    "ts": 1793743560000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+    "tt": null,
+    "s": "Falling below 7,500 would lead to a dramatic increase in selling pressure and volatility, a J.P. Morgan strategist says, and that could end in a full-blown correction",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+    "ts": 1793741400000,
+    "tags": []
+   },
+   {
+    "t": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
+    "tt": null,
+    "s": "Strategically embracing the right symbols in the office really can advance your career.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
+    "ts": 1793741220000,
+    "tags": []
+   },
+   {
     "t": "Super Micro’s stock pops as earnings show booming demand for AI servers",
     "tt": null,
     "s": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
@@ -702,36 +731,63 @@
     "u": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
     "ts": 1793732400000,
     "tags": []
-   },
-   {
-    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    "tt": null,
-    "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "ts": 1793730600000,
-    "tags": []
-   },
-   {
-    "t": "Once election results are in, here’s what investors should focus on next",
-    "tt": null,
-    "s": "It is important to separate your political preferences from your investment and trading decisions.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
-    "ts": 1793730420000,
-    "tags": []
-   },
-   {
-    "t": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
-    "tt": "Babam Alzheimer hastası ve bakıcısı onun banka kartını DoorDash için kullanıyor. Müdahale etmeli miyim?",
-    "s": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-    "ss": "\"Yatılı bakıcının ebeveynimin cömertliğinden faydalandığından şüpheleniyorum.\"",
-    "u": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-    "ts": 1793727000000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Do Young People Understand the Democratic Socialists Of America?",
+    "tt": null,
+    "s": "Do Young People Understand the Democratic Socialists Of America? Authored by Christian Milord via The Epoch Times , Polls show that many young folks in their 20s and 30s favor the Democratic Socialists of America (DSA). Some polls estimate that more than 40 percent of folks in that demographic think",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/do-young-people-understand-democratic-socialists-america",
+    "ts": 1793744400000,
+    "tags": []
+   },
+   {
+    "t": "Seven Toss-Ups, A Decoy Candidate, & A 1AM Finish: Your Election Night Survival Guide",
+    "tt": null,
+    "s": "Seven Toss-Ups, A Decoy Candidate, &amp; A 1AM Finish: Your Election Night Survival Guide And so it begins... Watch results live here: Results: House: &nbsp; Senate: As we detailed earlier, the House is done. Or at least the market thinks so. Going into tonight, Polymarket traders give Democrats a 9",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/seven-toss-ups-decoy-candidate-and-1am-finish-your-election-night-survival-guide",
+    "ts": 1793744400000,
+    "tags": []
+   },
+   {
+    "t": "Haley Stevens Gave Democrat Voters 'Permission To Change Their Minds' And Vote For Mike Rogers",
+    "tt": null,
+    "s": "Haley Stevens Gave Democrat Voters 'Permission To Change Their Minds' And Vote For Mike Rogers Rep. Haley Stevens (D-MI) dropped a bombshell endorsement on Sunday, switching her support from Democratic nominee Abdul El-Sayed to Republican Mike Rogers in Michigan's U.S. Senate race a mere two days be",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/haley-stevens-gave-democrat-voters-permission-change-their-minds-and-vote-mike-rogers",
+    "ts": 1793743500000,
+    "tags": []
+   },
+   {
+    "t": "Mysterious Group Plots To Mass-Dox America's Billionaires, Teases First Targets",
+    "tt": null,
+    "s": "Mysterious Group Plots To Mass-Dox America's Billionaires, Teases First Targets A shadowy international group calling itself The Capytistas is preparing to expose the private homes of some of America's wealthiest individuals in a new campaign, according to a dossier viewed by WIRED . Trillionaire an",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/mysterious-group-plots-mass-dox-americas-billionaires-teases-first-targets",
+    "ts": 1793742600000,
+    "tags": []
+   },
+   {
+    "t": "AMD Soars After Blowout $17 Billion Guide... As Free Cash Flow Quietly Shrinks To 4% Of Revenue",
+    "tt": null,
+    "s": "AMD Soars After Blowout $17 Billion Guide... As Free Cash Flow Quietly Shrinks To 4% Of Revenue Three months ago, AMD beat on every line and the stock crashed anyway. Tonight, the market got the number it wanted. After a brutal month in which AMD shares lost more than a quarter of their value, pumme",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/amd-soars-after-blowout-17-billion-guide-free-cash-flow-quietly-shrinks-4-revenue",
+    "ts": 1793742000000,
+    "tags": []
+   },
+   {
+    "t": "Inside The $250 Electric Bill: Dissecting The Midterms' Most Hated Piece Of Mail",
+    "tt": null,
+    "s": "Inside The $250 Electric Bill: Dissecting The Midterms' Most Hated Piece Of Mail Today, for perhaps the first time in modern American history, the monthly electric bill is on the ballot. Not literally, of course (although in nine states , utility commissioners literally are), but as Reuters put it o",
+    "ss": null,
+    "u": "https://www.zerohedge.com/energy/inside-250-electric-bill-dissecting-midterms-most-hated-piece-mail",
+    "ts": 1793741400000,
+    "tags": []
+   },
    {
     "t": "Midterm Election Incoherences, Misadventures, & Paradoxes",
     "tt": null,
@@ -739,15 +795,6 @@
     "ss": null,
     "u": "https://www.zerohedge.com/political/midterm-election-incoherences-misadventures-paradoxes",
     "ts": 1793740800000,
-    "tags": []
-   },
-   {
-    "t": "Seven Toss-Ups, A Decoy Candidate, & A 1AM Finish: Your Election Night Survival Guide",
-    "tt": null,
-    "s": "Seven Toss-Ups, A Decoy Candidate, &amp; A 1AM Finish: Your Election Night Survival Guide The House is done. Or at least the market thinks so. Going into tonight, Polymarket traders give Democrats a 96% chance of taking the House and 74% for the Senate , the highest Democratic Senate odds since the ",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/seven-toss-ups-decoy-candidate-and-1am-finish-your-election-night-survival-guide",
-    "ts": 1793739600000,
     "tags": []
    },
    {
@@ -769,15 +816,6 @@
     "tags": []
    },
    {
-    "t": "Leaving Las-Vega: Nomura Structured-Notes Head Says Banks Face 'Hedging Squeeze' Amid Booming Business",
-    "tt": null,
-    "s": "Leaving Las-Vega: Nomura Structured-Notes Head Says Banks Face 'Hedging Squeeze' Amid Booming Business Structured notes have been booming, with SEC-registered US notes on track to hit about $300 billion this year, up from roughly $200 billion last year. But the demand that had been levitating option",
-    "ss": null,
-    "u": "https://www.zerohedge.com/markets/leaving-las-vega-nomura-structured-notes-head-says-big-buyers-option-premium-have",
-    "ts": 1793737800000,
-    "tags": []
-   },
-   {
     "t": "Iran Rejects Latest Draft Proposal To End War: US 'Must Act On 7 Conditions' To Reopen Hormuz",
     "tt": null,
     "s": "Iran Rejects Latest Draft Proposal To End War: US 'Must Act On 7 Conditions' To Reopen Hormuz Summary Iran Rejects US Draft Proposal: Tehran insists all seven conditions must be met before reopening the Strait of Hormuz. Negotiations Remain Uncertain: Reports of US-Iran concessions raised hopes of a",
@@ -785,45 +823,18 @@
     "u": "https://www.zerohedge.com/energy/irgc-claims-3-more-tankers-blown-naval-mines-hormuz",
     "ts": 1793737800000,
     "tags": []
-   },
-   {
-    "t": "McHaggis? Court Green-Lights Lawsuit Alleging That The McRib Contains Non-Rib Meat",
-    "tt": null,
-    "s": "McHaggis? Court Green-Lights Lawsuit Alleging That The McRib Contains Non-Rib Meat Authored by Jonathan Turley via JonathanTurley.org , Many were excited when McDonald's recently announced, \"The McRib is back.\" The question is whether it is really back or really a McRib. In an interesting decision o",
-    "ss": null,
-    "u": "https://www.zerohedge.com/personal-finance/mchaggis-court-green-lights-lawsuit-alleging-mcrib-contains-non-rib-meat",
-    "ts": 1793736900000,
-    "tags": []
-   },
-   {
-    "t": "Inside The $250 Electric Bill: Dissecting The Midterms' Most Hated Piece Of Mail",
-    "tt": null,
-    "s": "Inside The $250 Electric Bill: Dissecting The Midterms' Most Hated Piece Of Mail Today, for perhaps the first time in modern American history, the monthly electric bill is on the ballot. Not literally, of course (although in nine states , utility commissioners literally are), but as Reuters put it o",
-    "ss": null,
-    "u": "https://www.zerohedge.com/energy/inside-250-electric-bill-dissecting-midterms-most-hated-piece-mail",
-    "ts": 1793736000000,
-    "tags": []
-   },
-   {
-    "t": "Berkeley Voters To Decide Whether To Initiate Public Bank With New Parcel Tax",
-    "tt": null,
-    "s": "Berkeley Voters To Decide Whether To Initiate Public Bank With New Parcel Tax Authored by Lear Zhou via The Epoch Times , Voters in Berkeley, California, will decide in the coming election whether to start a public bank using a new parcel tax as seed money in order to create long-term investments in",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/berkeley-voters-decide-whether-initiate-public-bank-new-parcel-tax",
-    "ts": 1793735100000,
-    "tags": []
-   },
-   {
-    "t": "Physical Oil Flips From Bidding War To Fire Sale As Gulf Barrels Flood Back",
-    "tt": null,
-    "s": "Physical Oil Flips From Bidding War To Fire Sale As Gulf Barrels Flood Back For much of the past two months, the most important oil price in the world was the one nobody saw on TV. While ICE Brent futures chopped around in a range, the price of actual, deliverable barrels went parabolic: as we noted",
-    "ss": null,
-    "u": "https://www.zerohedge.com/markets/physical-oil-flips-bidding-war-fire-sale-gulf-barrels-flood-back",
-    "ts": 1793734200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Ferrari'nin ilk elektrikli modeli 2027 için şimdiden tükendi",
+    "tt": null,
+    "s": "Ferrari CEO'su Benedetto Vigna, şirketin ilk tamamen elektrikli modeli Luce'ye yönelik siparişlerin, 2027 yılı için planlanan satışların tamamını şimdiden karşıladığını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ferrari-nin-ilk-elektrikli-modelinde-2027-siparisleri-doldu-3793357",
+    "ts": 1793741701000,
+    "tags": []
+   },
    {
     "t": "Resmi Gazete'de bugün (04.11.2026)",
     "tt": null,
@@ -903,15 +914,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/isvec-te-hukumet-krizi-derinlesiyor-ringqvist-de-onay-alamadi-3793344",
     "ts": 1793723970000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de açık iş sayısı Eylül'de beklentileri aştı",
-    "tt": null,
-    "s": "ABD'de JOLTS açık iş sayısı, Eylül'de 333 bin artarak 7 milyon 523 bine yükseldi ve piyasa beklentisini aştı. Aynı dönemde işe alım sayısı 5 milyon 402 bine çıkarken, kendi isteğiyle işinden ayrılanların sayısı Mart 2025'ten bu yana en yüksek seviyesine ulaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-acik-is-sayisi-eylul-de-beklentileri-asti-3793343",
-    "ts": 1793722068000,
     "tags": []
    }
   ]
