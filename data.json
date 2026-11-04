@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T11:47:44.301520+00:00",
+ "generated": "2026-11-04T12:42:32.186788+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4054.0,
-   "c": 2.88,
-   "d": 113.6,
+   "p": 4060.5,
+   "c": 3.05,
+   "d": 120.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.055,
-   "c": 4.98,
-   "d": 2.468,
+   "p": 52.245,
+   "c": 5.36,
+   "d": 2.658,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 95.14,
-   "c": -0.99,
-   "d": -0.95,
+   "p": 94.51,
+   "c": -1.64,
+   "d": -1.58,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 102.19,
-   "c": -1.36,
-   "d": -1.41,
+   "p": 101.38,
+   "c": -2.14,
+   "d": -2.22,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.409,
-   "c": -0.45,
-   "d": -0.461,
+   "p": 101.255,
+   "c": -0.6,
+   "d": -0.615,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.0171,
+   "p": 50.0188,
    "c": 0.06,
-   "d": 0.03,
+   "d": 0.031,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11537.73,
-   "c": 4.66,
-   "d": 514.13,
+   "p": 11519.78,
+   "c": 4.5,
+   "d": 496.18,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 78575,
-   "c": 2.03,
+   "p": 78192,
+   "c": 1.16,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2332.6,
-   "c": 3.11,
+   "p": 2316.0,
+   "c": 1.64,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 93.86,
-   "c": 1.61,
+   "p": 92.73,
+   "c": -0.25,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.29,
-   "c": 2.97,
+   "p": 1.28,
+   "c": -0.46,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 702.55,
-   "c": 0.85,
+   "p": 699.65,
+   "c": -0.04,
    "k": "usd"
   }
  ],
@@ -454,104 +454,110 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks and Bonds Rally, Dollar Falls After US Vote: Markets Wrap",
+    "tt": "Hisse Senetleri ve Tahviller ABD Oyu Sonrası Yükselişe Geçti, Dolar Düştü: Piyasalar Sarıldı",
+    "s": "A Democratic sweep of Congress rippled across global markets, with stocks rallying after President Donald Trump accepted the results while bond yields and the dollar fell on expectations of greater limits on his agenda.",
+    "ss": "Demokratların Kongre'deki hamlesi küresel piyasalara yayıldı; Başkan Donald Trump'ın sonuçları kabul etmesinin ardından hisse senetleri yükselirken, tahvil getirileri ve dolar, kendi gündeminde daha fazla sınırlama olacağı beklentileri üzerine düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793744422000,
+    "tags": []
+   },
+   {
+    "t": "European Bank Stocks Bounce Back as Midterms Ease Uncertainty",
+    "tt": "Avrupa Banka Hisseleri Ara Sınavların Belirsizliği Azalmasıyla Yükselişe Geçti",
+    "s": "Bank stocks led European markets higher as a landslide victory for Democrats in the US midterm elections removed some of the uncertainty that has weighed on stocks in recent weeks, while lower bond yields also provided a boost.",
+    "ss": "Banka hisseleri, Demokratların ABD ara seçimlerinde kazandığı ezici zaferin, son haftalarda hisse senetleri üzerinde baskı yaratan belirsizliğin bir kısmını ortadan kaldırmasıyla Avrupa piyasalarını yükselişe geçirirken, düşük tahvil getirileri de destek sağladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/european-bank-stocks-bounce-back-as-midterms-ease-uncertainty",
+    "ts": 1793795324000,
+    "tags": []
+   },
+   {
+    "t": "Ukraine Bonds Jump as Democrat Win Seen Helping Defense Efforts",
+    "tt": "Demokratların Zaferi Savunma Çabalarına Yardımcı Olduğunda Ukrayna Tahvilleri Yükseldi",
+    "s": "Ukraine’s dollar bonds jumped on a bet that a landslide victory by Democrats in US midterm elections will improve relations between Kyiv and Washington, helping the war-torn nation’s defense efforts.",
+    "ss": "Ukrayna'nın dolar tahvilleri, Demokratların ABD ara seçimlerinde ezici bir zafer kazanmasının Kiev ile Washington arasındaki ilişkileri iyileştireceği ve savaştan zarar gören ülkenin savunma çabalarına yardımcı olacağı iddiasıyla sıçradı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/ukraine-bonds-jump-as-democrat-win-seen-helping-defense-efforts",
+    "ts": 1793795048000,
+    "tags": []
+   },
+   {
+    "t": "Corn Extends Loss to Hit Four-Month Low on Supply, Peace Hopes",
+    "tt": "Mısır Arzında Kayıplarını Dört Ayın En Düşük Seviyesine Ulaştırıyor, Barış Umudu",
+    "s": "Chicago corn extended losses, hitting its lowest level in four months as prospects of ample US supply and optimism about peace in the Black Sea region weighed on prices.",
+    "ss": "Chicago mısırı, ABD'de bol arz beklentisi ve Karadeniz bölgesinde barışa ilişkin iyimserliğin fiyatlar üzerinde baskı oluşturmasıyla dört ayın en düşük seviyesine ulaşarak kayıplarını artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/corn-extends-loss-to-hit-four-month-low-on-supply-peace-hopes",
+    "ts": 1793765770000,
+    "tags": []
+   },
+   {
+    "t": "Gold Surges Above $4,000 as Dollar, Yields Fall on Democrat Win",
+    "tt": "Altın Dolar Olarak 4.000 Doların Üzerine Çıktı, Demokratların Zaferiyle Getiriler Düştü",
+    "s": "Gold surged above $4,000 an ounce after Democrats swept the US midterm election, a result that could constrain President Donald Trump’s fiscal agenda.",
+    "ss": "Altın, Demokratların ABD ara seçimlerini kazanmasının ardından ons başına 4.000 doların üzerine çıktı; bu sonuç, Başkan Donald Trump'ın mali gündemini kısıtlayabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms",
+    "ts": 1793751877000,
+    "tags": [
+     "DXY ▼",
+     "Altın ▲",
+     "Gümüş ▲",
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Democrats Win in Landslide, US Stock Futures Rebound",
+    "tt": "Demokratlar Heyelanla Kazandı, ABD Hisse Senedi Vadeli İşlemleri Yükseldi",
+    "s": "A Democratic sweep of Congress rippled across global markets, with stocks fluctuating while the dollar fell and Treasuries gained on bets the outcome will put the brakes on President Donald Trump’s agenda. Futures for the S&amp;P 500 rose 0.2% while those for the Nasdaq 100 gained 0.3%. Both fell ea",
+    "ss": "Demokratların Kongre'deki hamlesi küresel piyasalarda dalgalandı; dolar düşerken hisse senetleri dalgalandı ve Hazine tahvilleri, sonucun Başkan Donald Trump'ın gündemini frenleyeceğine dair bahislerle kazandı. S&P 500 vadeli kontratları %0,2 yükselirken, Nasdaq 100 vadeli kontratları %0,3 yükseldi. İkisi de düştü",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-04/the-opening-trade-11-04-2026-video",
+    "ts": 1793793619000,
+    "tags": []
+   },
+   {
+    "t": "US Mortgage Rates Retreat for Third Week While Holding Above 7%",
+    "tt": "ABD Mortgage Faizleri Üçüncü Haftada da Geriledi, %7'nin Üzerinde Kaldı",
+    "s": "US mortgage rates fell for a third straight week, though a decline in purchase activity showed borrowing costs remain prohibitively high for many prospective buyers.",
+    "ss": "ABD mortgage faizleri art arda üçüncü haftada da düştü, ancak satın alma faaliyetlerindeki düşüş borçlanma maliyetlerinin pek çok potansiyel alıcı için fahiş derecede yüksek olduğunu gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/us-mortgage-rates-retreat-for-third-week-while-holding-above-7",
+    "ts": 1793793600000,
+    "tags": []
+   },
+   {
+    "t": "San Francisco’s BART Gets Lifeline as Voters Approve New Tax",
+    "tt": "Seçmenler Yeni Vergiyi Onaylarken San Francisco'daki BART Cankurtaran Halatı Aldı",
+    "s": "The struggling public-transit system in the San Francisco Bay Area received a financial lifeline Tuesday, with voters passing a proposed sales tax to fund the region’s trains, buses and ferries.",
+    "ss": "San Francisco Körfez Bölgesi'nde zor durumdaki toplu taşıma sistemi Salı günü, seçmenlerin bölgenin tren, otobüs ve feribotlarını finanse etmek için önerilen bir satış vergisini kabul etmesiyle finansal bir cankurtaran halatı aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/san-francisco-s-bart-gets-lifeline-as-voters-approve-new-tax",
+    "ts": 1793793508000,
+    "tags": []
+   },
+   {
     "t": "US Bonds Rise on Democrat Win With Focus Moving to Debt Plan",
-    "tt": null,
+    "tt": "ABD Tahvilleri Demokratların Zaferi ve Odakların Borç Planına Dönmesiyle Yükseldi",
     "s": "US Treasuries rallied as the Democrats swept to power in Congress, pointing to a political environment that may limit the Trump administration’s tax and spending plans.",
-    "ss": null,
+    "ss": "Demokratlar Kongre'de iktidara gelirken ABD Hazine tahvilleri toparlandı ve bu durum Trump yönetiminin vergi ve harcama planlarını sınırlayabilecek bir siyasi ortama işaret etti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
     "ts": 1793754049000,
     "tags": []
    },
    {
     "t": "Latest Oil Market News and Analysis for Nov. 4",
-    "tt": null,
+    "tt": "4 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
     "s": "Oil edged lower, extending a two-day decline as traders weighed signs of de-escalation from the US while results from key midterms elections rolled in.",
-    "ss": null,
+    "ss": "Petrol fiyatları, yatırımcıların ABD'den gelen gerilimin azaldığına dair işaretlere ağırlık vermesi ve önemli ara seçim sonuçlarının gelmesiyle iki günlük düşüşünü sürdürdü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
     "ts": 1793747284000,
-    "tags": []
-   },
-   {
-    "t": "European Defense Stocks Slide as Democrats’ Sweep Dents Optimism",
-    "tt": null,
-    "s": "European defense stocks slid as the Democrats’ landslide midterm-elections win dented expectations of a further ramp-up in US military spending.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/european-defense-stocks-slide-as-democrats-sweep-dents-optimism",
-    "ts": 1793791651000,
-    "tags": []
-   },
-   {
-    "t": "Stocks, Bonds Rally After US Vote as Dollar Falls: Markets Wrap",
-    "tt": null,
-    "s": "A Democratic sweep of Congress rippled across global markets, with stocks rallying after President Donald Trump accepted the result while bond yields and the dollar fell on expectations of greater limits on his agenda.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793744422000,
-    "tags": []
-   },
-   {
-    "t": "Stock Bulls Are Glad This Election Is Finally Over",
-    "tt": null,
-    "s": "Equities, bonds rally now that the political countours are clear.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-04/stock-bulls-are-glad-this-election-is-finally-over",
-    "ts": 1793791244000,
-    "tags": []
-   },
-   {
-    "t": "India Approves Plan to Absorb More Short-Term Military Recruits",
-    "tt": null,
-    "s": "India overhauled a short-term military recruitment plan by extending conscripts’ tenure and offering a path to permanent employment as border tensions with China and Pakistan continue to pressure the country’s defense establishment.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/india-approves-plan-to-absorb-more-short-term-military-recruits",
-    "ts": 1793791187000,
-    "tags": []
-   },
-   {
-    "t": "Copper Follows Stock Markets Higher as Democrats Sweep Congress",
-    "tt": null,
-    "s": "Copper climbed as stock markets turned higher and the dollar dropped after US midterm elections that saw the Democrats sweep Congress.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/copper-holds-losses-below-14-000-on-us-midterm-risks-to-stocks",
-    "ts": 1793760424000,
-    "tags": []
-   },
-   {
-    "t": "India Coffee Output to Miss Forecast After Below-Normal Rains",
-    "tt": null,
-    "s": "India’s coffee output is likely to fall short of an earlier forecast as below-normal rains during the four-month monsoon season took a toll on crops, according to the Coffee Board.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/india-coffee-output-to-miss-forecast-after-below-normal-rains",
-    "ts": 1793790382000,
-    "tags": []
-   },
-   {
-    "t": "Swiss Pharmaceutical Industry Loses Ground in Global Innovation Race",
-    "tt": null,
-    "s": "Innovation in Switzerland’s pharmaceutical industry has fallen for the second year in a row, a new study shows, underscoring how it is trailing foreign competitors in digital research and clinical trials.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/swiss-pharmaceutical-industry-loses-ground-in-global-innovation-race",
-    "ts": 1793790000000,
-    "tags": []
-   },
-   {
-    "t": "Asia Stocks Erase Early Losses as AI Worries Subside",
-    "tt": null,
-    "s": "Asian stocks recovered almost all early losses Wednesday as concerns surrounding the global artificial intelligence trade eased.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/asian-stocks-fall-as-democratic-gains-in-us-add-to-ai-worries",
-    "ts": 1793764379000,
     "tags": []
    }
   ],
   "CNBC": [
    {
-    "t": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "t": "Treasury yields fall after Democrats win House and Senate majorities",
     "tt": "Seçim hisselerindeki satışların ortasında yatırımcılar güvenlik için tahvillere yönelirken hazine getirileri düşüyor",
-    "s": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+    "s": "Treasury yields moved lower on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
     "ss": "Hazine getirileri Salı gecesi, yatırımcıların ABD ara seçimlerinde Demokratların kazandığı büyük zaferlerin yol açtığı hisse senedi vadeli kontratlarındaki satışlardan korunmak için sığınma aramasıyla düştü.",
     "u": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "ts": 1793786520000,
+    "ts": 1793795125000,
     "tags": [
      "DXY ▼",
      "Altın ▲",
@@ -647,46 +653,73 @@
   ],
   "MarketWatch": [
    {
+    "t": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
+    "tt": "Ara seçimler 'mavi dalga' yaratıyor. Borsa yeşil görünüyor.",
+    "s": "Wall Street finds reasons to cheer the Democrats’ sweep. Plus: Microsoft’s AI-era buyouts and a retiree’s appetite for a “free lunch.”",
+    "ss": "Wall Street Demokratların zaferini neşelendirecek nedenler buluyor. Artı: Microsoft'un yapay zeka dönemi satın almaları ve bir emeklinin \"bedava öğle yemeği\" iştahı.",
+    "u": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+    "ts": 1793795220000,
+    "tags": []
+   },
+   {
+    "t": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
+    "tt": "CVS Health ikiye bölünmeyi planlıyor. İşte sağlık hizmetlerindeki büyük çöküşe neden olan şey.",
+    "s": "The healthcare giant surprised analysts with the decision to separate its business.",
+    "ss": "Sağlık devi, işini ayırma kararıyla analistleri şaşırttı.",
+    "u": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
+    "ts": 1793794860000,
+    "tags": []
+   },
+   {
+    "t": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+    "tt": "'Yaşlı olmak güzel': Yıllık gelir satış konuşmalarına dönüşen bir düzine bedava yemeğe davet edildim. Gitmeyi bırakmalı mıyım?",
+    "s": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
+    "ss": "\"Satış görevlileri genellikle yıllık gelirleri, Medicare planlarını ve emlak planlama hizmetlerini öne çıkarıyor.\"",
+    "u": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+    "ts": 1793794560000,
+    "tags": []
+   },
+   {
     "t": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
-    "tt": null,
+    "tt": "Yapay zeka ticareti \"ölümüne satıldı\" ancak Goldman stratejisti Demokratların süpürülmesinin olumlu yanlarına dikkat çekti",
     "s": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
-    "ss": null,
+    "ss": "Kurumsal karar vericiler, 2029'da yeni yönetimi ve farklı kuralları riske atmak yerine bilgi işlem kapasitesini genişletme planlarını hızlandırmaya ve mevcut durumdan yararlanmaya karar verebilirler.",
     "u": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
     "ts": 1793790600000,
     "tags": []
    },
    {
     "t": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-    "tt": null,
+    "tt": "'Hayatım kısa kesilebilir': 55 yaşındayım, 4,3 milyon dolarla evliyim ve beyin tümörüm var. 210.000 dolarlık özel bir Porsche almalı mıyım?",
     "s": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-    "ss": null,
+    "ss": "\"Ben de iki oğluma anlamlı bir miras bırakma fırsatını korumak istiyorum.\"",
     "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
     "ts": 1793787300000,
     "tags": []
    },
    {
     "t": "L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million",
-    "tt": null,
+    "tt": "Bir zamanlar Mike Tyson'ın eski eşi aktris Robin Givens'e ait olan Los Angeles'taki ev 3,5 milyon dolara satışa çıkıyor",
     "s": "Actress Robin Givens’ former Hollywood Hills, Calif., home is ready for a new buyer, having just hit the market for $3.5 million.",
-    "ss": null,
+    "ss": "Aktris Robin Givens'in eski Hollywood Hills, Kaliforniya'daki evi, piyasaya 3,5 milyon dolara yeni çıkmış olan yeni bir alıcıya hazır.",
     "u": "https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories",
     "ts": 1793786580000,
     "tags": []
    },
    {
     "t": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
-    "tt": null,
+    "tt": "Jordyn Woods, 14 milyon dolarlık ev satın aldıktan sonra Karl-Anthony Towns'la bebek planlarını anlatıyor",
     "s": "TV personality Jordyn Woods hopes children are in her future with husband Karl-Anthony Towns, but the newlywed is taking her time before starting that chapter.",
-    "ss": null,
+    "ss": "TV yıldızı Jordyn Woods, gelecekte çocuklarının kocası Karl-Anthony Towns'la birlikte olmasını umuyor ancak yeni evli, bu bölüme başlamadan önce acele etmiyor.",
     "u": "https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories",
     "ts": 1793786280000,
     "tags": []
    },
    {
     "t": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
-    "tt": null,
-    "s": "Novo Nordisk stock jumped higher on Wednesday as the Danish drugmaker lifted its guidance on strong uptake of its weight-loss drug pill that has been launched this year.",
-    "ss": null,
+    "tt": "Kuşatılmış Novo, Wegovy hapı sayesinde yatırımcılara rahatlama sunuyor",
+    "s": "Novo Nordisk’s stock jumped higher on Wednesday as the Danish drugmaker lifted its guidance on strong uptake of its weight-loss-drug pill that has been launched this year.",
+    "ss": "Novo Nordisk'in hisseleri, Danimarkalı ilaç üreticisinin bu yıl piyasaya sürdüğü kilo verme ilacı hapının güçlü alımına ilişkin rehberliğini kaldırmasıyla Çarşamba günü yükselişe geçti.",
     "u": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
     "ts": 1793785260000,
     "tags": []
@@ -708,106 +741,52 @@
     "u": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
     "ts": 1793773620000,
     "tags": []
-   },
-   {
-    "t": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-    "tt": "Kazançlar yapay zeka sunucularına olan talebin arttığını gösterirken Super Micro'nun hisseleri yükseliyor",
-    "s": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
-    "ss": "CFO Mark Long, MarketWatch'a Super Micro'nun gelir artışını hızlandıran \"yüksek kaliteli bir müşteri tabanı\" oluşturduğunu söyledi.",
-    "u": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-    "ts": 1793754720000,
-    "tags": []
-   },
-   {
-    "t": "What analysts are telling us while Apple’s stock falls after earnings report",
-    "tt": "Kar raporunun ardından Apple'ın hisseleri düşerken analistler bize neler söylüyor?",
-    "s": "Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue growth.",
-    "ss": "Apple'ın hisseleri, yatırımcıların şirketin brüt kar görünümü ve hizmet gelirlerindeki yavaşlama nedeniyle hayal kırıklığına uğramasının ardından Salı günü yaklaşık %2 değer kaybetti.",
-    "u": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-    "ts": 1793746080000,
-    "tags": []
-   },
-   {
-    "t": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-    "tt": "Shopify'ın hisseleri kazançların ardından düşüşe geçti. Wall Street'i endişelendiren de bu.",
-    "s": "The company missed revenue expectations, a tough outcome in today’s less-forgiving tech market.",
-    "ss": "Şirket, günümüzün daha az affedici teknoloji pazarında zor bir sonuç olan gelir beklentilerini kaçırdı.",
-    "u": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-    "ts": 1793745900000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Belarus's Lukashenko Says Trump Is Keeping Europe From World War III... And Wants Him Given The Nobel",
+    "tt": "Belaruslu Lukaşenko, Trump'ın Avrupa'yı Üçüncü Dünya Savaşı'ndan koruduğunu ve kendisine Nobel Ödülü verilmesini istediğini söyledi",
+    "s": "Belarus's Lukashenko Says Trump Is Keeping Europe From World War III... And Wants Him Given The Nobel Authored by Victoria Friedman via The Epoch Times , President Donald Trump's interventions are helping to keep the Russia - Ukraine war from descending into global conflict , Belarusian President Al",
+    "ss": "Belarus Devlet Başkanı Lukashenko, Trump'ın Avrupa'yı 3. Dünya Savaşından Koruduğunu Söyledi... Ve Kendisine Nobel Verilmesini İstiyor Victoria Friedman tarafından The Epoch Times aracılığıyla yazılan, Başkan Donald Trump'ın müdahaleleri, Rusya-Ukrayna savaşının küresel bir çatışmaya dönüşmesini engellemeye yardımcı oluyor, Belarus Cumhurbaşkanı Al",
+    "u": "https://www.zerohedge.com/geopolitical/belaruss-lukashenko-says-trump-keeping-europe-world-war-iii-and-wants-him-given-nobel",
+    "ts": 1793795700000,
+    "tags": []
+   },
+   {
+    "t": "Polar Vortex Threatens Europe As One Cold Blast Could Wipe Out October's Gas Storage Gains",
+    "tt": "Polar Vortex, Tek Bir Soğuk Patlamanın Ekim Ayındaki Gaz Depolama Kazanımlarını Söndürebileceğinden Avrupa'yı Tehdit Ediyor",
+    "s": "Polar Vortex Threatens Europe As One Cold Blast Could Wipe Out October's Gas Storage Gains The European Center for Medium-Range Weather Forecasts shows signs of an early disruption of the Arctic polar vortex that could send cold air into Northwest Europe as the energy-stricken continent faces a very",
+    "ss": "Kutup Girdabı Avrupa'yı Tehdit Ediyor, Tek Bir Soğuk Patlama Ekim Ayındaki Gaz Depolama Kazanımlarını Söndürebilir Avrupa Orta Vadeli Hava Tahminleri Merkezi, Kuzey Kutbu kutup girdabında erken bir bozulmanın işaretlerini gösteriyor; bu, enerjiden etkilenen kıta çok büyük bir tehlikeyle karşı karşıyayken, Kuzeybatı Avrupa'ya soğuk hava gönderebilir.",
+    "u": "https://www.zerohedge.com/energy/polar-vortex-threatens-europe-one-cold-blast-could-wipe-out-octobers-gas-storage-gains",
+    "ts": 1793794200000,
+    "tags": []
+   },
+   {
+    "t": "Texas Turns Blue, Futures Turn Green: Why Wall Street Bought The Biggest Democrat Wave Since 1993",
+    "tt": "Teksas Maviye Dönüyor, Vadeli İşlemler Yeşile Dönüyor: Wall Street Neden 1993'ten Bu Yana En Büyük Demokrat Dalgasını Satın Aldı?",
+    "s": "Texas Turns Blue, Futures Turn Green: Why Wall Street Bought The Biggest Democrat Wave Since 1993 Last night, America's voters handed Trump the biggest midterm rebuke in a generation. Then, a few hours later, Wall Street shrugged it off. Nasdaq futures, which had crashed as much as 2.4% as the blue ",
+    "ss": "Teksas Maviye Dönüyor, Vadeli İşlemler Yeşile Dönüyor: Wall Street Neden 1993'ten Bu Yana En Büyük Demokrat Dalgasını Satın Aldı Dün gece, Amerikalı seçmenler Trump'a bir nesildeki en büyük ara dönem azarını verdi. Birkaç saat sonra Wall Street bunu umursamadı. Mavi kadar yüzde 2,4 oranında düşüş yaşayan Nasdaq vadeli işlemleri",
+    "u": "https://www.zerohedge.com/markets/texas-turns-blue-futures-turn-green-why-wall-street-bought-biggest-democrat-wave-1993",
+    "ts": 1793792700000,
+    "tags": []
+   },
+   {
+    "t": "Scott Galloway's Unhinged Tirade Against Elon Musk Takes A Very Dark Turn...",
+    "tt": "Scott Galloway'in Elon Musk'a Karşı Saçma sapan konuşması çok karanlık bir dönemece giriyor...",
+    "s": "Scott Galloway's Unhinged Tirade Against Elon Musk Takes A Very Dark Turn... Marketing professor and anti-MAGA podcaster Scott Galloway launched an unhinged attack on Elon Musk, branding the billionaire a \"traitor to the West\" before invoking the infamous Rosenberg espionage case , which ended with ",
+    "ss": "Scott Galloway'in Elon Musk'a Yönelik Mantıksız Tiradı Çok Karanlık Bir Dönüş Aldı... Pazarlama profesörü ve MAGA karşıtı podcast yayıncısı Scott Galloway, Elon Musk'a amansız bir saldırı başlattı ve milyarderi \"Batı'nın haini\" olarak damgaladı ve ardından kötü şöhretli Rosenberg casusluk davasını gündeme getirdi.",
+    "u": "https://www.zerohedge.com/political/scott-galloways-unhinged-tirade-against-elon-musk-takes-very-dark-turn",
+    "ts": 1793792100000,
+    "tags": []
+   },
+   {
     "t": "'Time Off' Requests Surge Ahead Of Grand Theft Auto VI Release",
-    "tt": null,
+    "tt": "Grand Theft Auto VI'nın Çıkışı Öncesinde \"Off Time\" Talepleri Arttı",
     "s": "'Time Off' Requests Surge Ahead Of Grand Theft Auto VI Release Grand Theft Auto VI's upcoming release is just over two weeks away, and for millions of gamers, November 19 is set to become an unofficial holiday. Personal finance publication Money cites new data from HR software company BambooHR showi",
-    "ss": null,
+    "ss": "Grand Theft Auto VI Çıkışı Öncesinde 'İzin Verme' Talepleri Artıyor Grand Theft Auto VI'nın yaklaşan çıkışına iki haftadan biraz daha uzun bir süre kaldı ve milyonlarca oyuncu için 19 Kasım resmi olmayan bir tatil olacak. Kişisel finans yayını Money, İK yazılım şirketi BambooHR showi'nin yeni verilerini aktarıyor",
     "u": "https://www.zerohedge.com/technology/time-requests-surge-ahead-grand-theft-auto-vi-release",
     "ts": 1793791800000,
-    "tags": []
-   },
-   {
-    "t": "The UK Is Fast-Tracking Permanent Residency For An Army Of Migrants",
-    "tt": null,
-    "s": "The UK Is Fast-Tracking Permanent Residency For An Army Of Migrants It's not quite citizenship, but it's close enough.&nbsp; The UK offers a number of loopholes or \"fast tracks\" to permanent residency for third world migrants, and one of those loopholes is \"Indefinite Leave to Remain\" (ILR), also kn",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/uk-fast-tracking-permanent-residency-army-migrants",
-    "ts": 1793787600000,
-    "tags": []
-   },
-   {
-    "t": "Africa Launches Its Own Oil Bank As Western Lenders Retreat",
-    "tt": null,
-    "s": "Africa Launches Its Own Oil Bank As Western Lenders Retreat Authored by Alex Kimani via OilPrice , Africa now has a bank built to finance the oil and gas projects Western banks and development lenders have dropped under their climate commitments. &nbsp; Afreximbank and the African Petroleum Producer",
-    "ss": null,
-    "u": "https://www.zerohedge.com/energy/africa-launches-its-own-oil-bank-western-lenders-retreat",
-    "ts": 1793785200000,
-    "tags": []
-   },
-   {
-    "t": "'Why Only Three Rapes In 10 Years?': Russell Brand's Lawyer Turns His Client's Promiscuity Into A Defense",
-    "tt": null,
-    "s": "'Why Only Three Rapes In 10 Years?': Russell Brand's Lawyer Turns His Client's Promiscuity Into A Defense Russell Brand's defense lawyer closed his case on Monday by turning the comedian's sex life into an argument for acquittal , asking jurors at Southwark Crown Court, \"Why is it that only three ra",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/why-only-three-rapes-10-years-russell-brands-lawyer-turns-his-clients-promiscuity-defense",
-    "ts": 1793782800000,
-    "tags": []
-   },
-   {
-    "t": "How Significant Is It That Three Polish Ambassadors Just Resigned In Protest Of Tusk's Coup?",
-    "tt": null,
-    "s": "How Significant Is It That Three Polish Ambassadors Just Resigned In Protest Of Tusk's Coup? Authored by Andrew Korybko via Andrew Korybko's Newsletter , They importantly provoked Sikorski into the faux pas of comparing Tusk's judicial coup to Poland's martial law period, which can turn even more Po",
-    "ss": null,
-    "u": "https://www.zerohedge.com/geopolitical/how-significant-it-three-polish-ambassadors-just-resigned-protest-tusks-coup",
-    "ts": 1793780400000,
-    "tags": []
-   },
-   {
-    "t": "Ukraine's \"Most Successful\" Missile Is Hitting Almost Nothing",
-    "tt": null,
-    "s": "Ukraine's \"Most Successful\" Missile Is Hitting Almost Nothing Ukraine's Flamingo cruise missile is missing roughly 85% of its targets . Manufactured by Fire Point, the FP-5 - advertised with a 3,000 km range and a 1,150 kg warhead - was hailed by Volodymyr Zelensky as Ukraine's \"most successful\" mis",
-    "ss": null,
-    "u": "https://www.zerohedge.com/military/ukraines-flamingo-missile-missing-its-targets-and-questions-about-who-profits-havent-gone",
-    "ts": 1793778000000,
-    "tags": []
-   },
-   {
-    "t": "Number Of 'Tolerated' Migrants In Germany Rises To Over 200,000",
-    "tt": null,
-    "s": "Number Of 'Tolerated' Migrants In Germany Rises To Over 200,000 Authored by Remix News Staff via Remix News , The number of migrants living in Germany under temporary tolerated status has risen again after several years of decline , reaching 200,601 at the end of September, according to government f",
-    "ss": null,
-    "u": "https://www.zerohedge.com/geopolitical/number-tolerated-migrants-germany-rises-over-200000",
-    "ts": 1793775600000,
-    "tags": []
-   },
-   {
-    "t": "Why Leftists Won't Let Us Live",
-    "tt": "Solcular Neden Yaşatmamıza İzin Vermiyor?",
-    "s": "Why Leftists Won't Let Us Live Authored by J.B. Shurk via American Thinker , Why must leftists conquer entire nations? Why do they get so angry at anyone who resists their ideology? Why can't they just build a new nation filled entirely with fellow leftists? It really shouldn't be this difficult for",
-    "ss": "Solcular Neden Yaşamamıza İzin Vermiyor Yazan: J.B. Shurk, American Thinker aracılığıyla, Solcular neden bütün ulusları fethetmek zorunda? Kendi ideolojilerine direnenlere neden bu kadar kızıyorlar? Neden tamamen solcu arkadaşlarla dolu yeni bir ulus inşa edemiyorlar? Gerçekten bu kadar zor olmamalı",
-    "u": "https://www.zerohedge.com/political/why-leftists-wont-let-us-live",
-    "ts": 1793766300000,
     "tags": []
    },
    {
@@ -816,20 +795,74 @@
     "s": "Trump Deflects Blame For Blue Wave: Dems Complete Election Sweep, Control Texas, El-Sayed Wins MI Aaaand it's gone... Blue Sweep Tsunami it is... 0630ET: Senate : 54D - 44R ~~ House : 228D - 139R ~~ Governor : 28D - 20R (Abbott lost TX) DEMOCRATS WIN CONTROL OF THE SENATE , Flip 7 States: NC (Tillis",
     "ss": "Demokratlar Ara Sınav Oranları Yükseldikçe Piyasa Kusuyor: Seçim Gecesi Sonuçlarını Burada Canlı İzleyin Ve böylece başlıyor... 1930ET: Senato : 35G - 31A ~~ Meclis : 8G - 2A ~~ Vali : 6G - 8R Bir hatırlatma olarak, Başkan Trump bu sabah TruthSocial'da şunu paylaştı: \"Ara dönem sonuçlarının sizden daha iyi olacağını düşünüyorum",
     "u": "https://www.zerohedge.com/political/seven-toss-ups-decoy-candidate-and-1am-finish-your-election-night-survival-guide",
-    "ts": 1793766000000,
+    "ts": 1793791800000,
     "tags": []
    },
    {
-    "t": "Israeli Intelligence Tells US That Iran Could Use Chemical Weapons",
-    "tt": "İsrail İstihbaratı ABD'ye İran'ın Kimyasal Silah Kullanabileceğini Söyledi",
-    "s": "Israeli Intelligence Tells US That Iran Could Use Chemical Weapons In something that sounds straight out of the Babylong Bee , the Israeli government has shared intelligence with the United States asserting that Iran is readying chemical weapons to use against adversaries . And all of this is being ",
-    "ss": "İsrail İstihbaratı ABD'ye İran'ın Kimyasal Silah Kullanabileceğini Söyledi Babylong Bee'den fırlamış gibi görünen bir iddiaya göre İsrail hükümeti ABD ile İran'ın düşmanlarına karşı kullanmak üzere kimyasal silah hazırladığına dair istihbarat paylaştı. Ve bunların hepsi oluyor",
-    "u": "https://www.zerohedge.com/geopolitical/israeli-intelligence-tells-us-iran-could-use-chemical-weapons",
-    "ts": 1793764800000,
+    "t": "The UK Is Fast-Tracking Permanent Residency For An Army Of Migrants",
+    "tt": "Birleşik Krallık, Bir Göçmen Ordusu İçin Daimi Oturma İzni Hızla Sürüyor",
+    "s": "The UK Is Fast-Tracking Permanent Residency For An Army Of Migrants It's not quite citizenship, but it's close enough.&nbsp; The UK offers a number of loopholes or \"fast tracks\" to permanent residency for third world migrants, and one of those loopholes is \"Indefinite Leave to Remain\" (ILR), also kn",
+    "ss": "Birleşik Krallık, Bir Göçmen Ordusu İçin Daimi Oturma İzni Hızlandırıyor Bu tam olarak vatandaşlık sayılmaz ama yeterince yakın.  Birleşik Krallık, üçüncü dünya göçmenleri için daimi ikamet için bir takım boşluklar veya \"hızlı yollar\" sunmaktadır ve bu boşluklardan biri de \"Süresiz Kalma İzni\"dir (ILR),",
+    "u": "https://www.zerohedge.com/political/uk-fast-tracking-permanent-residency-army-migrants",
+    "ts": 1793787600000,
+    "tags": []
+   },
+   {
+    "t": "Africa Launches Its Own Oil Bank As Western Lenders Retreat",
+    "tt": "Batılı Borç Verenler Geri Çekilirken Afrika Kendi Petrol Bankasını Kuruyor",
+    "s": "Africa Launches Its Own Oil Bank As Western Lenders Retreat Authored by Alex Kimani via OilPrice , Africa now has a bank built to finance the oil and gas projects Western banks and development lenders have dropped under their climate commitments. &nbsp; Afreximbank and the African Petroleum Producer",
+    "ss": "Batılı Borç Verenler Geri Çekilirken Afrika Kendi Petrol Bankasını Kuruyor OilPrice aracılığıyla Alex Kimani tarafından yazılan Afrika, artık Batılı bankaların ve kalkınma kredisi verenlerin iklim taahhütleri kapsamında bıraktıkları petrol ve gaz projelerini finanse etmek için inşa edilmiş bir bankaya sahip.   Afreximbank ve Afrika Petrol Üreticisi",
+    "u": "https://www.zerohedge.com/energy/africa-launches-its-own-oil-bank-western-lenders-retreat",
+    "ts": 1793785200000,
+    "tags": []
+   },
+   {
+    "t": "'Why Only Three Rapes In 10 Years?': Russell Brand's Lawyer Turns His Client's Promiscuity Into A Defense",
+    "tt": "'Neden 10 Yılda Sadece Üç Tecavüz?': Russell Brand'in Avukatı, Müvekkilinin Karışıklıklarını Savunmaya Dönüştürüyor",
+    "s": "'Why Only Three Rapes In 10 Years?': Russell Brand's Lawyer Turns His Client's Promiscuity Into A Defense Russell Brand's defense lawyer closed his case on Monday by turning the comedian's sex life into an argument for acquittal , asking jurors at Southwark Crown Court, \"Why is it that only three ra",
+    "ss": "'Neden 10 Yılda Sadece Üç Tecavüz?': Russell Brand'in Avukatı, Müvekkilinin Karışıklığını Savunmaya Dönüştürdü Russell Brand'in savunma avukatı, Pazartesi günü komedyenin seks hayatını beraat için bir argümana dönüştürerek davasını kapattı ve Southwark Kraliyet Mahkemesi'ndeki jüri üyelerine şunu sordu: \"Neden sadece üç tecavüz var?",
+    "u": "https://www.zerohedge.com/political/why-only-three-rapes-10-years-russell-brands-lawyer-turns-his-clients-promiscuity-defense",
+    "ts": 1793782800000,
+    "tags": []
+   },
+   {
+    "t": "How Significant Is It That Three Polish Ambassadors Just Resigned In Protest Of Tusk's Coup?",
+    "tt": "Üç Polonyalı Büyükelçinin Tusk'ın Darbesini Protesto Etmek İçin İstifa Etmesi Ne Kadar Önemli?",
+    "s": "How Significant Is It That Three Polish Ambassadors Just Resigned In Protest Of Tusk's Coup? Authored by Andrew Korybko via Andrew Korybko's Newsletter , They importantly provoked Sikorski into the faux pas of comparing Tusk's judicial coup to Poland's martial law period, which can turn even more Po",
+    "ss": "Üç Polonyalı Büyükelçinin Tusk'ın Darbesini Protesto Etmek İçin İstifa Etmesi Ne Kadar Önemli? Andrew Korybko tarafından Andrew Korybko'nun Haber Bülteni aracılığıyla yazılmıştır. Bunlar, Sikorski'yi, Tusk'ın yargı darbesini Polonya'nın sıkıyönetim dönemiyle karşılaştırma yanılgısına sokmaya önemli ölçüde kışkırttı; bu da Po'yu daha da fazla dönüştürebilir.",
+    "u": "https://www.zerohedge.com/geopolitical/how-significant-it-three-polish-ambassadors-just-resigned-protest-tusks-coup",
+    "ts": 1793780400000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Borsada kredili işlemlerde sert düşüş",
+    "tt": null,
+    "s": "Türkiye Sermaye Piyasaları Birliği'nin (TSPB) verilerine göre hisse senedi teminatlı kredi işlemlerinde fon gelişmelerinin etkili olduğu Ekim ayında Temmuz ayındaki zirvesine göre yüzde 38 hacim kaybı izlendi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/borsada-kredili-islemlerde-sert-dusus-3793472",
+    "ts": 1793794519000,
+    "tags": []
+   },
+   {
+    "t": "Lagarde: COP31 hedefleri eyleme dönüştürmek için büyük bir fırsat",
+    "tt": null,
+    "s": "Avrupa Merkez Bankası (AMB) Başkanı Christine Lagarde, Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) küresel hedefleri eyleme dönüştürmek adına kritik bir fırsat sunduğunu belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/lagarde-antalya-daki-cop31-zirvesi-buyuk-bir-firsat-3793471",
+    "ts": 1793793688000,
+    "tags": []
+   },
+   {
+    "t": "Fransız bankasına siber saldırı iddiası",
+    "tt": null,
+    "s": "Fransız bankası Credit Mutuel Arkea'nın siber saldırıyla 133 milyon doları aşan bir soygunun hedefi olduğu iddia edildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fransiz-bankasina-siber-saldiri-iddiasi-3793469",
+    "ts": 1793792846000,
+    "tags": []
+   },
    {
     "t": "TL'nin reel değeri altı yılın zirvesinde",
     "tt": null,
@@ -892,33 +925,6 @@
     "u": "https://www.bloomberght.com/penta-teknoloji-2026-nin-ilk-9-ayinda-28-milyar-tl-ciro-kaydetti-3793436",
     "ts": 1793782512000,
     "tags": []
-   },
-   {
-    "t": "THY'nin kârı yakıt baskısına rağmen beklentileri aştı",
-    "tt": null,
-    "s": "Türk Hava Yolları, 2026 yılının üçüncü çeyreğinde 1,3 milyar dolar net kâr açıklayarak 1,1 milyar dolarlık piyasa beklentisinin üzerinde bir performans sergiledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/thy-nin-kri-yakit-baskisina-ragmen-beklentileri-asti-3793435",
-    "ts": 1793782180000,
-    "tags": []
-   },
-   {
-    "t": "Takasbank'tan TP2 fonuyla ilgili açıklama",
-    "tt": null,
-    "s": "Takasbank, Tera'nın TP2 fonuyla herhangi bir borç ilişkisi bulunmadığını belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/takasbank-tan-tp2-fonuyla-ilgili-aciklama-3793434",
-    "ts": 1793781598000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar",
-    "tt": null,
-    "s": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-3793427",
-    "ts": 1793779306000,
-    "tags": []
    }
   ]
  },
@@ -934,7 +940,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
