@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T00:32:30.902224+00:00",
+ "generated": "2026-11-04T01:40:39.911212+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3946.1,
-   "c": -0.59,
-   "d": -23.5,
+   "p": 3964.4,
+   "c": -0.13,
+   "d": -5.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.805,
-   "c": -1.8,
-   "d": -0.915,
+   "p": 50.015,
+   "c": -1.39,
+   "d": -0.705,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 96.45,
-   "c": -0.01,
-   "d": -0.01,
+   "p": 96.01,
+   "c": -0.47,
+   "d": -0.45,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 104.16,
-   "c": -0.58,
-   "d": -0.61,
+   "p": 103.79,
+   "c": -0.94,
+   "d": -0.98,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.89,
-   "c": 0.14,
-   "d": 0.14,
+   "p": 101.366,
+   "c": -0.38,
+   "d": -0.384,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.0053,
+   "p": 50.0062,
    "c": 0.04,
-   "d": 0.018,
+   "d": 0.019,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 77153,
-   "c": 0.2,
+   "p": 76884,
+   "c": -0.25,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2266.18,
-   "c": 0.41,
+   "p": 2261.21,
+   "c": 0.21,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 92.03,
-   "c": -0.44,
+   "p": 91.86,
+   "c": -0.45,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.26,
-   "c": 0.93,
+   "p": 1.25,
+   "c": 0.08,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 694.58,
-   "c": -0.8,
+   "p": 692.51,
+   "c": -0.85,
    "k": "usd"
   }
  ],
@@ -454,21 +454,73 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Equity Futures Decline as Investors Await Midterm Results",
+    "t": "Stocks Slide With Dollar as Count Favors Democrats: Markets Wrap",
+    "tt": "Hisse Senedi Vadeli İşlemleri Erken Sayımın Demokratların Avantajına Olması Nedeniyle Kayıyor: Piyasalar İyileşiyor",
+    "s": "The growing prospect of a Democratic sweep of Congress rippled across global markets, sending US stock-index futures and the dollar lower while boosting Treasuries as early election returns threatened to put the brakes on President Donald Trump’s agenda.",
+    "ss": "ABD hisse senedi vadeli kontratları, ara seçimlerdeki ilk gerçek oy sayımları nedeniyle kazançlarını sildi ve dolar zayıfladı ve tahmin piyasaları Demokratların zaferine ilişkin artan bir beklentiye işaret etti; bu da Washington'da daha büyük bir çıkmaza girme ihtimali yaratabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793744422000,
+    "tags": [
+     "DXY ▼"
+    ]
+   },
+   {
+    "t": "Treasuries Rise as Traders React to Democrat Lead in First Votes",
+    "tt": "Yatırımcıların İlk Oylamalarda Demokratların Öne Çıkmasına Tepki Vermesiyle Hazine Tahvilleri Yükseldi",
+    "s": "Treasuries rallied ahead of the Treasury’s quarterly issuance plans, with traders reacting to the first vote counts from the midterm elections which favored the Democrats.",
+    "ss": "Hazine tahvilleri, Hazine'nin üç aylık tahvil ihraç planları öncesinde toparlanırken, yatırımcılar Demokratların lehine olan ara seçimlerdeki ilk oy sayılarına tepki gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+    "ts": 1793754049000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
     "tt": "Yatırımcılar Ara Dönem Sonuçlarını Beklerken ABD Hisse Senedi Vadeli İşlemleri Düştü",
-    "s": "US stock futures dropped as investors braced for the outcome of the midterm elections and assessed earnings results from technology stocks at the center of the artificial intelligence trade.",
+    "s": "US stock futures extended losses as early midterm vote counts pointed to a strong Democratic showing, raising worries over tighter regulatory scrutiny in sectors that have powered a bull market on Wall Street.",
     "ss": "Yatırımcıların ara seçim sonuçlarına hazırlanmaları ve yapay zeka ticaretinin merkezinde yer alan teknoloji hisselerinden elde edilen kazanç sonuçlarını değerlendirmeleri nedeniyle ABD hisse senedi vadeli işlemleri düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
     "ts": 1793750474000,
     "tags": []
    },
    {
-    "t": "Stock Futures Slip as Early Count Favors Democrats: Markets Wrap",
-    "tt": "Hisse Senedi Vadeli İşlemleri Erken Sayımın Demokratların Avantajına Olması Nedeniyle Kayıyor: Piyasalar İyileşiyor",
-    "s": "US equity futures erased gains and the dollar weakened as the first actual vote counts from the midterm elections, and prediction markets, indicated a rising prospect of a Democrat victory, which could create a greater chance of gridlock in Washington.",
-    "ss": "ABD hisse senedi vadeli kontratları, ara seçimlerdeki ilk gerçek oy sayımları nedeniyle kazançlarını sildi ve dolar zayıfladı ve tahmin piyasaları Demokratların zaferine ilişkin artan bir beklentiye işaret etti; bu da Washington'da daha büyük bir çıkmaza girme ihtimali yaratabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793744422000,
+    "t": "UOB Shares Tumble as Profit Misses Analysts’ Expectations",
+    "tt": "Düşük Ticaret Geliri Kazançları Azalttığından UOB Karları Tahminleri Tutmuyor",
+    "s": "United Overseas Bank Ltd. reported third-quarter profit that missed expectations, as a decline in trading and investment income combined with narrowing interest margin crimped gains from lending and fees. Shares fell.",
+    "ss": "United Overseas Bank Ltd., ticaret ve yatırım gelirindeki düşüşün kredi ve ücretlerden elde edilen kazançları azaltması nedeniyle üçüncü çeyrekte beklentileri karşılayan kar bildirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
+    "ts": 1793747657000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 4",
+    "tt": "4 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil climbed after a two-day decline as traders weighed conflicting signals on the trajectory of US-Iran peace talks.",
+    "ss": "Petrol fiyatları, tüccarların ABD-İran barış görüşmelerinin gidişatına ilişkin çelişkili sinyallere ağırlık vermesiyle iki günlük düşüşün ardından dalgalandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
+    "ts": 1793747284000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "India’s Middle Class Spending Boom Comes With Growing Debt Bill",
+    "tt": "Hindistan'ın Orta Sınıf Harcama Patlaması Artan Borç Faturasıyla Birlikte Geliyor",
+    "s": "When 25-year-old restaurant worker Navjot Singh wanted an iPhone he couldn’t afford on his monthly salary of 50,000 Indian rupees ($521), taking out a small loan made the purchase possible. A PlayStation and television set followed, along with loans for a wine and spirits course and a trip home.",
+    "ss": "25 yaşındaki restoran çalışanı Navjot Singh, aylık 50.000 Hindistan rupisi (521 $) maaşıyla karşılayamadığı bir iPhone istediğinde, küçük bir kredi alarak satın alma işlemini mümkün kıldı. Bunu bir PlayStation ve televizyon seti ile birlikte şarap ve alkollü içki kursu ve eve dönüş gezisi için krediler takip etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/india-s-middle-class-spending-boom-comes-with-growing-debt-bill",
+    "ts": 1793754000000,
+    "tags": []
+   },
+   {
+    "t": "Live: Two Sigma, Top Money Managers Speak at HK Investment Summit Day 2",
+    "tt": "Canlı: İki Sigma, Üst Düzey Para Yöneticileri HK Yatırım Zirvesi'nin 2. Gününde Konuşuyor",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/live-blog/2026-11-04/hkma-investment-summit-day-2",
+    "ts": 1793751983000,
     "tags": []
    },
    {
@@ -483,15 +535,6 @@
     ]
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 4",
-    "tt": "4 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil fluctuated after a two-day decline as traders weighed conflicting signals on the trajectory of US-Iran peace talks.",
-    "ss": "Petrol fiyatları, tüccarların ABD-İran barış görüşmelerinin gidişatına ilişkin çelişkili sinyallere ağırlık vermesiyle iki günlük düşüşün ardından dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
-    "ts": 1793747284000,
-    "tags": []
-   },
-   {
     "t": "AMLO’s Son Denies Graft Charges Ahead of Mexico Congress Run",
     "tt": "AMLO'nun Oğlu, Meksika Kongre Koşusu Öncesinde Aşılama Suçlamalarını Reddetti",
     "s": "Andrés Manuel López Beltrán, son of Mexico’s former president and a member of the ruling party, denied corruption allegations that threaten his run for Congress next year.",
@@ -501,48 +544,12 @@
     "tags": []
    },
    {
-    "t": "UOB Profits Miss Estimates as Lower Trading Income Dampens Gains",
-    "tt": "Düşük Ticaret Geliri Kazançları Azalttığından UOB Karları Tahminleri Tutmuyor",
-    "s": "United Overseas Bank Ltd. reported third-quarter profit that missed expectations, as a decline in trading and investment income dampened gains from lending and fees.",
-    "ss": "United Overseas Bank Ltd., ticaret ve yatırım gelirindeki düşüşün kredi ve ücretlerden elde edilen kazançları azaltması nedeniyle üçüncü çeyrekte beklentileri karşılayan kar bildirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
-    "ts": 1793747657000,
-    "tags": []
-   },
-   {
     "t": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008",
     "tt": "Hong Kong'da Anlaşma Patlaması, 2008'den Bu Yana Çoğu Halka Arzın İptal Edilmesiyle Yavaşladı",
     "s": "Hong Kong’s two-year fundraising boom is slowing, with the rate of abandoned stock listings spiking to the highest since the global financial crisis.",
     "ss": "Hong Kong'un iki yıldır bağış toplama patlaması yavaşlıyor ve borsa listelemelerinden vazgeçilenlerin oranı küresel mali krizden bu yana en yüksek seviyeye çıkıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/hong-kong-deal-boom-slows-with-most-ipos-abandoned-since-2008",
     "ts": 1793746800000,
-    "tags": []
-   },
-   {
-    "t": "New Zealand Jobless Rises to 11-Year High as Election Looms",
-    "tt": "Yeni Zelanda'da Seçim Yaklaşırken İşsizlik Son 11 Yılın En Yüksek Seviyesine Yükseldi",
-    "s": "New Zealand’s jobless rate unexpectedly increased to a fresh 11-year high in the third quarter, adding to pressure on the government just three days from an election.",
-    "ss": "Yeni Zelanda'nın işsizlik oranı üçüncü çeyrekte beklenmedik bir şekilde son 11 yılın en yüksek seviyesine çıktı ve seçime sadece üç gün kala hükümet üzerindeki baskıyı artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/new-zealand-jobless-rises-to-11-year-high-as-election-looms",
-    "ts": 1793742639000,
-    "tags": []
-   },
-   {
-    "t": "Dorsey’s Block Details Bigger DOJ Settlement, Sunnier Guide",
-    "tt": "Dorsey'in Blok Detayları Daha Büyük DOJ Yerleşimi, Sunnier Kılavuzu",
-    "s": "Block Inc. inched past Wall Street’s profit expectations on Tuesday and outlined a bigger potential settlement with the US Department of Justice for alleged customer abuses, as Jack Dorsey revamps his payments empire to make it more profitable and relevant.",
-    "ss": "Block Inc. Salı günü Wall Street'in kar beklentilerini aştı ve Jack Dorsey ödeme imparatorluğunu daha karlı ve alakalı hale getirmek için yenilerken, müşteri suiistimalleri iddiaları için ABD Adalet Bakanlığı ile daha büyük bir potansiyel anlaşmanın ana hatlarını çizdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/jack-dorsey-s-block-modestly-beats-third-quarter-expectations",
-    "ts": 1793740803000,
-    "tags": []
-   },
-   {
-    "t": "Bedrock CEO on Future of Detroit Real Estate",
-    "tt": "Bedrock CEO'su Detroit Real Estate'in Geleceği",
-    "s": "Bedrock CEO Jared Fleisher discussed Detroit’s redevelopment, pointing to Dan Gilbert’s investment in restoring and filling 140 buildings across Detroit and Cleveland, totaling more than 21 million square feet. Fleisher highlighted the Hudson’s site, where a new tower is rising on the former departm",
-    "ss": "Bedrock CEO'su Jared Fleisher, Dan Gilbert'in Detroit ve Cleveland'da toplamda 21 milyon metrekareden fazla alana sahip 140 binanın restorasyonu ve doldurulması için yaptığı yatırıma işaret ederek Detroit'in yeniden geliştirilmesinden bahsetti. Fleisher, eski departmanın üzerinde yeni bir kulenin yükseldiği Hudson bölgesini vurguladı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-03/bedrock-ceo-on-future-of-detroit-real-estate-video",
-    "ts": 1793744373000,
     "tags": []
    }
   ],
@@ -648,7 +655,16 @@
     "s": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
     "ss": "Çip üreticisi yapay zekadan “gerçek” gelir elde ettiğini gösteriyor, sürdürülebilirlik endişelerini göz ardı ediyor ve iyimser bir tahmine yol açıyor.",
     "u": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-    "ts": 1793751420000,
+    "ts": 1793754960000,
+    "tags": []
+   },
+   {
+    "t": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+    "tt": "Kazançlar yapay zeka sunucularına olan talebin arttığını gösterirken Super Micro'nun hisseleri yükseliyor",
+    "s": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
+    "ss": "CFO Mark Long, MarketWatch'a Super Micro'nun gelir artışını hızlandıran \"yüksek kaliteli bir müşteri tabanı\" oluşturduğunu söyledi.",
+    "u": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+    "ts": 1793754720000,
     "tags": []
    },
    {
@@ -697,15 +713,6 @@
     "tags": []
    },
    {
-    "t": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-    "tt": "Kazançlar yapay zeka sunucularına olan talebin arttığını gösterirken Super Micro'nun hisseleri yükseliyor",
-    "s": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
-    "ss": "CFO Mark Long, MarketWatch'a Super Micro'nun gelir artışını hızlandıran \"yüksek kaliteli bir müşteri tabanı\" oluşturduğunu söyledi.",
-    "u": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-    "ts": 1793740380000,
-    "tags": []
-   },
-   {
     "t": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
     "tt": "Anthropic'in halka arzı Büyük Teknoloji için yüksek riskli bir referandumdur ve bu grafik bunu kanıtlıyor",
     "s": "Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.",
@@ -734,6 +741,48 @@
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Political Betting Slumps On Prediction Markets As Crypto And Sports Boom",
+    "tt": "Kripto ve Spor Patlamasıyla Tahmin Piyasalarında Siyasi Bahisler Düşüyor",
+    "s": "Political Betting Slumps On Prediction Markets As Crypto And Sports Boom Americans head to the voting booths today with Democrats favored to take control of both the House and Senate according to mainstream polls and prediction markets. Attention has shifted to prediction markets, where the implied ",
+    "ss": "Kripto ve Spor Patlamasıyla Siyasi Bahisler Tahmin Piyasalarında Çöküyor Amerikalılar bugün oylama kabinlerine gidiyor ve ana akım anketlere ve tahmin piyasalarına göre Demokratlar hem Temsilciler Meclisi hem de Senato'nun kontrolünü ele geçirmeyi tercih ediyor. Dikkatler, ima edilen tahmin piyasalarına çevrildi.",
+    "u": "https://www.zerohedge.com/political/political-betting-slumps-prediction-markets-crypto-and-sports-boom",
+    "ts": 1793755800000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "New Jersey Governor Bans \"Illegal Russian Fuel\" Inbound To Ports",
+    "tt": "New Jersey Valisi, Limanlara Gelen \"Yasadışı Rus Yakıtını\" Yasakladı",
+    "s": "New Jersey Governor Bans \"Illegal Russian Fuel\" Inbound To Ports New Jersey Democratic Governor Mikie Sherrill warned port and terminal operators in the state against \"purchasing or unloading the illegal Russian fuel currently bound for the east coast of the United States .\"&nbsp; Sherrill's move th",
+    "ss": "New Jersey Valisi, Limanlara Gelen \"Yasadışı Rus Yakıtını\" Yasakladı New Jersey Demokrat Valisi Mikie Sherrill, eyaletteki liman ve terminal operatörlerini \"şu anda Amerika Birleşik Devletleri'nin doğu kıyısına giden yasadışı Rus yakıtının satın alınmasına veya boşaltılmasına\" karşı uyardı.  Sherrill'in hamlesi",
+    "u": "https://www.zerohedge.com/political/ny-governor-bans-illegal-russian-fuel-inbound-ports",
+    "ts": 1793754300000,
+    "tags": []
+   },
+   {
+    "t": "Tech/Crypto Tank As Dem Midterms Sweep Odds Soar: Watch Election Night Results Live Here",
+    "tt": "Ara Sınav Oranları Yükselirken Piyasa Kusuyor: Seçim Gecesi Sonuçlarını Buradan Canlı İzleyin",
+    "s": "Tech/Crypto Tank As Dem Midterms Sweep Odds Soar: Watch Election Night Results Live Here And so it begins... 2040ET: Senate : 43D - 32R ~~ House : 42D - 18R ~~ Governor : 11D - 8R As a reminder, President Trump posted on his TruthSocial this morning that \"I think Midterm results will be better than ",
+    "ss": "Demokratlar Ara Sınav Oranları Yükseldikçe Piyasa Kusuyor: Seçim Gecesi Sonuçlarını Burada Canlı İzleyin Ve böylece başlıyor... 1930ET: Senato : 35G - 31A ~~ Meclis : 8G - 2A ~~ Vali : 6G - 8R Bir hatırlatma olarak, Başkan Trump bu sabah TruthSocial'da şunu paylaştı: \"Ara dönem sonuçlarının sizden daha iyi olacağını düşünüyorum",
+    "u": "https://www.zerohedge.com/political/seven-toss-ups-decoy-candidate-and-1am-finish-your-election-night-survival-guide",
+    "ts": 1793754300000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Scott Galloway's Unhinged Tirade Against Elon Musk Takes A Very Dark Turn...",
+    "tt": "Scott Galloway'in Elon Musk'a Karşı Mantıksız Konuşması Çok Karanlık Bir Dönüşe Geçiyor...",
+    "s": "Scott Galloway's Unhinged Tirade Against Elon Musk Takes A Very Dark Turn... Marketing professor and anti-MAGA podcaster Scott Galloway launched an unhinged attack on Elon Musk, branding the billionaire a \"traitor to the West\" before invoking the infamous Rosenberg espionage case , which ended with ",
+    "ss": "Scott Galloway'in Elon Musk'a Yönelik Mantıksız Tiradı Çok Karanlık Bir Dönüş Aldı... Pazarlama profesörü ve MAGA karşıtı podcast yayıncısı Scott Galloway, Elon Musk'a amansız bir saldırı başlattı ve milyarderi \"Batı'nın haini\" olarak damgaladı ve ardından kötü şöhretli Rosenberg casusluk davasını gündeme getirdi.",
+    "u": "https://www.zerohedge.com/political/scott-galloways-unhinged-tirade-against-elon-musk-takes-very-dark-turn",
+    "ts": 1793752800000,
+    "tags": []
+   },
    {
     "t": "Korybko: Washington's Claims Of Canadian Meddling Are Interesting & Ironic",
     "tt": "Korybko: Washington'un Kanada'nın müdahalesine ilişkin iddiaları ilginç ve ironik",
@@ -786,42 +835,6 @@
     "ss": "Gençler Amerika'nın Demokratik Sosyalistlerini Anlıyor mu? The Epoch Times aracılığıyla Christian Milord tarafından yazılan anketler, 20'li ve 30'lu yaşlarındaki birçok gencin Amerika'nın Demokratik Sosyalistlerini (DSA) desteklediğini gösteriyor. Bazı anketler bu demografik grupta yer alan kişilerin yüzde 40'ından fazlasının böyle düşündüğünü tahmin ediyor.",
     "u": "https://www.zerohedge.com/political/do-young-people-understand-democratic-socialists-america",
     "ts": 1793744400000,
-    "tags": []
-   },
-   {
-    "t": "Market Pukes As Dem Midterms Sweep Odds Soar: Watch Election Night Results Live Here",
-    "tt": "Ara Sınav Oranları Yükselirken Piyasa Kusuyor: Seçim Gecesi Sonuçlarını Buradan Canlı İzleyin",
-    "s": "Market Pukes As Dem Midterms Sweep Odds Soar: Watch Election Night Results Live Here And so it begins... 1930ET: Senate : 35D - 31R ~~ House : 8D - 2R ~~ Governor : 6D - 8R As a reminder, President Trump posted on his TruthSocial this morning that \"I think Midterm results will be better than you thi",
-    "ss": "Demokratlar Ara Sınav Oranları Yükseldikçe Piyasa Kusuyor: Seçim Gecesi Sonuçlarını Burada Canlı İzleyin Ve böylece başlıyor... 1930ET: Senato : 35G - 31A ~~ Meclis : 8G - 2A ~~ Vali : 6G - 8R Bir hatırlatma olarak, Başkan Trump bu sabah TruthSocial'da şunu paylaştı: \"Ara dönem sonuçlarının sizden daha iyi olacağını düşünüyorum",
-    "u": "https://www.zerohedge.com/political/seven-toss-ups-decoy-candidate-and-1am-finish-your-election-night-survival-guide",
-    "ts": 1793744400000,
-    "tags": []
-   },
-   {
-    "t": "Haley Stevens Gave Democrat Voters 'Permission To Change Their Minds' And Vote For Mike Rogers",
-    "tt": "Haley Stevens, Demokrat Seçmenlere 'Fikrini Değiştirme ve Mike Rogers'a Oy Verme İzni' Verdi",
-    "s": "Haley Stevens Gave Democrat Voters 'Permission To Change Their Minds' And Vote For Mike Rogers Rep. Haley Stevens (D-MI) dropped a bombshell endorsement on Sunday, switching her support from Democratic nominee Abdul El-Sayed to Republican Mike Rogers in Michigan's U.S. Senate race a mere two days be",
-    "ss": "Haley Stevens, Demokrat Seçmenlere \"Fikirlerini Değiştirme\" ve Mike Rogers'a Oy Verme İzni Verdi Temsilci Haley Stevens (D-MI), Pazar günü bomba gibi bir destek vererek, yalnızca iki gün sonra yapılan Michigan ABD Senatosu yarışında desteğini Demokrat aday Abdul El-Sayed'den Cumhuriyetçi Mike Rogers'a kaydırdı.",
-    "u": "https://www.zerohedge.com/political/haley-stevens-gave-democrat-voters-permission-change-their-minds-and-vote-mike-rogers",
-    "ts": 1793743500000,
-    "tags": []
-   },
-   {
-    "t": "Mysterious Group Plots To Mass-Dox America's Billionaires, Teases First Targets",
-    "tt": "Gizemli Grup, Mass-Dox Amerika'nın Milyarderlerine Yönelik Planlar Yapıyor, İlk Hedeflerini Belirliyor",
-    "s": "Mysterious Group Plots To Mass-Dox America's Billionaires, Teases First Targets A shadowy international group calling itself The Capytistas is preparing to expose the private homes of some of America's wealthiest individuals in a new campaign, according to a dossier viewed by WIRED . Trillionaire an",
-    "ss": "Gizemli Grup, Amerika'nın Milyarderlerine Kitlesel Planlar Kuruyor, İlk Hedeflerini Aldırıyor WIRED tarafından görüntülenen bir dosyaya göre, kendisine Capytistas adını veren şaibeli bir uluslararası grup, yeni bir kampanyayla Amerika'nın en zengin bireylerinden bazılarının özel evlerini ifşa etmeye hazırlanıyor. Trilyoner ve",
-    "u": "https://www.zerohedge.com/political/mysterious-group-plots-mass-dox-americas-billionaires-teases-first-targets",
-    "ts": 1793742600000,
-    "tags": []
-   },
-   {
-    "t": "AMD Soars After Blowout $17 Billion Guide... As Free Cash Flow Quietly Shrinks To 4% Of Revenue",
-    "tt": "AMD, Patlamanın Ardından 17 Milyar Dolarlık Kılavuza Yükseliyor... Serbest Nakit Akışı Sessizce Gelirin %4'üne Küçülürken",
-    "s": "AMD Soars After Blowout $17 Billion Guide... As Free Cash Flow Quietly Shrinks To 4% Of Revenue Three months ago, AMD beat on every line and the stock crashed anyway. Tonight, the market got the number it wanted. After a brutal month in which AMD shares lost more than a quarter of their value, pumme",
-    "ss": "AMD Patlamanın Ardından Yükseliyor 17 Milyar Dolarlık Kılavuz... Serbest Nakit Akışı Sessizce Gelirin %4'üne Küçülürken Üç ay önce AMD her alanda yendi ve hisse senedi yine de çöktü. Bu akşam piyasa istediği rakamı yakaladı. AMD hisselerinin değerinin dörtte birinden fazlasını kaybettiği acımasız bir ayın ardından, pumme",
-    "u": "https://www.zerohedge.com/markets/amd-soars-after-blowout-17-billion-guide-free-cash-flow-quietly-shrinks-4-revenue",
-    "ts": 1793742000000,
     "tags": []
    }
   ],
