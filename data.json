@@ -1,79 +1,79 @@
 {
- "generated": "2026-11-04T17:41:28.307433+00:00",
+ "generated": "2026-11-04T18:42:01.390177+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7705.11,
-   "c": 1.8,
-   "d": 136.19,
+   "p": 7699.13,
+   "c": 1.72,
+   "d": 130.21,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25884.398,
-   "c": 2.02,
-   "d": 512.388,
+   "p": 25840.822,
+   "c": 1.85,
+   "d": 468.812,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 53275.92,
-   "c": 2.88,
-   "d": 1489.201,
+   "p": 53290.58,
+   "c": 2.9,
+   "d": 1503.861,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.08,
-   "c": -18.0,
-   "d": -3.75,
+   "p": 16.91,
+   "c": -18.82,
+   "d": -3.92,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4076.0,
-   "c": 3.44,
-   "d": 135.6,
+   "p": 4075.5,
+   "c": 3.43,
+   "d": 135.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.37,
-   "c": 5.61,
-   "d": 2.783,
+   "p": 52.295,
+   "c": 5.46,
+   "d": 2.708,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.6,
-   "c": -8.84,
-   "d": -8.49,
+   "p": 88.82,
+   "c": -7.57,
+   "d": -7.27,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.95,
-   "c": -9.31,
-   "d": -9.65,
+   "p": 95.68,
+   "c": -7.64,
+   "d": -7.92,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.448,
-   "c": -0.41,
-   "d": -0.422,
+   "p": 101.534,
+   "c": -0.33,
+   "d": -0.336,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.9,
-   "c": -1.05,
-   "d": -0.052,
+   "p": 4.904,
+   "c": -0.97,
+   "d": -0.048,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.0158,
+   "p": 50.0149,
    "c": 0.06,
    "d": 0.028,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 80197,
-   "c": 3.3,
+   "p": 80373,
+   "c": 3.5,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2419.48,
-   "c": 5.45,
+   "p": 2425.27,
+   "c": 5.64,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.52,
-   "c": 2.37,
+   "p": 95.42,
+   "c": 2.08,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.31,
-   "c": 2.02,
+   "c": 2.06,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 714.12,
-   "c": 2.56,
+   "p": 716.43,
+   "c": 2.8,
    "k": "usd"
   }
  ],
@@ -454,12 +454,96 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Dollar Slides Toward Worst Day in Two Months After US Midterms",
+    "tt": "Dolar, ABD Ara Sınavlarının Ardından İki Ayın En Kötü Gününe Doğru Kaydı",
+    "s": "The dollar sank the most in two months as Democrats’ sweeping victory in the midterm elections fueled concern about potential political gridlock and raised the prospect of diminished spending on AI by US tech giants.",
+    "ss": "Demokratların ara seçimlerdeki ezici zaferinin potansiyel siyasi tıkanıklığa ilişkin endişeleri artırması ve ABD teknoloji devlerinin yapay zekaya yaptığı harcamaların azalması ihtimalini artırmasıyla dolar iki ayın en büyük düşüşünü yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/franc-yen-emerge-as-fx-winners-as-us-midterms-weaken-dollar",
+    "ts": 1793761883000,
+    "tags": [
+     "DXY ▼"
+    ]
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Nov. 4",
     "tt": "4 Kasım İçin En Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Brent oil futures tumbled below $100 a barrel for the first time since early October as investors wagered that a Democratic sweep in the US midterm elections could usher a quicker end to a months-long conflict roiling Middle East energy supplies.",
+    "s": "Brent oil futures plunged 10% to trade below $100 a barrel as investors wagered that a Democratic sweep in the US midterm elections could usher a quicker end to the months-long Iran conflict that upended global energy markets.",
     "ss": "Brent ham petrol vadeli işlemleri, ABD Başkanı Donald Trump'ın ABD ara seçimlerinde Demokrat Parti'nin kararlı bir zaferinin ardından İran'a saldırı olasılığını küçümsemesiyle Ekim başından bu yana ilk kez varil başına 100 doların altına düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
     "ts": 1793747284000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Alcohol Jumps as Blue Wave Lifts Trade, Immigration Hope",
+    "tt": "Mavi Dalga Tarifeleri ve Göçmenlik Umutlarını Artırırken Alkol Stokları Yükseliyor",
+    "s": "Investors are betting alcohol companies are among the winners of last night’s midterm election landslide on views a new Congress will push back on the Trump administration’s immigration and trade policies that dented booze businesses.",
+    "ss": "Yatırımcılar, yeni Kongre'nin Trump yönetiminin içki işletmelerini çökerten göçmenlik ve ticaret politikalarına karşı geri adım atacağı görüşleri üzerine, dün geceki ara seçimlerdeki heyelanın kazananları arasında alkol şirketlerinin de yer alacağına inanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/alcohol-stocks-jump-as-blue-wave-lifts-tariff-immigration-hopes",
+    "ts": 1793812787000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Gain as Oil Prices Tumble After Democrats Elected",
+    "tt": "Demokratların Seçilmesinden Sonra Petrol Fiyatları Düşerken Hazine Hisseleri Kazandı",
+    "s": "Treasuries rose as the outcome of the US midterm elections contributed to steep declines for oil prices based on the prospect of an end to the war in the Middle East.",
+    "ss": "Hazine tahvilleri, ABD ara seçimlerinin sonuçlarının Orta Doğu'daki savaşın sona ermesi ihtimaline bağlı olarak petrol fiyatlarında sert düşüşlere katkıda bulunmasıyla yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+    "ts": 1793754049000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "US Tweaks Debt-Sale Guidance, Spurring Auction-Forecast Changes",
+    "tt": "ABD, Borç Satışı Rehberinde Değişiklik Yaparak Açık Artırma Tahminlerinde Değişiklikleri Teşvik Ediyor",
+    "s": "The US Treasury Department revamped the guidance on sales of notes and bonds it has used since early 2024, in a move that spurred dealers to rethink their outlooks for auctions next year.",
+    "ss": "ABD Hazine Bakanlığı, 2024'ün başlarından bu yana kullandığı tahvil ve tahvil satışına ilişkin kılavuzu yenileyerek, satıcıları gelecek yılki ihalelere ilişkin görünümlerini yeniden düşünmeye teşvik etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
+    "ts": 1793799253000,
+    "tags": []
+   },
+   {
+    "t": "Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap",
+    "tt": "Hisse Senetleri ve Tahviller ABD Oyu Sonrası Yükselişe Geçti, Dolar Düştü: Piyasalar Sarıldı",
+    "s": "A Democratic sweep of Congress that highlighted opposition of the Iran war extended this week’s plunge in oil prices, helping drive stocks and bonds to big post-election gains.",
+    "ss": "Demokratların Kongre'deki hamlesi küresel piyasalara yayıldı; Başkan Donald Trump'ın sonuçları kabul etmesinin ardından hisse senetleri yükselirken, tahvil getirileri ve dolar, kendi gündeminde daha fazla sınırlama olacağı beklentileri üzerine düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793744422000,
+    "tags": []
+   },
+   {
+    "t": "DeSantis Calls GOP Midterm Wipeout ‘Extinction Level Event’",
+    "tt": "DeSantis, GOP'un Ara Dönem Silme İşlemini 'Yok Olma Seviyesi Etkinliği' Olarak Adlandırıyor",
+    "s": "Florida Governor Ron DeSantis said the blue wave that swept over just about every corner of the US on Election Day — except his state — was akin to a “meteor strike” for the Republican Party.",
+    "ss": "Florida Valisi Ron DeSantis, Seçim Günü ABD'nin hemen hemen her köşesini kasıp kavuran mavi dalganın (kendi eyaleti hariç) Cumhuriyetçi Parti için bir \"meteor çarpmasına\" benzediğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/desantis-calls-gop-s-midterm-wipeout-extinction-level-event",
+    "ts": 1793808129000,
+    "tags": []
+   },
+   {
+    "t": "¿Qué significa para Trump perder el control del Congreso?",
+    "tt": "Trump'ın Kongre kontrolünü kaybetmesinin anlamı nedir?",
+    "s": "Los demócratas ganaron el control de ambas cámaras del Congreso de EE.UU. ¿Qué cambia para Donald Trump? Podrán bloquear buena parte de su agenda legislativa y abrir nuevas investigaciones, pero también enfrentarán importantes límites. (Source: Bloomberg)",
+    "ss": "Demokratlar EE.UU Kongresi kameralarının kontrolünü ele geçirdiler. Donald Trump'a ne oldu? Yasama gündeminin bir parçası olarak bloke edilebilir ve yeni soruşturmalar başlatılabilir, ancak önemli sınırlar da aşılabilir. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-04/-que-significa-para-trump-perder-control-del-congreso-video",
+    "ts": 1793814264000,
+    "tags": []
+   },
+   {
+    "t": "North Sea Oil Plunge Deepens as Traders Weigh Iran De-Escalation",
+    "tt": "Tüccarlar İran'daki gerilimi azaltma kararına ağırlık verirken, Kuzey Denizi Petrolünde Düşüş Derinleşiyor",
+    "s": "North Sea oil prices slumped to fresh lows on Wednesday as the region’s physical crude traders weighed the prospects of a de-escalation of the Iran war following US President Donald Trump’s heavy defeat in the midterm elections.",
+    "ss": "Kuzey Denizi petrol fiyatları, bölgedeki fiziksel ham petrol tüccarlarının ABD Başkanı Donald Trump'ın ara seçimlerdeki ağır yenilgisinin ardından İran savaşının hafiflemesi ihtimalini tartmasıyla Çarşamba günü yeni düşük seviyelere geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/north-sea-oil-plunge-deepens-as-traders-weigh-iran-de-escalation",
+    "ts": 1793814219000,
     "tags": [
      "Petrol ▼",
      "DXY ▼",
@@ -481,78 +565,6 @@
      "BTC ▲",
      "Altcoin ▲"
     ]
-   },
-   {
-    "t": "European Stocks Rally as US Midterm Result Boosts Sentiment",
-    "tt": "Avrupa Hisse Senetleri Ara Sınavların Ardından Bankalar ve Lüksün Kazanımıyla Yükseldi",
-    "s": "European stocks rose Wednesday to approach the record high set in August, after Democrats won control of both chambers of Congress in the US midterms. Banks, luxury and renewables stocks drove investors’ risk-on rally.",
-    "ss": "Avrupa borsaları, Demokratların ABD ara seçimlerinde Kongre'nin her iki kanadının da kontrolünü ele geçirmesinin ardından Haziran ayından bu yana en büyük yükselişine yöneldi. Bankalar, lüks ve yenilenebilir enerji hisseleri yatırımcıların risk iştahındaki ralliyi tetikledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
-    "ts": 1793771498000,
-    "tags": []
-   },
-   {
-    "t": "Alcohol Stocks Jump as Blue Wave Lifts Tariff, Immigration Hopes",
-    "tt": "Mavi Dalga Tarifeleri ve Göçmenlik Umutlarını Artırırken Alkol Stokları Yükseliyor",
-    "s": "Investors are betting alcohol companies are among the winners of last night’s midterm election landslide on views a new Congress will push back on the Trump administration’s immigration and trade policies that dented booze businesses.",
-    "ss": "Yatırımcılar, yeni Kongre'nin Trump yönetiminin içki işletmelerini çökerten göçmenlik ve ticaret politikalarına karşı geri adım atacağı görüşleri üzerine, dün geceki ara seçimlerdeki heyelanın kazananları arasında alkol şirketlerinin de yer alacağına inanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/alcohol-stocks-jump-as-blue-wave-lifts-tariff-immigration-hopes",
-    "ts": 1793812787000,
-    "tags": []
-   },
-   {
-    "t": "Stocks, Bonds Climb After US Election as Oil Sinks: Markets Wrap",
-    "tt": "Hisse Senetleri ve Tahviller ABD Oyu Sonrası Yükselişe Geçti, Dolar Düştü: Piyasalar Sarıldı",
-    "s": "A Democratic sweep of Congress that highlighted opposition of the Iran war extended this week’s plunge in oil prices, helping drive stocks and bonds to big post-election gains.",
-    "ss": "Demokratların Kongre'deki hamlesi küresel piyasalara yayıldı; Başkan Donald Trump'ın sonuçları kabul etmesinin ardından hisse senetleri yükselirken, tahvil getirileri ve dolar, kendi gündeminde daha fazla sınırlama olacağı beklentileri üzerine düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793744422000,
-    "tags": []
-   },
-   {
-    "t": "Big Tech Soars on Bet Dems Will Save AI Spenders From Themselves",
-    "tt": "Büyük Teknoloji, Bahis Dems'iyle Yükseliyor, Yapay Zeka Harcayanları Kendilerinden Kurtaracak",
-    "s": "The shares of US technology giants led the market higher on Wednesday as investors bet that a Democrat-controlled Congress will slow the massive spending on artificial intelligence that’s eating up free cash flow.",
-    "ss": "ABD'li teknoloji devlerinin hisseleri, yatırımcıların Demokratların kontrolündeki Kongre'nin serbest nakit akışını tüketen yapay zekaya yönelik büyük harcamaları yavaşlatacağına dair bahse girmesiyle Çarşamba günü piyasayı yükselişe geçirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
-    "ts": 1793812074000,
-    "tags": []
-   },
-   {
-    "t": "Tech Megacaps Lead S&P 500 Higher as Midterm Uncertainty Eases",
-    "tt": "Tech Megacaps, Orta Vadeli Belirsizliğin Azalmasıyla S&P 500'ü Yükseldi",
-    "s": "Technology megacaps rallied, leading the broader stock market higher, as Democrats swept to power in Congress and President Donald Trump said he would accept the midterm results, easing uncertainty and prompting investors to buy the recent dip.",
-    "ss": "Demokratların Kongre'de iktidara gelmesi ve Başkan Donald Trump'ın orta vadeli sonuçları kabul edeceğini söylemesi, belirsizliği hafifletmesi ve yatırımcıları son düşüşü satın almaya teşvik etmesiyle birlikte, teknoloji mega sermayeleri toparlanarak borsanın yükselmesine neden oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
-    "ts": 1793750474000,
-    "tags": []
-   },
-   {
-    "t": "DeSantis Calls GOP Midterm Wipeout ‘Extinction Level Event’",
-    "tt": "DeSantis, GOP'un Ara Dönem Silme İşlemini 'Yok Olma Seviyesi Etkinliği' Olarak Adlandırıyor",
-    "s": "Florida Governor Ron DeSantis said the blue wave that swept over just about every corner of the US on Election Day — except his state — was akin to a “meteor strike” for the Republican Party.",
-    "ss": "Florida Valisi Ron DeSantis, Seçim Günü ABD'nin hemen hemen her köşesini kasıp kavuran mavi dalganın (kendi eyaleti hariç) Cumhuriyetçi Parti için bir \"meteor çarpmasına\" benzediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/desantis-calls-gop-s-midterm-wipeout-extinction-level-event",
-    "ts": 1793808129000,
-    "tags": []
-   },
-   {
-    "t": "Renewable Stocks Surge After Democrats Sweep Congress",
-    "tt": "Yenilenebilir Enerji Hisseleri Demokratların Kongreyi Süpürmesinin Ardından Yükseldi",
-    "s": "Renewable energy stocks rallied around the world after the Democrats won control of both chambers of Congress in the US midterm elections, an outcome seen as supporting more favorable policy for the industry.",
-    "ss": "Yenilenebilir enerji stokları, Demokratların ABD ara seçimlerinde Kongre'nin her iki kanadının da kontrolünü ele geçirmesinin ardından dünya çapında yükselişe geçti; bu sonuç, sektör için daha olumlu bir politikayı desteklediği görüldü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead",
-    "ts": 1793762034000,
-    "tags": []
-   },
-   {
-    "t": "Midterms Shocker Will Reverberate Through the Energy Industry",
-    "tt": "Ara Sınav Şoku Enerji Sektörüne Yansıyacak",
-    "s": "All eyes will be on US permitting reform, but it’s perhaps at state level where the election results are most striking for energy.",
-    "ss": "Tüm gözler ABD'nin reforma izin vermesi üzerinde olacak, ancak seçim sonuçlarının enerji açısından en çarpıcı olduğu yer eyalet düzeyinde olabilir.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-04/midterms-shocker-will-reverberate-through-the-energy-industry",
-    "ts": 1793808988000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -657,6 +669,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
+    "tt": "'Finansal güvenlik ağım yok': 66 yaşındayım, Sosyal Güvenlik'e güveniyorum ve 500 dolar birikimim var. Hangi politikacı benim adıma konuşuyor?",
+    "s": "“In the wake of the midterm elections, how many Americans are living in poverty?”",
+    "ss": "\"Ara seçimlerin ardından kaç Amerikalı yoksulluk içinde yaşıyor?\"",
+    "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+    "ts": 1793817420000,
+    "tags": []
+   },
+   {
+    "t": "These stocks have soared the most today after the Democrats trounced Trump",
+    "tt": "Bu hisseler, Demokratların Trump'ı mağlup etmesinden sonra en çok bugün yükseldi",
+    "s": "Stanley Black & Decker’s stock was the strongest performer among the S&amp;P 500, while several tech players and associated power providers showed sharp declines.",
+    "ss": "Stanley Black & Decker'in hisseleri S&P 500 arasında en güçlü performansı sergileyen şirket olurken, birçok teknoloji oyuncusu ve ilgili enerji sağlayıcıları keskin düşüşler gösterdi.",
+    "u": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+    "ts": 1793816940000,
+    "tags": []
+   },
+   {
+    "t": "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
+    "tt": "Bu 12 hisse senedi, önümüzdeki on yılda 10 yıllık Hazineyi yenmek için iyi bir bahis",
+    "s": "Investment newsletters’ favorite Dividend Aristocrat stocks",
+    "ss": "Yatırım haber bültenlerinin favori Temettü Aristokrat hisse senetleri",
+    "u": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
+    "ts": 1793815380000,
+    "tags": []
+   },
+   {
     "t": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
     "tt": "Meta ve Alphabet gibi Büyük Teknoloji şirketlerinin daha fazla hisse çıkarmasına ve hisse sahipliğinizi sulandırmasına dikkat edin",
     "s": "The Big Tech companies known as hyperscalers may be tempted to issue more shares as interest rates rise and the stock market holds up, which can hurt their current shareholders.",
@@ -718,36 +757,54 @@
     "u": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
     "ts": 1793805420000,
     "tags": []
-   },
-   {
-    "t": "Datadog’s stock extends steep declines in the wake of earnings",
-    "tt": "Datadog'un hisseleri, kazançların ardından sert düşüşlere devam ediyor",
-    "s": "Datadog failed to top expectations with its revenue forecast.",
-    "ss": "Datadog, gelir tahminiyle beklentileri karşılayamadı.",
-    "u": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-    "ts": 1793805360000,
-    "tags": []
-   },
-   {
-    "t": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
-    "tt": "Qualcomm yarı iletken rallisine katılmadı. SpaceX ortaklığı bunu değiştirebilir mi?",
-    "s": "The company is furthering its expansion outside of the handset market — by powering Starlink Mobile.",
-    "ss": "Şirket, Starlink Mobile'a güç vererek cep telefonu pazarının dışındaki genişlemesini daha da ileriye taşıyor.",
-    "u": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
-    "ts": 1793805180000,
-    "tags": []
-   },
-   {
-    "t": "Three things that explain what’s changing with Obamacare in 2027",
-    "tt": "2027'de Obamacare'de nelerin değiştiğini açıklayan üç şey",
-    "s": "Affordable Care Act premiums are increasing again, and these plans have new rules.",
-    "ss": "Ekonomik Bakım Yasası primleri yeniden artıyor ve bu planların yeni kuralları var.",
-    "u": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
-    "ts": 1793804580000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Texas's New Democrat Governor Vowed To Stop Helping ICE - Here's What She Can Actually Undo",
+    "tt": "Teksas'ın Yeni Demokrat Valisi ICE'ye Yardım Etmeyi Durduracağına Söz Verdi - İşte Aslında Geri Alabileceği Şeyler",
+    "s": "Texas's New Democrat Governor Vowed To Stop Helping ICE - Here's What She Can Actually Undo Democrat Gina Hinojosa's upset of Gov. Greg Abbott hands the state's border machinery to a lawmaker who spent the campaign attacking it. &nbsp; Texas Rep. Gina Hinojosa, D-Austin, puts a fist up as she speaks",
+    "ss": "Teksas'ın Yeni Demokrat Valisi, ICE'ye Yardım Etmeyi Durduracağına Söz Verdi - İşte Demokrat Gina Hinojosa'nın Vali Greg Abbott'a duyduğu üzüntüyü, eyaletin sınır mekanizmasını kampanyayı eyalete saldırarak geçiren bir milletvekiline devrediyor.   Teksas Temsilcisi Gina Hinojosa, D-Austin, konuşurken yumruğunu kaldırıyor",
+    "u": "https://www.zerohedge.com/political/texass-new-democrat-governor-vowed-stop-helping-ice-heres-what-she-can-actually-undo",
+    "ts": 1793817900000,
+    "tags": []
+   },
+   {
+    "t": "Crypto Regulation After The $176M US Midterms",
+    "tt": "176 Milyon Dolarlık ABD Ara Sınavlarından Sonra Kripto Düzenlemesi",
+    "s": "Crypto Regulation After The $176M US Midterms Via Bitcoinist , Crypto Regulation has become one of the biggest questions following the 2026 US midterm elections, particularly after cryptocurrency-backed political groups spent approximately $176 million trying to influence congressional races . Despi",
+    "ss": "176 Milyon Dolarlık ABD Ara Sınavının Ardından Kripto Düzenlemesi Bitcoinist aracılığıyla, Kripto Düzenlemesi, özellikle kripto para birimi destekli siyasi grupların kongre yarışlarını etkilemek için yaklaşık 176 milyon dolar harcamasının ardından, 2026 ABD ara seçimlerinin ardından en büyük sorulardan biri haline geldi. Despi",
+    "u": "https://www.zerohedge.com/crypto/crypto-regulation-after-176m-us-midterms",
+    "ts": 1793817000000,
+    "tags": []
+   },
+   {
+    "t": "NTSB Finds \"Very, Very Significant\" Evidence Miles From Doomed Learjet's Crater",
+    "tt": "NTSB, Mahvolmaya Mahkûm Learjet Kraterinden Kilometrelerce Uzakta \"Çok, Çok Önemli\" Kanıt Buldu",
+    "s": "NTSB Finds \"Very, Very Significant\" Evidence Miles From Doomed Learjet's Crater Federal investigators have recovered most of the left elevator from the Learjet 60 that slammed into a Greenacres, Florida, neighborhood on Sunday , in three pieces scattered between 1.3 and 3.8 miles from the impact sit",
+    "ss": "NTSB, Ölüme Mahkûm Edilmiş Learjet Kraterinden Kilometrelerce \"Çok, Çok Önemli\" Kanıt Buldu Federal müfettişler, Pazar günü Greenacres, Florida mahallesine çarpan Learjet 60'ın sol asansörünün çoğunu, çarpma noktasından 2,3 ile 6,8 mil uzağa dağılmış üç parça halinde kurtardılar.",
+    "u": "https://www.zerohedge.com/weather/ntsb-finds-very-very-significant-evidence-miles-doomed-learjets-crater",
+    "ts": 1793816100000,
+    "tags": []
+   },
+   {
+    "t": "The Everything Bubble Is Bursting, In Real Time",
+    "tt": "Her Şey Balonu Gerçek Zamanlı Olarak Patlıyor",
+    "s": "The Everything Bubble Is Bursting, In Real Time Authored by Daniel Lacalle via Daniel Lacalle , For years, extraordinary money supply growth and negative real rates have pushed asset prices to unwarranted levels. The resulting \"everything bubble\" spread across real estate, private equity, bonds, and",
+    "ss": "Her Şey Balonu Gerçek Zamanlı Olarak Patlıyor Daniel Lacalle tarafından Daniel Lacalle aracılığıyla yazılmıştır. Yıllardır olağanüstü para arzı büyümesi ve negatif reel oranlar varlık fiyatlarını yersiz seviyelere itmiştir. Ortaya çıkan \"her şey balonu\" gayrimenkule, özel sermayeye, tahvillere ve",
+    "u": "https://www.zerohedge.com/markets/everything-bubble-bursting-real-time",
+    "ts": 1793815200000,
+    "tags": []
+   },
+   {
+    "t": "UAE Planning Third Oil Pipeline To Bypass Hormuz Chokepoint Mess",
+    "tt": "BAE, Hürmüz Dar Noktasındaki Karışıklığı Atlamak İçin Üçüncü Petrol Boru Hattını Planlıyor",
+    "s": "UAE Planning Third Oil Pipeline To Bypass Hormuz Chokepoint Mess The United Arab Emirates currently operates one crude export pipeline that bypasses the Strait of Hormuz and announced earlier this year that it was building a second. A third pipeline is reportedly being planned to further expand crud",
+    "ss": "BAE, Hürmüz Boğazı Karmaşasını Atlamak İçin Üçüncü Petrol Boru Hattını Planlıyor Birleşik Arap Emirlikleri şu anda Hürmüz Boğazı'nı bypass eden bir ham ihracat boru hattı işletiyor ve bu yılın başlarında ikincisini inşa ettiğini duyurdu. Ham petrolü daha da genişletmek için üçüncü bir boru hattının planlandığı bildiriliyor",
+    "u": "https://www.zerohedge.com/energy/uae-planning-third-oil-pipeline-bypass-hormuz-chokepoint-mess",
+    "ts": 1793814300000,
+    "tags": []
+   },
    {
     "t": "AI The Next Dot-Com Bubble? Gene Munster Vs. George Noble Tonight At 7PM ET",
     "tt": "Yapay Zeka Bir Sonraki Dot-Com Balonu mu? Gene Munster Vs. George Noble Bu Akşam 19:00 ET'de",
@@ -792,150 +849,97 @@
     "u": "https://www.zerohedge.com/markets/consumer-stocks-surge-democratic-sweep-fuels-bets-reversing-trumps-welfare-cuts",
     "ts": 1793808900000,
     "tags": []
-   },
-   {
-    "t": "Vance Boldly Admits Reason GOP Lost Midterms Is Iran War, Crude Slides",
-    "tt": "Amerikalılar 'Savaşa Hayır' Deirken Tahran, Trump'ın 'Ağır Yenilgisinden' Övüyor",
-    "s": "Vance Boldly Admits Reason GOP Lost Midterms Is Iran War, Crude Slides (Update 11:10ET) : The expected rapid blame-game has begun at the highest levels of the Turmp administration , with Vice President JD Vance on Wednesday morning saying bluntly that the Iran war is 'the reason we lost' midterms . ",
-    "ss": "Amerikalılar 'Savaşa Hayır' Deirken Tahran, Trump'ın 'Ağır Yenilgisinden' Övüyor İran'ın yüksek alarm durumu ve Hürmüz Boğazı'nın kontrolü için ABD kuvvetleriyle karşı karşıya kalan misilleme yapmaya hazır olması konusunda en azından şimdilik çok az değişiklik bekleniyor. Ancak İran liderliği bazılarıyla meşgul oluyor",
-    "u": "https://www.zerohedge.com/geopolitical/tehran-gloats-over-heavy-defeat-trump-americans-said-no-war",
-    "ts": 1793808780000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Bearish Beyond The 'Blue Wave' Bounce",
-    "tt": "'Mavi Dalga' Sıçrayışının Ötesinde Düşüş",
-    "s": "Bearish Beyond The 'Blue Wave' Bounce Submitted by QTR's Fringe Finance Well, the voters have spoken. Screamed, actually. And if last night’s election results were supposed to provide some kind of reprieve for the Trump administration, they did precisely the opposite. Democrats delivered a decisive,",
-    "ss": "QTR Fringe Finance Tarafından Sunulan 'Mavi Dalga' Sıçramasının Ötesinde Düşüş Eh, seçmenler konuştu. Aslında çığlık attı. Ve eğer dün geceki seçim sonuçlarının Trump yönetimine bir tür erteleme sağlaması gerekiyorsa, tam tersini yaptılar. Demokratlar kararlı bir açıklama yaptı",
-    "u": "https://www.zerohedge.com/markets/bearish-beyond-blue-wave-bounce",
-    "ts": 1793808000000,
-    "tags": []
-   },
-   {
-    "t": "US Diesel Supplies Slump To 23-Year Lows; Oil Prices Lower After Trump's Comments, SPR Drain",
-    "tt": "ABD Dizel Arzı 23 Yılın En Düşük Seviyesine Düştü; Petrol Fiyatları Trump'ın Yorumları ve SPR Tahliyesinin Ardından Düştü",
-    "s": "US Diesel Supplies Slump To 23-Year Lows; Oil Prices Lower After Trump's Comments, SPR Drain Oil prices extended losses this morning as investors weighed the Democratic sweep of Congress in the Midterms and what it means for President Trump's approach to Iran, amid uncertainty over whether Washingto",
-    "ss": "ABD Dizel Arzı 23 Yılın En Düşük Seviyesine Düştü; Petrol Fiyatları Trump'ın Yorumlarının Ardından Düştü, SPR Boşaldı Petrol fiyatları bu sabah kayıplarını artırdı; yatırımcılar, Washington'un ara seçimlerde Demokratların Kongre'deki genel seçimini ve bunun Başkan Trump'ın İran'a yaklaşımı açısından ne anlama geldiğini tarttı.",
-    "u": "https://www.zerohedge.com/energy/us-diesel-supplies-slump-23-year-lows-oil-prices-lower-after-trumps-comments-spr-drain",
-    "ts": 1793807400000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Defense Stocks Sink After Democratic Sweep As TD Cowen Warns Trump's \"Branded\" Programs Are Dead",
-    "tt": "TD Cowen, Trump'ın \"Markalı\" Programlarının Öldüğü Uyarısında Savunma Hisse Senetleri Demokratik Taramanın Ardından Düştü",
-    "s": "Defense Stocks Sink After Democratic Sweep As TD Cowen Warns Trump's \"Branded\" Programs Are Dead Democrats have won majorities in the House and Senate. It's not just data centers and reindustrialization that will be under threat, but also the rearmament cycle, as defense stocks sink in US premarket ",
-    "ss": "TD Cowen, Trump'ın \"Markalı\" Programlarının Öldüğü Konusunda Uyarırken Savunma Hisse Senetleri Demokratik Süpürme Sonrası Düştü Demokratlar Temsilciler Meclisi ve Senato'da çoğunluğu kazandı. ABD ön pazarında savunma stokları düşerken, tehdit altında olan sadece veri merkezleri ve yeniden sanayileşme değil, aynı zamanda yeniden silahlanma döngüsü de tehdit altında olacak",
-    "u": "https://www.zerohedge.com/markets/defense-stocks-sink-after-democratic-sweep-td-cowen-warns-trumps-branded-programs-are-dead",
-    "ts": 1793805900000,
-    "tags": []
-   },
-   {
-    "t": "President Veto",
-    "tt": "Başkan Veto",
-    "s": "President Veto By Bas van Geffen, Senior Macro Strategist at Rabobank Associated Press is calling the Congressional race in favour of the Democrats . The party wins both the House of Republicans and control of the Senate, changing the balance of power when the new Congress convenes at the start of 2",
-    "ss": "Başkan Veto Rabobank Associated Press Kıdemli Makro Stratejisti Bas van Geffen, Kongre yarışını Demokratların lehine çağırıyor. Parti, hem Cumhuriyetçiler Meclisi'ni hem de Senato'nun kontrolünü kazanarak 2020'nin başında yeni Kongre toplandığında güç dengesini değiştirdi.",
-    "u": "https://www.zerohedge.com/markets/president-veto",
-    "ts": 1793805000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
    {
-    "t": "İstanbul'un 1600 yıllık tarihi Londra'da sergilenecek",
+    "t": "Euro Bölgesi enflasyonu üç yılın zirvesinde",
     "tt": null,
-    "s": "Koç Holding'in desteğiyle Londra'daki Victoria and Albert Müzesi'nde düzenlenen \"Konstantinopolis'ten İstanbul'a: Bir Şehir, İki İmparatorluk\" sergisi, 7 Kasım'da ziyarete açılacak.",
+    "s": "Euro Bölgesi'nde yıllık enflasyon Ekim ayında yüzde 4'e yükselerek Eylül 2023'ten bu yana en yüksek seviyesine ulaştı. Enflasyonun Avrupa Merkez Bankası'nın (AMB) yüzde 2'lik hedefinin iki katına çıkması, bankanın faiz artırımlarına devam edebileceği beklentilerini güçlendirdi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/istanbul-un-1600-yillik-tarihi-londra-da-sergilenecek-3793547",
-    "ts": 1793813780000,
+    "u": "https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-hedefin-iki-katina-cikti-3793460",
+    "ts": 1793788568000,
     "tags": []
    },
    {
-    "t": "HP'nin yeni CEO'su Emma Walmsley oldu",
+    "t": "\"COP31 'uygulama COP'u' olacak\"",
     "tt": null,
-    "s": "ABD'li bilgisayar üreticisi HP, İngiliz ilaç şirketi GSK'nin eski Üst Yöneticisi (CEO) ve Microsoft Yönetim Kurulu Üyesi Emma Walmsley'yi yeni CEO olarak atadı.",
+    "s": "Türkiye'nin ev sahipliği yapacağı COP31 İklim Zirvesi öncesinde sanayi ve finans sektöründeki yeşil dönüşüm çalışmaları ivme kazanıyor.",
     "ss": null,
-    "u": "https://www.bloomberght.com/hp-nin-yeni-ceo-su-emma-walmsley-oldu-3793546",
-    "ts": 1793812013000,
+    "u": "https://www.bloomberght.com/cop31-uygulama-copu-olacak-3793458",
+    "ts": 1793788532000,
     "tags": []
    },
    {
-    "t": "TCMB: Enflasyonun ana eğilimi Ekim'de yataya yakın seyretti",
+    "t": "İTO Başkanlığına yeniden Avdagiç seçildi",
     "tt": null,
-    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Ekim ayında enflasyonun ana eğiliminin aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini bildirdi. Raporda, tüketici fiyatlarının aylık yüzde 2,58, yıllık ise yüzde 29,77 olduğu belirtilirken, fiyat artışlarında enerji ve işlenmemiş gıda grupla",
+    "s": "İstanbul Ticaret Odası'nın (İTO) 22'nci dönem başkanlığına Şekib Avdagiç, 270 Meclis üyesinin 251'sinin oyunu alarak yeniden seçildi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/tcmb-enflasyonun-ana-egilimi-ekim-de-yataya-yakin-seyretti-3793545",
-    "ts": 1793810077000,
+    "u": "https://www.bloomberght.com/ito-baskanligina-yeniden-avdagic-secildi-3793448",
+    "ts": 1793786122000,
     "tags": []
    },
    {
-    "t": "ABD'nin 1948'den bu yana İsrail'e yardımları 300 milyar doları aştı",
+    "t": "Penta Teknoloji 2026'nın ilk 9 ayında 28 milyar TL ciro kaydetti",
     "tt": null,
-    "s": "ABD'nin İsrail'e 1948'den bu yana sağladığı ekonomik ve askeri yardımların toplamı, enflasyona göre düzeltilmiş hesaplamayla 300 milyar doları aştı.",
+    "s": "Penta Teknoloji'nin 2026 yılının 9 aylık konsolide cirosu, geçen yılın aynı dönemine kıyasla yüzde 26 artış göstererek 28 milyar TL'ye yükseldi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-nin-1948-den-bu-yana-israil-e-yardimlari-300-milyar-dolari-asti-3793542",
-    "ts": 1793809463000,
+    "u": "https://www.bloomberght.com/penta-teknoloji-2026-nin-ilk-9-ayinda-28-milyar-tl-ciro-kaydetti-3793436",
+    "ts": 1793782512000,
     "tags": []
    },
    {
-    "t": "Meta'nın euro tahvil ihracına 53 milyar euroluk rekor talep",
+    "t": "THY'nin kârı yakıt baskısına rağmen beklentileri aştı",
     "tt": null,
-    "s": "Meta'nın ilk euro cinsi tahvil ihracına yatırımcılardan 53 milyar euroluk rekor talep geldi.",
+    "s": "Türk Hava Yolları, 2026 yılının üçüncü çeyreğinde 1,3 milyar dolar net kâr açıklayarak 1,1 milyar dolarlık piyasa beklentisinin üzerinde bir performans sergiledi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/meta-nin-euro-tahvil-ihracina-53-milyar-euroluk-rekor-talep-3793541",
-    "ts": 1793808864000,
+    "u": "https://www.bloomberght.com/thy-nin-kri-yakit-baskisina-ragmen-beklentileri-asti-3793435",
+    "ts": 1793782180000,
     "tags": []
    },
    {
-    "t": "AB'den Türkiye ekonomisi ve dış politikasına ilişkin değerlendirme",
+    "t": "Takasbank'tan TP2 fonuyla ilgili açıklama",
     "tt": null,
-    "s": "Avrupa Birliği (AB) Komisyonu, 2026 Türkiye Raporu'nda Türkiye'nin Avrupa güvenliğindeki stratejik rolüne ve ekonomik dayanıklılığına dikkat çekti.",
+    "s": "Takasbank, Tera'nın TP2 fonuyla herhangi bir borç ilişkisi bulunmadığını belirtti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/ab-den-turkiye-ekonomisi-ve-dis-politikasina-iliskin-degerlendirme-3793538",
-    "ts": 1793807966000,
+    "u": "https://www.bloomberght.com/takasbank-tan-tp2-fonuyla-ilgili-aciklama-3793434",
+    "ts": 1793781598000,
     "tags": []
    },
    {
-    "t": "Fon soruşturmasında Fatma Betül Sayan Kaya ve iki şüpheli ifadeye çağrıldı",
+    "t": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar",
     "tt": null,
-    "s": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski SPK Başkanı İbrahim Ömer Gönül, yarın \"şüpheli\" sıfatıyla ifade vermek üzere savcılığa çağrıldı.",
+    "s": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/fon-sorusturmasinda-fatma-betul-sayan-kaya-ve-iki-supheli-ifadeye-cagrildi-3793535",
-    "ts": 1793805225000,
+    "u": "https://www.bloomberght.com/abd-de-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-3793427",
+    "ts": 1793779306000,
     "tags": []
    },
    {
-    "t": "ABD'den 125 milyar dolarlık tahvil ihraç hazırlığı",
+    "t": "ABD ara seçimleri yenilenebilir enerji hisselerinde yükselişi tetikledi",
     "tt": null,
-    "s": "ABD Hazine Bakanlığı, 3, 10 ve 30 yıl vadeli toplam 125 milyar dolar tutarında tahvil ihracı gerçekleştireceğini duyurdu.",
+    "s": "ABD ara seçimlerinde Demokratların Kongre'nin her iki kanadının da kontrolünü kazanmasının ardından, küresel yenilenebilir enerji hisseleri yükselişe geçti. Bu sonuç, sektör için gelecekte daha elverişli politikaların destekleneceği şeklinde yorumlanıyor.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-den-125-milyar-dolarlik-tahvil-ihrac-hazirligi-3793522",
-    "ts": 1793803623000,
+    "u": "https://www.bloomberght.com/abd-ara-secimleri-yenilenebilir-enerji-hisselerinde-yukselisi-tetikledi-3793426",
+    "ts": 1793778882000,
     "tags": []
    },
    {
-    "t": "İSO Başkanlığına Adnan Dalgakıran seçildi",
+    "t": "ABD'de Demokratların seçim zaferi Musk'ın şirketlerini vurdu",
     "tt": null,
-    "s": "İstanbul Sanayi Odası seçimlerinde İSO Başkanlığına Adnan Dalgakıran seçildi. Adnan Dalgakıran 86, Ender Yılmaz 67 oy aldı.",
+    "s": "ABD ara seçimlerinin ilk sonuçlarının Demokratların ezici bir zaferine işaret etmeye başlamasıyla birlikte, Cumhuriyetçi Parti'nin önde gelen destekçilerinden Elon Musk'ın şirketleri Tesla Inc. ve SpaceX'in hisseleri geriledi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/iso-baskanligina-adnan-dalgakiran-secildi-3793501",
-    "ts": 1793802123000,
+    "u": "https://www.bloomberght.com/abd-de-demokratlarin-secim-zaferi-musk-in-sirketlerini-vurdu-3793425",
+    "ts": 1793778421000,
     "tags": []
    },
    {
-    "t": "ABD'nin dış ticaret açığı Eylül'de hafif geriledi",
+    "t": "Türkiye'nin nüfusu 1 Ekim itibarıyla 86 milyon 502 bini geçti",
     "tt": null,
-    "s": "ABD'nin dış ticaret açığı, Eylül'de aylık bazda yüzde 0,7 azalarak 105 milyar dolara inerek piyasa beklentilerinin altında gerçekleşti.",
+    "s": "Türkiye'nin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-nin-dis-ticaret-acigi-eylul-de-hafif-geriledi-3793499",
-    "ts": 1793801358000,
+    "u": "https://www.bloomberght.com/turkiye-nin-nufusu-1-ekim-itibariyla-86-milyon-502-bini-gecti-3793424",
+    "ts": 1793777830000,
     "tags": []
    }
   ]
