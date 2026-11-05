@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T07:52:22.998861+00:00",
+ "generated": "2026-11-05T08:48:07.066316+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,51 +17,51 @@
   },
   {
    "n": "Dow",
-   "p": 53356.12,
+   "p": 53356.1,
    "c": 3.03,
-   "d": 1569.401,
+   "d": 1569.381,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 16.61,
-   "c": -20.26,
-   "d": -4.22,
+   "p": 17.08,
+   "c": 2.83,
+   "d": 0.47,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4129.2,
-   "c": 1.38,
-   "d": 56.2,
+   "p": 4134.1,
+   "c": 1.5,
+   "d": 61.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.53,
-   "c": 0.79,
-   "d": 0.41,
+   "p": 52.82,
+   "c": 1.34,
+   "d": 0.7,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.98,
-   "c": -0.16,
-   "d": -0.14,
+   "p": 87.86,
+   "c": -0.3,
+   "d": -0.26,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.18,
-   "c": 0.59,
-   "d": 0.56,
+   "p": 94.9,
+   "c": 0.3,
+   "d": 0.28,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.416,
-   "c": -0.09,
-   "d": -0.094,
+   "p": 101.446,
+   "c": -0.06,
+   "d": -0.064,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.0452,
-   "c": 0.07,
-   "d": 0.035,
+   "p": 50.039,
+   "c": 0.06,
+   "d": 0.029,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11552.91,
-   "c": 0.65,
-   "d": 74.81,
+   "p": 11526.57,
+   "c": 0.42,
+   "d": 48.47,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 80373,
-   "c": 3.0,
+   "p": 80467,
+   "c": 2.67,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2414.0,
-   "c": 4.81,
+   "p": 2419.2,
+   "c": 4.1,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 95.85,
-   "c": 3.09,
+   "p": 96.54,
+   "c": 3.53,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.31,
-   "c": 3.0,
+   "p": 1.32,
+   "c": 3.23,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 712.12,
-   "c": 1.44,
+   "p": 714.53,
+   "c": 1.79,
    "k": "usd"
   }
  ],
@@ -454,6 +454,60 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "European Stocks Hit Fresh Record as AI Unwind Boosts Region",
+    "tt": "AI Unwind Bölgeyi Güçlendirirken Avrupa Hisse Senetleri Yeni Rekorlara Ulaştı",
+    "s": "European stocks surpassed their previous closing record as the region extended an outperformance driven by a rotation out of the artificial intelligence trade and a strong earnings season.",
+    "ss": "Avrupa hisse senetleri, yapay zeka ticaretindeki rotasyon ve güçlü kazanç sezonunun etkisiyle bölgenin üstün performansını sürdürmesiyle önceki kapanış rekorunu aştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
+    "ts": 1793866175000,
+    "tags": []
+   },
+   {
+    "t": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+    "tt": "Değer Rotasyonunun China Tech'i Artırmasıyla Hong Kong Hisse Senetleri Yükselişe Geçti",
+    "s": "After languishing for much of the year, Hong Kong stocks are staging a comeback as investors rotate away from hardware stocks into discounted Chinese internet platforms.",
+    "ss": "Yılın büyük bölümünde zayıflayan Hong Kong hisseleri, yatırımcıların donanım hisselerinden indirimli Çin internet platformlarına yönelmesiyle geri dönüş yapıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+    "ts": 1793849741000,
+    "tags": []
+   },
+   {
+    "t": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap",
+    "tt": "Çip Üreticileri Geri Çekilirken Hisse Rotasyonu Devam Ediyor: Piyasalar Sarılıyor",
+    "s": "A rotation trade fueled by the US midterm elections entered a second day, with previously unfavored markets and economically sensitive stocks outperforming at the expense of chipmakers.",
+    "ss": "ABD ara seçimlerinin körüklediği rotasyon ticareti ikinci güne girdi; önceden tercih edilmeyen piyasalar ve ekonomik açıdan hassas hisse senetleri çip üreticilerinin aleyhine daha iyi performans gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793830504000,
+    "tags": []
+   },
+   {
+    "t": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
+    "tt": "Air France-KLM, Hollanda Havayolu Revizyonunu Derinleştiriyor; Hisse Senedi Dalgalanmaları",
+    "s": "Air France-KLM is deepening an overhaul of its Dutch subsidiary as the airline group grapples with higher fuel expenses and a cost-of-living crisis that’s starting to deter some passengers.",
+    "ss": "Air France-KLM, havayolu grubu yüksek yakıt giderleri ve bazı yolcuları caydırmaya başlayan yaşam maliyeti kriziyle boğuşurken, Hollanda'daki yan kuruluşundaki revizyonunu derinleştiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/air-france-klm-to-deepen-dutch-airline-overhaul-amid-high-costs",
+    "ts": 1793862000000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 5",
+    "tt": "5 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Brent oil held near a two-month low after tumbling almost 9% in the previous session as investors bet that a Democratic sweep in the US midterm elections could accelerate efforts to end the war in the Middle East.",
+    "ss": "Brent petrolü, yatırımcıların ABD ara seçimlerinde Demokratların elde edeceği bir zaferin Orta Doğu'daki savaşı sona erdirme çabalarını hızlandırabileceğine dair iddiaları ile bir önceki seansta neredeyse %9 düştükten sonra iki ayın en düşük seviyesinde kaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
+    "ts": 1793833681000,
+    "tags": []
+   },
+   {
+    "t": "China’s Copper Squeeze Deepens as Buyers Scramble For Metal",
+    "tt": "Alıcılar Mücadeleye Başlarken Çin'de Bakır Sıkışması Derinleşiyor",
+    "s": "Copper buyers in China are scrambling for physical metal, with spot premiums soaring as supplies tighten sharply in the world’s biggest consumer.",
+    "ss": "Çin'deki bakır alıcıları fiziksel metal için çabalıyor; dünyanın en büyük tüketicisinde arz keskin bir şekilde daralırken spot primler de yükseliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
+    "ts": 1793845800000,
+    "tags": []
+   },
+   {
     "t": "BOE Set to Hike Rates for First Time Three Years",
     "tt": "BOE Üç Yılda İlk Kez Faiz Arttıracak",
     "s": "The Bank of England looks ready to raise interest rates by a quarter point to 4%, its first hike in more than three years. Ana Andrade of Bloomberg Economics has a preview of the decision. (Source: Bloomberg)",
@@ -493,66 +547,12 @@
     ]
    },
    {
-    "t": "China’s Copper Squeeze Deepens as Buyers Scramble",
-    "tt": "Alıcılar Mücadeleye Başlarken Çin'de Bakır Sıkışması Derinleşiyor",
-    "s": "Copper buyers in China are scrambling for physical metal, with spot premiums soaring as supplies tighten sharply in the world’s biggest consumer.",
-    "ss": "Çin'deki bakır alıcıları fiziksel metal için çabalıyor; dünyanın en büyük tüketicisinde arz keskin bir şekilde daralırken spot primler de yükseliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
-    "ts": 1793845800000,
-    "tags": []
-   },
-   {
-    "t": "Commerzbank Flags Deposit Competition Before UniCredit Deal",
-    "tt": "Commerzbank, UniCredit Anlaşması Öncesi Mevduat Rekabetini İşaretledi",
-    "s": "Commerzbank AG lowered its outlook for lending income this year amid increasing competition for client money, in one of the last quarters before the lender will be taken over by UniCredit SpA.",
-    "ss": "Commerzbank AG, borç verenin UniCredit SpA tarafından devralınmasından önceki son çeyreklerden birinde, müşteri parası için artan rekabet nedeniyle bu yıl borç verme geliri görünümünü düşürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/commerzbank-quarterly-net-rises-45-ahead-of-unicredit-takeover",
-    "ts": 1793858910000,
-    "tags": []
-   },
-   {
-    "t": "Commerzbank in 'Position of Strength' Ahead of UniCredit Deal, CEO Says",
-    "tt": "CEO, Commerzbank'ın UniCredit Anlaşması Öncesinde 'Güçlü Konumda' Olduğunu Söyledi",
-    "s": "Commerzbank CEO Bettina Orlopp speaks on Bloomberg Television after the lender reported a better-than-expected 45% jump in profit, in one of the last quarterly results as an independent bank before UniCredit SpA takes control of the German rival. \"I think we can act out of a position of strength,\" O",
-    "ss": "Commerzbank CEO'su Bettina Orlopp, UniCredit SpA'nın Alman rakibinin kontrolünü ele geçirmesinden önce, bağımsız bir banka olarak son üç aylık sonuçlardan birinde, borç verenin kârında beklenenden daha iyi bir %45 artış bildirdikten sonra Bloomberg Television'da konuşuyor. \"Güçlü bir pozisyonda hareket edebileceğimizi düşünüyorum\" O",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/commerzbank-in-position-of-strength-ahead-of-deal-ceo-video",
-    "ts": 1793863880000,
-    "tags": []
-   },
-   {
-    "t": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
-    "tt": "Değer Rotasyonunun China Tech'i Artırmasıyla Hong Kong Hisse Senetleri Yükselişe Geçti",
-    "s": "After languishing for much of the year, Hong Kong stocks are staging a comeback as investors rotate away from hardware stocks into discounted Chinese internet platforms.",
-    "ss": "Yılın büyük bölümünde zayıflayan Hong Kong hisseleri, yatırımcıların donanım hisselerinden indirimli Çin internet platformlarına yönelmesiyle geri dönüş yapıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
-    "ts": 1793849741000,
-    "tags": []
-   },
-   {
-    "t": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
-    "tt": "Yardeni: %5 oranında Cazip Verim; Nasdaq daha iyi performans sergileyecek",
-    "s": "Yardeni Research President, Ed Yardeni, says US 10-year Treasury yields look “very attractive” at around the 5% level with inflation expected to cool. On Bloomberg's Insight with Haslinda Amin, he also told us why the Nasdaq 100 is his preferred asset for the next 24 months. (Source: Bloomberg)",
-    "ss": "Yardeni Araştırma Başkanı Ed Yardeni, enflasyonun soğumasının beklenmesiyle ABD 10 yıllık Hazine tahvil getirilerinin %5 civarında \"çok cazip\" göründüğünü söyledi. Bloomberg'in Haslinda Amin ile yaptığı Insight programında kendisi bize neden Nasdaq 100'ün önümüzdeki 24 ay için tercih ettiği varlık olduğunu da anlattı. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/yardeni-yields-attractive-at-5-nasdaq-to-outperform-video",
-    "ts": 1793863016000,
-    "tags": []
-   },
-   {
-    "t": "Indonesia Deploys Troops Amid Wiretapping Scandal",
-    "tt": "Endonezya Telefon Dinleme Skandalının Ortasında Askerlerini Konuşlandırıyor",
-    "s": "Indonesia's military is mobilizing troops to bolster security in Jakarta as authorities investigate the alleged wiretapping of President Prabowo Subianto. Bloomberg's Ben Otto and Faris Mokhtar discussed the developments on Insight with Haslinda Amin. (Source: Bloomberg)",
-    "ss": "Yetkililer Başkan Prabowo Subianto'nun telefonlarını dinlediği iddiasını araştırırken, Endonezya ordusu Cakarta'da güvenliği artırmak için birliklerini seferber ediyor. Bloomberg'den Ben Otto ve Faris Mokhtar, Haslinda Amin ile Insight hakkındaki gelişmeleri tartıştı. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/indonesia-deploys-troops-amid-wiretapping-scandal-video",
-    "ts": 1793863005000,
-    "tags": []
-   },
-   {
     "t": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
     "tt": "Mavi Dalga Kore'nin Ağır Sikletlerini Batırırken Çin Hisse Senetleri Yükseliyor",
-    "s": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Annabelle Droulers give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Sou",
-    "ss": "“Bloomberg: The China Show” dünyanın ikinci büyük ekonomisine ilişkin haber ve analizler için eksiksiz kaynağınızdır. Yvonne Man ve Annabelle Droulers, politika ve politikadan teknoloji ve trendlere kadar küresel yatırımcılara benzersiz bilgiler sunarak önemli haber yapıcılarla derinlemesine tartışmalar gerçekleştiriyor. (Yani",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/the-china-show-11-05-2026-video",
-    "ts": 1793862998000,
+    "s": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+    "ss": "\"Haslinda Amin ile İçgörü\", izleyicilere önemli hikayelerin tam resmini vermek için derinlemesine, yüksek profilli röportajlar ve analizler içeren günlük bir haber programıdır. Gösteride iş, finans, siyaset ve kültür dünyalarından önde gelen liderler yer alıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video",
+    "ts": 1793863975000,
     "tags": []
    }
   ],
@@ -658,6 +658,20 @@
   ],
   "MarketWatch": [
    {
+    "t": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+    "tt": "Demokratların Kongre'de iktidara gelmesinin ardından Dow, 18 ayın en iyi gününü büyük bir rahatlama mitinginde kaydetti",
+    "s": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
+    "ss": "Demokratların Kongre'nin kontrolünü ele geçirmesinin ardından İran savaşının daha hızlı sona ereceği yönündeki iyimserlik nedeniyle Çarşamba günü hisse senetleri yükseldi, petrol fiyatları düştü ve tahvil getirileri düştü.",
+    "u": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+    "ts": 1793866380000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
     "t": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one.",
     "tt": "Çoğu yatırımcı piyasanın çökmesi ihtimaline karşı kördür. İşte hayatta kalmanın beş bölümlü stratejisi.",
     "s": "Wall Street veteran Jared Dillian says the biggest problem is many investors these days have not lived through a major downturn. He’s got a portfolio that offers protection.",
@@ -737,18 +751,18 @@
     "u": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
     "ts": 1793829960000,
     "tags": []
-   },
-   {
-    "t": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
-    "tt": "Seçim sonuçları veri merkezi iyimserliğinin özüne vururken Micron ve diğer çip stokları düşüyor",
-    "s": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
-    "ss": "Teksas ve diğer eyaletlerdeki demokratik zaferler, \"halihazırda finanse edilen projeleri gevşetmese de\" yapay zekanın inşası hakkında uzun vadeli soruları gündeme getiriyor.",
-    "u": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-    "ts": 1793829300000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "COVID-Dissident Doctor Arrested For \"Insulting\" Berlin Mayor",
+    "tt": "Kovid Muhalif Doktor Berlin Belediye Başkanına \"Hakaret\" Ettiği İçin Tutuklandı",
+    "s": "COVID-Dissident Doctor Arrested For \"Insulting\" Berlin Mayor Authored by John Rosenthal via The Daily Sceptic , A German doctor who rose to prominence during the Covid period for his criticism of the Covid-response measures has been arrested in Berlin in connection with \"insults\" of Berlin's outgoin",
+    "ss": "Kovid Muhalif Doktoru \"Hakaret\"ten Tutuklandı Berlin Belediye Başkanı John Rosenthal The Daily Skeptic aracılığıyla yazdı, Kovid döneminde Kovid'e karşı tedbirleri eleştirmesiyle öne çıkan Alman doktor, Berlin'in gidişatına yönelik \"hakaret\" suçlamasıyla Berlin'de tutuklandı",
+    "u": "https://www.zerohedge.com/political/covid-dissident-doctor-arrested-insulting-berlin-mayor",
+    "ts": 1793866800000,
+    "tags": []
+   },
    {
     "t": "Germany Pledges More Winter Aid To Ukraine As Kremlin Says Europe Has No Seat At Abu Dhabi Talks",
     "tt": "Kremlin, Avrupa'nın Abu Dabi Görüşmelerinde Koltuğunun Olmadığını Söylerken, Almanya Ukrayna'ya Daha Fazla Kış Yardımı Sözü Verdi",
@@ -829,106 +843,97 @@
     "u": "https://www.zerohedge.com/geopolitical/israeli-newspapers-sound-alarm-over-democratic-sweep-cant-afford-ignore",
     "ts": 1793843700000,
     "tags": []
-   },
-   {
-    "t": "Vance's 2028 Odds Tumble After Midterm Bloodbath - And Rubio Isn't The One Cashing In",
-    "tt": "Vance'in 2028 Oranları Ara Dönem Kan Banyosu Sonrası Düştü - Ve Para Kazanan Rubio Değil",
-    "s": "Vance's 2028 Odds Tumble After Midterm Bloodbath - And Rubio Isn't The One Cashing In Vice President JD Vance's odds of winning the 2028 Republican nomination tumbled overnight as Democrats absolutely torched Republicans in Tuesday's midterms, flipping both the House and the Senate. On Polymarket, V",
-    "ss": "Vance'in 2028 Oranları Ara Sınav Kan Banyosundan Sonra Düştü - Ve Başkan Yardımcısı JD Vance'i Nakde Çeviren Kişi Rubio Değil Demokratların Salı günkü ara seçimlerde Cumhuriyetçileri tamamen ateşe vermesi ve hem Temsilciler Meclisi'ni hem de Senato'yu alt üst etmesiyle, JD Vance'in 2028 Cumhuriyetçi adaylığını kazanma şansı bir gecede düştü. Polymarket'ta V",
-    "u": "https://www.zerohedge.com/political/vances-2028-odds-tumble-after-midterm-bloodbath-and-rubio-isnt-one-cashing",
-    "ts": 1793842200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
    {
-    "t": "Euro Bölgesi enflasyonu üç yılın zirvesinde",
+    "t": "Avrupa hisselerinde yeni rekor",
     "tt": null,
-    "s": "Euro Bölgesi'nde yıllık enflasyon Ekim ayında yüzde 4'e yükselerek Eylül 2023'ten bu yana en yüksek seviyesine ulaştı. Enflasyonun Avrupa Merkez Bankası'nın (AMB) yüzde 2'lik hedefinin iki katına çıkması, bankanın faiz artırımlarına devam edebileceği beklentilerini güçlendirdi.",
+    "s": "Avrupa borsaları, yatırımcıların yapay zeka hisselerinden rotasyon yapması ve beklentileri aşan bilançoların etkisiyle önceki kapanış rekorunu aşarak yükselişini sürdürdü.",
     "ss": null,
-    "u": "https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-hedefin-iki-katina-cikti-3793460",
-    "ts": 1793788568000,
+    "u": "https://www.bloomberght.com/avrupa-hisselerinde-yeni-rekor-3793601",
+    "ts": 1793866737000,
     "tags": []
    },
    {
-    "t": "\"COP31 'uygulama COP'u' olacak\"",
+    "t": "Türkiye Sigorta üçüncü çeyrekte zarar açıkladı",
     "tt": null,
-    "s": "Türkiye'nin ev sahipliği yapacağı COP31 İklim Zirvesi öncesinde sanayi ve finans sektöründeki yeşil dönüşüm çalışmaları ivme kazanıyor.",
+    "s": "Türkiye Sigorta, 2026 yılının üçüncü çeyreğinde 5,4 milyar TL net zarar açıkladı. Şirketin sonuçları, 6,6 milyar TL net kâr öngören piyasa konsensüsünün belirgin şekilde altında kaldı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/cop31-uygulama-copu-olacak-3793458",
-    "ts": 1793788532000,
+    "u": "https://www.bloomberght.com/turkiye-sigorta-ucuncu-ceyrekte-zarar-acikladi-3793600",
+    "ts": 1793866649000,
     "tags": []
    },
    {
-    "t": "İTO Başkanlığına yeniden Avdagiç seçildi",
+    "t": "EBRD'den 2026'da Türkiye'ye rekor yatırım öngörüsü",
     "tt": null,
-    "s": "İstanbul Ticaret Odası'nın (İTO) 22'nci dönem başkanlığına Şekib Avdagiç, 270 Meclis üyesinin 251'sinin oyunu alarak yeniden seçildi.",
+    "s": "Avrupa İmar ve Kalkınma Bankası (EBRD) Başkanı Odile Renaud-Basso, Türkiye'nin \"yeşil yatırımları\" gerçekten benimseyen bir gelişmekte olan piyasa olduğunu belirterek, Türkiye'de bu yıl halihazırda 2,5 milyar euuro yatırım gerçekleştirdiklerini ve bu yatırımların yıl sonunda 2,7 milyar euroyu aşarak",
     "ss": null,
-    "u": "https://www.bloomberght.com/ito-baskanligina-yeniden-avdagic-secildi-3793448",
-    "ts": 1793786122000,
+    "u": "https://www.bloomberght.com/ebrd-den-2026-da-turkiye-ye-rekor-yatirim-ongorusu-3793599",
+    "ts": 1793866426000,
     "tags": []
    },
    {
-    "t": "Penta Teknoloji 2026'nın ilk 9 ayında 28 milyar TL ciro kaydetti",
+    "t": "AMB/Schnabel: Mali baskılar para politikasını rehin almamalı",
     "tt": null,
-    "s": "Penta Teknoloji'nin 2026 yılının 9 aylık konsolide cirosu, geçen yılın aynı dönemine kıyasla yüzde 26 artış göstererek 28 milyar TL'ye yükseldi.",
+    "s": "Avrupa Merkez Bankası Yönetim Kurulu üyesi Isabel Schnabel, bankanın enflasyonu kontrol altında tutma misyonunu yerine getirebilmesi için, Avrupa hükümetlerinin zorlanan kamu maliyelerini düzene sokmaları ve finans sektörünü kuralsızlaştırmaya yönelik baskılara karşı durmaları gerektiğini belirtti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/penta-teknoloji-2026-nin-ilk-9-ayinda-28-milyar-tl-ciro-kaydetti-3793436",
-    "ts": 1793782512000,
+    "u": "https://www.bloomberght.com/ambschnabel-mali-baskilar-para-politikasini-rehin-almamali-3793597",
+    "ts": 1793866171000,
     "tags": []
    },
    {
-    "t": "THY'nin kârı yakıt baskısına rağmen beklentileri aştı",
+    "t": "TCDD'nin bakım modernizasyonuna 350 milyon euroluk finansman",
     "tt": null,
-    "s": "Türk Hava Yolları, 2026 yılının üçüncü çeyreğinde 1,3 milyar dolar net kâr açıklayarak 1,1 milyar dolarlık piyasa beklentisinin üzerinde bir performans sergiledi.",
+    "s": "Türkiye Cumhuriyeti Devlet Demiryolları'nın (TCDD) bakım modernizasyonu projesi kapsamında Asya Altyapı Yatırım Bankası (AAYB) ile 350 milyon euroluk finansman anlaşması imzalandı. Proje kapsamında TCDD filosuna 99 yeni nesil bakım makinesi eklenecek.",
     "ss": null,
-    "u": "https://www.bloomberght.com/thy-nin-kri-yakit-baskisina-ragmen-beklentileri-asti-3793435",
-    "ts": 1793782180000,
+    "u": "https://www.bloomberght.com/tcdd-nin-bakim-modernizasyonuna-350-milyon-euroluk-finansman-3793595",
+    "ts": 1793865472000,
     "tags": []
    },
    {
-    "t": "Takasbank'tan TP2 fonuyla ilgili açıklama",
+    "t": "Almanya'da fabrika siparişlerinde toparlanma",
     "tt": null,
-    "s": "Takasbank, Tera'nın TP2 fonuyla herhangi bir borç ilişkisi bulunmadığını belirtti.",
+    "s": "Almanya'da fabrika siparişleri kısmen toparlandı. Bu durum, Avrupa'nın en büyük ekonomisinin değişken küresel ortam karşısında dayanıklılık gösterdiğine işaret ediyor.",
     "ss": null,
-    "u": "https://www.bloomberght.com/takasbank-tan-tp2-fonuyla-ilgili-aciklama-3793434",
-    "ts": 1793781598000,
+    "u": "https://www.bloomberght.com/almanyada-fabrika-siparislerinde-yuzde-4-4-artis-3793592",
+    "ts": 1793862347000,
     "tags": []
    },
    {
-    "t": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar",
+    "t": "Küresel piyasalarda Demokratların seçim zaferinin yankıları sürüyor",
     "tt": null,
-    "s": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
+    "s": "ABD ara seçimlerinde Demokratların Kongre'nin iki kanadını da kazanması küresel piyasalarda yeni bir fiyatlama dalgası başlatırken, Cumhuriyetçi Parti'de seçim yenilgisinin nedenlerine ilişkin tartışmalar hızlandı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-3793427",
-    "ts": 1793779306000,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-demokratlarin-secim-zaferinin-yankilari-suruyor-3793582",
+    "ts": 1793857291000,
     "tags": []
    },
    {
-    "t": "ABD ara seçimleri yenilenebilir enerji hisselerinde yükselişi tetikledi",
+    "t": "Citadel'a göre ABD hisselerinde yıl sonu rallisi için zemin hazır",
     "tt": null,
-    "s": "ABD ara seçimlerinde Demokratların Kongre'nin her iki kanadının da kontrolünü kazanmasının ardından, küresel yenilenebilir enerji hisseleri yükselişe geçti. Bu sonuç, sektör için gelecekte daha elverişli politikaların destekleneceği şeklinde yorumlanıyor.",
+    "s": "Citadel Securities'ten Scott Rubner'a göre ABD hisseleri, ara seçimlerin önemli bir belirsizlik kaynağını ortadan kaldırması, şirket karlarının dirençli kalması ve yatırımcı pozisyonlarının yeni alımlara alan bırakmasıyla yıl sonuna doğru toparlanmaya hazırlanıyor.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-ara-secimleri-yenilenebilir-enerji-hisselerinde-yukselisi-tetikledi-3793426",
-    "ts": 1793778882000,
+    "u": "https://www.bloomberght.com/citadela-gore-abd-hisselerinde-yil-sonu-rallisi-icin-zemin-hazir-3793581",
+    "ts": 1793856805000,
     "tags": []
    },
    {
-    "t": "ABD'de Demokratların seçim zaferi Musk'ın şirketlerini vurdu",
+    "t": "S&P Dow Jones'tan Türkiye endeks değişiklikleri kararı",
     "tt": null,
-    "s": "ABD ara seçimlerinin ilk sonuçlarının Demokratların ezici bir zaferine işaret etmeye başlamasıyla birlikte, Cumhuriyetçi Parti'nin önde gelen destekçilerinden Elon Musk'ın şirketleri Tesla Inc. ve SpaceX'in hisseleri geriledi.",
+    "s": "S&amp;P Dow Jones Indices, Türkiye piyasasındaki yapısal endişeleri ve hisse sahipliği şeffaflığına ilişkin soru işaretlerini gerekçe göstererek Türk hisse senetlerini içeren bazı endeks değişikliklerini donduracağını açıkladı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-demokratlarin-secim-zaferi-musk-in-sirketlerini-vurdu-3793425",
-    "ts": 1793778421000,
+    "u": "https://www.bloomberght.com/s-p-dow-jones-turk-hisseleriyle-ilgili-endeks-degisikliklerini-donduruyor-3793580",
+    "ts": 1793856258000,
     "tags": []
    },
    {
-    "t": "Türkiye'nin nüfusu 1 Ekim itibarıyla 86 milyon 502 bini geçti",
+    "t": "Toyota kâr beklentisini yükseltti",
     "tt": null,
-    "s": "Türkiye'nin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu.",
+    "s": "Toyota Motor, hibrit araçlarına olan talep ve zayıf yenin desteğiyle yıllık kâr tahminini yukarı yönlü revize etti. Dünyanın en büyük otomobil üreticisinin hisseleri hızla yükseldi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-nin-nufusu-1-ekim-itibariyla-86-milyon-502-bini-gecti-3793424",
-    "ts": 1793777830000,
+    "u": "https://www.bloomberght.com/toyota-kr-beklentisini-yukseltti-3793579",
+    "ts": 1793856228000,
     "tags": []
    }
   ]
