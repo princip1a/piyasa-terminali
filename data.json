@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-05T17:28:14.203670+00:00",
+ "generated": "2026-11-05T18:15:23.588390+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7423.55,
-   "c": -3.45,
-   "d": -265.07,
+   "p": 7401.52,
+   "c": -3.73,
+   "d": -287.1,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24548.902,
-   "c": -4.61,
-   "d": -1187.608,
+   "p": 24453.773,
+   "c": -4.98,
+   "d": -1282.737,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 51947.64,
-   "c": -2.64,
-   "d": -1408.481,
+   "p": 51835.59,
+   "c": -2.85,
+   "d": -1520.531,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 24.95,
-   "c": 50.21,
-   "d": 8.34,
+   "p": 26.7,
+   "c": 60.75,
+   "d": 10.09,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4129.8,
-   "c": 1.39,
-   "d": 56.8,
+   "p": 4109.4,
+   "c": 0.89,
+   "d": 36.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.715,
-   "c": 1.14,
-   "d": 0.595,
+   "p": 52.315,
+   "c": 0.37,
+   "d": 0.195,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.43,
-   "c": 2.62,
-   "d": 2.31,
+   "p": 90.53,
+   "c": 2.73,
+   "d": 2.41,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 97.05,
-   "c": 2.57,
-   "d": 2.43,
+   "p": 97.54,
+   "c": 3.09,
+   "d": 2.92,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.446,
-   "c": -0.06,
-   "d": -0.064,
+   "p": 101.41,
+   "c": -0.1,
+   "d": -0.1,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.837,
-   "c": -1.16,
-   "d": -0.057,
+   "p": 4.822,
+   "c": -1.47,
+   "d": -0.072,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.0413,
-   "c": 0.06,
-   "d": 0.031,
+   "p": 50.0428,
+   "c": 0.07,
+   "d": 0.033,
    "k": "idx"
   },
   {
@@ -90,31 +90,31 @@
   {
    "n": "BTC",
    "p": 76040,
-   "c": -5.43,
+   "c": -5.66,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2256.57,
-   "c": -7.06,
+   "p": 2254.96,
+   "c": -7.34,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 89.85,
-   "c": -6.3,
+   "p": 89.4,
+   "c": -6.89,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.24,
-   "c": -5.4,
+   "p": 1.23,
+   "c": -6.3,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 693.22,
-   "c": -3.25,
+   "p": 692.2,
+   "c": -3.7,
    "k": "usd"
   }
  ],
@@ -454,6 +454,51 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
+    "tt": "Tech-Stock Satışları Stokes Haven Talebiyle Hazine Tahvilleri Yükseldi",
+    "s": "Treasuries surged as a Democratic sweep in the US midterms led to a selloff in shares of large US technology companies, stoking demand for havens.",
+    "ss": "ABD ara seçimlerinde Demokratların hamlesinin büyük ABD teknoloji şirketlerinin hisselerinde satışlara yol açarak güvenli limanlara olan talebi artırmasıyla hazine tahvilleri yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
+    "ts": 1793894084000,
+    "tags": []
+   },
+   {
+    "t": "FBI Arrests Mexico Judge Tied to Ex-Olympian’s Drug Running Case",
+    "tt": "FBI, Eski Olimpiyatçının Uyuşturucu Soruşturmasıyla Bağlantılı Meksikalı Hakimi Tutukladı",
+    "s": "US agents arrested a Mexican judge on charges he accepted a $2 million bribe to free an alleged Canadian drug trafficker accused of working for the network led by former Olympic snowboarder Ryan Wedding.",
+    "ss": "ABD ajanları, Kanadalı uyuşturucu kaçakçısı olduğu iddia edilen bir kişinin serbest bırakılmasını sağlamak için 2 milyon dolarlık rüşvet kabul ettiği suçlamasıyla Kolombiya'da Meksikalı bir yargıcı tutukladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/fbi-arrests-mexican-judge-implicated-in-drug-trafficking-probe",
+    "ts": 1793898278000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 Sinks 4% as AI Washout Rattles Wall Street: Markets Wrap",
+    "tt": "Çip Üreticileri Geri Çekilirken Hisse Rotasyonu Devam Ediyor: Piyasalar Sarılıyor",
+    "s": "A post-election slide in chipmakers snowballed, dragging the Nasdaq 100 down 6%, as investors bailed from the sector on speculation congressional Democrats will clamp down on the artificial-intelligence industry.",
+    "ss": "ABD ara seçimlerinin körüklediği rotasyon ticareti ikinci güne girdi; önceden tercih edilmeyen piyasalar ve ekonomik açıdan hassas hisse senetleri çip üreticilerinin aleyhine daha iyi performans gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793830504000,
+    "tags": []
+   },
+   {
+    "t": "Codelco Chair Eyes Overhaul After Production Scandal",
+    "tt": "Codelco Sandalyenin Gözü Üretim Skandalı Sonrası Yenileniyor",
+    "s": "Codelco’s chairman plans to propose a restructuring of the Chilean state-owned copper giant that would go beyond corporate governance, as its new leadership seeks to restore confidence amid a production-reporting scandal.",
+    "ss": "Codelco'nun başkanı, yeni liderliği bir üretim raporlama skandalının ortasında güveni yeniden tesis etmeye çalışırken, Şili devlet mülkiyetindeki bakır devinin kurumsal yönetimin ötesine geçecek şekilde yeniden yapılandırılmasını önermeyi planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/codelco-chair-plans-restructuring-after-copper-reporting-scandal",
+    "ts": 1793892140000,
+    "tags": []
+   },
+   {
+    "t": "Lula Consults Mantega, Leftist Economists on Plans for New Term",
+    "tt": "Lula, Yeni Dönem Planları Konusunda Mantega ve Sol Ekonomistlere Danıştı",
+    "s": "President Luiz Inácio Lula da Silva kicked off discussions over economic policy for his next term by meeting with a group of left-leaning economists, including former Finance Minister Guido Mantega, a choice that risks deepening investor concerns about his approach to fiscal issues.",
+    "ss": "Başkan Luiz Inácio Lula da Silva, bir sonraki dönemine ilişkin ekonomi politikasına ilişkin tartışmaları, aralarında eski Maliye Bakanı Guido Mantega'nın da bulunduğu bir grup sol görüşlü ekonomistle bir araya gelerek başlattı; bu, yatırımcıların mali konulara yaklaşımıyla ilgili endişelerinin derinleşmesi riskini taşıyan bir seçim.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/lula-consults-mantega-leftist-economists-on-plans-for-new-term",
+    "ts": 1793900935000,
+    "tags": []
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Nov. 5",
     "tt": "5 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
     "s": "Brent crude rose as traders took stock of Wednesday’s sharp selloff, when the Democratic sweep in US midterm elections sent oil down almost 9%.",
@@ -481,24 +526,6 @@
     "tags": []
    },
    {
-    "t": "FBI Arrests Mexican Judge Linked to Drug Probe of Ex-Olympian",
-    "tt": "FBI, Eski Olimpiyatçının Uyuşturucu Soruşturmasıyla Bağlantılı Meksikalı Hakimi Tutukladı",
-    "s": "US agents arrested a Mexican judge in Colombia on charges he accepted a $2 million bribe to secure the release of an alleged Canadian drug trafficker.",
-    "ss": "ABD ajanları, Kanadalı uyuşturucu kaçakçısı olduğu iddia edilen bir kişinin serbest bırakılmasını sağlamak için 2 milyon dolarlık rüşvet kabul ettiği suçlamasıyla Kolombiya'da Meksikalı bir yargıcı tutukladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/fbi-arrests-mexican-judge-implicated-in-drug-trafficking-probe",
-    "ts": 1793898278000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq 100 Sinks 5% as Chipmaker Selloff Deepens: Markets Wrap",
-    "tt": "Çip Üreticileri Geri Çekilirken Hisse Rotasyonu Devam Ediyor: Piyasalar Sarılıyor",
-    "s": "A post-election slide in chipmakers snowballed, dragging the Nasdaq 100 down 5%, as investors bailed from the sector on speculation congressional Democrats will clamp down on the artificial-intelligence industry.",
-    "ss": "ABD ara seçimlerinin körüklediği rotasyon ticareti ikinci güne girdi; önceden tercih edilmeyen piyasalar ve ekonomik açıdan hassas hisse senetleri çip üreticilerinin aleyhine daha iyi performans gösterdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793830504000,
-    "tags": []
-   },
-   {
     "t": "Carlyle Shares Slump On Bigger-Than-Expected Drop in Fees",
     "tt": "Yöneticiler Daha Fazla Çıkışa Giden Yol Açarken Carlyle Hisseleri Düşüyor",
     "s": "Carlyle Group Inc. shares fell the most in more than a year after the firm reported a bigger-than-expected drop in a key measure of earnings as a slew of exits left the firm with fewer fee-generating assets.",
@@ -514,33 +541,6 @@
     "ss": "Konuyu bilen kaynaklara göre, QatarEnergy, ABD şirketlerinden sıvılaştırılmış doğal gaz satın almak için daha uzun vadeli anlaşmalar için görüşmelerde bulunuyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-05/qatar-in-talks-to-buy-more-us-lng-diversify-supply-outside-persian-gulf",
     "ts": 1793897783000,
-    "tags": []
-   },
-   {
-    "t": "European Stocks Reverse Gains as Tech Rout Builds, Defense Drops",
-    "tt": "Avrupa Hisse Senetleri Tech Rout Arttıkça ve Savunma Düştükçe Kazanımlarını Sildi",
-    "s": "European stocks pulled back from record high levels, as the technology sector tumbled alongside chipmakers in the US.",
-    "ss": "Teknoloji sektörünün ABD'deki çip üreticileriyle birlikte gerilemesiyle Avrupa hisseleri rekor yüksek seviyelerinden geri çekildi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
-    "ts": 1793866175000,
-    "tags": []
-   },
-   {
-    "t": "Post-Election Rally Cools on Growing Pressure for AI Buildout",
-    "tt": "Seçim Sonrası Miting, Yapay Zeka Geliştirmeye Yönelik Artan Baskıyı Soğutuyor",
-    "s": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "ss": "Jonathan Ferro, Lisa Abramowicz ve Annmarie Hordern, Wall Street'ten Washington'a ve ötesine kadar liderler ve karar alıcılarla her gün konuşuyor. Yatırımcıları ve yöneticileri işlem günü için \"Bloomberg Gözetim\"den daha iyi konumlandıran başka bir program yok. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/bloomberg-surveillance-11-5-2026-video",
-    "ts": 1793896980000,
-    "tags": []
-   },
-   {
-    "t": "Duke Energy's Data Center Bet",
-    "tt": "Duke Energy'nin Veri Merkezi Bahsi",
-    "s": "Duke Energy says it can meet rising data center demand without shifting the costs to households. CFO Brian Savoy joins Bloomberg Open Interest to explain how hyperscalers pay their share, why the company expects growth to continue and how it plans to balance major grid investments with affordability",
-    "ss": "Duke Energy, maliyetleri hane halkına yansıtmadan artan veri merkezi talebini karşılayabileceğini söylüyor. CFO Brian Savoy, hiper ölçekleyicilerin paylarını nasıl ödediğini, şirketin neden büyümenin devam etmesini beklediğini ve büyük şebeke yatırımlarını uygun fiyatla nasıl dengelemeyi planladığını açıklamak için Bloomberg Open Interest'e katıldı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/duke-energy-s-data-center-bet-video",
-    "ts": 1793896874000,
     "tags": []
    }
   ],
@@ -652,6 +652,60 @@
   ],
   "MarketWatch": [
    {
+    "t": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
+    "tt": "Micron, Sandisk ve diğer AI hisseleri hızla düşüyor: 'Yatırımcılar belirsizlikten hoşlanmaz.'",
+    "s": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm election results.",
+    "ss": "Wall Street, ara seçim sonuçlarının ardından yapay zekanın daha yavaş gelişmesi ihtimalini sindiriyor.",
+    "u": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+    "ts": 1793902680000,
+    "tags": []
+   },
+   {
+    "t": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+    "tt": "93 yaşındaki babam saat 11'de vasiyetini değiştirerek 500.000 dolarlık mirasının tamamını kardeşime bıraktı. Buna meydan okuyabilir miyim?",
+    "s": "“My brother had no job and needed a place to live.”",
+    "ss": "“Kardeşimin işi yoktu ve yaşayacak bir yere ihtiyacı vardı.”",
+    "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+    "ts": 1793902500000,
+    "tags": []
+   },
+   {
+    "t": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
+    "tt": "Bloom Energy'nin hisseleri, veri merkezi gecikmeleri korkuları arasında S&P 500'ün en büyük kaybedenlerinden biri",
+    "s": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
+    "ss": "Bloom Energy hisseleri, yatırımcıların veri merkezi gelişiminin ABD ara seçimleri sonrasında durma riskiyle karşı karşıya olduğundan endişe duymasıyla Perşembe günü teknoloji hisselerindeki keskin satış dalgasına maruz kaldı.",
+    "u": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+    "ts": 1793901780000,
+    "tags": []
+   },
+   {
+    "t": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+    "tt": "Babamın cenazesinden iki ay sonra üvey annem benden onun 40.000 dolarlık düğün hediyesini geri ödememi istedi. Onun dediğini yapmalı mıyım?",
+    "s": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+    "ss": "\"Cenazesinden yaklaşık iki ay sonra üvey annem aradı ve parayı geri istediğini söyledi.\"",
+    "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "ts": 1793901600000,
+    "tags": []
+   },
+   {
+    "t": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+    "tt": "Demokratların büyük seçim zaferi zor bir Sosyal Güvenlik sorusunu yeniden gündeme getiriyor: Kim ödüyor?",
+    "s": "There are many ideas for saving Social Security. All of them will hurt.",
+    "ss": "Sosyal Güvenliği kurtarmak için birçok fikir var. Hepsi acı çekecek.",
+    "u": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+    "ts": 1793901240000,
+    "tags": []
+   },
+   {
+    "t": "I’m 65 and worth more than $5.6 million. Can I buy a $200,000 camper even though the price feels ‘crazy high’?",
+    "tt": "65 yaşındayım ve değerim 5,6 milyon dolardan fazla. Fiyatı 'çılgınca yüksek' gibi görünse de 200.000 dolarlık bir kampçı satın alabilir miyim?",
+    "s": "Math may be cold and unemotional — but finances are not.",
+    "ss": "Matematik soğuk ve duygusuz olabilir ama finans öyle değil.",
+    "u": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "ts": 1793899980000,
+    "tags": []
+   },
+   {
     "t": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
     "tt": "'Finansal güvenlik ağım yok': 66 yaşındayım, Sosyal Güvenlik'e güveniyorum ve sadece 500 dolar birikimim var. Ne umudum var?",
     "s": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
@@ -679,15 +733,6 @@
     "tags": []
    },
    {
-    "t": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
-    "tt": "Micron, Sandisk ve diğer AI hisseleri hızla düşüyor: 'Yatırımcılar belirsizlikten hoşlanmaz.'",
-    "s": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm-election results.",
-    "ss": "Wall Street, ara seçim sonuçlarının ardından yapay zekanın daha yavaş gelişmesi ihtimalini sindiriyor.",
-    "u": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-    "ts": 1793897040000,
-    "tags": []
-   },
-   {
     "t": "The year’s most successful stock-market trades are unraveling — perhaps for good",
     "tt": "Yılın en başarılı borsa işlemleri çözülüyor - belki de tamamen",
     "s": "Wall Street’s top trades of 2026 are coming undone as a violent rotation rattles the U.S. stock market.",
@@ -695,54 +740,36 @@
     "u": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
     "ts": 1793895780000,
     "tags": []
-   },
-   {
-    "t": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
-    "tt": "İlk kez ev satın alan kişilerin rekor düzeydeki %10'u artık nakit ödeme yapıyor. İşte parayı aldıkları yer.",
-    "s": "All-cash buyers are becoming more common, despite a housing market that’s been struggling with affordability issues.",
-    "ss": "Satın alınabilirlik sorunlarıyla boğuşan konut piyasasına rağmen, tamamen nakit alıcılar daha yaygın hale geliyor.",
-    "u": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-    "ts": 1793895300000,
-    "tags": []
-   },
-   {
-    "t": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
-    "tt": "Bu pankreas kanseri tedavisi 'tüm zamanların en iyi ilaç lansmanlarından biri' olma yolunda ilerliyor",
-    "s": "Revolution Medicines’ brand-new treatment brought in far higher sales than expected in its first few weeks on the market.",
-    "ss": "Revolution Medicines'in yepyeni tedavisi, pazara çıktığı ilk birkaç haftada beklenenden çok daha yüksek satışlar getirdi.",
-    "u": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-    "ts": 1793895120000,
-    "tags": []
-   },
-   {
-    "t": "An Anthropic IPO when the AI trade is this turbulent? Good luck!",
-    "tt": "Yapay zeka ticareti bu kadar çalkantılıyken Antropik bir halka arz mı olur? İyi hız!",
-    "s": "Wall Street takes a harder look at AI costs after historic midterm results. Plus, the upside to Apple’s lack of artificial-intelligence spending.",
-    "ss": "Wall Street, tarihi ara dönem sonuçlarının ardından yapay zeka maliyetlerine daha yakından bakıyor. Artı, Apple'ın yapay zeka harcamalarındaki eksikliğinin iyi tarafı.",
-    "u": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
-    "ts": 1793894400000,
-    "tags": []
-   },
-   {
-    "t": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-    "tt": "'Hayatım kısa kesilebilir': 55 yaşındayım, evliyim ve beyin tümörüm var. 210.000 dolarlık bir Porsche'ye mi para harcamalıyım?",
-    "s": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-    "ss": "\"Ben de iki oğluma anlamlı bir miras bırakma fırsatını korumak istiyorum.\"",
-    "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "ts": 1793892600000,
-    "tags": []
-   },
-   {
-    "t": "Learning from ‘Love Is Blind’ money drama",
-    "tt": "'Aşkın Körüdür' para dramasından ders almak",
-    "s": "Hear me out: These reality-TV couples are having really important conversations about love and money heading into tonight’s finale.",
-    "ss": "Beni dinleyin: Bu realite TV çiftleri, bu gecenin finaline doğru aşk ve para hakkında gerçekten önemli konuşmalar yapıyorlar.",
-    "u": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-    "ts": 1793891760000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"Prices Have Just Jumped\": Nashville Is Now America’s Unexpected Home Of Ultra-Luxury",
+    "tt": "\"Fiyatlar Aniden Yükseldi\": Nashville Artık Amerika'nın Beklenmedik Ultra Lüks Evi",
+    "s": "\"Prices Have Just Jumped\": Nashville Is Now America’s Unexpected Home Of Ultra-Luxury Nashville is quickly becoming one of America's most desirable cities for business, investment, and luxury living. Once known primarily for country music and entertainment, the Tennessee capital is attracting wealth",
+    "ss": "\"Fiyatlar Aniden Yükseldi\": Nashville Artık Amerika'nın Ultra Lüksün Beklenmedik Evi Nashville hızla iş, yatırım ve lüks yaşam için Amerika'nın en çok arzu edilen şehirlerinden biri haline geliyor. Bir zamanlar öncelikle country müziği ve eğlencesiyle tanınan Tennessee'nin başkenti zenginlik çekiyor",
+    "u": "https://www.zerohedge.com/markets/move-over-miami-nashville-now-americas-unexpected-home-ultra-luxury",
+    "ts": 1793901600000,
+    "tags": []
+   },
+   {
+    "t": "University Of San Francisco Caves To Wokeness, Cancels Mascot After 90 Years",
+    "tt": "San Francisco Üniversitesi Uyanışa Davet Ediyor, 90 Yıl Sonra Maskotunu İptal Ediyor",
+    "s": "University Of San Francisco Caves To Wokeness, Cancels Mascot After 90 Years Authored by Bryan Hyde via American Greatness , The University of San Francisco (USF) has officially announced that its new mascot is the wolf, replacing the nearly century-old \"Don\" costume following student backlash over ",
+    "ss": "San Francisco Üniversitesi Uyanmak İçin Mağarada, Maskotunu 90 Yıl Sonra İptal Ediyor Bryan Hyde tarafından American Greatness aracılığıyla yazılan San Francisco Üniversitesi (USF), öğrencilerin tepkisinin ardından neredeyse asırlık \"Don\" kostümünün yerine yeni maskotunun kurt olduğunu resmen duyurdu.",
+    "u": "https://www.zerohedge.com/political/university-san-francisco-caves-wokeness-cancels-mascot-after-90-years",
+    "ts": 1793900700000,
+    "tags": []
+   },
+   {
+    "t": "Iran Proves Willingess To Re-Engage In Nuclear Talks, Despite Public Stance: NYT",
+    "tt": "İran, Kamuoyu Duruşuna Rağmen Nükleer Görüşmelere Yeniden Katılma İsteğini Kanıtladı: NYT",
+    "s": "Iran Proves Willingess To Re-Engage In Nuclear Talks, Despite Public Stance: NYT Update(1219ET) : Tehran has made clear it will not stop the war, or the assaults on internatinal shipping in the Strait Of Hormuz, unless its 'seven conditions' are met. It has also said time and again that the nuclear ",
+    "ss": "İran, Kamuoyunun Duruşuna Rağmen Nükleer Müzakerelere Yeniden Başlama İsteğini Kanıtladı: NYT Güncellemesi(1219ET) : Tahran, 'yedi şartı' yerine getirilmediği sürece savaşı veya Hürmüz Boğazı'ndaki uluslararası gemiciliğe yönelik saldırıları durdurmayacağını açıkça belirtti. Ayrıca nükleerin de olduğunu defalarca dile getirdi.",
+    "u": "https://www.zerohedge.com/energy/iran-carves-out-strait-hormuz-exemptions-china-india-iraq-qatar",
+    "ts": 1793899140000,
+    "tags": []
+   },
    {
     "t": "Harmeet Dhillon Resigns As DOJ Assistant AG: Report",
     "tt": "Harmeet Dhillon, DOJ Asistanı AG'den İstifa Etti: Rapor",
@@ -753,20 +780,20 @@
     "tags": []
    },
    {
-    "t": "Epstein-Linked Billionaire Just Sued The Congressman About To Run The Oversight Committee",
-    "tt": "Epstein Bağlantılı Milyarder, Gözetim Komitesini Yönetmek Üzere Olan Kongre Üyesine Dava Açtı",
-    "s": "Epstein-Linked Billionaire Just Sued The Congressman About To Run The Oversight Committee Billionaire Leon Black filed a federal defamation suit Wednesday against Rep. Robert Garcia (D-CA), the top Democrat on the House Oversight Committee, accusing him of lying about Black's ties to Jeffrey Epstein",
-    "ss": "Epstein Bağlantılı Milyarder, Gözetim Komitesini Yönetmek Üzere Olan Kongre Üyesine Dava Açtı Milyarder Leon Black, Çarşamba günü Temsilciler Meclisi Gözetim Komitesi'nin en üst düzey Demokratı Temsilci Robert Garcia'ya (D-CA) karşı, onu Black'in Jeffrey Epstein ile bağları hakkında yalan söylemekle suçlayarak federal bir hakaret davası açtı.",
-    "u": "https://www.zerohedge.com/political/epstein-linked-billionaire-just-sued-congressman-about-run-oversight-committee",
-    "ts": 1793898900000,
-    "tags": []
-   },
-   {
     "t": "Luigi's Cousin Wins A Seat, And His Opponent Won't Concede",
     "tt": "Luigi'nin Kuzeni Koltuk Kazandı, Rakibi Kabul Etmiyor",
     "s": "Luigi's Cousin Wins A Seat, And His Opponent Won't Concede Nino Mangione, a Republican first cousin of accused UnitedHealthcare CEO killer Luigi Mangione, won a seat on the Baltimore County Council on Tuesday, taking about 49% of the vote to 45% for Democrat Shawn McIntosh in District 5, according t",
     "ss": "Luigi'nin Kuzeni Bir Koltuk Kazandı ve Rakibi Kabul Etmiyor UnitedHealthcare CEO'su katili Luigi Mangione'nin Cumhuriyetçi birinci dereceden kuzeni Nino Mangione, Salı günü Baltimore İl Konseyi'nde bir sandalye kazandı ve 5. Bölge'de Demokrat Shawn McIntosh'un oylarının yaklaşık %49'unu %45'e çıkardı.",
     "u": "https://www.zerohedge.com/political/luigis-cousin-wins-seat-and-his-opponent-wont-concede",
+    "ts": 1793898900000,
+    "tags": []
+   },
+   {
+    "t": "Epstein-Linked Billionaire Just Sued The Congressman About To Run The Oversight Committee",
+    "tt": "Epstein Bağlantılı Milyarder, Gözetim Komitesini Yönetmek Üzere Olan Kongre Üyesine Dava Açtı",
+    "s": "Epstein-Linked Billionaire Just Sued The Congressman About To Run The Oversight Committee Billionaire Leon Black filed a federal defamation suit Wednesday against Rep. Robert Garcia (D-CA), the top Democrat on the House Oversight Committee, accusing him of lying about Black's ties to Jeffrey Epstein",
+    "ss": "Epstein Bağlantılı Milyarder, Gözetim Komitesini Yönetmek Üzere Olan Kongre Üyesine Dava Açtı Milyarder Leon Black, Çarşamba günü Temsilciler Meclisi Gözetim Komitesi'nin en üst düzey Demokratı Temsilci Robert Garcia'ya (D-CA) karşı, onu Black'in Jeffrey Epstein ile bağları hakkında yalan söylemekle suçlayarak federal bir hakaret davası açtı.",
+    "u": "https://www.zerohedge.com/political/epstein-linked-billionaire-just-sued-congressman-about-run-oversight-committee",
     "ts": 1793898900000,
     "tags": []
    },
@@ -805,45 +832,9 @@
     "u": "https://www.zerohedge.com/technology/nintendo-switch-2-sales-plunge-amid-memory-crisis-bernstein-calls-it-not-good-result",
     "ts": 1793894700000,
     "tags": []
-   },
-   {
-    "t": "'You're Either With Us Or Against Us': Bessent Doubles Down On Economic War Against Iran After Midterms",
-    "tt": "'Ya Bizimlesiniz Ya da Bize Karşısınız': Bessent Ara Sınavlardan Sonra İran'a Karşı Ekonomik Savaşta Kararını İkiye Katladı",
-    "s": "'You're Either With Us Or Against Us': Bessent Doubles Down On Economic War Against Iran After Midterms Authored by Dave DeCamp via Antiwar.com , The US Treasury Department on Wednesday announced new sanctions on Iran , escalating the economic war against the Islamic Republic one day after Republica",
-    "ss": "'Ya Bizimlesiniz Ya da Bize Karşı': Bessent, Dave DeCamp tarafından Antiwar.com aracılığıyla yazılan ara sınavların ardından İran'a karşı ekonomik savaşını ikiye katladı ABD Hazine Bakanlığı Çarşamba günü İran'a yeni yaptırımlar duyurdu ve Cumhuriyet'ten bir gün sonra İslam Cumhuriyeti'ne karşı ekonomik savaşı tırmandırdı.",
-    "u": "https://www.zerohedge.com/markets/youre-either-us-or-against-us-bessent-doubles-down-economic-war-against-iran-after-midterms",
-    "ts": 1793893800000,
-    "tags": []
-   },
-   {
-    "t": "Mike Johnson To Step Down As Top House Republican After Election Loss",
-    "tt": "Mike Johnson Seçim Kaybının Ardından En İyi Temsilciler Meclisi Cumhuriyetçisi Görevinden Ayrılacak",
-    "s": "Mike Johnson To Step Down As Top House Republican After Election Loss Authored by Zachary Stieber via The Epoch Times , House Speaker Mike Johnson (R-La.) is no longer going to be the top Republican in the House soon. Johnson will not run to be the Republican House leader in the next Congress , a sp",
-    "ss": "Mike Johnson, Seçim Kaybının Ardından Temsilciler Meclisi'ndeki En İyi Cumhuriyetçi Olarak Görevden Ayrılacak Zachary Stieber tarafından The Epoch Times aracılığıyla yazılan Temsilciler Meclisi Sözcüsü Mike Johnson (R-La.), yakın gelecekte artık Temsilciler Meclisi'ndeki en iyi Cumhuriyetçi olamayacak. Johnson bir sonraki Kongre'de Cumhuriyetçi Meclis liderliğine aday olmayacak.",
-    "u": "https://www.zerohedge.com/political/mike-johnson-step-down-top-house-republican-after-election-loss",
-    "ts": 1793892000000,
-    "tags": []
-   },
-   {
-    "t": "Pandemonium In Europe's Skies: Wave Of Bomb Threats Triggers Emergency Landings, Fighter Jet Intercepts",
-    "tt": "Avrupa Semalarında Kargaşa: Bomba Tehditleri Dalgası Acil İnişleri ve Savaş Uçağı Önlemelerini Tetikliyor",
-    "s": "Pandemonium In Europe's Skies: Wave Of Bomb Threats Triggers Emergency Landings, Fighter Jet Intercepts A slew of bomb threats against European airlines has resulted in mass reroutings and flight delays over European skies and at major hubs , amid a scramble to find out who is making these threats. ",
-    "ss": "Avrupa Semalarında Kargaşa: Bomba Tehditleri Dalgası Acil İnişleri Tetikliyor, Savaş Uçağı Önlemeleri Avrupalı ​​havayollarına yönelik bir dizi bomba tehdidi, bu tehditleri kimin yaptığını bulma çabasının ortasında, Avrupa semalarında ve büyük merkezlerde kitlesel yeniden yönlendirmelere ve uçuş gecikmelerine neden oldu.",
-    "u": "https://www.zerohedge.com/geopolitical/pandemonium-europes-skies-wave-bomb-threats-triggers-emergency-landings-fighter-jet",
-    "ts": 1793891100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
-   {
-    "t": "İran'dan UAEA Başkanı Grossi'ye bilgi sızdırma suçlaması",
-    "tt": null,
-    "s": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi'yi gizli ve hassas bilgileri İran'ın düşmanlarıyla paylaşmakla suçladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-dan-uaea-baskani-grossi-ye-bilgi-sizdirma-suclamasi-3793693",
-    "ts": 1793898043000,
-    "tags": []
-   },
    {
     "t": "Şişecam üçüncü çeyrekte zarar açıkladı",
     "tt": null,
@@ -923,6 +914,15 @@
     "ss": null,
     "u": "https://www.bloomberght.com/yatirim-araci-donemi-biterken-otomotivde-elektrikli-modeller-one-cikiyor-3793657",
     "ts": 1793885328000,
+    "tags": []
+   },
+   {
+    "t": "Putin'den JTI kararı",
+    "tt": null,
+    "s": "Rusya Devlet Başkanı Vladimir Putin, Japon tütün şirketi Japan Tobacco International'ın (JTI) Rusya'daki varlıklarını \"Promışlennıye Aktivı\" adlı Rus şirketinin geçici yönetimine devretti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/putin-den-jti-karari-3793655",
+    "ts": 1793882705000,
     "tags": []
    }
   ]
