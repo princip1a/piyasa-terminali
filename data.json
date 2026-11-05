@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-05T21:02:06.347645+00:00",
+ "generated": "2026-11-05T21:58:39.234390+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7353.81,
-   "c": -4.35,
-   "d": -334.81,
+   "p": 7353.73,
+   "c": -4.36,
+   "d": -334.89,
    "k": "idx"
   },
   {
@@ -17,51 +17,51 @@
   },
   {
    "n": "Dow",
-   "p": 51522.58,
+   "p": 51523.06,
    "c": -3.44,
-   "d": -1833.541,
+   "d": -1833.061,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 26.76,
-   "c": 61.11,
-   "d": 10.15,
+   "p": 28.18,
+   "c": 69.66,
+   "d": 11.57,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4110.6,
-   "c": 0.92,
-   "d": 37.6,
+   "p": 4098.0,
+   "c": 0.61,
+   "d": 25.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.065,
-   "c": -0.11,
-   "d": -0.055,
+   "p": 51.805,
+   "c": -0.6,
+   "d": -0.315,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.73,
-   "c": 2.96,
-   "d": 2.61,
+   "p": 90.99,
+   "c": 3.26,
+   "d": 2.87,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 98.51,
-   "c": 4.11,
-   "d": 3.89,
+   "p": 98.87,
+   "c": 4.49,
+   "d": 4.25,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.579,
-   "c": 0.07,
-   "d": 0.069,
+   "p": 101.595,
+   "c": 0.08,
+   "d": 0.085,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.0415,
-   "c": 0.06,
-   "d": 0.031,
+   "p": 49.9812,
+   "c": -0.06,
+   "d": -0.029,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 76081,
-   "c": -5.02,
+   "p": 75818,
+   "c": -5.47,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2244.93,
-   "c": -7.25,
+   "p": 2230.1,
+   "c": -7.76,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 89.87,
-   "c": -5.22,
+   "p": 89.95,
+   "c": -5.1,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.23,
-   "c": -5.54,
+   "p": 1.22,
+   "c": -6.25,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 691.0,
-   "c": -3.53,
+   "p": 688.23,
+   "c": -4.05,
    "k": "usd"
   }
  ],
@@ -454,7 +454,27 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Nasdaq 100 Plunges 6.4% in $2.3 Trillion Wipeout: Markets Wrap",
+    "t": "Argentine Markets on Edge as Peso Repo Rates Soar to 190%",
+    "tt": "Arjantin Piyasaları Peso Repo Faizlerinin %190'a Yükselmesiyle Endişeli",
+    "s": "Argentine financial markets sank Thursday, with dollar bonds leading emerging-market losses and overnight repo rates surging amid growing worries about the government’s finances.",
+    "ss": "Arjantin finans piyasaları Perşembe günü, dolar tahvillerinin gelişmekte olan piyasalardaki kayıplara yol açması ve hükümetin maliyesine ilişkin artan endişelerin ortasında gecelik repo faizlerinin artmasıyla birlikte düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
+    "ts": 1793902654000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "The Political Debate on Daylight Saving Time",
+    "tt": "Yaz Saati Uygulamasına İlişkin Siyasi Tartışma",
+    "s": "Time is ticking on the debate over changing our clocks twice a year. As Americans prepare to fall back, Bloomberg’s Shaquille Omari explains why Washington can’t seem to move forward. (Source: Bloomberg)",
+    "ss": "Saatlerimizin yılda iki kez değiştirilmesi konusundaki tartışmada zaman işliyor. Amerikalılar geri çekilmeye hazırlanırken Bloomberg'den Shaquille Omari Washington'un neden ilerleyemediğini açıklıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-01/the-political-debate-on-daylight-saving-time-video",
+    "ts": 1793550216000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 Sinks 4% as AI Washout Rattles Wall Street: Markets Wrap",
     "tt": "Çip Üreticileri Geri Çekilirken Hisse Rotasyonu Devam Ediyor: Piyasalar Sarılıyor",
     "s": "A post-election slide in chipmakers snowballed as investors bailed from technology shares on speculation that congressional Democrats will clamp down on the artificial-intelligence industry.",
     "ss": "ABD ara seçimlerinin körüklediği rotasyon ticareti ikinci güne girdi; önceden tercih edilmeyen piyasalar ve ekonomik açıdan hassas hisse senetleri çip üreticilerinin aleyhine daha iyi performans gösterdi.",
@@ -463,88 +483,79 @@
     "tags": []
    },
    {
-    "t": "Indonesia Raises $3 Billion in First Bond Sale Since MSCI Threat",
-    "tt": "Endonezya, MSCI Tehdidinden Bu Yana İlk Tahvil Satışında 3 Milyar Dolar Artırdı",
-    "s": "Indonesia sold $3 billion of dollar bonds on Thursday, its first such issuance since MSCI Inc. warned it may remove the nation’s equities from its global indexes.",
-    "ss": "Endonezya Perşembe günü 3 milyar dolarlık tahvil sattı; bu, MSCI Inc.'in ülkenin hisse senetlerini küresel endekslerden çıkarabileceği uyarısından bu yana ilk kez ihracını gerçekleştirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout",
-    "ts": 1793849192000,
+    "t": "DraftKings Plunges on 2027 Forecast That Misses Estimates",
+    "tt": "DraftKings, Tahminleri Tutmayan 2027 Tahmininde Düştü",
+    "s": "DraftKings Inc. gave a forecast for earnings in 2027 that missed the average analyst estimate, while also cutting its outlook for fiscal 2026. Third-quarter revenue also fell short of expectations. The shares fell 19% in extended trading.",
+    "ss": "DraftKings Inc., 2027 yılı kazançları için ortalama analist tahminini tutturamayan bir tahmin verirken, 2026 mali yılı görünümünü de düşürdü. Üçüncü çeyrek geliri de beklentilerin altında kaldı. Hisseler uzun süren işlemlerde %19 düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
+    "ts": 1793915276000,
     "tags": []
    },
    {
-    "t": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
-    "tt": "Tech-Stock Satışları Stokes Haven Talebiyle Hazine Tahvilleri Yükseldi",
-    "s": "Treasuries surged as the Democratic sweep in this week’s US midterm elections sparked a selloff in shares of large US technology companies that stoked demand for havens.",
-    "ss": "ABD ara seçimlerinde Demokratların hamlesinin büyük ABD teknoloji şirketlerinin hisselerinde satışlara yol açarak güvenli limanlara olan talebi artırmasıyla hazine tahvilleri yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
-    "ts": 1793894084000,
-    "tags": []
-   },
-   {
-    "t": "US Selloff Deepens as Democrat Sweep Sparks AI Exposure Worries",
+    "t": "Tech Rout Erases Record $2.3 Trillion in Value as AI Fears Grow",
     "tt": "Demokratların Süpürmesi Yapay Zekaya Maruz Kalma Endişelerini Yol Açtıkça ABD Satışları Derinleşiyor",
-    "s": "Technology stocks plunged on Thursday as traders assessed the implication of a Democratic sweep in the US midterm elections on artificial intelligence.",
+    "s": "Technology stocks plunged the most since 2020 on Thursday as investors exited the sector on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.",
     "ss": "Tüccarların ABD ara seçimlerindeki Demokratların süpürülmesinin yapay zeka üzerindeki etkisini değerlendirmesiyle teknoloji hisseleri Perşembe günü düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day",
     "ts": 1793883242000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 5",
-    "tt": "5 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Brent crude rose, as traders parsed the outlook for the US war on Iran following a steep selloff a day earlier after Democrats took control of Congress in a landslide win.",
-    "ss": "Brent ham petrolü, Demokratların ezici bir zaferle Kongre'nin kontrolünü ele geçirmesinden bir gün önce sert bir satış dalgasının ardından tüccarların ABD'nin İran'a karşı savaşının görünümünü analiz etmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
-    "ts": 1793833681000,
+    "t": "What Anthropic’s IPO Means for the ETF Market",
+    "tt": "Anthropic'in Halka Arzı ETF Piyasası İçin Ne İfade Ediyor?",
+    "s": "In this episode of Trillions , we also look at the industry’s latest trends and the Vanguard-BlackRock rivalry.",
+    "ss": "Trillions'ın bu bölümünde aynı zamanda sektörün en son trendlerine ve Vanguard-BlackRock rekabetine de bakıyoruz.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/what-anthropic-s-ipo-means-for-the-etf-market",
+    "ts": 1793914218000,
     "tags": []
    },
    {
-    "t": "SpaceX Default Risk Hits Record High in Tech-Driven Credit Slump",
-    "tt": "SpaceX'in Temerrüt Riski Teknoloji Kaynaklı Kredi Çöküşünde Rekor Seviyeye Ulaştı",
-    "s": "SpaceX and CoreWeave Inc. were among the biggest casualties in a broad-based credit slump Thursday, as renewed fears that a Democrat sweep will bring tighter regulation on the artificial intelligence industry reverberated through markets.",
-    "ss": "SpaceX ve CoreWeave Inc., Perşembe günü yaşanan geniş tabanlı kredi çöküşünde en büyük kayıplar arasında yer aldı; Demokratların bu hamlesinin yapay zeka endüstrisine daha sıkı düzenlemeler getireceği yönündeki korkular piyasalara yansıdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/spacex-default-risk-hits-fresh-peak-as-tech-led-selloff-builds",
-    "ts": 1793893692000,
+    "t": "Trump-Backed Critical Minerals Deals Face Growing Pressure After Blue Wave",
+    "tt": "Trump Destekli Kritik Mineral İşlemleri Mavi Dalganın Ardından Artan Baskıyla Karşı Karşıya",
+    "s": "Mining companies backed by billions of dollars in support from the Trump administration are facing a new risk: heightened scrutiny after the Democrats’ midterm sweep.",
+    "ss": "Trump yönetiminin milyarlarca dolarlık desteğiyle desteklenen madencilik şirketleri yeni bir riskle karşı karşıya: Demokratların ara seçim seçimlerinin ardından artan incelemeler.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/trump-backed-critical-minerals-deals-face-growing-pressure-after-blue-wave",
+    "ts": 1793903597000,
     "tags": []
    },
    {
-    "t": "Now the Market Is Selling Off for Real",
-    "tt": "Artık Piyasa Gerçek Karşılığında Satış Yapıyor",
-    "s": "Some thoughts on markets and politics.",
-    "ss": "Piyasalar ve siyaset üzerine bazı düşünceler.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-05/now-the-market-is-selling-off-for-real",
-    "ts": 1793909847000,
+    "t": "BofA Rejigs Global Credit Trading Businesses to Boost Liquidity",
+    "tt": "BofA Likiditeyi Artırmak İçin Küresel Kredi Ticareti İşletmelerini Reddetti",
+    "s": "Bank of America Corp. is combining its global credit macro, fixed income exchange-traded fund, and high-grade corporate bond trading businesses into a single platform as the Wall Street firm looks to streamline credit trading for clients and boost the liquidity it can offer.",
+    "ss": "Bank of America Corp. küresel kredi makrosunu, sabit gelirli borsa yatırım fonunu ve yüksek dereceli kurumsal tahvil alım satım işlerini tek bir platformda birleştiriyor; Wall Street firması müşteriler için kredi ticaretini kolaylaştırmak ve sunabileceği likiditeyi artırmak istiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/bofa-rejigs-global-credit-trading-businesses-to-boost-liquidity",
+    "ts": 1793912871000,
     "tags": []
    },
    {
-    "t": "High Yield Credit Quality In Good Shape: Skiba",
-    "tt": "Yüksek Getirili Kredi Kalitesi İyi Şekilde: Skiba",
-    "s": "Pilar Gomez-Bravo, fixed income portfolio manager at MFS Investment Management, and Andrzej Skiba, head of BlueBay US fixed income at RBC Global Asset Management join Scarlet Fu on \"Bloomberg Real Yield.\" Junk bonds tied to data center developers traded weaker after elected Texas Democratic Governor",
-    "ss": "MFS Yatırım Yönetimi'nde sabit gelirli portföy yöneticisi Pilar Gomez-Bravo ve RBC Global Asset Management'ta BlueBay ABD sabit geliri başkanı Andrzej Skiba, \"Bloomberg Real Yield\" programında Scarlet Fu'ya katılıyor. Veri merkezi geliştiricilerine bağlı hurda tahviller, Teksas Demokrat Valisi seçildikten sonra zayıf işlem gördü",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/high-yield-credit-quality-in-good-shape-skiba-video",
-    "ts": 1793909546000,
+    "t": "Grindr Lifts Outlook, Expects to Meet 2027 Targets Ahead of Plan",
+    "tt": "Grindr Görünümü Yükseltiyor, Planın İlerisinde 2027 Hedeflerine Ulaşmayı Bekliyor",
+    "s": "Grindr Inc. raised its guidance for the current year and said it expects to meet its 2027 targets about 12 months ahead of schedule, signs the company has been succeeding in its strategy to market itself as more than just a dating app for gay men.",
+    "ss": "Grindr Inc. bu yıl için tahminini yükseltti ve 2027 hedeflerine planlanandan yaklaşık 12 ay önce ulaşmayı beklediğini söyledi; bu, şirketin kendisini eşcinsel erkeklere yönelik bir flört uygulamasından daha fazlası olarak pazarlama stratejisinde başarılı olduğuna işaret ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/grindr-lifts-outlook-expects-to-meet-2027-targets-ahead-of-plan",
+    "ts": 1793912865000,
     "tags": []
    },
    {
-    "t": "Sohn Hearts and Minds Queenstown 2026: Live Updates and News",
-    "tt": "Sohn Hearts and Minds Queenstown 2026: Canlı Güncellemeler ve Haberler",
-    "s": "",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/live-blog/2026-11-05/sohn-investment-conference-in-queenstown",
-    "ts": 1793908063000,
-    "tags": []
-   },
-   {
-    "t": "CCC's Stress Relatively Well-Contained: Gomez-Bravo",
-    "tt": "CCC'nin Stresi Göreceli Olarak Kontrol Altında: Gomez-Bravo",
-    "s": "Pilar Gomez-Bravo, fixed income portfolio manager at MFS Investment Management, and Andrzej Skiba, head of BlueBay US fixed income at RBC Global Asset Management join Scarlet Fu on \"Bloomberg Real Yield.\" Junk bonds tied to data center developers traded weaker after elected Texas Democratic Governor",
-    "ss": "MFS Yatırım Yönetimi'nde sabit gelirli portföy yöneticisi Pilar Gomez-Bravo ve RBC Global Asset Management'ta BlueBay ABD sabit geliri başkanı Andrzej Skiba, \"Bloomberg Real Yield\" programında Scarlet Fu'ya katılıyor. Veri merkezi geliştiricilerine bağlı hurda tahviller, Teksas Demokrat Valisi seçildikten sonra zayıf işlem gördü",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/ccc-s-stress-relatively-well-contained-gomez-bravo-video",
-    "ts": 1793907716000,
+    "t": "Lyft Posts Surprise Loss on Settlement, Gives In-Line Outlook",
+    "tt": "Lyft, Uzlaştırmada Sürpriz Zarar Açıkladı, Doğru Görünüm Verdi",
+    "s": "Lyft Inc. issued a quarterly ride bookings and earnings forecast that met expectations and posted a surprise loss due to an earlier legal settlement related to driver classification.",
+    "ss": "Lyft Inc., beklentileri karşılayan üç aylık yolculuk rezervasyonları ve kazanç tahminlerini yayınladı ve sürücü sınıflandırmasıyla ilgili daha erken bir yasal uzlaşma nedeniyle sürpriz bir zarar bildirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
+    "ts": 1793912828000,
     "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Nasdaq drops into correction territory — here’s what typically happens next",
+    "tt": "Nasdaq düzeltme bölgesine düşüyor - işte bundan sonra genellikle olacaklar",
+    "s": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+    "ss": "Nasdaq'ın düzeltme bölgesine kayması, toparlanma geçmişine odaklanıyor. İşte tarihin gösterdiği şey.",
+    "u": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+    "ts": 1793915853000,
+    "tags": []
+   },
    {
     "t": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
     "tt": "Üst düzey Demokratlar, ara sınavların ardından yapay zeka gelişimini dizginleme çağrısında bulundu: 'Ulusal veri merkezi moratoryumu artık'",
@@ -636,43 +647,34 @@
     "u": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
     "ts": 1793379341000,
     "tags": []
-   },
-   {
-    "t": "Fed officials are already saying they’ll need to get back to hiking rates",
-    "tt": "Fed yetkilileri zaten faiz artırımlarına geri dönmeleri gerektiğini söylüyor",
-    "s": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
-    "ss": "Federal Rezerv Başkanları Alberto Musalem ve Lorie Logan'ın yorumları, Fed'deki liderlerin bundan sonra ne olacağına ilişkin ilk içgörü kırıntılarını sunuyor.",
-    "u": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-    "ts": 1793397190000,
-    "tags": []
    }
   ],
   "MarketWatch": [
    {
-    "t": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "tt": "'Finansal güvenlik ağım yok': 66 yaşındayım, Sosyal Güvenlik'e güveniyorum ve sadece 500 dolar birikimim var. Ne umudum var?",
-    "s": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
-    "ss": "\"Bazen zengin Amerikalıların benim gibi insanlarla yer değiştirmesi gerekip gerekmediğini merak ediyorum.\"",
-    "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "ts": 1793911500000,
+    "t": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+    "tt": "Yapay zeka ticaretinde katliam yaşanırken teknoloji hisseleri 2020'den bu yana en kötü gününü kaydetti",
+    "s": "The S&amp;P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
+    "ss": "S&P 500'ün piyasa değeri tahmini olarak 2,9 trilyon dolar kaybetti; bu, tarihteki en büyük bir günlük piyasa değeri kaybı oldu.",
+    "u": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+    "ts": 1793916000000,
     "tags": []
    },
    {
-    "t": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-    "tt": "2027 vergi dilimleri çıktı. Bakalım standart kesinti ve SALT vergi indirimleri ne olacak?",
-    "s": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
-    "ss": "Amerikalıların gelir vergisi faturalarının kalbinde yer alan vergi dilimleri, 2027'de bu yıla kıyasla daha dik bir seviyede ayarlanacak ve bu da enflasyonun yeniden alevlenen varlığının altını çizecek.",
-    "u": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-    "ts": 1793910120000,
+    "t": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+    "tt": "Dip satın mı alacaksınız yoksa bekleyecek misiniz? Genç yatırımcılar, perakende hisse satışlarının COVID çöküşünden bu yana en yüksek seviyelerinden birine ulaşmasıyla tepki gösteriyor.",
+    "s": "Some see another buying opportunity. Others fear the worst isn’t over. A market rout is testing the instincts of a generation raised on quick rebounds.",
+    "ss": "Bazıları başka bir satın alma fırsatı görüyor. Diğerleri ise en kötünün bitmediğinden korkuyor. Piyasadaki bozgun, hızlı toparlanmalarla yetişen bir neslin içgüdülerini test ediyor.",
+    "u": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+    "ts": 1793915040000,
     "tags": []
    },
    {
-    "t": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-    "tt": "Bloom Energy'nin hisseleri, veri merkezi gecikmeleri korkuları arasında S&P 500'ün en büyük kaybedenlerinden biri",
-    "s": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
-    "ss": "Bloom Energy hisseleri, yatırımcıların veri merkezi gelişiminin ABD ara seçimleri sonrasında durma riskiyle karşı karşıya olduğundan endişe duymasıyla Perşembe günü teknoloji hisselerindeki keskin satış dalgasına maruz kaldı.",
-    "u": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-    "ts": 1793910060000,
+    "t": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+    "tt": "Tesla ve SpaceX'in iki günde 450 milyar dolarlık bir yok oluşa yol açmasıyla \"Musk satışları\" derinleşiyor",
+    "s": "Investors worry a divided Washington could derail “Elon, Inc.”",
+    "ss": "Yatırımcılar bölünmüş bir Washington'un \"Elon, Inc.\"'i rayından çıkarabileceğinden endişe ediyor.",
+    "u": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+    "ts": 1793914980000,
     "tags": []
    },
    {
@@ -681,69 +683,96 @@
     "s": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
     "ss": "Hisse senedi piyasasında teknoloji kaynaklı bir çöküşün ardından Cuma sabahı Ekim ayında yayınlanacak istihdam raporu, yatırımcılara cesaret verici haberler getirebilir veya sefaletlerini artırabilir.",
     "u": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-    "ts": 1793907960000,
+    "ts": 1793914740000,
     "tags": []
    },
    {
-    "t": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
-    "tt": "Bu pankreas kanseri tedavisi 'tüm zamanların en iyi ilaç lansmanlarından biri' olma yolunda ilerliyor",
-    "s": "Revolution Medicines’ brand-new treatment brought in far higher sales than expected in its first few weeks on the market.",
-    "ss": "Revolution Medicines'in yepyeni tedavisi, pazara çıktığı ilk birkaç haftada beklenenden çok daha yüksek satışlar getirdi.",
-    "u": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-    "ts": 1793907120000,
+    "t": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
+    "tt": "Bu borsa için 'büyük olay' mı? Teknoloji düşerken Wall Street'in sesi duyulmuyor.",
+    "s": "A punishing selloff in the tech space caused carnage in the stock market Thursday, one day after equities saw a big bounce after the Democrats swept Tuesday’s midterm elections.",
+    "ss": "Demokratların Salı günkü ara seçimleri kazanmasının ardından hisse senetlerinin büyük bir sıçrama görmesinden bir gün sonra, teknoloji alanındaki cezalandırıcı satış Perşembe günü borsada katliama neden oldu.",
+    "u": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+    "ts": 1793914620000,
     "tags": []
    },
    {
-    "t": "Trump’s Iran war has changed the future of Social Security",
-    "tt": "Trump'ın İran savaşı sosyal güvenliğin geleceğini değiştirdi",
-    "s": "It’s a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.",
-    "ss": "İran savaşının Amerika'da emekliliğin geleceği üzerinde muazzam bir etkiye sahip olacağı matematiksel bir kesinliktir.",
-    "u": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-    "ts": 1793907120000,
-    "tags": []
-   },
-   {
-    "t": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $450 billion two-day wipeout",
-    "tt": "Tesla ve SpaceX'in iki günde 450 milyar dolarlık bir yok oluşa yol açmasıyla \"Musk satışları\" derinleşiyor",
-    "s": "Investors worry a divided Washington could derail “Elon, Inc.”",
-    "ss": "Yatırımcılar bölünmüş bir Washington'un \"Elon, Inc.\"'i rayından çıkarabileceğinden endişe ediyor.",
-    "u": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-    "ts": 1793906940000,
-    "tags": []
-   },
-   {
-    "t": "As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity",
-    "tt": "Nvidia hisseleri ayı piyasasına doğru ilerlerken pazarlık avcıları altın bir satın alma fırsatı görüyor",
-    "s": "Portfolio managers say chip demand should be resilient even in a period of political uncertainty.",
-    "ss": "Portföy yöneticileri, çip talebinin siyasi belirsizlik döneminde bile dirençli olması gerektiğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
-    "ts": 1793905140000,
-    "tags": []
-   },
-   {
-    "t": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
+    "t": "Micron, Sandisk and other AI stocks see steep drops: ‘Investors don’t like uncertainty’",
     "tt": "Micron, Sandisk ve diğer AI hisseleri hızla düşüyor: 'Yatırımcılar belirsizlikten hoşlanmaz.'",
     "s": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm election results.",
     "ss": "Wall Street, ara seçim sonuçlarının ardından yapay zekanın daha yavaş gelişmesi ihtimalini sindiriyor.",
     "u": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-    "ts": 1793902680000,
+    "ts": 1793914320000,
     "tags": []
    },
    {
-    "t": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-    "tt": "93 yaşındaki babam saat 11'de vasiyetini değiştirerek 500.000 dolarlık mirasının tamamını kardeşime bıraktı. Buna meydan okuyabilir miyim?",
-    "s": "“My brother had no job and needed a place to live.”",
-    "ss": "“Kardeşimin işi yoktu ve yaşayacak bir yere ihtiyacı vardı.”",
-    "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-    "ts": 1793902500000,
+    "t": "As Nvidia’s stock enters a bear market, bargain hunters see a golden buying opportunity",
+    "tt": "Nvidia hisseleri ayı piyasasına doğru ilerlerken pazarlık avcıları altın bir satın alma fırsatı görüyor",
+    "s": "Portfolio managers say chip demand should be resilient even in a period of political uncertainty.",
+    "ss": "Portföy yöneticileri, çip talebinin siyasi belirsizlik döneminde bile dirençli olması gerektiğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+    "ts": 1793914260000,
+    "tags": []
+   },
+   {
+    "t": "5 of this year’s biggest stock losers that are good bets in 2027",
+    "tt": "Bu yılın en büyük hisse senedi kaybedenlerinden 5'i, 2027'de iyi bahisler",
+    "s": "One year’s worst performers often beat the market the next",
+    "ss": "Bir yılın en kötü performans gösterenleri genellikle bir sonraki yıl piyasayı yener",
+    "u": "https://www.marketwatch.com/story/5-of-this-years-biggest-stock-losers-that-are-good-bets-in-2027-bb861d4c?mod=mw_rss_topstories",
+    "ts": 1793914140000,
+    "tags": []
+   },
+   {
+    "t": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
+    "tt": "Bloom Energy'nin hisseleri, veri merkezi gecikmeleri korkuları arasında S&P 500'ün en büyük kaybedenlerinden biri",
+    "s": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
+    "ss": "Bloom Energy hisseleri, yatırımcıların veri merkezi gelişiminin ABD ara seçimleri sonrasında durma riskiyle karşı karşıya olduğundan endişe duymasıyla Perşembe günü teknoloji hisselerindeki keskin satış dalgasına maruz kaldı.",
+    "u": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+    "ts": 1793913960000,
+    "tags": []
+   },
+   {
+    "t": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
+    "tt": "Teknoloji kaynaklı hisse satışları derinleştikçe tüccarlar güvenlik için Hazine piyasasına akın ediyor",
+    "s": "A record $8 trillion in cash is now also on the sidelines in U.S. money-market funds, according to the Investment Company Institute.",
+    "ss": "Yatırım Şirketi Enstitüsü'ne göre, ABD para piyasası fonlarında şu anda 8 trilyon dolarlık rekor bir nakit de kenarda duruyor.",
+    "u": "https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories",
+    "ts": 1793913540000,
     "tags": []
    }
   ],
   "ZeroHedge": [
    {
-    "t": "Rubio Discussed Exit With White House As Quiet Loyalist Trump \"Loves\" Emerges As Possible Replacement; Report",
+    "t": "House Democrats Eye Their Own Crypto Market Structure Bill With A Bigger SEC Role After Sweep",
+    "tt": "Temsilciler Meclisi Demokratları, Süpürmeden Sonra Daha Büyük Bir SEC Rolüne Sahip Kendi Kripto Piyasası Yapı Tasarısını Gözetliyor",
+    "s": "House Democrats Eye Their Own Crypto Market Structure Bill With A Bigger SEC Role After Sweep Authored by Micah Zimmerman via Bitcoin Magazine , House Democrats are discussing a plan to turn Rep. Maxine Waters' Crypto Investor and Consumer Bill of Rights into their own crypto market structure bill n",
+    "ss": "Temsilciler Meclisi Demokratları, Süpürme Sonrası Daha Büyük Bir SEC Rolüne Sahip Kendi Kripto Piyasası Yapı Tasarısını Gözetliyor Micah Zimmerman tarafından Bitcoin Magazine aracılığıyla yazılan Temsilciler Meclisi Demokratları, Temsilci Maxine Waters'ın Kripto Yatırımcısı ve Tüketici Hakları Bildirgesini kendi kripto piyasası yapılarına dönüştürme planını tartışıyor yasa tasarısı",
+    "u": "https://www.zerohedge.com/crypto/house-democrats-eye-their-own-crypto-market-structure-bill-bigger-sec-role-after-sweep",
+    "ts": 1793916000000,
+    "tags": []
+   },
+   {
+    "t": "Mapped: Socialists Just Captured America's Two Biggest Cities - As 'Blue Wave' Knocks The Market's Teeth In",
+    "tt": "Harita: Sosyalistler Amerika'nın En Büyük İki Şehrini Ele Geçirdi - 'Mavi Dalga' Piyasayı Çöktürürken",
+    "s": "Mapped: Socialists Just Captured America's Two Biggest Cities - As 'Blue Wave' Knocks The Market's Teeth In If Nithya Raman's lead in Los Angeles holds, about 14.4 million Americans will live under a socialist mayor, up from 9.4 million before Tuesday , and the country's two largest cities will both",
+    "ss": "Harita: Sosyalistler Amerika'nın En Büyük İki Şehrini Ele Geçirdi - 'Mavi Dalga' Piyasayı Çöktürürken Nithya Raman'ın Los Angeles'taki liderliği devam ederse, yaklaşık 14,4 milyon Amerikalı sosyalist bir belediye başkanının yönetimi altında yaşayacak; Salı öncesinde bu sayı 9,4 milyondu ve ülkenin en büyük iki şehri her ikisi de sosyalist bir belediye başkanının yönetimi altında yaşayacak.",
+    "u": "https://www.zerohedge.com/political/mapped-socialist-wave-just-swept-americas-two-biggest-cities-blue-wave-knocks-markets",
+    "ts": 1793914800000,
+    "tags": []
+   },
+   {
+    "t": "Why Are We Being Warned That Our \"Window To Prepare\" Is Closing?",
+    "tt": "Neden \"Hazırlık Penceremiz\"in Kapandığı Konusunda Uyarılıyoruz?",
+    "s": "Why Are We Being Warned That Our \"Window To Prepare\" Is Closing? Authored by Michael Snyder via The Economic Collapse , There is growing anticipation that something really big is about to happen. Social media is buzzing about the fact that so many governments around the world are urging their citize",
+    "ss": "Neden \"Hazırlık Penceremiz\"in Kapandığı Konusunda Uyarılıyoruz? Michael Snyder tarafından The Economic Collapse aracılığıyla yazılmıştır. Gerçekten büyük bir şeyin olacağına dair artan bir beklenti var. Sosyal medyada dünya çapında pek çok hükümetin vatandaşlarına çağrıda bulunduğu gerçeği konuşuluyor.",
+    "u": "https://www.zerohedge.com/geopolitical/why-are-we-being-warned-our-window-prepare-closing",
+    "ts": 1793913600000,
+    "tags": []
+   },
+   {
+    "t": "Rubio Discussed Exit With White House As Quiet Loyalist Trump \"Loves\" Emerges As Possible Replacement: Report",
     "tt": "Rubio, Beyaz Saray'dan Çıkışı Tartışırken Sessiz Sadık Trump'ın \"Sevgileri\" Olası Bir Yer Değiştirme Olarak Ortaya Çıktı; Rapor",
-    "s": "Rubio Discussed Exit With White House As Quiet Loyalist Trump \"Loves\" Emerges As Possible Replacement; Report Secretary of State Marco Rubio is considering leaving the Trump administration following Republicans' devastating midterm election defeat, Bloomberg reports. Rubio and his advisers are weigh",
+    "s": "Rubio Discussed Exit With White House As Quiet Loyalist Trump \"Loves\" Emerges As Possible Replacement: Report Secretary of State Marco Rubio is considering leaving the Trump administration following Republicans' devastating midterm election defeat, Bloomberg reports. Rubio and his advisers are weigh",
     "ss": "Rubio, Beyaz Saray'dan Çıkışı Tartışırken Sessiz Sadık Trump'ın \"Sevgileri\" Olası Bir Yer Değiştirme Olarak Ortaya Çıktı; Bloomberg'in haberine göre, Dışişleri Bakanı Marco Rubio, Cumhuriyetçilerin yıkıcı ara seçim yenilgisinin ardından Trump yönetiminden ayrılmayı düşünüyor. Rubio ve danışmanları tartılıyor",
     "u": "https://www.zerohedge.com/markets/report-rubio-discussed-exit-white-house-quiet-loyalist-trump-loves-emerges-possible",
     "ts": 1793911500000,
@@ -805,36 +834,45 @@
      "BTC ▲",
      "Altcoin ▲"
     ]
-   },
-   {
-    "t": "Iranian Video Threatens To Kill Bessent As State TV Analyst Eyes European Military Bases",
-    "tt": "Devlet TV Analisti Avrupa Askeri Üslerini Gözetlerken İranlı Video Bessent'i Öldürmekle Tehdit Ediyor",
-    "s": "Iranian Video Threatens To Kill Bessent As State TV Analyst Eyes European Military Bases Authored by Catherine Salgado via PJ Media , Feeling confident and smug after the results of the American midterm election, Iranian terrorists are threatening to assassinate Treasury Secretary Scott Bessent and ",
-    "ss": "İran Videosu, Devlet TV Analisti Avrupa Askeri Üslerini Gözetlerken Bessent'i Öldürmekle Tehdit Ediyor Catherine Salgado tarafından PJ Media aracılığıyla yazılmıştır. Amerika ara seçim sonuçlarının ardından kendinden emin ve kendini beğenmiş hisseden İranlı teröristler, Hazine Bakanı Scott Bessent ve",
-    "u": "https://www.zerohedge.com/markets/iranian-video-threatens-kill-bessent-state-tv-analyst-eyes-european-military-bases",
-    "ts": 1793903400000,
-    "tags": []
-   },
-   {
-    "t": "\"Prices Have Just Jumped\": Nashville Is Now America’s Unexpected Home Of Ultra-Luxury",
-    "tt": "\"Fiyatlar Aniden Yükseldi\": Nashville Artık Amerika'nın Beklenmedik Ultra Lüks Evi",
-    "s": "\"Prices Have Just Jumped\": Nashville Is Now America’s Unexpected Home Of Ultra-Luxury Nashville is quickly becoming one of America's most desirable cities for business, investment, and luxury living. Once known primarily for country music and entertainment, the Tennessee capital is attracting wealth",
-    "ss": "\"Fiyatlar Aniden Yükseldi\": Nashville Artık Amerika'nın Ultra Lüksün Beklenmedik Evi Nashville hızla iş, yatırım ve lüks yaşam için Amerika'nın en çok arzu edilen şehirlerinden biri haline geliyor. Bir zamanlar öncelikle country müziği ve eğlencesiyle tanınan Tennessee'nin başkenti zenginlik çekiyor",
-    "u": "https://www.zerohedge.com/markets/move-over-miami-nashville-now-americas-unexpected-home-ultra-luxury",
-    "ts": 1793901600000,
-    "tags": []
-   },
-   {
-    "t": "University Of San Francisco Caves To Wokeness, Cancels Mascot After 90 Years",
-    "tt": "San Francisco Üniversitesi Uyanışa Davet Ediyor, 90 Yıl Sonra Maskotunu İptal Ediyor",
-    "s": "University Of San Francisco Caves To Wokeness, Cancels Mascot After 90 Years Authored by Bryan Hyde via American Greatness , The University of San Francisco (USF) has officially announced that its new mascot is the wolf, replacing the nearly century-old \"Don\" costume following student backlash over ",
-    "ss": "San Francisco Üniversitesi Uyanmak İçin Mağarada, Maskotunu 90 Yıl Sonra İptal Ediyor Bryan Hyde tarafından American Greatness aracılığıyla yazılan San Francisco Üniversitesi (USF), öğrencilerin tepkisinin ardından neredeyse asırlık \"Don\" kostümünün yerine yeni maskotunun kurt olduğunu resmen duyurdu.",
-    "u": "https://www.zerohedge.com/political/university-san-francisco-caves-wokeness-cancels-mascot-after-90-years",
-    "ts": 1793900700000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Tofaş'tan beklentileri aşan kâr performansı",
+    "tt": null,
+    "s": "Tofaş, 2026 yılının üçüncü çeyreğinde 4,3 milyar TL net kâr açıklayarak 2,5 milyar TL'lik piyasa beklentisinin belirgin şekilde üzerinde bir performans sergiledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tofas-tan-beklentileri-asan-kar-performansi-3793718",
+    "ts": 1793914398000,
+    "tags": []
+   },
+   {
+    "t": "Mekke Anlaşması TBMM'de kabul edildi",
+    "tt": null,
+    "s": "Türkiye, Pakistan ve Suudi Arabistan arasında ortak savunmaya yönelik Mekke Anlaşması Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulu'nda kabul edildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/mekke-anlasmasi-tbmm-de-kabul-edildi-3793717",
+    "ts": 1793913809000,
+    "tags": []
+   },
+   {
+    "t": "Resmi Gazete'de bugün (06.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-06112026-3793716",
+    "ts": 1793913123000,
+    "tags": []
+   },
+   {
+    "t": "BDDK, Golden Global Yatırım Bankası'nın faaliyet iznini kaldırdı",
+    "tt": null,
+    "s": "Bankacılık Düzenleme ve Denetleme Kurulu (BDDK), Golden Global Yatırım Bankası A.Ş.'nin faaliyet iznini kaldırdı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bddk-golden-global-yatirim-bankasi-nin-faaliyet-iznini-kaldirdi-3793715",
+    "ts": 1793912733000,
+    "tags": []
+   },
    {
     "t": "ABD'den uluslararası dolandırıcılık ağına yeni yaptırımlar",
     "tt": null,
@@ -887,42 +925,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/rubio-nun-baskanlik-yarisi-icin-istifa-edecegi-iddiasi-3793698",
     "ts": 1793903306000,
-    "tags": []
-   },
-   {
-    "t": "Ford Otosan'dan üçüncü çeyrekte beklentileri aşan net kâr",
-    "tt": null,
-    "s": "Ford Otosan, 2026 yılının üçüncü çeyreğinde 8,4 milyar TL net kâr açıklayarak 7,3 milyar TL'lik piyasa konsensüsünün üzerinde bir performans sergiledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ford-otosan-dan-ucuncu-ceyrekte-beklentileri-asan-net-kr-3793697",
-    "ts": 1793902022000,
-    "tags": []
-   },
-   {
-    "t": "Fitch'ten ABD'deki veri merkezi yatırımlarına ilişkin uyarı",
-    "tt": null,
-    "s": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD'deki yapay zeka veri merkezi yatırımlarının olası düzenleyici kısıtlamalar ve elektrik tedarikindeki gecikmeler nedeniyle artan risklerle karşı karşıya olduğunu bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fitch-ten-abd-deki-veri-merkezi-yatirimlarina-iliskin-uyari-3793695",
-    "ts": 1793901075000,
-    "tags": []
-   },
-   {
-    "t": "Paraguay Devlet Başkanı Pena bankacılık krizinin ardından istifa etti",
-    "tt": null,
-    "s": "Paraguay Devlet Başkanı Santiago Pena, yaklaşık 3 milyon müşterinin banka hesaplarına erişimini kaybetmesine yol açan dijital banka Ueno'nun çöküşünün ardından artan siyasi baskılar üzerine istifa etti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/paraguay-devlet-baskani-pena-bankacilik-krizinin-ardindan-istifa-etti-3793694",
-    "ts": 1793900294000,
-    "tags": []
-   },
-   {
-    "t": "İran'dan UAEA Başkanı Grossi'ye bilgi sızdırma suçlaması",
-    "tt": null,
-    "s": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi'yi gizli ve hassas bilgileri İran'ın düşmanlarıyla paylaşmakla suçladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-dan-uaea-baskani-grossi-ye-bilgi-sizdirma-suclamasi-3793693",
-    "ts": 1793898043000,
     "tags": []
    }
   ]
