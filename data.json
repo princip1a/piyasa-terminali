@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T21:58:39.234390+00:00",
+ "generated": "2026-11-05T22:42:19.433632+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4098.0,
+   "p": 4097.9,
    "c": 0.61,
-   "d": 25.0,
+   "d": 24.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.805,
-   "c": -0.6,
-   "d": -0.315,
+   "p": 51.83,
+   "c": -0.56,
+   "d": -0.29,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.99,
-   "c": 3.26,
-   "d": 2.87,
+   "p": 91.2,
+   "c": 3.5,
+   "d": 3.08,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 98.87,
-   "c": 4.49,
-   "d": 4.25,
+   "p": 99.25,
+   "c": 4.89,
+   "d": 4.63,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.595,
+   "p": 101.589,
    "c": 0.08,
-   "d": 0.085,
+   "d": 0.079,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.9812,
-   "c": -0.06,
-   "d": -0.029,
+   "p": 50.081,
+   "c": 0.14,
+   "d": 0.071,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75818,
-   "c": -5.47,
+   "p": 75727,
+   "c": -6.3,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2230.1,
-   "c": -7.76,
+   "p": 2230.66,
+   "c": -8.61,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 89.95,
-   "c": -5.1,
+   "p": 89.6,
+   "c": -6.54,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.22,
-   "c": -6.25,
+   "c": -7.21,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 688.23,
-   "c": -4.05,
+   "p": 687.72,
+   "c": -4.78,
    "k": "usd"
   }
  ],
@@ -454,6 +454,33 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Qantas Hikes Fares, Deepens Cuts to Flying as Fuel Costs Bite",
+    "tt": "Qantas Ücretleri Arttırdı, Yakıt Maliyetleri Düşerken Uçuş Kesimlerini Derinleştirdi",
+    "s": "Qantas Airways Ltd. is hiking air fares and making deeper cuts to its domestic flight schedules early next year to tackle rising fuel prices.",
+    "ss": "Qantas Airways Ltd., artan yakıt fiyatlarıyla mücadele etmek için önümüzdeki yılın başlarında uçak biletlerini artırıyor ve iç hat uçuş programlarında daha derin kesintiler yapıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/qantas-hikes-fares-deepens-cuts-to-flying-as-fuel-costs-bite",
+    "ts": 1793917865000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap",
+    "tt": "Yapay zekanın derinleşmesiyle Asya hisse senetleri satışlara hazırlanıyor: Piyasalardaki toparlanma",
+    "s": "Asian stock futures pointed to steep losses on Friday as a post-election rout in chipmakers deepened on Wall Street on growing concerns that Democrats will seek tighter regulation of the artificial intelligence industry.",
+    "ss": "Asya hisse senedi vadeli işlemleri, Demokratların yapay zeka endüstrisine yönelik daha sıkı düzenlemeler isteyeceğine dair artan endişeler nedeniyle çip üreticilerindeki seçim sonrası bozgunun Wall Street'te derinleşmesiyle Cuma günü büyük kayıplara işaret etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793917079000,
+    "tags": []
+   },
+   {
+    "t": "Worst US Stock Rout Since 2020 Leaves Virtually Nowhere to Hide",
+    "tt": "2020'den Bu Yana En Kötü ABD Hisse Senedi Bozgunu, Neredeyse Saklanacak Yer Bırakmıyor",
+    "s": "The fears had shadowed Wall Street off and on for months. Then, all at once, everyone rushed for the exits.",
+    "ss": "Korkular aylarca Wall Street'i gölgede bırakmıştı. Daha sonra herkes bir anda çıkışlara koştu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide",
+    "ts": 1793916713000,
+    "tags": []
+   },
+   {
     "t": "Argentine Markets on Edge as Peso Repo Rates Soar to 190%",
     "tt": "Arjantin Piyasaları Peso Repo Faizlerinin %190'a Yükselmesiyle Endişeli",
     "s": "Argentine financial markets sank Thursday, with dollar bonds leading emerging-market losses and overnight repo rates surging amid growing worries about the government’s finances.",
@@ -517,33 +544,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-05/trump-backed-critical-minerals-deals-face-growing-pressure-after-blue-wave",
     "ts": 1793903597000,
     "tags": []
-   },
-   {
-    "t": "BofA Rejigs Global Credit Trading Businesses to Boost Liquidity",
-    "tt": "BofA Likiditeyi Artırmak İçin Küresel Kredi Ticareti İşletmelerini Reddetti",
-    "s": "Bank of America Corp. is combining its global credit macro, fixed income exchange-traded fund, and high-grade corporate bond trading businesses into a single platform as the Wall Street firm looks to streamline credit trading for clients and boost the liquidity it can offer.",
-    "ss": "Bank of America Corp. küresel kredi makrosunu, sabit gelirli borsa yatırım fonunu ve yüksek dereceli kurumsal tahvil alım satım işlerini tek bir platformda birleştiriyor; Wall Street firması müşteriler için kredi ticaretini kolaylaştırmak ve sunabileceği likiditeyi artırmak istiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/bofa-rejigs-global-credit-trading-businesses-to-boost-liquidity",
-    "ts": 1793912871000,
-    "tags": []
-   },
-   {
-    "t": "Grindr Lifts Outlook, Expects to Meet 2027 Targets Ahead of Plan",
-    "tt": "Grindr Görünümü Yükseltiyor, Planın İlerisinde 2027 Hedeflerine Ulaşmayı Bekliyor",
-    "s": "Grindr Inc. raised its guidance for the current year and said it expects to meet its 2027 targets about 12 months ahead of schedule, signs the company has been succeeding in its strategy to market itself as more than just a dating app for gay men.",
-    "ss": "Grindr Inc. bu yıl için tahminini yükseltti ve 2027 hedeflerine planlanandan yaklaşık 12 ay önce ulaşmayı beklediğini söyledi; bu, şirketin kendisini eşcinsel erkeklere yönelik bir flört uygulamasından daha fazlası olarak pazarlama stratejisinde başarılı olduğuna işaret ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/grindr-lifts-outlook-expects-to-meet-2027-targets-ahead-of-plan",
-    "ts": 1793912865000,
-    "tags": []
-   },
-   {
-    "t": "Lyft Posts Surprise Loss on Settlement, Gives In-Line Outlook",
-    "tt": "Lyft, Uzlaştırmada Sürpriz Zarar Açıkladı, Doğru Görünüm Verdi",
-    "s": "Lyft Inc. issued a quarterly ride bookings and earnings forecast that met expectations and posted a surprise loss due to an earlier legal settlement related to driver classification.",
-    "ss": "Lyft Inc., beklentileri karşılayan üç aylık yolculuk rezervasyonları ve kazanç tahminlerini yayınladı ve sürücü sınıflandırmasıyla ilgili daha erken bir yasal uzlaşma nedeniyle sürpriz bir zarar bildirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/lyft-posts-surprise-loss-on-settlement-gives-in-line-outlook",
-    "ts": 1793912828000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -553,7 +553,7 @@
     "s": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
     "ss": "Nasdaq'ın düzeltme bölgesine kayması, toparlanma geçmişine odaklanıyor. İşte tarihin gösterdiği şey.",
     "u": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-    "ts": 1793915853000,
+    "ts": 1793917884000,
     "tags": []
    },
    {
@@ -651,6 +651,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+    "tt": "2027 vergi dilimleri çıktı. Bakalım standart kesinti ve SALT vergi indirimleri ne olacak?",
+    "s": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
+    "ss": "Amerikalıların gelir vergisi faturalarının kalbinde yer alan vergi dilimleri, 2027'de bu yıla kıyasla daha dik bir seviyede ayarlanacak ve bu da enflasyonun yeniden alevlenen varlığının altını çizecek.",
+    "u": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+    "ts": 1793918400000,
+    "tags": []
+   },
+   {
+    "t": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+    "tt": "Yeni vergi dilimleriyle 2027'de Roth dönüşümlerinde ne kadar yapabilirsiniz?",
+    "s": "The math should actually start with “if” — not “how much.”",
+    "ss": "Matematik aslında \"ne kadar\" ile değil \"eğer\" ile başlamalıdır.",
+    "u": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+    "ts": 1793917440000,
+    "tags": []
+   },
+   {
+    "t": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+    "tt": "Acımasız bir satıştan sonra Iren'in hisselerini yükselten şey işte bu",
+    "s": "Iren announced a new cloud-computing deal and noted that much of its backlog is tied to “investment-grade counterparties.”",
+    "ss": "Iren yeni bir bulut bilişim anlaşması yaptığını duyurdu ve birikmiş iş yükünün çoğunun \"yatırım düzeyindeki karşı taraflara\" bağlı olduğunu belirtti.",
+    "u": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+    "ts": 1793917260000,
+    "tags": []
+   },
+   {
     "t": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
     "tt": "Yapay zeka ticaretinde katliam yaşanırken teknoloji hisseleri 2020'den bu yana en kötü gününü kaydetti",
     "s": "The S&amp;P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.",
@@ -712,36 +739,27 @@
     "u": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
     "ts": 1793914260000,
     "tags": []
-   },
-   {
-    "t": "5 of this year’s biggest stock losers that are good bets in 2027",
-    "tt": "Bu yılın en büyük hisse senedi kaybedenlerinden 5'i, 2027'de iyi bahisler",
-    "s": "One year’s worst performers often beat the market the next",
-    "ss": "Bir yılın en kötü performans gösterenleri genellikle bir sonraki yıl piyasayı yener",
-    "u": "https://www.marketwatch.com/story/5-of-this-years-biggest-stock-losers-that-are-good-bets-in-2027-bb861d4c?mod=mw_rss_topstories",
-    "ts": 1793914140000,
-    "tags": []
-   },
-   {
-    "t": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-    "tt": "Bloom Energy'nin hisseleri, veri merkezi gecikmeleri korkuları arasında S&P 500'ün en büyük kaybedenlerinden biri",
-    "s": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
-    "ss": "Bloom Energy hisseleri, yatırımcıların veri merkezi gelişiminin ABD ara seçimleri sonrasında durma riskiyle karşı karşıya olduğundan endişe duymasıyla Perşembe günü teknoloji hisselerindeki keskin satış dalgasına maruz kaldı.",
-    "u": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-    "ts": 1793913960000,
-    "tags": []
-   },
-   {
-    "t": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
-    "tt": "Teknoloji kaynaklı hisse satışları derinleştikçe tüccarlar güvenlik için Hazine piyasasına akın ediyor",
-    "s": "A record $8 trillion in cash is now also on the sidelines in U.S. money-market funds, according to the Investment Company Institute.",
-    "ss": "Yatırım Şirketi Enstitüsü'ne göre, ABD para piyasası fonlarında şu anda 8 trilyon dolarlık rekor bir nakit de kenarda duruyor.",
-    "u": "https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories",
-    "ts": 1793913540000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Every GOP Strategist & Candidate Should Be Forced To Participate In This Role-Playing Exercise",
+    "tt": "Her GOP Stratejisti ve Adayı Bu Rol Yapma Tatbikatına Katılmaya Zorlanmalıdır",
+    "s": "Every GOP Strategist &amp; Candidate Should Be Forced To Participate In This Role-Playing Exercise Authored by The Refined Populist Every GOP strategist, consultant, and candidate should be forced to participate in a role-playing exercise this morning... Your name is Bob . You’re a 49-year-old blue-",
+    "ss": "Her GOP Stratejisti ve Adayı, Rafine Popülist Tarafından Hazırlanan Bu Rol Yapma Tatbikatına Katılmaya Zorlanmalı Her GOP stratejisti, danışmanı ve adayı, bu sabah bir rol yapma tatbikatına katılmaya zorlanmalıdır... Adınız Bob. Sen 49 yaşında bir mavisin",
+    "u": "https://www.zerohedge.com/political/every-gop-strategist-candidate-should-be-forced-participate-role-playing-exercise",
+    "ts": 1793918400000,
+    "tags": []
+   },
+   {
+    "t": "UCLA Cops Stockpile Drones And Less-Lethal Munitions For 'Emergency Incidents'",
+    "tt": "UCLA Polisleri 'Acil Durum Olayları' İçin Drone'lar ve Daha Az Öldürücü Mühimmat Stokluyor",
+    "s": "UCLA Cops Stockpile Drones And Less-Lethal Munitions For 'Emergency Incidents' Authored by Bryan Hyde via American Greatness , The UCLA Police Department (UCPD) spent more than $220,000 on drones and less-than-lethal munitions in 2025 and is now seeking approval to expand its inventory further. An O",
+    "ss": "UCLA Polisleri \"Acil Durum Olayları\" İçin Drone'ları ve Daha Az Öldürücü Mühimmat Stokluyor Yazar: Bryan Hyde, American Greatness aracılığıyla, UCLA Polis Departmanı (UCPD), 2025 yılında drone'lara ve öldürücü olmayan mühimmatlara 220.000 dolardan fazla harcadı ve şimdi envanterini daha da genişletmek için onay arıyor. bir O",
+    "u": "https://www.zerohedge.com/political/ucla-cops-stockpile-drones-and-less-lethal-munitions-emergency-incidents",
+    "ts": 1793917200000,
+    "tags": []
+   },
    {
     "t": "House Democrats Eye Their Own Crypto Market Structure Bill With A Bigger SEC Role After Sweep",
     "tt": "Temsilciler Meclisi Demokratları, Süpürmeden Sonra Daha Büyük Bir SEC Rolüne Sahip Kendi Kripto Piyasası Yapı Tasarısını Gözetliyor",
@@ -813,27 +831,6 @@
     "u": "https://www.zerohedge.com/political/el-sayed-stabs-schumer-back-sends-rare-olive-branch-trump",
     "ts": 1793907000000,
     "tags": []
-   },
-   {
-    "t": "Outcome Of Alaska Senate Race May Not Be Known For Weeks",
-    "tt": "Alaska Senatosu Yarışının Sonucu Haftalardır Bilinmiyor",
-    "s": "Outcome Of Alaska Senate Race May Not Be Known For Weeks Authored by Mark Stricherz via The Center Square , The outcome of a tightly contested and controversial U.S. Senate race in Alaska may not be known until the end of the month or later . Republican candidate for U.S. Senate in Alaska Dan Sulliv",
-    "ss": "Alaska Senatosu Yarışının Sonucu Haftalarca Bilinmeyebilir Yazan Mark Stricherz, The Center Square aracılığıyla, Alaska'daki sıkı çekişmeli ve ihtilaflı ABD Senatosu yarışının sonucu ay sonuna veya daha sonraya kadar bilinemeyebilir. Alaska'daki ABD Senatosu için Cumhuriyetçi aday Dan Sulliv",
-    "u": "https://www.zerohedge.com/political/outcome-alaska-senate-race-may-not-be-known-weeks",
-    "ts": 1793905200000,
-    "tags": []
-   },
-   {
-    "t": "Deepwater's Munster: AI Is \"Different This Time\"",
-    "tt": "Deepwater'dan Munster: Yapay Zeka \"Bu Kez Farklı\"",
-    "s": "Deepwater's Munster: AI Is \"Different This Time\" Last night's ZeroHedge Debate brought together&nbsp; AI bull Gene Munster and veteran investor (and AI bear) George Noble for a clash over whether the AI-driven stock market rally is another speculative bubble or the beginning of a much larger technol",
-    "ss": "Deepwater'dan Munster: Yapay Zeka Bu Kez \"Farklı\" Dün geceki ZeroHedge Tartışması, yapay zeka boğası Gene Munster ile tecrübeli yatırımcı (ve yapay zeka ayısı) George Noble'ı, yapay zeka destekli borsa yükselişinin başka bir spekülatif balon mu yoksa çok daha büyük bir teknolojinin başlangıcı mı olduğu konusunda bir tartışma için bir araya getirdi",
-    "u": "https://www.zerohedge.com/markets/deepwaters-munster-ai-different-time",
-    "ts": 1793904300000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
    }
   ],
   "Bloomberg HT": [
