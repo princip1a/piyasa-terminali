@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T09:47:28.160199+00:00",
+ "generated": "2026-11-05T10:50:07.365956+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 17.08,
-   "c": 2.83,
-   "d": 0.47,
+   "p": 16.82,
+   "c": 1.26,
+   "d": 0.21,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4136.5,
-   "c": 1.56,
-   "d": 63.5,
+   "p": 4137.5,
+   "c": 1.58,
+   "d": 64.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.765,
-   "c": 1.24,
-   "d": 0.645,
+   "p": 52.915,
+   "c": 1.53,
+   "d": 0.795,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.31,
-   "c": 0.22,
-   "d": 0.19,
+   "p": 88.59,
+   "c": 0.53,
+   "d": 0.47,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.71,
-   "c": 1.15,
-   "d": 1.09,
+   "p": 96.05,
+   "c": 1.51,
+   "d": 1.43,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.477,
-   "c": -0.03,
-   "d": -0.033,
+   "p": 101.528,
+   "c": 0.02,
+   "d": 0.018,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 49.964,
-   "c": -0.09,
-   "d": -0.046,
+   "p": 50.0429,
+   "c": 0.07,
+   "d": 0.033,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11438.68,
-   "c": -0.34,
-   "d": -39.42,
+   "p": 11427.27,
+   "c": -0.44,
+   "d": -50.83,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 80281,
-   "c": 2.43,
+   "p": 80251,
+   "c": 2.29,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2412.94,
-   "c": 4.07,
+   "p": 2414.69,
+   "c": 3.87,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 96.56,
-   "c": 3.89,
+   "p": 96.54,
+   "c": 3.4,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.32,
-   "c": 3.03,
+   "c": 2.07,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 714.6,
-   "c": 1.91,
+   "p": 715.26,
+   "c": 1.96,
    "k": "usd"
   }
  ],
@@ -454,12 +454,68 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "European Stocks Test Fresh Record High; Rheinmetall Weighs",
+    "tt": "AI Unwind Bölgeyi Güçlendirirken Avrupa Hisse Senetleri Yeni Rekorlara Ulaştı",
+    "s": "European stocks briefly surpassed their previous closing record as the region extended an outperformance driven by a rotation out of the artificial intelligence trade and a strong earnings season.",
+    "ss": "Avrupa hisse senetleri, yapay zeka ticaretindeki rotasyon ve güçlü kazanç sezonunun etkisiyle bölgenin üstün performansını sürdürmesiyle önceki kapanış rekorunu aştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
+    "ts": 1793866175000,
+    "tags": []
+   },
+   {
+    "t": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
+    "tt": "Air France-KLM, Hollanda Havayolu Revizyonunu Derinleştiriyor; Hisse Senedi Dalgalanmaları",
+    "s": "Air France-KLM is deepening an overhaul of its Dutch subsidiary as the airline group grapples with higher fuel expenses and a cost-of-living crisis that’s starting to deter some passengers.",
+    "ss": "Air France-KLM, havayolu grubu yüksek yakıt giderleri ve bazı yolcuları caydırmaya başlayan yaşam maliyeti kriziyle boğuşurken, Hollanda'daki yan kuruluşundaki revizyonunu derinleştiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/air-france-klm-to-deepen-dutch-airline-overhaul-amid-high-costs",
+    "ts": 1793862000000,
+    "tags": []
+   },
+   {
+    "t": "ECB’s Zigman Sees ‘Rather Big Chance’ of December Rate Hike",
+    "tt": "ECB'den Zigman, Aralık Faiz Artışı İçin 'Oldukça Büyük Şans' Görüyor",
+    "s": "The European Central Bank is likely to raise borrowing costs next month for the third time since the Iran war began, Governing Council member Ante Zigman said.",
+    "ss": "Yönetim Konseyi üyesi Ante Zigman, Avrupa Merkez Bankası'nın İran savaşının başlangıcından bu yana üçüncü kez borçlanma maliyetlerini muhtemelen önümüzdeki ay artıracağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/ecb-s-zigman-sees-rather-big-chance-of-december-rate-hike",
+    "ts": 1793875224000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap",
     "tt": "Çip Üreticileri Geri Çekilirken Hisse Rotasyonu Devam Ediyor: Piyasalar Sarılıyor",
     "s": "A rotation trade fueled by the US midterm elections entered a second day, with previously unfavored markets and economically sensitive stocks outperforming at the expense of chipmakers.",
     "ss": "ABD ara seçimlerinin körüklediği rotasyon ticareti ikinci güne girdi; önceden tercih edilmeyen piyasalar ve ekonomik açıdan hassas hisse senetleri çip üreticilerinin aleyhine daha iyi performans gösterdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
     "ts": 1793830504000,
+    "tags": []
+   },
+   {
+    "t": "India Stocks, Bonds Surge as Oil Plunge Eases Inflation Risks",
+    "tt": "Petroldeki Düşüşün Enflasyon Risklerini Azalmasıyla Hindistan Hisse Senetleri ve Tahvilleri Yükseldi",
+    "s": "Indian stocks and bonds rallied as a plunge in crude prices reduced inflation concerns and pressure on the external finances of the oil-importing nation.",
+    "ss": "Hindistan hisse senetleri ve tahvilleri, ham petrol fiyatlarındaki düşüşün enflasyon kaygılarını ve petrol ithal eden ülkenin dış maliyesi üzerindeki baskıyı azaltmasıyla yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks",
+    "ts": 1793849652000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Alphabet’s Search Dominance Is at Risk From Its Own AI Success",
+    "tt": "Alphabet'in Arama Hakimiyeti Kendi Yapay Zeka Başarısı Nedeniyle Risk Altında",
+    "s": "Since the artificial intelligence boom began, investors have worried about how Google’s dominance in internet search would hold up in an AI world.",
+    "ss": "Yapay zeka patlaması başladığından bu yana yatırımcılar, Google'ın internet aramasındaki hakimiyetinin yapay zeka dünyasında nasıl ayakta kalacağı konusunda endişeliydi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/alphabet-s-search-dominance-is-at-risk-from-its-own-ai-success",
+    "ts": 1793873158000,
     "tags": []
    },
    {
@@ -481,6 +537,15 @@
     "tags": []
    },
    {
+    "t": "Nordic Alliance Seeks One Public Market to Stem Listings to US",
+    "tt": "Nordic Alliance ABD'ye Listelemeyi Sağlamak İçin Bir Kamu Pazarı Arıyor",
+    "s": "The Nordic region should create a single public market for stocks and other securities to attract more international capital and keep its most promising companies from pursuing listings in the US, according to the Nordic Compass business alliance.",
+    "ss": "Nordic Compass iş birliğine göre, İskandinav bölgesi, daha fazla uluslararası sermaye çekmek ve en umut verici şirketlerin ABD'de listelenmesini engellemek için hisse senetleri ve diğer menkul kıymetler için tek bir kamu piyasası oluşturmalı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/nordic-alliance-seeks-one-public-market-to-stem-listings-to-us",
+    "ts": 1793869200000,
+    "tags": []
+   },
+   {
     "t": "Rheinmetall Cuts 2026 Sales Guidance, Shares Plunge",
     "tt": "Rheinmetall 2026 Satış Yönergesini Kesti, Hisselerde Düşüş",
     "s": "German defense firm Rheinmetall cut its 2026 sales target for the second time, citing delays with the Boxer armored vehicle program that would push orders into next year. Bloomberg's Benedikt Kammel has the details. (Source: Bloomberg)",
@@ -488,66 +553,6 @@
     "u": "https://www.bloomberg.com/news/videos/2026-11-05/rheinmetall-cuts-2026-sales-guidance-shares-plunge-video",
     "ts": 1793868919000,
     "tags": []
-   },
-   {
-    "t": "European Stocks Hit Fresh Record as AI Unwind Boosts Region",
-    "tt": "AI Unwind Bölgeyi Güçlendirirken Avrupa Hisse Senetleri Yeni Rekorlara Ulaştı",
-    "s": "European stocks surpassed their previous closing record as the region extended an outperformance driven by a rotation out of the artificial intelligence trade and a strong earnings season.",
-    "ss": "Avrupa hisse senetleri, yapay zeka ticaretindeki rotasyon ve güçlü kazanç sezonunun etkisiyle bölgenin üstün performansını sürdürmesiyle önceki kapanış rekorunu aştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
-    "ts": 1793866175000,
-    "tags": []
-   },
-   {
-    "t": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
-    "tt": "Değer Rotasyonunun China Tech'i Artırmasıyla Hong Kong Hisse Senetleri Yükselişe Geçti",
-    "s": "After languishing for much of the year, Hong Kong stocks are staging a comeback as investors rotate away from hardware stocks into discounted Chinese internet platforms.",
-    "ss": "Yılın büyük bölümünde zayıflayan Hong Kong hisseleri, yatırımcıların donanım hisselerinden indirimli Çin internet platformlarına yönelmesiyle geri dönüş yapıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
-    "ts": 1793849741000,
-    "tags": []
-   },
-   {
-    "t": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
-    "tt": "Air France-KLM, Hollanda Havayolu Revizyonunu Derinleştiriyor; Hisse Senedi Dalgalanmaları",
-    "s": "Air France-KLM is deepening an overhaul of its Dutch subsidiary as the airline group grapples with higher fuel expenses and a cost-of-living crisis that’s starting to deter some passengers.",
-    "ss": "Air France-KLM, havayolu grubu yüksek yakıt giderleri ve bazı yolcuları caydırmaya başlayan yaşam maliyeti kriziyle boğuşurken, Hollanda'daki yan kuruluşundaki revizyonunu derinleştiriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/air-france-klm-to-deepen-dutch-airline-overhaul-amid-high-costs",
-    "ts": 1793862000000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 5",
-    "tt": "5 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Brent oil held near a two-month low after tumbling almost 9% in the previous session as investors bet that a Democratic sweep in the US midterm elections could accelerate efforts to end the war in the Middle East.",
-    "ss": "Brent petrolü, yatırımcıların ABD ara seçimlerinde Demokratların elde edeceği bir zaferin Orta Doğu'daki savaşı sona erdirme çabalarını hızlandırabileceğine dair iddiaları ile bir önceki seansta neredeyse %9 düştükten sonra iki ayın en düşük seviyesinde kaldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
-    "ts": 1793833681000,
-    "tags": []
-   },
-   {
-    "t": "China’s Copper Squeeze Deepens as Buyers Scramble For Metal",
-    "tt": "Alıcılar Mücadeleye Başlarken Çin'de Bakır Sıkışması Derinleşiyor",
-    "s": "Copper buyers in China are scrambling for physical metal, with spot premiums soaring as supplies tighten sharply in the world’s biggest consumer.",
-    "ss": "Çin'deki bakır alıcıları fiziksel metal için çabalıyor; dünyanın en büyük tüketicisinde arz keskin bir şekilde daralırken spot primler de yükseliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
-    "ts": 1793845800000,
-    "tags": []
-   },
-   {
-    "t": "BOE Set to Hike Rates for First Time in Three Years",
-    "tt": "BOE Üç Yılda İlk Kez Faiz Arttıracak",
-    "s": "The Bank of England looks ready to raise interest rates by a quarter point to 4%, its first hike in more than three years. Ana Andrade of Bloomberg Economics has a preview of the decision. (Source: Bloomberg)",
-    "ss": "İngiltere Merkez Bankası, faiz oranlarını çeyrek puan artırarak %4'e çıkarmaya hazır görünüyor; bu, üç yıldan fazla bir süredir ilk artışı. Bloomberg Economics'ten Ana Andrade kararın ön izlemesine sahip. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-05/boe-set-to-hike-rates-for-first-time-three-years-video",
-    "ts": 1793865030000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -652,6 +657,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist",
+    "tt": "Bu strateji uzmanı, İran'da uzun süreli bir savaşın piyasanın gerçek 'kara kuğu' olduğunu söylüyor",
+    "s": "Alicia Levine, of BNY’s wealth management business, said markets have not priced in the possibility of the war in Iran lasting for a long time.",
+    "ss": "BNY'nin varlık yönetimi biriminden Alicia Levine, piyasaların İran'daki savaşın uzun süre sürmesi olasılığını fiyatlamadığını söyledi.",
+    "u": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
+    "ts": 1793874000000,
+    "tags": []
+   },
+   {
+    "t": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+    "tt": "93 yaşındaki babam saat 11'de vasiyetini değiştirerek 500.000 dolarlık mirasının tamamını kardeşime bıraktı. Buna meydan okuyabilir miyim?",
+    "s": "“My brother had no job and needed a place to live.”",
+    "ss": "“Kardeşimin işi yoktu ve yaşayacak bir yere ihtiyacı vardı.”",
+    "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+    "ts": 1793873700000,
+    "tags": []
+   },
+   {
+    "t": "Toyota stock rallies after company lowered sales guidance. Here’s how rare that is.",
+    "tt": "Toyota hisseleri, şirketin satış beklentisini düşürmesinin ardından yükselişe geçti. İşte bunun ne kadar nadir olduğu.",
+    "s": "Toyota Motor on Thursday saw an odd combination of a powerful stock-market gain after lowering its annual sales forecast.",
+    "ss": "Perşembe günü Toyota Motor, yıllık satış tahminini düşürdükten sonra güçlü bir borsa kazancının garip bir kombinasyonunu gördü.",
+    "u": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
+    "ts": 1793873700000,
+    "tags": []
+   },
+   {
+    "t": "Richard Simmons’ L.A. estate sells for $3.8 million",
+    "tt": "Richard Simmons'ın Los Angeles'taki mülkü 3,8 milyon dolara satılıyor",
+    "s": "Over a year after Richard Simmons’ death, the fitness guru’s longtime home has sold to a buyer drawn to its rich history.",
+    "ss": "Richard Simmons'ın ölümünden bir yıldan fazla bir süre sonra, fitness gurusunun uzun süredir kullandığı ev, zengin tarihine ilgi duyan bir alıcıya satıldı.",
+    "u": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
+    "ts": 1793872920000,
+    "tags": []
+   },
+   {
     "t": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
     "tt": "Demokratların Kongre'de iktidara gelmesinin ardından Dow, 18 ayın en iyi gününü büyük bir rahatlama mitinginde kaydetti",
     "s": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
@@ -709,45 +750,18 @@
     "u": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
     "ts": 1793840460000,
     "tags": []
-   },
-   {
-    "t": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
-    "tt": "Vistra ve diğer enerji hisseleri düşerken bazı analistler \"aşırı tepki\" tepkisi konusunda uyarıyor",
-    "s": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
-    "ss": "Enerji stokları zaten baskı altında ve yeni seçilen yetkililer veri merkezi patlamasını korkulduğu kadar yavaşlatamayabilir.",
-    "u": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-    "ts": 1793839080000,
-    "tags": []
-   },
-   {
-    "t": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-    "tt": "'Hayatım kısa kesilebilir': 55 yaşındayım, 4,3 milyon dolarla evliyim ve beyin tümörüm var. 210.000 dolarlık özel bir Porsche almalı mıyım?",
-    "s": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-    "ss": "\"Ben de iki oğluma anlamlı bir miras bırakma fırsatını korumak istiyorum.\"",
-    "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "ts": 1793835900000,
-    "tags": []
-   },
-   {
-    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden Roth'un dönüşümünü zorluyor?",
-    "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-    "ss": "“Temel yaşam masraflarımız yıllık 110.000 dolar emekli maaşı ve Sosyal Güvenlik tarafından karşılanıyor.”",
-    "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "ts": 1793830500000,
-    "tags": []
-   },
-   {
-    "t": "How do Americans feel about the midterm results? It depends on how much money they make.",
-    "tt": "Amerikalılar ara dönem sonuçları hakkında ne düşünüyor? Ne kadar para kazandıklarına bağlı.",
-    "s": "Most Americans are “thrilled” or “happy” about the results of this year’s election. Some are especially so.",
-    "ss": "Amerikalıların çoğu bu yılki seçim sonuçlarından \"heyecanlanıyor\" veya \"mutlu\". Bazıları özellikle böyledir.",
-    "u": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
-    "ts": 1793829960000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Sequoia Capital Shutters London Office As Silicon Valley's VC Giants Pull Back",
+    "tt": "Silikon Vadisi'nin VC Devleri Geri Çekilirken Sequoia Capital Londra Ofisini Kapattı",
+    "s": "Sequoia Capital Shutters London Office As Silicon Valley's VC Giants Pull Back In a troubling sign for European capital markets, Sequoia Capital, one of Silicon Valley's top venture capital firms, is shuttering its London-based office after roughly six years of operation. \" This is not about the tea",
+    "ss": "Silikon Vadisi'nin VC Devleri Geri Çekilirken Sequoia Capital Londra Ofisini Kapattı Avrupa sermaye piyasaları için rahatsız edici bir işaret olarak, Silikon Vadisi'nin en büyük risk sermayesi şirketlerinden biri olan Sequoia Capital, yaklaşık altı yıllık faaliyetin ardından Londra merkezli ofisini kapatıyor. \"Bu çayla ilgili değil",
+    "u": "https://www.zerohedge.com/markets/sequoia-capital-shutters-london-office-silicon-valleys-vc-giants-pull-back",
+    "ts": 1793874000000,
+    "tags": []
+   },
    {
     "t": "Cyberattack Targets French Blood Bank Fridges",
     "tt": "Siber Saldırı Fransız Kan Bankası Buzdolaplarını Hedef Alıyor",
@@ -828,106 +842,97 @@
     "u": "https://www.zerohedge.com/military/space-force-guardians-will-now-officially-serve-alongside-elite-units-seals-and-green",
     "ts": 1793846700000,
     "tags": []
-   },
-   {
-    "t": "Aaron Maté: CIA Still Runs 12 Secret Border Bases In Ukraine, Even As Trump Breaks With Zelensky",
-    "tt": "Aaron Maté: Trump Zelensky'den Ayrılsa Bile CIA Ukrayna'da Hala 12 Gizli Sınır Üssü işletiyor",
-    "s": "Aaron Maté: CIA Still Runs 12 Secret Border Bases In Ukraine, Even As Trump Breaks With Zelensky Journalist Aaron Maté told Judge Andrew Napolitano on Tuesday that the CIA is still \"running, if the New York Times is to be believed, 12 secret bases inside of Ukraine,\" and still controlling Ukrainian ",
-    "ss": "Aaron Maté: Trump Zelensky ile İlişkilerini Kesse Bile CIA Ukrayna'da Hala 12 Gizli Sınır Üssü Yönetiyor Gazeteci Aaron Maté Salı günü Yargıç Andrew Napolitano'ya CIA'nın \"New York Times'a inanılacak olursa Ukrayna'da 12 gizli üssü yönettiğini\" ve hala Ukrayna'yı kontrol ettiğini söyledi.",
-    "u": "https://www.zerohedge.com/geopolitical/aaron-mate-cia-still-runs-12-secret-border-bases-ukraine-even-trump-breaks-zelensky",
-    "ts": 1793845200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
    {
-    "t": "Euro Bölgesi enflasyonu üç yılın zirvesinde",
+    "t": "KLM personel sayısını yüzde 15 azaltıyor",
     "tt": null,
-    "s": "Euro Bölgesi'nde yıllık enflasyon Ekim ayında yüzde 4'e yükselerek Eylül 2023'ten bu yana en yüksek seviyesine ulaştı. Enflasyonun Avrupa Merkez Bankası'nın (AMB) yüzde 2'lik hedefinin iki katına çıkması, bankanın faiz artırımlarına devam edebileceği beklentilerini güçlendirdi.",
+    "s": "Hollanda'nın bayrak taşıyıcı hava yolu şirketi KLM, bazı faaliyetlerin başka şirketlere aktarılmasını ve personel sayısının azaltılmasını içeren, yaklaşık 5 bin pozisyonu kapsayan yeniden yapılanma planı hazırladı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/euro-bolgesi-nde-enflasyon-hedefin-iki-katina-cikti-3793460",
-    "ts": 1793788568000,
+    "u": "https://www.bloomberght.com/klm-personel-sayisini-yuzde-15-azaltiyor-3793633",
+    "ts": 1793871057000,
     "tags": []
    },
    {
-    "t": "\"COP31 'uygulama COP'u' olacak\"",
+    "t": "Şimşek: Emeklilerin alım gücünü desteklemek için alan oluşturduk",
     "tt": null,
-    "s": "Türkiye'nin ev sahipliği yapacağı COP31 İklim Zirvesi öncesinde sanayi ve finans sektöründeki yeşil dönüşüm çalışmaları ivme kazanıyor.",
+    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, 2027 bütçesinde emeklilerin alım gücünü desteklemek için alan oluşturduklarını belirtti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/cop31-uygulama-copu-olacak-3793458",
-    "ts": 1793788532000,
+    "u": "https://www.bloomberght.com/simsek-emeklilerin-alim-gucunu-desteklemek-icin-alan-olusturduk-3793631",
+    "ts": 1793869799000,
     "tags": []
    },
    {
-    "t": "İTO Başkanlığına yeniden Avdagiç seçildi",
+    "t": "Erdoğan: (Fon soruşturması) Sermaye piyasalarımızı bu mikroptan temizleyeceğiz",
     "tt": null,
-    "s": "İstanbul Ticaret Odası'nın (İTO) 22'nci dönem başkanlığına Şekib Avdagiç, 270 Meclis üyesinin 251'sinin oyunu alarak yeniden seçildi.",
+    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan Güney Kore ziyareti dönüşü uçakta gazetecilerin sorularını yanıtladı. Erdoğan fon soruşturmasına dair \"Hiç ummadığınız insanlar, bu işlerin içerisine girmişler. Yargı bunları tespit ediyor ve gerekeni yapıyor. Sermaye piyasalarımızı bu mikroptan temizleyecek, inşal",
     "ss": null,
-    "u": "https://www.bloomberght.com/ito-baskanligina-yeniden-avdagic-secildi-3793448",
-    "ts": 1793786122000,
+    "u": "https://www.bloomberght.com/erdogan-fon-sorusturmalari-sermaye-piyasalarimizi-bu-mikroptan-temizleyecegiz-3793621",
+    "ts": 1793869190000,
     "tags": []
    },
    {
-    "t": "Penta Teknoloji 2026'nın ilk 9 ayında 28 milyar TL ciro kaydetti",
+    "t": "Bakan Bayraktar: Türkiye artık ekonomisini elektrikleştirecek",
     "tt": null,
-    "s": "Penta Teknoloji'nin 2026 yılının 9 aylık konsolide cirosu, geçen yılın aynı dönemine kıyasla yüzde 26 artış göstererek 28 milyar TL'ye yükseldi.",
+    "s": "Milli Enerji 2040 lansmanında konuşan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"2024 yılına kadar 100 milyar dolar yatırımla 175 GW/RES kurulu güç hedefliyoruz\" dedi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/penta-teknoloji-2026-nin-ilk-9-ayinda-28-milyar-tl-ciro-kaydetti-3793436",
-    "ts": 1793782512000,
+    "u": "https://www.bloomberght.com/bakan-bayraktar-turkiye-artik-ekonomisini-elektriklestirecek-3793617",
+    "ts": 1793868664000,
     "tags": []
    },
    {
-    "t": "THY'nin kârı yakıt baskısına rağmen beklentileri aştı",
+    "t": "Çin'den SoftBank'ın ABB'nin robotik birimini alma girişimine engel",
     "tt": null,
-    "s": "Türk Hava Yolları, 2026 yılının üçüncü çeyreğinde 1,3 milyar dolar net kâr açıklayarak 1,1 milyar dolarlık piyasa beklentisinin üzerinde bir performans sergiledi.",
+    "s": "Çin, ABB'nin robotik biriminin SoftBank Group'a satışını engelledi. Satışın engellenmesi Japon yatırım şirketinin fiziki yapay zeka alanına genişleme planlarına darbe vurdu.",
     "ss": null,
-    "u": "https://www.bloomberght.com/thy-nin-kri-yakit-baskisina-ragmen-beklentileri-asti-3793435",
-    "ts": 1793782180000,
+    "u": "https://www.bloomberght.com/cin-den-softbankin-abb-yi-alma-girisimine-engel-3793611",
+    "ts": 1793867329000,
     "tags": []
    },
    {
-    "t": "Takasbank'tan TP2 fonuyla ilgili açıklama",
+    "t": "Avrupa hisselerinde yeni rekor",
     "tt": null,
-    "s": "Takasbank, Tera'nın TP2 fonuyla herhangi bir borç ilişkisi bulunmadığını belirtti.",
+    "s": "Avrupa borsaları, yatırımcıların yapay zeka hisselerinden rotasyon yapması ve beklentileri aşan bilançoların etkisiyle önceki kapanış rekorunu aşarak yükselişini sürdürdü.",
     "ss": null,
-    "u": "https://www.bloomberght.com/takasbank-tan-tp2-fonuyla-ilgili-aciklama-3793434",
-    "ts": 1793781598000,
+    "u": "https://www.bloomberght.com/avrupa-hisselerinde-yeni-rekor-3793601",
+    "ts": 1793866737000,
     "tags": []
    },
    {
-    "t": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar",
+    "t": "Türkiye Sigorta üçüncü çeyrekte zarar açıkladı",
     "tt": null,
-    "s": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
+    "s": "Türkiye Sigorta, 2026 yılının üçüncü çeyreğinde 5,4 milyar TL net zarar açıkladı. Şirketin sonuçları, 6,6 milyar TL net kâr öngören piyasa konsensüsünün belirgin şekilde altında kaldı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-3793427",
-    "ts": 1793779306000,
+    "u": "https://www.bloomberght.com/turkiye-sigorta-ucuncu-ceyrekte-zarar-acikladi-3793600",
+    "ts": 1793866649000,
     "tags": []
    },
    {
-    "t": "ABD ara seçimleri yenilenebilir enerji hisselerinde yükselişi tetikledi",
+    "t": "EBRD'den 2026'da Türkiye'ye rekor yatırım öngörüsü",
     "tt": null,
-    "s": "ABD ara seçimlerinde Demokratların Kongre'nin her iki kanadının da kontrolünü kazanmasının ardından, küresel yenilenebilir enerji hisseleri yükselişe geçti. Bu sonuç, sektör için gelecekte daha elverişli politikaların destekleneceği şeklinde yorumlanıyor.",
+    "s": "Avrupa İmar ve Kalkınma Bankası (EBRD) Başkanı Odile Renaud-Basso, Türkiye'nin \"yeşil yatırımları\" gerçekten benimseyen bir gelişmekte olan piyasa olduğunu belirterek, Türkiye'de bu yıl halihazırda 2,5 milyar euuro yatırım gerçekleştirdiklerini ve bu yatırımların yıl sonunda 2,7 milyar euroyu aşarak",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-ara-secimleri-yenilenebilir-enerji-hisselerinde-yukselisi-tetikledi-3793426",
-    "ts": 1793778882000,
+    "u": "https://www.bloomberght.com/ebrd-den-2026-da-turkiye-ye-rekor-yatirim-ongorusu-3793599",
+    "ts": 1793866426000,
     "tags": []
    },
    {
-    "t": "ABD'de Demokratların seçim zaferi Musk'ın şirketlerini vurdu",
+    "t": "AMB/Schnabel: Mali baskılar para politikasını rehin almamalı",
     "tt": null,
-    "s": "ABD ara seçimlerinin ilk sonuçlarının Demokratların ezici bir zaferine işaret etmeye başlamasıyla birlikte, Cumhuriyetçi Parti'nin önde gelen destekçilerinden Elon Musk'ın şirketleri Tesla Inc. ve SpaceX'in hisseleri geriledi.",
+    "s": "Avrupa Merkez Bankası Yönetim Kurulu üyesi Isabel Schnabel, bankanın enflasyonu kontrol altında tutma misyonunu yerine getirebilmesi için, Avrupa hükümetlerinin zorlanan kamu maliyelerini düzene sokmaları ve finans sektörünü kuralsızlaştırmaya yönelik baskılara karşı durmaları gerektiğini belirtti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-demokratlarin-secim-zaferi-musk-in-sirketlerini-vurdu-3793425",
-    "ts": 1793778421000,
+    "u": "https://www.bloomberght.com/ambschnabel-mali-baskilar-para-politikasini-rehin-almamali-3793597",
+    "ts": 1793866171000,
     "tags": []
    },
    {
-    "t": "Türkiye'nin nüfusu 1 Ekim itibarıyla 86 milyon 502 bini geçti",
+    "t": "TCDD'nin bakım modernizasyonuna 350 milyon euroluk finansman",
     "tt": null,
-    "s": "Türkiye'nin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu.",
+    "s": "Türkiye Cumhuriyeti Devlet Demiryolları'nın (TCDD) bakım modernizasyonu projesi kapsamında Asya Altyapı Yatırım Bankası (AAYB) ile 350 milyon euroluk finansman anlaşması imzalandı. Proje kapsamında TCDD filosuna 99 yeni nesil bakım makinesi eklenecek.",
     "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-nin-nufusu-1-ekim-itibariyla-86-milyon-502-bini-gecti-3793424",
-    "ts": 1793777830000,
+    "u": "https://www.bloomberght.com/tcdd-nin-bakim-modernizasyonuna-350-milyon-euroluk-finansman-3793595",
+    "ts": 1793865472000,
     "tags": []
    }
   ]
