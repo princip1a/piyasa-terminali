@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-06T18:23:31.876965+00:00",
+ "generated": "2026-11-06T19:30:32.758824+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7387.22,
-   "c": 0.46,
-   "d": 33.49,
+   "p": 7397.6,
+   "c": 0.6,
+   "d": 43.87,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24566.854,
-   "c": 1.04,
-   "d": 251.854,
+   "p": 24638.04,
+   "c": 1.33,
+   "d": 323.04,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 51451.01,
-   "c": -0.14,
-   "d": -72.049,
+   "p": 51421.55,
+   "c": -0.2,
+   "d": -101.509,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 25.39,
-   "c": -9.9,
-   "d": -2.79,
+   "p": 24.45,
+   "c": -13.24,
+   "d": -3.73,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4069.6,
-   "c": -1.07,
-   "d": -43.9,
+   "p": 4077.3,
+   "c": -0.88,
+   "d": -36.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.945,
-   "c": -0.55,
-   "d": -0.288,
+   "p": 52.05,
+   "c": -0.35,
+   "d": -0.183,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 89.88,
-   "c": -0.71,
-   "d": -0.64,
+   "p": 90.92,
+   "c": 0.44,
+   "d": 0.4,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 97.26,
-   "c": -1.05,
-   "d": -1.03,
+   "p": 98.55,
+   "c": 0.26,
+   "d": 0.26,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.236,
-   "c": 0.68,
-   "d": 0.686,
+   "p": 102.279,
+   "c": 0.72,
+   "d": 0.729,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.837,
-   "c": 0.0,
-   "d": 0.0,
+   "p": 4.859,
+   "c": 0.45,
+   "d": 0.022,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.1504,
+   "p": 50.1513,
    "c": 0.23,
-   "d": 0.113,
+   "d": 0.114,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75708,
-   "c": -0.39,
+   "p": 75628,
+   "c": -0.45,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2223.65,
-   "c": -1.16,
+   "p": 2224.9,
+   "c": -1.03,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 90.13,
-   "c": 0.97,
+   "p": 89.97,
+   "c": 0.8,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.18,
-   "c": -4.0,
+   "c": -4.16,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 694.25,
-   "c": 0.42,
+   "p": 692.83,
+   "c": 0.37,
    "k": "usd"
   }
  ],
@@ -464,16 +464,7 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Options Volumes Soar to Record Levels on Post-Election Sell Off",
-    "tt": "Opsiyon Hacimleri Seçim Sonrası Satışlarda Rekor Seviyelere Yükseldi",
-    "s": "The US options markets had its busiest day ever on Thursday as stocks slumped, with average daily volumes rising 53% above the average level in October, according to clearing data.",
-    "ss": "Takas verilerine göre, ABD opsiyon piyasaları Perşembe günü şimdiye kadarki en yoğun gününü yaşadı; stoklar düştü ve ortalama günlük hacimler Ekim ayındaki ortalama seviyenin %53 üzerine çıktı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/options-volumes-soar-to-record-levels-on-post-election-sell-off",
-    "ts": 1793988959000,
-    "tags": []
-   },
-   {
-    "t": "Chip Stocks Climb in AI Trade Revival After Rout: Markets Wrap",
+    "t": "Chip Stocks Climb After Rout, But AI Doubts Linger: Markets Wrap",
     "tt": "Yapay zekanın derinleşmesiyle Asya hisse senetleri satışlara hazırlanıyor: Piyasalardaki toparlanma",
     "s": "A rebound in chipmakers propped up the stock market as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost rates in December.",
     "ss": "Asya hisse senedi vadeli işlemleri, Demokratların yapay zeka endüstrisine yönelik daha sıkı düzenlemeler isteyeceğine dair artan endişeler nedeniyle çip üreticilerindeki seçim sonrası bozgunun Wall Street'te derinleşmesiyle Cuma günü büyük kayıplara işaret etti.",
@@ -482,12 +473,63 @@
     "tags": []
    },
    {
+    "t": "Quick Mart IPO Draws Strong Demand as Kenyan Listings Pick Up",
+    "tt": null,
+    "s": "Quick Mart Plc saw demand for shares in its initial public offering exceed the number available by almost 23% as Kenya’s second-biggest supermarket chain concluded the nation’s second IPO of the year.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/quick-mart-ipo-draws-strong-demand-as-kenyan-listings-pick-up",
+    "ts": 1793992116000,
+    "tags": []
+   },
+   {
+    "t": "Bonds’ Election-Driven Rally Halted by Strong October Jobs Data",
+    "tt": null,
+    "s": "The Treasury market pared a steep weekly advance touched off by the US midterm election results after strong October employment data revived wagers on a Federal Reserve interest-rate hike next month.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets",
+    "ts": 1793972853000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Anatomy of a Selloff: Sudden Chain Reaction Rattles Wall Street",
     "tt": "Bir Satışın Anatomisi: Ani Zincirleme Reaksiyon Wall Street'i Sallıyor",
     "s": "It took around 24 hours for Wall Street’s response to the US midterm elections to turn negative. Once it did, it set in motion a chain reaction of selling that moved considerably faster.",
     "ss": "Wall Street'in ABD ara seçimlerine verdiği yanıtın olumsuza dönüşmesi yaklaşık 24 saat sürdü. Bir kez gerçekleştiğinde, çok daha hızlı hareket eden zincirleme bir satış reaksiyonunu harekete geçirdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-06/anatomy-of-a-selloff-sudden-chain-reaction-rattles-wall-street",
     "ts": 1793981457000,
+    "tags": []
+   },
+   {
+    "t": "Canadian Dollar Set for Worst Week Since September on Weak Jobs",
+    "tt": null,
+    "s": "The Canadian dollar is poised for its biggest weekly loss since late September after Canada’s weaker-than-expected employment data reinforced concerns about the outlook for the country’s economy.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
+    "ts": 1793990902000,
+    "tags": []
+   },
+   {
+    "t": "Walleye to Return $2 Billion to Clients in Stocks Trading Reset",
+    "tt": null,
+    "s": "Walleye Capital plans to return about $2 billion to clients following its decision to cut back on equities trading.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/walleye-to-return-2-billion-to-clients-in-stocks-trading-reset",
+    "ts": 1793989008000,
+    "tags": []
+   },
+   {
+    "t": "Options Volumes Soar to Record Levels on Post-Election Sell Off",
+    "tt": "Opsiyon Hacimleri Seçim Sonrası Satışlarda Rekor Seviyelere Yükseldi",
+    "s": "The US options markets had its busiest day ever on Thursday as stocks slumped, with average daily volumes rising 53% above the average level in October, according to clearing data.",
+    "ss": "Takas verilerine göre, ABD opsiyon piyasaları Perşembe günü şimdiye kadarki en yoğun gününü yaşadı; stoklar düştü ve ortalama günlük hacimler Ekim ayındaki ortalama seviyenin %53 üzerine çıktı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/options-volumes-soar-to-record-levels-on-post-election-sell-off",
+    "ts": 1793988959000,
     "tags": []
    },
    {
@@ -518,45 +560,24 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
     "ts": 1793934932000,
     "tags": []
-   },
-   {
-    "t": "Oil Swings as Traders Assess Iran War De-Escalation Prospects",
-    "tt": "Petrol, Yatırımcıların İran Savaşında Gerilimi Azaltma Beklentilerini Değerlendirmesiyle Dalgalanıyor",
-    "s": "Oil swung in a skittish session as traders weighed progress in diplomatic efforts to de-escalate the Iran war and reach a resolution that could support energy flows from the Middle East.",
-    "ss": "Petrol, tüccarların İran savaşını yatıştırma ve Orta Doğu'dan enerji akışını destekleyebilecek bir çözüme ulaşma yönündeki diplomatik çabalarda kaydedilen ilerlemeyi tartmasıyla ürkek bir seansta dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
-    "ts": 1793954329000,
-    "tags": []
-   },
-   {
-    "t": "Argentina Bonds Slide Toward Distress as Vote Fears Come Early",
-    "tt": "Arjantin Tahvilleri, Oy Korkularının Erken Gelmesiyle Sıkıntıya Doğru Kayıyor",
-    "s": "Argentine global bonds are heading for their worst week in over a year as a global retreat from risk collides with growing investor anxiety over next year’s presidential election.",
-    "ss": "Arjantin'in küresel tahvilleri, riskten küresel olarak geri çekilmenin gelecek yıl yapılacak başkanlık seçimine ilişkin artan yatırımcılar kaygısıyla çarpışmasıyla son bir yılın en kötü haftasına doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/argentina-bonds-slide-toward-distress-as-vote-fears-come-early",
-    "ts": 1793986022000,
-    "tags": []
-   },
-   {
-    "t": "Canada to Give 200,000 Temporary Residents Permanent Status as One-Time Measure",
-    "tt": "Kanada, Tek Seferlik Önlem Olarak 200.000 Geçici İkamet Eden Kişiye Kalıcı Statü Verecek",
-    "s": "Prime Minister Mark Carney’s government plans to transition up to 200,000 temporary residents to permanent residency by the end of 2027, in addition to its annual immigration target.",
-    "ss": "Başbakan Mark Carney'in hükümeti, yıllık göç hedefine ek olarak, 2027 yılı sonuna kadar 200.000'e kadar geçici sakini daimi ikamet hakkına geçirmeyi planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/canada-to-give-200-000-temporary-residents-permanent-status-as-one-time-measure",
-    "ts": 1793985157000,
-    "tags": []
-   },
-   {
-    "t": "Millennium Parting Ways With Two More Credit Trading Pods",
-    "tt": "Milenyum İki Kredi Ticaret Kapsülüyle Yolları Ayırıyor",
-    "s": "At least two more credit trading pods running money for Millennium Management are leaving the hedge fund giant.",
-    "ss": "Millennium Management'a para kazandıran en az iki kredi alım satım kapsülü daha hedge fonu devinden ayrılıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/millennium-parting-ways-with-two-more-credit-trading-pods",
-    "ts": 1793980080000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "tt": null,
+    "s": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+    "ts": 1793991900000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
    {
     "t": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
     "tt": "CoreWeave tahvil getirisi %16'yı aşarken AI 'kredi kartı' daha da pahalılaşıyor",
@@ -648,18 +669,27 @@
     "u": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
     "ts": 1793730065000,
     "tags": []
-   },
-   {
-    "t": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-    "tt": "Binance'in 6,3 milyar dolarlık saldırısı, kripto cüzdan güvenliğiyle ilgili soruları gündeme getiriyor",
-    "s": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
-    "ss": "Bu hafta, tarihteki en büyük kripto hırsızlığı da dahil olmak üzere iki yüksek profilli güvenlik olayı, gözaltı ve güvenlik endişelerini artırdı.",
-    "u": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-    "ts": 1793450828000,
-    "tags": []
    }
   ],
   "MarketWatch": [
+   {
+    "t": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+    "tt": null,
+    "s": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+    "ts": 1793991240000,
+    "tags": []
+   },
+   {
+    "t": "My adviser recommended an annuity. Is it the right move in this market environment?",
+    "tt": null,
+    "s": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "ts": 1793991180000,
+    "tags": []
+   },
    {
     "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
     "tt": "'Sanki sessizce ayrı bir hayat inşa ediyormuş gibi geliyor': Kocama 500.000 dolar miras kaldı ama bunu evimize harcamayı reddediyor",
@@ -731,27 +761,54 @@
     "u": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
     "ts": 1793985540000,
     "tags": []
-   },
-   {
-    "t": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream cheese sales",
-    "tt": "'Süzme peynir karşısında kaybediyoruz': Proteini maksimuma çıkarma çılgınlığı krem ​​peynir satışlarına zarar veriyor",
-    "s": "U.S. cottage cheese sales have more than doubled from levels seen in 2021.",
-    "ss": "ABD süzme peynir satışları 2021'de görülen seviyelere göre iki kattan fazla arttı.",
-    "u": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-    "ts": 1793985240000,
-    "tags": []
-   },
-   {
-    "t": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
-    "tt": "Hims & Hers, Lilly ile GLP-1 anlaşması yaptı. Hisse senedi toparlanıyor.",
-    "s": "As part of the agreement, Hims said it won’t compound GLP-1 medications like Zepbound in the future.",
-    "ss": "Anlaşmanın bir parçası olarak Hims, gelecekte Zepbound gibi GLP-1 ilaçlarını birleştirmeyeceğini söyledi.",
-    "u": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
-    "ts": 1793982540000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Minnesota Just Sent A Somali Daycare Owner To The Statehouse - Wait Till You See The Money",
+    "tt": null,
+    "s": "Minnesota Just Sent A Somali Daycare Owner To The Statehouse - Wait Till You See The Money Minnesota voters on Tuesday elected a Somali daycare owner whose center has collected $7.29 million from the state childcare subsidy program at the heart of last winter's viral fraud scandal. Abdi Daisane was ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/minnesota-just-sent-somali-daycare-owner-statehouse-wait-till-you-see-money",
+    "ts": 1793992800000,
+    "tags": []
+   },
+   {
+    "t": "Microsoft Pulls The Plug On Oracle AI Rental As Post-Election Data Center Fallout Spreads",
+    "tt": null,
+    "s": "Microsoft Pulls The Plug On Oracle AI Rental As Post-Election Data Center Fallout Spreads More bad news for Oracle. About an hour after we checked in with Oracle's PR team on how that whole \" force majeure is commonplace\" thing was working out... Hey guys, any updates here? https://t.co/GCPReT2mE1 —",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/microsoft-pulls-plug-oracle-ai-rental-post-election-data-center-fallout-spreads",
+    "ts": 1793991829000,
+    "tags": []
+   },
+   {
+    "t": "Trump Names Miller New Chief Of Staff As 'Most Powerful' Wiles Is Out",
+    "tt": null,
+    "s": "Trump Names Miller New Chief Of Staff As 'Most Powerful' Wiles Is Out President Donald Trump has tapped longtime loyalist Stephen Miller as his new White House chief of staff , effective Monday, in a major shakeup following Republicans' devastating midterm election defeat. Stephen Miller spoke at an",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/trump-names-miller-new-chief-staff-most-powerful-wiles-out",
+    "ts": 1793991612000,
+    "tags": []
+   },
+   {
+    "t": "Iran Reportedly Hands Out Iodine Tablets As Trump Locks Crosshairs On Pickaxe Mountain",
+    "tt": null,
+    "s": "Iran Reportedly Hands Out Iodine Tablets As Trump Locks Crosshairs On Pickaxe Mountain Summary: Iodine Tablets Being Distributed &nbsp; Iranian Video Tells Citizens How To Survive Nuke Trump Says US ' Locked And Loaded ' For Renewed Strikes Against Iran Iran Hands Out Iodine Tablets The US midterms ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/trump-says-us-locked-and-loaded-renewed-strikes-against-iran",
+    "ts": 1793990684000,
+    "tags": []
+   },
+   {
+    "t": "Ukraine's Prosecutor General's Office Initiates Treason Protocols Against Zelensky's Former Press Secretary",
+    "tt": null,
+    "s": "Ukraine's Prosecutor General's Office Initiates Treason Protocols Against Zelensky's Former Press Secretary Authored by John Weeks via Antiwar.com , Iuliia Mendel, who served as press secretary for Ukrainian President Volodymyr Zelensky from 2019 to 2021, has been identified as the target of a treas",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/ukraines-prosecutor-generals-office-initiates-treason-protocols-against-zelenskys",
+    "ts": 1793990400000,
+    "tags": []
+   },
    {
     "t": "AI Designer Babies? Thiel-Backed Startup Claims 14-Point IQ Boost",
     "tt": "Yapay Zeka Tasarımcısı Bebekler mi? Thiel Destekli Startup, 14 Noktalık IQ Artışı İddia Ediyor",
@@ -796,54 +853,36 @@
     "u": "https://www.zerohedge.com/markets/asias-bailout-brigade-taiwan-curbs-shorts-readies-15bn-fund-seoul-waives-margin-calls-stop",
     "ts": 1793985281000,
     "tags": []
-   },
-   {
-    "t": "FBI Arrests Meghan Markle's Father At Florida Care Home In Child Porn Case",
-    "tt": "FBI, Çocuk Pornosu Davasında Meghan Markle'ın Babasını Florida Bakım Evinde Tutukladı",
-    "s": "FBI Arrests Meghan Markle's Father At Florida Care Home In Child Porn Case Philippine investigators say they've counted about 7,500 images and a video - and now call the son who turned him in a \"person of interest.\" Thomas Markle Sr., the estranged father of Meghan Markle, was arrested by federal ag",
-    "ss": "FBI, Meghan Markle'ın Babasını Florida Bakım Evinde Çocuk Pornosu Davasında Tutukladı Filipinli araştırmacılar yaklaşık 7.500 görüntü ve bir video saydıklarını söylüyorlar ve şimdi onu \"ilgili kişi\" haline getiren oğlunu aradıklarını söylüyorlar. Meghan Markle'ın görüşmediği babası Thomas Markle Sr., federal bir savcı tarafından tutuklandı",
-    "u": "https://www.zerohedge.com/political/fbi-arrests-meghan-markles-father-florida-care-home-child-porn-case",
-    "ts": 1793981981000,
-    "tags": []
-   },
-   {
-    "t": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout?",
-    "tt": "Demokratlar Yılı Veri Merkezinin Moratoryumunu Talep Etmekle Geçirdi. Anlatının Sahibi Onlardır. Fallout'un Sahibi Olacaklar mı?",
-    "s": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout? Thursday's selloff in hyperscaler and neocloud stocks deepened as investors reassessed the mounting risks that the Democratic sweep in the US midterms poses to the AI infrastructure boom. By mi",
-    "ss": "Demokratlar Yılı Veri Merkezinin Moratoryumunu Talep Etmekle Geçirdi. Anlatının Sahibi Onlardır. Fallout'un Sahibi Olacaklar mı? Perşembe günü hiper ölçekleyici ve neocloud hisselerindeki satışlar, yatırımcıların ABD ara sınavlarındaki Demokratların süpürülmesinin yapay zeka altyapısı patlamasına yönelik oluşturduğu artan riskleri yeniden değerlendirmesiyle derinleşti. mil tarafından",
-    "u": "https://www.zerohedge.com/markets/democrats-spent-year-demanding-data-center-moratoriums-they-own-narrative-will-they-own",
-    "ts": 1793981557000,
-    "tags": []
-   },
-   {
-    "t": "If You Lie To Voters About Not Starting A New War, The Voters Make You Pay",
-    "tt": "Seçmenlere Yeni Bir Savaş Başlatmayacağınız Konusunda Yalan Söylerseniz, Seçmenler Size Bedelini Ödeyecek",
-    "s": "If You Lie To Voters About Not Starting A New War, The Voters Make You Pay Authored by Larry C. Johnson via Sonar21 , American voters have a long memory for one particular kind of broken promise. Tell them you will keep their sons out of a foreign war, then march them into one, and they will eventua",
-    "ss": "Seçmenlere Yeni Bir Savaş Başlatmama Konusunda Yalan Söylerseniz, Seçmenler Size Bedelini Öderler Larry C. Johnson tarafından Sonar21 aracılığıyla yazılmıştır, Amerikalı seçmenlerin belirli bir tür tutulmamış söze dair uzun bir hafızası vardır. Onlara, oğullarını yabancı bir savaşın dışında tutacağınızı söyleyin, sonra onları bir savaşa yürütün, onlar da sonunda",
-    "u": "https://www.zerohedge.com/political/if-you-lie-voters-about-not-starting-new-war-voters-make-you-pay",
-    "ts": 1793980800000,
-    "tags": []
-   },
-   {
-    "t": "Haircut No. 2: Anthropic IPO Talk Slides To $1.2 Trillion As AI Rout Crushes Odds Of A November Listing",
-    "tt": "Saç Kesimi No. 2: Antropik Halka Arz Konuşmaları, Yapay Zekanın Kasım Listesindeki Şansı Ezmesiyle 1,2 Trilyon Dolara Kayıyor",
-    "s": "Haircut No. 2: Anthropic IPO Talk Slides To $1.2 Trillion As AI Rout Crushes Odds Of A November Listing Keeps going lower. Three weeks ago we reported that Anthropic IPO investors had marked the valuation from $2 trillion down to $1.5 trillion as the growth slowdown sank in. This morning, Bloomberg ",
-    "ss": "Saç Kesimi No. 2: Yapay Zekanın Kasım Listesinde Düşme Olasılığını Ezmesiyle Antropik Halka Arz Konuşmaları 1,2 Trilyon Dolara Kayıyor. Üç hafta önce, Antropik halka arz yatırımcılarının büyüme yavaşlaması nedeniyle değerlemenin 2 trilyon dolardan 1,5 trilyon dolara düştüğünü bildirmiştik. Bu sabah Bloomberg",
-    "u": "https://www.zerohedge.com/markets/haircut-no-2-anthropic-ipo-talk-slides-12-trillion-ai-rout-crushes-odds-november-listing",
-    "ts": 1793980673000,
-    "tags": []
-   },
-   {
-    "t": "Consumer Sentiment Unexpectedly Jumps, Fueled By Independents, Despite Growing AI Bubble Fears",
-    "tt": "Artan Yapay Zeka Balonu Korkularına Rağmen Tüketici Duyarlılığı Bağımsızlar Tarafından Beslenerek Beklenmedik Bir Şekilde Yükseliyor",
-    "s": "Consumer Sentiment Unexpectedly Jumps, Fueled By Independents, Despite Growing AI Bubble Fears The UMichigan consumer sentiment survey unexpectedly jumped in November to a three-month high, boosted by modest improvements in Americans' views of their personal finances and the economic outlook. The Un",
-    "ss": "Tüketici Duyarlılığı, Artan Yapay Zeka Balonu Korkularına Rağmen Bağımsızlar Tarafından Beklenmedik Bir Şekilde Atladı UMichigan tüketici duyarlılığı anketi, Amerikalıların kişisel mali durumlarına ve ekonomik görünümlerine ilişkin görüşlerindeki mütevazı iyileşmelerin de desteğiyle Kasım ayında beklenmedik bir şekilde üç ayın en yüksek seviyesine sıçradı. BM",
-    "u": "https://www.zerohedge.com/markets/consumer-sentiment-unexpectedly-jumps-fueled-independents-despite-growing-ai-bubble-fears",
-    "ts": 1793979469000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Amazon, Alexa üzerinden mesajla alışveriş özelliğini başlattı",
+    "tt": null,
+    "s": "Amazon, ABD'deki müşterilerinin yapay zeka destekli alışveriş asistanı Alexa for Shopping aracılığıyla kısa mesaj üzerinden ürün araması, fiyat karşılaştırması ve satın alma işlemleri yapmasına olanak tanıyan yeni bir özelliği kullanıma sundu",
+    "ss": null,
+    "u": "https://www.bloomberght.com/amazon-alexa-uzerinden-mesajla-alisveris-ozelligini-baslatti-3793854",
+    "ts": 1793991349000,
+    "tags": []
+   },
+   {
+    "t": "Tüpraş'tan 2026'nın en güçlü çeyreklik performansı",
+    "tt": null,
+    "s": "Tüpraş, 2026 yılının üçüncü çeyreğinde 68,7 milyar TL net kâr açıklayarak 60,4 milyar TL'lik analist beklentisinin üzerinde bir performans sergiledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tupras-tan-2026-nin-en-guclu-ceyreklik-performansi-3793853",
+    "ts": 1793990349000,
+    "tags": []
+   },
+   {
+    "t": "Şi: Çin, Avrupa'nın sorunlarının sebebi değil, çözüm ortağı",
+    "tt": null,
+    "s": "Çin Devlet Başkanı Şi Cinping, Çin'in ekonomik büyümesinin Avrupa için bir tehdit oluşturmadığını, aksine kıtanın ekonomik sorunlarının çözümüne katkı sağlayabileceğini belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/si-cin-avrupa-nin-sorunlarinin-sebebi-degil-cozum-ortagi-3793852",
+    "ts": 1793989776000,
+    "tags": []
+   },
    {
     "t": "Avrupa Merkez Bankası başkanlığı için iki aday: De Cos ve Knot",
     "tt": null,
@@ -906,33 +945,6 @@
     "u": "https://www.bloomberght.com/trump-yonetimi-teknoloji-devlerinin-katilacagi-toplantiyi-erteledi-3793837",
     "ts": 1793978651000,
     "tags": []
-   },
-   {
-    "t": "Hazine nakit dengesi 329,9 milyar TL açık verdi",
-    "tt": null,
-    "s": "Hazine'nin nakit gelirleri Ekim ayında 1 trilyon 391 milyar lira, giderleri de 1 trilyon 721 milyar lira olarak gerçekleşti. Önceki veri 467,2 milyar TL açık seviyesindeydi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hazine-nakit-dengesi-3793825",
-    "ts": 1793975101000,
-    "tags": []
-   },
-   {
-    "t": "Kartlı harcamalarda artış hızı 5 yılın en düşük seviyesinde",
-    "tt": null,
-    "s": "Kartlı harcamaların yıllık artış hızı, 30 Ekim 2026 haftasında yüzde 32,9'a gerileyerek 2021'den bu yana en düşük seviyesini gördü. 2022 yılında yüzde 155,3'e kadar yükselen harcama artış hızındaki yavaşlama, 2024 yılının ikinci yarısından itibaren belirginleşti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kartli-harcamalarda-artis-hizi-5-yilin-en-dusuk-seviyesinde-3793823",
-    "ts": 1793974293000,
-    "tags": []
-   },
-   {
-    "t": "İspanya'nın AMB başkan adayı Pablo Hernandez de Cos",
-    "tt": null,
-    "s": "İspanya hükümeti, Avrupa Merkez Bankası (AMB) başkanlığı için eski İspanya Merkez Bankası Başkanı ve şu anki Uluslararası Ödemeler Bankası (BIS) Genel Müdürü Pablo Hernandez de Cos'u aday gösterdiğini resmen duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ispanya-nin-amb-baskan-adayi-pablo-hernandez-de-cos-3793821",
-    "ts": 1793973722000,
-    "tags": []
    }
   ]
  },
@@ -948,6 +960,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
