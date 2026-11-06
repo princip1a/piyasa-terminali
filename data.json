@@ -1,79 +1,79 @@
 {
- "generated": "2026-11-06T15:36:44.522517+00:00",
+ "generated": "2026-11-06T16:27:56.388314+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7398.47,
-   "c": 0.61,
-   "d": 44.74,
+   "p": 7416.47,
+   "c": 0.85,
+   "d": 62.74,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24600.5,
-   "c": 1.17,
-   "d": 285.5,
+   "p": 24700.635,
+   "c": 1.59,
+   "d": 385.635,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 51446.52,
-   "c": -0.15,
-   "d": -76.539,
+   "p": 51531.18,
+   "c": 0.02,
+   "d": 8.121,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 23.73,
-   "c": -15.79,
-   "d": -4.45,
+   "p": 24.8,
+   "c": -11.99,
+   "d": -3.38,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4062.4,
-   "c": -1.24,
-   "d": -51.1,
+   "p": 4072.2,
+   "c": -1.0,
+   "d": -41.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.105,
-   "c": -0.25,
-   "d": -0.128,
+   "p": 51.975,
+   "c": -0.49,
+   "d": -0.258,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.24,
-   "c": -0.31,
-   "d": -0.28,
+   "p": 90.2,
+   "c": -0.35,
+   "d": -0.32,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 97.32,
-   "c": -0.99,
-   "d": -0.97,
+   "p": 97.29,
+   "c": -1.02,
+   "d": -1.0,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.119,
-   "c": 0.56,
-   "d": 0.569,
+   "p": 102.161,
+   "c": 0.6,
+   "d": 0.611,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.872,
-   "c": 0.72,
-   "d": 0.035,
+   "p": 4.847,
+   "c": 0.21,
+   "d": 0.01,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.1526,
+   "p": 50.1531,
    "c": 0.23,
    "d": 0.115,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75443,
-   "c": -1.46,
+   "p": 75663,
+   "c": -1.32,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2219.16,
-   "c": -2.68,
+   "p": 2226.95,
+   "c": -2.14,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 90.38,
-   "c": -0.82,
+   "p": 90.46,
+   "c": -0.59,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.18,
-   "c": -6.02,
+   "p": 1.19,
+   "c": -5.21,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 694.47,
-   "c": 0.04,
+   "p": 693.85,
+   "c": -0.1,
    "k": "usd"
   }
  ],
@@ -464,48 +464,72 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Monster Shares Fall as Weaker Margins Highlight Cost Burden",
-    "tt": "Zayıf Marjların Maliyet Yükünü Öne Çıkarmasıyla Canavar Hisseleri Düşüyor",
-    "s": "Monster Beverage Corp. shares fell as much as 8.2% Friday, the biggest decline in over two years, after the energy drink giant’s weaker-than-expected margins underscored the impact of soaring costs in the beverage industry.",
-    "ss": "Monster Beverage Corp. hisseleri, enerji içeceği devinin beklenenden zayıf marjlarının içecek endüstrisinde artan maliyetlerin etkisinin altını çizmesinin ardından Cuma günü %8,2'ye kadar düşerek iki yılın en büyük düşüşünü yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/monster-tops-estimates-on-growing-global-energy-drink-demand",
-    "ts": 1793921427000,
+    "t": "Treasuries Fall as Strong Jobs Data Fortifies Tech Rebound",
+    "tt": null,
+    "s": "Treasuries fell after strong October employment data and a rebound in technology shares backed wagers that the Federal Reserve will raise interest rates next month.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets",
+    "ts": 1793972853000,
     "tags": []
    },
    {
-    "t": "The Rise of Luxury Prenatal Retreats",
-    "tt": "Lüks Doğum Öncesi Retreatlerin Yükselişi",
-    "s": "Overwhelmed by online advice and conflicting rules, mothers-to-be are paying for a few days where someone else takes care of the details. Alice Robb explains the rise of luxury prenatal retreats. (Source: Bloomberg)",
-    "ss": "Çevrimiçi tavsiyelerden ve birbiriyle çelişen kurallardan bunalan anne adayları, ayrıntılarla başkasının ilgileneceği birkaç gün için para ödüyor. Alice Robb lüks doğum öncesi inzivalarının yükselişini açıklıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-06/the-rise-of-luxury-prenatal-retreats-video",
-    "ts": 1793979066000,
+    "t": "Multiple Fed Rate Hikes Reasonable, Pimco's Wilding Says",
+    "tt": null,
+    "s": "Pimco Economist Tiffany Wilding says the US employment report does not change her outlook for a Federal Reserve rate hike in December. Speaking on \"Bloomberg Open Interest,\" Wilding says another Fed rate increase in March is possible, describing the moves as a recalibration of policy. (Source: Bloom",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-06/multiple-fed-rate-hikes-reasonable-pimco-s-wilding-says-video",
+    "ts": 1793982166000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Today’s a Good Day to Think About the Mechanics of Markets",
+    "tt": null,
+    "s": "The feedback loop.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-06/today-s-a-good-day-to-think-about-the-mechanics-of-markets",
+    "ts": 1793982108000,
     "tags": []
    },
    {
-    "t": "Zambia to Trim 2027 Budget Gap After This Year’s Blowout",
-    "tt": "Zambiya, Bu Yılki Patlamanın Ardından 2027 Bütçe Açığı Kapatacak",
-    "s": "Zambian Finance Minister Situmbeko Musokotwane unveiled plans to reduce the southern African nation’s fiscal deficit in 2027, after this year’s spending overshoot.",
-    "ss": "Zambiya Maliye Bakanı Situmbeko Musokotwane, bu yılki patlamanın ardından güney Afrika ülkesinin 2027'deki mali açığını azaltma planlarını açıkladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/zambian-budget-gets-copper-boost-with-el-nino-threatening-crops",
-    "ts": 1793945700000,
+    "t": "Airbnb Moves on Revenue; DraftKings Sinks on Forecast Miss | Stock Movers",
+    "tt": null,
+    "s": "On this episode of Stock Movers: - Moderna (MRNA) shares are gaining after the vaccinemaker boosted its revenue growth guidance for the full year. The firm also posted revenue for the third quarter that beat the average analyst estimate. - Airbnb (ABNB) shares are moving after CEO Brian Chesky said ",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-06/airbnb-moves-on-revenue-draftkings-sinks-on-forecast-video",
+    "ts": 1793981994000,
     "tags": []
    },
    {
-    "t": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-    "tt": "Bir Banka Skandalı Trump'ın Paraguay'daki Müttefikini Nasıl Alaşağı Ediyor?",
-    "s": "Officials at the Inter-American Development Bank’s investment arm suspected something was off almost as soon as they walked through the doors of Paraguay’s Ueno Bank SA.",
-    "ss": "Inter-American Kalkınma Bankası'nın yatırım kolundaki yetkililer, Paraguay'daki Ueno Bank SA'nın kapısından girer girmez bir şeylerin ters gittiğinden şüphelendiler.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
-    "ts": 1793924698000,
+    "t": "Goldman US Stock Panic Gauge Hits Extreme, Signaling Rebound",
+    "tt": null,
+    "s": "Goldman Sachs Group Inc. traders said the violent selloff in US equities has pushed market panic to an extreme level that historically signals a strong rebound over the medium term.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
+    "ts": 1793978887000,
     "tags": []
    },
    {
-    "t": "Traders Trim Canada Rate-Hike Bets as Unemployment Rises to 6.7%",
-    "tt": "Kanada İşsizlik Oranı Küçük İstihdamdaki Düşüşün Ortasında %6,7'ye Yükseldi",
-    "s": "Canada’s unemployment rate edged up to 6.7% in October as more people looked for work and employment fell slightly, pointing to ongoing softness in the labor market.",
-    "ss": "Kanada'da işsizlik oranı, daha fazla insanın iş araması ve istihdamın ılımlı bir şekilde düşmesiyle Ekim ayında %6,7'ye yükseldi; bu da işgücü piyasasında süregelen yumuşaklığa işaret etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/canada-jobless-rate-rises-to-6-7-amid-small-employment-decline",
-    "ts": 1793971801000,
+    "t": "Anatomy of a Selloff: Sudden Chain Reaction Rattles Wall Street",
+    "tt": null,
+    "s": "It took around 24 hours for Wall Street’s response to the US midterm elections to turn negative. Once it did, it set in motion a chain reaction of selling that moved considerably faster.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/anatomy-of-a-selloff-sudden-chain-reaction-rattles-wall-street",
+    "ts": 1793981457000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
+    "tt": null,
+    "s": "Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company’s expected valuation.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "ts": 1793970777000,
     "tags": []
    },
    {
@@ -518,39 +542,21 @@
     "tags": []
    },
    {
-    "t": "Carney, Bank of Canada Renew Framework to Focus on 2% Inflation Target",
-    "tt": "Carney ve Kanada Merkez Bankası, %2 Enflasyon Hedefine Odaklanmak İçin Çerçeveyi Yeniledi",
-    "s": "The Bank of Canada has renewed its policy framework, narrowing its focus on price stability and confirming that hitting its 2% inflation target is its most important priority.",
-    "ss": "Kanada Bankası politika çerçevesini yenileyerek fiyat istikrarına olan odağını daralttı ve %2 enflasyon hedefine ulaşmanın en önemli önceliği olduğunu doğruladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/carney-bank-of-canada-renew-framework-to-focus-on-2-inflation-target",
-    "ts": 1793918795000,
+    "t": "DraftKings Plunges 29% After Slashing Profit Projection",
+    "tt": null,
+    "s": "DraftKings Inc. shares fell as much as 29% on Friday after the company sharply reduced its profit forecast as a result of continued investment in its prediction-market product.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/draftkings-plunges-on-2027-forecast-that-misses-estimates",
+    "ts": 1793915276000,
     "tags": []
    },
    {
-    "t": "UK Inheritance Tax Changes Spur Higher Pension Withdrawals",
-    "tt": "Birleşik Krallık Veraset Vergisindeki Değişiklikler Emeklilik Maaşlarının Artmasını Teşvik Ediyor",
-    "s": "Britain’s savers are pulling money out of their pensions earlier than usual, attempting to get ahead of the introduction of inheritance tax on unspent defined-contribution pensions next April.",
-    "ss": "Britanya'nın tasarruf sahipleri emeklilik maaşlarından parayı normalden daha erken çekiyor ve önümüzdeki Nisan ayında harcanmamış tanımlanmış katkı paylı emekli maaşlarına veraset vergisi getirilmesinin önüne geçmeye çalışıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/uk-inheritance-tax-changes-spur-higher-pension-withdrawals",
-    "ts": 1793977108000,
-    "tags": []
-   },
-   {
-    "t": "Inside Singapore Airlines’ New Business Class Cabins",
-    "tt": "Singapur Havayolları'nın Yeni Business Class Kabinlerinin İçinde",
-    "s": "More privacy, more space and even a double bed in the sky. Singapore Airlines is giving its long-haul flights a S$2 billion makeover, with new business and first class seats set to take flight next year. Danny Lee takes a look inside these new cabins. (Source: Bloomberg)",
-    "ss": "Daha fazla mahremiyet, daha fazla alan ve hatta gökyüzünde çift kişilik bir yatak. Singapur Havayolları, gelecek yıl uçmaya başlayacak yeni business ve birinci sınıf koltuklarla uzun mesafe uçuşlarına 2 milyar S$ değerinde bir yenileme yapıyor. Danny Lee bu yeni kabinlerin içine bir göz atıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-06/inside-singapore-airlines-new-business-class-cabins-video",
-    "ts": 1793975967000,
-    "tags": []
-   },
-   {
-    "t": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
-    "tt": "Ara Sınavlar Riski Ortaya Çıkarırken Wall Street Yapay Zeka Ticaretinde Uçuruma Göz Atıyor",
-    "s": "For months, investors have been worrying about a long list of risks to the gravy train of artificial intelligence spending.",
-    "ss": "Yatırımcılar aylardır, yapay zeka harcamalarının giderek artan riskler listesinden endişe ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
-    "ts": 1793957402000,
+    "t": "Millennium Parting Ways With Two More Credit Trading Pods",
+    "tt": null,
+    "s": "At least two more credit trading pods running money for Millennium Management are leaving the hedge fund giant.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/millennium-parting-ways-with-two-more-credit-trading-pods",
+    "ts": 1793980080000,
     "tags": []
    }
   ],
@@ -659,6 +665,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
+    "tt": null,
+    "s": "As part of the agreement, Hims said it won’t compound GLP-1 medications like Zepbound in the future.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
+    "ts": 1793982540000,
+    "tags": []
+   },
+   {
+    "t": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
+    "tt": null,
+    "s": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+    "ts": 1793982420000,
+    "tags": []
+   },
+   {
+    "t": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+    "tt": null,
+    "s": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+    "ts": 1793981820000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
+    "tt": null,
+    "s": "Analysts warn of further volatility ahead, though there are two new factors that work in the AI trade’s favor.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+    "ts": 1793980080000,
+    "tags": []
+   },
+   {
     "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
     "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden Roth'un dönüşümünü zorluyor?",
     "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
@@ -688,7 +730,7 @@
    {
     "t": "Moderna raises its revenue outlook — but all eyes are on what happens next with its cancer vaccine",
     "tt": "Biyoteknolojinin satış görünümünü artırmasının ardından Moderna'nın hisseleri sıçradı",
-    "s": "The company lifted its revenue outlook for the year, saying it expects revenue to grow as much as 25% in 2026.",
+    "s": "The company lifted its sales outlook for the year, saying it expects revenue to grow as much as 25% in 2026.",
     "ss": "Şirket, 2026 yılında gelirin %25 kadar artmasını beklediğini söyleyerek bu yılki gelir görünümünü yükseltti.",
     "u": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
     "ts": 1793977740000,
@@ -711,45 +753,45 @@
     "u": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
     "ts": 1793976900000,
     "tags": []
-   },
-   {
-    "t": "The S&P 500 has become a big AI bet. Here are some simple alternatives.",
-    "tt": "S&P 500 büyük bir yapay zeka bahisi haline geldi. İşte bazı basit alternatifler.",
-    "s": "The large-cap index is nowhere near as diversified as you think.",
-    "ss": "Büyük endeks endeksi düşündüğünüz kadar çeşitliliğe yakın değil.",
-    "u": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-    "ts": 1793976660000,
-    "tags": []
-   },
-   {
-    "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "tt": "'Sanki sessizce ayrı bir hayat inşa ediyormuş gibi geliyor': Kocama 500.000 dolar miras kaldı ama bunu evimize harcamayı reddediyor",
-    "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-    "ss": "\"Mutfağımızın tarihi 1999'dan kalmadır ve fırın yalnızca kapıya belli bir şekilde çarptığınızda çalışır.\"",
-    "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "ts": 1793976600000,
-    "tags": []
-   },
-   {
-    "t": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-    "tt": "Yeni vergi dilimleriyle 2027'de Roth dönüşümlerinde ne kadar yapabilirsiniz?",
-    "s": "The math should actually start with “if” — not “how much.”",
-    "ss": "Matematik aslında \"ne kadar\" ile değil \"eğer\" ile başlamalıdır.",
-    "u": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-    "ts": 1793975160000,
-    "tags": []
-   },
-   {
-    "t": "Why Democrats should use their new power to embrace Trump’s tariffs",
-    "tt": "Demokratlar neden yeni güçlerini Trump'ın tarifelerini benimsemek için kullanmalı?",
-    "s": "Blaming tariffs on manufactured goods for the soaring price of gasoline is the wrong solution to the affordability crisis.",
-    "ss": "Benzin fiyatlarının artmasından dolayı üretilen mallara uygulanan gümrük vergilerini suçlamak, karşılanabilirlik krizine yanlış çözümdür.",
-    "u": "https://www.marketwatch.com/story/why-democrats-should-use-their-new-power-to-embrace-trumps-tariffs-7c467541?mod=mw_rss_topstories",
-    "ts": 1793971800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "FBI Arrests Meghan Markle's Father At Florida Care Home In Child Porn Case",
+    "tt": null,
+    "s": "FBI Arrests Meghan Markle's Father At Florida Care Home In Child Porn Case Philippine investigators say they've counted about 7,500 images and a video - and now call the son who turned him in a \"person of interest.\" Thomas Markle Sr., the estranged father of Meghan Markle, was arrested by federal ag",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/fbi-arrests-meghan-markles-father-florida-care-home-child-porn-case",
+    "ts": 1793981981000,
+    "tags": []
+   },
+   {
+    "t": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout?",
+    "tt": null,
+    "s": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout? Thursday's selloff in hyperscaler and neocloud stocks deepened as investors reassessed the mounting risks that the Democratic sweep in the US midterms poses to the AI infrastructure boom. By mi",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/democrats-spent-year-demanding-data-center-moratoriums-they-own-narrative-will-they-own",
+    "ts": 1793981557000,
+    "tags": []
+   },
+   {
+    "t": "If You Lie To Voters About Not Starting A New War, The Voters Make You Pay",
+    "tt": null,
+    "s": "If You Lie To Voters About Not Starting A New War, The Voters Make You Pay Authored by Larry C. Johnson via Sonar21 , American voters have a long memory for one particular kind of broken promise. Tell them you will keep their sons out of a foreign war, then march them into one, and they will eventua",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/if-you-lie-voters-about-not-starting-new-war-voters-make-you-pay",
+    "ts": 1793980800000,
+    "tags": []
+   },
+   {
+    "t": "Haircut No. 2: Anthropic IPO Talk Slides To $1.2 Trillion As AI Rout Crushes Odds Of A November Listing",
+    "tt": null,
+    "s": "Haircut No. 2: Anthropic IPO Talk Slides To $1.2 Trillion As AI Rout Crushes Odds Of A November Listing Keeps going lower. Three weeks ago we reported that Anthropic IPO investors had marked the valuation from $2 trillion down to $1.5 trillion as the growth slowdown sank in. This morning, Bloomberg ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/haircut-no-2-anthropic-ipo-talk-slides-12-trillion-ai-rout-crushes-odds-november-listing",
+    "ts": 1793980673000,
+    "tags": []
+   },
    {
     "t": "Consumer Sentiment Unexpectedly Jumps, Fueled By Independents, Despite Growing AI Bubble Fears",
     "tt": "Artan Yapay Zeka Balonu Korkularına Rağmen Tüketici Duyarlılığı Bağımsızlar Tarafından Beslenerek Beklenmedik Bir Şekilde Yükseliyor",
@@ -809,45 +851,18 @@
     "u": "https://www.zerohedge.com/political/voters-8-states-approve-citizenship-voter-id-measures-state-elections",
     "ts": 1793973600000,
     "tags": []
-   },
-   {
-    "t": "Burger Bloodbath Intensifies As Yet Another Major Franchisee Goes Bust",
-    "tt": "Burger'de Kan Banyosu Yoğunlaşıyor, Bir Büyük Franchise Sahibi Daha Battı",
-    "s": "Burger Bloodbath Intensifies As Yet Another Major Franchisee Goes Bust Another fast-food franchisee has filed for bankruptcy , becoming the latest casualty of mounting financial pressures squeezing restaurant operators across the United States. Global Midsouth Holding Corp., a franchisee of Checkers",
-    "ss": "Bir Büyük Franchise Sahibi Daha İflas Ederken Burger Kan Banyosu Yoğunlaşıyor Bir başka fast-food franchise sahibi iflas başvurusunda bulundu ve Amerika Birleşik Devletleri'ndeki restoran işletmecilerini zorlayan artan mali baskıların son kurbanı oldu. Checkers'ın franchise sahibi Global Midsouth Holding Corp.",
-    "u": "https://www.zerohedge.com/markets/burger-bloodbath-intensifies-yet-another-major-franchisee-goes-bust",
-    "ts": 1793972400000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq Futures Bounce As Dip-Buyers Pick Through AI Wreckage Ahead Of Payrolls",
-    "tt": "Nasdaq Vadeli İşlemleri, Dip Alıcılarının Maaş Bordroları Öncesinde Yapay Zeka Enkazını Seçmesiyle Yükseliyor",
-    "s": "Nasdaq Futures Bounce As Dip-Buyers Pick Through AI Wreckage Ahead Of Payrolls US futures are higher, led by a sharp rebound in semis and memory names, as dip buyers emerge after Thursday's AI bloodbath which saw the Nasdaq 100 suffer its worst day since March 2020, while traders brace for the Octob",
-    "ss": "Nasdaq Vadeli İşlemleri, Dip Alıcılarının Maaş Bordroları Öncesinde Yapay Zeka Enkazını Seçmesiyle Yükseliyor ABD vadeli işlemleri, yarı vadeli ürünlerde ve hafıza isimlerinde keskin bir toparlanmanın öncülüğünde yükseldi; Nasdaq 100'ün Mart 2020'den bu yana en kötü gününü yaşadığı Perşembe günkü yapay zeka katliamının ardından dip alıcıları ortaya çıkarken, tüccarlar Octob'a hazırlanıyor",
-    "u": "https://www.zerohedge.com/markets/nasdaq-futures-bounce-dip-buyers-pick-through-ai-wreckage-ahead-payrolls",
-    "ts": 1793970420000,
-    "tags": []
-   },
-   {
-    "t": "Firewood Stacked? Meteorologist Warns \"First Legit\" Cold Blast Of Season To Hit Mid-Atlantic & Northeast",
-    "tt": "Yakacak Odun Yığılmış mı? Meteorolog Sezonun \"İlk Yasal\" Soğuk Patlamasının Orta Atlantik ve Kuzeydoğu'yu Vuracağı Uyarısında Bulundu",
-    "s": "Firewood Stacked? Meteorologist Warns \"First Legit\" Cold Blast Of Season To Hit Mid-Atlantic &amp; Northeast New model guidance suggests readers in the Mid-Atlantic and Northeast had better have their firewood stacked, anthracite coal stockpiled, and heating oil and LP tanks filled to the brim, beca",
-    "ss": "Yakacak Odun Yığılmış mı? Meteorolog, Sezonun \"İlk Yasal\" Soğuk Patlamasının Orta Atlantik ve Kuzeydoğu'yu Etkileyeceği Uyarısında Bulundu Yeni model kılavuzu, Orta Atlantik ve Kuzeydoğu'daki okuyucuların yakacak odunlarını istiflemeleri, antrasit kömürlerini stoklamaları ve kalorifer yakıtı ile LP tanklarını ağzına kadar doldurmaları gerektiğini öne sürüyor.",
-    "u": "https://www.zerohedge.com/weather/firewood-stacked-meteorologist-warns-first-legit-cold-blast-season-hit-mid-atlantic",
-    "ts": 1793970000000,
-    "tags": []
-   },
-   {
-    "t": "Tesla To \"Wind Down\" Cybertruck Production At Gigafactory Texas",
-    "tt": "Tesla, Gigafactory Texas'ta Cybertruck Üretimini \"Sonlandıracak\"",
-    "s": "Tesla To \"Wind Down\" Cybertruck Production At Gigafactory Texas \" Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production ,\" Elon Musk revealed on X early Friday morning.&nbsp; Tesla will be winding do",
-    "ss": "Tesla, Gigafactory Texas'taki Cybertruck Üretimini \"Kıstıracak\" Elon Musk, Cuma sabahı X'te yaptığı açıklamada \"Tesla, artan Cybercab üretimine yer açmak için Gigafactory Texas'taki Cybertruck üretimini önümüzdeki yılın ortalarında durduracak\" dedi.  Tesla sarma yapacak",
-    "u": "https://www.zerohedge.com/technology/tesla-wind-down-cybertruck-production-gigafactory-texas",
-    "ts": 1793968800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Fox, Roku'yu 22 milyar dolara satın alma işlemini tamamladı",
+    "tt": null,
+    "s": "ABD merkezli medya şirketi Fox, dijital yayın platformu Roku'yu 22 milyar dolara satın alma işleminin tamamlandığını duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fox-roku-yu-22-milyar-dolara-satin-alma-islemini-tamamladi-3793841",
+    "ts": 1793979395000,
+    "tags": []
+   },
    {
     "t": "Trump yönetimi, teknoloji devlerinin katılacağı toplantıyı erteledi",
     "tt": null,
@@ -928,15 +943,6 @@
     "u": "https://www.bloomberght.com/avrupa-metan-kurallarinin-ertelenmesinde-uzlasti-3793789",
     "ts": 1793968582000,
     "tags": []
-   },
-   {
-    "t": "Bloomberg: OYAK Libya petrolünün kilit alıcısı haline geldi",
-    "tt": null,
-    "s": "Bloomberg'e göre, Ordu Yardımlaşma Kurumu (OYAK), Libya petrolünün temel tüccarlarından biri haline geldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bloomberg-oyak-libya-petrolunun-kilit-alicisi-haline-geldi-3793788",
-    "ts": 1793966708000,
-    "tags": []
    }
   ]
  },
@@ -952,6 +958,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
