@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T12:46:00.376182+00:00",
+ "generated": "2026-11-06T13:59:20.030663+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,97 +24,97 @@
   },
   {
    "n": "VIX",
-   "p": 26.67,
-   "c": -5.36,
-   "d": -1.51,
+   "p": 26.94,
+   "c": -4.4,
+   "d": -1.24,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4075.6,
-   "c": -0.92,
-   "d": -37.9,
+   "p": 4060.0,
+   "c": -1.3,
+   "d": -53.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.035,
-   "c": -0.38,
-   "d": -0.198,
+   "p": 51.925,
+   "c": -0.59,
+   "d": -0.308,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.63,
-   "c": 0.12,
-   "d": 0.11,
+   "p": 91.1,
+   "c": 0.64,
+   "d": 0.58,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 98.15,
-   "c": -0.14,
-   "d": -0.14,
+   "p": 98.53,
+   "c": 0.24,
+   "d": 0.24,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.992,
-   "c": 0.44,
-   "d": 0.442,
+   "p": 102.233,
+   "c": 0.67,
+   "d": 0.683,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.837,
-   "c": -1.16,
-   "d": -0.057,
+   "p": 4.874,
+   "c": 0.76,
+   "d": 0.037,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.1528,
-   "c": 0.23,
-   "d": 0.115,
+   "p": 50.1202,
+   "c": 0.17,
+   "d": 0.083,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11427.37,
-   "c": 0.83,
-   "d": 94.07,
+   "p": 11422.87,
+   "c": 0.79,
+   "d": 89.57,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 76111,
-   "c": -4.49,
+   "p": 75790,
+   "c": -4.73,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2241.1,
-   "c": -6.34,
+   "p": 2233.19,
+   "c": -6.36,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 90.53,
-   "c": -4.9,
+   "p": 90.27,
+   "c": -5.24,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.19,
-   "c": -8.45,
+   "c": -9.2,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 695.94,
-   "c": -1.98,
+   "p": 695.33,
+   "c": -2.17,
    "k": "usd"
   }
  ],
@@ -454,101 +454,95 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Stocks Find Respite as AI Trade Draws Buyers: Markets Wrap",
+    "t": "European Stocks Erase Weekly Gain With Milder Swings Than the US",
+    "tt": "Avrupa Hisse Senetleri ABD'den Daha Hafif Salınımlarla Haftalık Kazancını Sildi",
+    "s": "European stocks erased their weekly gain as concerns over the Democratic sweep of the US Congress and its implications for the AI trade triggered losses and increased volatility in global equity markets.",
+    "ss": "Avrupa hisse senetleri, ABD Kongresi'nin Demokratlar tarafından ele geçirilmesine ve bunun yapay zeka ticaretine etkilerine ilişkin endişelerin küresel hisse senedi piyasalarında kayıpları ve artan oynaklığı tetiklemesiyle haftalık kazançlarını sildi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/european-stocks-join-global-selloff-as-ai-concerns-spread",
+    "ts": 1793953386000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Hold AI-Fueled Gains on Jobs as Bonds Fall: Markets Wrap",
     "tt": "Yapay zekanın derinleşmesiyle Asya hisse senetleri satışlara hazırlanıyor: Piyasalardaki toparlanma",
-    "s": "The selloff in US stocks paused, with dip buyers moving in to support the bruised artificial intelligence trade after the S&amp;P 500’s steepest drop in more than a year.",
+    "s": "A rally in chipmakers propped up the stock market as dip buyers emerged despite a solid reading on the labor market that reinforced bets the Federal Reserve will boost rates in December.",
     "ss": "Asya hisse senedi vadeli işlemleri, Demokratların yapay zeka endüstrisine yönelik daha sıkı düzenlemeler isteyeceğine dair artan endişeler nedeniyle çip üreticilerindeki seçim sonrası bozgunun Wall Street'te derinleşmesiyle Cuma günü büyük kayıplara işaret etti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
     "ts": 1793917079000,
     "tags": []
    },
    {
-    "t": "León XIV vuelve a Chiclayo, la ciudad que llama su hogar",
-    "tt": "León XIV, Chiclayo'ya kavuştu ve bu şehir onu kucakladı.",
-    "s": "León XIV regresa a América Latina en su primera gira como papa en la región y reserva para Perú el tramo más personal: el país donde pasó 20 años y que, según ha dicho, marcó su vida más que ningún otro. (Source: Bloomberg)",
-    "ss": "Leon XIV, ilk kez bölgede baba olarak Amerika Latin Amerika'ya geri döndü ve daha kişisel olarak Peru'ya seyahat etmek için rezervasyon yaptı: 20 yıl önce babasını geride bıraktı ve sonra, daha sonra başka bir gün daha geçirerek hayatını sürdürdü. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-06/leon-xiv-vuelve-a-chiclayo-la-ciudad-que-llama-su-hogar-video",
-    "ts": 1793968597000,
+    "t": "US Treasuries Stumble as Strong Labor Market Lifts Fed-Hike Bets",
+    "tt": "ABD Hazine Tahvilleri, Güçlü İşgücü Piyasasının Fed'in Artırım Bahislerini Yükseltmesiyle Tökezledi",
+    "s": "Treasuries dipped after an unexpected surge in US job growth led traders to add to wagers that the Federal Reserve will raise interest rates when officials next meet in December.",
+    "ss": "Hazine tahvilleri, ABD'de istihdam büyümesindeki beklenmedik artışın ardından düşüş yaşadı ve traderlar, Fed'in Aralık ayındaki yetkililer toplantısında faiz oranlarını artıracağı yönündeki bahisleri artırmaya başladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets",
+    "ts": 1793972853000,
     "tags": []
-   },
-   {
-    "t": "Oil’s Plunge Below $100 Doesn’t Mean Markets Are Out of Jeopardy",
-    "tt": "Petrolün 100 Doların Altına Düşmesi Piyasaların Tehlikeden Çıktığı Anlamına Gelmiyor",
-    "s": "Traders unwound bets on conflict escalation, but peace is far from certain.",
-    "ss": "Yatırımcılar çatışmaların tırmanacağı yönündeki iddiaları boşa çıkarıyor ancak barış kesin olmaktan çok uzak.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-06/oil-s-plunge-below-100-doesn-t-mean-markets-are-out-of-jeopardy",
-    "ts": 1793968396000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Crowded Hedge Fund Trades Unwind Fast After Ugly October",
-    "tt": "Kalabalık Hedge Fonu İşlemleri Çirkin Ekim Sonrası Hızla Gevşiyor",
-    "s": "First the AI whiz kids were humbled. Then came the macro shocks. Credit scares followed.",
-    "ss": "İlk önce yapay zekanın dahi çocukları küçük düşürüldü. Daha sonra makro şoklar geldi. Kredi korkuları bunu takip etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/crowded-hedge-fund-trades-are-unwinding-fast-after-ugly-october",
-    "ts": 1793925685000,
-    "tags": []
-   },
-   {
-    "t": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-    "tt": "Bir Banka Skandalı Trump'ın Paraguay'daki Müttefikini Nasıl Alaşağı Ediyor?",
-    "s": "Officials at the Inter-American Development Bank’s investment arm suspected something was off almost as soon as they walked through the doors of Paraguay’s Ueno Bank SA.",
-    "ss": "Inter-American Kalkınma Bankası'nın yatırım kolundaki yetkililer, Paraguay'daki Ueno Bank SA'nın kapısından girer girmez bir şeylerin ters gittiğinden şüphelendiler.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
-    "ts": 1793924698000,
-    "tags": []
-   },
-   {
-    "t": "AI Deal Windfalls Help Shield European Credit From Selloff",
-    "tt": "Yapay Zeka Anlaşması Beklenmedik Değerler Avrupa Kredisinin Selloff'tan Korunmasına Yardımcı Oldu",
-    "s": "The global technology rout has so far spared European corporate bonds, with windfalls on debt deals from Meta Platforms Inc. and Alphabet Inc. helping the market avoid the hammering taken by equities and US credit.",
-    "ss": "Küresel teknoloji bozgunu şu ana kadar Avrupa şirket tahvillerini korudu; Meta Platforms Inc. ve Alphabet Inc.'in borç anlaşmalarındaki beklenmedik gelişmeler piyasanın hisse senetleri ve ABD kredilerinin aldığı darbeden kaçınmasına yardımcı oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/ai-deal-windfalls-help-shield-european-credit-from-selloff",
-    "ts": 1793966118000,
-    "tags": []
-   },
-   {
-    "t": "Taiwan Steps In to Calm Investor Nerves After Bruising AI Rout",
-    "tt": "Tayvan, AI Bozgunu'nun Çürümesinin Ardından Yatırımcının Sinirlerini Yatıştırmak İçin Adım Attı",
-    "s": "Taiwan stepped in to try to calm investor nerves after a deepening selloff in artificial intelligence shares drove the island’s benchmark to its worst week in a quarter century.",
-    "ss": "Tayvan, yapay zeka hisselerinde derinleşen satışların adanın gösterge endeksini çeyrek yüzyıldaki en kötü haftasına sürüklemesinin ardından yatırımcıların sinirlerini sakinleştirmek için devreye girdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
-    "ts": 1793962108000,
-    "tags": []
-   },
-   {
-    "t": "Coinbase Bear Morgan Stanley Says Earnings Recovery Less Certain",
-    "tt": "Coinbase Bear Morgan Stanley, Kazançların Toparlanmasının Daha Az Kesin Olduğunu Söyledi",
-    "s": "Coinbase Global Inc.’s list of bears is growing long. Morgan Stanley came out swinging against the cryptocurrency exchange this week, slashing revenue estimates and saying confidence in the earnings recovery has deteriorated.",
-    "ss": "Coinbase Global Inc.'in ayı listesi uzuyor. Morgan Stanley, bu hafta kripto para borsasına karşı sallanarak gelir tahminlerini düşürdü ve kazançların toparlanmasına olan güvenin bozulduğunu söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/coinbase-bear-morgan-stanley-says-earnings-recovery-less-certain",
-    "ts": 1793965351000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
    },
    {
     "t": "Oil Swings as Traders Assess Iran War De-Escalation Prospects",
     "tt": "Petrol, Yatırımcıların İran Savaşında Gerilimi Azaltma Beklentilerini Değerlendirmesiyle Dalgalanıyor",
-    "s": "Oil swung as traders weighed diplomatic efforts to de-escalate the Iran war and reach a resolution that could support energy flows from the Middle East.",
+    "s": "Oil swung in a skittish session as traders weighed progress in diplomatic efforts to de-escalate the Iran war and reach a resolution that could support energy flows from the Middle East.",
     "ss": "Petrol, tüccarların İran savaşını yatıştırmak ve Orta Doğu'dan enerji akışını destekleyebilecek bir çözüme ulaşmak için diplomatik çabaları tartmasıyla dalgalandı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
     "ts": 1793954329000,
     "tags": []
    },
    {
-    "t": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery",
-    "tt": "Man Group Hakim Tarafından 'Nefes Kesen' Kuveyt Rüşvetinden Sorumlu Bulundu",
-    "s": "Man Group Plc’s shares fell after a judge ruled it could have to pay around $155 million for its role in “corruption on a breathtaking scale” that siphoned $1 billion from a Kuwaiti state-run pension fund over decades.",
-    "ss": "Man Group Plc'nin hisseleri, bir yargıcın, Kuveyt devleti tarafından işletilen bir emeklilik fonundan onlarca yıldır 1 milyar dolar çeken \"nefes kesici ölçekteki yolsuzluk\"taki rolü nedeniyle yaklaşık 155 milyon dolar ödemek zorunda kalabileceğine karar vermesinin ardından düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery",
-    "ts": 1793904610000,
+    "t": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
+    "tt": "Antropik Halka Arz Yatırımcıları Değerlemeyi 1,2 Trilyon Dolara Kadar Ağırlaştırıyor",
+    "s": "Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company’s expected valuation.",
+    "ss": "Anthropic PBC'nin ilk halka arz planları, seçim sonrası zorlu bir satışla karşılaştı ve potansiyel yatırımcıların şirketin beklenen değerlemesi konusunda yeniden düşünmesine yol açtı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "ts": 1793970777000,
+    "tags": []
+   },
+   {
+    "t": "Gold Extends Drop on Stronger-Than-Expected US Jobs Print",
+    "tt": "Altın, ABD'de Beklenenden Daha Güçlü İş İlanları Üzerine Düşüşü Genişletiyor Yazdır",
+    "s": "Gold fell after a hot US nonfarm payrolls print, which added fuel to expectations that the Federal Reserve will seek to raise interest rates to contain inflation.",
+    "ss": "Altın, ABD Merkez Bankası'nın enflasyonu kontrol altına almak için faiz oranlarını artırmaya çalışacağı beklentilerini güçlendiren sıcak ABD tarım dışı istihdam verilerinin ardından düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
+    "ts": 1793923795000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "Canada Jobless Rate Rises to 6.7% Amid Small Employment Decline",
+    "tt": "Kanada İşsizlik Oranı Küçük İstihdamdaki Düşüşün Ortasında %6,7'ye Yükseldi",
+    "s": "Canada's unemployment rate edged up to 6.7% in October as more people looked for work and employment fell modestly, pointing to ongoing softness in the labor market.",
+    "ss": "Kanada'da işsizlik oranı, daha fazla insanın iş araması ve istihdamın ılımlı bir şekilde düşmesiyle Ekim ayında %6,7'ye yükseldi; bu da işgücü piyasasında süregelen yumuşaklığa işaret etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/canada-jobless-rate-rises-to-6-7-amid-small-employment-decline",
+    "ts": 1793971801000,
+    "tags": []
+   },
+   {
+    "t": "Fast-Money Systematic Funds Stoked $2.3 Trillion Tech-Stock Rout",
+    "tt": "Hızlı Para Sistematik Fonları 2,3 Trilyon Dolarlık Tekno-Hisse Senedi Düşüşüne Ulaştı",
+    "s": "As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge by market value in the Nasdaq 100 index.",
+    "ss": "Yatırımcılar Perşembe günü ABD teknoloji stoklarından hızla çıkarken, trendi takip eden sistematik stratejilerle yapılan satışlar, Nasdaq 100 endeksinde piyasa değerinde hızla rekor düşüşe dönüşen durumu daha da güçlendirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/fast-money-systematic-funds-stoked-2-3-trillion-tech-stock-rout",
+    "ts": 1793961031000,
+    "tags": []
+   },
+   {
+    "t": "UK & Europe Avoid Worst of Stock Rout",
+    "tt": "Birleşik Krallık ve Avrupa En Kötü Stok Bozgunlarından Kaçınıyor",
+    "s": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Isabelle Mateos y L",
+    "ss": "\"Francine Lacqua'nın Nabzı\" küresel iş dünyasının, ekonominin, finansın ve politikanın atan kalbinde yüksek profilli konuklarla yapılan sohbetleri konu alıyor. Londra merkezli olarak hikayenin olduğu yere gidiyoruz, size özel röportajlar ve piyasayı harekete geçiren haberler getiriyoruz. Bugünün konukları: Isabelle Mateos y L",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-06/the-pulse-11-6-2026-video",
+    "ts": 1793970801000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Selloff Pauses Rebound After Tech Rout; Jobs Report Ahead",
+    "tt": "Hisse Senetlerindeki Satışlar Teknoloji Bozgunu Sonrası Toparlanmayı Duraklattı; İlerideki İş İlanları Raporu",
+    "s": "US equity futures rise after the S&amp;P 500’s steepest drop in more than a year on fears of a clampdown on data center construction. Chipmakers rally after bearing the brunt of the selloff. President Trump blames Democrats for the rout. (Source: Bloomberg)",
+    "ss": "ABD hisse senedi vadeli işlemleri, S&P 500'ün veri merkezi inşaatına yönelik kısıtlamalar korkusuyla bir yıldan fazla bir sürenin en sert düşüşünün ardından yükselişe geçti. Çip üreticileri satış dalgasının yükünü çektikten sonra toparlanıyor. Başkan Trump yenilgiden Demokratları sorumlu tutuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-brief-11-06-2026-video",
+    "ts": 1793969123000,
     "tags": []
    }
   ],
@@ -559,7 +553,7 @@
     "s": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
     "ss": "Nasdaq'ın düzeltme bölgesine kayması, toparlanma geçmişine odaklanıyor. İşte tarihin gösterdiği şey.",
     "u": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-    "ts": 1793917884000,
+    "ts": 1793972863000,
     "tags": []
    },
    {
@@ -657,6 +651,87 @@
   ],
   "MarketWatch": [
    {
+    "t": "Why Democrats should use their new power to embrace Trump’s tariffs",
+    "tt": "Demokratlar neden yeni güçlerini Trump'ın tarifelerini benimsemek için kullanmalı?",
+    "s": "Blaming tariffs on manufactured goods for the soaring price of gasoline is the wrong solution to the affordability crisis.",
+    "ss": "Benzin fiyatlarının artmasından dolayı üretilen mallara uygulanan gümrük vergilerini suçlamak, karşılanabilirlik krizine yanlış çözümdür.",
+    "u": "https://www.marketwatch.com/story/why-democrats-should-use-their-new-power-to-embrace-trumps-tariffs-7c467541?mod=mw_rss_topstories",
+    "ts": 1793971800000,
+    "tags": []
+   },
+   {
+    "t": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    "tt": "'Hayatım kısa kesilebilir': 55 yaşındayım, evliyim ve beyin tümörüm var. 210.000 dolarlık bir Porsche'ye mi para harcamalıyım?",
+    "s": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+    "ss": "\"Ben de iki oğluma anlamlı bir miras bırakma fırsatını korumak istiyorum.\"",
+    "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "ts": 1793970900000,
+    "tags": []
+   },
+   {
+    "t": "How do Americans feel about the midterm results? It depends on how much money they make.",
+    "tt": "Amerikalılar ara dönem sonuçları hakkında ne düşünüyor? Ne kadar para kazandıklarına bağlı.",
+    "s": "Most Americans are “thrilled” or “happy” about the results of this year’s election. Some are especially so.",
+    "ss": "Amerikalıların çoğu bu yılki seçim sonuçlarından \"heyecanlanıyor\" veya \"mutlu\". Bazıları özellikle böyledir.",
+    "u": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+    "ts": 1793970840000,
+    "tags": []
+   },
+   {
+    "t": "Billionaires aren’t off the hook for higher taxes, even if they did dodge California’s wealth tax",
+    "tt": "Milyarderler, Kaliforniya'nın servet vergisinden kaçmış olsalar bile, daha yüksek vergilerden kurtulmuş değiller",
+    "s": "Silicon Valley spent big to kill California’s wealth tax — but incoming Democrats are eyeing a national fight.",
+    "ss": "Silikon Vadisi, Kaliforniya'nın servet vergisini ortadan kaldırmak için büyük harcama yaptı ancak yeni gelen Demokratlar ulusal bir mücadele izliyor.",
+    "u": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
+    "ts": 1793970780000,
+    "tags": []
+   },
+   {
+    "t": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+    "tt": "Amerikalıların en zengin yüzde 10'u diğerlerinin önüne geçiyor. Onları daha da zengin yapan şey budur.",
+    "s": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+    "ss": "En zengin yüzde 10'un ortalama net serveti, üç yıl öncesine göre 800.000 dolar daha fazla.",
+    "u": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+    "ts": 1793970660000,
+    "tags": []
+   },
+   {
+    "t": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
+    "tt": "İlk kez ev satın alan rekor sayıda kişi artık nakit ödeme yapıyor. İşte parayı aldıkları yer.",
+    "s": "All-cash buyers are becoming more common, despite a housing market that’s been struggling with affordability issues.",
+    "ss": "Konut piyasasının karşılanabilirlik sorunlarıyla mücadele etmesine rağmen, tamamen nakit alıcılar daha yaygın hale geliyor.",
+    "u": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
+    "ts": 1793970540000,
+    "tags": []
+   },
+   {
+    "t": "How to buy a new car for under $30,000 in this economy",
+    "tt": "Bu ekonomide 30.000 doların altında yeni bir araba nasıl satın alınır?",
+    "s": "Consumers burdened by the high cost of gas, insurance and maintenance are driving up demand for those low-cost cars.",
+    "ss": "Yüksek yakıt, sigorta ve bakım maliyetleriyle karşı karşıya kalan tüketiciler, düşük maliyetli arabalara olan talebi artırıyor.",
+    "u": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
+    "ts": 1793970480000,
+    "tags": []
+   },
+   {
+    "t": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+    "tt": "2027 vergi dilimleri çıktı. Bakalım standart kesinti ve SALT vergi indirimleri ne olacak?",
+    "s": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
+    "ss": "Amerikalıların gelir vergisi faturalarının kalbinde yer alan vergi dilimleri, 2027'de bu yıla kıyasla daha dik bir seviyede ayarlanacak ve bu da enflasyonun yeniden alevlenen varlığının altını çizecek.",
+    "u": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+    "ts": 1793970420000,
+    "tags": []
+   },
+   {
+    "t": "Here are the 2027 capital-gains tax rates for each income level",
+    "tt": "İşte her gelir düzeyi için 2027 sermaye kazancı vergisi oranları",
+    "s": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+    "ss": "Gelecek yıl sermaye kazancı vergisi olarak ne kadar ödeyeceksiniz? IRS az önce bu önemli bilgiyi yayınladı.",
+    "u": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+    "ts": 1793970180000,
+    "tags": []
+   },
+   {
     "t": "Moderna’s stock jumps after biotech raises sales outlook",
     "tt": "Biyoteknolojinin satış görünümünü artırmasının ardından Moderna'nın hisseleri sıçradı",
     "s": "The company lifted its revenue outlook for the year, saying it expects revenue to grow as much as 25% in 2026.",
@@ -664,14 +739,46 @@
     "u": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
     "ts": 1793969280000,
     "tags": []
+   }
+  ],
+  "ZeroHedge": [
+   {
+    "t": "Voters In 8 States Approve Citizenship, Voter ID Measures For State Elections",
+    "tt": "8 Eyaletteki Seçmenler Eyalet Seçimleri İçin Vatandaşlık ve Seçmen Kimlik Tedbirlerini Onayladı",
+    "s": "Voters In 8 States Approve Citizenship, Voter ID Measures For State Elections Authored by Jack Phillips via The Epoch Times , Voters in eight states backed ballot measures that sought stricter election rules during Tuesday's election , approving voter ID and U.S. citizenship requirements. Voters fil",
+    "ss": "8 Eyaletteki Seçmenler Eyalet Seçimleri İçin Vatandaşlığı ve Seçmen Kimlik Tedbirlerini Onayladı Jack Phillips tarafından The Epoch Times aracılığıyla yazılmıştır. Sekiz eyaletteki seçmenler, Salı günkü seçimler sırasında seçmen kimliğini ve ABD vatandaşlık şartlarını onaylayarak daha katı seçim kuralları isteyen oylama önlemlerini destekledi. Seçmenler",
+    "u": "https://www.zerohedge.com/political/voters-8-states-approve-citizenship-voter-id-measures-state-elections",
+    "ts": 1793973600000,
+    "tags": []
    },
    {
-    "t": "Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal",
-    "tt": "Goldman'ın yeni altın hedefi: Wall Street bankası neden sarı metali almak için erken olduğunu söylüyor?",
-    "s": "Strategists at the investment bank said the change in expectations is down to the Federal Reserve’s hawkish shift.",
-    "ss": "Yatırım bankasındaki stratejistler beklentilerdeki değişimin Fed'in şahin yöneliminden kaynaklandığını söyledi.",
-    "u": "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories",
-    "ts": 1793969220000,
+    "t": "Burger Bloodbath Intensifies As Yet Another Major Franchisee Goes Bust",
+    "tt": "Burger'de Kan Banyosu Yoğunlaşıyor, Bir Büyük Franchise Sahibi Daha Battı",
+    "s": "Burger Bloodbath Intensifies As Yet Another Major Franchisee Goes Bust Another fast-food franchisee has filed for bankruptcy , becoming the latest casualty of mounting financial pressures squeezing restaurant operators across the United States. Global Midsouth Holding Corp., a franchisee of Checkers",
+    "ss": "Bir Büyük Franchise Sahibi Daha İflas Ederken Burger Kan Banyosu Yoğunlaşıyor Bir başka fast-food franchise sahibi iflas başvurusunda bulundu ve Amerika Birleşik Devletleri'ndeki restoran işletmecilerini zorlayan artan mali baskıların son kurbanı oldu. Checkers'ın franchise sahibi Global Midsouth Holding Corp.",
+    "u": "https://www.zerohedge.com/markets/burger-bloodbath-intensifies-yet-another-major-franchisee-goes-bust",
+    "ts": 1793972400000,
+    "tags": []
+   },
+   {
+    "t": "Trump Says US 'Locked And Loaded' For Renewed Strikes Against Iran",
+    "tt": "Trump, ABD'nin İran'a Karşı Yenilenen Saldırılara 'Kilitlendiğini ve Yüklendiğini' Söyledi",
+    "s": "Trump Says US 'Locked And Loaded' For Renewed Strikes Against Iran Authored by Tom Ozimek via The Epoch Times (emphasis ours), U.S. President Donald Trump said that Iran cannot do anything regarding its nuclear program without approval from Washington and that he would soon decide whether to resume ",
+    "ss": "Trump, ABD'nin İran'a Karşı Yenilenen Saldırılar İçin 'Kilitlenmiş ve Dolu' Olduğunu Söyledi The Epoch Times aracılığıyla Tom Ozimek tarafından yazılan (vurgular bizimki), ABD Başkanı Donald Trump, İran'ın Washington'un onayı olmadan nükleer programıyla ilgili hiçbir şey yapamayacağını ve devam edip etmemeye yakında karar vereceğini söyledi.",
+    "u": "https://www.zerohedge.com/geopolitical/trump-says-us-locked-and-loaded-renewed-strikes-against-iran",
+    "ts": 1793971200000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "US Jobs Soar By 165K Blowing Away Estimates; Unemployment Rate Drops Putting Dec Rate Hike Back In Play",
+    "tt": "ABD'de İstihdam Tahminleri 165 Bin Artışla Uçtu; İşsizlik Oranı Düşüyor, Aralık Faiz Artışı Yeniden Oyuna Giriyor",
+    "s": "US Jobs Soar By 165K Blowing Away Estimates; Unemployment Rate Drops Putting Dec Rate Hike Back In Play In our preview of the October jobs report , we said that the labor data has rarely looked this solid going into a monthly payrolls report: claims near 57-year lows, the lowest October layoffs sinc",
+    "ss": "ABD'de İstihdam Tahminleri 165 Bin Artışla Uçtu; İşsizlik Oranındaki Düşüşler Aralık Faiz Artışını Tekrar Devreye Sokuyor Ekim ayı istihdam raporu ön izlememizde, aylık maaş bordrosu raporuna girerken işgücü verilerinin nadiren bu kadar sağlam göründüğünü söylemiştik: iddialar 57 yılın en düşük seviyelerine yakın, Ekim ayından bu yana en düşük işten çıkarmalar",
+    "u": "https://www.zerohedge.com/markets/us-jobs-soar-165k-blowing-away-estimates-unemployment-rate-drops-putting-dec-rate-hike-back",
+    "ts": 1793970719000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -681,79 +788,23 @@
     ]
    },
    {
-    "t": "The S&P 500’s most reliable dividend stocks are beating the market. Here’s how to play them.",
-    "tt": "S&P 500'ün en güvenilir temettü hisseleri piyasayı geride bırakıyor. Bunları nasıl oynayacağınız aşağıda açıklanmıştır.",
-    "s": "The S&amp;P 500 Dividend Aristocrats have been on a tear and held up well during Thursday’s stock-market rout.",
-    "ss": "S&P 500 Temettü Aristokratları gözyaşı döktü ve Perşembe günkü borsa çöküşü sırasında iyi bir performans sergiledi.",
-    "u": "https://www.marketwatch.com/story/the-s-p-500s-most-reliable-dividend-stocks-are-beating-the-market-heres-how-to-play-them-3b46dc60?mod=mw_rss_topstories",
-    "ts": 1793968260000,
+    "t": "Nasdaq Futures Bounce As Dip-Buyers Pick Through AI Wreckage Ahead Of Payrolls",
+    "tt": "Nasdaq Vadeli İşlemleri, Dip Alıcılarının Maaş Bordroları Öncesinde Yapay Zeka Enkazını Seçmesiyle Yükseliyor",
+    "s": "Nasdaq Futures Bounce As Dip-Buyers Pick Through AI Wreckage Ahead Of Payrolls US futures are higher, led by a sharp rebound in semis and memory names, as dip buyers emerge after Thursday's AI bloodbath which saw the Nasdaq 100 suffer its worst day since March 2020, while traders brace for the Octob",
+    "ss": "Nasdaq Vadeli İşlemleri, Dip Alıcılarının Maaş Bordroları Öncesinde Yapay Zeka Enkazını Seçmesiyle Yükseliyor ABD vadeli işlemleri, yarı vadeli ürünlerde ve hafıza isimlerinde keskin bir toparlanmanın öncülüğünde yükseldi; Nasdaq 100'ün Mart 2020'den bu yana en kötü gününü yaşadığı Perşembe günkü yapay zeka katliamının ardından dip alıcıları ortaya çıkarken, tüccarlar Octob'a hazırlanıyor",
+    "u": "https://www.zerohedge.com/markets/nasdaq-futures-bounce-dip-buyers-pick-through-ai-wreckage-ahead-payrolls",
+    "ts": 1793970420000,
     "tags": []
    },
    {
-    "t": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "tt": "'Finansal güvenlik ağım yok': 66 yaşındayım, Sosyal Güvenlik'e güveniyorum ve sadece 500 dolar birikimim var. Ne umudum var?",
-    "s": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
-    "ss": "\"Bazen zengin Amerikalıların benim gibi insanlarla yer değiştirmesi gerekip gerekmediğini merak ediyorum.\"",
-    "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "ts": 1793967300000,
+    "t": "Firewood Stacked? Meteorologist Warns \"First Legit\" Cold Blast Of Season To Hit Mid-Atlantic & Northeast",
+    "tt": "Yakacak Odun Yığılmış mı? Meteorolog Sezonun \"İlk Yasal\" Soğuk Patlamasının Orta Atlantik ve Kuzeydoğu'yu Vuracağı Uyarısında Bulundu",
+    "s": "Firewood Stacked? Meteorologist Warns \"First Legit\" Cold Blast Of Season To Hit Mid-Atlantic &amp; Northeast New model guidance suggests readers in the Mid-Atlantic and Northeast had better have their firewood stacked, anthracite coal stockpiled, and heating oil and LP tanks filled to the brim, beca",
+    "ss": "Yakacak Odun Yığılmış mı? Meteorolog, Sezonun \"İlk Yasal\" Soğuk Patlamasının Orta Atlantik ve Kuzeydoğu'yu Etkileyeceği Uyarısında Bulundu Yeni model kılavuzu, Orta Atlantik ve Kuzeydoğu'daki okuyucuların yakacak odunlarını istiflemeleri, antrasit kömürlerini stoklamaları ve kalorifer yakıtı ile LP tanklarını ağzına kadar doldurmaları gerektiğini öne sürüyor.",
+    "u": "https://www.zerohedge.com/weather/firewood-stacked-meteorologist-warns-first-legit-cold-blast-season-hit-mid-atlantic",
+    "ts": 1793970000000,
     "tags": []
    },
-   {
-    "t": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
-    "tt": "Wall Street'in 2025 tarife şokundan bu yana en kötü satışından sonra yatırımcıların bundan sonra izlemesi gerekenler:",
-    "s": "Stock-market rout spreads far beyond AI stocks. Plus: First-time homebuyers are paying all-cash. Where’s the money coming from?",
-    "ss": "Borsadaki bozgun yapay zeka hisselerinin çok ötesine yayılıyor. Artı: İlk kez ev satın alacaklar tamamı nakit ödüyor. Para nereden geliyor?",
-    "u": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
-    "ts": 1793967240000,
-    "tags": []
-   },
-   {
-    "t": "Chip stocks are the cheapest they’ve been in nearly seven years. How low is too low?",
-    "tt": "Çip stokları neredeyse yedi yılın en ucuz seviyelerinde. Ne kadar düşük çok düşük?",
-    "s": "Contrarian investors might see the sharp decline in semiconductor stocks on Nov. 5 as a buying opportunity, especially since soaring earnings expectations have driven valuations to their lowest levels since January 2019.",
-    "ss": "Özellikle yükselen kazanç beklentilerinin değerlemeleri Ocak 2019'dan bu yana en düşük seviyelere çekmesi nedeniyle muhalif yatırımcılar, 5 Kasım'da yarı iletken stoklarındaki keskin düşüşü bir satın alma fırsatı olarak görebilirler.",
-    "u": "https://www.marketwatch.com/story/chip-stocks-are-the-cheapest-theyve-been-in-nearly-seven-years-how-low-is-too-low-7edd732d?mod=mw_rss_topstories",
-    "ts": 1793966580000,
-    "tags": []
-   },
-   {
-    "t": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-    "tt": "93 yaşındaki babam saat 11'de vasiyetini değiştirerek 500.000 dolarlık mirasının tamamını kardeşime bıraktı. Buna meydan okuyabilir miyim?",
-    "s": "“My brother had no job and needed a place to live.”",
-    "ss": "“Kardeşimin işi yoktu ve yaşayacak bir yere ihtiyacı vardı.”",
-    "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-    "ts": 1793963700000,
-    "tags": []
-   },
-   {
-    "t": "Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla production.",
-    "tt": "Cybertruck'ın sonu mu geldi? Elon Musk, fabrikanın Tesla üretimini değiştireceğini duyurdu.",
-    "s": "Tesla CEO Elon Musk said in a post on X that the automaker will wind down the production of Cybertrucks in its Texas Gigafactory next year.",
-    "ss": "Tesla CEO'su Elon Musk, X'teki bir gönderisinde otomobil üreticisinin gelecek yıl Texas Gigafactory'de Cybertrucks üretimini durduracağını söyledi.",
-    "u": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-    "ts": 1793961420000,
-    "tags": []
-   },
-   {
-    "t": "What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers",
-    "tt": "Yapay zeka ticaretindeki patlamanın merkez üssünde yer alan Teksas'ın gelecek valisi şimdi veri merkezleri hakkında ne söylüyor?",
-    "s": "In an interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers, but that community approval must come first.",
-    "ss": "Bir röportajda Gina Hinojosa, ideolojik olarak veri merkezlerine karşı olmadığını ancak topluluğun onayının önce gelmesi gerektiğini vurguladı.",
-    "u": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
-    "ts": 1793960400000,
-    "tags": []
-   },
-   {
-    "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "tt": "'Sanki sessizce ayrı bir hayat inşa ediyormuş gibi geliyor': Kocama 500.000 dolar miras kaldı ama bunu evimize harcamayı reddediyor",
-    "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-    "ss": "\"Mutfağımızın tarihi 1999'dan kalmadır ve fırın yalnızca kapıya belli bir şekilde çarptığınızda çalışır.\"",
-    "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "ts": 1793960100000,
-    "tags": []
-   }
-  ],
-  "ZeroHedge": [
    {
     "t": "Tesla To \"Wind Down\" Cybertruck Production At Gigafactory Texas",
     "tt": "Tesla, Gigafactory Texas'ta Cybertruck Üretimini \"Sonlandıracak\"",
@@ -794,63 +845,45 @@
     "u": "https://www.zerohedge.com/markets/above-average-returns-why-next-decade-differs",
     "ts": 1793966400000,
     "tags": []
-   },
-   {
-    "t": "Investigation Exposes America's Growing Cancer Crisis And Reveals Where It's Worst",
-    "tt": "Soruşturma Amerika'nın Büyüyen Kanser Krizini Ortaya Çıkardı ve En Kötü Nerede Olduğunu Ortaya Çıkardı",
-    "s": "Investigation Exposes America's Growing Cancer Crisis And Reveals Where It's Worst A growing cancer crisis is gripping younger generations across the United States as increasing numbers of Americans in their 20s, 30s and 40s are being diagnosed with diseases once overwhelmingly associated with older",
-    "ss": "Soruşturma, Amerika'nın Büyüyen Kanser Krizini Ortaya Çıkarıyor ve En Kötü Yerini Ortaya Çıkarıyor Büyüyen bir kanser krizi, Amerika Birleşik Devletleri'ndeki genç nesilleri etkisi altına alıyor; 20'li, 30'lu ve 40'lı yaşlarındaki giderek artan sayıda Amerikalıya, bir zamanlar büyük oranda yaşlılarla ilişkilendirilen hastalıklar teşhisi konuluyor",
-    "u": "https://www.zerohedge.com/medical/investigation-exposes-americas-growing-cancer-crisis-and-reveals-where-its-worst",
-    "ts": 1793964600000,
-    "tags": []
-   },
-   {
-    "t": "Butane's Perfect Storm Sends Prices To Decade Highs",
-    "tt": "Bütan'ın Mükemmel Fırtınası Fiyatları On Yılın En Yüksek Seviyesine Gönderdi",
-    "s": "Butane's Perfect Storm Sends Prices To Decade Highs Authored by Natalia Katona via OilPrice , Butane prices are surging across the world. Northwest European November butane prices have reached $1,125/t by early November, their highest level in 30 years , having exceeded even the peaks following Russ",
-    "ss": "Bütan'ın Kusursuz Fırtınası Fiyatları On Yılın En Yüksek Seviyelerine Gönderiyor Natalia Katona tarafından OilPrice aracılığıyla yazılmıştır. Bütan fiyatları dünya çapında artıyor. Kuzeybatı Avrupa'da Kasım ayı bütan fiyatları Kasım ayı başında 1.125 $/ton'a ulaşarak son 30 yılın en yüksek seviyesine ulaştı ve Russ'tan sonraki zirveleri bile aştı.",
-    "u": "https://www.zerohedge.com/energy/butanes-perfect-storm-sends-prices-decade-highs",
-    "ts": 1793962800000,
-    "tags": []
-   },
-   {
-    "t": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout?",
-    "tt": "Demokratlar Yılı Veri Merkezinin Moratoryumunu Talep Etmekle Geçirdi. Anlatının Sahibi Onlardır. Fallout'un Sahibi Olacaklar mı?",
-    "s": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout? Thursday's selloff in hyperscaler and neocloud stocks deepened as investors reassessed the mounting risks that the Democratic sweep in the US midterms poses to the AI infrastructure boom. By mi",
-    "ss": "Demokratlar Yılı Veri Merkezinin Moratoryumunu Talep Etmekle Geçirdi. Anlatının Sahibi Onlardır. Fallout'un Sahibi Olacaklar mı? Perşembe günü hiper ölçekleyici ve neocloud hisselerindeki satışlar, yatırımcıların ABD ara sınavlarındaki Demokratların süpürülmesinin yapay zeka altyapısı patlamasına yönelik oluşturduğu artan riskleri yeniden değerlendirmesiyle derinleşti. mil tarafından",
-    "u": "https://www.zerohedge.com/markets/democrats-spent-year-demanding-data-center-moratoriums-they-own-narrative-will-they-own",
-    "ts": 1793960400000,
-    "tags": []
-   },
-   {
-    "t": "France's Debt Crisis Could Trigger A Much Bigger European Meltdown",
-    "tt": "Fransa'nın Borç Krizi Avrupa'da Çok Daha Büyük Bir Çöküşü Tetikleyebilir",
-    "s": "France's Debt Crisis Could Trigger A Much Bigger European Meltdown Authored by Alastair Paynter via OilPrice , A budget deficit of 5.1% and public debt exceeding 115% of GDP raise concerns about France's fiscal sustainability and the eurozone's resilience. Industrial decline, energy disruptions, pol",
-    "ss": "Fransa'nın Borç Krizi Avrupa'da Çok Daha Büyük Bir Çöküşü Tetikleyebilir Yazan: OilPrice aracılığıyla Alastair Paynter, %5,1'lik bir bütçe açığı ve GSYH'nin %115'ini aşan kamu borcu, Fransa'nın mali sürdürülebilirliği ve avro bölgesinin dayanıklılığına ilişkin endişeleri artırıyor. Endüstriyel düşüş, enerji kesintileri, politika",
-    "u": "https://www.zerohedge.com/geopolitical/frances-debt-crisis-could-trigger-much-bigger-european-meltdown",
-    "ts": 1793958000000,
-    "tags": []
-   },
-   {
-    "t": "China's New 'AutoDNA' AI Lab Needs Humans For Just Two Chores",
-    "tt": "Çin'in Yeni 'AutoDNA' Yapay Zeka Laboratuvarı Sadece İki İş İçin İnsanlara İhtiyaç Duyuyor",
-    "s": "China's New 'AutoDNA' AI Lab Needs Humans For Just Two Chores Researchers at Shanghai Jiao Tong University have built a laboratory in which a team of AI agents designs and runs DNA experiments from a single typed prompt, with people stepping in only to restock reagents and service the hardware, acco",
-    "ss": "Çin'in Yeni 'AutoDNA' Yapay Zeka Laboratuvarı, Sadece İki İş İçin İnsanlara İhtiyaç Duyuyor Şanghay Jiao Tong Üniversitesi'ndeki araştırmacılar, yapay zeka ajanlarından oluşan bir ekibin, tek bir komut isteminden DNA deneyleri tasarlayıp yürüttüğü bir laboratuvar inşa etti; insanlar yalnızca reaktifleri yeniden stoklamak ve donanıma bakım yapmak için devreye giriyor.",
-    "u": "https://www.zerohedge.com/ai/chinas-new-autodna-ai-lab-needs-humans-just-two-chores",
-    "ts": 1793955600000,
-    "tags": []
-   },
-   {
-    "t": "Ukraine's Azov Brigade Admits Holding AWOL Soldiers At Residential House Amid Torture Allegations",
-    "tt": "Ukrayna'nın Azov Tugayı, İşkence İddiaları Arasında Firari Askerleri Konutlarda Tuttuğunu İtiraf Etti",
-    "s": "Ukraine's Azov Brigade Admits Holding AWOL Soldiers At Residential House Amid Torture Allegations Authored by John Weeks via Antiwar.com , A riot erupted Monday night outside a residential house in Ukraine's Petropavlivska Borshchahivka , a suburb approximately 12 miles west of Kyiv, after social me",
-    "ss": "Ukrayna'nın Azak Tugayı, İşkence İddiaları Arasında Evden Kaçan Askerleri Tuttuğunu İtiraf Etti John Weeks, Antiwar.com aracılığıyla, Pazartesi gecesi Ukrayna'nın Kiev'in yaklaşık 20 kilometre batısındaki bir banliyö olan Petropavlivska Borshchahivka'daki bir konutun önünde sosyal medyadan bir isyan çıktı.",
-    "u": "https://www.zerohedge.com/military/ukraines-azov-brigade-admits-holding-awol-soldiers-residential-house-amid-torture",
-    "ts": 1793953200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Karahan: Fon piyasasında yaşanan gelişmeleri gözlemliyoruz",
+    "tt": null,
+    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan TÜGİAD Ankara Buluşması programında gündemdeki son gelişmelere ilişkin değerlendirmelerde bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/karahan-fon-piyasasinda-yasanan-gelismeleri-gozlemliyoruz-3793820",
+    "ts": 1793972506000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de tarım dışı istihdamda beklentiyi aşan artış",
+    "tt": null,
+    "s": "ABD'de tarım dışı istihdam Ekim'de beklentileri aşarak 165 bin olarak kaydedildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-tarim-disi-istihdamda-beklentiyi-asan-artis-3793808",
+    "ts": 1793971971000,
+    "tags": []
+   },
+   {
+    "t": "Karşılıksız çekler 270 milyar TL'ye ulaştı: İş dünyasından farklı çözüm önerileri",
+    "tt": null,
+    "s": "Türkiye'de karşılıksız çek tutarı yılın ilk dokuz ayında yüzde 50 artarak 270 milyar TL'ye ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/karsiliksiz-cekler-270-milyar-tl-ye-ulasti-is-dunyasindan-farkli-cozum-onerileri-3793791",
+    "ts": 1793969511000,
+    "tags": []
+   },
+   {
+    "t": "Tesla'dan Teksas ile ilgili yeni adım: Üretimi kısmayı planlıyor",
+    "tt": null,
+    "s": "Tesla CEO'su Elon Musk'ın açıklamasına göre Cybercab modeline yer açmak amacıyla 2027'nin ortasından itibaren Teksas fabrikasındaki tartışmalı Cybertruck üretimini kısma kararı aldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tesla-dan-teksas-ile-ilgili-yeni-adim-uretimi-kismayi-planliyor-3793790",
+    "ts": 1793968814000,
+    "tags": []
+   },
    {
     "t": "Avrupa metan kurallarının ertelenmesinde uzlaştı",
     "tt": null,
@@ -903,42 +936,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/gelisen-ekonomilerde-yenilenebilir-enerji-buyumesi-gelismislerle-ayni-duzeye-ulasacak-3793783",
     "ts": 1793960376000,
-    "tags": []
-   },
-   {
-    "t": "Küresel gıda fiyatları Ekim'de geriledi",
-    "tt": null,
-    "s": "Birleşmiş Milletler (BM) Gıda ve Tarım Örgütü'nün (FAO) bugün açıkladığı yeni verilere göre, küresel gıda fiyatları Ekim ayında hafif geriledi. İthalat talebindeki zayıflık, tahıllar, süt ürünleri ve et fiyat endekslerinde aylık bazda düşüşlere katkıda bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-gida-fiyatlari-ekim-de-geriledi-3793780",
-    "ts": 1793958387000,
-    "tags": []
-   },
-   {
-    "t": "Trump'tan piyasa tepkisi: Düşüşten Demokratlar sorumlu",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, seçim sonuçlarının ardından borsada tarihin en kötü günlerinden birinin yaşandığını belirterek piyasalardaki düşüşten Demokratları sorumlu tuttu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-tan-piyasa-tepkisi-dususten-demokratlar-sorumlu-3793778",
-    "ts": 1793957886000,
-    "tags": []
-   },
-   {
-    "t": "Rekabet'in fındık soruşturması genişledi",
-    "tt": null,
-    "s": "Rekabet Kurulu tarafından yapılan ve aralarında dünyaca ünlü Nutella markasının üreticisi Ferrero'nun da bulunduğu soruşturmada incelenen şirket sayısı yediye çıktı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/rekabet-in-findik-sorusturmasi-genisledi-3793776",
-    "ts": 1793956331000,
-    "tags": []
-   },
-   {
-    "t": "Siemens'in sağlık biriminde yeni yapılanma",
-    "tt": null,
-    "s": "Siemens AG bünyesinden 2027 yılında gerçekleşecek bölünme (spin-off) ile tamamen ayrılmaya hazırlanan Siemens Healthineers, kurumsal yapısında ve marka kimliğinde kapsamlı bir değişime gidiyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/siemens-in-saglik-biriminde-yeni-yapilanma-3793774",
-    "ts": 1793954585000,
     "tags": []
    }
   ]
