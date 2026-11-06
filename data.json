@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T09:50:12.725709+00:00",
+ "generated": "2026-11-06T10:51:01.789651+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 25.58,
-   "c": -9.23,
-   "d": -2.6,
+   "p": 26.79,
+   "c": -4.93,
+   "d": -1.39,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4082.6,
-   "c": -0.75,
-   "d": -30.9,
+   "p": 4077.6,
+   "c": -0.87,
+   "d": -35.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.055,
-   "c": -0.34,
-   "d": -0.178,
+   "p": 52.035,
+   "c": -0.38,
+   "d": -0.198,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 89.16,
-   "c": -1.5,
-   "d": -1.36,
+   "p": 90.59,
+   "c": 0.08,
+   "d": 0.07,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.78,
-   "c": -1.54,
-   "d": -1.51,
+   "p": 98.1,
+   "c": -0.19,
+   "d": -0.19,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.992,
+   "p": 101.999,
    "c": 0.44,
-   "d": 0.442,
+   "d": 0.449,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1526,
+   "p": 50.1527,
    "c": 0.23,
    "d": 0.115,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11287.67,
-   "c": -0.4,
-   "d": -45.63,
+   "p": 11315.08,
+   "c": -0.16,
+   "d": -18.22,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 76005,
-   "c": -5.37,
+   "p": 76090,
+   "c": -5.19,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2236.29,
-   "c": -7.33,
+   "p": 2237.4,
+   "c": -7.34,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 90.05,
-   "c": -6.79,
+   "p": 90.07,
+   "c": -6.71,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.2,
-   "c": -9.24,
+   "c": -9.03,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 693.09,
-   "c": -3.04,
+   "p": 694.3,
+   "c": -2.94,
    "k": "usd"
   }
  ],
@@ -454,6 +454,79 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "ATP Is Said to Weigh Stake Sale in €2 billion Spanish Gas Firm",
+    "tt": null,
+    "s": "Danish state-backed pension fund ATP is weighing a sale of its stake in Spanish gas distributor Redexis SA, according to people familiar with the matter.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/atp-is-said-to-weigh-stake-sale-in-2-billion-spanish-gas-firm",
+    "ts": 1793961307000,
+    "tags": []
+   },
+   {
+    "t": "Taiwan to Deploy Market Stabilization Fund After Stock Rout",
+    "tt": null,
+    "s": "Taiwan authorized its National Financial Stabilization Fund to step in to support the island’s stock market after a selloff whipsawed the tech bellwether.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-to-deploy-market-stabilization-fund-after-stock-rout",
+    "ts": 1793961301000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Fast-Money Systematic Funds Stoked $2.3 Trillion Tech-Stock Rout",
+    "tt": null,
+    "s": "As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge by market value in the Nasdaq 100 index.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/fast-money-systematic-funds-stoked-2-3-trillion-tech-stock-rout",
+    "ts": 1793961031000,
+    "tags": []
+   },
+   {
+    "t": "Gold Drop Eases as Hopes of Gulf War Resolution Send Oil Sliding",
+    "tt": null,
+    "s": "Gold’s decline eased as oil slid on reports of US engagement in efforts to negotiate a resolution to the Middle East conflict.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
+    "ts": 1793923795000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "US Stocks Find Some Respite as Dip Buyers Move In: Markets Wrap",
+    "tt": "Yapay zekanın derinleşmesiyle Asya hisse senetleri satışlara hazırlanıyor: Piyasalardaki toparlanma",
+    "s": "The selloff in US stocks paused, with dip buyers moving in to support the bruised artificial intelligence trade after the S&amp;P 500’s steepest drop in more than a year.",
+    "ss": "Asya hisse senedi vadeli işlemleri, Demokratların yapay zeka endüstrisine yönelik daha sıkı düzenlemeler isteyeceğine dair artan endişeler nedeniyle çip üreticilerindeki seçim sonrası bozgunun Wall Street'te derinleşmesiyle Cuma günü büyük kayıplara işaret etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793917079000,
+    "tags": []
+   },
+   {
+    "t": "Oil Drops as Qatar Emir Discusses War De-Escalation With Trump",
+    "tt": null,
+    "s": "Oil erased an earlier gain after Qatar’s Emir spoke with US President Donald Trump about de-escalating the Iran war, fueling hopes for a resolution that could support energy flows from the Middle East.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
+    "ts": 1793954329000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Jio IPO Lifts Angel One Past Zerodha as India’s No. 2 Broker",
+    "tt": null,
+    "s": "Jio Platforms Ltd.’s record $3.1 billion initial public offering helped Angel One Ltd. overtake Zerodha Broking Ltd. to become India’s second-largest brokerage by the number of active investors on the National Stock Exchange of India.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/jio-ipo-lifts-angel-one-past-zerodha-as-india-s-no-2-broker",
+    "ts": 1793959233000,
+    "tags": []
+   },
+   {
     "t": "What to Expect From Today's US Jobs Report",
     "tt": null,
     "s": "Isabelle Mateos y Lago, group chief economist at BNP Paribas, discusses the outlook for today's US jobs report and the potential consequences for Federal Reserve policy. \"More important than the exact print is what's happening to the unemployment rate,\" Mateos y Lago tells Bloomberg Television. \"We'",
@@ -472,75 +545,12 @@
     "tags": []
    },
    {
-    "t": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap",
-    "tt": "Yapay zekanın derinleşmesiyle Asya hisse senetleri satışlara hazırlanıyor: Piyasalardaki toparlanma",
-    "s": "The selloff in US stocks faded, with dip buyers moving in to support the bruised artificial-intelligence trade after the S&amp;P 500’s steepest drop in more than a year.",
-    "ss": "Asya hisse senedi vadeli işlemleri, Demokratların yapay zeka endüstrisine yönelik daha sıkı düzenlemeler isteyeceğine dair artan endişeler nedeniyle çip üreticilerindeki seçim sonrası bozgunun Wall Street'te derinleşmesiyle Cuma günü büyük kayıplara işaret etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793917079000,
-    "tags": []
-   },
-   {
     "t": "Sell Off Turns to Uncertainty",
     "tt": null,
     "s": "Investors want to avoid risk amid uncertainty from AI, US politics (Source: Bloomberg)",
     "ss": null,
     "u": "https://www.bloomberg.com/news/videos/2026-11-06/sell-off-turns-to-uncertainty-video",
     "ts": 1793957978000,
-    "tags": []
-   },
-   {
-    "t": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery",
-    "tt": null,
-    "s": "Man Group Plc’s shares fell after a judge ruled it could have to pay around $155 million for its role in “corruption on a breathtaking scale” that siphoned $1 billion from a Kuwaiti state-run pension fund over decades.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery",
-    "ts": 1793904610000,
-    "tags": []
-   },
-   {
-    "t": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
-    "tt": null,
-    "s": "For months, investors have been worrying about a long list of risks to the gravy train of artificial intelligence spending.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
-    "ts": 1793957402000,
-    "tags": []
-   },
-   {
-    "t": "Top Africa Multi-Nation Bourse Plans ETFs, Futures for Growth",
-    "tt": null,
-    "s": "The bigger of Africa’s two multi-country bourses is expanding its product offering as it seeks to deepen its capital markets, broaden its investor base and boost trading volumes.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/top-africa-multi-nation-bourse-plans-etfs-futures-for-growth",
-    "ts": 1793956836000,
-    "tags": []
-   },
-   {
-    "t": "Herzog to Choose Between Eisenkot, Netanyahu on Sunday",
-    "tt": null,
-    "s": "Israel’s President Isaac Herzog says he will decide Sunday whether Benjamin Netanyahu or election challenger Gadi Eisenkot will get the first chance to form a governing coalition. Eisenkot has secured recommendations from 67 members of the 120-seat Knesset, compared with 46 for Netanyahu. Bloomberg’",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-06/herzog-to-choose-between-eisenkot-netanyahu-on-sunday-video",
-    "ts": 1793956822000,
-    "tags": []
-   },
-   {
-    "t": "What Does a Democratic Congress Mean for Markets?",
-    "tt": null,
-    "s": "Skanda Amarnath on the market after midterms.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/what-does-a-democratic-congress-mean-for-markets",
-    "ts": 1793955633000,
-    "tags": []
-   },
-   {
-    "t": "Odd Lots: The Macro Implications of the Blue Tsunami (Podcast)",
-    "tt": null,
-    "s": "We don’t need to tell you that the midterm elections were historic: The Democrats won bigger than even they imagined. But as the dust settles, an open question we are puzzling over is the market’s ongoing reaction to this massive political sea change. Democratic control of Congress — and control ove",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/audio/2026-11-06/odd-lots-the-macro-implications-of-the-blue-tsunami-podcast",
-    "ts": 1793955600000,
     "tags": []
    }
   ],
@@ -649,6 +659,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "Is it the end of the Cybertruck? Elon Musk announces factory will shift production",
+    "tt": null,
+    "s": "Tesla CEO Elon Musk said in a post on X that the automaker will wind down the production of Cybertrucks in its Texas Gigafactory next year.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+    "ts": 1793961420000,
+    "tags": []
+   },
+   {
+    "t": "What the governor-elect of Texas, at the epicenter of the AI trade blowup, is now saying about data centers",
+    "tt": null,
+    "s": "In a televised interview, Gina Hinojosa emphasized that she wasn’t ideologically opposed to data centers but that the express approval of the communities they impact must be prioritized.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories",
+    "ts": 1793960400000,
+    "tags": []
+   },
+   {
+    "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "tt": null,
+    "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "ts": 1793960100000,
+    "tags": []
+   },
+   {
+    "t": "The $4 million mansion that author Sarah J. Maas bought after finding fame with ‘A Court of Thorns and Roses’",
+    "tt": null,
+    "s": "Three years after the release of the first “ACOTAR” book, Sarah J. Maas’ family moved into a palatial $3.3 million Tudor-style mansion in Haverford, Pa.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/the-4-million-mansion-that-author-sarah-j-maas-bought-after-finding-fame-with-a-court-of-thorns-and-roses-170bbe1b?mod=mw_rss_topstories",
+    "ts": 1793959320000,
+    "tags": []
+   },
+   {
     "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
     "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden Roth'un dönüşümünü zorluyor?",
     "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
@@ -701,45 +747,18 @@
     "u": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
     "ts": 1793918880000,
     "tags": []
-   },
-   {
-    "t": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-    "tt": "2027 vergi dilimleri çıktı. Bakalım standart kesinti ve SALT vergi indirimleri ne olacak?",
-    "s": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
-    "ss": "Amerikalıların gelir vergisi faturalarının kalbinde yer alan vergi dilimleri, 2027'de bu yıla kıyasla daha dik bir seviyede ayarlanacak ve bu da enflasyonun yeniden alevlenen varlığının altını çizecek.",
-    "u": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-    "ts": 1793918400000,
-    "tags": []
-   },
-   {
-    "t": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-    "tt": "Yeni vergi dilimleriyle 2027'de Roth dönüşümlerinde ne kadar yapabilirsiniz?",
-    "s": "The math should actually start with “if” — not “how much.”",
-    "ss": "Matematik aslında \"ne kadar\" ile değil \"eğer\" ile başlamalıdır.",
-    "u": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-    "ts": 1793917440000,
-    "tags": []
-   },
-   {
-    "t": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
-    "tt": "Dip satın mı alacaksınız yoksa bekleyecek misiniz? Genç yatırımcılar, perakende hisse satışlarının COVID çöküşünden bu yana en yüksek seviyelerinden birine ulaşmasıyla tepki gösteriyor.",
-    "s": "Some see another buying opportunity. Others fear the worst isn’t over. A market rout is testing the instincts of a generation raised on quick rebounds.",
-    "ss": "Bazıları başka bir satın alma fırsatı görüyor. Diğerleri ise en kötünün bitmediğinden korkuyor. Piyasadaki bozgun, hızlı toparlanmalarla yetişen bir neslin içgüdülerini test ediyor.",
-    "u": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
-    "ts": 1793915040000,
-    "tags": []
-   },
-   {
-    "t": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
-    "tt": "Tesla ve SpaceX'in iki günde 450 milyar dolarlık bir yok oluşa yol açmasıyla \"Musk satışları\" derinleşiyor",
-    "s": "Investors worry a divided Washington could derail “Elon, Inc.”",
-    "ss": "Yatırımcılar bölünmüş bir Washington'un \"Elon, Inc.\"'i rayından çıkarabileceğinden endişe ediyor.",
-    "u": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-    "ts": 1793914980000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout?",
+    "tt": null,
+    "s": "Democrats Spent Year Demanding Data Center Moratoriums. They Own The Narrative. Will They Own The Fallout? Thursday's selloff in hyperscaler and neocloud stocks deepened as investors reassessed the mounting risks that the Democratic sweep in the US midterms poses to the AI infrastructure boom. By mi",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/democrats-spent-year-demanding-data-center-moratoriums-they-own-narrative-will-they-own",
+    "ts": 1793960400000,
+    "tags": []
+   },
    {
     "t": "France's Debt Crisis Could Trigger A Much Bigger European Meltdown",
     "tt": null,
@@ -820,18 +839,27 @@
     "u": "https://www.zerohedge.com/markets/exclusive-sperm-donor-access-ivf-can-now-cost-70000",
     "ts": 1793934600000,
     "tags": []
-   },
-   {
-    "t": "Pentagon Delivers 25,000+ Drones And Counter-Drone Systems To CENTCOM In A \"Massive Surge\"",
-    "tt": "Pentagon, \"Devasa Bir Artışla\" CENTCOM'a 25.000'den Fazla Drone ve Karşı Drone Sistemini Teslim Etti",
-    "s": "Pentagon Delivers 25,000+ Drones And Counter-Drone Systems To CENTCOM In A \"Massive Surge\" Authored by Timothy Frudd via The Epoch Times , The U.S. Department of War announced on Wednesday that a \"massive surge\" of over 25,000 drone and counter-drone systems were delivered to U.S. Central Command (C",
-    "ss": "Pentagon, CENTCOM'a 25.000'den Fazla İHA ve Karşı İHA Sistemini \"Devasa Bir Artışla\" Teslim Etti",
-    "u": "https://www.zerohedge.com/markets/pentagon-delivers-25000-drones-and-counter-drone-systems-centcom-massive-surge",
-    "ts": 1793933100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Trump'tan piyasa tepkisi: Düşüşten Demokratlar sorumlu",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump, seçim sonuçlarının ardından borsada tarihin en kötü günlerinden birinin yaşandığını belirterek piyasalardaki düşüşten Demokratları sorumlu tuttu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-tan-piyasa-tepkisi-dususten-demokratlar-sorumlu-3793778",
+    "ts": 1793957886000,
+    "tags": []
+   },
+   {
+    "t": "Rekabet'in fındık soruşturması genişledi",
+    "tt": null,
+    "s": "Rekabet Kurulu tarafından yapılan ve aralarında dünyaca ünlü Nutella markasının üreticisi Ferrero'nun da bulunduğu soruşturmada incelenen şirket sayısı yediye çıktı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/rekabet-in-findik-sorusturmasi-genisledi-3793776",
+    "ts": 1793956331000,
+    "tags": []
+   },
    {
     "t": "Siemens'in sağlık biriminde yeni yapılanma",
     "tt": null,
@@ -902,24 +930,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/iran-in-petrol-ihracati-sifira-yakin-3793755",
     "ts": 1793947703000,
-    "tags": []
-   },
-   {
-    "t": "TCMB yılın son Enflasyon Raporu'nu 12 Kasım'da sunacak",
-    "tt": null,
-    "s": "Yılın son enflasyon raporu Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) İstanbul'daki yerleşkesinde sunulacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tcmb-yilin-son-enflasyon-raporunu-12-kasimda-sunacak-3793745",
-    "ts": 1793946438000,
-    "tags": []
-   },
-   {
-    "t": "Stratejistlere göre doları destekleyen unsurlar yerinde duruyor",
-    "tt": null,
-    "s": "Döviz stratejistlerine göre, ABD ara seçim sonuçlarının dolarda kısa süreli düşüşe yol açmasının ardından, son aylarda ABD para birimini destekleyen unsurlar büyük ölçüde yerinde duruyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/stratejistlere-gore-dolari-destekleyen-unsurlar-yerinde-duruyor-3793735",
-    "ts": 1793944533000,
     "tags": []
    }
   ]
