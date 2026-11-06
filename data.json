@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T01:26:58.231360+00:00",
+ "generated": "2026-11-06T02:32:01.410855+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4100.1,
-   "c": 0.67,
-   "d": 27.1,
+   "p": 4079.3,
+   "c": -0.83,
+   "d": -34.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.93,
+   "p": 52.045,
    "c": -0.36,
-   "d": -0.19,
+   "d": -0.188,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 91.22,
-   "c": 3.52,
-   "d": 3.1,
+   "p": 91.62,
+   "c": 1.22,
+   "d": 1.1,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 99.18,
-   "c": 4.82,
-   "d": 4.56,
+   "p": 99.85,
+   "c": 1.59,
+   "d": 1.56,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.625,
-   "c": 0.11,
-   "d": 0.115,
+   "p": 101.68,
+   "c": 0.13,
+   "d": 0.13,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1554,
-   "c": 0.24,
-   "d": 0.118,
+   "p": 50.1502,
+   "c": 0.23,
+   "d": 0.113,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11333.27,
-   "c": 2.81,
-   "d": 309.67,
+   "c": -1.26,
+   "d": -144.83,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 75947,
-   "c": -5.53,
+   "p": 76100,
+   "c": -5.6,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2231.0,
-   "c": -7.56,
+   "p": 2239.44,
+   "c": -7.78,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 89.73,
-   "c": -6.1,
+   "p": 90.06,
+   "c": -6.32,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.21,
-   "c": -6.54,
+   "p": 1.22,
+   "c": -6.57,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 692.42,
-   "c": -3.21,
+   "p": 694.14,
+   "c": -3.28,
    "k": "usd"
   }
  ],
@@ -454,49 +454,70 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "OCBC CEO Raises Outlook as Lending Nudges Profit Higher",
-    "tt": "OCBC'nin Kâr Kazançları Ticaret ve Sigorta Gelirlerindeki Düşüşten Dolayı Düşüyor",
-    "s": "Oversea-Chinese Banking Corp.’s profit edged up in the third quarter but gains in net interest income and wealth were dented by smaller contributions from trading and insurance.",
-    "ss": "Oversea-Chinese Banking Corp. üçüncü çeyrek kârında küçük bir artış bildirdi; kredi kazançları ticaret ve sigorta gelirlerindeki düşüşlerle sınırlı kaldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/ocbc-s-profit-gains-dented-by-drop-in-trading-insurance-income",
-    "ts": 1793920897000,
+    "t": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+    "tt": "Bir Banka Skandalı Trump'ın Paraguay'daki Müttefikini Nasıl Alaşağı Ediyor?",
+    "s": "Officials at the Inter-American Development Bank’s investment arm suspected something was off almost as soon as they walked through the doors of Paraguay’s Ueno Bank SA.",
+    "ss": "Inter-American Kalkınma Bankası'nın yatırım kolundaki yetkililer, Paraguay'daki Ueno Bank SA'nın kapısından girer girmez bir şeylerin ters gittiğinden şüphelendiler.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/how-a-banking-scandal-is-taking-down-trump-s-ally-in-paraguay",
+    "ts": 1793924698000,
     "tags": []
    },
    {
-    "t": "Korea’s Kospi Tumbles Below 5,000 Milestone as AI Fears Spread",
+    "t": "Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally",
+    "tt": "Yapay Zeka Hisseleri Dünya Çapında Düşerken Aşırı Alım Nifty Yeni Yakıt Bulabilir",
+    "s": "A bigger test for the benchmark could come around 24,800.",
+    "ss": "Gösterge için daha büyük bir test 24.800 civarına gelebilir.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-06/overbought-nifty-may-find-fresh-fuel-as-ai-stocks-tumble-globally",
+    "ts": 1793932202000,
+    "tags": []
+   },
+   {
+    "t": "Hedge Fund Samlyn Dumps All Stocks But Financials, Cuts Staff",
+    "tt": "Riskten Korunma Fonu Samlyn, Finansallar Dışındaki Tüm Hisse Senetlerini Sattı, Personeli Azalttı",
+    "s": "Rob Pohly’s Samlyn Capital is dismissing senior analysts after selling off its exposure to nearly every industry except global financials, as it pivots to focus on that sector.",
+    "ss": "Rob Pohly'nin Samlyn Capital'i, küresel finans dışındaki hemen hemen her sektördeki risklerini sattıktan sonra kıdemli analistleri işten çıkarıyor, zira şirket bu sektöre odaklanmaya yöneliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-fund-samlyn-dumps-all-stocks-but-financials-cuts-staff",
+    "ts": 1793931835000,
+    "tags": []
+   },
+   {
+    "t": "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+    "tt": "Tayvan'ın Para Birimi Yapay Zeka Sebebiyle ABD Doları Başına 33'ü Geçti",
+    "s": "The Taiwan dollar weakened past the key psychological level of 33 per US dollar for the first time since April 2025, as a broad retreat in artificial intelligence shares weighed on the island’s tech-heavy equity market.",
+    "ss": "Tayvan doları, yapay zeka hisselerindeki geniş çaplı gerilemenin adanın teknoloji ağırlıklı hisse senedi piyasasını olumsuz etkilemesiyle, Nisan 2025'ten bu yana ilk kez ABD doları başına 33 gibi temel psikolojik seviyenin üzerine zayıfladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters",
+    "ts": 1793927716000,
+    "tags": []
+   },
+   {
+    "t": "Korean Stocks Tumble Below 5,000 Milestone as Panic Spreads",
     "tt": "Yapay Zeka Korkuları Yayılırken Kore'nin Kospi'si 5.000 Kilometre Taşının Altına Düştü",
-    "s": "South Korean chip stocks plummeted, pushing the equity benchmark below a key milestone, as fears deepened over how the Democrat sweep of Congress could slow the artificial intelligence buildout.",
+    "s": "South Korean stocks tumbled below a key milestone as the chip rout deepened, the latest bearish turn in a market whose fortunes are closely tied to the global AI boom.",
     "ss": "Güney Kore çip stokları, Demokratların Kongre'yi süpürmesinin yapay zeka gelişimini nasıl yavaşlatabileceğine dair korkuların derinleşmesiyle birlikte düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen",
     "ts": 1793921744000,
     "tags": []
    },
    {
-    "t": "Putin Transfers Japan Tobacco Assets to Local Firm in Latest Asset Seizure",
-    "tt": "Putin, En Son Varlık Ele Geçirilmesinde Japan Tobacco Varlıklarını Yerel Firmaya Devretti",
-    "s": "Japan said it has protested Russia’s seizure of Japan Tobacco International’s local assets, the latest development in an escalating diplomatic spat between the two nations.",
-    "ss": "Japonya, Rusya'nın Japan Tobacco International'ın yerel varlıklarına el koymasını protesto ettiğini söyledi; bu, iki ülke arasında artan diplomatik çekişmedeki son gelişme.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/japan-protests-russia-s-seizure-of-japan-tobacco-assets",
-    "ts": 1793925104000,
+    "t": "John Woods Sees AI Selloff as Positioning-Driven",
+    "tt": "John Woods Yapay Zeka Satışını Konumlandırma Odaklı Olarak Görüyor",
+    "s": "John Woods says the sharp pullback in AI-exposed stocks is a positioning-driven correction rather than a sign of deteriorating market fundamentals. (Source: Bloomberg)",
+    "ss": "John Woods, yapay zekaya maruz kalan hisse senetlerindeki keskin gerilemenin, kötüleşen piyasa temellerinin bir işareti olmaktan ziyade konumlandırmaya dayalı bir düzeltme olduğunu söylüyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-06/john-woods-sees-ai-selloff-as-positioning-driven-video",
+    "ts": 1793931321000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 6",
-    "tt": "6 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Brent oil was on track for its biggest weekly loss since April 2020 after a volatile stretch of trading, as investors weighed prospects for an end to the months-long war in the Middle East.",
-    "ss": "Petrol fiyatları, yatırımcıların Orta Doğu'da aylardır süren savaşın sona ermesine yönelik beklentilere ağırlık vermesiyle, dalgalı bir ticaret döneminin ardından Nisan ayından bu yana en büyük haftalık kaybını gerçekleştirme yolunda ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
-    "ts": 1793920097000,
-    "tags": []
-   },
-   {
-    "t": "China’s 10-Year Yield Hits Record Intraday Low on Ample Cash",
-    "tt": "Bol Nakitle Çin'in 10 Yıllık Getirisi Gün İçi Rekor Düşük Seviyeye Ulaştı",
-    "s": "China’s benchmark 10-year sovereign yield dropped to an all-time intraday low, buoyed by ample liquidity.",
-    "ss": "Çin'in 10 yıllık gösterge tahvil getirisi, bol likiditenin desteğiyle tüm zamanların en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-10-year-yield-hits-record-intraday-low-on-ample-cash",
-    "ts": 1793926501000,
-    "tags": []
+    "t": "AI Slump Deepens as Taiwan Drops Most in a Year: Markets Wrap",
+    "tt": "Yapay zekanın derinleşmesiyle Asya hisse senetleri satışlara hazırlanıyor: Piyasalardaki toparlanma",
+    "s": "Asian stocks slumped, with tech bellwether Taiwan dropping the most in more than a year, extending a post-election rout in chipmakers that deepened on Wall Street due to growing concern Democrats will seek tighter regulation of the artificial intelligence industry.",
+    "ss": "Asya hisse senedi vadeli işlemleri, Demokratların yapay zeka endüstrisine yönelik daha sıkı düzenlemeler isteyeceğine dair artan endişeler nedeniyle çip üreticilerindeki seçim sonrası bozgunun Wall Street'te derinleşmesiyle Cuma günü büyük kayıplara işaret etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
+    "ts": 1793917079000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    },
    {
     "t": "Japan’s Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
@@ -508,39 +529,21 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks Join US Selloff as AI Slump Deepens: Markets Wrap",
-    "tt": "Yapay zekanın derinleşmesiyle Asya hisse senetleri satışlara hazırlanıyor: Piyasalardaki toparlanma",
-    "s": "Asian stocks slumped from the open after a post-election rout in chipmakers deepened on Wall Street amid growing concern that Democrats will seek tighter regulation of the artificial intelligence industry.",
-    "ss": "Asya hisse senedi vadeli işlemleri, Demokratların yapay zeka endüstrisine yönelik daha sıkı düzenlemeler isteyeceğine dair artan endişeler nedeniyle çip üreticilerindeki seçim sonrası bozgunun Wall Street'te derinleşmesiyle Cuma günü büyük kayıplara işaret etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-    "ts": 1793917079000,
+    "t": "Wall Street Traders Wrong-Footed After Bullish Equity Calls",
+    "tt": "Wall Street Yatırımcıları Hisse Senedi Yükseliş Çağrılarından Sonra Yanlış Adımlara Girdi",
+    "s": "Wall Street’s biggest trading desks spent weeks saying the stock-market rally would resume once the election was done. On Thursday, that call backfired spectacularly.",
+    "ss": "Wall Street'in en büyük ticaret masaları haftalarca borsadaki yükselişin seçim bittikten sonra devam edeceğini söylüyordu. Perşembe günü bu çağrı olağanüstü bir şekilde geri tepti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-traders-wrong-footed-after-bullish-equity-calls",
+    "ts": 1793929878000,
     "tags": []
    },
    {
-    "t": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
-    "tt": "Seçim Gecesi TV İzleyicileri Yükseliyor, NBC Liderlik Ediyor, Fox Düşüyor",
-    "s": "An estimated 31.2 million people watched primetime news coverage of the 2026 midterm elections across 13 TV networks, according to Nielsen data.",
-    "ss": "Nielsen verilerine göre, tahminen 31,2 milyon kişi 13 TV ağında 2026 ara seçimlerine ilişkin prime time haberlerini izledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
-    "ts": 1793829781000,
-    "tags": []
-   },
-   {
-    "t": "Why Antipodes Portfolio Manager Is Betting on Disney",
-    "tt": "Antipodes Portföy Yöneticisi Neden Disney'e Bahis Yapıyor?",
-    "s": "Portfolio manager Vihari Ross of Antipodes Partners explains why Disney is a \"genuine value opportunity\" amid AI and disruption. She spoke on the sidelines of the Sohn Hearts & Minds conference in Queenstown, New Zealand. (Source: Bloomberg)",
-    "ss": "Antipodes Partners'tan portföy yöneticisi Vihari Ross, yapay zeka ve aksaklıkların ortasında Disney'in neden \"gerçek bir değer fırsatı\" olduğunu açıklıyor. Yeni Zelanda'nın Queenstown kentinde düzenlenen Sohn Hearts & Minds konferansının oturum aralarında konuştu. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-06/why-antipodes-portfolio-manager-is-betting-on-disney-video",
-    "ts": 1793925035000,
-    "tags": []
-   },
-   {
-    "t": "Hedge Funds Tout Disney, ASML at Sohn Queenstown Conference",
-    "tt": "Hedge Funds Sohn Queenstown Konferansında Disney ve ASML'yi Tanıttı",
-    "s": "Stock pickers pitched a Japanese confectionary maker and a Canadian gold miner at the annual Sohn Conference in Queenstown, New Zealand.",
-    "ss": "Hisse senedi toplayıcıları, Yeni Zelanda'nın Queenstown kentinde düzenlenen yıllık Sohn Konferansı'nda bir Japon şekerleme üreticisi ile Kanadalı bir altın madencisini bir araya getirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-05/investors-pick-disney-g-mining-at-sohn-conference-in-queenstown",
-    "ts": 1793919620000,
+    "t": "China’s 10-Year Yield Hits Record Intraday Low on Haven Demand",
+    "tt": "Bol Nakitle Çin'in 10 Yıllık Getirisi Gün İçi Rekor Düşük Seviyeye Ulaştı",
+    "s": "China’s benchmark 10-year sovereign yield dropped to an all-time intraday low, driven by haven demand and a recent shift in the policy rate that was regarded as a de facto easing.",
+    "ss": "Çin'in 10 yıllık gösterge tahvil getirisi, bol likiditenin desteğiyle tüm zamanların en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-10-year-yield-hits-record-intraday-low-on-ample-cash",
+    "ts": 1793926501000,
     "tags": []
    }
   ],
@@ -741,6 +744,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Newsom Wipes Out 548 'Racist, Inhumane' Death Sentences With One Letter",
+    "tt": "Newsom 548 'Irkçı, İnsanlık Dışı' Ölüm Cezasını Tek Mektupla Sildi",
+    "s": "Newsom Wipes Out 548 'Racist, Inhumane' Death Sentences With One Letter California Gov. Gavin Newsom said Thursday he will commute every death sentence in the state to life in prison without the possibility of parole , wiping out the largest death row in the Western Hemisphere with 548 people on it,",
+    "ss": "Newsom, 548 'Irkçı, İnsanlık Dışı' Ölüm Cezasını Tek Mektupla Sildi Kaliforniya Valisi Gavin Newsom Perşembe günü yaptığı açıklamada, eyaletteki tüm ölüm cezalarını şartlı tahliye ihtimali olmaksızın ömür boyu hapis cezasına çevireceğini ve Batı Yarımküre'deki 548 kişinin bulunduğu en büyük idam hücresini ortadan kaldıracağını söyledi.",
+    "u": "https://www.zerohedge.com/political/newsom-wipes-out-548-racist-inhumane-death-sentences-one-letter",
+    "ts": 1793931600000,
+    "tags": []
+   },
+   {
+    "t": "Congress Demands Closed-Door Briefing With Nvidia's Jensen Huang Over His Alleged Chinese Spy Contact",
+    "tt": "Kongre, Nvidia'dan Jensen Huang'la İddia Edilen Çinli Casus Bağlantısı Konusunda Kapalı Toplantı Talep Ediyor",
+    "s": "Congress Demands Closed-Door Briefing With Nvidia's Jensen Huang Over His Alleged Chinese Spy Contact Three House Republican committee chairs have asked Nvidia CEO Jensen Huang to sit for a closed-door briefing on Nov. 18 about his dealings with Alice Huang, the Megaspeed executive they describe in ",
+    "ss": "Kongre, Nvidia'dan Jensen Huang ile Çin'deki Casus Bağlantısı İddiası Konusunda Kapalı Brifing Talep Ediyor Üç Meclis Cumhuriyetçi komite başkanı, Nvidia CEO'su Jensen Huang'dan, Megaspeed yöneticisi Alice Huang ile olan ilişkileri hakkında 18 Kasım'da kapalı bir brifing için oturmasını istedi.",
+    "u": "https://www.zerohedge.com/markets/congress-demands-closed-door-briefing-nvidias-jensen-huang-over-his-alleged-chinese-spy",
+    "ts": 1793930100000,
+    "tags": []
+   },
+   {
     "t": "Tanker War Continues: Iran Says 5 Ships Hit Naval Mines In Last 24 Hours",
     "tt": "Tanker Savaşı Devam Ediyor: İran, Son 24 Saatte 5 Geminin Deniz Mayına Çarptığını Söyledi",
     "s": "Tanker War Continues: Iran Says 5 Ships Hit Naval Mines In Last 24 Hours Iranian state media on Thursday is citing several more instances of tankers on fire in the Strait of Hormuz and regional waters. Iran's IRGC military says, \"This afternoon, two more offending oil tankers collided with naval min",
@@ -810,24 +831,6 @@
     "ss": "UCLA Polisleri \"Acil Durum Olayları\" İçin Drone'ları ve Daha Az Öldürücü Mühimmat Stokluyor Yazar: Bryan Hyde, American Greatness aracılığıyla, UCLA Polis Departmanı (UCPD), 2025 yılında drone'lara ve öldürücü olmayan mühimmatlara 220.000 dolardan fazla harcadı ve şimdi envanterini daha da genişletmek için onay arıyor. bir O",
     "u": "https://www.zerohedge.com/political/ucla-cops-stockpile-drones-and-less-lethal-munitions-emergency-incidents",
     "ts": 1793917200000,
-    "tags": []
-   },
-   {
-    "t": "House Democrats Eye Their Own Crypto Market Structure Bill With A Bigger SEC Role After Sweep",
-    "tt": "Temsilciler Meclisi Demokratları, Süpürmeden Sonra Daha Büyük Bir SEC Rolüne Sahip Kendi Kripto Piyasası Yapı Tasarısını Gözetliyor",
-    "s": "House Democrats Eye Their Own Crypto Market Structure Bill With A Bigger SEC Role After Sweep Authored by Micah Zimmerman via Bitcoin Magazine , House Democrats are discussing a plan to turn Rep. Maxine Waters' Crypto Investor and Consumer Bill of Rights into their own crypto market structure bill n",
-    "ss": "Temsilciler Meclisi Demokratları, Süpürme Sonrası Daha Büyük Bir SEC Rolüne Sahip Kendi Kripto Piyasası Yapı Tasarısını Gözetliyor Micah Zimmerman tarafından Bitcoin Magazine aracılığıyla yazılan Temsilciler Meclisi Demokratları, Temsilci Maxine Waters'ın Kripto Yatırımcısı ve Tüketici Hakları Bildirgesini kendi kripto piyasası yapılarına dönüştürme planını tartışıyor yasa tasarısı",
-    "u": "https://www.zerohedge.com/crypto/house-democrats-eye-their-own-crypto-market-structure-bill-bigger-sec-role-after-sweep",
-    "ts": 1793916000000,
-    "tags": []
-   },
-   {
-    "t": "Mapped: Socialists Just Captured America's Two Biggest Cities - As 'Blue Wave' Knocks The Market's Teeth In",
-    "tt": "Harita: Sosyalistler Amerika'nın En Büyük İki Şehrini Ele Geçirdi - 'Mavi Dalga' Piyasayı Çöktürürken",
-    "s": "Mapped: Socialists Just Captured America's Two Biggest Cities - As 'Blue Wave' Knocks The Market's Teeth In If Nithya Raman's lead in Los Angeles holds, about 14.4 million Americans will live under a socialist mayor, up from 9.4 million before Tuesday , and the country's two largest cities will both",
-    "ss": "Harita: Sosyalistler Amerika'nın En Büyük İki Şehrini Ele Geçirdi - 'Mavi Dalga' Piyasayı Çöktürürken Nithya Raman'ın Los Angeles'taki liderliği devam ederse, yaklaşık 14,4 milyon Amerikalı sosyalist bir belediye başkanının yönetimi altında yaşayacak; Salı öncesinde bu sayı 9,4 milyondu ve ülkenin en büyük iki şehri her ikisi de sosyalist bir belediye başkanının yönetimi altında yaşayacak.",
-    "u": "https://www.zerohedge.com/political/mapped-socialist-wave-just-swept-americas-two-biggest-cities-blue-wave-knocks-markets",
-    "ts": 1793914800000,
     "tags": []
    }
   ],
