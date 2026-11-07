@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T06:24:04.410848+00:00",
+ "generated": "2026-11-07T07:39:09.716361+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75970,
-   "c": 0.62,
+   "p": 75962,
+   "c": 0.84,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2244.01,
-   "c": 0.98,
+   "p": 2242.02,
+   "c": 1.1,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 90.12,
-   "c": 0.73,
+   "p": 90.04,
+   "c": 1.01,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.16,
-   "c": -2.6,
+   "p": 1.17,
+   "c": -1.02,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 694.41,
-   "c": 0.79,
+   "p": 694.12,
+   "c": 1.11,
    "k": "usd"
   }
  ],
@@ -464,15 +464,6 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Malaysian King Says No Ambiguity on Najib’s Home Detention Order",
-    "tt": "Eski Malezya Başbakanı Najib'in Ev Tutuklaması Ertelendi, İnceleme Bekleniyor",
-    "s": "Malaysia’s king declared there was no ambiguity over his pardon for former Prime Minister Najib Razak, warning that any challenge to the decree amounts to defying his authority as the attorney general’s office calls for a delay in its implementation.",
-    "ss": "Başsavcılık, eski Malezya Başbakanı Najib Razak'ın hapishaneden ev hapsine transferinin, kraliyet affına ilişkin koşulların daha fazla gözden geçirilmesine kadar ertelendiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-07/former-malaysia-pm-najib-s-house-arrest-delayed-pending-review",
-    "ts": 1794022567000,
-    "tags": []
-   },
-   {
     "t": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
     "tt": "Hindistan Hisse Senedi Piyasaları Neden Diwali Seansları Düzenliyor: Açıklayıcı",
     "s": "India’s stock markets will open for a special shortened session on Sunday as the country celebrates Diwali, its biggest festival, keeping alive a tradition that has survived the shift from handwritten ledgers and bustling trading floors to smartphones and algorithms.",
@@ -553,6 +544,15 @@
     "ss": "Konuyu bilen kaynaklara göre, Brezilyalı Braskem SA ile alacaklıları arasında mahkeme dışı borç yeniden yapılandırmasına ilişkin görüşmeler bozuldu; konu hakkında bilgi sahibi kaynaklara göre, hissedarlar, görüşmelerin bu şekilde devam etmesi durumunda önerilen sermaye enjeksiyonu anahtarını masadan kaldırdı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
     "ts": 1793993933000,
+    "tags": []
+   },
+   {
+    "t": "AI-Generated Movie Heading Theaters",
+    "tt": "Yapay Zekayla Üretilen Film Başlık Salonları",
+    "s": "Artificial intelligence is moving from experimental videos to the big screen. Fable Studio CEO Edward Saatchi says a team of just 30 people spent nine months creating Gods Don’t Give Gifts, an AI-generated animated feature that still relies on human directors, writers, voice actors and artists. He j",
+    "ss": "Yapay zeka deneysel videolardan büyük ekrana geçiyor. Fable Studio CEO'su Edward Saatchi, yalnızca 30 kişilik bir ekibin, hala insan yönetmenlere, yazarlara, seslendirme sanatçılarına ve sanatçılara dayanan, yapay zeka tarafından oluşturulan bir animasyon özelliği olan Tanrılar Hediye Vermez'i yaratmak için dokuz ay harcadığını söylüyor. O j",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-06/ai-generated-movie-heading-theaters-video",
+    "ts": 1794004188000,
     "tags": []
    }
   ],
@@ -851,6 +851,24 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "7 başlıkla geçen hafta",
+    "tt": null,
+    "s": "Küresel piyasalarda geride kalan haftada en önemli başlık ABD ara seçimleri oldu. Yurt içi piyasalarda ise enflasyon verileri ve fon gelişmeleri kritik başlıklar olarak öne çıktı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/7-baslikla-gecen-hafta-3793869",
+    "ts": 1794036671000,
+    "tags": []
+   },
+   {
+    "t": "Borsada kasım bereketi",
+    "tt": null,
+    "s": "Fon krizi ile birlikte Ekim ayında sıkıntılı günler yaşayan yatırımcılar, umutlarını Kasım ayına taşımış durumda.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/borsada-kasim-bereketi-3793868",
+    "ts": 1794035525000,
+    "tags": []
+   },
+   {
     "t": "Çin Merkez Bankası'nın altın alımları hız kesmiyor",
     "tt": null,
     "s": "Çin Merkez Bankası (PBOC), altının 4 bin dolar destek eşiğinin altına gerilediği Ekim ayında da rezervlerine altın ekleyerek alım serisini kesintisiz 24 aya çıkardı.",
@@ -920,24 +938,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/airbnb-misafirlerine-ozel-yapay-zeka-temsilcisi-gelistiriyor-3793860",
     "ts": 1793998574000,
-    "tags": []
-   },
-   {
-    "t": "Fed/Daly: Daha fazla faiz artışı gerekebilir",
-    "tt": null,
-    "s": "San Francisco Fed Başkanı Mary Daly, ABD'de yüksek seyreden enflasyonu düşürmek için para politikasında daha fazla sıkılaşmaya ihtiyaç duyulabileceğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/feddaly-daha-fazla-faiz-artisi-gerekebilir-3793859",
-    "ts": 1793997488000,
-    "tags": []
-   },
-   {
-    "t": "Bessent'tan Çin'e taahhütlerini yerine getirme çağrısı",
-    "tt": null,
-    "s": "ABD Hazine Bakanı Scott Bessent, Çin Başbakan Yardımcısı Hı Lifeıg ile yaptığı görüşmede, Pekin yönetiminin Busan Mutabakatı kapsamındaki taahhütlerini eksiksiz ve derhal yerine getirmesi gerektiğini vurguladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bessent-tan-cin-e-taahhutlerini-yerine-getirme-cagrisi-3793858",
-    "ts": 1793996166000,
     "tags": []
    }
   ]
