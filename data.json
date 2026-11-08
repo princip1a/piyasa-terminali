@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T05:25:30.343503+00:00",
+ "generated": "2026-11-08T06:24:52.850765+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,255 +89,65 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75791,
-   "c": -0.17,
+   "p": 75760,
+   "c": -0.27,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2234.79,
-   "c": -0.52,
+   "p": 2232.78,
+   "c": -0.48,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 89.22,
-   "c": -0.89,
+   "p": 89.15,
+   "c": -1.08,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.16,
-   "c": 0.62,
+   "c": 0.11,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 695.63,
-   "c": 0.18,
+   "p": 696.48,
+   "c": 0.3,
    "k": "usd"
   }
  ],
  "fred": null,
  "events": [
   {
-   "title": "Daylight Saving Time Shift",
-   "impact": "Holiday",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1793516400000,
-   "tr": "Paz 01.11 10:00",
-   "reading": null
-  },
-  {
-   "title": "Final Manufacturing PMI",
-   "impact": "Low",
-   "forecast": "56.0",
-   "previous": "56.0",
-   "actual": "",
-   "ts": 1793630700000,
-   "tr": "Pzt 02.11 17:45",
-   "reading": null
-  },
-  {
-   "title": "ISM Manufacturing PMI",
-   "impact": "Medium",
-   "forecast": "54.5",
-   "previous": "54.5",
-   "actual": "",
-   "ts": 1793631600000,
-   "tr": "Pzt 02.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Construction Spending m/m",
-   "impact": "Low",
-   "forecast": "0.4%",
-   "previous": "0.9%",
-   "actual": "",
-   "ts": 1793631600000,
-   "tr": "Pzt 02.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "ISM Manufacturing Prices",
-   "impact": "Low",
-   "forecast": "77.2",
-   "previous": "77.9",
-   "actual": "",
-   "ts": 1793631600000,
-   "tr": "Pzt 02.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Loan Officer Survey",
+   "title": "FOMC Member Bowman Speaks",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793646000000,
-   "tr": "Pzt 02.11 22:00",
+   "ts": 1794231600000,
+   "tr": "Pzt 09.11 16:40",
    "reading": null
   },
   {
-   "title": "RCM/TIPP Economic Optimism",
+   "title": "Final Wholesale Inventories m/m",
    "impact": "Low",
-   "forecast": "46.2",
-   "previous": "46.8",
+   "forecast": "0.6%",
+   "previous": "0.6%",
    "actual": "",
-   "ts": 1793696400000,
-   "tr": "Sal 03.11 12:00",
+   "ts": 1794236400000,
+   "tr": "Pzt 09.11 18:00",
    "reading": null
   },
   {
-   "title": "JOLTS Job Openings",
-   "impact": "Medium",
-   "forecast": "7.15M",
-   "previous": "7.08M",
-   "actual": "",
-   "ts": 1793718000000,
-   "tr": "Sal 03.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Factory Orders m/m",
-   "impact": "Low",
-   "forecast": "1.2%",
-   "previous": "0.1%",
-   "actual": "",
-   "ts": 1793718000000,
-   "tr": "Sal 03.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Omdia Total Vehicle Sales",
-   "impact": "Low",
-   "forecast": "15.8M",
-   "previous": "16.0M",
-   "actual": "",
-   "ts": 1793718900000,
-   "tr": "Sal 03.11 18:15",
-   "reading": null
-  },
-  {
-   "title": "Congressional Elections",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1793718960000,
-   "tr": "Sal 03.11 18:16",
-   "reading": null
-  },
-  {
-   "title": "API Weekly Statistical Bulletin",
+   "title": "FOMC Member Goolsbee Speaks",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793741400000,
-   "tr": "Çar 04.11 00:30",
-   "reading": null
-  },
-  {
-   "title": "ADP Non-Farm Employment Change",
-   "impact": "Low",
-   "forecast": "67K",
-   "previous": "90K",
-   "actual": "",
-   "ts": 1793798100000,
-   "tr": "Çar 04.11 16:15",
-   "reading": null
-  },
-  {
-   "title": "Trade Balance",
-   "impact": "Low",
-   "forecast": "-107.9B",
-   "previous": "-105.6B",
-   "actual": "",
-   "ts": 1793799000000,
-   "tr": "Çar 04.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Final Services PMI",
-   "impact": "Low",
-   "forecast": "57.9",
-   "previous": "57.9",
-   "actual": "",
-   "ts": 1793803500000,
-   "tr": "Çar 04.11 17:45",
-   "reading": null
-  },
-  {
-   "title": "ISM Services PMI",
-   "impact": "Medium",
-   "forecast": "54.8",
-   "previous": "54.9",
-   "actual": "",
-   "ts": 1793804400000,
-   "tr": "Çar 04.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Crude Oil Inventories",
-   "impact": "Low",
-   "forecast": "-1.7M",
-   "previous": "-1.9M",
-   "actual": "",
-   "ts": 1793806200000,
-   "tr": "Çar 04.11 18:30",
-   "reading": null
-  },
-  {
-   "title": "Challenger Job Cuts y/y",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "-19.9%",
-   "actual": "",
-   "ts": 1793874600000,
-   "tr": "Per 05.11 13:30",
-   "reading": null
-  },
-  {
-   "title": "Unemployment Claims",
-   "impact": "Medium",
-   "forecast": "197K",
-   "previous": "194K",
-   "actual": "",
-   "ts": 1793885400000,
-   "tr": "Per 05.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Prelim Nonfarm Productivity q/q",
-   "impact": "Low",
-   "forecast": "2.8%",
-   "previous": "1.4%",
-   "actual": "",
-   "ts": 1793885400000,
-   "tr": "Per 05.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Prelim Unit Labor Costs q/q",
-   "impact": "Low",
-   "forecast": "0.3%",
-   "previous": "1.3%",
-   "actual": "",
-   "ts": 1793885400000,
-   "tr": "Per 05.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Hammack Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1793886600000,
-   "tr": "Per 05.11 16:50",
+   "ts": 1794236400000,
+   "tr": "Pzt 09.11 18:00",
    "reading": null
   },
   {
@@ -346,88 +156,98 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793887800000,
-   "tr": "Per 05.11 17:10",
+   "ts": 1794244500000,
+   "tr": "Pzt 09.11 20:15",
    "reading": null
   },
   {
-   "title": "Natural Gas Storage",
-   "impact": "Low",
-   "forecast": "81B",
-   "previous": "80B",
+   "title": "FOMC Member Waller Speaks",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
    "actual": "",
-   "ts": 1793892600000,
-   "tr": "Per 05.11 18:30",
+   "ts": 1794301200000,
+   "tr": "Sal 10.11 12:00",
    "reading": null
   },
   {
-   "title": "FOMC Member Williams Speaks",
+   "title": "NFIB Small Business Index",
+   "impact": "Low",
+   "forecast": "97.7",
+   "previous": "97.9",
+   "actual": "",
+   "ts": 1794308400000,
+   "tr": "Sal 10.11 14:00",
+   "reading": null
+  },
+  {
+   "title": "ADP Weekly Employment Change",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793957400000,
-   "tr": "Cum 06.11 12:30",
+   "ts": 1794316500000,
+   "tr": "Sal 10.11 16:15",
    "reading": null
   },
   {
-   "title": "Average Hourly Earnings m/m",
+   "title": "ADP Weekly Employment Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "16.8K",
+   "actual": "",
+   "ts": 1794316560000,
+   "tr": "Sal 10.11 16:16",
+   "reading": null
+  },
+  {
+   "title": "Core CPI m/m",
+   "impact": "High",
+   "forecast": "0.2%",
+   "previous": "0.3%",
+   "actual": "",
+   "ts": 1794317400000,
+   "tr": "Sal 10.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "CPI m/m",
    "impact": "High",
    "forecast": "0.3%",
-   "previous": "0.1%",
+   "previous": "0.6%",
    "actual": "",
-   "ts": 1793971800000,
-   "tr": "Cum 06.11 16:30",
+   "ts": 1794317400000,
+   "tr": "Sal 10.11 16:30",
    "reading": null
   },
   {
-   "title": "Non-Farm Employment Change",
-   "impact": "High",
-   "forecast": "65K",
-   "previous": "29K",
-   "actual": "",
-   "ts": 1793971800000,
-   "tr": "Cum 06.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Unemployment Rate",
-   "impact": "High",
-   "forecast": "4.2%",
-   "previous": "4.2%",
-   "actual": "",
-   "ts": 1793971800000,
-   "tr": "Cum 06.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Musalem Speaks",
+   "title": "FOMC Member Logan Speaks",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793974200000,
-   "tr": "Cum 06.11 17:10",
+   "ts": 1794325800000,
+   "tr": "Sal 10.11 18:50",
    "reading": null
   },
   {
-   "title": "Prelim UoM Consumer Sentiment",
-   "impact": "Medium",
-   "forecast": "48.1",
-   "previous": "46.3",
-   "actual": "",
-   "ts": 1793977200000,
-   "tr": "Cum 06.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Prelim UoM Inflation Expectations",
-   "impact": "Medium",
+   "title": "10-y Bond Auction",
+   "impact": "Low",
    "forecast": "",
-   "previous": "4.7%",
+   "previous": "5.30|2.8",
    "actual": "",
-   "ts": 1793977200000,
-   "tr": "Cum 06.11 18:00",
+   "ts": 1794333660000,
+   "tr": "Sal 10.11 21:01",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Schmid Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794335400000,
+   "tr": "Sal 10.11 21:30",
    "reading": null
   },
   {
@@ -436,8 +256,128 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793985300000,
-   "tr": "Cum 06.11 20:15",
+   "ts": 1794342600000,
+   "tr": "Sal 10.11 23:30",
+   "reading": null
+  },
+  {
+   "title": "API Weekly Statistical Bulletin",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794346200000,
+   "tr": "Çar 11.11 00:30",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Bowman Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794353400000,
+   "tr": "Çar 11.11 02:30",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Paulson Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794353400000,
+   "tr": "Çar 11.11 02:30",
+   "reading": null
+  },
+  {
+   "title": "Bank Holiday",
+   "impact": "Holiday",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794402000000,
+   "tr": "Çar 11.11 16:00",
+   "reading": null
+  },
+  {
+   "title": "Unemployment Claims",
+   "impact": "Medium",
+   "forecast": "194K",
+   "previous": "189K",
+   "actual": "",
+   "ts": 1794490200000,
+   "tr": "Per 12.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Hammack Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794492000000,
+   "tr": "Per 12.11 17:00",
+   "reading": null
+  },
+  {
+   "title": "Existing Home Sales",
+   "impact": "Low",
+   "forecast": "3.86M",
+   "previous": "3.99M",
+   "actual": "",
+   "ts": 1794495600000,
+   "tr": "Per 12.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Barr Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794495600000,
+   "tr": "Per 12.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "Mortgage Delinquencies",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.37%",
+   "actual": "",
+   "ts": 1794495600000,
+   "tr": "Per 12.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Goolsbee Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794501000000,
+   "tr": "Per 12.11 19:30",
+   "reading": null
+  },
+  {
+   "title": "Crude Oil Inventories",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-0.9M",
+   "actual": "",
+   "ts": 1794502800000,
+   "tr": "Per 12.11 20:00",
+   "reading": null
+  },
+  {
+   "title": "30-y Bond Auction",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "5.62|2.5",
+   "actual": "",
+   "ts": 1794506460000,
+   "tr": "Per 12.11 21:01",
    "reading": null
   },
   {
@@ -446,18 +386,108 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1793988000000,
-   "tr": "Cum 06.11 21:00",
+   "ts": 1794507000000,
+   "tr": "Per 12.11 21:10",
    "reading": null
   },
   {
-   "title": "Consumer Credit m/m",
+   "title": "FOMC Member Schmid Speaks",
    "impact": "Low",
-   "forecast": "13.4B",
-   "previous": "8.3B",
+   "forecast": "",
+   "previous": "",
    "actual": "",
-   "ts": 1793995200000,
-   "tr": "Cum 06.11 23:00",
+   "ts": 1794508200000,
+   "tr": "Per 12.11 21:30",
+   "reading": null
+  },
+  {
+   "title": "Federal Budget Balance",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "-26.9B",
+   "actual": "",
+   "ts": 1794510000000,
+   "tr": "Per 12.11 22:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Williams Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794526200000,
+   "tr": "Cum 13.11 02:30",
+   "reading": null
+  },
+  {
+   "title": "Core PPI m/m",
+   "impact": "High",
+   "forecast": "0.3%",
+   "previous": "0.7%",
+   "actual": "",
+   "ts": 1794576600000,
+   "tr": "Cum 13.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "PPI m/m",
+   "impact": "High",
+   "forecast": "0.4%",
+   "previous": "1.3%",
+   "actual": "",
+   "ts": 1794576600000,
+   "tr": "Cum 13.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Collins Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794579000000,
+   "tr": "Cum 13.11 17:10",
+   "reading": null
+  },
+  {
+   "title": "Natural Gas Storage",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "77B",
+   "actual": "",
+   "ts": 1794583800000,
+   "tr": "Cum 13.11 18:30",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Bowman Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794585000000,
+   "tr": "Cum 13.11 18:50",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Daly Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794589200000,
+   "tr": "Cum 13.11 20:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Jefferson Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794614400000,
+   "tr": "Cmt 14.11 03:00",
    "reading": null
   }
  ],
