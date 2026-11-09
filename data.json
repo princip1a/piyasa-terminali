@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T02:31:49.570627+00:00",
+ "generated": "2026-11-09T03:24:51.711976+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4135.3,
-   "c": 1.48,
-   "d": 60.4,
+   "p": 4127.1,
+   "c": 1.28,
+   "d": 52.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.255,
-   "c": 2.8,
-   "d": 1.452,
+   "p": 52.99,
+   "c": 2.29,
+   "d": 1.187,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.64,
-   "c": -0.21,
-   "d": -0.19,
+   "p": 91.32,
+   "c": 0.54,
+   "d": 0.49,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 97.64,
-   "c": -0.69,
-   "d": -0.68,
+   "p": 98.29,
+   "c": -0.03,
+   "d": -0.03,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.148,
-   "c": -0.15,
-   "d": -0.152,
+   "p": 102.172,
+   "c": -0.13,
+   "d": -0.128,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1646,
-   "c": 0.02,
-   "d": 0.012,
+   "p": 50.1704,
+   "c": 0.03,
+   "d": 0.018,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75412,
-   "c": -0.31,
+   "p": 74815,
+   "c": -1.3,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2152.4,
-   "c": -3.51,
+   "p": 2137.58,
+   "c": -4.36,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 88.13,
-   "c": -0.93,
+   "p": 87.4,
+   "c": -2.0,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.12,
-   "c": -3.09,
+   "p": 1.1,
+   "c": -4.73,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 689.71,
-   "c": -0.66,
+   "p": 685.94,
+   "c": -1.33,
    "k": "usd"
   }
  ],
@@ -494,12 +494,44 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Philippine Economic Slump Worsens on Iran War, Bad Weather",
+    "tt": "Filipin Ekonomisi Beklenmedik Bir Şekilde Yavaşlıyor ve Marcos'a Baskı Oluşturuyor",
+    "s": "The Philippine economy unexpectedly slowed for a fifth straight quarter, raising questions about the central bank’s rate-hike cycle and heaping pressure on President Ferdinand Marcos Jr.",
+    "ss": "Asya'nın en kötü performans gösteren ekonomik büyümelerinden biri olan Filipinler'in ekonomik büyümesi, tarım üretiminin zayıf olması, yüksek enerji maliyetleri ve El Niño'nun görünümü bulandırmaya devam etmesi nedeniyle üst üste beşinci çeyrekte beklenmedik şekilde yavaşladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
+    "ts": 1794189824000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Advance on Tech Rebound, Oil Falls: Markets Wrap",
+    "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
+    "s": "Asian stocks rebounded from their biggest selloff in more than 18 months, with Taiwan leading gains after local authorities introduced measures to restore investor confidence. Crude oil fell, adding to the positive tone.",
+    "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794176451000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Nov. 9",
     "tt": "9 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
+    "s": "Oil steadied after its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
     "ss": "Petrol fiyatları, tüccarların bölgedeki yeni saldırılara karşı ABD-İran anlaşmazlığını sona erdirmeye yönelik diplomatik çabalara ağırlık vermesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
     "ts": 1794179007000,
+    "tags": []
+   },
+   {
+    "t": "Foreign Funds Pile Into India as AI Trade Falters",
+    "tt": "Yapay Zeka Ticareti Durgunlaşırken Yabancı Fonlar Hindistan'a Akıyor",
+    "s": "Including Friday’s provisional figures, foreign funds were net buyers of close to $5 billion of stocks last week.",
+    "ss": "Cuma günkü geçici rakamlar da dahil olmak üzere, yabancı fonlar geçen hafta 5 milyar dolara yakın hisse senedinin net alıcısıydı.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-09/foreign-funds-pile-into-india-as-ai-trade-falters",
+    "ts": 1794192332000,
     "tags": []
    },
    {
@@ -509,24 +541,6 @@
     "ss": "Çin'in yurt içi doğal gaz fiyatları zayıflıyor, dünyanın en büyük ithalatçısının pahalı deniz ürünlerine olan iştahını kısıtlıyor ve talebin yoğun olduğu kış sezonunda Avrupa ve diğer Asya pazarlarına yönelik yüklerin serbest kalmasına neden oluyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
     "ts": 1794190824000,
-    "tags": []
-   },
-   {
-    "t": "Philippine Economy Unexpectedly Slows, Pressuring Marcos",
-    "tt": "Filipin Ekonomisi Beklenmedik Bir Şekilde Yavaşlıyor ve Marcos'a Baskı Oluşturuyor",
-    "s": "The Philippines’ economic growth, one of Asia’s worst-performing, unexpectedly slowed for a fifth straight quarter on weak farm output, with high energy costs and El Niño continuing to cloud the outlook.",
-    "ss": "Asya'nın en kötü performans gösteren ekonomik büyümelerinden biri olan Filipinler'in ekonomik büyümesi, tarım üretiminin zayıf olması, yüksek enerji maliyetleri ve El Niño'nun görünümü bulandırmaya devam etmesi nedeniyle üst üste beşinci çeyrekte beklenmedik şekilde yavaşladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
-    "ts": 1794189824000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks Follow US Gains, Nvidia Probe Looms: Markets Wrap",
-    "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
-    "s": "Asian stocks rose following Friday’s recovery in US equities, though gains were tempered by concern over an investigation involving Nvidia Corp.’s chief executive officer Jensen Huang.",
-    "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794176451000,
     "tags": []
    },
    {
@@ -583,15 +597,6 @@
     "ss": "Başkan Luiz Inácio Lula da Silva, yatırımcılara güvence vermeye çalışırken, dördüncü dönemi kazanmasından bu yana televizyonda yayınlanan ilk konuşmasında sosyal programlardan vazgeçmeden Brezilya'nın kamu maliyesini koruyacağına söz verdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/lula-vows-fiscal-responsibility-in-first-address-since-election",
     "ts": 1794186588000,
-    "tags": []
-   },
-   {
-    "t": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown",
-    "tt": "En Yüksek Puana Sahip Firmadaki Ani Sıkıntı Çin'in Not Çöküşünü Test Ediyor",
-    "s": "Less than six months ago, China’s central bank made its biggest push yet to tackle inflated credit ratings in the nation’s $5.6 trillion corporate debt market. Now it has a live test case.",
-    "ss": "Altı aydan kısa bir süre önce Çin merkez bankası, ülkenin 5,6 trilyon dolarlık kurumsal borç piyasasında şişirilmiş kredi notlarıyla mücadele etmek için şimdiye kadarki en büyük hamlesini yaptı. Artık canlı bir test durumu var.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/sudden-distress-at-top-rated-firm-tests-china-s-rating-crackdown",
-    "ts": 1794181941000,
     "tags": []
    }
   ],
@@ -798,6 +803,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Trump Endorses Amnesty, Admits Deportations \"Might Be Too Tough\" An Hour Before Naming Their Architect Chief Of Staff",
+    "tt": "Trump Af Örgütünü Onayladı, Mimar Genelkurmay Başkanının Adını Açıklamadan Bir Saat Önce Sınırdışı Edilmelerin \"Çok Zor Olabileceğini\" Kabul Etti",
+    "s": "Trump Endorses Amnesty, Admits Deportations \"Might Be Too Tough\" An Hour Before Naming Their Architect Chief Of Staff President Trump told \"60 Minutes\" that his deportation policy \"might be too tough\" and that he would \"love to do something on immigration\" with the Democrats about to take over Congr",
+    "ss": "Trump Af Tasarısını Onayladı, Sınır Dışı İşlemlerin \"Çok Zor Olabilir\" Olduğunu Kabul Etti Mimar Personel Şefinin Adını Açıklamadan Bir Saat Önce Başkan Trump, \"60 Dakika\" programında sınır dışı politikasının \"çok sert olabileceğini\" ve Demokratların Congr'ı devralmak üzereyken \"göçmenlik konusunda bir şeyler yapmayı çok seveceğini\" söyledi",
+    "u": "https://www.zerohedge.com/political/trump-admits-deportations-might-be-too-tough-hour-naming-their-architect-chief-staff",
+    "ts": 1794194700000,
+    "tags": []
+   },
+   {
+    "t": "China Rehearses Taiwan Blockade In Unannounced Naval War Drill",
+    "tt": "Çin, Habersiz Deniz Savaşı Tatbikatında Tayvan Ablukasının Provasını Yapıyor",
+    "s": "China Rehearses Taiwan Blockade In Unannounced Naval War Drill China may be conducting a major, unannounced war drill aimed at isolating Taiwan , with more than 100 naval and coast guard vessels deployed across the Western Pacific, according to a new assessment. &nbsp; 🚨 中国在168小时内刚刚采取了5项行动。全部围绕台湾。没有",
+    "ss": "Çin, Habersiz Deniz Savaşı Tatbikatında Tayvan Ablukasının Provasını Yapıyor Yeni bir değerlendirmeye göre Çin, Batı Pasifik'te 100'den fazla deniz ve sahil güvenlik gemisi konuşlandırılarak Tayvan'ı izole etmeyi amaçlayan büyük, habersiz bir savaş tatbikatı yürütüyor olabilir.   🚨 中国在168小时内刚刚采取了5项行动。全部围绕台湾。没有",
+    "u": "https://www.zerohedge.com/geopolitical/china-rehearses-taiwan-blockade-unannounced-naval-war-drill",
+    "ts": 1794193200000,
+    "tags": []
+   },
+   {
     "t": "US Warns Of Ongoing Cyber Threat To Industrial Freezers And Cold Storage",
     "tt": "ABD Endüstriyel Donduruculara ve Soğuk Hava Depolarına Yönelik Devam Eden Siber Tehdit Konusunda Uyardı",
     "s": "US Warns Of Ongoing Cyber Threat To Industrial Freezers And Cold Storage Authored by Kimberly Hayek via The Epoch Times , Federal agencies warned Thursday that hackers are targeting refrigeration systems used to store food and medicine , urging businesses to secure vulnerable controls amid attacks t",
@@ -834,6 +857,15 @@
     "tags": []
    },
    {
+    "t": "Ex-MAHA Insider Tells Rogan What Trump Didn't Know About His Own White House",
+    "tt": "Eski MAHA Insider, Rogan'a Trump'ın Kendi Beyaz Sarayı Hakkında Bilmediklerini Anlattı",
+    "s": "Ex-MAHA Insider Tells Rogan What Trump Didn't Know About His Own White House Former senior White House advisor Calley Means says he had full White House approval for a federal look at how much sugar American children eat - until Trump's former Chief-of-Staff Susie Wiles killed it.&nbsp; White House ",
+    "ss": "Eski MAHA Insider, Trump'ın Kendi Beyaz Sarayı Hakkında Bilmediklerini Rogan'a Anlattı Eski kıdemli Beyaz Saray danışmanı Calley Means, Amerikalı çocukların ne kadar şeker yediğine ilişkin federal bir inceleme için Beyaz Saray'dan tam onay aldığını söylüyor - ta ki Trump'ın eski Genelkurmay Başkanı Susie Wiles onu öldürene kadar.  Beyaz Saray",
+    "u": "https://www.zerohedge.com/political/ex-maha-insider-tells-rogan-what-trump-didnt-know-about-his-own-white-house",
+    "ts": 1794186000000,
+    "tags": []
+   },
+   {
     "t": "The Nuclear Startup Suing The NRC Is Asking For A Permit",
     "tt": "NRC'ye Dava Açan Nükleer Şirket İzin İstiyor",
     "s": "The Nuclear Startup Suing The NRC Is Asking For A Permit Of all the startups in DOE's Reactor Pilot Program, few have made less noise than Last Energy. It is a surprising change from the company that initiated the legal action questioning the scope of the Nuclear Regulatory Commission's authority . ",
@@ -858,33 +890,6 @@
     "ss": "Genç Seçmenler Demokratlar İçin Ayrıldı... Ancak Anketörler GOP'un Onları Sonsuza Kadar Kaybetmediğini Söylüyor 2024'te Donald Trump ve Kamala Harris arasında kabaca eşit bir şekilde bölünen 30 yaşın altındaki seçmenler, 3 Kasım'daki Temsilciler Meclisi yarışlarında Demokrat aday için yaklaşık 10'da 7'lik bir oy aldı ve yaklaşık 10 kişiden 3'ü Cumhuriyetçiyi destekledi.",
     "u": "https://www.zerohedge.com/political/young-voters-broke-democrats-pollsters-say-gop-hasnt-lost-them-forever",
     "ts": 1794181200000,
-    "tags": []
-   },
-   {
-    "t": "Federal Judge Orders Mamdani's NYC To Comply With ICE Subpoena For Shelter Records",
-    "tt": "Federal Yargıç, Mamdani'nin NYC'sinin Barınak Kayıtları İçin ICE Mahkeme Çağrısına Uymasını Emretti",
-    "s": "Federal Judge Orders Mamdani's NYC To Comply With ICE Subpoena For Shelter Records Authored by David Manney via PJ Media , New York City fought to keep shelter records from ICE, even after the federal government accepted a screening process focused on people with serious criminal histories. On Novem",
-    "ss": "Federal Yargıç, Mamdani'nin NYC'sinin Barınak Kayıtları İçin ICE Mahkeme Çağrısına Uymasını Emretti David Manney tarafından PJ Media aracılığıyla yazılmıştır, New York City, federal hükümetin ciddi suç geçmişi olan kişilere odaklanan bir tarama sürecini kabul etmesinden sonra bile, ICE'den barınak kayıtlarını saklamak için mücadele etti. Kasım'da",
-    "u": "https://www.zerohedge.com/political/federal-judge-orders-mamdanis-nyc-comply-ice-subpoena-shelter-records",
-    "ts": 1794179700000,
-    "tags": []
-   },
-   {
-    "t": "Blanche Won't Rule Out Prosecuting Democrats Who Plan To Investigate Trump Officials",
-    "tt": "Blanche, Trump Yetkililerini Soruşturmayı Planlayan Demokratların Yargılanmasını Reddetmeyecek",
-    "s": "Blanche Won't Rule Out Prosecuting Democrats Who Plan To Investigate Trump Officials Attorney General Todd Blanche on Sunday declined to rule out prosecuting Democratic lawmakers who have vowed to investigate Trump administration officials. His comments came a day after President Trump ordered the J",
-    "ss": "Blanche, Trump Yetkililerini Soruşturmayı Planlayan Demokratların Yargılanmasını Reddetmeyecek Başsavcı Todd Blanche, Pazar günü, Trump yönetimi yetkililerini soruşturma sözü veren Demokrat milletvekillerinin kovuşturulmasını reddetmeyi reddetti. Onun yorumları, Başkan Trump'ın J emrini vermesinden bir gün sonra geldi.",
-    "u": "https://www.zerohedge.com/political/blanche-wont-rule-out-prosecuting-democrats-who-plan-investigate-trump-officials",
-    "ts": 1794176700000,
-    "tags": []
-   },
-   {
-    "t": "Pentagon's 'Iron Gate' Operation: Washington Moves To Choke Off Iran's Overland Military Trade",
-    "tt": "Pentagon'un 'Demir Kapı' Operasyonu: Washington, İran'ın Karadaki Askeri Ticaretini Durdurmak İçin Harekete Geçiyor",
-    "s": "Pentagon's 'Iron Gate' Operation: Washington Moves To Choke Off Iran's Overland Military Trade Despite the Iran war being very obviously deeply unpopular with the American public, Washington is seeking to tighten the noose on Tehran, particularly on the economic front. This weekend saw the Pentagon ",
-    "ss": "Pentagon'un 'Demir Kapı' Operasyonu: Washington, İran'ın Karadaki Askeri Ticaretini Durdurmak İçin Harekete Geçiyor İran savaşının Amerikan kamuoyunda açıkça sevilmeyen bir tarafı olmasına rağmen, Washington, özellikle ekonomik cephede, Tahran üzerindeki ilmiği sıkılaştırmaya çalışıyor. Bu hafta sonu Pentagon'u gördüm",
-    "u": "https://www.zerohedge.com/military/details-pentagons-new-task-force-iron-gate-block-irans-overland-military-trade",
-    "ts": 1794175200000,
     "tags": []
    }
   ],
