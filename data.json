@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T12:31:57.380649+00:00",
+ "generated": "2026-11-09T13:50:27.160709+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,97 +24,97 @@
   },
   {
    "n": "VIX",
-   "p": 23.5,
-   "c": -8.35,
-   "d": -2.14,
+   "p": 23.08,
+   "c": -9.98,
+   "d": -2.56,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4122.2,
-   "c": 1.16,
-   "d": 47.3,
+   "p": 4131.6,
+   "c": 1.39,
+   "d": 56.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.775,
-   "c": 1.88,
-   "d": 0.972,
+   "p": 52.705,
+   "c": 1.74,
+   "d": 0.902,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.14,
-   "c": -2.96,
-   "d": -2.69,
+   "p": 87.23,
+   "c": -3.96,
+   "d": -3.6,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 94.81,
-   "c": -3.57,
-   "d": -3.51,
+   "p": 94.18,
+   "c": -4.21,
+   "d": -4.14,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.867,
-   "c": -0.42,
-   "d": -0.433,
+   "p": 101.852,
+   "c": -0.44,
+   "d": -0.448,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.859,
-   "c": 0.45,
-   "d": 0.022,
+   "p": 4.843,
+   "c": -0.33,
+   "d": -0.016,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.1771,
+   "p": 50.1802,
    "c": 0.05,
-   "d": 0.024,
+   "d": 0.027,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11683.07,
-   "c": 1.75,
-   "d": 200.47,
+   "p": 11714.75,
+   "c": 2.02,
+   "d": 232.15,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74753,
-   "c": -1.5,
+   "p": 74662,
+   "c": -1.56,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2121.67,
-   "c": -5.17,
+   "p": 2118.58,
+   "c": -5.2,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.65,
-   "c": -3.18,
+   "p": 86.47,
+   "c": -3.02,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.093,
-   "c": -6.05,
+   "p": 1.094,
+   "c": -5.72,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 685.69,
-   "c": -1.64,
+   "p": 684.17,
+   "c": -1.78,
    "k": "usd"
   }
  ],
@@ -494,7 +494,21 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Mexico’s Inflation Accelerates With Banxico Rate Policy in Focus",
+    "t": "Oil Extends Drop as Hopes Grow of Diplomatic Progress to End War",
+    "tt": "Petrol, İran'ın Hürmüz Taleplerini Hafiflettiğine İlişkin Doğrulanmamış Raporla Düştü",
+    "s": "Oil extended a slump as optimism mounted over diplomatic efforts to end the war in the Middle East, even as attacks in the region continue.",
+    "ss": "Petrol, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalar devam ederken, İran'ın Hürmüz Boğazı üzerindeki taleplerinden taviz verdiği yönündeki doğrulanmamış bir rapor üzerine düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands",
+    "ts": 1794224047000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Mexico Inflation Jumps to Put Banxico Rate Policy in Focus",
     "tt": "Meksika'nın Enflasyonu Banxico Faiz Politikası Odak Noktasında Hızlanıyor",
     "s": "Mexico’s annual inflation accelerated more than expected in October, likely to intensify scrutiny of the central bank’s decision last week to cut interest rates in the face of persistent price pressures.",
     "ss": "Meksika'nın yıllık enflasyonu Ekim ayında beklenenden fazla hızlandı; bu durum muhtemelen merkez bankasının geçen hafta ısrarlı fiyat baskıları karşısında faiz oranlarını düşürme kararına ilişkin incelemeleri yoğunlaştıracak.",
@@ -509,89 +523,75 @@
     ]
    },
    {
-    "t": "Norway Halts Power Connections for New Data Centers",
-    "tt": "Norveç Yeni Veri Merkezlerinin Güç Bağlantılarını Durdurdu",
-    "s": "Norway will suspend further reservation of electricity connections for data centers while the country figures out how to handle the burden they place on the the grid.",
-    "ss": "Norveç, veri merkezleri için elektrik bağlantılarının daha fazla rezervasyonunu askıya alırken ülke, şebekeye yükledikleri yükü nasıl kaldıracağını çözecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/norway-halts-power-connections-for-new-data-centers",
-    "ts": 1794217909000,
-    "tags": []
-   },
-   {
-    "t": "Crisis mundial del vino obliga a los viñedos chilenos a reinventar sus negocios",
-    "tt": "Şarap Dünyası Krizi, Yeni Zelanda'nın İşlerini Yeniden Keşfetmesini Zorunlu Hale Getiriyor",
-    "s": "Chile exporta cerca del 70% de su producción de vino, pero la demanda mundial cae. Ahora las viñas arrancan cepas, apuestan por turismo y hasta convierten sus terrenos en proyectos residenciales. (Source: Bloomberg)",
-    "ss": "Şili, dünyadaki talep nedeniyle şarap üretiminin yaklaşık %70'ini ihraç ediyor. Bahçeler hep birlikte düzenlenir, turizm için hazırlanır ve arazileri konut projelerine dönüştürür. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/crisis-mundial-del-vino-obliga-a-los-vinedos-chilenos-a-reinventar-sus-negocios",
-    "ts": 1794227081000,
-    "tags": []
-   },
-   {
     "t": "US Stocks Rise as Dip-Buyers Shrug Off Nvidia Woes: Markets Wrap",
     "tt": "ABD Hisse Senetleri, Petroldeki Düşüşün Nvidia'nın Sıkıntılarını Dengelemesiyle Yükseliyor: Piyasalar İyileşiyor",
-    "s": "US stocks started Monday on a more solid footing following the S&amp;P 500’s worst week since April 2025 as oil prices fell while dip-buyers picked up beaten-down shares.",
+    "s": "US stocks started Monday on a more solid footing following the S&amp;P 500’s worst week since April 2025 as oil prices fell and dip-buyers picked up beaten-down shares.",
     "ss": "ABD borsaları, S&P 500'ün Nisan 2025'ten bu yana yaşadığı en kötü haftanın ardından Pazartesi gününe daha sağlam bir temelde başladı; ucuz petrol fiyatlarından gelen destek, çip üreticileri üzerinde devam eden baskıyla kısmen dengelendi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
     "ts": 1794176451000,
     "tags": []
    },
    {
-    "t": "Italy’s Banking Deal Spree Enters Endgame With BPM, Paschi Bids",
-    "tt": "İtalya'nın Bankacılık Anlaşma Çılgınlığı BPM ve Paschi Teklifleriyle Oyunun Sonuna Giriyor",
-    "s": "The future of Italian banking is finally taking shape after a two-year deal spree, as the lenders at the heart of the consolidation appear headed for new ownership.",
-    "ss": "İtalyan bankacılığının geleceği, iki yıllık bir anlaşma çılgınlığının ardından nihayet şekilleniyor; konsolidasyonun kalbinde yer alan borç verenler yeni mülkiyete yöneliyor gibi görünüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/italy-s-banking-deal-spree-enters-endgame-with-bpm-paschi-bids",
-    "ts": 1794226489000,
+    "t": "SocGen’s Juckes Sees ‘Less Dollar-Friendly’ Year in 2027",
+    "tt": "SocGen'den Juckes, 2027'yi 'Daha Az Dolar Dostu' Bir Yıl Olarak Görüyor",
+    "s": "Kit Juckes, chief FX strategist at Societe Generale, says he expects a weaker year for the dollar in 2027, \"but I'd be really nervous about shorting the dollar until we can get past this energy crisis.\" He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "ss": "Societe Generale'in baş döviz stratejisti Kit Juckes, 2027'de dolar için daha zayıf bir yıl beklediğini söylüyor, \"ancak bu enerji krizini atlatana kadar dolarda short pozisyon açma konusunda gerçekten gergin olurdum.\" “Bloomberg Gözetim” hakkında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/socgen-s-juckes-sees-less-dollar-friendly-year-in-2027-video",
+    "ts": 1794230586000,
     "tags": []
    },
    {
-    "t": "Hedge Funds Litigation Arb Bets Come Under Attack",
-    "tt": "Hedge Fonları Dava Arb Bahisleri Saldırıya Uğradı",
-    "s": "Deploying a rarely used tool for hedge funds, Carl Icahn’s firm and other investors are spearheading proposed class actions that challenge multibillion-dollar buyouts of public firms.",
-    "ss": "Carl Icahn'ın firması ve diğer yatırımcılar, hedge fonları için nadiren kullanılan bir araç kullanarak, kamu şirketlerinin milyarlarca dolarlık satın alınmasına meydan okuyan toplu dava tekliflerine öncülük ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-litigation-arb-bets-come-under-attack",
-    "ts": 1794225600000,
+    "t": "Emirates’ Clark Says Retirement Plans Derailed by Iran War",
+    "tt": "Emirates'ten Clark, Emeklilik Planlarının İran Savaşı Nedeniyle Raydan Çıktığını Söyledi",
+    "s": "Emirates President Tim Clark said he was considering stepping away from the airline after achieving record profit earlier this year, but that plan was derailed by the start of the Iran war.",
+    "ss": "Emirates Başkanı Tim Clark, bu yılın başlarında rekor kar elde ettikten sonra havayolundan ayrılmayı düşündüğünü ancak İran savaşının başlamasıyla bu planın raydan çıktığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
+    "ts": 1794230511000,
     "tags": []
    },
    {
-    "t": "Brazil Startup Exchange Partners With MSCI for Index Derivatives",
-    "tt": "Brezilya Startup Borsası Endeks Türevleri İçin MSCI ile Ortak Oluyor",
-    "s": "Brazil’s A5X SA is partnering with MSCI Inc. to launch derivatives of the index provider’s benchmarks, as the startup exchange looks to begin operations next year in a turf currently dominated by B3 SA.",
-    "ss": "Brezilyalı A5X SA, endeks sağlayıcısının kriterlerinin türevlerini piyasaya sürmek için MSCI Inc. ile ortaklık kuruyor, çünkü startup borsası şu anda B3 SA'nın hakim olduğu bir alanda gelecek yıl faaliyete başlayacak gibi görünüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/brazil-startup-exchange-partners-with-msci-for-index-derivatives",
-    "ts": 1794225600000,
+    "t": "Soybeans Erase Gains as Ample Supply Outlook Offsets China Bets",
+    "tt": "Bol Arz Görünümünün Çin Bahislerini Dengelemesiyle Soya Fasulyesi Kazançlarını Sildi",
+    "s": "Soybean futures erased earlier gains on Monday as traders weighed renewed optimism over Chinese demand against expectations that the US Department of Agriculture will report a bumper crop later in the week.",
+    "ss": "Soya fasulyesi vadeli işlemleri Pazartesi günü, trader'ların ABD Tarım Bakanlığı'nın hafta sonuna doğru yüksek bir mahsul açıklayacağı beklentileri karşısında Çin talebine ilişkin yenilenen iyimserliğe ağırlık vermesiyle önceki kazançlarını sildi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/soybeans-rise-as-us-presses-china-to-boost-farm-goods-purchases",
+    "ts": 1794196223000,
     "tags": []
    },
    {
-    "t": "Vanguard Expands Proxy Vote Plan to Cover $8.2 Trillion in Funds",
-    "tt": "Vanguard Vekalet Oy Planını 8,2 Trilyon Dolarlık Fonu Karşılayacak Şekilde Genişletiyor",
-    "s": "Vanguard Group Inc. is expanding a program it says is designed to better reflect individual investor preferences at shareholder meetings.",
-    "ss": "Vanguard Group Inc., hissedar toplantılarında bireysel yatırımcı tercihlerini daha iyi yansıtacak şekilde tasarlandığını söylediği bir programı genişletiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/vanguard-expands-proxy-vote-plan-to-cover-8-2-trillion-in-funds",
-    "ts": 1794225600000,
+    "t": "ECB Succession Advances as Ministers Look to Pick Trio of Jobs",
+    "tt": "Bakanlar Üçlü İşi Seçmeye Çalışırken ECB Devri İlerliyor",
+    "s": "Euro-zone governments are looking to agree on the European Central Bank presidency with two other jobs after an initial stocktaking of candidates for the top role.",
+    "ss": "Avro bölgesi hükümetleri, üst düzey adaylar arasında ilk değerlendirmenin ardından Avrupa Merkez Bankası başkanlığı konusunda diğer iki görevle anlaşmaya varmak istiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/ecb-succession-advances-as-ministers-look-to-pick-trio-of-jobs",
+    "ts": 1794229671000,
     "tags": []
    },
    {
-    "t": "Oil Falls on Unconfirmed Report That Iran Eased Hormuz Demands",
-    "tt": "Petrol, İran'ın Hürmüz Taleplerini Hafiflettiğine İlişkin Doğrulanmamış Raporla Düştü",
-    "s": "Oil fell on an unconfirmed report that Iran had made concessions on its demands over the Strait of Hormuz as diplomatic efforts to end the war in the Middle East continue.",
-    "ss": "Petrol, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalar devam ederken, İran'ın Hürmüz Boğazı üzerindeki taleplerinden taviz verdiği yönündeki doğrulanmamış bir rapor üzerine düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands",
-    "ts": 1794224047000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "Wall Street Sticks With AI Playbook After Historic Tech Unwind",
+    "tt": "Wall Street, Tarihi Teknoloji Gevşemesinin Ardından Yapay Zekanın Başucu Kitabıyla Devam Ediyor",
+    "s": "Hedge funds dumped technology stocks at one of the fastest paces on record last week, and the momentum crash that followed was the biggest in about 40 years. Even so, few on Wall Street are ready to call time on the AI boom.",
+    "ss": "Hedge fonları, geçen hafta teknoloji hisselerini tarihteki en hızlı düşüşlerden biriyle düşürdü ve bunu takip eden momentum çöküşü, yaklaşık 40 yılın en büyük çöküşü oldu. Yine de Wall Street'te çok az kişi yapay zeka patlamasına zaman ayırmaya hazır.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-s-lakos-bujas-sees-investor-selloff-nearing-exhaustion",
+    "ts": 1794218845000,
+    "tags": []
    },
    {
-    "t": "UniCredit CEO Plots Commerzbank Governance Overhaul",
-    "tt": "UniCredit CEO'su Commerzbank Yönetişiminde Yenileme Planlıyor",
-    "s": "UniCredit CEO Andrea Orcel has pledged to overhaul Commerzbank’s governance soon, in a move that may pave the way for an effort to oust CEO Bettina Orlopp. Speaking to Bloomberg TV, Orcel said all regulatory approvals for the deal are expected by the end of November. The Opening Trade has everything",
-    "ss": "UniCredit CEO'su Andrea Orcel, CEO Bettina Orlopp'u devirme çabalarının önünü açabilecek bir hamleyle Commerzbank'ın yönetimini yakında elden geçireceğine söz verdi. Bloomberg TV'ye konuşan Orcel, anlaşmaya ilişkin tüm düzenleyici onayların Kasım ayı sonuna kadar beklendiğini söyledi. Açılış Ticaretinde her şey var",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/the-opening-trade-11-09-2026-video",
-    "ts": 1794223672000,
+    "t": "Europe’s Gas Storage Problems Seen Lasting Well Beyond Winter",
+    "tt": "Avrupa'nın Gaz Depolama Sorunlarının Kışın Ötesinde de Süreceği Görülüyor",
+    "s": "Inventory levels could be lowest in more than a decade by spring.",
+    "ss": "Envanter seviyeleri bahara kadar son on yılın en düşük seviyesine inebilir.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-09/europe-s-gas-storage-problems-seen-lasting-well-beyond-winter",
+    "ts": 1794228457000,
+    "tags": []
+   },
+   {
+    "t": "First Abu Dhabi Bank Weighs Multibillion-Dollar Rights Issue",
+    "tt": "İlk Abu Dhabi Bankası Milyarlarca Dolarlık Hak Sorununu Tartıyor",
+    "s": "Executives at First Abu Dhabi Bank PJSC have held preliminary discussions on potentially raising billions of dollars through a rights issue that could rank among the biggest of its kind in recent years, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, First Abu Dhabi Bank PJSC yöneticileri, son yıllarda türünün en büyükleri arasında yer alabilecek bir haklar meselesi yoluyla potansiyel olarak milyarlarca dolar toplama konusunda ön görüşmelerde bulundu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/first-abu-dhabi-bank-weighs-multibillion-dollar-rights-issue",
+    "ts": 1794228422000,
     "tags": []
    }
   ],
@@ -706,6 +706,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+    "tt": "Kurumsal Amerika'nın kâr rakamları Wall Street'in beklentilerini zar zor aşıyor",
+    "s": "S&amp;P 500 companies’ earnings are mostly topping analysts’ estimates — but by the narrowest margin in roughly four years.",
+    "ss": "S&P 500 şirketlerinin kazançları çoğunlukla analistlerin tahminlerinin üzerinde seyrediyor, ancak bu oran yaklaşık dört yılın en dar marjında.",
+    "u": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+    "ts": 1794231360000,
+    "tags": []
+   },
+   {
+    "t": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+    "tt": "93 yaşındaki babam saat 11'de vasiyetini değiştirerek 500.000 dolarlık mirasının tamamını kardeşime bıraktı. Buna meydan okuyabilir miyim?",
+    "s": "“My brother had no job and needed a place to live.”",
+    "ss": "“Kardeşimin işi yoktu ve yaşayacak bir yere ihtiyacı vardı.”",
+    "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+    "ts": 1794231000000,
+    "tags": []
+   },
+   {
+    "t": "Retirement is now part of the affordability crisis. Politicians should pay attention.",
+    "tt": "Emeklilik artık karşılanabilirlik krizinin bir parçası. Politikacıların dikkat etmesi gerekiyor.",
+    "s": "Americans are more concerned about retirement than ever, and some of their biggest fears can’t be fixed by individual behavior alone.",
+    "ss": "Amerikalılar emeklilik konusunda her zamankinden daha fazla endişe duyuyor ve en büyük korkularından bazıları yalnızca bireysel davranışlarla çözülemez.",
+    "u": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
+    "ts": 1794231000000,
+    "tags": []
+   },
+   {
     "t": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
     "tt": "Berkshire Hathaway'in son çeyreğinin en büyük çıkarımı 357 milyar dolarlık nakit ya da hisse geri alımları değil",
     "s": "The dismal performance of Geico is the biggest takeaway from Berkshire Hathaway’s third-quarter results.",
@@ -742,7 +769,7 @@
     "tags": []
    },
    {
-    "t": "Until AI sentiment improves, Citi tells investors it’s better to sit out the global tech trade",
+    "t": "Until AI sentiment improves, it’s better to sit out the global tech trade, Citi tells investors",
     "tt": "Citi, yapay zeka ticaretindeki duyarlılık iyileşene kadar yatırımcılara küresel teknoloji ticaretinden uzak durmanın daha iyi olduğunu söylüyor",
     "s": "Despite recent weakness, Citi’s global strategy team thinks tech positioning needs to get cleaner before they would revert to their previous overweight stance.",
     "ss": "Citi'nin küresel strateji ekibi, yakın zamandaki zayıflığa rağmen, önceki aşırı kilolu duruşlarına dönmeden önce teknoloji konumlandırmasının daha net hale gelmesi gerektiğini düşünüyor.",
@@ -760,43 +787,66 @@
     "tags": []
    },
    {
-    "t": "‘We had the worst fight we’ve ever had’: I want my husband to retire at 65. But I don’t want to lose his $280,000 salary.",
+    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
     "tt": "'Şimdiye kadar yaşadığımız en kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum. Ama onun 280.000 dolarlık maaşını kaybetmek istemiyorum.",
-    "s": "“We have about $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account and my own IRA.”",
+    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
     "ss": "\"Yaklaşık 2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, ayrıca 450.000 dolarımız aracı kurum hesabında ve benim kendi IRA'mda.\"",
     "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
     "ts": 1794219300000,
     "tags": []
-   },
-   {
-    "t": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
-    "tt": "'Owning Manhattan'dan Ryan Serhant, neden bir ev satın almak için beklememeniz gerektiğini ve dikkat etmeniz gereken sıcak noktaları anlatıyor",
-    "s": "Ryan Serhant is warning would-be homebuyers against assuming that lower mortgage rates will deliver an easier path to homeownership in 2027.",
-    "ss": "Ryan Serhant, ev alıcılarını, daha düşük ipotek oranlarının 2027'de ev sahibi olmaya daha kolay bir yol sağlayacağını varsaymamaları konusunda uyarıyor.",
-    "u": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-    "ts": 1794218640000,
-    "tags": []
-   },
-   {
-    "t": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
-    "tt": "Brewers'ın yıldızı Christian Yelich, Malibu'daki malikanesini 30 milyon dolara satıyor",
-    "s": "World Series champion Christian Yelich is looking to shed the contemporary Malibu mansion he bought for $5.5 million six years ago.",
-    "ss": "Dünya Serisi şampiyonu Christian Yelich, altı yıl önce 5,5 milyon dolara satın aldığı çağdaş Malibu malikanesinden kurtulmanın yollarını arıyor.",
-    "u": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
-    "ts": 1794218520000,
-    "tags": []
-   },
-   {
-    "t": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
-    "tt": "Wall Street, Nvidia'nın Jensen Huang'ın casusluk iddialarına ilişkin soruşturmasına ilişkin haberlere nasıl tepki veriyor?",
-    "s": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
-    "ss": "Wall Street'in gişe rekorları kıran Nvidia haberlerine tepkisi, eğer zorla görevden alınırsa Jensen Huang'ın yerine kimin geçeceği merakı oldu.",
-    "u": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-    "ts": 1794215520000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Drone Strike Shuts Down Northern Iraq's Largest Gas Field, Plunging Region Into Darkness",
+    "tt": "Drone Saldırısı Kuzey Irak'ın En Büyük Gaz Sahasını Kapatarak Bölgeyi Karanlığa Gömdü",
+    "s": "Drone Strike Shuts Down Northern Iraq's Largest Gas Field, Plunging Region Into Darkness A drone attack on the sprawling Khor Mor gasfield in the Kurdish region of northern Iraq has resulted in a large fire, suspending production at the site, while plunging much of semi-autonomous Iraqi Kurdistan in",
+    "ss": "Drone Saldırısı, Kuzey Irak'ın En Büyük Gaz Sahasını Kapatarak Bölgeyi Karanlığa Gömdü Kuzey Irak'ın Kürt bölgesinde geniş bir alana yayılan Khor Mor gaz sahasına yapılan drone saldırısı, büyük bir yangına neden oldu, bölgede üretim durduruldu ve yarı özerk Irak Kürdistanı'nın büyük bir kısmı yok oldu.",
+    "u": "https://www.zerohedge.com/energy/drone-strike-shuts-down-northern-iraqs-largest-gas-field-plunging-region-darkness",
+    "ts": 1794232200000,
+    "tags": []
+   },
+   {
+    "t": "\"It's Going To Be Total Chaos\" - Martin Armstrong Warns \"People Are Just Fed Up\" With Washington",
+    "tt": "\"Tam bir kaos olacak\" - Martin Armstrong uyardı: \"İnsanlar Washington'dan bıktı\"",
+    "s": "\"It's Going To Be Total Chaos\" - Martin Armstrong Warns \"People Are Just Fed Up\" With Washington Authored by Greg Hunter via USAWatchdog , Legendary financial and geopolitical cycle analyst Martin Armstrong with his famous \"Socrates\" program accurately predicted what would happen in the midterm elec",
+    "ss": "\"Tam Kaos Olacak\" - Martin Armstrong, Washington'dan \"İnsanların Bıktığını\" Uyardı Greg Hunter tarafından USAWatchdog aracılığıyla yazılmıştır, Efsanevi finans ve jeopolitik döngü analisti Martin Armstrong, ünlü \"Sokrates\" programıyla, ara seçimlerde ne olacağını doğru bir şekilde tahmin etmiştir.",
+    "u": "https://www.zerohedge.com/political/its-going-be-total-chaos-martin-armstrong-warns-people-are-just-fed-washington",
+    "ts": 1794231300000,
+    "tags": []
+   },
+   {
+    "t": "Futures Rise As Dip Buyers Shrug Off Jensen's Spy Scandal, Oil Slides On Iran Hopes",
+    "tt": "Dip Alıcıları Jensen'in Casus Skandalını Umursamazken Vadeli İşlemler Yükselirken, Petrol İran Umutlarıyla Düştü",
+    "s": "Futures Rise As Dip Buyers Shrug Off Jensen's Spy Scandal, Oil Slides On Iran Hopes US futures are higher as dip buyers return after the S&amp;P's worst week since April 2025, oil extends its biggest weekly drop since April 2020 on Iran diplomacy hopes, and the market decides that Jensen Huang's aff",
+    "ss": "Dip Alıcıları Jensen'in Casus Skandalını umursamazken, Petrol İran'a Yönelik Umutlu Olurken Vadeli İşlemler Yükseliyor S&P'nin Nisan 2025'ten bu yana en kötü haftasının ardından dip alıcılarının geri dönmesi, petrolün İran diplomasisi umutları nedeniyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürmesi ve piyasanın Jensen Huang'ın yakınlaşmasına karar vermesiyle ABD vadeli işlemleri yükselişte",
+    "u": "https://www.zerohedge.com/markets/futures-rise-dip-buyers-shrug-jensens-spy-scandal-oil-slides-iran-hopes",
+    "ts": 1794230748000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "\"Whole World Repeating A Lie\": EU Lawmaker Challenges \"Far-Right\" MSM Narrative For Polish Gunman",
+    "tt": "\"Bütün Dünya Bir Yalanı Tekrarlıyor\": AB Milletvekili, Polonyalı Silahlı Adamın \"Aşırı Sağ\" MSM Anlatısına Karşı Çıkıyor",
+    "s": "\"Whole World Repeating A Lie\": EU Lawmaker Challenges \"Far-Right\" MSM Narrative For Polish Gunman Global corporate media outlets ran a synchronized information operation over the weekend to twist reality, claiming that the gunman in Poland, who killed six and injured more than a dozen, had far-right",
+    "ss": "\"Bütün Dünya Bir Yalanı Tekrarlıyor\": AB Milletvekili, MSM'nin Polonyalı Silahlı Adamlara Yönelik \"Aşırı Sağ\" Anlatısına Meydan Okudu Küresel kurumsal medya kuruluşları, Polonya'da altı kişiyi öldüren ve bir düzineden fazlasını yaralayan silahlı adamın aşırı sağcı olduğunu iddia ederek, gerçeği çarpıtmak için hafta sonu boyunca senkronize bir bilgi operasyonu yürüttü.",
+    "u": "https://www.zerohedge.com/political/whole-world-repeating-lie-eu-lawmaker-challenges-far-right-msm-narrative-polish-gunman",
+    "ts": 1794229500000,
+    "tags": []
+   },
+   {
+    "t": "Qatar (Shockingly) Becomes Largest Buyer Of US LNG Amid Hormuz Crisis",
+    "tt": "Katar (Şok Bir Şekilde) Hürmüz Krizinde ABD LNG'sinin En Büyük Alıcısı Oldu",
+    "s": "Qatar (Shockingly) Becomes Largest Buyer Of US LNG Amid Hormuz Crisis Authored by Tsvetana Paraskova via OilPrice , Qatar is set to become the largest buyer of U.S. LNG, signing long-term deals for 7 million tonnes annually with Cheniere and Woodside.&nbsp; The Iran war has crippled Qatar's LNG indu",
+    "ss": "Katar (Şok Edici Bir Şekilde) Hürmüz Krizi Ortasında ABD LNG'sinin En Büyük Alıcısı Oldu OilPrice aracılığıyla Tsvetana Paraskova tarafından yazılan Katar, Cheniere ve Woodside ile yıllık 7 milyon tonluk uzun vadeli anlaşmalar imzalayarak ABD LNG'sinin en büyük alıcısı olmaya hazırlanıyor.  İran savaşı Katar'ın LNG sektörünü sekteye uğrattı",
+    "u": "https://www.zerohedge.com/energy/qatar-becomes-largest-buyer-us-lng-amid-hormuz-crisis",
+    "ts": 1794228600000,
+    "tags": []
+   },
    {
     "t": "Biden Says Cancer Is Slowing Him Down - Days Before His Memoir Hits Shelves",
     "tt": "Biden, Kanserin Onu Yavaşlattığını Söyledi - Anıları Raflara Çıkmadan Günler Önce",
@@ -804,6 +854,15 @@
     "ss": "Biden, Kanserin Onu Yavaşlattığını Söyledi - Anı Kitabı Raflara Çıkmadan Günler Önce Eski Başkan Joe Biden Pazar günü yaptığı açıklamada, kanserinin onu 17 Kasım'da çıkacak olan başkanlık anı kitabı Promise Me, America için planladığı kadar röportaj yapmaktan alıkoyacağını söyledi. \"Bazı günler diğerlerinden daha iyidir\"",
     "u": "https://www.zerohedge.com/political/biden-says-cancer-slowing-him-down-days-his-memoir-hits-shelves",
     "ts": 1794227700000,
+    "tags": []
+   },
+   {
+    "t": "\"A Detonator Set Off Right On Cue\": Why Washington Seized On The Jensen Huang Scandal To Draw Its Sword",
+    "tt": "\"Bir Patlatıcı Tam İşaret Sırasında Patladı\": Washington Kılıcını Çekmek İçin Neden Jensen Huang Skandalını Ele Geçirdi?",
+    "s": "\"A Detonator Set Off Right On Cue\": Why Washington Seized On The Jensen Huang Scandal To Draw Its Sword The affair was the headline. The chips were the point... That, at least, is the read from Taiwanese semiconductor analyst Andrew Lu , whose take on the Nvidia (NVDA) spy scandal has been making th",
+    "ss": "\"Bir Patlatıcı Tam İşaret Sırasında Patladı\": Washington Neden Kılıcını Çekmek İçin Jensen Huang Skandalını Ele Geçirdi Olay manşet oldu. Önemli olan çiplerdi... En azından, Nvidia (NVDA) casusluk skandalıyla ilgili yorumları gündeme getiren Tayvanlı yarı iletken analisti Andrew Lu'nun okudukları bunlar.",
+    "u": "https://www.zerohedge.com/markets/detonator-set-right-cue-why-washington-seized-jensen-huang-scandal-draw-its-sword",
+    "ts": 1794227100000,
     "tags": []
    },
    {
@@ -832,63 +891,63 @@
     "u": "https://www.zerohedge.com/geopolitical/something-big-coming",
     "ts": 1794224400000,
     "tags": []
-   },
-   {
-    "t": "Ex-MAHA Insider Tells Rogan What Trump Didn't Know About His Own White House",
-    "tt": "Eski MAHA Insider, Rogan'a Trump'ın Kendi Beyaz Sarayı Hakkında Bilmediklerini Anlattı",
-    "s": "Ex-MAHA Insider Tells Rogan What Trump Didn't Know About His Own White House Former senior White House advisor Calley Means says he had full White House approval for a federal look at how much sugar American children eat - until Trump's former Chief-of-Staff Susie Wiles killed it.&nbsp; White House ",
-    "ss": "Eski MAHA Insider, Trump'ın Kendi Beyaz Sarayı Hakkında Bilmediklerini Rogan'a Anlattı Eski kıdemli Beyaz Saray danışmanı Calley Means, Amerikalı çocukların ne kadar şeker yediğine ilişkin federal bir inceleme için Beyaz Saray'dan tam onay aldığını söylüyor - ta ki Trump'ın eski Genelkurmay Başkanı Susie Wiles onu öldürene kadar.  Beyaz Saray",
-    "u": "https://www.zerohedge.com/political/ex-maha-insider-tells-rogan-what-trump-didnt-know-about-his-own-white-house",
-    "ts": 1794223800000,
-    "tags": []
-   },
-   {
-    "t": "The Top 0.1% Has More Than Doubled Its Wealth Since 2019",
-    "tt": "En tepedeki %0,1'in serveti 2019'dan bu yana iki kattan fazla arttı",
-    "s": "The Top 0.1% Has More Than Doubled Its Wealth Since 2019 America’s wealth divide is increasingly becoming a story not just of the rich versus everyone else, but of the ultra rich separating from even other wealthy Americans, according to the Wall Street Journal . Federal Reserve data show that the w",
-    "ss": "En tepedeki yüzde 0,1'in serveti 2019'dan bu yana iki kattan fazla arttı Wall Street Journal'a göre, Amerika'nın servet ayrımı giderek sadece zenginlerin herkese karşı değil, aynı zamanda ultra zenginlerin diğer zengin Amerikalılardan ayrılmasının hikayesi haline geliyor. Federal Reserve verileri gösteriyor ki",
-    "u": "https://www.zerohedge.com/markets/top-01-has-more-doubled-its-wealth-2019",
-    "ts": 1794221100000,
-    "tags": []
-   },
-   {
-    "t": "Scientists Grew Microbes In Mars-Like Conditions - And They Didn't Just Survive...",
-    "tt": "Bilim Adamları Mars Benzeri Koşullarda Mikrop Yetiştirdiler - Ve Sadece Hayatta Kalmadılar...",
-    "s": "Scientists Grew Microbes In Mars-Like Conditions - And They Didn't Just Survive... Salt-loving microbes kept for months in a lab version of the Martian underground did more than hang on. They grew, according to a study from University of Florida researchers published in the journal Applied and Envir",
-    "ss": "Bilim Adamları Mars Benzeri Koşullarda Mikrop Yetiştirdiler - Ve Hayatta Kalmadılar... Mars'ın yeraltındaki laboratuvar versiyonunda aylarca saklanan tuzu seven mikroplar, tutunmaktan fazlasını yaptı. Applied ve Envir dergisinde yayınlanan Florida Üniversitesi araştırmacılarının yaptığı bir araştırmaya göre büyüdüler.",
-    "u": "https://www.zerohedge.com/technology/scientists-grew-microbes-mars-conditions-and-they-didnt-just-survive",
-    "ts": 1794215700000,
-    "tags": []
-   },
-   {
-    "t": "Pope Leo, Fresh From Cancer Surgery, Calls For Universal Health Care \"In Every Society\"",
-    "tt": "Kanser Ameliyatından Yeni Çıkan Papa Leo, \"Her Toplumda\" Evrensel Sağlık Hizmeti Çağrısında Bulundu",
-    "s": "Pope Leo, Fresh From Cancer Surgery, Calls For Universal Health Care \"In Every Society\" Pope Leo XIV used his first major address in Uruguay to call for universal health care \"in every society,\" less than four weeks after surgeons removed part of his lung for cancer. The speech opened a 12-day trip ",
-    "ss": "Kanser Cerrahisinden Yeni Çıkmış Papa Leo, \"Her Toplumda\" Evrensel Sağlık Hizmeti Çağrısında Bulundu Papa Leo XIV, cerrahların kanser nedeniyle akciğerinin bir kısmını çıkarmasından dört haftadan kısa bir süre sonra, Uruguay'daki ilk büyük konuşmasını \"her toplumda\" evrensel sağlık hizmeti çağrısında bulunmak için kullandı. Konuşma 12 günlük bir gezinin açılışını yaptı",
-    "u": "https://www.zerohedge.com/political/pope-leo-fresh-cancer-surgery-calls-universal-health-care-every-society",
-    "ts": 1794210300000,
-    "tags": []
-   },
-   {
-    "t": "'A Working Group For War And Peace': Three Hours In The Kremlin",
-    "tt": "'Savaş ve Barış İçin Bir Çalışma Grubu': Kremlin'de Üç Saat",
-    "s": "'A Working Group For War And Peace': Three Hours In The Kremlin Authored by Larry C. Johnson via Sonar21 Vladimir Putin does not give three hours of his time to people who have nothing to say . On Thursday, he gave three hours to Mohsen Rezaei, the secretary of Iran’s Supreme National Security Counc",
-    "ss": "'Savaş ve Barış İçin Bir Çalışma Grubu': Kremlin'de Üç Saat Yazan Larry C. Johnson, Sonar21 aracılığıyla Vladimir Putin söyleyecek hiçbir şeyi olmayan insanlara üç saatini ayırmaz. Perşembe günü İran Yüksek Ulusal Güvenlik Konseyi Sekreteri Muhsin Rızaei'ye üç saat süre tanıdı.",
-    "u": "https://www.zerohedge.com/geopolitical/three-hours-kremlin",
-    "ts": 1794207600000,
-    "tags": []
-   },
-   {
-    "t": "Politicians Come And Go... The Machinery Of Oppression Remains",
-    "tt": "Politikacılar Gelir ve Gider... Zulüm Mekanizması Kalır",
-    "s": "Politicians Come And Go... The Machinery Of Oppression Remains Authored by John W. Whitehead via OffGuardian , \"There is something terribly wrong with this country, isn't there? Cruelty and injustice, intolerance and oppression. And where once you had the freedom to object, to think and speak as you",
-    "ss": "Politikacılar Gelip Gidiyor... Baskının Mekanizması Hala Yazan John W. Whitehead, OffGuardian aracılığıyla, \"Bu ülkede çok yanlış bir şeyler var, değil mi? Zulüm ve adaletsizlik, hoşgörüsüzlük ve baskı. Ve bir zamanlar itiraz etme, kendin gibi düşünme ve konuşma özgürlüğüne sahip olduğun yerde",
-    "u": "https://www.zerohedge.com/political/politicians-come-and-go-machinery-oppression-remains",
-    "ts": 1794197700000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Elektrik dağıtıma 2040'a kadar 80 milyar dolarlık yatırım",
+    "tt": null,
+    "s": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Genel Sekreteri Fakir Hüseyin Erdoğan, elektrik dağıtım şebekelerine 2040'a kadar yapılması öngörülen 80 milyar dolarlık yatırımın Türkiye'nin enerji ithalat faturasının azaltılmasına ve yenilenebilir enerji kaynaklarının sisteme entegrasyonuna katkı sağla",
+    "ss": null,
+    "u": "https://www.bloomberght.com/elektrik-dagitima-2040-a-kadar-80-milyar-dolarlik-yatirim-3793974",
+    "ts": 1794230943000,
+    "tags": []
+   },
+   {
+    "t": "Google, Nvidia ile rekabetini hızlandırdı",
+    "tt": null,
+    "s": "Google, daha geniş bir yelpazede yapay zeka çiplerini piyasaya sürerek Nvidia ilke rekabetini hızlandırmayı hedefliyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/google-nvidia-ile-rekabetini-hizlandirdi-3793973",
+    "ts": 1794230272000,
+    "tags": []
+   },
+   {
+    "t": "\"Şirketler temiz teknolojilere yatırım yapmalı\"",
+    "tt": null,
+    "s": "Climat-KIC İklim Girişimciliği Ekibi Eş Lideri Christian Daube COP31 iklim zirvesinde Bloomberg HT'ye değerlendirmelerde bulundu. Türkiye ve dünyada şirketlerin giderek artan risklerden etkilendiğini kaydeden Daube şirketlerin temiz teknolojilere ve yenilikçi çözümlere yatırım yapması gerektiğini be",
+    "ss": null,
+    "u": "https://www.bloomberght.com/sirketler-temiz-teknolojilere-yatirim-yapmali-3793972",
+    "ts": 1794229754000,
+    "tags": []
+   },
+   {
+    "t": "Cumhurbaşkanı Erdoğan Tim Cook ile görüştü",
+    "tt": null,
+    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, Apple Yönetim Kurulu Üyesi Tim Cook'u Cumhurbaşkanlığı Külliyesi'nde kabul etti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cumhurbaskani-erdogan-tim-cook-ile-gorustu-3793971",
+    "ts": 1794229624000,
+    "tags": []
+   },
+   {
+    "t": "Pacific Tiger/Cockrell: Doğa dostu finansal projeler yapılabilir",
+    "tt": null,
+    "s": "Pacific Tiger Harry Cockrell, Bloomberg HT'ye verdiği söyleşide doğayı koruyan finansal sürdürülebilir modellere vurgu yaptı:",
+    "ss": null,
+    "u": "https://www.bloomberght.com/pacific-tigercockrell-doga-dostu-finansal-projeler-yapilabilir-3793970",
+    "ts": 1794228963000,
+    "tags": []
+   },
+   {
+    "t": "Impactsf/Grosjean: Teknoloji sayesinde tarımda yatırımların etkileri izlenebiliyor",
+    "tt": null,
+    "s": "Impactsf Eşbaşkanı Godefroy Grosjean, COP31'de Bloomberg HT'nin sorularını yanıtladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/impactsfgrosjean-teknoloji-sayesinde-tarimda-yatirimlarin-etkileri-izlenebiliyor-3793968",
+    "ts": 1794227290000,
+    "tags": []
+   },
    {
     "t": "Halkbank'tan COP31'e özel 100 milyar liralık paket",
     "tt": null,
@@ -923,60 +982,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/cop31-dunya-tarihine-uygulama-copu-olarak-gececek-3793961",
     "ts": 1794224775000,
-    "tags": []
-   },
-   {
-    "t": "Vodafone'dan Almanya'da binlerce işçi çıkarma planı",
-    "tt": null,
-    "s": "Telekomünikasyon şirketi Vodafone, gelecek iki yıl içinde yaklaşık 2 bin 300 çalışanın işine son vermeyi planlıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vodafone-dan-almanya-da-binlerce-isci-cikarma-plani-3793960",
-    "ts": 1794224626000,
-    "tags": []
-   },
-   {
-    "t": "AMB'de hedef yeni yıla yeni başkanla girmek",
-    "tt": null,
-    "s": "Euro Grubu Başkanı Kiryakos Pierrakakis, Avrupa Merkez Bankası (AMB) başkanlığı için İspanya ve Hollanda'nın adaylarının toplantıda tanıtılacağını belirterek seçim sürecinin liderler düzeyinde siyasi uzlaşıyla yürütülmesini ve yıl sonuna kadar tamamlanmasını beklediğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/amb-de-hedef-yeni-yila-yeni-baskanla-girmek-3793959",
-    "ts": 1794223818000,
-    "tags": []
-   },
-   {
-    "t": "Euro Bölgesi'nde yatırımcı güveni geriledi",
-    "tt": null,
-    "s": "Euro Bölgesi'nde yatırımcı güven endeksi, Kasım ayında 0,3 puanlık düşüşle piyasa beklentilerinin altında azalış ​​​​​​​kaydederek 2,4 puana geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/euro-bolgesi-nde-yatirimci-guveni-geriledi-3793958",
-    "ts": 1794223348000,
-    "tags": []
-   },
-   {
-    "t": "İzmir'de fabrikada şiddetli patlama: Altı can kaybı",
-    "tt": null,
-    "s": "İzmir Aliağa'da demir çelik fabrikasında patlama sonrası yangın çıktı. İzmir Valiliği, Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada hayatını kaybedenlerin sayısının altıya yükseldiğini bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/izmir-de-fabrikada-siddetli-patlama-uc-can-kaybi-3793956",
-    "ts": 1794222713000,
-    "tags": []
-   },
-   {
-    "t": "Almanya'da ihracat beklentileri aştı",
-    "tt": null,
-    "s": "Almanya'nın mevsim ve takvim etkilerinden arındırılmış ihracatı, Eylül ayında Avrupa ülkelerinden gelen güçlü talebin desteğiyle bir önceki aya göre yüzde 2 artarak piyasa beklentilerinin üzerinde gerçekleşti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/almanya-da-ihracat-beklentileri-asti-3793953",
-    "ts": 1794221005000,
-    "tags": []
-   },
-   {
-    "t": "İran: Pakistan ve Katar ile istişareler devam ediyor",
-    "tt": null,
-    "s": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, yalnızca İran halkının haklarının güvence altına alındığı bir anlaşmayı imzalayacaklarını ve uygulayacaklarını belirterek, \"Arabulucu ülkeler Pakistan ve Katar ile istişareler devam ediyor\" dedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-pakistan-ve-katar-ile-istisareler-devam-ediyor-3793949",
-    "ts": 1794217933000,
     "tags": []
    }
   ]
