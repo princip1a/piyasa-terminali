@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T22:24:47.827332+00:00",
+ "generated": "2026-11-09T23:17:44.925915+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4149.5,
-   "c": 1.83,
-   "d": 74.6,
+   "p": 4144.8,
+   "c": 1.72,
+   "d": 69.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.455,
-   "c": 3.19,
-   "d": 1.652,
+   "p": 53.395,
+   "c": 3.07,
+   "d": 1.592,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.38,
-   "c": -4.9,
-   "d": -4.45,
+   "p": 86.27,
+   "c": -5.02,
+   "d": -4.56,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.17,
-   "c": -6.26,
-   "d": -6.15,
+   "p": 92.16,
+   "c": -6.27,
+   "d": -6.16,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.681,
+   "p": 101.679,
    "c": -0.61,
-   "d": -0.619,
+   "d": -0.621,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1999,
+   "p": 50.1966,
    "c": 0.09,
-   "d": 0.047,
+   "d": 0.044,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74964,
-   "c": 0.56,
+   "p": 75087,
+   "c": -0.45,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2124.32,
-   "c": -0.2,
+   "p": 2130.21,
+   "c": -1.32,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.33,
-   "c": -0.15,
+   "p": 86.54,
+   "c": -1.53,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.093,
-   "c": -2.35,
+   "p": 1.099,
+   "c": -2.74,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 688.73,
-   "c": 0.52,
+   "p": 689.37,
+   "c": -0.22,
    "k": "usd"
   }
  ],
@@ -323,7 +323,7 @@
   {
    "title": "Existing Home Sales",
    "impact": "Low",
-   "forecast": "3.86M",
+   "forecast": "3.89M",
    "previous": "3.99M",
    "actual": "",
    "ts": 1794495600000,
@@ -403,7 +403,7 @@
   {
    "title": "Federal Budget Balance",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-286.3B",
    "previous": "-26.9B",
    "actual": "",
    "ts": 1794510000000,
@@ -494,15 +494,6 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Dutch Bros CEO: Gas Prices Are Impacting the Consumer",
-    "tt": "Dutch Bros CEO'su: Gaz Fiyatları Tüketiciyi Etkiliyor",
-    "s": "Dutch Bros CEO Christine Barone says the coffee chain delivered more than 30% year-over-year growth in revenue and EBITDA in the third quarter. The company also recorded its 14th consecutive quarter of positive same-store sales and ninth consecutive quarter of positive traffic, while continuing to o",
-    "ss": "Dutch Bros CEO'su Christine Barone, kahve zincirinin üçüncü çeyrekte gelir ve FAVÖK açısından yıllık %30'dan fazla büyüme sağladığını söyledi. Şirket aynı zamanda üst üste 14'üncü çeyrekte pozitif aynı mağaza satışlarını ve art arda dokuzuncu çeyrekte pozitif trafik kaydetti.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/dutch-bros-ceo-gas-prices-are-impacting-the-consumer-video",
-    "ts": 1794263057000,
-    "tags": []
-   },
-   {
     "t": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
     "s": "Asian stocks were poised to track Wall Street higher as a rally in technology shares and a slump in oil prices drove US benchmarks to their best day in seven months.",
@@ -515,6 +506,64 @@
      "Altın ▲",
      "BTC ▲"
     ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 10",
+    "tt": "10 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil steadied after slumping to its lowest since August, as optimism around diplomatic efforts to end the war in the Middle East outweighed concerns over attacks in the region.",
+    "ss": "Petrol fiyatları, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalara ilişkin iyimserliğin, bölgedeki saldırılara ilişkin endişelere ağır basmasıyla Ağustos ayından bu yana en düşük seviyesine gerilemesinin ardından yatay seyrediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+    "ts": 1794265304000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Faltering Philippine Growth Spurs Calls for State Action, Pause in Rate Hikes",
+    "tt": "Filipinler'deki Büyümenin Durgunlaşması, Devletin Eyleme Geçmesi ve Faiz Artışlarının Durdurulması Çağrısını Teşvik Ediyor",
+    "s": "A surprise slowdown in the Philippine economy has triggered calls for the central bank to go easy on interest rate increases, and for President Ferdinand Marcos Jr. to do more to revive growth.",
+    "ss": "Filipin ekonomisindeki sürpriz yavaşlama, merkez bankasının faiz artışları konusunda yumuşak davranması ve Başkan Ferdinand Marcos Jr.'ın büyümeyi canlandırmak için daha fazlasını yapması yönündeki çağrıları tetikledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes",
+    "ts": 1794265200000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Kiwi Extends Gains to Most in Seven Months After Election Result",
+    "tt": "Kiwi, Seçim Sonucundan Sonraki Yedi Ay İçinde Kazanımlarını Çoğuna Ulaştırdı",
+    "s": "New Zealand’s dollar extended Monday’s rise to finish the session with its biggest one-day gain since April after the incumbent center-right government emerged from the weekend election with a path back to power.",
+    "ss": "Yeni Zelanda doları Pazartesi günkü yükselişini sürdürerek, görevdeki merkez sağ hükümetin hafta sonu yapılan seçimlerden iktidara dönüş yolu ile çıkmasının ardından, seansı Nisan ayından bu yana en büyük bir günlük kazancıyla tamamladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/kiwi-extends-gains-to-most-in-seven-months-after-election-result",
+    "ts": 1794264615000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Skydance Reports First Earnings Since Merger",
+    "tt": "Skydance Birleşmeden Bu Yana İlk Kazancını Açıkladı",
+    "s": "Skydance is laying out its plans for its recent merger of Paramount and Warner Brod. Discovery, including a potential bundle of Paramount+ and HBO Max and a push to deliver $6 billion in merger synergies. Bloomberg Intelligence Senior Media Analyst Geetha Ranganathan joins Bloomberg Businessweek Dai",
+    "ss": "Skydance, Paramount ve Warner Brod'un son birleşmesine ilişkin planlarını ortaya koyuyor. Discovery, potansiyel bir Paramount+ ve HBO Max paketi ve 6 milyar dolarlık birleşme sinerjisi sağlama çabasını içeriyor. Bloomberg Intelligence Kıdemli Medya Analisti Geetha Ranganathan, Bloomberg Businessweek Dai'ye katıldı",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/skydance-reports-first-earnings-since-merger-video",
+    "ts": 1794263282000,
+    "tags": []
+   },
+   {
+    "t": "Dutch Bros CEO: Gas Prices Are Impacting the Consumer",
+    "tt": "Dutch Bros CEO'su: Gaz Fiyatları Tüketiciyi Etkiliyor",
+    "s": "Dutch Bros CEO Christine Barone says the coffee chain delivered more than 30% year-over-year growth in revenue and EBITDA in the third quarter. The company also recorded its 14th consecutive quarter of positive same-store sales and ninth consecutive quarter of positive traffic, while continuing to o",
+    "ss": "Dutch Bros CEO'su Christine Barone, kahve zincirinin üçüncü çeyrekte gelir ve FAVÖK açısından yıllık %30'dan fazla büyüme sağladığını söyledi. Şirket aynı zamanda üst üste 14'üncü çeyrekte pozitif aynı mağaza satışlarını ve art arda dokuzuncu çeyrekte pozitif trafik kaydetti.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/dutch-bros-ceo-gas-prices-are-impacting-the-consumer-video",
+    "ts": 1794263057000,
+    "tags": []
    },
    {
     "t": "JBS Profit Hit as China Quotas Overshadow US Beef Recovery",
@@ -550,42 +599,6 @@
     "ss": "Pazartesi gününe kadar Nvidia Corp gibi ABD borsaları da öyle.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars",
     "ts": 1794260476000,
-    "tags": []
-   },
-   {
-    "t": "S&P 500 Erases Midterm Losses, Bitcoin Bounce",
-    "tt": "S&P 500 Ara Dönem Zararlarını ve Bitcoin'deki Sıçrayışı Sildi",
-    "s": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: SYZGY Asset Management Chairman & Founder Rob Arnott, TMX VettaFi Investment Strategist Cinthia Murphy, Franklin Templeton Head of ",
-    "ss": "\"Bloomberg ETF IQ\", küresel borsa yatırım fonları endüstrisindeki trilyonlarca dolara bağlı fırsatlara, risklere ve mevcut eğilimlere odaklanıyor. Bugünün konukları: SYZGY Varlık Yönetimi Başkanı ve Kurucusu Rob Arnott, TMX VettaFi Yatırım Stratejisti Cinthia Murphy, Franklin Templeton Yönetim Kurulu Başkanı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
-    "ts": 1794260311000,
-    "tags": []
-   },
-   {
-    "t": "Ecopetrol Sells $2 Billion Bonds in First Offering in Two Years",
-    "tt": "Ecopetrol İki Yıl Sonra İlk Arzda 2 Milyar Dolarlık Tahvil Sattı",
-    "s": "Ecopetrol SA sold dollar bonds for the first time in more than two years, the second Colombian company to tap global markets this month as it refinances debt used to fund its expansion in Brazil.",
-    "ss": "Ecopetrol SA, iki yıldan fazla bir süredir ilk kez dolar tahvili sattı ve Brezilya'daki genişlemesini finanse etmek için kullandığı borcu yeniden finanse ederek bu ay küresel piyasalara giren ikinci Kolombiyalı şirket oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years",
-    "ts": 1794244302000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets Wrap",
-    "tt": "Nvidia'nın Sıkıntılarına Rağmen Alıcıların Adım Atmasıyla Hisse Senetleri Tırmanıyor: Piyasalar Sarılıyor",
-    "s": "A renewed wave of dip buying drove stocks to their best day since April in the wake of a technology selloff that had roiled Wall Street, with the market also gaining as oil prices sank.",
-    "ss": "Wall Street'i sarsan teknoloji satışlarının ardından yenilenen dip alım dalgası, hisse senetlerini Nisan ayından bu yana en iyi gününe doğru sürükledi ve petrol fiyatları düşerken piyasa da yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794176451000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
-    "tt": "Nvidia CEO'sunun Meselesi Casusluk Soruşturmasında Yapay Zeka Devini Yakaladı",
-    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Hong Kong with Haidi Stroud-Watts and Annabelle Droulers, getting insight and analysis from newsmakers and industry leaders on the biggest stories s",
-    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Annabelle Droulers ile Sidney ve Hong Kong'dan canlı yayında, haber yapımcılarından ve sektör liderlerinden en büyük haberlere ilişkin içgörü ve analizler alıyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/the-asia-trade-11-9-2026-video",
-    "ts": 1794202032000,
     "tags": []
    }
   ],
@@ -695,6 +708,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+    "tt": "Rocket Lab hisseleri, şirketin 'belirleyici' çeyreğinin hedefi kaçırmasının ardından düştü",
+    "s": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
+    "ss": "Roket fırlatma şirketi analistlerin beklediğinden daha büyük bir kayıp bildirdi.",
+    "u": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+    "ts": 1794264540000,
+    "tags": []
+   },
+   {
+    "t": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "tt": "Bernie Sanders, Sosyal Güvenlik çözümünü \"nesillerdir\" korumak istiyor",
+    "s": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    "ss": "Vermont senatörü vergiye tabi azami sınırı ortadan kaldırarak zenginlerin daha fazla vergi ödemesini sağlamayı amaçlıyor",
+    "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "ts": 1794264540000,
+    "tags": []
+   },
+   {
     "t": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
     "tt": "Nvidia'nın hisseleri düşerken Wall Street'in Jensen Huang skandalı hakkında söyleyecekleri var",
     "s": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
@@ -765,33 +796,36 @@
     "u": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
     "ts": 1794258120000,
     "tags": []
-   },
-   {
-    "t": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-    "tt": "Sıcak ABD enflasyonu azalmadı. Fed'in faiz artırımını yolunda tutmak için artan tüketici fiyatları.",
-    "s": "Rising prices point to the Fed increasing borrowing costs before Christmas.",
-    "ss": "Artan fiyatlar Fed'in Noel öncesinde borçlanma maliyetlerini artırdığına işaret ediyor.",
-    "u": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
-    "ts": 1794258060000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Analysts say these chip stocks are bargains. Is it time to buy?",
-    "tt": "Analistler bu çip stoklarının pazarlıklı olduğunu söylüyor. Satın alma zamanı geldi mi?",
-    "s": "While some analysts view the steep drop in names like Nvidia, Micron and Sandisk as an overreaction, others are staying cautious.",
-    "ss": "Bazı analistler Nvidia, Micron ve Sandisk gibi isimlerdeki keskin düşüşü aşırı tepki olarak görürken, diğerleri temkinli davranıyor.",
-    "u": "https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_rss_topstories",
-    "ts": 1794257280000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"Only Joking - Maybe Not\": Sotomayor Takes Aim At Supreme Court's Presidential Immunity Ruling",
+    "tt": "\"Sadece Şaka - Belki Değil\": Sotomayor, Yüksek Mahkemenin Cumhurbaşkanlığı Dokunulmazlığı Kararını Hedef Alıyor",
+    "s": "\"Only Joking - Maybe Not\": Sotomayor Takes Aim At Supreme Court's Presidential Immunity Ruling Justice Sonia Sotomayor said Saturday she hopes the Supreme Court will one day reverse its 2024 ruling that gave former presidents broad protection from criminal prosecution , calling it one of several dec",
+    "ss": "\"Sadece Şaka - Belki Değil\": Sotomayor, Yüksek Mahkemenin Cumhurbaşkanlığı Dokunulmazlığı Kararını Hedef Alıyor Yargıç Sonia Sotomayor Cumartesi günü yaptığı açıklamada, Yüksek Mahkemenin bir gün eski başkanlara cezai kovuşturmaya karşı geniş koruma sağlayan 2024 kararını tersine çevireceğini umduğunu söyledi ve bunu birkaç Aralık kararından biri olarak nitelendirdi.",
+    "u": "https://www.zerohedge.com/political/only-joking-maybe-not-sotomayor-takes-aim-supreme-courts-presidential-immunity-ruling",
+    "ts": 1794266400000,
+    "tags": []
+   },
+   {
+    "t": "\"No Such Thing\": SCOTUS Lets Trump Resume Big Bend Border Wall... And Torches Legal Theory That Stopped It",
+    "tt": "\"Böyle Bir Şey Değil\": SCOTUS, Trump'ın Big Bend Sınır Duvarını Yeniden Başlatmasına İzin Veriyor... Ve Onu Durduran Hukuk Teorisini Ateşliyor",
+    "s": "\"No Such Thing\": SCOTUS Lets Trump Resume Big Bend Border Wall... And Torches Legal Theory That Stopped It The Supreme Court on Monday let the Trump administration resume border wall construction in Texas's Big Bend region , staying a federal judge's injunction while the government seeks further rev",
+    "ss": "\"Böyle Bir Şey Yok\": SCOTUS, Trump'ın Big Bend Sınır Duvarını Devam Ettirmesine İzin Verdi... Ve Onu Durduran Yasal Teoriyi Ateşledi Yüksek Mahkeme Pazartesi günü Trump yönetiminin Teksas'ın Big Bend bölgesinde sınır duvarı inşaatına devam etmesine izin verdi ve hükümet daha fazla revizyon isterken federal yargıcın ihtiyati tedbiri olarak kaldı",
+    "u": "https://www.zerohedge.com/political/no-such-thing-scotus-lets-trump-resume-big-bend-border-wall-and-torches-legal-theory",
+    "ts": 1794265200000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic Drops New Fable At 20% Discount As IPO Roadshow Reportedly Kicks Off",
+    "tt": "Anthropic, Halka Arz Tanıtım Turunun Başladığı Bildirildiğinde Yeni Fable'ı %20 İndirimle Düşürüyor",
+    "s": "Anthropic Drops New Fable At 20% Discount As IPO Roadshow Reportedly Kicks Off Anthropic has slashed prices on its brand new Fable model just as it kicks off its IPO roadshow - pricing Claude Fable 5.2 20% below its predecessor. The company will publicly launch marketing of its Nasdaq IPO on Tuesday",
+    "ss": "Anthropic, Halka Arz Tanıtım Turu Başlarken Yeni Fable'ı %20 İndirimle Düşürüyor Anthropic, halka arz tanıtım gezisine başlarken yepyeni Fable modelinin fiyatlarını düşürdü - Claude Fable 5.2'yi selefinden %20 daha düşük fiyatlandırıyor. Şirket, Nasdaq halka arzının pazarlamasını Salı günü halka açıklayacak",
+    "u": "https://www.zerohedge.com/ai/anthropic-drops-new-fable-thats-20-cheaper-ipo-roadshow-reportedly-kicks",
+    "ts": 1794264000000,
+    "tags": []
+   },
    {
     "t": "Old People Are Falling For Gold Scams Like Crazy",
     "tt": "Yaşlılar Altın Dolandırıcılığına Deli Gibi Kanıyor",
@@ -855,33 +889,6 @@
     "ss": "Kamala Harris, AG News Staff tarafından American Greatness aracılığıyla yazılan 2028 Straw Anketinde %1'in Altında İlerlemeyle 16. Sırada Bitirdi, Eski Başkan Yardımcısı Kamala Harris, ilerici aktivistlerin bir araya geldiği 2028 başkanlık saman anketinde sadece yüzde 0,6 oy alarak 16. sırada yer aldı New York Post'un haberine göre",
     "u": "https://www.zerohedge.com/political/kamala-harris-finishes-16th-under-1-progressive-2028-straw-poll",
     "ts": 1794256200000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Spy Scandal Widens: Feds' Megaspeed Probe Was Derailed After Nvidia Came Knocking",
-    "tt": "Nvidia Casus Skandalı Genişliyor: Federallerin Megaspeed Probu, Nvidia'nın Kapıyı Çalmasının Ardından Raydan Çıktı",
-    "s": "Nvidia Spy Scandal Widens: Feds' Megaspeed Probe Was Derailed After Nvidia Came Knocking Update (1115ET): The Commerce Department's investigation into Megaspeed was halted late last year after Nvidia's general counsel reached out to the agents running it , the New York Times now reports. According t",
-    "ss": "Nvidia Casus Skandalı Genişliyor: Federallerin Megaspeed Probu, Nvidia'nın Çarpıcı Güncellemesi (1115ET) Geldikten Sonra Raydan Çıktı: New York Times'ın bildirdiğine göre, Ticaret Bakanlığı'nın Megaspeed ile ilgili soruşturması, Nvidia'nın genel danışmanının bunu yürüten acentelere ulaşmasının ardından geçen yılın sonlarında durduruldu. göre",
-    "u": "https://www.zerohedge.com/markets/detonator-set-right-cue-why-washington-seized-jensen-huang-scandal-draw-its-sword",
-    "ts": 1794255900000,
-    "tags": []
-   },
-   {
-    "t": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House",
-    "tt": "Sızan Fotoğraf: Susie Wiles, MAHA Aktivistlerinin Beyaz Saray'a Girmesini Yasaklamakla Suçlandı",
-    "s": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House Former White House Chief of Staff Susie Wiles is facing new allegations that Make America Healthy Again (MAHA) activists were blacklisted from White House events after speaking out against alleged corruption involving the E",
-    "ss": "Sızan Fotoğraf: Susie Wiles, MAHA Aktivistlerini Beyaz Saray'dan Yasaklamakla Suçlanıyor Eski Beyaz Saray Genelkurmay Başkanı Susie Wiles, Amerika'yı Yeniden Sağlıklı Hale Getir (MAHA) aktivistlerinin, E.'nin dahil olduğu yolsuzluk iddialarına karşı konuştuktan sonra Beyaz Saray etkinliklerinde kara listeye alındığına dair yeni iddialarla karşı karşıya",
-    "u": "https://www.zerohedge.com/political/leaked-photo-susie-wiles-accused-banning-maha-activists-white-house",
-    "ts": 1794255300000,
-    "tags": []
-   },
-   {
-    "t": "FAA Announces America's First Digital Air Traffic Control Towers Are Online",
-    "tt": "FAA, Amerika'nın İlk Dijital Hava Trafik Kontrol Kulelerinin Yayına Başladığını Duyurdu",
-    "s": "FAA Announces America's First Digital Air Traffic Control Towers Are Online Authored by David Manney via PJ Media , An air traffic controller's most important equipment still includes a trained mind, alert eyes, and the judgment to keep aircraft safely separated. At two American airports, digital di",
-    "ss": "FAA, Amerika'nın İlk Dijital Hava Trafik Kontrol Kulelerinin Yayında Olduğunu Duyurdu PJ Media aracılığıyla David Manney tarafından yazılmıştır. Bir hava trafik kontrolörünün en önemli ekipmanı hâlâ eğitimli bir zihin, dikkatli gözler ve uçakları güvenli bir şekilde ayrı tutma becerisini içerir. İki Amerikan havaalanında dijital di",
-    "u": "https://www.zerohedge.com/technology/faa-announces-americas-first-digital-air-traffic-control-towers-are-online",
-    "ts": 1794253800000,
     "tags": []
    }
   ],
