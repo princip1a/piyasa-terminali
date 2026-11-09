@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T09:26:09.467012+00:00",
+ "generated": "2026-11-09T10:27:08.513787+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 24.4,
-   "c": -4.84,
-   "d": -1.24,
+   "p": 23.82,
+   "c": -7.1,
+   "d": -1.82,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4105.9,
-   "c": 0.76,
-   "d": 31.0,
+   "p": 4107.1,
+   "c": 0.79,
+   "d": 32.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.55,
-   "c": 1.44,
-   "d": 0.747,
+   "p": 52.575,
+   "c": 1.49,
+   "d": 0.772,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 89.66,
-   "c": -1.29,
-   "d": -1.17,
+   "p": 90.28,
+   "c": -0.61,
+   "d": -0.55,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.58,
-   "c": -1.77,
-   "d": -1.74,
+   "p": 97.37,
+   "c": -0.97,
+   "d": -0.95,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.895,
-   "c": -0.4,
-   "d": -0.405,
+   "p": 101.825,
+   "c": -0.46,
+   "d": -0.475,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1779,
-   "c": 0.05,
-   "d": 0.025,
+   "p": 50.1553,
+   "c": 0.0,
+   "d": 0.002,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11544.84,
-   "c": 0.54,
-   "d": 62.24,
+   "p": 11536.95,
+   "c": 0.47,
+   "d": 54.35,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74206,
-   "c": -2.13,
+   "p": 74150,
+   "c": -2.18,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2108.72,
-   "c": -5.57,
+   "p": 2101.62,
+   "c": -5.86,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.57,
-   "c": -2.79,
+   "p": 86.11,
+   "c": -3.27,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.093,
-   "c": -5.89,
+   "p": 1.089,
+   "c": -6.09,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 680.9,
-   "c": -2.32,
+   "p": 680.07,
+   "c": -2.35,
    "k": "usd"
   }
  ],
@@ -494,93 +494,103 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Latest Oil Market News and Analysis for Nov. 9",
+    "tt": "9 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil extended its biggest weekly drop since April 2020 as diplomatic efforts to end the war in the Middle East continued despite fresh attacks in the region.",
+    "ss": "Petrol, bölgedeki yeni saldırılara rağmen Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabaların devam etmesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+    "ts": 1794179007000,
+    "tags": []
+   },
+   {
+    "t": "Gold Climbs as Oil, Dollar Retreat and Equities Rebound",
+    "tt": "Altın, Petrol, Doların Geri Çekilmesi ve Hisse Senetlerinin Yükselişiyle Yükseliyor",
+    "s": "Gold rose as oil prices and the US dollar slid, while a rebound in equities bolstered risk appetite.",
+    "ss": "Altın, petrol fiyatları ve ABD dolarının değer kaybetmesiyle yükselirken, hisse senetlerindeki toparlanma risk iştahını destekledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+    "ts": 1794181210000,
+    "tags": [
+     "Altın ▲",
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Treasury Rally Gets New Boost as Election Hammers AI Trade",
+    "tt": "Seçim Çekiçleri Yapay Zeka Ticaretini Etkilerken Hazine Rallisi Yeni Güç Kazanıyor",
+    "s": "Wall Street sees the Treasury market emerging as a winner from the Democratic landslide in the US midterm elections, giving traders another reason to rethink this year’s sharp selloff.",
+    "ss": "Wall Street, Hazine piyasasının ABD ara seçimlerinde Demokrat Parti'nin ezici çoğunluğundan kazanan olarak çıktığını ve bu durumun yatırımcılara bu yılki keskin satışları yeniden düşünmek için bir neden daha verdiğini düşünüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+    "ts": 1794168000000,
+    "tags": []
+   },
+   {
+    "t": "Gunman in Polish Mass Shooting Dies as Terrorism Probe Proceeds",
+    "tt": "Polonya'daki Kitlesel Saldırıda Silahlı Adam, Terör Soruşturması Devam Ederken Öldü",
+    "s": "A gunman who killed six people in Krakow died on Monday morning in hospital as authorities searched for clues about the motive of his attack.",
+    "ss": "Krakow'da altı kişiyi öldüren silahlı saldırgan Pazartesi sabahı, yetkililerin saldırının nedeni hakkında ipucu aradığı sırada hastanede hayatını kaybetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
+    "ts": 1794205375000,
+    "tags": []
+   },
+   {
+    "t": "US Stocks Rise as Oil Drop Outweighs Nvidia Woes: Markets Wrap",
+    "tt": "ABD Hisse Senetleri, Petroldeki Düşüşün Nvidia'nın Sıkıntılarını Dengelemesiyle Yükseliyor: Piyasalar İyileşiyor",
+    "s": "US stocks started Monday on a more solid footing following the S&amp;P 500’s worst week since April 2025, with support from cheaper oil prices partly offset by a sharp drop in Nvidia Corp.",
+    "ss": "ABD borsaları, S&P 500'ün Nisan 2025'ten bu yana yaşadığı en kötü haftanın ardından Pazartesi gününe daha sağlam bir temelde başladı; ucuz petrol fiyatlarından gelen destek, çip üreticileri üzerinde devam eden baskıyla kısmen dengelendi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794176451000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Citi Strategists Cut US Stocks, Upgrade Europe After AI Turmoil",
+    "tt": "Citi Stratejistleri ABD Hisse Senetlerini Kesti, Yapay Zeka Kargaşasının Ardından Avrupa'yı Yükseltti",
+    "s": "Citigroup Inc. strategists downgraded US stocks and the global tech sector, while upgrading European equities because of their lower exposure to AI turbulence.",
+    "ss": "Citigroup Inc. stratejistleri, ABD hisse senetlerinin ve küresel teknoloji sektörünün notunu düşürürken, Avrupa hisse senetlerinin de yapay zeka türbülansına daha az maruz kalmaları nedeniyle notlarını yükseltti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/citi-strategists-cut-us-stocks-upgrade-europe-after-ai-turmoil",
+    "ts": 1794218147000,
+    "tags": []
+   },
+   {
+    "t": "Norway Halts Power Connections for New Data Centers",
+    "tt": "Norveç Yeni Veri Merkezlerinin Güç Bağlantılarını Durdurdu",
+    "s": "Norway will suspend further reservation of electricity connections for data centers while the country figures out how to handle the burden they place on the the grid.",
+    "ss": "Norveç, veri merkezleri için elektrik bağlantılarının daha fazla rezervasyonunu askıya alırken ülke, şebekeye yükledikleri yükü nasıl kaldıracağını çözecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/norway-halts-power-connections-for-new-data-centers",
+    "ts": 1794217909000,
+    "tags": []
+   },
+   {
+    "t": "New Zealand Dollar Climbs as Ruling Party Gets Election Edge",
+    "tt": "İktidar Partisi Seçimde Avantaj Kazanırken Yeni Zelanda Doları Yükseliyor",
+    "s": "New Zealand’s dollar rose after the incumbent National Party emerged from the weekend election with a path back to power, putting it in pole position to lead negotiations with minor parties.",
+    "ss": "Yeni Zelanda doları, görevdeki Ulusal Parti'nin hafta sonu yapılan seçimlerden iktidara dönüş yolu ile çıkması ve küçük partilerle müzakerelere liderlik etme konusunda ilk sırayı almasıyla yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/new-zealand-dollar-advances-as-ruling-party-gets-election-edge",
+    "ts": 1794175665000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Democratic Sweep Tests Trump-Tied Trades in Latin America",
+    "tt": "Demokratik Süpürme, Latin Amerika'da Trump'a Bağlı Ticareti Test Ediyor",
+    "s": "Investors who spent the past year factoring countries’ standing with Donald Trump into their Latin America trades are confronting a new variable: a Democratic-controlled US Congress.",
+    "ss": "Geçtiğimiz yılı Latin Amerika ticaretlerinde Donald Trump'ın yanında yer alan ülkelerin durumunu hesaba katan yatırımcılar yeni bir değişkenle karşı karşıya: Demokratların kontrolündeki bir ABD Kongresi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/democratic-sweep-tests-trump-linked-trades-across-latin-america",
+    "ts": 1794144600000,
+    "tags": []
+   },
+   {
     "t": "Euro-Zone Officials Meet to Discuss Lagarde Succession Plan",
     "tt": "Euro Bölgesi Yetkilileri Lagarde'ın Veraset Planını Tartışmak İçin Toplandı",
     "s": "Euro-zone finance ministers convened for a first assessment of the European Central Bank presidency race after both candidates — Dutchman Klaas Knot and Spaniard Pablo Hernandez de Cos — spoke out on current economic risks. Oliver Crook reports from Brussels. (Source: Bloomberg)",
     "ss": "Avro bölgesi maliye bakanları, her iki adayın (Hollandalı Klaas Knot ve İspanyol Pablo Hernandez de Cos) mevcut ekonomik riskler hakkında konuşmasının ardından Avrupa Merkez Bankası başkanlık yarışının ilk değerlendirmesini yapmak için bir araya geldi. Oliver Crook Brüksel'den bildiriyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-09/euro-zone-officials-to-discuss-lagarde-succession-plan-video",
     "ts": 1794216314000,
-    "tags": []
-   },
-   {
-    "t": "Inside the Race to Upgrade Transformers",
-    "tt": "Transformers'ı Yükseltme Yarışı İçinde",
-    "s": "Transformers are critical to the power grid, but the rise of renewables and surging energy demand are pushing them to their limits. Could the solid-state transformer meet these new challenges? (Source: Bloomberg)",
-    "ss": "Transformatörler elektrik şebekesi için kritik önem taşıyor ancak yenilenebilir enerji kaynaklarının yükselişi ve artan enerji talebi bunların sınırlarını zorluyor. Katı hal transformatörü bu yeni zorlukların üstesinden gelebilir mi? (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/inside-the-race-to-upgrade-transformers-video",
-    "ts": 1794214860000,
-    "tags": []
-   },
-   {
-    "t": "This Is How New York City Takes Out Its Trash",
-    "tt": "New York Şehri Çöplerini Bu Şekilde Çıkarıyor",
-    "s": "A government service untouched by neoliberalism.",
-    "ss": "Neoliberalizmin dokunmadığı bir devlet hizmeti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/this-is-how-new-york-city-takes-out-its-trash",
-    "ts": 1794214821000,
-    "tags": []
-   },
-   {
-    "t": "Odd Lots: How New York City Takes Out Its Trash (Podcast)",
-    "tt": "Tuhaf Lotlar: New York Şehri Çöplerini Nasıl Çıkarıyor (Podcast)",
-    "s": "According to Joshua Goodman, trash collection in New York is one of the last services the city offers that is not yet touched by neoliberalism. What he means is that it’s the last free and unlimited city service — there is no opt-in; it is not means tested. Goodman — who is the DSNY’s deputy commiss",
-    "ss": "Joshua Goodman'a göre New York'ta çöp toplama, şehrin sunduğu ve henüz neoliberalizmin dokunmadığı son hizmetlerden biri. Demek istediği, bunun son ücretsiz ve sınırsız şehir hizmeti olduğu; katılım seçeneği yok; test edilmiş bir araç değildir. Goodman - DSNY'nin komiser yardımcısı kimdir",
-    "u": "https://www.bloomberg.com/news/audio/2026-11-09/odd-lots-how-new-york-city-takes-out-its-trash-podcast",
-    "ts": 1794214800000,
-    "tags": []
-   },
-   {
-    "t": "Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record",
-    "tt": "Hedge Fonları, Teknoloji Hisselerini Kaydedilen En Hızlı Adımlardan Biriyle Boşaltıyor",
-    "s": "Hedge funds sold global technology stocks at one of the fastest paces on record last week, as concerns that political opposition could derail the data-center buildout triggered an aggressive reassessment of the artificial intelligence trade.",
-    "ss": "Hedge fonları, siyasi muhalefetin veri merkezi inşasını rayından çıkarabileceği endişelerinin yapay zeka ticaretinin agresif bir şekilde yeniden değerlendirilmesini tetiklemesiyle geçen hafta küresel teknoloji stoklarını rekor düzeyde en hızlı satışlardan birinde sattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-dump-tech-stocks-at-one-of-fastest-paces-on-record",
-    "ts": 1794214727000,
-    "tags": []
-   },
-   {
-    "t": "Data Center Boss Vows Engagement After Backlash Tanks Stock",
-    "tt": "Veri Merkezi Patronu, Tepki Tankları Stokundan Sonra Göreve Başlama Yemini Verdi",
-    "s": "Nextdc Ltd. Chief Executive Officer Craig Scroggie vowed to make communities his top priority after a local backlash delayed a major data center project in Melbourne last month, triggering a stock-price meltdown.",
-    "ss": "Nextdc Ltd. İcra Kurulu Başkanı Craig Scroggie, yerel tepkilerin geçen ay Melbourne'deki büyük bir veri merkezi projesini geciktirerek hisse senedi fiyatlarında düşüşe yol açmasının ardından toplulukları en büyük önceliği haline getireceğine söz verdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/data-center-boss-vows-engagement-after-backlash-tanks-stock",
-    "ts": 1794214620000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Rise as Drop in Oil Offsets Nvidia Woes: Markets Wrap",
-    "tt": "ABD Hisse Senetleri, Petroldeki Düşüşün Nvidia'nın Sıkıntılarını Dengelemesiyle Yükseliyor: Piyasalar İyileşiyor",
-    "s": "US stocks started Monday on a more solid footing following the S&amp;P 500’s worst week since April 2025, with support from cheaper oil prices partly offset by continued pressure on chipmakers.",
-    "ss": "ABD borsaları, S&P 500'ün Nisan 2025'ten bu yana yaşadığı en kötü haftanın ardından Pazartesi gününe daha sağlam bir temelde başladı; ucuz petrol fiyatlarından gelen destek, çip üreticileri üzerinde devam eden baskıyla kısmen dengelendi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794176451000,
-    "tags": []
-   },
-   {
-    "t": "Aramco Tower Targeted in Riyadh as Eisenkot Gets Israeli Government Mandate",
-    "tt": "Eisenkot İsrail Hükümetinden Yetki Alırken Aramco Kulesi Riyad'da Hedef Alındı",
-    "s": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lun",
-    "ss": "Horizons Orta Doğu ve Afrika, dünyanın en hızlı büyüyen bölgelerinden birine dair günlük ilgi odağınızdır. Dubai'den canlı olarak size en son küresel pazarları ve analizleri, ayrıca MEA'ya özel olarak odaklanarak haber veren röportajları sunuyoruz. Tüm bunlar ve daha fazlası, Körfez'deki ofise doğru giderken öğle yemeği için mola verin",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/horizons-middle-east-africa-11-9-2026-video",
-    "ts": 1794214173000,
-    "tags": []
-   },
-   {
-    "t": "BMW Widens Battery Component Suppliers With Samsung, LG Energy",
-    "tt": "BMW, Pil Bileşeni Tedarikçilerini Samsung ve LG Energy ile Genişletiyor",
-    "s": "BMW AG is adding South Korean battery-cell makers Samsung SDI Co. and LG Energy Solution Ltd. to its supplier networks in Europe and the US as the German carmaker looks to reduce dependencies.",
-    "ss": "Alman otomobil üreticisi bağımlılıkları azaltmaya çalışırken BMW AG, Güney Koreli pil hücresi üreticileri Samsung SDI Co. ve LG Energy Solution Ltd.'yi Avrupa ve ABD'deki tedarikçi ağlarına ekliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/bmw-widens-battery-component-suppliers-with-samsung-lg-energy",
-    "ts": 1794213891000,
-    "tags": []
-   },
-   {
-    "t": "QatarEnergy Adds Chevron Block to Stakes in African Oil Hotspot",
-    "tt": "QatarEnergy, Afrika Petrol Sıcak Noktasındaki Hisselerine Chevron Blokunu Ekledi",
-    "s": "QatarEnergy agreed to take a stake in an offshore oil block held by Chevron Corp. in Namibia, adding to its holdings in the African exploration hotspot.",
-    "ss": "QatarEnergy, Namibya'da Chevron Corp.'un elinde bulunan açık deniz petrol bloğundan hisse almayı kabul ederek, Afrika'nın sıcak arama noktasındaki varlıklarını artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/qatarenergy-adds-chevron-block-to-stakes-in-african-oil-hotspot",
-    "ts": 1794213540000,
     "tags": []
    }
   ],
@@ -695,6 +705,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
+    "tt": "Morgan Stanley baş stratejisti, piyasadaki düzeltmenin son aşamasına girdiğini ancak düşüşü satın almadan önce bekleyin dedi",
+    "s": "The S&amp;P 500 could decline to the investment bank’s lower end of its downside target in the coming weeks, which would provide a good opportunity to add risk.",
+    "ss": "S&P 500 önümüzdeki haftalarda yatırım bankasının aşağı yönlü hedefinin alt sınırına düşebilir ve bu da risk eklemek için iyi bir fırsat sağlayabilir.",
+    "u": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+    "ts": 1794219960000,
+    "tags": []
+   },
+   {
+    "t": "Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade",
+    "tt": "Citi, yapay zeka ticaretindeki duyarlılık iyileşene kadar yatırımcılara küresel teknoloji ticaretinden uzak durmanın daha iyi olduğunu söylüyor",
+    "s": "Despite recent weakness, Citi’s global strategy team thinks tech positioning needs to get cleaner before they would revert to their previous overweight stance.",
+    "ss": "Citi'nin küresel strateji ekibi, yakın zamandaki zayıflığa rağmen, önceki aşırı kilolu duruşlarına dönmeden önce teknoloji konumlandırmasının daha net hale gelmesi gerektiğini düşünüyor.",
+    "u": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+    "ts": 1794219600000,
+    "tags": []
+   },
+   {
+    "t": "‘We had the worst fight we’ve ever had’: I want my husband to retire at 65. But I don’t want to lose his $280,000 salary.",
+    "tt": "'Şimdiye kadar yaşadığımız en kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum. Ama onun 280.000 dolarlık maaşını kaybetmek istemiyorum.",
+    "s": "“We have about $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account and my own IRA.”",
+    "ss": "\"Yaklaşık 2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, ayrıca 450.000 dolarımız aracı kurum hesabında ve benim kendi IRA'mda.\"",
+    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "ts": 1794219300000,
+    "tags": []
+   },
+   {
+    "t": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
+    "tt": "'Owning Manhattan'dan Ryan Serhant, neden bir ev satın almak için beklememeniz gerektiğini ve dikkat etmeniz gereken sıcak noktaları anlatıyor",
+    "s": "Ryan Serhant is warning would-be homebuyers against assuming that lower mortgage rates will deliver an easier path to homeownership in 2027.",
+    "ss": "Ryan Serhant, ev alıcılarını, daha düşük ipotek oranlarının 2027'de ev sahibi olmaya daha kolay bir yol sağlayacağını varsaymamaları konusunda uyarıyor.",
+    "u": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
+    "ts": 1794218640000,
+    "tags": []
+   },
+   {
+    "t": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
+    "tt": "Brewers'ın yıldızı Christian Yelich, Malibu'daki malikanesini 30 milyon dolara satıyor",
+    "s": "World Series champion Christian Yelich is looking to shed the contemporary Malibu mansion he bought for $5.5 million six years ago.",
+    "ss": "Dünya Serisi şampiyonu Christian Yelich, altı yıl önce 5,5 milyon dolara satın aldığı çağdaş Malibu malikanesinden kurtulmanın yollarını arıyor.",
+    "u": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
+    "ts": 1794218520000,
+    "tags": []
+   },
+   {
     "t": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
     "tt": "Wall Street, Nvidia'nın Jensen Huang'ın casusluk iddialarına ilişkin soruşturmasına ilişkin haberlere nasıl tepki veriyor?",
     "s": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
@@ -737,51 +792,6 @@
     "ss": "\"Mutfağımızın tarihi 1999'dan kalmadır ve fırın yalnızca kapıya belli bir şekilde çarptığınızda çalışır.\"",
     "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
     "ts": 1794182520000,
-    "tags": []
-   },
-   {
-    "t": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-    "tt": "Geleneksel cenaze işi sona ererken, cenaze evleri düğünlere ve golf gezilerine ev sahipliği yaparak yeni bir hayat buluyor",
-    "s": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
-    "ss": "Bir cenaze evi operatörü, \"Bu benim cenazem değil, senin cenazen, o yüzden istediğini yap\" diyor.",
-    "u": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-    "ts": 1794182400000,
-    "tags": []
-   },
-   {
-    "t": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-    "tt": "Yeni vergi dilimleriyle 2027'de Roth dönüşümlerinde ne kadar yapabilirsiniz?",
-    "s": "The math should actually start with “if” — not “how much.”",
-    "ss": "Matematik aslında \"ne kadar\" ile değil \"eğer\" ile başlamalıdır.",
-    "u": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-    "ts": 1794181800000,
-    "tags": []
-   },
-   {
-    "t": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-    "tt": "65 yaşındayım ve değerim 5,6 milyon dolardan fazla. 200.000 dolarlık bir kampçıyı karşılayabilir miyim?",
-    "s": "Math may be cold and unemotional — but finances are not.",
-    "ss": "Matematik soğuk ve duygusuz olabilir ama finans öyle değil.",
-    "u": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-    "ts": 1794181740000,
-    "tags": []
-   },
-   {
-    "t": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "tt": "Bu emekli profesör, bir Taylor Swift akademisyeni olarak kendini yeniden keşfetti",
-    "s": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
-    "ss": "Yeğeni onu emekliliğini Taylor Swift'in sözlerini analiz ederek geçirmeye ikna etti. Şimdi 72 yaşında başarılı bir podcast yayıncısı.",
-    "u": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "ts": 1794180900000,
-    "tags": []
-   },
-   {
-    "t": "You follow the rules for smart stock trading. But are they the right rules?",
-    "tt": "Akıllı hisse senedi ticaretinin kurallarına uyuyorsunuz. Peki bunlar doğru kurallar mı?",
-    "s": "Apply the wisdom of investment pros to develop your own consistent methodology.",
-    "ss": "Kendi tutarlı metodolojinizi geliştirmek için yatırım profesyonellerinin bilgeliğini kullanın.",
-    "u": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-    "ts": 1794179700000,
     "tags": []
    }
   ],
@@ -879,6 +889,33 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "İran: Pakistan ve Katar ile istişareler devam ediyor",
+    "tt": null,
+    "s": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, yalnızca İran halkının haklarının güvence altına alındığı bir anlaşmayı imzalayacaklarını ve uygulayacaklarını belirterek, \"Arabulucu ülkeler Pakistan ve Katar ile istişareler devam ediyor\" dedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-pakistan-ve-katar-ile-istisareler-devam-ediyor-3793949",
+    "ts": 1794217933000,
+    "tags": []
+   },
+   {
+    "t": "Kurum: Türkiye, tarih boyunca bir köprü olmuştur",
+    "tt": null,
+    "s": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Türkiye, tarih boyunca bir köprü olmuştur. Şimdi de Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde, kuzey ile güneyin, gelişmiş ülkeler ile gelişmekte olan ülkelerin beklentilerini ortak zeminde buluşturmak içi",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kurum-turkiye-tarih-boyunca-bir-kopru-olmustur-3793948",
+    "ts": 1794217574000,
+    "tags": []
+   },
+   {
+    "t": "TMSF'den gönüllü iade işlemlerine ilişkin duyuru",
+    "tt": null,
+    "s": "Tasarruf Mevduatı Sigorta Fonu (TMSF), tasfiye edilen yatırım fonlarıyla ilgili sürecin baştan beri kişilere göre değil, elde edilen fahiş kazanca göre belirlenen, açık ve herkese eşit uygulanan kriterler ile yürütüldüğünü duyururken bu kapsamda öncelikli olarak, tasfiye edilen fonlarda şüpheli işle",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tmsf-den-gonullu-iade-islemlerine-iliskin-duyuru-3793947",
+    "ts": 1794217146000,
+    "tags": []
+   },
+   {
     "t": "Çin'den Nvidia CEO'suyla ilgili casusluk suçlamalarına yanıt",
     "tt": null,
     "s": "Pekin, Çin'in Nvidia CEO'su Jensen Huang'ı casusluk yöntemiyle izlediği yönündeki iddiaları \"iftira\" ifadeleriyle reddetti.",
@@ -939,33 +976,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/fon-sorusturmasinda-2-supheli-tutuklandi-3793918",
     "ts": 1794209986000,
-    "tags": []
-   },
-   {
-    "t": "İhracat iklimi son üç ayın en düşük seviyesinde",
-    "tt": null,
-    "s": "İstanbul Sanayi Odası Türkiye İhracat Pazarları İklim Endeksi Ekim'de 52,5'e gerileyerek son üç ayın en düşük düzeyine indi. Bununla birlikte endeks, ihracat pazarlarındaki talep koşullarında belirgin iyileşmenin sürdüğüne işaret etti. Böylece ihracat pazarları iklimi üst üste 34'üncü ay güçlendi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ihracat-iklimi-son-uc-ayin-en-dusuk-seviyesinde-3793916",
-    "ts": 1794208533000,
-    "tags": []
-   },
-   {
-    "t": "Ekim'de en yüksek reel getiri mevduat faizinde",
-    "tt": null,
-    "s": "Ekim'da aylık en yüksek reel getiri yurt içi üretici fiyat endeksi (Yİ-ÜFE) ile indirgendiğinde yüzde 1,31, tüketici fiyat endeksi (TÜFE) ile indirgendiğinde ise yüzde 0,39 oranlarıyla mevduat faizinde oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ekim-de-en-yuksek-reel-getiri-mevduat-faizinde-3793913",
-    "ts": 1794207853000,
-    "tags": []
-   },
-   {
-    "t": "TMSF, Pet Gaz LPG depolama tesislerini satışa çıkardı",
-    "tt": null,
-    "s": "Tasarruf Mevduatı Sigorta Fonu (TMSF), kayyum olarak atandığı, Pet Gaz AŞ, Dörtyol Petgaz Terminal AŞ ve Karadeniz LPG Depolama ve Deniz Terminali Ticaret AŞ bünyesindeki LPG depolama tesislerinin oluşturduğu Pet Gaz LPG Depolama Tesisleri Ticari ve İktisadi Bütünlüğü'nü satışa çıkardı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tmsf-pet-gaz-lpg-depolama-tesislerini-satisa-cikardi-3793912",
-    "ts": 1794207818000,
     "tags": []
    }
   ]
