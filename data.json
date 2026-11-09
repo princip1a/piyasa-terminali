@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T21:38:36.971605+00:00",
+ "generated": "2026-11-09T22:24:47.827332+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4146.7,
-   "c": 1.76,
-   "d": 71.8,
+   "p": 4149.5,
+   "c": 1.83,
+   "d": 74.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.3,
-   "c": 2.89,
-   "d": 1.497,
+   "p": 53.455,
+   "c": 3.19,
+   "d": 1.652,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.07,
-   "c": -4.14,
-   "d": -3.76,
+   "p": 86.38,
+   "c": -4.9,
+   "d": -4.45,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.89,
-   "c": -5.52,
-   "d": -5.43,
+   "p": 92.17,
+   "c": -6.26,
+   "d": -6.15,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.69,
-   "c": -0.6,
-   "d": -0.61,
+   "p": 101.681,
+   "c": -0.61,
+   "d": -0.619,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1724,
-   "c": 0.04,
-   "d": 0.02,
+   "p": 50.1999,
+   "c": 0.09,
+   "d": 0.047,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74878,
-   "c": -1.01,
+   "p": 74964,
+   "c": 0.56,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2129.98,
-   "c": -4.21,
+   "p": 2124.32,
+   "c": -0.2,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.44,
-   "c": -2.87,
+   "p": 86.33,
+   "c": -0.15,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.095,
-   "c": -4.31,
+   "p": 1.093,
+   "c": -2.35,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 689.26,
-   "c": -0.87,
+   "p": 688.73,
+   "c": 0.52,
    "k": "usd"
   }
  ],
@@ -173,7 +173,7 @@
   {
    "title": "NFIB Small Business Index",
    "impact": "Low",
-   "forecast": "97.7",
+   "forecast": "98.0",
    "previous": "97.9",
    "actual": "",
    "ts": 1794308400000,
@@ -494,12 +494,71 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "JBS Profit Hit as China Quotas Overshadow US Beef Improvement",
+    "t": "Dutch Bros CEO: Gas Prices Are Impacting the Consumer",
+    "tt": "Dutch Bros CEO'su: Gaz Fiyatları Tüketiciyi Etkiliyor",
+    "s": "Dutch Bros CEO Christine Barone says the coffee chain delivered more than 30% year-over-year growth in revenue and EBITDA in the third quarter. The company also recorded its 14th consecutive quarter of positive same-store sales and ninth consecutive quarter of positive traffic, while continuing to o",
+    "ss": "Dutch Bros CEO'su Christine Barone, kahve zincirinin üçüncü çeyrekte gelir ve FAVÖK açısından yıllık %30'dan fazla büyüme sağladığını söyledi. Şirket aynı zamanda üst üste 14'üncü çeyrekte pozitif aynı mağaza satışlarını ve art arda dokuzuncu çeyrekte pozitif trafik kaydetti.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/dutch-bros-ceo-gas-prices-are-impacting-the-consumer-video",
+    "ts": 1794263057000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap",
+    "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
+    "s": "Asian stocks were poised to track Wall Street higher as a rally in technology shares and a slump in oil prices drove US benchmarks to their best day in seven months.",
+    "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794262613000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "JBS Profit Hit as China Quotas Overshadow US Beef Recovery",
     "tt": "Çin Kotalarının ABD Sığır Eti Gelişimini Gölgelemesi JBS'nin Kârını Vurdu",
     "s": "JBS NV is finally seeing some recovery in its US beef business, but the improvement wasn’t enough to outweigh the impact of China’s import restrictions on the world’s largest meatpacker.",
     "ss": "JBS NV, ABD sığır eti işinde nihayet bir miktar iyileşme görüyor ancak bu iyileşme, Çin'in dünyanın en büyük et paketleyicisine uyguladığı ithalat kısıtlamalarının etkisini aşmaya yetmedi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/jbs-profit-hit-as-china-quotas-overshadow-us-beef-improvement",
     "ts": 1794259657000,
+    "tags": []
+   },
+   {
+    "t": "CVS Has Not Received Offers For the Retail Pharmacy Business, CEO Says",
+    "tt": "CEO, CVS'nin Perakende Eczane İşi İçin Teklif Almadığını Söyledi",
+    "s": "CVS Health Chief Executive Officer and Chairman David Joyner says no offers have been received yet for its retail pharmacy business which is being spun off in the first half of next year. The company's Aetna insurance unit and Caremark pharmacy benefits division are staying together. Joyner talks ab",
+    "ss": "CVS Health İcra Kurulu Başkanı ve Yönetim Kurulu Başkanı David Joyner, gelecek yılın ilk yarısında devredilecek olan perakende eczane işi için henüz herhangi bir teklif alınmadığını söyledi. Şirketin Aetna sigorta birimi ve Caremark eczane yardımları bölümü birlikte kalıyor. Joyner ab'yla konuşuyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/cvs-received-no-offers-for-pharmacies-ceo-says-video",
+    "ts": 1794260959000,
+    "tags": []
+   },
+   {
+    "t": "JPMorgan Weighs Big Discount to Lure Lenders for Software Debt",
+    "tt": "JPMorgan, Borç Verenleri Yazılım Borcuna Çekmek İçin Büyük İndirimi Tartıyor",
+    "s": "Banks led by JPMorgan Chase &amp; Co. could offer one of the year’s biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc. that the underwriters were stuck holding a few months ago.",
+    "ss": "JPMorgan Chase & Co. liderliğindeki bankalar, sigortacıların birkaç ay önce elinde tutmak zorunda kaldığı yazılım firması Qualtrics International Inc.'e olan 5 milyar dolarlık borcun bir kısmını satmak için yılın en büyük indirimlerinden birini sunabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt",
+    "ts": 1794260786000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Sees Historic Split From S&P as Stock Sinks, Market Soars",
+    "tt": "Nvidia, Hisse Senedi Düşerken ve Piyasa Yükselirken S&P'den Tarihi Ayrışmayı Görüyor",
+    "s": "As Nvidia Corp goes, so too does the US stock market, until Monday, that is.",
+    "ss": "Pazartesi gününe kadar Nvidia Corp gibi ABD borsaları da öyle.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars",
+    "ts": 1794260476000,
+    "tags": []
+   },
+   {
+    "t": "S&P 500 Erases Midterm Losses, Bitcoin Bounce",
+    "tt": "S&P 500 Ara Dönem Zararlarını ve Bitcoin'deki Sıçrayışı Sildi",
+    "s": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: SYZGY Asset Management Chairman & Founder Rob Arnott, TMX VettaFi Investment Strategist Cinthia Murphy, Franklin Templeton Head of ",
+    "ss": "\"Bloomberg ETF IQ\", küresel borsa yatırım fonları endüstrisindeki trilyonlarca dolara bağlı fırsatlara, risklere ve mevcut eğilimlere odaklanıyor. Bugünün konukları: SYZGY Varlık Yönetimi Başkanı ve Kurucusu Rob Arnott, TMX VettaFi Yatırım Stratejisti Cinthia Murphy, Franklin Templeton Yönetim Kurulu Başkanı",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/etf-iq-11-9-2026-video",
+    "ts": 1794260311000,
     "tags": []
    },
    {
@@ -527,67 +586,6 @@
     "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Annabelle Droulers ile Sidney ve Hong Kong'dan canlı yayında, haber yapımcılarından ve sektör liderlerinden en büyük haberlere ilişkin içgörü ve analizler alıyor.",
     "u": "https://www.bloomberg.com/news/videos/2026-11-09/the-asia-trade-11-9-2026-video",
     "ts": 1794202032000,
-    "tags": []
-   },
-   {
-    "t": "Oil Tanker Rates Drop, Making Long-Haul Crude Trades Attractive",
-    "tt": "Petrol Tankeri Faizlerinin Düşmesi, Uzun Mesafeli Ham Petrol Ticaretini Cazip Hale Getiriyor",
-    "s": "The cost of shipping oil fell further, even if rates remain at historically elevated levels, helping to make some longer-distance crude trades more attractive.",
-    "ss": "Oranlar tarihsel olarak yüksek seviyelerde kalsa bile, petrol nakliye maliyeti daha da düştü ve bu da bazı uzun mesafeli ham petrol ticaretini daha cazip hale getirmeye yardımcı oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/oil-tanker-rates-extend-plunge-still-trade-at-very-high-levels",
-    "ts": 1794244028000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
-    "tt": "En İyi Yen Tahmincisi, Faiz Farkı Daralırken Dolar Başına 147 Tahmininde Bulundu",
-    "s": "Neil Parker has spent nearly three decades tracking the yen, through financial crises and sharp currency swings. Now, the top dollar-yen forecaster in Bloomberg’s latest rankings sees the Japanese currency rallying toward 147 per dollar next year as Japan’s interest-rate gap with the US narrows.",
-    "ss": "Neil Parker, finansal krizler ve dövizdeki keskin dalgalanmalar nedeniyle yen'i takip etmek için neredeyse otuz yıl harcadı. Şimdi, Bloomberg'in son sıralamasındaki en iyi dolar-yen tahmincisi, Japonya'nın ABD ile faiz oranı farkının daralmasıyla Japon para biriminin gelecek yıl dolar başına 147'ye doğru yükseleceğini öngörüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows",
-    "ts": 1794258000000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "US Steel (NPSCY) Strike Threat Grows as Unions Talks Enter Third Month",
-    "tt": "Sendika Görüşmeleri Üçüncü Aya Girerken US Steel'in (NPSCY) Grev Tehdidi Büyüyor",
-    "s": "The United Steelworkers says it’s running out of patience with US Steel as negotiations over a new labor agreement stretch into a third month, raising the prospect of a strike at one of America’s largest steelmakers.",
-    "ss": "United Steelworkers, yeni bir iş sözleşmesine ilişkin müzakerelerin üçüncü aya kadar uzaması ve Amerika'nın en büyük çelik üreticilerinden birinde grev olasılığının artması nedeniyle US Steel'e karşı sabrının tükendiğini söylüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/us-steel-npscy-strike-threat-grows-as-unions-talks-enter-third-month",
-    "ts": 1794242249000,
-    "tags": []
-   },
-   {
-    "t": "Most Treasuries Fall as Investors Regain Risk Appetite",
-    "tt": "Yatırımcıların Risk İştahının Yeniden Kazanmasıyla Hazine Tahvillerinin Çoğu Düşüyor",
-    "s": "Most Treasuries fell as stocks extended their recovery from last week’s slump, damping the appeal of US government bonds as a hedge.",
-    "ss": "Hazine tahvillerinin çoğu, hisse senetlerinin geçen haftaki çöküşün ardından toparlanma sürecini sürdürmesi ve ABD devlet tahvillerinin korunma amaçlı cazibesini azaltmasıyla düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/treasuries-fall-before-auction-as-investors-regain-risk-appetite",
-    "ts": 1794243814000,
-    "tags": []
-   },
-   {
-    "t": "Barrick (GOLD) Revisits Fourmile Gold Deposit Plans, Study Deadline Uncertain",
-    "tt": "Barrick (GOLD) Fourmile Altın Mevduat Planlarını Yeniden Ziyaret Ediyor, Son Çalışma Tarihi Belirsiz",
-    "s": "A key study on one of the world’s richest gold discoveries, Barrick Mining Corp.’s Fourmile deposit in Nevada, is at risk of taking longer than previously expected as the miner considers new ways to develop it.",
-    "ss": "Dünyanın en zengin altın keşiflerinden biri olan Barrick Mining Corp.'un Nevada'daki Fourmile yatağıyla ilgili önemli bir çalışma, madencinin onu geliştirmenin yeni yollarını düşündüğü için daha önce beklenenden daha uzun sürme riskiyle karşı karşıya.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/barrick-gold-revisits-fourmile-gold-deposit-plans-study-deadline-uncertain",
-    "ts": 1794255135000,
-    "tags": []
-   },
-   {
-    "t": "Test Your ETF Knowledge In Our IQ Test",
-    "tt": "ETF Bilginizi IQ Testimizde Test Edin",
-    "s": "Bloomberg's Joel Weber puts Scarlet Fu, Eric Balchunas, and Cinthia Murphy, investment strategist at TMX Vettafi, to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
-    "ss": "Bloomberg'den Joel Weber, \"IQ Testi\"nin bu haftaki sayısında Scarlet Fu, Eric Balchunas ve TMX Vettafi yatırım stratejisti Cinthia Murphy'yi \"Bloomberg ETF IQ\" testine tabi tutuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/test-your-etf-knowledge-in-our-iq-test-video",
-    "ts": 1794256369000,
     "tags": []
    }
   ],
@@ -697,6 +695,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+    "tt": "Nvidia'nın hisseleri düşerken Wall Street'in Jensen Huang skandalı hakkında söyleyecekleri var",
+    "s": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
+    "ss": "Analistler, kurulun yeni soruşturmasının sonuçlarının \"şirket için daha uzun süreli bir sorun\" haline gelebileceğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "ts": 1794261300000,
+    "tags": []
+   },
+   {
+    "t": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+    "tt": "Dow dört gün içinde üçüncü 1.000 puanlık yükselişini gördü. Neden volatilite henüz bitmedi?",
+    "s": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
+    "ss": "Stratejist, \"D.C.'nin arkadan esen bir rüzgâr olmaktan çıkıp potansiyel bir karşı rüzgâr haline gelmesi için bir seçim ve kötü bir Nvidia manşeti gerekti\" diyor.",
+    "u": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+    "ts": 1794261120000,
+    "tags": []
+   },
+   {
+    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
+    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+    "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
+    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "ts": 1794260700000,
+    "tags": []
+   },
+   {
+    "t": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+    "tt": "Nvidia casus skandalının gerçek kazananları AMD ve Broadcom mu?",
+    "s": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+    "ss": "Analistler, çip üreticilerinin hisselerinin Pazartesi günü büyük artışlar kaydettiğini ancak bu şirketlerin satış uygulamaları konusunda da daha fazla incelemeye tabi tutulabileceğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+    "ts": 1794260580000,
+    "tags": []
+   },
+   {
     "t": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
     "tt": "Hisse senedi piyasasındaki ralli Büyük Teknoloji'nin ötesine yayılmaya devam ediyor. Ekim enflasyon verileri bunu test edebilir.",
     "s": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
@@ -755,45 +789,38 @@
     "u": "https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_rss_topstories",
     "ts": 1794257280000,
     "tags": []
-   },
-   {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "'Fikrini her zaman değiştirebilir': Dul bir kadın, aile evini üvey çocuklarına mı bırakmalı?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794256200000,
-    "tags": []
-   },
-   {
-    "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "tt": "'Sanki sessizce ayrı bir hayat inşa ediyormuş gibi geliyor': Kocama 500.000 dolar miras kaldı ama bunu evimize harcamayı reddediyor",
-    "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-    "ss": "\"Mutfağımızın tarihi 1999'dan kalmadır ve fırın yalnızca kapıya belli bir şekilde çarptığınızda çalışır.\"",
-    "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "ts": 1794255300000,
-    "tags": []
-   },
-   {
-    "t": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000",
-    "tt": "Benzin fiyatları nihayet galon başına 4 doların altına indi, ancak Şükran Günü yakıt maliyetleri hala 2000'den bu yana en yüksek seviyede olacak",
-    "s": "‘I don’t think there’s much ability for us to avoid this being the most expensive Thanksgiving on record’ for gas prices, says Patrick De Haan at GasBuddy",
-    "ss": "GasBuddy'den Patrick De Haan, \"Bunun benzin fiyatları açısından tarihteki en pahalı Şükran Günü olmasını önleme yeteneğimizin olduğunu düşünmüyorum\" diyor",
-    "u": "https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b?mod=mw_rss_topstories",
-    "ts": 1794253560000,
-    "tags": []
-   },
-   {
-    "t": "What employers should do to build a pipeline of talented Gen Z workers",
-    "tt": "Yetenekli Z kuşağı çalışanlarından oluşan bir üretim hattı oluşturmak için işverenlerin ne yapması gerekir?",
-    "s": "Employers can do more to support career and technical education programs.",
-    "ss": "İşverenler kariyer ve teknik eğitim programlarını desteklemek için daha fazlasını yapabilirler.",
-    "u": "https://www.marketwatch.com/story/what-employers-should-do-to-build-a-pipeline-of-talented-gen-z-workers-31c0e9b9?mod=mw_rss_topstories",
-    "ts": 1794252480000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Old People Are Falling For Gold Scams Like Crazy",
+    "tt": "Yaşlılar Altın Dolandırıcılığına Deli Gibi Kanıyor",
+    "s": "Old People Are Falling For Gold Scams Like Crazy Across the country, older Americans are draining their savings into gold bars and handing them to strangers. It usually starts with a pop-up, an email or a phone call warning that a bank account has been hacked or an identity stolen. A \"fraud investig",
+    "ss": "Yaşlılar Altın Dolandırıcılığına Deli Gibi Kanıyor Yaşlı Amerikalılar, ülke genelinde birikimlerini külçe altınlara aktarıp yabancılara veriyor. Genellikle bir banka hesabının saldırıya uğradığını veya bir kimliğin çalındığını bildiren bir açılır pencere, bir e-posta veya telefon görüşmesi uyarısıyla başlar. \"Dolandırıcılık soruşturması\"",
+    "u": "https://www.zerohedge.com/personal-finance/old-people-are-falling-gold-scams-crazy",
+    "ts": 1794262800000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "Trump Sees 'Momentum' Toward Ending Iran War, But The 'Military Engagement' Continues",
+    "tt": "Petrol, UAEA Müfettişlerinin İran'a Dönebileceği Raporu Üzerine Kustu",
+    "s": "Trump Sees 'Momentum' Toward Ending Iran War, But The 'Military Engagement' Continues Update(1715ET) : Oil prices have been declining throughout the day, as the White House continues to signal that there are no imminent new attacks on Iran, and that time will be allowed for negotiaitons. President T",
+    "ss": "Petrol, UAEK Müfettişlerinin İran'a Dönebileceği Raporu Üzerine Kustu Suudilerin sahibi olduğu haber kuruluşu Al Arabiya, Pazartesi öğleden sonra geç saatlerde Katar-Pakistan önerisinin ABD ile İran müzakerecileri arasındaki müzakere umutlarını canlandırdığını ve İran'ın uranyum zenginleştirmesini engellemeye yönelik bir ön anlaşmanın da benzer göründüğünü bildirdi",
+    "u": "https://www.zerohedge.com/markets/brent-extends-biggest-weekly-decline-covid-crash-us-gas-prices-set-fall-under-4",
+    "ts": 1794262500000,
+    "tags": []
+   },
+   {
+    "t": "Could Laura Loomer's Ukrainegate Scandal Push Trump Into Punishing Zelensky",
+    "tt": "Laura Loomer'in Ukrayna Kapısı Skandalı Trump'ı Zelensky'yi Cezalandırmaya Zorlayabilir mi?",
+    "s": "Could Laura Loomer's Ukrainegate Scandal Push Trump Into Punishing Zelensky Authored by Andrew Korybko via Andrew Korybko's Newsletter , He hates being made a fool out of like Zelensky might have tried doing by attempting to manipulate him via Loomer, and he's known to have a short temper, so there ",
+    "ss": "Laura Loomer'in Ukrayna Kapısı Skandalı Trump'ı Zelensky'yi Cezalandırmaya İtebilir mi? Yazan: Andrew Korybko, Andrew Korybko'nun Haber Bülteni. Zelensky'nin Loomer aracılığıyla onu manipüle etmeye çalışarak aptal durumuna düşürülmesinden nefret ediyor ve çabuk sinirlendiği biliniyor, bu yüzden orada",
+    "u": "https://www.zerohedge.com/geopolitical/could-laura-loomers-ukrainegate-scandal-push-trump-punishing-zelensky",
+    "ts": 1794261600000,
+    "tags": []
+   },
    {
     "t": "\"Pettiness Is A Thing\": Top Democrat Says His Gayness Will Fuel Vicious Trump Investigations",
     "tt": "\"Sarhoşluk bir şeydir\": Üst düzey Demokrat, Eşcinselliğinin Trump'a Yönelik Şiddetli Soruşturmaları Ateşleyeceğini Söyledi",
@@ -849,15 +876,6 @@
     "tags": []
    },
    {
-    "t": "Oil Pukes On Report IAEA Inspectors May Return To Iran",
-    "tt": "Petrol, UAEA Müfettişlerinin İran'a Dönebileceği Raporu Üzerine Kustu",
-    "s": "Oil Pukes On Report IAEA Inspectors May Return To Iran Saudi-owned news outlet Al Arabiya reported late Monday afternoon that a Qatari-Pakistani proposal has revived hopes for negotiations between the US and Iran negotiators, with a preliminary deal to curb Iranian uranium enrichment appearing likel",
-    "ss": "Petrol, UAEK Müfettişlerinin İran'a Dönebileceği Raporu Üzerine Kustu Suudilerin sahibi olduğu haber kuruluşu Al Arabiya, Pazartesi öğleden sonra geç saatlerde Katar-Pakistan önerisinin ABD ile İran müzakerecileri arasındaki müzakere umutlarını canlandırdığını ve İran'ın uranyum zenginleştirmesini engellemeye yönelik bir ön anlaşmanın da benzer göründüğünü bildirdi",
-    "u": "https://www.zerohedge.com/markets/brent-extends-biggest-weekly-decline-covid-crash-us-gas-prices-set-fall-under-4",
-    "ts": 1794254400000,
-    "tags": []
-   },
-   {
     "t": "FAA Announces America's First Digital Air Traffic Control Towers Are Online",
     "tt": "FAA, Amerika'nın İlk Dijital Hava Trafik Kontrol Kulelerinin Yayına Başladığını Duyurdu",
     "s": "FAA Announces America's First Digital Air Traffic Control Towers Are Online Authored by David Manney via PJ Media , An air traffic controller's most important equipment still includes a trained mind, alert eyes, and the judgment to keep aircraft safely separated. At two American airports, digital di",
@@ -865,27 +883,18 @@
     "u": "https://www.zerohedge.com/technology/faa-announces-americas-first-digital-air-traffic-control-towers-are-online",
     "ts": 1794253800000,
     "tags": []
-   },
-   {
-    "t": "NatGas Shorts \"Forced To Cover\" As US Cold Blast Threatens Record Hedge Fund Bear Bets",
-    "tt": "ABD'deki Soğuk Patlama Rekor Riskten Korunma Fonu Ayı Bahislerini Tehdit Ederken NatGas Şortları \"Kapamaya Zorlandı\"",
-    "s": "NatGas Shorts \"Forced To Cover\" As US Cold Blast Threatens Record Hedge Fund Bear Bets US natural gas futures jumped Monday morning as forecasts shifted sharply colder across the Mid-Atlantic and Northeast, colliding with the record hedge fund short position we flagged Sunday. Incoming Cold Blast \"A",
-    "ss": "ABD'deki Soğuk Patlaması Rekor Hedge Fonu Ayı Bahislerini Tehdit Ederken NatGas Açıkları \"Kapatmak Zorunda\" ABD doğal gaz vadeli işlemleri Pazartesi sabahı, Orta Atlantik ve Kuzeydoğu'da tahminlerin keskin bir şekilde soğuması ve Pazar günü işaretlediğimiz rekor hedge fonu açık pozisyonuyla çarpışmasıyla sıçradı. Gelen Soğuk Patlama \"A",
-    "u": "https://www.zerohedge.com/energy/natgas-shorts-forced-cover-us-cold-blast-threatens-record-hedge-fund-bear-bets",
-    "ts": 1794252000000,
-    "tags": []
-   },
-   {
-    "t": "Lacalle: Republicans Gave Voters 'Mild Socialism' - And Lost...",
-    "tt": "Lacalle: Cumhuriyetçiler Seçmenlere 'Ilımlı Sosyalizm' Verdi - Ve Kaybettiler...",
-    "s": "Lacalle: Republicans Gave Voters 'Mild Socialism' - And Lost... Authored by Daniel Lacalle , Republicans Abandoned Libertarian Principles… and Lost the Elections Tuesday's midterm elections were a rout. Democrats picked up seven Senate seats, including Texas, Kansas, South Carolina, Iowa, and Ohio, ",
-    "ss": "Lacalle: Cumhuriyetçiler Seçmenlere 'Ilımlı Sosyalizm' Verdi - Ve Kaybetti... Yazan: Daniel Lacalle, Cumhuriyetçiler Özgürlükçü İlkeleri Terk Etti... ve Seçimleri Kaybetti Salı günkü ara seçimler bir bozguna uğradı. Demokratlar Teksas, Kansas, Güney Carolina, Iowa ve Ohio dahil olmak üzere yedi Senato sandalyesi kazandı.",
-    "u": "https://www.zerohedge.com/political/lacalle-republicans-gave-voters-mild-socialism-and-lost",
-    "ts": 1794251100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Boeing, ticari uçaklar biriminde çalışanlarının yüzde 5'ini işten çıkarıyor",
+    "tt": null,
+    "s": "ABD'li havacılık şirketi Boeing, üretim takvimindeki değişiklikler ve uçak üretiminin azaltılması nedeniyle ticari uçaklar birimindeki çalışan sayısını yaklaşık yüzde 5 düşüreceğini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/boeing-ticari-ucaklar-biriminde-calisanlarinin-yuzde-5-ini-isten-cikariyor-3794022",
+    "ts": 1794261070000,
+    "tags": []
+   },
    {
     "t": "ABD Savunma Bakanı Hegseth'in azli için 8 maddelik tasarı sunuldu",
     "tt": null,
@@ -965,15 +974,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/bim-den-ucuncu-ceyrekte-beklentileri-asan-net-kr-3794012",
     "ts": 1794247360000,
-    "tags": []
-   },
-   {
-    "t": "Meta'dan genç kullanıcıların güvenliği için yeni adım",
-    "tt": null,
-    "s": "Meta, yapay zeka destekli yaş tahmin teknolojisini küresel çapta genişleterek milyonlarca genç kullanıcıyı Instagram'daki \"Genç Hesabı\" korumalarına dahil edeceğini duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/meta-dan-genc-kullanicilarin-guvenligi-icin-yeni-adim-3794011",
-    "ts": 1794247046000,
     "tags": []
    }
   ]
