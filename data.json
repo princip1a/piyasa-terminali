@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T05:38:55.667468+00:00",
+ "generated": "2026-11-09T06:41:33.580146+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4130.7,
-   "c": 1.37,
-   "d": 55.8,
+   "p": 4122.3,
+   "c": 1.16,
+   "d": 47.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.04,
-   "c": 2.39,
-   "d": 1.237,
+   "p": 52.555,
+   "c": 1.45,
+   "d": 0.752,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.64,
-   "c": -0.21,
-   "d": -0.19,
+   "p": 89.92,
+   "c": -1.0,
+   "d": -0.91,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 97.55,
-   "c": -0.78,
-   "d": -0.77,
+   "p": 96.83,
+   "c": -1.52,
+   "d": -1.49,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.108,
-   "c": -0.19,
-   "d": -0.192,
+   "p": 102.086,
+   "c": -0.21,
+   "d": -0.214,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.149,
+   "p": 50.1487,
    "c": -0.01,
    "d": -0.004,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74268,
-   "c": -2.0,
+   "p": 74130,
+   "c": -2.14,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2126.53,
-   "c": -4.81,
+   "p": 2115.11,
+   "c": -5.24,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.83,
-   "c": -2.65,
+   "p": 86.15,
+   "c": -3.2,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.1,
-   "c": -5.37,
+   "p": 1.089,
+   "c": -6.5,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 683.73,
-   "c": -1.76,
+   "p": 680.67,
+   "c": -2.32,
    "k": "usd"
   }
  ],
@@ -494,79 +494,16 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 9",
-    "tt": "9 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
-    "ss": "Petrol fiyatları, tüccarların bölgedeki yeni saldırılara karşı ABD-İran anlaşmazlığını sona erdirmeye yönelik diplomatik çabalara ağırlık vermesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
-    "ts": 1794179007000,
+    "t": "Gunman in Polish Mass Shooting Dies in Hospital, Police Say",
+    "tt": "Polis, Polonya'daki toplu saldırıda silahlı saldırganın hastanede öldüğünü söyledi",
+    "s": "A gunman, who killed six people and injured 16 in Krakow, died on Monday morning in hospital, the Polish police said on X, with authorities still searching for clues about the motive of his attack that shook the nation.",
+    "ss": "Polonya polisi, Krakow'da altı kişiyi öldüren ve 16 kişiyi yaralayan silahlı saldırganın Pazartesi sabahı hastanede öldüğünü, yetkililerin hâlâ ülkeyi sarsan saldırının nedeni hakkında ipuçları aradığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
+    "ts": 1794205375000,
     "tags": []
    },
    {
-    "t": "Asian Stocks Rally on Tech Rebound, Taiwan Surges: Markets Wrap",
-    "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
-    "s": "Asian stocks rebounded from their biggest selloff in more than 18 months, with Taiwan leading gains after local authorities introduced measures to restore investor confidence. Treasuries fell.",
-    "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794176451000,
-    "tags": []
-   },
-   {
-    "t": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
-    "tt": "Çin, %24 ABD Tarifelerindeki Duraklatmayı Ocak Ayına Kadar Uzattı, %10 Oranını Korudu",
-    "s": "China will suspend an additional 24% tariff on US goods for another two months, formalizing a decision by the two countries’ leaders to prolong their trade truce until next January.",
-    "ss": "Çin, iki ülke liderlerinin ticaret ateşkesini önümüzdeki Ocak ayına kadar uzatma kararını resmileştirerek, ABD mallarına yönelik ek %24'lük gümrük vergisini iki ay daha askıya alacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate",
-    "ts": 1794198995000,
-    "tags": []
-   },
-   {
-    "t": "China Starts Marketing Green Bonds For Debut Sales in Canada",
-    "tt": "Çin, Kanada'da İlk Satış İçin Yeşil Tahvil Pazarlamaya Başlıyor",
-    "s": "China is marketing green bonds in Canada for the first time, expanding its offshore debt footprint to finance sustainable projects as ties between the two nations warm.",
-    "ss": "Çin, Kanada'da ilk kez yeşil tahvil pazarlıyor ve iki ülke arasındaki ilişkiler ısındıkça sürdürülebilir projeleri finanse etmek için offshore borç ayak izini genişletiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-starts-marketing-green-bonds-for-debut-sales-in-canada",
-    "ts": 1794196925000,
-    "tags": []
-   },
-   {
-    "t": "Soybeans Rise as US Presses China to Boost Farm Goods Purchases",
-    "tt": "ABD'nin Çin'e Çiftlik Ürünleri Alımlarını Artırması İçin Baskı Yapması Nedeniyle Soya Fasulyesi Yükseldi",
-    "s": "Soybean futures rose the most in more than two weeks as the Trump administration pressed China to follow through on pledges to buy US farm products.",
-    "ss": "Soya fasulyesi vadeli işlemleri, Trump yönetiminin Çin'e ABD tarım ürünlerini satın alma vaadini yerine getirmesi yönünde baskı yapmasıyla iki haftadan uzun bir sürenin en sert yükselişini gerçekleştirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/soybeans-rise-as-us-presses-china-to-boost-farm-goods-purchases",
-    "ts": 1794196223000,
-    "tags": []
-   },
-   {
-    "t": "Philippine Economic Slump Worsens on Iran War, Bad Weather",
-    "tt": "Filipin Ekonomisi Beklenmedik Bir Şekilde Yavaşlıyor ve Marcos'a Baskı Oluşturuyor",
-    "s": "The Philippine economy unexpectedly slowed for a fifth straight quarter, raising questions about the central bank’s rate-hike cycle and heaping pressure on President Ferdinand Marcos Jr.",
-    "ss": "Asya'nın en kötü performans gösteren ekonomik büyümelerinden biri olan Filipinler'in ekonomik büyümesi, tarım üretiminin zayıf olması, yüksek enerji maliyetleri ve El Niño'nun görünümü bulandırmaya devam etmesi nedeniyle üst üste beşinci çeyrekte beklenmedik şekilde yavaşladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
-    "ts": 1794189824000,
-    "tags": []
-   },
-   {
-    "t": "Foreign Funds Pile Into India as AI Trade Falters",
-    "tt": "Yapay Zeka Ticareti Durgunlaşırken Yabancı Fonlar Hindistan'a Akıyor",
-    "s": "Including Friday’s provisional figures, foreign funds were net buyers of close to $5 billion of stocks last week.",
-    "ss": "Cuma günkü geçici rakamlar da dahil olmak üzere, yabancı fonlar geçen hafta 5 milyar dolara yakın hisse senedinin net alıcısıydı.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-09/foreign-funds-pile-into-india-as-ai-trade-falters",
-    "ts": 1794192332000,
-    "tags": []
-   },
-   {
-    "t": "China’s Cheap Domestic Gas Curbs LNG Buying as Winter Nears",
-    "tt": "Çin'in Ucuz Yerli Gazı, Kış Yaklaşırken LNG Alımını Durduruyor",
-    "s": "China’s domestic natural gas prices are weakening, curbing the world’s biggest importer’s appetite for expensive seaborne supplies and potentially freeing up cargoes for Europe and other Asian markets during the peak winter demand season.",
-    "ss": "Çin'in yurt içi doğal gaz fiyatları zayıflıyor, dünyanın en büyük ithalatçısının pahalı deniz ürünlerine olan iştahını kısıtlıyor ve talebin yoğun olduğu kış sezonunda Avrupa ve diğer Asya pazarlarına yönelik yüklerin serbest kalmasına neden oluyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
-    "ts": 1794190824000,
-    "tags": []
-   },
-   {
-    "t": "Mizuho Pierces Nomura’s Japan Bubble With Big-Ticket Global IPOs",
+    "t": "Anthropic Mega IPO Helps Mizuho Make a Run at Nomura’s Turf",
     "tt": "Mizuho, ​​Nomura'nın Japonya Balonunu Büyük Biletli Küresel Halka Arzlarla Deliyor",
     "s": "Mizuho Financial Group Inc. is carving out a lucrative niche in Japan’s equity capital market by bridging the ravenous US demand for artificial intelligence fundraising and its home country’s deep pool of retail savings.",
     "ss": "Mizuho Financial Group Inc., ABD'nin yapay zeka kaynak yaratmaya yönelik açgözlü talebi ile kendi ülkesinin derin perakende tasarruf havuzu arasında köprü kurarak Japonya'nın sermaye piyasasında kazançlı bir yer oluşturuyor.",
@@ -575,12 +512,75 @@
     "tags": []
    },
    {
-    "t": "Berkshire Plans First Japan Bond Offering Since April",
-    "tt": "Berkshire Hathaway Nisandan Bu Yana İlk Japonya Tahvili Arzını Planlıyor",
-    "s": "Berkshire Hathaway Inc. has hired banks for its first yen bond sale since April as it prepares to raise more funds in Japan.",
-    "ss": "Berkshire Hathaway Inc., Japonya'da daha fazla fon toplamaya hazırlanırken, konuya yakın kaynaklara göre Nisan ayından bu yana ilk yen tahvil satışı için bankalarla anlaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
-    "ts": 1794186270000,
+    "t": "NZ Dollar Advances as Ruling Party Gets Election Edge",
+    "tt": "İktidar Partisi Seçimde Avantaj Sağlarken Yeni Zelanda Doları Yükseliyor",
+    "s": "New Zealand’s dollar edged higher in early trading after the incumbent National Party emerged from the weekend election with a path back to power, putting it in pole position to lead negotiations with minor parties.",
+    "ss": "Yeni Zelanda doları, görevdeki Ulusal Parti'nin hafta sonu seçimlerinden iktidara dönüş yolu ile çıkması ve küçük partilerle müzakerelere liderlik etme konusunda ilk sırayı almasıyla erken işlemlerde yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/new-zealand-dollar-advances-as-ruling-party-gets-election-edge",
+    "ts": 1794175665000,
+    "tags": []
+   },
+   {
+    "t": "Ali Yasin: Iran War Forces GCC Firms to Rethink IPOs",
+    "tt": "Ali Yasin: İran Savaşı, Körfez İşbirliği Konseyi Firmalarını Halka Arzları Yeniden Düşünmeye Zorluyor",
+    "s": "Kuwait's Agility Public Warehousing also known as Makhazen is the latest firm in the UAE to consider delisting from the Dubai Financial Market. This comes as Dubai's largest developer, Emaar Properties, announced plans to buy the rest of its listed construction arm at a valuation of $16.3 billion. M",
+    "ss": "Makhazen olarak da bilinen Kuveyt'in Agility Public Warehousing şirketi, BAE'de Dubai Finans Piyasası'ndan çıkmayı düşünen en son firma oldu. Bu, Dubai'nin en büyük geliştiricisi Emaar Properties'in listelenen inşaat kolunun geri kalanını 16,3 milyar dolar değerlemeyle satın almayı planladığını duyurmasının ardından geldi. M",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/ali-yasin-iran-war-forces-gcc-firms-to-rethink-ipos-video",
+    "ts": 1794205687000,
+    "tags": []
+   },
+   {
+    "t": "Trump’s Weakness and Overtures to Russia Put Ukraine on Edge",
+    "tt": "Trump'ın Zayıflığı ve Rusya'ya Yönelik Yaklaşımları Ukrayna'yı Gerginliğe Uğratıyor",
+    "s": "The interruption of critical satellite connectivity last month has brought home to Ukraine the risks of a more comprehensive reduction in US support.",
+    "ss": "Geçtiğimiz ay kritik uydu bağlantısının kesilmesi, Ukrayna'nın ABD desteğinde daha kapsamlı bir azalma riskini beraberinde getirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/trump-s-weakness-and-overtures-to-russia-put-ukraine-on-edge",
+    "ts": 1794204900000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Advance on Tech Rebound, Taiwan Jumps: Markets Wrap",
+    "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
+    "s": "Asian stocks rebounded from their biggest selloff in more than 18 months, with Taiwan leading gains after local authorities introduced measures to restore investor confidence. Treasuries fell.",
+    "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794176451000,
+    "tags": []
+   },
+   {
+    "t": "Cross-Border Yuan Flows on China’s Network Head for Record Year",
+    "tt": "Sınır Ötesi Yuan Akışı Rekor Yıldır Çin'in Ağ Liderinde",
+    "s": "China’s cross-border yuan payment system is heading for its busiest year since its launch in 2015, as robust trade and greater use of the currency for settlements accelerate growth in a key piece of Beijing’s financial infrastructure.",
+    "ss": "Çin'in sınır ötesi yuan ödeme sistemi, güçlü ticaret ve para biriminin yerleşimlerde daha fazla kullanılması, Pekin'in finansal altyapısının önemli bir parçasındaki büyümeyi hızlandırırken, 2015'teki lansmanından bu yana en yoğun yılına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/cross-border-yuan-flows-on-china-s-network-head-for-record-year",
+    "ts": 1794203875000,
+    "tags": []
+   },
+   {
+    "t": "HSBC, Citi Turn Bullish as Indian Stocks Draw Record Inflows",
+    "tt": "HSBC ve Citi, Hindistan Hisse Senetlerinin Rekor Girişler Çekişiyle Yükselişe Döndü",
+    "s": "Global banks are turning more bullish on Indian stocks as the market’s sharpest rally in more than four years draws record foreign inflows.",
+    "ss": "Piyasanın dört yılı aşkın süredir en keskin yükselişinin rekor yabancı girişlere yol açması nedeniyle küresel bankalar Hint hisse senetlerine yönelik yükseliş eğilimini artırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/hsbc-citi-turn-bullish-as-indian-stocks-draw-record-inflows",
+    "ts": 1794203626000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe",
+    "tt": "Nvidia CEO'sunun Meselesi Casusluk Soruşturmasında Yapay Zeka Devini Yakaladı",
+    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Hong Kong with Haidi Stroud-Watts and Annabelle Droulers, getting insight and analysis from newsmakers and industry leaders on the biggest stories s",
+    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Annabelle Droulers ile Sidney ve Hong Kong'dan canlı yayında, haber yapımcılarından ve sektör liderlerinden en büyük haberlere ilişkin içgörü ve analizler alıyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/the-asia-trade-11-9-2026-video",
+    "ts": 1794202032000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 9",
+    "tt": "9 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
+    "ss": "Petrol fiyatları, tüccarların bölgedeki yeni saldırılara karşı ABD-İran anlaşmazlığını sona erdirmeye yönelik diplomatik çabalara ağırlık vermesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+    "ts": 1794179007000,
     "tags": []
    }
   ],
@@ -879,6 +879,33 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Uluslararası ticarette yuan ile ödeme rekora hazırlanıyor",
+    "tt": null,
+    "s": "Çin'in sınır ötesi yuan ödeme sistemi, 2015'te başlamasından bu yana en yoğun yılını yaşamaya hazırlanıyor. Güçlü ticaret hacmi ve ödemelerde yuanın daha yaygın kullanımı yuanın yaygın kullanımını getiriyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/uluslararasi-piyasalarda-yuanin-kullanimi-rekora-hazirlaniyor-3793902",
+    "ts": 1794205270000,
+    "tags": []
+   },
+   {
+    "t": "Ekonomi ve siyaset gündemi - 9 Kasım 2026",
+    "tt": null,
+    "s": "Ekonomi ve siyaset gündeminde günün öne çıkan gelişmeleri...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-9-kasim-2026-3793901",
+    "ts": 1794203489000,
+    "tags": []
+   },
+   {
+    "t": "TESKOMB kefaletli krediler 900 milyar TL'yi aştı",
+    "tt": null,
+    "s": "Ticaret Bakanlığı'nın açıklamasına göre, TESKOMB kefaletiyle, Halkbank kaynaklı olarak ve Hazine'nin yüzde 50 maliyet sübvansiyonu ile esnaf ve sanatkârlara sağlanan krediler 907,8 milyar TL'ye ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/teskomb-kefaletli-krediler-900-milyar-tl-yi-asti-3793900",
+    "ts": 1794202818000,
+    "tags": []
+   },
+   {
     "t": "ABD Dışişleri Bakanı'ndan İran görüşmeleriyle ilgili negatif çıkış",
     "tt": null,
     "s": "ABD Dışişleri Bakanı Marco Rubio, İran'ın taleplerinin gerçekçi olmadığını ve kabul edilmesinin mümkün olmadığını belirtti.",
@@ -939,33 +966,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/altin-yeni-haftaya-pozitif-girdi-3793893",
     "ts": 1794199072000,
-    "tags": []
-   },
-   {
-    "t": "Çin'de üretici enflasyonu 2022'den bu yana en yüksek seviyede",
-    "tt": null,
-    "s": "Çin'de yükselen enerji maliyetlerinin fabrikaların giderlerini artırmasıyla üretici fiyatları Haziran 2022'den bu yana en hızlı artışını kaydederken, tüketici fiyatlarındaki yavaşlamanın önüne geçilemedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cin-de-uretici-enflasyonu-2022-den-bu-yana-en-yuksek-seviyede-3793892",
-    "ts": 1794198699000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia CEO'sundan evlilik dışı ilişki itirafı: Casusluk şüphesi soruşturmaya döndü",
-    "tt": null,
-    "s": "Nvidia Yönetim Kurulu, kurucu ortak ve Üst Yönetici (CEO) Jensen Huang'ın Çin istihbaratına çalıştığından şüphelenilen bir kadınla kişisel ilişki yaşadığını kabul etmesinin ardından bağımsız bir soruşturma başlattı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/nvidia-ceo-sundan-evlilik-disi-iliskin-itirafi-casusluk-suphesi-sorusturmaya-dondu-3793891",
-    "ts": 1794196065000,
-    "tags": []
-   },
-   {
-    "t": "Eski Apple CEO'su Tim Cook'un İstanbul ziyareti",
-    "tt": null,
-    "s": "Apple'ın eski CEO'su ve şu anda şirketin yönetim kurulu başkanı olan Tim Cook, İstanbul'a geldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/eski-apple-ceo-su-tim-cook-un-istanbul-ziyareti-3793890",
-    "ts": 1794161940000,
     "tags": []
    }
   ]
