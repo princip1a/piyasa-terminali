@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-09T19:45:05.860436+00:00",
+ "generated": "2026-11-09T20:40:53.614852+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7561.7,
-   "c": 2.51,
-   "d": 184.84,
+   "p": 7567.94,
+   "c": 2.59,
+   "d": 191.08,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25282.648,
-   "c": 2.86,
-   "d": 703.218,
+   "p": 25312.814,
+   "c": 2.98,
+   "d": 733.384,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52509.35,
-   "c": 2.39,
-   "d": 1223.62,
+   "p": 52486.29,
+   "c": 2.34,
+   "d": 1200.56,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.41,
-   "c": -20.4,
-   "d": -5.23,
+   "p": 19.72,
+   "c": -23.09,
+   "d": -5.92,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4122.0,
-   "c": 1.16,
-   "d": 47.1,
+   "p": 4154.2,
+   "c": 1.95,
+   "d": 79.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.96,
-   "c": 2.23,
-   "d": 1.157,
+   "p": 53.495,
+   "c": 3.27,
+   "d": 1.692,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.08,
-   "c": -4.13,
-   "d": -3.75,
+   "p": 86.6,
+   "c": -4.66,
+   "d": -4.23,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.74,
-   "c": -5.68,
-   "d": -5.58,
+   "p": 92.43,
+   "c": -5.99,
+   "d": -5.89,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.748,
-   "c": -0.54,
-   "d": -0.552,
+   "p": 101.681,
+   "c": -0.61,
+   "d": -0.619,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.872,
-   "c": 0.27,
-   "d": 0.013,
+   "p": 4.864,
+   "c": 0.1,
+   "d": 0.005,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.1765,
-   "c": 0.05,
-   "d": 0.024,
+   "p": 50.1748,
+   "c": 0.04,
+   "d": 0.022,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75095,
-   "c": -0.95,
+   "p": 74706,
+   "c": -1.36,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2139.13,
-   "c": -4.08,
+   "p": 2124.31,
+   "c": -4.51,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.86,
-   "c": -2.99,
+   "p": 86.7,
+   "c": -2.78,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.099,
-   "c": -4.77,
+   "p": 1.092,
+   "c": -4.99,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 688.94,
-   "c": -1.13,
+   "p": 688.61,
+   "c": -1.07,
    "k": "usd"
   }
  ],
@@ -316,8 +316,8 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1794492000000,
-   "tr": "Per 12.11 17:00",
+   "ts": 1794490200000,
+   "tr": "Per 12.11 16:30",
    "reading": null
   },
   {
@@ -356,8 +356,8 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1794501000000,
-   "tr": "Per 12.11 19:30",
+   "ts": 1794500100000,
+   "tr": "Per 12.11 19:15",
    "reading": null
   },
   {
@@ -494,6 +494,88 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Barrick (GOLD) Revisits Fourmile Gold Deposit Plans, Study Deadline Uncertain",
+    "tt": null,
+    "s": "A key study on one of the world’s richest gold discoveries, Barrick Mining Corp.’s Fourmile deposit in Nevada, is at risk of taking longer than previously expected as the miner considers new ways to develop it.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/barrick-gold-revisits-fourmile-gold-deposit-plans-study-deadline-uncertain",
+    "ts": 1794255135000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets Wrap",
+    "tt": "Nvidia'nın Sıkıntılarına Rağmen Alıcıların Adım Atmasıyla Hisse Senetleri Tırmanıyor: Piyasalar Sarılıyor",
+    "s": "A renewed wave of dip buying lifted stocks in the wake of a technology selloff that had recently roiled Wall Street, with the market also gaining as oil prices tumbled.",
+    "ss": "Wall Street'i sarsan teknoloji satışlarının ardından yenilenen dip alım dalgası, hisse senetlerini Nisan ayından bu yana en iyi gününe doğru sürükledi ve petrol fiyatları düşerken piyasa da yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794176451000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Test Your ETF Knowledge In Our IQ Test",
+    "tt": null,
+    "s": "Bloomberg's Joel Weber puts Scarlet Fu, Eric Balchunas, and Cinthia Murphy, investment strategist at TMX Vettafi, to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/test-your-etf-knowledge-in-our-iq-test-video",
+    "ts": 1794256369000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic IPO’s Moment of Truth Nears as Waiting Period Ends",
+    "tt": null,
+    "s": "Anthropic PBC can begin formally marketing its much-anticipated IPO as early as Tuesday, enabling it to make the case to investors that now is the right time to go public despite last week’s swoon in artificial intelligence-related stocks.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-ipo-s-moment-of-truth-nears-as-waiting-period-expires",
+    "ts": 1794234012000,
+    "tags": []
+   },
+   {
+    "t": "World 'Rewiring' Around Innovation Thematics: Anderson",
+    "tt": null,
+    "s": "Alaina Anderson, partner & portfolio manager at William Blair Investment Management, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss recent geopolitical conditions and economic fluctuations as well as the WBIE William Blair International Equity ETF (ticker: WBIE). (Source: Bl",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/world-rewiring-around-innovation-thematics-anderson-video",
+    "ts": 1794255806000,
+    "tags": []
+   },
+   {
+    "t": "Oil Falls to August Lows on Signs of Iran War Peace Progress",
+    "tt": null,
+    "s": "Oil fell to the lowest since August amid optimism around diplomatic efforts to end the war in the Middle East, even as attacks in the region continue.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands",
+    "ts": 1794224047000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "US Natural Gas Surges Most in Six Weeks, Triggers Short Squeeze",
+    "tt": null,
+    "s": "US natural gas futures jumped by as much as 8.3%, the most since September, after forecasts for cooler weather along the Atlantic seaboard gave prices an upward push and forced hedge funds to unwind bearish bets.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/us-natural-gas-jumps-as-cooler-forecasts-trigger-short-covering",
+    "ts": 1794235625000,
+    "tags": []
+   },
+   {
+    "t": "Private Credit Lenders Eye $1.3 Billion Loan for Fullscript",
+    "tt": null,
+    "s": "A group of private credit lenders is in talks to provide a $1.3 billion loan to finance L Catterton’s acquisition of healthcare platform Fullscript, after the deal was unable to drum up enough interest in the leveraged loan market.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/private-credit-lenders-eye-1-3-billion-loan-for-fullscript",
+    "ts": 1794253470000,
+    "tags": []
+   },
+   {
     "t": "Concentration Risk A 'Serious Issue': Rob Arnott",
     "tt": null,
     "s": "Rob Arnott, chairman & founder of Syzygy Asset Management, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" A renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fe",
@@ -509,81 +591,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/violent-tech-rout-will-avoid-a-20-drawdown-markets-pulse",
     "ts": 1794252236000,
-    "tags": []
-   },
-   {
-    "t": "Gold Advances as Oil, Dollar Retreat and Equities Rebound",
-    "tt": null,
-    "s": "Gold rose as oil prices and the US dollar slid, while a rebound in equities bolstered risk appetite.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
-    "ts": 1794181210000,
-    "tags": [
-     "Altın ▲",
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "US Natural Gas Surges Most in Six Weeks, Triggers Short Squeeze",
-    "tt": null,
-    "s": "US natural gas futures rose by as much as 8%, the most since September, after forecasts for cooler weather across the Atlantic seaboard gave prices an upward push and forced hedge funds to unwind bearish bets.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/us-natural-gas-jumps-as-cooler-forecasts-trigger-short-covering",
-    "ts": 1794235625000,
-    "tags": []
-   },
-   {
-    "t": "Corn Hits Fresh Four-Month Low as USDA Seen Raising World Supply",
-    "tt": null,
-    "s": "Corn prices slipped to the lowest since July 1 ahead of the US Department of Agriculture’s monthly supply and demand outlook that’s expected to show larger global supplies of the yellow grain.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/corn-hits-fresh-four-month-low-as-usda-seen-raising-world-supply",
-    "ts": 1794251684000,
-    "tags": []
-   },
-   {
-    "t": "China Sells Debut Green Bond in Canada Amid Robust Demand",
-    "tt": null,
-    "s": "China priced its debut yuan-denominated green bond sale in Canada after attracting robust demand, expanding its offshore debt footprint to finance sustainable projects as ties between the two nations warm.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-starts-marketing-green-bonds-for-debut-sales-in-canada",
-    "ts": 1794196925000,
-    "tags": []
-   },
-   {
-    "t": "Aluminum Faces Severe Squeeze as LME Market Awaits New Supply",
-    "tt": null,
-    "s": "The aluminum market is in the grips of a major supply squeeze fueled by declining stockpiles of the crucial industrial commodity, with buyers facing rising prices for spot metal and little immediate prospect of relief.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/aluminum-faces-severe-squeeze-as-lme-market-awaits-new-supply",
-    "ts": 1794230950000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets Wrap",
-    "tt": "Nvidia'nın Sıkıntılarına Rağmen Alıcıların Adım Atmasıyla Hisse Senetleri Tırmanıyor: Piyasalar Sarılıyor",
-    "s": "A renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell.",
-    "ss": "Wall Street'i sarsan teknoloji satışlarının ardından yenilenen dip alım dalgası, hisse senetlerini Nisan ayından bu yana en iyi gününe doğru sürükledi ve petrol fiyatları düşerken piyasa da yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794176451000,
-    "tags": []
-   },
-   {
-    "t": "BLS Will Not Publish 12-Month CPI, Core CPI Figures For October",
-    "tt": null,
-    "s": "The closely watched consumer price index report will be missing some key numbers this week: the 12-month percent change.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
-    "ts": 1794251151000,
-    "tags": []
-   },
-   {
-    "t": "Most Treasuries Fall as Investors Regain Risk Appetite",
-    "tt": null,
-    "s": "Most Treasuries fell as investor appetite for riskier assets including stocks and corporate bonds recovered, damping the appeal of US government bonds as a hedge.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/treasuries-fall-before-auction-as-investors-regain-risk-appetite",
-    "ts": 1794243814000,
     "tags": []
    }
   ],
@@ -693,6 +700,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+    "tt": null,
+    "s": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+    "ts": 1794256920000,
+    "tags": []
+   },
+   {
+    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "tt": "'Fikrini her zaman değiştirebilir': Dul bir kadın, aile evini üvey çocuklarına mı bırakmalı?",
+    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
+    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "ts": 1794256200000,
+    "tags": []
+   },
+   {
+    "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "tt": null,
+    "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "ts": 1794255300000,
+    "tags": []
+   },
+   {
     "t": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000",
     "tt": null,
     "s": "‘I don’t think there’s much ability for us to avoid this being the most expensive Thanksgiving on record’ for gas prices, says Patrick De Haan at GasBuddy",
@@ -760,36 +794,54 @@
     "u": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
     "ts": 1794247680000,
     "tags": []
-   },
-   {
-    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "tt": "'Şimdiye kadar yaşadığımız en kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum. Ama onun 280.000 dolarlık maaşını kaybetmek istemiyorum.",
-    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-    "ss": "\"Yaklaşık 2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, ayrıca 450.000 dolarımız aracı kurum hesabında ve benim kendi IRA'mda.\"",
-    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "ts": 1794247200000,
-    "tags": []
-   },
-   {
-    "t": "Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
-    "tt": null,
-    "s": "Several medical studies have found that people taking GLP-1 medications have an elevated risk for nonarteritic anterior ischemic optic neuropathy, or NAION.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
-    "ts": 1794246720000,
-    "tags": []
-   },
-   {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "'Fikrini her zaman değiştirebilir': Dul bir kadın, aile evini üvey çocuklarına mı bırakmalı?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794245400000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Massie Starts The Clock On Hegseth's Impeachment - Here's How Many Republicans He Needs",
+    "tt": null,
+    "s": "Massie Starts The Clock On Hegseth's Impeachment - Here's How Many Republicans He Needs Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor Monday afternoon , and because the resolution is privileged, the House has to take it ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/massie-starts-clock-hegseths-impeachment-heres-how-many-republicans-he-needs",
+    "ts": 1794257100000,
+    "tags": []
+   },
+   {
+    "t": "Kamala Harris Finishes 16th With Under 1% In Progressive 2028 Straw Poll",
+    "tt": null,
+    "s": "Kamala Harris Finishes 16th With Under 1% In Progressive 2028 Straw Poll Authored by AG News Staff via American Greatness , Former Vice President Kamala Harris drew just 0.6 percent in a 2028 presidential straw poll at a gathering of progressive activists, finishing 16th , the New York Post reported",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/kamala-harris-finishes-16th-under-1-progressive-2028-straw-poll",
+    "ts": 1794256200000,
+    "tags": []
+   },
+   {
+    "t": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House",
+    "tt": null,
+    "s": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House Former White House Chief of Staff Susie Wiles is facing new allegations that Make America Healthy Again (MAHA) activists were blacklisted from White House events after speaking out against alleged corruption involving the E",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/leaked-photo-susie-wiles-accused-banning-maha-activists-white-house",
+    "ts": 1794255300000,
+    "tags": []
+   },
+   {
+    "t": "Oil Pukes On Report IAEA Inspectors May Return To Iran",
+    "tt": null,
+    "s": "Oil Pukes On Report IAEA Inspectors May Return To Iran Saudi-owned news outlet Al Arabiya reported late Monday afternoon that a Qatari-Pakistani proposal has revived hopes for negotiations between the US and Iran negotiators, with a preliminary deal to curb Iranian uranium enrichment appearing likel",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/brent-extends-biggest-weekly-decline-covid-crash-us-gas-prices-set-fall-under-4",
+    "ts": 1794254400000,
+    "tags": []
+   },
+   {
+    "t": "FAA Announces America's First Digital Air Traffic Control Towers Are Online",
+    "tt": null,
+    "s": "FAA Announces America's First Digital Air Traffic Control Towers Are Online Authored by David Manney via PJ Media , An air traffic controller's most important equipment still includes a trained mind, alert eyes, and the judgment to keep aircraft safely separated. At two American airports, digital di",
+    "ss": null,
+    "u": "https://www.zerohedge.com/technology/faa-announces-americas-first-digital-air-traffic-control-towers-are-online",
+    "ts": 1794253800000,
+    "tags": []
+   },
    {
     "t": "NatGas Shorts \"Forced To Cover\" As US Cold Blast Threatens Record Hedge Fund Bear Bets",
     "tt": null,
@@ -834,63 +886,27 @@
     "u": "https://www.zerohedge.com/precious-metals/further-revenge-barbarous-relic-no-apologies-jm-keynes",
     "ts": 1794248400000,
     "tags": []
-   },
-   {
-    "t": "Dem Civil War? Letitia James Lashes Out At Far-Left In 'Big Tent' Party \"Dunk On Power\"",
-    "tt": null,
-    "s": "Dem Civil War? Letitia James Lashes Out At Far-Left In 'Big Tent' Party \"Dunk On Power\" Democrats had their chance to quell the Democratic Socialists or reformist socialists before the midterm election, but instead invited them into their \"big tent\" party; that mistake may spark a civil war in the p",
-    "ss": null,
-    "u": "https://www.zerohedge.com/political/dem-civil-war-letitia-james-lashes-out-far-left-big-tent-party-dunk-power",
-    "ts": 1794247200000,
-    "tags": []
-   },
-   {
-    "t": "Key Events This Week: CPI, PPI, Fed Speakers Galore And The End Of Earnings Season",
-    "tt": null,
-    "s": "Key Events This Week: CPI, PPI, Fed Speakers Galore And The End Of Earnings Season Having dispensed with the October jobs report, which came in red hot and above all Wall Street estimates, yet the market seems rather unfazed by the prospect of more rate hikes, we now move on from payrolls to US infl",
-    "ss": null,
-    "u": "https://www.zerohedge.com/markets/key-events-week-cpi-ppi-fed-speakers-galore-and-end-earnings-season",
-    "ts": 1794246900000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Layoff Fears Hit Highest Since Covid Crash As Inflation Expectations Stay Stuck Near 3-Year High: NY Fed Survey",
-    "tt": "Enflasyon Beklentileri 3 Yılın En Yüksek Seviyesine Yakın Kalırken İşten Çıkarılma Korkuları Kovid Çöküşünden Bu Yana En Yüksek Seviyeye Çıktı: NY Fed Anketi",
-    "s": "Layoff Fears Hit Highest Since Covid Crash As Inflation Expectations Stay Stuck Near 3-Year High: NY Fed Survey Last month, one-year inflation expectations in the NY Fed's September Survey of Consumer Expectations jumped to the highest since May 2023 . This month, they just sat there, waiting for th",
-    "ss": "Enflasyon Beklentileri 3 Yılın En Yüksek Seviyesinde Sabit Kalırken İşten Çıkarılma Korkuları Kovid Çöküşünden Bu Yana En Yüksek Seviyeye Ulaştı: NY Fed Anketi Geçtiğimiz ay, NY Fed'in Eylül Tüketici Beklentileri Anketi'nde bir yıllık enflasyon beklentileri Mayıs 2023'ten bu yana en yüksek seviyesine çıktı. Bu ay orada öylece oturup beklediler",
-    "u": "https://www.zerohedge.com/markets/layoff-fears-hit-highest-covid-crash-inflation-expectations-stay-stuck-near-3-year-high-ny",
-    "ts": 1794246300000,
-    "tags": []
-   },
-   {
-    "t": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout",
-    "tt": "İzleyin: McConnell Ara Dönem Patlamasına Verilen Rahatsız Edici Tepkinin Ardından Yeni Sağlık Korkularını Ateşledi",
-    "s": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout Sen. Mitch McConnell (R-KY) is facing renewed scrutiny over his health after appearing to freeze when a reporter asked him about Republicans' devastating midterm election losses . The 84-year-old Kentucky Republica",
-    "ss": "İzle: McConnell, Ara Dönem Patlamasına Karşı Rahatsız Edici Tepki Sonrası Yeni Sağlık Korkularını Ateşledi Senatör Mitch McConnell (R-KY), bir muhabirin kendisine Cumhuriyetçilerin yıkıcı ara seçim kayıplarını sorduğunda donmuş gibi göründükten sonra sağlığı konusunda yeni bir incelemeyle karşı karşıya kaldı. 84 yaşındaki Kentucky Cumhuriyeti",
-    "u": "https://www.zerohedge.com/political/watch-mcconnell-sparks-new-health-fears-after-unsettling-reaction-midterm-blowout",
-    "ts": 1794244500000,
-    "tags": []
-   },
-   {
-    "t": "Watch Crypto For The Next Black Swan",
-    "tt": "Bir Sonraki Siyah Kuğu İçin Kripto'yu İzleyin",
-    "s": "Watch Crypto For The Next Black Swan Submitted by QTR's Fringe Finance We all just saw what happened with Nvidia and Jensen Huang. Completely unexpected. Almost nobody saw it coming. And the ultimate fallout is still very much an open question. Plenty of questions remain unanswered, including some r",
-    "ss": "QTR Fringe Finance Tarafından Sunulan Bir Sonraki Siyah Kuğu İçin Kripto'yu İzleyin Hepimiz Nvidia ve Jensen Huang'ın başına gelenleri gördük. Tamamen beklenmedik. Neredeyse hiç kimse bunun geldiğini görmedi. Ve bunun nihai sonucu hala açık bir sorudur. Aralarında bazılarının da bulunduğu pek çok soru yanıtsız kaldı.",
-    "u": "https://www.zerohedge.com/markets/watch-crypto-next-black-swan",
-    "ts": 1794243900000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Pegasus'un net kârı beklentileri aştı",
+    "tt": null,
+    "s": "Pegasus, 2026 yılının üçüncü çeyreğinde 205 milyon euro net kâr açıklayarak 160 milyon euroluk piyasa beklentisinin üzerinde bir performans sergiledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/pegasus-un-net-kri-beklentileri-asti-3794019",
+    "ts": 1794254026000,
+    "tags": []
+   },
+   {
+    "t": "Honda'dan ABD'de 3 milyar dolarlık yeni fabrika yatırımı",
+    "tt": null,
+    "s": "Honda, ABD'nin Ohio eyaletinde hibrit araç üretimi için 3 milyar dolarlık yeni fabrika kuracağını duyurdu. Yıllık 240 bin araç üretim kapasitesine sahip olacak tesis, 2 bin kişiye istihdam sağlayacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/honda-dan-abd-de-3-milyar-dolarlik-yeni-fabrika-yatirimi-3794018",
+    "ts": 1794253344000,
+    "tags": []
+   },
    {
     "t": "Apple, Türkiye'ye uzun vadeli yatırım yapacağını duyurdu",
     "tt": null,
@@ -961,24 +977,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-de-enflasyon-beklentileri-sabit-issizlik-endisesi-artiyor-3794009",
     "ts": 1794245748000,
-    "tags": []
-   },
-   {
-    "t": "Koç Holding'in net kârı üçüncü çeyrekte 34,9 milyar TL'ye yükseldi",
-    "tt": null,
-    "s": "Koç Holding, 2026'nın üçüncü çeyreğinde 34,9 milyar TL ana ortaklık net kârı açıklayarak bir önceki çeyrekte açıkladığı 19,7 milyar TL'lik net kârın belirgin biçimde üzerine çıktı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/koc-holding-in-net-kri-ucuncu-ceyrekte-34-9-milyar-tl-ye-yukseldi-3794008",
-    "ts": 1794244816000,
-    "tags": []
-   },
-   {
-    "t": "Euro Bölgesi'nden ortak savunma alımı çağrısı",
-    "tt": null,
-    "s": "Euro Grubu Başkanı Kiryakos Pierrakakis, Avrupa'nın artan savunma harcamalarını sürdürülebilir biçimde finanse edebilmesi için ortak alımların artırılması ve daha fazla özel sermayenin harekete geçirilmesi çağrısında bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/euro-bolgesi-nden-ortak-savunma-alimi-cagrisi-3794007",
-    "ts": 1794244431000,
     "tags": []
    }
   ]
