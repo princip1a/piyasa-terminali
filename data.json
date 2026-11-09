@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T04:38:34.377358+00:00",
+ "generated": "2026-11-09T05:38:55.667468+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4132.5,
-   "c": 1.41,
-   "d": 57.6,
+   "p": 4130.7,
+   "c": 1.37,
+   "d": 55.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.16,
-   "c": 2.62,
-   "d": 1.357,
+   "p": 53.04,
+   "c": 2.39,
+   "d": 1.237,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 91.34,
-   "c": 0.56,
-   "d": 0.51,
+   "p": 90.64,
+   "c": -0.21,
+   "d": -0.19,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 98.39,
-   "c": 0.07,
-   "d": 0.07,
+   "p": 97.55,
+   "c": -0.78,
+   "d": -0.77,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.154,
-   "c": -0.14,
-   "d": -0.146,
+   "p": 102.108,
+   "c": -0.19,
+   "d": -0.192,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1659,
-   "c": 0.03,
-   "d": 0.013,
+   "p": 50.149,
+   "c": -0.01,
+   "d": -0.004,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74965,
-   "c": -1.19,
+   "p": 74268,
+   "c": -2.0,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2141.36,
-   "c": -4.21,
+   "p": 2126.53,
+   "c": -4.81,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 87.6,
-   "c": -1.73,
+   "p": 86.83,
+   "c": -2.65,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.11,
-   "c": -4.49,
+   "p": 1.1,
+   "c": -5.37,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 688.53,
-   "c": -1.02,
+   "p": 683.73,
+   "c": -1.76,
    "k": "usd"
   }
  ],
@@ -494,12 +494,30 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Latest Oil Market News and Analysis for Nov. 9",
+    "tt": "9 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
+    "ss": "Petrol fiyatları, tüccarların bölgedeki yeni saldırılara karşı ABD-İran anlaşmazlığını sona erdirmeye yönelik diplomatik çabalara ağırlık vermesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+    "ts": 1794179007000,
+    "tags": []
+   },
+   {
     "t": "Asian Stocks Rally on Tech Rebound, Taiwan Surges: Markets Wrap",
     "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
     "s": "Asian stocks rebounded from their biggest selloff in more than 18 months, with Taiwan leading gains after local authorities introduced measures to restore investor confidence. Treasuries fell.",
     "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
     "ts": 1794176451000,
+    "tags": []
+   },
+   {
+    "t": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+    "tt": "Çin, %24 ABD Tarifelerindeki Duraklatmayı Ocak Ayına Kadar Uzattı, %10 Oranını Korudu",
+    "s": "China will suspend an additional 24% tariff on US goods for another two months, formalizing a decision by the two countries’ leaders to prolong their trade truce until next January.",
+    "ss": "Çin, iki ülke liderlerinin ticaret ateşkesini önümüzdeki Ocak ayına kadar uzatma kararını resmileştirerek, ABD mallarına yönelik ek %24'lük gümrük vergisini iki ay daha askıya alacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate",
+    "ts": 1794198995000,
     "tags": []
    },
    {
@@ -527,15 +545,6 @@
     "ss": "Asya'nın en kötü performans gösteren ekonomik büyümelerinden biri olan Filipinler'in ekonomik büyümesi, tarım üretiminin zayıf olması, yüksek enerji maliyetleri ve El Niño'nun görünümü bulandırmaya devam etmesi nedeniyle üst üste beşinci çeyrekte beklenmedik şekilde yavaşladı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
     "ts": 1794189824000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 9",
-    "tt": "9 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil steadied after its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
-    "ss": "Petrol fiyatları, tüccarların bölgedeki yeni saldırılara karşı ABD-İran anlaşmazlığını sona erdirmeye yönelik diplomatik çabalara ağırlık vermesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
-    "ts": 1794179007000,
     "tags": []
    },
    {
@@ -573,20 +582,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
     "ts": 1794186270000,
     "tags": []
-   },
-   {
-    "t": "Gold Gains as Oil Extends Fall and Nvidia Probe Rattles Markets",
-    "tt": "Altın, ABD İş Verileri Hayranlarının Aralık Faiz Oranı Artırım Bahisleri Nedeniyle Düşüşünü Sürdürüyor",
-    "s": "Gold rose, erasing Friday’s decline, as oil extended a fall and an investigation into Nvidia Corp.’s chief executive officer weighed on technology stocks.",
-    "ss": "Altın, ABD'den gelen güçlü istihdam verilerinin Fed'in enflasyonla mücadele için faiz oranlarını artırmaya çalışacağı beklentilerini güçlendirmesinin ardından hafta sonu gerilemesini sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
-    "ts": 1794181210000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
    }
   ],
   "CNBC": [
@@ -884,11 +879,65 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "ABD Dışişleri Bakanı'ndan İran görüşmeleriyle ilgili negatif çıkış",
+    "tt": null,
+    "s": "ABD Dışişleri Bakanı Marco Rubio, İran'ın taleplerinin gerçekçi olmadığını ve kabul edilmesinin mümkün olmadığını belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-disisleri-bakani-ndan-iran-gorusmeleriyle-ilgili-negatif-cikis-3793899",
+    "ts": 1794202299000,
+    "tags": []
+   },
+   {
+    "t": "Wall Street stratejistleri piyasada alım fırsatı görüyor",
+    "tt": null,
+    "s": "ABD hisseleri ara seçimlerinin ardından düşse de birçok stratejist satışları bir alım fırsatı olarak değerlendiriyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/wall-street-stratejistleri-piyasada-alim-firsati-goruyor-3793898",
+    "ts": 1794201395000,
+    "tags": []
+   },
+   {
+    "t": "Küresel piyasalarda teknolojik toparlanma",
+    "tt": null,
+    "s": "Nvidia, CEO Huang'ın Çin adına casusluk yaptığından şüphelenilen bir kişiyle ilişkisi olduğuna yönelik haberlerin ardından inceleme başlattı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-teknolojik-toparlanma-3793897",
+    "ts": 1794201119000,
+    "tags": []
+   },
+   {
+    "t": "Petrolde 'diplomatik' denge",
+    "tt": null,
+    "s": "Petrolde bölgedeki çatışmalar baskı yaratmaya devam ederken ABD-İran arasındaki diplomatik temas çabaları denge getirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrolde-diplomatik-denge-3793896",
+    "ts": 1794200802000,
+    "tags": []
+   },
+   {
+    "t": "Çin'den ABD tarifeleriyle ilgili yeni adım",
+    "tt": null,
+    "s": "Çin, ABD mallarına uyguladığı yüzde 24'lük ek gümrük vergisini iki ay süreyle daha askıya alarak iki ülke liderinin ticaret ateşkesini önümüzdeki Ocak ayına kadar uzatma kararını resmiyete döktü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-den-abd-tarifeleriyle-ilgili-yeni-adim-3793895",
+    "ts": 1794200284000,
+    "tags": []
+   },
+   {
+    "t": "Küresel kamuoyunun gözü COP31'de olacak",
+    "tt": null,
+    "s": "Türkiye'nin ilk kez ev sahipliği yapacağı, iklim değişikliği ile mücadelede dünyanın en önemli organizasyonu olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31), Antalya COP31 Alanı'nda başlıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-kamuoyunun-gozu-cop31-de-olacak-3793894",
+    "ts": 1794199732000,
+    "tags": []
+   },
+   {
     "t": "Altın yeni haftaya pozitif girdi",
     "tt": null,
     "s": "Altın fiyatları, petrolün düşüşünü sürdürmesi ve Nvidia CEO'su hakkındaki soruşturmanın teknoloji hisselerini baskılamasıyla Cuma günkü kayıplarını telafi ederek yeniden yükseldi.",
     "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/altin-yeni-haftaya-pozitif-girdi-3793893",
+    "u": "https://www.bloomberght.com/altin-yeni-haftaya-pozitif-girdi-3793893",
     "ts": 1794199072000,
     "tags": []
    },
@@ -897,7 +946,7 @@
     "tt": null,
     "s": "Çin'de yükselen enerji maliyetlerinin fabrikaların giderlerini artırmasıyla üretici fiyatları Haziran 2022'den bu yana en hızlı artışını kaydederken, tüketici fiyatlarındaki yavaşlamanın önüne geçilemedi.",
     "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/cin-de-uretici-enflasyonu-2022-den-bu-yana-en-yuksek-seviyede-3793892",
+    "u": "https://www.bloomberght.com/cin-de-uretici-enflasyonu-2022-den-bu-yana-en-yuksek-seviyede-3793892",
     "ts": 1794198699000,
     "tags": []
    },
@@ -906,7 +955,7 @@
     "tt": null,
     "s": "Nvidia Yönetim Kurulu, kurucu ortak ve Üst Yönetici (CEO) Jensen Huang'ın Çin istihbaratına çalıştığından şüphelenilen bir kadınla kişisel ilişki yaşadığını kabul etmesinin ardından bağımsız bir soruşturma başlattı.",
     "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/nvidia-ceo-sundan-evlilik-disi-iliskin-itirafi-casusluk-suphesi-sorusturmaya-dondu-3793891",
+    "u": "https://www.bloomberght.com/nvidia-ceo-sundan-evlilik-disi-iliskin-itirafi-casusluk-suphesi-sorusturmaya-dondu-3793891",
     "ts": 1794196065000,
     "tags": []
    },
@@ -915,62 +964,8 @@
     "tt": null,
     "s": "Apple'ın eski CEO'su ve şu anda şirketin yönetim kurulu başkanı olan Tim Cook, İstanbul'a geldi.",
     "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/eski-apple-ceo-su-tim-cook-un-istanbul-ziyareti-3793890",
+    "u": "https://www.bloomberght.com/eski-apple-ceo-su-tim-cook-un-istanbul-ziyareti-3793890",
     "ts": 1794161940000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de Demokratların zaferi 1,5 trilyon dolarlık savunma bütçesini riske soktu",
-    "tt": null,
-    "s": "Cumhuriyetçilerin ara seçim yenilgisi, Orta Doğu'da kamuoyu desteğini kaybeden savaşın gölgesinde Başkan Donald Trump'ın 1,5 trilyon dolarlık rekor savunma bütçesi talebinin Kongre'den geçme umutlarını tamamen söndürdü.",
-    "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/abd-de-demokratlarin-zaferi-1-5-trilyon-dolarlik-savunma-butcesini-riske-soktu-3793889",
-    "ts": 1794158514000,
-    "tags": []
-   },
-   {
-    "t": "Anadolu Grubu 3. çeyrekte beklentileri aşarken, geçen yılın gerisinde kaldı",
-    "tt": null,
-    "s": "Anadolu Grubu Holding, 2026 yılının üçüncü çeyreğinde 2,4 milyar TL net kâr açıklayarak 2,2 milyar TL'lik piyasa beklentisinin üzerinde bir performans sergiledi.",
-    "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/anadolu-grubu-3-ceyrekte-beklentileri-asarken-gecen-yilin-gerisinde-kaldi-3793888",
-    "ts": 1794148786000,
-    "tags": []
-   },
-   {
-    "t": "Suudiler, kritik petrol hattını genişletmeyi planlıyor",
-    "tt": null,
-    "s": "Suudi Arabistan'ın milli petrol şirketi Saudi Aramco, Doğu-Batı Petrol Boru Hattı'nın genişletilmesi çalışmalarına başladığını ve 3 haftadan kısa süre içinde günlük 12 milyon varil olan azami üretim kapasitesine ulaşabileceğini duyurdu.",
-    "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/suudiler-kritik-petrol-hattini-genisletmeyi-planliyor-3793886",
-    "ts": 1794130558000,
-    "tags": []
-   },
-   {
-    "t": "Riyad'daki Aramco binasına saldırı",
-    "tt": null,
-    "s": "Suudi Arabistan'ın başkenti Riyad'daki Aramco binası saldırı sonrası hasar gördü",
-    "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/riyad-daki-aramco-binasina-saldiri-3793885",
-    "ts": 1794130110000,
-    "tags": []
-   },
-   {
-    "t": "Çin'de 2026 enerjide rekor yatırım yılı olacak",
-    "tt": null,
-    "s": "Çin İşletme Reformu ve Geliştirme Derneği tarafından yayımlanan 2026 Küresel Enerji Dönüşümü Raporu'na göre Çin, 2026 yılında enerjiye 940 milyar dolar yatırım yapacak.",
-    "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/cin-de-2026-enerjide-rekor-yatirim-yili-olacak-3793884",
-    "ts": 1794123193000,
-    "tags": []
-   },
-   {
-    "t": "Kriptoda 'mavi dalga' baskısı: Trump destekli oyun bitiyor mu?",
-    "tt": null,
-    "s": "Kripto para sektörünün Washington'da yakaladığı siyasi destek, Demokratların ara seçimlerdeki zaferinin ardından riske girdi.",
-    "ss": null,
-    "u": "https://bbstagedesktop.ciner.com.tr/kriptoda-mavi-dalga-baskisi-trump-destekli-oyun-bitiyor-mu-3793883",
-    "ts": 1794122415000,
     "tags": []
    }
   ]
