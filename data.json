@@ -1,79 +1,79 @@
 {
- "generated": "2026-11-09T18:40:37.021282+00:00",
+ "generated": "2026-11-09T19:45:05.860436+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7546.58,
-   "c": 2.3,
-   "d": 169.72,
+   "p": 7561.7,
+   "c": 2.51,
+   "d": 184.84,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25192.678,
-   "c": 2.49,
-   "d": 613.248,
+   "p": 25282.648,
+   "c": 2.86,
+   "d": 703.218,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52409.26,
-   "c": 2.19,
-   "d": 1123.53,
+   "p": 52509.35,
+   "c": 2.39,
+   "d": 1223.62,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.38,
-   "c": -20.51,
-   "d": -5.26,
+   "p": 20.41,
+   "c": -20.4,
+   "d": -5.23,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4114.7,
-   "c": 0.98,
-   "d": 39.8,
+   "p": 4122.0,
+   "c": 1.16,
+   "d": 47.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.8,
-   "c": 1.92,
-   "d": 0.997,
+   "p": 52.96,
+   "c": 2.23,
+   "d": 1.157,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.65,
-   "c": -3.5,
-   "d": -3.18,
+   "p": 87.08,
+   "c": -4.13,
+   "d": -3.75,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.65,
-   "c": -4.75,
-   "d": -4.67,
+   "p": 92.74,
+   "c": -5.68,
+   "d": -5.58,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.804,
-   "c": -0.48,
-   "d": -0.496,
+   "p": 101.748,
+   "c": -0.54,
+   "d": -0.552,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.874,
-   "c": 0.31,
-   "d": 0.015,
+   "p": 4.872,
+   "c": 0.27,
+   "d": 0.013,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.1766,
+   "p": 50.1765,
    "c": 0.05,
    "d": 0.024,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74579,
-   "c": -1.7,
+   "p": 75095,
+   "c": -0.95,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2124.25,
-   "c": -4.89,
+   "p": 2139.13,
+   "c": -4.08,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.62,
-   "c": -3.32,
+   "p": 86.86,
+   "c": -2.99,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.094,
-   "c": -5.46,
+   "p": 1.099,
+   "c": -4.77,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 686.4,
-   "c": -1.51,
+   "p": 688.94,
+   "c": -1.13,
    "k": "usd"
   }
  ],
@@ -494,6 +494,72 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Concentration Risk A 'Serious Issue': Rob Arnott",
+    "tt": null,
+    "s": "Rob Arnott, chairman & founder of Syzygy Asset Management, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" A renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fe",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/concentration-risk-a-serious-issue-rob-arnott-video",
+    "ts": 1794253186000,
+    "tags": []
+   },
+   {
+    "t": "Violent Tech Rout Will Avoid a 20% Drawdown: Markets Pulse",
+    "tt": null,
+    "s": "A $2.3 trillion wipeout in Nasdaq 100 stocks will stop short of sending the benchmark into a bear market, or a 20% drop from recent highs, according to the latest Markets Pulse survey.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/violent-tech-rout-will-avoid-a-20-drawdown-markets-pulse",
+    "ts": 1794252236000,
+    "tags": []
+   },
+   {
+    "t": "Gold Advances as Oil, Dollar Retreat and Equities Rebound",
+    "tt": null,
+    "s": "Gold rose as oil prices and the US dollar slid, while a rebound in equities bolstered risk appetite.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+    "ts": 1794181210000,
+    "tags": [
+     "Altın ▲",
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "US Natural Gas Surges Most in Six Weeks, Triggers Short Squeeze",
+    "tt": null,
+    "s": "US natural gas futures rose by as much as 8%, the most since September, after forecasts for cooler weather across the Atlantic seaboard gave prices an upward push and forced hedge funds to unwind bearish bets.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/us-natural-gas-jumps-as-cooler-forecasts-trigger-short-covering",
+    "ts": 1794235625000,
+    "tags": []
+   },
+   {
+    "t": "Corn Hits Fresh Four-Month Low as USDA Seen Raising World Supply",
+    "tt": null,
+    "s": "Corn prices slipped to the lowest since July 1 ahead of the US Department of Agriculture’s monthly supply and demand outlook that’s expected to show larger global supplies of the yellow grain.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/corn-hits-fresh-four-month-low-as-usda-seen-raising-world-supply",
+    "ts": 1794251684000,
+    "tags": []
+   },
+   {
+    "t": "China Sells Debut Green Bond in Canada Amid Robust Demand",
+    "tt": null,
+    "s": "China priced its debut yuan-denominated green bond sale in Canada after attracting robust demand, expanding its offshore debt footprint to finance sustainable projects as ties between the two nations warm.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-starts-marketing-green-bonds-for-debut-sales-in-canada",
+    "ts": 1794196925000,
+    "tags": []
+   },
+   {
+    "t": "Aluminum Faces Severe Squeeze as LME Market Awaits New Supply",
+    "tt": null,
+    "s": "The aluminum market is in the grips of a major supply squeeze fueled by declining stockpiles of the crucial industrial commodity, with buyers facing rising prices for spot metal and little immediate prospect of relief.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/aluminum-faces-severe-squeeze-as-lme-market-awaits-new-supply",
+    "ts": 1794230950000,
+    "tags": []
+   },
+   {
     "t": "Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets Wrap",
     "tt": "Nvidia'nın Sıkıntılarına Rağmen Alıcıların Adım Atmasıyla Hisse Senetleri Tırmanıyor: Piyasalar Sarılıyor",
     "s": "A renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell.",
@@ -503,94 +569,34 @@
     "tags": []
    },
    {
-    "t": "Ecopetrol Taps Bond Market for the First Time in Two Years",
-    "tt": "Ecopetrol İki Yıl Sonra İlk Kez Tahvil Piyasasını Destekledi",
-    "s": "Ecopetrol SA is offering dollar bonds for the first time in more than two years, the second Colombian company to tap global markets this month as it refinances debt used to fund its expansion in Brazil.",
-    "ss": "Ecopetrol SA, iki yıldan fazla bir süredir ilk kez dolar tahvili teklif ediyor ve Brezilya'daki genişlemesini finanse etmek için kullanılan borcu yeniden finanse ederek bu ay küresel piyasalara giren ikinci Kolombiyalı şirket oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years",
-    "ts": 1794244302000,
-    "tags": []
-   },
-   {
-    "t": "Australia Watchdog Probes Bathla as Private Credit Flaws Persist",
+    "t": "BLS Will Not Publish 12-Month CPI, Core CPI Figures For October",
     "tt": null,
-    "s": "Australia’s corporate regulator has opened an investigation into insolvent Sydney developer Bathla Group as its latest surveillance showed that poor practices persist in the country’s A$250 billion ($172 billion) private credit industry.",
+    "s": "The closely watched consumer price index report will be missing some key numbers this week: the 12-month percent change.",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
-    "ts": 1794247200000,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
+    "ts": 1794251151000,
     "tags": []
    },
    {
-    "t": "The AI Situation Has Never Been More Fraught",
+    "t": "Most Treasuries Fall as Investors Regain Risk Appetite",
     "tt": null,
-    "s": "And Jensen Huang is just part of the story.",
+    "s": "Most Treasuries fell as investor appetite for riskier assets including stocks and corporate bonds recovered, damping the appeal of US government bonds as a hedge.",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ai-situation-has-never-been-more-fraught",
-    "ts": 1794247030000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Falls as CEO Jensen Huang Admits to Affair With Alleged Spy",
-    "tt": null,
-    "s": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/bloomberg-surveillance-11-9-2026-video",
-    "ts": 1794246064000,
-    "tags": []
-   },
-   {
-    "t": "Mexico Inflation Jumps to Put Focus on Banxico’s Rate Policy",
-    "tt": "Meksika Enflasyonu Banxico'nun Faiz Politikasına Odaklanmak İçin Atlıyor",
-    "s": "Mexico’s annual inflation accelerated more than expected in October, likely to intensify scrutiny of the central bank’s decision last week to cut interest rates in the face of persistent price pressures.",
-    "ss": "Meksika'nın yıllık enflasyonu Ekim ayında beklenenden fazla hızlandı; bu durum muhtemelen merkez bankasının geçen hafta ısrarlı fiyat baskıları karşısında faiz oranlarını düşürme kararına ilişkin incelemeleri yoğunlaştıracak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus",
-    "ts": 1794227295000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny",
-    "tt": "Özel Kredinin Hızlı Büyümesi Bölgesel Fed Bankalarının Dikkatine Çekildi",
-    "s": "Two regional Fed Banks are aiming to look at how lending standards are evolving in the rapidly growing private credit industry through a new survey announced Monday.",
-    "ss": "İki bölgesel Fed Bankası, Pazartesi günü açıklanan yeni bir anket aracılığıyla hızla büyüyen özel kredi sektöründe kredi standartlarının nasıl geliştiğini incelemeyi amaçlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/private-credit-s-rapid-growth-draws-regional-fed-banks-scrutiny",
-    "ts": 1794245790000,
-    "tags": []
-   },
-   {
-    "t": "Fox Looks to Sell $8 Billion of High-Grade Bonds for Roku Deal",
-    "tt": "Fox, Roku Anlaşması İçin 8 Milyar Dolarlık Yüksek Dereceli Tahvil Satmayı Planlıyor",
-    "s": "Fox Corp. is looking to raise around $8 billion from an investment-grade bond sale to help fund its acquisition of Roku Inc.",
-    "ss": "Fox Corp., Roku Inc.'i satın almasının finansmanına yardımcı olmak için yatırım amaçlı tahvil satışından yaklaşık 8 milyar dolar elde etmeyi planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/fox-holds-investor-calls-before-planned-bond-sale-for-roku-deal",
-    "ts": 1794235389000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Faces a National Security Reckoning",
-    "tt": "Nvidia Ulusal Güvenlik Hesaplaşmasıyla Karşı Karşıya",
-    "s": "Admiral James Stavridis says allegations involving Nvidia CEO Jensen Huang and a woman whose company was reportedly linked to chip transfers to China warrant serious scrutiny. Congress and Nvidia's board face questions about security risks, oversight, and what officials knew. (Source: Bloomberg)",
-    "ss": "Amiral James Stavridis, Nvidia CEO'su Jensen Huang ve şirketinin Çin'e çip transferleriyle bağlantılı olduğu bildirilen bir kadınla ilgili iddiaların ciddi bir inceleme gerektirdiğini söyledi. Kongre ve Nvidia'nın yönetim kurulu, güvenlik riskleri, gözetim ve yetkililerin ne bildiği konusunda sorularla karşı karşıya. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-faces-a-national-security-reckoning-video",
-    "ts": 1794244303000,
-    "tags": []
-   },
-   {
-    "t": "Odd Lots: This Is How New York City Takes Out Its Trash",
-    "tt": "Tuhaf Lotlar: New York Şehri Çöplerini Bu Şekilde Çıkarıyor",
-    "s": "Trash collection in New York is one of the last free and unlimited services offered by the city, according to Joshua Goodman. On this episode of the Odd Lots podcast, Tracy Alloway and Joe Weisenthal talk to the DSNY's deputy commissioner for public affairs and customer experience about the 24 milli",
-    "ss": "Joshua Goodman'a göre New York'ta çöp toplama, şehrin sunduğu son ücretsiz ve sınırsız hizmetlerden biri. Odd Lots podcast'inin bu bölümünde Tracy Alloway ve Joe Weisenthal, DSNY'nin halkla ilişkiler ve müşteri deneyiminden sorumlu komiser yardımcısıyla 24 milyon",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/odd-lots-this-is-how-new-york-city-takes-out-its-trash-video",
-    "ts": 1794244184000,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/treasuries-fall-before-auction-as-investors-regain-risk-appetite",
+    "ts": 1794243814000,
     "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+    "tt": null,
+    "s": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+    "ts": 1794249961000,
+    "tags": []
+   },
    {
     "t": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
     "tt": null,
@@ -683,23 +689,27 @@
     "u": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
     "ts": 1793883430000,
     "tags": []
-   },
-   {
-    "t": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-    "tt": "Seçim hisselerindeki satışların ortasında yatırımcılar güvenlik için tahvillere yönelirken hazine getirileri düşüyor",
-    "s": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-    "ss": "Hazine getirileri Salı gecesi, yatırımcıların ABD ara seçimlerinde Demokratların kazandığı büyük zaferlerin yol açtığı hisse senedi vadeli kontratlarındaki satışlardan korunmak için sığınma aramasıyla düştü.",
-    "u": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "ts": 1793827124000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
    }
   ],
   "MarketWatch": [
+   {
+    "t": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000",
+    "tt": null,
+    "s": "‘I don’t think there’s much ability for us to avoid this being the most expensive Thanksgiving on record’ for gas prices, says Patrick De Haan at GasBuddy",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b?mod=mw_rss_topstories",
+    "ts": 1794253560000,
+    "tags": []
+   },
+   {
+    "t": "What employers should do to build a pipeline of talented Gen Z workers",
+    "tt": null,
+    "s": "Employers can do more to support career and technical education programs.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/what-employers-should-do-to-build-a-pipeline-of-talented-gen-z-workers-31c0e9b9?mod=mw_rss_topstories",
+    "ts": 1794252480000,
+    "tags": []
+   },
    {
     "t": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
     "tt": null,
@@ -777,27 +787,45 @@
     "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
     "ts": 1794245400000,
     "tags": []
-   },
-   {
-    "t": "There is no one at Nvidia who would be ready to replace Jensen Huang",
-    "tt": "Nvidia'da Jensen Huang'ın yerini almaya hazır kimse yok",
-    "s": "Nvidia’s CEO has an “outsize role and unclear succession.”",
-    "ss": "Nvidia'nın CEO'sunun \"çok büyük bir rolü ve belirsiz bir halefiyeti\" var.",
-    "u": "https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories",
-    "ts": 1794244860000,
-    "tags": []
-   },
-   {
-    "t": "Why renters are obsessed with these $300 ‘boneless couches’",
-    "tt": "Kiracılar neden bu 300 dolarlık 'kemiksiz kanepelere' takıntılı?",
-    "s": "Black Friday could be the perfect time to buy one.",
-    "ss": "Kara Cuma, bir tane satın almak için mükemmel bir zaman olabilir.",
-    "u": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
-    "ts": 1794241560000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "NatGas Shorts \"Forced To Cover\" As US Cold Blast Threatens Record Hedge Fund Bear Bets",
+    "tt": null,
+    "s": "NatGas Shorts \"Forced To Cover\" As US Cold Blast Threatens Record Hedge Fund Bear Bets US natural gas futures jumped Monday morning as forecasts shifted sharply colder across the Mid-Atlantic and Northeast, colliding with the record hedge fund short position we flagged Sunday. Incoming Cold Blast \"A",
+    "ss": null,
+    "u": "https://www.zerohedge.com/energy/natgas-shorts-forced-cover-us-cold-blast-threatens-record-hedge-fund-bear-bets",
+    "ts": 1794252000000,
+    "tags": []
+   },
+   {
+    "t": "Lacalle: Republicans Gave Voters 'Mild Socialism' - And Lost...",
+    "tt": null,
+    "s": "Lacalle: Republicans Gave Voters 'Mild Socialism' - And Lost... Authored by Daniel Lacalle , Republicans Abandoned Libertarian Principles… and Lost the Elections Tuesday's midterm elections were a rout. Democrats picked up seven Senate seats, including Texas, Kansas, South Carolina, Iowa, and Ohio, ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/lacalle-republicans-gave-voters-mild-socialism-and-lost",
+    "ts": 1794251100000,
+    "tags": []
+   },
+   {
+    "t": "Boeing To Cut Thousands Of Workers As Slower Factory Ramp Leaves It \"Overstaffed\"",
+    "tt": null,
+    "s": "Boeing To Cut Thousands Of Workers As Slower Factory Ramp Leaves It \"Overstaffed\" Less than two weeks after Boeing slashed its commercial aircraft delivery outlook, which sent shares tumbling, a report on Monday afternoon says the 737 planemaker is preparing to cut thousands of jobs . CNBC cites Ste",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/boeing-cut-thousands-workers-slower-factory-ramp-leaves-it-overstaffed",
+    "ts": 1794250200000,
+    "tags": []
+   },
+   {
+    "t": "Record Directs Save Ugly 3Y Auction, As Slide In Foreign Demand Leads To Biggest Tail Since May",
+    "tt": null,
+    "s": "Record Directs Save Ugly 3Y Auction, As Slide In Foreign Demand Leads To Biggest Tail Since May In the week's first coupon auciton (we have an accelerated schedule due to Veteran's Day when cash bonds are shut for trading), the Treasury sold $58BN in 3 Year paper in what was a mediocre sale. The hig",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/record-directs-save-ugly-3y-auction-slide-foreign-demand-leads-biggest-tail-may",
+    "ts": 1794249917000,
+    "tags": []
+   },
    {
     "t": "The Further Revenge Of The Barbarous Relic (No Apologies To J.M. Keynes)",
     "tt": null,
@@ -860,45 +888,36 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "Car Rams Through Security Area Near White House; Driver Shouts \"Oh My God\" As Agents Make Arrest",
-    "tt": "Beyaz Saray Yakınındaki Güvenlik Alanından Araba Çarptı; Ajanlar Tutuklanırken Sürücü \"Aman Tanrım\" Diye Bağırdı",
-    "s": "Car Rams Through Security Area Near White House; Driver Shouts \"Oh My God\" As Agents Make Arrest Latest Daily Wire White House reporter Mary Margaret Olohan provided an update: NEW: Secret Service spokesman tells @realDailyWire of the incident at the White House:&nbsp; Just before 10:00 a.m., Secret",
-    "ss": "Beyaz Saray Yakınındaki Güvenlik Alanından Araba Çarptı; Ajanlar Tutuklanırken Sürücü \"Aman Tanrım\" Diye Bağırdı Fox News, Gizli Servis ajanlarının Pazartesi sabahı Beyaz Saray yakınındaki bir güvenlik alanına bir arabanın çarpması sonrasında iki kişiyi tutukladığını bildirdi. SON DAKİKA: Gizli Servis araba kazasından sonra iki kişiyi tutukladı ve",
-    "u": "https://www.zerohedge.com/political/car-rams-through-security-area-near-white-house-driver-shouts-oh-my-god-agents-make",
-    "ts": 1794243190000,
-    "tags": []
-   },
-   {
-    "t": "Saudi East-West Pipeline Again Hit By Drone, But Stays Operational",
-    "tt": "Suudi Doğu-Batı Boru Hattı Yine Drone Tarafından Vuruldu, Ancak Faaliyete Devam Ediyor",
-    "s": "Saudi East-West Pipeline Again Hit By Drone, But Stays Operational Update(1252ET) : Saudi Arabia's East-West pipeline has been struck by in a drone attack once again. Saudi Energy Ministry authorities confirmed the attack Monday in the Madinah region, likley as a result of a Houthi attack out of Yem",
-    "ss": "Suudi Doğu-Batı Boru Hattı Yine Drone Tarafından Vuruldu, Ancak Operasyonel Olarak Kaldı Güncelleme(1252ET) : Suudi Arabistan'ın Doğu-Batı boru hattı bir kez daha drone saldırısıyla vuruldu. Suudi Enerji Bakanlığı yetkilileri Pazartesi günü Medine bölgesindeki saldırının muhtemelen Yem dışındaki bir Husi saldırısının sonucu olduğunu doğruladı.",
-    "u": "https://www.zerohedge.com/energy/drone-strike-shuts-down-northern-iraqs-largest-gas-field-plunging-region-darkness",
-    "ts": 1794243120000,
-    "tags": []
-   },
-   {
-    "t": "Blue Wave, Same Reactors: Nuclear Is The One Energy Source Washington Still Agrees On",
-    "tt": "Mavi Dalga, Aynı Reaktörler: Nükleer Washington'un Hala Kabul Ettiği Tek Enerji Kaynağıdır",
-    "s": "Blue Wave, Same Reactors: Nuclear Is The One Energy Source Washington Still Agrees On Nuclear stocks spent the three days after the midterms trading like Democrats had campaigned on shutting down reactors : Oklo closed on Election Day at $23.49 By Thursday it had hit a fresh 52-week low and closed a",
-    "ss": "Mavi Dalga, Aynı Reaktörler: Nükleer Tek Enerji Kaynağıdır Washington Hala Nükleer Hisse Senetleri Ara Dönemlerin Ardından Üç Günü Demokratların Reaktörlerin Kapatılması İçin Kampanya Yaptığı Gibi Alım Satımıyla Geçirdi: Oklo Seçim Günü 23,49 Dolardan Kapandı",
-    "u": "https://www.zerohedge.com/energy/blue-wave-same-reactors-nuclear-one-energy-source-washington-still-agrees",
-    "ts": 1794243000000,
-    "tags": []
-   },
-   {
-    "t": "Cold Blast Puts Mid-Atlantic, Northeast On Watch For Season's First Snowstorm",
-    "tt": "Soğuk Patlama Orta Atlantik ve Kuzeydoğu'yu Sezonun İlk Kar Fırtınasına Hazırlıyor",
-    "s": "Cold Blast Puts Mid-Atlantic, Northeast On Watch For Season's First Snowstorm We've already outlined how crowded bearish positioning among hedge funds in US natural gas futures could leave the market vulnerable to a short squeeze next week, as forecasts point to a cold blast across the eastern half ",
-    "ss": "Soğuk Patlama Orta Atlantik ve Kuzeydoğu'yu Sezonun İlk Kar Fırtınasına Hazırlıyor ABD doğal gaz vadeli işlemlerinde hedge fonları arasındaki kalabalık düşüş eğiliminin, tahminlerin doğu yarıda bir soğuk hava dalgasına işaret etmesi nedeniyle piyasayı önümüzdeki hafta kısa süreli bir daralmaya karşı nasıl savunmasız bırakabileceğini zaten özetlemiştik.",
-    "u": "https://www.zerohedge.com/weather/cold-blast-puts-mid-atlantic-northeast-watch-seasons-first-snow-storm",
-    "ts": 1794242100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Apple, Türkiye'ye uzun vadeli yatırım yapacağını duyurdu",
+    "tt": null,
+    "s": "Apple, Türkiye'ye yönelik uzun vadeli yatırım planı kapsamında beş geliştirici akademisi, bir geliştirici merkezi ve ABD dışındaki ilk üretim akademisini açacağını duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/apple-turkiye-ye-uzun-vadeli-yatirim-yapacagini-duyurdu-3794017",
+    "ts": 1794252828000,
+    "tags": []
+   },
+   {
+    "t": "Turkcell'den üçüncü çeyrekte 6,7 milyar TL net kâr",
+    "tt": null,
+    "s": "Turkcell'in net kârı 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 3,8 gerileyerek 6,7 milyar TL oldu. Şirketin kârı, 5,5 milyar TL seviyesindeki piyasa beklentisinin belirgin şekilde üzerinde gerçekleşti",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkcell-den-ucuncu-ceyrekte-6-7-milyar-tl-net-kr-3794015",
+    "ts": 1794250711000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia hisseleri, Huang soruşturmasının ardından sert düştü",
+    "tt": null,
+    "s": "Nvidia hisseleri, CEO Jensen Huang'ın yabancı istihbarat faaliyetinin hedefi olduğuna yönelik iddialar üzerine bağımsız soruşturma başlatılmasının ardından yüzde 7'yi aşan düşüşle güne başladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/nvidia-hisseleri-huang-sorusturmasinin-ardindan-sert-dustu-3794014",
+    "ts": 1794250258000,
+    "tags": []
+   },
    {
     "t": "SuperFresh'in \"Tarımın Kadın Yıldızları\" projesi COP31'de tanıtıldı",
     "tt": null,
@@ -960,33 +979,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/euro-bolgesi-nden-ortak-savunma-alimi-cagrisi-3794007",
     "ts": 1794244431000,
-    "tags": []
-   },
-   {
-    "t": "Erdoğan: Fon meselesinde en küçük bir taviz ve tavsama olmayacak",
-    "tt": null,
-    "s": "Cumhurbaşkanı Erdoğan, 17 Eylül'den bu yana gündemde olan fon meselesinin açıklanan yol haritası doğrultusunda çözüme kavuşturulduğunu belirterek, süreçte en küçük bir taviz verilmeyeceğini vurguladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/erdogan-fon-meselesinde-en-kucuk-bir-taviz-ve-tavsama-olmayacak-3794005",
-    "ts": 1794242309000,
-    "tags": []
-   },
-   {
-    "t": "İş Bankası COP31'de iklim finansmanı ve sürdürülebilir tarımı ele aldı",
-    "tt": null,
-    "s": "İş Bankası, COP31 kapsamında iklim finansmanı, sürdürülebilir tarım ve teknoloji odaklı çözümleri ele alırken, 22 dilde hizmet sunan yapay zeka asistanı Clara'yı da tanıttı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/is-bankasi-cop31-de-iklim-finansmani-ve-surdurulebilir-tarimi-ele-aldi-3794001",
-    "ts": 1794240189000,
-    "tags": []
-   },
-   {
-    "t": "Koç Holding'ten 2040'a kadar tatlı su çekimini yüzde 85 azaltma hedefi",
-    "tt": null,
-    "s": "Koç Holding, COP31 kapsamında 2025 baz yılına göre 2040'a kadar operasyonlarındaki tatlı su çekimini yüzde 85 azaltmayı hedeflediğini ve Water Resilience Coalition'a katıldığını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/koc-holding-den-2040-a-kadar-tatli-su-cekimini-yuzde-85-azaltma-hedefi-3793999",
-    "ts": 1794239676000,
     "tags": []
    }
   ]
