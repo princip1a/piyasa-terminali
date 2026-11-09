@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-09T16:53:48.959089+00:00",
+ "generated": "2026-11-09T17:47:16.609438+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7532.76,
-   "c": 2.11,
-   "d": 155.9,
+   "p": 7543.22,
+   "c": 2.26,
+   "d": 166.36,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25188.828,
-   "c": 2.48,
-   "d": 609.398,
+   "p": 25202.77,
+   "c": 2.54,
+   "d": 623.34,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52227.57,
-   "c": 1.84,
-   "d": 941.84,
+   "p": 52339.18,
+   "c": 2.05,
+   "d": 1053.45,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.93,
-   "c": -18.37,
-   "d": -4.71,
+   "p": 20.24,
+   "c": -21.06,
+   "d": -5.4,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4124.3,
-   "c": 1.21,
-   "d": 49.4,
+   "p": 4113.5,
+   "c": 0.95,
+   "d": 38.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.7,
-   "c": 1.73,
-   "d": 0.897,
+   "p": 52.69,
+   "c": 1.71,
+   "d": 0.887,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.8,
-   "c": -3.34,
-   "d": -3.03,
+   "p": 87.61,
+   "c": -3.55,
+   "d": -3.22,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.9,
-   "c": -4.5,
-   "d": -4.42,
+   "p": 93.64,
+   "c": -4.76,
+   "d": -4.68,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.842,
-   "c": -0.45,
-   "d": -0.458,
+   "p": 101.805,
+   "c": -0.48,
+   "d": -0.495,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.87,
-   "c": 0.23,
-   "d": 0.011,
+   "p": 4.878,
+   "c": 0.39,
+   "d": 0.019,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.1772,
+   "p": 50.1763,
    "c": 0.05,
-   "d": 0.024,
+   "d": 0.023,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74927,
-   "c": -1.06,
+   "p": 74602,
+   "c": -1.43,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2131.38,
-   "c": -4.37,
+   "p": 2118.91,
+   "c": -4.87,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.95,
-   "c": -2.29,
+   "p": 86.38,
+   "c": -2.92,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.099,
-   "c": -4.73,
+   "p": 1.093,
+   "c": -5.31,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 687.49,
-   "c": -1.14,
+   "p": 685.62,
+   "c": -1.37,
    "k": "usd"
   }
  ],
@@ -494,48 +494,72 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Tractor Maker CNH Gears Up for Farm Rally With Plant Revamp",
-    "tt": "Traktör Üreticisi CNH, Fabrika Yenilemesiyle Çiftlik Rallisi İçin Hızlanıyor",
-    "s": "Racine, Wisconsin, is famous for the circular Danish pastry known as a Kringle and gleaming red Case IH tractors made from scratch in a factory near the city’s harbor.",
-    "ss": "Racine, Wisconsin, Kringle olarak bilinen dairesel Danimarka hamur işi ve şehir limanı yakınındaki bir fabrikada sıfırdan yapılan parlak kırmızı Case IH traktörleriyle ünlüdür.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/tractor-maker-cnh-gears-up-for-farm-recovery-with-plant-revamp",
-    "ts": 1794164400000,
+    "t": "Mexico Inflation Jumps to Put Focus on Banxico’s Rate Policy",
+    "tt": "Meksika Enflasyonu Banxico'nun Faiz Politikasına Odaklanmak İçin Atlıyor",
+    "s": "Mexico’s annual inflation accelerated more than expected in October, likely to intensify scrutiny of the central bank’s decision last week to cut interest rates in the face of persistent price pressures.",
+    "ss": "Meksika'nın yıllık enflasyonu Ekim ayında beklenenden fazla hızlandı; bu durum muhtemelen merkez bankasının geçen hafta ısrarlı fiyat baskıları karşısında faiz oranlarını düşürme kararına ilişkin incelemeleri yoğunlaştıracak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/mexico-s-inflation-accelerates-with-banxico-rate-policy-in-focus",
+    "ts": 1794227295000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny",
+    "tt": "Özel Kredinin Hızlı Büyümesi Bölgesel Fed Bankalarının Dikkatine Çekildi",
+    "s": "Two regional Fed Banks are aiming to look at how lending standards are evolving in the rapidly growing private credit industry through a new survey announced Monday.",
+    "ss": "İki bölgesel Fed Bankası, Pazartesi günü açıklanan yeni bir anket aracılığıyla hızla büyüyen özel kredi sektöründe kredi standartlarının nasıl geliştiğini incelemeyi amaçlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/private-credit-s-rapid-growth-draws-regional-fed-banks-scrutiny",
+    "ts": 1794245790000,
     "tags": []
    },
    {
-    "t": "Tyson to Boost Beef Processing After a Year of Cuts",
-    "tt": "Tyson, Bir Yıllık Kesintilerin Ardından Sığır Eti İşlemesini Artıracak",
-    "s": "Tyson Foods Inc. is increasing its beef processing capacity, following a year of steep cutbacks as it grappled with a historic domestic cattle shortage.",
-    "ss": "Tyson Foods Inc., tarihi bir yerli sığır kıtlığıyla boğuştuğu bir yıl boyunca ciddi kesintiler yaşadıktan sonra sığır eti işleme kapasitesini artırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/tyson-to-boost-beef-processing-after-a-year-of-cuts",
-    "ts": 1794232800000,
+    "t": "Fox Looks to Sell $8 Billion of High-Grade Bonds for Roku Deal",
+    "tt": "Fox, Roku Anlaşması İçin 8 Milyar Dolarlık Yüksek Dereceli Tahvil Satmayı Planlıyor",
+    "s": "Fox Corp. is looking to raise around $8 billion from an investment-grade bond sale to help fund its acquisition of Roku Inc.",
+    "ss": "Fox Corp., Roku Inc.'i satın almasının finansmanına yardımcı olmak için yatırım amaçlı tahvil satışından yaklaşık 8 milyar dolar elde etmeyi planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/fox-holds-investor-calls-before-planned-bond-sale-for-roku-deal",
+    "ts": 1794235389000,
     "tags": []
    },
    {
-    "t": "Stocks Climb as Buyers Step In Despite Nvidia Woes",
-    "tt": "Nvidia'nın Sıkıntılarına Rağmen Alıcıların Adım Atmasıyla Hisse Senetleri Tırmanıyor",
-    "s": "A renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell. Lori Calvasina, Head of US Equity Strategy at RBC Capital Markets, discusses bearish sentiment in the markets and ",
-    "ss": "Wall Street'i sarsan teknoloji satışlarının ardından yenilenen dip alım dalgası, hisse senetlerini Nisan ayından bu yana en iyi gününe doğru sürükledi ve petrol fiyatları düşerken piyasa da yükseldi. RBC Capital Markets ABD Hisse Senedi Stratejisi Başkanı Lori Calvasina, piyasalardaki düşüş eğilimini tartışıyor ve",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/stocks-climb-as-buyers-step-in-despite-nvidia-woes-video",
-    "ts": 1794242509000,
+    "t": "Nvidia Faces a National Security Reckoning",
+    "tt": "Nvidia Ulusal Güvenlik Hesaplaşmasıyla Karşı Karşıya",
+    "s": "Admiral James Stavridis says allegations involving Nvidia CEO Jensen Huang and a woman whose company was reportedly linked to chip transfers to China warrant serious scrutiny. Congress and Nvidia's board face questions about security risks, oversight, and what officials knew. (Source: Bloomberg)",
+    "ss": "Amiral James Stavridis, Nvidia CEO'su Jensen Huang ve şirketinin Çin'e çip transferleriyle bağlantılı olduğu bildirilen bir kadınla ilgili iddiaların ciddi bir inceleme gerektirdiğini söyledi. Kongre ve Nvidia'nın yönetim kurulu, güvenlik riskleri, gözetim ve yetkililerin ne bildiği konusunda sorularla karşı karşıya. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-faces-a-national-security-reckoning-video",
+    "ts": 1794244303000,
     "tags": []
    },
    {
-    "t": "European Stocks Rise as Banking and Technology Sectors Advance",
-    "tt": "Avrupa Hisse Senetleri Bankacılık ve Teknoloji Sektörlerinin Gelişmesiyle Yükseliyor",
-    "s": "European stocks rose, with banks among the strongest gainers after better-than-expected earnings for Italy’s UniCredit SpA and a merger proposal for Banco BPM SpA.",
-    "ss": "İtalya'daki UniCredit SpA'nın beklenenden iyi elde ettiği kazançlar ve Banco BPM SpA için yapılan birleşme teklifinin ardından bankaların en güçlü kazananlar arasında yer almasıyla Avrupa hisseleri yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/european-stocks-rise-as-banks-technology-shares-advance",
-    "ts": 1794212802000,
+    "t": "Ecopetrol Taps Bond Market for the First Time in Two Years",
+    "tt": "Ecopetrol İki Yıl Sonra İlk Kez Tahvil Piyasasını Destekledi",
+    "s": "Ecopetrol SA is offering dollar bonds for the first time in more than two years, the second Colombian company to tap global markets this month as it refinances debt used to fund its expansion in Brazil.",
+    "ss": "Ecopetrol SA, iki yıldan fazla bir süredir ilk kez dolar tahvili teklif ediyor ve Brezilya'daki genişlemesini finanse etmek için kullanılan borcu yeniden finanse ederek bu ay küresel piyasalara giren ikinci Kolombiyalı şirket oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/ecopetrol-taps-bond-market-for-the-first-time-in-two-years",
+    "ts": 1794244302000,
     "tags": []
    },
    {
-    "t": "Oil Extends Drop on Hopes of Diplomatic Progress in Iran War",
-    "tt": "Petrol, İran Savaşında Diplomatik İlerleme Umutlarıyla Düşüşünü Sürdürüyor",
-    "s": "Oil extended a slump amid optimism around diplomatic efforts to end the war in the Middle East, even as attacks in the region continue.",
-    "ss": "Petrol, bölgedeki saldırılar devam ederken Ortadoğu'daki savaşı sona erdirmeye yönelik diplomatik çabalara ilişkin iyimserliğin etkisiyle düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/oil-falls-on-unconfirmed-report-that-iran-eased-hormuz-demands",
-    "ts": 1794224047000,
+    "t": "Odd Lots: This Is How New York City Takes Out Its Trash",
+    "tt": "Tuhaf Lotlar: New York Şehri Çöplerini Bu Şekilde Çıkarıyor",
+    "s": "Trash collection in New York is one of the last free and unlimited services offered by the city, according to Joshua Goodman. On this episode of the Odd Lots podcast, Tracy Alloway and Joe Weisenthal talk to the DSNY's deputy commissioner for public affairs and customer experience about the 24 milli",
+    "ss": "Joshua Goodman'a göre New York'ta çöp toplama, şehrin sunduğu son ücretsiz ve sınırsız hizmetlerden biri. Odd Lots podcast'inin bu bölümünde Tracy Alloway ve Joe Weisenthal, DSNY'nin halkla ilişkiler ve müşteri deneyiminden sorumlu komiser yardımcısıyla 24 milyon",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/odd-lots-this-is-how-new-york-city-takes-out-its-trash-video",
+    "ts": 1794244184000,
+    "tags": []
+   },
+   {
+    "t": "Oil Tanker Rates Extend Plunge, Still Trade at Very High Levels",
+    "tt": "Petrol Tankeri Oranları Düşüşü Uzatıyor, Ticaret Hala Çok Yüksek Seviyelerde",
+    "s": "The cost of shipping oil is continuing to plunge, even if rates remain at very high levels, potentially helping to make longer-distance crude trades more attractive.",
+    "ss": "Oranlar çok yüksek seviyelerde kalsa bile, petrol nakliye maliyeti düşmeye devam ediyor ve bu da potansiyel olarak uzun mesafeli ham petrol ticaretini daha cazip hale getirmeye yardımcı oluyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/oil-tanker-rates-extend-plunge-still-trade-at-very-high-levels",
+    "ts": 1794244028000,
     "tags": [
      "Petrol ▼",
      "DXY ▼",
@@ -544,51 +568,30 @@
     ]
    },
    {
-    "t": "Gold Advances as Oil, Dollar Retreat and Equities Rebound",
-    "tt": "Petrol, Doların Geri Çekilmesi ve Hisse Senetlerinin Yükselişiyle Altın Yükseliyor",
-    "s": "Gold rose as oil prices and the US dollar slid, while a rebound in equities bolstered risk appetite.",
-    "ss": "Altın, petrol fiyatları ve ABD dolarının değer kaybetmesiyle yükselirken, hisse senetlerindeki toparlanma risk iştahını destekledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
-    "ts": 1794181210000,
-    "tags": [
-     "Altın ▲",
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Krakow Gunman Dies as Poland Looks for Clues on Attack Motive",
-    "tt": "Polonya Saldırı Sebebiyle İlgili İpuçları Ararken Krakow'lu Silahlı Kişi Öldü",
-    "s": "A gunman responsible for Poland’s worst mass shooting in decades has died from wounds he suffered in a street battle with police as the country’s authorities search for clues about the motive of his attack.",
-    "ss": "Polonya'da onlarca yıldır yaşanan en kötü toplu silahlı saldırının sorumlusu olan silahlı adam, polisle girdiği sokak kavgasında aldığı yaralar nedeniyle öldü. Ülkedeki yetkililer bu saldırının nedeni hakkında ipuçları arıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/krakow-mass-shooter-dies-in-the-hospital-polish-police-says",
-    "ts": 1794205375000,
+    "t": "Treasuries Fall Before Auction as Investors Regain Risk Appetite",
+    "tt": "Yatırımcıların Yeniden Risk İştahı Kazanmasıyla Hazine Tahvilleri İhale Öncesi Düştü",
+    "s": "Treasuries fell as investor appetite for riskier assets including stocks and corporate bonds recovered, damping the appeal of US government bonds as a hedge.",
+    "ss": "Yatırımcıların hisse senetleri ve şirket tahvilleri dahil daha riskli varlıklara yönelik iştahının toparlanmasıyla hazine tahvilleri düştü ve ABD devlet tahvillerinin riskten korunma aracı olarak çekiciliği azaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/treasuries-fall-before-auction-as-investors-regain-risk-appetite",
+    "ts": 1794243814000,
     "tags": []
    },
    {
-    "t": "Explosion at Habas Steel Mill in Western Turkey Kills Three, Izmir Governor Says",
-    "tt": "İzmir Valisi, Türkiye'nin batısındaki Habaş Çelik Fabrikasında meydana gelen patlamada üç kişinin öldüğünü söyledi",
-    "s": "An explosion at a steel mill near Turkey’s western city of Izmir has killed 16 workers, President Recep Tayyip Erdogan said on Monday.",
-    "ss": "Vali Pazartesi günü yaptığı açıklamada, Türkiye'nin batısındaki İzmir kenti yakınlarındaki bir çelik fabrikasında meydana gelen patlamada 10 işçinin öldüğünü söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/explosion-at-habas-steel-mill-in-western-turkey-kills-three-izmir-governor-says",
-    "ts": 1794223843000,
+    "t": "Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets Wrap",
+    "tt": "Nvidia'nın Sıkıntılarına Rağmen Alıcıların Adım Atmasıyla Hisse Senetleri Tırmanıyor: Piyasalar Sarılıyor",
+    "s": "A renewed wave of dip buying drove stocks toward their best day since April in the wake of a technology selloff that roiled Wall Street, with the market also gaining as oil prices fell.",
+    "ss": "Wall Street'i sarsan teknoloji satışlarının ardından yenilenen dip alım dalgası, hisse senetlerini Nisan ayından bu yana en iyi gününe doğru sürükledi ve petrol fiyatları düşerken piyasa da yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794176451000,
     "tags": []
    },
    {
-    "t": "Nvidia’s Jensen Huang Problem",
-    "tt": "Nvidia'nın Jensen Huang Sorunu",
-    "s": "Nvidia CEO JensenHuang’s affair with an alleged Chinese spy is shaking up the entire AI world — a photo of the two has even gone viral. With the architect of the sector’s most valuable publicly listed company under scrutiny, Bloomberg Opinion columnist Shuli Ren asks if Nvidia’s money will keep flow",
-    "ss": "Nvidia CEO'su JensenHuang'ın Çinli bir casus olduğu iddia edilen kişiyle ilişkisi tüm yapay zeka dünyasını sarsıyor; hatta ikilinin bir fotoğrafı viral oldu. Sektörün halka açık en değerli şirketinin mimarı incelenirken Bloomberg Opinion köşe yazarı Shuli Ren, Nvidia'nın parasının akışını sürdürüp sürdürmeyeceğini soruyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/opinion-nvidia-s-jensen-huang-problem-video",
-    "ts": 1794240694000,
-    "tags": []
-   },
-   {
-    "t": "Agnellis’ CNH Plans Future Exit From Construction Equipment",
-    "tt": "Agnellis'in CNH'si Gelecekte İnşaat Ekipmanlarından Çıkışı Planlıyor",
-    "s": "CNH Industrial NV agreed to sell 70% of its construction equipment business to a unit of Japan’s Kobe Steel, creating a path for an eventual exit from those product lines for the Agnelli family-backed machinery maker.",
-    "ss": "CNH Industrial NV, inşaat ekipmanı işinin %70'ini Japon Kobe Steel'in bir birimine satmayı kabul ederek, Agnelli ailesi destekli makine üreticisi için bu ürün gruplarından nihai olarak çıkmanın yolunu açtı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/italy-s-agnellis-divest-further-with-700-million-cnh-stake-sale",
-    "ts": 1794212729000,
+    "t": "SharkNinja CEO on Tariffs and AI",
+    "tt": "SharkNinja Tarifeler ve Yapay Zeka CEO'su",
+    "s": "SharkNinja CEO Mark Barrocas joined Bloomberg Open Interest to explain the biggest drivers behind the company's growth--from viral product launches and international expansion to AI-powered shopping. He also discusses tariffs, holiday pricing and why the company is doubling down on products consumer",
+    "ss": "SharkNinja CEO'su Mark Barrocas, viral ürün lansmanlarından uluslararası genişlemeye ve yapay zeka destekli alışverişe kadar şirketin büyümesinin ardındaki en büyük etkenleri açıklamak için Bloomberg Open Interest'e katıldı. Ayrıca tarifeleri, tatil fiyatlarını ve şirketin tüketici ürünleri fiyatlarını neden iki katına çıkardığını da tartışıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/sharkninja-ceo-on-tariffs-and-ai-video",
+    "ts": 1794243442000,
     "tags": []
    }
   ],
@@ -703,6 +706,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "tt": "'Fikrini her zaman değiştirebilir': Dul bir kadın, aile evini üvey çocuklarına mı bırakmalı?",
+    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
+    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "ts": 1794245400000,
+    "tags": []
+   },
+   {
+    "t": "There is no one at Nvidia who would be ready to replace Jensen Huang",
+    "tt": "Nvidia'da Jensen Huang'ın yerini almaya hazır kimse yok",
+    "s": "Nvidia’s CEO has an “outsize role and unclear succession.”",
+    "ss": "Nvidia'nın CEO'sunun \"çok büyük bir rolü ve belirsiz bir halefiyeti\" var.",
+    "u": "https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories",
+    "ts": 1794244860000,
+    "tags": []
+   },
+   {
     "t": "Why renters are obsessed with these $300 ‘boneless couches’",
     "tt": "Kiracılar neden bu 300 dolarlık 'kemiksiz kanepelere' takıntılı?",
     "s": "Black Friday could be the perfect time to buy one.",
@@ -757,15 +778,6 @@
     "tags": []
    },
    {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "'Fikrini her zaman değiştirebilir': Dul bir kadın, aile evini üvey çocuklarına mı bırakmalı?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794234600000,
-    "tags": []
-   },
-   {
     "t": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
     "tt": "Yapay zeka ticareti zayıflarken Goldman Sachs, bu geri kalmış bölgenin artık daha iyi performans gösterecek konumda olduğunu söylüyor",
     "s": "Precisely because it has long been hamstrung by rigid labor markets and overregulation, European stocks may paradoxically be bigger beneficiaries of the AI revolution in terms of enhanced productivity and cost-cutting than its U.S. counterparts",
@@ -782,25 +794,64 @@
     "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
     "ts": 1794233700000,
     "tags": []
-   },
-   {
-    "t": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-    "tt": "Kurumsal Amerika'nın kâr rakamları Wall Street'in beklentilerini zar zor aşıyor",
-    "s": "S&amp;P 500 companies’ earnings are mostly topping analysts’ estimates — but by the narrowest margin in roughly four years.",
-    "ss": "S&P 500 şirketlerinin kazançları çoğunlukla analistlerin tahminlerinin üzerinde seyrediyor, ancak bu oran yaklaşık dört yılın en dar marjında.",
-    "u": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-    "ts": 1794231360000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Layoff Fears Hit Highest Since Covid Crash As Inflation Expectations Stay Stuck Near 3-Year High: NY Fed Survey",
+    "tt": "Enflasyon Beklentileri 3 Yılın En Yüksek Seviyesine Yakın Kalırken İşten Çıkarılma Korkuları Kovid Çöküşünden Bu Yana En Yüksek Seviyeye Çıktı: NY Fed Anketi",
+    "s": "Layoff Fears Hit Highest Since Covid Crash As Inflation Expectations Stay Stuck Near 3-Year High: NY Fed Survey Last month, one-year inflation expectations in the NY Fed's September Survey of Consumer Expectations jumped to the highest since May 2023 . This month, they just sat there, waiting for th",
+    "ss": "Enflasyon Beklentileri 3 Yılın En Yüksek Seviyesinde Sabit Kalırken İşten Çıkarılma Korkuları Kovid Çöküşünden Bu Yana En Yüksek Seviyeye Ulaştı: NY Fed Anketi Geçtiğimiz ay, NY Fed'in Eylül Tüketici Beklentileri Anketi'nde bir yıllık enflasyon beklentileri Mayıs 2023'ten bu yana en yüksek seviyesine çıktı. Bu ay orada öylece oturup beklediler",
+    "u": "https://www.zerohedge.com/markets/layoff-fears-hit-highest-covid-crash-inflation-expectations-stay-stuck-near-3-year-high-ny",
+    "ts": 1794246300000,
+    "tags": []
+   },
+   {
+    "t": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout",
+    "tt": "İzleyin: McConnell Ara Dönem Patlamasına Verilen Rahatsız Edici Tepkinin Ardından Yeni Sağlık Korkularını Ateşledi",
+    "s": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout Sen. Mitch McConnell (R-KY) is facing renewed scrutiny over his health after appearing to freeze when a reporter asked him about Republicans' devastating midterm election losses . The 84-year-old Kentucky Republica",
+    "ss": "İzle: McConnell, Ara Dönem Patlamasına Karşı Rahatsız Edici Tepki Sonrası Yeni Sağlık Korkularını Ateşledi Senatör Mitch McConnell (R-KY), bir muhabirin kendisine Cumhuriyetçilerin yıkıcı ara seçim kayıplarını sorduğunda donmuş gibi göründükten sonra sağlığı konusunda yeni bir incelemeyle karşı karşıya kaldı. 84 yaşındaki Kentucky Cumhuriyeti",
+    "u": "https://www.zerohedge.com/political/watch-mcconnell-sparks-new-health-fears-after-unsettling-reaction-midterm-blowout",
+    "ts": 1794244500000,
+    "tags": []
+   },
+   {
+    "t": "Watch Crypto For The Next Black Swan",
+    "tt": "Bir Sonraki Siyah Kuğu İçin Kripto'yu İzleyin",
+    "s": "Watch Crypto For The Next Black Swan Submitted by QTR's Fringe Finance We all just saw what happened with Nvidia and Jensen Huang. Completely unexpected. Almost nobody saw it coming. And the ultimate fallout is still very much an open question. Plenty of questions remain unanswered, including some r",
+    "ss": "QTR Fringe Finance Tarafından Sunulan Bir Sonraki Siyah Kuğu İçin Kripto'yu İzleyin Hepimiz Nvidia ve Jensen Huang'ın başına gelenleri gördük. Tamamen beklenmedik. Neredeyse hiç kimse bunun geldiğini görmedi. Ve bunun nihai sonucu hala açık bir sorudur. Aralarında bazılarının da bulunduğu pek çok soru yanıtsız kaldı.",
+    "u": "https://www.zerohedge.com/markets/watch-crypto-next-black-swan",
+    "ts": 1794243900000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Car Rams Through Security Area Near White House; Driver Shouts \"Oh My God\" As Agents Make Arrest",
     "tt": "Beyaz Saray Yakınındaki Güvenlik Alanından Araba Çarptı; Ajanlar Tutuklanırken Sürücü \"Aman Tanrım\" Diye Bağırdı",
-    "s": "Car Rams Through Security Area Near White House; Driver Shouts \"Oh My God\" As Agents Make Arrest Fox News reports that Secret Service agents arrested two people after a car rammed through a security area near the White House on Monday morning. BREAKING: Secret Service arrests two after car crash and",
+    "s": "Car Rams Through Security Area Near White House; Driver Shouts \"Oh My God\" As Agents Make Arrest Latest Daily Wire White House reporter Mary Margaret Olohan provided an update: NEW: Secret Service spokesman tells @realDailyWire of the incident at the White House:&nbsp; Just before 10:00 a.m., Secret",
     "ss": "Beyaz Saray Yakınındaki Güvenlik Alanından Araba Çarptı; Ajanlar Tutuklanırken Sürücü \"Aman Tanrım\" Diye Bağırdı Fox News, Gizli Servis ajanlarının Pazartesi sabahı Beyaz Saray yakınındaki bir güvenlik alanına bir arabanın çarpması sonrasında iki kişiyi tutukladığını bildirdi. SON DAKİKA: Gizli Servis araba kazasından sonra iki kişiyi tutukladı ve",
     "u": "https://www.zerohedge.com/political/car-rams-through-security-area-near-white-house-driver-shouts-oh-my-god-agents-make",
     "ts": 1794243190000,
+    "tags": []
+   },
+   {
+    "t": "Saudi East-West Pipeline Again Hit By Drone, But Stays Operational",
+    "tt": "Suudi Doğu-Batı Boru Hattı Yine Drone Tarafından Vuruldu, Ancak Faaliyete Devam Ediyor",
+    "s": "Saudi East-West Pipeline Again Hit By Drone, But Stays Operational Update(1252ET) : Saudi Arabia's East-West pipeline has been struck by in a drone attack once again. Saudi Energy Ministry authorities confirmed the attack Monday in the Madinah region, likley as a result of a Houthi attack out of Yem",
+    "ss": "Suudi Doğu-Batı Boru Hattı Yine Drone Tarafından Vuruldu, Ancak Operasyonel Olarak Kaldı Güncelleme(1252ET) : Suudi Arabistan'ın Doğu-Batı boru hattı bir kez daha drone saldırısıyla vuruldu. Suudi Enerji Bakanlığı yetkilileri Pazartesi günü Medine bölgesindeki saldırının muhtemelen Yem dışındaki bir Husi saldırısının sonucu olduğunu doğruladı.",
+    "u": "https://www.zerohedge.com/energy/drone-strike-shuts-down-northern-iraqs-largest-gas-field-plunging-region-darkness",
+    "ts": 1794243120000,
+    "tags": []
+   },
+   {
+    "t": "Blue Wave, Same Reactors: Nuclear Is The One Energy Source Washington Still Agrees On",
+    "tt": "Mavi Dalga, Aynı Reaktörler: Nükleer Washington'un Hala Kabul Ettiği Tek Enerji Kaynağıdır",
+    "s": "Blue Wave, Same Reactors: Nuclear Is The One Energy Source Washington Still Agrees On Nuclear stocks spent the three days after the midterms trading like Democrats had campaigned on shutting down reactors : Oklo closed on Election Day at $23.49 By Thursday it had hit a fresh 52-week low and closed a",
+    "ss": "Mavi Dalga, Aynı Reaktörler: Nükleer Tek Enerji Kaynağıdır Washington Hala Nükleer Hisse Senetleri Ara Dönemlerin Ardından Üç Günü Demokratların Reaktörlerin Kapatılması İçin Kampanya Yaptığı Gibi Alım Satımıyla Geçirdi: Oklo Seçim Günü 23,49 Dolardan Kapandı",
+    "u": "https://www.zerohedge.com/energy/blue-wave-same-reactors-nuclear-one-energy-source-washington-still-agrees",
+    "ts": 1794243000000,
     "tags": []
    },
    {
@@ -838,54 +889,36 @@
     "u": "https://www.zerohedge.com/political/whole-world-repeating-lie-eu-lawmaker-challenges-far-right-msm-narrative-polish-gunman",
     "ts": 1794240900000,
     "tags": []
-   },
-   {
-    "t": "Lame Dux Bellorum",
-    "tt": "Lame Dux Bellorum",
-    "s": "Lame Dux Bellorum By Benjamin Picton, senior market strategist at Rabobank The NASDAQ and S&amp;P500 rallied on Friday despite a stronger-than-expected payrolls report helping to push Treasury yields higher. The Treasury curve bear flattened as two-year yields rose by 5bps, and ten-year yields lifte",
-    "ss": "Lame Dux Bellorum Yazan: Benjamin Picton, Rabobank kıdemli piyasa stratejisti NASDAQ ve S&P500, beklenenden daha güçlü gelen istihdam raporunun Hazine tahvil getirilerinin yükselmesine yardımcı olmasına rağmen Cuma günü toparlandı. İki yıllık getirilerin 5 baz puan artması ve on yıllık getirilerin artmasıyla Hazine tahvili eğrisi yataylaştı",
-    "u": "https://www.zerohedge.com/markets/lame-dux-bellorum",
-    "ts": 1794239400000,
-    "tags": []
-   },
-   {
-    "t": "Jeffries Flips: Two Days After Hedging, He's A \"Hard Yes\" On Impeaching Hegseth",
-    "tt": "Jeffries Flips: Riskten Korunduktan İki Gün Sonra, Hegseth'in Azledilmesi Konusunda \"Zor Bir Evet\"",
-    "s": "Jeffries Flips: Two Days After Hedging, He's A \"Hard Yes\" On Impeaching Hegseth House Minority Leader Hakeem Jeffries (D-N.Y.) said Sunday on ABC's \"This Week\" that he is \"a hard yes\" on the impeachment resolution against Defense Secretary Pete Hegseth , telling host Jonathan Karl that \"Pete Hegseth",
-    "ss": "Jeffries Dönüyor: Hedging'den İki Gün Sonra, Hegseth Meclisi Azınlık Lideri Hakeem Jeffries (D-N.Y.) Pazar günü ABC'nin \"Bu Hafta\" programında Savunma Bakanı Pete Hegseth'e yönelik görevden alma kararı konusunda \"zor bir evet\" olduğunu söyledi ve sunucu Jonathan Karl'a \"Pete Hegseth\" dedi",
-    "u": "https://www.zerohedge.com/political/jeffries-flips-two-days-after-hedging-hes-hard-yes-impeaching-hegseth",
-    "ts": 1794238500000,
-    "tags": []
-   },
-   {
-    "t": "New Migrant Caravan Heads North After Democrats Win Midterms",
-    "tt": "Yeni Göçmen Kervanı Demokratların Ara Sınavı Kazanmasının Ardından Kuzeye Doğru Yola Çıktı",
-    "s": "New Migrant Caravan Heads North After Democrats Win Midterms Authored by AG News Staff via American Greatness , A new caravan of as many as 500 migrants has crossed into Mexico and is heading toward the U.S. border , just days after Democrats won control of the House, the Senate and the Texas govern",
-    "ss": "Yeni Göçmen Kervanı, Demokratların Ara Sınavı Kazanmasının Ardından Kuzeye Gidiyor AG Haber Personeli tarafından American Greatness aracılığıyla yazılmıştır. 500 kadar göçmenden oluşan yeni bir kafile, Demokratların Temsilciler Meclisi, Senato ve Teksas yönetiminin kontrolünü ele geçirmesinden birkaç gün sonra Meksika'ya geçti ve ABD sınırına doğru yola çıktı.",
-    "u": "https://www.zerohedge.com/geopolitical/new-migrant-caravan-heads-north-after-democrats-win-midterms",
-    "ts": 1794237600000,
-    "tags": []
-   },
-   {
-    "t": "One Short-Seller Flagged Jensen's Alice Huang Ties In May...And Pointed Out Multiple Other Nvidia Risks",
-    "tt": "Açığa Çıkan Bir Satıcı, Jensen'in Alice Huang'ı Mayıs Ayında İşaretledi... Ve Diğer Birçok Nvidia Riskine Dikkat Çekti",
-    "s": "One Short-Seller Flagged Jensen's Alice Huang Ties In May...And Pointed Out Multiple Other Nvidia Risks Nvidia CEO Jensen Huang is facing the biggest personal and potentially national-security crisis of his career after admitting to marital infidelity amid allegations that Alice Huang, a businesswom",
-    "ss": "Açığa Çıkan Bir Satıcı, Mayıs Ayında Jensen'in Alice Huang Bağlantısını İşaretledi... Ve Diğer Birçok Nvidia Riskine Dikkat Çekti Nvidia CEO'su Jensen Huang, Alice Huang'ın bir iş kadını olduğu iddiaları arasında evlilikte sadakatsizliğini itiraf ettikten sonra kariyerinin en büyük kişisel ve potansiyel olarak ulusal güvenlik kriziyle karşı karşıya kaldı.",
-    "u": "https://www.zerohedge.com/markets/one-short-seller-flagged-jensens-alice-huang-ties-mayand-pointed-out-multiple-other-nvidia",
-    "ts": 1794236700000,
-    "tags": []
-   },
-   {
-    "t": "Trump Unloads On 60 Minutes: AI CEO Jail Threat, Mass Exit Pardons, & Who Throttled Ukraine's Starlink",
-    "tt": "Trump 60 Dakikada Boşaltıyor: Yapay Zeka CEO'su Hapishane Tehdidi, Toplu Çıkış Afları ve Ukrayna'nın Starlink'ini Kim Kısıtladı",
-    "s": "Trump Unloads On 60 Minutes: AI CEO Jail Threat, Mass Exit Pardons, &amp; Who Throttled Ukraine's Starlink President Trump says the Justice Department told the head of one of the big AI companies to \"get ready to go to jail,\" then plans to pardon \"anybody that got within a thousand miles of the Oval",
-    "ss": "Trump 60 Dakikada Yükü Boşaltıyor: Yapay Zeka CEO'su Hapishane Tehdidi, Toplu Çıkış Afları ve Ukrayna'nın Starlink'ini Kim Kısıtladı Başkan Trump, Adalet Bakanlığı'nın büyük yapay zeka şirketlerinden birinin başkanına \"hapse girmeye hazır olun\" dediğini ve ardından \"Oval'in bin mil yakınına yaklaşan herkesi\" affetmeyi planladığını söyledi",
-    "u": "https://www.zerohedge.com/political/trump-unloads-60-minutes-ai-ceo-jail-threat-mass-exit-pardons-and-who-throttled-ukraines",
-    "ts": 1794234900000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "ABD'de enflasyon beklentileri sabit, işsizlik endişesi artıyor",
+    "tt": null,
+    "s": "ABD'de tüketicilerin kısa, orta ve uzun vadeli enflasyon beklentileri Ekim'de değişmezken, işsizlik oranının artacağına yönelik beklenti yüzde 45,3 ile Nisan 2020'den bu yana en yüksek seviyesine ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-enflasyon-beklentileri-sabit-issizlik-endisesi-artiyor-3794009",
+    "ts": 1794245748000,
+    "tags": []
+   },
+   {
+    "t": "Koç Holding'in net kârı üçüncü çeyrekte 34,9 milyar TL'ye yükseldi",
+    "tt": null,
+    "s": "Koç Holding, 2026'nın üçüncü çeyreğinde 34,9 milyar TL ana ortaklık net kârı açıklayarak bir önceki çeyrekte açıkladığı 19,7 milyar TL'lik net kârın belirgin biçimde üzerine çıktı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/koc-holding-in-net-kri-ucuncu-ceyrekte-34-9-milyar-tl-ye-yukseldi-3794008",
+    "ts": 1794244816000,
+    "tags": []
+   },
+   {
+    "t": "Euro Bölgesi'nden ortak savunma alımı çağrısı",
+    "tt": null,
+    "s": "Euro Grubu Başkanı Kiryakos Pierrakakis, Avrupa'nın artan savunma harcamalarını sürdürülebilir biçimde finanse edebilmesi için ortak alımların artırılması ve daha fazla özel sermayenin harekete geçirilmesi çağrısında bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/euro-bolgesi-nden-ortak-savunma-alimi-cagrisi-3794007",
+    "ts": 1794244431000,
+    "tags": []
+   },
    {
     "t": "Erdoğan: Fon meselesinde en küçük bir taviz ve tavsama olmayacak",
     "tt": null,
@@ -947,33 +980,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/ziraat-bankasi-genel-muduru-cakar-4-farkli-kurumla-2-milyar-dolarlik-anlasmamiz-var-3793980",
     "ts": 1794233567000,
-    "tags": []
-   },
-   {
-    "t": "Kayıtlı işsiz sayısı Ekim'de yıllık bazda arttı",
-    "tt": null,
-    "s": "Türkiye İş Kurumu (İşkur) verilerine göre, İşkur'a kayıtlı iş arayan sayısı Ekim ayında geçen yılın aynı dönemine göre yüzde 1,7 artarak 2 milyon 281 bin 684'e yükseldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kayitli-issiz-sayisi-ekim-de-yillik-bazda-artti-3793978",
-    "ts": 1794232848000,
-    "tags": []
-   },
-   {
-    "t": "Fon soruşturmasında Lydia Holding YKB Enver Çevik gözaltına alındı",
-    "tt": null,
-    "s": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Lydia Holding Yönetim Kurulu Başkanı Enver Çevik gözaltına alındı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fon-sorusturmasinda-lydia-holding-ykb-cevik-gozaltina-alindi-3793975",
-    "ts": 1794232217000,
-    "tags": []
-   },
-   {
-    "t": "Elektrik dağıtıma 2040'a kadar 80 milyar dolarlık yatırım",
-    "tt": null,
-    "s": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Genel Sekreteri Fakir Hüseyin Erdoğan, elektrik dağıtım şebekelerine 2040'a kadar yapılması öngörülen 80 milyar dolarlık yatırımın Türkiye'nin enerji ithalat faturasının azaltılmasına ve yenilenebilir enerji kaynaklarının sisteme entegrasyonuna katkı sağla",
-    "ss": null,
-    "u": "https://www.bloomberght.com/elektrik-dagitima-2040-a-kadar-80-milyar-dolarlik-yatirim-3793974",
-    "ts": 1794230943000,
     "tags": []
    }
   ]
