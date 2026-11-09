@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T08:13:09.398958+00:00",
+ "generated": "2026-11-09T09:26:09.467012+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 25.64,
-   "c": -9.01,
-   "d": -2.54,
+   "p": 24.4,
+   "c": -4.84,
+   "d": -1.24,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4100.0,
-   "c": 0.62,
-   "d": 25.1,
+   "p": 4105.9,
+   "c": 0.76,
+   "d": 31.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.245,
-   "c": 0.85,
-   "d": 0.442,
+   "p": 52.55,
+   "c": 1.44,
+   "d": 0.747,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.06,
-   "c": -0.85,
-   "d": -0.77,
+   "p": 89.66,
+   "c": -1.29,
+   "d": -1.17,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.84,
-   "c": -1.51,
-   "d": -1.48,
+   "p": 96.58,
+   "c": -1.77,
+   "d": -1.74,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.964,
-   "c": -0.33,
-   "d": -0.336,
+   "p": 101.895,
+   "c": -0.4,
+   "d": -0.405,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1777,
+   "p": 50.1779,
    "c": 0.05,
    "d": 0.025,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11535.73,
-   "c": 0.46,
-   "d": 53.13,
+   "p": 11544.84,
+   "c": 0.54,
+   "d": 62.24,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 73830,
-   "c": -2.65,
+   "p": 74206,
+   "c": -2.13,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2092.32,
-   "c": -6.45,
+   "p": 2108.72,
+   "c": -5.57,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 85.59,
-   "c": -3.94,
+   "p": 86.57,
+   "c": -2.79,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.086,
-   "c": -6.6,
+   "p": 1.093,
+   "c": -5.89,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 676.5,
-   "c": -3.26,
+   "p": 680.9,
+   "c": -2.32,
    "k": "usd"
   }
  ],
@@ -494,95 +494,93 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Thames Water Creditors Back Debt Extension as Rescue Talks Drag",
-    "tt": "Kurtarma Görüşmeleri Sürüklenirken Thames Su Alacaklıları Borç Uzatmayı Geri Aldı",
-    "s": "A group of Thames Water creditors agreed to back plans to push out debt repayments, buying more time to agree on a broader rescue for the troubled utility.",
-    "ss": "Bir grup Thames Water alacaklısı, borç geri ödemelerini erteleme planlarını desteklemeyi kabul ederek, sorunlu kamu hizmeti için daha kapsamlı bir kurtarma konusunda anlaşmaya varmak için daha fazla zaman kazandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/thames-water-creditors-back-debt-extension-as-rescue-talks-drag",
-    "ts": 1794211600000,
+    "t": "Euro-Zone Officials Meet to Discuss Lagarde Succession Plan",
+    "tt": "Euro Bölgesi Yetkilileri Lagarde'ın Veraset Planını Tartışmak İçin Toplandı",
+    "s": "Euro-zone finance ministers convened for a first assessment of the European Central Bank presidency race after both candidates — Dutchman Klaas Knot and Spaniard Pablo Hernandez de Cos — spoke out on current economic risks. Oliver Crook reports from Brussels. (Source: Bloomberg)",
+    "ss": "Avro bölgesi maliye bakanları, her iki adayın (Hollandalı Klaas Knot ve İspanyol Pablo Hernandez de Cos) mevcut ekonomik riskler hakkında konuşmasının ardından Avrupa Merkez Bankası başkanlık yarışının ilk değerlendirmesini yapmak için bir araya geldi. Oliver Crook Brüksel'den bildiriyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/euro-zone-officials-to-discuss-lagarde-succession-plan-video",
+    "ts": 1794216314000,
     "tags": []
    },
    {
-    "t": "ICE Joins Wind Derivatives Push as Renewables Reshape Power",
-    "tt": "ICE, Yenilenebilir Enerjilerin Gücü Yeniden Şekillendirmesi İçin Rüzgar Türevlerinin İtişine Katılıyor",
-    "s": "Intercontinental Exchange Inc. is launching new wind derivatives, joining a growing wave of exchanges trying to turn weather volatility into a more easily traded financial risk as renewable power reshapes electricity markets.",
-    "ss": "Intercontinental Exchange Inc., yenilenebilir enerji elektrik piyasalarını yeniden şekillendirirken, hava koşullarındaki değişkenliği daha kolay alınıp satılabilen bir finansal riske dönüştürmeye çalışan büyüyen borsa dalgasına katılarak yeni rüzgar türevlerini piyasaya sürüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/ice-joins-wind-derivatives-push-as-renewables-reshape-power",
-    "ts": 1794211200000,
+    "t": "Inside the Race to Upgrade Transformers",
+    "tt": "Transformers'ı Yükseltme Yarışı İçinde",
+    "s": "Transformers are critical to the power grid, but the rise of renewables and surging energy demand are pushing them to their limits. Could the solid-state transformer meet these new challenges? (Source: Bloomberg)",
+    "ss": "Transformatörler elektrik şebekesi için kritik önem taşıyor ancak yenilenebilir enerji kaynaklarının yükselişi ve artan enerji talebi bunların sınırlarını zorluyor. Katı hal transformatörü bu yeni zorlukların üstesinden gelebilir mi? (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/inside-the-race-to-upgrade-transformers-video",
+    "ts": 1794214860000,
     "tags": []
    },
    {
-    "t": "Access Considers Foreign-Asset Exit to Meet Nigeria Bank Rules",
-    "tt": "Access, Nijerya Banka Kurallarına Uyum Sağlamak İçin Yabancı Varlık Çıkışını Değerlendiriyor",
-    "s": "Nigeria’s top lender by assets is considering exiting at least one of its foreign markets as the business with operations in about 24 countries looks to comply with central-bank rules limiting external investments.",
-    "ss": "Nijerya'nın varlık bazında en büyük borç veren kuruluşu, yaklaşık 24 ülkede faaliyet gösteren işletmenin dış yatırımları sınırlayan merkez bankası kurallarına uyması nedeniyle dış piyasalarından en az birinden çıkmayı düşünüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/access-considers-foreign-asset-exit-to-meet-nigeria-bank-rules",
-    "ts": 1794209685000,
+    "t": "This Is How New York City Takes Out Its Trash",
+    "tt": "New York Şehri Çöplerini Bu Şekilde Çıkarıyor",
+    "s": "A government service untouched by neoliberalism.",
+    "ss": "Neoliberalizmin dokunmadığı bir devlet hizmeti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/this-is-how-new-york-city-takes-out-its-trash",
+    "ts": 1794214821000,
     "tags": []
    },
    {
-    "t": "Jensen Huang’s Affair with Suspected Chinese Spy Adds New Risks to AI Trade",
-    "tt": "Jensen Huang'ın Şüpheli Çinli Casusla İlişkisi Yapay Zeka Ticaretine Yeni Riskler Ekliyor",
-    "s": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-    "ss": "İzleyicilere önemli hikayelerin tam resmini vermek için derinlemesine, yüksek profilli röportajlar ve analizler içeren günlük bir haber programı olan Haslinda Amin ile İçgörü. Gösteride iş, finans, siyaset ve kültür dünyalarından önde gelen liderler yer alıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/insight-with-haslinda-amin-11-9-2026-video",
-    "ts": 1794209582000,
+    "t": "Odd Lots: How New York City Takes Out Its Trash (Podcast)",
+    "tt": "Tuhaf Lotlar: New York Şehri Çöplerini Nasıl Çıkarıyor (Podcast)",
+    "s": "According to Joshua Goodman, trash collection in New York is one of the last services the city offers that is not yet touched by neoliberalism. What he means is that it’s the last free and unlimited city service — there is no opt-in; it is not means tested. Goodman — who is the DSNY’s deputy commiss",
+    "ss": "Joshua Goodman'a göre New York'ta çöp toplama, şehrin sunduğu ve henüz neoliberalizmin dokunmadığı son hizmetlerden biri. Demek istediği, bunun son ücretsiz ve sınırsız şehir hizmeti olduğu; katılım seçeneği yok; test edilmiş bir araç değildir. Goodman - DSNY'nin komiser yardımcısı kimdir",
+    "u": "https://www.bloomberg.com/news/audio/2026-11-09/odd-lots-how-new-york-city-takes-out-its-trash-podcast",
+    "ts": 1794214800000,
     "tags": []
    },
    {
-    "t": "The FTSE 100 Is Riding an Anti-AI Wave",
-    "tt": "FTSE 100 Yapay Zeka Karşıtı Dalgayı Sürdürüyor",
-    "s": "Plus how UK recruitment activity weakened heading into the Budget",
-    "ss": "Ayrıca Birleşik Krallık'taki işe alım faaliyetleri Bütçeye girerken nasıl zayıfladı?",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-09/the-ftse-100-is-riding-an-anti-ai-wave",
-    "ts": 1794209252000,
+    "t": "Hedge Funds Dump Tech Stocks at One of Fastest Paces on Record",
+    "tt": "Hedge Fonları, Teknoloji Hisselerini Kaydedilen En Hızlı Adımlardan Biriyle Boşaltıyor",
+    "s": "Hedge funds sold global technology stocks at one of the fastest paces on record last week, as concerns that political opposition could derail the data-center buildout triggered an aggressive reassessment of the artificial intelligence trade.",
+    "ss": "Hedge fonları, siyasi muhalefetin veri merkezi inşasını rayından çıkarabileceği endişelerinin yapay zeka ticaretinin agresif bir şekilde yeniden değerlendirilmesini tetiklemesiyle geçen hafta küresel teknoloji stoklarını rekor düzeyde en hızlı satışlardan birinde sattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/hedge-funds-dump-tech-stocks-at-one-of-fastest-paces-on-record",
+    "ts": 1794214727000,
     "tags": []
    },
    {
-    "t": "Alphabet Mulls Asia Bond Sale as AI Fears Fuel Volatility",
-    "tt": "AI, Volatiliteyi Artırmaktan Korkarken Alphabet Asya Tahvili Satışını Düşünüyor",
-    "s": "Alphabet Inc. has had talks recently about potentially offering its first Hong Kong and Singapore dollar bonds, people familiar with the matter said, a deal that would test investor appetite in Asia after an AI selloff in global markets.",
-    "ss": "Konuya aşina olan kişiler, Alphabet Inc.'in son zamanlarda potansiyel olarak ilk Hong Kong ve Singapur doları tahvillerini teklif etme konusunda görüşmelerde bulunduğunu ve bu anlaşmanın, küresel piyasalarda yapay zeka satışlarının ardından Asya'daki yatırımcıların iştahını test edeceğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/alphabet-mulls-asia-bond-sale-as-ai-fears-fuel-global-volatility",
-    "ts": 1794206250000,
-    "tags": [
-     "DXY ▼"
-    ]
-   },
-   {
-    "t": "TPG-Backed Yoco Gets Private-Credit Deal With $3.6 Billion Firm",
-    "tt": "TPG Destekli Yoco, 3,6 Milyar Dolarlık Firmayla Özel Kredi Anlaşması Aldı",
-    "s": "Yoco Technologies (Pty) Ltd. secured a $100 million credit facility from Victory Park Capital Advisors LLC to help the South African digital-commerce company backed by private equity giant TPG Inc. support its network of merchants.",
-    "ss": "Yoco Technologies (Pty) Ltd., özel sermaye devi TPG Inc. tarafından desteklenen Güney Afrika dijital ticaret şirketinin tüccar ağını desteklemesine yardımcı olmak için Victory Park Capital Advisors LLC'den 100 milyon dolarlık bir kredi olanağı sağladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/tpg-backed-yoco-gets-private-credit-deal-with-3-6-billion-firm",
-    "ts": 1794208744000,
+    "t": "Data Center Boss Vows Engagement After Backlash Tanks Stock",
+    "tt": "Veri Merkezi Patronu, Tepki Tankları Stokundan Sonra Göreve Başlama Yemini Verdi",
+    "s": "Nextdc Ltd. Chief Executive Officer Craig Scroggie vowed to make communities his top priority after a local backlash delayed a major data center project in Melbourne last month, triggering a stock-price meltdown.",
+    "ss": "Nextdc Ltd. İcra Kurulu Başkanı Craig Scroggie, yerel tepkilerin geçen ay Melbourne'deki büyük bir veri merkezi projesini geciktirerek hisse senedi fiyatlarında düşüşe yol açmasının ardından toplulukları en büyük önceliği haline getireceğine söz verdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/data-center-boss-vows-engagement-after-backlash-tanks-stock",
+    "ts": 1794214620000,
     "tags": []
    },
    {
-    "t": "Wall St Races for Megadeals as Countdown Begins on Trump Era",
-    "tt": "Trump Döneminde Geri Sayım Başlarken Wall St Megadeals İçin Yarışıyor",
-    "s": "President Donald Trump’s return to the White House changed the political calculus around mergers and acquisitions, reviving companies’ desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock.",
-    "ss": "Başkan Donald Trump'ın Beyaz Saray'a dönüşü, birleşme ve satın almalarla ilgili siyasi hesapları değiştirdi ve şirketlerin başarılması zor hale gelen rüya anlaşmalara olan arzusunu yeniden canlandırdı. Artık kurumsal Amerika iş başında.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
-    "ts": 1794146400000,
+    "t": "US Stocks Rise as Drop in Oil Offsets Nvidia Woes: Markets Wrap",
+    "tt": "ABD Hisse Senetleri, Petroldeki Düşüşün Nvidia'nın Sıkıntılarını Dengelemesiyle Yükseliyor: Piyasalar İyileşiyor",
+    "s": "US stocks started Monday on a more solid footing following the S&amp;P 500’s worst week since April 2025, with support from cheaper oil prices partly offset by continued pressure on chipmakers.",
+    "ss": "ABD borsaları, S&P 500'ün Nisan 2025'ten bu yana yaşadığı en kötü haftanın ardından Pazartesi gününe daha sağlam bir temelde başladı; ucuz petrol fiyatlarından gelen destek, çip üreticileri üzerinde devam eden baskıyla kısmen dengelendi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794176451000,
     "tags": []
    },
    {
-    "t": "Tech Stock Rout Exposes Market Risks From AI Bets and Political Uncertainty",
-    "tt": "Teknoloji Hisse Senedi Rutusu Yapay Zeka Bahislerinden ve Siyasi Belirsizlikten Kaynaklanan Piyasa Risklerini Ortaya Çıkarıyor",
-    "s": "The midterms outcome and the rout that followed have exposed the market’s vulnerability to stretched wagers on AI. Expectations of returns may now need a reset.",
-    "ss": "Ara dönem sonuçları ve ardından gelen yenilgi, piyasanın yapay zekaya yönelik uzatılmış bahislere karşı kırılganlığını ortaya çıkardı. Geri dönüş beklentileri artık sıfırlanmaya ihtiyaç duyabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/market-vulnerability-has-been-exposed-for-good-taking-stock",
-    "ts": 1794208506000,
+    "t": "Aramco Tower Targeted in Riyadh as Eisenkot Gets Israeli Government Mandate",
+    "tt": "Eisenkot İsrail Hükümetinden Yetki Alırken Aramco Kulesi Riyad'da Hedef Alındı",
+    "s": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lun",
+    "ss": "Horizons Orta Doğu ve Afrika, dünyanın en hızlı büyüyen bölgelerinden birine dair günlük ilgi odağınızdır. Dubai'den canlı olarak size en son küresel pazarları ve analizleri, ayrıca MEA'ya özel olarak odaklanarak haber veren röportajları sunuyoruz. Tüm bunlar ve daha fazlası, Körfez'deki ofise doğru giderken öğle yemeği için mola verin",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-09/horizons-middle-east-africa-11-9-2026-video",
+    "ts": 1794214173000,
     "tags": []
    },
    {
-    "t": "RBI Said to Query Bank Valuations of Some Bond Derivative Trades",
-    "tt": "RBI, Bazı Tahvil Türev İşlemlerinin Banka Değerlemelerini Sorgulayacağını Söyledi",
-    "s": "India’s central bank told some lenders they should change the way they account for bond forwards contracts, assets that amount to billions of dollars across the industry, according to people familiar with the matter.",
-    "ss": "Konuya yakın kaynaklara göre Hindistan merkez bankası bazı borç verenlere, sektörde milyarlarca dolar tutarındaki varlıklar olan tahvil vadeli sözleşmelerini muhasebeleştirme şekillerini değiştirmeleri gerektiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades",
-    "ts": 1794208370000,
+    "t": "BMW Widens Battery Component Suppliers With Samsung, LG Energy",
+    "tt": "BMW, Pil Bileşeni Tedarikçilerini Samsung ve LG Energy ile Genişletiyor",
+    "s": "BMW AG is adding South Korean battery-cell makers Samsung SDI Co. and LG Energy Solution Ltd. to its supplier networks in Europe and the US as the German carmaker looks to reduce dependencies.",
+    "ss": "Alman otomobil üreticisi bağımlılıkları azaltmaya çalışırken BMW AG, Güney Koreli pil hücresi üreticileri Samsung SDI Co. ve LG Energy Solution Ltd.'yi Avrupa ve ABD'deki tedarikçi ağlarına ekliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/bmw-widens-battery-component-suppliers-with-samsung-lg-energy",
+    "ts": 1794213891000,
+    "tags": []
+   },
+   {
+    "t": "QatarEnergy Adds Chevron Block to Stakes in African Oil Hotspot",
+    "tt": "QatarEnergy, Afrika Petrol Sıcak Noktasındaki Hisselerine Chevron Blokunu Ekledi",
+    "s": "QatarEnergy agreed to take a stake in an offshore oil block held by Chevron Corp. in Namibia, adding to its holdings in the African exploration hotspot.",
+    "ss": "QatarEnergy, Namibya'da Chevron Corp.'un elinde bulunan açık deniz petrol bloğundan hisse almayı kabul ederek, Afrika'nın sıcak arama noktasındaki varlıklarını artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/qatarenergy-adds-chevron-block-to-stakes-in-african-oil-hotspot",
+    "ts": 1794213540000,
     "tags": []
    }
   ],
@@ -697,6 +695,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
+    "tt": "Wall Street, Nvidia'nın Jensen Huang'ın casusluk iddialarına ilişkin soruşturmasına ilişkin haberlere nasıl tepki veriyor?",
+    "s": "The Wall Street reaction to the blockbuster Nvidia news is to wonder about who would succeed Jensen Huang if he were to be forced out.",
+    "ss": "Wall Street'in gişe rekorları kıran Nvidia haberlerine tepkisi, eğer zorla görevden alınırsa Jensen Huang'ın yerine kimin geçeceği merakı oldu.",
+    "u": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "ts": 1794215520000,
+    "tags": []
+   },
+   {
     "t": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
     "tt": "'Hayatım kısa kesilebilir': 55 yaşındayım, evliyim ve beyin tümörüm var. 210.000 dolarlık bir Porsche'ye mi para harcamalıyım?",
     "s": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
@@ -776,18 +783,27 @@
     "u": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
     "ts": 1794179700000,
     "tags": []
-   },
-   {
-    "t": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
-    "tt": "Nvidia yönetim kurulu, CEO Jensen Huang'ın casus olduğu iddia edilen kişiyle olan ilişkisini araştıracak. İşte bilmeniz gerekenler.",
-    "s": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia’s stock for some time.",
-    "ss": "Bir sözcü, \"Bugünkü haberler Nvidia'yı yavaşlatmayacak\" dedi. Huang görevine devam edecek ve soruşturmada işbirliği yapacak.",
-    "u": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-    "ts": 1794179100000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Scientists Grew Microbes In Mars-Like Conditions - And They Didn't Just Survive...",
+    "tt": "Bilim Adamları Mars Benzeri Koşullarda Mikrop Yetiştirdiler - Ve Sadece Hayatta Kalmadılar...",
+    "s": "Scientists Grew Microbes In Mars-Like Conditions - And They Didn't Just Survive... Salt-loving microbes kept for months in a lab version of the Martian underground did more than hang on. They grew, according to a study from University of Florida researchers published in the journal Applied and Envir",
+    "ss": "Bilim Adamları Mars Benzeri Koşullarda Mikrop Yetiştirdiler - Ve Hayatta Kalmadılar... Mars'ın yeraltındaki laboratuvar versiyonunda aylarca saklanan tuzu seven mikroplar, tutunmaktan fazlasını yaptı. Applied ve Envir dergisinde yayınlanan Florida Üniversitesi araştırmacılarının yaptığı bir araştırmaya göre büyüdüler.",
+    "u": "https://www.zerohedge.com/technology/scientists-grew-microbes-mars-conditions-and-they-didnt-just-survive",
+    "ts": 1794215700000,
+    "tags": []
+   },
+   {
+    "t": "Something Big Is Coming...",
+    "tt": "Büyük Bir Şey Geliyor...",
+    "s": "Something Big Is Coming... Authored by Steve Watson via Modernity , The British state is openly preparing the public for multi-day blackouts while lining up the BBC to broadcast pre-scripted government messages once the lights, water, and internet fail. A so called \"Black Sky\" contingency now sits o",
+    "ss": "Büyük Bir Şey Geliyor... Modernity aracılığıyla Steve Watson tarafından yazılan İngiliz devleti, ışıklar, su ve internet kesildiğinde önceden hazırlanmış hükümet mesajlarını yayınlamak için BBC'yi sıraya koyarken halkı birkaç gün sürecek elektrik kesintilerine açık bir şekilde hazırlıyor. Sözde \"Kara Gökyüzü\" acil durumu şu anda mevcut",
+    "u": "https://www.zerohedge.com/geopolitical/something-big-coming",
+    "ts": 1794213000000,
+    "tags": []
+   },
    {
     "t": "Pope Leo, Fresh From Cancer Surgery, Calls For Universal Health Care \"In Every Society\"",
     "tt": "Kanser Ameliyatından Yeni Çıkan Papa Leo, \"Her Toplumda\" Evrensel Sağlık Hizmeti Çağrısında Bulundu",
@@ -859,27 +875,45 @@
     "u": "https://www.zerohedge.com/political/ultra-left-wing-media-outlet-salon-shuts-down-after-31-years",
     "ts": 1794190200000,
     "tags": []
-   },
-   {
-    "t": "The US Has $50 Billion For Nuclear Waste And Nowhere To Put It",
-    "tt": "ABD'nin Nükleer Atık İçin 50 Milyar Doları Var Ve Onu Koyacak Yer Yok",
-    "s": "The US Has $50 Billion For Nuclear Waste And Nowhere To Put It Authored by Haley Zaremba via OilPrice , Finland and the United States are exemplifying two opposing approaches to managing the mounting problem of spent nuclear fuel. Finland is about to open the world's first permanent nuclear waste di",
-    "ss": "ABD'nin Nükleer Atık İçin 50 Milyar Doları Var Ve Bunu Koyacak Yer Yok Haley Zaremba tarafından OilPrice aracılığıyla yazılmıştır. Finlandiya ve ABD, kullanılmış nükleer yakıtın artan sorununu yönetmeye yönelik iki karşıt yaklaşımı örneklendiriyor. Finlandiya dünyanın ilk kalıcı nükleer atık tesisini açmak üzere",
-    "u": "https://www.zerohedge.com/energy/us-has-50-billion-nuclear-waste-and-nowhere-put-it",
-    "ts": 1794188700000,
-    "tags": []
-   },
-   {
-    "t": "Trump Says He's 'Highly Unlikely' To Order New Bombing Of Iran If Talks Progress",
-    "tt": "Trump, Görüşmeler İlerlerse İran'a Yeni Bomba Saldırısı Emri Verme Olasılığının Düşük Olduğunu Söyledi",
-    "s": "Trump Says He's 'Highly Unlikely' To Order New Bombing Of Iran If Talks Progress Did President Trump finally get the message after the GOP's disastrous midterm showing?&nbsp; He remarked Sunday that it is \"highly unlikely\" he will need to order US forces to war with Iran as long as there is progress",
-    "ss": "Trump, Müzakereler İlerlerse İran'a Yeni Bir Bomba Saldırısı Emri Vermesinin 'Oldukça Olasılıksız' Olduğunu Söyledi Başkan Trump, GOP'un feci ara seçim dönemi gösterisinin ardından nihayet mesajı aldı mı?  Pazar günü yaptığı açıklamada, ilerleme olduğu sürece ABD kuvvetlerine İran'la savaş emri vermesinin \"pek olası olmadığını\" belirtti",
-    "u": "https://www.zerohedge.com/geopolitical/trump-says-hes-highly-unlikely-order-new-bombing-iran-if-talks-progress",
-    "ts": 1794187200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Çin'den Nvidia CEO'suyla ilgili casusluk suçlamalarına yanıt",
+    "tt": null,
+    "s": "Pekin, Çin'in Nvidia CEO'su Jensen Huang'ı casusluk yöntemiyle izlediği yönündeki iddiaları \"iftira\" ifadeleriyle reddetti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-den-nvidia-ceosuyla-ilgili-casusluk-suclamalarina-yanit-3793932",
+    "ts": 1794214137000,
+    "tags": []
+   },
+   {
+    "t": "Gürlek: Fon soruşturmasında 464 şüpheli, 120 tutuklu",
+    "tt": null,
+    "s": "Adalet Bakanı Akın Gürlek, fon soruşturmaları kapsamında 464 şüpheli bulunduğunu, 120 kişinin tutuklu olduğunu açıkladı. Soruşturmalar kapsamında 386 gerçek kişi ve 116 tüzel kişinin malvarlıklarına tedbir uygulanırken, yaklaşık 31,5 milyar TL değerindeki varlığın gönüllü iade hesabına aktarıldığı b",
+    "ss": null,
+    "u": "https://www.bloomberght.com/gurlek-fon-sorusturmasinda-464-supheli-120-tutuklu-3793928",
+    "ts": 1794213831000,
+    "tags": []
+   },
+   {
+    "t": "\"Sürdürülebilir tarım için finansman ve yatırıma ihtiyaç var\"",
+    "tt": null,
+    "s": "Bayer Küresel Çok Paydaşlı İş Birlikleri Başkanı Gabriella Burian Antalya'da gerçekleştirilen COP 31 iklim zirvesinde Bloomberg HT'ye değerlendirmelerde bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/surdurulebilir-tarim-icin-finansman-ve-yatirima-ihtiyac-var-3793925",
+    "ts": 1794212262000,
+    "tags": []
+   },
+   {
+    "t": "Morgan Stanley/Wilson: ABD hisse senetlerindeki düzeltme son aşamasında",
+    "tt": null,
+    "s": "Morgan Stanley analisti Michael Wilson'a göre, S&amp;P 500'deki düzeltme muhtemelen sona yaklaşıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/morgan-stanleywilson-abd-hisse-senetlerindeki-duzeltme-son-asamasinda-3793923",
+    "ts": 1794211783000,
+    "tags": []
+   },
    {
     "t": "\"Sabancı Topluluğu olarak elektrifikasyonun merkezindeyiz\"",
     "tt": null,
@@ -932,42 +966,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/tmsf-pet-gaz-lpg-depolama-tesislerini-satisa-cikardi-3793912",
     "ts": 1794207818000,
-    "tags": []
-   },
-   {
-    "t": "Sabancı'nın katkılarıyla Bloomberg Businessweek Türkiye COP31 özel sayısı yayında",
-    "tt": null,
-    "s": "",
-    "ss": null,
-    "u": "https://im.bloomberght.com/images/others/2026/11/07/COP31OzelSayi.pdf",
-    "ts": 1794206772000,
-    "tags": []
-   },
-   {
-    "t": "Uluslararası ticarette yuan ile ödeme rekora hazırlanıyor",
-    "tt": null,
-    "s": "Çin'in sınır ötesi yuan ödeme sistemi, 2015'te başlamasından bu yana en yoğun yılını yaşamaya hazırlanıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/uluslararasi-piyasalarda-yuanin-kullanimi-rekora-hazirlaniyor-3793902",
-    "ts": 1794205270000,
-    "tags": []
-   },
-   {
-    "t": "Ekonomi ve siyaset gündemi - 9 Kasım 2026",
-    "tt": null,
-    "s": "Ekonomi ve siyaset gündeminde günün öne çıkan gelişmeleri...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-9-kasim-2026-3793901",
-    "ts": 1794203489000,
-    "tags": []
-   },
-   {
-    "t": "TESKOMB kefaletli krediler 900 milyar TL'yi aştı",
-    "tt": null,
-    "s": "Ticaret Bakanlığı'nın açıklamasına göre, TESKOMB kefaletiyle, Halkbank kaynaklı olarak ve Hazine'nin yüzde 50 maliyet sübvansiyonu ile esnaf ve sanatkârlara sağlanan krediler 907,8 milyar TL'ye ulaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/teskomb-kefaletli-krediler-900-milyar-tl-yi-asti-3793900",
-    "ts": 1794202818000,
     "tags": []
    }
   ]
