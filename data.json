@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T23:17:44.925915+00:00",
+ "generated": "2026-11-09T23:54:27.584439+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 4144.8,
-   "c": 1.72,
-   "d": 69.9,
+   "p": 4146.9,
+   "c": 1.77,
+   "d": 72.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.395,
-   "c": 3.07,
-   "d": 1.592,
+   "p": 53.445,
+   "c": 3.17,
+   "d": 1.642,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.27,
-   "c": -5.02,
-   "d": -4.56,
+   "p": 86.47,
+   "c": -4.8,
+   "d": -4.36,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.16,
-   "c": -6.27,
-   "d": -6.16,
+   "p": 92.31,
+   "c": -6.11,
+   "d": -6.01,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1966,
+   "p": 50.196,
    "c": 0.09,
-   "d": 0.044,
+   "d": 0.043,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75087,
-   "c": -0.45,
+   "p": 75250,
+   "c": 0.73,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2130.21,
-   "c": -1.32,
+   "p": 2132.0,
+   "c": 0.32,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.54,
-   "c": -1.53,
+   "p": 86.55,
+   "c": 0.12,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.099,
-   "c": -2.74,
+   "c": -1.21,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 689.37,
-   "c": -0.22,
+   "p": 689.77,
+   "c": 0.84,
    "k": "usd"
   }
  ],
@@ -494,6 +494,33 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Latest Oil Market News and Analysis for Nov. 10",
+    "tt": "10 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil traded near its lowest since August after US President Donald Trump said further strikes on Iran wouldn’t be necessary.",
+    "ss": "Petrol fiyatları, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalara ilişkin iyimserliğin, bölgedeki saldırılara ilişkin endişelere ağır basmasıyla Ağustos ayından bu yana en düşük seviyesine gerilemesinin ardından yatay seyrediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+    "ts": 1794265304000,
+    "tags": []
+   },
+   {
+    "t": "Japan Household Outlays Fall Most Since Pandemic",
+    "tt": null,
+    "s": "Japan’s household spending fell by the most since 2020, highlighting persistent weakness in consumption, even as the Bank of Japan grows more confident that inflation has become entrenched enough to warrant further interest-rate increases.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/japan-household-outlays-fall-for-10th-month-as-inflation-lingers",
+    "ts": 1794267255000,
+    "tags": []
+   },
+   {
+    "t": "Australia’s Consumer Confidence Slumps on Cost-of-Living Fears",
+    "tt": null,
+    "s": "Australia’s consumer confidence tumbled deeper into pessimistic territory in November after the Reserve Bank raised interest rates for a fifth time this year to tackle stubbornly strong inflation.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/australia-s-consumer-confidence-slumps-on-cost-of-living-fears",
+    "ts": 1794267000000,
+    "tags": []
+   },
+   {
     "t": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
     "s": "Asian stocks were poised to track Wall Street higher as a rally in technology shares and a slump in oil prices drove US benchmarks to their best day in seven months.",
@@ -508,17 +535,18 @@
     ]
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 10",
-    "tt": "10 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil steadied after slumping to its lowest since August, as optimism around diplomatic efforts to end the war in the Middle East outweighed concerns over attacks in the region.",
-    "ss": "Petrol fiyatları, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalara ilişkin iyimserliğin, bölgedeki saldırılara ilişkin endişelere ağır basmasıyla Ağustos ayından bu yana en düşük seviyesine gerilemesinin ardından yatay seyrediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
-    "ts": 1794265304000,
+    "t": "Colombian Inflation Accelerates Less Than Forecast to 6.30%",
+    "tt": null,
+    "s": "Colombian inflation accelerated less than expected in October, easing pressure on policymakers to resume interest rate increases.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/colombian-inflation-accelerates-less-than-forecast-to-6-30",
+    "ts": 1794265909000,
     "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
     ]
    },
    {
@@ -572,33 +600,6 @@
     "ss": "JBS NV, ABD sığır eti işinde nihayet bir miktar iyileşme görüyor ancak bu iyileşme, Çin'in dünyanın en büyük et paketleyicisine uyguladığı ithalat kısıtlamalarının etkisini aşmaya yetmedi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/jbs-profit-hit-as-china-quotas-overshadow-us-beef-improvement",
     "ts": 1794259657000,
-    "tags": []
-   },
-   {
-    "t": "CVS Has Not Received Offers For the Retail Pharmacy Business, CEO Says",
-    "tt": "CEO, CVS'nin Perakende Eczane İşi İçin Teklif Almadığını Söyledi",
-    "s": "CVS Health Chief Executive Officer and Chairman David Joyner says no offers have been received yet for its retail pharmacy business which is being spun off in the first half of next year. The company's Aetna insurance unit and Caremark pharmacy benefits division are staying together. Joyner talks ab",
-    "ss": "CVS Health İcra Kurulu Başkanı ve Yönetim Kurulu Başkanı David Joyner, gelecek yılın ilk yarısında devredilecek olan perakende eczane işi için henüz herhangi bir teklif alınmadığını söyledi. Şirketin Aetna sigorta birimi ve Caremark eczane yardımları bölümü birlikte kalıyor. Joyner ab'yla konuşuyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-09/cvs-received-no-offers-for-pharmacies-ceo-says-video",
-    "ts": 1794260959000,
-    "tags": []
-   },
-   {
-    "t": "JPMorgan Weighs Big Discount to Lure Lenders for Software Debt",
-    "tt": "JPMorgan, Borç Verenleri Yazılım Borcuna Çekmek İçin Büyük İndirimi Tartıyor",
-    "s": "Banks led by JPMorgan Chase &amp; Co. could offer one of the year’s biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc. that the underwriters were stuck holding a few months ago.",
-    "ss": "JPMorgan Chase & Co. liderliğindeki bankalar, sigortacıların birkaç ay önce elinde tutmak zorunda kaldığı yazılım firması Qualtrics International Inc.'e olan 5 milyar dolarlık borcun bir kısmını satmak için yılın en büyük indirimlerinden birini sunabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt",
-    "ts": 1794260786000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Sees Historic Split From S&P as Stock Sinks, Market Soars",
-    "tt": "Nvidia, Hisse Senedi Düşerken ve Piyasa Yükselirken S&P'den Tarihi Ayrışmayı Görüyor",
-    "s": "As Nvidia Corp goes, so too does the US stock market, until Monday, that is.",
-    "ss": "Pazartesi gününe kadar Nvidia Corp gibi ABD borsaları da öyle.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-sees-historic-split-from-s-p-as-stock-sinks-market-soars",
-    "ts": 1794260476000,
     "tags": []
    }
   ],
@@ -708,6 +709,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "tt": null,
+    "s": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "ts": 1794268320000,
+    "tags": []
+   },
+   {
     "t": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
     "tt": "Rocket Lab hisseleri, şirketin 'belirleyici' çeyreğinin hedefi kaçırmasının ardından düştü",
     "s": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
@@ -787,18 +797,18 @@
     "u": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
     "ts": 1794258840000,
     "tags": []
-   },
-   {
-    "t": "I’m 53 and not sure how to handle merging finances with my long-term partner.",
-    "tt": "53 yaşındayım ve uzun vadeli ortağımla mali birleşmeyi nasıl halledeceğimden emin değilim.",
-    "s": "The ‘split’ you discuss should be more about estate planning than contemplating a future divorce",
-    "ss": "Tartıştığınız 'bölünme' gelecekteki bir boşanmayı düşünmekten ziyade mülk planlamasıyla ilgili olmalı",
-    "u": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
-    "ts": 1794258120000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Exhausted Pianist Pulled Out Of Pacific Nine Hours After Falling Overboard",
+    "tt": null,
+    "s": "Exhausted Pianist Pulled Out Of Pacific Nine Hours After Falling Overboard Two fishermen heading home from a marlin trip off Southern California pulled a Royal Caribbean crew member out of the Pacific on Nov. 6 after he had been in the water for about nine hours, CruiseHive reported .&nbsp; The man ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/exhausted-pianist-pulled-out-pacific-nine-hours-after-falling-overboard",
+    "ts": 1794267600000,
+    "tags": []
+   },
    {
     "t": "\"Only Joking - Maybe Not\": Sotomayor Takes Aim At Supreme Court's Presidential Immunity Ruling",
     "tt": "\"Sadece Şaka - Belki Değil\": Sotomayor, Yüksek Mahkemenin Cumhurbaşkanlığı Dokunulmazlığı Kararını Hedef Alıyor",
@@ -806,6 +816,15 @@
     "ss": "\"Sadece Şaka - Belki Değil\": Sotomayor, Yüksek Mahkemenin Cumhurbaşkanlığı Dokunulmazlığı Kararını Hedef Alıyor Yargıç Sonia Sotomayor Cumartesi günü yaptığı açıklamada, Yüksek Mahkemenin bir gün eski başkanlara cezai kovuşturmaya karşı geniş koruma sağlayan 2024 kararını tersine çevireceğini umduğunu söyledi ve bunu birkaç Aralık kararından biri olarak nitelendirdi.",
     "u": "https://www.zerohedge.com/political/only-joking-maybe-not-sotomayor-takes-aim-supreme-courts-presidential-immunity-ruling",
     "ts": 1794266400000,
+    "tags": []
+   },
+   {
+    "t": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House",
+    "tt": null,
+    "s": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House Former White House Chief of Staff Susie Wiles is facing new allegations that Make America Healthy Again (MAHA) activists were blacklisted from White House events after speaking out against alleged corruption involving the E",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/leaked-photo-susie-wiles-accused-banning-maha-activists-white-house",
+    "ts": 1794266100000,
     "tags": []
    },
    {
@@ -871,24 +890,6 @@
     "ss": "'Kurbanların Partisi' Üzerine James Howard Kunstler tarafından Clusterfuck Nation aracılığıyla yazılmıştır, The Curse It Is Cast \"... tarih ve hatta yolsuzluğun kendisi bile dayanılmaz olanı normalleştirmenin bir yoluna sahiptir.\"  - Substack'ta Naomi Wolf Pazar gecesi Başkan'la yapılan 60 dakikalık röportaj tam bir sersemleticiydi: hepsi",
     "u": "https://www.zerohedge.com/political/party-victims",
     "ts": 1794259200000,
-    "tags": []
-   },
-   {
-    "t": "Massie Starts The Clock On Hegseth's Impeachment - Here's How Many Republicans He Needs",
-    "tt": "Massie, Hegseth'in azledilmesiyle ilgili zamanı başlatıyor - İşte kaç Cumhuriyetçiye ihtiyacı var",
-    "s": "Massie Starts The Clock On Hegseth's Impeachment - Here's How Many Republicans He Needs Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor Monday afternoon , and because the resolution is privileged, the House has to take it ",
-    "ss": "Massie, Hegseth'in Azil Konusunda Zamanı Başlatıyor - İşte Temsilciye Kaç Cumhuriyetçiye İhtiyacı Var Thomas Massie (R-Ky.), Pazartesi öğleden sonra Meclis salonunda Savunma Bakanı Pete Hegseth'e yönelik sekiz azil maddesini sundu ve karar ayrıcalıklı olduğundan Meclis bunu kabul etmek zorunda",
-    "u": "https://www.zerohedge.com/political/massie-starts-clock-hegseths-impeachment-heres-how-many-republicans-he-needs",
-    "ts": 1794257100000,
-    "tags": []
-   },
-   {
-    "t": "Kamala Harris Finishes 16th With Under 1% In Progressive 2028 Straw Poll",
-    "tt": "Kamala Harris Progressive 2028 Straw Anketinde %1'in Altında 16. Sırada Yer Aldı",
-    "s": "Kamala Harris Finishes 16th With Under 1% In Progressive 2028 Straw Poll Authored by AG News Staff via American Greatness , Former Vice President Kamala Harris drew just 0.6 percent in a 2028 presidential straw poll at a gathering of progressive activists, finishing 16th , the New York Post reported",
-    "ss": "Kamala Harris, AG News Staff tarafından American Greatness aracılığıyla yazılan 2028 Straw Anketinde %1'in Altında İlerlemeyle 16. Sırada Bitirdi, Eski Başkan Yardımcısı Kamala Harris, ilerici aktivistlerin bir araya geldiği 2028 başkanlık saman anketinde sadece yüzde 0,6 oy alarak 16. sırada yer aldı New York Post'un haberine göre",
-    "u": "https://www.zerohedge.com/political/kamala-harris-finishes-16th-under-1-progressive-2028-straw-poll",
-    "ts": 1794256200000,
     "tags": []
    }
   ],
@@ -997,6 +998,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
