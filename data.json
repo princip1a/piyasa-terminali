@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T00:10:40.272912+00:00",
+ "generated": "2026-11-09T01:26:24.379802+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4066.9,
-   "c": -0.2,
-   "d": -8.0,
+   "p": 4115.9,
+   "c": 1.01,
+   "d": 41.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.685,
-   "c": -0.23,
-   "d": -0.118,
+   "p": 53.03,
+   "c": 2.37,
+   "d": 1.227,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.43,
-   "c": -0.44,
-   "d": -0.4,
+   "p": 90.45,
+   "c": -0.42,
+   "d": -0.38,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 97.58,
-   "c": -0.75,
-   "d": -0.74,
+   "p": 97.45,
+   "c": -0.88,
+   "d": -0.87,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.21,
-   "c": -0.09,
-   "d": -0.09,
+   "p": 102.163,
+   "c": -0.13,
+   "d": -0.137,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1732,
-   "c": 0.04,
-   "d": 0.02,
+   "p": 50.1627,
+   "c": 0.02,
+   "d": 0.01,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74621,
-   "c": -1.47,
+   "p": 74892,
+   "c": -1.06,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2126.35,
-   "c": -4.91,
+   "p": 2130.72,
+   "c": -4.54,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.52,
-   "c": -3.45,
+   "p": 87.19,
+   "c": -2.37,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.11,
-   "c": -4.64,
+   "c": -4.04,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 684.22,
-   "c": -1.61,
+   "p": 686.21,
+   "c": -1.25,
    "k": "usd"
   }
  ],
@@ -494,9 +494,27 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asia Stocks Open Mostly Higher, Nvidia Probe Looms: Markets Wrap",
+    "t": "Lula Vows Fiscal Responsibility in First Address Since Election",
+    "tt": "Lula, Seçimden Bu Yana İlk Konuşmasında Mali Sorumluluk Yemini Verdi",
+    "s": "President Luiz Inácio Lula da Silva pledged to preserve Brazil’s public finances without abandoning social programs in his first televised address since winning a fourth term, as he sought to reassure investors.",
+    "ss": "Başkan Luiz Inácio Lula da Silva, yatırımcılara güvence vermeye çalışırken, dördüncü dönemi kazanmasından bu yana televizyonda yayınlanan ilk konuşmasında sosyal programlardan vazgeçmeden Brezilya'nın kamu maliyesini koruyacağına söz verdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/lula-vows-fiscal-responsibility-in-first-address-since-election",
+    "ts": 1794186588000,
+    "tags": []
+   },
+   {
+    "t": "Berkshire Hathaway Plans First Japan Bond Offering Since April",
+    "tt": "Berkshire Hathaway Nisandan Bu Yana İlk Japonya Tahvili Arzını Planlıyor",
+    "s": "Berkshire Hathaway Inc. has hired banks for its first yen bond sale since April, according to people familiar with the matter, as it prepares to raise more funds in Japan.",
+    "ss": "Berkshire Hathaway Inc., Japonya'da daha fazla fon toplamaya hazırlanırken, konuya yakın kaynaklara göre Nisan ayından bu yana ilk yen tahvil satışı için bankalarla anlaştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/berkshire-hathaway-plans-first-japan-bond-offering-since-april",
+    "ts": 1794186270000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Follow US Gains, Nvidia Probe Looms: Markets Wrap",
     "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
-    "s": "Asian stocks opened mostly higher early Monday following gains in US equities, though advances were tempered by concern over an investigation into Nvidia Corp.’s chief executive officer Jensen Huang.",
+    "s": "Asian stocks opened higher following Friday’s gains in US equities, though advances were tempered by concern over an investigation involving Nvidia Corp.’s chief executive officer Jensen Huang.",
     "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
     "ts": 1794176451000,
@@ -509,6 +527,15 @@
     "ss": "Petrol fiyatları, tüccarların bölgedeki yeni saldırılara karşı ABD-İran anlaşmazlığını sona erdirmeye yönelik diplomatik çabalara ağırlık vermesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
     "ts": 1794179007000,
+    "tags": []
+   },
+   {
+    "t": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown",
+    "tt": "En Yüksek Puana Sahip Firmadaki Ani Sıkıntı Çin'in Not Çöküşünü Test Ediyor",
+    "s": "Less than six months ago, China’s central bank made its biggest push yet to tackle inflated credit ratings in the nation’s $5.6 trillion corporate debt market. Now it has a live test case.",
+    "ss": "Altı aydan kısa bir süre önce Çin merkez bankası, ülkenin 5,6 trilyon dolarlık kurumsal borç piyasasında şişirilmiş kredi notlarıyla mücadele etmek için şimdiye kadarki en büyük hamlesini yaptı. Artık canlı bir test durumu var.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/sudden-distress-at-top-rated-firm-tests-china-s-rating-crackdown",
+    "ts": 1794181941000,
     "tags": []
    },
    {
@@ -560,33 +587,6 @@
     "ss": "Wall Street, Hazine piyasasının ABD ara seçimlerinde Demokrat Parti'nin ezici çoğunluğundan kazanan olarak çıktığını ve bu durumun yatırımcılara bu yılki keskin satışları yeniden düşünmek için bir neden daha verdiğini düşünüyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
     "ts": 1794168000000,
-    "tags": []
-   },
-   {
-    "t": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
-    "tt": "Wall Street'i İzlemek, Polonya'da Ölümcül Toplu Saldırı, Mavi Dalgadan Sonra İşe Dönüş",
-    "s": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. Deputy Secretary of State & Fmr. US Special Representative for North Korea Stephen Biegun, SMB",
-    "ss": "Piyasalar kapanınca haberler bitmiyor. Sunucular David Gura, Christina Ruffini ve Lisa Mateo, hafta sonunun en büyük manşetleri olan New York'tan CANLI yayına netlik, bağlam ve biraz mizah getiriyor. Fmr'a katıldı. Dışişleri Bakan Yardımcısı ve Fmr. ABD'nin Kuzey Kore Özel Temsilcisi Stephen Biegun, KOBİ",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video",
-    "ts": 1794157423000,
-    "tags": []
-   },
-   {
-    "t": "Bookmarked: News Stories On Our Reading List",
-    "tt": "Favorilere Eklendi: Okuma Listemizdeki Haberler",
-    "s": "The Met Gala announces a 'normie' theme, the end of floppy disks, lawsuit over McRib contents, and the Hall of Fame of Toys: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Sou",
-    "ss": "Met Gala bir 'normi' temasını, disketlerin sonunu, McRib içerikleriyle ilgili davayı ve Hall of Fame of Toys'u duyuruyor: Geçen hafta dikkatlerini çeken hikayeleri paylaştıkları Bookmarked için Bu Hafta Sonu Bloomberg'de David Gura, Christina Ruffini ve Lisa Mateo'ya katılın. (Yani",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-08/bookmarked-news-stories-on-our-reading-list-video",
-    "ts": 1794155418000,
-    "tags": []
-   },
-   {
-    "t": "By The Way: Headlines You May Have Missed",
-    "tt": "Bu arada: Kaçırmış Olabileceğiniz Başlıklar",
-    "s": "Choosing who to give Christmas presents to, a Christmas themed cruise, students making a deposit for college and then not attending, and the SATs and AP tests tackle AI cheating: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source:",
-    "ss": "Noel hediyelerinin kime verileceğinin seçilmesi, Noel temalı bir gezi, üniversite için para yatıran ve daha sonra okula gitmeyen öğrenciler ve SAT ve AP testleri yapay zeka hileleriyle mücadele ediyor: Kaçırmış olabileceğiniz ama görmeniz gereken manşetlerin özeti için Lisa Mateo, David Gura ve Christina Ruffini'ye katılın. (Kaynak:",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
-    "ts": 1794154992000,
     "tags": []
    }
   ],
@@ -701,6 +701,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    "tt": "'Hayatım kısa kesilebilir': 55 yaşındayım, evliyim ve beyin tümörüm var. 210.000 dolarlık bir Porsche'ye mi para harcamalıyım?",
+    "s": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+    "ss": "\"Ben de iki oğluma anlamlı bir miras bırakma fırsatını korumak istiyorum.\"",
+    "u": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "ts": 1794187260000,
+    "tags": []
+   },
+   {
+    "t": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+    "tt": "S&P 500 tehlikeli bir şekilde yapay zekaya maruz kalabilir. İşte bazı basit alternatifler.",
+    "s": "The large-cap index is nowhere near as diversified as you think.",
+    "ss": "Büyük endeks endeksi düşündüğünüz kadar çeşitliliğe yakın değil.",
+    "u": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+    "ts": 1794184800000,
+    "tags": []
+   },
+   {
+    "t": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+    "tt": "Danışmanımı ikinci kez tahmin ediyorum: Bu piyasada yıllık gelir doğru bir hareket midir?",
+    "s": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+    "ss": "\"Henüz bu stratejiyi taahhüt etmedim ve bazı bağımsız bakış açılarını takdir ediyorum.\"",
+    "u": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "ts": 1794184200000,
+    "tags": []
+   },
+   {
     "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
     "tt": "'Sanki sessizce ayrı bir hayat inşa ediyormuş gibi geliyor': Kocama 500.000 dolar miras kaldı ama bunu evimize harcamayı reddediyor",
     "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
@@ -762,36 +789,27 @@
     "u": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
     "ts": 1794179100000,
     "tags": []
-   },
-   {
-    "t": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    "tt": "'Tuhaf görünüyor': Geleneksel IRA'larda 950.000 dolar ile 80'li yaşlarımızdayız. Danışmanımız neden Roth'un dönüşümünü zorluyor?",
-    "s": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-    "ss": "“Temel yaşam masraflarımız yıllık 110.000 dolar emekli maaşı ve Sosyal Güvenlik tarafından karşılanıyor.”",
-    "u": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "ts": 1794160800000,
-    "tags": []
-   },
-   {
-    "t": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-    "tt": "Babamın cenazesinden iki ay sonra üvey annem benden onun 40.000 dolarlık düğün hediyesini geri ödememi istedi. Onun dediğini yapmalı mıyım?",
-    "s": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
-    "ss": "\"Cenazesinden yaklaşık iki ay sonra üvey annem aradı ve parayı geri istediğini söyledi.\"",
-    "u": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-    "ts": 1794159000000,
-    "tags": []
-   },
-   {
-    "t": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "tt": "'Finansal güvenlik ağım yok': 66 yaşındayım, Sosyal Güvenlik'e güveniyorum ve sadece 500 dolar birikimim var. Ne umudum var?",
-    "s": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
-    "ss": "\"Bazen zengin Amerikalıların benim gibi insanlarla yer değiştirmesi gerekip gerekmediğini merak ediyorum.\"",
-    "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "ts": 1794151800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Trump Says He's 'Highly Unlikely' To Order New Bombing Of Iran If Talks Progress",
+    "tt": "Trump, Görüşmeler İlerlerse İran'a Yeni Bomba Saldırısı Emri Verme Olasılığının Düşük Olduğunu Söyledi",
+    "s": "Trump Says He's 'Highly Unlikely' To Order New Bombing Of Iran If Talks Progress Did President Trump finally get the message after the GOP's disastrous midterm showing?&nbsp; He remarked Sunday that it is \"highly unlikely\" he will need to order US forces to war with Iran as long as there is progress",
+    "ss": "Trump, Müzakereler İlerlerse İran'a Yeni Bir Bomba Saldırısı Emri Vermesinin 'Oldukça Olasılıksız' Olduğunu Söyledi Başkan Trump, GOP'un feci ara seçim dönemi gösterisinin ardından nihayet mesajı aldı mı?  Pazar günü yaptığı açıklamada, ilerleme olduğu sürece ABD kuvvetlerine İran'la savaş emri vermesinin \"pek olası olmadığını\" belirtti",
+    "u": "https://www.zerohedge.com/geopolitical/trump-says-hes-highly-unlikely-order-new-bombing-iran-if-talks-progress",
+    "ts": 1794187200000,
+    "tags": []
+   },
+   {
+    "t": "The Nuclear Startup Suing The NRC Is Asking For A Permit",
+    "tt": "NRC'ye Dava Açan Nükleer Şirket İzin İstiyor",
+    "s": "The Nuclear Startup Suing The NRC Is Asking For A Permit Of all the startups in DOE's Reactor Pilot Program, few have made less noise than Last Energy. It is a surprising change from the company that initiated the legal action questioning the scope of the Nuclear Regulatory Commission's authority . ",
+    "ss": "Nükleer Şirket NRC'ye Dava Açıyor İzin İstiyor DOE'nin Reaktör Pilot Programındaki tüm girişimler arasında çok azı Last Energy'den daha az ses çıkardı. Nükleer Düzenleme Komisyonu'nun yetki kapsamını sorgulayan davayı başlatan şirketten bu değişiklik şaşırtıcı.",
+    "u": "https://www.zerohedge.com/energy/nuclear-startup-suing-nrc-asking-permit",
+    "ts": 1794185700000,
+    "tags": []
+   },
    {
     "t": "Party Buses & A Cybertruck Piñata: Anti-Musk Protesters Celebrate Outside His Texas Home As Dems Talk Subpoenas",
     "tt": "Parti Otobüsleri ve Cybertruck Piñata: Demler Mahkeme Çağrılarını Konuşurken Misk Karşıtı Protestocular Teksas'taki Evinin Dışında Kutluyor",
@@ -862,24 +880,6 @@
     "ss": "İzle: Uçak Klipsleri Kamyonet Kalabalık Florida Yoluna Vahşi Acil İnişte İçinde iki pilot bulunan küçük bir uçak, Cumartesi günü North Fort Myers, Florida'da yoğun bir yola acil iniş yaptı ve trafikte Bayshore Yolu'nda yuvarlanan bir kamyonetin arkasını kırptı. Pilotlar rapor verdi",
     "u": "https://www.zerohedge.com/technology/watch-plane-clips-pickup-truck-wild-emergency-landing-packed-florida-road",
     "ts": 1794170700000,
-    "tags": []
-   },
-   {
-    "t": "Democrat Loses 'Flipped' Georgia Seat After 'Missing' Memory Card Found",
-    "tt": "Demokrat, 'Kayıp' Hafıza Kartı Bulunduktan Sonra 'Ters Çevrilmiş' Georgia Koltuğunu Kaybetti",
-    "s": "Democrat Loses 'Flipped' Georgia Seat After 'Missing' Memory Card Found Georgia Democrats spent the week celebrating their first state House majority in more than two decades. Then the secretary of state's office found an Election Day memory card in Seminole County that had never been uploaded. AP P",
-    "ss": "Demokrat, 'Eksik' Hafıza Kartı Bulunduktan Sonra 'Tersine Dönmüş' Georgia Koltuğunu Kaybetti Georgia Demokratları, haftayı yirmi yılı aşkın bir süredir ilk Eyalet Meclisi çoğunluğunu kutlayarak geçirdiler. Daha sonra dışişleri bakanı Seminole İlçesinde daha önce hiç yüklenmemiş bir Seçim Günü hafıza kartı buldu. UYGULAMA",
-    "u": "https://www.zerohedge.com/political/democrat-loses-flipped-georgia-seat-after-missing-memory-card-found",
-    "ts": 1794169200000,
-    "tags": []
-   },
-   {
-    "t": "\"I Was Unfaithful To My Wife\": Jensen Huang Admits Affair As Nvidia Board Launches Chinese Spy Probe",
-    "tt": "\"Karıma Sadakatsizdim\": Nvidia Yönetim Kurulu Çin Casus Soruşturmasını Başlatırken Jensen Huang İlişkiyi Kabul Etti",
-    "s": "\"I Was Unfaithful To My Wife\": Jensen Huang Admits Affair As Nvidia Board Launches Chinese Spy Probe Update (1505ET): Jensen Huang has admitted to an affair , telling Nvidia staff in a memo that he was unfaithful to his wife, two days after the Financial Times reported that U.S. intelligence believe",
-    "ss": "\"Karıma Sadakatsizdim\": Nvidia Yönetim Kurulu Çin Casus Araştırması Güncellemesini (1505ET) Başlattığında Jensen Huang İlişkiyi Kabul Etti: Financial Times'ın ABD istihbaratının inandığını bildirmesinden iki gün sonra Jensen Huang, bir notta Nvidia çalışanlarına karısına sadakatsiz olduğunu söyleyerek bir ilişki yaşadığını itiraf etti",
-    "u": "https://www.zerohedge.com/ai/jensen-huang-had-romantic-relationship-alleged-chinese-spy-reports",
-    "ts": 1794168703000,
     "tags": []
    }
   ],
