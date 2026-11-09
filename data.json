@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T23:24:15.523006+00:00",
+ "generated": "2026-11-09T00:10:40.272912+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4075.9,
-   "c": 0.02,
-   "d": 1.0,
+   "p": 4066.9,
+   "c": -0.2,
+   "d": -8.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.9,
-   "c": 0.19,
-   "d": 0.097,
+   "p": 51.685,
+   "c": -0.23,
+   "d": -0.118,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 90.35,
-   "c": -0.53,
-   "d": -0.48,
+   "p": 90.43,
+   "c": -0.44,
+   "d": -0.4,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 97.48,
-   "c": -0.85,
-   "d": -0.84,
+   "p": 97.58,
+   "c": -0.75,
+   "d": -0.74,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.24,
-   "c": -0.06,
-   "d": -0.06,
+   "p": 102.21,
+   "c": -0.09,
+   "d": -0.09,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1306,
-   "c": -0.04,
-   "d": -0.022,
+   "p": 50.1732,
+   "c": 0.04,
+   "d": 0.02,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 75512,
-   "c": -0.22,
+   "p": 74621,
+   "c": -1.47,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2160.3,
-   "c": -3.18,
+   "p": 2126.35,
+   "c": -4.91,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 87.98,
-   "c": -1.45,
+   "p": 86.52,
+   "c": -3.45,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.13,
-   "c": -2.52,
+   "p": 1.11,
+   "c": -4.64,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 690.66,
-   "c": -0.52,
+   "p": 684.22,
+   "c": -1.61,
    "k": "usd"
   }
  ],
@@ -494,6 +494,39 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Asia Stocks Open Mostly Higher, Nvidia Probe Looms: Markets Wrap",
+    "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
+    "s": "Asian stocks opened mostly higher early Monday following gains in US equities, though advances were tempered by concern over an investigation into Nvidia Corp.’s chief executive officer Jensen Huang.",
+    "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794176451000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 9",
+    "tt": "9 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil extended its biggest weekly drop since April 2020 as traders weighed diplomatic efforts to end the US-Iran conflict against fresh attacks in the region.",
+    "ss": "Petrol fiyatları, tüccarların bölgedeki yeni saldırılara karşı ABD-İran anlaşmazlığını sona erdirmeye yönelik diplomatik çabalara ağırlık vermesiyle Nisan 2020'den bu yana en büyük haftalık düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+    "ts": 1794179007000,
+    "tags": []
+   },
+   {
+    "t": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
+    "tt": "Altın, ABD İş Verileri Hayranlarının Aralık Faiz Oranı Artırım Bahisleri Nedeniyle Düşüşünü Sürdürüyor",
+    "s": "Gold held a late-week retreat after strong US jobs data reinforced expectations the Federal Reserve will seek to raise interest rates to combat inflation.",
+    "ss": "Altın, ABD'den gelen güçlü istihdam verilerinin Fed'in enflasyonla mücadele için faiz oranlarını artırmaya çalışacağı beklentilerini güçlendirmesinin ardından hafta sonu gerilemesini sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+    "ts": 1794181210000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Nvidia Probes Huang Affair Amid Spying Controversy",
     "tt": "Nvidia, Casusluk Tartışmasının Ortasında Huang Olayını Araştırıyor",
     "s": "Nvidia Corp. Chief Executive Officer Jensen Huang says he is cooperating fully with an independent board investigation after admitting to an extramarital relationship. The inquiry follows US intelligence suspicions that a female executive was recruited by a Chinese intelligence agency. (Source: Bloo",
@@ -503,12 +536,12 @@
     "tags": []
    },
    {
-    "t": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
-    "tt": "Asya Piyasaları Nvidia Probu Üzerinde Baskı Riskiyle Karşı Karşıya: Piyasa Özeti",
-    "s": "Asian markets may come under pressure Monday as fresh uncertainty surrounding Nvidia Corp. added to concerns over the technology sector following a bruising selloff.",
-    "ss": "Asya piyasaları, Nvidia Corp.'u çevreleyen yeni belirsizliğin, can sıkıcı satışların ardından teknoloji sektörüne ilişkin endişeleri artırmasıyla Pazartesi günü baskı altına girebilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794176451000,
+    "t": "Australia Regulator Halts Private Credit Fund on Bathla Risks",
+    "tt": "Avustralya Düzenleyicisi Bathla Risklerine İlişkin Özel Kredi Fonunu Durdurdu",
+    "s": "Australia’s regulator stopped Angas Securities Ltd. from selling two managed investment schemes, the latest in a slew of actions to prevent private credit funds offering products that don’t adequately highlight potential risks.",
+    "ss": "Avustralya'nın düzenleyici kurumu, Angas Securities Ltd.'nin iki yönetilen yatırım planını satmasını durdurdu; bu, özel kredi fonlarının potansiyel riskleri yeterince vurgulamayan ürünler sunmasını engellemek için yapılan bir dizi eylemin sonuncusu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-08/australia-regulator-halts-private-credit-fund-on-bathla-risks",
+    "ts": 1794178665000,
     "tags": []
    },
    {
@@ -527,15 +560,6 @@
     "ss": "Wall Street, Hazine piyasasının ABD ara seçimlerinde Demokrat Parti'nin ezici çoğunluğundan kazanan olarak çıktığını ve bu durumun yatırımcılara bu yılki keskin satışları yeniden düşünmek için bir neden daha verdiğini düşünüyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
     "ts": 1794168000000,
-    "tags": []
-   },
-   {
-    "t": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub",
-    "tt": "Riyad Finans Merkezindeki Nadir Saldırıda Suudi Aramco Kulesi Hedef Alındı",
-    "s": "A Houthi attack damaged one of the landmarks of the Saudi Arabian capital’s financial district, upsetting plans for a return to normal about a month after deadly strikes on Riyadh’s airport disrupted travel and canceled showpiece events.",
-    "ss": "Bir Husi saldırısı, Suudi Arabistan'ın başkentinin finans bölgesinin simge yapılarından birine zarar vererek, Riyad'ın havaalanına yapılan ölümcül saldırıların seyahati kesintiye uğratması ve gösterişli etkinliklerin iptal edilmesinden yaklaşık bir ay sonra normale dönüş planlarını altüst etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub",
-    "ts": 1794158142000,
     "tags": []
    },
    {
@@ -563,24 +587,6 @@
     "ss": "Noel hediyelerinin kime verileceğinin seçilmesi, Noel temalı bir gezi, üniversite için para yatıran ve daha sonra okula gitmeyen öğrenciler ve SAT ve AP testleri yapay zeka hileleriyle mücadele ediyor: Kaçırmış olabileceğiniz ama görmeniz gereken manşetlerin özeti için Lisa Mateo, David Gura ve Christina Ruffini'ye katılın. (Kaynak:",
     "u": "https://www.bloomberg.com/news/videos/2026-11-08/by-the-way-headlines-you-may-have-missed-video",
     "ts": 1794154992000,
-    "tags": []
-   },
-   {
-    "t": "Markets Brace for Washington Policy Battles",
-    "tt": "Piyasalar Washington Politika Savaşlarına Hazırlanıyor",
-    "s": "On Bloomberg This Weekend, SMBC Nikko Securities Chief Economist Joe Lavorgna says affordability helped drive the midterm results but argues the underlying US economy remains healthy and major policy changes may be limited by divided government. Speaking with hosts David Gura and Christina Ruffini, ",
-    "ss": "Bu Hafta Sonu Bloomberg'de SMBC Nikko Securities Baş Ekonomisti Joe Lavorgna, uygun fiyatlılığın orta vadeli sonuçların artmasına yardımcı olduğunu söyledi ancak temeldeki ABD ekonomisinin sağlıklı kaldığını ve büyük politika değişikliklerinin bölünmüş hükümet tarafından sınırlanabileceğini savundu. Sunucular David Gura ve Christina Ruffini ile konuşurken,",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-08/markets-brace-for-washington-policy-battles-video",
-    "ts": 1794154623000,
-    "tags": []
-   },
-   {
-    "t": "Israel’s Election Fight Shifts to Coalition Building",
-    "tt": "İsrail'in Seçim Mücadelesi Koalisyon Binasına Kaydı",
-    "s": "On Bloomberg This Weekend, Bloomberg Middle East reporter Dan Williams explains why Gadi Eisenkot has been given the first opportunity to form Israel’s next government despite Benjamin Netanyahu’s bloc winning more seats. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the r",
-    "ss": "Bu Hafta Sonu Bloomberg'de Bloomberg Orta Doğu muhabiri Dan Williams, Benjamin Netanyahu'nun bloğunun daha fazla sandalye kazanmasına rağmen neden Gadi Eisenkot'a İsrail'in bir sonraki hükümetini kurma fırsatı verildiğini açıklıyor. Sunucular David Gura ve Christina Ruffini ile konuşan Williams,",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-08/israel-s-election-fight-shifts-to-coalition-building-video",
-    "ts": 1794152983000,
     "tags": []
    }
   ],
@@ -695,6 +701,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "tt": "'Sanki sessizce ayrı bir hayat inşa ediyormuş gibi geliyor': Kocama 500.000 dolar miras kaldı ama bunu evimize harcamayı reddediyor",
+    "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    "ss": "\"Mutfağımızın tarihi 1999'dan kalmadır ve fırın yalnızca kapıya belli bir şekilde çarptığınızda çalışır.\"",
+    "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "ts": 1794182520000,
+    "tags": []
+   },
+   {
+    "t": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    "tt": "Geleneksel cenaze işi sona ererken, cenaze evleri düğünlere ve golf gezilerine ev sahipliği yaparak yeni bir hayat buluyor",
+    "s": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+    "ss": "Bir cenaze evi operatörü, \"Bu benim cenazem değil, senin cenazen, o yüzden istediğini yap\" diyor.",
+    "u": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    "ts": 1794182400000,
+    "tags": []
+   },
+   {
+    "t": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+    "tt": "Yeni vergi dilimleriyle 2027'de Roth dönüşümlerinde ne kadar yapabilirsiniz?",
+    "s": "The math should actually start with “if” — not “how much.”",
+    "ss": "Matematik aslında \"ne kadar\" ile değil \"eğer\" ile başlamalıdır.",
+    "u": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+    "ts": 1794181800000,
+    "tags": []
+   },
+   {
+    "t": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+    "tt": "65 yaşındayım ve değerim 5,6 milyon dolardan fazla. 200.000 dolarlık bir kampçıyı karşılayabilir miyim?",
+    "s": "Math may be cold and unemotional — but finances are not.",
+    "ss": "Matematik soğuk ve duygusuz olabilir ama finans öyle değil.",
+    "u": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "ts": 1794181740000,
+    "tags": []
+   },
+   {
+    "t": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "tt": "Bu emekli profesör, bir Taylor Swift akademisyeni olarak kendini yeniden keşfetti",
+    "s": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+    "ss": "Yeğeni onu emekliliğini Taylor Swift'in sözlerini analiz ederek geçirmeye ikna etti. Şimdi 72 yaşında başarılı bir podcast yayıncısı.",
+    "u": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "ts": 1794180900000,
+    "tags": []
+   },
+   {
     "t": "You follow the rules for smart stock trading. But are they the right rules?",
     "tt": "Akıllı hisse senedi ticaretinin kurallarına uyuyorsunuz. Peki bunlar doğru kurallar mı?",
     "s": "Apply the wisdom of investment pros to develop your own consistent methodology.",
@@ -731,24 +782,6 @@
     "tags": []
    },
    {
-    "t": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-    "tt": "Geleneksel cenaze işi sona ererken, cenaze evleri düğünlere ve golf gezilerine ev sahipliği yaparak yeni bir hayat buluyor",
-    "s": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
-    "ss": "Bir cenaze evi operatörü, \"Bu benim cenazem değil, senin cenazen, o yüzden istediğini yap\" diyor.",
-    "u": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-    "ts": 1794158580000,
-    "tags": []
-   },
-   {
-    "t": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "tt": "'Sanki sessizce ayrı bir hayat inşa ediyormuş gibi geliyor': Kocama 500.000 dolar miras kaldı ama bunu evimize harcamayı reddediyor",
-    "s": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-    "ss": "\"Mutfağımızın tarihi 1999'dan kalmadır ve fırın yalnızca kapıya belli bir şekilde çarptığınızda çalışır.\"",
-    "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "ts": 1794153600000,
-    "tags": []
-   },
-   {
     "t": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
     "tt": "'Finansal güvenlik ağım yok': 66 yaşındayım, Sosyal Güvenlik'e güveniyorum ve sadece 500 dolar birikimim var. Ne umudum var?",
     "s": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
@@ -756,36 +789,27 @@
     "u": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
     "ts": 1794151800000,
     "tags": []
-   },
-   {
-    "t": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-    "tt": "93 yaşındaki babam saat 11'de vasiyetini değiştirerek 500.000 dolarlık mirasının tamamını kardeşime bıraktı. Buna meydan okuyabilir miyim?",
-    "s": "“My brother had no job and needed a place to live.”",
-    "ss": "“Kardeşimin işi yoktu ve yaşayacak bir yere ihtiyacı vardı.”",
-    "u": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-    "ts": 1794150960000,
-    "tags": []
-   },
-   {
-    "t": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-    "tt": "Kurumsal Amerika'nın kâr rakamları Wall Street'in beklentilerini zar zor aşıyor",
-    "s": "S&amp;P 500 companies’ earnings are mostly topping analysts’ estimates — but by the narrowest margin in roughly four years.",
-    "ss": "S&P 500 şirketlerinin kazançları çoğunlukla analistlerin tahminlerinin üzerinde seyrediyor, ancak bu oran yaklaşık dört yılın en dar marjında.",
-    "u": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-    "ts": 1794150000000,
-    "tags": []
-   },
-   {
-    "t": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
-    "tt": "'Süzme peynir karşısında kaybediyoruz': Proteini maksimuma çıkarma çılgınlığı krem ​​peynir satışlarına zarar veriyor",
-    "s": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
-    "ss": "ABD'de süzme peynir satışları 2021'de görülen seviyelerin iki katından fazla arttı.",
-    "u": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-    "ts": 1794147180000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Party Buses & A Cybertruck Piñata: Anti-Musk Protesters Celebrate Outside His Texas Home As Dems Talk Subpoenas",
+    "tt": "Parti Otobüsleri ve Cybertruck Piñata: Demler Mahkeme Çağrılarını Konuşurken Misk Karşıtı Protestocular Teksas'taki Evinin Dışında Kutluyor",
+    "s": "Party Buses &amp; A Cybertruck Piñata: Anti-Musk Protesters Celebrate Outside His Texas Home As Dems Talk Subpoenas Two chartered party buses and about a dozen cars pulled up outside Elon Musk's West Lake Hills, Texas, compound on Saturday, and roughly 60 people spent an hour dancing in the street t",
+    "ss": "Parti Otobüsleri ve Bir Cybertruck Piñata: Musk Karşıtı Protestocular, Demokratlar Mahkeme Çağrılarını Konuşurken Teksas'taki Evinin Dışında Kutluyor İki kiralık parti otobüsü ve yaklaşık bir düzine araba, Cumartesi günü Elon Musk'un West Lake Hills, Teksas yerleşkesinin dışına çekildi ve yaklaşık 60 kişi bir saatini sokakta dans ederek geçirdi.",
+    "u": "https://www.zerohedge.com/political/party-buses-cybertruck-pinata-anti-musk-protesters-celebrate-outside-his-texas-home-dems",
+    "ts": 1794182700000,
+    "tags": []
+   },
+   {
+    "t": "Young Voters Broke For Democrats... But Pollsters Say The GOP Hasn't Lost Them Forever",
+    "tt": "Genç Seçmenler Demokratlardan yana tavır aldı ama anketörler GOP'un onları sonsuza kadar kaybetmediğini söylüyor",
+    "s": "Young Voters Broke For Democrats... But Pollsters Say The GOP Hasn't Lost Them Forever Voters under 30, who split roughly evenly between Donald Trump and Kamala Harris in 2024, went about 7 in 10 for the Democratic candidate in their House races on Nov. 3 , with about 3 in 10 backing the Republican,",
+    "ss": "Genç Seçmenler Demokratlar İçin Ayrıldı... Ancak Anketörler GOP'un Onları Sonsuza Kadar Kaybetmediğini Söylüyor 2024'te Donald Trump ve Kamala Harris arasında kabaca eşit bir şekilde bölünen 30 yaşın altındaki seçmenler, 3 Kasım'daki Temsilciler Meclisi yarışlarında Demokrat aday için yaklaşık 10'da 7'lik bir oy aldı ve yaklaşık 10 kişiden 3'ü Cumhuriyetçiyi destekledi.",
+    "u": "https://www.zerohedge.com/political/young-voters-broke-democrats-pollsters-say-gop-hasnt-lost-them-forever",
+    "ts": 1794181200000,
+    "tags": []
+   },
    {
     "t": "Federal Judge Orders Mamdani's NYC To Comply With ICE Subpoena For Shelter Records",
     "tt": "Federal Yargıç, Mamdani'nin NYC'sinin Barınak Kayıtları İçin ICE Mahkeme Çağrısına Uymasını Emretti",
@@ -856,24 +880,6 @@
     "ss": "\"Karıma Sadakatsizdim\": Nvidia Yönetim Kurulu Çin Casus Araştırması Güncellemesini (1505ET) Başlattığında Jensen Huang İlişkiyi Kabul Etti: Financial Times'ın ABD istihbaratının inandığını bildirmesinden iki gün sonra Jensen Huang, bir notta Nvidia çalışanlarına karısına sadakatsiz olduğunu söyleyerek bir ilişki yaşadığını itiraf etti",
     "u": "https://www.zerohedge.com/ai/jensen-huang-had-romantic-relationship-alleged-chinese-spy-reports",
     "ts": 1794168703000,
-    "tags": []
-   },
-   {
-    "t": "Out Of 45 Data Center Votes Across America, Exactly One Went The Industry's Way",
-    "tt": "Amerika Genelindeki 45 Veri Merkezi Oyunundan Tam Olarak Biri Sektörün Yolunda Gitti",
-    "s": "Out Of 45 Data Center Votes Across America, Exactly One Went The Industry's Way Harwood, North Dakota, a town of about 940 people ten miles from Fargo, was the only place in the country where voters sided with a data center on Election Day , according to Redbud Consulting data cited by Fortune , whi",
-    "ss": "Amerika Genelindeki 45 Veri Merkezi Oyunundan Tam Biri Endüstrinin Yoluna Gitti Fortune tarafından aktarılan Redbud Consulting verilerine göre, Fargo'dan on mil uzakta yaklaşık 940 kişilik bir kasaba olan Kuzey Dakota'daki Harwood, ülkede seçim gününde seçmenlerin bir veri merkezinin yanında yer aldığı tek yerdi.",
-    "u": "https://www.zerohedge.com/ai/out-45-data-center-votes-across-america-exactly-one-went-industrys-way",
-    "ts": 1794166200000,
-    "tags": []
-   },
-   {
-    "t": "\"I Personally Paid Laura Loomer\": Second Insider Says Cash Bought Access To Trump - And She Still Talks To Him Daily",
-    "tt": "\"Laura Loomer'a Şahsen Ödeme Yaptım\": İçeriden İkinci Bilgi, Nakitle Trump'a Erişim Sağlandığını Söyledi - Ve O Hâlâ Her Gün Onunla Konuşuyor",
-    "s": "\"I Personally Paid Laura Loomer\": Second Insider Says Cash Bought Access To Trump - And She Still Talks To Him Daily A second figure in Trump's orbit says he personally paid Laura Loomer to post on X - and that what the money really bought was a line to the President.&nbsp; Florida political operati",
-    "ss": "\"Laura Loomer'a Şahsen Ödeme Yaptım\": İçeriden İkinci Kişi Nakit Parayla Trump'a Erişim Sağladığını Söyledi - Ve Hâlâ Her Gün Onunla Konuşuyor Trump'ın yörüngesindeki ikinci bir kişi, Laura Loomer'a X'te paylaşım yapması için kişisel olarak para ödediğini ve paranın gerçekte satın aldığı şeyin Başkana bir hat olduğunu söylüyor.  Florida siyasi operasyonu",
-    "u": "https://www.zerohedge.com/political/i-personally-paid-laura-loomer-second-insider-says-cash-bought-access-trump-and-she-still",
-    "ts": 1794164700000,
     "tags": []
    }
   ],
