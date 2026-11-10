@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T05:28:53.163889+00:00",
+ "generated": "2026-11-10T06:30:13.234964+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4126.0,
-   "c": 0.28,
-   "d": 11.5,
+   "p": 4131.3,
+   "c": 0.41,
+   "d": 16.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.255,
-   "c": 1.31,
-   "d": 0.691,
+   "p": 53.245,
+   "c": 1.3,
+   "d": 0.681,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.72,
-   "c": -1.3,
-   "d": -1.13,
+   "p": 85.79,
+   "c": -1.22,
+   "d": -1.06,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.44,
-   "c": -1.22,
-   "d": -1.13,
+   "p": 91.54,
+   "c": -1.11,
+   "d": -1.03,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.651,
-   "c": 0.0,
-   "d": 0.001,
+   "p": 101.643,
+   "c": -0.01,
+   "d": -0.007,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2237,
-   "c": 0.2,
-   "d": 0.1,
+   "p": 50.227,
+   "c": 0.21,
+   "d": 0.104,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74733,
-   "c": 0.33,
+   "p": 74655,
+   "c": 0.49,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2120.96,
-   "c": -0.54,
+   "p": 2118.14,
+   "c": -0.1,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 85.96,
-   "c": -1.23,
+   "p": 86.0,
+   "c": -0.33,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.095,
-   "c": -0.71,
+   "p": 1.1,
+   "c": 0.52,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 689.37,
-   "c": 0.54,
+   "p": 688.83,
+   "c": 1.07,
    "k": "usd"
   }
  ],
@@ -494,42 +494,88 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Faltering Philippine Growth Spurs Calls for State Action, Pause in Rate Hikes",
+    "tt": "Filipinler'deki Büyümenin Durgunlaşması, Devletin Eyleme Geçmesi ve Faiz Artışlarının Durdurulması Çağrısını Teşvik Ediyor",
+    "s": "A surprise slowdown in the Philippine economy has triggered calls for the central bank to go easy on interest rate increases, and for President Ferdinand Marcos Jr. to do more to revive growth.",
+    "ss": "Filipin ekonomisindeki sürpriz yavaşlama, merkez bankasının faiz artışları konusunda yumuşak davranması ve Başkan Ferdinand Marcos Jr.'ın büyümeyi canlandırmak için daha fazlasını yapması yönündeki çağrıları tetikledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes",
+    "ts": 1794265200000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "AI Slump Sends Investors Scouring Emerging Markets for Bargains",
+    "tt": "Yapay Zekadaki Çöküş, Yatırımcıları Pazarlık İçin Gelişmekte Olan Piyasalara Yönlendiriyor",
+    "s": "Stock pickers seeking relief from the AI-fueled turbulence in global equities are zeroing in on opportunities in emerging markets.",
+    "ss": "Küresel hisse senetlerinde yapay zekanın neden olduğu türbülanstan kurtulmak isteyen hisse senedi toplayıcıları, gelişmekte olan piyasalardaki fırsatlara odaklanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/ai-slump-sends-investors-scouring-emerging-markets-for-bargains",
+    "ts": 1794291300000,
+    "tags": []
+   },
+   {
+    "t": "First Abu Dhabi Bank Weighs Multibillion-Dollar Rights Issue",
+    "tt": "İlk Abu Dhabi Bankası Milyarlarca Dolarlık Hak Sorununu Tartıyor",
+    "s": "Executives at First Abu Dhabi Bank PJSC have held preliminary discussions on potentially raising billions of dollars through a rights issue that could rank among the biggest of its kind in recent years, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, First Abu Dhabi Bank PJSC yöneticileri, son yıllarda türünün en büyükleri arasında yer alabilecek bir haklar meselesi yoluyla potansiyel olarak milyarlarca dolar toplama konusunda ön görüşmelerde bulundu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/first-abu-dhabi-bank-weighs-multibillion-dollar-rights-issue",
+    "ts": 1794228422000,
+    "tags": []
+   },
+   {
+    "t": "Rare Earth Price Gap Flags Supply Strains Ahead of Trump-Xi Meet",
+    "tt": "Nadir Toprak Fiyat Farkı, Trump-Xi Toplantısı Öncesinde Arz Sıkıntılarını İşaret Ediyor",
+    "s": "A global rush to secure strategic metals is taking on new urgency ahead of a possible meeting of the US and Chinese leaders this month, with rare-earth elements now trading outside China at enormous multiples of their domestic value.",
+    "ss": "Stratejik metalleri güvence altına almaya yönelik küresel çaba, ABD ve Çin liderlerinin bu ay gerçekleştireceği olası toplantı öncesinde yeni bir aciliyet kazanıyor; nadir toprak elementleri artık Çin dışında yerel değerlerinin muazzam katlarında işlem görüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/rare-earth-strategic-metals-price-gap-flags-supply-strains-trump-xi-meet",
+    "ts": 1794290449000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Build on Tech-Fueled Rally as Oil Retreats: Markets Wrap",
+    "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
+    "s": "Global stocks were on track for their best two-day gain in more than three months as a resurgent tech rally and a further decline in oil prices boosted sentiment.",
+    "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794262613000,
+    "tags": []
+   },
+   {
+    "t": "Adnoc Gas CFO: Still Exploring Opportunities in Fujairah",
+    "tt": "Adnoc Gas CFO'su: Hâlâ Füceyre'deki Fırsatları Keşfediyoruz",
+    "s": "Adnoc Gas reported net income for 3Q of $1.34 billion that beat analyst estimates. The company says it remains on track to restore Habshan to full capacity by 2Q 2027 after damages during Iran War interceptions. Peter van Driel CFO of Adnoc Gas spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle ",
+    "ss": "Adnoc Gas, 3. çeyrekte analist tahminlerini aşan 1,34 milyar dolarlık net gelir bildirdi. Şirket, İran Savaşı'ndaki müdahaleler sırasında meydana gelen hasarların ardından Habshan'ı 2027'nin 2. çeyreğine kadar tam kapasiteye döndürme yolunda ilerlemeye devam ettiğini açıkladı. Adnoc Gas'ın CFO'su Peter van Driel, Horizons Middle'da Bloomberg'den Abeer Abu Omar ile konuştu",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/adnoc-gas-cfo-still-exploring-opportunities-in-fujairah-video",
+    "ts": 1794290063000,
+    "tags": []
+   },
+   {
     "t": "Citi's Fraser: China License Gives Bank Edge on Rivals",
-    "tt": null,
+    "tt": "Citi'den Fraser: Çin Lisansı Bankalara Rakiplere Karşı Avantaj Sağlıyor",
     "s": "Jane Fraser, Chair and CEO of Citi, says securing a securities license in China completes the bank’s product offering in the country and gives it an edge over rivals. She speaks with Stephen Engle on the sidelines of the Citi China Conference in Shanghai. (Source: Bloomberg)",
-    "ss": null,
+    "ss": "Citi Yönetim Kurulu Başkanı ve CEO'su Jane Fraser, Çin'de menkul kıymetler lisansı almanın bankanın ülkedeki ürün sunumunu tamamladığını ve rakiplere karşı avantaj sağladığını söylüyor. Şangay'daki Citi Çin Konferansı'nın oturum aralarında Stephen Engle ile konuşuyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-10/citi-s-fraser-china-license-gives-bank-edge-on-rivals-video",
     "ts": 1794288048000,
     "tags": []
    },
    {
     "t": "Neolix's Zhao on Business Strategy",
-    "tt": null,
+    "tt": "Neolix'in İş Stratejisi Üzerine Zhao'su",
     "s": "Will Zhao, Executive President at Neolix, discusses the outlook for driverless delivery vehicles in China and the company’s plans for overseas expansion. He speaks on the sidelines of the Citi China Conference in Shanghai. (Source: Bloomberg)",
-    "ss": null,
+    "ss": "Neolix İcra Kurulu Başkanı Will Zhao, Çin'deki sürücüsüz teslimat araçlarına yönelik genel görünümü ve şirketin yurtdışına açılma planlarını tartışıyor. Şangay'daki Citi Çin Konferansı'nın oturum aralarında konuşuyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-10/neolix-s-zhao-on-business-strategy-video",
     "ts": 1794286843000,
     "tags": []
    },
    {
-    "t": "Asian Stocks Ride Tech Rally Higher as Oil Falls: Markets Wrap",
-    "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
-    "s": "Asian stocks were on course for their biggest two-day advance in more than three months as a resurgent tech rally and falling oil prices lifted sentiment.",
-    "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794262613000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
     "t": "Anthropic Prepares to Market IPO as Nvidia Scandal Stokes AI Jitters",
-    "tt": null,
+    "tt": "Nvidia Skandalı Yapay Zekayı Sarsarken Anthropic Halka Arzını Pazarlamaya Hazırlanıyor",
     "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Hong Kong with Haidi Stroud-Watts and Annabelle Droulers, getting insight and analysis from newsmakers and industry leaders on the biggest stories s",
-    "ss": null,
+    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Annabelle Droulers ile Sidney ve Hong Kong'dan canlı yayında, haber yapımcılarından ve sektör liderlerinden en büyük haberlere ilişkin içgörü ve analizler alıyor.",
     "u": "https://www.bloomberg.com/news/videos/2026-11-10/the-asia-trade-11-10-2026-video",
     "ts": 1794284925000,
     "tags": []
@@ -548,51 +594,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 10",
-    "tt": "10 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil extended declines from the lowest close since August after US President Donald Trump said further strikes on Iran wouldn’t be necessary.",
-    "ss": "Petrol fiyatları, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalara ilişkin iyimserliğin, bölgedeki saldırılara ilişkin endişelere ağır basmasıyla Ağustos ayından bu yana en düşük seviyesine gerilemesinin ardından yatay seyrediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
-    "ts": 1794265304000,
-    "tags": []
-   },
-   {
-    "t": "Singapore Launches Gold Vaulting Service for Central Banks",
-    "tt": "Singapur Merkez Bankaları İçin Altın Kasalama Hizmetini Başlatıyor",
-    "s": "Singapore has launched a gold vaulting service for foreign central banks and official institutions, seeking to tap growing demand to diversify where bullion reserves are stored.",
-    "ss": "Singapur, külçe rezervlerinin depolandığı yerleri çeşitlendirmek amacıyla artan talebi karşılamak amacıyla yabancı merkez bankaları ve resmi kurumlar için bir altın tonoz hizmeti başlattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-launches-gold-vaulting-service-for-central-banks",
-    "ts": 1794279610000,
-    "tags": []
-   },
-   {
-    "t": "Japan 30-Year Bond Sale Sees Weaker Demand After JGB Swings",
-    "tt": "Japonya 30 Yıllık Tahvil Satışında JGB Salınımlarından Sonra Talep Zayıfladı",
-    "s": "Japan’s 30-year government bond auction drew soft demand as sharp moves in the yield curve following a selloff in AI-related stocks damped investor risk appetite.",
-    "ss": "Japonya'nın 30 yıllık devlet tahvili ihalesi, AI ile ilgili hisse senetlerindeki satışın ardından getiri eğrisindeki keskin hareketlerin yatırımcıların risk iştahını azaltması nedeniyle talebin azalmasına neden oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl",
-    "ts": 1794281886000,
-    "tags": []
-   },
-   {
-    "t": "Australia Faces New US Reality After Midterms",
-    "tt": "Avustralya Ara Sınavlardan Sonra Yeni ABD Gerçeğiyle Karşı Karşıya",
-    "s": "Australia's government is closely watching President Trump's approach to foreign policy for the remainder of his term. While the Democrats take control of Congress in January, Trump will retain broad, unilateral authority over areas including tariffs and military operations. Australian policy intere",
-    "ss": "Avustralya hükümeti, görev süresinin geri kalanında Başkan Trump'ın dış politikaya yaklaşımını yakından izliyor. Demokratlar Ocak ayında Kongre'nin kontrolünü ele geçirirken Trump, gümrük vergileri ve askeri operasyonlar da dahil olmak üzere alanlarda geniş, tek taraflı yetkiyi elinde tutacak. Avustralya politikası ilgisi",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video",
-    "ts": 1794284002000,
-    "tags": []
-   },
-   {
-    "t": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
-    "tt": "Basra Körfezi'nden Ham Petrol Akışının Artmasıyla Çin Petrol İthalatı Yükseliyor",
-    "s": "Chinese crude oil imports rose to a seven-month high in October on a recovery in shipments from the Persian Gulf.",
-    "ss": "Çin'in ham petrol ithalatı, Basra Körfezi'nden yapılan sevkiyatlardaki toparlanmanın etkisiyle Ekim ayında yedi ayın en yüksek seviyesine yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/china-oil-imports-rebound-as-more-crude-flows-from-persian-gulf",
-    "ts": 1794282173000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -885,6 +886,33 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Altın, faiz artışı beklentileriyle hafifçe geriledi",
+    "tt": null,
+    "s": "Altın fiyatları, faiz artışı olasılığının baskı yaratmaya devam etmesi üzerine hafif şekilde düştü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altin-faiz-artisi-beklentileriyle-hafifce-geriledi-3794029",
+    "ts": 1794290406000,
+    "tags": []
+   },
+   {
+    "t": "Küresel piyasalar ABD enflasyon verilerine odaklandı",
+    "tt": null,
+    "s": "ABD'de açıklanacak enflasyon verileri, Fed'in faiz patikasına ilişkin beklentiler ve ABD tahvili rallisinin devamı açısından kritik olacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalar-abd-enflasyon-verilerine-odaklandi-3794028",
+    "ts": 1794289487000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia yöneticisi, Alice Huang'ı gözaltına aldırmak istedi",
+    "tt": null,
+    "s": "Bloomberg'in haberine göre, Nvidia'nın hukuk müşavirinin, CEO Jensen Huang ile ilişkisi ortaya çıkan Alice Huang'ın Singapur'da gözaltına alınması konusunda ABD hükümeti ile temasa geçtiği ortaya çıktı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/nvidia-yoneticisi-alice-huang-i-gozaltina-aldirmak-istedi-3794027",
+    "ts": 1794289082000,
+    "tags": []
+   },
+   {
     "t": "Petrolde Trump'ın İran konusundaki açıklamaları düşüş getirdi",
     "tt": null,
     "s": "Petrol fiyatları, ABD Başkanı Donald Trump'ın İran'a yönelik yeni saldırıların gerekli olmayacağını söylemesinin ardından Ağustos ayından bu yana en düşük kapanışını gerçekleştirerek gerilemesini sürdürdü.",
@@ -946,33 +974,6 @@
     "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-10112026-3794020",
     "ts": 1794258822000,
     "tags": []
-   },
-   {
-    "t": "Pegasus'un net kârı beklentileri aştı",
-    "tt": null,
-    "s": "Pegasus, 2026 yılının üçüncü çeyreğinde 205 milyon euro net kâr açıklayarak 160 milyon euroluk piyasa beklentisinin üzerinde bir performans sergiledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/pegasus-un-net-kri-beklentileri-asti-3794019",
-    "ts": 1794254026000,
-    "tags": []
-   },
-   {
-    "t": "Honda'dan ABD'de 3 milyar dolarlık yeni fabrika yatırımı",
-    "tt": null,
-    "s": "Honda, ABD'nin Ohio eyaletinde hibrit araç üretimi için 3 milyar dolarlık yeni fabrika kuracağını duyurdu. Yıllık 240 bin araç üretim kapasitesine sahip olacak tesis, 2 bin kişiye istihdam sağlayacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/honda-dan-abd-de-3-milyar-dolarlik-yeni-fabrika-yatirimi-3794018",
-    "ts": 1794253344000,
-    "tags": []
-   },
-   {
-    "t": "Apple, Türkiye'ye uzun vadeli yatırım yapacağını duyurdu",
-    "tt": null,
-    "s": "Apple, Türkiye'ye yönelik uzun vadeli yatırım planı kapsamında beş geliştirici akademisi, bir geliştirici merkezi ve ABD dışındaki ilk üretim akademisini açacağını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/apple-turkiye-ye-uzun-vadeli-yatirim-yapacagini-duyurdu-3794017",
-    "ts": 1794252828000,
-    "tags": []
    }
   ]
  },
@@ -988,7 +989,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
