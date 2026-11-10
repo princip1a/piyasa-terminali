@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T01:42:01.368446+00:00",
+ "generated": "2026-11-10T02:39:19.837267+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4144.9,
-   "c": 1.72,
-   "d": 70.0,
+   "p": 4135.9,
+   "c": 0.52,
+   "d": 21.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.34,
-   "c": 2.97,
-   "d": 1.537,
+   "p": 53.27,
+   "c": 1.34,
+   "d": 0.706,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.22,
-   "c": -5.08,
-   "d": -4.61,
+   "p": 86.06,
+   "c": -0.91,
+   "d": -0.79,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.07,
-   "c": -6.36,
-   "d": -6.25,
+   "p": 91.9,
+   "c": -0.72,
+   "d": -0.67,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.657,
-   "c": -0.63,
-   "d": -0.643,
+   "p": 101.693,
+   "c": 0.04,
+   "d": 0.043,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2259,
-   "c": 0.2,
-   "d": 0.103,
+   "p": 50.2023,
+   "c": 0.16,
+   "d": 0.079,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11712.67,
-   "c": 3.35,
-   "d": 379.37,
+   "c": 2.0,
+   "d": 230.07,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74966,
-   "c": 0.1,
+   "p": 74757,
+   "c": -0.83,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2122.59,
-   "c": -0.43,
+   "p": 2116.81,
+   "c": -1.68,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 86.36,
-   "c": -1.21,
+   "p": 85.84,
+   "c": -2.65,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.1,
-   "c": -0.84,
+   "p": 1.091,
+   "c": -2.5,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 689.33,
-   "c": 0.48,
+   "p": 687.94,
+   "c": -0.32,
    "k": "usd"
   }
  ],
@@ -494,9 +494,24 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Singapore’s Interbank Rate Hits Highest in More Than a Year",
+    "tt": "Singapur'un Bankalararası Faiz Oranı Bir Yıldan Fazla Bir Sürenin En Yüksek Seviyesine Tırmandı",
+    "s": "Singapore’s benchmark interest rate climbed to the highest level in more than a year on tighter local liquidity and expectations for further US interest-rate hikes.",
+    "ss": "Singapur'da bankalararası faiz oranları, sıkılaşan yerel likidite ve ABD'nin daha fazla faiz artırımına ilişkin beklentilerin borçlanma maliyetlerini artırmasıyla bir yıldan uzun bir sürenin en yüksek seviyesine çıktı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
+    "ts": 1794273682000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Asian Stocks Climb as Tech Rallies, Oil Slips: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
-    "s": "Asian stocks advanced, tracking Wall Street higher as a rally in technology shares and a further decline in oil prices boosted risk sentiment.",
+    "s": "Asian stocks advanced, tracking gains on Wall Street as a rally in technology shares and a further decline in oil prices boosted sentiment.",
     "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
     "ts": 1794262613000,
@@ -508,19 +523,31 @@
     ]
    },
    {
-    "t": "Singapore’s Interbank Rate Climbs to Highest in More Than a Year",
-    "tt": "Singapur'un Bankalararası Faiz Oranı Bir Yıldan Fazla Bir Sürenin En Yüksek Seviyesine Tırmandı",
-    "s": "Singapore’s interbank rates climbed to the highest in more than a year, as tighter local liquidity and expectations for further US interest-rate hikes pushed up borrowing costs.",
-    "ss": "Singapur'da bankalararası faiz oranları, sıkılaşan yerel likidite ve ABD'nin daha fazla faiz artırımına ilişkin beklentilerin borçlanma maliyetlerini artırmasıyla bir yıldan uzun bir sürenin en yüksek seviyesine çıktı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
-    "ts": 1794273682000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
+    "t": "Latest Oil Market News and Analysis for Nov. 10",
+    "tt": "10 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil extended declines from the lowest close since August after US President Donald Trump said further strikes on Iran wouldn’t be necessary.",
+    "ss": "Petrol fiyatları, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalara ilişkin iyimserliğin, bölgedeki saldırılara ilişkin endişelere ağır basmasıyla Ağustos ayından bu yana en düşük seviyesine gerilemesinin ardından yatay seyrediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+    "ts": 1794265304000,
+    "tags": []
+   },
+   {
+    "t": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
+    "tt": "Kioxia Kaldıraçlı Ürünü Bir Yıllık Aranın Ardından Hong Kong'da Piyasaya Sürüldü",
+    "s": "A leveraged product tracking Kioxia Holdings Corp. debuts in Hong Kong on Tuesday, the first such single-stock instrument in the city since a similar SK Hynix Inc. product helped trigger extreme volatility in the underlying stock and drew market scrutiny.",
+    "ss": "Kioxia Holdings Corp.'un kaldıraçlı ürün takibi Salı günü Hong Kong'da görücüye çıktı; benzer bir SK Hynix Inc. ürününün dayanak hisse senedinde aşırı oynaklığı tetiklemesine yardımcı olması ve piyasanın incelemeye alınmasından bu yana şehirdeki bu türden ilk tek hisse senedi enstrümanı oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
+    "ts": 1794275949000,
+    "tags": []
+   },
+   {
+    "t": "China Water Environment Seeks $410 Million Loan Restructuring",
+    "tt": "Çin Su Çevresi 410 Milyon Dolarlık Kredinin Yeniden Yapılandırılmasını İstiyor",
+    "s": "China Water Environment Group, one of the nation’s largest sewage treatment firms, is seeking to restructure about $410 million of offshore loans, according to people familiar with the matter, adding to a growing number of Chinese state-backed firms facing debt challenges.",
+    "ss": "Konuyu bilen kaynaklara göre, ülkenin en büyük kanalizasyon arıtma firmalarından biri olan China Water Environment Group, borç sorunlarıyla karşı karşıya kalan giderek artan sayıda Çin devlet destekli firmaya ek olarak yaklaşık 410 milyon dolarlık offshore kredilerini yeniden yapılandırmaya çalışıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
+    "ts": 1794275474000,
+    "tags": []
    },
    {
     "t": "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
@@ -538,15 +565,6 @@
     "ss": "Avustralya'nın kurumsal düzenleyici kurumu, iflas eden Sidneyli geliştirici Bathla Group hakkında bir soruşturma başlattı; çünkü son gözlemleri, ülkenin 250 milyar Avustralya Doları (172 milyar ABD Doları) değerindeki özel kredi sektöründe kötü uygulamaların devam ettiğini gösterdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
     "ts": 1794247200000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 10",
-    "tt": "10 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil steadied near its lowest since August after US President Donald Trump said further strikes on Iran wouldn’t be necessary.",
-    "ss": "Petrol fiyatları, Orta Doğu'daki savaşı sona erdirmeye yönelik diplomatik çabalara ilişkin iyimserliğin, bölgedeki saldırılara ilişkin endişelere ağır basmasıyla Ağustos ayından bu yana en düşük seviyesine gerilemesinin ardından yatay seyrediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
-    "ts": 1794265304000,
     "tags": []
    },
    {
@@ -578,24 +596,6 @@
      "BTC ▲",
      "Altcoin ▲"
     ]
-   },
-   {
-    "t": "South Korean Stocks Jump as Chipmakers Roar Back on Dip Buying",
-    "tt": "Güney Kore Hisse Senetleri Çip Üreticilerinin Dip Alımlarına Geri Dönmesiyle Yükseliyor",
-    "s": "South Korean stocks climbed, lifted by heavyweight chipmakers as investors waded back into the artificial intelligence trade following the recent selloff.",
-    "ss": "Güney Kore hisse senetleri, son satışların ardından yatırımcıların yapay zeka ticaretine geri dönmesiyle birlikte ağır yonga üreticilerinin desteğiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/south-korean-stocks-jump-as-chipmakers-roar-back-on-dip-buying",
-    "ts": 1794269362000,
-    "tags": []
-   },
-   {
-    "t": "Australia Consumer Confidence Slumps on Cost-of-Living Fears",
-    "tt": "Avustralya Tüketici Güveni Yaşam Pahası Korkuları Nedeniyle Düştü",
-    "s": "Australia’s consumer confidence tumbled deeper into pessimistic territory in November after the Reserve Bank raised interest rates for a fifth time this year to tackle stubbornly strong inflation.",
-    "ss": "Avustralya'nın tüketici güveni, Merkez Bankası'nın inatla güçlü enflasyonla mücadele etmek için bu yıl beşinci kez faiz oranlarını artırmasının ardından Kasım ayında daha da kötümser bir bölgeye geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/australia-s-consumer-confidence-slumps-on-cost-of-living-fears",
-    "ts": 1794267000000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -796,6 +796,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "\"Consider Discontinuing\": FDA Slaps \"Eye Stroke\" Warning On All GLP-1 Weight-Loss Drugs",
+    "tt": "\"Bırakmayı Düşünün\": FDA, Tüm GLP-1 Kilo Verme İlaçlarına \"Göz Çarpması\" Uyarısını Tokatladı",
+    "s": "\"Consider Discontinuing\": FDA Slaps \"Eye Stroke\" Warning On All GLP-1 Weight-Loss Drugs The FDA is requiring the makers of every GLP-1 drug on the U.S. market, Ozempic, Wegovy, Mounjaro and Zepbound among them, to warn of a potential increased risk of an \"eye stroke\" that can cause sudden, permanent",
+    "ss": "\"Sonlandırmayı Düşünün\": FDA, Tüm GLP-1 Kilo Verme İlaçlarına \"Göz Çarpması\" Uyarısı Verdi FDA, aralarında Ozempic, Wegovy, Mounjaro ve Zepbound'un da bulunduğu ABD pazarındaki her GLP-1 ilacının üreticilerinden, ani, kalıcı zayıflamaya neden olabilecek \"göz çarpması\" riskinin potansiyel olarak arttığı konusunda uyarmalarını istiyor.",
+    "u": "https://www.zerohedge.com/medical/consider-discontinuing-fda-slaps-eye-stroke-warning-all-glp-1-weight-loss-drugs",
+    "ts": 1794277200000,
+    "tags": []
+   },
+   {
+    "t": "Has Faucism Destroyed A Hollywood Film Icon?",
+    "tt": "Faucism bir Hollywood film ikonunu yok mu etti?",
+    "s": "Has Faucism Destroyed A Hollywood Film Icon? Authored by James Lyons-Weiler via Brownstone Institute , Anthony Fauci does not appear in The Dog Stars . He is nevertheless in the theater. Ridley Scott's new science-fiction film opens after a catastrophic flu has erased most of humanity. A pilot, his ",
+    "ss": "Faucism bir Hollywood film ikonunu yok mu etti? Brownstone Enstitüsü aracılığıyla James Lyons-Weiler tarafından yazılan Anthony Fauci, The Dog Stars'ta yer almıyor. He is nevertheless in the theater. Ridley Scott'ın yeni bilim kurgu filmi, felaket niteliğindeki bir gribin insanlığın çoğunu yok etmesinden sonra başlıyor. Bir pilot, onun",
+    "u": "https://www.zerohedge.com/political/has-faucism-destroyed-hollywood-film-icon",
+    "ts": 1794276000000,
+    "tags": []
+   },
+   {
     "t": "Major Sponsors Dump Progressive Podcasters Who Laughed About 'Digging Up Charlie Kirk'",
     "tt": "Büyük Sponsorlar 'Charlie Kirk'ü Kazmak' Konusunda Gülen Progresif Podcast'çileri Terk Etti",
     "s": "Major Sponsors Dump Progressive Podcasters Who Laughed About 'Digging Up Charlie Kirk' Sponsors are fleeing \"I've Had It,\" the progressive podcast hosted by Jennifer Welch and Angie Sullivan, after the two laughed on Thursday's episode at a joke about digging up Charlie Kirk. Cash App, Casper, Zenni",
@@ -865,24 +883,6 @@
     "ss": "\"Sadece Şaka - Belki Değil\": Sotomayor, Yüksek Mahkemenin Cumhurbaşkanlığı Dokunulmazlığı Kararını Hedef Alıyor Yargıç Sonia Sotomayor Cumartesi günü yaptığı açıklamada, Yüksek Mahkemenin bir gün eski başkanlara cezai kovuşturmaya karşı geniş koruma sağlayan 2024 kararını tersine çevireceğini umduğunu söyledi ve bunu birkaç Aralık kararından biri olarak nitelendirdi.",
     "u": "https://www.zerohedge.com/political/only-joking-maybe-not-sotomayor-takes-aim-supreme-courts-presidential-immunity-ruling",
     "ts": 1794266400000,
-    "tags": []
-   },
-   {
-    "t": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House",
-    "tt": "Sızan Fotoğraf: Susie Wiles, MAHA Aktivistlerinin Beyaz Saray'a Girmesini Yasaklamakla Suçlandı",
-    "s": "Leaked Photo: Susie Wiles Accused Of Banning MAHA Activists From White House Former White House Chief of Staff Susie Wiles is facing new allegations that Make America Healthy Again (MAHA) activists were blacklisted from White House events after speaking out against alleged corruption involving the E",
-    "ss": "Sızan Fotoğraf: Susie Wiles, MAHA Aktivistlerini Beyaz Saray'dan Yasaklamakla Suçlanıyor Eski Beyaz Saray Genelkurmay Başkanı Susie Wiles, Amerika'yı Yeniden Sağlıklı Hale Getir (MAHA) aktivistlerinin, E.",
-    "u": "https://www.zerohedge.com/political/leaked-photo-susie-wiles-accused-banning-maha-activists-white-house",
-    "ts": 1794266100000,
-    "tags": []
-   },
-   {
-    "t": "\"No Such Thing\": SCOTUS Lets Trump Resume Big Bend Border Wall... And Torches Legal Theory That Stopped It",
-    "tt": "\"Böyle Bir Şey Değil\": SCOTUS, Trump'ın Big Bend Sınır Duvarını Yeniden Başlatmasına İzin Veriyor... Ve Onu Durduran Hukuk Teorisini Ateşliyor",
-    "s": "\"No Such Thing\": SCOTUS Lets Trump Resume Big Bend Border Wall... And Torches Legal Theory That Stopped It The Supreme Court on Monday let the Trump administration resume border wall construction in Texas's Big Bend region , staying a federal judge's injunction while the government seeks further rev",
-    "ss": "\"Böyle Bir Şey Yok\": SCOTUS, Trump'ın Big Bend Sınır Duvarını Devam Ettirmesine İzin Verdi... Ve Onu Durduran Yasal Teoriyi Ateşledi Yüksek Mahkeme Pazartesi günü Trump yönetiminin Teksas'ın Big Bend bölgesinde sınır duvarı inşaatına devam etmesine izin verdi ve hükümet daha fazla revizyon isterken federal yargıcın ihtiyati tedbiri olarak kaldı",
-    "u": "https://www.zerohedge.com/political/no-such-thing-scotus-lets-trump-resume-big-bend-border-wall-and-torches-legal-theory",
-    "ts": 1794265200000,
     "tags": []
    }
   ],
