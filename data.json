@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T09:44:49.186865+00:00",
+ "generated": "2026-11-10T10:44:16.148124+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4096.6,
-   "c": -0.44,
-   "d": -17.9,
+   "p": 4082.3,
+   "c": -0.78,
+   "d": -32.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.58,
-   "c": 0.03,
-   "d": 0.016,
+   "p": 52.42,
+   "c": -0.27,
+   "d": -0.144,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 84.4,
-   "c": -2.82,
-   "d": -2.45,
+   "p": 85.04,
+   "c": -2.08,
+   "d": -1.81,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.79,
-   "c": -3.0,
-   "d": -2.78,
+   "p": 90.36,
+   "c": -2.39,
+   "d": -2.21,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.646,
-   "c": -0.0,
-   "d": -0.004,
+   "p": 101.722,
+   "c": 0.07,
+   "d": 0.072,
    "k": "idx"
   },
   {
@@ -73,48 +73,41 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2276,
+   "p": 50.2296,
    "c": 0.21,
-   "d": 0.104,
-   "k": "idx"
-  },
-  {
-   "n": "BIST 100",
-   "p": 11752.49,
-   "c": 0.34,
-   "d": 39.79,
+   "d": 0.106,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74294,
-   "c": 0.16,
+   "p": 74100,
+   "c": 0.08,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2096.58,
-   "c": -0.41,
+   "p": 2085.15,
+   "c": -0.91,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 85.28,
-   "c": -1.49,
+   "p": 84.37,
+   "c": -1.75,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.085,
-   "c": -0.5,
+   "p": 1.077,
+   "c": -0.76,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 688.57,
-   "c": 1.2,
+   "p": 686.56,
+   "c": 1.1,
    "k": "usd"
   }
  ],
@@ -494,24 +487,9 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Gold Extends Drop After Fed’s Waller Backs December Rate Hike",
-    "tt": null,
-    "s": "Gold extended a decline after Federal Reserve Governor Christopher Waller said he supports a rate hike in December, and floated the possibility of a half-percentage-point increase.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
-    "ts": 1794269052000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "US Stock Rebound Pauses on Waller’s Rate Warning: Markets Wrap",
+    "t": "US Stock Rebound Stalls as Waller Favors Rate Hike: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
-    "s": "A powerful rebound in US stocks ran out of steam after Federal Reserve Governor Christopher Waller backed an interest-rate hike in December just hours before Tuesday’s inflation data.",
+    "s": "A powerful rebound in US stocks ran out of steam after Federal Reserve Governor Christopher Waller backed an interest-rate hike in December just hours before Tuesday’s inflation report.",
     "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
     "ts": 1794262613000,
@@ -524,33 +502,10 @@
     ]
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 10",
-    "tt": null,
-    "s": "Brent crude slumped below $90 a barrel for the first time since August, deepening a selloff as traders boosted bets on a resolution to the Middle East war.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
-    "ts": 1794265304000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Aluminum Falls on Reports Chinese Inventories Starting to Rise",
-    "tt": null,
-    "s": "Aluminum fell in London, tracking a slump in Shanghai futures, on a report that Chinese inventories have started to expand.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
-    "ts": 1794279854000,
-    "tags": []
-   },
-   {
-    "t": "Fed’s Waller Backs December Rate Hike, Says Open to Larger Move",
-    "tt": null,
+    "t": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
+    "tt": "Fed'in Waller Aralık ayındaki Faiz Artışını Destekledi, Daha Büyük Harekete Açık",
     "s": "Federal Reserve Governor Christopher Waller on Tuesday said he supports an interest-rate hike in December, and warned that if inflation continues to accelerate he would support a half-percentage-point increase to protect the central bank’s credibility.",
-    "ss": null,
+    "ss": "Federal Reserve Guvernörü Christopher Waller Salı günü Aralık ayında faiz artırımını desteklediğini söyledi ve enflasyonun artmaya devam etmesi halinde merkez bankasının güvenilirliğini korumak için yarım puanlık bir artışı destekleyeceği konusunda uyardı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
     "ts": 1794301200000,
     "tags": [
@@ -562,57 +517,99 @@
     ]
    },
    {
-    "t": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
-    "tt": null,
-    "s": "A leveraged product tracking Kioxia Holdings Corp. debuts in Hong Kong on Tuesday, the first such single-stock instrument in the city since a similar SK Hynix Inc. product helped trigger extreme volatility in the underlying stock and drew market scrutiny.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
-    "ts": 1794275949000,
+    "t": "ECB's Kazāks Sees Rate-Hike Judgments Getting ‘More Nuanced’",
+    "tt": "ECB'nin Kazakları Faiz Artırım Kararlarının 'Daha İncelikli' Olduğunu Görüyor",
+    "s": "Latvia Central Bank Governor Mārtiņš Kazāks said further monetary tightening may be necessary if elevated energy prices persist and risk spilling into broader inflation. In an interview with Bloomberg TV on Tuesday, he added that policy trade-offs are becoming increasingly nuanced as officials have ",
+    "ss": "Letonya Merkez Bankası Başkanı Mārtiņš Kazāks, yüksek enerji fiyatlarının devam etmesi ve daha geniş enflasyona yayılma riskinin devam etmesi halinde daha fazla parasal sıkılaştırmanın gerekli olabileceğini söyledi. Salı günü Bloomberg TV'ye verdiği röportajda, yetkililerin yaptığı açıklamalar nedeniyle politika değiş tokuşlarının giderek daha incelikli hale geldiğini ekledi.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/kazaks-sees-rate-hike-judgments-getting-more-nuanced-video",
+    "ts": 1794306643000,
     "tags": []
    },
    {
-    "t": "Lane Says ECB Shouldn't Deploy Tools to Ease France Woes",
-    "tt": null,
-    "s": "European Central Bank Chief Economist Philip Lane said the ECB shouldn’t adjust the run-off of its bond holdings or deploy its crisis tool to help France with its budget problems. “Where this needs to be fixed is in Paris,” Lane said in an interview with Bloomberg's Francine Lacqua. (Source: Bloombe",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/lane-says-ecb-shouldn-t-deploy-tools-to-ease-france-woes-video",
-    "ts": 1794300320000,
+    "t": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
+    "tt": "Sıkışan Ev Sahipleri için 'Evle Evlen, Oranı Tarihlendir' Geri Tepti",
+    "s": "“Marry the house, date the rate.” The idea, boosted by Realtors, mortgage bankers and influencers as interest rates started rising in 2022, was that buyers shouldn’t worry too much about loan costs. Focus instead on getting the house you want, then refinance when rates inevitably came down. Michelle",
+    "ss": "\"Evle evlen, oranı belirle.\" 2022'de faiz oranları artmaya başlarken Emlakçılar, ipotek bankacıları ve nüfuz sahibi kişiler tarafından desteklenen fikir, alıcıların kredi maliyetleri konusunda çok fazla endişelenmemesi gerektiğiydi. Bunun yerine istediğiniz evi almaya odaklanın, ardından oranlar kaçınılmaz olarak düştüğünde yeniden finanse edin. Michelle",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/-marry-the-house-date-the-rate-backfires-for-stuck-homeowners",
+    "ts": 1794306628000,
     "tags": []
    },
    {
-    "t": "US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
-    "tt": null,
-    "s": "US gasoline dropped below $4 a gallon for the first time since July, offering consumers some relief at the pump, although prices remain significantly elevated on a seasonal basis.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/us-gasoline-prices-drop-below-4-a-gallon-after-months-of-pain",
-    "ts": 1794299990000,
+    "t": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
+    "tt": "Enflasyon Verileri, Haven Teklifi Sonrası Hazine Yükselişinin Limitlerini Test Edecek",
+    "s": "Bond traders are waiting for a key inflation report for clues on the direction of the Federal Reserve’s policy path and whether the recent Treasury rally has more room to run.",
+    "ss": "Tahvil tüccarları, Fed'in politika yolunun yönüne ve Hazine'deki son yükselişin daha fazla hareket alanı olup olmadığına ilişkin ipuçları için önemli bir enflasyon raporu bekliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
+    "ts": 1794271606000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Fed's Waller Supports Rate Hike in December",
+    "tt": "Fed'den Waller Aralık'ta Faiz Artışını Destekledi",
+    "s": "Federal Reserve Governor Christopher Waller said he supports an interest-rate hike in December, and warned that if inflation continues to accelerate he would support a half-percentage-point increase to protect the central bank’s credibility. “If inflation comes in substantially higher than I expect,",
+    "ss": "Federal Reserve Guvernörü Christopher Waller, Aralık ayında faiz artırımını desteklediğini söyledi ve enflasyonun artmaya devam etmesi halinde merkez bankasının güvenilirliğini korumak için yarım puanlık bir artışı destekleyeceği konusunda uyardı. \"Enflasyon beklediğimden çok daha yüksek çıkarsa,",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video",
+    "ts": 1794306160000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Hedge-Fund Founder Shah Fights 12-Year Danish Jail Sentence Over Cum-Ex Tax Scam",
+    "tt": "Hedge Fonu Kurucusu Shah, Cum-Ex Vergi Dolandırıcılığı Nedeniyle Danimarka'da 12 Yıllık Hapis Cezasıyla Mücadele Ediyor",
+    "s": "British hedge-fund trader Sanjay Shah returned to court in Denmark to try to overturn a 12-year prison sentence for orchestrating a billion-dollar tax scam.",
+    "ss": "İngiliz hedge fonu tüccarı Sanjay Shah, milyar dolarlık vergi dolandırıcılığı yapmaktan dolayı verilen 12 yıllık hapis cezasını bozmaya çalışmak üzere Danimarka'daki mahkemeye döndü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-fund-founder-shah-fights-12-year-danish-jail-sentence-over-cum-ex-tax-scam",
+    "ts": 1794306137000,
     "tags": []
    },
    {
-    "t": "Great for Investors, Tough for Traders: Market Analysis",
-    "tt": null,
-    "s": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/great-for-investors-tough-for-traders-3-minutes-mliv-video",
-    "ts": 1794299762000,
+    "t": "Emirates’ Clark Says Retirement Hinges on Airline’s Recovery",
+    "tt": "Emirates'ten Clark, Emekliliğin Havayolu Şirketinin İyileşmesine Bağlı Olduğunu Söyledi",
+    "s": "Emirates President Tim Clark said the airline “is spending a lot of time on succession planning” and he would consider retiring once the business recovers from the economic damage inflicted by the Iran war.",
+    "ss": "Emirates Başkanı Tim Clark, havayolunun \"veraset planlamasına çok zaman harcadığını\" ve işletmenin İran savaşının yol açtığı ekonomik hasardan kurtulmasının ardından emekli olmayı düşüneceğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
+    "ts": 1794230511000,
     "tags": []
    },
    {
-    "t": "Italy’s Open Fiber Said to Start Planning €8 Billion Refinancing",
-    "tt": null,
-    "s": "Italy’s Open Fiber SpA is kicking off preliminary work to refinance around €8 billion ($9 billion) of bank debt, in what would rank among Europe’s largest fiber-sector debt deals.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/italy-s-open-fiber-said-to-start-planning-8-billion-refinancing",
-    "ts": 1794299561000,
+    "t": "France 'Still Attractive' Despite Protests: Trade Minister",
+    "tt": "Fransa, Protestolara Rağmen 'Hala Çekici': Ticaret Bakanı",
+    "s": "The French Trade Minister says he wants to carry on the trade relationship with the US in the spirit of the Turnberry agreement, the EU-US trade framework agreed with President Trump in 2025. He also argued that France remains attractive, despite images of violent protests going around the world in ",
+    "ss": "Fransa Ticaret Bakanı, ABD ile ticari ilişkiyi, Başkan Trump ile 2025'te üzerinde mutabakata varılan AB-ABD ticaret çerçevesi olan Turnberry anlaşması ruhuyla sürdürmek istediğini söyledi. Ayrıca, 2025'te dünya çapında şiddetli protesto görüntülerine rağmen Fransa'nın çekiciliğini koruduğunu savundu.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
+    "ts": 1794304983000,
     "tags": []
+   },
+   {
+    "t": "Gold Extends Drop After Fed’s Waller Backs December Rate Hike",
+    "tt": "Altın, Fed'in Waller'ın Aralık Faiz Artırımını Desteklemesinin Ardından Düşüşünü Sürdürdü",
+    "s": "Gold extended a decline after Federal Reserve Governor Christopher Waller said he supports a rate hike in December, and floated the possibility of a half-percentage-point increase.",
+    "ss": "Altın, Fed Başkanı Christopher Waller'ın Aralık ayında faiz artırımını desteklediğini söylemesi ve yarım puanlık artış olasılığını öne sürmesinin ardından düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+    "ts": 1794269052000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    }
   ],
   "CNBC": [
    {
     "t": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-    "tt": null,
+    "tt": "Fed Guvernörü Waller Aralık ayındaki faiz artırımının olası olduğunu düşünüyor ve olası yarım puanlık artışın kapısını açıyor",
     "s": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-    "ss": null,
+    "ss": "Politika yapıcı, Aralık ayında faiz artırımına \"eğilimli\" olduğunu ve enflasyon verilerine bağlı olarak yarım puanlık bir artışı destekleyebileceğini söyledi.",
     "u": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
     "ts": 1794301201000,
     "tags": []
@@ -713,10 +710,46 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
+    "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "ss": "\"Belki bir dahaki sefere diğer yaklaşımı deneyeceğim: Canım istediğinde uçağa bineceğim ve çantamı gördüğüm ilk açık yuvaya bırakacağım.\"",
+    "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "ts": 1794307500000,
+    "tags": []
+   },
+   {
+    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
+    "s": "There’s already a demographic ‘run’ on Social Security.",
+    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
+    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "ts": 1794305700000,
+    "tags": []
+   },
+   {
+    "t": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
+    "tt": "N.Y. Knicks'in yıldızı Josh Hart, Florida'daki evine 5,7 milyon dolara satılıyor",
+    "s": "New York Knicks star Josh Hart has relisted his sprawling Florida mansion for $5.69 million—just one year after removing the home from the selling block.",
+    "ss": "New York Knicks yıldızı Josh Hart, Florida'daki geniş malikanesini satış blokundan çıkardıktan sadece bir yıl sonra 5,69 milyon dolara yeniden kiraladı.",
+    "u": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
+    "ts": 1794304860000,
+    "tags": []
+   },
+   {
+    "t": "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to Nashville",
+    "tt": "Aktör Justin Baldoni, Nashville'e taşındıktan sonra Los Angeles'taki evini sessizce 2,1 milyon dolara sattı",
+    "s": "Actor Justin Baldoni discreetly offloaded his former Los Angeles home months after relocating to Nashville, Tenn., for a “fresh start.”",
+    "ss": "Aktör Justin Baldoni, \"yeni bir başlangıç\" için Nashville, Tenn.'e taşındıktan aylar sonra Los Angeles'taki eski evini ihtiyatlı bir şekilde boşalttı.",
+    "u": "https://www.marketwatch.com/story/actor-justin-baldoni-quietly-sold-his-l-a-home-for-2-1-million-after-moving-to-nashville-4cb8041e?mod=mw_rss_topstories",
+    "ts": 1794304680000,
+    "tags": []
+   },
+   {
     "t": "Fed’s Waller puts half-point rate hike into the mix for December",
-    "tt": null,
+    "tt": "Fed'den Waller, Aralık ayı için yarım puanlık faiz artırımını da hesaba katıyor",
     "s": "Federal Reserve Gov. Chris Waller on Tuesday put the possibility of a half-point rate hike into the mix, depending how hot the consumer price data for October comes in.",
-    "ss": null,
+    "ss": "Salı günü Fed Başkanı Chris Waller, Ekim ayı tüketici fiyat verilerinin ne kadar sıcak geleceğine bağlı olarak yarım puanlık faiz artırımı olasılığını da hesaba kattı.",
     "u": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
     "ts": 1794303900000,
     "tags": [
@@ -771,68 +804,41 @@
     "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
     "ts": 1794264540000,
     "tags": []
-   },
-   {
-    "t": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-    "tt": "Nvidia'nın hisseleri düşerken Wall Street'in Jensen Huang skandalı hakkında söyleyecekleri var",
-    "s": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
-    "ss": "Analistler, kurulun yeni soruşturmasının sonuçlarının \"şirket için daha uzun süreli bir sorun\" haline gelebileceğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-    "ts": 1794261300000,
-    "tags": []
-   },
-   {
-    "t": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-    "tt": "Dow dört gün içinde üçüncü 1.000 puanlık yükselişini gördü. Neden volatilite henüz bitmedi?",
-    "s": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
-    "ss": "Stratejist, \"D.C.'nin arkadan esen bir rüzgâr olmaktan çıkıp potansiyel bir karşı rüzgâr haline gelmesi için bir seçim ve kötü bir Nvidia manşeti gerekti\" diyor.",
-    "u": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-    "ts": 1794261120000,
-    "tags": []
-   },
-   {
-    "t": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-    "tt": "Nvidia casus skandalının gerçek kazananları AMD ve Broadcom mu?",
-    "s": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
-    "ss": "Analistler, çip üreticilerinin hisselerinin Pazartesi günü büyük artışlar kaydettiğini ancak bu şirketlerin satış uygulamaları konusunda da daha fazla incelemeye tabi tutulabileceğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-    "ts": 1794260580000,
-    "tags": []
-   },
-   {
-    "t": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-    "tt": "Hisse senedi piyasasındaki ralli Büyük Teknoloji'nin ötesine yayılmaya devam ediyor. Ekim enflasyon verileri bunu test edebilir.",
-    "s": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
-    "ss": "Salı günkü TÜFE enflasyon raporu ve çok sayıda Federal Rezerv konuşmacısı rotasyon ticaretinin dayanıklılığını test edebilir",
-    "u": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-    "ts": 1794259440000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Russia Flatly Rejects EU Role In Abu Dhabi, While Brussels Insists Will Be At Table",
+    "tt": "Rusya AB'nin Abu Dabi'deki Rolünü Kesin Bir Şekilde Reddederken, Brüksel Masada Olmakta Israr Ediyor",
+    "s": "Russia Flatly Rejects EU Role In Abu Dhabi, While Brussels Insists Will Be At Table Trilateral talks between Russia, Ukraine, and the US are set to begin Tuesday and run through Wednesday, but there's already a serious disagreement brewing involving representation at the negotiating table . On Monda",
+    "ss": "Rusya, AB'nin Abu Dabi'deki Rolünü Açıkça Reddederken, Brüksel Masada Olmakta Israr Ediyor Rusya, Ukrayna ve ABD arasındaki üçlü görüşmelerin Salı günü başlayıp Çarşamba gününe kadar sürmesi planlanıyor, ancak müzakere masasında temsil konusunda ciddi bir anlaşmazlık şimdiden oluşmaya başladı. Pazartesi'de",
+    "u": "https://www.zerohedge.com/geopolitical/kremlin-firmly-rejects-european-role-abu-dhabi-talks-while-eu-insists-will-be-table",
+    "ts": 1794306000000,
+    "tags": []
+   },
+   {
     "t": "Nordic Power Prices Could Soar This Winter As Hydropower Reserves Plunge",
-    "tt": null,
+    "tt": "Hidroelektrik Rezervleri Düşerken İskandinav Enerji Fiyatları Bu Kış Artabilir",
     "s": "Nordic Power Prices Could Soar This Winter As Hydropower Reserves Plunge Authored by Tsvetana Paraskova via OilPrice , Low water levels in hydropower reservoirs and soaring natural gas prices are putting upward pressure on power prices in the Nordic countries as winter approaches , Denmark-based ene",
-    "ss": null,
+    "ss": "Hidroelektrik Rezervleri Düşerken İskandinav Enerji Fiyatları Bu Kış Yükselebilir Yazan: OilPrice aracılığıyla Tsvetana Paraskova, Danimarka merkezli ene, hidroelektrik rezervuarlarındaki düşük su seviyeleri ve artan doğal gaz fiyatları, kış yaklaşırken İskandinav ülkelerinde enerji fiyatları üzerinde yukarı yönlü baskı oluşturuyor.",
     "u": "https://www.zerohedge.com/energy/nordic-power-prices-could-soar-winter-hydropower-reserves-plunge",
     "ts": 1794303600000,
     "tags": []
    },
    {
     "t": "France Blames Iran For Cyberattack That Paralyzed Supermarket Freezers, Vows Retaliation For \"Sabotage\"",
-    "tt": null,
+    "tt": "Fransa, Süpermarket Dondurucularını Felç Eden Siber Saldırıdan İran'ı Suçladı, \"Sabotaj\" İçin Misilleme Yemini Verdi",
     "s": "France Blames Iran For Cyberattack That Paralyzed Supermarket Freezers, Vows Retaliation For \"Sabotage\" France accused Iran's Islamic Revolutionary Guard Corps of masterminding last month's cyberattack , which disrupted 700 of the country's 10,000 supermarkets and struck deep inside the country's fo",
-    "ss": null,
+    "ss": "Fransa, Süpermarket Dondurucularını Felç Eden Siber Saldırıdan İran'ı Suçladı, \"Sabotaj\" İçin Misilleme Yemini Verdi Fransa, geçen ay ülkedeki 10.000 süpermarketin 700'ünü çökerten ve ülkenin iç kesimlerini vuran siber saldırıyı İran'ın İslam Devrim Muhafızları Ordusu'nu planlamakla suçladı",
     "u": "https://www.zerohedge.com/technology/france-blames-iran-cyberattack-paralyzed-supermarkets-vows-retaliation-sabotage",
     "ts": 1794301200000,
     "tags": []
    },
    {
     "t": "Why Are So Many British Charities Lobbying For Open Borders?",
-    "tt": null,
+    "tt": "Neden Bu Kadar Çok sayıda İngiliz Yardım Kuruluşu Sınırların Açık Olması İçin Lobi Yapıyor?",
     "s": "Why Are So Many British Charities Lobbying For Open Borders? Authored by Joanna Williams via Spiked , Next time someone rattles a tin, and you reach for a couple of quid to help rough sleepers, starving donkeys or sick children, think twice. It's long been clear that major charities are run like bus",
-    "ss": null,
+    "ss": "Neden Bu Kadar Çok sayıda İngiliz Yardım Kuruluşu Sınırların Açık Olması İçin Lobi Yapıyor? Joanna Williams tarafından Spiked aracılığıyla yazılmıştır. Bir dahaki sefere birisi bir tenekeyi tıngırdattığında ve zor uyuyanlara, aç eşeklere veya hasta çocuklara yardım etmek için birkaç sterline uzandığınızda iki kere düşünün. Büyük hayır kurumlarının otobüs gibi yönetildiği uzun zamandır açıktı",
     "u": "https://www.zerohedge.com/geopolitical/why-are-so-many-british-charities-lobbying-open-borders",
     "ts": 1794298800000,
     "tags": []
@@ -890,18 +896,45 @@
     "u": "https://www.zerohedge.com/political/senate-republicans-revolt-against-their-own-leaders",
     "ts": 1794279600000,
     "tags": []
-   },
-   {
-    "t": "\"Consider Discontinuing\": FDA Slaps \"Eye Stroke\" Warning On All GLP-1 Weight-Loss Drugs",
-    "tt": "\"Bırakmayı Düşünün\": FDA, Tüm GLP-1 Kilo Verme İlaçlarına \"Göz Çarpması\" Uyarısını Tokatladı",
-    "s": "\"Consider Discontinuing\": FDA Slaps \"Eye Stroke\" Warning On All GLP-1 Weight-Loss Drugs The FDA is requiring the makers of every GLP-1 drug on the U.S. market, Ozempic, Wegovy, Mounjaro and Zepbound among them, to warn of a potential increased risk of an \"eye stroke\" that can cause sudden, permanent",
-    "ss": "\"Sonlandırmayı Düşünün\": FDA, Tüm GLP-1 Kilo Verme İlaçlarına \"Göz Çarpması\" Uyarısı Verdi FDA, aralarında Ozempic, Wegovy, Mounjaro ve Zepbound'un da bulunduğu ABD pazarındaki her GLP-1 ilacının üreticilerinden, ani, kalıcı zayıflamaya neden olabilecek \"göz çarpması\" riskinin potansiyel olarak arttığı konusunda uyarmalarını istiyor.",
-    "u": "https://www.zerohedge.com/medical/consider-discontinuing-fda-slaps-eye-stroke-warning-all-glp-1-weight-loss-drugs",
-    "ts": 1794277200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Şimşek: Üretimdeki görünümün güçlenmesini bekliyoruz",
+    "tt": null,
+    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, sanayi üretiminin Eylül'de aylık yüzde 2,1, yıllık yüzde 2,6 arttığını belirterek, küresel talep ve finansal koşullardaki iyileşmeyle önümüzdeki dönemde üretimdeki görünümün güçlenmesini beklediklerini söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/simsek-uretimdeki-gorunumun-guclenmesini-bekliyoruz-3794079",
+    "ts": 1794306078000,
+    "tags": []
+   },
+   {
+    "t": "UEA Başkanı Birol: Türkiye'nin elektrifikasyon hedefi memnuniyet verici",
+    "tt": null,
+    "s": "Uluslararası Enerji Ajansı (UEA) Başkanı Fatih Birol, Türkiye'nin enerji sektörüne yönelik yeni yol haritasında elektrifikasyona güçlü vurgu yapılmasının memnuniyetle karşılandığını belirterek, \"Bu yaklaşım dolayısıyla Türk tarafına teşekkür ediyoruz\" dedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/uea-baskani-birol-turkiye-nin-elektrifikasyon-hedefi-memnuniyet-verici-3794073",
+    "ts": 1794305371000,
+    "tags": []
+   },
+   {
+    "t": "Bakan Yumaklı: Tarımsal girdiler anlamında eksiğimiz olmadı, olmayacak",
+    "tt": null,
+    "s": "Antalya'da düzenlenen COP 31 iklim zirvesinde Bloomberg HT'ye değerlendirmelerde bulunan Tarım ve Orman Bakanı İbrahim Yumaklı \"Savaşlar dünyada tüm dengeleri değiştirdi ama tarımsal girdiler anlamında hiçbir eksiğimiz olmadı, olmayacak\" dedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bakan-yumakli-tarimsal-girdiler-anlaminda-eksigimiz-olmadi-olmayacak-3794066",
+    "ts": 1794304513000,
+    "tags": []
+   },
+   {
+    "t": "Emlak Katılım'dan Katılımevim, Birevim ve İktisat Katılım ile ilgili devir açıklaması",
+    "tt": null,
+    "s": "Emlak Katılım, Katılımevim, Birevim ve İktisat Katılım Bankası'nın devir alınma sürecinin tamamlandığını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/emlak-katilim-dan-katilimevim-birevim-ve-iktisat-katilim-ile-ilgili-devir-aciklamasi-3794062",
+    "ts": 1794303567000,
+    "tags": []
+   },
    {
     "t": "İzmir'deki HABAŞ faciasında can kaybı 17'ye çıktı",
     "tt": null,
@@ -955,46 +988,11 @@
     "u": "https://www.bloomberght.com/abd-de-benzin-fiyatlari-psikolojik-seviyenin-altina-dustu-3794052",
     "ts": 1794300555000,
     "tags": []
-   },
-   {
-    "t": "Besler'in konsolide cirosu 2026'nın ilk 9 ayında 31 milyar TL'yi aştı",
-    "tt": null,
-    "s": "2026 ilk 9 ayında Besler'in konsolide cirosu 31,1 milyar TL'ye ulaşırken; aynı dönemde brüt kârı yüzde 9,1 artışla 7,4 milyar TL, konsolide dönem net kârı ise 816 milyon TL oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/beslerin-konsolide-cirosu-2026nin-ilk-9-ayinda-31-milyar-tlyi-asti-3794053",
-    "ts": 1794300582000,
-    "tags": []
-   },
-   {
-    "t": "Almanya'da gaz kıtlığı uyarısı",
-    "tt": null,
-    "s": "Almanya Gaz Depolama Girişimi (INES), yaklaşan kış dönemi öncesinde doğalgaz depolama tesislerindeki doluluk oranının yüzde 61'e gerilediğini belirterek aşırı soğuklarda gaz kıtlığı yaşanabileceği uyarısında bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/almanyada-gaz-kitligi-uyarisi-3794051",
-    "ts": 1794300171000,
-    "tags": []
-   },
-   {
-    "t": "\"LNG kullanımındaki artış gemi filolarını büyüttü\"",
-    "tt": null,
-    "s": "Küresel doğalgaz ticaretinde önemli rol oynayan sıvılaştırılmış doğalgaz (LNG) taşımacılığında, artan enerji verimliliği ihtiyacı gemilerde yakıt tasarrufu sağlayan yeni teknolojilerin geliştirilmesini teşvik ediyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/lng-kullaniminin-artmasi-gemi-filolarini-buyuttu-3794049",
-    "ts": 1794298838000,
-    "tags": []
-   },
-   {
-    "t": "AMB/Lane: Veriler değişmezse Aralık'ta faiz artışı ihtiyatlı adım olur",
-    "tt": null,
-    "s": "Avrupa Merkez Bankası (AMB) Başekonomisti Philip Lane, önümüzdeki haftalarda verilerde bir değişiklik olmazsa AMB'nin sonraki toplantısında borçlanma maliyetlerini yeniden artırması gerektiğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/amblane-veriler-degismezse-aralikta-faiz-artisi-ihtiyatli-adim-olur-3794048",
-    "ts": 1794298475000,
-    "tags": []
    }
   ]
  },
  "errors": {
+  "fiyat:BIST 100": "401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v8/finance/chart/XU100.IS?r",
   "fred:DFF": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS10": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
@@ -1006,7 +1004,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
