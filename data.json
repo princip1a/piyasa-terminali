@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T02:39:19.837267+00:00",
+ "generated": "2026-11-10T03:27:49.793058+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4135.9,
-   "c": 0.52,
-   "d": 21.4,
+   "p": 4123.0,
+   "c": 0.21,
+   "d": 8.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.27,
-   "c": 1.34,
-   "d": 0.706,
+   "p": 53.035,
+   "c": 0.9,
+   "d": 0.471,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.06,
-   "c": -0.91,
-   "d": -0.79,
+   "p": 85.93,
+   "c": -1.06,
+   "d": -0.92,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.9,
-   "c": -0.72,
-   "d": -0.67,
+   "p": 91.76,
+   "c": -0.88,
+   "d": -0.81,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.693,
-   "c": 0.04,
-   "d": 0.043,
+   "p": 101.698,
+   "c": 0.05,
+   "d": 0.048,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2023,
-   "c": 0.16,
-   "d": 0.079,
+   "p": 50.2209,
+   "c": 0.19,
+   "d": 0.098,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74757,
-   "c": -0.83,
+   "p": 74696,
+   "c": -0.43,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2116.81,
-   "c": -1.68,
+   "p": 2117.75,
+   "c": -1.22,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 85.84,
-   "c": -2.65,
+   "p": 85.71,
+   "c": -2.3,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.091,
-   "c": -2.5,
+   "p": 1.095,
+   "c": -1.29,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 687.94,
-   "c": -0.32,
+   "p": 687.72,
+   "c": 0.02,
    "k": "usd"
   }
  ],
@@ -494,6 +494,47 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Copper Extends Rebound as Global Technology Stocks Resume Rally",
+    "tt": null,
+    "s": "Copper extended its rebound from last week’s slump, tracking a rally in technology shares due to the metal’s use in power infrastructure and data centers.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
+    "ts": 1794279854000,
+    "tags": []
+   },
+   {
+    "t": "Singapore Launches Gold Vaulting Service for Central Banks",
+    "tt": null,
+    "s": "Singapore has launched a gold vaulting service for overseas central banks and official institutions, seeking to capitalize on global demand to diversify storage of bullion reserves.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-launches-gold-vaulting-service-for-central-banks",
+    "ts": 1794279610000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Ride Tech Rally Higher as Oil Drops: Markets Wrap",
+    "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
+    "s": "Asian stocks headed for their biggest two-day advance since early August, boosted by a tech rally and a further decline in oil prices.",
+    "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794262613000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
+    "tt": null,
+    "s": "President Donald Trump and Secretary of State Marco Rubio defended Defense Secretary Pete Hegseth after Republican representative Thomas Massie introduced articles of impeachment over military operations in Iran. Hegseth has rejected calls to step down, characterizing the effort as politically motiv",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
+    "ts": 1794278961000,
+    "tags": []
+   },
+   {
     "t": "Singapore’s Interbank Rate Hits Highest in More Than a Year",
     "tt": "Singapur'un Bankalararası Faiz Oranı Bir Yıldan Fazla Bir Sürenin En Yüksek Seviyesine Tırmandı",
     "s": "Singapore’s benchmark interest rate climbed to the highest level in more than a year on tighter local liquidity and expectations for further US interest-rate hikes.",
@@ -506,20 +547,6 @@
      "Gümüş ▼",
      "BTC ▼",
      "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Asian Stocks Climb as Tech Rallies, Oil Slips: Markets Wrap",
-    "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
-    "s": "Asian stocks advanced, tracking gains on Wall Street as a rally in technology shares and a further decline in oil prices boosted sentiment.",
-    "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794262613000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
     ]
    },
    {
@@ -566,36 +593,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
     "ts": 1794247200000,
     "tags": []
-   },
-   {
-    "t": "Indonesia Markets Second Panda Bond Offering Despite MSCI Threat",
-    "tt": "Endonezya Piyasada MSCI Tehdidine Rağmen İkinci Panda Tahvili Arzı",
-    "s": "Indonesia has begun marketing its second yuan-denominated bond in China’s domestic debt market, even as Southeast Asia’s largest economy grapples with the threat of a double downgrade from MSCI Inc.",
-    "ss": "Endonezya, Güneydoğu Asya'nın en büyük ekonomisi MSCI Inc.'in notunu çifte düşürme tehdidiyle boğuşurken, Çin'in iç borç piyasasında yuan cinsinden ikinci tahvilini pazarlamaya başladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/indonesia-markets-second-panda-bond-offering-despite-msci-threat",
-    "ts": 1794272557000,
-    "tags": []
-   },
-   {
-    "t": "China Sells Debut Green Bonds in Canada Amid Robust Demand",
-    "tt": "Çin, Güçlü Talep Üzerine Kanada'da İlk Yeşil Tahvillerini Sattı",
-    "s": "China drew robust demand for its debut yuan-denominated green bond sale in Canada, expanding its offshore debt footprint to finance sustainable projects as ties between the two nations warm.",
-    "ss": "Çin, Kanada'da yuan cinsinden ilk yeşil tahvil satışına güçlü talep gördü ve iki ülke arasındaki ilişkiler ısındıkça sürdürülebilir projeleri finanse etmek için offshore borç ayak izini genişletti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/china-starts-marketing-green-bonds-for-debut-sales-in-canada",
-    "ts": 1794196925000,
-    "tags": []
-   },
-   {
-    "t": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
-    "tt": "Enflasyon Verileri, Haven Teklifi Sonrası Hazine Yükselişinin Limitlerini Test Edecek",
-    "s": "Bond traders are waiting for a key inflation report on Tuesday for clues on the direction of the Federal Reserve’s policy path and whether the recent Treasury rally has more room to run.",
-    "ss": "Tahvil tüccarları, Fed'in politika yolunun yönüne ve Hazine'deki son yükselişin daha fazla hareket alanı olup olmadığına dair ipuçları için Salı günü yayınlanacak önemli enflasyon raporunu bekliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
-    "ts": 1794271606000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
    }
   ],
   "CNBC": [
@@ -796,12 +793,39 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Israel Is 'Rich Enough' To Buy US Weapons Without Financial Aid, Rubio Says",
+    "tt": null,
+    "s": "Israel Is 'Rich Enough' To Buy US Weapons Without Financial Aid, Rubio Says The White House is much too late in belateldy 'discovering' this talking point, but admin officials continue to say that it's time for Israel to stand on its own and begin purchasing weapons without relying on US financial a",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/israel-rich-enough-enough-buy-us-weapons-without-financial-aid-rubio-says",
+    "ts": 1794280800000,
+    "tags": []
+   },
+   {
+    "t": "Senate Republicans Revolt Against Their Own Leaders",
+    "tt": null,
+    "s": "Senate Republicans Revolt Against Their Own Leaders A bloc of Senate Republicans led by Sen. Ron Johnson (R-WI) is pushing to postpone Tuesday's GOP leadership elections , arguing that the conference needs time to examine its midterm election losses before it picks the leaders who will guide it in t",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/senate-republicans-revolt-against-their-own-leaders",
+    "ts": 1794279600000,
+    "tags": []
+   },
+   {
     "t": "\"Consider Discontinuing\": FDA Slaps \"Eye Stroke\" Warning On All GLP-1 Weight-Loss Drugs",
     "tt": "\"Bırakmayı Düşünün\": FDA, Tüm GLP-1 Kilo Verme İlaçlarına \"Göz Çarpması\" Uyarısını Tokatladı",
     "s": "\"Consider Discontinuing\": FDA Slaps \"Eye Stroke\" Warning On All GLP-1 Weight-Loss Drugs The FDA is requiring the makers of every GLP-1 drug on the U.S. market, Ozempic, Wegovy, Mounjaro and Zepbound among them, to warn of a potential increased risk of an \"eye stroke\" that can cause sudden, permanent",
     "ss": "\"Sonlandırmayı Düşünün\": FDA, Tüm GLP-1 Kilo Verme İlaçlarına \"Göz Çarpması\" Uyarısı Verdi FDA, aralarında Ozempic, Wegovy, Mounjaro ve Zepbound'un da bulunduğu ABD pazarındaki her GLP-1 ilacının üreticilerinden, ani, kalıcı zayıflamaya neden olabilecek \"göz çarpması\" riskinin potansiyel olarak arttığı konusunda uyarmalarını istiyor.",
     "u": "https://www.zerohedge.com/medical/consider-discontinuing-fda-slaps-eye-stroke-warning-all-glp-1-weight-loss-drugs",
     "ts": 1794277200000,
+    "tags": []
+   },
+   {
+    "t": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout",
+    "tt": null,
+    "s": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout Sen. Mitch McConnell (R-KY) is facing renewed scrutiny over his health after appearing to freeze when a reporter asked him about Republicans' devastating midterm election losses . The 84-year-old Kentucky Republica",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/watch-mcconnell-sparks-new-health-fears-after-unsettling-reaction-midterm-blowout",
+    "ts": 1794276900000,
     "tags": []
    },
    {
@@ -856,33 +880,6 @@
     "ss": "Philly'nin Kristallnacht'ı: Özel Vatandaşları Hedef Almak Vs. İsrail Politikası Luis Gonzalez tarafından American Thinker aracılığıyla yazılmıştır. Philadelphia'da Yahudilere ait altı restoranı hedef alan bisikletli boykot, Pazar günü yüzlerce karşıt protestocuyu Center City'ye getirdi. Philly B tarafından düzenlenen gösteri",
     "u": "https://www.zerohedge.com/political/phillys-kristallnacht-targeting-private-citizens-vs-israeli-policy",
     "ts": 1794270000000,
-    "tags": []
-   },
-   {
-    "t": "Judge Clears Lindsay Clancy For Retrial, And Tells Her Lawyer To Watch His Mouth",
-    "tt": "Yargıç Lindsay Clancy'yi Yeniden Yargılama İçin Temize Çıkardı ve Avukatına Ağzına Dikkat Etmesini Söyledi",
-    "s": "Judge Clears Lindsay Clancy For Retrial, And Tells Her Lawyer To Watch His Mouth A Massachusetts judge on Monday rejected Lindsay Clancy's bid to dismiss her triple-murder case on double jeopardy grounds , clearing the way for a second trial in the 2023 deaths of her three young children - and refus",
-    "ss": "Yargıç Lindsay Clancy'yi Yeniden Yargılama İçin Temize Çıkardı ve Avukatına Ağzına Dikkat Etmesini Söyledi Massachusetts'li bir yargıç Pazartesi günü Lindsay Clancy'nin üçlü cinayet davasını çifte tehlike gerekçesiyle reddetme teklifini reddetti ve 2023'te üç küçük çocuğunun ölümüyle ilgili ikinci bir duruşmanın önünü açtı - ve reddetti",
-    "u": "https://www.zerohedge.com/political/judge-clears-lindsay-clancy-retrial-and-tells-her-lawyer-watch-his-mouth",
-    "ts": 1794268800000,
-    "tags": []
-   },
-   {
-    "t": "Exhausted Pianist Pulled Out Of Pacific Nine Hours After Falling Overboard",
-    "tt": "Bitkin Piyanist Denize Düştükten Dokuz Saat Sonra Pasifik'ten Çıkarıldı",
-    "s": "Exhausted Pianist Pulled Out Of Pacific Nine Hours After Falling Overboard Two fishermen heading home from a marlin trip off Southern California pulled a Royal Caribbean crew member out of the Pacific on Nov. 6 after he had been in the water for about nine hours, CruiseHive reported .&nbsp; The man ",
-    "ss": "Bitkin Piyanist Denize Düştükten Dokuz Saat Sonra Pasifik'ten Çekildi CruiseHive'ın haberine göre, Güney Kaliforniya açıklarında bir marlin gezisinden eve dönen iki balıkçı, Royal Caribbean ekibinden bir üyeyi yaklaşık dokuz saat suda kaldıktan sonra 6 Kasım'da Pasifik'ten çıkardı.  Adam",
-    "u": "https://www.zerohedge.com/political/exhausted-pianist-pulled-out-pacific-nine-hours-after-falling-overboard",
-    "ts": 1794267600000,
-    "tags": []
-   },
-   {
-    "t": "\"Only Joking - Maybe Not\": Sotomayor Takes Aim At Supreme Court's Presidential Immunity Ruling",
-    "tt": "\"Sadece Şaka - Belki Değil\": Sotomayor, Yüksek Mahkemenin Cumhurbaşkanlığı Dokunulmazlığı Kararını Hedef Alıyor",
-    "s": "\"Only Joking - Maybe Not\": Sotomayor Takes Aim At Supreme Court's Presidential Immunity Ruling Justice Sonia Sotomayor said Saturday she hopes the Supreme Court will one day reverse its 2024 ruling that gave former presidents broad protection from criminal prosecution , calling it one of several dec",
-    "ss": "\"Sadece Şaka - Belki Değil\": Sotomayor, Yüksek Mahkemenin Cumhurbaşkanlığı Dokunulmazlığı Kararını Hedef Alıyor Yargıç Sonia Sotomayor Cumartesi günü yaptığı açıklamada, Yüksek Mahkemenin bir gün eski başkanlara cezai kovuşturmaya karşı geniş koruma sağlayan 2024 kararını tersine çevireceğini umduğunu söyledi ve bunu birkaç Aralık kararından biri olarak nitelendirdi.",
-    "u": "https://www.zerohedge.com/political/only-joking-maybe-not-sotomayor-takes-aim-supreme-courts-presidential-immunity-ruling",
-    "ts": 1794266400000,
     "tags": []
    }
   ],
@@ -991,6 +988,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
