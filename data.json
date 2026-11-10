@@ -1,120 +1,120 @@
 {
- "generated": "2026-11-10T13:59:05.771410+00:00",
+ "generated": "2026-11-10T14:50:13.554870+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7549.94,
-   "c": 2.35,
-   "d": 173.08,
+   "p": 7510.34,
+   "c": -0.52,
+   "d": -39.6,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25253.139,
-   "c": 2.74,
-   "d": 673.709,
+   "p": 25075.176,
+   "c": -0.7,
+   "d": -177.965,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52389.75,
-   "c": 2.15,
-   "d": 1104.02,
+   "p": 52118.83,
+   "c": -0.52,
+   "d": -270.92,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 21.14,
-   "c": 6.12,
-   "d": 1.22,
+   "p": 20.82,
+   "c": 4.52,
+   "d": 0.9,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4068.8,
-   "c": -1.11,
-   "d": -45.7,
+   "p": 4053.1,
+   "c": -1.49,
+   "d": -61.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.095,
-   "c": -0.89,
-   "d": -0.469,
+   "p": 51.685,
+   "c": -1.67,
+   "d": -0.879,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 84.4,
-   "c": -2.82,
-   "d": -2.45,
+   "p": 84.76,
+   "c": -2.41,
+   "d": -2.09,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.6,
-   "c": -3.21,
-   "d": -2.97,
+   "p": 89.72,
+   "c": -3.08,
+   "d": -2.85,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.985,
-   "c": 0.33,
-   "d": 0.335,
+   "p": 102.053,
+   "c": 0.4,
+   "d": 0.403,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.938,
-   "c": 1.52,
-   "d": 0.074,
+   "p": 4.973,
+   "c": 2.24,
+   "d": 0.109,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.2224,
-   "c": 0.2,
-   "d": 0.099,
+   "p": 50.229,
+   "c": 0.21,
+   "d": 0.106,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11678.69,
+   "p": 11678.15,
    "c": -0.29,
-   "d": -34.01,
+   "d": -34.55,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 73776,
-   "c": -1.23,
+   "p": 74007,
+   "c": -1.06,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2067.52,
-   "c": -2.7,
+   "p": 2071.51,
+   "c": -2.73,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 84.16,
-   "c": -2.95,
+   "p": 83.94,
+   "c": -3.95,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.065,
-   "c": -2.87,
+   "p": 1.059,
+   "c": -3.96,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 683.75,
-   "c": -0.15,
+   "p": 686.23,
+   "c": -0.02,
    "k": "usd"
   }
  ],
@@ -494,6 +494,21 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Slide After Hot Inflation Boosts December Rate Hike Bets",
+    "tt": "Hisse Senetleri, Sıcak Enflasyonun Aralık Faiz Artışı Bahislerini Artırmasının Ardından Kayıyor",
+    "s": "US equities are lower after hotter-than-expected inflation data released on Tuesday bolstered the case for an interest rate hike by the Federal Reserve in December.",
+    "ss": "ABD hisse senetleri, Salı günü açıklanan beklenenden sıcak enflasyon verilerinin Fed'in Aralık ayında faiz artırımına gideceği ihtimalini desteklemesinin ardından düşüşte.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo",
+    "ts": 1794315352000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
     "s": "Stocks joined bonds lower as a faster-than-estimated increase in inflation fueled wagers the Federal Reserve will keep lifting interest rates.",
@@ -503,84 +518,83 @@
     "tags": []
    },
    {
-    "t": "Treasuries Drop as Hot US Inflation Backs December Rate Bets",
-    "tt": "Sıcak ABD Enflasyonunun Aralık Faiz Oranı Bahislerini Desteklemesiyle Hazine Tahvilleri Düştü",
-    "s": "Treasuries sank and traders solidified their bets that Federal Reserve officials will raise interest rates when they next meet in December after evidence of persistently hot US inflation.",
-    "ss": "Hazine tahvilleri düştü ve traderlar, ABD enflasyonunun ısrarla sıcak olduğunun kanıtlanmasının ardından Fed yetkililerinin Aralık ayındaki bir sonraki toplantısında faiz oranlarını artıracağına dair bahislerini sağlamlaştırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
-    "ts": 1794318083000,
+    "t": "FIDCs crescem em meio a aumento na inadimplência no crédito",
+    "tt": "FIDC'ler, kredi alamadıkları için giderek daha da artıyor",
+    "s": "Matheus Piovesana conta como o aumento dos FIDCs tem levantado preocupação sobre transparência, em meio a inadimplência no crédito. Edição de Patricia Xavier. (Source: Bloomberg)",
+    "ss": "Matheus Piovesana, FIDC'lerin şeffaflık konusundaki endişelerini artırmaya yardımcı oldu ve bu da yeterince kredilendirilmedi. Edição de Patricia Xavier. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/fidcs-crescem-em-meio-a-alta-na-inadimplencia-no-credito-video",
+    "ts": 1794320958000,
     "tags": []
    },
    {
-    "t": "Vanguard Inks $4 Billion of Private Debt to Fund Altruist Deal",
-    "tt": "Vanguard, Altruist Anlaşmayı Finanse Etmek İçin 4 Milyar Dolarlık Özel Borç İmzaladı",
-    "s": "Vanguard Group has raised about $4 billion of private debt to finance its acquisition of digital wealth platform Altruist.",
-    "ss": "Vanguard Group, dijital servet platformu Altruist'i satın almasını finanse etmek için yaklaşık 4 milyar dolarlık özel borç topladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/vanguard-inks-4-billion-of-private-debt-to-fund-altruist-deal",
-    "ts": 1794318166000,
+    "t": "New World’s Top Shareholder Seeks $637 Million Bank Loan",
+    "tt": "Yeni Dünyanın En Büyük Hissedarı 637 Milyon Dolarlık Banka Kredisi İstiyor",
+    "s": "Chow Tai Fook Enterprises Ltd., an investment arm of Hong Kong’s billionaire Cheng family, is seeking about HK$5 billion ($637 million) in fresh funding from banks, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, Hong Konglu milyarder Cheng ailesinin yatırım kolu olan Chow Tai Fook Enterprises Ltd., bankalardan yaklaşık 5 milyar HK$ (637 milyon $) tutarında yeni fon arıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/new-world-s-top-shareholder-seeks-bank-loan-as-equity-deal-looms",
+    "ts": 1794294226000,
     "tags": []
    },
    {
-    "t": "GFL Environmental Rejects Takeover Bids, Opts to Remain Public",
-    "tt": "GFL Environmental, Devralma Tekliflerini Reddetti, Halka Açık Kalmayı Tercih Etti",
-    "s": "Canada’s GFL Environmental Inc. said it rejected buyout proposals and will stay public, ending a monthslong process that attracted interest from investors including Blackstone Inc. and Brookfield Asset Management Ltd.",
-    "ss": "Kanadalı GFL Environmental Inc., satın alma tekliflerini reddettiğini ve halka açık kalacağını, böylece Blackstone Inc. ve Brookfield Asset Management Ltd. gibi yatırımcıların ilgisini çeken aylar süren süreci sonlandırdığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gfl-environmental-rejects-takeover-bids-opts-to-remain-public",
-    "ts": 1794317448000,
+    "t": "Food, Gas Prices Push October CPI Higher",
+    "tt": "Gıda ve Gaz Fiyatları Ekim TÜFE'sini Yükseltti",
+    "s": "Food and energy prices drove the consumer price index higher for October, likely keeping the Federal Reserve on track to raise interest rates next month. Grocery, gasoline and electricity prices all rose. Tiffany Wilding, Pimco economist, says higher energy prices are causing companies to pass along",
+    "ss": "Gıda ve enerji fiyatları Ekim ayında tüketici fiyat endeksini yükseltti ve muhtemelen Federal Rezerv'in gelecek ay faiz oranlarını artırma yolunda ilerlemesini sağladı. Bakkal, benzin ve elektrik fiyatlarının tamamı arttı. Pimco ekonomisti Tiffany Wilding, yüksek enerji fiyatlarının şirketlerin geçiş yapmasına neden olduğunu söylüyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/takeaways-from-the-october-cpi-report-video",
+    "ts": 1794320418000,
     "tags": []
    },
    {
-    "t": "Carlyle, SEI Investments Debut Retail Private Markets Fund",
-    "tt": "Carlyle, SEI Investments, Perakende Özel Piyasalar Fonunu Tanıttı",
-    "s": "Carlyle Group Inc. is launching a private markets fund with SEI Investments Co. to target wealthy individuals as alternative asset managers continue pushing into the retail market.",
-    "ss": "Alternatif varlık yöneticileri perakende pazarına girmeye devam ederken, Carlyle Group Inc., SEI Investments Co. ile birlikte zengin bireyleri hedeflemek için bir özel pazar fonu başlatıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/carlyle-sei-investments-debut-retail-private-markets-fund",
-    "ts": 1794317400000,
+    "t": "Fox Begins High-Grade Bond Sale to Repay Debt for Roku Deal",
+    "tt": "Fox, Roku Anlaşması Borcunu Ödemek İçin Yüksek Dereceli Tahvil Satışına Başladı",
+    "s": "Fox Corp. kicked off an investment-grade bond sale to help fund its acquisition of Roku Inc., days after completing the purchase.",
+    "ss": "Fox Corp., satın alımı tamamladıktan birkaç gün sonra, Roku Inc.'i satın almasının finansmanına yardımcı olmak için yatırım amaçlı tahvil satışına başladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/fox-begins-high-grade-bond-sale-to-repay-debt-for-roku-deal",
+    "ts": 1794320387000,
     "tags": []
    },
    {
-    "t": "US Defense Sec. Hegseth Calls Impeachment Effort a Farce",
-    "tt": "ABD Savunma Sek. Hegseth, Azil Çabalarını Saçmalık Olarak Çağırdı",
-    "s": "US Secretary of Defense Pete Hegseth said the move to impeach him introduced by Rep. Thomas Massie is a farce. He said the resolution amounts to sabotage during a press conference at the Pentagon on Tuesday. (Source: Bloomberg)",
-    "ss": "ABD Savunma Bakanı Pete Hegseth, Temsilci Thomas Massie'nin kendisini görevden alma girişiminin bir saçmalık olduğunu söyledi. Salı günü Pentagon'da düzenlenen basın toplantısında kararın sabotaj anlamına geldiğini söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/us-defense-sec-hegseth-calls-impeachment-effort-a-farce-video",
-    "ts": 1794317209000,
+    "t": "Russia Ships Less Crude as Loadings Halted at Key Pacific Port",
+    "tt": "Rusya, Önemli Pasifik Limanında Yüklemelerin Durdurulmasıyla Daha Az Ham Petrol Sevk Ediyor",
+    "s": "Shipments fall&nbsp;amid a pause in operations at the Pacific port of Kozmino",
+    "ss": "Pasifik'teki Kozmino limanındaki operasyonlarda duraklamanın ortasında sevkiyatlar düştü",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/russia-ships-less-crude-as-loadings-halted-at-key-pacific-port",
+    "ts": 1794320046000,
     "tags": []
    },
    {
-    "t": "Turkey’s Bayraktar on Financing Energy Transition",
-    "tt": "Türkiye'nin Bayraktar'ı Enerji Dönüşümünün Finansmanı Konusunda",
-    "s": "Turkish Energy Minister Alparslan Bayraktar said Turkey is targeting a 36% electrification rate by 2040 as it seeks to curb an annual energy import bill of up to $100 billion. Speaking to BTV on the sidelines of COP31 on Tuesday, he said scaling up renewables and nuclear power, alongside multilatera",
-    "ss": "Türkiye Enerji Bakanı Alparslan Bayraktar, Türkiye'nin 2040 yılına kadar yüzde 36'lık bir elektrifikasyon oranı hedeflediğini ve yıllık 100 milyar dolara varan enerji ithalat faturasını kısmayı amaçladığını söyledi. Salı günü COP31 oturum aralarında BTV'ye konuşan kendisi, çoklu yatırımların yanı sıra yenilenebilir enerji ve nükleer enerjinin de büyütüleceğini söyledi",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/turkey-s-bayraktar-on-financing-energy-transition-video",
-    "ts": 1794316912000,
-    "tags": []
+    "t": "Gold Extends Drop as Hot US Inflation Reinforces Fed Hike Bets",
+    "tt": "Altın, ABD'deki Sıcak Enflasyonun Fed'in Artış Bahislerini Güçlendirmesiyle Düşüşünü Genişletiyor",
+    "s": "Gold extended its decline after a key gauge of US inflation came in hotter than expected, reinforcing bets that the Federal Reserve will raise interest rates next month.",
+    "ss": "Altın, ABD enflasyonuna ilişkin önemli bir göstergenin beklenenden daha sıcak gelmesinin ardından düşüşünü sürdürdü ve bu da Fed'in gelecek ay faiz oranlarını artıracağı yönündeki bahisleri güçlendirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+    "ts": 1794269052000,
+    "tags": [
+     "Altın ▼"
+    ]
    },
    {
-    "t": "Canada’s Top Pension Merges Active Equities Arm, Lays Off Dozens",
+    "t": "Fed Shouldn’t Do a 50 Bps Rate Hike, JPM’s Kelly Says",
+    "tt": "JPM'den Kelly, Fed'in 50 baz puanlık faiz artırımı yapmaması gerektiğini söylüyor",
+    "s": "David Kelly, chief global strategist at JPMorgan Asset Management, explains why a half-point rate hike by the Federal Reserve is not needed next month, following a higher-than-expected rise in the US consumer price index. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "ss": "JPMorgan Asset Management baş küresel stratejisti David Kelly, ABD tüketici fiyat endeksindeki beklenenden yüksek artışın ardından Fed'in gelecek ay yarım puanlık faiz artırımına neden gerek olmadığını açıklıyor. “Bloomberg Gözetim” hakkında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/fed-shouldn-t-do-a-50bps-rate-hike-jpm-s-kelly-says-video",
+    "ts": 1794319618000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Canada’s Top Pension Merges Active Equities Arm, Cuts Dozens",
     "tt": "Kanada'nın En İyi Emeklilik Şirketi Aktif Hisse Senedi Kolunu Birleştiriyor, Düzinelerce Kişiyi İşten Çıkarıyor",
     "s": "Canada Pension Plan Investment Board is merging its struggling active equities unit with another department after years of weak performance.",
     "ss": "Kanada Emeklilik Planı Yatırım Kurulu, yıllardır zayıf performans sergileyen aktif özsermaye birimini başka bir departmanla birleştiriyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-10/canada-s-top-pension-merges-active-equities-arm-lays-off-dozens",
     "ts": 1794316444000,
-    "tags": []
-   },
-   {
-    "t": "Global Macro Funds Seen as Next Positioning Risk for US Stocks",
-    "tt": "Küresel Makro Fonlar ABD Hisse Senetleri İçin Bir Sonraki Konumlandırma Riski Olarak Görülüyor",
-    "s": "Last week’s rout in US stocks may have flushed out some concentration excess in the markets, but it didn’t eliminate it entirely.",
-    "ss": "ABD hisse senetlerinde geçen hafta yaşanan düşüş, piyasalardaki konsantrasyon fazlalığının bir kısmını ortadan kaldırmış olabilir ancak bunu tamamen ortadan kaldırmadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/global-macro-funds-seen-as-next-positioning-risk-for-us-stocks",
-    "ts": 1794316194000,
-    "tags": []
-   },
-   {
-    "t": "Polish Premier Orders Gun Laws Review After First Mass Shooting",
-    "tt": "Polonya Başbakanı, İlk Toplu Saldırının Ardından Silah Yasalarının Gözden Geçirilmesini Emretti",
-    "s": "Polish Prime Minister Donald Tusk asked his ministers to review the gun regulations as the country comes to terms with its first mass shooting.",
-    "ss": "Polonya Başbakanı Donald Tusk, ülke ilk toplu silahlı saldırıyı kabullenirken bakanlarından silah düzenlemelerini gözden geçirmelerini istedi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/polish-premier-orders-gun-laws-review-after-first-mass-shooting",
-    "ts": 1794315626000,
     "tags": []
    }
   ],
@@ -684,6 +698,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "tt": "Bernie Sanders, Sosyal Güvenlik çözümünü \"nesillerdir\" korumak istiyor",
+    "s": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    "ss": "Vermont senatörü vergiye tabi azami sınırı ortadan kaldırarak zenginlerin daha fazla vergi ödemesini sağlamayı amaçlıyor",
+    "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "ts": 1794319800000,
+    "tags": []
+   },
+   {
     "t": "Fed’s Waller puts half-point rate hike into the mix for December",
     "tt": "Fed'den Waller, Aralık ayı için yarım puanlık faiz artırımını da hesaba katıyor",
     "s": "U.S. central bank official had put a half-point discussion into the mix ahead of Labor Department data, which came in as hot as he feared.",
@@ -775,22 +798,49 @@
     "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
     "ts": 1794305700000,
     "tags": []
-   },
-   {
-    "t": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
-    "tt": "N.Y. Knicks'in yıldızı Josh Hart, Florida'daki evine 5,7 milyon dolara satılıyor",
-    "s": "New York Knicks star Josh Hart has relisted his sprawling Florida mansion for $5.69 million—just one year after removing the home from the selling block.",
-    "ss": "New York Knicks yıldızı Josh Hart, Florida'daki geniş malikanesini satış blokundan çıkardıktan sadece bir yıl sonra 5,69 milyon dolara yeniden kiraladı.",
-    "u": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
-    "ts": 1794304860000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
-    "t": "'FBI Looking Into It': Trump Reveals What Jensen Huang Told Him When Asked If He Knew She Was A Spy",
+    "t": "Binance Warns iOS Flaw Could Let Malicious Apps Steal Crypto Wallet Keys",
+    "tt": "Binance, iOS Kusurunun Kötü Amaçlı Uygulamaların Kripto Cüzdan Anahtarlarını Çalmasına İzin Verebileceği Uyardı",
+    "s": "Binance Warns iOS Flaw Could Let Malicious Apps Steal Crypto Wallet Keys Authored by Zoltan Vardai via Cointelegraph , Cryptocurrency exchange Binance warned Tuesday that an iOS flaw could expose crypto wallet recovery phrases and private keys if a user runs a malicious app on an affected iPhone . B",
+    "ss": "Binance, iOS Kusurunun Kötü Amaçlı Uygulamaların Kripto Cüzdan Anahtarlarını Çalmasına İzin Verebileceği Uyardı Cointelegraph aracılığıyla Zoltan Vardai tarafından yazılan Kripto para borsası Binance, Salı günü, bir kullanıcının etkilenen bir iPhone'da kötü amaçlı bir uygulama çalıştırması durumunda, bir iOS kusurunun kripto cüzdanı kurtarma ifadelerini ve özel anahtarlarını açığa çıkarabileceği konusunda uyardı. B",
+    "u": "https://www.zerohedge.com/crypto/binance-warns-ios-flaw-could-let-malicious-apps-steal-crypto-wallet-keys",
+    "ts": 1794321600000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic Launches $100 Billion IPO Worth $1.4 Trillion... Or $1.0 Trillion, Depending On Who's Counting",
+    "tt": "Anthropic, Kimin Saydığına Bağlı Olarak 1,4 Trilyon Dolar veya 1,0 Trilyon Dolar Değerinde 100 Milyar Dolarlık Halka Arz Ediyor",
+    "s": "Anthropic Launches $100 Billion IPO Worth $1.4 Trillion... Or $1.0 Trillion, Depending On Who's Counting Well, we finally have a number. Two of them, actually. After five weeks in which the \"fair value\" of the biggest IPO ever slid from $2 trillion to $1.5 trillion and then to $1.2 trillion , Anthro",
+    "ss": "Anthropic, 1,4 Trilyon Dolar Değerinde 100 Milyar Dolarlık Halka Arz Ediyor... Veya Kimin Saydığına Bağlı Olarak 1,0 Trilyon Dolarlık Halka Arz Ediyor Sonunda bir rakama sahibiz. Aslında iki tane. Bugüne kadarki en büyük halka arzın \"gerçeğe uygun değerinin\" 2 trilyon dolardan 1,5 trilyon dolara ve ardından 1,2 trilyon dolara düştüğü beş haftanın ardından Anthro,",
+    "u": "https://www.zerohedge.com/markets/anthropic-launches-100-billion-ipo-worth-14-trillion-or-10-trillion-depending-whos-counting",
+    "ts": 1794320700000,
+    "tags": []
+   },
+   {
+    "t": "Ukraine & Russia Quietly Signal A 'Little Flexibility' On Territory In Abu Dhabi Talks",
+    "tt": "Ukrayna ve Rusya, Abu Dabi Görüşmelerinde Bölge Konusunda Sessizce 'Biraz Esneklik' Sinyali Verdi",
+    "s": "Ukraine &amp; Russia Quietly Signal A 'Little Flexibility' On Territory In Abu Dhabi Talks The first day of trilateral talks between Russia, Ukraine, the United States held in Abu Dhabi has ended, with the second full day to take place Wednesday. The BBC , citing US officials, has said that Ukraine ",
+    "ss": "Ukrayna ve Rusya, Abu Dabi Müzakerelerinde Toprak Konusunda Sessizce 'Biraz Esneklik' Sinyali Verdi Rusya, Ukrayna ve ABD arasında Abu Dabi'de düzenlenen üçlü görüşmelerin ilk günü, Çarşamba günü ikinci tam gün gerçekleşecek şekilde sona erdi. BBC ABD'li yetkililere atıfta bulunarak Ukrayna'nın",
+    "u": "https://www.zerohedge.com/geopolitical/ukraine-russia-quietly-signal-little-flexibility-territory-abu-dhabi-talks",
+    "ts": 1794320100000,
+    "tags": []
+   },
+   {
+    "t": "In Major Win For Nuclear Energy, Nearly Half Of Senate Democrats Join GOP To Advance Permitting Overall",
+    "tt": "Nükleer Enerjide Büyük Kazanmada Senato Demokratlarının Neredeyse Yarısı Genel İzinleri İlerletmek İçin GOP'a Katıldı",
+    "s": "In Major Win For Nuclear Energy, Nearly Half Of Senate Democrats Join GOP To Advance Permitting Overall The Senate voted 73-25 on Monday evening to invoke cloture and open debate on the Bipartisan American Affordability and Jobs Act (BAAJA), the sweeping permitting overhaul written by Republicans Sh",
+    "ss": "Nükleer Enerjide Büyük Kazanmada, Senato Demokratlarının Neredeyse Yarısı Genel İzinleri Geliştirmek İçin GOP'a Katıldı Senato Pazartesi akşamı pıhtılaşmayı başlatmak ve Cumhuriyetçiler tarafından yazılan kapsamlı izin revizyonu olan İki Partili Amerikan Karşılanabilirlik ve İş Yasası (BAAJA) hakkında açık tartışma başlatmak için 73-25 oy kullandı Sh",
+    "u": "https://www.zerohedge.com/political/nearly-half-senate-democrats-join-gop-advance-permitting-overall",
+    "ts": 1794319500000,
+    "tags": []
+   },
+   {
+    "t": "Revealed: Huang Hired Crisis Management Firm Last Year; FBI 'Looking Into' Chinese Spy Case According To Trump",
     "tt": "'FBI İnceliyor': Trump, Jensen Huang'ın Casus Olduğunu Bilip Bilmediği Sorulduğunda Ona Ne Dediğini Açıkladı",
-    "s": "'FBI Looking Into It': Trump Reveals What Jensen Huang Told Him When Asked If He Knew She Was A Spy President Trump said Monday that Nvidia CEO Jensen Huang told him he had no idea the woman he had a relationship with was a Chinese spy , and that Huang should not worry about the FBI. \"I asked him th",
+    "s": "Revealed: Huang Hired Crisis Management Firm Last Year; FBI 'Looking Into' Chinese Spy Case According To Trump President Trump said Monday that Nvidia CEO Jensen Huang told him he had no idea the woman he had a relationship with was a Chinese spy , and that Huang should not worry about the FBI. \"I a",
     "ss": "'FBI İnceliyor': Trump, Jensen Huang'ın Casus Olduğunu Bilip Bilmediği Sorulduğunda Ona Ne Dediğini Açıkladı Başkan Trump Pazartesi günü yaptığı açıklamada, Nvidia CEO'su Jensen Huang'ın kendisine ilişki yaşadığı kadının Çinli bir casus olduğuna dair hiçbir fikrinin olmadığını ve Huang'ın FBI hakkında endişelenmemesi gerektiğini söylediğini söyledi. \"Ona şunu sordum",
     "u": "https://www.zerohedge.com/markets/trump-reveals-what-jensen-huang-told-him-when-asked-if-he-knew-she-was-spy",
     "ts": 1794318600000,
@@ -850,45 +900,18 @@
     "u": "https://www.zerohedge.com/political/accused-charlie-kirk-assassin-tyler-robinson-wont-face-jury-until-2028",
     "ts": 1794314700000,
     "tags": []
-   },
-   {
-    "t": "Moscow's Statistics Agency Was Wiped Out By Hackers - Who Posted 'Official' Death Toll From War",
-    "tt": "Moskova'nın İstatistik Ajansı, Savaşın 'Resmi' Ölü Sayısını Yayınlayan Bilgisayar Korsanları Tarafından Silindi",
-    "s": "Moscow's Statistics Agency Was Wiped Out By Hackers - Who Posted 'Official' Death Toll From War Two hacker groups say death records stolen from Russia's federal statistics agency show between 393,881 and 450,100 people killed in the war in Ukraine, a total well above anything Moscow has acknowledged",
-    "ss": "Moskova İstatistik Ajansı, Savaştan Kaynaklanan 'Resmi' Ölü Sayısını Açıklayan Bilgisayar Korsanları Tarafından Silindi İki hacker grubu, Rusya'nın federal istatistik kurumundan çalınan ölüm kayıtlarının, Ukrayna'daki savaşta 393.881 ila 450.100 kişinin öldürüldüğünü gösterdiğini söylüyor; bu sayı, Moskova'nın kabul ettiği rakamın çok üzerinde.",
-    "u": "https://www.zerohedge.com/geopolitical/moscows-statistics-agency-was-wiped-out-hackers-who-say-they-have-official-death-toll",
-    "ts": 1794313200000,
-    "tags": []
-   },
-   {
-    "t": "\"He's Going To Beat The Hell Out Of You\": Trump Hands Dana White The Briefing Room Podium",
-    "tt": "\"Seni fena halde yenecek\": Trump Brifing Odası Podyumunu Dana White'a Verdi",
-    "s": "\"He's Going To Beat The Hell Out Of You\": Trump Hands Dana White The Briefing Room Podium Authored by Travis Gillmore via The Epoch Times , WASHINGTON - UFC President and CEO Dana White took the podium in the White House press briefing room on Nov. 9 following President Donald Trump's announcement l",
-    "ss": "\"Sizin Cehennemi Yenecek\": Trump Dana White'ı Elinde Brifing Odası Podyumu Travis Gillmore tarafından The Epoch Times aracılığıyla yazılmıştır, WASHINGTON - UFC Başkanı ve CEO'su Dana White, Başkan Donald Trump'ın duyurusunun ardından 9 Kasım'da Beyaz Saray basın brifing odasında kürsüye çıktı.",
-    "u": "https://www.zerohedge.com/political/hes-going-beat-hell-out-you-trump-hands-dana-white-briefing-room-podium",
-    "ts": 1794311700000,
-    "tags": []
-   },
-   {
-    "t": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout",
-    "tt": "İzleyin: McConnell Ara Dönem Patlamasına Verilen Rahatsız Edici Tepkinin Ardından Yeni Sağlık Korkularını Ateşledi",
-    "s": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout Sen. Mitch McConnell (R-KY) is facing renewed scrutiny over his health after appearing to freeze when a reporter asked him about Republicans' devastating midterm election losses . The 84-year-old Kentucky Republica",
-    "ss": "İzle: McConnell, Ara Dönem Patlamasına Karşı Rahatsız Edici Tepki Sonrası Yeni Sağlık Korkularını Ateşledi Senatör Mitch McConnell (R-KY), bir muhabirin kendisine Cumhuriyetçilerin yıkıcı ara seçim kayıplarını sorduğunda donmuş gibi göründükten sonra sağlığı konusunda yeni bir incelemeyle karşı karşıya kaldı. 84 yaşındaki Kentucky Cumhuriyeti",
-    "u": "https://www.zerohedge.com/political/watch-mcconnell-sparks-new-health-fears-after-unsettling-reaction-midterm-blowout",
-    "ts": 1794309900000,
-    "tags": []
-   },
-   {
-    "t": "\"Angry Voters\": What Are We Angry About?",
-    "tt": "\"Kızgın Seçmenler\": Neye Kızgınız?",
-    "s": "\"Angry Voters\": What Are We Angry About? Authored by Charles Hugh Smith via OfTwoMinds blog, Maybe voters are frustrated that no matter who they elect, nothing in the economic machinery of soaring inequality, debt and servitude changes. Here's the mainstream summary of the midterm election results :",
-    "ss": "\"Kızgın Seçmenler\": Neye Kızgınız? Charles Hugh Smith tarafından OfTwoMinds blogu aracılığıyla yazılmıştır: Belki seçmenler, kimi seçerlerse seçsinler, artan eşitsizlik, borç ve kölelik gibi ekonomik mekanizmalarda hiçbir şeyin değişmemesi nedeniyle hüsrana uğramışlardır. İşte ara seçim sonuçlarının genel özeti:",
-    "u": "https://www.zerohedge.com/political/angry-voters-what-are-we-angry-about",
-    "ts": 1794308400000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Hayat Kimya/Tarakçı: Türkiye enerji fiyatlarındaki yükselişi iyi yönetiyor",
+    "tt": null,
+    "s": "Hayat Kimya Enerji Grup Müdürü Serbay Tarakçı, COP31'de Bloomberg HT yayınında sektöre ilişkin değerlendirmelerde bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/hayat-kimyatarakci-turkiye-enerji-fiyatlarindaki-yukselisi-iyi-yonetiyor-3794111",
+    "ts": 1794318764000,
+    "tags": []
+   },
    {
     "t": "COP31'de yüksek performanslı camların iklim hedeflerindeki rolü ele alındı",
     "tt": null,
@@ -968,15 +991,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/anthropic-halka-arzda-spacexin-rekorunu-yakalamaya-calisiyor-3794091",
     "ts": 1794312050000,
-    "tags": []
-   },
-   {
-    "t": "Hazine 8 yıllık tahville 30 milyar TL borçlandı",
-    "tt": null,
-    "s": "Hazine ve Maliye Bakanlığı 8 yıllık tahvilde ihale öncesi satışlarla birlikte 30 milyar TL borçlanmaya gitti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hazine-8-yillik-tahville-30-milyar-tl-borclandi-3794090",
-    "ts": 1794312039000,
     "tags": []
    }
   ]
