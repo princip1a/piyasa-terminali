@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-10T17:26:04.468162+00:00",
+ "generated": "2026-11-10T18:18:57.471848+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7484.85,
-   "c": -0.86,
-   "d": -65.09,
+   "p": 7479.68,
+   "c": -0.93,
+   "d": -70.26,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24906.56,
-   "c": -1.37,
-   "d": -346.581,
+   "p": 24878.287,
+   "c": -1.48,
+   "d": -374.854,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52072.56,
-   "c": -0.61,
-   "d": -317.19,
+   "p": 52055.04,
+   "c": -0.64,
+   "d": -334.71,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.61,
-   "c": 3.46,
-   "d": 0.69,
+   "p": 20.99,
+   "c": 5.37,
+   "d": 1.07,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4029.0,
-   "c": -2.08,
-   "d": -85.5,
+   "p": 4025.9,
+   "c": -2.15,
+   "d": -88.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.31,
-   "c": -2.39,
-   "d": -1.254,
+   "p": 51.23,
+   "c": -2.54,
+   "d": -1.334,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.51,
-   "c": -0.39,
-   "d": -0.34,
+   "p": 86.47,
+   "c": -0.44,
+   "d": -0.38,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.9,
-   "c": -0.72,
-   "d": -0.67,
+   "p": 91.99,
+   "c": -0.63,
+   "d": -0.58,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.351,
-   "c": 0.69,
-   "d": 0.701,
+   "p": 102.31,
+   "c": 0.65,
+   "d": 0.66,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2276,
+   "p": 50.2279,
    "c": 0.21,
-   "d": 0.104,
+   "d": 0.105,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 72971,
-   "c": -2.33,
+   "p": 73184,
+   "c": -1.91,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2022.63,
-   "c": -4.71,
+   "p": 2026.85,
+   "c": -4.41,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 82.23,
-   "c": -4.85,
+   "p": 82.35,
+   "c": -4.56,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.047,
-   "c": -4.09,
+   "p": 1.055,
+   "c": -2.96,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 672.46,
-   "c": -1.99,
+   "p": 673.29,
+   "c": -1.76,
    "k": "usd"
   }
  ],
@@ -494,9 +494,69 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks, Bonds Fall as Inflation Spurs Fed Caution: Markets Wrap",
+    "tt": "Enflasyonun Teşvik Edişiyle Hisse Senetleri ve Tahviller Düşüyor Fed Dikkatli: Piyasalardaki Gelişmeler",
+    "s": "A faster-than-estimated increase in inflation spurred losses in stocks and bonds, with Wall Street also rattled by signals from Federal Reserve officials that rates could keep rising.",
+    "ss": "Enflasyonun tahmin edilenden daha hızlı artması hisse senedi ve tahvillerde kayıplara yol açarken, Wall Street de Fed yetkililerinin faiz oranlarının yükselmeye devam edebileceği yönündeki sinyalleriyle sarsıldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794262613000,
+    "tags": []
+   },
+   {
+    "t": "Fox Draws $39 Billion Demand for Bonds to Refinance Roku Deal",
+    "tt": "Fox, Roku Anlaşmasını Yeniden Finanse Etmek İçin Tahvillere 39 Milyar Dolarlık Talep Çekti",
+    "s": "Fox Corp. has drawn solid investor demand for an investment-grade bond sale to help fund its acquisition of Roku Inc.",
+    "ss": "Fox Corp., Roku Inc.'i satın almasının finansmanına yardımcı olmak amacıyla yatırım amaçlı tahvil satışı için güçlü yatırımcılardan talep aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/fox-begins-high-grade-bond-sale-to-repay-debt-for-roku-deal",
+    "ts": 1794320387000,
+    "tags": []
+   },
+   {
+    "t": "Tribunal Finds Emerge Canada Mismanaged Cathie Wood-Linked ETFs",
+    "tt": "Mahkeme, Emerge Canada'nın Cathie Wood bağlantılı ETF'lerinin kötü yönetildiğini tespit etti",
+    "s": "The failed investment firm that sold Toronto-listed versions of Cathie Wood’s exchange-traded funds took self-dealing loans, maintained improper records and failed to act in the best interest of the funds, Canada’s top securities regulator ruled.",
+    "ss": "Kanada'nın en üst düzey menkul kıymetler düzenleyici kurumu, Cathie Wood'un borsada işlem gören fonlarının Toronto'da listelenen versiyonlarını satan başarısız yatırım firmasının kendi kendine işlem yapan krediler aldığına, uygunsuz kayıtlar tuttuğuna ve fonların çıkarına en uygun şekilde hareket etmediğine hükmetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/tribunal-finds-emerge-canada-mismanaged-cathie-wood-linked-etfs",
+    "ts": 1794328110000,
+    "tags": []
+   },
+   {
+    "t": "Clearlake Said to Weigh $3.5 Billion Sale of Packaging Firm IPG",
+    "tt": "Clearlake'in Ambalaj Firması IPG'nin 3,5 Milyar Dolarlık Satışına Ağır Geldiği Söyleniyor",
+    "s": "Clearlake Capital Group is exploring a sale of packaging company IPG, which could fetch more than $3.5 billion, according to people familiar with the matter.",
+    "ss": "Clearlake Capital Group, konuya aşina kaynaklara göre 3,5 milyar dolardan fazla getirisi olabilecek ambalaj şirketi IPG'nin satışını araştırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/clearlake-said-to-weigh-3-5-billion-sale-of-packaging-firm-ipg",
+    "ts": 1794334056000,
+    "tags": []
+   },
+   {
+    "t": "Dollar Set for Best Day Since September as CPI Lifts Hike Bets",
+    "tt": "TÜFE'nin Artış Bahislerini Yükseltmesiyle Dolar Eylül'den Bu Yana En İyi Gününe Hazırlanıyor",
+    "s": "The dollar headed for its strongest gain since September after hotter-than-forecast US inflation reinforced expectations for a Federal Reserve interest-rate hike next month.",
+    "ss": "Dolar, tahminlerden yüksek gelen ABD enflasyonunun Fed'in gelecek ay faiz artırımına ilişkin beklentileri güçlendirmesinin ardından Eylül ayından bu yana en güçlü yükselişine yöneldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/dollar-set-for-best-day-since-september-as-cpi-lifts-hike-bets",
+    "ts": 1794332617000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "CEO Pay Disclosures Set for ‘Ozempic Diet’ as SEC Eases Rules",
+    "tt": "SEC Kuralları Kolaylaştırırken 'Ozempic Diyeti' için CEO Ücret Açıklamaları Belirlendi",
+    "s": "The Securities and Exchange Commission’s forthcoming executive compensation proposal would amount to a “major Ozempic diet” for required disclosures, a senior agency official said Tuesday.",
+    "ss": "Üst düzey bir kurum yetkilisi Salı günü yaptığı açıklamada, Menkul Kıymetler ve Borsa Komisyonu'nun gelecek yönetici tazminatı teklifinin gerekli açıklamalar için \"büyük bir Ozempic diyeti\" anlamına geleceğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/ceo-pay-disclosures-set-for-ozempic-diet-as-sec-eases-rules",
+    "ts": 1794331445000,
+    "tags": []
+   },
+   {
     "t": "Bonds Tumble as Hot Inflation Fuels Bets on More Fed Rate Hikes",
     "tt": "Sıcak Enflasyon Fed'in Daha Fazla Faiz Artırımına Yönelik Bahisleri Artırırken Tahviller Düşüyor",
-    "s": "The US bond market was hit by one of its biggest selloffs since the meltdown unleashed by President Donald Trump’s tariffs after a bigger-than-expected jump in inflation and hawkish comments from Federal Reserve officials cemented speculation that the central bank will resume raising interest rates ",
+    "s": "The US bond market suffered one of its biggest selloffs since April 2025, after inflation jumped faster than forecast and Federal Reserve officials warned they may raise interest rates more aggressively.",
     "ss": "ABD tahvil piyasası, enflasyonda beklenenden daha büyük bir sıçramanın ardından Başkan Donald Trump'ın tarifelerinin yol açtığı erimeden bu yana en büyük satışlarından birini yaşadı ve Federal Reserve yetkililerinin şahin yorumları, merkez bankasının faiz oranlarını artırmaya devam edeceği yönündeki spekülasyonları güçlendirdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
     "ts": 1794318083000,
@@ -527,68 +587,12 @@
     "tags": []
    },
    {
-    "t": "Peloton Draws $6.8 Billion of Demand for Debut Junk-Bond Sale",
-    "tt": "Peloton İlk Hurda Tahvil Satışına 6,8 Milyar Dolarlık Talep Çekti",
-    "s": "Peloton Interactive Inc. has attracted strong investor demand for its debut junk-bond sale, allowing the fitness company to boost the deal’s size and slash borrowing costs.",
-    "ss": "Peloton Interactive Inc., ilk hurda tahvil satışına güçlü yatırımcı talebi çekerek, fitness şirketinin anlaşmanın boyutunu artırmasına ve borçlanma maliyetlerini azaltmasına olanak tanıdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/peloton-draws-6-8-billion-of-demand-for-debut-junk-bond-sale",
-    "ts": 1794330171000,
-    "tags": []
-   },
-   {
-    "t": "Franklin Templeton Brazil Trims Risk, Sees No Changes With Lula",
-    "tt": "Franklin Templeton Brezilya Riski Azalttı, Lula'da Değişiklik Görmüyor",
-    "s": "Franklin Templeton Brazil is cutting risk across its portfolio on expectations that President Luiz Inácio Lula da Silva’s new administration won’t bring about the changes investors see as key to improve the nation’s finances.",
-    "ss": "Franklin Templeton Brezilya, Başkan Luiz Inácio Lula da Silva'nın yeni yönetiminin, yatırımcıların ülkenin mali durumunu iyileştirmenin anahtarı olarak gördüğü değişiklikleri gerçekleştirmeyeceği beklentileri nedeniyle portföyündeki riski azaltıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/franklin-templeton-brazil-trims-risk-sees-no-changes-with-lula",
-    "ts": 1794329762000,
-    "tags": []
-   },
-   {
-    "t": "Stocks, Bonds Fall as Inflation Spurs Fed Caution: Markets Wrap",
-    "tt": "Enflasyonun Teşvik Edişiyle Hisse Senetleri ve Tahviller Düşüyor Fed Dikkatli: Piyasalardaki Gelişmeler",
-    "s": "A faster-than-estimated increase in inflation spurred losses in stocks and bonds, with Wall Street also rattled by signals from Federal Reserve officials that rates could keep rising.",
-    "ss": "Enflasyonun tahmin edilenden daha hızlı artması hisse senedi ve tahvillerde kayıplara yol açarken, Wall Street de Fed yetkililerinin faiz oranlarının yükselmeye devam edebileceği yönündeki sinyalleriyle sarsıldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794262613000,
-    "tags": []
-   },
-   {
-    "t": "Morgan Stanley Says Argentina Bonds Price In Too Much Pessimism",
-    "tt": "Morgan Stanley, Arjantin'in Tahvil Fiyatını Çok Fazla Kötümserlik İçinde Tuttuğunu Söyledi",
-    "s": "The selloff in Argentina’s debt amid a dramatic shift in expectations ahead of the country’s presidential election next year has gone too far, according to Morgan Stanley.",
-    "ss": "Morgan Stanley'e göre, Arjantin'in gelecek yıl yapılacak başkanlık seçimleri öncesinde beklentilerdeki dramatik değişim nedeniyle Arjantin'in borcundaki satış çok ileri gitti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/morgan-stanley-says-argentina-bonds-price-in-too-much-pessimism",
-    "ts": 1794329607000,
-    "tags": []
-   },
-   {
-    "t": "Gold Tumbles as Hot US Inflation, Fedspeak Fuel Fed Hike Bets",
-    "tt": "Altın, Sıcak ABD Enflasyonu ve Fedspeak'in Fed'in Artış Bahislerini Güçlendirmesiyle Düştü",
-    "s": "Gold extended its decline after a hotter-than-expeced US inflation report and remarks from policymakers reinforced bets that the Federal Reserve will raise interest rates next month.",
-    "ss": "Altın, beklenenden sıcak gelen ABD enflasyon raporu ve politika yapıcıların açıklamalarının Fed'in gelecek ay faiz artırımına gideceği yönündeki bahisleri güçlendirmesinin ardından düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
-    "ts": 1794269052000,
-    "tags": [
-     "Altın ▼"
-    ]
-   },
-   {
-    "t": "Wall Street Bonuses Expected to Rise by 30% For Some",
-    "tt": "Bazıları İçin Wall Street Bonuslarının %30 Artması Bekleniyor",
-    "s": "Wall Street bonuses are expected to rise this year. Johnson Associates’ Chris Connors joins Bloomberg Open Interest to explain why strong business performance and AI-driven efficiencies could mean bigger rewards for top performers and why competition from frontier AI firms is pushing up pay for elit",
-    "ss": "Wall Street primlerinin bu yıl artması bekleniyor. Johnson Associates'ten Chris Connors, Bloomberg Open Interest'e katılarak güçlü iş performansının ve yapay zeka odaklı verimliliğin neden en iyi performans gösterenler için daha büyük ödüller anlamına gelebileceğini ve önde gelen yapay zeka firmalarının rekabetinin seçkinlerin ücretlerini neden artırdığını açıklıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/wall-street-bonuses-expected-to-rise-by-30-for-some-video",
-    "ts": 1794328778000,
-    "tags": []
-   },
-   {
-    "t": "UAE Energy Contractor NMDC Plans December Acquisition, CEO Says",
-    "tt": "CEO, BAE Enerji Yüklenicisi NMDC'nin Aralık ayındaki satın almayı planladığını söyledi",
-    "s": "Energy and marine services company NMDC Group PJSC aims to announce an acquisition next month as the Middle Eastern company looks to boost growth after the war caused a slump in its regional business, said Chief Executive Officer Yasser Zaghloul.",
-    "ss": "Enerji ve denizcilik hizmetleri şirketi NMDC Group PJSC, İcra Kurulu Başkanı Yasser Zaghloul, Orta Doğulu şirketin savaşın bölgesel işlerinde bir çöküşe yol açmasının ardından büyümeyi artırmayı hedeflemesi nedeniyle önümüzdeki ay bir satın alma duyurmayı hedeflediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/uae-energy-contractor-nmdc-plans-december-acquisition-ceo-says",
-    "ts": 1794328655000,
+    "t": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
+    "tt": "ABD 2027 Benzin ve Motorin Fiyatlarına İlişkin Tahminlerini Yükseltti",
+    "s": "The US raised its projections for the price of diesel and gasoline next year, indicating that consumer relief will be limited even as oil flows pick up from the Middle East.",
+    "ss": "ABD, gelecek yıl dizel ve benzin fiyatlarına ilişkin tahminlerini yükselterek, Orta Doğu'dan petrol akışı toparlansa bile tüketicilerin rahatlamasının sınırlı olacağını belirtti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+    "ts": 1794330435000,
     "tags": []
    }
   ],
@@ -692,21 +696,21 @@
   ],
   "MarketWatch": [
    {
-    "t": "Wall Street’s only Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
+    "t": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
+    "tt": "FDA artık Ozempic, Zepbound ve diğer GLP-1 ilaçlarının olası görme kaybı riski taşıdığını söylüyor",
+    "s": "Several medical studies have found that people taking GLP-1 medications have an elevated risk for nonarteritic anterior ischemic optic neuropathy, or NAION.",
+    "ss": "Çeşitli tıbbi çalışmalar, GLP-1 ilaçları alan kişilerin arteritik olmayan anterior iskemik optik nöropati veya NAION için yüksek risk taşıdığını bulmuştur.",
+    "u": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+    "ts": 1794334860000,
+    "tags": []
+   },
+   {
+    "t": "Even Wall Street’s lone Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
     "tt": "Wall Street'in tek Nvidia ayısı, CEO Jensen Huang'ı görevden almanın \"herkes için hata olacağını\" söyledi",
     "s": "Nvidia’s board is investigating CEO Jensen Huang over his relationship with an alleged spy.",
     "ss": "Nvidia yönetim kurulu, CEO Jensen Huang'ın casus olduğu iddia edilen bir kişiyle olan ilişkisi nedeniyle soruşturuyor.",
     "u": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-    "ts": 1794331140000,
-    "tags": []
-   },
-   {
-    "t": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report",
-    "tt": "Salı günkü enflasyon raporundan sonra neden hisse senetleri düşüyor ve 10 yıllık getiriler %5'e yaklaşıyor?",
-    "s": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-    "ss": "Bir portföy yöneticisi, Federal Rezerv'in gösterge faiz oranı hakkında \"25 baz puan daha artırmaları gerektiğini düşünmüyorum\" dedi.",
-    "u": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-    "ts": 1794328080000,
+    "ts": 1794334560000,
     "tags": []
    },
    {
@@ -715,7 +719,25 @@
     "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
     "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
     "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "ts": 1794327300000,
+    "ts": 1794332700000,
+    "tags": []
+   },
+   {
+    "t": "Stocks fall as the 10-year Treasury yield reclaims 5%",
+    "tt": "Salı günkü enflasyon raporundan sonra neden hisse senetleri düşüyor ve 10 yıllık getiriler %5'e yaklaşıyor?",
+    "s": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
+    "ss": "Bir portföy yöneticisi, Federal Rezerv'in gösterge faiz oranı hakkında \"25 baz puan daha artırmaları gerektiğini düşünmüyorum\" dedi.",
+    "u": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+    "ts": 1794332040000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+    "tt": "Anthropic, şirkete 1 trilyon doların üzerinde değer verecek bir halka arz için resmi olarak zemin hazırlıyor",
+    "s": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
+    "ss": "Anthropic, önümüzdeki hafta gerçekleşmesi beklenen halka arzdan 63 milyar dolara kadar para toplayabilir.",
+    "u": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+    "ts": 1794331980000,
     "tags": []
    },
    {
@@ -762,27 +784,45 @@
     "u": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
     "ts": 1794324600000,
     "tags": []
-   },
-   {
-    "t": "Forget happy hour. ‘Money parties’ are having a moment.",
-    "tt": "Mutlu saatleri unutun. ‘Para partileri’ bir an yaşıyor.",
-    "s": "There’s evidence showing that talking about finances with your friends can help you save money.",
-    "ss": "Arkadaşlarınızla finans hakkında konuşmanın paradan tasarruf etmenize yardımcı olabileceğini gösteren kanıtlar var.",
-    "u": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
-    "ts": 1794322680000,
-    "tags": []
-   },
-   {
-    "t": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-    "tt": "Bernie Sanders, Sosyal Güvenlik çözümünü \"nesillerdir\" korumak istiyor",
-    "s": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-    "ss": "Vermont senatörü vergiye tabi azami sınırı ortadan kaldırarak zenginlerin daha fazla vergi ödemesini sağlamayı amaçlıyor",
-    "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "ts": 1794319800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "America's Nuclear Revival Is Running Into A Fuel Supply Wall",
+    "tt": "Amerika'nın Nükleer Dirilişi Yakıt Tedarik Duvarıyla Karşılaşıyor",
+    "s": "America's Nuclear Revival Is Running Into A Fuel Supply Wall Authored by Haley Zaremba via OilPrice , Foreign suppliers provided 93% of the uranium delivered to U.S. reactors, so progress on domestic enrichment still leaves the front of the fuel chain exposed. &nbsp;Only five plants worldwide conver",
+    "ss": "Amerika'nın Nükleer Uyanışı Yakıt Tedarik Duvarına Çarpıyor Haley Zaremba tarafından OilPrice aracılığıyla yazılmıştır, Yabancı tedarikçiler ABD reaktörlerine teslim edilen uranyumun %93'ünü sağladı, dolayısıyla yurt içi zenginleştirmedeki ilerleme yakıt zincirinin ön kısmını hala açıkta bırakıyor.  Dünya çapında yalnızca beş tesis dönüşüm sağlıyor",
+    "u": "https://www.zerohedge.com/energy/americas-nuclear-revival-running-fuel-supply-wall",
+    "ts": 1794334200000,
+    "tags": []
+   },
+   {
+    "t": "Susie Wiles 'Pay-For-Play' Scandal Goes Nuclear With New Pfizer Accusations; White House Responds",
+    "tt": "Susie Wiles'ın 'Oynadığın Kadar Öde' Skandalı, Pfizer'in Yeni Suçlamalarıyla Ortaya Çıkıyor; Beyaz Saray'dan yanıt geldi",
+    "s": "Susie Wiles 'Pay-For-Play' Scandal Goes Nuclear With New Pfizer Accusations; White House Responds Pollster Mark Mitchell, an adviser to Vice President JD Vance, says Susie Wiles, Trump's former chief of staff, warned him off criticizing Pfizer , which he called her old lobbying firm's \"number one cl",
+    "ss": "Susie Wiles'ın 'Oynadığın Kadar Öde' Skandalı, Pfizer'in Yeni Suçlamalarıyla Ortaya Çıkıyor; Beyaz Saray Anketçiye Cevap Verdi Başkan Yardımcısı JD Vance'in danışmanlarından Mark Mitchell, Trump'ın eski özel kalemi Susie Wiles'ın kendisini, eski lobicilik firmasının \"bir numaralı müşterisi\" olarak adlandırdığı Pfizer'i eleştirmemesi konusunda uyardığını söyledi.",
+    "u": "https://www.zerohedge.com/political/susie-wiles-pay-play-scandal-goes-nuclear-new-pfizer-accusations-white-house-responds",
+    "ts": 1794333300000,
+    "tags": []
+   },
+   {
+    "t": "Iran's IRGC Says 3 More Oil Tankers Hit By Sea Mines In Strait of Hormuz",
+    "tt": "İran Güvenlik Şefi ABD'nin Son Olumlu Müzakere Söylemlerine Soğuk Su Döküyor",
+    "s": "Iran's IRGC Says 3 More Oil Tankers Hit By Sea Mines In Strait of Hormuz Update(12:50ET) : On Tuesday Iran has said its forces took out more oil tankers violoating its protocol. The IRGC announced late in the day that a third offending oil tanker on the \"unauthorized route of the Strait of Hormuz ex",
+    "ss": "İran Güvenlik Şefi, Son Zamanlardaki Olumlu ABD Müzakerelerine Soğuk Su Döküyor Retorik Güncellemesi (11:50ET) : Son saatte İran'dan, Batılı manşetlerin yanı sıra Körfez kaynaklı raporların son zamanlardaki \"barış iyimserliği\" üzerine soğuk savaş havası veren bir dizi açıklama görüldü. Bu petrol fiyatlarını hareketlendirdi",
+    "u": "https://www.zerohedge.com/energy/gasoline-diesel-crack-spreads-plunge-political-window-iran-escalation-closes",
+    "ts": 1794332940000,
+    "tags": []
+   },
+   {
+    "t": "HUD Announces Largest Decrease In Homelessness On Record",
+    "tt": "HUD, Evsizlik Oranında Kayıtlara Geçen En Büyük Düşüşü Açıkladı",
+    "s": "HUD Announces Largest Decrease In Homelessness On Record Authored by Naveen Athrappully via The Epoch Times , The Department of Housing and Urban Development (HUD) announced a 6.3 percent annual decrease in homelessness in the United States, the largest decline on record . HUD said that on a single ",
+    "ss": "HUD, Evsizlikte Kayıtlara Geçen En Büyük Düşüşü Açıkladı Naveen Athrappully tarafından The Epoch Times aracılığıyla yazılan Konut ve Kentsel Gelişim Bakanlığı (HUD), Amerika Birleşik Devletleri'nde evsizlikte yıllık yüzde 6,3'lük bir düşüş olduğunu duyurdu; bu, rekordaki en büyük düşüş. HUD bunu tek bir konuşmada söyledi",
+    "u": "https://www.zerohedge.com/political/hud-announces-largest-decrease-homelessness-record",
+    "ts": 1794332400000,
+    "tags": []
+   },
    {
     "t": "The Reverse Ginsburg Scenario: Democrats May Only Need To Wait Rather Than Pack The Court",
     "tt": "Ters Ginsburg Senaryosu: Demokratların Sahayı Toplamak Yerine Sadece Beklemeleri Gerekebilir",
@@ -793,24 +833,6 @@
     "tags": []
    },
    {
-    "t": "Masa's $3.7 Billion Bonfire: SoftBank Posts $7 Billion Loss After Torching Deposits On AI Power Gear As Interest Costs Double",
-    "tt": "Masa'nın 3,7 Milyar Dolarlık Şenlik Ateşi: SoftBank, AI Power Gear'daki Mevduatları Yaktıktan Sonra Faiz Maliyetleri İki Katına Çıkınca 7 Milyar Dolarlık Zarar Açıkladı",
-    "s": "Masa's $3.7 Billion Bonfire: SoftBank Posts $7 Billion Loss After Torching Deposits On AI Power Gear As Interest Costs Double Buy now, figure out the specs later. That, in one line, was SoftBank's strategy for powering the biggest AI data center buildout on the planet.&nbsp; And on Tuesday, it sent ",
-    "ss": "Masa'nın 3,7 Milyar Dolarlık Şenlik Ateşi: SoftBank, AI Power Gear'daki Mevduatları Yaktıktan Sonra Faiz Maliyetleri İki Katına Çıkınca 7 Milyar Dolarlık Zarar Açıkladı Şimdi satın alın, özelliklerini daha sonra öğrenin. Bu, SoftBank'ın gezegendeki en büyük yapay zeka veri merkezi kurulumuna güç verme stratejisinin bir satırıydı.  Ve Salı günü gönderildi",
-    "u": "https://www.zerohedge.com/markets/masas-37-billion-bonfire-softbank-posts-7-billion-loss-after-torching-deposits-ai-power",
-    "ts": 1794329700000,
-    "tags": []
-   },
-   {
-    "t": "Iranian Security Chief Pours Cold Water On Recent Positive US Negotiations Rhetoric",
-    "tt": "İran Güvenlik Şefi ABD'nin Son Olumlu Müzakere Söylemlerine Soğuk Su Döküyor",
-    "s": "Iranian Security Chief Pours Cold Water On Recent Positive US Negotiations Rhetoric Update(11:50ET) : The last hour has seen a series of statements out of Iran which pour cold war on the recent 'peace optimism' coming out of Western headlines , as well as Gulf-sourced reports. This has moved oil pri",
-    "ss": "İran Güvenlik Şefi, Son Zamanlardaki Olumlu ABD Müzakerelerine Soğuk Su Döküyor Retorik Güncellemesi (11:50ET) : Son saatte İran'dan, Batılı manşetlerin yanı sıra Körfez kaynaklı raporların son zamanlardaki \"barış iyimserliği\" üzerine soğuk savaş havası veren bir dizi açıklama görüldü. Bu petrol fiyatlarını hareketlendirdi",
-    "u": "https://www.zerohedge.com/energy/gasoline-diesel-crack-spreads-plunge-political-window-iran-escalation-closes",
-    "ts": 1794329400000,
-    "tags": []
-   },
-   {
     "t": "The Other Shoe Has Dropped: DOJ Investigating Marc Elias In Peltola Scandal Case",
     "tt": "Diğer Ayakkabı Düştü: Adalet Bakanlığı Peltola Skandalı Davasında Marc Elias'ı Soruşturuyor",
     "s": "The Other Shoe Has Dropped: DOJ Investigating Marc Elias In Peltola Scandal Case Authored by Tim O'Brien via PJ Media , On October 29, I openly wondered whether the \"stench of Alaska's Peltola scandal would spread to Marc Elias.\" Wonder no more. According to Just the News , the shady leftist lawyer ",
@@ -818,6 +840,21 @@
     "u": "https://www.zerohedge.com/political/other-shoe-has-dropped-doj-investigating-marc-elias-peltola-scandal-case",
     "ts": 1794328800000,
     "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "CPI Prints Hotter Than Expected; 50bps Rate-Hike Now On The Table As Fed's Waller Sparks Hawkish Panic",
+    "tt": "TÜFE Beklenenden Daha Sıcak Çıktı; Fed'in Waller'ı Şahin Paniğine Yol Açarken Şimdi 50 Baz Faiz Artışı Masada",
+    "s": "CPI Prints Hotter Than Expected; 50bps Rate-Hike Now On The Table As Fed's Waller Sparks Hawkish Panic With today's CPI print ( and its 'ghost' YoY data and healthcare plug ) on everyone's mind, hawkish comments from Fed Governor Chris Waller already gave markets a jolt this morning , pushing bond y",
+    "ss": "TÜFE Beklenenden Daha Sıcak Çıktı; Fed'in Waller'ı Şahin Paniğini Ateşlerken Şimdi 50 Baz Faiz Artışı Masada Bugünün TÜFE verileri (ve onun \"hayalet\" yıllık verileri ve sağlık fişi) herkesin aklındayken, Fed Guvernörü Chris Waller'ın şahin yorumları bu sabah zaten piyasaları sarstı ve tahvilleri yukarı itti",
+    "u": "https://www.zerohedge.com/markets/cpi-prints-hotter-expected-rate-hike-odds-soar-waller-sparks-hawkish-panic",
+    "ts": 1794327300000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
      "BTC ▼",
      "Altcoin ▼"
     ]
@@ -848,38 +885,47 @@
     "u": "https://www.zerohedge.com/markets/why-nvidias-nightmare-may-be-just-beginning",
     "ts": 1794325200000,
     "tags": []
-   },
-   {
-    "t": "Anthropic Launches $100 Billion IPO Worth $1.4 Trillion... Or $1.0 Trillion, Depending On Who's Counting",
-    "tt": "Anthropic, Kimin Saydığına Bağlı Olarak 1,4 Trilyon Dolar veya 1,0 Trilyon Dolar Değerinde 100 Milyar Dolarlık Halka Arz Ediyor",
-    "s": "Anthropic Launches $100 Billion IPO Worth $1.4 Trillion... Or $1.0 Trillion, Depending On Who's Counting Summary: Anthropic IPO Roadshow Begins&nbsp; CNBC Reports 20% Of Shares Allocated For Retail &nbsp; Goldman Sachs Leading Investment Bank on IPO &nbsp; IPO Debut Next Thursday , Nov. 19&nbsp; Ant",
-    "ss": "Anthropic, 1,4 Trilyon Dolar Değerinde 100 Milyar Dolarlık Halka Arz Ediyor... Veya Kimin Saydığına Bağlı Olarak 1,0 Trilyon Dolarlık Halka Arz Ediyor Sonunda bir rakama sahibiz. Aslında iki tane. Bugüne kadarki en büyük halka arzın \"gerçeğe uygun değerinin\" 2 trilyon dolardan 1,5 trilyon dolara ve ardından 1,2 trilyon dolara düştüğü beş haftanın ardından Anthro,",
-    "u": "https://www.zerohedge.com/markets/anthropic-launches-100-billion-ipo-worth-14-trillion-or-10-trillion-depending-whos-counting",
-    "ts": 1794324300000,
-    "tags": []
-   },
-   {
-    "t": "Largest US Single-Family Landlord Settles FTC Lawsuit Over Alleged Deceptive Pricing",
-    "tt": "ABD'nin En Büyük Tek Aileli Ev Sahibi, Aldatıcı Fiyat İddiası Üzerine FTC Davasını Çözdü",
-    "s": "Largest US Single-Family Landlord Settles FTC Lawsuit Over Alleged Deceptive Pricing Authored by Naveen Athrappully via The Epoch Times , The largest single-family rental property manager in the United States has agreed to pay $49.75 million to settle alleged charges that it deceived customers about",
-    "ss": "ABD'nin En Büyük Tek Aileli Ev Sahibi, Aldatıcı Fiyatlandırma İddiası Üzerine FTC Davasını Kabul Etti",
-    "u": "https://www.zerohedge.com/personal-finance/largest-us-single-family-landlord-settles-ftc-lawsuit-over-alleged-deceptive",
-    "ts": 1794323400000,
-    "tags": []
-   },
-   {
-    "t": "Gaza-Born Socialist Challenging Fetterman In 2028 Is Running On His Biggest Red Line",
-    "tt": "2028'de Fetterman'a meydan okuyan Gazze doğumlu sosyalist, en büyük kırmızı çizgisinde koşuyor",
-    "s": "Gaza-Born Socialist Challenging Fetterman In 2028 Is Running On His Biggest Red Line Philadelphia writer Ahmed Moor, a 42-year-old Democratic Socialists of America member born in Rafah, in southern Gaza, announced Monday that he will run in the 2028 Democratic primary for Sen. John Fetterman's Penns",
-    "ss": "2028'de Fetterman'a Meydan Okuyan Gazze Doğumlu Sosyalist, En Büyük Kırmızı Çizgisini Koşuyor Philadelphialı yazar, Güney Gazze'nin Refah şehrinde doğan 42 yaşındaki Amerika Demokratik Sosyalistleri üyesi Ahmed Moor, Pazartesi günü yaptığı açıklamada, 2028 Demokrat ön seçimlerinde Senatör John Fetterman'ın Penns'i adına yarışacağını duyurdu.",
-    "u": "https://www.zerohedge.com/political/gaza-born-socialist-challenging-fetterman-2028-running-his-biggest-red-line",
-    "ts": 1794322500000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
    {
-    "t": "Apple TV'ye, işaret dili çeviri özelliği geldi",
+    "t": "Kanada'dan 11 İranlı kuruluşa yeniden yaptırım kararı",
+    "tt": null,
+    "s": "Kanada, İran'ın nükleer programına ilişkin yükümlülüklerini yerine getirmediği gerekçesiyle Şubat 2016'da yaptırım listesinden çıkardığı, aralarında banka, enerji, finans ve sigorta şirketlerinin de bulunduğu 11 İranlı kuruluşu yeniden yaptırım kapsamına aldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kanada-dan-11-iranli-kurulusa-yeniden-yaptirim-karari-3794135",
+    "ts": 1794333716000,
+    "tags": []
+   },
+   {
+    "t": "Yapı Kredi'den 933 milyon dolarlık sendikasyon kredisi",
+    "tt": null,
+    "s": "Yapı Kredi, 18 ülkeden 40 finansal kuruluşun katılımıyla, 367 ve 734 gün vadeli dört ayrı dilimden oluşan yaklaşık 933 milyon dolarlık sendikasyon kredisi anlaşması imzaladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yapi-kredi-den-933-milyon-dolarlik-sendikasyon-kredisi-3794134",
+    "ts": 1794333341000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de hanehalkı borcu 19 trilyon doları aştı",
+    "tt": null,
+    "s": "ABD'de hanehalkı borcu, 2026'nın üçüncü çeyreğinde yüzde 1,8 artarak 19,1 trilyon dolara yükselirken, gecikmeye düşen borçların toplam borç içindeki payı yüzde 5'e ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-hanehalki-borcu-19-trilyon-dolari-asti-3794133",
+    "ts": 1794332558000,
+    "tags": []
+   },
+   {
+    "t": "Akbank'tan COP31'de sürdürülebilir iklimlendirme finansmanı vurgusu",
+    "tt": null,
+    "s": "Akbank Genel Müdürü Kaan Gür, COP31'de sürdürülebilir iklimlendirme yatırımlarına yönelik finansman desteğini vurgulayarak, Ulusal Soğutma Eylem Planı'ndaki hedefleri işletmelerin hayata geçirebileceği somut yatırımlara dönüştürmeyi amaçladıklarını belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/akbank-tan-cop31-de-surdurulebilir-iklimlendirme-finansmani-vurgusu-3794132",
+    "ts": 1794332051000,
+    "tags": []
+   },
+   {
+    "t": "Apple TV'ye işaret dili çeviri özelliği geldi",
     "tt": null,
     "s": "Apple, yeni işaret dili çevirisi özelliği sayesinde Apple TV'deki içeriklerin işitme engelli izleyiciler için daha erişilebilir hale geleceğini açıkladı.",
     "ss": null,
@@ -930,42 +976,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/is-bankasigursoy-iklim-hedeflerine-ulasmak-icin-ortak-hareket-edilmeli-3794120",
     "ts": 1794324176000,
-    "tags": []
-   },
-   {
-    "t": "Koç Holding/Ali Koç: Dönüşüm 'olmazsa olmaz'",
-    "tt": null,
-    "s": "Koç Holding Yönetim Kurulu Başkan Vekili Ali Koç Antalya'daki COP 31 iklim zirvesinde Bloomberg HT'ye dünyanın enerji dönüşümünde elektrifikasyon yarışına girdiğini belirterek \"Doğru pozisyonlanmayı yapabilirsek bu bizim için çok fayda sağlayacaktır. Türkiye'nin bunu yapacak gücü var\" dedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/koc-holdingali-koc-donusum-olmazsa-olmaz-3794119",
-    "ts": 1794323782000,
-    "tags": []
-   },
-   {
-    "t": "İran'dan Fransa'nın siber saldırı suçlamalarına tepki",
-    "tt": null,
-    "s": "İran Dışişleri Bakanlığı, Fransa'nın süpermarketlerin soğutma sistemlerini hedef alan siber saldırılardan İran'ı sorumlu tutmasına tepki göstererek, suçlamaların \"asılsız ve taraflı\" olduğunu belirtti ve iddiaları tamamen reddetti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-dan-fransa-nin-siber-saldiri-suclamalarina-tepki-3794117",
-    "ts": 1794323334000,
-    "tags": []
-   },
-   {
-    "t": "Hazine'den 18,5 milyar liralık kira sertifikası ihracı",
-    "tt": null,
-    "s": "Hazine ve Maliye Bakanlığı, 11 Kasım 2026 valörlü ve 5 Kasım 2031 itfa tarihli, sabit kira getirili 18 milyar 530 milyon 400 bin lira tutarında kira sertifikası ihracı gerçekleştirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hazine-den-18-5-milyar-liralik-kira-sertifikasi-ihraci-3794116",
-    "ts": 1794322949000,
-    "tags": []
-   },
-   {
-    "t": "Hayat Kimya/Tarakçı: Türkiye enerji fiyatlarındaki yükselişi iyi yönetiyor",
-    "tt": null,
-    "s": "Hayat Kimya Enerji Grup Müdürü Serbay Tarakçı, COP31'de Bloomberg HT yayınında sektöre ilişkin değerlendirmelerde bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hayat-kimyatarakci-turkiye-enerji-fiyatlarindaki-yukselisi-iyi-yonetiyor-3794111",
-    "ts": 1794318764000,
     "tags": []
    }
   ]
