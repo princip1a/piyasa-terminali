@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T23:14:13.604400+00:00",
+ "generated": "2026-11-10T23:48:11.789133+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 4043.0,
-   "c": -1.74,
-   "d": -71.5,
+   "p": 4043.4,
+   "c": -1.73,
+   "d": -71.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.495,
-   "c": -2.03,
-   "d": -1.069,
+   "p": 51.51,
+   "c": -2.01,
+   "d": -1.054,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.29,
-   "c": -0.64,
-   "d": -0.56,
+   "p": 86.37,
+   "c": -0.55,
+   "d": -0.48,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.06,
-   "c": -0.55,
-   "d": -0.51,
+   "p": 91.82,
+   "c": -0.81,
+   "d": -0.75,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2189,
+   "p": 50.2178,
    "c": 0.19,
-   "d": 0.096,
+   "d": 0.094,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 73543,
-   "c": -2.07,
+   "p": 73736,
+   "c": -1.89,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2043.99,
-   "c": -4.05,
+   "p": 2051.27,
+   "c": -3.73,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 82.64,
-   "c": -4.49,
+   "p": 83.33,
+   "c": -3.64,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.052,
-   "c": -4.4,
+   "p": 1.056,
+   "c": -3.89,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 676.11,
-   "c": -1.93,
+   "p": 679.74,
+   "c": -1.39,
    "k": "usd"
   }
  ],
@@ -494,6 +494,39 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Petrobras Earnings Disappoint Despite Oil, Refining Tailwinds",
+    "tt": "Petrobras'ın Kazançları Petrole ve Rafinerideki Rüzgara Rağmen Hayal Kırıklığına Uğradı",
+    "s": "Brazil’s state-controlled oil producer earnings missed estimates in the third-quarter despite record oil and gas production and a favorable backdrop of high crude prices and strong refining margins.",
+    "ss": "Brezilya'nın devlet kontrolündeki petrol üreticilerinin kazançları, rekor petrol ve gaz üretimine ve yüksek ham fiyatların ve güçlü rafinaj marjlarının olumlu ortamına rağmen üçüncü çeyrekte tahminlerin altında kaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/petrobras-earnings-disappoint-despite-oil-refining-tailwinds",
+    "ts": 1794353711000,
+    "tags": []
+   },
+   {
+    "t": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
+    "tt": "Altın, ABD'deki Sıcak Enflasyon Nedeniyle 4.000 Dolara Yakın Kayıplarını Korudu, Fed Açıklamaları",
+    "s": "Gold maintained losses after a high US inflation print and hawkish remarks from Federal Reserve officials reinforced bets for an interest rate hike in December.",
+    "ss": "Altın, ABD'deki yüksek enflasyon verilerinin ve Fed yetkililerinin şahin açıklamalarının Aralık ayında faiz artırımına ilişkin bahisleri güçlendirmesinin ardından kayıplarını sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
+    "ts": 1794353584000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
+    "s": "Asian stocks and bonds were poised to fall after hotter-than-expected US inflation drove losses on Wall Street and fueled bets that the Federal Reserve may hike interest rates more aggressively to tame prices.",
+    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794349925000,
+    "tags": []
+   },
+   {
     "t": "Macquarie to Pay Fine on Marketing Failure as New CEO Arrives",
     "tt": "Macquarie, Yeni CEO Geldiğinde Pazarlama Başarısızlığı Cezasını Ödeyecek",
     "s": "Macquarie Group Ltd. agreed to pay a small fine after admiting to failures in the way it promoted a savings account offer in its Australian retail bank, the division led at the time by now chief executive Greg Ward.",
@@ -548,15 +581,6 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
-    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
-    "s": "Asian stocks and bonds were poised to fall after hotter-than-expected US inflation drove losses on Wall Street and fueled bets that the Federal Reserve may hike interest rates more aggressively to tame prices.",
-    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794349925000,
-    "tags": []
-   },
-   {
     "t": "Barrick Mining Files for IPO of North American Gold Assets",
     "tt": "Barrick Mining, Kuzey Amerika Altın Varlıklarını Halka Artıracak",
     "s": "Barrick Mining Corp. is taking its North American gold business public in a US initial public offering, as the Canadian miner presses ahead with a strategic overhaul under long-time Chairman John Thornton.",
@@ -564,30 +588,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-10/barrick-mining-files-to-take-north-american-gold-assets-public",
     "ts": 1794345989000,
     "tags": []
-   },
-   {
-    "t": "Stocks, Bonds Fall as Fed-Hike Chorus Grows Louder: Markets Wrap",
-    "tt": "Enflasyonun Teşvik Edişiyle Hisse Senetleri ve Tahviller Düşüyor Fed Dikkatli: Piyasalardaki Gelişmeler",
-    "s": "Wall Street doubled down on wagers the Federal Reserve will need to lift rates more aggressively, with stocks and bonds falling as inflation worries spurred fresh warnings from officials.",
-    "ss": "Enflasyonun tahmin edilenden daha hızlı artması hisse senedi ve tahvillerde kayıplara yol açarken, Wall Street de Fed yetkililerinin faiz oranlarının yükselmeye devam edebileceği yönündeki sinyalleriyle sarsıldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794262613000,
-    "tags": []
-   },
-   {
-    "t": "Stocks End Lower as Rate-Hike Odds Climb After Hot Inflation",
-    "tt": "Sıcak Enflasyondan Sonra Faiz Artışı Oranları Arttıkça Hisse Senetleri Düştü",
-    "s": "US equities fell Tuesday as Treasury yields surged after Federal Reserve officials called for rate hikes in response to hotter-than-expected inflation data.",
-    "ss": "ABD hisse senetleri Salı günü, Fed yetkililerinin beklenenden sıcak enflasyon verilerine yanıt olarak faiz artırımı çağrısı yapmasının ardından Hazine getirilerinin artmasıyla düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/us-stock-futures-trade-mixed-with-focus-on-cpi-anthropic-ipo",
-    "ts": 1794315352000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -690,7 +690,25 @@
   ],
   "MarketWatch": [
    {
-    "t": "One reason Children’s Place is going bankrupt? Not enough children.",
+    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
+    "s": "There is already a demographic ‘run’ on Social Security.",
+    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
+    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "ts": 1794353400000,
+    "tags": []
+   },
+   {
+    "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
+    "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "ss": "\"Belki bir dahaki sefere diğer yaklaşımı deneyeceğim: Canım istediğinde uçağa bineceğim ve çantamı gördüğüm ilk açık yuvaya bırakacağım.\"",
+    "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "ts": 1794353100000,
+    "tags": []
+   },
+   {
+    "t": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
     "tt": "Children's Place'in iflas etmesinin bir nedeni mi? Yeterli çocuk yok.",
     "s": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
     "ss": "İnsanlar daha az çocuk sahibi olabilir ama Children's Place'in iflas başvurusunda bulunmasının tek sorumlusu bu değil.",
@@ -760,33 +778,23 @@
     "u": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
     "ts": 1794345600000,
     "tags": []
-   },
-   {
-    "t": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
-    "tt": "Nvidia yakında daha sıkı ihracat kurallarıyla karşı karşıya kalabilir, bu da skandalın ardından Çin'e çip satmayı zorlaştırabilir",
-    "s": "“There is growing momentum for these bills in light of the Jensen Huang spy scandal,” one analyst says.",
-    "ss": "Bir analist, \"Jensen Huang casus skandalı ışığında bu faturalara yönelik artan bir ivme var\" diyor.",
-    "u": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
-    "ts": 1794343020000,
-    "tags": []
-   },
-   {
-    "t": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
-    "tt": "Aşırı hevesli bir Fed hızla 2027'de hisse senetleri için en büyük risk haline geliyor",
-    "s": "The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.",
-    "ss": "Ekonomist Neil Dutta, Fed'in enflasyon konusunda fazla iyimser, piyasaların ise fazlasıyla kayıtsız olduğu konusunda uyarıyor.",
-    "u": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-    "ts": 1794342420000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Jim Rickards Warns Oil's 'Peace Trade' Is A Trap",
+    "tt": "Jim Rickards, Petrolün 'Barış Ticaretinin' Bir Tuzak Olduğu Uyardı",
+    "s": "Jim Rickards Warns Oil's 'Peace Trade' Is A Trap Authored by Jim Rickards via Daily Reckoning , The price of oil has dropped sharply over the past few weeks. Traders are once again betting the war will end soon. This is a dangerous assumption. We've written from the beginning of the war that it woul",
+    "ss": "Jim Rickards, Petrolün 'Barış Ticaretinin' Bir Tuzak Olduğu Uyardı Jim Rickards tarafından Daily Reckoning aracılığıyla yazılmıştır. Petrol fiyatı son birkaç hafta içinde keskin bir düşüş yaşadı. Yatırımcılar bir kez daha savaşın yakında sona ereceğine dair iddiada bulunuyor. Bu tehlikeli bir varsayımdır. Savaşın başından beri bunun olacağını yazdık.",
+    "u": "https://www.zerohedge.com/geopolitical/jim-rickards-warns-oils-peace-trade-trap",
+    "ts": 1794354000000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
    {
     "t": "GPUs, Capri Sunsets, And A Detained Husband: Who Is Alice Huang?",
     "tt": "GPU'lar, Capri Gün Batımları ve Gözaltına Alınan Bir Koca: Alice Huang Kimdir?",
@@ -806,21 +814,21 @@
     "tags": []
    },
    {
+    "t": "Bill Gates: A Huge Catastrophe May Be Needed...",
+    "tt": "Bill Gates: Büyük Bir Felaket Gerekli Olabilir...",
+    "s": "Bill Gates: A Huge Catastrophe May Be Needed... Authored by Steve Watson via Modernity , Bill Gates is once again floating the idea that real damage may be required before the world accepts the kind of AI controls he wants. In a new CBS interview, the Microsoft co-founder said a major cyberattack co",
+    "ss": "Bill Gates: Büyük Bir Felaket Gerekli Olabilir... Steve Watson tarafından Modernity aracılığıyla yazılan Bill Gates, dünyanın istediği türden yapay zeka kontrollerini kabul etmesinden önce gerçek hasarın gerekli olabileceği fikrini bir kez daha ortaya koyuyor. Yeni bir CBS röportajında, Microsoft kurucu ortağı büyük bir siber saldırının ortak olduğunu söyledi",
+    "u": "https://www.zerohedge.com/geopolitical/bill-gates-huge-catastrophe-may-be-needed",
+    "ts": 1794350400000,
+    "tags": []
+   },
+   {
     "t": "\"Offense, Not Defense\": Jordan Crushes Scalise To Lead Shrunken GOP Into Subpoena War",
     "tt": "\"Savunma Değil, Saldırı\": Ürdün, GOP'un Daralmasına Yol Açmak İçin Scalise'ı Ezdi",
     "s": "\"Offense, Not Defense\": Jordan Crushes Scalise To Lead Shrunken GOP Into Subpoena War House Republicans picked Judiciary Chairman Jim Jordan on Tuesday to lead them into the minority, 106-73 over Majority Leader Steve Scalise in a secret ballot a week after a midterm wipeout handed Democrats their b",
     "ss": "\"Savunma Değil, Hücum\": Ürdün, Daralan GOP'u Mahkeme Çağrısına Yönlendirmek İçin Scalise'ı Ezdi Savaş Evi Cumhuriyetçiler Salı günü Yargı Başkanı Jim Jordan'ı seçtiler ve kendilerini Demokratlara ara seçimden sonra yapılan ara seçimden bir hafta sonra yapılan gizli oylamada Çoğunluk Lideri Steve Scalise'ı 106-73 yenerek azınlığa taşıdılar",
     "u": "https://www.zerohedge.com/political/offense-not-defense-jordan-crushes-scalise-lead-shrunken-gop-subpoena-war",
     "ts": 1794349200000,
-    "tags": []
-   },
-   {
-    "t": "Bill Gates: A Huge Catastrophe May Be Needed...",
-    "tt": "Bill Gates: Büyük Bir Felaket Gerekli Olabilir...",
-    "s": "Bill Gates: A Huge Catastrophe May Be Needed... Authored by Steve Watson via Modernity , Bill Gates is once again floating the idea that real damage may be required before the world accepts the kind of AI controls he wants. In a new CBS interview, the Microsoft co-founder said a major cyberattack co",
-    "ss": "Bill Gates: Büyük Bir Felaket Gerekli Olabilir... Steve Watson tarafından Modernity aracılığıyla yazılan Bill Gates, dünyanın istediği türden yapay zeka kontrollerini kabul etmesinden önce gerçek hasarın gerekli olabileceği fikrini bir kez daha ortaya koyuyor. Yeni bir CBS röportajında, Microsoft kurucu ortağı büyük bir siber saldırının ortak olduğunu söyledi",
-    "u": "https://www.zerohedge.com/geopolitical/bill-gates-huge-catastrophe-may-be-needed",
-    "ts": 1794348000000,
     "tags": []
    },
    {
@@ -866,15 +874,6 @@
     "ss": "Wes Moore'un Kendi Ordu Amiri, Ona Savaş Konusunda Yalancı Diyor Maryland'in Demokrat Valisi Wes Moore'un Afganistan'daki kendi Ordu amiri, valinin hiçbir zaman savaşta birliklere liderlik etmediğini, yıllarca süren iddialarını \"samimiyetsiz\" olarak nitelendirdi ve Moore'un bir yalancı olduğunu düşünüp düşünmediğini sorduğunda \"Ben inanıyorum\" dedi.",
     "u": "https://www.zerohedge.com/political/wes-moores-own-army-supervisor-calls-him-liar-about-combat",
     "ts": 1794343200000,
-    "tags": []
-   },
-   {
-    "t": "Vitalik Buterin Moves On From 'Ultrasound Money', Says ETH's Value Is Stability",
-    "tt": "Vitalik Buterin, ETH'nin Değerinin İstikrar Olduğunu Söyleyerek 'Ultrason Parasından' Uzaklaşıyor",
-    "s": "Vitalik Buterin Moves On From 'Ultrasound Money', Says ETH's Value Is Stability Authored by Ryan S. Gladwin via Decrypt , Ethereum co-founder Vitalik Buterin wants people to stop valuing ETH as a fee-burning token and start treating it as a store of value , arguing that the burn was \"never\" as stron",
-    "ss": "Vitalik Buterin, \"Ultrason Parasından\" Devam Ediyor, ETH'nin Değerinin İstikrar Olduğunu Söyledi Ryan S. Gladwin tarafından Decrypt aracılığıyla yazılan Ethereum kurucu ortağı Vitalik Buterin, insanların ETH'ye ücret yakan bir token olarak değer vermeyi bırakıp onu bir değer deposu olarak görmeye başlamalarını istiyor ve yanmanın \"asla\" bu kadar güçlü olmadığını savunuyor.",
-    "u": "https://www.zerohedge.com/crypto/vitalik-buterin-moves-ultrasound-money-says-eths-value-stability",
-    "ts": 1794342300000,
     "tags": []
    }
   ],
