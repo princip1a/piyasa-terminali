@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T21:59:25.365156+00:00",
+ "generated": "2026-11-10T22:36:17.699370+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4038.6,
-   "c": -1.84,
-   "d": -75.9,
+   "p": 4040.5,
+   "c": -1.8,
+   "d": -74.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.505,
-   "c": -2.01,
-   "d": -1.059,
+   "p": 51.53,
+   "c": -1.97,
+   "d": -1.034,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.48,
-   "c": -0.43,
-   "d": -0.37,
+   "p": 86.44,
+   "c": -0.47,
+   "d": -0.41,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.03,
-   "c": -0.58,
-   "d": -0.54,
+   "p": 92.06,
+   "c": -0.55,
+   "d": -0.51,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.249,
+   "p": 102.247,
    "c": 0.59,
-   "d": 0.599,
+   "d": 0.597,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2282,
-   "c": 0.21,
-   "d": 0.105,
+   "p": 50.2117,
+   "c": 0.18,
+   "d": 0.088,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 73785,
-   "c": -1.54,
+   "p": 73577,
+   "c": -2.0,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2055.34,
-   "c": -3.38,
+   "p": 2046.72,
+   "c": -3.9,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.37,
-   "c": -3.48,
+   "p": 82.98,
+   "c": -4.25,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.06,
-   "c": -3.15,
+   "p": 1.058,
+   "c": -3.52,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 677.17,
-   "c": -1.81,
+   "p": 676.81,
+   "c": -1.88,
    "k": "usd"
   }
  ],
@@ -494,6 +494,33 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Anthropic IPO Explained: Nasdaq Listing and Key Risks",
+    "tt": "Antropik Halka Arz Açıklaması: Nasdaq Listesi ve Temel Riskler",
+    "s": "In late 2020, a group of senior OpenAI employees unhappy with what they saw as the company’s failure to adequately prioritize AI ethics and safety left the firm to form Anthropic PBC. Just a few years later, the younger company has become an artificial intelligence behemoth that is expected to hold ",
+    "ss": "2020'nin sonlarında, bir grup kıdemli OpenAI çalışanı, şirketin yapay zeka etiğini ve güvenliğini yeterince önceliklendirmedeki başarısızlığı olarak gördükleri durumdan memnun olmadan, Anthropic PBC'yi kurmak üzere firmayı terk etti. Sadece birkaç yıl sonra, genç şirket, ayakta kalması beklenen bir yapay zeka devi haline geldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-ipo-explained-nasdaq-listing-and-key-risks",
+    "ts": 1794350279000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
+    "s": "Asian stocks and bonds were poised to fall after hotter-than-expected US inflation drove losses on Wall Street and fueled bets that the Federal Reserve may hike interest rates more aggressively to tame prices.",
+    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794349925000,
+    "tags": []
+   },
+   {
+    "t": "Barrick Mining Files for IPO of North American Gold Assets",
+    "tt": "Barrick Mining, Kuzey Amerika Altın Varlıklarını Halka Artıracak",
+    "s": "Barrick Mining Corp. is taking its North American gold business public in a US initial public offering, as the Canadian miner presses ahead with a strategic overhaul under long-time Chairman John Thornton.",
+    "ss": "Kanadalı madenci stratejik olarak sıfırlamaya çalışırken Barrick Mining Corp., Kuzey Amerika'daki en büyük altın varlıklarının ABD'de ilk halka arzı için başvuruda bulundu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/barrick-mining-files-to-take-north-american-gold-assets-public",
+    "ts": 1794345989000,
+    "tags": []
+   },
+   {
     "t": "Stocks, Bonds Fall as Fed-Hike Chorus Grows Louder: Markets Wrap",
     "tt": "Enflasyonun Teşvik Edişiyle Hisse Senetleri ve Tahviller Düşüyor Fed Dikkatli: Piyasalardaki Gelişmeler",
     "s": "Wall Street doubled down on wagers the Federal Reserve will need to lift rates more aggressively, with stocks and bonds falling as inflation worries spurred fresh warnings from officials.",
@@ -566,45 +593,12 @@
     "tags": []
    },
    {
-    "t": "Barrick Mining Files to Take North American Gold Assets Public",
-    "tt": "Barrick Mining, Kuzey Amerika Altın Varlıklarını Halka Artıracak",
-    "s": "Barrick Mining Corp. filed for a US initial public offering of its top North American gold assets, as the Canadian miner looks to reset strategically.",
-    "ss": "Kanadalı madenci stratejik olarak sıfırlamaya çalışırken Barrick Mining Corp., Kuzey Amerika'daki en büyük altın varlıklarının ABD'de ilk halka arzı için başvuruda bulundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/barrick-mining-files-to-take-north-american-gold-assets-public",
-    "ts": 1794345989000,
-    "tags": []
-   },
-   {
     "t": "CoreWeave Rallies as AI Demand Drives Stronger Revenue Outlook | Closing Bell",
     "tt": "Yapay Zeka Talebi Gelir Görünümünü Güçlendirirken CoreWeave Toplanıyor | Kapanış Zili",
     "s": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Vonnie Quinn, Jess Menton, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
     "ss": "Vonnie Quinn, Jess Menton, Carol Massar ve Tim Stenovec'in katılımıyla Bloomberg Televizyonu, Bloomberg Radyosu ve YouTube'da ABD pazarı kapanışına ilişkin platformlar arası kapsamlı kapsamlı yayın. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-10/coreweave-rallies-on-ai-outlook-closing-bell-video",
     "ts": 1794345683000,
-    "tags": []
-   },
-   {
-    "t": "Brazil Real Hits Lowest Since December After Dovish Minutes",
-    "tt": "Brezilya Reali, güvercin tutanaklarının ardından Aralık ayından bu yana en düşük seviyesini gördü",
-    "s": "The Brazilian real sank to its weakest level since December last year on Tuesday, surpassing the lows seen after Luiz Inácio Lula da Silva’s surprise re-election, on fading expectations that inflation pressures will push the central bank to raise interest rates.",
-    "ss": "Enflasyon baskılarının merkez bankasını faiz oranlarını yükseltmeye zorlayacağına dair beklentilerin azalmasıyla Brezilya reali, Salı günü Luiz Inácio Lula da Silva'nın sürpriz yeniden seçilmesinin ardından görülen en düşük seviyeleri aşarak geçen yılın Aralık ayından bu yana en zayıf seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/brazil-real-nears-post-vote-low-as-dovish-minutes-add-pressure",
-    "ts": 1794323954000,
-    "tags": [
-     "DXY ▼",
-     "Altın ▲",
-     "Gümüş ▲",
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Nvidia’s Bull Case Hinges on CEO Huang Surviving China Spy Probe",
-    "tt": "Nvidia'nın Boğa Davası CEO Huang'ın Çin Casus Soruşturmasından Hayatta Kalmasına Bağlı",
-    "s": "Nvidia Corp.’s investigation of Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy is raising questions about the company’s future and sending its stock into a tailspin.",
-    "ss": "Nvidia Corp.'un İcra Kurulu Başkanı Jensen Huang'ın Çinli casus olduğu iddia edilen bir kişiyle olan ilişkisine ilişkin soruşturması, şirketin geleceği hakkında soru işaretleri uyandırıyor ve hisselerini bir çıkmaza sokuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
-    "ts": 1794344880000,
     "tags": []
    }
   ],
@@ -708,6 +702,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+    "tt": "Yatırımcılar Nvidia'daki çalkantının kalıcı kazançlar anlamına gelip gelmeyeceğini tartarken AMD'nin hisseleri değer kaybediyor",
+    "s": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
+    "ss": "Paranın stoklar arasında değişmesi başka bir şey, müşterilerin tedarikçi ilişkilerini değiştirmesi ise başka bir şey.",
+    "u": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+    "ts": 1794350220000,
+    "tags": []
+   },
+   {
+    "t": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
+    "tt": "Talaş stoklarındaki bu \"kumdaki çizgilere\" ulaşana kadar şiddetli dalgalanmaları göz ardı edin",
+    "s": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels.",
+    "ss": "Yatırımcılar, SOX çip sektörü endeksinin mevcut seviyelerin üstünde ve altında önemli teknik savaş alanlarına ulaşana kadar nasıl işlem gördüğüne çok fazla dikkat etmemeli.",
+    "u": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+    "ts": 1794349800000,
+    "tags": []
+   },
+   {
+    "t": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+    "tt": "Nvidia'nın Jensen Huang casus skandalını soruşturmak için tuttuğu eski savcıyla tanışın",
+    "s": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
+    "ss": "Joon Kim, geçen ay Wachtell Lipton hukuk firmasına katıldı ve şimdi Nvidia'nın CEO'sunun Çin casus operasyonunun hedefi olup olmadığına dair bağımsız bir soruşturmaya liderlik edecek.",
+    "u": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
+    "ts": 1794348300000,
+    "tags": []
+   },
+   {
     "t": "Stocks fall as the 10-year Treasury yield nears 5% mark",
     "tt": "10 yıllık Hazine tahvil getirisi %5'e yaklaşırken hisse senetleri düşüyor",
     "s": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
@@ -744,15 +765,6 @@
     "tags": []
    },
    {
-    "t": "Ignore the wild swings in chip stocks until they reach these ‘lines in the sand’",
-    "tt": "Talaş stoklarındaki bu \"kumdaki çizgilere\" ulaşana kadar şiddetli dalgalanmaları göz ardı edin",
-    "s": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key technical battleground areas above and below current levels.",
-    "ss": "Yatırımcılar, SOX çip sektörü endeksinin mevcut seviyelerin üstünde ve altında önemli teknik savaş alanlarına ulaşana kadar nasıl işlem gördüğüne çok fazla dikkat etmemeli.",
-    "u": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-    "ts": 1794343980000,
-    "tags": []
-   },
-   {
     "t": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
     "tt": "Nvidia yakında daha sıkı ihracat kurallarıyla karşı karşıya kalabilir, bu da skandalın ardından Çin'e çip satmayı zorlaştırabilir",
     "s": "“There is growing momentum for these bills in light of the Jensen Huang spy scandal,” one analyst says.",
@@ -784,27 +796,27 @@
     "u": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
     "ts": 1794340020000,
     "tags": []
-   },
-   {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimini kesmeli mi?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794339000000,
-    "tags": []
-   },
-   {
-    "t": "Corporate America is making a trillion-dollar mistake about retirement",
-    "tt": "Kurumsal Amerika emeklilik konusunda trilyon dolarlık bir hata yapıyor",
-    "s": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-    "ss": "Piyasa, 50 yaş ve üzeri Amerikalıların ekonomik etkisini çarpıcı biçimde düşük fiyatlandırıyor.",
-    "u": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-    "ts": 1794338940000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Back To Basics: Toyota Bets On Indiana-Built Micro Trucks As Consumers Demand Cheap Vehicles",
+    "tt": "Temellere Dönüş: Tüketiciler Ucuz Araç Talep Ettikçe Toyota, Indiana Yapımı Mikro Kamyonlara Bahis Yapıyor",
+    "s": "Back To Basics: Toyota Bets On Indiana-Built Micro Trucks As Consumers Demand Cheap Vehicles Japanese mini trucks have been a hit with US consumers because they offer an inexpensive, compact truck without all the bells and whistles that is also relatively cheap to service. Toyota Motor has recognize",
+    "ss": "Temellere Dönüş: Toyota, Tüketicilerin Ucuz Araç Talep Etmesiyle Indiana Yapımı Mikro Kamyonlara Bahis Yapıyor Japon mini kamyonları ABD'li tüketiciler tarafından çok beğenildi çünkü tüm özelliklerin bulunmadığı, aynı zamanda bakımı da nispeten ucuz olan ucuz, kompakt bir kamyon sunuyorlar. Toyota Motor tanıdı",
+    "u": "https://www.zerohedge.com/personal-finance/back-basics-toyota-bets-indiana-built-micro-trucks-consumers-cheap-vehicles",
+    "ts": 1794350400000,
+    "tags": []
+   },
+   {
+    "t": "\"Offense, Not Defense\": Jordan Crushes Scalise To Lead Shrunken GOP Into Subpoena War",
+    "tt": "\"Savunma Değil, Saldırı\": Ürdün, GOP'un Daralmasına Yol Açmak İçin Scalise'ı Ezdi",
+    "s": "\"Offense, Not Defense\": Jordan Crushes Scalise To Lead Shrunken GOP Into Subpoena War House Republicans picked Judiciary Chairman Jim Jordan on Tuesday to lead them into the minority, 106-73 over Majority Leader Steve Scalise in a secret ballot a week after a midterm wipeout handed Democrats their b",
+    "ss": "\"Savunma Değil, Hücum\": Ürdün, Daralan GOP'u Mahkeme Çağrısına Yönlendirmek İçin Scalise'ı Ezdi Savaş Evi Cumhuriyetçiler Salı günü Yargı Başkanı Jim Jordan'ı seçtiler ve kendilerini Demokratlara ara seçimden sonra yapılan ara seçimden bir hafta sonra yapılan gizli oylamada Çoğunluk Lideri Steve Scalise'ı 106-73 yenerek azınlığa taşıdılar",
+    "u": "https://www.zerohedge.com/political/offense-not-defense-jordan-crushes-scalise-lead-shrunken-gop-subpoena-war",
+    "ts": 1794349200000,
+    "tags": []
+   },
    {
     "t": "Bill Gates: A Huge Catastrophe May Be Needed...",
     "tt": "Bill Gates: Büyük Bir Felaket Gerekli Olabilir...",
@@ -875,24 +887,6 @@
     "ss": "\"En Eşcinsel\" Demokrat Kongre Üyesi, Tuhaf Bir Şekilde Kendisini Çocuklara Terörize Eden Katil Palyaçoyla Karşılaştırıyor Bir zamanlar kendisini Kongre'nin \"en eşcinsel\" üyesi olarak gururla ilan eden Temsilci Robert Garcia (D-CA), Demokratlar yeni bir sınava hazırlanırken kendisini Stephen King'in It filmindeki katil palyaço Pennywise ile karşılaştırıyor.",
     "u": "https://www.zerohedge.com/political/gayest-democrat-congressman-bizarrely-compares-himself-murderous-clown-who-terrorizes",
     "ts": 1794341400000,
-    "tags": []
-   },
-   {
-    "t": "Department Of Labor Floats Stricter Rules For Unemployment Benefits",
-    "tt": "Çalışma Bakanlığı İşsizlik Yardımlarına İlişkin Daha Katı Kurallar Getiriyor",
-    "s": "Department Of Labor Floats Stricter Rules For Unemployment Benefits Authored by Zachary Stieber via The Epoch Times , The Department of Labor is proposing stricter rules for Americans trying to get unemployment benefits. To receive unemployment compensation (UC) benefits under the proposed rules, pe",
-    "ss": "Çalışma Bakanlığı, İşsizlik Yardımlarına İlişkin Daha Katı Kurallar Getiriyor Zachary Stieber tarafından The Epoch Times aracılığıyla yazılan Çalışma Bakanlığı, işsizlik yardımı almaya çalışan Amerikalılar için daha katı kurallar öneriyor. Önerilen kurallar kapsamında işsizlik tazminatı (UC) yardımlarından yararlanmak için,",
-    "u": "https://www.zerohedge.com/personal-finance/department-labor-floats-stricter-rules-unemployment-benefits",
-    "ts": 1794339600000,
-    "tags": []
-   },
-   {
-    "t": "Pathway To Citizenship For DACA? Trump Directs DHS Chief To 'Work With Democrats' On Immigration Reform",
-    "tt": "DACA İçin Vatandaşlığa Giden Yol? Trump, DHS Şefine Göçmenlik Reformu Konusunda 'Demokratlarla Çalışması' Talimatını Verdi",
-    "s": "Pathway To Citizenship For DACA? Trump Directs DHS Chief To 'Work With Democrats' On Immigration Reform Homeland Security Secretary Markwayne Mullin said Monday that President Trump instructed him to work with Democrats on immigration reform , a day after President Trump told \"60 Minutes\" that his m",
-    "ss": "DACA İçin Vatandaşlığa Giden Yol? Trump, DHS Şefine Göçmenlik Reformu Konusunda 'Demokratlarla Çalışması' Yönergesini Verdi İç Güvenlik Bakanı Markwayne Mullin Pazartesi günü yaptığı açıklamada, Başkan Trump'ın \"60 Dakika\"ya \"60 Dakika\"da bu konuyu açıkladığını söylemesinden bir gün sonra Başkan Trump'ın kendisine göçmenlik reformu konusunda Demokratlarla birlikte çalışması talimatını verdiğini söyledi.",
-    "u": "https://www.zerohedge.com/political/pathway-citizenship-daca-trump-directs-dhs-chief-work-democrats-immigration-reform",
-    "ts": 1794338700000,
     "tags": []
    }
   ],
