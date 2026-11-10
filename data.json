@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T03:27:49.793058+00:00",
+ "generated": "2026-11-10T04:28:51.295650+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 52389.75,
+   "p": 52389.8,
    "c": 2.15,
-   "d": 1104.02,
+   "d": 1104.07,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4123.0,
-   "c": 0.21,
-   "d": 8.5,
+   "p": 4121.0,
+   "c": 0.16,
+   "d": 6.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 53.035,
-   "c": 0.9,
-   "d": 0.471,
+   "p": 53.025,
+   "c": 0.88,
+   "d": 0.461,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.93,
-   "c": -1.06,
-   "d": -0.92,
+   "p": 85.95,
+   "c": -1.04,
+   "d": -0.9,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.76,
-   "c": -0.88,
-   "d": -0.81,
+   "p": 91.75,
+   "c": -0.89,
+   "d": -0.82,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.698,
-   "c": 0.05,
-   "d": 0.048,
+   "p": 101.68,
+   "c": 0.03,
+   "d": 0.03,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2209,
-   "c": 0.19,
-   "d": 0.098,
+   "p": 50.2067,
+   "c": 0.17,
+   "d": 0.083,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74696,
-   "c": -0.43,
+   "p": 74677,
+   "c": -0.34,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2117.75,
-   "c": -1.22,
+   "p": 2120.43,
+   "c": -1.05,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 85.71,
-   "c": -2.3,
+   "p": 86.0,
+   "c": -1.7,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.095,
-   "c": -1.29,
+   "p": 1.094,
+   "c": -1.64,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 687.72,
-   "c": 0.02,
+   "p": 689.64,
+   "c": 0.15,
    "k": "usd"
   }
  ],
@@ -494,53 +494,12 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Copper Extends Rebound as Global Technology Stocks Resume Rally",
-    "tt": null,
-    "s": "Copper extended its rebound from last week’s slump, tracking a rally in technology shares due to the metal’s use in power infrastructure and data centers.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
-    "ts": 1794279854000,
-    "tags": []
-   },
-   {
-    "t": "Singapore Launches Gold Vaulting Service for Central Banks",
-    "tt": null,
-    "s": "Singapore has launched a gold vaulting service for overseas central banks and official institutions, seeking to capitalize on global demand to diversify storage of bullion reserves.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-launches-gold-vaulting-service-for-central-banks",
-    "ts": 1794279610000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks Ride Tech Rally Higher as Oil Drops: Markets Wrap",
-    "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
-    "s": "Asian stocks headed for their biggest two-day advance since early August, boosted by a tech rally and a further decline in oil prices.",
-    "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794262613000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
-    "tt": null,
-    "s": "President Donald Trump and Secretary of State Marco Rubio defended Defense Secretary Pete Hegseth after Republican representative Thomas Massie introduced articles of impeachment over military operations in Iran. Hegseth has rejected calls to step down, characterizing the effort as politically motiv",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
-    "ts": 1794278961000,
-    "tags": []
-   },
-   {
-    "t": "Singapore’s Interbank Rate Hits Highest in More Than a Year",
-    "tt": "Singapur'un Bankalararası Faiz Oranı Bir Yıldan Fazla Bir Sürenin En Yüksek Seviyesine Tırmandı",
-    "s": "Singapore’s benchmark interest rate climbed to the highest level in more than a year on tighter local liquidity and expectations for further US interest-rate hikes.",
-    "ss": "Singapur'da bankalararası faiz oranları, sıkılaşan yerel likidite ve ABD'nin daha fazla faiz artırımına ilişkin beklentilerin borçlanma maliyetlerini artırmasıyla bir yıldan uzun bir sürenin en yüksek seviyesine çıktı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-s-interbank-rate-climbs-to-highest-in-more-than-a-year",
-    "ts": 1794273682000,
+    "t": "Gold Edges Lower as Rate-Hike Bets Temper Impact of Lower Oil",
+    "tt": "Faiz Artışı Bahislerinin Petrol Düşüşünün Etkisini Azaltmasıyla Altın Kenarları Düşüyor",
+    "s": "Gold edged lower as the probability of another interest rate hike continued to weigh, countering oil prices extending a decline on hopes for a diplomatic resolution to the Middle East war.",
+    "ss": "Altın fiyatları, petrol fiyatlarının Orta Doğu savaşında diplomatik bir çözüme ulaşılması umutlarıyla düşüşünü sürdürmesine karşılık olarak, yeni bir faiz artırımı olasılığının ağırlık yaratmaya devam etmesiyle düşüş kaydetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+    "ts": 1794269052000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -559,39 +518,80 @@
     "tags": []
    },
    {
-    "t": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
-    "tt": "Kioxia Kaldıraçlı Ürünü Bir Yıllık Aranın Ardından Hong Kong'da Piyasaya Sürüldü",
-    "s": "A leveraged product tracking Kioxia Holdings Corp. debuts in Hong Kong on Tuesday, the first such single-stock instrument in the city since a similar SK Hynix Inc. product helped trigger extreme volatility in the underlying stock and drew market scrutiny.",
-    "ss": "Kioxia Holdings Corp.'un kaldıraçlı ürün takibi Salı günü Hong Kong'da görücüye çıktı; benzer bir SK Hynix Inc. ürününün dayanak hisse senedinde aşırı oynaklığı tetiklemesine yardımcı olması ve piyasanın incelemeye alınmasından bu yana şehirdeki bu türden ilk tek hisse senedi enstrümanı oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
-    "ts": 1794275949000,
+    "t": "Singapore Launches Gold Vaulting Service for Central Banks",
+    "tt": "Singapur Merkez Bankaları İçin Altın Kasalama Hizmetini Başlatıyor",
+    "s": "Singapore has launched a gold vaulting service for foreign central banks and official institutions, seeking to tap growing demand to diversify where bullion reserves are stored.",
+    "ss": "Singapur, külçe rezervlerinin depolandığı yerleri çeşitlendirmek amacıyla artan talebi karşılamak amacıyla yabancı merkez bankaları ve resmi kurumlar için bir altın tonoz hizmeti başlattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/singapore-launches-gold-vaulting-service-for-central-banks",
+    "ts": 1794279610000,
     "tags": []
    },
    {
-    "t": "China Water Environment Seeks $410 Million Loan Restructuring",
-    "tt": "Çin Su Çevresi 410 Milyon Dolarlık Kredinin Yeniden Yapılandırılmasını İstiyor",
-    "s": "China Water Environment Group, one of the nation’s largest sewage treatment firms, is seeking to restructure about $410 million of offshore loans, according to people familiar with the matter, adding to a growing number of Chinese state-backed firms facing debt challenges.",
-    "ss": "Konuyu bilen kaynaklara göre, ülkenin en büyük kanalizasyon arıtma firmalarından biri olan China Water Environment Group, borç sorunlarıyla karşı karşıya kalan giderek artan sayıda Çin devlet destekli firmaya ek olarak yaklaşık 410 milyon dolarlık offshore kredilerini yeniden yapılandırmaya çalışıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/china-water-environment-seeks-410-million-loan-restructuring",
-    "ts": 1794275474000,
+    "t": "Japan 30-Year Bond Sale Sees Weaker Demand After JGB Swings",
+    "tt": "Japonya 30 Yıllık Tahvil Satışında JGB Salınımlarından Sonra Talep Zayıfladı",
+    "s": "Japan’s 30-year government bond auction drew soft demand as sharp moves in the yield curve following a selloff in AI-related stocks damped investor risk appetite.",
+    "ss": "Japonya'nın 30 yıllık devlet tahvili ihalesi, AI ile ilgili hisse senetlerindeki satışın ardından getiri eğrisindeki keskin hareketlerin yatırımcıların risk iştahını azaltması nedeniyle talebin azalmasına neden oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/japan-30-year-bond-sale-sees-weaker-demand-than-12-month-average-mwa53xcl",
+    "ts": 1794281886000,
     "tags": []
    },
    {
-    "t": "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
-    "tt": "Berkshire, Son Japonya Tahvil Anlaşmasında Daha Geniş Yen Spreadlerini Test Ediyor",
-    "s": "Berkshire Hathaway Inc. is marketing its latest yen bond deal at wider levels than it offered in April, highlighting how investors are demanding more compensation to buy debt.",
-    "ss": "Berkshire Hathaway Inc., en son yen tahvil anlaşmasını Nisan ayında teklif ettiğinden daha yüksek seviyelerde pazarlayarak yatırımcıların borç satın almak için nasıl daha fazla tazminat talep ettiğini vurguladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/berkshire-tests-wider-yen-spreads-in-latest-japan-bond-deal",
-    "ts": 1794273398000,
+    "t": "Australia Faces New US Reality After Midterms",
+    "tt": "Avustralya Ara Sınavlardan Sonra Yeni ABD Gerçeğiyle Karşı Karşıya",
+    "s": "Australia's government is closely watching President Trump's approach to foreign policy for the remainder of his term. While the Democrats take control of Congress in January, Trump will retain broad, unilateral authority over areas including tariffs and military operations. Australian policy intere",
+    "ss": "Avustralya hükümeti, görev süresinin geri kalanında Başkan Trump'ın dış politikaya yaklaşımını yakından izliyor. Demokratlar Ocak ayında Kongre'nin kontrolünü ele geçirirken Trump, gümrük vergileri ve askeri operasyonlar da dahil olmak üzere alanlarda geniş, tek taraflı yetkiyi elinde tutacak. Avustralya politikası ilgisi",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/australia-ahead-11-10-2026-video",
+    "ts": 1794284002000,
     "tags": []
    },
    {
-    "t": "Australia Probes Bathla as Private Credit Flaws Persist",
-    "tt": "Avustralya, Özel Kredi Kusurlarının Devam Etmesi Nedeniyle Bathla'yı Soruşturuyor",
-    "s": "Australia’s corporate regulator has opened an investigation into insolvent Sydney developer Bathla Group as its latest surveillance showed that poor practices persist in the country’s A$250 billion ($172 billion) private credit industry.",
-    "ss": "Avustralya'nın kurumsal düzenleyici kurumu, iflas eden Sidneyli geliştirici Bathla Group hakkında bir soruşturma başlattı; çünkü son gözlemleri, ülkenin 250 milyar Avustralya Doları (172 milyar ABD Doları) değerindeki özel kredi sektöründe kötü uygulamaların devam ettiğini gösterdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/australia-watchdog-probes-bathla-as-private-credit-flaws-persist",
-    "ts": 1794247200000,
+    "t": "Asian Stocks Ride Tech Rally Higher as Oil Drops: Markets Wrap",
+    "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
+    "s": "Asian stocks headed for their biggest two-day advance in more than three months, boosted by a tech rally and a further decline in oil prices.",
+    "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794262613000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "China Oil Imports Rebound as More Crude Flows From Persian Gulf",
+    "tt": "Basra Körfezi'nden Ham Petrol Akışının Artmasıyla Çin Petrol İthalatı Yükseliyor",
+    "s": "Chinese crude oil imports rose to a seven-month high in October on a recovery in shipments from the Persian Gulf.",
+    "ss": "Çin'in ham petrol ithalatı, Basra Körfezi'nden yapılan sevkiyatlardaki toparlanmanın etkisiyle Ekim ayında yedi ayın en yüksek seviyesine yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/china-oil-imports-rebound-as-more-crude-flows-from-persian-gulf",
+    "ts": 1794282173000,
+    "tags": []
+   },
+   {
+    "t": "Rising Fuel Flows Through Hormuz May Help Ease Strained Market",
+    "tt": "Hürmüz'den Artan Yakıt Akışı Gergin Piyasanın Rahatlamasına Yardımcı Olabilir",
+    "s": "The volume of refined products being loaded within the Persian Gulf is rising, with most of that exiting the Strait of Hormuz and providing some relief to one of the tightest corners of the global oil market nine months into the Iran war.",
+    "ss": "Basra Körfezi'ne yüklenen rafine ürünlerin hacmi artıyor; bunların çoğu Hürmüz Boğazı'ndan çıkıyor ve İran savaşının başlamasından dokuz ay sonra küresel petrol piyasasının en dar köşelerinden birine bir miktar rahatlama sağlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/rising-fuel-flows-through-hormuz-may-help-ease-strained-market",
+    "ts": 1794281990000,
+    "tags": []
+   },
+   {
+    "t": "Copper Extends Rebound as Global Technology Stocks Resume Rally",
+    "tt": "Bakır, Küresel Teknoloji Hisselerinin Yükselişe Devam Etmesiyle Yükselişini Genişletiyor",
+    "s": "Copper extended its rebound from last week’s slump, tracking a rally in technology shares due to the metal’s use in power infrastructure and data centers.",
+    "ss": "Bakır, metalin enerji altyapısında ve veri merkezlerinde kullanılması nedeniyle teknoloji hisselerinde yaşanan yükselişi takip ederek, geçen haftaki düşüşten sonra toparlanmasını sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
+    "ts": 1794279854000,
+    "tags": []
+   },
+   {
+    "t": "Hegseth Hits Out at Critics as Massie Pushes Impeachment",
+    "tt": "Massie'nin görevden alınmasına baskı yaparken Hegseth Eleştirmenlere sert sert çıkıştı",
+    "s": "President Donald Trump and Secretary of State Marco Rubio defended Defense Secretary Pete Hegseth after Republican representative Thomas Massie introduced articles of impeachment over military operations in Iran. Hegseth has rejected calls to step down, characterizing the effort as politically motiv",
+    "ss": "Başkan Donald Trump ve Dışişleri Bakanı Marco Rubio, Cumhuriyetçi temsilci Thomas Massie'nin İran'daki askeri operasyonlarla ilgili azil maddelerini sunmasının ardından Savunma Bakanı Pete Hegseth'i savundu. Hegseth, çabanın siyasi amaçlı olduğunu belirterek, istifa çağrılarını reddetti",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/hegseth-hits-out-at-critics-as-massie-pushes-impeachment-video",
+    "ts": 1794278961000,
     "tags": []
    }
   ],
@@ -701,6 +701,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
+    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+    "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
+    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "ts": 1794281880000,
+    "tags": []
+   },
+   {
     "t": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
     "tt": "Aylar önce Nvidia'nın Çin skandalının işaretlerini gören açıktan satıcı, Çin'in çiplere erişmesine yardımcı olan tek şirketin Megaspeed olmadığını iddia ediyor",
     "s": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
@@ -755,15 +764,6 @@
     "tags": []
    },
    {
-    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
-    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-    "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
-    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "ts": 1794260700000,
-    "tags": []
-   },
-   {
     "t": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
     "tt": "Nvidia casus skandalının gerçek kazananları AMD ve Broadcom mu?",
     "s": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
@@ -793,19 +793,37 @@
   ],
   "ZeroHedge": [
    {
+    "t": "What Could The Eurasian Order Look Like If Trump Cuts A Series Of Deals To Save MAGA?",
+    "tt": "Trump, MAGA'yı Kurtarmak İçin Bir Dizi Anlaşmayı Keserse Avrasya Düzeni Nasıl Görünebilir?",
+    "s": "What Could The Eurasian Order Look Like If Trump Cuts A Series Of Deals To Save MAGA? Authored by Andrew Korybko via Andrew Korybko's Newsletter , The purpose in sharing this scenario forecast is to generate a discussion within Trump 2.0 and among experts in Russia, Iran, and China about the politic",
+    "ss": "Trump, MAGA'yı Kurtarmak İçin Bir Dizi Anlaşmayı Keserse Avrasya Düzeni Nasıl Görünebilir? Andrew Korybko tarafından Andrew Korybko'nun Haber Bülteni aracılığıyla yazılmıştır. Bu senaryo tahminini paylaşmanın amacı, Trump 2.0 içerisinde ve Rusya, İran ve Çin'deki uzmanlar arasında siyaset hakkında bir tartışma oluşturmaktır.",
+    "u": "https://www.zerohedge.com/geopolitical/what-could-eurasian-order-look-if-trump-cuts-series-deals-save-maga",
+    "ts": 1794284400000,
+    "tags": []
+   },
+   {
+    "t": "US Expels Lebanese Diplomat Over Social Media Post Supporting Hezbollah",
+    "tt": "ABD, Hizbullah'ı Destekleyen Sosyal Medya Paylaşımı Nedeniyle Lübnanlı Diplomatı Sınırdışı Ediyor",
+    "s": "US Expels Lebanese Diplomat Over Social Media Post Supporting Hezbollah Via The Cradle The US State Department informed the Lebanese Embassy in Washington that its Detroit consul, Ibrahim Charara, was declared persona non grata and had 48 hours to leave the country, Asharq Al-Awsat reported on Sunda",
+    "ss": "ABD, Beşik Aracılığıyla Hizbullah'ı Destekleyen Sosyal Medya Paylaşımı Nedeniyle Lübnanlı Diplomatı Sınır Dışı Ediyor Şarku'l Avsat'ın Pazar günkü haberine göre ABD Dışişleri Bakanlığı, Washington'daki Lübnan Büyükelçiliği'ne, Detroit Konsolosu İbrahim Charara'nın istenmeyen adam ilan edildiğini ve ülkeyi terk etmesi için 48 saati bulunduğunu bildirdi.",
+    "u": "https://www.zerohedge.com/geopolitical/us-expels-lebanese-diplomat-over-social-media-post-supporting-hezbollah",
+    "ts": 1794282000000,
+    "tags": []
+   },
+   {
     "t": "Israel Is 'Rich Enough' To Buy US Weapons Without Financial Aid, Rubio Says",
-    "tt": null,
+    "tt": "Rubio: İsrail, Mali Yardım Olmadan ABD Silahları Alabilecek Kadar Zengin",
     "s": "Israel Is 'Rich Enough' To Buy US Weapons Without Financial Aid, Rubio Says The White House is much too late in belateldy 'discovering' this talking point, but admin officials continue to say that it's time for Israel to stand on its own and begin purchasing weapons without relying on US financial a",
-    "ss": null,
+    "ss": "Rubio, İsrail'in Mali Yardım Olmadan ABD Silahları Alabilecek Kadar Zengin Olduğunu Söyledi Rubio, Beyaz Saray'ın bu konuşulan konuyu geç de olsa 'keşfetmekte' çok geç olduğunu ancak yönetici yetkililer İsrail'in kendi ayakları üzerinde durup ABD'nin mali yardımına güvenmeden silah satın almaya başlamasının zamanının geldiğini söylemeye devam ediyor",
     "u": "https://www.zerohedge.com/geopolitical/israel-rich-enough-enough-buy-us-weapons-without-financial-aid-rubio-says",
     "ts": 1794280800000,
     "tags": []
    },
    {
     "t": "Senate Republicans Revolt Against Their Own Leaders",
-    "tt": null,
+    "tt": "Senato Cumhuriyetçileri Kendi Liderlerine Karşı Ayaklandı",
     "s": "Senate Republicans Revolt Against Their Own Leaders A bloc of Senate Republicans led by Sen. Ron Johnson (R-WI) is pushing to postpone Tuesday's GOP leadership elections , arguing that the conference needs time to examine its midterm election losses before it picks the leaders who will guide it in t",
-    "ss": null,
+    "ss": "Senato Cumhuriyetçileri Kendi Liderlerine Karşı Ayaklanıyor Senatör Ron Johnson (R-WI) liderliğindeki Senato Cumhuriyetçilerinden oluşan bir blok, konferansın kendisine rehberlik edecek liderleri seçmeden önce ara seçim kayıplarını incelemek için zamana ihtiyacı olduğunu öne sürerek Salı günkü GOP liderlik seçimlerini ertelemek için baskı yapıyor.",
     "u": "https://www.zerohedge.com/political/senate-republicans-revolt-against-their-own-leaders",
     "ts": 1794279600000,
     "tags": []
@@ -821,9 +839,9 @@
    },
    {
     "t": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout",
-    "tt": null,
+    "tt": "İzleyin: McConnell Ara Dönem Patlamasına Verilen Rahatsız Edici Tepkinin Ardından Yeni Sağlık Korkularını Ateşledi",
     "s": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout Sen. Mitch McConnell (R-KY) is facing renewed scrutiny over his health after appearing to freeze when a reporter asked him about Republicans' devastating midterm election losses . The 84-year-old Kentucky Republica",
-    "ss": null,
+    "ss": "İzle: McConnell, Ara Dönem Patlamasına Karşı Rahatsız Edici Tepki Sonrası Yeni Sağlık Korkularını Ateşledi Senatör Mitch McConnell (R-KY), bir muhabirin kendisine Cumhuriyetçilerin yıkıcı ara seçim kayıplarını sorduğunda donmuş gibi göründükten sonra sağlığı konusunda yeni bir incelemeyle karşı karşıya kaldı. 84 yaşındaki Kentucky Cumhuriyeti",
     "u": "https://www.zerohedge.com/political/watch-mcconnell-sparks-new-health-fears-after-unsettling-reaction-midterm-blowout",
     "ts": 1794276900000,
     "tags": []
@@ -862,24 +880,6 @@
     "ss": "Petrol, UAEK Müfettişlerinin İran'a Dönebileceği Raporu Üzerine Kustu Suudilerin sahibi olduğu haber kuruluşu Al Arabiya, Pazartesi öğleden sonra geç saatlerde Katar-Pakistan önerisinin ABD ile İran müzakerecileri arasındaki müzakere umutlarını canlandırdığını ve İran'ın uranyum zenginleştirmesini engellemeye yönelik bir ön anlaşmanın da benzer göründüğünü bildirdi",
     "u": "https://www.zerohedge.com/markets/brent-extends-biggest-weekly-decline-covid-crash-us-gas-prices-set-fall-under-4",
     "ts": 1794271500000,
-    "tags": []
-   },
-   {
-    "t": "Surprising Red State Becomes New Hotspot For Gen Z Workers",
-    "tt": "Şaşırtıcı Kırmızı Eyalet, Z Kuşağı İşçileri İçin Yeni Etkin Nokta Haline Geldi",
-    "s": "Surprising Red State Becomes New Hotspot For Gen Z Workers South Carolina is rapidly becoming one of America's most attractive destinations for young workers , as affordable living, expanding employment opportunities and a growing economy draw Generation Z away from traditional economic powerhouses.",
-    "ss": "Şaşırtıcı Red State, Z Kuşağı İşçileri İçin Yeni Sıcak Nokta Haline Geliyor Uygun fiyatlı yaşam, genişleyen istihdam fırsatları ve büyüyen ekonomi, Z Kuşağını geleneksel ekonomik güç merkezlerinden uzaklaştırırken, Güney Carolina hızla Amerika'nın genç işçiler için en çekici destinasyonlarından biri haline geliyor.",
-    "u": "https://www.zerohedge.com/personal-finance/surprising-red-state-becomes-new-hotspot-gen-z-workers",
-    "ts": 1794271200000,
-    "tags": []
-   },
-   {
-    "t": "Philly's Kristallnacht: Targeting Private Citizens Vs. Israeli Policy",
-    "tt": "Philly'nin Kristallnacht'ı: Özel Vatandaşları Hedef Almak Vs. İsrail Politikası",
-    "s": "Philly's Kristallnacht: Targeting Private Citizens Vs. Israeli Policy Authored by Luis Gonzalez via American Thinker , A bicycle-led boycott targeting six Jewish-owned restaurants in Philadelphia brought hundreds of counterprotesters into Center City Sunday . The demonstration, organized by Philly B",
-    "ss": "Philly'nin Kristallnacht'ı: Özel Vatandaşları Hedef Almak Vs. İsrail Politikası Luis Gonzalez tarafından American Thinker aracılığıyla yazılmıştır. Philadelphia'da Yahudilere ait altı restoranı hedef alan bisikletli boykot, Pazar günü yüzlerce karşıt protestocuyu Center City'ye getirdi. Philly B tarafından düzenlenen gösteri",
-    "u": "https://www.zerohedge.com/political/phillys-kristallnacht-targeting-private-citizens-vs-israeli-policy",
-    "ts": 1794270000000,
     "tags": []
    }
   ],
@@ -988,7 +988,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
