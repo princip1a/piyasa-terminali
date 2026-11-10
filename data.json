@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T10:44:16.148124+00:00",
+ "generated": "2026-11-10T11:41:25.798093+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 19.94,
-   "c": 0.1,
-   "d": 0.02,
+   "p": 19.99,
+   "c": 0.35,
+   "d": 0.07,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4082.3,
-   "c": -0.78,
-   "d": -32.2,
+   "p": 4080.1,
+   "c": -0.84,
+   "d": -34.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.42,
-   "c": -0.27,
-   "d": -0.144,
+   "p": 52.34,
+   "c": -0.43,
+   "d": -0.224,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.04,
-   "c": -2.08,
-   "d": -1.81,
+   "p": 85.82,
+   "c": -1.19,
+   "d": -1.03,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.36,
-   "c": -2.39,
-   "d": -2.21,
+   "p": 91.18,
+   "c": -1.5,
+   "d": -1.39,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.722,
-   "c": 0.07,
-   "d": 0.072,
+   "p": 101.73,
+   "c": 0.08,
+   "d": 0.08,
    "k": "idx"
   },
   {
@@ -73,41 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2296,
+   "p": 50.2292,
    "c": 0.21,
    "d": 0.106,
+   "k": "idx"
+  },
+  {
+   "n": "BIST 100",
+   "p": 11690.71,
+   "c": -0.19,
+   "d": -21.99,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74100,
-   "c": 0.08,
+   "p": 74230,
+   "c": -0.44,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2085.15,
-   "c": -0.91,
+   "p": 2091.35,
+   "c": -1.36,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 84.37,
-   "c": -1.75,
+   "p": 84.53,
+   "c": -2.08,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.077,
-   "c": -0.76,
+   "p": 1.079,
+   "c": -0.78,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 686.56,
-   "c": 1.1,
+   "p": 687.9,
+   "c": 0.48,
    "k": "usd"
   }
  ],
@@ -487,6 +494,29 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "HSBC's Sels Rotates Away from Semiconductors into Applications and Cloud",
+    "tt": "HSBC'den Sels, Yarı İletkenlerden Uygulamalara ve Buluta Dönüyor",
+    "s": "On semiconductors, HSBC Private Bank's Global CIO Willem Sels says, \"in terms of delays and in thinking about how different parts of the stack react to the delays, therefore do we change our positioning? And I think we do. We have done so: we are much more in the cloud and in the applications.\" He s",
+    "ss": "HSBC Özel Bankası'nın Küresel CIO'su Willem Sels, yarı iletkenler konusunda şunları söylüyor: \"Gecikmeler açısından ve yığının farklı bölümlerinin gecikmelere nasıl tepki verdiğini düşünürken, bu nedenle konumumuzu değiştiriyor muyuz? Sanırım öyle de yapıyoruz. Bunu yaptık: bulutta ve uygulamalarda çok daha fazla yer alıyoruz.\" O",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/hsbc-s-sels-rotates-away-from-semiconductors-video",
+    "ts": 1794310033000,
+    "tags": []
+   },
+   {
+    "t": "Angola’s Bonds Lead Retreat Among Emerging-Market Oil Producers",
+    "tt": "Angola Tahvilleri Gelişmekte Olan Piyasa Petrol Üreticileri Arasında Gerilemenin Öncülüğünü Yapıyor",
+    "s": "Angola’s eurobonds led the retreat among frontier and emerging market oil-producers after Brent crude tumbled below $90 a barrel for the first time since August.",
+    "ss": "Angola'nın euro tahvilleri, Brent ham petrolünün Ağustos ayından bu yana ilk kez varil başına 90 doların altına düşmesinin ardından sınır ve gelişmekte olan piyasa petrol üreticileri arasında gerilemeye öncülük etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/angola-s-bonds-lead-retreat-among-emerging-market-oil-producers",
+    "ts": 1794309137000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
     "t": "US Stock Rebound Stalls as Waller Favors Rate Hike: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
     "s": "A powerful rebound in US stocks ran out of steam after Federal Reserve Governor Christopher Waller backed an interest-rate hike in December just hours before Tuesday’s inflation report.",
@@ -500,6 +530,56 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
+   },
+   {
+    "t": "Blackstone to Buy 15.5% of IIFL Finance in $532 Million India Bet",
+    "tt": "Blackstone, IIFL Finance'ın %15,5'ini 532 Milyon Dolarlık Hindistan Bahiyle Satın Alacak",
+    "s": "Blackstone Inc. will acquire a 15.57% stake in mid-sized Indian shadow lender IIFL Finance Ltd. for about 50 billion rupees ($532 million), deepening its push into the country’s financial sector as global investors increase their exposure to its fast-growing economy.",
+    "ss": "Blackstone Inc., yaklaşık 50 milyar rupi (532 milyon $) karşılığında orta ölçekli Hintli gölge kredi kuruluşu IIFL Finance Ltd.'nin %15,57 hissesini satın alacak ve küresel yatırımcılar hızla büyüyen ekonomisine olan ilgilerini artırdıkça ülkenin finans sektörüne olan girişini derinleştirecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/blackstone-to-buy-15-5-of-iifl-finance-in-532-million-india-bet",
+    "ts": 1794308830000,
+    "tags": []
+   },
+   {
+    "t": "Falling Oil Prices and Bond Yields Offer Investors Some Relief",
+    "tt": "Düşen Petrol Fiyatları ve Tahvil Getirileri Yatırımcılara Biraz Rahatlama Sağladı",
+    "s": "Diplomatic efforts by US, Iran are pushing Brent crude lower.",
+    "ss": "ABD ve İran'ın diplomatik çabaları Brent ham petrolünü daha da aşağı çekiyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-10/falling-oil-prices-and-bond-yields-offer-investors-some-relief",
+    "ts": 1794308710000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 10",
+    "tt": "10 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Brent crude slumped below $90 a barrel for the first time since August, deepening a selloff as traders boosted bets on a resolution to the Middle East war.",
+    "ss": "Brent ham petrolü ağustos ayından bu yana ilk kez varil başına 90 doların altına geriledi ve tüccarların Orta Doğu savaşının çözümüne ilişkin bahisleri artırmasıyla satışlar derinleşti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+    "ts": 1794265304000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Banks Prep £1.8 Billion Debt Financing to Back TDR’s OCU Deal",
+    "tt": "Bankalar, TDR'nin OCU Anlaşmasını Desteklemek İçin 1,8 Milyar £'luk Borç Finansmanı Hazırlıyor",
+    "s": "Banks have lined up £1.8 billion ($2.4 billion) of financing to back TDR Capital’s acquisition of energy and infrastructure services provider OCU Group and are preparing to launch a sale.",
+    "ss": "Bankalar, TDR Capital'in enerji ve altyapı hizmetleri sağlayıcısı OCU Group'u satın almasını desteklemek için 1,8 milyar £ (2,4 milyar $) finansman sağladı ve satışı başlatmaya hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/banks-prep-1-8-billion-debt-financing-to-back-tdr-s-ocu-deal",
+    "ts": 1794307779000,
+    "tags": []
+   },
+   {
+    "t": "French Grocer Casino Agrees Debt Deal With Opposing Creditors",
+    "tt": "French Grocer Casino, Karşıt Alacaklılarla Borç Anlaşmasında Anlaştı",
+    "s": "French supermarket chain Casino Guichard-Perrachon SA has reached an agreement on restructuring its debt, after facing opposition from a group of lenders to its initial plan.",
+    "ss": "Fransız süpermarket zinciri Casino Guichard-Perrachon SA, bir grup kredi verenin başlangıç ​​planına karşı muhalefetiyle karşı karşıya kaldıktan sonra borcunun yeniden yapılandırılması konusunda anlaşmaya vardı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/french-grocer-casino-agrees-debt-deal-with-opposing-creditors",
+    "ts": 1794307585000,
+    "tags": []
    },
    {
     "t": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
@@ -524,84 +604,6 @@
     "u": "https://www.bloomberg.com/news/videos/2026-11-10/kazaks-sees-rate-hike-judgments-getting-more-nuanced-video",
     "ts": 1794306643000,
     "tags": []
-   },
-   {
-    "t": "'Marry the House, Date the Rate' Backfires for Stuck Homeowners",
-    "tt": "Sıkışan Ev Sahipleri için 'Evle Evlen, Oranı Tarihlendir' Geri Tepti",
-    "s": "“Marry the house, date the rate.” The idea, boosted by Realtors, mortgage bankers and influencers as interest rates started rising in 2022, was that buyers shouldn’t worry too much about loan costs. Focus instead on getting the house you want, then refinance when rates inevitably came down. Michelle",
-    "ss": "\"Evle evlen, oranı belirle.\" 2022'de faiz oranları artmaya başlarken Emlakçılar, ipotek bankacıları ve nüfuz sahibi kişiler tarafından desteklenen fikir, alıcıların kredi maliyetleri konusunda çok fazla endişelenmemesi gerektiğiydi. Bunun yerine istediğiniz evi almaya odaklanın, ardından oranlar kaçınılmaz olarak düştüğünde yeniden finanse edin. Michelle",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/-marry-the-house-date-the-rate-backfires-for-stuck-homeowners",
-    "ts": 1794306628000,
-    "tags": []
-   },
-   {
-    "t": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
-    "tt": "Enflasyon Verileri, Haven Teklifi Sonrası Hazine Yükselişinin Limitlerini Test Edecek",
-    "s": "Bond traders are waiting for a key inflation report for clues on the direction of the Federal Reserve’s policy path and whether the recent Treasury rally has more room to run.",
-    "ss": "Tahvil tüccarları, Fed'in politika yolunun yönüne ve Hazine'deki son yükselişin daha fazla hareket alanı olup olmadığına ilişkin ipuçları için önemli bir enflasyon raporu bekliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/inflation-data-to-test-limits-of-treasury-rally-after-haven-bid",
-    "ts": 1794271606000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Fed's Waller Supports Rate Hike in December",
-    "tt": "Fed'den Waller Aralık'ta Faiz Artışını Destekledi",
-    "s": "Federal Reserve Governor Christopher Waller said he supports an interest-rate hike in December, and warned that if inflation continues to accelerate he would support a half-percentage-point increase to protect the central bank’s credibility. “If inflation comes in substantially higher than I expect,",
-    "ss": "Federal Reserve Guvernörü Christopher Waller, Aralık ayında faiz artırımını desteklediğini söyledi ve enflasyonun artmaya devam etmesi halinde merkez bankasının güvenilirliğini korumak için yarım puanlık bir artışı destekleyeceği konusunda uyardı. \"Enflasyon beklediğimden çok daha yüksek çıkarsa,",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/fed-s-waller-supports-rate-hike-in-december-video",
-    "ts": 1794306160000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Hedge-Fund Founder Shah Fights 12-Year Danish Jail Sentence Over Cum-Ex Tax Scam",
-    "tt": "Hedge Fonu Kurucusu Shah, Cum-Ex Vergi Dolandırıcılığı Nedeniyle Danimarka'da 12 Yıllık Hapis Cezasıyla Mücadele Ediyor",
-    "s": "British hedge-fund trader Sanjay Shah returned to court in Denmark to try to overturn a 12-year prison sentence for orchestrating a billion-dollar tax scam.",
-    "ss": "İngiliz hedge fonu tüccarı Sanjay Shah, milyar dolarlık vergi dolandırıcılığı yapmaktan dolayı verilen 12 yıllık hapis cezasını bozmaya çalışmak üzere Danimarka'daki mahkemeye döndü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/hedge-fund-founder-shah-fights-12-year-danish-jail-sentence-over-cum-ex-tax-scam",
-    "ts": 1794306137000,
-    "tags": []
-   },
-   {
-    "t": "Emirates’ Clark Says Retirement Hinges on Airline’s Recovery",
-    "tt": "Emirates'ten Clark, Emekliliğin Havayolu Şirketinin İyileşmesine Bağlı Olduğunu Söyledi",
-    "s": "Emirates President Tim Clark said the airline “is spending a lot of time on succession planning” and he would consider retiring once the business recovers from the economic damage inflicted by the Iran war.",
-    "ss": "Emirates Başkanı Tim Clark, havayolunun \"veraset planlamasına çok zaman harcadığını\" ve işletmenin İran savaşının yol açtığı ekonomik hasardan kurtulmasının ardından emekli olmayı düşüneceğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-09/emirates-clark-says-retirement-plans-derailed-by-iran-war",
-    "ts": 1794230511000,
-    "tags": []
-   },
-   {
-    "t": "France 'Still Attractive' Despite Protests: Trade Minister",
-    "tt": "Fransa, Protestolara Rağmen 'Hala Çekici': Ticaret Bakanı",
-    "s": "The French Trade Minister says he wants to carry on the trade relationship with the US in the spirit of the Turnberry agreement, the EU-US trade framework agreed with President Trump in 2025. He also argued that France remains attractive, despite images of violent protests going around the world in ",
-    "ss": "Fransa Ticaret Bakanı, ABD ile ticari ilişkiyi, Başkan Trump ile 2025'te üzerinde mutabakata varılan AB-ABD ticaret çerçevesi olan Turnberry anlaşması ruhuyla sürdürmek istediğini söyledi. Ayrıca, 2025'te dünya çapında şiddetli protesto görüntülerine rağmen Fransa'nın çekiciliğini koruduğunu savundu.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/france-still-attractive-despite-protests-forissier-video",
-    "ts": 1794304983000,
-    "tags": []
-   },
-   {
-    "t": "Gold Extends Drop After Fed’s Waller Backs December Rate Hike",
-    "tt": "Altın, Fed'in Waller'ın Aralık Faiz Artırımını Desteklemesinin Ardından Düşüşünü Sürdürdü",
-    "s": "Gold extended a decline after Federal Reserve Governor Christopher Waller said he supports a rate hike in December, and floated the possibility of a half-percentage-point increase.",
-    "ss": "Altın, Fed Başkanı Christopher Waller'ın Aralık ayında faiz artırımını desteklediğini söylemesi ve yarım puanlık artış olasılığını öne sürmesinin ardından düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
-    "ts": 1794269052000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -710,6 +712,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimini kesmeli mi?",
+    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
+    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "ts": 1794309300000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments",
+    "tt": "Anthropic'in yanlışlıkla bankalara gönderilen halka arz şartlarını geri çektiği ve yapay zeka yatırımları konusundaki tedirginlikleri açığa çıkardığı bildiriliyor",
+    "s": "Anthropic reportedly late Monday sent a copy of a securities filing to bankers for an IPO raising up to $69.3 billion before saying that was in error.",
+    "ss": "Anthropic'in Pazartesi günü geç saatlerde bankacılara 69,3 milyar dolara kadar bir halka arz için sunulan menkul kıymet başvurusunun bir kopyasını gönderdiği ve bunun hatalı olduğunu söylediği bildirildi.",
+    "u": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+    "ts": 1794307680000,
+    "tags": []
+   },
+   {
     "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
     "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
     "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
@@ -786,27 +806,18 @@
     "u": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
     "ts": 1794268320000,
     "tags": []
-   },
-   {
-    "t": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-    "tt": "Rocket Lab hisseleri, şirketin 'belirleyici' çeyreğinin hedefi kaçırmasının ardından düştü",
-    "s": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
-    "ss": "Roket fırlatma şirketi analistlerin beklediğinden daha büyük bir kayıp bildirdi.",
-    "u": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
-    "ts": 1794264540000,
-    "tags": []
-   },
-   {
-    "t": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-    "tt": "Bernie Sanders, Sosyal Güvenlik çözümünü \"nesillerdir\" korumak istiyor",
-    "s": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-    "ss": "Vermont senatörü vergiye tabi azami sınırı ortadan kaldırarak zenginlerin daha fazla vergi ödemesini sağlamayı amaçlıyor",
-    "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "ts": 1794264540000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"Angry Voters\": What Are We Angry About?",
+    "tt": "\"Kızgın Seçmenler\": Neye Kızgınız?",
+    "s": "\"Angry Voters\": What Are We Angry About? Authored by Charles Hugh Smith via OfTwoMinds blog, Maybe voters are frustrated that no matter who they elect, nothing in the economic machinery of soaring inequality, debt and servitude changes. Here's the mainstream summary of the midterm election results :",
+    "ss": "\"Kızgın Seçmenler\": Neye Kızgınız? Charles Hugh Smith tarafından OfTwoMinds blogu aracılığıyla yazılmıştır: Belki seçmenler, kimi seçerlerse seçsinler, artan eşitsizlik, borç ve kölelik gibi ekonomik mekanizmalarda hiçbir şeyin değişmemesi nedeniyle hüsrana uğramışlardır. İşte ara seçim sonuçlarının genel özeti:",
+    "u": "https://www.zerohedge.com/political/angry-voters-what-are-we-angry-about",
+    "ts": 1794308400000,
+    "tags": []
+   },
    {
     "t": "Russia Flatly Rejects EU Role In Abu Dhabi, While Brussels Insists Will Be At Table",
     "tt": "Rusya AB'nin Abu Dabi'deki Rolünü Kesin Bir Şekilde Reddederken, Brüksel Masada Olmakta Israr Ediyor",
@@ -871,6 +882,15 @@
     "tags": []
    },
    {
+    "t": "Senate Republicans Revolt Against Their Own Leaders",
+    "tt": "Senato Cumhuriyetçileri Kendi Liderlerine Karşı Ayaklandı",
+    "s": "Senate Republicans Revolt Against Their Own Leaders A bloc of Senate Republicans led by Sen. Ron Johnson (R-WI) is pushing to postpone Tuesday's GOP leadership elections , arguing that the conference needs time to examine its midterm election losses before it picks the leaders who will guide it in t",
+    "ss": "Senato Cumhuriyetçileri Kendi Liderlerine Karşı Ayaklanıyor Senatör Ron Johnson (R-WI) liderliğindeki Senato Cumhuriyetçilerinden oluşan bir blok, konferansın kendisine rehberlik edecek liderleri seçmeden önce ara seçim kayıplarını incelemek için zamana ihtiyacı olduğunu öne sürerek Salı günkü GOP liderlik seçimlerini ertelemek için baskı yapıyor.",
+    "u": "https://www.zerohedge.com/political/senate-republicans-revolt-against-their-own-leaders",
+    "ts": 1794283200000,
+    "tags": []
+   },
+   {
     "t": "US Expels Lebanese Diplomat Over Social Media Post Supporting Hezbollah",
     "tt": "ABD, Hizbullah'ı Destekleyen Sosyal Medya Paylaşımı Nedeniyle Lübnanlı Diplomatı Sınırdışı Ediyor",
     "s": "US Expels Lebanese Diplomat Over Social Media Post Supporting Hezbollah Via The Cradle The US State Department informed the Lebanese Embassy in Washington that its Detroit consul, Ibrahim Charara, was declared persona non grata and had 48 hours to leave the country, Asharq Al-Awsat reported on Sunda",
@@ -878,27 +898,36 @@
     "u": "https://www.zerohedge.com/geopolitical/us-expels-lebanese-diplomat-over-social-media-post-supporting-hezbollah",
     "ts": 1794282000000,
     "tags": []
-   },
-   {
-    "t": "Israel Is 'Rich Enough' To Buy US Weapons Without Financial Aid, Rubio Says",
-    "tt": "Rubio: İsrail, Mali Yardım Olmadan ABD Silahları Alabilecek Kadar Zengin",
-    "s": "Israel Is 'Rich Enough' To Buy US Weapons Without Financial Aid, Rubio Says The White House is much too late in belateldy 'discovering' this talking point, but admin officials continue to say that it's time for Israel to stand on its own and begin purchasing weapons without relying on US financial a",
-    "ss": "Rubio, İsrail'in Mali Yardım Olmadan ABD Silahları Alabilecek Kadar Zengin Olduğunu Söyledi Rubio, Beyaz Saray'ın bu konuşulan konuyu geç de olsa 'keşfetmekte' çok geç olduğunu ancak yönetici yetkililer İsrail'in kendi ayakları üzerinde durup ABD'nin mali yardımına güvenmeden silah satın almaya başlamasının zamanının geldiğini söylemeye devam ediyor",
-    "u": "https://www.zerohedge.com/geopolitical/israel-rich-enough-enough-buy-us-weapons-without-financial-aid-rubio-says",
-    "ts": 1794280800000,
-    "tags": []
-   },
-   {
-    "t": "Senate Republicans Revolt Against Their Own Leaders",
-    "tt": "Senato Cumhuriyetçileri Kendi Liderlerine Karşı Ayaklandı",
-    "s": "Senate Republicans Revolt Against Their Own Leaders A bloc of Senate Republicans led by Sen. Ron Johnson (R-WI) is pushing to postpone Tuesday's GOP leadership elections , arguing that the conference needs time to examine its midterm election losses before it picks the leaders who will guide it in t",
-    "ss": "Senato Cumhuriyetçileri Kendi Liderlerine Karşı Ayaklanıyor Senatör Ron Johnson (R-WI) liderliğindeki Senato Cumhuriyetçilerinden oluşan bir blok, konferansın kendisine rehberlik edecek liderleri seçmeden önce ara seçim kayıplarını incelemek için zamana ihtiyacı olduğunu öne sürerek Salı günkü GOP liderlik seçimlerini ertelemek için baskı yapıyor.",
-    "u": "https://www.zerohedge.com/political/senate-republicans-revolt-against-their-own-leaders",
-    "ts": 1794279600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Ifo: Alman hükümeti aldığı borçları günlük harcamalarda kullanıyor",
+    "tt": null,
+    "s": "Alman Ekonomik Araştırma Enstitüsü (Ifo), hükümetin, özel fonlar aracılığıyla aldığı yeni borçların yarısından fazlasını taahhüt edildiği şekilde köprü, yol veya iklim projeleri gibi kalıcı yatırımlara aktarmadığını, bunun yerine maaş ve fatura ödemeleri gibi günlük harcamalarda kullandığını ifade e",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ifo-alman-hukumeti-aldigi-borclari-gunluk-harcamalarda-kullaniyor-3794084",
+    "ts": 1794309931000,
+    "tags": []
+   },
+   {
+    "t": "Fransa siber saldırılardan İran'ı sorumlu tuttu",
+    "tt": null,
+    "s": "Fransız hükümeti, ülke genelinde ve Avrupa'nın daha geniş kesiminde binlerce internet bağlantılı endüstriyel soğutma ve dondurma ünitesini, kan bankalarını hedef alan siber saldırılardan İran'ı sorumlu tuttu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fransa-siber-saldirilardan-iran-i-sorumlu-tuttu-3794083",
+    "ts": 1794309770000,
+    "tags": []
+   },
+   {
+    "t": "EPDK Başkanı Yılmaz: Doğalgaz ve elektrikte enerji borsamız büyük tecrübe kazandı",
+    "tt": null,
+    "s": "Enerji Piyasası Düzenleme Kurumu (EPDK) Başkanı Mustafa Yılmaz, COP31'de Bloomberg HT'nin sorularını yanıtladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/epdk-baskani-yilmaz-dogalgaz-ve-elektrikte-enerji-borsamiz-buyuk-tecrube-kazandi-3794080",
+    "ts": 1794306950000,
+    "tags": []
+   },
    {
     "t": "Şimşek: Üretimdeki görünümün güçlenmesini bekliyoruz",
     "tt": null,
@@ -961,38 +990,10 @@
     "u": "https://www.bloomberght.com/arcelik-ceosu-dincer-2027de-surdurulebilirlik-uzerine-farkli-urunlerimiz-olacak-3794058",
     "ts": 1794301914000,
     "tags": []
-   },
-   {
-    "t": "BofA: Fon krizinin Türkiye'de güven üzerindeki etkisi sürüyor",
-    "tt": null,
-    "s": "BofA Securities ekonomistleri, sistemik risk perspektifinden kontrol altına alınmış olsa da fon krizinin güven ve iktisadi faaliyet üzerindeki etkisinin daha görünür hale geldiğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bofa-fon-krizinin-turkiye-de-guven-uzerindeki-etkisi-suruyor-3794056",
-    "ts": 1794301050000,
-    "tags": []
-   },
-   {
-    "t": "Yeşil Mutabakat Eylem Planı güncellendi",
-    "tt": null,
-    "s": "Türkiye ekonomisinin yeşil tedarik zincirlerine entegrasyonunun güçlendirilmesi, Avrupa Birliği (AB) ile Gümrük Birliği kapsamında devam eden ekonomik bütünleşme sürecinin ileriye taşınması amacıyla yürürlüğe konulan \"Yeşil Mutabakat Eylem Planı\", küresel ve bölgesel gelişmeler ile Türkiye'nin yeşil",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yesil-mutabakat-eylem-plani-guncellendi-3794054",
-    "ts": 1794300612000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de benzin fiyatları psikolojik seviyenin altına düştü",
-    "tt": null,
-    "s": "ABD'de benzin fiyatları Temmuz ayından bu yana ilk kez galon başına 4 doların altına düştü. Ancak fiyatlar mevsimsel bazda hâlâ oldukça yüksek seviyelerde seyrediyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-benzin-fiyatlari-psikolojik-seviyenin-altina-dustu-3794052",
-    "ts": 1794300555000,
-    "tags": []
    }
   ]
  },
  "errors": {
-  "fiyat:BIST 100": "401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v8/finance/chart/XU100.IS?r",
   "fred:DFF": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS10": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
