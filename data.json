@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T08:46:26.551996+00:00",
+ "generated": "2026-11-10T09:44:49.186865+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 19.8,
-   "c": -0.6,
-   "d": -0.12,
+   "p": 19.94,
+   "c": 0.1,
+   "d": 0.02,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4125.9,
-   "c": 0.28,
-   "d": 11.4,
+   "p": 4096.6,
+   "c": -0.44,
+   "d": -17.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.84,
-   "c": 0.53,
-   "d": 0.276,
+   "p": 52.58,
+   "c": 0.03,
+   "d": 0.016,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 84.71,
-   "c": -2.46,
-   "d": -2.14,
+   "p": 84.4,
+   "c": -2.82,
+   "d": -2.45,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.36,
-   "c": -2.39,
-   "d": -2.21,
+   "p": 89.79,
+   "c": -3.0,
+   "d": -2.78,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 101.526,
-   "c": -0.12,
-   "d": -0.124,
+   "p": 101.646,
+   "c": -0.0,
+   "d": -0.004,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2322,
-   "c": 0.22,
-   "d": 0.109,
+   "p": 50.2276,
+   "c": 0.21,
+   "d": 0.104,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11776.61,
-   "c": 0.55,
-   "d": 63.91,
+   "p": 11752.49,
+   "c": 0.34,
+   "d": 39.79,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74468,
-   "c": 0.33,
+   "p": 74294,
+   "c": 0.16,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2110.96,
-   "c": 0.03,
+   "p": 2096.58,
+   "c": -0.41,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 85.6,
-   "c": -0.91,
+   "p": 85.28,
+   "c": -1.49,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.086,
-   "c": -0.48,
+   "p": 1.085,
+   "c": -0.5,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 689.04,
-   "c": 1.17,
+   "p": 688.57,
+   "c": 1.2,
    "k": "usd"
   }
  ],
@@ -494,18 +494,24 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Great for Investors, Tough for Traders: Market Analysis",
+    "t": "Gold Extends Drop After Fed’s Waller Backs December Rate Hike",
     "tt": null,
-    "s": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+    "s": "Gold extended a decline after Federal Reserve Governor Christopher Waller said he supports a rate hike in December, and floated the possibility of a half-percentage-point increase.",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/great-for-investors-tough-for-traders-3-minutes-mliv-video",
-    "ts": 1794299762000,
-    "tags": []
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+    "ts": 1794269052000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    },
    {
-    "t": "US Stock Rebound Slows Ahead of Inflation Data: Markets Wrap",
+    "t": "US Stock Rebound Pauses on Waller’s Rate Warning: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Teknoloji Artışı ve Petroldeki Çöküş Üzerine Yükselecek: Piyasalar İyileşiyor",
-    "s": "A powerful rebound in US stocks gave way to more modest gains as investors turned cautious ahead of Tuesday’s inflation data that could cement the case for a December Federal Reserve interest-rate hike.",
+    "s": "A powerful rebound in US stocks ran out of steam after Federal Reserve Governor Christopher Waller backed an interest-rate hike in December just hours before Tuesday’s inflation data.",
     "ss": "Asya borsaları, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüşün ABD gösterge endekslerini son yedi ayın en iyi gününe taşımasıyla Wall Street'i yükselişle takip etmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
     "ts": 1794262613000,
@@ -518,6 +524,80 @@
     ]
    },
    {
+    "t": "Latest Oil Market News and Analysis for Nov. 10",
+    "tt": null,
+    "s": "Brent crude slumped below $90 a barrel for the first time since August, deepening a selloff as traders boosted bets on a resolution to the Middle East war.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+    "ts": 1794265304000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Aluminum Falls on Reports Chinese Inventories Starting to Rise",
+    "tt": null,
+    "s": "Aluminum fell in London, tracking a slump in Shanghai futures, on a report that Chinese inventories have started to expand.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/copper-extends-rebound-as-global-technology-stocks-resume-rally",
+    "ts": 1794279854000,
+    "tags": []
+   },
+   {
+    "t": "Fed’s Waller Backs December Rate Hike, Says Open to Larger Move",
+    "tt": null,
+    "s": "Federal Reserve Governor Christopher Waller on Tuesday said he supports an interest-rate hike in December, and warned that if inflation continues to accelerate he would support a half-percentage-point increase to protect the central bank’s credibility.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
+    "ts": 1794301200000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Kioxia Leveraged Product Debuts in HK After One Year Hiatus",
+    "tt": null,
+    "s": "A leveraged product tracking Kioxia Holdings Corp. debuts in Hong Kong on Tuesday, the first such single-stock instrument in the city since a similar SK Hynix Inc. product helped trigger extreme volatility in the underlying stock and drew market scrutiny.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/kioxia-leveraged-product-debuts-in-hk-after-one-year-hiatus",
+    "ts": 1794275949000,
+    "tags": []
+   },
+   {
+    "t": "Lane Says ECB Shouldn't Deploy Tools to Ease France Woes",
+    "tt": null,
+    "s": "European Central Bank Chief Economist Philip Lane said the ECB shouldn’t adjust the run-off of its bond holdings or deploy its crisis tool to help France with its budget problems. “Where this needs to be fixed is in Paris,” Lane said in an interview with Bloomberg's Francine Lacqua. (Source: Bloombe",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/lane-says-ecb-shouldn-t-deploy-tools-to-ease-france-woes-video",
+    "ts": 1794300320000,
+    "tags": []
+   },
+   {
+    "t": "US Gasoline Prices Drop Below $4 a Gallon After Months of Pain",
+    "tt": null,
+    "s": "US gasoline dropped below $4 a gallon for the first time since July, offering consumers some relief at the pump, although prices remain significantly elevated on a seasonal basis.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/us-gasoline-prices-drop-below-4-a-gallon-after-months-of-pain",
+    "ts": 1794299990000,
+    "tags": []
+   },
+   {
+    "t": "Great for Investors, Tough for Traders: Market Analysis",
+    "tt": null,
+    "s": "Anna Edwards, Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-10/great-for-investors-tough-for-traders-3-minutes-mliv-video",
+    "ts": 1794299762000,
+    "tags": []
+   },
+   {
     "t": "Italy’s Open Fiber Said to Start Planning €8 Billion Refinancing",
     "tt": null,
     "s": "Italy’s Open Fiber SpA is kicking off preliminary work to refinance around €8 billion ($9 billion) of bank debt, in what would rank among Europe’s largest fiber-sector debt deals.",
@@ -525,74 +605,18 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-10/italy-s-open-fiber-said-to-start-planning-8-billion-refinancing",
     "ts": 1794299561000,
     "tags": []
-   },
-   {
-    "t": "AI Rout Has Investors Scouring Emerging Markets for Bargains",
-    "tt": "Yapay Zekadaki Çöküş, Yatırımcıları Pazarlık İçin Gelişmekte Olan Piyasalara Yönlendiriyor",
-    "s": "Stock pickers seeking relief from the AI-fueled turbulence in global equities are zeroing in on opportunities in emerging markets.",
-    "ss": "Küresel hisse senetlerinde yapay zekanın neden olduğu türbülanstan kurtulmak isteyen hisse senedi toplayıcıları, gelişmekte olan piyasalardaki fırsatlara odaklanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/ai-slump-sends-investors-scouring-emerging-markets-for-bargains",
-    "ts": 1794291300000,
-    "tags": []
-   },
-   {
-    "t": "UK’s Top Rolex Retailer Improves Outlook After US Sales Jump",
-    "tt": null,
-    "s": "Watches of Switzerland Group Plc’s sales jumped in the US and UK, prompting the luxury watch retailer to improve its full-year outlook.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/uk-s-top-rolex-retailer-improves-outlook-after-us-sales-jump",
-    "ts": 1794299144000,
-    "tags": []
-   },
-   {
-    "t": "Gold Drops as Traders Look to Inflation Data After Fed Remarks",
-    "tt": null,
-    "s": "Gold fell ahead of US inflation data that’ll yield clues on the likelihood of the Federal Reserve raising interest rates next month.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
-    "ts": 1794269052000,
-    "tags": [
-     "Altın ▼"
-    ]
-   },
-   {
-    "t": "Villa Vie Odyssey Arrested in Singapore as Round-the-World Cruise Dream Falters",
-    "tt": "Villa Vie Odyssey, Dünya Turu Yolculuğu Hayalinin Bocalaması Nedeniyle Singapur'da Tutuklandı",
-    "s": "The Villa Vie Odyssey, a residential cruise ship whose around-the-world voyage was thrown into doubt by soaring fuel costs and funding strains, has been detained in Singapore.",
-    "ss": "Artan yakıt maliyetleri ve finansman sıkıntıları nedeniyle dünya çapındaki yolculuğu şüpheye düşen konut yolcu gemisi Villa Vie Odyssey, Singapur'da tutuklandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/villa-vie-odyssey-arrested-in-singapore-as-round-the-world-cruise-dream-falters",
-    "ts": 1794292271000,
-    "tags": []
-   },
-   {
-    "t": "Falling Oil and Gas Prices Give Gilt Traders Some Relief",
-    "tt": "Düşen Petrol ve Gaz Fiyatları Yaldızlı Yatırımcılara Biraz Rahatlama Sağladı",
-    "s": "Plus, retail sales point to consumer caution",
-    "ss": "Ayrıca perakende satışlar tüketicinin dikkatli olduğuna işaret ediyor",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-10/falling-oil-and-gas-prices-give-gilt-traders-some-relief",
-    "ts": 1794296902000,
-    "tags": []
-   },
-   {
-    "t": "BOE's Bailey Backs UK Trade Opportunities, Including With EU",
-    "tt": "BOE'den Bailey, AB Dahil İngiltere'nin Ticaret Fırsatlarını Destekliyor",
-    "s": "Bank of England Governor Andrew Bailey, speaking at an event in Zurich Monday, encouraged the UK to pursue any opportunity for greater trade and market access. \"If there are opportunities to increase the openness and the markets that we serve, wherever they are, whether it’s the European Union, Swit",
-    "ss": "Pazartesi günü Zürih'te düzenlenen bir etkinlikte konuşan İngiltere Merkez Bankası Başkanı Andrew Bailey, İngiltere'yi daha fazla ticaret ve pazara erişim için her türlü fırsatı takip etmeye teşvik etti. \"Avrupa Birliği olsun, nerede olursa olsun, hizmet verdiğimiz pazarları ve açıklığı artırma fırsatları varsa, Swit",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/bailey-backs-trade-opportunities-including-with-eu-video",
-    "ts": 1794296692000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Turmoil Raises Stakes for the US-China Tech Rivalry",
-    "tt": null,
-    "s": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/insight-with-haslinda-amin-11-9-2026-video",
-    "ts": 1794296353000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+    "tt": null,
+    "s": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+    "ts": 1794301201000,
+    "tags": []
+   },
    {
     "t": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
     "tt": "Nvidia soruşturmasının ardından tahmin piyasalarında Jensen Huang'ın ayrılma ihtimali düşük",
@@ -685,18 +709,24 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "What the Democratic midterms sweep changes for U.S.-China relations",
-    "tt": "Demokratların ara seçimleri ABD-Çin ilişkilerinde ne gibi değişikliklere yol açıyor?",
-    "s": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-    "ss": "Analistler, ABD Başkanı Donald Trump'ın kırılgan bir ticaret ateşkesini sürdürme becerisine ilişkin artan risklere dikkat çekiyor.",
-    "u": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-    "ts": 1793883430000,
-    "tags": []
    }
   ],
   "MarketWatch": [
+   {
+    "t": "Fed’s Waller puts half-point rate hike into the mix for December",
+    "tt": null,
+    "s": "Federal Reserve Gov. Chris Waller on Tuesday put the possibility of a half-point rate hike into the mix, depending how hot the consumer price data for October comes in.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+    "ts": 1794303900000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
    {
     "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
     "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
@@ -777,18 +807,27 @@
     "u": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
     "ts": 1794259440000,
     "tags": []
-   },
-   {
-    "t": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-    "tt": "Başarısız bir kalp ilacı denemesi, benzer tedaviler geliştiren rakiplerine gölge düşürüyor",
-    "s": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
-    "ss": "Yakından izlenen klinik araştırmanın tüm verileri, ilacın Lp(a) düzeylerini düşürmesine rağmen kardiyovasküler fayda sağlamadığını gösterdi.",
-    "u": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-    "ts": 1794259260000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Nordic Power Prices Could Soar This Winter As Hydropower Reserves Plunge",
+    "tt": null,
+    "s": "Nordic Power Prices Could Soar This Winter As Hydropower Reserves Plunge Authored by Tsvetana Paraskova via OilPrice , Low water levels in hydropower reservoirs and soaring natural gas prices are putting upward pressure on power prices in the Nordic countries as winter approaches , Denmark-based ene",
+    "ss": null,
+    "u": "https://www.zerohedge.com/energy/nordic-power-prices-could-soar-winter-hydropower-reserves-plunge",
+    "ts": 1794303600000,
+    "tags": []
+   },
+   {
+    "t": "France Blames Iran For Cyberattack That Paralyzed Supermarket Freezers, Vows Retaliation For \"Sabotage\"",
+    "tt": null,
+    "s": "France Blames Iran For Cyberattack That Paralyzed Supermarket Freezers, Vows Retaliation For \"Sabotage\" France accused Iran's Islamic Revolutionary Guard Corps of masterminding last month's cyberattack , which disrupted 700 of the country's 10,000 supermarkets and struck deep inside the country's fo",
+    "ss": null,
+    "u": "https://www.zerohedge.com/technology/france-blames-iran-cyberattack-paralyzed-supermarkets-vows-retaliation-sabotage",
+    "ts": 1794301200000,
+    "tags": []
+   },
    {
     "t": "Why Are So Many British Charities Lobbying For Open Borders?",
     "tt": null,
@@ -860,27 +899,81 @@
     "u": "https://www.zerohedge.com/medical/consider-discontinuing-fda-slaps-eye-stroke-warning-all-glp-1-weight-loss-drugs",
     "ts": 1794277200000,
     "tags": []
-   },
-   {
-    "t": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout",
-    "tt": "İzleyin: McConnell Ara Dönem Patlamasına Verilen Rahatsız Edici Tepkinin Ardından Yeni Sağlık Korkularını Ateşledi",
-    "s": "Watch: McConnell Sparks New Health Fears After Unsettling Reaction To Midterm Blowout Sen. Mitch McConnell (R-KY) is facing renewed scrutiny over his health after appearing to freeze when a reporter asked him about Republicans' devastating midterm election losses . The 84-year-old Kentucky Republica",
-    "ss": "İzle: McConnell, Ara Dönem Patlamasına Karşı Rahatsız Edici Tepki Sonrası Yeni Sağlık Korkularını Ateşledi Senatör Mitch McConnell (R-KY), bir muhabirin kendisine Cumhuriyetçilerin yıkıcı ara seçim kayıplarını sorduğunda donmuş gibi göründükten sonra sağlığı konusunda yeni bir incelemeyle karşı karşıya kaldı. 84 yaşındaki Kentucky Cumhuriyeti",
-    "u": "https://www.zerohedge.com/political/watch-mcconnell-sparks-new-health-fears-after-unsettling-reaction-midterm-blowout",
-    "ts": 1794276900000,
-    "tags": []
-   },
-   {
-    "t": "Has Faucism Destroyed A Hollywood Film Icon?",
-    "tt": "Faucism bir Hollywood film ikonunu yok mu etti?",
-    "s": "Has Faucism Destroyed A Hollywood Film Icon? Authored by James Lyons-Weiler via Brownstone Institute , Anthony Fauci does not appear in The Dog Stars . He is nevertheless in the theater. Ridley Scott's new science-fiction film opens after a catastrophic flu has erased most of humanity. A pilot, his ",
-    "ss": "Faucism bir Hollywood film ikonunu yok mu etti? Brownstone Enstitüsü aracılığıyla James Lyons-Weiler tarafından yazılan Anthony Fauci, The Dog Stars'ta yer almıyor. He is nevertheless in the theater. Ridley Scott'ın yeni bilim kurgu filmi, felaket niteliğindeki bir gribin insanlığın çoğunu yok etmesinden sonra başlıyor. Bir pilot, onun",
-    "u": "https://www.zerohedge.com/political/has-faucism-destroyed-hollywood-film-icon",
-    "ts": 1794276000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "İzmir'deki HABAŞ faciasında can kaybı 17'ye çıktı",
+    "tt": null,
+    "s": "İzmir'in Aliağa ilçesindeki demir çelik tesisinde meydana gelen paylamada 17 işçi hayatını kaybetti. Yaşamını yitiren işçilerin kimlikleri belli oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/izmir-deki-habas-faciasindacan-kaybi-17-ye-cikti-3794060",
+    "ts": 1794303060000,
+    "tags": []
+   },
+   {
+    "t": "Waller'den Aralık'ta faiz artışına destek",
+    "tt": null,
+    "s": "Fed Üyesi Christopher Waller, Aralık ayında bir faiz artışını desteklediğini belirtti ve enflasyonun hızlanmaya devam etmesi halinde, merkez bankasının güvenilirliğini korumak için yarım puanlık bir artışa destek vereceğini vurguladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/waller-den-aralik-ta-faiz-artisina-destek-3794059",
+    "ts": 1794302072000,
+    "tags": []
+   },
+   {
+    "t": "Arçelik CEO'su Dinçer: 2027'de sürdürülebilirlik üzerine farklı ürünlerimiz olacak",
+    "tt": null,
+    "s": "Arçelik CEO'su Can Dinçer COP 31 iklim zirvesinde Bloomberg HT'ye beyaz eşya pazarının Avrupa'da bir puan, Türkiye'de 2-3 puan daraldığını, önümüzdeki dönemde çok daha iyi rakamlara ulaşılacağına inandığını söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/arcelik-ceosu-dincer-2027de-surdurulebilirlik-uzerine-farkli-urunlerimiz-olacak-3794058",
+    "ts": 1794301914000,
+    "tags": []
+   },
+   {
+    "t": "BofA: Fon krizinin Türkiye'de güven üzerindeki etkisi sürüyor",
+    "tt": null,
+    "s": "BofA Securities ekonomistleri, sistemik risk perspektifinden kontrol altına alınmış olsa da fon krizinin güven ve iktisadi faaliyet üzerindeki etkisinin daha görünür hale geldiğini belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bofa-fon-krizinin-turkiye-de-guven-uzerindeki-etkisi-suruyor-3794056",
+    "ts": 1794301050000,
+    "tags": []
+   },
+   {
+    "t": "Yeşil Mutabakat Eylem Planı güncellendi",
+    "tt": null,
+    "s": "Türkiye ekonomisinin yeşil tedarik zincirlerine entegrasyonunun güçlendirilmesi, Avrupa Birliği (AB) ile Gümrük Birliği kapsamında devam eden ekonomik bütünleşme sürecinin ileriye taşınması amacıyla yürürlüğe konulan \"Yeşil Mutabakat Eylem Planı\", küresel ve bölgesel gelişmeler ile Türkiye'nin yeşil",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yesil-mutabakat-eylem-plani-guncellendi-3794054",
+    "ts": 1794300612000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de benzin fiyatları psikolojik seviyenin altına düştü",
+    "tt": null,
+    "s": "ABD'de benzin fiyatları Temmuz ayından bu yana ilk kez galon başına 4 doların altına düştü. Ancak fiyatlar mevsimsel bazda hâlâ oldukça yüksek seviyelerde seyrediyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-benzin-fiyatlari-psikolojik-seviyenin-altina-dustu-3794052",
+    "ts": 1794300555000,
+    "tags": []
+   },
+   {
+    "t": "Besler'in konsolide cirosu 2026'nın ilk 9 ayında 31 milyar TL'yi aştı",
+    "tt": null,
+    "s": "2026 ilk 9 ayında Besler'in konsolide cirosu 31,1 milyar TL'ye ulaşırken; aynı dönemde brüt kârı yüzde 9,1 artışla 7,4 milyar TL, konsolide dönem net kârı ise 816 milyon TL oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/beslerin-konsolide-cirosu-2026nin-ilk-9-ayinda-31-milyar-tlyi-asti-3794053",
+    "ts": 1794300582000,
+    "tags": []
+   },
+   {
+    "t": "Almanya'da gaz kıtlığı uyarısı",
+    "tt": null,
+    "s": "Almanya Gaz Depolama Girişimi (INES), yaklaşan kış dönemi öncesinde doğalgaz depolama tesislerindeki doluluk oranının yüzde 61'e gerilediğini belirterek aşırı soğuklarda gaz kıtlığı yaşanabileceği uyarısında bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/almanyada-gaz-kitligi-uyarisi-3794051",
+    "ts": 1794300171000,
+    "tags": []
+   },
    {
     "t": "\"LNG kullanımındaki artış gemi filolarını büyüttü\"",
     "tt": null,
@@ -897,78 +990,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/amblane-veriler-degismezse-aralikta-faiz-artisi-ihtiyatli-adim-olur-3794048",
     "ts": 1794298475000,
-    "tags": []
-   },
-   {
-    "t": "Avrupa'daki siber saldırılar İngiltere'de gıda tedarikini tehdit ediyor",
-    "tt": null,
-    "s": "Avrupa'dan İngiltere'ye sıçrayan siber saldırılar gıda tedarik zincirinde endişeleri artırırken, Avrupalı Türk Markalar Birliği (ATMB) Başkanı Vehbi Keleş olası kesintilere karşı hazırlıklı olunması uyarısında bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/avrupadaki-siber-saldirilar-ingilterede-gida-tedarikini-tehdit-ediyor-3794044",
-    "ts": 1794295686000,
-    "tags": []
-   },
-   {
-    "t": "İnşaat maliyetleri 2 yılın zirvesine çıktı",
-    "tt": null,
-    "s": "TÜİK verilerine göre inşaat maliyet endeksi Eylül ayında aylık yüzde 1,81, yıllık yüzde 30,80 arttı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/insaat-maliyetlerinde-artis-devam-etti-3794043",
-    "ts": 1794294568000,
-    "tags": []
-   },
-   {
-    "t": "QNB CEO'su Tan: COP31'in önemi stratejilerin aksiyona geçirilmesi",
-    "tt": null,
-    "s": "QNB CEO'su Ömür Tan, COP31'de Bloomberg HT'ye özel açıklamalarda bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/qnb-ceo-su-tan-cop31-in-onemi-stratejilerin-aksiyona-gecirilmesi-3794036",
-    "ts": 1794293679000,
-    "tags": []
-   },
-   {
-    "t": "Sanayi üretimi Eylül'de ivmelendi",
-    "tt": null,
-    "s": "TÜİK verilerine göre Eylül ayında sanayi üretimi yıllık yüzde 2,6, aylık yüzde 2,1 arttı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/sanayi-uretimi-eylul-de-3794035",
-    "ts": 1794293333000,
-    "tags": []
-   },
-   {
-    "t": "Vergi yüzsüzleri Aralık'ta açıklanacak",
-    "tt": null,
-    "s": "Kesinleşen vergi ve ceza borçları ile vadesi geçtiği halde ödenmemiş borçları 5 milyon lira ve üzeri olan mükelleflerin isimleri Aralık ayında kamuoyuyla paylaşılacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vergi-yuzsuzleri-aralik-ta-aciklanacak-3794032",
-    "ts": 1794292276000,
-    "tags": []
-   },
-   {
-    "t": "Altın, faiz artışı beklentileriyle hafifçe geriledi",
-    "tt": null,
-    "s": "Altın fiyatları, faiz artışı olasılığının baskı yaratmaya devam etmesi üzerine hafif şekilde düştü.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/altin-faiz-artisi-beklentileriyle-hafifce-geriledi-3794029",
-    "ts": 1794290406000,
-    "tags": []
-   },
-   {
-    "t": "Küresel piyasalar ABD enflasyon verilerine odaklandı",
-    "tt": null,
-    "s": "ABD'de açıklanacak enflasyon verileri, Fed'in faiz patikasına ilişkin beklentiler ve ABD tahvili rallisinin devamı açısından kritik olacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-piyasalar-abd-enflasyon-verilerine-odaklandi-3794028",
-    "ts": 1794289487000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia yöneticisi, Alice Huang için ABD yetkilisiyle görüşmüş",
-    "tt": null,
-    "s": "Bloomberg'in haberine göre, Nvidia'nın hukuk müşavirinin, CEO Jensen Huang ile ilişkisi ortaya çıkan Alice Huang'ın Singapur'da gözaltına alınması konusunda ABD hükümeti ile temasa geçtiği ortaya çıktı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/nvidia-yoneticisi-alice-huang-icin-abd-yetkilisiyle-gorusmus-3794027",
-    "ts": 1794289082000,
     "tags": []
    }
   ]
