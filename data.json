@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T08:45:24.847517+00:00",
+ "generated": "2026-11-11T09:46:22.134455+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.75,
-   "c": -3.65,
-   "d": -0.71,
+   "p": 18.8,
+   "c": -3.39,
+   "d": -0.66,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4066.6,
-   "c": 0.9,
-   "d": 36.4,
+   "p": 4057.0,
+   "c": 0.66,
+   "d": 26.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.97,
-   "c": 3.66,
-   "d": 1.869,
+   "p": 52.93,
+   "c": 3.58,
+   "d": 1.829,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.2,
-   "c": 0.19,
-   "d": 0.16,
+   "p": 86.73,
+   "c": 0.8,
+   "d": 0.69,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.88,
-   "c": 0.43,
-   "d": 0.39,
+   "p": 92.71,
+   "c": 1.33,
+   "d": 1.22,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.415,
-   "c": 0.18,
-   "d": 0.185,
+   "p": 102.477,
+   "c": 0.24,
+   "d": 0.247,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.152,
-   "c": -0.13,
-   "d": -0.064,
+   "p": 50.2287,
+   "c": 0.03,
+   "d": 0.013,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11668.6,
-   "c": 0.06,
-   "d": 6.7,
+   "p": 11809.36,
+   "c": 1.26,
+   "d": 147.46,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 73721,
-   "c": -1.02,
+   "p": 73573,
+   "c": -1.12,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2058.43,
-   "c": -2.51,
+   "p": 2049.65,
+   "c": -2.44,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.13,
-   "c": -2.92,
+   "p": 83.17,
+   "c": -2.7,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.059,
-   "c": -2.54,
+   "p": 1.055,
+   "c": -3.03,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 680.31,
-   "c": -1.28,
+   "p": 678.28,
+   "c": -1.6,
    "k": "usd"
   }
  ],
@@ -504,7 +504,52 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "AI Trade Lifts Stocks as CoreWeave Proves Its Case: Markets Wrap",
+    "t": "Turkey Arrests Ex-Takasbank CEO in Widening Fund Crackdown",
+    "tt": null,
+    "s": "Turkey arrested the former chief of Takasbank and other financial executives as police expanded their investigation into the market manipulation scandal, according to state-run Anadolu Agency.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/turkey-arrests-ex-takasbank-ceo-in-widening-fund-crackdown",
+    "ts": 1794390118000,
+    "tags": []
+   },
+   {
+    "t": "China’s Tax Clampdown Brings in $24 Billion from Offshore Trusts",
+    "tt": null,
+    "s": "China’s ultra-wealthy have declared more than 160 billion yuan ($24 billion) in back taxes tied to offshore trusts, bowing to pressure from authorities increasingly eager to expand the tax dragnet far beyond their national borders.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-tax-clampdown-brings-in-24-billion-from-offshore-trusts",
+    "ts": 1794388704000,
+    "tags": []
+   },
+   {
+    "t": "Unilever-McCormick Deal Faces Deeper UK Antitrust Probe",
+    "tt": null,
+    "s": "Unilever Plc and spice maker McCormick &amp; Co.’s $44.8 billion deal faces an in depth investigation unless the firms offer remedies to allay the watchdog’s competition concerns.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/unilever-mccormick-deal-facing-in-depth-review-from-uk-watchdog",
+    "ts": 1794381944000,
+    "tags": []
+   },
+   {
+    "t": "Chinese Lithium Giant Says Price Swings Have Turned Extreme",
+    "tt": null,
+    "s": "Lithium prices are getting harder to predict after a roller-coaster ride, said Ganfeng Lithium Group Co., one of China’s top producers.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/chinese-lithium-giant-says-price-swings-have-turned-more-extreme",
+    "ts": 1794374698000,
+    "tags": []
+   },
+   {
+    "t": "Why Hedge Funds Did So Poorly in October",
+    "tt": null,
+    "s": "A check-in with Bloomberg's Nishant Kumar and Michael Ball.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/why-hedge-funds-did-so-poorly-in-october",
+    "ts": 1794387634000,
+    "tags": []
+   },
+   {
+    "t": "AI Trade Lifts Stocks as CoreWeave Defies Skeptics: Markets Wrap",
     "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
     "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial public offering.",
     "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
@@ -513,76 +558,16 @@
     "tags": []
    },
    {
-    "t": "European Stocks Set for Record as Miners and Tech Rally",
+    "t": "Odd Lots: The Perfect Storm That Clobbered Hedge Funds (Podcast)",
     "tt": null,
-    "s": "European stocks climbed toward a fresh record, as broadly weaker oil prices and renewed enthusiasm for the artificial intelligence trade boosted sentiment.",
+    "s": "Even before the US midterms, the AI trade was weakening. Just look at all the headlines from October in the hedge fund world — it was one of the bloodiest periods the industry has faced in recent memory. Now, after the blue wave, things continue to look uncertain. So what’s going to happen with the ",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
-    "ts": 1794385771000,
+    "u": "https://www.bloomberg.com/news/audio/2026-11-11/odd-lots-the-perfect-storm-that-clobbered-hedge-funds-podcast",
+    "ts": 1794387600000,
     "tags": []
    },
    {
-    "t": "CoreWeave Gives Bulls a Green Light: Market Analysis",
-    "tt": null,
-    "s": "Anna Edwards, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/coreweave-gives-bulls-a-green-light-3-minutes-mliv-video",
-    "ts": 1794385432000,
-    "tags": []
-   },
-   {
-    "t": "Chery Recalls Thousands of Vehicles in South Africa Over Safety",
-    "tt": null,
-    "s": "Chinese auto manufacturer Chery South Africa recalled thousands of vehicles to check for potential faults, and the nation’s consumer watchdog said it’s launched an investigation into the company.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/chery-recalls-thousands-of-vehicles-in-south-africa-over-safety-mwbuqw8g",
-    "ts": 1794385414000,
-    "tags": []
-   },
-   {
-    "t": "CSG Shares Plunge as Defense Firm Cuts Full-Year Margin Outlook",
-    "tt": null,
-    "s": "CSG NV shares plunged to the lowest since their January listing after the European arms maker cut its full-year profitability outlook and reported third-quarter revenue that fell short of estimates.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/csg-cuts-full-year-margin-outlook-as-revenue-misses-estimates",
-    "ts": 1794383859000,
-    "tags": []
-   },
-   {
-    "t": "Allianz CIO Says Markets Are Underestimating Inflation Surge",
-    "tt": null,
-    "s": "Allianz Chief Investment Officer and Chief Economist Ludovic Subran says, \"The second inflation shock is not sized properly, not only by markets, but by policymakers.\" He speaks on Bloomberg Television after US short-term bond yields surged by the most in 19 months on a faster-than-expected rise in ",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/allianz-says-markets-are-underestimating-inflation-surge-video",
-    "ts": 1794384335000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
-    "tt": null,
-    "s": "South Korea’s antitrust regulator imposed a record 1.63 trillion won ($1.2 billion) fine on more than a dozen domestic banks and brokerages for colluding in sovereign bond auctions, exposing a yearslong practice that undermined competition and raised the government’s borrowing costs.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/korea-fines-bond-dealers-record-1-2-billion-over-collusion",
-    "ts": 1794366000000,
-    "tags": []
-   },
-   {
-    "t": "Investor Selby on Why Anthropic's IPO Puzzles Him",
-    "tt": null,
-    "s": "Copper Sky Capital Managing Director Jack Selby questions why Anthropic is rushing into the public markets when, in his words, the company has 'so much cash on their balance sheet, almost as much as Google'. He speaks on \"Insight with Haslinda Amin.\" (Corrects the company name and Jack Selby's job t",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/investor-selby-on-why-anthropic-ipo-puzzles-him-video",
-    "ts": 1794370099000,
-    "tags": []
-   },
-   {
-    "t": "Taylor Wimpey Sees Lower Profit as Mortgage Rates Squeeze Buyers",
+    "t": "Taylor Wimpey Sees Lower Profit as Rates Squeeze Buyers",
     "tt": null,
     "s": "Taylor Wimpey Plc expects its operating profit to be at the lower end of consensus as higher mortgage rates and living costs weigh on UK home buyers.",
     "ss": null,
@@ -591,12 +576,21 @@
     "tags": []
    },
    {
-    "t": "UK Gilts Get Pulled into US Bond Selloff",
+    "t": "India Equity Fund Inflows Cool as Stocks Sink to 18-Month Low",
     "tt": null,
-    "s": "The selloff in US Treasuries spreads to Europe and the UK",
+    "s": "Inflows into Indian equity mutual funds slowed in October as investors grew more cautious toward riskier parts of the stock market, curbing exposure to funds that invest in smaller companies.",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/uk-gilts-get-pulled-into-us-bond-selloff",
-    "ts": 1794382211000,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/india-equity-fund-inflows-cool-as-stocks-sink-to-18-month-low",
+    "ts": 1794387064000,
+    "tags": []
+   },
+   {
+    "t": "Adler Pelzer in Talks With Investment Funds to Close Refinancing",
+    "tt": null,
+    "s": "Adler Pelzer Holding GmbH is in talks with investment funds over alternative sources of funding as it looks to get a refinancing deal over the finishing line.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/adler-pelzer-in-talks-with-investment-funds-to-close-refinancing",
+    "ts": 1794386321000,
     "tags": []
    }
   ],
@@ -700,6 +694,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+    "tt": "Yeni finansman taktik kitabının borç endişelerini hafifletmesiyle CoreWeave'in hisseleri yükselişe geçti",
+    "s": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+    "ss": "Üçüncü çeyrekteki gelir artışı ve planlanan ön ödemelerde 9 milyar dolar, yatırımcıların CoreWeave'in işine olan güvenini tazeledi.",
+    "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+    "ts": 1794388260000,
+    "tags": []
+   },
+   {
     "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
     "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
     "s": "There is already a demographic ‘run’ on Social Security.",
@@ -715,15 +718,6 @@
     "ss": "İnsanlar daha az çocuk sahibi olabilir ama Children's Place'in iflas başvurusunda bulunmasının tek sorumlusu bu değil.",
     "u": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
     "ts": 1794362040000,
-    "tags": []
-   },
-   {
-    "t": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-    "tt": "Yeni finansman taktik kitabının borç endişelerini hafifletmesiyle CoreWeave'in hisseleri yükselişe geçti",
-    "s": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-    "ss": "Üçüncü çeyrekteki gelir artışı ve planlanan ön ödemelerde 9 milyar dolar, yatırımcıların CoreWeave'in işine olan güvenini tazeledi.",
-    "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-    "ts": 1794359520000,
     "tags": []
    },
    {
@@ -791,6 +785,24 @@
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "'Another Invasion': More Illegals Have Landed On Spain's Canary Islands Than All Last Year",
+    "tt": null,
+    "s": "'Another Invasion': More Illegals Have Landed On Spain's Canary Islands Than All Last Year Authored by Remix News Staff via Remix News , The Spanish Canary Islands have already recorded more irregular sea arrivals in 2026 than in all of 2025 , with police reports indicating the archipelago could clo",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/another-invasion-more-illegals-have-landed-spains-canary-islands-all-last-year",
+    "ts": 1794390000000,
+    "tags": []
+   },
+   {
+    "t": "Britain's Grid Operator Just Paid £1.4MM/Hour For Gas Power To Keep Lights On As Wind Slumps",
+    "tt": null,
+    "s": "Britain's Grid Operator Just Paid £1.4MM/Hour For Gas Power To Keep Lights On As Wind Slumps On Monday evening, Britain's grid operator paid the Langage gas power station near Plymouth the equivalent of £1.4 million an hour , according to market transparency data cited by the Telegraph , as low wind",
+    "ss": null,
+    "u": "https://www.zerohedge.com/energy/britains-grid-operator-just-paid-ps14mmhour-gas-power-keep-lights-wind-slumps",
+    "ts": 1794387600000,
+    "tags": []
+   },
    {
     "t": "Hungary Detains Viktor Orban's Brother On Human Trafficking Charges",
     "tt": null,
@@ -862,27 +874,36 @@
     "u": "https://www.zerohedge.com/political/woke-producer-james-gunn-fired-dc-after-multiple-box-office-failures",
     "ts": 1794366000000,
     "tags": []
-   },
-   {
-    "t": "Blackouts Reveal How Fragile Society Really Is",
-    "tt": "Elektrik Kesintileri Toplumun Gerçekte Ne Kadar Kırılgan Olduğunu Ortaya Çıkarıyor",
-    "s": "Blackouts Reveal How Fragile Society Really Is Authored by John Walter via John Walter , \"Long-term blackout\" gets used loosely enough that people end up arguing past each other, and the confusion deepens because a week without power is a bad camping trip for somebody in rural Maine with a generator",
-    "ss": "Elektrik Kesintileri, Toplumun Gerçekte Ne Kadar Kırılgan Olduğunu Ortaya Çıkarıyor John Walter tarafından, John Walter aracılığıyla, \"Uzun vadeli elektrik kesintisi\", insanların birbirleriyle tartışmalarına neden olacak kadar gevşek bir şekilde kullanılıyor ve kafa karışıklığı daha da derinleşiyor çünkü elektriksiz bir hafta, Maine kırsalında jeneratörlü biri için kötü bir kamp gezisi.",
-    "u": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
-    "ts": 1794364800000,
-    "tags": []
-   },
-   {
-    "t": "Meet The Woman Who Helped Derail A $5 Billion Maryland Data Center (And The NGO Sphere Allegedly Behind The Scenes)",
-    "tt": "5 Milyar Dolarlık Maryland Veri Merkezinin Rayından Çıkmasına Yardım Eden Kadınla (Ve İddiaya Göre Perde Arkasındaki STK Alanıyla) Tanışın",
-    "s": "Meet The Woman Who Helped Derail A $5 Billion Maryland Data Center (And The NGO Sphere Allegedly Behind The Scenes) A far-left Maryland activist helped derail a proposed $5 billion data center campus at a 90-acre abandoned mall site in Landover, Prince George's County, just east of Washington, DC. T",
-    "ss": "5 Milyar Dolarlık Maryland Veri Merkezinin (Ve İddiaya Göre Perde Arkasındaki STK Alanının) Raydan Çıkmasına Yardım Eden Kadınla Tanışın Aşırı solcu bir Maryland aktivisti, Washington DC'nin hemen doğusunda, Prince George's County'deki Landover'da 90 dönümlük terk edilmiş bir alışveriş merkezinde önerilen 5 milyar dolarlık veri merkezi kampüsünün raydan çıkmasına yardım etti. T",
-    "u": "https://www.zerohedge.com/ai/meet-woman-who-helped-derail-5-billion-maryland-data-center-and-ngo-sphere-allegedly-behind",
-    "ts": 1794363600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "COP31'de liderlerden aile fotoğrafı",
+    "tt": null,
+    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan ve zirveye katılan liderler COP31 için aile fotoğrafı çektirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cop31-de-liderler-aile-fotograf-3794185",
+    "ts": 1794388719000,
+    "tags": []
+   },
+   {
+    "t": "EBRD'den yeşil enerji dönüşüme bugüne kadar 14 milyar euro",
+    "tt": null,
+    "s": "Avrupa İmar ve Kalkınma Bankası (EBRD) Başkanı Odile Renaud-Basso, Türkiye'ye yaptıkları yatırımların yarısından fazlasına tekabül eden 14 milyar euroyu yeşil enerjiye ayırdıklarını belirterek, \"Her seferinde Türkiye'nin enerji kapasitesinin ve ekonomisinin ne kadar dayanıklı olduğunu gördük. Aynı z",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ebrd-den-yesil-enerji-donusume-bugune-kadar-14-milyar-euro-3794182",
+    "ts": 1794387967000,
+    "tags": []
+   },
+   {
+    "t": "Bloomberg HT \"35'te 35: Geleceğe Güç Vermek\" zirvesinde enerjinin geleceği ele alındı",
+    "tt": null,
+    "s": "Bloomberg HT'nin düzenlediği ve moderasyonunu Bloomberg HT Genel Yayın Yönetmeni Açıl Sezen'in yaptığı \"35'te 35: Geleceğe Güç Vermek\" zirvesine Uluslararası Enerji Ajansı Başkanı Fatih Birol, BBVA CEO'su Onur Genç ve Küresel Rüzgar Enerjisi Konseyi CEO'su Ben Blackwell katıldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bloomberg-ht-35-te-35-gelecege-guc-vermek-zirvesinde-enerjinin-gelecegi-ele-alindi-3794176",
+    "ts": 1794386232000,
+    "tags": []
+   },
    {
     "t": "\"Paradigma değişikliği içindeyiz\"",
     "tt": null,
@@ -944,33 +965,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/35-te-35-gelecege-guc-vermek-zirvesi-canli-yayinla-bloomberg-ht-de-3794167",
     "ts": 1794383187000,
-    "tags": []
-   },
-   {
-    "t": "Toplam ciro artışı Eylül'de ivme kaybetti",
-    "tt": null,
-    "s": "Eylül ayında toplam ciro endeksi yıllık yüzde 28,5 arttı. Ağustos ayında toplam ciro yüzde 31,9 artmıştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/toplam-ciro-artisi-eylul-de-ivme-kaybetti-3794166",
-    "ts": 1794381016000,
-    "tags": []
-   },
-   {
-    "t": "Şimşek Asya Altyapı Yatırım Bankası Başkanı Zou Ciayi ile görüştü",
-    "tt": null,
-    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek ile Asya Altyapı Yatırım Bankası (AIIB) Başkanı Zou Ciayi arasındaki görüşmede, Banka ile Türkiye arasında hazırlıkları süren Çok Yıllı Ülke Programı'nın ayrıntıları ele alındı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/simsek-asya-altyapi-yatirim-bankasi-baskani-zou-ciayi-ile-gorustu-3794160",
-    "ts": 1794380290000,
-    "tags": []
-   },
-   {
-    "t": "EIA petrol fiyatı tahminlerini bir kez daha yükseltti",
-    "tt": null,
-    "s": "ABD Enerji Enformasyon İdaresi (EIA), küresel petrol stoklarındaki düşüş ve Orta Doğu'daki çatışmaların arz ve taşımacılık üzerindeki etkileri nedeniyle petrol fiyatı tahminlerini üst üste dördüncü ayda da yukarı yönlü revize etti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/eia-petrol-fiyati-tahminlerini-bir-kez-daha-yukseltti-3794158",
-    "ts": 1794379438000,
     "tags": []
    }
   ]
