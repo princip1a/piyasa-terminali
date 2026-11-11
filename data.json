@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T10:48:29.827486+00:00",
+ "generated": "2026-11-11T11:44:06.080763+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.55,
-   "c": -4.68,
-   "d": -0.91,
+   "p": 18.57,
+   "c": -4.57,
+   "d": -0.89,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4055.6,
-   "c": 0.63,
-   "d": 25.4,
+   "p": 4060.2,
+   "c": 0.74,
+   "d": 30.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.915,
-   "c": 3.55,
-   "d": 1.814,
+   "p": 52.975,
+   "c": 3.67,
+   "d": 1.874,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.32,
-   "c": 1.49,
-   "d": 1.28,
+   "p": 86.65,
+   "c": 0.71,
+   "d": 0.61,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.55,
-   "c": 2.25,
-   "d": 2.06,
+   "p": 92.75,
+   "c": 1.38,
+   "d": 1.26,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.476,
-   "c": 0.24,
-   "d": 0.246,
+   "p": 102.531,
+   "c": 0.29,
+   "d": 0.301,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2279,
+   "p": 50.2273,
    "c": 0.02,
    "d": 0.012,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11762.51,
-   "c": 0.86,
-   "d": 100.61,
+   "p": 11758.51,
+   "c": 0.83,
+   "d": 96.61,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 73925,
-   "c": -0.24,
+   "p": 74007,
+   "c": -0.29,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2058.16,
-   "c": -1.33,
+   "p": 2056.61,
+   "c": -1.57,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.71,
-   "c": -0.84,
+   "p": 83.86,
+   "c": -0.77,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.063,
-   "c": -1.31,
+   "p": 1.058,
+   "c": -2.01,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 680.78,
-   "c": -0.84,
+   "p": 680.86,
+   "c": -1.01,
    "k": "usd"
   }
  ],
@@ -504,91 +504,27 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "CEO Andersen as Vestas Shares Fall After Third-Quarter Revenue Miss",
-    "tt": "CEO Andersen, Vestas Hisseleri Üçüncü Çeyrek Gelir Kaybının Ardından Düştü",
-    "s": "Vestas CEO Henrik Andersen joins Bloomberg's Anna Edwards and Tom Mackenzie on The Opening Trade as the Danish wind turbine maker reported third quarter earnings. Shares were down after Vestas missed some third-quarter revenue estimates. (Source: Bloomberg)",
-    "ss": "Vestas CEO'su Henrik Andersen, Danimarkalı rüzgar türbini üreticisinin üçüncü çeyrek kazançlarını açıkladığı The Opening Trade programında Bloomberg'den Anna Edwards ve Tom Mackenzie'ye katıldı. Vestas'ın üçüncü çeyrek gelir tahminlerini kaçırmasının ardından hisseler düştü. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/vestas-ceo-andersen-on-third-quarter-revenue-miss-video",
-    "ts": 1794393019000,
+    "t": "Dubai’s DIP Climbs on Debut, Ending UAE’s Listings Drought",
+    "tt": "Dubai'nin DIP İlk Çıkışında Tırmanarak BAE'nin Listeleme Kuraklığına Son Verdi",
+    "s": "Dubai’s DIP Holding Plc shares jumped as much as 7% on debut, after a $529 million initial public offering that marked the United Arab Emirates’ first listing of the year.",
+    "ss": "Dubai'nin DIP Holding Plc hisseleri, Birleşik Arap Emirlikleri'nin yılın ilk listelemesi olan 529 milyon dolarlık ilk halka arzın ardından ilk çıkışta %7'ye kadar yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/dubai-s-dip-rises-as-much-as-6-after-uae-s-first-post-war-ipo",
+    "ts": 1794377308000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 11",
-    "tt": "11 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil climbed after a two-day decline, as traders weighed mixed signals on the prospects for a conclusion to the Iran war.",
-    "ss": "Petrol fiyatları, tüccarların İran savaşının sona ermesine ilişkin karışık sinyallere ağırlık vermesiyle iki günlük düşüşün ardından tırmandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
-    "ts": 1794351664000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "AI Stocks Rally as CoreWeave Earnings Offer Relief: Markets Wrap",
-    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
-    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial public offering.",
-    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794349925000,
-    "tags": []
-   },
-   {
-    "t": "Gold Edges Higher as Traders Assess US Inflation, Fed Remarks",
-    "tt": "Yatırımcıların ABD Enflasyonunu Değerlendirmesiyle Altın Yükseldi, Fed Açıklamaları",
-    "s": "Gold gained, recouping some losses triggered by a high US inflation print and hawkish remarks from Federal Reserve officials that reinforced expectations of a December rate hike.",
-    "ss": "Altın, ABD'deki yüksek enflasyon verilerinin ve Fed yetkililerinin Aralık ayında faiz artırımı beklentilerini güçlendiren şahin açıklamalarının tetiklediği kayıpların bir kısmını telafi ederek değer kazandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
-    "ts": 1794353584000,
-    "tags": [
-     "DXY ▲",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Nvidia’s Bull Case Hinges on Huang Surviving China Spy Probe",
-    "tt": "Nvidia'nın Boğa Davası Huang'ın Çin Casus Soruşturmasından Hayatta Kalmasına Bağlı",
-    "s": "Nvidia Corp.’s investigation of Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy is raising questions about the company’s future and sending its stock into a tailspin.",
-    "ss": "Nvidia Corp.'un İcra Kurulu Başkanı Jensen Huang'ın Çinli casus olduğu iddia edilen bir kişiyle olan ilişkisine ilişkin soruşturması, şirketin geleceği hakkında soru işaretleri uyandırıyor ve hisselerini bir çıkmaza sokuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
-    "ts": 1794344880000,
-    "tags": []
-   },
-   {
-    "t": "CSG Shares Plunge as Arms Firm Cuts Full-Year Margin Outlook",
+    "t": "CSG Plunges to Lowest Since IPO After Arms Firm Cuts Guidance",
     "tt": "Silah Firmasının Tüm Yıl Marj Görünümünü Düşürmesiyle CSG Hisseleri Düştü",
-    "s": "CSG NV shares plunged to the lowest since their January listing after the European arms maker cut its full-year profitability outlook, dealing a fresh blow to investors who bought into the stock on optimism over rapid growth in defense spending.",
+    "s": "CSG NV shares plunged after the European arms maker cut its full-year profitability outlook, dealing a fresh blow to investors who bought into the stock when it listed at the start of the year on optimism about growth in defense spending.",
     "ss": "CSG NV hisseleri, Avrupalı ​​silah üreticisinin tüm yıl kârlılık görünümünü düşürmesinin ve savunma harcamalarındaki hızlı büyümeye ilişkin iyimserlikle hisse senedi satın alan yatırımcılara yeni bir darbe vurmasının ardından Ocak ayındaki listelemesinden bu yana en düşük seviyesine geriledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-11/csg-cuts-full-year-margin-outlook-as-revenue-misses-estimates",
     "ts": 1794383859000,
     "tags": []
    },
    {
-    "t": "Turkey Appliances Giant Sees Edge Over China With New EU Rules",
-    "tt": "Türkiye Ev Aletleri Devi Yeni AB Kurallarıyla Çin'e Karşı Önde Görüyor",
-    "s": "Turkey’s largest white goods maker, Arcelik AS, said it has an advantage over Chinese manufacturers in the European market despite the bloc readying stricter import rules that could affect Turkish companies.",
-    "ss": "Türkiye'nin en büyük beyaz eşya üreticisi Arçelik A.Ş., bloğun Türk şirketlerini etkileyebilecek daha katı ithalat kuralları hazırlamasına rağmen Avrupa pazarında Çinli üreticilere göre avantajlı olduğunu söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/turkey-appliances-giant-sees-edge-over-china-with-new-eu-rules",
-    "ts": 1794391308000,
-    "tags": []
-   },
-   {
-    "t": "China Plans $2 Billion Bond Sale in Hong Kong as Issuance Grows",
-    "tt": "Çin, İhracı Arttıkça Hong Kong'da 2 Milyar Dolarlık Tahvil Satışı Planlıyor",
-    "s": "China is planning to issue dollar-denominated sovereign bonds in Hong Kong, extending a busy stretch of offshore fundraising this year.",
-    "ss": "Çin, Hong Kong'da dolar cinsinden devlet tahvili ihraç etmeyi planlıyor ve bu yıl offshore fon toplama faaliyetlerini yoğun bir şekilde sürdürüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/china-plans-2-billion-bond-sale-in-hong-kong-as-issuance-grows",
-    "ts": 1794390922000,
-    "tags": []
-   },
-   {
-    "t": "US Treasury Futures Fall as Markets See More Fed Hikes",
+    "t": "US Treasury Futures Retreat as Markets See More Fed Hikes",
     "tt": "ABD Hazine Vadeli İşlemleri Piyasalarda Daha Fazla Fed Artışı Görülmesiyle Düştü",
-    "s": "Derivatives trading suggests a retreat in US Treasuries is set to continue as faster-than-expected inflation data cemented the prospects for more aggressive interest-rate hikes from the Federal Reserve.",
+    "s": "Derivatives trading suggests a retreat in US Treasuries is set to continue as faster-than-expected inflation data cement expectations for more aggressive interest-rate hikes from the Federal Reserve.",
     "ss": "Türev ticareti, beklenenden hızlı gelen enflasyon verilerinin Fed'in daha agresif faiz artırımı beklentilerini güçlendirmesi nedeniyle ABD Hazine tahvillerindeki gerilemenin devam edeceğini gösteriyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
     "ts": 1794390765000,
@@ -601,12 +537,66 @@
     ]
    },
    {
-    "t": "Turkey Arrests Ex-Takasbank CEO in Widening Fund Crackdown",
-    "tt": "Türkiye, Genişleyen Fon Baskını Konusunda Eski Takasbank CEO'sunu Tutukladı",
-    "s": "Turkey arrested the former chief of Takasbank and other financial executives as police expanded their investigation into the market manipulation scandal, according to state-run Anadolu Agency.",
-    "ss": "Devlet tarafından işletilen Anadolu Ajansı'na göre, Türkiye, polisin piyasa manipülasyonu skandalına ilişkin soruşturmasını genişletmesi nedeniyle eski Takasbank şefi ve diğer finans yöneticilerini tutukladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/turkey-arrests-ex-takasbank-ceo-in-widening-fund-crackdown",
-    "ts": 1794390118000,
+    "t": "AI Doubts Collide With Anthropic’s Mega IPO",
+    "tt": "Yapay Zeka Şüpheleri Anthropic'in Mega Halka Arzıyla Çakışıyor",
+    "s": "Anthropic is going public as investors worry about the outlook for artificial intelligence.",
+    "ss": "Yatırımcılar yapay zekanın görünümü konusunda endişelenirken Anthropic halka açılıyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-doubts-collide-with-anthropic-s-mega-ipo",
+    "ts": 1794397109000,
+    "tags": []
+   },
+   {
+    "t": "Chery Recalls Thousands of Vehicles in South Africa",
+    "tt": "Chery Güney Afrika'daki Binlerce Aracı Geri Çağırıyor",
+    "s": "Chinese auto manufacturer Chery South Africa recalled thousands of vehicles to check for potential faults, and the nation’s consumer watchdog said it’s launched an investigation into the company.",
+    "ss": "Çinli otomobil üreticisi Chery Güney Afrika, potansiyel arızaları kontrol etmek için binlerce aracı geri çağırdı ve ülkenin tüketici gözlemcisi, şirket hakkında soruşturma başlattığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/chery-recalls-thousands-of-vehicles-in-south-africa-over-safety-mwbuqw8g",
+    "ts": 1794385414000,
+    "tags": []
+   },
+   {
+    "t": "Zimbabwe Seeks Entry Into MSCI Frontier Markets Index for Dollar Stocks",
+    "tt": "Zimbabwe, Dolar Hisse Senetleri İçin MSCI Frontier Markets Endeksi'ne Girmeyi İstiyor",
+    "s": "Zimbabwe wants securities listed on its dollar-only stock exchange to be added to the MSCI Frontier Markets Index as it seeks to draw international investors and boost liquidity.",
+    "ss": "Zimbabwe, uluslararası yatırımcıları çekmeyi ve likiditeyi artırmayı amaçladığı için, yalnızca dolar bazlı borsada listelenen menkul kıymetlerin MSCI Frontier Markets Index'e eklenmesini istiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/zimbabwe-seeks-entry-into-msci-frontier-markets-index-for-dollar-stocks",
+    "ts": 1794396748000,
+    "tags": []
+   },
+   {
+    "t": "AI Stocks Rally as CoreWeave Earnings Offer Relief: Markets Wrap",
+    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
+    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial public offering.",
+    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794349925000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Index Futures Rise as CoreWeave Helps Tech Rebound",
+    "tt": "ABD Hisse Senedi Endeksi Vadeli İşlemleri CoreWeave'in Teknolojinin Yükselişine Yardımcı Olması ile Yükseliyor",
+    "s": "US equity futures extended gains as positive results from neocloud provider CoreWeave Inc. helped offset bets on higher interest rates.",
+    "ss": "ABD hisse senedi vadeli işlemleri, neocloud sağlayıcısı CoreWeave Inc.'in olumlu sonuçlarının yüksek faiz oranlarına ilişkin bahisleri dengelemeye yardımcı olmasıyla kazançlarını artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-stock-index-futures-rise-as-coreweave-helps-tech-rebound",
+    "ts": 1794396531000,
+    "tags": []
+   },
+   {
+    "t": "EDP CEO Sees Opportunities in US Renewable Energy",
+    "tt": "EDP ​​CEO'su ABD Yenilenebilir Enerjisinde Fırsatlar Görüyor",
+    "s": "EDP CEO Miguel Stilwell d'Andrade speaks to Bloomberg's Anna Edwards and Tom Mackenzie on The Opening Trade. The US already accounts for 60% of EDP's planned renewable energy investments through 2028 with Stilwell saying the Portuguese energy company could add further US investment in a new business",
+    "ss": "EDP ​​CEO'su Miguel Stilwell d'Andrade, Açılış Ticareti hakkında Bloomberg'den Anna Edwards ve Tom Mackenzie ile konuşuyor. ABD halihazırda EDP'nin 2028 yılına kadar planlanan yenilenebilir enerji yatırımlarının %60'ını oluşturuyor ve Stilwell, Portekizli enerji şirketinin yeni bir işletmeye daha fazla ABD yatırımı ekleyebileceğini söylüyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/edp-ceo-sees-opportunities-in-us-renewable-energy-video",
+    "ts": 1794395108000,
+    "tags": []
+   },
+   {
+    "t": "CEO Andersen as Vestas Shares Fall After Third-Quarter Revenue Miss",
+    "tt": "CEO Andersen, Vestas Hisseleri Üçüncü Çeyrek Gelir Kaybının Ardından Düştü",
+    "s": "Vestas CEO Henrik Andersen joins Bloomberg's Anna Edwards and Tom Mackenzie on The Opening Trade as the Danish wind turbine maker reported third quarter earnings. Shares were down after Vestas missed some third-quarter revenue estimates. (Source: Bloomberg)",
+    "ss": "Vestas CEO'su Henrik Andersen, Danimarkalı rüzgar türbini üreticisinin üçüncü çeyrek kazançlarını açıkladığı The Opening Trade programında Bloomberg'den Anna Edwards ve Tom Mackenzie'ye katıldı. Vestas'ın üçüncü çeyrek gelir tahminlerini kaçırmasının ardından hisseler düştü. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/vestas-ceo-andersen-on-third-quarter-revenue-miss-video",
+    "ts": 1794393019000,
     "tags": []
    }
   ],
@@ -710,6 +700,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+    "tt": "Yeni finansman taktik kitabının borç endişelerini hafifletmesiyle CoreWeave'in hisseleri yükselişe geçti",
+    "s": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+    "ss": "Üçüncü çeyrekteki gelir artışı ve planlanan ön ödemelerde 9 milyar dolar, yatırımcıların CoreWeave'in işine olan güvenini tazeledi.",
+    "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+    "ts": 1794396420000,
+    "tags": []
+   },
+   {
     "t": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
     "tt": "Goldman Sachs neden Federal Reserve'ün faiz oranı tahminini değiştiriyor?",
     "s": "Following Tuesday’s hot CPI data , Goldman Sachs is now pencilling in additional Fed tightening.",
@@ -740,15 +739,6 @@
     "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
     "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
     "ts": 1794392100000,
-    "tags": []
-   },
-   {
-    "t": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-    "tt": "Yeni finansman taktik kitabının borç endişelerini hafifletmesiyle CoreWeave'in hisseleri yükselişe geçti",
-    "s": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-    "ss": "Üçüncü çeyrekteki gelir artışı ve planlanan ön ödemelerde 9 milyar dolar, yatırımcıların CoreWeave'in işine olan güvenini tazeledi.",
-    "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-    "ts": 1794391500000,
     "tags": []
    },
    {
@@ -807,6 +797,24 @@
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "US Army Soldier Arrested In England Over Russian Spying - And Where He Worked Is The Alarming Part",
+    "tt": "ABD Ordusu Askeri, Rusya'nın Casusluğu Nedeniyle İngiltere'de Tutuklandı - Ve Çalıştığı Yer Endişe Verici Kısım",
+    "s": "US Army Soldier Arrested In England Over Russian Spying - And Where He Worked Is The Alarming Part A 41-year-old US Army soldier was arrested near Gloucester, England, on Tuesday on suspicion of spying for Russia while assigned to NATO's Allied Rapid Reaction Corps , the alliance's British-led rapid",
+    "ss": "ABD Ordusu Askeri, Rusya Casusluğu Nedeniyle İngiltere'de Tutuklandı - Ve İşin Endişe verici Kısmı Çalıştığı Yer 41 yaşındaki ABD Ordusu askeri, Salı günü İngiltere'nin Gloucester kenti yakınlarında, ittifakın İngiliz liderliğindeki hızlı müdahale birimi olan NATO'nun Müttefik Acil Müdahale Kolordusu'nda görevlendirildiği sırada Rusya adına casusluk yaptığı şüphesiyle tutuklandı.",
+    "u": "https://www.zerohedge.com/geopolitical/us-army-soldier-arrested-england-over-russian-spying-and-where-he-worked-alarming-part",
+    "ts": 1794397500000,
+    "tags": []
+   },
+   {
+    "t": "Qatar LNG Loadings Climb To Half Of Pre-War Levels As Energy-Starved Europe Prays For Winter Relief",
+    "tt": "Enerji Açlığı çeken Avrupa Kış Yardımı İçin Dua Ederken, Katar LNG Yüklemeleri Savaş Öncesi Seviyelerin Yarısına Tırmandı",
+    "s": "Qatar LNG Loadings Climb To Half Of Pre-War Levels As Energy-Starved Europe Prays For Winter Relief The story in the Strait of Hormuz has been that Middle Eastern crude exports have recovered to about 80% to 85% of pre-war levels, including pipeline shipments, while refined-product exports remain mu",
+    "ss": "Enerji Açlığı Çeken Avrupa Kış Yardımı İçin Dua Ederken, Katar LNG Yüklemeleri Savaş Öncesi Seviyelerin Yarısına Tırmandı Hürmüz Boğazı'ndaki hikaye, Orta Doğu ham ihracatının, boru hattı sevkiyatları da dahil olmak üzere savaş öncesi seviyelerin yaklaşık %80 ila %85'ine toparlandığı, rafine ürün ihracatının ise aynı seviyede kaldığı yönünde.",
+    "u": "https://www.zerohedge.com/energy/qatar-lng-loadings-climb-half-pre-war-levels-energy-starved-europe-prays-winter-relief",
+    "ts": 1794396300000,
+    "tags": []
+   },
    {
     "t": "EU Approves First Military Mission Presence On Ukrainian Soil: 'Make No Secret Of It'",
     "tt": "AB, Ukrayna Topraklarında İlk Askeri Misyonun Varlığını Onayladı: 'Bunu Sırlamayın'",
@@ -878,27 +886,36 @@
     "u": "https://www.zerohedge.com/political/microsoft-wants-ai-put-words-your-mouth-realtime",
     "ts": 1794369600000,
     "tags": []
-   },
-   {
-    "t": "China To Sell First Yuan Sovereign Bonds In Canada As Beijing Pushes Dollar Alternative",
-    "tt": "Pekin Dolar Alternatifini Zorlarken Çin, Kanada'da İlk Yuan Devlet Tahvili Satacak",
-    "s": "China To Sell First Yuan Sovereign Bonds In Canada As Beijing Pushes Dollar Alternative Authored by Matthew Horwood via The Epoch Times , China plans to issue its first yuan-denominated sovereign bonds in Canada this week , as Chinese Vice Premier He Lifeng visits the country for talks aimed at esta",
-    "ss": "Pekin Dolar Alternatifini Zorlarken Çin Kanada'da İlk Yuan Devlet Tahvili Satacak Matthew Horwood tarafından The Epoch Times aracılığıyla yazılmıştır Çin Başbakan Yardımcısı He Lifeng'in bu hafta Kanada'da yuan cinsinden ilk devlet tahvillerini ihraç etmeyi planlıyor.",
-    "u": "https://www.zerohedge.com/geopolitical/china-sell-first-yuan-sovereign-bonds-canada-beijing-pushes-dollar-alternative",
-    "ts": 1794368400000,
-    "tags": []
-   },
-   {
-    "t": "Alastair Crooke Says Trump Has Until Jan. 3 To Strike Iran As Netanyahu Calls \"Several Times A Day\" Asking For War",
-    "tt": "Alastair Crooke, Netanyahu'nun \"Günde Birkaç Kez\" Savaş İsteğinde Bulunması Halinde Trump'ın İran'a Saldırmak İçin 3 Ocak'a Kadar Zamanı Olduğunu Söyledi",
-    "s": "Alastair Crooke Says Trump Has Until Jan. 3 To Strike Iran As Netanyahu Calls \"Several Times A Day\" Asking For War Former British diplomat Alastair Crooke says President Trump has until Jan. 3 to restart the war with Iran, and that Benjamin Netanyahu is pressing him to do it \"several times a day, ev",
-    "ss": "Alastair Crooke, Trump'ın 3 Ocak'a Kadar İran'a Saldırması Gerektiğini Söylerken, Netanyahu \"Günde Birkaç Kez\" Savaş İstedi Eski İngiliz diplomat Alastair Crooke, Başkan Trump'ın İran'la savaşı yeniden başlatmak için 3 Ocak'a kadar zamanı olduğunu ve Benjamin Netanyahu'nun kendisine bunu \"günde birkaç kez\" yapması için baskı yaptığını söyledi",
-    "u": "https://www.zerohedge.com/geopolitical/alastair-crooke-says-trump-has-until-jan-3-strike-iran-netanyahu-calls-several-times",
-    "ts": 1794367200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "VIG, Demir Sağlık'ı satın aldı",
+    "tt": null,
+    "s": "Vienna Insurance Group (VIG), Demir Sağlık ve Hayat Sigorta A.Ş.'yi (Demir Sağlık) satın alarak Türkiye pazarındaki varlığını güçlendirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/vig-demir-saglik-i-satin-aldi-3794212",
+    "ts": 1794396113000,
+    "tags": []
+   },
+   {
+    "t": "Erdoğan: İklim finansmanı daha ulaşılabilir hale getirilmeli",
+    "tt": null,
+    "s": "Cumhurbaşkanı Erdoğan, Antalya'da \"COP31 Liderler Zirvesi Açılış Programı\"nda yaptığı konuşmada, COP31'in çevreye verdiği zararın en aza indirildiğini söyledi. Erdoğan, insalık tarihinin aşırı tüketim hırsı etkisiyle belki de tarihin en derin varoluş krizini yaşadığına dikkat çekti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/erdogan-cop31-in-cevreye-etkisini-en-aza-indirdik-3794202",
+    "ts": 1794394636000,
+    "tags": []
+   },
+   {
+    "t": "Dünya Varlık Yönetim kupon ödemesinde temerrüde düştü",
+    "tt": null,
+    "s": "Dünya Varlık Yönetim AŞ. 11 Kasım tarihli üçüncü kupon ödemesini gerçekleştiremediğini duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dunya-varlik-yonetim-kupon-odemesinde-temerrude-dustu-3794196",
+    "ts": 1794394260000,
+    "tags": []
+   },
    {
     "t": "\"Elektrifikasyonda dönüm noktasındayız\"",
     "tt": null,
@@ -936,7 +953,7 @@
     "tags": []
    },
    {
-    "t": "EBRD'den yeşil enerji dönüşüme bugüne kadar 14 milyar euro",
+    "t": "EBRD'den yeşil enerji dönüşüme 14 milyar euro",
     "tt": null,
     "s": "Avrupa İmar ve Kalkınma Bankası (EBRD) Başkanı Odile Renaud-Basso, Türkiye'ye yaptıkları yatırımların yarısından fazlasına tekabül eden 14 milyar euroyu yeşil enerjiye ayırdıklarını belirterek, \"Her seferinde Türkiye'nin enerji kapasitesinin ve ekonomisinin ne kadar dayanıklı olduğunu gördük. Aynı z",
     "ss": null,
@@ -960,33 +977,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/paradigma-degisikligi-icindeyiz-3794175",
     "ts": 1794386116000,
-    "tags": []
-   },
-   {
-    "t": "Nagel: Alman ekonomisinin reformlara ihtiyacı var",
-    "tt": null,
-    "s": "Almanya Merkez Bankası (Bundesbank) Başkanı Joachim Nagel, Almanya ekonomisinin beklenenden daha hızlı toparlandığını, ancak hükümetin uzun vadeli büyümeyi güvence altına almak için yapısal reformları sürdürmesi gerektiğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/nagel-alman-ekonomisinin-reformlara-ihtiyaci-var-3794174",
-    "ts": 1794385980000,
-    "tags": []
-   },
-   {
-    "t": "Ziraat Bankası'nın aktif büyüklüğü 10 trilyon TL'yi aştı",
-    "tt": null,
-    "s": "Ziraat Bankası, 2026 yılının üçüncü çeyreğinde aktif büyüklüğünü 10,1 trilyon TL'ye taşıyarak Türk bankacılık sektöründe 10 trilyon TL eşiğini aşan ilk banka oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ziraat-bankasi-nin-aktif-buyuklugu-10-trilyon-tl-yi-asti-3794172",
-    "ts": 1794384827000,
-    "tags": []
-   },
-   {
-    "t": "AB'nin 2027 bütçesinde anlaşma sağlandı",
-    "tt": null,
-    "s": "Avrupa Birliği (AB) Konseyi ile Avrupa Parlamentosu (AP), Birliğin 2027 yılı bütçesi üzerinde uzlaşıya vardı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ab-nin-2027-butcesinde-anlasma-saglandi-3794171",
-    "ts": 1794384194000,
     "tags": []
    }
   ]
