@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T03:29:33.589510+00:00",
+ "generated": "2026-11-11T04:32:31.069656+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 52231.89,
+   "p": 52231.9,
    "c": -0.3,
-   "d": -157.86,
+   "d": -157.85,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4057.0,
-   "c": 0.66,
-   "d": 26.8,
+   "p": 4050.1,
+   "c": 0.49,
+   "d": 19.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.43,
-   "c": 2.6,
-   "d": 1.329,
+   "p": 52.32,
+   "c": 2.39,
+   "d": 1.219,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.49,
-   "c": 0.52,
-   "d": 0.45,
+   "p": 86.71,
+   "c": 0.78,
+   "d": 0.67,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.38,
-   "c": 0.97,
-   "d": 0.89,
+   "p": 92.52,
+   "c": 1.13,
+   "d": 1.03,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.233,
-   "c": 0.0,
-   "d": 0.003,
+   "p": 102.262,
+   "c": 0.03,
+   "d": 0.032,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2281,
+   "p": 50.2271,
    "c": 0.02,
-   "d": 0.012,
+   "d": 0.011,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 73737,
-   "c": -1.13,
+   "p": 73611,
+   "c": -1.46,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2062.58,
-   "c": -2.48,
+   "p": 2063.06,
+   "c": -2.73,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.61,
-   "c": -2.38,
+   "p": 82.95,
+   "c": -3.62,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.062,
-   "c": -2.77,
+   "p": 1.054,
+   "c": -3.82,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 682.8,
-   "c": -0.71,
+   "p": 680.31,
+   "c": -1.33,
    "k": "usd"
   }
  ],
@@ -363,7 +363,7 @@
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.6M",
    "previous": "-0.9M",
    "actual": "",
    "ts": 1794502800000,
@@ -403,7 +403,7 @@
   {
    "title": "Federal Budget Balance",
    "impact": "Low",
-   "forecast": "-286.3B",
+   "forecast": "-298.6B",
    "previous": "-26.9B",
    "actual": "",
    "ts": 1794510000000,
@@ -451,9 +451,19 @@
    "reading": null
   },
   {
-   "title": "Natural Gas Storage",
+   "title": "FOMC Member Logan Speaks",
    "impact": "Low",
    "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794580800000,
+   "tr": "Cum 13.11 17:40",
+   "reading": null
+  },
+  {
+   "title": "Natural Gas Storage",
+   "impact": "Low",
+   "forecast": "65B",
    "previous": "77B",
    "actual": "",
    "ts": 1794583800000,
@@ -494,12 +504,66 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asian Stocks Climb for a Third Day, Bonds Slump: Markets Wrap",
+    "t": "Asian Stocks Rally for a Third Day, Bonds Slump: Markets Wrap",
     "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
-    "s": "Asian stocks rose as optimism around the artificial intelligence trade persisted despite hotter-than-expected US inflation data that bolstered the case for the Federal Reserve to raise interest rates. Regional bonds slumped.",
+    "s": "Asian stocks climbed as optimism around the artificial intelligence trade persisted despite hotter-than-expected US inflation data that bolstered the case for the Federal Reserve to raise interest rates. Regional bonds slumped.",
     "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
     "ts": 1794349925000,
+    "tags": []
+   },
+   {
+    "t": "Singapore Air Plans More Room for Premium Seats",
+    "tt": null,
+    "s": "Singapore Airlines plans to spend more than $1.6 billion renovating its long-haul aircraft, including putting in sofas in first class, as the company bets flyers will continue to splurge on air travel despite high ticket prices. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/singapore-air-plans-more-room-for-premium-seats-video",
+    "ts": 1794371233000,
+    "tags": []
+   },
+   {
+    "t": "Indonesia to Cut 300 More Tightly Held Stocks From Benchmark",
+    "tt": "Endonezya Borsası Yüksek Yoğunlaşma Listesine 300 Hisse Ekledi",
+    "s": "Indonesia’s bourse more than quadrupled the number of stocks found with high shareholder concentration, as it sought to resolve MSCI Inc.’s complaints about illiquidity and opaque ownership.",
+    "ss": "Endonezya borsası, yüksek hissedar yoğunluğu listesine ilave 300 hisse senedini daha sınıflandıracak ve kendi piyasasında şeffaflığı artırmayı amaçladığı için endeks üyelerinin üçte birini kıyaslama hesaplamaları için uygun hale getirmeyecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
+    "ts": 1794362626000,
+    "tags": []
+   },
+   {
+    "t": "SoftBank Shares Drop 11% After Booking $7 Billion Loss",
+    "tt": null,
+    "s": "SoftBank Group Corp. shares dropped as much as 11% after the Japanese tech investor reported its first net loss in almost two years, after a $3.7 billion writedown for its US data-center projects and falling AI valuations.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss",
+    "ts": 1794357053000,
+    "tags": []
+   },
+   {
+    "t": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him",
+    "tt": null,
+    "s": "AZ-VC Founder & Managing Partner Jack Selby questions why Anthropic is rushing into the public markets when, in his words, the company has 'so much cash on their balance sheet, almost as much as Google'. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/az-vc-s-selby-on-why-anthropic-s-ipo-puzzles-him-video",
+    "ts": 1794370099000,
+    "tags": []
+   },
+   {
+    "t": "US Aim Is to De-Risk Not Decouple With China, Bessent Says",
+    "tt": null,
+    "s": "US Treasury Secretary Scott Bessent, speaking in New York at the National Committee on United States-China Relations, said that the aim of the US is to de-risk, not de-couple from China. Bessent added that the US is working to establish a \"direct channel\" that will allow both nations to alert the ot",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/us-aim-is-to-de-risk-with-china-bessent-says-video",
+    "ts": 1794368948000,
+    "tags": []
+   },
+   {
+    "t": "Power Turbine Stocks Dip as SoftBank Loss Fuels Fears",
+    "tt": null,
+    "s": "Shares of power and equipment firms like GE Vernova Inc. and Bloom Energy Corp. fell on Tuesday after SoftBank Group Corp. wrote down $3.7 billion in data center projects.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/power-turbine-stocks-dip-as-softbank-writedown-fuels-demand-fear",
+    "ts": 1794325705000,
     "tags": []
    },
    {
@@ -527,60 +591,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/videos/2026-11-11/us-china-ambassador-on-bumpy-china-ties-video",
     "ts": 1794365929000,
-    "tags": []
-   },
-   {
-    "t": "Indonesia to Cut 300 More Tightly Held Stocks From Benchmark",
-    "tt": "Endonezya Borsası Yüksek Yoğunlaşma Listesine 300 Hisse Ekledi",
-    "s": "Indonesia’s bourse will classify an additional 300 stocks to its high shareholder concentration list, leaving a third of its index members ineligible to stay in its benchmark, as it seeks to boost market transparency.",
-    "ss": "Endonezya borsası, yüksek hissedar yoğunluğu listesine ilave 300 hisse senedini daha sınıflandıracak ve kendi piyasasında şeffaflığı artırmayı amaçladığı için endeks üyelerinin üçte birini kıyaslama hesaplamaları için uygun hale getirmeyecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
-    "ts": 1794362626000,
-    "tags": []
-   },
-   {
-    "t": "India Short-Term Rates May Rise, Weighing on Spending, Investment",
-    "tt": "Hindistan Kısa Vadeli Faizler Artabilir, Harcama ve Yatırım Üzerinde Ağırlık Oluşturabilir",
-    "s": "Already, many consumer firms are absorbing rising costs rather than passing them on to customers, underscoring weak household purchasing power.",
-    "ss": "Zaten pek çok tüketici firması, artan maliyetleri müşterilere yansıtmak yerine karşılıyor; bu da hane halkının satın alma gücünün zayıf olduğunu gösteriyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/india-short-term-rates-may-rise-weighing-on-spending-investment",
-    "ts": 1794364865000,
-    "tags": []
-   },
-   {
-    "t": "China’s Iron Ore Buying Clout Makes Each Deal a Market Event",
-    "tt": "Çin'in Demir Cevheri Alım Nüfuzu Her Anlaşmayı Bir Pazar Olayı Haline Getiriyor",
-    "s": "State-backed iron ore buyer China Mineral Resources Group Co. has had a good year, securing deals with two of its biggest suppliers that establish its dominance of a market worth north of $100 billion.",
-    "ss": "Devlet destekli demir cevheri alıcısı China Mineral Resources Group Co., en büyük iki tedarikçisiyle anlaşmalar yaparak 100 milyar doların kuzeyindeki pazarda hakimiyet kurarak iyi bir yıl geçirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/china-s-iron-ore-buying-clout-makes-each-deal-a-market-event",
-    "ts": 1794344400000,
-    "tags": []
-   },
-   {
-    "t": "China Copper Crunch Puts Industry on Defensive as Costs Soar",
-    "tt": "Çin'deki Bakır Krizi, Maliyetler Yükselirken Endüstriyi Savunmaya Geçiriyor",
-    "s": "China’s copper crunch is squeezing activity and margins at the firms that shape the metal into wires, rods and tubes for use in products from cables to electronics and consumer goods.",
-    "ss": "Çin'deki bakır krizi, metali kablolardan elektronik ve tüketim mallarına kadar birçok üründe kullanılmak üzere tel, çubuk ve tüp haline getiren firmaların faaliyetlerini ve marjlarını daraltıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar",
-    "ts": 1794356647000,
-    "tags": []
-   },
-   {
-    "t": "Hedge Fund Risk Retreat Largest in a Decade, Morgan Stanley Says",
-    "tt": "Morgan Stanley, Hedge Fonu Risk Gerilemesinin Son On Yıldaki En Büyük Gelişmesini Söyledi",
-    "s": "Global equity hedge funds cut risk at the steepest rate in more than a decade through the first week of November as a widespread unwind gathered steam, Morgan Stanley prime brokers wrote in a note dated Tuesday.",
-    "ss": "Morgan Stanley ana brokerları Salı günü bir notta, küresel hisse senedi hedge fonlarının Kasım ayının ilk haftasında, geniş çaplı gevşemenin ivme kazanmasıyla on yıldan uzun bir sürenin en yüksek oranında riski azalttığını yazdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley",
-    "ts": 1794363470000,
-    "tags": []
-   },
-   {
-    "t": "Lula Team Readies Brazil Fiscal Plan in Bid to Calm Market Jitters",
-    "tt": "Lula Ekibi Piyasadaki Gerginlikleri Sakinleştirmek İçin Brezilya Mali Planını Hazırladı",
-    "s": "President Luiz Inácio Lula da Silva’s economic team is preparing to send proposals to Congress by next week aimed at showing investors how his government intends to meet fiscal targets in the coming years, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre, Başkan Luiz Inácio Lula da Silva'nın ekonomi ekibi, yatırımcılara hükümetinin önümüzdeki yıllarda mali hedeflere nasıl ulaşmayı planladığını göstermeyi amaçlayan teklifleri önümüzdeki hafta Kongre'ye göndermeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/lula-team-readies-brazil-fiscal-plan-in-bid-to-calm-market-jitters",
-    "ts": 1794362718000,
     "tags": []
    }
   ],
@@ -776,6 +786,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Schrödinger's Escalation: War Trump, Peace Trump",
+    "tt": null,
+    "s": "Schrödinger's Escalation: War Trump, Peace Trump Authored by former CIA officer Larry Johnson F. Scott Fitzgerald said the test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still function . By that standard, Donald Trump spent Sunday and Monday p",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/schrodingers-escalation-war-trump-peace-trump",
+    "ts": 1794371100000,
+    "tags": []
+   },
+   {
+    "t": "Microsoft Wants AI To Put Words In Your Mouth - In Realtime",
+    "tt": null,
+    "s": "Microsoft Wants AI To Put Words In Your Mouth - In Realtime Microsoft has applied for a patent on an AI system that would rewrite what a speaker says in a live video feed, and redraw their lips to match, with the changes tailored to each viewer's profile. The filing, published Oct. 29, is an applica",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/microsoft-wants-ai-put-words-your-mouth-realtime",
+    "ts": 1794369600000,
+    "tags": []
+   },
+   {
+    "t": "China To Sell First Yuan Sovereign Bonds In Canada As Beijing Pushes Dollar Alternative",
+    "tt": null,
+    "s": "China To Sell First Yuan Sovereign Bonds In Canada As Beijing Pushes Dollar Alternative Authored by Matthew Horwood via The Epoch Times , China plans to issue its first yuan-denominated sovereign bonds in Canada this week , as Chinese Vice Premier He Lifeng visits the country for talks aimed at esta",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/china-sell-first-yuan-sovereign-bonds-canada-beijing-pushes-dollar-alternative",
+    "ts": 1794368400000,
+    "tags": []
+   },
+   {
     "t": "Alastair Crooke Says Trump Has Until Jan. 3 To Strike Iran As Netanyahu Calls \"Several Times A Day\" Asking For War",
     "tt": null,
     "s": "Alastair Crooke Says Trump Has Until Jan. 3 To Strike Iran As Netanyahu Calls \"Several Times A Day\" Asking For War Former British diplomat Alastair Crooke says President Trump has until Jan. 3 to restart the war with Iran, and that Benjamin Netanyahu is pressing him to do it \"several times a day, ev",
@@ -836,33 +873,6 @@
     "ss": "Lacalle: Veri Merkezi Moratoryum Çılgınlığı Pekin'in En Büyük Hediyesidir Yazan: Daniel Lacalle, Ara sınavlardan yalnızca 48 saat sonra Bernie Sanders, Amerika'nın refahı ve güvenliğine önem veren herkesi alarma geçirmesi gereken beş kelime yayınladı. \"Ulusal veri merkezi moratoryumu artık.\"  7 ay önce AO",
     "u": "https://www.zerohedge.com/geopolitical/lacalle-data-center-moratorium-madness-beijings-biggest-gift",
     "ts": 1794358800000,
-    "tags": []
-   },
-   {
-    "t": "Thune Tells Democrats \"Republicans Are Ready To Work With You\" - Then Draws The Line",
-    "tt": "Thune Demokratlara \"Cumhuriyetçiler Sizinle Çalışmaya Hazır\" Dedi - Sonra Çizgiyi Çekti",
-    "s": "Thune Tells Democrats \"Republicans Are Ready To Work With You\" - Then Draws The Line Senate Republicans kept John Thune as their leader on Tuesday, brushing aside a push by seven GOP senators to delay the vote a day after Thune went to the floor and told incoming Democrats that \"Republicans are read",
-    "ss": "Thune Demokratlara \"Cumhuriyetçiler Sizinle Çalışmaya Hazır\" Söyledi - Sonra Çizgiyi Çekti Senato Cumhuriyetçileri Salı günü John Thune'u lider olarak tuttu ve Thune'un kürsüye çıkıp gelen Demokratlara \"Cumhuriyetçiler okundu\" dedikten bir gün sonra yedi GOP senatörünün oylamayı erteleme yönündeki baskısını bir kenara bıraktı.",
-    "u": "https://www.zerohedge.com/political/thune-tells-democrats-republicans-are-ready-work-you-then-draws-line",
-    "ts": 1794357600000,
-    "tags": []
-   },
-   {
-    "t": "Gun Sales Expected To Surge After Democrats Regain Control Of Congress",
-    "tt": "Demokratların Kongre'nin kontrolünü yeniden ele geçirmesinin ardından silah satışlarının artması bekleniyor",
-    "s": "Gun Sales Expected To Surge After Democrats Regain Control Of Congress Authored by Bryan Hyde via American Greatness , Gun rights groups and retailers are projecting a surge in firearm sales after Democrats won control of both chambers of the U.S. House of Representatives and the Senate in last week",
-    "ss": "Demokratların Kongrenin Kontrolünü Geri Almasının Ardından Silah Satışlarının Artması Bekleniyor Yazar Bryan Hyde via American Greatness Silah hakları grupları ve perakendeciler, Demokratların geçen hafta ABD Temsilciler Meclisi ve Senato'nun her iki kanadının kontrolünü de ele geçirmesinin ardından ateşli silah satışlarında bir artış öngörüyorlar",
-    "u": "https://www.zerohedge.com/political/gun-sales-expected-surge-after-democrats-regain-control-congress",
-    "ts": 1794356400000,
-    "tags": []
-   },
-   {
-    "t": "Rand Paul Slams Texas Governor-Elect's 'Venezuelan Socialist' Plan To Freeze Electricity Rates",
-    "tt": "Rand Paul, Gelecek Dönem Teksas Valisinin Elektrik Oranlarını Dondurmaya Yönelik 'Venezuela Sosyalist' Planını Kınadı",
-    "s": "Rand Paul Slams Texas Governor-Elect's 'Venezuelan Socialist' Plan To Freeze Electricity Rates Sen. Rand Paul (R-KY) took aim at Texas Gov.-elect Gina Hinojosa on Tuesday over her pledge to freeze electricity rates on her first day in office , calling it a move \"out of the Venezuelan socialist playb",
-    "ss": "Rand Paul, Teksas Valisi Seçilmiş'in Elektrik Oranlarını Dondurmak İçin 'Venezuela Sosyalist' Planını Kınadı Senatör Rand Paul (R-KY), Salı günü Teksas Valisi seçilmiş Gina Hinojosa'nın görevdeki ilk gününde elektrik oranlarını dondurma vaadi üzerine hedef aldı ve bunu \"Venezüella sosyalist oyunundan çıkış\" olarak nitelendirdi",
-    "u": "https://www.zerohedge.com/political/rand-paul-slams-texas-governor-elects-venezuelan-socialist-plan-freeze-electricity-rates",
-    "ts": 1794355200000,
     "tags": []
    }
   ],
