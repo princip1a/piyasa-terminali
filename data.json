@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T01:43:21.684070+00:00",
+ "generated": "2026-11-11T02:38:07.931741+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 4050.8,
-   "c": -1.55,
-   "d": -63.7,
+   "p": 4049.9,
+   "c": -1.57,
+   "d": -64.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.16,
-   "c": -0.77,
-   "d": -0.404,
+   "p": 52.19,
+   "c": -0.71,
+   "d": -0.374,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.2,
-   "c": -0.75,
-   "d": -0.65,
+   "p": 86.5,
+   "c": -0.4,
+   "d": -0.35,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.87,
-   "c": -0.76,
-   "d": -0.7,
+   "p": 92.28,
+   "c": -0.31,
+   "d": -0.29,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.255,
-   "c": 0.02,
-   "d": 0.025,
+   "p": 102.239,
+   "c": 0.01,
+   "d": 0.009,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 73922,
-   "c": -1.35,
+   "p": 73355,
+   "c": -1.88,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2065.08,
-   "c": -2.7,
+   "p": 2053.26,
+   "c": -3.0,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.9,
-   "c": -2.81,
+   "p": 83.16,
+   "c": -3.12,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.061,
-   "c": -3.4,
+   "p": 1.053,
+   "c": -3.42,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 683.69,
-   "c": -0.79,
+   "p": 679.1,
+   "c": -1.29,
    "k": "usd"
   }
  ],
@@ -494,6 +494,69 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "India Short-Term Rates May Rise, Weighing on Spending, Investment",
+    "tt": "Hindistan Kısa Vadeli Faizler Artabilir, Harcama ve Yatırım Üzerinde Ağırlık Oluşturabilir",
+    "s": "Already, many consumer firms are absorbing rising costs rather than passing them on to customers, underscoring weak household purchasing power.",
+    "ss": "Zaten pek çok tüketici firması, artan maliyetleri müşterilere yansıtmak yerine karşılıyor; bu da hane halkının satın alma gücünün zayıf olduğunu gösteriyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/india-short-term-rates-may-rise-weighing-on-spending-investment",
+    "ts": 1794364865000,
+    "tags": []
+   },
+   {
+    "t": "China’s Iron Ore Buying Clout Makes Each Deal a Market Event",
+    "tt": "Çin'in Demir Cevheri Alım Nüfuzu Her Anlaşmayı Bir Pazar Olayı Haline Getiriyor",
+    "s": "State-backed iron ore buyer China Mineral Resources Group Co. has had a good year, securing deals with two of its biggest suppliers that establish its dominance of a market worth north of $100 billion.",
+    "ss": "Devlet destekli demir cevheri alıcısı China Mineral Resources Group Co., en büyük iki tedarikçisiyle anlaşmalar yaparak 100 milyar doların kuzeyindeki pazarda hakimiyet kurarak iyi bir yıl geçirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/china-s-iron-ore-buying-clout-makes-each-deal-a-market-event",
+    "ts": 1794344400000,
+    "tags": []
+   },
+   {
+    "t": "China Copper Crunch Puts Industry on Defensive as Costs Soar",
+    "tt": "Çin'deki Bakır Krizi, Maliyetler Yükselirken Endüstriyi Savunmaya Geçiriyor",
+    "s": "China’s copper crunch is squeezing activity and margins at the firms that shape the metal into wires, rods and tubes for use in products from cables to electronics and consumer goods.",
+    "ss": "Çin'deki bakır krizi, metali kablolardan elektronik ve tüketim mallarına kadar birçok üründe kullanılmak üzere tel, çubuk ve tüp haline getiren firmaların faaliyetlerini ve marjlarını daraltıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar",
+    "ts": 1794356647000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Rise on AI Enthusiasm, Bonds Slide: Markets Wrap",
+    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
+    "s": "Asian stocks rose as better-than-expected earnings from CoreWeave Inc. helped sustain interest in the artificial intelligence trade, offsetting a Wall Street selloff fueled by hotter-than-expected US inflation data.",
+    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794349925000,
+    "tags": []
+   },
+   {
+    "t": "Hedge Fund Risk Retreat Largest in a Decade, Morgan Stanley Says",
+    "tt": "Morgan Stanley, Hedge Fonu Risk Gerilemesinin Son On Yıldaki En Büyük Gelişmesini Söyledi",
+    "s": "Global equity hedge funds cut risk at the steepest rate in more than a decade through the first week of November as a widespread unwind gathered steam, Morgan Stanley prime brokers wrote in a note dated Tuesday.",
+    "ss": "Morgan Stanley ana brokerları Salı günü bir notta, küresel hisse senedi hedge fonlarının Kasım ayının ilk haftasında, geniş çaplı gevşemenin ivme kazanmasıyla on yıldan uzun bir sürenin en yüksek oranında riski azalttığını yazdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/hedge-fund-risk-retreat-largest-in-a-decade-says-morgan-stanley",
+    "ts": 1794363470000,
+    "tags": []
+   },
+   {
+    "t": "Lula Team Readies Brazil Fiscal Plan in Bid to Calm Market Jitters",
+    "tt": "Lula Ekibi Piyasadaki Gerginlikleri Sakinleştirmek İçin Brezilya Mali Planını Hazırladı",
+    "s": "President Luiz Inácio Lula da Silva’s economic team is preparing to send proposals to Congress by next week aimed at showing investors how his government intends to meet fiscal targets in the coming years, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, Başkan Luiz Inácio Lula da Silva'nın ekonomi ekibi, yatırımcılara hükümetinin önümüzdeki yıllarda mali hedeflere nasıl ulaşmayı planladığını göstermeyi amaçlayan teklifleri önümüzdeki hafta Kongre'ye göndermeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/lula-team-readies-brazil-fiscal-plan-in-bid-to-calm-market-jitters",
+    "ts": 1794362718000,
+    "tags": []
+   },
+   {
+    "t": "Indonesia Bourse Adds 300 Stocks to High Concentration List",
+    "tt": "Endonezya Borsası Yüksek Yoğunlaşma Listesine 300 Hisse Ekledi",
+    "s": "Indonesia’s bourse will classify an additional 300 stocks to its high shareholder concentration list, making a third of index members ineligible for benchmark calculations as it seeks to boost transparency in its market.",
+    "ss": "Endonezya borsası, yüksek hissedar yoğunluğu listesine ilave 300 hisse senedini daha sınıflandıracak ve kendi piyasasında şeffaflığı artırmayı amaçladığı için endeks üyelerinin üçte birini kıyaslama hesaplamaları için uygun hale getirmeyecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/indonesia-bourse-adds-300-stocks-to-high-concentration-list",
+    "ts": 1794362626000,
+    "tags": []
+   },
+   {
     "t": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
     "tt": "Altın, ABD'deki Sıcak Enflasyon Nedeniyle 4.000 Dolara Yakın Kayıplarını Korudu, Fed Açıklamaları",
     "s": "Gold maintained losses after a high US inflation print and hawkish remarks from Federal Reserve officials reinforced bets for an interest rate hike in December.",
@@ -524,81 +587,12 @@
     ]
    },
    {
-    "t": "Asian Stocks Rise on AI Enthusiasm, Bonds Decline: Markets Wrap",
-    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
-    "s": "Asian stocks climbed after better-than-expected earnings from CoreWeave Inc. revived interest in the artificial intelligence trade, helping offset a Wall Street selloff fueled by hotter-than-expected US inflation.",
-    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794349925000,
-    "tags": []
-   },
-   {
     "t": "SoftBank Group Shares Drop 11% After Booking $7 Billion Loss",
     "tt": "SoftBank Grubu Hisseleri 7 Milyar Dolarlık Zarar Kaybettikten Sonra %11 Düştü",
     "s": "SoftBank Group Corp. shares dropped as much as 11% after the Japanese tech investor reported its first net loss in almost two years, after a $3.7 billion writedown for its US data-center projects and falling AI valuations.",
     "ss": "SoftBank Group Corp. hisseleri, Japon teknoloji yatırımcısının ABD veri merkezi projeleri için 3,7 milyar dolarlık zarar ve düşen yapay zeka değerlemelerinin ardından neredeyse iki yıl içinde ilk net zararını bildirmesinin ardından %11'e kadar düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-11/softbank-group-shares-drop-10-after-booking-7-billion-loss",
     "ts": 1794357053000,
-    "tags": []
-   },
-   {
-    "t": "Australia’s Home Loans Fall by Record After Rapid RBA Rate Hikes",
-    "tt": "Avustralya'nın Konut Kredileri Hızlı RBA Faiz Artışlarının Ardından Rekor Düştü",
-    "s": "Australian home loans posted a record drop in the third quarter, underscoring the erosion of borrowing demand in response to the Reserve Bank’s aggressive interest-rate increases to control inflation.",
-    "ss": "Avustralya konut kredileri üçüncü çeyrekte rekor bir düşüş kaydetti; bu durum Merkez Bankası'nın enflasyonu kontrol altına almak için yaptığı agresif faiz oranı artışlarına tepki olarak borçlanma talebindeki erozyonun altını çizdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/australia-s-home-loans-fall-by-record-after-rapid-rba-rate-hikes",
-    "ts": 1794358182000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "CD&R’s Cornerstone to Go Ahead With Monarch Deal to Raise Money",
-    "tt": "CD&R'ın Para Toplama Amaçlı Monarch Anlaşmasına Devam Edecek Temel Taşı",
-    "s": "Cornerstone Building Brands Inc. is set to move forward on a deal it reached with Monarch Alternative Capital to raise additional liquidity after months of negotiations with existing lenders, according to people familiar with the matter.",
-    "ss": "Konuya yakın kaynaklara göre Cornerstone Building Brands Inc., mevcut kredi verenlerle aylarca süren görüşmelerin ardından ek likidite sağlamak amacıyla Monarch Alternative Capital ile vardığı anlaşmayı ilerletmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/cd-r-s-cornerstone-to-go-ahead-with-monarch-deal-to-raise-money",
-    "ts": 1794357097000,
-    "tags": []
-   },
-   {
-    "t": "China’s Copper Crunch Puts Industry on Defensive as Costs Soar",
-    "tt": "Çin'deki Bakır Krizi, Maliyetler Yükselirken Endüstriyi Savunmaya Geçiriyor",
-    "s": "China’s copper crunch is squeezing activity and margins at the firms that shape the metal into wires, rods and tubes for use in products from cables to electronics and consumer goods.",
-    "ss": "Çin'deki bakır krizi, metali kablolardan elektronik ve tüketim mallarına kadar birçok üründe kullanılmak üzere tel, çubuk ve tüp haline getiren firmaların faaliyetlerini ve marjlarını daraltıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/china-s-copper-crunch-puts-industry-on-defensive-as-costs-soar",
-    "ts": 1794356647000,
-    "tags": []
-   },
-   {
-    "t": "Breaking Down Anthropic's $1.4 Trillion IPO Valuation",
-    "tt": "Anthropic'in 1,4 Trilyon Dolarlık Halka Arz Değerlemesi",
-    "s": "Anthropic is preparing to price its initial public offering on November 18, targeting a fully diluted valuation of about $1.4 trillion and raising up to $90.4 billion to fund computing capacity for frontier AI models. Bloomberg’s Michael Shepard discusses the deal structure and whether the artificia",
-    "ss": "Anthropic, 18 Kasım'da ilk halka arzını fiyatlandırmaya hazırlanıyor ve yaklaşık 1,4 trilyon dolarlık tamamen seyreltilmiş bir değerlemeyi hedefleyerek, öncü yapay zeka modelleri için hesaplama kapasitesini finanse etmek üzere 90,4 milyar dolara kadar artırmayı hedefliyor. Bloomberg'den Michael Shepard anlaşma yapısını ve yapaylığın olup olmadığını tartışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/breaking-down-anthropic-s-1-4-trillion-ipo-valuation-video",
-    "ts": 1794355214000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Turmoil Raises Stakes for the US-China Tech Rivalry",
-    "tt": "Nvidia Turmoil, ABD-Çin Teknoloji Rekabetinde Çıtayı Artırıyor",
-    "s": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-    "ss": "\"Haslinda Amin ile İçgörü\", izleyicilere önemli hikayelerin tam resmini vermek için derinlemesine, yüksek profilli röportajlar ve analizler içeren günlük bir haber programıdır. Gösteride iş, finans, siyaset ve kültür dünyalarından önde gelen liderler yer alıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-10/insight-with-haslinda-amin-11-9-2026-video",
-    "ts": 1794296353000,
-    "tags": []
-   },
-   {
-    "t": "Equity Dispersion Trade Risks a Blowup, Hedge Fund CEO Warns",
-    "tt": "Hedge Fund CEO'su Hisse Dağılımı Ticaretinde Patlama Riski Olduğu Uyardı",
-    "s": "Investors enjoying a golden era for the equity dispersion trade should be braced for pain if the market shifts suddenly, according to a hedge fund manager.",
-    "ss": "Bir hedge fonu yöneticisine göre, hisse senedi dağıtım ticaretinde altın çağın tadını çıkaran yatırımcılar, piyasanın aniden değişmesi durumunda yaşanacak acıya hazırlıklı olmalı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/equity-dispersion-trade-risks-a-blowup-hedge-fund-ceo-warns",
-    "ts": 1794354761000,
     "tags": []
    }
   ],
@@ -702,12 +696,21 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
+    "s": "There is already a demographic ‘run’ on Social Security.",
+    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
+    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "ts": 1794363300000,
+    "tags": []
+   },
+   {
     "t": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
     "tt": "Children's Place'in iflas etmesinin bir nedeni mi? Yeterli çocuk yok.",
-    "s": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
+    "s": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
     "ss": "İnsanlar daha az çocuk sahibi olabilir ama Children's Place'in iflas başvurusunda bulunmasının tek sorumlusu bu değil.",
     "u": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-    "ts": 1794359640000,
+    "ts": 1794362040000,
     "tags": []
    },
    {
@@ -735,15 +738,6 @@
     "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
     "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
     "ts": 1794355200000,
-    "tags": []
-   },
-   {
-    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
-    "s": "There is already a demographic ‘run’ on Social Security.",
-    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
-    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "ts": 1794353400000,
     "tags": []
    },
    {
@@ -793,6 +787,33 @@
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Blackouts Reveal How Fragile Society Really Is",
+    "tt": "Elektrik Kesintileri Toplumun Gerçekte Ne Kadar Kırılgan Olduğunu Ortaya Çıkarıyor",
+    "s": "Blackouts Reveal How Fragile Society Really Is Authored by John Walter via John Walter , \"Long-term blackout\" gets used loosely enough that people end up arguing past each other, and the confusion deepens because a week without power is a bad camping trip for somebody in rural Maine with a generator",
+    "ss": "Elektrik Kesintileri, Toplumun Gerçekte Ne Kadar Kırılgan Olduğunu Ortaya Çıkarıyor John Walter tarafından, John Walter aracılığıyla, \"Uzun vadeli elektrik kesintisi\", insanların birbirleriyle tartışmalarına neden olacak kadar gevşek bir şekilde kullanılıyor ve kafa karışıklığı daha da derinleşiyor çünkü elektriksiz bir hafta, Maine kırsalında jeneratörlü biri için kötü bir kamp gezisi.",
+    "u": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
+    "ts": 1794364800000,
+    "tags": []
+   },
+   {
+    "t": "Meet The Woman Who Helped Derail A $5 Billion Maryland Data Center (And The NGO Sphere Allegedly Behind The Scenes)",
+    "tt": "5 Milyar Dolarlık Maryland Veri Merkezinin Rayından Çıkmasına Yardım Eden Kadınla (Ve İddiaya Göre Perde Arkasındaki STK Alanıyla) Tanışın",
+    "s": "Meet The Woman Who Helped Derail A $5 Billion Maryland Data Center (And The NGO Sphere Allegedly Behind The Scenes) A far-left Maryland activist helped derail a proposed $5 billion data center campus at a 90-acre abandoned mall site in Landover, Prince George's County, just east of Washington, DC. T",
+    "ss": "5 Milyar Dolarlık Maryland Veri Merkezinin (Ve İddiaya Göre Perde Arkasındaki STK Alanının) Raydan Çıkmasına Yardım Eden Kadınla Tanışın Aşırı solcu bir Maryland aktivisti, Washington DC'nin hemen doğusunda, Prince George's County'deki Landover'da 90 dönümlük terk edilmiş bir alışveriş merkezinde önerilen 5 milyar dolarlık veri merkezi kampüsünün raydan çıkmasına yardım etti. T",
+    "u": "https://www.zerohedge.com/ai/meet-woman-who-helped-derail-5-billion-maryland-data-center-and-ngo-sphere-allegedly-behind",
+    "ts": 1794363600000,
+    "tags": []
+   },
+   {
+    "t": "GCC To Set Up Kuwait Command Center Amid Doubts Over US Security Commitment",
+    "tt": "Körfez İşbirliği Konseyi, ABD'nin Güvenlik Taahhüdüne İlişkin Şüphelerin Ortasında Kuveyt Komuta Merkezi Kuracak",
+    "s": "GCC To Set Up Kuwait Command Center Amid Doubts Over US Security Commitment Via Middle East Eye The Gulf Cooperation Council (GCC) has approved a new joint forward-command center to deepen military integration among members, as doubts rise about the US's commitment to regional security amid the war ",
+    "ss": "Körfez İşbirliği Konseyi (GCC), ABD'nin Middle East Eye Aracılığıyla Güvenlik Taahhüdüne İlişkin Şüpheler Ortasında Kuveyt Komuta Merkezi Kuracak Körfez İşbirliği Konseyi (GCC), ABD'nin savaş ortasında bölgesel güvenliğe yönelik taahhüdüne ilişkin şüpheler artarken, üyeler arasındaki askeri entegrasyonu derinleştirmek için yeni bir ortak ileri komuta merkezini onayladı",
+    "u": "https://www.zerohedge.com/geopolitical/gcc-set-kuwait-command-center-amid-doubts-over-us-security-commitment",
+    "ts": 1794362400000,
+    "tags": []
+   },
    {
     "t": "IRGC Unveils New Missile City, Touts Underground Production Amid War",
     "tt": "Devrim Muhafızları Yeni Füze Şehrini Açıkladı, Savaşın Ortasında Yeraltı Üretimini Duyurdu",
@@ -860,72 +881,9 @@
      "Altın ▲",
      "BTC ▲"
     ]
-   },
-   {
-    "t": "GPUs, Capri Sunsets, And A Detained Husband: Who Is Alice Huang?",
-    "tt": "GPU'lar, Capri Gün Batımları ve Gözaltına Alınan Bir Koca: Alice Huang Kimdir?",
-    "s": "GPUs, Capri Sunsets, And A Detained Husband: Who Is Alice Huang? From Chinese state TV to an Nvidia cloud partner in Singapore, the woman U.S. officials reportedly tie to Chinese intelligence built years of access to Jensen Huang, then toured Europe while her husband sat in Shanghai police detention",
-    "ss": "GPU'lar, Capri Gün Batımları ve Gözaltına Alınan Bir Koca: Alice Huang Kimdir? Çin devlet televizyonundan Singapur'daki Nvidia bulut ortağına kadar, ABD'li yetkililerin Çin istihbaratına bağlı olduğu söylenen bu kadın, Jensen Huang'a yıllar boyu erişim sağladı ve ardından kocası Şanghay'da polis gözetimindeyken Avrupa'yı gezdi",
-    "u": "https://www.zerohedge.com/political/gpus-capri-sunsets-and-detained-husband-who-alice-huang",
-    "ts": 1794351600000,
-    "tags": []
-   },
-   {
-    "t": "Back To Basics: Toyota Bets On Indiana-Built Micro Trucks As Consumers Demand Cheap Vehicles",
-    "tt": "Temellere Dönüş: Tüketiciler Ucuz Araç Talep Ettikçe Toyota, Indiana Yapımı Mikro Kamyonlara Bahis Yapıyor",
-    "s": "Back To Basics: Toyota Bets On Indiana-Built Micro Trucks As Consumers Demand Cheap Vehicles Japanese mini trucks have been a hit with US consumers because they offer an inexpensive, compact truck without all the bells and whistles that is also relatively cheap to service. Toyota Motor has recognize",
-    "ss": "Temellere Dönüş: Toyota, Tüketicilerin Ucuz Araç Talep Etmesiyle Indiana Yapımı Mikro Kamyonlara Bahis Yapıyor Japon mini kamyonları ABD'li tüketiciler tarafından çok beğenildi çünkü tüm özelliklerin bulunmadığı, aynı zamanda bakımı da nispeten ucuz olan ucuz, kompakt bir kamyon sunuyorlar. Toyota Motor tanıdı",
-    "u": "https://www.zerohedge.com/personal-finance/back-basics-toyota-bets-indiana-built-micro-trucks-consumers-cheap-vehicles",
-    "ts": 1794350400000,
-    "tags": []
-   },
-   {
-    "t": "Bill Gates: A Huge Catastrophe May Be Needed...",
-    "tt": "Bill Gates: Büyük Bir Felaket Gerekli Olabilir...",
-    "s": "Bill Gates: A Huge Catastrophe May Be Needed... Authored by Steve Watson via Modernity , Bill Gates is once again floating the idea that real damage may be required before the world accepts the kind of AI controls he wants. In a new CBS interview, the Microsoft co-founder said a major cyberattack co",
-    "ss": "Bill Gates: Büyük Bir Felaket Gerekli Olabilir... Steve Watson tarafından Modernity aracılığıyla yazılan Bill Gates, dünyanın istediği türden yapay zeka kontrollerini kabul etmesinden önce gerçek hasarın gerekli olabileceği fikrini bir kez daha ortaya koyuyor. Yeni bir CBS röportajında, Microsoft kurucu ortağı büyük bir siber saldırının ortak olduğunu söyledi",
-    "u": "https://www.zerohedge.com/geopolitical/bill-gates-huge-catastrophe-may-be-needed",
-    "ts": 1794350400000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
-   {
-    "t": "Resmi Gazete'de bugün (11.11.2026)",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-11112026-3794142",
-    "ts": 1794345154000,
-    "tags": []
-   },
-   {
-    "t": "TCMB, iki elektronik para şirketinin faaliyet iznini iptal etti",
-    "tt": null,
-    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Ozan Elektronik Para A.Ş. ile A Ödeme ve Elektronik Para Hizmetleri A.Ş.'nin faaliyet izinlerini iptal etti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tcmb-iki-elektronik-para-sirketinin-faaliyet-iznini-iptal-etti-3794141",
-    "ts": 1794344861000,
-    "tags": []
-   },
-   {
-    "t": "SEC'in yaptırım bilançosu: İşlem sayısı yüzde 24 azaldı",
-    "tt": null,
-    "s": "ABD Menkul Kıymetler ve Borsa Komisyonu'nun (SEC), başlattığı yaptırım işlemlerinin sayısı 2026 mali yılında bir önceki yıla göre yüzde 24 azalarak 348'e geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/sec-in-yaptirim-bilancosu-islem-sayisi-yuzde-24-azaldi-3794140",
-    "ts": 1794344457000,
-    "tags": []
-   },
-   {
-    "t": "İspanya, TikTok'tan ülkedeki faaliyetlerini askıya almasını istedi",
-    "tt": null,
-    "s": "İspanya hükümeti, bir araştırmanın TikTok'taki çocuk cinsel istismarı videolarının en az 48 milyon kez izlendiğini ortaya koymasının ardından platformdan bu içerikleri kaldırana kadar ülkedeki faaliyetlerini askıya almasını istedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ispanya-tiktok-tan-ulkedeki-faaliyetlerini-durdurmasini-istedi-3794139",
-    "ts": 1794340847000,
-    "tags": []
-   },
    {
     "t": "OpenAI, ChatGPT'de işletmeler için yeni özellikler duyurdu",
     "tt": null,
@@ -978,6 +936,42 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-de-hanehalki-borcu-19-trilyon-dolari-asti-3794133",
     "ts": 1794332558000,
+    "tags": []
+   },
+   {
+    "t": "Akbank'tan COP31'de sürdürülebilir iklimlendirme finansmanı vurgusu",
+    "tt": null,
+    "s": "Akbank Genel Müdürü Kaan Gür, COP31'de sürdürülebilir iklimlendirme yatırımlarına yönelik finansman desteğini vurgulayarak, Ulusal Soğutma Eylem Planı'ndaki hedefleri işletmelerin hayata geçirebileceği somut yatırımlara dönüştürmeyi amaçladıklarını belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/akbank-tan-cop31-de-surdurulebilir-iklimlendirme-finansmani-vurgusu-3794132",
+    "ts": 1794332051000,
+    "tags": []
+   },
+   {
+    "t": "Apple TV'ye işaret dili çeviri özelliği geldi",
+    "tt": null,
+    "s": "Apple, yeni işaret dili çevirisi özelliği sayesinde Apple TV'deki içeriklerin işitme engelli izleyiciler için daha erişilebilir hale geleceğini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/apple-tv-ye-isaret-dili-ceviri-ozelligi-geldi-3794131",
+    "ts": 1794331076000,
+    "tags": []
+   },
+   {
+    "t": "Çin'in elektrikli araç ihracatı Ekim'de rekor kırdı",
+    "tt": null,
+    "s": "Çin'in elektrikli ve hibrit araç ihracatı, Orta Doğu'daki savaşın petrol fiyatlarını yükseltmesiyle artan talebin etkisiyle Ekim'de yıllık yüzde 144,7 artarak 582 bin adetle rekor seviyeye ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-in-elektrikli-arac-ihracati-ekim-de-rekor-kirdi-3794130",
+    "ts": 1794330473000,
+    "tags": []
+   },
+   {
+    "t": "Yapay zeka şirketi Mercor'un değerlemesi 20 milyar dolara ulaştı",
+    "tt": null,
+    "s": "Yapay zeka girişimi Mercor, 750 milyon dolarlık yeni yatırım turunu tamamlayarak değerlemesini 20 milyar dolara yükseltti. Şirketin değerlemesi, geçen yılın Ekim ayına göre iki katına çıktı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yapay-zeka-sirketi-mercor-un-degerlemesi-20-milyar-dolara-ulasti-3794129",
+    "ts": 1794330119000,
     "tags": []
    }
   ]
