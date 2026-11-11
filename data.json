@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T12:48:53.546897+00:00",
+ "generated": "2026-11-11T14:02:32.280940+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,97 +24,97 @@
   },
   {
    "n": "VIX",
-   "p": 18.48,
-   "c": -5.04,
-   "d": -0.98,
+   "p": 18.36,
+   "c": -5.65,
+   "d": -1.1,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4051.3,
-   "c": 0.52,
-   "d": 21.1,
+   "p": 4042.2,
+   "c": 0.3,
+   "d": 12.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.81,
-   "c": 3.34,
-   "d": 1.709,
+   "p": 52.65,
+   "c": 3.03,
+   "d": 1.549,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.39,
-   "c": 1.57,
-   "d": 1.35,
+   "p": 87.29,
+   "c": 1.45,
+   "d": 1.25,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.46,
-   "c": 2.15,
-   "d": 1.97,
+   "p": 92.74,
+   "c": 1.37,
+   "d": 1.25,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.542,
-   "c": 0.31,
-   "d": 0.312,
+   "p": 102.747,
+   "c": 0.51,
+   "d": 0.517,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.983,
-   "c": 2.45,
-   "d": 0.119,
+   "p": 4.998,
+   "c": 0.3,
+   "d": 0.015,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.152,
-   "c": -0.13,
-   "d": -0.064,
+   "p": 50.2287,
+   "c": 0.03,
+   "d": 0.013,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11754.76,
-   "c": 0.8,
-   "d": 92.86,
+   "p": 11722.78,
+   "c": 0.52,
+   "d": 60.88,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 73972,
-   "c": -0.3,
+   "p": 73742,
+   "c": -0.03,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2054.53,
-   "c": -1.63,
+   "p": 2056.21,
+   "c": -0.53,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.92,
-   "c": -0.94,
+   "p": 84.53,
+   "c": 0.46,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.057,
-   "c": -1.75,
+   "p": 1.06,
+   "c": -0.38,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 681.34,
-   "c": -0.61,
+   "p": 681.7,
+   "c": -0.36,
    "k": "usd"
   }
  ],
@@ -504,21 +504,100 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Latest Oil Market News and Analysis for Nov. 11",
+    "tt": "11 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil climbed after a two-day decline, as traders weighed mixed signals on the prospects for a conclusion to the Iran war.",
+    "ss": "Petrol fiyatları, tüccarların İran savaşının sona ermesine ilişkin karışık sinyallere ağırlık vermesiyle iki günlük düşüşün ardından tırmandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
+    "ts": 1794351664000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Funds Warn Brazil $126 Billion Stock Market Rout Isn’t Over Yet",
+    "tt": "Fonlar Brezilya'yı 126 Milyar Dolarlık Borsa Bozgununun Henüz Bitmediği konusunda Uyardı",
+    "s": "The rout in Brazilian assets sparked by Luiz Inácio Lula da Silva’s re-election shows little sign of abating, with some of the nation’s biggest money managers saying a downturn that has already wiped out months of gains could get even worse.",
+    "ss": "Brezilya varlıklarında Luiz Inácio Lula da Silva'nın yeniden seçilmesinin yol açtığı bozgun, azalmaya dair çok az işaret gösteriyor; ülkenin en büyük para yöneticilerinden bazıları, halihazırda aylardır elde edilen kazanımları silip süpüren bir gerilemenin daha da kötüleşebileceğini söylüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/funds-warn-brazil-126-billion-stock-market-rout-isn-t-over-yet",
+    "ts": 1794404891000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Rally as CoreWeave Fuels AI Trade Revival: Markets Wrap",
+    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
+    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial public offering.",
+    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794349925000,
+    "tags": []
+   },
+   {
+    "t": "US Equity Futures Rise as AI Enthusiasm Counters Hot Inflation",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Yapay Zeka Coşkusu Sıcak Enflasyonla Mücadele Ederken Yükseliyor",
+    "s": "US stock futures are rising Wednesday as better-than-expected results from Coreweave Inc., anticipation of Anthropic PBC’s initial public offering and a blockbuster quarter for OpenAI are reviving the AI trade.",
+    "ss": "ABD hisse senedi vadeli işlemleri, Coreweave Inc.'in beklenenden iyi sonuçları, Anthropic PBC'nin ilk halka arz beklentisi ve OpenAI için gişe rekorları kıran bir çeyreğin yapay zeka ticaretini canlandırmasıyla Çarşamba günü yükseliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+    "ts": 1794403725000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "European Stocks Set for Record as Energy, Tech and Miners Gain",
+    "tt": "Enerji, Teknoloji ve Madenciler Kazanırken Avrupa Hisse Senetleri Rekor Kıracak",
+    "s": "European stocks climbed toward a fresh record, as energy shares rallied alongside gains in tech and miners, boosting sentiment.",
+    "ss": "Avrupa hisse senetleri, enerji hisselerinin teknoloji ve madencilerdeki kazanımlarla birlikte yükselişe geçmesi ve güveni artırmasıyla yeni bir rekora doğru tırmandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
+    "ts": 1794385771000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
+    "tt": "Anthropic'in Halka Arzına Birden Çok Kat Fazla Abone Olduğu Söyleniyor",
+    "s": "Anthropic PBC’s initial public offering has drawn multiple times the orders for the shares available, according to people familiar with the matter, as demand accelerates for potentially the biggest first-time share sale ever.",
+    "ss": "Konuya yakın kaynaklara göre Anthropic PBC'nin ilk halka arzı, potansiyel olarak şimdiye kadarki en büyük ilk hisse satışına yönelik talebin hızlanmasıyla birlikte, mevcut hisseler için birçok kez sipariş aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
+    "ts": 1794403034000,
+    "tags": []
+   },
+   {
+    "t": "AI Whiplash Poses Major Test for Wall Street’s Dip-Buying Habit",
+    "tt": "Yapay Zeka Whiplash, Wall Street'in Dip Alım Alışkanlığı İçin Büyük Bir Test Oluşturuyor",
+    "s": "Growing unease over the artificial intelligence trade is testing a monthslong habit of bottom-fishers to jump in every time the stock market dips.",
+    "ss": "Yapay zeka ticaretine ilişkin artan huzursuzluk, dip avcılarının aylarca süren, borsa her düştüğünde devreye girme alışkanlığını test ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/ai-whiplash-poses-major-test-for-wall-street-s-dip-buying-habit",
+    "ts": 1794402720000,
+    "tags": []
+   },
+   {
+    "t": "Saudis Tell OPEC Output Surged 26% to Highest Since War Began",
+    "tt": "Suudiler, OPEC'in Üretiminin Yüzde 26 Artarak Savaşın Başlangıcından Bu Yana En Yüksek Seviyeye Çıktığını Söyledi",
+    "s": "Saudi Arabia told OPEC that its crude oil production climbed by 26% last month to the highest since before the outbreak of the war, leading a regional output recovery that’s helping to push down prices.",
+    "ss": "Suudi Arabistan, OPEC'e ham petrol üretiminin geçen ay %26 artarak savaşın başlamasından bu yana en yüksek seviyesine ulaştığını ve bunun bölgesel üretim toparlanmasına yol açarak fiyatların aşağı çekilmesine yardımcı olduğunu söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
+    "ts": 1794402006000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
     "t": "Qatar’s Loss of Polish LNG Deal Is a Serious Blow to Expansion Plans",
     "tt": "Katar'ın Polonya LNG Anlaşmasını Kaybetmesi Genişleme Planlarına Ciddi Bir Darbedir",
     "s": "The Gulf state’s ambition to almost double its liquefied natural gas export capacity has suffered a major setback.",
     "ss": "Körfez ülkesinin sıvılaştırılmış doğal gaz ihracat kapasitesini neredeyse iki katına çıkarma hedefi büyük bir başarısızlıkla karşılaştı.",
     "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/qatar-s-loss-of-polish-lng-deal-is-a-serious-blow-to-expansion-plans",
     "ts": 1794401200000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Rally as CoreWeave Reignites AI Trade: Markets Wrap",
-    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
-    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial public offering.",
-    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794349925000,
     "tags": []
    },
    {
@@ -529,81 +608,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
     "ts": 1794399764000,
     "tags": []
-   },
-   {
-    "t": "AI Stocks Rally After Coreweave's Results; Treasury Market Closed",
-    "tt": "AI Hisseleri Coreweave Sonuçlarının Ardından Yükseliyor; Hazine Piyasası Kapalı",
-    "s": "US equity futures rise after Coreweave's strong results and robust demand for Anthropic's IPO. US Treasury futures fall after a hot inflation print fueled Fed rate-hike bets and fueled a spike in yields. Cash Treasury market is closed for Veterans Day holiday. Olaolu Aganga of Citi discusses the sus",
-    "ss": "ABD hisse senedi vadeli işlemleri Coreweave'in güçlü sonuçları ve Anthropic'in halka arzına yönelik güçlü talebin ardından yükselişe geçti. ABD Hazine tahvili vadeli kontratları, sıcak enflasyon verilerinin Fed'in faiz artırımı iddialarını körüklemesi ve getirilerde yükselişe yol açmasının ardından düştü. Nakit Hazine piyasası Gaziler Günü tatili nedeniyle kapalı. Citi'den Olaolu Aganga durumu tartışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
-    "ts": 1794399590000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Euro-Pound Options Turn Bullish as Traders Bet on Bigger Rebound",
-    "tt": "Euro-Pound Opsiyonları Yükselişe Döndü, Yatırımcılar Daha Büyük Bir Yükselişe Bahis Yaptı",
-    "s": "Options traders are positioning for a further rebound in the euro against sterling after a historically sharp selloff, betting the single currency has priced in too much risk around France.",
-    "ss": "Opsiyon tüccarları, tek para biriminin Fransa çevresinde çok fazla risk altında fiyatlandırıldığına dair tahminleri nedeniyle, tarihsel olarak sert bir satış dalgasının ardından euronun sterlin karşısında daha fazla toparlanması için pozisyon alıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/euro-pound-options-turn-bullish-as-traders-bet-on-bigger-rebound",
-    "ts": 1794398775000,
-    "tags": []
-   },
-   {
-    "t": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
-    "tt": "ABD Mortgage Faizleri Dördüncü Haftada da Düşerek Ev Alımlarını Arttırdı",
-    "s": "US mortgage rates declined for a fourth straight week, boosting home-purchase applications by the most since mid-April and giving a tiny spark to the deflated housing market.",
-    "ss": "ABD mortgage faizleri art arda dördüncü haftada da düşerek ev satın alma başvurularını Nisan ortasından bu yana en fazla artırdı ve sönmüş konut piyasasına ufak bir kıvılcım yaşattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
-    "ts": 1794398400000,
-    "tags": []
-   },
-   {
-    "t": "Dubai’s DIP Climbs on Debut, Ending UAE’s Listings Drought",
-    "tt": "Dubai'nin DIP İlk Çıkışında Tırmanarak BAE'nin Listeleme Kuraklığına Son Verdi",
-    "s": "Dubai’s DIP Holding Plc shares jumped as much as 7% on debut, after a $529 million initial public offering that marked the United Arab Emirates’ first listing of the year.",
-    "ss": "Dubai'nin DIP Holding Plc hisseleri, Birleşik Arap Emirlikleri'nin yılın ilk listelemesi olan 529 milyon dolarlık ilk halka arzın ardından ilk çıkışta %7'ye kadar yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/dubai-s-dip-rises-as-much-as-6-after-uae-s-first-post-war-ipo",
-    "ts": 1794377308000,
-    "tags": []
-   },
-   {
-    "t": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
-    "tt": "CoreWeave Şüpheleri Susturdu, ABD TÜFE Fed'in Artırım Bahislerini Artırdı",
-    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave and robust demand for Anthropic’s initial public offering. The US bond market tumbled in yesterday's trade, sending short-term yields surging by the m",
-    "ss": "Neocloud firması CoreWeave'den gelen güçlü sonuçlar ve Anthropic'in ilk halka arzına yönelik güçlü talebin ardından yatırımcılar yapay zeka ticaretine geri döndü ve ABD hisse senedi vadeli işlemlerini yükseltti. ABD tahvil piyasası dünkü işlemlerde düşüş yaşadı ve kısa vadeli getiriler 2017'de yükseldi.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
-    "ts": 1794397520000,
-    "tags": []
-   },
-   {
-    "t": "CSG Plunges to Lowest Since IPO After Arms Firm Cuts Guidance",
-    "tt": "Silah Firmasının Tüm Yıl Marj Görünümünü Düşürmesiyle CSG Hisseleri Düştü",
-    "s": "CSG NV shares plunged after the European arms maker cut its full-year profitability outlook, dealing a fresh blow to investors who bought into the stock when it listed at the start of the year on optimism about growth in defense spending.",
-    "ss": "CSG NV hisseleri, Avrupalı ​​silah üreticisinin tüm yıl kârlılık görünümünü düşürmesinin ve savunma harcamalarındaki hızlı büyümeye ilişkin iyimserlikle hisse senedi satın alan yatırımcılara yeni bir darbe vurmasının ardından Ocak ayındaki listelemesinden bu yana en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/csg-cuts-full-year-margin-outlook-as-revenue-misses-estimates",
-    "ts": 1794383859000,
-    "tags": []
-   },
-   {
-    "t": "US Treasury Futures Retreat as Markets See More Fed Hikes",
-    "tt": "ABD Hazine Vadeli İşlemleri Piyasalarda Daha Fazla Fed Artışı Görülmesiyle Düştü",
-    "s": "Derivatives trading suggests a retreat in US Treasuries is set to continue as faster-than-expected inflation data cement expectations for more aggressive interest-rate hikes from the Federal Reserve.",
-    "ss": "Türev ticareti, beklenenden hızlı gelen enflasyon verilerinin Fed'in daha agresif faiz artırımı beklentilerini güçlendirmesi nedeniyle ABD Hazine tahvillerindeki gerilemenin devam edeceğini gösteriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
-    "ts": 1794390765000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -706,6 +710,60 @@
   ],
   "MarketWatch": [
    {
+    "t": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "tt": "Bernie Sanders, Sosyal Güvenlik çözümünü \"nesillerdir\" korumak istiyor",
+    "s": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    "ss": "Vermont senatörü vergiye tabi azami sınırı ortadan kaldırarak zenginlerin daha fazla vergi ödemesini sağlamayı amaçlıyor",
+    "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "ts": 1794405300000,
+    "tags": []
+   },
+   {
+    "t": "Corporate America is making a trillion-dollar mistake about retirement",
+    "tt": "Kurumsal Amerika emeklilik konusunda trilyon dolarlık bir hata yapıyor",
+    "s": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+    "ss": "Piyasa, 50 yaş ve üzeri Amerikalıların ekonomik etkisini çarpıcı biçimde düşük fiyatlandırıyor.",
+    "u": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    "ts": 1794405120000,
+    "tags": []
+   },
+   {
+    "t": "Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears",
+    "tt": "CoreWeave, Wall Street'in en büyük korkularını yatıştırırken Micron ve diğer yapay zeka hisseleri yükselişe geçti",
+    "s": "CoreWeave’s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.",
+    "ss": "CoreWeave'in gelişmiş yapay zeka ekonomisi ve gelecekteki borçlara ilişkin bir miktar disiplin gösterme sözü, çip sektöründe geniş bir yükselişe yol açıyor.",
+    "u": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+    "ts": 1794404220000,
+    "tags": []
+   },
+   {
+    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
+    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+    "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
+    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "ts": 1794402900000,
+    "tags": []
+   },
+   {
+    "t": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+    "tt": "Children's Place'in iflas başvurusunda bulunmasının bir nedeni nedir? Yeterli çocuk yok.",
+    "s": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
+    "ss": "Zincir, düşen doğum oranları, temkinli tüketiciler, sıkı rekabet ve 881 milyon dolarlık borçla mücadele ediyor.",
+    "u": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+    "ts": 1794402900000,
+    "tags": []
+   },
+   {
+    "t": "22 stocks of companies with tremendous sales growth",
+    "tt": "Muazzam satış büyümesi gösteren 22 şirket hissesi",
+    "s": "These S&amp;P 500 companies have also shown improving profit margins and free cash flow this earnings season.",
+    "ss": "Bu S&P 500 şirketleri de bu kazanç sezonunda kar marjlarının ve serbest nakit akışının arttığını gösterdi.",
+    "u": "https://www.marketwatch.com/story/22-stocks-of-companies-with-tremendous-sales-growth-78c3f750?mod=mw_rss_topstories",
+    "ts": 1794402360000,
+    "tags": []
+   },
+   {
     "t": "Keep Jensen Huang at Nvidia — but end the one-man show",
     "tt": "Jensen Huang'ı Nvidia'da tutun ama tek kişilik gösteriye son verin",
     "s": "Nvidia can’t afford to lose its CEO, but it’s time for the company to grow up and get serious about governance.",
@@ -740,69 +798,59 @@
     "u": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
     "ts": 1794398400000,
     "tags": []
-   },
-   {
-    "t": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-    "tt": "Yeni finansman taktik kitabının borç endişelerini hafifletmesiyle CoreWeave'in hisseleri yükselişe geçti",
-    "s": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
-    "ss": "Üçüncü çeyrekteki gelir artışı ve planlanan ön ödemelerde 9 milyar dolar, yatırımcıların CoreWeave'in işine olan güvenini tazeledi.",
-    "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-    "ts": 1794396420000,
-    "tags": []
-   },
-   {
-    "t": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
-    "tt": "Goldman Sachs neden Federal Reserve'ün faiz oranı tahminini değiştiriyor?",
-    "s": "Following Tuesday’s hot CPI data , Goldman Sachs is now pencilling in additional Fed tightening.",
-    "ss": "Salı günkü sıcak TÜFE verilerinin ardından Goldman Sachs şimdi Fed'in ilave sıkılaştırmaya gideceğini öngörüyor.",
-    "u": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
-    "ts": 1794393420000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-    "tt": "63 yaşındayım ve 500.000 dolarlık evimin çatı katına 95.000 dolar harcamak istiyorum. Bu iyi bir yatırım mı?",
-    "s": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with an outstanding balance of $295,000.”",
-    "ss": "\"2,3 milyon dolarlık net servetim var ve tek borcum, ödenmemiş bakiyesi 295.000 dolar olan 15 yıllık bir ipotek.\"",
-    "u": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "ts": 1794393000000,
-    "tags": []
-   },
-   {
-    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
-    "s": "There is already a demographic ‘run’ on Social Security.",
-    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
-    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "ts": 1794392100000,
-    "tags": []
-   },
-   {
-    "t": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
-    "tt": "Tiger Woods'un 18 delikli başka bir özel golf sahası daha yapım aşamasında - bu Long Island'ın Gold Coast'u için",
-    "s": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
-    "ss": "Golf efsanesi Tiger Woods, New York, Brookville'deki Long Island'ın Kuzey Kıyısında yeni bir özel golf sahası açmaya hazırlanıyor.",
-    "u": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
-    "ts": 1794391380000,
-    "tags": []
-   },
-   {
-    "t": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
-    "tt": "Tam boyutlu SUV'lar arasında 2027 Ford Expedition, geniş oturma alanı ve güçlü motoruyla görülmeye değer.",
-    "s": "The Ford Expedition has modern tech, a big third row, clever features, and a muscular engine, adding up to make it our favorite full-size SUV.",
-    "ss": "Ford Expedition, modern teknolojiye, büyük bir üçüncü sıraya, akıllı özelliklere ve kaslı bir motora sahip olup, bunlar onu en sevdiğimiz tam boyutlu SUV haline getiriyor.",
-    "u": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
-    "ts": 1794391140000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Iran Rejects Transferring \"A Single Atom\" Of Enriched Uranium From Its Territory",
+    "tt": "İran, Zenginleştirilmiş Uranyumun \"Tek Bir Atomunun\" Kendi Bölgesinden Transferini Reddetti",
+    "s": "Iran Rejects Transferring \"A Single Atom\" Of Enriched Uranium From Its Territory Contradicting earlier Gulf-sourced reports from this week, top Iranian security official Mohsen Rezaei has rejected the prospect of transferring enriched uranium out of the country as part of any deal with the US. He we",
+    "ss": "İran, Kendi Bölgesinden \"Tek Bir Atom\" Zenginleştirilmiş Uranyum Transferini Reddetti Bu hafta Körfez kaynaklı daha önceki raporlarla çelişen İranlı üst düzey güvenlik yetkilisi Mohsen Rezaei, ABD ile yapılacak herhangi bir anlaşmanın parçası olarak zenginleştirilmiş uranyumun ülke dışına transfer edilmesi ihtimalini reddetti. O biz",
+    "u": "https://www.zerohedge.com/geopolitical/iran-rejects-transferring-single-atom-enriched-uranium-its-territory",
+    "ts": 1794404700000,
+    "tags": []
+   },
+   {
+    "t": "UK Trader And \"Fake Private Equity Exec\" Sentenced Over Fake £154 Million Takeover Bid",
+    "tt": "İngiliz Tüccar ve \"Sahte Özel Sermaye Yöneticisi\" Sahte 154 Milyon £'luk Devralma Teklifi Nedeniyle Mahkûm Edildi",
+    "s": "UK Trader And \"Fake Private Equity Exec\" Sentenced Over Fake £154 Million Takeover Bid Fake it til you make it? Not always such a great idea... A British day trader who posed as a private equity executive to orchestrate a fake £154 million ($206 million) takeover bid has received a two-year suspende",
+    "ss": "İngiliz Tüccar ve \"Sahte Özel Sermaye Yöneticisi\" Sahte 154 Milyon £'luk Devralma Teklifi Nedeniyle Cezaya Mahkûm Edildi Siz bunu yapana kadar sahte mi olacaksınız? Her zaman bu kadar iyi bir fikir değil... 154 milyon £ (206 milyon $) tutarında sahte bir satın alma teklifi düzenlemek için özel sermaye yöneticisi gibi davranan İngiliz bir günlük tüccar iki yıl uzaklaştırma aldı",
+    "u": "https://www.zerohedge.com/markets/uk-trader-and-fake-private-equity-exec-sentenced-over-fake-ps154-million-takeover-bid",
+    "ts": 1794403800000,
+    "tags": []
+   },
+   {
+    "t": "Futures Rise As CoreWeave Calms Debt Jitters, Sparking AI Rebound; Oil Jumps On Hormuz Mines",
+    "tt": "CoreWeave Borç Gerginliklerini Yatıştırırken Vadeli İşlemler Yükseliyor ve Yapay Zekanın Geri Dönüşünü Ateşliyor; Petrol Hürmüz Madenlerinde Sıçradı",
+    "s": "Futures Rise As CoreWeave Calms Debt Jitters, Sparking AI Rebound; Oil Jumps On Hormuz Mines US futures are higher as a trifecta of AI catalysts, i) CoreWeave's beat-and-raise, ii) reports that Anthropic's bankers are weighing an IPO valuation of $1.5 trillion or more and iii) word that OpenAI's qua",
+    "ss": "CoreWeave Borç Gerginliklerini Yatıştırırken Vadeli İşlemler Yükseliyor ve Yapay Zekanın Geri Dönüşünü Ateşliyor; Hürmüz Madenlerinde Petrol Sıçramaları ABD vadeli işlemleri yapay zeka katalizörlerinin üçlemesi nedeniyle yükseldi: i) CoreWeave'in vur-yükseltmesi, ii) Anthropic'in bankacılarının 1,5 trilyon dolar veya daha fazla bir halka arz değerine sahip olduklarının bildirilmesi ve iii) OpenAI'nin geleceğinin söylenmesi",
+    "u": "https://www.zerohedge.com/markets/futures-rise-coreweave-calms-debt-jitters-sparking-ai-rebound-oil-jumps-hormuz-mines",
+    "ts": 1794403278000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "The Seduction Of Market Bounces On The Way Down",
+    "tt": "Piyasanın Baştan Çıkarması Düşerken Sıçrayıyor",
+    "s": "The Seduction Of Market Bounces On The Way Down Submitted by QTR's Fringe Finance Just wanted to offer up a quick lesson this morning because every time the market stages one of these violent next-day bounces like it had yesterday (NASDAQ was up about +3.7%), I find myself dealing with the same gian",
+    "ss": "Düşüş Yolunda Piyasanın Baştan Çıkarılması QTR'den Fringe Finance Tarafından Sunuldu Sadece bu sabah kısa bir ders vermek istedim çünkü ne zaman piyasa dün olduğu gibi bir sonraki gün şiddetli sıçramalardan birini gerçekleştirse (NASDAQ yaklaşık %+3,7 arttı), kendimi aynı devle uğraşırken buluyorum.",
+    "u": "https://www.zerohedge.com/markets/seduction-market-bounces-way-down",
+    "ts": 1794402900000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic Bankers Push For Higher IPO Valuation Amid Warnings That Weak Debut Could Prick AI Bubble",
+    "tt": "Antropik Bankacılar, Zayıf Çıkışın Yapay Zeka Balonunu Patlatabileceği Uyarıları Arasında Daha Yüksek Halka Arz Değerlemesi İçin Baskı Yapıyor",
+    "s": "Anthropic Bankers Push For Higher IPO Valuation Amid Warnings That Weak Debut Could Prick AI Bubble Nasdaq futures rallied Wednesday morning after CoreWeave's earnings showed strong sales growth , lifting Taiwanese and Korean equities overnight. Improving sentiment around the AI trade is emerging af",
+    "ss": "Antropik Bankacılar, Zayıf Çıkışın AI Balonunu Patlatabileceği Uyarıları Arasında Daha Yüksek Halka Arz Değerlemesi İçin Bastırdı Nasdaq vadeli işlemleri, CoreWeave'in kazançlarının Tayvan ve Kore hisse senetlerini bir gecede yükselterek güçlü satış büyümesi göstermesinin ardından Çarşamba sabahı toparlandı. Yapay zeka ticaretiyle ilgili duyarlılığın iyileşmesi ortaya çıkıyor",
+    "u": "https://www.zerohedge.com/markets/anthropic-bankers-push-higher-ipo-valuation-thiel-capitals-jack-selby-warns-weak-debut",
+    "ts": 1794402000000,
+    "tags": []
+   },
    {
     "t": "Tribunal Hearings Begin In UK-Argentina Row Over Falklands Oil Project",
     "tt": "Falkland Petrol Projesi Konusunda İngiltere-Arjantin Anlaşmazlığında Mahkeme Duruşmaları Başladı",
@@ -847,54 +895,54 @@
     "u": "https://www.zerohedge.com/energy/qatar-lng-loadings-climb-half-pre-war-levels-energy-starved-europe-prays-winter-relief",
     "ts": 1794396300000,
     "tags": []
-   },
-   {
-    "t": "EU Approves First Military Mission Presence On Ukrainian Soil: 'Make No Secret Of It'",
-    "tt": "AB, Ukrayna Topraklarında İlk Askeri Misyonun Varlığını Onayladı: 'Bunu Sırlamayın'",
-    "s": "EU Approves First Military Mission Presence On Ukrainian Soil: 'Make No Secret Of It' The European Council has announced that it is sending EU military personnel directly to Ukraine as part of its ongoing train and advise mission .&nbsp; However, whereas this program - called the EU Military Assista",
-    "ss": "AB, Ukrayna Topraklarındaki İlk Askeri Misyonun Varlığını Onayladı: 'Bunu Saklamayın' Avrupa Konseyi, devam eden eğitim ve tavsiye misyonunun bir parçası olarak AB askeri personelini doğrudan Ukrayna'ya göndereceğini duyurdu.  Ancak AB Askeri Yardımı olarak adlandırılan bu program",
-    "u": "https://www.zerohedge.com/geopolitical/eu-approves-first-military-mission-presence-ukrainian-soil-make-no-secret-it",
-    "ts": 1794392400000,
-    "tags": []
-   },
-   {
-    "t": "'Another Invasion': More Illegals Have Landed On Spain's Canary Islands Than All Last Year",
-    "tt": "'Başka Bir İstila': İspanya'nın Kanarya Adaları'na Geçen Yıldan Daha Fazla Yasadışı Çıkarıldı",
-    "s": "'Another Invasion': More Illegals Have Landed On Spain's Canary Islands Than All Last Year Authored by Remix News Staff via Remix News , The Spanish Canary Islands have already recorded more irregular sea arrivals in 2026 than in all of 2025 , with police reports indicating the archipelago could clo",
-    "ss": "'Başka Bir İstila': İspanya'nın Kanarya Adaları'na Geçen Yıl Tümünden Daha Fazla Yasadışı Çıkardı Remix Haber Ekibi tarafından Remix News aracılığıyla yazılan İspanyol Kanarya Adaları, 2026'da 2025'in tamamına kıyasla daha fazla düzensiz deniz girişi kaydetti; polis raporları takımadaların kapatılabileceğini gösteriyor",
-    "u": "https://www.zerohedge.com/geopolitical/another-invasion-more-illegals-have-landed-spains-canary-islands-all-last-year",
-    "ts": 1794390000000,
-    "tags": []
-   },
-   {
-    "t": "Britain's Grid Operator Just Paid £1.4MM/Hour For Gas Power To Keep Lights On As Wind Slumps",
-    "tt": "Britanya'nın Şebeke Operatörü Rüzgar Azaldıkça Işıkları Açık Tutmak İçin Gaz Enerjisine Saatte 1,4 Milyon Sterlin Ödedi",
-    "s": "Britain's Grid Operator Just Paid £1.4MM/Hour For Gas Power To Keep Lights On As Wind Slumps On Monday evening, Britain's grid operator paid the Langage gas power station near Plymouth the equivalent of £1.4 million an hour , according to market transparency data cited by the Telegraph , as low wind",
-    "ss": "Britanya'nın Şebeke Operatörü, Rüzgar Düşerken Işıkları Açık Tutmak İçin Gaz Enerjisine Saatte 1,4 Milyon Sterlin Ödedi Telegraph'ın aktardığı piyasa şeffaflığı verilerine göre, Pazartesi akşamı İngiltere'nin şebeke operatörü, Plymouth yakınındaki Langage gaz elektrik santraline saatte 1,4 milyon £ eşdeğerini ödedi.",
-    "u": "https://www.zerohedge.com/energy/britains-grid-operator-just-paid-ps14mmhour-gas-power-keep-lights-wind-slumps",
-    "ts": 1794387600000,
-    "tags": []
-   },
-   {
-    "t": "Hungary Detains Viktor Orban's Brother On Human Trafficking Charges",
-    "tt": "Macaristan, Viktor Orban'ın Kardeşini İnsan Kaçakçılığı Suçlamasıyla Tutukladı",
-    "s": "Hungary Detains Viktor Orban's Brother On Human Trafficking Charges Authored by Chris Summers via The Epoch Times , Hungary has detained one of former Prime Minister Viktor Orban's brothers during an investigation into the smuggling of illegal immigrants from Vietnam. \"Three out of the ex-ministers ",
-    "ss": "Macaristan, Viktor Orban'ın Kardeşini İnsan Kaçakçılığı Suçlamasıyla Tutukladı Chris Summers tarafından The Epoch Times aracılığıyla yazıldı Macaristan, eski Başbakan Viktor Orban'ın kardeşlerinden birini Vietnam'dan yasadışı göçmen kaçakçılığıyla ilgili soruşturma sırasında gözaltına aldı. \"Eski bakanlardan üçü",
-    "u": "https://www.zerohedge.com/geopolitical/hungary-detains-viktor-orbans-brother-human-trafficking-charges",
-    "ts": 1794385200000,
-    "tags": []
-   },
-   {
-    "t": "Brussels Quietly Shelves Plan To Make 'Hate Speech' An EU-Wide Crime... But There's A Catch",
-    "tt": "Brüksel 'Nefret Söylemini' AB Çapında Suç Haline Getirme Planını Sessizce Rafa Kaldırdı... Ama Bir Sıkıntı Var",
-    "s": "Brussels Quietly Shelves Plan To Make 'Hate Speech' An EU-Wide Crime... But There's A Catch The European Commission plans to withdraw its proposal to make hate speech and hate crime EU-wide criminal offenses after the bid stalled in the Council of the EU, the Epoch Times reported. The Commission ann",
-    "ss": "Brüksel, 'Nefret Söylemini' AB Çapında Suç Haline Getirme Planını Sessizce Rafa Kaldırdı... Ancak Bir Sıkıntı Var Epoch Times'ın haberine göre, Avrupa Komisyonu, ihalenin AB Konseyi'nde durmasının ardından, nefret söylemi ve nefret suçunu AB çapında cezai suç haline getirme yönündeki teklifini geri çekmeyi planlıyor. Komisyon ann",
-    "u": "https://www.zerohedge.com/political/brussels-quietly-shelves-plan-make-hate-speech-eu-wide-crime-theres-catch",
-    "ts": 1794382800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Dünya Bankası, finansmanının yaklaşık yüzde 35'ini yerel para biriminde sağlıyor",
+    "tt": null,
+    "s": "Dünya Bankası Grubu Başkanı Ajay Banga, para birimi değer kaybının uzun vadeli projeleri yatırım yapılmaz hale getirebileceğini belirterek, \"IFC aracılığıyla finansmanımızın yaklaşık yüzde 35'ini yerel para biriminde sağlıyoruz. Aslında 40 ülkede daha yerel para birimi piyasaları geliştirmek için IM",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dunya-bankasi-finansmaninin-yaklasik-yuzde-35-ini-yerel-para-biriminde-sagliyor-3794228",
+    "ts": 1794404148000,
+    "tags": []
+   },
+   {
+    "t": "Sütaş/Yılmaz: Türkiye'de döngüsel ekonomiyle işleyen sistemler artmaya başladı",
+    "tt": null,
+    "s": "Sütaş Yönetim Kurulu Üyesi Duygu Yılmaz, COP31'de Bloomberg HT'ye değerlendirmelerde bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/sutasyilmaz-turkiye-de-dongusel-ekonomiyle-isleyen-sistemler-artmaya-basladi-3794227",
+    "ts": 1794403702000,
+    "tags": []
+   },
+   {
+    "t": "EBRD, beş yılda Türkiye'de temiz enerjiye 6 milyar dolar yatırım planlıyor",
+    "tt": null,
+    "s": "Avrupa İmar ve Kalkınma Bankası (EBRD), önümüzdeki beş yıl içinde Türkiye Yenilenebilir Enerji Hızlandırma ve Temiz Geçiş Platformu'nun (REACT) projelerine 6 milyar dolar yatırım yapmayı planlıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ebrd-bes-yilda-turkiyede-6-milyar-dolar-yatirim-planliyor-3794226",
+    "ts": 1794403434000,
+    "tags": []
+   },
+   {
+    "t": "OPEC'in günlük ham petrol üretiminde 2 milyon varillik artış",
+    "tt": null,
+    "s": "Petrol İhraç Eden Ülkeler Örgütünün (OPEC) günlük ham petrol üretimi, Ekim'de önceki aya göre 1 milyon 965 bin varil artarak 27 milyon 164 bin varile yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/opec-in-gunluk-ham-petrol-uretiminde-2-milyon-varillik-artis-3794224",
+    "ts": 1794402985000,
+    "tags": []
+   },
+   {
+    "t": "\"En önemli soru yeşil dönüşümün finansmanının nasıl olacağı\"",
+    "tt": null,
+    "s": "Zurich Sigorta Grubu Türkiye CEO'su Yılmaz Yıldız Antalya'da gerçekleşen COP31 Zirvesi'nde Bloomberg HT Genel Yayın Yönetmeni Açıl Sezen'in sorularını yanıtladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/en-onemli-soru-yesil-donusumun-finansmaninin-nasil-olacagi-3794217",
+    "ts": 1794401050000,
+    "tags": []
+   },
    {
     "t": "TÜRKONFED/Ünlü: Yeşil dönüşümde şirketlerimiz iyi durumda",
     "tt": null,
@@ -938,51 +986,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/dunya-varlik-yonetim-kupon-odemesinde-temerrude-dustu-3794196",
     "ts": 1794394260000,
-    "tags": []
-   },
-   {
-    "t": "\"Elektrifikasyonda dönüm noktasındayız\"",
-    "tt": null,
-    "s": "COP31 Zirvesi'nde Bloomberg HT'nin sorularını yanıtlayan Hitachi Energy Maxine Ghavi enerji dönüşümünde karşı karşıya olunan zorluklara dikkat çekti. Elektrifikasyonda dönüm noktasında olunduğunu belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/elektrifikasyonda-donum-noktasindayiz-3794191",
-    "ts": 1794391354000,
-    "tags": []
-   },
-   {
-    "t": "Şimşek: Türkiye'nin iklim hedefi için 300 milyar dolar gerekiyor",
-    "tt": null,
-    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin iklim hedefini gerçekleştirmek için yaklaşık 300 milyar dolarlık bir kaynağa ihtiyaç olduğunu belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/simsek-turkiye-nin-iklim-hedefi-icin-300-milyar-dolar-gerekiyor-3794190",
-    "ts": 1794391271000,
-    "tags": []
-   },
-   {
-    "t": "'Dünya Otomotiv Buluşmaları' Bursa'da başladı",
-    "tt": null,
-    "s": "Bursa Organize Sanayi Bölgesinin (BOSB) ev sahipliğinde 6'ncısı düzenlenen \"Dünya Otomotiv Buluşmaları\", 40'ı aşkın ülkeden 300 firmanın katılımıyla başladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/dunya-otomotiv-bulusmalari-bursa-da-basladi-3794189",
-    "ts": 1794390348000,
-    "tags": []
-   },
-   {
-    "t": "COP31'de liderlerden aile fotoğrafı",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan ve zirveye katılan liderler COP31 için aile fotoğrafı çektirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cop31-de-liderler-aile-fotograf-3794185",
-    "ts": 1794388719000,
-    "tags": []
-   },
-   {
-    "t": "EBRD'den yeşil enerji dönüşüme 14 milyar euro",
-    "tt": null,
-    "s": "Avrupa İmar ve Kalkınma Bankası (EBRD) Başkanı Odile Renaud-Basso, Türkiye'ye yaptıkları yatırımların yarısından fazlasına tekabül eden 14 milyar euroyu yeşil enerjiye ayırdıklarını belirterek, \"Her seferinde Türkiye'nin enerji kapasitesinin ve ekonomisinin ne kadar dayanıklı olduğunu gördük. Aynı z",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ebrd-den-yesil-enerji-donusume-bugune-kadar-14-milyar-euro-3794182",
-    "ts": 1794387967000,
     "tags": []
    }
   ]
