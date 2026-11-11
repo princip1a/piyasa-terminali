@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T11:44:06.080763+00:00",
+ "generated": "2026-11-11T12:48:53.546897+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.57,
-   "c": -4.57,
-   "d": -0.89,
+   "p": 18.48,
+   "c": -5.04,
+   "d": -0.98,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4060.2,
-   "c": 0.74,
-   "d": 30.0,
+   "p": 4051.3,
+   "c": 0.52,
+   "d": 21.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.975,
-   "c": 3.67,
-   "d": 1.874,
+   "p": 52.81,
+   "c": 3.34,
+   "d": 1.709,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.65,
-   "c": 0.71,
-   "d": 0.61,
+   "p": 87.39,
+   "c": 1.57,
+   "d": 1.35,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.75,
-   "c": 1.38,
-   "d": 1.26,
+   "p": 93.46,
+   "c": 2.15,
+   "d": 1.97,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.531,
-   "c": 0.29,
-   "d": 0.301,
+   "p": 102.542,
+   "c": 0.31,
+   "d": 0.312,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2273,
-   "c": 0.02,
-   "d": 0.012,
+   "p": 50.152,
+   "c": -0.13,
+   "d": -0.064,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11758.51,
-   "c": 0.83,
-   "d": 96.61,
+   "p": 11754.76,
+   "c": 0.8,
+   "d": 92.86,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74007,
-   "c": -0.29,
+   "p": 73972,
+   "c": -0.3,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2056.61,
-   "c": -1.57,
+   "p": 2054.53,
+   "c": -1.63,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.86,
-   "c": -0.77,
+   "p": 83.92,
+   "c": -0.94,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.058,
-   "c": -2.01,
+   "p": 1.057,
+   "c": -1.75,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 680.86,
-   "c": -1.01,
+   "p": 681.34,
+   "c": -0.61,
    "k": "usd"
   }
  ],
@@ -504,12 +504,81 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Qatar’s Loss of Polish LNG Deal Is a Serious Blow to Expansion Plans",
+    "tt": "Katar'ın Polonya LNG Anlaşmasını Kaybetmesi Genişleme Planlarına Ciddi Bir Darbedir",
+    "s": "The Gulf state’s ambition to almost double its liquefied natural gas export capacity has suffered a major setback.",
+    "ss": "Körfez ülkesinin sıvılaştırılmış doğal gaz ihracat kapasitesini neredeyse iki katına çıkarma hedefi büyük bir başarısızlıkla karşılaştı.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/qatar-s-loss-of-polish-lng-deal-is-a-serious-blow-to-expansion-plans",
+    "ts": 1794401200000,
+    "tags": []
+   },
+   {
+    "t": "US Stocks Rally as CoreWeave Reignites AI Trade: Markets Wrap",
+    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
+    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial public offering.",
+    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794349925000,
+    "tags": []
+   },
+   {
+    "t": "VW Scraps Advanced Factory Plan in Blow to Made in Germany",
+    "tt": "VW, Blow to Made in Almanya'daki Gelişmiş Fabrika Planını Hurdaya Çıkardı",
+    "s": "Volkswagen AG is scrapping a major advanced-manufacturing project at its sprawling headquarter as falling profits force Europe’s biggest carmaker to rethink investment across its German factories.",
+    "ss": "Düşen karlar, Avrupa'nın en büyük otomobil üreticisini Alman fabrikalarındaki yatırımları yeniden düşünmeye zorlarken, Volkswagen AG genişleyen genel merkezinde büyük bir ileri üretim projesini rafa kaldırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany",
+    "ts": 1794399764000,
+    "tags": []
+   },
+   {
+    "t": "AI Stocks Rally After Coreweave's Results; Treasury Market Closed",
+    "tt": "AI Hisseleri Coreweave Sonuçlarının Ardından Yükseliyor; Hazine Piyasası Kapalı",
+    "s": "US equity futures rise after Coreweave's strong results and robust demand for Anthropic's IPO. US Treasury futures fall after a hot inflation print fueled Fed rate-hike bets and fueled a spike in yields. Cash Treasury market is closed for Veterans Day holiday. Olaolu Aganga of Citi discusses the sus",
+    "ss": "ABD hisse senedi vadeli işlemleri Coreweave'in güçlü sonuçları ve Anthropic'in halka arzına yönelik güçlü talebin ardından yükselişe geçti. ABD Hazine tahvili vadeli kontratları, sıcak enflasyon verilerinin Fed'in faiz artırımı iddialarını körüklemesi ve getirilerde yükselişe yol açmasının ardından düştü. Nakit Hazine piyasası Gaziler Günü tatili nedeniyle kapalı. Citi'den Olaolu Aganga durumu tartışıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-brief-11-11-2026-video",
+    "ts": 1794399590000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Euro-Pound Options Turn Bullish as Traders Bet on Bigger Rebound",
+    "tt": "Euro-Pound Opsiyonları Yükselişe Döndü, Yatırımcılar Daha Büyük Bir Yükselişe Bahis Yaptı",
+    "s": "Options traders are positioning for a further rebound in the euro against sterling after a historically sharp selloff, betting the single currency has priced in too much risk around France.",
+    "ss": "Opsiyon tüccarları, tek para biriminin Fransa çevresinde çok fazla risk altında fiyatlandırıldığına dair tahminleri nedeniyle, tarihsel olarak sert bir satış dalgasının ardından euronun sterlin karşısında daha fazla toparlanması için pozisyon alıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/euro-pound-options-turn-bullish-as-traders-bet-on-bigger-rebound",
+    "ts": 1794398775000,
+    "tags": []
+   },
+   {
+    "t": "US Mortgage Rates Fall for Fourth Week, Lifting Home Purchases",
+    "tt": "ABD Mortgage Faizleri Dördüncü Haftada da Düşerek Ev Alımlarını Arttırdı",
+    "s": "US mortgage rates declined for a fourth straight week, boosting home-purchase applications by the most since mid-April and giving a tiny spark to the deflated housing market.",
+    "ss": "ABD mortgage faizleri art arda dördüncü haftada da düşerek ev satın alma başvurularını Nisan ortasından bu yana en fazla artırdı ve sönmüş konut piyasasına ufak bir kıvılcım yaşattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases",
+    "ts": 1794398400000,
+    "tags": []
+   },
+   {
     "t": "Dubai’s DIP Climbs on Debut, Ending UAE’s Listings Drought",
     "tt": "Dubai'nin DIP İlk Çıkışında Tırmanarak BAE'nin Listeleme Kuraklığına Son Verdi",
     "s": "Dubai’s DIP Holding Plc shares jumped as much as 7% on debut, after a $529 million initial public offering that marked the United Arab Emirates’ first listing of the year.",
     "ss": "Dubai'nin DIP Holding Plc hisseleri, Birleşik Arap Emirlikleri'nin yılın ilk listelemesi olan 529 milyon dolarlık ilk halka arzın ardından ilk çıkışta %7'ye kadar yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-11/dubai-s-dip-rises-as-much-as-6-after-uae-s-first-post-war-ipo",
     "ts": 1794377308000,
+    "tags": []
+   },
+   {
+    "t": "CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets",
+    "tt": "CoreWeave Şüpheleri Susturdu, ABD TÜFE Fed'in Artırım Bahislerini Artırdı",
+    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave and robust demand for Anthropic’s initial public offering. The US bond market tumbled in yesterday's trade, sending short-term yields surging by the m",
+    "ss": "Neocloud firması CoreWeave'den gelen güçlü sonuçlar ve Anthropic'in ilk halka arzına yönelik güçlü talebin ardından yatırımcılar yapay zeka ticaretine geri döndü ve ABD hisse senedi vadeli işlemlerini yükseltti. ABD tahvil piyasası dünkü işlemlerde düşüş yaşadı ve kısa vadeli getiriler 2017'de yükseldi.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/the-opening-trade-11-11-2026-video",
+    "ts": 1794397520000,
     "tags": []
    },
    {
@@ -535,69 +604,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "AI Doubts Collide With Anthropic’s Mega IPO",
-    "tt": "Yapay Zeka Şüpheleri Anthropic'in Mega Halka Arzıyla Çakışıyor",
-    "s": "Anthropic is going public as investors worry about the outlook for artificial intelligence.",
-    "ss": "Yatırımcılar yapay zekanın görünümü konusunda endişelenirken Anthropic halka açılıyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-doubts-collide-with-anthropic-s-mega-ipo",
-    "ts": 1794397109000,
-    "tags": []
-   },
-   {
-    "t": "Chery Recalls Thousands of Vehicles in South Africa",
-    "tt": "Chery Güney Afrika'daki Binlerce Aracı Geri Çağırıyor",
-    "s": "Chinese auto manufacturer Chery South Africa recalled thousands of vehicles to check for potential faults, and the nation’s consumer watchdog said it’s launched an investigation into the company.",
-    "ss": "Çinli otomobil üreticisi Chery Güney Afrika, potansiyel arızaları kontrol etmek için binlerce aracı geri çağırdı ve ülkenin tüketici gözlemcisi, şirket hakkında soruşturma başlattığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/chery-recalls-thousands-of-vehicles-in-south-africa-over-safety-mwbuqw8g",
-    "ts": 1794385414000,
-    "tags": []
-   },
-   {
-    "t": "Zimbabwe Seeks Entry Into MSCI Frontier Markets Index for Dollar Stocks",
-    "tt": "Zimbabwe, Dolar Hisse Senetleri İçin MSCI Frontier Markets Endeksi'ne Girmeyi İstiyor",
-    "s": "Zimbabwe wants securities listed on its dollar-only stock exchange to be added to the MSCI Frontier Markets Index as it seeks to draw international investors and boost liquidity.",
-    "ss": "Zimbabwe, uluslararası yatırımcıları çekmeyi ve likiditeyi artırmayı amaçladığı için, yalnızca dolar bazlı borsada listelenen menkul kıymetlerin MSCI Frontier Markets Index'e eklenmesini istiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/zimbabwe-seeks-entry-into-msci-frontier-markets-index-for-dollar-stocks",
-    "ts": 1794396748000,
-    "tags": []
-   },
-   {
-    "t": "AI Stocks Rally as CoreWeave Earnings Offer Relief: Markets Wrap",
-    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
-    "s": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave Inc. and robust demand for Anthropic PBC’s initial public offering.",
-    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794349925000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Index Futures Rise as CoreWeave Helps Tech Rebound",
-    "tt": "ABD Hisse Senedi Endeksi Vadeli İşlemleri CoreWeave'in Teknolojinin Yükselişine Yardımcı Olması ile Yükseliyor",
-    "s": "US equity futures extended gains as positive results from neocloud provider CoreWeave Inc. helped offset bets on higher interest rates.",
-    "ss": "ABD hisse senedi vadeli işlemleri, neocloud sağlayıcısı CoreWeave Inc.'in olumlu sonuçlarının yüksek faiz oranlarına ilişkin bahisleri dengelemeye yardımcı olmasıyla kazançlarını artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-stock-index-futures-rise-as-coreweave-helps-tech-rebound",
-    "ts": 1794396531000,
-    "tags": []
-   },
-   {
-    "t": "EDP CEO Sees Opportunities in US Renewable Energy",
-    "tt": "EDP ​​CEO'su ABD Yenilenebilir Enerjisinde Fırsatlar Görüyor",
-    "s": "EDP CEO Miguel Stilwell d'Andrade speaks to Bloomberg's Anna Edwards and Tom Mackenzie on The Opening Trade. The US already accounts for 60% of EDP's planned renewable energy investments through 2028 with Stilwell saying the Portuguese energy company could add further US investment in a new business",
-    "ss": "EDP ​​CEO'su Miguel Stilwell d'Andrade, Açılış Ticareti hakkında Bloomberg'den Anna Edwards ve Tom Mackenzie ile konuşuyor. ABD halihazırda EDP'nin 2028 yılına kadar planlanan yenilenebilir enerji yatırımlarının %60'ını oluşturuyor ve Stilwell, Portekizli enerji şirketinin yeni bir işletmeye daha fazla ABD yatırımı ekleyebileceğini söylüyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/edp-ceo-sees-opportunities-in-us-renewable-energy-video",
-    "ts": 1794395108000,
-    "tags": []
-   },
-   {
-    "t": "CEO Andersen as Vestas Shares Fall After Third-Quarter Revenue Miss",
-    "tt": "CEO Andersen, Vestas Hisseleri Üçüncü Çeyrek Gelir Kaybının Ardından Düştü",
-    "s": "Vestas CEO Henrik Andersen joins Bloomberg's Anna Edwards and Tom Mackenzie on The Opening Trade as the Danish wind turbine maker reported third quarter earnings. Shares were down after Vestas missed some third-quarter revenue estimates. (Source: Bloomberg)",
-    "ss": "Vestas CEO'su Henrik Andersen, Danimarkalı rüzgar türbini üreticisinin üçüncü çeyrek kazançlarını açıkladığı The Opening Trade programında Bloomberg'den Anna Edwards ve Tom Mackenzie'ye katıldı. Vestas'ın üçüncü çeyrek gelir tahminlerini kaçırmasının ardından hisseler düştü. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/vestas-ceo-andersen-on-third-quarter-revenue-miss-video",
-    "ts": 1794393019000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -700,6 +706,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "Keep Jensen Huang at Nvidia — but end the one-man show",
+    "tt": "Jensen Huang'ı Nvidia'da tutun ama tek kişilik gösteriye son verin",
+    "s": "Nvidia can’t afford to lose its CEO, but it’s time for the company to grow up and get serious about governance.",
+    "ss": "Nvidia CEO'sunu kaybetmeyi göze alamaz ancak artık şirketin büyüyüp yönetişim konusunda ciddileşme zamanı geldi.",
+    "u": "https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories",
+    "ts": 1794400200000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia’s valuation tumbles to a 15-year low. A bargain or a falling knife?",
+    "tt": "Nvidia'nın değeri son 15 yılın en düşük seviyesine geriledi. Bir pazarlık mı yoksa düşen bir bıçak mı?",
+    "s": "The AI giant now trades at a discount to the S&amp;P 500, by one measure. Plus, CoreWeave’s answer to its debt problem and a Veterans Day breather for bonds.",
+    "ss": "Yapay zeka devi artık S&P 500'e göre bir ölçüye göre indirimli işlem görüyor. Ayrıca CoreWeave'in borç sorununa çözümü ve tahviller için Gaziler Günü'nde bir soluklanma.",
+    "u": "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
+    "ts": 1794399360000,
+    "tags": []
+   },
+   {
+    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimini kesmeli mi?",
+    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
+    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "ts": 1794399300000,
+    "tags": []
+   },
+   {
+    "t": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+    "tt": "Yapay zeka ticareti tökezlerken piyasa kaygısı yatırımcıları düşük oynaklığa sahip hisse senetlerine yönlendiriyor",
+    "s": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
+    "ss": "ABD borsalarındaki kaygı, yapay zeka isimlerinde keskin satışlar ve inatçı yüksek tahvil getirileri nedeniyle arttı.",
+    "u": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+    "ts": 1794398400000,
+    "tags": []
+   },
+   {
     "t": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
     "tt": "Yeni finansman taktik kitabının borç endişelerini hafifletmesiyle CoreWeave'in hisseleri yükselişe geçti",
     "s": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
@@ -758,45 +800,36 @@
     "u": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
     "ts": 1794391140000,
     "tags": []
-   },
-   {
-    "t": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-    "tt": "Children's Place'in iflas etmesinin bir nedeni mi? Yeterli çocuk yok.",
-    "s": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
-    "ss": "İnsanlar daha az çocuk sahibi olabilir ama Children's Place'in iflas başvurusunda bulunmasının tek sorumlusu bu değil.",
-    "u": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-    "ts": 1794362040000,
-    "tags": []
-   },
-   {
-    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
-    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-    "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
-    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "ts": 1794357000000,
-    "tags": []
-   },
-   {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimini kesmeli mi?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794355200000,
-    "tags": []
-   },
-   {
-    "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
-    "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-    "ss": "\"Belki bir dahaki sefere diğer yaklaşımı deneyeceğim: Canım istediğinde uçağa bineceğim ve çantamı gördüğüm ilk açık yuvaya bırakacağım.\"",
-    "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "ts": 1794353100000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Tribunal Hearings Begin In UK-Argentina Row Over Falklands Oil Project",
+    "tt": "Falkland Petrol Projesi Konusunda İngiltere-Arjantin Anlaşmazlığında Mahkeme Duruşmaları Başladı",
+    "s": "Tribunal Hearings Begin In UK-Argentina Row Over Falklands Oil Project Authored by Charles Kennedy via Oilprice.com , The Hamburg-based International Tribunal for the Law of the Sea on Tuesday began hearings of Argentina's complaint about the UK's oil drilling project north of the Falkland Islands ,",
+    "ss": "İngiltere-Arjantin'deki Falkland Petrol Projesi Konusunda Mahkeme Duruşmaları Başlıyor Charles Kennedy tarafından Oilprice.com aracılığıyla yazılan Hamburg merkezli Uluslararası Deniz Hukuku Mahkemesi, Arjantin'in Birleşik Krallık'ın Falkland Adaları'nın kuzeyindeki petrol sondaj projesiyle ilgili şikayetine ilişkin duruşmalara Salı günü başladı.",
+    "u": "https://www.zerohedge.com/geopolitical/tribunal-hearings-begin-uk-argentina-row-over-falklands-oil-project",
+    "ts": 1794399900000,
+    "tags": []
+   },
+   {
+    "t": "Terror In The Skies: Twice Deported Illegal Alien Attempts To Storm Cockpit Of United Airlines Flight",
+    "tt": "Gökyüzünde Terör: İki Kez Sınır Dışı Edilen Yasadışı Uzaylı, United Airlines Uçuşunun Kokpitini Saldırmaya Çalıştı",
+    "s": "Terror In The Skies: Twice Deported Illegal Alien Attempts To Storm Cockpit Of United Airlines Flight A twice -deported Honduran illegal alien claimed to have a bomb and attempted to storm the cockpit of a Newark-to-New Orleans United flight on Monday night. Fox News' Bill Melugin reports that New O",
+    "ss": "Gökyüzünde Terör: İki Kez Sınır Dışı Edilen Yasadışı Uzaylı, United Airlines Uçuşunun Kokpitini Saldırmaya Çalışıyor İki kez sınır dışı edilen Honduraslı yasadışı bir uzaylı, elinde bomba olduğunu iddia etti ve Pazartesi gecesi Newark-New Orleans United uçuşunun kokpitine saldırmaya çalıştı. Fox News'den Bill Melugin, New O'nun",
+    "u": "https://www.zerohedge.com/political/terror-skies-twice-deported-illegal-alien-attempts-storm-cockpit-united-airlines-flight",
+    "ts": 1794398700000,
+    "tags": []
+   },
+   {
+    "t": "Meet The Woman Who Helped Derail A $5 Billion Maryland Data Center (And The NGO Sphere Allegedly Behind The Scenes)",
+    "tt": "5 Milyar Dolarlık Maryland Veri Merkezinin Rayından Çıkmasına Yardım Eden Kadınla (Ve İddiaya Göre Perde Arkasındaki STK Alanıyla) Tanışın",
+    "s": "Meet The Woman Who Helped Derail A $5 Billion Maryland Data Center (And The NGO Sphere Allegedly Behind The Scenes) A far-left Maryland activist helped derail a proposed $5 billion data center campus at a 90-acre abandoned mall site in Landover, Prince George's County, just east of Washington, DC. T",
+    "ss": "5 Milyar Dolarlık Maryland Veri Merkezinin (Ve İddiaya Göre Perde Arkasındaki STK Alanının) Raydan Çıkmasına Yardım Eden Kadınla Tanışın Aşırı solcu bir Maryland aktivisti, Washington DC'nin hemen doğusunda, Prince George's County'deki Landover'da 90 dönümlük terk edilmiş bir alışveriş merkezinde önerilen 5 milyar dolarlık veri merkezi kampüsünün raydan çıkmasına yardım etti. T",
+    "u": "https://www.zerohedge.com/ai/meet-woman-who-helped-derail-5-billion-maryland-data-center-and-ngo-sphere-allegedly-behind",
+    "ts": 1794397500000,
+    "tags": []
+   },
    {
     "t": "US Army Soldier Arrested In England Over Russian Spying - And Where He Worked Is The Alarming Part",
     "tt": "ABD Ordusu Askeri, Rusya'nın Casusluğu Nedeniyle İngiltere'de Tutuklandı - Ve Çalıştığı Yer Endişe Verici Kısım",
@@ -859,36 +892,27 @@
     "u": "https://www.zerohedge.com/political/brussels-quietly-shelves-plan-make-hate-speech-eu-wide-crime-theres-catch",
     "ts": 1794382800000,
     "tags": []
-   },
-   {
-    "t": "The \"Black Sky\" Plan & The \"Be Ready\" Campaign... What Kind Of Disaster Is The UK Urgently Preparing For?",
-    "tt": "\"Kara Gökyüzü\" Planı ve \"Hazır Olun\" Kampanyası... İngiltere Nasıl Bir Felakete Acilen Hazırlanıyor?",
-    "s": "The \"Black Sky\" Plan &amp; The \"Be Ready\" Campaign... What Kind Of Disaster Is The UK Urgently Preparing For? Authored by Michael Snyder via The Economic Collapse Blog , Is there something that they aren't telling us? All of a sudden, governments all over the globe are instructing their citizens to ",
-    "ss": "\"Kara Gökyüzü\" Planı ve \"Hazır Olun\" Kampanyası... İngiltere Nasıl Bir Felakete Acilen Hazırlanıyor? Michael Snyder tarafından Ekonomik Çöküş Blogu aracılığıyla yazılmıştır. Bize söylemedikleri bir şey mi var? Birdenbire dünyanın her yerindeki hükümetler vatandaşlarına şu talimatları veriyor:",
-    "u": "https://www.zerohedge.com/geopolitical/black-sky-plan-be-ready-campaign-what-kind-disaster-uk-urgently-preparing",
-    "ts": 1794380400000,
-    "tags": []
-   },
-   {
-    "t": "Schrödinger's Escalation: War Trump, Peace Trump",
-    "tt": "Schrödinger'in Yükselişi: Savaş Trump'ı, Barış Trump'ı",
-    "s": "Schrödinger's Escalation: War Trump, Peace Trump Authored by former CIA officer Larry Johnson F. Scott Fitzgerald said the test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still function . By that standard, Donald Trump spent Sunday and Monday p",
-    "ss": "Schrödinger'in Yükselişi: Savaş Trump'ı, Barış Trump'ı Eski CIA memuru Larry Johnson F. Scott Fitzgerald, birinci sınıf bir zekanın testinin, iki karşıt fikri aynı anda akılda tutma ve hala işlevsel olma yeteneği olduğunu söyledi. Bu standarda göre Donald Trump Pazar ve Pazartesi günlerini geçirdi.",
-    "u": "https://www.zerohedge.com/geopolitical/schrodingers-escalation-war-trump-peace-trump",
-    "ts": 1794371100000,
-    "tags": []
-   },
-   {
-    "t": "Microsoft Wants AI To Put Words In Your Mouth - In Realtime",
-    "tt": "Microsoft, Yapay Zekanın Kelimeleri Gerçek Zamanlı Olarak Ağzınıza Koymasını İstiyor",
-    "s": "Microsoft Wants AI To Put Words In Your Mouth - In Realtime Microsoft has applied for a patent on an AI system that would rewrite what a speaker says in a live video feed, and redraw their lips to match, with the changes tailored to each viewer's profile. The filing, published Oct. 29, is an applica",
-    "ss": "Microsoft, Yapay Zekanın Kelimeleri Gerçek Zamanlı Olarak Ağzınıza Koymasını İstiyor Microsoft, canlı bir video akışında konuşmacının söylediklerini yeniden yazacak ve her izleyicinin profiline göre uyarlanmış değişikliklerle dudaklarını eşleşecek şekilde yeniden çizecek bir yapay zeka sistemi için patent başvurusunda bulundu. 29 Ekim'de yayınlanan başvuru bir başvurudur.",
-    "u": "https://www.zerohedge.com/political/microsoft-wants-ai-put-words-your-mouth-realtime",
-    "ts": 1794369600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "TÜRKONFED/Ünlü: Yeşil dönüşümde şirketlerimiz iyi durumda",
+    "tt": null,
+    "s": "TÜRKONFED Başkan Yardımcısı Onur Ünlü, Bloomberg HT'ye verdiği söyleşide Türkiye'de şirketlerin yeşil dönüşüm konusunda iyi durumda olduğunu belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkonfedunlu-yesil-donusumde-sirketlerimiz-iyi-durumda-3794214",
+    "ts": 1794398576000,
+    "tags": []
+   },
+   {
+    "t": "DP World/Mazzei: Limanların elektrifikasyonuna önemli yatırım yaptık",
+    "tt": null,
+    "s": "Lojistik alanında faaliyet gösteren DP World'un Avrupa Sürdürülebilirlik Başkan Yardımcısı Nicholas Mazzei Bloomberg HT'ye elektrifikasyonun DP World'un enerji dönüşümü planının önemli bir parçası olduğunu belirterek \"Gemilerin fosil yakıtlardan uzaklaşmasını umuyoruz. Bu ciddi bir teknolojik zorluk",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dp-worldmazzei-limanlarin-elektrifikasyonuna-onemli-yatirim-yaptik-3794213",
+    "ts": 1794397729000,
+    "tags": []
+   },
    {
     "t": "VIG, Demir Sağlık'ı satın aldı",
     "tt": null,
@@ -959,24 +983,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/ebrd-den-yesil-enerji-donusume-bugune-kadar-14-milyar-euro-3794182",
     "ts": 1794387967000,
-    "tags": []
-   },
-   {
-    "t": "Bloomberg HT \"35'te 35: Geleceğe Güç Vermek\" zirvesinde enerjinin geleceği ele alındı",
-    "tt": null,
-    "s": "Bloomberg HT'nin düzenlediği ve moderasyonunu Bloomberg HT Genel Yayın Yönetmeni Açıl Sezen'in yaptığı \"35'te 35: Geleceğe Güç Vermek\" zirvesine Uluslararası Enerji Ajansı Başkanı Fatih Birol, BBVA CEO'su Onur Genç ve Küresel Rüzgar Enerjisi Konseyi CEO'su Ben Blackwell katıldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bloomberg-ht-35-te-35-gelecege-guc-vermek-zirvesinde-enerjinin-gelecegi-ele-alindi-3794176",
-    "ts": 1794386232000,
-    "tags": []
-   },
-   {
-    "t": "\"Paradigma değişikliği içindeyiz\"",
-    "tt": null,
-    "s": "Energy Shift Capital Kurucusu İlkay Demirağ COP31 zirvesinde Bloomberg HT'ye bir paradigma değişikliği içerisinde olunduğunu belirtti. Demirağ enerjide en kritik konunun enerji güvenliği olduğu için yatırımlarda bu alana ciddi kayış olduğunu söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/paradigma-degisikligi-icindeyiz-3794175",
-    "ts": 1794386116000,
     "tags": []
    }
   ]
