@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-11T15:07:31.023620+00:00",
+ "generated": "2026-11-11T16:05:39.211474+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7585.61,
-   "c": 0.86,
-   "d": 64.68,
+   "p": 7606.88,
+   "c": 1.14,
+   "d": 85.95,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25396.15,
-   "c": 1.32,
-   "d": 330.281,
+   "p": 25510.01,
+   "c": 1.77,
+   "d": 444.141,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52148.79,
-   "c": -0.16,
-   "d": -83.101,
+   "p": 52204.74,
+   "c": -0.05,
+   "d": -27.151,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 18.48,
-   "c": -5.04,
-   "d": -0.98,
+   "p": 17.7,
+   "c": -9.04,
+   "d": -1.76,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 4024.1,
-   "c": -0.15,
-   "d": -6.1,
+   "p": 4009.9,
+   "c": -0.5,
+   "d": -20.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 52.275,
-   "c": 2.3,
-   "d": 1.174,
+   "p": 52.265,
+   "c": 2.28,
+   "d": 1.164,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.6,
-   "c": 1.81,
-   "d": 1.56,
+   "p": 88.44,
+   "c": 2.79,
+   "d": 2.4,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.26,
-   "c": 1.93,
-   "d": 1.77,
+   "p": 94.37,
+   "c": 3.15,
+   "d": 2.88,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.938,
-   "c": 0.69,
-   "d": 0.708,
+   "p": 102.885,
+   "c": 0.64,
+   "d": 0.655,
    "k": "idx"
   },
   {
@@ -73,16 +73,16 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2273,
+   "p": 50.2274,
    "c": 0.02,
    "d": 0.012,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11665.57,
-   "c": 0.03,
-   "d": 3.67,
+   "p": 11666.42,
+   "c": 0.04,
+   "d": 4.52,
    "k": "idx"
   }
  ],
@@ -504,21 +504,26 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Stocks Rise as CoreWeave Outlook, Anthropic Revive AI Trade",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri Yapay Zeka Coşkusu Sıcak Enflasyonla Mücadele Ederken Yükseliyor",
-    "s": "US stocks opened higher Wednesday after better-than-expected results from CoreWeave Inc., investor enthusiasm for Anthropic PBC’s IPO, and a blockbuster quarter for OpenAI are reviving the artificial intelligence trade.",
-    "ss": "ABD hisse senedi vadeli işlemleri, Coreweave Inc.'in beklenenden iyi sonuçları, Anthropic PBC'nin ilk halka arz beklentisi ve OpenAI için gişe rekorları kıran bir çeyreğin yapay zeka ticaretini canlandırmasıyla Çarşamba günü yükseliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
-    "ts": 1794403725000,
-    "tags": []
+    "t": "Saudi Oil Production Surged 26% Last Month to Pre-War Levels",
+    "tt": "Suudi Petrol Üretimi Geçen Ay %26 Artarak Savaş Öncesi Seviyelere Ulaştı",
+    "s": "Saudi Arabia told OPEC that its crude oil production climbed 26% in October to one of the highest monthly levels in years, as its acceleration of flows through the Strait of Hormuz helps push down prices.",
+    "ss": "Suudi Arabistan, OPEC'e, Hürmüz Boğazı'ndaki akışların hızlanmasının fiyatların aşağı çekilmesine yardımcı olması nedeniyle ham petrol üretiminin Ekim ayında %26 artarak son yılların en yüksek aylık seviyelerinden birine ulaştığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/saudis-tell-opec-output-they-surged-26-to-new-war-time-high",
+    "ts": 1794402006000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
    },
    {
-    "t": "European Stocks Set for Record as Energy, Tech Gain",
-    "tt": "Enerji, Teknoloji ve Madenciler Kazanırken Avrupa Hisse Senetleri Rekor Kıracak",
-    "s": "European stocks climbed toward a fresh record, as energy shares rallied alongside gains in tech and miners, boosting sentiment.",
-    "ss": "Avrupa hisse senetleri, enerji hisselerinin teknoloji ve madencilerdeki kazanımlarla birlikte yükselişe geçmesi ve güveni artırmasıyla yeni bir rekora doğru tırmandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/european-stocks-set-for-record-as-miners-and-tech-rally",
-    "ts": 1794385771000,
+    "t": "Venezuela Oil Gear to Be Repaired in US for First Time in Years",
+    "tt": "Venezuela Petrol Dişlisi Yıllar Sonra İlk Kez ABD'de Onarılacak",
+    "s": "Venezuela is sending state-owned oil equipment to the US for repairs for the first time in more than a decade, marking re-engagement with traditional suppliers after years of sanctions and underinvestment.",
+    "ss": "Venezuela, on yılı aşkın süredir ilk kez devlete ait petrol ekipmanlarını onarım için ABD'ye gönderiyor; bu, yıllarca süren yaptırımlar ve yetersiz yatırımın ardından geleneksel tedarikçilerle yeniden bağlantıya geçilmesinin bir işareti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/venezuela-oil-gear-to-be-repaired-in-us-for-first-time-in-years",
+    "ts": 1794412849000,
     "tags": []
    },
    {
@@ -531,66 +536,77 @@
     "tags": []
    },
    {
-    "t": "Goldman, Fortress and HBSC Back Rare Private Credit Deal in Saudi Arabia",
-    "tt": "Goldman, Fortress ve HBSC, Suudi Arabistan'da Nadir Özel Kredi Anlaşmasını Geri Aldı",
-    "s": "Goldman Sachs Group Inc., HSBC Holdings Plc and Fortress Investment Group are among financial heavyweights teaming up on one of Saudi Arabia’s first major private credit deals since the regional war began.",
-    "ss": "Goldman Sachs Group Inc., HSBC Holdings Plc ve Fortress Investment Group, bölgesel savaşın başlamasından bu yana Suudi Arabistan'ın ilk büyük özel kredi anlaşmalarından biri için bir araya gelen finans dünyasının önde gelen isimleri arasında yer alıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/goldman-fortress-and-hbsc-back-rare-private-credit-deal-in-saudi-arabia",
-    "ts": 1794405738000,
+    "t": "Latest Oil Market News and Analysis for Nov. 11",
+    "tt": "11 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil climbed after a two-day decline, as traders weighed mixed signals on the prospects for a conclusion to the Iran war.",
+    "ss": "Petrol fiyatları, tüccarların İran savaşının sona ermesine ilişkin karışık sinyallere ağırlık vermesiyle iki günlük düşüşün ardından tırmandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-10/latest-oil-market-news-and-analysis-for-nov-11",
+    "ts": 1794351664000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "California’s Kim Says Insurance Should Fund Wildfire Safety, Not Super Bowl Ads",
+    "tt": "Kaliforniyalı Kim, Sigortanın Super Bowl Reklamlarını Değil, Orman Yangını Güvenliğini Finanse Etmesi Gerektiğini Söyledi",
+    "s": "California’s newly elected insurance commissioner, a protégée of Vermont Senator Bernie Sanders, is promising sweeping changes to the state’s $3 trillion home and auto insurance market as climate-fueled wildfires drive up costs and private insurers flee.",
+    "ss": "Vermont Senatörü Bernie Sanders'ın himayesindeki Kaliforniya'nın yeni seçilen sigorta komiseri, iklim kaynaklı kontrol edilemeyen yangınların maliyetleri artırması ve özel sigortacıların kaçması nedeniyle eyaletin 3 trilyon dolarlık ev ve otomobil sigortası pazarında köklü değişiklikler vaat ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/california-s-kim-says-insurance-should-fund-wildfire-safety-not-super-bowl-ads",
+    "ts": 1794412402000,
     "tags": []
    },
    {
-    "t": "Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed",
-    "tt": "Anthropic'in Halka Arzına Birden Çok Kat Fazla Abone Olduğu Söyleniyor",
-    "s": "Anthropic PBC’s initial public offering has drawn multiple times the orders for the shares available, according to people familiar with the matter, as demand accelerates for potentially the biggest first-time share sale ever.",
-    "ss": "Konuya yakın kaynaklara göre Anthropic PBC'nin ilk halka arzı, potansiyel olarak şimdiye kadarki en büyük ilk hisse satışına yönelik talebin hızlanmasıyla birlikte, mevcut hisseler için birçok kez sipariş aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed",
-    "ts": 1794403034000,
+    "t": "Marsh Says Fed Should Ease Up on Banks That Insure AI Loans",
+    "tt": "Marsh, Fed'in Yapay Zeka Kredilerini Sigortalayan Bankalara Gevşemesi Gerektiğini Söyledi",
+    "s": "Marsh &amp; McLennan Cos. is lobbying US regulators to allow banks to hold less capital against loans covered by credit risk insurance as they look for new ways to offload data center exposure.",
+    "ss": "Marsh & McLennan Cos., veri merkezi riskinden kurtulmanın yeni yollarını ararken bankaların kredi riski sigortası kapsamındaki kredilere karşı daha az sermaye tutmalarına izin vermek için ABD'li düzenleyici kurumlarla lobi yapıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/marsh-says-fed-should-ease-up-on-banks-that-insure-ai-loans",
+    "ts": 1794411930000,
     "tags": []
    },
    {
-    "t": "Nvidia’s Bull Case Hinges on CEO Huang Surviving China Spy Probe",
-    "tt": null,
-    "s": "Nvidia Corp.’s investigation of Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy is raising questions about the company’s future and sending its stock into a tailspin.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
-    "ts": 1794344880000,
+    "t": "Ethan Allen CEO Out After Four Decades",
+    "tt": "Ethan Allen CEO'su Kırk Yıl Sonra Görevden Alındı",
+    "s": "Ethan Allen has named former Neiman Marcus Group executive Stefanie Tsen Ward as its interim CEO and expanded its board to nine people to include four more directors, after activist investor DGB Investments gained majority control of the board last week. Mengqi Sun reports on \"Bloomberg Open Interes",
+    "ss": "Ethan Allen, eski Neiman Marcus Group yöneticisi Stefanie Tsen Ward'ı geçici CEO olarak seçti ve aktivist yatırımcı DGB Investments'ın geçen hafta yönetim kurulunun çoğunluk kontrolünü ele geçirmesinin ardından yönetim kurulunu dört yöneticiyi daha içerecek şekilde dokuz kişiye genişletti. Mengqi Sun \"Bloomberg Açık İlgi Alanları\" hakkında rapor veriyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/ethan-allen-ceo-out-after-four-decades-video",
+    "ts": 1794411749000,
     "tags": []
    },
    {
-    "t": "Bajaj Finance Launches Up to $1.25 Billion Share Sale",
-    "tt": "Bajaj Finance 1,25 Milyar Dolara Varan Hisse Satışını Başlatıyor",
-    "s": "Bajaj Finance Ltd. launched a share sale to raise as much as 117 billion rupees ($1.25 billion) from institutional investors in Mumbai, according to terms seen by Bloomberg, in what would be the first major Indian equity offering since Jio Platforms Ltd.’s record $3.1 billion initial public offering",
-    "ss": "Bajaj Finance Ltd., Bloomberg'in gördüğü şartlara göre Mumbai'deki kurumsal yatırımcılardan 117 milyar rupi (1,25 milyar dolar) kadar toplamak için bir hisse satışı başlattı; bu, Jio Platforms Ltd.'nin 3,1 milyar dolarlık rekor ilk halka arzından bu yana Hindistan'ın ilk büyük hisse senedi arzı olacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/bajaj-finance-said-set-to-launch-up-to-1-2-billion-share-sale",
-    "ts": 1794379253000,
+    "t": "India Simplifies Visa Rules to Draw More Foreign Visitors",
+    "tt": "Hindistan Daha Fazla Yabancı Ziyaretçi Çekmek İçin Vize Kurallarını Basitleştiriyor",
+    "s": "India is making it easier for foreigners to visit the country, overhauling its visa system as it looks to draw more tourists, students and medical travelers, and facilitate business visits.",
+    "ss": "Hindistan, daha fazla turist, öğrenci ve tıbbi amaçlı seyahat edenleri çekmek ve iş ziyaretlerini kolaylaştırmak amacıyla vize sistemini elden geçirerek yabancıların ülkeyi ziyaret etmesini kolaylaştırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/india-simplifies-visa-rules-to-draw-more-foreign-visitors",
+    "ts": 1794411032000,
     "tags": []
    },
    {
-    "t": "Bloomberg Invest Dallas 2026 Highlights",
-    "tt": "Bloomberg Invest Dallas 2026'nın Öne Çıkanları",
-    "s": "As Dallas emerges as a formidable capital markets hub, Bloomberg Invest gathered CEOs, exchange operators, prominent investors and wealth management leaders to examine the shifting financial landscape. Discussions focused on issuer strategies, capital formation, AI opportunities and risks, and what'",
-    "ss": "Dallas müthiş bir sermaye piyasası merkezi olarak ortaya çıkarken Bloomberg Invest, değişen finansal manzarayı incelemek üzere CEO'ları, borsa operatörlerini, önde gelen yatırımcıları ve varlık yönetimi liderlerini bir araya getirdi. İhraççı stratejileri, sermaye oluşumu, yapay zeka fırsatları ve riskleri ile bunların neler olduğu konularına odaklanan tartışmalar",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/bloomberg-invest-dallas-2026-highlights-video",
-    "ts": 1794407214000,
-    "tags": []
+    "t": "Inflation Report Doesn't Warrant 50 Bps Fed Rate Hike, David Rosenberg Says",
+    "tt": "David Rosenberg, Enflasyon Raporunun Fed'in 50 Baz Bazlık Faiz Artışını Garanti Etmediğini Söyledi",
+    "s": "Rosenberg Research founder and President David Rosenberg says a 50 basis-point rate hike by the Federal Reserve in December is on the table but not firmly. (Source: Bloomberg)",
+    "ss": "Rosenberg Research'ün kurucusu ve Başkanı David Rosenberg, Fed'in Aralık ayında 50 baz puanlık faiz artırımının masada olduğunu ancak kesin olmadığını söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/cpi-report-doesn-t-warrant-50-bps-hike-david-rosenberg-video",
+    "ts": 1794410022000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    },
    {
-    "t": "Chile Trucker Protest Over Fuel Prices Imperils Farm Exports",
-    "tt": "Şili Kamyoncu Akaryakıt Fiyatlarını Protesto Etti Tarım İhracatını Etkiledi",
-    "s": "A protest by truckers and regional buses over fuel prices and roadway tolls was snarling traffic across Chile on Wednesday, threatening exports of fresh produce at the start of the country’s agricultural season.",
-    "ss": "Kamyoncuların ve bölgesel otobüslerin akaryakıt fiyatları ve otoyol geçiş ücretleri konusunda gerçekleştirdiği protesto, Çarşamba günü Şili genelinde trafiği karıştırdı ve ülkede tarım sezonunun başlangıcında taze ürün ihracatını tehdit etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/chile-trucker-protest-over-fuel-prices-imperils-farm-exports",
-    "ts": 1794406571000,
-    "tags": []
-   },
-   {
-    "t": "Virgin Atlantic Cuts Winter Capacity on Fuel Costs, Soft Demand",
-    "tt": "Virgin Atlantic, Yakıt Maliyetleri ve Yumuşak Talep Nedeniyle Kış Kapasitesini Düşürüyor",
-    "s": "Virgin Atlantic Airways Ltd. is cutting capacity as the UK carrier grapples with higher oil prices and softened demand.",
-    "ss": "Virgin Atlantic Airways Ltd., Birleşik Krallık'taki havayolunun yüksek petrol fiyatları ve zayıflayan taleple boğuşması nedeniyle kapasitesini düşürüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/virgin-atlantic-cuts-winter-capacity-on-fuel-costs-soft-demand",
-    "ts": 1794406497000,
+    "t": "US Stocks Rise as CoreWeave Outlook, Anthropic Revive AI Trade",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Yapay Zeka Coşkusu Sıcak Enflasyonla Mücadele Ederken Yükseliyor",
+    "s": "US stocks opened higher Wednesday after better-than-expected results from CoreWeave Inc., investor enthusiasm for Anthropic PBC’s IPO, and a blockbuster quarter for OpenAI are reviving the artificial intelligence trade.",
+    "ss": "ABD hisse senedi vadeli işlemleri, Coreweave Inc.'in beklenenden iyi sonuçları, Anthropic PBC'nin ilk halka arz beklentisi ve OpenAI için gişe rekorları kıran bir çeyreğin yapay zeka ticaretini canlandırmasıyla Çarşamba günü yükseliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+    "ts": 1794403725000,
     "tags": []
    }
   ],
@@ -694,6 +710,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
+    "tt": "Anthropic'in halka arz tanıtım gezisi başlıyor - ve büyük para zaten sıraya giriyor",
+    "s": "Despite nagging concerns over the AI trade, Anthropic’s IPO is reportedly seeing very strong demand.",
+    "ss": "Yapay zeka ticaretiyle ilgili rahatsız edici endişelere rağmen Anthropic'in halka arzına çok güçlü bir talep görüldüğü bildiriliyor.",
+    "u": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
+    "ts": 1794412980000,
+    "tags": []
+   },
+   {
+    "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
+    "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+    "ss": "\"Belki bir dahaki sefere diğer yaklaşımı deneyeceğim: Canım istediğinde uçağa bineceğim ve çantamı gördüğüm ilk açık yuvaya bırakacağım.\"",
+    "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "ts": 1794411000000,
+    "tags": []
+   },
+   {
+    "t": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+    "tt": "CoreWeave, Wall Street'in en büyük korkularını yatıştırırken Micron ve diğer yapay zeka hisseleri yükselişe geçti",
+    "s": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+    "ss": "CoreWeave'in gelişmiş yapay zeka ekonomisi ve gelecekteki borçlara ilişkin bir miktar disiplin gösterme sözü, çip sektöründe geniş bir yükselişe yol açıyor.",
+    "u": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+    "ts": 1794410760000,
+    "tags": []
+   },
+   {
+    "t": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+    "tt": "63 yaşındayım ve 500.000 dolarlık evimin çatı katına 95.000 dolar harcamak istiyorum. Bu iyi bir yatırım mı?",
+    "s": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with an outstanding balance of $295,000.”",
+    "ss": "\"2,3 milyon dolarlık net servetim var ve tek borcum, ödenmemiş bakiyesi 295.000 dolar olan 15 yıllık bir ipotek.\"",
+    "u": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+    "ts": 1794410700000,
+    "tags": []
+   },
+   {
+    "t": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+    "tt": "Yapay zeka ticareti tökezlerken piyasa kaygısı yatırımcıları düşük oynaklığa sahip hisse senetlerine yönlendiriyor",
+    "s": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
+    "ss": "ABD borsalarındaki kaygı, yapay zeka isimlerinde keskin satışlar ve inatçı yüksek tahvil getirileri nedeniyle arttı.",
+    "u": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+    "ts": 1794410100000,
+    "tags": []
+   },
+   {
     "t": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
     "tt": "Arabasında yaşamaktan 756 kredi puanına: Bir emektar mali durumunu nasıl yeniden inşa etti?",
     "s": "Many service members face an often invisible financial trap when they step out of uniform.",
@@ -737,54 +798,50 @@
     "u": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
     "ts": 1794405120000,
     "tags": []
-   },
-   {
-    "t": "Micron and other AI stocks surge as CoreWeave calms Wall Street’s worst fears",
-    "tt": "CoreWeave, Wall Street'in en büyük korkularını yatıştırırken Micron ve diğer yapay zeka hisseleri yükselişe geçti",
-    "s": "CoreWeave’s improved AI economics and its vow to show some discipline around future debt are sparking a broad rally across the chip sector.",
-    "ss": "CoreWeave'in gelişmiş yapay zeka ekonomisi ve gelecekteki borçlara ilişkin bir miktar disiplin gösterme sözü, çip sektöründe geniş bir yükselişe yol açıyor.",
-    "u": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-    "ts": 1794404220000,
-    "tags": []
-   },
-   {
-    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
-    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
-    "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
-    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "ts": 1794402900000,
-    "tags": []
-   },
-   {
-    "t": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-    "tt": "Children's Place'in iflas başvurusunda bulunmasının bir nedeni nedir? Yeterli çocuk yok.",
-    "s": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
-    "ss": "Zincir, düşen doğum oranları, temkinli tüketiciler, sıkı rekabet ve 881 milyon dolarlık borçla mücadele ediyor.",
-    "u": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-    "ts": 1794402900000,
-    "tags": []
-   },
-   {
-    "t": "22 stocks of companies with tremendous sales growth",
-    "tt": "Muazzam satış büyümesi gösteren 22 şirket hissesi",
-    "s": "These S&amp;P 500 companies have also shown improving profit margins and free cash flow this earnings season.",
-    "ss": "Bu S&P 500 şirketleri de bu kazanç sezonunda kar marjlarının ve serbest nakit akışının arttığını gösterdi.",
-    "u": "https://www.marketwatch.com/story/22-stocks-of-companies-with-tremendous-sales-growth-78c3f750?mod=mw_rss_topstories",
-    "ts": 1794402360000,
-    "tags": []
-   },
-   {
-    "t": "Keep Jensen Huang at Nvidia — but end the one-man show",
-    "tt": "Jensen Huang'ı Nvidia'da tutun ama tek kişilik gösteriye son verin",
-    "s": "Nvidia can’t afford to lose its CEO, but it’s time for the company to grow up and get serious about governance.",
-    "ss": "Nvidia CEO'sunu kaybetmeyi göze alamaz ancak artık şirketin büyüyüp yönetişim konusunda ciddileşme zamanı geldi.",
-    "u": "https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories",
-    "ts": 1794400200000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Oil Jumps Amid Fresh Tanker Attack; Iran Insists Nuclear Materal Won't Leave Its Soil",
+    "tt": "İran, Zenginleştirilmiş Uranyumun \"Tek Bir Atomunun\" Kendi Bölgesinden Transferini Reddetti",
+    "s": "Oil Jumps Amid Fresh Tanker Attack; Iran Insists Nuclear Materal Won't Leave Its Soil Update(10:45ET) : Several bits of negative news out of Iran and the Strait of Hormuz have served to push oil prices higher Wednesday morning. Yet another tanker has been struck by a sea mine in the strait, adding t",
+    "ss": "İran, Kendi Bölgesinden \"Tek Bir Atom\" Zenginleştirilmiş Uranyum Transferini Reddetti Bu hafta Körfez kaynaklı daha önceki raporlarla çelişen İranlı üst düzey güvenlik yetkilisi Mohsen Rezaei, ABD ile yapılacak herhangi bir anlaşmanın parçası olarak zenginleştirilmiş uranyumun ülke dışına transfer edilmesi ihtimalini reddetti. O biz",
+    "u": "https://www.zerohedge.com/geopolitical/iran-rejects-transferring-single-atom-enriched-uranium-its-territory",
+    "ts": 1794411900000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "\"Lots Of Distressing And Borderline Disturbing Reports\"",
+    "tt": "\"Çok sayıda Üzücü ve Sınırda Rahatsız Edici Raporlar\"",
+    "s": "\"Lots Of Distressing And Borderline Disturbing Reports\" By Michael Every of Rabobank As has been the norm in 2026 to date, there are lots of distressing and borderline disturbing reports this morning and very little sign of progress where it’s needed. For once these surprises don’t all cluster in th",
+    "ss": "\"Çok sayıda Üzücü ve Sınırda Rahatsız Edici Rapor\" Yazan Michael Every, Rabobank'tan 2026'da bugüne kadar norm olduğu gibi, bu sabah çok sayıda üzücü ve sınırda rahatsız edici rapor var ve ihtiyaç duyulan yerde çok az ilerleme işareti var. Bir kereliğine bu sürprizlerin hepsi burada kümelenmiyor",
+    "u": "https://www.zerohedge.com/markets/lots-distressing-and-borderline-disturbing-reports",
+    "ts": 1794411900000,
+    "tags": []
+   },
+   {
+    "t": "Abu Dhabi Talks Result In 'Large-Scale' Prisoner Exchange Between Russia & Ukraine",
+    "tt": "Abu Dabi Görüşmeleri Rusya ve Ukrayna Arasında 'Büyük Ölçekli' Esir Değişimiyle Sonuçlandı",
+    "s": "Abu Dhabi Talks Result In 'Large-Scale' Prisoner Exchange Between Russia &amp; Ukraine While there are no major or immediate breakthroughs expected from the trilateral talks in Abu Dhabi between Russia, Ukraine and the US - already some positive things are emerging. The group on Wednesday announced ",
+    "ss": "Abu Dabi Görüşmeleri Rusya ve Ukrayna Arasında 'Büyük Ölçekli' Esir Değişimiyle Sonuçlandı Her ne kadar Abu Dabi'de Rusya, Ukrayna ve ABD arasında yapılan üçlü görüşmelerden büyük veya acil bir ilerleme beklenmiyorsa da, halihazırda bazı olumlu şeyler ortaya çıkıyor. Grup çarşamba günü duyurdu",
+    "u": "https://www.zerohedge.com/geopolitical/abu-dhabi-talks-result-large-scale-prisoner-exchange-between-russia-ukraine",
+    "ts": 1794411000000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic's IPO Order Book Reportedly Booms But Graveyard Of 'Oversubscribed Deals' Signals Warning",
+    "tt": "Antropik Bankacılar, Zayıf Çıkışın Yapay Zeka Balonunu Patlatabileceği Uyarıları Arasında Daha Yüksek Halka Arz Değerlemesi İçin Baskı Yapıyor",
+    "s": "Anthropic's IPO Order Book Reportedly Booms But Graveyard Of 'Oversubscribed Deals' Signals Warning Summary: Bloomberg Says Anthropic IPO \" Multiple Times\" Oversubscribed&nbsp; Managing partner in Peter Thiel's family office Warns Anthropic IPO underperformance Could Pop AI&nbsp; Anthropic Bankers P",
+    "ss": "Antropik Bankacılar, Zayıf Çıkışın AI Balonunu Patlatabileceği Uyarıları Arasında Daha Yüksek Halka Arz Değerlemesi İçin Bastırdı Nasdaq vadeli işlemleri, CoreWeave'in kazançlarının Tayvan ve Kore hisse senetlerini bir gecede yükselterek güçlü satış büyümesi göstermesinin ardından Çarşamba sabahı toparlandı. Yapay zeka ticaretiyle ilgili duyarlılığın iyileşmesi ortaya çıkıyor",
+    "u": "https://www.zerohedge.com/markets/anthropic-bankers-push-higher-ipo-valuation-thiel-capitals-jack-selby-warns-weak-debut",
+    "ts": 1794410340000,
+    "tags": []
+   },
    {
     "t": "The Cruel Irony Of Veterans Day",
     "tt": "Gaziler Günü'nün Acımasız İronisi",
@@ -822,15 +879,6 @@
     "tags": []
    },
    {
-    "t": "Iran Rejects Transferring \"A Single Atom\" Of Enriched Uranium From Its Territory",
-    "tt": "İran, Zenginleştirilmiş Uranyumun \"Tek Bir Atomunun\" Kendi Bölgesinden Transferini Reddetti",
-    "s": "Iran Rejects Transferring \"A Single Atom\" Of Enriched Uranium From Its Territory Contradicting earlier Gulf-sourced reports from this week, top Iranian security official Mohsen Rezaei has rejected the prospect of transferring enriched uranium out of the country as part of any deal with the US. He we",
-    "ss": "İran, Kendi Bölgesinden \"Tek Bir Atom\" Zenginleştirilmiş Uranyum Transferini Reddetti Bu hafta Körfez kaynaklı daha önceki raporlarla çelişen İranlı üst düzey güvenlik yetkilisi Mohsen Rezaei, ABD ile yapılacak herhangi bir anlaşmanın parçası olarak zenginleştirilmiş uranyumun ülke dışına transfer edilmesi ihtimalini reddetti. O biz",
-    "u": "https://www.zerohedge.com/geopolitical/iran-rejects-transferring-single-atom-enriched-uranium-its-territory",
-    "ts": 1794404700000,
-    "tags": []
-   },
-   {
     "t": "UK Trader And \"Fake Private Equity Exec\" Sentenced Over Fake £154 Million Takeover Bid",
     "tt": "İngiliz Tüccar ve \"Sahte Özel Sermaye Yöneticisi\" Sahte 154 Milyon £'luk Devralma Teklifi Nedeniyle Mahkûm Edildi",
     "s": "UK Trader And \"Fake Private Equity Exec\" Sentenced Over Fake £154 Million Takeover Bid Fake it til you make it? Not always such a great idea... A British day trader who posed as a private equity executive to orchestrate a fake £154 million ($206 million) takeover bid has received a two-year suspende",
@@ -852,33 +900,6 @@
      "Altın ▼",
      "BTC ▼"
     ]
-   },
-   {
-    "t": "The Seduction Of Market Bounces On The Way Down",
-    "tt": "Piyasanın Baştan Çıkarması Düşerken Sıçrayıyor",
-    "s": "The Seduction Of Market Bounces On The Way Down Submitted by QTR's Fringe Finance Just wanted to offer up a quick lesson this morning because every time the market stages one of these violent next-day bounces like it had yesterday (NASDAQ was up about +3.7%), I find myself dealing with the same gian",
-    "ss": "Düşüş Yolunda Piyasanın Baştan Çıkarılması QTR'den Fringe Finance Tarafından Sunuldu Sadece bu sabah kısa bir ders vermek istedim çünkü ne zaman piyasa dün olduğu gibi bir sonraki gün şiddetli sıçramalardan birini gerçekleştirse (NASDAQ yaklaşık %+3,7 arttı), kendimi aynı devle uğraşırken buluyorum.",
-    "u": "https://www.zerohedge.com/markets/seduction-market-bounces-way-down",
-    "ts": 1794402900000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic Bankers Push For Higher IPO Valuation Amid Warnings That Weak Debut Could Prick AI Bubble",
-    "tt": "Antropik Bankacılar, Zayıf Çıkışın Yapay Zeka Balonunu Patlatabileceği Uyarıları Arasında Daha Yüksek Halka Arz Değerlemesi İçin Baskı Yapıyor",
-    "s": "Anthropic Bankers Push For Higher IPO Valuation Amid Warnings That Weak Debut Could Prick AI Bubble Nasdaq futures rallied Wednesday morning after CoreWeave's earnings showed strong sales growth , lifting Taiwanese and Korean equities overnight. Improving sentiment around the AI trade is emerging af",
-    "ss": "Antropik Bankacılar, Zayıf Çıkışın AI Balonunu Patlatabileceği Uyarıları Arasında Daha Yüksek Halka Arz Değerlemesi İçin Bastırdı Nasdaq vadeli işlemleri, CoreWeave'in kazançlarının Tayvan ve Kore hisse senetlerini bir gecede yükselterek güçlü satış büyümesi göstermesinin ardından Çarşamba sabahı toparlandı. Yapay zeka ticaretiyle ilgili duyarlılığın iyileşmesi ortaya çıkıyor",
-    "u": "https://www.zerohedge.com/markets/anthropic-bankers-push-higher-ipo-valuation-thiel-capitals-jack-selby-warns-weak-debut",
-    "ts": 1794402000000,
-    "tags": []
-   },
-   {
-    "t": "Tribunal Hearings Begin In UK-Argentina Row Over Falklands Oil Project",
-    "tt": "Falkland Petrol Projesi Konusunda İngiltere-Arjantin Anlaşmazlığında Mahkeme Duruşmaları Başladı",
-    "s": "Tribunal Hearings Begin In UK-Argentina Row Over Falklands Oil Project Authored by Charles Kennedy via Oilprice.com , The Hamburg-based International Tribunal for the Law of the Sea on Tuesday began hearings of Argentina's complaint about the UK's oil drilling project north of the Falkland Islands ,",
-    "ss": "İngiltere-Arjantin'deki Falkland Petrol Projesi Konusunda Mahkeme Duruşmaları Başlıyor Charles Kennedy tarafından Oilprice.com aracılığıyla yazılan Hamburg merkezli Uluslararası Deniz Hukuku Mahkemesi, Arjantin'in Birleşik Krallık'ın Falkland Adaları'nın kuzeyindeki petrol sondaj projesiyle ilgili şikayetine ilişkin duruşmalara Salı günü başladı.",
-    "u": "https://www.zerohedge.com/geopolitical/tribunal-hearings-begin-uk-argentina-row-over-falklands-oil-project",
-    "ts": 1794399900000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
@@ -975,6 +996,7 @@
   ]
  },
  "errors": {
+  "crypto": "429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Cethereum%2Csolana%2Cripple%2Cbinanc",
   "fred:DFF": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS10": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
@@ -986,7 +1008,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "500 Server Error: Internal Server Error for url: https://translate.googleapis.com/translate_a/single",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
