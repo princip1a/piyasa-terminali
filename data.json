@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-11T20:12:15.013528+00:00",
+ "generated": "2026-11-11T22:40:28.029763+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7624.59,
-   "c": 1.38,
-   "d": 103.66,
+   "p": 7619.38,
+   "c": 1.31,
+   "d": 98.45,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25502.14,
-   "c": 1.74,
-   "d": 436.271,
+   "p": 25466.19,
+   "c": 1.6,
+   "d": 400.321,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52482.53,
-   "c": 0.48,
-   "d": 250.639,
+   "p": 52486.49,
+   "c": 0.49,
+   "d": 254.599,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.46,
-   "c": -10.28,
-   "d": -2.0,
+   "p": 17.49,
+   "c": -10.12,
+   "d": -1.97,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3992.3,
-   "c": -0.94,
-   "d": -37.9,
+   "p": 3994.3,
+   "c": -0.89,
+   "d": -35.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.795,
-   "c": 1.36,
-   "d": 0.694,
+   "p": 51.68,
+   "c": 1.13,
+   "d": 0.579,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.31,
-   "c": 0.31,
-   "d": 0.27,
+   "p": 86.42,
+   "c": 0.44,
+   "d": 0.38,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.45,
-   "c": 1.05,
-   "d": 0.96,
+   "p": 92.63,
+   "c": 1.25,
+   "d": 1.14,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.899,
-   "c": 0.65,
-   "d": 0.669,
+   "p": 102.909,
+   "c": 0.66,
+   "d": 0.679,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2206,
-   "c": 0.01,
-   "d": 0.005,
+   "p": 50.2358,
+   "c": 0.04,
+   "d": 0.02,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11666.42,
-   "c": 0.04,
-   "d": 4.52,
+   "c": -0.4,
+   "d": -46.28,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 74401,
-   "c": 1.4,
+   "p": 74112,
+   "c": 0.55,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2078.18,
-   "c": 1.76,
+   "p": 2062.45,
+   "c": 0.66,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 84.84,
-   "c": 2.27,
+   "p": 84.01,
+   "c": 1.24,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.06,
-   "c": -0.31,
+   "p": 1.057,
+   "c": 0.08,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 685.91,
-   "c": 1.74,
+   "p": 682.68,
+   "c": 0.77,
    "k": "usd"
   }
  ],
@@ -504,104 +504,93 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Gold Falls Below $4,000 as Traders Assess Inflation, Fed Remarks",
-    "tt": "Fed, Yatırımcıların Enflasyonu Değerlendirmesiyle Altın 4.000 Doların Altına Düştü",
-    "s": "Gold slipped, extending losses triggered by a high US inflation print and hawkish remarks from Federal Reserve officials that reinforced expectations of a December rate hike.",
-    "ss": "Altın, ABD'deki yüksek enflasyon verilerinin ve Fed yetkililerinin Aralık ayında faiz artırımına ilişkin beklentileri güçlendiren şahin açıklamalarının tetiklediği kayıpları genişleterek geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
-    "ts": 1794353584000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Crunch Fitness Seeks to Borrow $800 Million From ABS Bond Sale",
-    "tt": "Crunch Fitness, ABS Tahvili Satışından 800 Milyon Dolar Borç Almak İstiyor",
-    "s": "Crunch Fitness is looking to raise about $800 million from a bond sale backed by the company’s franchise revenue, adding to a string of companies tapping the whole-business securitization market in recent weeks.",
-    "ss": "Crunch Fitness, şirketin franchise geliriyle desteklenen tahvil satışından yaklaşık 800 milyon dolar elde etmeyi planlıyor ve bu, son haftalarda tüm işletme menkul kıymetleştirme pazarından yararlanan bir dizi şirkete katkıda bulunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
-    "ts": 1794426963000,
+    "t": "Nissan's Ivan Espinosa on China, US, Japan Markets and Company Outlook",
+    "tt": null,
+    "s": "Nissan CEO Ivan Espinosa spoke to Bloomberg News' Nicholas Takahashi about the company's outlook following its earnings, including growth prospects in major markets such as China, the US and Japan. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/nissan-s-ivan-espinosa-on-china-us-japan-markets-video",
+    "ts": 1794436168000,
     "tags": []
    },
    {
-    "t": "H&R’s $4.7 Billion Breakup Faces Revolt by Major Investors",
-    "tt": "H&R'ın 4,7 Milyar Dolarlık Ayrılığı Büyük Yatırımcıların İsyanıyla Karşı Karşıya",
-    "s": "H&amp;R Real Estate Investment Trust’s C$6.7 billion ($4.7 billion) breakup is facing a growing shareholder revolt, with some of the world’s biggest pension funds lining up against a deal that would hand a chunk of the Canadian landlord’s properties to the family of its chief executive officer.",
-    "ss": "H&R Gayrimenkul Yatırım Ortaklığı'nın 6,7 milyar Kanada doları (4,7 milyar dolar) değerindeki çöküşü, dünyanın en büyük emeklilik fonlarından bazılarının Kanadalı ev sahibinin mülklerinin bir kısmını icra kurulu başkanının ailesine devredecek bir anlaşmaya karşı çıkmasıyla büyüyen bir hissedar isyanıyla karşı karşıya.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/h-r-s-4-7-billion-breakup-faces-revolt-by-major-investors",
-    "ts": 1794423840000,
+    "t": "Asian Stocks Set to Gain on Renewed US Tech Rally: Markets Wrap",
+    "tt": null,
+    "s": "Asian stocks were set for gains, tracking a Wall Street rally led by technology giants as bets grew that the artificial-intelligence trade powering the bull market is far from over.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794434885000,
     "tags": []
    },
    {
-    "t": "Voters Asking For 'Bold Action' From Democrats, Says Deluzio",
-    "tt": "Deluzio: Seçmenler Demokratlardan 'Cesur Eylem' İstiyor",
-    "s": "Democratic Representative Chris Deluzio, who’s on the House Armed Services Committee, said the failed impeachment effort of Pete Hegseth 'shouldn't be the end of the oversight' over the defense secretary. Deluzio, who represents Pennsylvania's 17th District, said that holding the Trump administratio",
-    "ss": "Temsilciler Meclisi Silahlı Hizmetler Komitesi'nde yer alan Demokrat Temsilci Chris Deluzio, Pete Hegseth'in başarısız azil çabasının savunma bakanı üzerindeki 'gözetiminin sonu olmaması gerektiğini' söyledi. Pensilvanya'nın 17. Bölgesini temsil eden Deluzio, Trump yönetimini elinde tuttuğunu söyledi",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/voters-asking-for-bold-action-from-dems-says-deluzio-video",
-    "ts": 1794424968000,
+    "t": "BHP Names Adrian Wood as CFO to Succeed Vandita Pant",
+    "tt": null,
+    "s": "BHP Group has named Adrian Wood to succeed Chief Financial Officer Vandita Pant when she steps down from the role in February.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/bhp-names-adrian-wood-as-cfo-to-succeed-vandita-pant-mwcnk5t7",
+    "ts": 1794433810000,
     "tags": []
    },
    {
-    "t": "Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts",
-    "tt": "Nükleer Canlanma CME'yi (CME) Fiziksel Uranyum Sözleşmelerinde İlerlemeye Teşvik Ediyor",
-    "s": "The nuclear power boom is prompting CME Group Inc. to move ahead with a new futures contract backed by physical supplies of uranium, a key fuel source.",
-    "ss": "Nükleer enerjideki patlama, CME Group Inc.'i, temel yakıt kaynağı olan uranyumun fiziksel tedariğiyle desteklenen yeni bir vadeli işlem sözleşmesiyle ilerlemeye sevk ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts",
-    "ts": 1794416011000,
+    "t": "BC Partners to Buy Investcorp BDC Amid Private Credit Shakeout",
+    "tt": null,
+    "s": "Buyout firm BC Partners has agreed to purchase a struggling business development company from Investcorp, as turbulence in the $1.8 trillion private credit market continues to fuel consolidation.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/bc-partners-to-buy-investcorp-bdc-amid-private-credit-shakeout",
+    "ts": 1794434605000,
     "tags": []
    },
    {
-    "t": "Wall St Races for Megadeals as Countdown Begins on Trump Era",
-    "tt": "Trump Döneminde Geri Sayım Başlarken Wall St Megadeals İçin Yarışıyor",
-    "s": "Bloomberg’s Ryan Gould joins Dani Burger on “Bloomberg Deals.” President Trump’s return to the White House changed the political calculus around mergers and acquisitions, reviving companies’ desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock. (Source",
-    "ss": "Bloomberg'den Ryan Gould, \"Bloomberg Fırsatları\"nda Dani Burger'a katılıyor. Başkan Trump'ın Beyaz Saray'a dönüşü, birleşme ve satın almalarla ilgili siyasi hesapları değiştirdi ve şirketlerin başarılması zor hale gelen rüya anlaşmalara olan arzusunu yeniden canlandırdı. Artık kurumsal Amerika iş başında. (Kaynak",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/wall-st-races-for-megadeals-as-trump-era-wanes-video",
-    "ts": 1794424452000,
+    "t": "It’s Good to Be #ComputeBlessed",
+    "tt": null,
+    "s": "Bifurcation in the market for AI debt.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-11/it-s-good-to-be-computeblessed",
+    "ts": 1794433572000,
     "tags": []
    },
    {
-    "t": "US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap",
-    "tt": "Fed'in Artış Bahisleri Arttıkça Asya Hisse Senetleri ve Tahviller Düşecek: Piyasalar Tamamlandı",
-    "s": "A rally in tech giants lifted stocks on bets the artificial-intelligence trade that has powered the bull market has more room to run.",
-    "ss": "Asya hisse senetleri ve tahvilleri, beklenenden yüksek seyreden ABD enflasyonunun Wall Street'te kayıplara yol açması ve Fed'in fiyatları kontrol altına almak için faiz oranlarını daha agresif bir şekilde artırabileceği yönündeki bahisleri alevlendirmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794349925000,
+    "t": "Paraguay on Watch for Downgrade at Fitch After Bank Collapse",
+    "tt": null,
+    "s": "Fitch Ratings placed Paraguay’s credit rating on watch for a potential downgrade on Wednesday, citing risks to the nation’s finances and economy from a banking crisis that toppled President Santiago Peña and rattled investors.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/paraguay-on-watch-for-downgrade-at-fitch-after-bank-collapse",
+    "ts": 1794433401000,
     "tags": []
    },
    {
-    "t": "Marvell-Lumentum Deal Odds Near Coin Flip",
-    "tt": "Yazı-turaya yakın Marvell-Lumentum Anlaşma Oranları",
-    "s": "Bloomberg’s Yiqin Shen joins Dani Burger on “Bloomberg Deals.” Marvell Technology’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings is getting a lukewarm early verdict from investment experts who bet on deals. (Source: Bloomberg)",
-    "ss": "Bloomberg'den Yiqin Shen, \"Bloomberg Fırsatları\"nda Dani Burger'a katılıyor. Marvell Technology'nin, Lumentum Holdings'i 115 milyar dolarlık gişe rekorları kıran bir satın alma yoluyla yapay zekayı ikiye katlama planı, anlaşmalara bahis oynayan yatırım uzmanlarından ılımlı bir erken karar alıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/marvell-lumentum-deal-odds-near-coin-flip-video",
-    "ts": 1794423910000,
+    "t": "Nasdaq 100 Rallies as CoreWeave Quells AI Fears, Draws Buyers In",
+    "tt": null,
+    "s": "US technology stocks rallied Wednesday, with the technology-heavy Nasdaq 100 index nearly erasing losses since the US midterm election, as renewed excitement over the artificial intelligence trade lured dip buyers in.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
+    "ts": 1794403725000,
     "tags": []
    },
    {
-    "t": "Canadian Heavy Crude Rebounds Amid Cheaper Tanker Costs",
-    "tt": "Kanada'nın ağır ham petrolü, ucuz tanker maliyetleri nedeniyle toparlandı",
-    "s": "Canadian heavy crude has strengthened from the weakest in eight years as a surge in tanker rates subsides and oil prices drop.",
-    "ss": "Kanada ağır ham petrolü, tanker oranlarındaki artışın azalması ve petrol fiyatlarının düşmesiyle sekiz yılın en zayıf seviyesinden güçlendi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/canadian-heavy-crude-rebounds-amid-cheaper-tanker-costs",
-    "ts": 1794423845000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "Lula Unveils Plan to Curb Spending Growth in Bid to Calm Fiscal Worries",
+    "tt": null,
+    "s": "Brazil’s government unveiled a package of measures meant to shore up public finances and ease investor concerns about rising public debt, as President Luiz Inácio Lula da Silva aims to alleviate fiscal fears that have roiled markets since his election victory.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
+    "ts": 1794432864000,
+    "tags": []
    },
    {
-    "t": "Anticipate Some Defense Deals Pausing: Antenucci",
-    "tt": "Bazı Savunma Anlaşmalarının Duraklatılacağını Tahmin Edin: Antenucci",
-    "s": "Anita Antenucci, founder & managing partner at 3Wire Partners, joins Dani Burger on “Bloomberg Deals.” They discuss the flow of defense deals and how they may slow after Congressional control switched to Democrats. (Source: Bloomberg)",
-    "ss": "3Wire Partners'ın kurucusu ve yönetici ortağı Anita Antenucci, \"Bloomberg Deals\" programında Dani Burger'e katılıyor. Savunma anlaşmalarının akışını ve Kongre'nin kontrolü Demokratların eline geçtikten sonra bunların nasıl yavaşlayabileceğini tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/anticipate-some-defense-deals-pausing-antenucci-video",
-    "ts": 1794423664000,
+    "t": "Why Nordstrom Decided to Go Private",
+    "tt": null,
+    "s": "Nordstrom Co-CEO Pete Nordstrom, says that there is \"a lot of headroom\" in the firm's Rack concept and that he and his brother, Co-CEO Erik Nordstrom, wanted more influence over some of the company's decisions in explaining why they took Nordstrom private in 2025. He speaks with Bloomberg's Romaine ",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-11/why-nordstrom-decided-to-go-private-video",
+    "ts": 1794432700000,
+    "tags": []
+   },
+   {
+    "t": "Funds Warn Brazil $126 Billion Stock Market Rout Isn’t Over",
+    "tt": null,
+    "s": "The rout in Brazilian assets sparked by Luiz Inácio Lula da Silva’s re-election shows little sign of abating, with some of the nation’s biggest money managers saying a downturn that has already wiped out months of gains could get even worse.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/funds-warn-brazil-126-billion-stock-market-rout-isn-t-over-yet",
+    "ts": 1794404891000,
     "tags": []
    }
   ],
@@ -699,75 +688,12 @@
   ],
   "MarketWatch": [
    {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimini kesmeli mi?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794427200000,
-    "tags": []
-   },
-   {
     "t": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
     "tt": "63 yaşındayım ve 500.000 dolarlık evimin çatı katına 95.000 dolar harcamak istiyorum. Bu iyi bir yatırım mı?",
     "s": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
     "ss": "\"2,3 milyon dolarlık net servetim var ve tek borcum, ödenmemiş bakiyesi 295.000 dolar olan 15 yıllık bir ipotek.\"",
     "u": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "ts": 1794426060000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-    "tt": "Nvidia, Washington lobi faaliyetlerine her zamankinden daha fazla para harcıyor. Bu, Kongre'nin Çin çip satışlarını şu anda sınırlamasını engellemeyebilir.",
-    "s": "‘There’s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,’ says a former U.S. ambassador to Beijing",
-    "ss": "ABD'nin eski Pekin büyükelçisi, \"Kongre'nin Çin'e gelişmiş yarı iletkenlerin satışının tamamen yasaklanması için baskı yapacağına şüphe yok\" dedi",
-    "u": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
-    "ts": 1794422880000,
-    "tags": []
-   },
-   {
-    "t": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
-    "tt": "Bu analist, Oracle'ın hisselerinin tamamen yanlış anlaşıldığını ve yapay zekanın \"gitmesi gereken\" bir oyun olması gerektiğini söylüyor",
-    "s": "A Bernstein analyst thinks two key investor concerns will soon subside.",
-    "ss": "Bir Bernstein analisti, yatırımcıların iki önemli kaygısının yakında azalacağını düşünüyor.",
-    "u": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
-    "ts": 1794420780000,
-    "tags": []
-   },
-   {
-    "t": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
-    "tt": "Nvidia güneşe çok mu yakın uçtu? Bir analist önümüzdeki dönemde büyük bir inceleme yapılacağı konusunda uyarıyor.",
-    "s": "A Baird analyst no longer recommends buying the chip maker’s stock as its problems mount.",
-    "ss": "Bir Baird analisti, sorunlar arttıkça artık çip üreticisinin hisselerinin satın alınmasını önermiyor.",
-    "u": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
-    "ts": 1794417180000,
-    "tags": []
-   },
-   {
-    "t": "Need money for a down payment? More employers are offering to help.",
-    "tt": "Peşinat için paraya mı ihtiyacınız var? Daha fazla işveren yardım teklif ediyor.",
-    "s": "The rise in home-buying help from employers “speaks volumes about how difficult buying a home has become, even for people with steady jobs.”",
-    "ss": "İşverenlerden gelen ev satın alma yardımlarındaki artış, \"düzenli işi olan insanlar için bile ev satın almanın ne kadar zor hale geldiğinin çok açık bir göstergesi.\"",
-    "u": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
-    "ts": 1794416760000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
-    "tt": "Anthropic'in halka arz tanıtım gezisi başlıyor - ve büyük para zaten sıraya giriyor",
-    "s": "Despite nagging concerns over the AI trade, Anthropic’s IPO is reportedly seeing very strong demand.",
-    "ss": "Yapay zeka ticaretiyle ilgili rahatsız edici endişelere rağmen Anthropic'in halka arzına çok güçlü bir talep görüldüğü bildiriliyor.",
-    "u": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
-    "ts": 1794412980000,
-    "tags": []
-   },
-   {
-    "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
-    "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-    "ss": "\"Belki bir dahaki sefere diğer yaklaşımı deneyeceğim: Canım istediğinde uçağa bineceğim ve çantamı gördüğüm ilk açık yuvaya bırakacağım.\"",
-    "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "ts": 1794411000000,
+    "ts": 1794436200000,
     "tags": []
    },
    {
@@ -776,112 +702,211 @@
     "s": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
     "ss": "CoreWeave'in gelişmiş yapay zeka ekonomisi ve gelecekteki borçlara ilişkin bir miktar disiplin gösterme sözü, çip sektöründe geniş bir yükselişe yol açıyor.",
     "u": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-    "ts": 1794410760000,
+    "ts": 1794434700000,
     "tags": []
    },
    {
-    "t": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-    "tt": "Yapay zeka ticareti tökezlerken piyasa kaygısı yatırımcıları düşük oynaklığa sahip hisse senetlerine yönlendiriyor",
-    "s": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
-    "ss": "ABD borsalarındaki kaygı, yapay zeka isimlerinde keskin satışlar ve inatçı yüksek tahvil getirileri nedeniyle arttı.",
-    "u": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
-    "ts": 1794410100000,
+    "t": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+    "tt": null,
+    "s": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+    "ts": 1794434100000,
+    "tags": []
+   },
+   {
+    "t": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+    "tt": null,
+    "s": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+    "ts": 1794433320000,
+    "tags": []
+   },
+   {
+    "t": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
+    "tt": null,
+    "s": "Various “structural changes” afoot in the memory industry could help Sandisk shares more than double from here, according to an Evercore analyst.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+    "ts": 1794433200000,
+    "tags": []
+   },
+   {
+    "t": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+    "tt": null,
+    "s": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+    "ts": 1794432060000,
+    "tags": []
+   },
+   {
+    "t": "Bloom Energy’s stock is rallying as data-center jitters subside",
+    "tt": null,
+    "s": "CoreWeave’s upbeat outlook helped calm nerves around the energy company.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
+    "ts": 1794431640000,
+    "tags": []
+   },
+   {
+    "t": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
+    "tt": null,
+    "s": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+    "ts": 1794430380000,
+    "tags": []
+   },
+   {
+    "t": "The trillion-dollar mistake corporate America is making about retirement",
+    "tt": null,
+    "s": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    "ts": 1794429960000,
+    "tags": []
+   },
+   {
+    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "tt": null,
+    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "ts": 1794429900000,
     "tags": []
    }
   ],
   "ZeroHedge": [
    {
-    "t": "Trump Picks Palantir's Security Chief To Run CISA",
-    "tt": "Trump, CISA'yı Yönetmek İçin Palantir'in Güvenlik Şefini Seçti",
-    "s": "Trump Picks Palantir's Security Chief To Run CISA Authored by Owen Evans via The Epoch Times , The White House said on Monday it nominated Michael LoSapio to lead America's premier cyber defense agency . If confirmed by the Senate, LoSapio will take over from the Department of Homeland Security's Cy",
-    "ss": "Trump, CISA'yı Yönetmek İçin Palantir'in Güvenlik Şefini Seçti Owen Evans tarafından The Epoch Times aracılığıyla yazılan yazıda Beyaz Saray, Pazartesi günü Amerika'nın önde gelen siber savunma teşkilatının başına Michael LoSapio'yu aday gösterdiğini söyledi. Senato tarafından onaylanması halinde LoSapio, İç Güvenlik Bakanlığı'na bağlı Cy'nin görevini devralacak",
-    "u": "https://www.zerohedge.com/political/trump-picks-palantirs-security-chief-run-cisa",
-    "ts": 1794426600000,
+    "t": "Middle East Oil Flows Far From Normal Despite Signs Of Oversupply",
+    "tt": null,
+    "s": "Middle East Oil Flows Far From Normal Despite Signs Of Oversupply Authored by Tsvetana Paraskova via OilPrice , Middle Eastern crude exports have recovered to near pre-war levels, raising fears of an oil glut and pushing Brent down roughly 17% in five trading days. Record tanker rates and war insura",
+    "ss": null,
+    "u": "https://www.zerohedge.com/energy/middle-east-oil-flows-far-normal-despite-signs-oversupply",
+    "ts": 1794436800000,
     "tags": []
    },
    {
-    "t": "Peltola's Alaska Lead Now Tops Every 'Decoy Dan' Vote... Trump's Math Just Broke",
-    "tt": "Peltola'nın Alaska Lideri Artık Tüm 'Tuzak Dan' Oylarının Önünde... Trump'ın Matematiği Çöktü",
-    "s": "Peltola's Alaska Lead Now Tops Every 'Decoy Dan' Vote... Trump's Math Just Broke Democrat Mary Peltola's lead over Sen. Dan Sullivan (R-Alaska) has grown past the vote total of the second Dan Sullivan on the ballot , so even handing the senator every vote cast for the man Republicans call \"Decoy Dan",
-    "ss": "Peltola'nın Alaska Lideri Artık Tüm 'Tuzak Dan' Oylarının Önünde... Trump'ın Matematiği Demokrat Mary Peltola'nın Senatör Dan Sullivan (R-Alaska) üzerindeki üstünlüğü, oylamada ikinci Dan Sullivan'ın oy toplamını aştı, böylece kullanılan her oy senatöre Cumhuriyetçilerin \"Tuzak Dan\" dediği adama veriliyor.",
-    "u": "https://www.zerohedge.com/political/peltolas-alaska-lead-now-tops-every-decoy-dan-vote-trumps-math-just-broke",
-    "ts": 1794425700000,
+    "t": "Nvidia Preparing To Fire Huang After 2nd Affair Bombshell, Stock Knifes Lower: Report",
+    "tt": null,
+    "s": "Nvidia Preparing To Fire Huang After 2nd Affair Bombshell, Stock Knifes Lower: Report *** Update: NVIDIA PREPARING TO OUST NVIDIA CEO JENSEN HUANG: WSJ&nbsp; Nvidia is reportedly preparing to remove founder and CEO Jensen Huang following revelations of two extramarital affairs, including one involvi",
+    "ss": null,
+    "u": "https://www.zerohedge.com/ai/caught-video-jensen-huang-reportedly-had-second-affair-time-his-own-nvidia-executive",
+    "ts": 1794435613000,
     "tags": []
    },
    {
-    "t": "RFK Jr. Says Big Developments Coming In Wake Of Midterms",
-    "tt": "RFK Jr. Ara Sınavların Ardından Büyük Gelişmelerin Geleceğini Söyledi",
-    "s": "RFK Jr. Says Big Developments Coming In Wake Of Midterms Authored by Zachary Stieber via The Epoch Times , Health Secretary Robert F. Kennedy Jr. said Nov. 9 that multiple recent changes are paving the way for major reforms he has been unable to enact in his nearly two years as the nation's top heal",
-    "ss": "RFK Jr. Ara Sınavların Ardından Büyük Gelişmeler Geleceğini Söyledi Yazan: Zachary Stieber, The Epoch Times aracılığıyla, Sağlık Bakanı Robert F. Kennedy Jr. 9 Kasım'da yaptığı açıklamada, son zamanlarda yapılan çok sayıda değişikliğin, ülkenin en iyi şifacı olarak görev yaptığı yaklaşık iki yıl boyunca uygulamaya koyamadığı büyük reformların önünü açtığını söyledi.",
-    "u": "https://www.zerohedge.com/medical/rfk-jr-says-big-developments-coming-wake-midterms",
-    "ts": 1794424800000,
+    "t": "Trump And Texas' New Democrat Governor Are Headed For War Over The Border",
+    "tt": null,
+    "s": "Trump And Texas' New Democrat Governor Are Headed For War Over The Border The midterms did more than change which party will control Congress for the next year. By electing Gina Hinojosa governor, Texas voters ended a decade-long partnership between Austin and Washington on the border and set the st",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/trump-and-texas-new-democrat-governor-are-headed-war-over-border",
+    "ts": 1794435600000,
     "tags": []
    },
    {
-    "t": "Watch: Bizarre Tentacled UFO Filmed Floating Near Major U.S. Military Base; Witnesses Speak",
-    "tt": "İzleyin: Büyük ABD Askeri Üssü Yakınında Yüzen Tuhaf Dokunaçlı UFO Filme Alındı; Tanıklar Konuşuyor",
-    "s": "Watch: Bizarre Tentacled UFO Filmed Floating Near Major U.S. Military Base; Witnesses Speak A bizarre, jellyfish-shaped object with dangling tentacles has been captured on video hovering in the skies near a major U.S. military installation , leaving witnesses baffled by what they saw, the Daily Mail",
-    "ss": "İzleyin: Büyük ABD Askeri Üssü Yakınında Yüzen Tuhaf Dokunaçlı UFO Filme Alındı; Tanıklar Konuşuyor Daily Mail, büyük bir ABD askeri tesisinin yakınında gökyüzünde asılı duran dokunaçları olan tuhaf, denizanası şeklindeki bir nesnenin, tanıkları gördükleri karşısında şaşkına çevirdiğini kaydetti.",
-    "u": "https://www.zerohedge.com/political/watch-bizarre-tentacled-ufo-filmed-floating-near-major-us-military-base-witnesses-speak",
-    "ts": 1794423000000,
+    "t": "Meta's AI Will Now Guess Your Age On Instagram... Even If You Say You're An Adult",
+    "tt": null,
+    "s": "Meta's AI Will Now Guess Your Age On Instagram... Even If You Say You're An Adult Authored by Naveen Athrappully via The Epoch Times , Meta Platforms is expanding its AI-powered age-estimation technology to identify Instagram users suspected of being teenagers, even if they registered with an adult ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/technology/metas-ai-will-now-guess-your-age-instagram-even-if-you-say-youre-adult",
+    "ts": 1794434400000,
     "tags": []
    },
    {
-    "t": "America's Beer Slump Summed Up In One Chart",
-    "tt": "Amerika'nın Bira Çöküşü Tek Grafikte Özetlendi",
-    "s": "America's Beer Slump Summed Up In One Chart Bank of America analysts spot a sobering milestone for America's beer industry : shipments are on track to fall below 1980 levels this year as stretched household budgets collide with changing drinking habits . The explosion of GLP-1 drug demand, cannabis ",
-    "ss": "Amerika'daki Bira Çöküşü Tek Bir Grafikte Özetlendi Bank of America analistleri Amerika'nın bira endüstrisi için ciddi bir dönüm noktasına dikkat çekiyor: azalan hane halkı bütçeleri değişen içme alışkanlıklarıyla çatıştığı için sevkiyatlar bu yıl 1980 seviyelerinin altına düşme yolunda ilerliyor. GLP-1 uyuşturucu talebinde patlama, esrar",
-    "u": "https://www.zerohedge.com/personal-finance/americas-beer-slump-summed-one-chart",
-    "ts": 1794422100000,
+    "t": "David Sacks Sounds Alarm Over Democrats' Most Terrifying Censorship Plan Yet",
+    "tt": null,
+    "s": "David Sacks Sounds Alarm Over Democrats' Most Terrifying Censorship Plan Yet David Sacks, who stepped down as President Trump's AI and crypto czar in March, says it's \"100%\" that the Democrats who just won Congress will make a major push for AI legislation, and that the end state is \"a surveillance ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/ai/david-sacks-sounds-alarm-over-democrats-most-terrifying-censorship-plan-yet",
+    "ts": 1794433200000,
     "tags": []
    },
    {
-    "t": "Trump Wins Major Ruling In Defamation Lawsuit Against BBC",
-    "tt": "Trump, BBC'ye Açılan Hakaret Davasında Önemli Kararı Kazandı",
-    "s": "Trump Wins Major Ruling In Defamation Lawsuit Against BBC Authored by Jonathan Turley via Jonathan Turley , President Donald Trump's lawsuit against the BBC for defamation just received a green light from a federal judge to go forward to trial. Judge Jeffrey Kuntz (S.D. Fla.) ruled in Trump v. BBC t",
-    "ss": "Trump, BBC'ye Karşı Hakaret Davasında Büyük Kararı Kazandı Yazan Jonathan Turley, Jonathan Turley aracılığıyla, Başkan Donald Trump'ın BBC'ye hakaret nedeniyle açtığı dava, federal bir yargıçtan duruşmaya çıkması için yeşil ışık aldı. Yargıç Jeffrey Kuntz (S.D. Fla.) Trump v. BBC davasında karar verdi",
-    "u": "https://www.zerohedge.com/political/trump-wins-major-ruling-defamation-lawsuit-against-bbc",
-    "ts": 1794421200000,
+    "t": "When A Society Has Reached Its Limits, Reforms No Longer Fix What's Broken",
+    "tt": null,
+    "s": "When A Society Has Reached Its Limits, Reforms No Longer Fix What's Broken Authored by Charles Hugh Smith via OfTwoMinds blog , The most difficult part of my framework to grasp is the keystone: our system has reached its limits. The difficulty is that this is impossible to understand if one is embed",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/when-society-has-reached-its-limits-reforms-no-longer-fix-whats-broken",
+    "ts": 1794432000000,
     "tags": []
    },
    {
-    "t": "Reports Say Trump, Netanyahu Engaged In \"Shouting Match From Hell\" - Bibi Denies",
-    "tt": "Raporlar, Trump ve Netanyahu'nun \"Cehennemden Gelen Bağırma Maçına\" Girdiklerini Söylüyor - Bibi Reddediyor",
-    "s": "Reports Say Trump, Netanyahu Engaged In \"Shouting Match From Hell\" - Bibi Denies It is being widely reported that Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump held a post midterm election phone call over the weekend related to the possibility of restarting a bombing campai",
-    "ss": "Raporlar, Trump ve Netanyahu'nun \"Cehennemden Bağırma Maçı\" Yaptığını Söylüyor - Bibi Reddediyor İsrail Başbakanı Benjamin Netanyahu ve ABD Başkanı Donald Trump'ın hafta sonu ara seçim sonrası bir bombalama kampanyasını yeniden başlatma olasılığıyla ilgili bir telefon görüşmesi yaptığı yaygın olarak bildiriliyor",
-    "u": "https://www.zerohedge.com/geopolitical/reports-say-trump-netanayhu-engaged-shouting-match-hell-phone-call-bibi-denies",
-    "ts": 1794420300000,
+    "t": "Alina Habba Fired From $50M Gig After Trump Outburst",
+    "tt": null,
+    "s": "Alina Habba Fired From $50M Gig After Trump Outburst Alina Habba, the former Trump lawyer and New Jersey US attorney who now goes by Alina Habba Mildon, has been fired from the general counsel job that guaranteed her more than $50 million over four years , cut loose by a company set up by the daught",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/alina-habba-fired-50m-gig-after-trump-outburst",
+    "ts": 1794430200000,
     "tags": []
    },
    {
-    "t": "America's Most Dangerous City Sees Stunning 931% Surge In Millionaire Homeowners",
-    "tt": "Amerika'nın En Tehlikeli Şehri Milyoner Ev Sahiplerinde %931'lik Çarpıcı Bir Artış Görüyor",
-    "s": "America's Most Dangerous City Sees Stunning 931% Surge In Millionaire Homeowners Apparently, even the most dangerous big cities can attract millionaires. Memphis, Tennessee, the Southern city infamous for its violent crime problem, has experienced an explosion in wealthy homeowners, according to new",
-    "ss": "Amerika'nın En Tehlikeli Şehri Milyoner Ev Sahiplerinde %931'lik Çarpıcı Bir Artış Görüyor Görünen o ki, en tehlikeli büyük şehirler bile milyonerleri çekebiliyor. Yeni bir rapora göre, şiddetli suç sorunuyla ünlü Güney şehri Memphis, Tennessee'de zengin ev sahiplerinde bir patlama yaşandı.",
-    "u": "https://www.zerohedge.com/personal-finance/americas-most-dangerous-city-sees-stunning-931-surge-millionaire-homeowners",
-    "ts": 1794418500000,
+    "t": "Iran Hawk Bessent Now Lives Behind A Military Gate As Threats Reach 'More Than Advanced Stage'",
+    "tt": null,
+    "s": "Iran Hawk Bessent Now Lives Behind A Military Gate As Threats Reach 'More Than Advanced Stage' Treasury Secretary Scott Bessent has moved out of his Washington-area home and onto a US military base because of Iranian threats against him , the New York Times reported Tuesday. Three people told the Ti",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/iran-hawk-bessent-now-lives-behind-military-gate-threats-reach-more-advanced-stage",
+    "ts": 1794429900000,
     "tags": []
    },
    {
-    "t": "Members Of Kennedy Family Sue To Block Construction Of Trump's Triumphal Arch",
-    "tt": "Kennedy Ailesi Üyeleri, Trump'ın Zafer Takı'nın İnşasını Engellemek İçin Dava Açtı",
-    "s": "Members Of Kennedy Family Sue To Block Construction Of Trump's Triumphal Arch Authored by Aldgra Fredly via The Epoch Times , Nine Kennedy family members sued on Nov. 10 to block President Donald Trump's planned construction of a triumphal arch in the nation's capital, saying it would cast shadows o",
-    "ss": "Kennedy Ailesi Üyeleri, Trump'ın Zafer Takı İnşaatının Engellenmesi İçin Dava Açtı Aldgra Fredly tarafından The Epoch Times aracılığıyla yazılan dokuz Kennedy ailesi üyesi, Başkan Donald Trump'ın ülkenin başkentinde yapmayı planladığı zafer takı inşaatını engellemek için 10 Kasım'da dava açtı.",
-    "u": "https://www.zerohedge.com/political/members-kennedy-family-sue-block-construction-trumps-triumphal-arch",
-    "ts": 1794417600000,
+    "t": "New Car Prices Top $51,000, Monthly Payments At Record. What Could Possibly Go Wrong?",
+    "tt": null,
+    "s": "New Car Prices Top $51,000, Monthly Payments At Record. What Could Possibly Go Wrong? The average price of a new vehicle in the US has climbed to a record $51,109 , according to a new Cox Automotive report citing Kelley Blue Book data. Combined with new-car loan rates near their highest levels since",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/new-car-prices-top-51000-monthly-payments-record-what-could-possibly-go-wrong",
+    "ts": 1794429300000,
     "tags": []
    },
    {
-    "t": "El Salvador Launches Helicopter Air Assault On Haitian Gang Compound",
-    "tt": "El Salvador, Haiti Çete Yerleşkesine Helikopterle Hava Saldırısı Başlattı",
-    "s": "El Salvador Launches Helicopter Air Assault On Haitian Gang Compound El Salvador's president, Nayib Bukele, launched an all-out helicopter assault on the compound of Haiti's largest criminal organization. Bukele wrote on X that Salvadoran troops destroyed a compound allegedly used by the leader of t",
-    "ss": "El Salvador, Haiti Çete Yerleşkesine Helikopterle Hava Saldırısı Başlattı El Salvador başkanı Nayib Bukele, Haiti'nin en büyük suç örgütünün yerleşkesine topyekun bir helikopter saldırısı başlattı. Bukele, X'te El Salvadorlu askerlerin, T lideri tarafından kullanıldığı iddia edilen bir bileşiği yok ettiğini yazdı.",
-    "u": "https://www.zerohedge.com/geopolitical/el-salvador-launches-helicopter-air-assault-haitian-gang-compound",
-    "ts": 1794416700000,
+    "t": "'Run Socialists In Every Primary': Emboldened DSA Turns Its Guns On Fellow Democrats",
+    "tt": null,
+    "s": "'Run Socialists In Every Primary': Emboldened DSA Turns Its Guns On Fellow Democrats Authored by Jake Altman via City Journal , Last week's historic midterm results have emboldened not just the Democratic Party but also the Democratic Socialists of America (DSA). The organization expanded its House ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/run-socialists-every-primary-emboldened-dsa-turns-its-guns-fellow-democrats",
+    "ts": 1794428400000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Zelenskiy: Üçlü zirve için görüşmeler sürüyor",
+    "tt": null,
+    "s": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşı sona erdirmek amacıyla ABD, Rusya ve Ukrayna liderlerini bir araya getirecek bir zirve için görüşmelerin sürdüğünü açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/zelenskiy-uclu-zirve-icin-gorusmeler-suruyor-3794256",
+    "ts": 1794431568000,
+    "tags": []
+   },
+   {
+    "t": "Resmi Gazete'de bugün (12.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-12112026-3794255",
+    "ts": 1794431100000,
+    "tags": []
+   },
+   {
+    "t": "İngiliz girişimi Fractile, yapay zeka çipleri yarışında öne geçiyor",
+    "tt": null,
+    "s": "Yapay zeka çipleri geliştiren İngiliz girişimi Fractile, İngiltere'nin \"Egemen Yapay Zeka Fonu\" tarafından desteklenen 720 milyon dolarlık C Serisi yatırım turunu tamamladı. İngiliz hükümeti, bu yatırımla Birleşik Krallık'ın, gelecekteki ekonomisinin temelini oluşturacak donanımlar üzerinde daha büy",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ingiliz-girisimi-fractile-yapay-zeka-cipleri-yarisinda-one-geciyor-3794254",
+    "ts": 1794429652000,
+    "tags": []
+   },
+   {
+    "t": "İspanya'da TikTok'taki çocuk istismarı içeriklerine ilişkin soruşturma",
+    "tt": null,
+    "s": "İspanya savcılığı, Maldita.es'in başvurusu üzerine TikTok'ta çocuk cinsel istismarı materyallerinin yayılmasına ilişkin soruşturma başlattı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ispanya-da-tiktok-taki-cocuk-istismari-iceriklerine-iliskin-sorusturma-3794253",
+    "ts": 1794429184000,
+    "tags": []
+   },
    {
     "t": "Siri'nin kurucu ortağı, kimlik doğrulama teknolojisi Helix'e danışman oldu",
     "tt": null,
@@ -935,42 +960,6 @@
     "u": "https://www.bloomberght.com/abd-temsilciler-meclisi-hegseth-e-yonelik-azil-girisimini-engelledi-3794242",
     "ts": 1794418345000,
     "tags": []
-   },
-   {
-    "t": "İran: ABD şu ana kadar mesajımıza yanıt vermedi",
-    "tt": null,
-    "s": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin taleplerini içeren mesaja ABD'nin henüz yanıt vermediğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-abd-su-ana-kadar-mesajimiza-yanit-vermedi-3794241",
-    "ts": 1794417254000,
-    "tags": []
-   },
-   {
-    "t": "Hissedarlar onayladı: Apollo, easyJet'i 5,7 milyar sterline satın alıyor",
-    "tt": null,
-    "s": "EasyJet hissedarları, Apollo'nun 5,7 milyar sterlinlik satın alma teklifini onayladı. AB kuralları kapsamında incelenecek satışın gelecek yılın ilk çeyreği sona ermeden tamamlanması hedefleniyor. İşlem tamamlanırsa easyJet, 25 yılı aşkın süredir işlem gördüğü Londra Borsası'ndan ayrılacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hissedarlar-onayladi-apollo-easyjet-i-5-7-milyar-sterline-satin-aliyor-3794240",
-    "ts": 1794416977000,
-    "tags": []
-   },
-   {
-    "t": "Von der Leyen, COP31'de temiz enerjiye geçişin hızlandırılması çağrısında bulundu",
-    "tt": null,
-    "s": "AB Komisyonu Başkanı Ursula von der Leyen, Antalya'daki COP31 Liderler Zirvesi'nde Hürmüz Boğazı üzerinden enerji tedarikinde yaşanan kesintilerin küresel piyasaları sarstığını söyledi. Von der Leyen, iklimi korumak ve enerji güvenliğini güçlendirmek için temiz enerjiye geçişin hızlandırılması çağrı",
-    "ss": null,
-    "u": "https://www.bloomberght.com/von-der-leyen-cop31-de-temiz-enerjiye-gecisin-hizlandirilmasi-cagrisinda-bulundu-3794239",
-    "ts": 1794416060000,
-    "tags": []
-   },
-   {
-    "t": "Rönesans Holding/Hatem: YEKDEM'de destek süresi 10 yıldan 20 yıla çıkarılmalı",
-    "tt": null,
-    "s": "Rönesans Holding Enerji Grup Başkanı Emre Hatem, yenilenebilir enerji yatırımlarının daha uzun vadeli finansmana erişebilmesi için YEKDEM'deki destek süresinin 10 yıldan 20 yıla çıkarılmasını önerdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ronesans-holdinghatem-yekdemde-destek-suresi-10-yildan-20-yila-cikarilmali-3794238",
-    "ts": 1794414360000,
-    "tags": []
    }
   ]
  },
@@ -986,6 +975,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
