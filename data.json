@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T21:58:52.378391+00:00",
+ "generated": "2026-11-12T22:40:10.566187+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,9 +31,9 @@
   },
   {
    "n": "Altın",
-   "p": 3881.6,
+   "p": 3881.7,
    "c": -2.97,
-   "d": -118.9,
+   "d": -118.8,
    "k": "usd"
   },
   {
@@ -45,23 +45,23 @@
   },
   {
    "n": "WTI",
-   "p": 88.71,
-   "c": 2.52,
-   "d": 2.18,
+   "p": 88.7,
+   "c": 2.51,
+   "d": 2.17,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.79,
-   "c": 3.27,
-   "d": 3.03,
+   "p": 95.77,
+   "c": 3.24,
+   "d": 3.01,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.177,
-   "c": 0.26,
-   "d": 0.267,
+   "p": 103.184,
+   "c": 0.27,
+   "d": 0.274,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.1051,
-   "c": -0.21,
-   "d": -0.105,
+   "p": 50.3111,
+   "c": 0.2,
+   "d": 0.101,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 71513,
-   "c": -3.82,
+   "p": 71366,
+   "c": -3.69,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2016.1,
-   "c": -2.63,
+   "p": 2009.55,
+   "c": -2.55,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 81.38,
-   "c": -3.71,
+   "p": 81.27,
+   "c": -3.23,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.037,
-   "c": -2.26,
+   "p": 1.034,
+   "c": -2.13,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 654.28,
-   "c": -4.48,
+   "p": 652.52,
+   "c": -4.41,
    "k": "usd"
   }
  ],
@@ -504,6 +504,67 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "The Yen Is Becoming Too Hard for Some Investors to Trade",
+    "tt": "Yen, Bazı Yatırımcıların Ticaret Yapamayacak Kadar Zorlaşıyor",
+    "s": "After a year of wild swings, the yen surprised traders by settling into a tight range clustered near 158 per dollar over recent months. But this week it broke out again, unexpectedly breaching the key 160 threshold before rebounding on speculation that officials would intervene to support the curren",
+    "ss": "Bir yıl süren şiddetli dalgalanmaların ardından yen, son aylarda dolar başına 158 civarında dar bir aralığa yerleşerek yatırımcıları şaşırttı. Ancak Çarşamba günü yeniden patlak verdi ve beklenmedik bir şekilde 160'a doğru zayıfladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/the-yen-is-becoming-too-hard-for-some-investors-to-trade",
+    "ts": 1794517200000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
+    "s": "Stocks in Asia looked set for a cautious open as investors weighed the fallout from Nvidia Corp.’s leadership upheaval on the broader artificial-intelligence trade, a rally in oil and a surge in Treasury yields.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794521833000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Acciona’s $1 Billion Mexico Infrastructure Deal Seen at Risk",
+    "tt": "Acciona'nın 1 Milyar Dolarlık Meksika Altyapı Anlaşması Risk Altında Görülüyor",
+    "s": "Acciona Energía’s $1 billion deal to sell solar and wind assets to Mexico Infrastructure Partners is facing delays and is at risk of collapse, according to a person familiar with the matter.",
+    "ss": "Konuya aşina bir kişiye göre, Acciona Energía'nın Meksika Altyapı Ortaklarına güneş ve rüzgar varlıklarını satmayı öngören 1 milyar dolarlık anlaşması gecikmelerle karşı karşıya ve çökme riskiyle karşı karşıya.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/acciona-s-1-billion-mexico-infrastructure-deal-seen-threatened",
+    "ts": 1794507345000,
+    "tags": []
+   },
+   {
+    "t": "US Logs $404 Billion Deficit in First Month of Fiscal Year",
+    "tt": "ABD Mali Yılın İlk Ayında 404 Milyar Dolar Açık Verdi",
+    "s": "The US budget gap widened to $404 billion in October, up 42% from the same period a year earlier, Treasury Department data showed Thursday.",
+    "ss": "Hazine Bakanlığı verileri Perşembe günü, ABD bütçe açığının Ekim ayında bir önceki yılın aynı dönemine göre %42 artışla 404 milyar dolara genişlediğini gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/us-records-404-billion-deficit-in-first-month-of-fiscal-year",
+    "ts": 1794512650000,
+    "tags": []
+   },
+   {
+    "t": "Citadel Securities Hires Zimmerman From Diameter for IG Trading",
+    "tt": "Citadel Securities, IG Ticareti için Diameter'dan Zimmerman'ı İşe Aldı",
+    "s": "Citadel Securities LLC has hired Matthew Zimmerman from Diameter Capital Partners LP for investment-grade corporate bond trading.",
+    "ss": "Citadel Securities LLC, yatırım amaçlı kurumsal tahvil ticareti için Diameter Capital Partners LP'den Matthew Zimmerman'ı işe aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/citadel-securities-hires-zimmerman-from-diameter-for-ig-trading",
+    "ts": 1794520747000,
+    "tags": []
+   },
+   {
+    "t": "National Beef Says Worst Is Over for US Cattle Cycle",
+    "tt": "National Beef, ABD Sığır Döngüsünde En Kötünün Bittiğini Söyledi",
+    "s": "Meatpacker National Beef Inc. said it is seeing a bottom in the US cattle industry’s downturn as it reported its highest margin in two years.",
+    "ss": "Meatpacker National Beef Inc., iki yılın en yüksek marjını bildirerek ABD sığır endüstrisindeki gerilemede bir dip gördüğünü söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/national-beef-says-worst-is-over-for-us-cattle-cycle",
+    "ts": 1794520462000,
+    "tags": []
+   },
+   {
     "t": "Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit",
     "tt": "Nvidia, Huang Çıkışından Önce Yapay Zeka Desteğini Artırma Baskısıyla Karşı Karşıyaydı",
     "s": "Before Nvidia Corp. was thrown into turmoil by the ouster of longtime chief executive Jensen Huang, a major initiative he championed alongside the giants of Wall Street was proving far more complicated than he had envisioned.",
@@ -542,62 +603,6 @@
     "ss": "Yen, Eylül ayından bu yana ilk kez yakından izlenen dolar başına 160 seviyesini aştı, ancak daha derin bir düşüşün Japonya'daki politika yapıcıların para birimini savunmak için yeniden harekete geçmesine neden olacağı yönündeki spekülasyonlar üzerine toparlanma yaşadı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/yen-falls-to-key-160-level-per-dollar-raising-intervention-risk",
     "ts": 1794501755000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Should 'Leave the Door Open' for Jensen Huang Return, Says Founders 100 ETF's Cassidy",
-    "tt": "100 ETF'nin Kurucularından Cassidy, Nvidia'nın Jensen Huang'ın Geri Dönüşü İçin 'Kapıyı Açık Bırakması' Gerektiğini Söyledi",
-    "s": "Lauren Cassidy, Founder & Chief Investment Officer, at Founders 100 ETF says the Nvidia board should leave the door for Nvidia CEO Jensen Huang to return dependent on the results of the investigation because he has been an 'incredible executive.' Huang was ousted from his post after reports of three",
-    "ss": "Founders 100 ETF'nin Kurucusu ve Baş Yatırım Sorumlusu Lauren Cassidy, Nvidia yönetim kurulunun, Nvidia CEO'su Jensen Huang'ın soruşturma sonuçlarına bağlı olarak geri dönmesine kapı bırakması gerektiğini çünkü onun 'inanılmaz bir yönetici' olduğunu söylüyor. Üç kişinin ihbarı üzerine Huang görevinden alındı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/would-still-invest-with-huang-on-business-says-cassidy-video",
-    "ts": 1794518778000,
-    "tags": []
-   },
-   {
-    "t": "Australia’s Biggest Pension Fund Mulls Chinese AI as Costs Spike",
-    "tt": "Avustralya'nın En Büyük Emeklilik Fonu, Maliyetlerdeki Artış Nedeniyle Çin Yapay Zekasına Önem Veriyor",
-    "s": "AustralianSuper is considering a range of open weight artificial intelligence models to rein in rising costs that saw the country’s largest pension fund run out of coding tokens within three days last month.",
-    "ss": "AustralianSuper, ülkenin en büyük emeklilik fonunun geçen ay üç gün içinde kodlama tokenlarının tükenmesine neden olan artan maliyetleri dizginlemek için bir dizi açık ağırlıklı yapay zeka modeli düşünüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/australia-s-biggest-pension-fund-mulls-chinese-ai-as-costs-spike",
-    "ts": 1794518732000,
-    "tags": []
-   },
-   {
-    "t": "Port Authority of NY and NJ Proposes $10.3 Billion 2027 Budget",
-    "tt": "NY ve NJ Liman İdaresi 10,3 Milyar Dolarlık 2027 Bütçesi Teklif Etti",
-    "s": "The Port Authority of New York and New Jersey is proposing a $10.3 billion budget for 2027 to help finance upgrades to the region’s airports, rail and bus terminals, and bridges.",
-    "ss": "New York ve New Jersey Liman İdaresi, bölgenin havalimanları, demiryolu ve otobüs terminalleri ve köprülerindeki iyileştirmelerin finansmanına yardımcı olmak için 2027 için 10,3 milyar dolarlık bir bütçe teklif ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/port-authority-of-ny-and-nj-proposes-10-3-billion-2027-budget",
-    "ts": 1794518682000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic’s IPO Is Said to Be About Six Times Oversubscribed",
-    "tt": "Anthropic'in Halka Arzına Altı Kat Fazla Abone Olduğu Söyleniyor",
-    "s": "Anthropic PBC’s initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest first-time share sale ever.",
-    "ss": "Anthropic PBC'nin ilk halka arzı, şimdiye kadarki en büyük ilk hisse satışına olan ilginin artmasıyla birlikte, konuya aşina kaynaklara göre mevcut hisseler için yaklaşık altı kat daha fazla sipariş aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
-    "ts": 1794517214000,
-    "tags": []
-   },
-   {
-    "t": "The Yen Is Becoming Too Hard for Some Investors to Trade",
-    "tt": "Yen, Bazı Yatırımcıların Ticaret Yapamayacak Kadar Zorlaşıyor",
-    "s": "After a year of wild swings, the yen surprised traders by settling into a tight range clustered near 158 per dollar over recent months. But on Wednesday it broke out again, unexpectedly weakening toward 160.",
-    "ss": "Bir yıl süren şiddetli dalgalanmaların ardından yen, son aylarda dolar başına 158 civarında dar bir aralığa yerleşerek yatırımcıları şaşırttı. Ancak Çarşamba günü yeniden patlak verdi ve beklenmedik bir şekilde 160'a doğru zayıfladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/the-yen-is-becoming-too-hard-for-some-investors-to-trade",
-    "ts": 1794517200000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Can You Quit Your Job and Live Off an ETF? The Reality of Dividend Nomads",
-    "tt": "İşinizi Bırakıp Bir ETF'den Geçinebilir misiniz? Temettü Göçebelerinin Gerçeği",
-    "s": "In this episode, we explore the “dividend nomads,” people using derivative-income funds to generate the cash they need to live abroad.",
-    "ss": "Bu bölümde, yurt dışında yaşamak için ihtiyaç duydukları nakdi elde etmek için türev gelir fonlarını kullanan \"temettü göçebelerini\" inceliyoruz.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/can-you-quit-your-job-and-live-off-an-etf-the-reality-of-dividend-nomads",
-    "ts": 1794516766000,
     "tags": []
    }
   ],
@@ -700,6 +705,30 @@
   ],
   "MarketWatch": [
    {
+    "t": "Opening trading-card packs has become a $2 billion market",
+    "tt": "Ticaret kartı paketlerinin açılması 2 milyar dolarlık bir pazar haline geldi",
+    "s": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+    "ss": "Paket sökücü uygulamalar, insanların kart satın alma ve satma şeklini değiştiriyor. Ancak analistler, \"slot benzeri kazançların\" riskleri artırdığını söylüyor.",
+    "u": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+    "ts": 1794523080000,
+    "tags": []
+   },
+   {
+    "t": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    "tt": "Tahvil getirileri, Fed'in daha fazla faiz artırımına yönelik beklentilerin artmasıyla 2022'den bu yana en büyük artışını gördü",
+    "s": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
+    "ss": "Fed Başkanı Warsh'un faiz oranı politikasını sessiz bir şekilde iletme tarzı, piyasaların daha değişken olmasına yol açtı.",
+    "u": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+    "ts": 1794521760000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
     "tt": "'Planlarıma fantezi diyor': Kocam, hayalimiz olan yıllık 200.000 dolarlık emekliliği karşılayamayacağımızı söylüyor. Ucuz biri olduğunu düşünüyorum.",
     "s": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
@@ -776,27 +805,27 @@
     "u": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
     "ts": 1794512760000,
     "tags": []
-   },
-   {
-    "t": "Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
-    "tt": "Jensen Huang'ın ayrılmasının ardından Nvidia'nın hisseleri satışa çıktı. Peki satışlar yeni mi başlıyor?",
-    "s": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
-    "ss": "Nvidia'nın hisseleri kağıt üzerinde ve grafiklerde ucuz görünse de Wall Street analistleri gelecekte daha fazla dalgalanma öngörüyor.",
-    "u": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
-    "ts": 1794510900000,
-    "tags": []
-   },
-   {
-    "t": "The prostate-cancer screening rules just changed. Here’s when men should get tested.",
-    "tt": "Prostat kanseri tarama kuralları yeni değişti. İşte erkeklerin ne zaman test edilmesi gerektiği.",
-    "s": "The American Cancer Society now recommends most men get their first PSA test when they turn 50. Black men and other men considered high risk should start screening at age 45.",
-    "ss": "Amerikan Kanser Derneği artık çoğu erkeğin ilk PSA testini 50 yaşına geldiğinde yaptırmasını öneriyor. Siyah erkekler ve yüksek riskli kabul edilen diğer erkekler taramaya 45 yaşında başlamalıdır.",
-    "u": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
-    "ts": 1794510720000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Just A Coincidence? Both Trump And Ro Khanna Sold Nvidia Stock Before CEO Scandal Erupted",
+    "tt": "Sadece Bir Tesadüf mü? Hem Trump hem de Ro Khanna, CEO Skandalı Ortaya Çıkmadan Önce Nvidia Hisselerini Sattı",
+    "s": "Just A Coincidence? Both Trump And Ro Khanna Sold Nvidia Stock Before CEO Scandal Erupted A trust linked to the wife of Rep. Ro Khanna (D-CA), one of Congress's most vocal advocates for banning lawmakers from trading stocks, sold Nvidia shares near their peak, weeks before scandal engulfed the compa",
+    "ss": "Sadece Bir Tesadüf mü? Hem Trump hem de Ro Khanna, CEO Skandalı Ortaya Çıkmadan Önce Nvidia Hisselerini Sattı Kongre'nin milletvekillerinin hisse senedi alım satımını yasaklama konusundaki en sesli savunucularından biri olan Temsilci Ro Khanna'nın (D-CA) eşiyle bağlantılı bir vakıf, skandalın şirketi sarsmasından haftalar önce Nvidia hisselerini zirveye yakın bir yerde sattı.",
+    "u": "https://www.zerohedge.com/political/just-coincidence-ro-khanna-sold-nvidia-stock-ceo-scandal-erupted",
+    "ts": 1794523200000,
+    "tags": []
+   },
+   {
+    "t": "Russia's Largest Oil Refinery Again Struck, In 8-Hour Drone Attack Wave",
+    "tt": "Rusya'nın En Büyük Petrol Rafinerisi 8 Saatlik Drone Saldırısı Dalgasıyla Yine Saldırıya Uğradı",
+    "s": "Russia's Largest Oil Refinery Again Struck, In 8-Hour Drone Attack Wave Ukraine struck Russia's Omsk oil refinery in its latest long-range drone attack, in at least the third known such attack on the site of the war. Notbaly the Omsk oil refinery is the country's largest . The drones traveled over 1",
+    "ss": "Rusya'nın En Büyük Petrol Rafinerisi 8 Saatlik Drone Saldırısı Dalgasıyla Yine Saldırıya Uğradı Ukrayna, en son uzun menzilli drone saldırısında Rusya'nın Omsk petrol rafinerisini vurdu; bu, savaş alanına yapılan bilinen en az üçüncü saldırı oldu. Özellikle Omsk petrol rafinerisi ülkenin en büyüğüdür. Drone'lar 1'den fazla yolculuk yaptı",
+    "u": "https://www.zerohedge.com/energy/russias-largest-oil-refinery-again-struck-8-hour-drone-attack-wave",
+    "ts": 1794522000000,
+    "tags": []
+   },
    {
     "t": "Gun-Grabbers Smell Blood After Democratic Midterm Sweep",
     "tt": "Silah Kapanlar Demokratik Ara Sınav Sonrası Kan Kokusu Aldı",
@@ -867,24 +896,6 @@
     "ss": "11 Demokrat, Hegseth'in 'Sahte' Görevden Alınmasını Gizleyen Oylamayı Atladı Cumhuriyetçiler, Salı günü Temsilci Thomas Massie'nin Savunma Bakanı Pete Hegseth'i görevden almasını yedi oyla gizledi ve onları durdurabilecek 11 Temsilciler Meclisi Demokratı hiçbir zaman oy kullanmadı. Bunlardan üçü AIPAC bağlantılı bir bağış toplama etkinliğindeydi",
     "u": "https://www.zerohedge.com/political/11-democrats-skipped-vote-buried-hegseths-fake-impeachment",
     "ts": 1794512100000,
-    "tags": []
-   },
-   {
-    "t": "\"Counted Every Single Bar\": Tether Gold Gets Clean KPMG Audit Confirming $2.2B In Physical Gold",
-    "tt": "\"Her Bir Çubuk Sayıldı\": Tether Gold Temiz Bir KPMG Denetimiyle Fiziksel Altının 2,2 Milyar Doları Doğruladı",
-    "s": "\"Counted Every Single Bar\": Tether Gold Gets Clean KPMG Audit Confirming $2.2B In Physical Gold Via Decrypt , Tether's gold-backed stablecoin, Tether Gold (XAUT), has completed its first full audit by KPMG, which found the token fully backed by physical gold , the company announced on Thursday. KPMG",
-    "ss": "\"Her Külçe Sayıldı\": Tether Altın Temizlendi KPMG Denetimi, Tether'in altın destekli stablecoin'i Tether Gold (XAUT) Decrypt Yoluyla 2,2 Milyar Dolarlık Fiziksel Altını Doğruladı KPMG tarafından yapılan ilk tam denetim, tokenın tamamen fiziksel altınla desteklendiğini tespit etti. KPMG",
-    "u": "https://www.zerohedge.com/crypto/counted-every-single-bar-tether-gold-gets-clean-kpmg-audit-confirming-22b-physical-gold",
-    "ts": 1794511200000,
-    "tags": []
-   },
-   {
-    "t": "Microsoft Hit By Massive Outage, Scrambles To Reroute Traffic Worldwide",
-    "tt": "Büyük Kesintiden Etkilenen Microsoft, Dünya Çapında Trafiği Yeniden Yönlendirmek İçin Çabalıyor",
-    "s": "Microsoft Hit By Massive Outage, Scrambles To Reroute Traffic Worldwide Microsoft 365 Status reports that users are experiencing disruptions and/or outages when accessing Exchange Online mailboxes and other products across the Americas. We're investigating reports of users experiencing issues access",
-    "ss": "Microsoft Büyük Kesintiden Etkilendi, Trafiği Dünya Çapında Yeniden Yönlendirmek İçin Çabalıyor Microsoft 365 Durumu, kullanıcıların Amerika kıtasındaki Exchange Online posta kutularına ve diğer ürünlere erişirken kesintiler ve/veya kesintiler yaşadığını bildiriyor. Erişim sorunları yaşayan kullanıcıların raporlarını araştırıyoruz",
-    "u": "https://www.zerohedge.com/technology/microsoft-hit-massive-outage-scrambles-reroute-traffic-worldwide",
-    "ts": 1794511140000,
     "tags": []
    }
   ],
