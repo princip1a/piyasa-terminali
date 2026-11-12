@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T10:50:03.504869+00:00",
+ "generated": "2026-11-12T11:46:33.656493+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.24,
-   "c": 4.29,
-   "d": 0.75,
+   "p": 18.32,
+   "c": 4.75,
+   "d": 0.83,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3956.1,
-   "c": -1.11,
-   "d": -44.4,
+   "p": 3951.2,
+   "c": -1.23,
+   "d": -49.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.185,
-   "c": -1.34,
-   "d": -0.696,
+   "p": 51.025,
+   "c": -1.65,
+   "d": -0.856,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.88,
-   "c": -0.75,
-   "d": -0.65,
+   "p": 86.04,
+   "c": -0.57,
+   "d": -0.49,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.06,
-   "c": -0.75,
-   "d": -0.7,
+   "p": 92.34,
+   "c": -0.45,
+   "d": -0.42,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.826,
-   "c": -0.08,
-   "d": -0.084,
+   "p": 102.904,
+   "c": -0.01,
+   "d": -0.006,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2539,
+   "p": 50.2538,
    "c": 0.09,
    "d": 0.044,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11819.38,
-   "c": 1.31,
-   "d": 152.98,
+   "p": 11816.0,
+   "c": 1.28,
+   "d": 149.6,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 73412,
-   "c": -0.65,
+   "p": 72875,
+   "c": -1.49,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2045.26,
-   "c": -0.56,
+   "p": 2026.26,
+   "c": -1.4,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.01,
-   "c": -0.78,
+   "p": 82.47,
+   "c": -1.64,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.05,
-   "c": -1.13,
+   "p": 1.04,
+   "c": -1.69,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 671.68,
-   "c": -1.29,
+   "p": 664.25,
+   "c": -2.45,
    "k": "usd"
   }
  ],
@@ -504,79 +504,34 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Nvidia Sinks as Analyst Downgrades Start to Come In: Street Wrap",
-    "tt": "Analistlerin Not Düşürmeleri Gelmeye Başlarken Nvidia Batıyor: Street Wrap",
-    "s": "Nvidia Corp. shares fall as much as 8.1% in premarket trading following reports the AI chipmaker’s board is working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang. The move follows reports of extramarital affairs, including with an alleged Chinese sp",
-    "ss": "Nvidia Corp. hisseleri, yapay zeka çip üreticisinin yönetim kurulunun, İcra Kurulu Başkanı Jensen Huang'ın potansiyel yedeklerini belirlemek için dışarıdan bir firmayla çalıştığı haberlerinin ardından Tradegate'te %7,4 oranında değer kaybetti. Bu hareket, Çinli bir casus olduğu iddia edilen kişiler de dahil olmak üzere çok sayıda evlilik dışı ilişki haberlerinin ardından geldi. Wal",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
-    "ts": 1794437320000,
+    "t": "Chile Copper Giant’s Woes Put Private Capital Taboo in Focus",
+    "tt": "Şili Bakır Devinin Sorunları Özel Sermaye Tabusunu Odak Noktasına Koydu",
+    "s": "A debate over the future of Codelco is heating up in Chile after Finance Minister Jorge Quiroz left the door open to private investment in the copper giant — long a taboo topic for the state-owned miner.",
+    "ss": "Maliye Bakanı Jorge Quiroz'un, devlete ait madenci için uzun süredir tabu olan bakır devinde özel yatırıma kapıyı açık bırakmasının ardından Şili'de Codelco'nun geleceğine ilişkin bir tartışma kızışıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/chile-copper-giant-s-woes-put-private-capital-taboo-in-spotlight",
+    "ts": 1794422211000,
     "tags": []
    },
    {
-    "t": "Ali Koç on the Business of Climate Change",
-    "tt": "Ali Koç İklim Değişikliği İşini Anlattı",
-    "s": "Ali Y. Koç, Vice Chair, Board of Directors, Koç Holding discusses climate pressures and business competitiveness with Bloomberg's Jennifer Zabasajja at Bloomberg Green at COP31 in Antalya, Türkiye. (Source: Bloomberg)",
-    "ss": "Koç Holding Yönetim Kurulu Başkan Yardımcısı Ali Y. Koç, Bloomberg Green'de Bloomberg Green'de Antalya, Türkiye'de düzenlenen COP31'de iklim baskılarını ve iş dünyasının rekabetçiliğini tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/ali-koc-on-the-business-of-climate-change",
-    "ts": 1794480540000,
+    "t": "Latest Oil Market News and Analysis for Nov. 12",
+    "tt": "12 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil declined as traders weighed resurgent production from the Middle East against the ongoing risk to shipments posed by a conflict that shows little sign of ending.",
+    "ss": "Petrol, tüccarların Ortadoğu'da yeniden canlanan üretimi, pek de sona erme sinyali vermeyen çatışmanın sevkıyatlara yönelik devam eden riskine karşı tartmasıyla düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
+    "ts": 1794438246000,
     "tags": []
    },
    {
-    "t": "Cambridge Associates & KBW Ventures on Investing in 2027",
-    "tt": "Cambridge Associates ve KBW Ventures 2027'de Yatırım Konusunda",
-    "s": "David Druley, Chairman & CEO, Cambridge Associates and Ekta Tolani, Chief Investment Officer, KBW Ventures discuss asset allocation, investment opportunities and areas of risk heading into 2027 with Bloomberg’s Farah Elbahrawy at Bloomberg Invest Dubai 2026. (Source: Bloomberg)",
-    "ss": "Cambridge Associates Yönetim Kurulu Başkanı ve CEO'su David Druley ve KBW Ventures Yatırım Direktörü Ekta Tolani, Bloomberg Invest Dubai 2026'da Bloomberg'den Farah Elbahrawy ile varlık tahsisi, yatırım fırsatları ve 2027'ye giden risk alanlarını tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/cambridge-associates-kbw-ventures-on-investing-in-2027-video",
-    "ts": 1794479996000,
+    "t": "Blackstone, Pimco Target Gulf’s Multibillion-Dollar Buildout",
+    "tt": "Blackstone, Pimco Target Gulf'un Milyarlarca Dolarlık Yapısı",
+    "s": "Some of the world’s biggest investment firms are looking to deploy more capital across the Middle East just as governments open more infrastructure projects to outside investors.",
+    "ss": "Hükümetler dış yatırımcılara daha fazla altyapı projesi açarken, dünyanın en büyük yatırım şirketlerinden bazıları Orta Doğu'ya daha fazla sermaye dağıtmanın yollarını arıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/blackstone-pimco-target-gulf-s-multibillion-dollar-buildout",
+    "ts": 1794473251000,
     "tags": []
    },
    {
-    "t": "What We're Watching at COP31",
-    "tt": "COP31'de Ne İzliyoruz?",
-    "s": "Bloomberg's John Ainger, Selcan Hacaoğlu, Lili Pike and Rebecca Penty discuss the key climate issues they're following at Bloomberg Green at COP31 in Antalya, Türkiye. (Source: Bloomberg)",
-    "ss": "Bloomberg'den John Ainger, Selcan Hacaoğlu, Lili Pike ve Rebecca Penty, Bloomberg Green'de Antalya, Türkiye'de düzenlenen COP31'de takip ettikleri temel iklim sorunlarını tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/what-we-re-watching-at-cop31-video",
-    "ts": 1794479472000,
-    "tags": []
-   },
-   {
-    "t": "BoA, Temasek, Citi Leaders on Where Capital is Moving",
-    "tt": "Sermayenin Nereye Gideceği Konusunda BoA, Temasek ve Citi Liderleri",
-    "s": "​​Alexandra Liftman, Global Environmental Executive, Bank of America; Kyung-Ah Park, Chief Sustainability Officer, Temasek; and Valerie Smith, Chief Sustainability Officer, Citi discuss how investors and banks are making strategic choices about where to deploy capital with Bloomberg's Aaron Rutkoff ",
-    "ss": "​Alexandra Liftman, Küresel Çevre Yöneticisi, Bank of America; Kyung-Ah Park, Sürdürülebilirlik Baş Sorumlusu, Temasek; ve Citi Sürdürülebilirlik Direktörü Valerie Smith, Bloomberg'den Aaron Rutkoff ile yatırımcıların ve bankaların sermayeyi nereye dağıtacakları konusunda nasıl stratejik seçimler yaptığını tartışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/boa-temasek-citi-leaders-on-where-capital-is-moving-video",
-    "ts": 1794479382000,
-    "tags": []
-   },
-   {
-    "t": "LME Aluminum Market Faces Biggest Supply Squeeze in Decades",
-    "tt": "LME Alüminyum Pazarı Son Yıllardaki En Büyük Arz Sıkışıklığıyla Karşı Karşıya",
-    "s": "Aluminum buyers on the London Metal Exchange are facing the most severe squeeze in decades as inventories backing contracts plunge and much of the remaining stock comes under the control of just two traders.",
-    "ss": "Londra Metal Borsası'ndaki alüminyum alıcıları, kontratları destekleyen stokların düşmesi ve geri kalan stokların çoğunun sadece iki tüccarın kontrolüne geçmesi nedeniyle onlarca yılın en şiddetli sıkışıklığıyla karşı karşıya.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/london-aluminum-market-faces-biggest-supply-squeeze-in-decades",
-    "ts": 1794416703000,
-    "tags": []
-   },
-   {
-    "t": "Barclays’ Lafargue Says Nvidia Turmoil Doesn’t Derail AI Trade",
-    "tt": "Barclays'den Lafargue, Nvidia Karmaşasının Yapay Zeka Ticaretini Rayından Çıkarmadığını Söyledi",
-    "s": "Investors should stay exposed to the AI boom, even as financing risks and Nvidia Corp.’s leadership turmoil test the trade’s resilience, said Julien Lafargue, chief market strategist at Barclays Private Bank.",
-    "ss": "Barclays Private Bank baş piyasa stratejisti Julien Lafargue, finansman riskleri ve Nvidia Corp.'un liderlik çalkantılarının ticaretin dayanıklılığını test etmesine rağmen yatırımcıların yapay zeka patlamasına maruz kalması gerektiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/barclays-lafargue-says-nvidia-turmoil-doesn-t-derail-ai-trade",
-    "ts": 1794479164000,
-    "tags": []
-   },
-   {
-    "t": "What Will It Take For a Clean, Resilient Energy Economy?",
-    "tt": "Temiz, Dayanıklı Bir Enerji Ekonomisi İçin Neler Gerekecek?",
-    "s": "Albert Cheung, CEO, BloombergNEF discusses what it will take to build a cleaner, more resilient energy economy at Bloomberg Green at COP31 in Antalya, Türkiye. (Source: Bloomberg)",
-    "ss": "BloombergNEF CEO'su Albert Cheung, Türkiye, Antalya'da düzenlenen COP31'de Bloomberg Green'de daha temiz, daha dayanıklı bir enerji ekonomisi oluşturmak için neler gerektiğini tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/what-will-it-take-for-a-clean-resilient-energy-economy-video",
-    "ts": 1794478960000,
-    "tags": []
-   },
-   {
-    "t": "Long-Dated US Treasuries Rise as Nvidia Woes Revive Haven Demand",
+    "t": "Long-Dated US Debt Rises as Nvidia Woes Revive Haven Demand",
     "tt": "Uzun Vadeli ABD Hazine Tahvilleri, Nvidia'nın Sıkıntıyla Cennet Talebini Canlandırmasıyla Yükseldi",
     "s": "Long-dated Treasuries rose as trading resumed on Thursday, with turmoil around Nvidia Corp. weighing on technology shares and encouraging demand for safer assets.",
     "ss": "Uzun vadeli Hazine tahvilleri, Perşembe günü ticaretin yeniden başlamasıyla yükseldi; Nvidia Corp. etrafındaki çalkantılar teknoloji hisseleri üzerinde ağırlık yarattı ve daha güvenli varlıklara olan talebi teşvik etti.",
@@ -585,12 +540,63 @@
     "tags": []
    },
    {
-    "t": "Stocks Slip as Nvidia Crisis Halts Tech Comeback: Markets Wrap",
+    "t": "Nvidia Punches a Hole in Bull Case for AI Stocks",
+    "tt": "Nvidia, Yapay Zeka Hisseleri İçin Boğa Durumunda Bir Delik Açıyor",
+    "s": "Stock is slumping anew as board weighs ousting CEO.",
+    "ss": "Yönetim kurulu CEO'yu görevden almaya ağırlık verirken hisse senetleri yeniden düşüşe geçiyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-12/nvidia-punches-a-hole-in-bull-case-for-ai-stocks",
+    "ts": 1794482881000,
+    "tags": []
+   },
+   {
+    "t": "AMD, Broadcom Poised to Gain From Scandal Roiling Nvidia",
+    "tt": "AMD ve Broadcom, Nvidia'daki Skandaldan Kazanmaya Hazır",
+    "s": "Nvidia Corp.’s leadership turmoil is boosting potential beneficiaries, with Advanced Micro Devices Inc. and Broadcom Inc. gaining on bets they may win business from the chip giant.",
+    "ss": "Nvidia Corp.'un liderlik çalkantısı, Advanced Micro Devices Inc. ve Broadcom Inc.'in çip devinden iş kazanabilecekleri iddialarını kazanmasıyla potansiyel yararlanıcıları artırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turmoil-lifts-amd-broadcom-on-bets-for-business-gains",
+    "ts": 1794452175000,
+    "tags": []
+   },
+   {
+    "t": "Europe Should Coordinate Bomb Threat Responses, Wizz CEO Says",
+    "tt": "Wizz CEO'su, Avrupa'nın Bomba Tehdidi Yanıtlarını Koordine Etmesi Gerektiğini Söyledi",
+    "s": "Wizz Air Holdings Plc’s chief executive officer said Europe needs a coordinated approach for handling bomb threats, such as those last week that forced carriers to divert planes and militaries to deploy fighter jets.",
+    "ss": "Wizz Air Holdings Plc'nin icra kurulu başkanı, Avrupa'nın, geçen hafta taşıyıcıları uçakları yönlendirmeye ve orduları savaş uçaklarını konuşlandırmak için yönlendirmeye zorlayan bomba tehditleri gibi, koordineli bir yaklaşıma ihtiyacı olduğunu söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/europe-should-coordinate-bomb-threat-responses-wizz-ceo-says",
+    "ts": 1794482595000,
+    "tags": []
+   },
+   {
+    "t": "Gold Extends Fall Below $4,000 as Market Watches Fed",
+    "tt": "Altın Piyasanın Fed'i İzlemesiyle 4.000 Doların Altına Düşmeye Devam Ediyor",
+    "s": "Gold fell for a third day, extending its decline below $4,000 an ounce after persistent US inflation and hawkish remarks from Federal Reserve officials reinforced expectations for a series of interest-rate hikes.",
+    "ss": "Altın, ısrarcı ABD enflasyonu ve Fed yetkililerinin şahin açıklamalarının bir dizi faiz artırımına ilişkin beklentileri güçlendirmesinin ardından düşüşünü üçüncü günde de ons başına 4.000 doların altına taşıdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike",
+    "ts": 1794442372000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Stocks Fall as Nvidia Slides 6% on CEO Turmoil: Markets Wrap",
     "tt": "Nvidia Liderlik Krizi Tech'i Etkilerken Hisse Senetleri Düşüyor: Piyasalar Sarıldı",
-    "s": "A rebound in technology stocks came to a halt as traders confronted a leadership crisis at Nvidia Corp. that threatens a wider fallout across the global artificial intelligence supply chain.",
+    "s": "A rebound in technology stocks stalled as traders confronted a leadership crisis at Nvidia Corp. that threatens a wider fallout across the global artificial intelligence supply chain.",
     "ss": "Yatırımcıların Nvidia Corp.'ta küresel yapay zeka tedarik zincirine de yansıyabilecek bir liderlik kriziyle karşı karşıya kalmasıyla teknoloji hisselerinin yönlendirdiği yükseliş aniden durma noktasına geldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
     "ts": 1794434885000,
+    "tags": []
+   },
+   {
+    "t": "AI Powers the UK Economy as Challenges Build For 2027",
+    "tt": "2027'de Karşılaşılacak Zorluklar Karşısında Yapay Zeka Birleşik Krallık Ekonomisine Güç Veriyor",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/live-blog/2026-11-12/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today-mwd732zp",
+    "ts": 1794466605000,
     "tags": []
    }
   ],
@@ -688,6 +694,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
+    "tt": "Teknoloji hisseleri yakında 'şiddetli bir sıçrama' yaşayabilir ancak bir stratejist, yatırımcıları bu yemi yutmamaları konusunda uyarıyor",
+    "s": "Jim Thorne, Wellington-Altus Private Wealth’s chief market strategist, says investors should not get tempted too fast into a tech stock bounce.",
+    "ss": "Wellington-Altus Private Wealth'in baş piyasa stratejisti Jim Thorne, yatırımcıların teknoloji hisselerindeki yükselişe çok hızlı kapılmamaları gerektiğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
+    "ts": 1794483240000,
+    "tags": []
+   },
+   {
+    "t": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+    "tt": "İşte Nvidia skandalının ön saflarında yer alan şirket Megaspeed'in şimdi söylediği şey:",
+    "s": "The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.",
+    "ss": "Nvidia'yı saran skandalın merkezinde yer alan Singapurlu şirket Megaspeed, Perşembe günü skandalın patlak vermesinden bu yana ilk kamuoyu açıklamasını yaptı.",
+    "u": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
+    "ts": 1794481020000,
+    "tags": []
+   },
+   {
     "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
     "tt": "Babamdan bana 1,4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
     "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
@@ -758,27 +782,18 @@
     "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
     "ts": 1794451500000,
     "tags": []
-   },
-   {
-    "t": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-    "tt": "63 yaşındayım ve 500.000 dolarlık evimin çatı katına 95.000 dolar harcamak istiyorum. Bu iyi bir yatırım mı?",
-    "s": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
-    "ss": "\"2,3 milyon dolarlık net servetim var ve tek borcum, ödenmemiş bakiyesi 295.000 dolar olan 15 yıllık bir ipotek.\"",
-    "u": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "ts": 1794450660000,
-    "tags": []
-   },
-   {
-    "t": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-    "tt": "Tatil kredi kartı faturalarınız artıyor. Acıyı hafifletmek için neler yapabilirsiniz?",
-    "s": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
-    "ss": "Hükümet bir aylık enflasyon verilerini kaybetmiş olabilir, ancak bu nedenle kredi kartınızın yıllık yüzde oranının düşmesini beklemeyin.",
-    "u": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-    "ts": 1794439800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "1000s Of European Troops Train In Poland For A Possible Postwar Ukraine Force",
+    "tt": "1000'lerce Avrupalı ​​Asker, Savaş Sonrası Olası Bir Ukrayna Gücü İçin Polonya'da Eğitim Görüyor",
+    "s": "1000s Of European Troops Train In Poland For A Possible Postwar Ukraine Force Authored by Timothy Frudd via The Epoch Times , Thousands of European troops are participating in a major military exercise in Poland this week in preparation for a potential postwar mission in Ukraine to support peace if ",
+    "ss": "1000'lerce Avrupalı ​​Asker, Olası Bir Savaş Sonrası Ukrayna Gücü İçin Polonya'da Eğitim Aldı Timothy Frudd, The Epoch Times aracılığıyla, Binlerce Avrupalı ​​asker, Ukrayna'da barışı desteklemek amacıyla olası bir savaş sonrası misyona hazırlık amacıyla bu hafta Polonya'da büyük bir askeri tatbikata katılıyor.",
+    "u": "https://www.zerohedge.com/military/1000s-european-troops-train-poland-possible-postwar-ukraine-force",
+    "ts": 1794481200000,
+    "tags": []
+   },
    {
     "t": "French-Style Chaos Coming To America?",
     "tt": "Fransız Tarzı Kaos Amerika'ya mı Geliyor?",
@@ -859,18 +874,54 @@
     "u": "https://www.zerohedge.com/technology/noted-anthropologist-tells-rogan-indonesian-villagers-described-hobbits-scientists-found",
     "ts": 1794456000000,
     "tags": []
-   },
-   {
-    "t": "\"They Test The Jesus In Me\": Pennsylvania Truckers Pushed To Their Limits As Diesel Prices Soar",
-    "tt": "\"İçimdeki İsa'yı Test Ediyorlar\": Pensilvanya Kamyoncuları Dizel Fiyatları Yükselirken Sınırlarını Zorladı",
-    "s": "\"They Test The Jesus In Me\": Pennsylvania Truckers Pushed To Their Limits As Diesel Prices Soar In Pennsylvania, truck drivers are being pushed to their limits as skyrocketing diesel prices eat into their earnings, leaving many frustrated and struggling to keep their businesses running. For Lamar Bu",
-    "ss": "\"İçimdeki İsa'yı Test Ediyorlar\": Dizel Fiyatları Yükselirken Pensilvanya Kamyoncuları Sınırlarını Zorladı Pensilvanya'da kamyon şoförleri, hızla artan dizel fiyatları kazançlarını tüketirken, birçok kişi hayal kırıklığına uğramış ve işlerini sürdürmekte zorlanırken, kamyon sürücüleri sınırlarını zorluyor. Lamar Bu için",
-    "u": "https://www.zerohedge.com/markets/they-test-jesus-me-pennsylvania-truckers-pushed-their-limits-diesel-prices-soar",
-    "ts": 1794454500000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "TCMB rezervlerinde düşüş serisine ara",
+    "tt": null,
+    "s": "Türkiye Cumhuriyet Merkez Bankası'nın brüt rezervleri 6 Kasım haftasında 3 milyar dolar artışla 161,1 milyar dolara yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tcmb-rezervlerinde-dusus-serisine-ara-3794422",
+    "ts": 1794483652000,
+    "tags": []
+   },
+   {
+    "t": "Döviz mevduatlarında artış ivme kazandı",
+    "tt": null,
+    "s": "Parite etkisinden arındırılmış verilere göre geçen hafta döviz mevduatlarında 1 milyar 492 milyon dolarlık artış yaşandı. Bir önceki hafta da mevduatlarda artış yaşanmıştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/doviz-mevduatlarinda-artis-ivme-kazandi-3794420",
+    "ts": 1794483345000,
+    "tags": []
+   },
+   {
+    "t": "Yabancı hissede alıma döndü",
+    "tt": null,
+    "s": "Uzun süredir hissede satış yapan yabancı, 6 Kasım haftasında alıma dönerken net tahvil satışını sürdürdü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yabanci-hissede-alima-dondu-3794410",
+    "ts": 1794482846000,
+    "tags": []
+   },
+   {
+    "t": "Bundesbank'tan finansal istikrar risklerine karşı uyarı",
+    "tt": null,
+    "s": "Almanya Merkez Bankası (Bundesbank), finansal istikrara yönelik risklerin yüksekliğini koruduğunu bildirerek ülkedeki bankalar için artan tehditlere karşı uyarıda bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bundesbank-tan-finansal-istikrar-risklerine-karsi-uyari-3794405",
+    "ts": 1794482139000,
+    "tags": []
+   },
+   {
+    "t": "Rekabet, süt sektörünün sözlü savunmasını alacak",
+    "tt": null,
+    "s": "Rekabet Kurumu, süt ve süt ürünleri sektöründe faaliyet gösteren bazı teşebbüsler ile Ambalajlı Süt ve Süt Ürünleri Sanayicileri Derneği hakkında yürütülen soruşturmada sözlü savunma alacağı tarih ve saati açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/rekabet-sut-sektorunun-sozlu-savunmasini-alacak-3794404",
+    "ts": 1794480560000,
+    "tags": []
+   },
    {
     "t": "Bakan Bayraktar'dan Bloomberg HT'ye özel açıklamalar",
     "tt": null,
@@ -914,51 +965,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abdde-bebek-mamasina-rekor-zam-3794380",
     "ts": 1794473947000,
-    "tags": []
-   },
-   {
-    "t": "VakıfBank ile KfW'den 250 milyon euroluk yeşil dönüşüm işbirliği",
-    "tt": null,
-    "s": "VakıfBank, Türkiye'nin enerji ve sanayi sektörlerinin yeşil dönüşümünü desteklemek amacıyla Alman Kalkınma Bankası KfW ile mutabakat zaptı imzaladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vakifbank-ile-kfwden-250-milyon-euroluk-yesil-donusum-isbirligi-3794371",
-    "ts": 1794472962000,
-    "tags": []
-   },
-   {
-    "t": "Denizbank'tan EBRD ile 175 milyon euroluk sözleşme",
-    "tt": null,
-    "s": "Denizbank Avrupa İmar ve Kalkınma Bankası (EBRD) ile tamamı 5 yıl vadeli toplam 175 milyon euro tutarında kredi sözleşmeleri imzaladığını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/denizbank-tan-ebrd-ile-175-milyon-euroluk-sozlesme-3794364",
-    "ts": 1794472368000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de ölümcül parazit yeniden hızlandı",
-    "tt": null,
-    "s": "ABD'de hayvanları etkileyen Yeni Dünya vida kurdu vakaları kasım ayında hızla arttı. Daha ılıman ve nemli hava, \"et yiyen kurtçuk\" olarak bilinen parazitin yayılmasını kolaylaştırırken toplam vaka sayısı 130'a yaklaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abdde-olumcul-parazit-yeniden-hizlandi-3794359",
-    "ts": 1794472053000,
-    "tags": []
-   },
-   {
-    "t": "Cumhurbaşkanı Erdoğan, İran Cumhurbaşkanı Pezeşkiyan ile görüştü",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 Zirvesi'nde İran Cumhurbaşkanı Mesud Pezeşkiyan ile bir araya geldi. Erdoğan görüşmede, İran-ABD arasındaki çatışmaların bir an evvel sona ermesi ve kalıcı barışın sağlanmasını temenni etti, istikrarın hakim olduğu dönemin başlatılabilmesi için diplomasiye ş",
-    "ss": null,
-    "u": "https://www.bloomberght.com/erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-3794358",
-    "ts": 1794471939000,
-    "tags": []
-   },
-   {
-    "t": "Musk'tan Nvidia CEO'suna iş teklifi",
-    "tt": null,
-    "s": "Tesla Üst Yöneticisi (CEO) ve SpaceX'in kurucusu Elon Musk, \"Çinli bir casusla ilişki yaşadığı iddialarına\" konu olan ABD'li çip üreticisi Nvidia'nın CEO'su Jensen Huang'ı işe almanın kendisi için \"onur olacağını\" belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/musk-tan-nvidia-ceo-suna-is-teklifi-3794348",
-    "ts": 1794471204000,
     "tags": []
    }
   ]
