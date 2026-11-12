@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-12T16:17:51.768927+00:00",
+ "generated": "2026-11-12T17:18:48.737948+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7645.93,
-   "c": 0.35,
-   "d": 26.55,
+   "p": 7627.27,
+   "c": 0.1,
+   "d": 7.89,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 25561.207,
-   "c": 0.37,
-   "d": 95.018,
+   "p": 25448.826,
+   "c": -0.07,
+   "d": -17.363,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52726.17,
-   "c": 0.46,
-   "d": 239.682,
+   "p": 52655.46,
+   "c": 0.32,
+   "d": 168.972,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 17.62,
-   "c": 0.74,
-   "d": 0.13,
+   "p": 17.63,
+   "c": 0.8,
+   "d": 0.14,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3879.5,
-   "c": -3.02,
-   "d": -121.0,
+   "p": 3878.1,
+   "c": -3.06,
+   "d": -122.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.2,
-   "c": -3.24,
-   "d": -1.681,
+   "p": 50.025,
+   "c": -3.58,
+   "d": -1.856,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.76,
-   "c": 0.27,
-   "d": 0.23,
+   "p": 87.04,
+   "c": 0.59,
+   "d": 0.51,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.67,
-   "c": 0.98,
-   "d": 0.91,
+   "p": 93.93,
+   "c": 1.26,
+   "d": 1.17,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.148,
-   "c": 0.23,
-   "d": 0.238,
+   "p": 103.168,
+   "c": 0.25,
+   "d": 0.258,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.068,
-   "c": 1.4,
-   "d": 0.07,
+   "p": 5.099,
+   "c": 2.02,
+   "d": 0.101,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.2546,
+   "p": 50.2529,
    "c": 0.09,
-   "d": 0.045,
+   "d": 0.043,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 71881,
-   "c": -3.11,
+   "p": 71625,
+   "c": -3.67,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2011.75,
-   "c": -3.26,
+   "p": 2004.02,
+   "c": -3.94,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 81.72,
-   "c": -3.74,
+   "p": 81.15,
+   "c": -4.71,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.029,
-   "c": -4.05,
+   "p": 1.022,
+   "c": -4.72,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 657.33,
-   "c": -4.14,
+   "p": 654.32,
+   "c": -4.73,
    "k": "usd"
   }
  ],
@@ -341,16 +341,6 @@
    "reading": null
   },
   {
-   "title": "Mortgage Delinquencies",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.37%",
-   "actual": "",
-   "ts": 1794500040000,
-   "tr": "Per 12.11 19:14",
-   "reading": null
-  },
-  {
    "title": "FOMC Member Goolsbee Speaks",
    "impact": "Low",
    "forecast": "",
@@ -368,6 +358,16 @@
    "actual": "",
    "ts": 1794502800000,
    "tr": "Per 12.11 20:00",
+   "reading": null
+  },
+  {
+   "title": "Mortgage Delinquencies",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.37%",
+   "actual": "",
+   "ts": 1794506340000,
+   "tr": "Per 12.11 20:59",
    "reading": null
   },
   {
@@ -504,6 +504,76 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Japan’s Yen Jumps After Breaching Key 160-Per-Dollar Level",
+    "tt": "Japonya Yeni, Dolar Başına 160 Temel Seviyeyi Kırdıktan Sonra Atladı",
+    "s": "The yen quickly rose to touch its strongest level of the day after fading to the closely watched 160-per-dollar mark, a threshold that’s raised the specter that policymakers in Japan will swoop in again to defend the currency.",
+    "ss": "Yen, yakından izlenen dolar başına 160 seviyesine geriledikten sonra hızlı bir şekilde günün en güçlü seviyesine ulaştı; bu eşik, Japonya'daki politika yapıcıların para birimini savunmak için yeniden devreye gireceği endişesini artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/yen-falls-to-key-160-level-per-dollar-raising-intervention-risk",
+    "ts": 1794501755000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Trump’s Russia Diesel Deal Struggles to Find Willing US Buyer",
+    "tt": "Trump'ın Rusya Dizel Anlaşmasında İstekli ABD'li Alıcı Bulmakta Zorlanıyor",
+    "s": "An accord brokered by President Donald Trump to sell Russian diesel to the US appears to have failed to clear a key hurdle: finding a willing customer.",
+    "ss": "Başkan Donald Trump'ın Rus dizelini ABD'ye satmaya yönelik aracılık ettiği anlaşma, önemli bir engeli aşmada başarısız olmuş gibi görünüyor: istekli bir müşteri bulmak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/trump-s-russia-diesel-deal-struggles-to-find-willing-us-buyer",
+    "ts": 1794503199000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Bounce as Nvidia Rout Spurs Gains Elsewhere: Markets Wrap",
+    "tt": "Nvidia Liderlik Krizi Tech'i Etkilerken Hisse Senetleri Düşüyor: Piyasalar Sarıldı",
+    "s": "A leadership crisis at Nvidia Corp. spurred a selloff in its shares, but ended up fueling a rotation into a broader category of stocks.",
+    "ss": "Yatırımcıların Nvidia Corp.'ta küresel yapay zeka tedarik zincirine de yansıyabilecek bir liderlik kriziyle karşı karşıya kalmasıyla teknoloji hisselerinin yönlendirdiği yükseliş aniden durma noktasına geldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794434885000,
+    "tags": []
+   },
+   {
+    "t": "De Beers Suitor Aims to Win Customers Back to Real Diamonds",
+    "tt": "De Beers Talibi Müşterileri Gerçek Elmaslara Geri Döndürmeyi Hedefliyor",
+    "s": "The group in pole position to buy De Beers said it aims to bring customers back to real diamonds, and away from the synthetic gems that have deepened an industry crisis.",
+    "ss": "De Beers'i satın almak için ilk sıradaki grup, müşterileri gerçek elmaslara geri döndürmeyi ve endüstri krizini derinleştiren sentetik mücevherlerden uzaklaştırmayı hedeflediğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/de-beers-suitor-aims-to-win-customers-back-to-real-diamonds",
+    "ts": 1794501982000,
+    "tags": []
+   },
+   {
+    "t": "Crunch Fitness Seeks to Borrow $800 Million in ABS Bond Sale",
+    "tt": "Crunch Fitness, ABS Tahvili Satışından 800 Milyon Dolar Borç Almak İstiyor",
+    "s": "Crunch Fitness is looking to raise about $800 million from a bond sale backed by the company’s franchise revenue, adding to a string of companies tapping the whole-business securitization market in recent weeks.",
+    "ss": "Crunch Fitness, şirketin franchise geliriyle desteklenen tahvil satışından yaklaşık 800 milyon dolar elde etmeyi planlıyor ve bu, son haftalarda tüm işletme menkul kıymetleştirme pazarından yararlanan bir dizi şirkete katkıda bulunuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
+    "ts": 1794426963000,
+    "tags": []
+   },
+   {
+    "t": "GPU Financing Filters Further Into ABS With Planned Newton Deal",
+    "tt": "GPU Finansmanı, Planlanan Newton Anlaşmasıyla ABS'yi Daha da Filtreliyor",
+    "s": "Newton Commercial Finance, a joint venture between Apple Bank and Eagle Point Credit Management, is in early talks with investors about a potential $180 million bond offering partly backed by artificial intelligence chip loans.",
+    "ss": "Apple Bank ve Eagle Point Credit Management'ın ortak girişimi olan Newton Commercial Finance, kısmen yapay zeka çipli kredilerle desteklenen 180 milyon dolarlık potansiyel tahvil teklifi hakkında yatırımcılarla erken görüşmelerde bulunuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/newton-eyes-equipment-loan-abs-bond-sale-including-ai-chip-debt",
+    "ts": 1794423782000,
+    "tags": []
+   },
+   {
+    "t": "Bond Traders See Elliott’s Citgo Deal Imperiled by Oil Windfall",
+    "tt": "Tahvil Yatırımcıları, Elliott'un Citgo Anlaşmasının Petrolün Beklenmedik Düşüşüyle ​​Tehlikeye Girdiğini Görüyor",
+    "s": "Bond traders are betting that the planned $5.9 billion takeover of Citgo Petroleum Corp., Venezuela’s most valuable overseas asset, will be derailed as the company reaps a windfall from the surge in oil prices.",
+    "ss": "Tahvil tüccarları, Venezuela'nın en değerli denizaşırı varlığı olan Citgo Petroleum Corp.'un planlanan 5,9 milyar dolarlık devralımının, şirketin petrol fiyatlarındaki artıştan beklenmedik bir kazanç elde etmesiyle raydan çıkacağını iddia ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/bond-traders-see-elliott-s-citgo-deal-imperiled-by-oil-windfall",
+    "ts": 1794501117000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
     "t": "Nvidia’s $10 Billion Anthropic IPO Pledge in Focus With CEO Exit",
     "tt": "Nvidia'nın 10 Milyar Dolarlık Antropik Halka Arz Taahhüdü, CEO Çıkışıyla Odaklanıyor",
     "s": "Anthropic PBC’s plans for a record initial public offering are under fresh scrutiny after Nvidia Corp.’s CEO was unexpectedly ousted, highlighting the links between the two artificial intelligence giants.",
@@ -522,75 +592,12 @@
     "tags": []
    },
    {
-    "t": "Stocks Bounce as Nvidia Rout Spurs Gains Elsewhere: Markets Wrap",
-    "tt": "Nvidia Liderlik Krizi Tech'i Etkilerken Hisse Senetleri Düşüyor: Piyasalar Sarıldı",
-    "s": "A leadership crisis at Nvidia Corp. spurred a selloff in its shares, but ended up fueling a rotation into a broader category of stocks.",
-    "ss": "Yatırımcıların Nvidia Corp.'ta küresel yapay zeka tedarik zincirine de yansıyabilecek bir liderlik kriziyle karşı karşıya kalmasıyla teknoloji hisselerinin yönlendirdiği yükseliş aniden durma noktasına geldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794434885000,
-    "tags": []
-   },
-   {
     "t": "Director of Lone Star Project Reflects on Blue Victories in Texas",
     "tt": "Lone Star Projesi Direktörü Teksas'taki Mavi Zaferleri Düşünüyor",
     "s": "After decades of falling short, Matt Angle explains why democrats were finally able to sweep the state. He believes health care should be among the top priorities for new lawmakers. (Source: Bloomberg)",
     "ss": "Onlarca yıl yetersiz kaldıktan sonra Matt Angle, demokratların neden sonunda eyaleti silip süpürebildiklerini açıklıyor. Sağlık hizmetlerinin yeni yasa yapıcılar için en önemli öncelikler arasında olması gerektiğine inanıyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-12/matt-angle-reflects-on-blue-victories-in-texas-video",
     "ts": 1794499255000,
-    "tags": []
-   },
-   {
-    "t": "CoreWeave Bonds Rise After Strong Earnings Soothe Debt Anxiety",
-    "tt": "CoreWeave Tahvilleri Güçlü Kazançların Ardından Yükseliyor Borç Kaygısını Azaltıyor",
-    "s": "CoreWeave Inc. bonds edged higher on Thursday after the AI computing supplier’s stronger-than-expected results soothed concerns about its debt load.",
-    "ss": "CoreWeave Inc. tahvilleri, AI bilişim tedarikçisinin beklenenden daha güçlü sonuçlarının borç yüküne ilişkin endişeleri gidermesinin ardından Perşembe günü yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/coreweave-bonds-rise-after-strong-earnings-soothe-debt-anxiety",
-    "ts": 1794498604000,
-    "tags": []
-   },
-   {
-    "t": "Sales of Existing US Homes Tumble to Lowest Level Since 2010",
-    "tt": "ABD'deki Mevcut Konut Satışları 2010'dan Bu Yana En Düşük Seviyeye Düştü",
-    "s": "US previously owned home sales fell last month to a 16-year low as a cascade of negative news on mortgage rates and inflation deterred would-be buyers.",
-    "ss": "ABD'de önceden sahip olunan konut satışları, mortgage oranları ve enflasyona ilişkin art arda gelen olumsuz haberlerin potansiyel alıcıları caydırması nedeniyle geçen ay 16 yılın en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/sales-of-existing-us-homes-tumble-to-lowest-level-since-2010",
-    "ts": 1794495600000,
-    "tags": []
-   },
-   {
-    "t": "Delta Sees No Pushback on Higher Fares, CEO Says",
-    "tt": "CEO, Delta'nın Yüksek Ücretlerde Gerileme Görmediğini Söyledi",
-    "s": "Delta Air Lines Inc.’s chief executive officer Ed Bastian says there's been no slowdown in demand even as ticket prices rise. “We haven’t seen the pushback,” he told Bloomberg's Lisa Abramowicz on Thursday. \"It is supply and demand. The demand is really strong.\" (Source: Bloomberg)",
-    "ss": "Delta Air Lines Inc.'in CEO'su Ed Bastian, bilet fiyatlarının artmasına rağmen talepte herhangi bir yavaşlamanın yaşanmadığını söyledi. Perşembe günü Bloomberg'den Lisa Abramowicz'e \"Geri tepkiyi görmedik\" dedi. \"Arz ve talep meselesi. Talep gerçekten güçlü.\" (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/delta-sees-no-pushback-on-higher-fares-ceo-says-video",
-    "ts": 1794498225000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Boom Raises Stakes for Data Centers",
-    "tt": "Nvidia Boom Veri Merkezleri İçin Riskleri Artırıyor",
-    "s": "AI demand remains strong even as data-center construction slows. Ardian’s Executive President Vladimir Colas joins Bloomberg Open Interest to explain why Europe’s digital infrastructure and secondaries could offer opportunities and why existing data centers may become more valuable. (Source: Bloombe",
-    "ss": "Veri merkezi inşaatı yavaşlasa bile yapay zeka talebi güçlü kalıyor. Ardian'ın İcra Kurulu Başkanı Vladimir Colas, Avrupa'nın dijital altyapısının ve ikincil unsurlarının neden fırsatlar sunabileceğini ve mevcut veri merkezlerinin neden daha değerli hale gelebileceğini açıklamak için Bloomberg Open Interest'e katıldı. (Kaynak: Bloombe",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-boom-raises-stakes-for-data-centers-video",
-    "ts": 1794497727000,
-    "tags": []
-   },
-   {
-    "t": "Fed's Hammack Calls for More Restrictive Rate Policy",
-    "tt": "Fed'den Hammack Daha Kısıtlayıcı Faiz Politikası Çağrısında Bulundu",
-    "s": "\"My expectations are that we need to move to a restrictive stance of policy to help bring inflation back down to that 2% objective,\" Federal Reserve Bank of Cleveland President Beth Hammack says during an event at Ohio State University. (Source: Bloomberg)",
-    "ss": "Cleveland Federal Rezerv Bankası Başkanı Beth Hammack, Ohio State Üniversitesi'ndeki bir etkinlik sırasında, \"Beklentilerim, enflasyonun yüzde 2 hedefine geri çekilmesine yardımcı olmak için kısıtlayıcı bir politika duruşuna geçmemiz gerektiği yönünde\" dedi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/fed-s-hammack-calls-for-more-restrictive-rate-policy-video",
-    "ts": 1794495820000,
-    "tags": []
-   },
-   {
-    "t": "Marvell-Lumentum Deal Odds Near Coin Flip",
-    "tt": "Yazı-turaya yakın Marvell-Lumentum Anlaşma Oranları",
-    "s": "Bloomberg’s Yiqin Shen joins Dani Burger on “Bloomberg Deals.” Marvell Technology’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings is getting a lukewarm early verdict from investment experts who bet on deals. (Source: Bloomberg)",
-    "ss": "Bloomberg'den Yiqin Shen, \"Bloomberg Fırsatları\"nda Dani Burger'a katılıyor. Marvell Technology'nin, Lumentum Holdings'i 115 milyar dolarlık gişe rekorları kıran bir satın alma yoluyla yapay zekayı ikiye katlama planı, anlaşmalara bahis oynayan yatırım uzmanlarından ılımlı bir erken karar alıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/marvell-lumentum-deal-odds-near-coin-flip-video",
-    "ts": 1794423910000,
     "tags": []
    }
   ],
@@ -688,6 +695,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "The bond market now has an even bigger fear than the AI fallout",
+    "tt": "Tahvil piyasası artık yapay zekanın etkisinden çok daha büyük bir korkuya sahip",
+    "s": "The sharp selloff in tech stocks made Treasurys look more attractive in recent weeks, but another big driver of yields is emerging.",
+    "ss": "Teknoloji hisselerindeki keskin satışlar Hazine tahvillerinin son haftalarda daha çekici görünmesine neden oldu, ancak getirilerin bir başka büyük etkeni daha ortaya çıkıyor.",
+    "u": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+    "ts": 1794503460000,
+    "tags": []
+   },
+   {
+    "t": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "tt": "'En kötü kavgayı yaşadık': Kocamın 65 yaşında emekli olmasını istiyorum ama 280.000 dolarlık maaşını da kaybetmek istemiyorum. Bu mantıksız mı?",
+    "s": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+    "ss": "\"2,6 milyon dolarımız var, bunların çoğu onun 401(k) ve IRA'larında, artı 450.000 dolarımız aracılık hesabında.\"",
+    "u": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "ts": 1794502860000,
+    "tags": []
+   },
+   {
+    "t": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
+    "tt": "Eşim ve ben 70'li yaşlardayız. Yüzde 2,5'lik ipoteğimizi mi ödemeliyiz yoksa yapay zekanın yönlendirdiği bir borsaya mı yatırım yapmalıyız?",
+    "s": "“We are weighing up the wisdom of investing in a market driven by artificial intelligence.”",
+    "ss": "“Yapay zekanın yönlendirdiği bir pazara yatırım yapmanın akıllıca olup olmadığını değerlendiriyoruz.”",
+    "u": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "ts": 1794502800000,
+    "tags": []
+   },
+   {
     "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
     "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
     "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
@@ -749,36 +783,68 @@
     "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
     "ts": 1794497160000,
     "tags": []
-   },
-   {
-    "t": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
-    "tt": "İşte Nvidia skandalının ön saflarında yer alan şirket Megaspeed'in şimdi söylediği şey:",
-    "s": "The Singaporean company Megaspeed, which stands at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.",
-    "ss": "Nvidia'yı saran skandalın merkezinde yer alan Singapurlu şirket Megaspeed, Perşembe günü skandalın patlak vermesinden bu yana ilk kamuoyu açıklamasını yaptı.",
-    "u": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
-    "ts": 1794496980000,
-    "tags": []
-   },
-   {
-    "t": "These home buyers bought their first house with help from their employer. ‘Why not jump at the chance?’",
-    "tt": "Bu ev alıcıları ilk evlerini işverenlerinin yardımıyla satın aldılar. ‘Neden bu şansı değerlendirmiyorsunuz?’",
-    "s": "The rise in home-buying help from employers “speaks volumes about how difficult buying a home has become, even for people with steady jobs.”",
-    "ss": "İşverenlerden gelen ev satın alma yardımlarındaki artış, \"düzenli işi olan insanlar için bile ev satın almanın ne kadar zor hale geldiğinin çok açık bir göstergesi.\"",
-    "u": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
-    "ts": 1794496380000,
-    "tags": []
-   },
-   {
-    "t": "Jensen Huang built Nvidia into a behemoth. His resignation puts the entire AI boom in jeopardy.",
-    "tt": "Jensen Huang, Nvidia'yı bir dev haline getirdi. Onun skandalı tüm yapay zeka patlamasını tehlikeye atıyor.",
-    "s": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What will happen now that’s he gone?",
-    "ss": "Huang, tedarik zinciri genelinde gelişmiş çipler ve yaratıcı finansman anlaşmalarıyla şirketini ve yapay zeka ekosistemini güçlendirdi. O giderse ne olur?",
-    "u": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-    "ts": 1794494940000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "San Diego State Now Offers A RuPaul's Drag Race Course To Study \"Queens Of Color\"",
+    "tt": "San Diego Eyaleti Artık \"Renkli Kraliçeler\"i İncelemek İçin RuPaul'un Drag Yarışı Kursunu Sunuyor",
+    "s": "San Diego State Now Offers A RuPaul's Drag Race Course To Study \"Queens Of Color\" Authored by Veronica Webber via The College Fix , San Diego State University currently offers a course in which students will examine \"race, gender, sexuality, class, nation, and trans/nonbinary politics\" in a drag-rac",
+    "ss": "San Diego Eyaleti Artık \"Renkli Kraliçeler\"i Çalışmak İçin RuPaul'un Kısa Araba Yarışı Kursu Sunuyor Veronica Webber tarafından The College Fix aracılığıyla yazılmıştır, San Diego Eyalet Üniversitesi şu anda öğrencilerin \"ırk, cinsiyet, cinsellik, sınıf, ulus ve trans/ikili olmayan politikaları\" bir drag-rac'te inceleyecekleri bir kurs sunmaktadır.",
+    "u": "https://www.zerohedge.com/political/san-diego-state-now-offers-rupauls-drag-race-course-study-queens-color",
+    "ts": 1794503700000,
+    "tags": []
+   },
+   {
+    "t": "WTI Dips After Across The Board Inventory Builds, Big SPR Drain, & Record US Production",
+    "tt": "WTI Genel Envanter Artışı, Büyük SPR Boşalması ve Rekor ABD Üretimi Sonrasında Düştü",
+    "s": "WTI Dips After Across The Board Inventory Builds, Big SPR Drain, &amp; Record US Production Oil prices are higher again this morning after President Donald Trump nixed the idea of an eventual deal with Iran. \"We don't need a deal with Iran,\" Trump wrote in a social media post. &nbsp;\"Those days have",
+    "ss": "WTI Genel Envanter Artışı, Büyük SPR Boşalması ve Rekor ABD Üretimi Sonrası Düştü Petrol fiyatları, Başkan Donald Trump'ın İran'la nihai bir anlaşma fikrini reddetmesinin ardından bu sabah yeniden yükseldi. Trump sosyal medya paylaşımında \"İran'la anlaşmaya ihtiyacımız yok\" diye yazdı.  \"O günler var",
+    "u": "https://www.zerohedge.com/energy/wti-dips-after-across-board-inventory-builds-big-spr-drain-record-us-production",
+    "ts": 1794503100000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Judge Denies Alaska Democratic US ​Senate Candidate's Request For Ballot Data",
+    "tt": "Yargıç, Alaska Demokrat ABD Senatosu Adayının Oylama Verileri Talebini Reddetti",
+    "s": "Judge Denies Alaska Democratic US ​Senate Candidate's Request For Ballot Data Authored by Zachary Stieber via The Epoch Times, A judge on Nov. 11 denied a request from the Democrat running for a U.S. Senate seat representing Alaska. Alaska Superior Court Judge Thomas Matthews turned down a lawsuit f",
+    "ss": "Yargıç, Alaska Demokrat ABD Senatosu Adayının Oy Pusula Verileri Talebini Reddetti Zachary Stieber tarafından The Epoch Times aracılığıyla yazılmıştır. 11 Kasım'da bir yargıç, Demokrat'ın Alaska'yı temsil eden ABD Senatosu koltuğu için aday olan talebini reddetti. Alaska Yüksek Mahkemesi Hakimi Thomas Matthews, bir davayı reddetti",
+    "u": "https://www.zerohedge.com/political/judge-denies-alaska-democratic-us-senate-candidates-request-ballot-data",
+    "ts": 1794502500000,
+    "tags": []
+   },
+   {
+    "t": "Preserve All Evidence: With Huang Out At Nvidia, Democrats Want Every Record Of His Calls With Trump",
+    "tt": "Tüm Kanıtları Koruyun: Huang Nvidia'dayken Demokratlar Trump'la Yaptığı Görüşmelerin Tüm Kayıtlarını İstiyor",
+    "s": "Preserve All Evidence: With Huang Out At Nvidia, Democrats Want Every Record Of His Calls With Trump Hours before Jensen Huang resigned as Nvidia's CEO on Thursday, two senior Senate Democrats told the Trump administration to preserve every record of its dealings with him , from his calls with Presi",
+    "ss": "Tüm Kanıtları Koruyun: Huang Nvidia'dayken Demokratlar, Trump'la Yaptığı Görüşmelerin Tüm Kayıtlarını İstiyor Jensen Huang Perşembe günü Nvidia'nın CEO'su olarak istifa etmeden saatler önce, iki kıdemli Senato Demokratı, Trump yönetimine, Presi ile yaptığı görüşmelerden itibaren kendisiyle olan tüm görüşmelerinin tüm kayıtlarını saklamasını söyledi.",
+    "u": "https://www.zerohedge.com/political/preserve-all-evidence-huang-out-nvidia-democrats-want-every-record-his-calls-trump",
+    "ts": 1794501600000,
+    "tags": []
+   },
+   {
+    "t": "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks In Shenzhen",
+    "tt": "Yttrium'un 125 Katlık Fiyat Farkı Shenzhen'deki Trump-Xi Görüşmelerinde Beliriyor",
+    "s": "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks In Shenzhen Authored by Michael Kern via OilPrice , China extended its pause on the October 2025 rare earth export controls to Jan. 10, but the April 2025 licensing rules that cover yttrium were never part of the pause. Argus prices yttrium abou",
+    "ss": "Yttrium'un 125 Katlık Fiyat Farkı, Shenzhen'deki Trump-Xi Görüşmeleri Üzerinde Beliriyor Michael Kern tarafından OilPrice aracılığıyla Çin, Ekim 2025 nadir toprak ihracat kontrollerindeki duraklamasını 10 Ocak'a kadar uzattı, ancak itriyumu kapsayan Nisan 2025 lisanslama kuralları hiçbir zaman duraklamanın bir parçası olmadı. Argus fiyatları itriyum abou",
+    "u": "https://www.zerohedge.com/geopolitical/yttriums-125-fold-price-gap-looms-over-trump-xi-talks-shenzhen",
+    "ts": 1794500700000,
+    "tags": []
+   },
+   {
+    "t": "Crude Spikes As Trump Declares 'We Don't Need A Deal' With Iran",
+    "tt": "Trump'ın İran'la \"Anlaşmaya İhtiyacımız Yok\" Demesiyle Ham Petrol Yükseldi",
+    "s": "Crude Spikes As Trump Declares 'We Don't Need A Deal' With Iran President Trump has begun his Thursday morning with statements saying that the United States no longer sees a need to negotiate a diplomatic agreement with Iran.&nbsp; \"We don't need a deal with Iran,\" the president stated, saying furth",
+    "ss": "Trump'ın İran'la 'Anlaşmaya İhtiyacımız Yok' Demesiyle Ham Petrol Yükseldi Başkan Trump Perşembe sabahına ABD'nin artık İran'la diplomatik bir anlaşma müzakere etme ihtiyacı görmediğini söyleyen açıklamalarla başladı.  Başkan, \"İran'la bir anlaşmaya ihtiyacımız yok\" dedi.",
+    "u": "https://www.zerohedge.com/energy/crude-surges-trump-declares-we-dont-need-deal-iran",
+    "ts": 1794500400000,
+    "tags": []
+   },
    {
     "t": "\"Stuff You See In The Movies\": Democrat-Elect Goes Rogue, Reveals Shocking Threats From Party Leaders To Fall In Line",
     "tt": "\"Filmlerde Gördüğünüz Şeyler\": Seçilmiş Demokratlar Sahtekarlık Yapıyor, Parti Liderlerinin Sıraya Girmeye Yönelik Şok Tehditlerini Ortaya Çıkarıyor",
@@ -814,63 +880,27 @@
     "u": "https://www.zerohedge.com/markets/trump-threatens-double-tariffs-mexico-if-third-worlder-caravan-isnt-stopped",
     "ts": 1794498000000,
     "tags": []
-   },
-   {
-    "t": "\"I Don't Know\": Bessent Confronted Lutnick Over Why Nvidia Spy Scandal Firm Isn't Blacklisted",
-    "tt": "\"Bilmiyorum\": Bessent, Nvidia Casus Skandal Firmasının Neden Kara Listeye Alınmadığı Konusunda Lutnick'le Yüzleşti",
-    "s": "\"I Don't Know\": Bessent Confronted Lutnick Over Why Nvidia Spy Scandal Firm Isn't Blacklisted The fallout from the now-unemployed Jensen Huang Nvidia spy scandal continues to spread. Now we learn that Treasury Secretary Scott Bessent reportedly confronted Commerce Secretary Howard Lutnick in the Whi",
-    "ss": "\"Bilmiyorum\": Bessent, Nvidia Casus Skandal Firmasının Neden Kara Listeye Alınmadığı Konusunda Lutnick'le Yüzleşti Artık işsiz olan Jensen Huang Nvidia casus skandalının sonuçları yayılmaya devam ediyor. Şimdi, Hazine Bakanı Scott Bessent'in Whi'de Ticaret Bakanı Howard Lutnick ile karşı karşıya geldiği bildirildi.",
-    "u": "https://www.zerohedge.com/political/i-dont-know-bessent-confronted-lutnick-over-why-nvidia-spy-scandal-firm-isnt-blacklisted",
-    "ts": 1794497100000,
-    "tags": []
-   },
-   {
-    "t": "Existing Home Sales Crash To 16 Year Lows In October",
-    "tt": "Mevcut Konut Satışları Ekim'de Son 16 Yılın En Düşük Seviyesine Düştü",
-    "s": "Existing Home Sales Crash To 16 Year Lows In October US existing home sales plunged 5.5% MoM in October (worse than the 3.5% MoM exp), pulling sales down 8.76% YoY with mortgage rates near multi-decade highs... The October collapse drags existing home sales SAAR to 3.75 million (well below the 3.86 ",
-    "ss": "Mevcut Ev Satışları Ekim'de 16 Yılın En Düşük Seviyesine Düştü ABD'de mevcut konut satışları Ekim ayında bir önceki aya göre %5,5 düştü (%3,5 aylık bazda daha kötü), konut satışları yıllık bazda %8,76 düştü ve ipotek faizleri onlarca yılın en yüksek seviyelerine yaklaştı... Ekim çöküşü mevcut ev satış SAAR'ını 3,75 milyona (3,86 seviyesinin oldukça altına) sürükledi",
-    "u": "https://www.zerohedge.com/personal-finance/existing-home-sales-crash-16-year-lows-october",
-    "ts": 1794496500000,
-    "tags": []
-   },
-   {
-    "t": "\"Not Just Going To Be Oversight\": Dems Line Up Probes Of Ex-Chief Of Staff Susie Wiles",
-    "tt": "\"Sadece Gözetim Olmayacak\": Demokratlar Eski Genelkurmay Başkanı Susie Wiles Hakkında Soruşturma Başlattı",
-    "s": "\"Not Just Going To Be Oversight\": Dems Line Up Probes Of Ex-Chief Of Staff Susie Wiles Authored by Aldgra Fredly via The Epoch Times , Rep. Robert Garcia (D-Calif.) said on Nov. 10 that former White House chief of staff Susie Wiles could face a congressional probe once Democrats take over Congress n",
-    "ss": "\"Sadece Gözetim Olmayacak\": Demokratlar Eski Genelkurmay Başkanı Susie Wiles Hakkında Soruşturma Başlatıyor Aldgra Fredly tarafından The Epoch Times aracılığıyla yazılan Temsilci Robert Garcia (D-Calif.) 10 Kasım'da eski Beyaz Saray özel kalemi Susie Wiles'ın Demokratlar Kongre'yi devraldığında kongre soruşturmasıyla karşı karşıya kalabileceğini söyledi.",
-    "u": "https://www.zerohedge.com/political/not-just-going-be-oversight-dems-line-probes-ex-chief-staff-susie-wiles",
-    "ts": 1794495300000,
-    "tags": []
-   },
-   {
-    "t": "Jensen Huang Resigns As CEO Of Nvidia, Stock Plunges",
-    "tt": "Jensen Huang Nvidia CEO'luğundan İstifa Etti, Hisseler Düştü",
-    "s": "Jensen Huang Resigns As CEO Of Nvidia, Stock Plunges The chaos surrounding Jensen Huang unfolded rapidly after late October 2026. &nbsp; On October 29, The New York Times reported that U.S. intelligence viewed his close relationship with Alice Huang (no relation), a Chinese executive tied to Singapo",
-    "ss": "Jensen Huang, Nvidia CEO'luğundan İstifa Etti, Hisse Senetleri Düştü Jensen Huang'ı çevreleyen kaos, Ekim 2026'nın sonlarından sonra hızla ortaya çıktı. 29 Ekim'de The New York Times, ABD istihbaratının, onun Singapo'ya bağlı Çinli bir yönetici olan Alice Huang (ilişki yok) ile yakın ilişkisini gördüğünü bildirdi.",
-    "u": "https://www.zerohedge.com/markets/jensen-huang-resigns-ceo-nvidia-stock-plunges",
-    "ts": 1794495000000,
-    "tags": []
-   },
-   {
-    "t": "\"We Have Come To Annihilate You\": Bomb Threats Empty Hundreds Of Schools Across Europe",
-    "tt": "\"Sizi Yok Etmeye Geldik\": Bomba Tehdidi Avrupa'da Yüzlerce Okulu Boşaltıyor",
-    "s": "\"We Have Come To Annihilate You\": Bomb Threats Empty Hundreds Of Schools Across Europe Hoax bomb threats emailed to thousands of schools forced evacuations across Italy on Wednesday , and the same kind of message landed in schools in Ireland, Scotland and Northern Ireland, a week after a wave of bom",
-    "ss": "\"Sizi Yok Etmeye Geldik\": Bomba Tehditleri Avrupa Çapında Yüzlerce Okulu Boşaltıyor Sahte bomba tehditleri Çarşamba günü İtalya genelinde binlerce okula e-postayla zorla tahliye edildi ve aynı tür mesaj, bir bomba dalgasından bir hafta sonra İrlanda, İskoçya ve Kuzey İrlanda'daki okullara da ulaştı.",
-    "u": "https://www.zerohedge.com/geopolitical/we-have-come-annihilate-you-bomb-threats-empty-hundreds-schools-across-europe",
-    "ts": 1794494400000,
-    "tags": []
-   },
-   {
-    "t": "Europe's Energy Alarm Sounds: NatGas Stockpiles Draining, Prices Surge As Emergency Buffer Shrinks",
-    "tt": "Avrupa'da Enerji Alarmı Çalıyor: Doğal Gaz Stokları Boşalıyor, Acil Durum Tamponu Daraldıkça Fiyatlar Yükseliyor",
-    "s": "Europe's Energy Alarm Sounds: NatGas Stockpiles Draining, Prices Surge As Emergency Buffer Shrinks European natural gas futures jumped for a third day as colder weather accelerated withdrawals from already dangerously low inventories that are well below seasonal norms across the energy-stricken cont",
-    "ss": "Avrupa'da Enerji Alarmı Çalıyor: Doğal Gaz Stokları Tükeniyor, Acil Durum Tamponu Daraldıkça Fiyatlar Yükseliyor Avrupa doğal gaz vadeli işlemleri, soğuk havaların, enerji sıkıntısı çeken küresel dönemde zaten tehlikeli derecede düşük olan ve zaten tehlikeli derecede düşük olan stoklardan çekilmeyi hızlandırmasıyla üçüncü günde de yükseliş kaydetti.",
-    "u": "https://www.zerohedge.com/energy/europes-energy-alarm-sounds-natgas-stockpiles-draining-prices-surge-emergency-buffer-shrinks",
-    "ts": 1794493540000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Erdoğan: Kalkınma bankalarıyla 5,1 milyar dolarlık 10 anlaşma imzaladık",
+    "tt": null,
+    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, COP31 İş Forumu'nda dört büyük kalkınma bankasıyla toplam 5,1 milyar dolarlık 10 anlaşma imzalandığını açıkladı. Erdoğan, enerji fiyatlarındaki yükselişe rağmen Türkiye'nin büyüme ve yatırım hedeflerinden vazgeçmediğini ve uluslararası yatırımcıların ülkeye güveni",
+    "ss": null,
+    "u": "https://www.bloomberght.com/erdogan-kalkinma-bankalariyla-5-1-milyar-dolarlik-10-anlasma-imzaladik-3794480",
+    "ts": 1794503296000,
+    "tags": []
+   },
+   {
+    "t": "Şimşek: Yeşil dönüşüm, ekonomi programımızın tam merkezinde yer alıyor",
+    "tt": null,
+    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, COP31'de karbonsuzlaşmanın uluslararası rekabet gücünü doğrudan etkilediğini ve yeşil dönüşümün Türkiye'nin ekonomi programının merkezinde yer aldığını söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/simsek-yesil-donusum-ekonomi-programimizin-tam-merkezinde-yer-aliyor-3794479",
+    "ts": 1794500613000,
+    "tags": []
+   },
    {
     "t": "Zorlu Holding'in yeni Yönetim Kurulu Başkanı Olgun Zorlu oldu",
     "tt": null,
@@ -941,24 +971,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-artti-3794446",
     "ts": 1794490547000,
-    "tags": []
-   },
-   {
-    "t": "Trump'tan piyasaları dalgalandıran açıklama",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, İran ile bir anlaşmaya ihtiyaçları olmadığını söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-tan-piyasalari-dalgalandiran-aciklama-3794438",
-    "ts": 1794489692000,
-    "tags": []
-   },
-   {
-    "t": "Trump'tan Meksika'ya iki kat tarife tehdidi",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, Meksika'ya uygulanan gümrük vergilerini iki katına çıkarma tahdidinde bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-tan-meksika-ya-iki-kat-tarife-tehdidi-3794429",
-    "ts": 1794487150000,
     "tags": []
    }
   ]
