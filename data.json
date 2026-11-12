@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-12T21:02:23.925613+00:00",
+ "generated": "2026-11-12T21:58:52.378391+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7592.92,
+   "p": 7592.4,
    "c": -0.35,
-   "d": -26.46,
+   "d": -26.98,
    "k": "idx"
   },
   {
@@ -17,51 +17,51 @@
   },
   {
    "n": "Dow",
-   "p": 52297.81,
+   "p": 52297.09,
    "c": -0.36,
-   "d": -188.678,
+   "d": -189.398,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 18.85,
-   "c": 7.78,
-   "d": 1.36,
+   "p": 18.7,
+   "c": 6.92,
+   "d": 1.21,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3882.2,
-   "c": -2.96,
-   "d": -118.3,
+   "p": 3881.6,
+   "c": -2.97,
+   "d": -118.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.97,
-   "c": -3.68,
-   "d": -1.911,
+   "p": 49.955,
+   "c": -3.71,
+   "d": -1.926,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.96,
-   "c": 2.81,
-   "d": 2.43,
+   "p": 88.71,
+   "c": 2.52,
+   "d": 2.18,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.08,
-   "c": 3.58,
-   "d": 3.32,
+   "p": 95.79,
+   "c": 3.27,
+   "d": 3.03,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.171,
-   "c": 0.25,
-   "d": 0.261,
+   "p": 103.177,
+   "c": 0.26,
+   "d": 0.267,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2522,
-   "c": 0.08,
-   "d": 0.043,
+   "p": 50.1051,
+   "c": -0.21,
+   "d": -0.105,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 71425,
-   "c": -4.2,
+   "p": 71513,
+   "c": -3.82,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2014.97,
-   "c": -3.04,
+   "p": 2016.1,
+   "c": -2.63,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 81.32,
-   "c": -4.15,
+   "p": 81.38,
+   "c": -3.71,
    "k": "usd"
   },
   {
    "n": "XRP",
    "p": 1.037,
-   "c": -2.53,
+   "c": -2.26,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 654.27,
-   "c": -4.64,
+   "p": 654.28,
+   "c": -4.48,
    "k": "usd"
   }
  ],
@@ -504,6 +504,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit",
+    "tt": "Nvidia, Huang Çıkışından Önce Yapay Zeka Desteğini Artırma Baskısıyla Karşı Karşıyaydı",
+    "s": "Before Nvidia Corp. was thrown into turmoil by the ouster of longtime chief executive Jensen Huang, a major initiative he championed alongside the giants of Wall Street was proving far more complicated than he had envisioned.",
+    "ss": "Nvidia Corp., uzun süredir CEO olan Jensen Huang'ın devrilmesiyle kargaşaya sürüklenmeden önce, Wall Street'in devleriyle birlikte desteklediği büyük bir girişimin, hayal ettiğinden çok daha karmaşık olduğu ortaya çıkıyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit",
+    "ts": 1794520079000,
+    "tags": []
+   },
+   {
     "t": "Stocks Fall on Nvidia Rout as Oil Jump Sinks Bonds: Markets Wrap",
     "tt": "Nvidia Liderlik Krizi Tech'i Etkilerken Hisse Senetleri Düşüyor: Piyasalar Sarıldı",
     "s": "A leadership crisis at Nvidia Corp. curbed the appetite for riskier corners on Wall Street, with stocks also declining as a rally in oil prices lifted Treasury yields.",
@@ -518,6 +527,51 @@
     ]
    },
    {
+    "t": "Oil Supertanker Squeeze Is Crimping US Crude Exports, Texas Port CEO Says",
+    "tt": "Teksas Limanı CEO'su, Petrol Süper Tankeri Sıkışmasının ABD Ham İhracatını Kısıtladığını Söyledi",
+    "s": "A shortage of available oil supertankers is constraining US crude exports, prompting shippers to hire smaller vessels and direct more cargoes to Europe, according to the head of the largest US port.",
+    "ss": "ABD'nin en büyük limanının başkanına göre, mevcut süper tanker sıkıntısı ABD'nin ham petrol ihracatını kısıtlıyor ve nakliyatçıları daha küçük gemiler kiralayıp Avrupa'ya daha fazla kargo yönlendirmeye yöneltiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/oil-supertanker-squeeze-is-crimping-us-crude-exports-texas-port-ceo-says",
+    "ts": 1794519225000,
+    "tags": []
+   },
+   {
+    "t": "Yen Jumps in ‘Jittery’ Trading After Hitting 160-Per-Dollar",
+    "tt": "Yen, Dolar Başına 160'a Ulaştıktan Sonra 'Gergin' Ticarette Sıçradı",
+    "s": "The yen breached the closely watched 160-per-dollar level for the first time since September, only to rebound on speculation that a deeper slide would cause policymakers in Japan to swoop in again to defend the currency.",
+    "ss": "Yen, Eylül ayından bu yana ilk kez yakından izlenen dolar başına 160 seviyesini aştı, ancak daha derin bir düşüşün Japonya'daki politika yapıcıların para birimini savunmak için yeniden harekete geçmesine neden olacağı yönündeki spekülasyonlar üzerine toparlanma yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/yen-falls-to-key-160-level-per-dollar-raising-intervention-risk",
+    "ts": 1794501755000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Should 'Leave the Door Open' for Jensen Huang Return, Says Founders 100 ETF's Cassidy",
+    "tt": "100 ETF'nin Kurucularından Cassidy, Nvidia'nın Jensen Huang'ın Geri Dönüşü İçin 'Kapıyı Açık Bırakması' Gerektiğini Söyledi",
+    "s": "Lauren Cassidy, Founder & Chief Investment Officer, at Founders 100 ETF says the Nvidia board should leave the door for Nvidia CEO Jensen Huang to return dependent on the results of the investigation because he has been an 'incredible executive.' Huang was ousted from his post after reports of three",
+    "ss": "Founders 100 ETF'nin Kurucusu ve Baş Yatırım Sorumlusu Lauren Cassidy, Nvidia yönetim kurulunun, Nvidia CEO'su Jensen Huang'ın soruşturma sonuçlarına bağlı olarak geri dönmesine kapı bırakması gerektiğini çünkü onun 'inanılmaz bir yönetici' olduğunu söylüyor. Üç kişinin ihbarı üzerine Huang görevinden alındı",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-12/would-still-invest-with-huang-on-business-says-cassidy-video",
+    "ts": 1794518778000,
+    "tags": []
+   },
+   {
+    "t": "Australia’s Biggest Pension Fund Mulls Chinese AI as Costs Spike",
+    "tt": "Avustralya'nın En Büyük Emeklilik Fonu, Maliyetlerdeki Artış Nedeniyle Çin Yapay Zekasına Önem Veriyor",
+    "s": "AustralianSuper is considering a range of open weight artificial intelligence models to rein in rising costs that saw the country’s largest pension fund run out of coding tokens within three days last month.",
+    "ss": "AustralianSuper, ülkenin en büyük emeklilik fonunun geçen ay üç gün içinde kodlama tokenlarının tükenmesine neden olan artan maliyetleri dizginlemek için bir dizi açık ağırlıklı yapay zeka modeli düşünüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/australia-s-biggest-pension-fund-mulls-chinese-ai-as-costs-spike",
+    "ts": 1794518732000,
+    "tags": []
+   },
+   {
+    "t": "Port Authority of NY and NJ Proposes $10.3 Billion 2027 Budget",
+    "tt": "NY ve NJ Liman İdaresi 10,3 Milyar Dolarlık 2027 Bütçesi Teklif Etti",
+    "s": "The Port Authority of New York and New Jersey is proposing a $10.3 billion budget for 2027 to help finance upgrades to the region’s airports, rail and bus terminals, and bridges.",
+    "ss": "New York ve New Jersey Liman İdaresi, bölgenin havalimanları, demiryolu ve otobüs terminalleri ve köprülerindeki iyileştirmelerin finansmanına yardımcı olmak için 2027 için 10,3 milyar dolarlık bir bütçe teklif ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/port-authority-of-ny-and-nj-proposes-10-3-billion-2027-budget",
+    "ts": 1794518682000,
+    "tags": []
+   },
+   {
     "t": "Anthropic’s IPO Is Said to Be About Six Times Oversubscribed",
     "tt": "Anthropic'in Halka Arzına Altı Kat Fazla Abone Olduğu Söyleniyor",
     "s": "Anthropic PBC’s initial public offering has drawn about six times the orders for the shares available, according to people familiar with the matter, as interest increases for potentially the biggest first-time share sale ever.",
@@ -527,80 +581,23 @@
     "tags": []
    },
    {
+    "t": "The Yen Is Becoming Too Hard for Some Investors to Trade",
+    "tt": "Yen, Bazı Yatırımcıların Ticaret Yapamayacak Kadar Zorlaşıyor",
+    "s": "After a year of wild swings, the yen surprised traders by settling into a tight range clustered near 158 per dollar over recent months. But on Wednesday it broke out again, unexpectedly weakening toward 160.",
+    "ss": "Bir yıl süren şiddetli dalgalanmaların ardından yen, son aylarda dolar başına 158 civarında dar bir aralığa yerleşerek yatırımcıları şaşırttı. Ancak Çarşamba günü yeniden patlak verdi ve beklenmedik bir şekilde 160'a doğru zayıfladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/the-yen-is-becoming-too-hard-for-some-investors-to-trade",
+    "ts": 1794517200000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
     "t": "Can You Quit Your Job and Live Off an ETF? The Reality of Dividend Nomads",
     "tt": "İşinizi Bırakıp Bir ETF'den Geçinebilir misiniz? Temettü Göçebelerinin Gerçeği",
     "s": "In this episode, we explore the “dividend nomads,” people using derivative-income funds to generate the cash they need to live abroad.",
     "ss": "Bu bölümde, yurt dışında yaşamak için ihtiyaç duydukları nakdi elde etmek için türev gelir fonlarını kullanan \"temettü göçebelerini\" inceliyoruz.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/can-you-quit-your-job-and-live-off-an-etf-the-reality-of-dividend-nomads",
     "ts": 1794516766000,
-    "tags": []
-   },
-   {
-    "t": "A Shortage of Ore is Causing a Pricing Revolution in Copper",
-    "tt": "Cevher Kıtlığı Bakırda Fiyatlandırma Devrimine Neden Oluyor",
-    "s": "The decades-old system that the copper industry uses to price mined ores is fracturing in the face of an acute shortage.",
-    "ss": "Bakır endüstrisinin maden cevherlerini fiyatlandırmak için kullandığı onlarca yıllık sistem, ciddi bir kıtlık karşısında çatırdamaya başlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/a-shortage-of-ore-is-causing-a-pricing-revolution-in-copper",
-    "ts": 1794516704000,
-    "tags": []
-   },
-   {
-    "t": "Lula Eyes Measures to Boost Fiscal Adjustment to $14 Billion",
-    "tt": "Lula Eyes Mali Ayarlamayı 14 Milyar Dolara Çıkaracak Önlemler Veriyor",
-    "s": "President Luiz Inácio Lula da Silva’s government is preparing additional budget measures to improve fiscal results next year, stepping up efforts to shore up public finances amid investor concerns about rising public debt, according to a person familiar with the discussions.",
-    "ss": "Tartışmalara aşina bir kişiye göre, Başkan Luiz Inácio Lula da Silva'nın hükümeti, yatırımcıların artan kamu borcuna ilişkin endişeleri arasında kamu maliyesini destekleme çabalarını hızlandırarak gelecek yıl mali sonuçları iyileştirmek için ek bütçe tedbirleri hazırlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/lula-eyes-measures-to-boost-fiscal-adjustment-to-14-billion",
-    "ts": 1794515594000,
-    "tags": []
-   },
-   {
-    "t": "The Ultrafast Fall of Jensen Huang",
-    "tt": "Jensen Huang'ın Ultra Hızlı Düşüşü",
-    "s": "It’s still unclear what it means.",
-    "ss": "Ne anlama geldiği henüz belli değil.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-12/the-ultrafast-fall-of-jensen-huang",
-    "ts": 1794515392000,
-    "tags": []
-   },
-   {
-    "t": "Jensen Exits, AI Debt Under Review, Treasuries Slide",
-    "tt": "Jensen Çıkıyor, Yapay Zeka Borçları İnceleniyor, Hazine Tahvilleri Slaytı",
-    "s": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Davison Kempner Partner & Head of Research Suzanna Gibbons, Wells Fargo Global Head of High-Grade Debt Syndicate Maureen O'Connor, JPMorgan Asset Management Fixed Income Portfolio Manager Kelsey Berro, and Col",
-    "ss": "\"Bloomberg Gerçek Getirisi\" bilmeniz gereken piyasayı harekete geçiren haberleri öne çıkarıyor. Bugünün konukları: Davison Kempner Ortağı ve Araştırma Başkanı Suzanna Gibbons, Wells Fargo Global Yüksek Dereceli Borç Sendikası Başkanı Maureen O'Connor, JPMorgan Varlık Yönetimi Sabit Gelir Portföy Yöneticisi Kelsey Berro ve Col",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/real-yield-11-12-2026-video",
-    "ts": 1794515062000,
-    "tags": []
-   },
-   {
-    "t": "Oil Rises After Trump Declares US Doesn’t Need a Deal With Iran",
-    "tt": "Petrol, Trump'ın ABD'nin İran'la Anlaşmaya İhtiyacı Olmadığını Açıklamasının Ardından Yükseldi",
-    "s": "Oil edged higher after President Donald Trump said that the US could forgo a deal with Iran, dimming prospects for a breakthrough to end the war that has roiled Middle East supplies.",
-    "ss": "Petrol fiyatları, Başkan Donald Trump'ın ABD'nin İran'la yapılan bir anlaşmadan vazgeçebileceğini söylemesinin ve Orta Doğu'daki arzı olumsuz etkileyen savaşı sonlandıracak bir atılım olasılığının azalmasının ardından yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
-    "ts": 1794489275000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "BofA Traders See Short Sellers Pile Into Rate-Sensitive Stocks",
-    "tt": "BofA Yatırımcıları Açığa Satış Yapanların Orana Duyarlı Hisse Senetlerine Yığındığını Görüyor",
-    "s": "Hedge funds are reloading their bets that equities most exposed to interest-rate movements will fall after being forced to back down during the recent rally, Bank of America Corp.’s trading desk said.",
-    "ss": "Bank of America Corp.'un ticaret masası, hedge fonlarının faiz oranı hareketlerine en çok maruz kalan hisse senetlerinin son yükseliş sırasında geri adım atmak zorunda kaldıktan sonra düşeceğine dair bahislerini yeniden yüklediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/bofa-traders-see-short-sellers-pile-into-rate-sensitive-stocks",
-    "ts": 1794513615000,
-    "tags": []
-   },
-   {
-    "t": "US Records $404 Billion Deficit in First Month of Fiscal Year",
-    "tt": "ABD Mali Yılın İlk Ayında 404 Milyar Dolar Açık Verdi",
-    "s": "The US budget gap widened to $404 billion in October, up 42% from the same period a year earlier, Treasury Department data showed Thursday.",
-    "ss": "Hazine Bakanlığı verileri Perşembe günü, ABD bütçe açığının Ekim ayında bir önceki yılın aynı dönemine göre %42 artışla 404 milyar dolara genişlediğini gösterdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/us-records-404-billion-deficit-in-first-month-of-fiscal-year",
-    "ts": 1794512650000,
     "tags": []
    }
   ],
@@ -703,6 +700,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+    "tt": "'Planlarıma fantezi diyor': Kocam, hayalimiz olan yıllık 200.000 dolarlık emekliliği karşılayamayacağımızı söylüyor. Ucuz biri olduğunu düşünüyorum.",
+    "s": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+    "ss": "“Emeklilik hesaplarımızda birikmiş 2 milyon dolarımız ve 1,3 milyon dolar değerinde bir evimiz var.”",
+    "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "ts": 1794520800000,
+    "tags": []
+   },
+   {
+    "t": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+    "tt": "Sağlık sigortasına fazla mı para ödüyorum? Bu açık kayıt sezonundaki kilit soruya nasıl cevap verilir?",
+    "s": "More people want to understand the fine print on plans this year, financial planners say.",
+    "ss": "Mali planlamacılar, bu yıl daha fazla insanın planların ayrıntılarını anlamak istediğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+    "ts": 1794520500000,
+    "tags": []
+   },
+   {
+    "t": "The 10 best stocks for a year-end momentum trade",
+    "tt": "Yıl sonu momentum ticareti için en iyi 10 hisse senedi",
+    "s": "Why December is the best month of the year for momentum strategies",
+    "ss": "Aralık neden ivme stratejileri için yılın en iyi ayıdır?",
+    "u": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+    "ts": 1794520200000,
+    "tags": []
+   },
+   {
+    "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+    "tt": "Babamdan bana 1,4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
+    "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+    "ss": "\"Her zaman mirasının bir kısmının kızına miras kalmasını istediğini söylerdi ve ben buna hiçbir zaman itiraz etmedim.\"",
+    "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+    "ts": 1794519000000,
+    "tags": []
+   },
+   {
+    "t": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+    "tt": "S&P 500, Nvidia'nın satışlarını umursamadı. İşte pazarın geri kalanını ayakta tutan şey.",
+    "s": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+    "ss": "Yatırımcılar yapay zeka ticaretinin poster çocuğuna bakmak ve tahtadaki diğer hisse senetlerini hatırlamak zorunda kaldılar.",
+    "u": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+    "ts": 1794517680000,
+    "tags": []
+   },
+   {
     "t": "The bond market now has an even bigger fear than AI fallout",
     "tt": "Tahvil piyasası artık yapay zekanın etkisinden çok daha büyük bir korkuya sahip",
     "s": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
@@ -724,15 +766,6 @@
     "ss": "\"Hukuk öncesi bir bölüm düşünüyorum... Hukuk fakültesinin pahalı olmasından dolayı biraz tereddütlüyüm.\"",
     "u": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
     "ts": 1794514620000,
-    "tags": []
-   },
-   {
-    "t": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
-    "tt": "S&P 500, Nvidia'nın satışlarını umursamadı. İşte pazarın geri kalanını ayakta tutan şey.",
-    "s": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-    "ss": "Yatırımcılar yapay zeka ticaretinin poster çocuğuna bakmak ve tahtadaki diğer hisse senetlerini hatırlamak zorunda kaldılar.",
-    "u": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-    "ts": 1794513120000,
     "tags": []
    },
    {
@@ -761,45 +794,36 @@
     "u": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
     "ts": 1794510720000,
     "tags": []
-   },
-   {
-    "t": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
-    "tt": "'Planlarıma fantezi diyor': Kocam, hayalimiz olan yıllık 200.000 dolarlık emekliliği karşılayamayacağımızı söylüyor. Ucuz biri olduğunu düşünüyorum.",
-    "s": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-    "ss": "“Emeklilik hesaplarımızda birikmiş 2 milyon dolarımız ve 1,3 milyon dolar değerinde bir evimiz var.”",
-    "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "ts": 1794509160000,
-    "tags": []
-   },
-   {
-    "t": "U.S. inflation is already bad enough. It might get worse.",
-    "tt": "ABD enflasyonu zaten yeterince kötü. Daha da kötüleşebilir.",
-    "s": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.",
-    "ss": "Federal Reserve Başkanı Kevin Warsh, Fed'in yüksek enflasyonu vuracağına söz verdi ancak öldürücü darbeler hızlı veya kolay gelmeyecek.",
-    "u": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
-    "ts": 1794508740000,
-    "tags": []
-   },
-   {
-    "t": "The 2027 401(k) limits are here. See how much more you can save next year.",
-    "tt": "2027 401(k) sınırları buradadır. Gelecek yıl ne kadar daha fazla tasarruf edebileceğinizi görün.",
-    "s": "Defined-contribution plans are getting a bump. IRA savers are not.",
-    "ss": "Tanımlanmış katkı planları artış gösteriyor. IRA koruyucuları değildir.",
-    "u": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
-    "ts": 1794507540000,
-    "tags": []
-   },
-   {
-    "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "tt": "Babamdan bana 1,4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
-    "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-    "ss": "\"Her zaman mirasının bir kısmının kızına miras kalmasını istediğini söylerdi ve ben buna hiçbir zaman itiraz etmedim.\"",
-    "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "ts": 1794507300000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Gun-Grabbers Smell Blood After Democratic Midterm Sweep",
+    "tt": "Silah Kapanlar Demokratik Ara Sınav Sonrası Kan Kokusu Aldı",
+    "s": "Gun-Grabbers Smell Blood After Democratic Midterm Sweep Authored by Michael Clements via The Epoch Times , Advocates for stricter gun laws are pushing for new legislation as Democrats are set to take control in Congress and several states after the midterm elections. Groups such as Everytown for Gun",
+    "ss": "Silah Yakalayanlar Demokratik Ara Seçim Taramasından Sonra Kan Koktu Michael Clements tarafından The Epoch Times aracılığıyla, Daha sıkı silah yasalarının savunucuları, ara seçimlerden sonra Demokratların Kongre'de ve birçok eyalette kontrolü ele geçirmesi beklenirken yeni yasalar için bastırıyor. Everytown for Gun gibi gruplar",
+    "u": "https://www.zerohedge.com/political/gun-grabbers-smell-blood-after-democratic-midterm-sweep",
+    "ts": 1794520800000,
+    "tags": []
+   },
+   {
+    "t": "Burger Wars Heat Up: Fast-Food Chain Dubbed \"100 Times Better\" Declares War On McDonald's With $2 Menu",
+    "tt": "Burger Savaşları Kızışıyor: \"100 Kat Daha İyi\" Lakaplı Fast Food Zinciri, 2 Dolarlık Menüyle McDonald's'a Savaş İlan Ediyor",
+    "s": "Burger Wars Heat Up: Fast-Food Chain Dubbed \"100 Times Better\" Declares War On McDonald's With $2 Menu The fast-food burger wars are heating up as a smaller McDonald's rival rolls out a new lineup of burgers, fries, and other favorites priced under $2 , escalating the battle for cash-strapped Americ",
+    "ss": "Burger Savaşları Kızışıyor: \"100 Kat Daha İyi\" Olarak Adlandırılan Fast Food Zinciri, 2 Dolarlık Menüsüyle McDonald's'a Savaş İlan Ediyor Daha küçük bir McDonald's rakibinin, 2 doların altında fiyatla hamburger, patates kızartması ve diğer favorilerden oluşan yeni bir ürün yelpazesi sunmasıyla fast-food burger savaşları kızışıyor ve nakit sıkıntısı çeken Amerikalılar için savaşı kızıştırıyor",
+    "u": "https://www.zerohedge.com/food/burger-wars-heat-fast-food-chain-dubbed-100-times-better-declares-war-mcdonalds-2-menu",
+    "ts": 1794519600000,
+    "tags": []
+   },
+   {
+    "t": "Democratic Senator Says 'Beauty' Of Ukraine War Is Paying Ukrainians To Kill Russians",
+    "tt": "Demokrat Senatör, Ukrayna Savaşının 'Güzelliğinin' Rusları Öldürmeleri İçin Ukraynalılara Para Ödemek Olduğunu Söyledi",
+    "s": "Democratic Senator Says 'Beauty' Of Ukraine War Is Paying Ukrainians To Kill Russians Authored by Dave DeCamp via Antiwar.com , Sen. Ruben Gallego (D-AZ) said on Monday that the \"beauty\" of the nearly five-year-old Russia-Ukraine war is the fact that the US is \"paying Ukrainians to kill Russians.\" G",
+    "ss": "Demokrat Senatör, Ukrayna Savaşının 'Güzelliğinin' Rusları Öldürmeleri İçin Ukraynalılara Para Ödemek Olduğunu Söyledi Dave DeCamp tarafından Antiwar.com aracılığıyla yazılan Sen. Ruben Gallego (D-AZ), Pazartesi günü yaptığı açıklamada, neredeyse beş yıldır süren Rusya-Ukrayna savaşının \"güzelliğinin\" ABD'nin \"Rusları öldürmeleri için Ukraynalılara para ödemesi\" olduğunu söyledi. G",
+    "u": "https://www.zerohedge.com/geopolitical/democratic-senator-says-beauty-ukraine-war-paying-ukrainians-kill-russians",
+    "ts": 1794518400000,
+    "tags": []
+   },
    {
     "t": "'They Put My Testicles In Bolt Cutters': White Farmer Details Terrifying Attack In South Africa That Left Wife's Breasts Scarred",
     "tt": "'Testislerimi Cıvata Kesicilere Koydular': Beyaz Çiftçi, Güney Afrika'da Karısının Göğüslerini Yaralayan Korkunç Saldırıyı Detaylandırıyor",
@@ -862,42 +886,36 @@
     "u": "https://www.zerohedge.com/technology/microsoft-hit-massive-outage-scrambles-reroute-traffic-worldwide",
     "ts": 1794511140000,
     "tags": []
-   },
-   {
-    "t": "Massie's Last Stand: Epstein Files Petition Hits 218 - And Doesn't Need Speaker Signoff",
-    "tt": "Massie'nin Son Direnişi: Epstein Dilekçe Sayısı 218'e Ulaştı - Ve Konuşmacı İmzasına Gerek Yok",
-    "s": "Massie's Last Stand: Epstein Files Petition Hits 218 - And Doesn't Need Speaker Signoff Rep. Thomas Massie's (R-KY) discharge petition for a second Epstein files bill reached 218 signatures on Wednesday morning, less than two months before he leaves Congress - enough to force a House vote on legisla",
-    "ss": "Massie'nin Son Direnişi: Epstein Dilekçesi 218'e Ulaştı - Ve Konuşmacının İmzasına Gerek Yok Temsilci Thomas Massie'nin (R-KY) ikinci bir Epstein dosyaları yasa tasarısı için ibra dilekçesi Çarşamba sabahı, Kongre'den ayrılmasına iki aydan az bir süre kala 218 imzaya ulaştı; bu, Meclis'in yasa üzerinde oy kullanması için yeterliydi",
-    "u": "https://www.zerohedge.com/political/massies-last-stand-epstein-files-petition-hits-218-over-gop-leaders-heads",
-    "ts": 1794509400000,
-    "tags": []
-   },
-   {
-    "t": "Yields Hit Session High After Ugly, Tailing 30Y Auction",
-    "tt": "Getiriler, Çirkin ve 30 Yıllık Açık Artırmanın Ardından Zirveye Çıktı",
-    "s": "Yields Hit Session High After Ugly, Tailing 30Y Auction Amid the now daily firehose of news, the US Treasury managed to sneak in an auction of $25 billion in 30Y paper, and while not as ugly as Tuesday's terrible 10Y auction, today's auction was not pretty... at all. Stopping at a high yield of 5.44",
-    "ss": "Getiriler, Çirkin, Kuyruklu 30 Yıllık Müzayedenin Ardından Seansta Zirveye Çıktı Artık her gün gelen haberler arasında, ABD Hazinesi 30 yıllık kağıtta 25 milyar dolarlık bir açık arttırmaya gizlice girmeyi başardı ve Salı günkü korkunç 10Y ihalesi kadar çirkin olmasa da, bugünkü müzayede hiç de hoş değildi. 5,44 gibi yüksek bir getiride durmak",
-    "u": "https://www.zerohedge.com/markets/yields-hit-session-high-after-ugly-tailing-30y-auction-0",
-    "ts": 1794507768000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Newsom's Napa Vineyard Manager Has A Long History Of Hiring Illegals: Investigation",
-    "tt": "Newsom'un Napa Bağ Müdürünün Yasadışı Kişileri İşe Alma Konusunda Uzun Bir Geçmişi Var: Soruşturma",
-    "s": "Newsom's Napa Vineyard Manager Has A Long History Of Hiring Illegals: Investigation Authored by Christopher F. Rufo, Ryan Thorpe, and Kenneth Schrupp via City Journal , It's 5 a.m. in Napa Valley and the field workers have been picking grapes for an hour. Floodlights illuminate the pitch darkness, b",
-    "ss": "Newsom'un Napa Bağ Müdürünün Yasadışı Kişileri İşe Alma Konusunda Uzun Bir Geçmişi Var: Soruşturma City Journal aracılığıyla Christopher F. Rufo, Ryan Thorpe ve Kenneth Schrupp tarafından yazılmıştır. Napa Vadisi'nde saat sabahın 5'i ve saha çalışanları bir saattir üzüm topluyorlar. Projektörler zifiri karanlığı aydınlatır, b",
-    "u": "https://www.zerohedge.com/political/newsoms-napa-vineyard-manager-has-long-history-hiring-illegals-investigation",
-    "ts": 1794507600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Türkiye'de 12,5 milyon adet akıllı telefon satışı bekleniyor",
+    "tt": null,
+    "s": "Küresel akıllı telefon satışlarının daralarak, yılı 1 milyar adetle, Türkiye'de ise pazarın 12,5 milyon adetle yılı kapaması bekleniyor. Samsung Türkiye Başkan Yardımcısı Murat Azdemir, \"Mevcut piyasa koşullarında maliyet baskısının bir süre daha devam etmesini bekliyoruz. Aynı teknik özelliklere sa",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkiye-de-12-5-milyon-adet-akilli-telefon-satisi-bekleniyor-3794501",
+    "ts": 1794519361000,
+    "tags": []
+   },
+   {
+    "t": "BBVA CEO'su Onur Genç: 1 trilyon euroluk hedefin %10-15'i Türkiye'ye gelebilir",
+    "tt": null,
+    "s": "BBVA CEO'su Onur Genç, Garanti BBVA'nın grubun kârının yüzde 8'ini sağladığını, ancak sürdürülebilir kredilerde aldığı payın daha yüksek olduğunu söyledi. Genç, Türkiye'nin, bankanın 1 trilyon euroluk sürdürülebilir finansman hedefinden yüzde 10-15 pay almasının mümkün olduğunu aktardı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bbva-ceo-su-onur-genc-1-trilyon-euroluk-hedefin-10-15-i-turkiye-ye-gelebilir-3794500",
+    "ts": 1794517865000,
+    "tags": []
+   },
+   {
+    "t": "Resmi Gazete'de bugün (13.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-13112026-3794499",
+    "ts": 1794517337000,
+    "tags": []
+   },
    {
     "t": "Fed/Daly: Yapay zekanın fiyat baskılarını artırdığına şüphe yok",
     "tt": null,
@@ -959,33 +977,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/mercedes-benz-almanya-daki-yeni-yatirimlarini-durduruyor-3794491",
     "ts": 1794508680000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de ikinci el konut satışları 16 yılın en düşük seviyesinde",
-    "tt": null,
-    "s": "ABD'de ikinci el konut satışları Ekim'de aylık yüzde 5,5 düşüşle 3,75 milyona gerileyerek 16 yılın en düşük seviyesine indi. Satışlardaki düşüş, piyasanın yüzde 3,5'lik beklentisini aştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-ikinci-el-konut-satislari-16-yilin-en-dusuk-seviyesinde-3794483",
-    "ts": 1794506868000,
-    "tags": []
-   },
-   {
-    "t": "IMF'ye göre ABD'de enflasyonun hedefe dönüşü 2028'e sarkıyor",
-    "tt": null,
-    "s": "IMF Sözcüsü Julie Kozack, ABD'de enflasyonun 2028 ortasında yüzde 2'lik hedefe dönmesini beklediklerini söyledi. Kozack, Orta Doğu'daki savaşın yol açtığı emtia fiyatı şoku ile hizmet sektöründe yüksek seyreden enflasyonun bu gecikmede etkili olduğunu belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/imf-ye-gore-abdde-enflasyonun-hedefe-donusu-2028-e-sarkiyor-3794482",
-    "ts": 1794505594000,
-    "tags": []
-   },
-   {
-    "t": "Trump'tan Nvidia için Tim Cook önerisi",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, Nvidia'daki görevinden istifa eden Jensen Huang'ın yerine Apple Yönetim Kurulu Başkanı Tim Cook'un geçmesi gerektiğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-tan-nvidia-icin-tim-cook-onerisi-3794481",
-    "ts": 1794503989000,
     "tags": []
    }
   ]
