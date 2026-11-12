@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T00:31:23.136875+00:00",
+ "generated": "2026-11-12T01:53:07.617940+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3987.1,
-   "c": -1.07,
-   "d": -43.1,
+   "p": 3992.6,
+   "c": -0.93,
+   "d": -37.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.475,
-   "c": 0.73,
-   "d": 0.374,
+   "p": 51.68,
+   "c": 1.13,
+   "d": 0.579,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.13,
-   "c": 0.1,
-   "d": 0.09,
+   "p": 85.44,
+   "c": -0.7,
+   "d": -0.6,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.4,
-   "c": 0.99,
-   "d": 0.91,
+   "p": 91.56,
+   "c": 0.08,
+   "d": 0.07,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.843,
+   "p": 102.847,
    "c": 0.6,
-   "d": 0.613,
+   "d": 0.617,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.2431,
-   "c": 0.07,
-   "d": 0.033,
+   "p": 50.242,
+   "c": 0.06,
+   "d": 0.032,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 74032,
-   "c": 0.61,
+   "p": 73597,
+   "c": -0.13,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2060.73,
-   "c": 0.55,
+   "p": 2048.62,
+   "c": -0.4,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 83.6,
-   "c": 0.35,
+   "p": 83.07,
+   "c": -0.5,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.054,
-   "c": 0.06,
+   "p": 1.048,
+   "c": -0.71,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 680.87,
-   "c": 0.17,
+   "p": 677.85,
+   "c": -0.51,
    "k": "usd"
   }
  ],
@@ -504,21 +504,30 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "BHP Names New CFO as Second Top Executive Exits in a Year",
-    "tt": "BHP, Yeni CFO'yu Bir Yılda Ayrılan İkinci Üst Düzey Yönetici Olarak Adlandırdı",
-    "s": "BHP Group has named former analyst Adrian Wood to succeed Chief Financial Officer Vandita Pant when she steps down in February, the second top executive to leave in a year.",
-    "ss": "BHP Grubu, Şubat ayında görevinden ayrılan Mali İşler Direktörü Vandita Pant'in yerine eski yatırım bankacısı Adrian Wood'u atadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/bhp-names-adrian-wood-as-cfo-to-succeed-vandita-pant-mwcnk5t7",
-    "ts": 1794433810000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Fall as Nvidia Turmoil Deepens: Markets Wrap",
+    "t": "Asian Stocks Edge Higher, Shrug Off Nvidia Woes: Markets Wrap",
     "tt": "ABD Hisse Senedi Vadeli İşlemleri, Nvidia Kargaşasının Derinleşmesiyle Düşüyor: Piyasalar Sarsıntı",
-    "s": "US stock index futures fell after a report that Nvidia Corp.’s board was considering the removal of Chief Executive Officer Jensen Huang, tempering an earlier rally in technology shares.",
+    "s": "Asian stocks edged higher as investors largely shrugged off a leadership crisis at Nvidia Corp. that sent shares of the chipmaker at the heart of this year’s artificial-intelligence boom tumbling in after-hours trading.",
     "ss": "ABD hisse senedi vadeli işlemleri, Nvidia Corp.'taki çalkantının yapay zeka endüstrisini sarsması ve çip üreticisinin İcra Kurulu Başkanı Jensen Huang'ı görevden almayı düşündüğünün bildirilmesinin ardından teknoloji hisselerindeki yükselişi yumuşatmasının ardından düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
     "ts": 1794434885000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Shares Slide as Investors Consider Future Without Huang",
+    "tt": "Yatırımcılar Huang'sız Geleceği Düşünürken Nvidia Slaytını Paylaştı",
+    "s": "Nvidia Corp. shares sank in extended trading Wednesday as investors grappled with the possibility of the company without Chief Executive Officer Jensen Huang at the helm.",
+    "ss": "Nvidia Corp. hisseleri, yatırımcıların şirketin İcra Kurulu Başkanı Jensen Huang'ın dümende olmaması ihtimaliyle boğuşması nedeniyle Çarşamba günü uzun süren işlemlerde düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
+    "ts": 1794437320000,
+    "tags": []
+   },
+   {
+    "t": "Sri Lanka Budget Targets Growth With IMF Bailout Nearing End",
+    "tt": "Sri Lanka Bütçesi, IMF Kurtarma Paketinin Sona Yaklaşmasıyla Büyümeyi Hedefliyor",
+    "s": "Sri Lanka will unveil a budget aimed at keeping its economic recovery on track amid global headwinds and as its $3 billion International Monetary Fund bailout draws to a close.",
+    "ss": "Sri Lanka, küresel olumsuzlukların ortasında ve Uluslararası Para Fonu'na yönelik 3 milyar dolarlık kurtarma paketi sona yaklaşırken ekonomik toparlanmasını yolunda tutmayı amaçlayan bir bütçeyi açıklayacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/sri-lanka-budget-targets-growth-with-imf-bailout-nearing-end",
+    "ts": 1794447000000,
     "tags": []
    },
    {
@@ -537,72 +546,57 @@
     ]
    },
    {
-    "t": "Indonesia Bonds Lure Global Funds as Yields Hit Six-Year High",
-    "tt": "Endonezya Tahvilleri, Getirilerin Altı Yılın En Yüksek Seviyesine Ulaşmasıyla Küresel Fonları Çekti",
-    "s": "Indonesian government bonds are drawing bargain-hunters after the benchmark yields’ surge last week to the highest since 2020.",
-    "ss": "Endonezya devlet tahvilleri, gösterge tahvil getirilerinin geçen hafta 2020'den bu yana en yüksek seviyesine çıkmasının ardından pazarlık avcılarını çekiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/indonesia-bonds-lure-global-funds-as-yields-hit-six-year-high",
-    "ts": 1794441936000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "UK Surveyors Face Weakest Housing Market Since 2023, RICS Says",
-    "tt": "RICS, Birleşik Krallık Araştırmacılarının 2023'ten Bu Yana En Zayıf Konut Piyasasıyla Karşı Karşıya Olduğunu Söyledi",
-    "s": "British property agents are more downbeat about home sales than at any point in over three years, according to a survey showing that soaring mortgage costs are sapping demand.",
-    "ss": "Artan ipotek maliyetlerinin talebi azalttığını gösteren bir ankete göre, İngiliz emlak acenteleri ev satışları konusunda son üç yılda herhangi bir noktaya göre daha karamsar.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/uk-surveyors-face-weakest-housing-market-since-2023-rics-says",
-    "ts": 1794441660000,
+    "t": "Long US Bonds Reopen With Gains as Risk Sentiment Sours Again",
+    "tt": "Uzun ABD Tahvilleri, Risk Algısının Tekrar Kötüleşmesiyle Kazançlarla Yeniden Açıldı",
+    "s": "Long-end Treasuries drifted higher as trading resumed after a holiday as turmoil at Nvidia Corp. fueled doubts about the artificial intelligence trade and fueled demand for haven assets.",
+    "ss": "Uzun vadeli Hazine tahvilleri, Nvidia Corp.'taki çalkantının yapay zeka ticaretine ilişkin şüpheleri artırması ve güvenli liman varlıklarına olan talebi artırması nedeniyle tatilden sonra ticaretin yeniden başlamasıyla yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
+    "ts": 1794445089000,
     "tags": []
    },
    {
-    "t": "The $150 Billion Catch in US Shipbuilding",
-    "tt": "ABD Gemi İnşasında 150 Milyar Dolarlık Yakalama",
-    "s": "South Korea pledged $150 billion to revive US shipbuilding. But with the first shipbuilding contract between Hanwha Group and the US Navy worth only $269 million, it’s Washington’s turn to take the lead to ensure that promise is fulfilled, Bloomberg Opinion columnist Juliana Liu says. (Source: Bloom",
-    "ss": "Güney Kore, ABD gemi inşasını canlandırmak için 150 milyar dolar sözü verdi. Ancak Bloomberg Opinion köşe yazarı Juliana Liu, Hanwha Group ile ABD Donanması arasındaki yalnızca 269 milyon dolar değerindeki ilk gemi inşa sözleşmesi nedeniyle, sözlerin yerine getirilmesini sağlamak için liderlik etme sırasının Washington'da olduğunu söylüyor. (Kaynak: Bloom",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/opinion-the-150-billion-us-shipbuilding-catch-video",
-    "ts": 1794441659000,
+    "t": "Latest Oil Market News and Analysis for Nov. 12",
+    "tt": "12 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil was steady near a two-month low as hostilities between Iran and the US remained muted, although there was no indication of progress in peace talks to end the war in the Middle East.",
+    "ss": "Petrol, İran ve ABD arasındaki düşmanlıkların sessiz kalmasıyla iki ayın en düşük seviyesinde seyrediyor, ancak Orta Doğu'daki savaşı sona erdirmeye yönelik barış görüşmelerinde ilerleme olduğuna dair bir işaret yok.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
+    "ts": 1794438246000,
     "tags": []
    },
    {
-    "t": "Rare IPO Bets on End of War and Economic Crisis in Myanmar",
-    "tt": "Myanmar'da Savaşın Sonu ve Ekonomik Krize İlişkin Nadir Halka Arz Bahisleri",
-    "s": "A Myanmar company is going public in the middle of a civil war and economic downturn, betting on an eventual recovery.",
-    "ss": "Bir Myanmar şirketi, iç savaşın ve ekonomik gerilemenin ortasında halka açılıyor ve nihai bir iyileşme umuduyla halka açılıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/rare-ipo-bets-on-end-of-war-and-economic-crisis-in-myanmar",
-    "ts": 1794441600000,
+    "t": "India’s BEML to Build Tunneling Machines to Cut China Reliance",
+    "tt": "Hindistan'daki BEML, Çin'e olan bağımlılığı azaltmak için tünel açma makineleri üretecek",
+    "s": "BEML Ltd., India’s state-owned defense and engineering company, aims to develop tunnel-boring machines in a bet that the country’s infrastructure boom can support a homegrown effort to replace foreign suppliers.",
+    "ss": "Hindistan'ın devlete ait savunma ve mühendislik şirketi BEML Ltd., ülkenin altyapı patlamasının yabancı tedarikçilerin yerine geçme çabasını destekleyebileceği iddiasıyla tünel açma makineleri geliştirmeyi amaçlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
+    "ts": 1794445200000,
     "tags": []
    },
    {
-    "t": "Quant Trading Firm IMC Plans to Double Staff in Hong Kong",
-    "tt": "Quant Ticaret Firması IMC, Hong Kong'daki Personelini İkiye Katlamayı Planlıyor",
-    "s": "IMC Trading expects to roughly double headcount in its Hong Kong office over the next two years, the latest sign of a rush among foreign firms to expand in the city.",
-    "ss": "IMC Trading, önümüzdeki iki yıl içinde Hong Kong ofisindeki çalışan sayısını kabaca ikiye katlamayı bekliyor; bu, yabancı firmaların şehirde genişlemeye yönelik acelesinin son işareti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
-    "ts": 1794441600000,
+    "t": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
+    "tt": "Antropik Halka Arz, Yapay Zeka Ticaretinin Bir Sonraki Ayağını Durduran 'Jenga Block'tur",
+    "s": "Anthropic PBC’s long-awaited initial public offering will give investors a crucial look at the health of the artificial intelligence trade, and Wall Street hopes it will spur the next leg of the AI-fueled stock market rally that’s going on four years.",
+    "ss": "Antropik PBC'nin uzun zamandır beklenen ilk halka arzı, yatırımcılara yapay zeka ticaretinin sağlığına önemli bir bakış sunacak ve Wall Street bunun, dört yıl sürecek olan yapay zeka destekli borsa yükselişinin bir sonraki ayağını teşvik edeceğini umuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade",
+    "ts": 1794431702000,
     "tags": []
    },
    {
-    "t": "Japan Auto Stocks Eye Rebound as Cheaper Oil Brightens Outlook",
-    "tt": "Japonya Otomobil Hisseleri, Ucuz Petrolün Görünümü Aydınlatmasıyla Yükselişe Geçti",
-    "s": "Japanese automaker shares have surged since the US midterm elections, but their rebound may just be getting started, as the prospects of easing Middle East tensions and lower oil prices will likely have long-term implications for the industry, according to investors.",
-    "ss": "Yatırımcılara göre, Japon otomobil üreticilerinin hisseleri ABD ara seçimlerinden bu yana yükseldi, ancak Orta Doğu'daki gerilimlerin azalması ve petrol fiyatlarının düşmesi ihtimalinin muhtemelen sektör üzerinde uzun vadeli etkileri olacağından toparlanma daha yeni başlıyor olabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/japan-auto-stocks-eye-rebound-as-cheaper-oil-brightens-outlook",
-    "ts": 1794441001000,
+    "t": "AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private",
+    "tt": "AI Trade Geri Döndü, Antropik Halka Arz Görünümü, Nordstrom Eş CEO'su Özelleşmeye Devam Ediyor",
+    "s": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today’s guests are Morgan Stanley Investment Management Deputy CIO, Solutions & Multi-Asset Jitania Kandhari, Citi Research Global Chief Economist Nathan Sh",
+    "ss": "The Close size Wall Street'in kapanış zilinden önceki ve sonraki son dakika ve saniyelere kadar uzanan en son haberleri ve analizleri getiriyor. Bugünün konukları Morgan Stanley Yatırım Yönetimi CIO Yardımcısı, Çözümler ve Çoklu Varlık Jitania Kandhari, Citi Research Global Baş Ekonomisti Nathan Sh",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-12/the-close-11-11-2026-video",
+    "ts": 1794443439000,
     "tags": []
    },
    {
-    "t": "Pivotal Advisors CEO: Investors Should See AI as Part of Portfolio",
-    "tt": "Pivotal Advisors CEO'su: Yatırımcılar Yapay Zekayı Portföyün Bir Parçası Olarak Görmeli",
-    "s": "Tiffany McGhee, CEO and CIO of Pivotal Advisors, discusses last week’s sharp stock selloff and says AI demand remains strong, with hyperscalers reporting demand above supply and cloud growth accelerating. She speaks with Romaine Bostick and Vonnie Quinn on The Close before the news of Nvidia potenti",
-    "ss": "Pivotal Advisors'ın CEO'su ve CIO'su Tiffany McGhee, geçen haftaki sert hisse senedi satışlarını tartışıyor ve hiper ölçekleyicilerin talebin arzın üzerinde olduğunu bildirmesi ve bulut büyümesinin hızlanmasıyla yapay zeka talebinin güçlü kaldığını söylüyor. Nvidia'nın potansiyel potansiyelinin haberinden önce The Close'da Romaine Bostick ve Vonnie Quinn ile konuşuyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-11/mcghee-investors-should-see-ai-as-part-of-portfolio-video",
-    "ts": 1794440885000,
+    "t": "BHP Names New CFO as Second Top Executive Exits in a Year",
+    "tt": "BHP, Yeni CFO'yu Bir Yılda Ayrılan İkinci Üst Düzey Yönetici Olarak Adlandırdı",
+    "s": "BHP Group has named former analyst Adrian Wood to succeed Chief Financial Officer Vandita Pant when she steps down in February, the second top executive to leave in a year.",
+    "ss": "BHP Grubu, Şubat ayında görevinden ayrılan Mali İşler Direktörü Vandita Pant'in yerine eski yatırım bankacısı Adrian Wood'u atadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-11/bhp-names-adrian-wood-as-cfo-to-succeed-vandita-pant-mwcnk5t7",
+    "ts": 1794433810000,
     "tags": []
    }
   ],
@@ -705,7 +699,16 @@
     "s": "Nvidia’s board of directors reportedly could meet as soon as today to determine the CEO’s fate.",
     "ss": "Nvidia'nın yönetim kurulunun CEO'nun kaderini belirlemek için bugün en kısa sürede toplanabileceği bildiriliyor.",
     "u": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-    "ts": 1794441960000,
+    "ts": 1794447300000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+    "tt": "Nasdaq vadeli işlemleri, Nvidia'nın rapor panosunda Huang'ı devirebileceği saatler sonrasında %8 oranında değer kaybetmesiyle düştü",
+    "s": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+    "ss": "Hisse senedi vadeli kontratları, kapanış zilinin Nasdaq-100 üzerinde baskı yaratması ve diğer çip üreticilerinin hisselerini aşağı çekmesinin ardından Nvidia hisselerindeki satış dalgası nedeniyle Çarşamba akşamı geriledi.",
+    "u": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+    "ts": 1794445920000,
     "tags": []
    },
    {
@@ -779,18 +782,36 @@
     "u": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
     "ts": 1794431640000,
     "tags": []
-   },
-   {
-    "t": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
-    "tt": "'Herkes için Medicare' değil, 'Daha Fazlası için Medicare'. Bunun 50 yaşın üzerindeki işçiler için ne anlama gelebileceği.",
-    "s": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
-    "ss": "Yeni bir yasa tasarısı Medicare yaşını 50'ye düşürerek kapsamı 60 milyon yetişkine daha genişletecek",
-    "u": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-    "ts": 1794430380000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Putin's Man In Washington Dies \"Suddenly\" At 66, Then Moscow Rewrites The Story",
+    "tt": "Putin'in Washington'daki Adamı 66 Yaşında \"Aniden\" Öldü, Sonra Moskova Hikayeyi Yeniden Yazdı",
+    "s": "Putin's Man In Washington Dies \"Suddenly\" At 66, Then Moscow Rewrites The Story Alexander Darchiev, Russia's ambassador to the United States, has died at 66 , the Russian Foreign Ministry announced Wednesday, saying only that he \"passed away suddenly.\" ◾️ The Russian Foreign Ministry announces with ",
+    "ss": "Putin'in Washington'daki Adamı 66 Yaşında \"Aniden\" Öldü, Sonra Moskova Hikayeyi Yeniden Yazıyor Rusya Dışişleri Bakanlığı Çarşamba günü yaptığı açıklamada, Rusya'nın ABD büyükelçisi Alexander Darchiev'in 66 yaşında öldüğünü duyurdu ve sadece \"aniden vefat ettiğini\" söyledi. ◾️ Rusya Dışişleri Bakanlığı şunu duyurdu:",
+    "u": "https://www.zerohedge.com/geopolitical/putins-man-washington-dies-suddenly-66-then-moscow-rewrites-story",
+    "ts": 1794447000000,
+    "tags": []
+   },
+   {
+    "t": "Mississippi Goes Blue: Democrat Scott Colom Ousts \"100% MAGA\" Hyde-Smith",
+    "tt": "Mississippi Mavileşiyor: Demokrat Scott Colom, \"%100 MAGA\" Hyde-Smith'i Devirdi",
+    "s": "Mississippi Goes Blue: Democrat Scott Colom Ousts \"100% MAGA\" Hyde-Smith Democrat Scott Colom has unseated Republican Sen. Cindy Hyde-Smith in Mississippi, NBC News, CNN and the Associated Press projected Wednesday. President Trump carried the state by 23 points in 2024, and the win gives Democrats ",
+    "ss": "Mississippi Maviye Dönüyor: Demokrat Scott Colom \"%100 MAGA\" Hyde-Smith'i Devirdi Demokrat Scott Colom, Mississippi'de Cumhuriyetçi Senatör Cindy Hyde-Smith'i koltuğundan etti, NBC News, CNN ve Associated Press'in Çarşamba günü yaptığı tahmine göre. Başkan Trump 2024'te eyaleti 23 puan öne taşıdı ve galibiyet Demokratlara verildi",
+    "u": "https://www.zerohedge.com/political/mississippi-goes-blue-democrat-scott-colom-ousts-100-maga-hyde-smith",
+    "ts": 1794445500000,
+    "tags": []
+   },
+   {
+    "t": "Tom Homan Has A Message For Open Border Democrats As Third Worlder Caravan Nears Southern Border",
+    "tt": "Üçüncü Dünya Kervanı Güney Sınırına Yaklaşırken Tom Homan'ın Açık Sınır Demokratlarına Bir Mesajı Var",
+    "s": "Tom Homan Has A Message For Open Border Democrats As Third Worlder Caravan Nears Southern Border For several weeks, we've tracked the third-worlder caravan heading north towards the US southern border, made up largely of migrants from Honduras, and now tracking through southern Mexico .&nbsp; . @Osc",
+    "ss": "Üçüncü Dünya Kervanı Güney Sınırına Yaklaşırken Tom Homan'ın Açık Sınır Demokratlarına Bir Mesajı Var Birkaç haftadır, büyük ölçüde Honduras'tan gelen göçmenlerden oluşan, kuzeye, ABD'nin güney sınırına doğru ilerleyen ve şimdi de Güney Meksika'dan geçen üçüncü dünya karavanını takip ediyorduk.  . @Osc",
+    "u": "https://www.zerohedge.com/political/tom-homan-has-message-open-border-democrats-third-worlder-caravan-nears-southern-border",
+    "ts": 1794444000000,
+    "tags": []
+   },
    {
     "t": "Voter ID Laws Win Big In Midterms Despite Blue Wave",
     "tt": "Seçmen Kimlik Yasaları Mavi Dalgaya Rağmen Ara Sınavlarda Büyük Kazandı",
@@ -852,33 +873,6 @@
     "ss": "Meta'nın Yapay Zekası Artık Instagram'da Yaşınızı Tahmin Edecek... Yetişkin Olduğunuzu Söyleseniz Bile The Epoch Times aracılığıyla Naveen Athrappully tarafından yazılmıştır, Meta Platforms, bir yetişkinin yanına kaydolmuş olsalar bile genç olduğundan şüphelenilen Instagram kullanıcılarını belirlemek için yapay zeka destekli yaş tahmin teknolojisini genişletiyor",
     "u": "https://www.zerohedge.com/technology/metas-ai-will-now-guess-your-age-instagram-even-if-you-say-youre-adult",
     "ts": 1794434400000,
-    "tags": []
-   },
-   {
-    "t": "David Sacks Sounds Alarm Over Democrats' Most Terrifying Censorship Plan Yet",
-    "tt": "David Sacks, Demokratların Şimdiye Kadarki En Korkunç Sansür Planı Üzerine Alarm Verdi",
-    "s": "David Sacks Sounds Alarm Over Democrats' Most Terrifying Censorship Plan Yet David Sacks, who stepped down as President Trump's AI and crypto czar in March, says it's \"100%\" that the Democrats who just won Congress will make a major push for AI legislation, and that the end state is \"a surveillance ",
-    "ss": "David Sacks, Demokratların En Korkunç Sansür Planı Konusunda Alarm Veriyor Mart ayında Başkan Trump'ın yapay zeka ve kripto para çarı olarak görevinden ayrılan David Sacks, Kongre'yi yeni kazanan Demokratların yapay zeka mevzuatı için büyük bir baskı yapacağını ve son durumun \"gözetleme\" olacağını \"%100\" söylüyor",
-    "u": "https://www.zerohedge.com/ai/david-sacks-sounds-alarm-over-democrats-most-terrifying-censorship-plan-yet",
-    "ts": 1794433200000,
-    "tags": []
-   },
-   {
-    "t": "When A Society Has Reached Its Limits, Reforms No Longer Fix What's Broken",
-    "tt": "Bir Toplum Sınırlarına Ulaştığında, Reformlar Artık Bozulanları Düzeltemez",
-    "s": "When A Society Has Reached Its Limits, Reforms No Longer Fix What's Broken Authored by Charles Hugh Smith via OfTwoMinds blog , The most difficult part of my framework to grasp is the keystone: our system has reached its limits. The difficulty is that this is impossible to understand if one is embed",
-    "ss": "Bir Toplum Sınırlarına Ulaştığında, Reformlar Artık Bozuk Olanı Düzeltmez Charles Hugh Smith tarafından OfTwoMinds blogu aracılığıyla yazılmıştır. Çerçevemin kavranması en zor kısmı temel taşıdır: sistemimiz sınırlarına ulaştı. Buradaki zorluk, eğer biri gömülüyse bunu anlamanın imkansız olmasıdır.",
-    "u": "https://www.zerohedge.com/political/when-society-has-reached-its-limits-reforms-no-longer-fix-whats-broken",
-    "ts": 1794432000000,
-    "tags": []
-   },
-   {
-    "t": "Alina Habba Fired From $50M Gig After Trump Outburst",
-    "tt": "Alina Habba, Trump'ın Patlamasının Ardından 50 Milyon Dolarlık Konserden Kovuldu",
-    "s": "Alina Habba Fired From $50M Gig After Trump Outburst Alina Habba, the former Trump lawyer and New Jersey US attorney who now goes by Alina Habba Mildon, has been fired from the general counsel job that guaranteed her more than $50 million over four years , cut loose by a company set up by the daught",
-    "ss": "Alina Habba, Trump'ın Patlamasının Ardından 50 Milyon Dolarlık İşinden Kovuldu Eski Trump avukatı ve şu anda Alina Habba Mildon tarafından yönetilen New Jersey ABD avukatı Alina Habba, kendisine dört yıl boyunca 50 milyon dolardan fazla garanti veren genel danışmanlık görevinden, kızı tarafından kurulan bir şirket tarafından serbest bırakıldı",
-    "u": "https://www.zerohedge.com/political/alina-habba-fired-50m-gig-after-trump-outburst",
-    "ts": 1794430200000,
     "tags": []
    }
   ],
