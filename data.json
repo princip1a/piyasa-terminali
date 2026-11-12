@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T06:35:33.683983+00:00",
+ "generated": "2026-11-12T07:53:02.171956+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3985.1,
-   "c": -0.38,
-   "d": -15.4,
+   "p": 3962.6,
+   "c": -0.95,
+   "d": -37.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 51.565,
-   "c": -0.61,
-   "d": -0.316,
+   "p": 51.18,
+   "c": -1.35,
+   "d": -0.701,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.13,
-   "c": -0.46,
-   "d": -0.4,
+   "p": 86.82,
+   "c": 0.34,
+   "d": 0.29,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.38,
-   "c": -0.41,
-   "d": -0.38,
+   "p": 93.19,
+   "c": 0.46,
+   "d": 0.43,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 102.987,
-   "c": 0.07,
-   "d": 0.077,
+   "p": 102.96,
+   "c": 0.05,
+   "d": 0.05,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.241,
-   "c": 0.06,
-   "d": 0.031,
+   "p": 50.2521,
+   "c": 0.08,
+   "d": 0.042,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11666.42,
-   "c": 0.04,
-   "d": 4.52,
+   "p": 11817.87,
+   "c": 1.3,
+   "d": 151.47,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 73513,
-   "c": -0.34,
+   "p": 73548,
+   "c": -0.43,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 2045.74,
-   "c": -0.88,
+   "p": 2047.21,
+   "c": -0.74,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 82.85,
-   "c": -0.26,
+   "p": 82.86,
+   "c": -0.07,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.039,
-   "c": -1.86,
+   "p": 1.043,
+   "c": -1.14,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 674.18,
-   "c": -0.82,
+   "p": 673.11,
+   "c": -0.93,
    "k": "usd"
   }
  ],
@@ -504,31 +504,7 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Indonesia Bonds Draw Global Funds as Yields Hit Six-Year High",
-    "tt": null,
-    "s": "Indonesian government bonds are drawing bargain-hunters after the benchmark yields’ surge last week to the highest since 2020.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/indonesia-bonds-lure-global-funds-as-yields-hit-six-year-high",
-    "ts": 1794441936000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Nvidia Troubles Drag Stocks Lower, Oil Declines: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Nvidia Kargaşasının Derinleşmesiyle Düşüyor: Piyasalar Sarsıntı",
-    "s": "Global stocks retreated as investors weighed the broader market impact of a leadership crisis at Nvidia Corp., the chipmaker at the heart of the artificial-intelligence boom.",
-    "ss": "ABD hisse senedi vadeli işlemleri, Nvidia Corp.'taki çalkantının yapay zeka endüstrisini sarsması ve çip üreticisinin İcra Kurulu Başkanı Jensen Huang'ı görevden almayı düşündüğünün bildirilmesinin ardından teknoloji hisselerindeki yükselişi yumuşatmasının ardından düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794434885000,
-    "tags": []
-   },
-   {
-    "t": "Aussie Falls to Lowest Since January on RBA Slowdown, AI Fears",
+    "t": "Aussie Falls to Lowest Since January on RBA Outlook, AI Concern",
     "tt": null,
     "s": "Australia’s dollar dropped to its lowest level in more than nine months as risk sentiment waned and the interest-rate outlook with the US diverged.",
     "ss": null,
@@ -539,18 +515,36 @@
     ]
    },
    {
-    "t": "IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks",
-    "tt": "IDR/USD: Endonezya Rupiahı, MSCI Endişeleri ve Petrol Riskleri Ortasında Rekor Düştü",
-    "s": "The Indonesian rupiah fell to an all-time low, adding pressure on authorities to contain a recent selloff that also hit the nation’s stocks and bonds.",
-    "ss": "Endonezya rupiahı, doların güçlenmesi ve MSCI Inc.'in ülke hisselerini gelişen piyasa endekslerinden çıkarma riskinin Asya'nın en kötü performans gösteren para birimi üzerinde olumsuz etki yaratmasıyla tüm zamanların en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/idr-usd-indonesian-rupiah-drops-to-record-amid-msci-concerns-oil-risks",
-    "ts": 1794449209000,
+    "t": "Neste CEO Sees Renewable Diesel Demand Doubling",
+    "tt": null,
+    "s": "Neste President and CEO Heikki Malinen says rising renewable fuel mandates are driving global demand and expects it to double by 2030. Malinen joined Insight with Haslinda Amin. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-12/neste-ceo-sees-renewable-diesel-demand-doubling-video",
+    "ts": 1794469717000,
     "tags": []
    },
    {
-    "t": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike",
+    "t": "Persimmon Defies UK Housing Gloom with Rising Sales, Values",
     "tt": null,
-    "s": "Gold fell for a third day, holding a drop below $4,000 an ounce as persistent US inflation and hawkish remarks from Federal Reserve officials fueled expectations for an interest-rate hike next month.",
+    "s": "Persimmon Plc maintained its guidance for the year, increasing sales even as the UK housing market endures a protracted slump.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/persimmon-defies-uk-housing-gloom-with-rising-sales-values",
+    "ts": 1794469170000,
+    "tags": []
+   },
+   {
+    "t": "UK Economy Gets a Boost from AI, Posts Best Growth Since 2024",
+    "tt": null,
+    "s": "Plus, midcaps are doing well, but for worrying reasons",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-12/uk-economy-gets-a-boost-from-ai-posts-best-growth-since-2024",
+    "ts": 1794468967000,
+    "tags": []
+   },
+   {
+    "t": "Gold Extends Fall Below $4,000 as Market Looks to Fed Rate Hike",
+    "tt": null,
+    "s": "Gold fell for a third day, extending a drop below $4,000 an ounce as persistent US inflation and hawkish remarks from Federal Reserve officials fueled expectations for an interest-rate hike next month.",
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike",
     "ts": 1794442372000,
@@ -563,57 +557,61 @@
     ]
    },
    {
-    "t": "Key Modi Ally on India Youth Anger and AI Push",
+    "t": "Poland Bonds Lose Luster as Debt Woes Mount With Political Pain",
     "tt": null,
-    "s": "Prime Minister Narendra Modi’s most influential ally said India’s growth isn’t translating into visible gains for young people. Andhra Pradesh Chief Minister N. Chandrababu Naidu told Bloomberg’s Ruchi Bhatia that while economic growth is visible on the ground, it isn’t enough to meet rising expecta",
+    "s": "Bondholders are increasingly questioning Poland’s long-held status as an emerging-market favorite as political turmoil undermines the government’s ability to rein in its fast-growing $600 billion debt load.",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/key-modi-ally-on-india-youth-anger-and-ai-push-video",
-    "ts": 1794462318000,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/poland-bonds-lose-luster-as-debt-woes-mount-with-political-pain",
+    "ts": 1794468616000,
     "tags": []
    },
    {
-    "t": "Nvidia Weighs Replacing Huang. But It Won’t Be Easy",
+    "t": "Druley: Avoid Crowded Trades When It Comes to Investment",
     "tt": null,
-    "s": "Nvidia’s board is working to identify a potential replacement for its CEO, Jensen Huang, after reports of another alleged affair. But replacing the man who’s become synonymous with Nvidia and its success won’t be easy, as Minmin Low explains. (Source: Bloomberg)",
+    "s": "In a November 12, 2026 interview on Bloomberg’s Horizon’s Middle East and Africa, Cambridge Associates CEO David Druley discussed how a shift from efficiency to self-sufficiency is reshaping global investment strategies. He warned that equity markets are highly concentrated, with roughly 10 stocks c",
     "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-weighs-replacing-huang-but-it-won-t-be-easy-video",
-    "ts": 1794462302000,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-12/druley-avoid-crowded-trades-when-it-comes-to-investment-video",
+    "ts": 1794468106000,
     "tags": []
    },
    {
-    "t": "Vietnam Dollar Bond Sale on Hold as Fuel Cost Fans Inflation",
-    "tt": "Vietnam Doları Tahvili Satışı Yakıt Maliyeti Taraftarlarının Enflasyonu Nedeniyle Durduruldu",
-    "s": "Vietnam’s plans for an international bond issuance are on hold while officials wait for more suitable conditions, as global disruptions to fuel supplies stoke inflationary pressures and borrowing costs remain elevated.",
-    "ss": "Yakıt tedarikindeki küresel kesintilerin enflasyonist baskıları artırması ve borçlanma maliyetlerinin yüksek kalması nedeniyle yetkililer daha uygun koşulları beklerken, Vietnam'ın uluslararası tahvil ihracına yönelik planları beklemeye alındı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/vietnam-dollar-bond-sale-on-hold-as-fuel-shock-fans-inflation",
-    "ts": 1794457184000,
+    "t": "Quick Mart Surges as Retailer Marks Kenya’s Second IPO of 2026",
+    "tt": null,
+    "s": "Quick Mart Plc surged in its debut on Kenya’s bourse as the nation’s second-biggest supermarket chain plans to double revenue and add at least 50 stores over the next four years.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/quick-mart-surges-as-retailer-marks-kenya-s-second-ipo-of-2026",
+    "ts": 1794467883000,
     "tags": []
    },
    {
-    "t": "Goldman, Fortress and HBSC Back Rare Private Credit Deal in Saudi Arabia",
-    "tt": "Goldman, Fortress ve HBSC, Suudi Arabistan'da Nadir Özel Kredi Anlaşmasını Geri Aldı",
-    "s": "Goldman Sachs Group Inc., HSBC Holdings Plc and Fortress Investment Group are among financial heavyweights teaming up on one of Saudi Arabia’s first major private credit deals since the regional war began.",
-    "ss": "Goldman Sachs Group Inc., HSBC Holdings Plc ve Fortress Investment Group, bölgesel savaşın başlamasından bu yana Suudi Arabistan'ın ilk büyük özel kredi anlaşmalarından biri için bir araya gelen finans dünyasının önde gelen isimleri arasında yer alıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-11/goldman-fortress-and-hbsc-back-rare-private-credit-deal-in-saudi-arabia",
-    "ts": 1794405738000,
+    "t": "Ruchir Sharma on AI Bubble Risks, Opportunities in India",
+    "tt": null,
+    "s": "Rockefeller International Chairman, Ruchir Sharma, says higher interest rates could put the AI boom at risk. On Bloomberg's Insight with Haslinda Amin, he also discussed his outlook on emerging markets including India and Indonesia. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-12/ruchir-sharma-on-ai-bubble-risks-opportunities-in-india-video",
+    "ts": 1794467472000,
     "tags": []
    },
    {
-    "t": "Angola’s Oil Windfall Fuels Diversification Push, Citi Says",
-    "tt": "Citi, Angola'daki Beklenmedik Petrol Yağışının Çeşitlendirmeyi Artırdığını Söyledi",
-    "s": "Angola’s drive to diversify its economy away from oil is picking up steam as the government uses a surge in crude revenue to finance structural reforms and investment in energy, transport and other industries, Citigroup Inc. said.",
-    "ss": "Citigroup Inc., Angola'nın ekonomisini petrolden uzaklaştırarak çeşitlendirme çabasının, hükümetin yapısal reformları ve enerji, ulaştırma ve diğer endüstrilerdeki yatırımları finanse etmek için ham petrol gelirindeki artışı kullanması nedeniyle hız kazandığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/angola-s-oil-windfall-fuels-diversification-push-citi-says",
-    "ts": 1794459600000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "t": "Limited Threat to Nvidia’s Market Share: Futurum's Bulk",
+    "tt": null,
+    "s": "Futurum Group Head of Semiconductors and Infrastructure Rolf Bulk says recent developments at Nvidia could be incrementally positive for rival chipmakers but that outsized gains are unlikely. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-12/limited-threat-to-nvidia-s-market-share-futurum-s-bulk-video",
+    "ts": 1794467197000,
+    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+    "tt": null,
+    "s": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+    "ts": 1794468528000,
+    "tags": []
+   },
    {
     "t": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
     "tt": "Klinik deneylere ve ilaç onaylarına bağlı tahmin pazarları yasa koyucuların öfkesini çekiyor",
@@ -694,18 +692,18 @@
     "u": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
     "ts": 1794067353000,
     "tags": []
-   },
-   {
-    "t": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-    "tt": "Berkshire Hathaway, kazançları düşerken üçüncü çeyrekte geri alımlarını iki katından fazla artırdı",
-    "s": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-    "ss": "Berkshire Hathaway Cumartesi günü yaptığı açıklamada, faaliyet ve genel karların darbe alması nedeniyle üçüncü çeyrekte hisse geri alımlarını hızlandırdığını söyledi.",
-    "u": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-    "ts": 1794065026000,
-    "tags": []
    }
   ],
   "MarketWatch": [
+   {
+    "t": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
+    "tt": null,
+    "s": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he’s gone?",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+    "ts": 1794468600000,
+    "tags": []
+   },
    {
     "t": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
     "tt": "Nasdaq vadeli işlemleri, Nvidia'nın rapor panosunda Huang'ı devirebileceği saatler sonrasında %8 oranında değer kaybetmesiyle düştü",
@@ -786,18 +784,27 @@
     "u": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
     "ts": 1794434100000,
     "tags": []
-   },
-   {
-    "t": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-    "tt": "Dünyanın en önemli tahvil piyasasında düşen petrol fiyatları borçlanma maliyetlerini düşürmeye artık yetmiyor",
-    "s": "The tight trading relationship between oil prices and Treasury yields has broken down. It’s a sign that inflation concerns are extending beyond the energy shock.",
-    "ss": "Petrol fiyatları ile Hazine tahvil getirileri arasındaki sıkı ticari ilişki bozuldu. Bu, enflasyon kaygılarının enerji şokunun ötesine geçtiğine dair bir işaret.",
-    "u": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-    "ts": 1794433320000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"We Have Come To Annihilate You\": Bomb Threats Empty Hundreds Of Schools Across Europe",
+    "tt": null,
+    "s": "\"We Have Come To Annihilate You\": Bomb Threats Empty Hundreds Of Schools Across Europe Hoax bomb threats emailed to thousands of schools forced evacuations across Italy on Wednesday , and the same kind of message landed in schools in Ireland, Scotland and Northern Ireland, a week after a wave of bom",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/we-have-come-annihilate-you-bomb-threats-empty-hundreds-schools-across-europe",
+    "ts": 1794469200000,
+    "tags": []
+   },
+   {
+    "t": "German Taxpayers Bled Dry: Nearly 60% Of Welfare For Families With Kids Goes To Foreigners",
+    "tt": null,
+    "s": "German Taxpayers Bled Dry: Nearly 60% Of Welfare For Families With Kids Goes To Foreigners Authored by Remix News Staff via Remix News , In 2025, foreign beneficiaries of social welfare in households with minor children received a total of €12.2 billion in benefits, representing 59.4 percent of the ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/german-taxpayers-bled-dry-nearly-60-welfare-families-kids-goes-foreigners",
+    "ts": 1794466800000,
+    "tags": []
+   },
    {
     "t": "\"This One Smells\": Ex-CIA Analyst Says Russian Death Toll Leak Arrived Right On Cue",
     "tt": "\"Bu Kokuyor\": Eski CIA Analisti, Rusya'da Ölü Sayısı Sızıntısının Tam Zamanında Geldiğini Söyledi",
@@ -869,27 +876,90 @@
     "u": "https://www.zerohedge.com/geopolitical/putins-man-washington-dies-suddenly-66-then-moscow-rewrites-story",
     "ts": 1794447000000,
     "tags": []
-   },
-   {
-    "t": "Mississippi Goes Blue: Democrat Scott Colom Ousts \"100% MAGA\" Hyde-Smith",
-    "tt": "Mississippi Mavileşiyor: Demokrat Scott Colom, \"%100 MAGA\" Hyde-Smith'i Devirdi",
-    "s": "Mississippi Goes Blue: Democrat Scott Colom Ousts \"100% MAGA\" Hyde-Smith Democrat Scott Colom has unseated Republican Sen. Cindy Hyde-Smith in Mississippi, NBC News, CNN and the Associated Press projected Wednesday. President Trump carried the state by 23 points in 2024, and the win gives Democrats ",
-    "ss": "Mississippi Maviye Dönüyor: Demokrat Scott Colom \"%100 MAGA\" Hyde-Smith'i Devirdi Demokrat Scott Colom, Mississippi'de Cumhuriyetçi Senatör Cindy Hyde-Smith'i koltuğundan etti, NBC News, CNN ve Associated Press'in Çarşamba günü yaptığı tahmine göre. Başkan Trump 2024'te eyaleti 23 puan öne taşıdı ve galibiyet Demokratlara verildi",
-    "u": "https://www.zerohedge.com/political/mississippi-goes-blue-democrat-scott-colom-ousts-100-maga-hyde-smith",
-    "ts": 1794445500000,
-    "tags": []
-   },
-   {
-    "t": "Tom Homan Has A Message For Open Border Democrats As Third Worlder Caravan Nears Southern Border",
-    "tt": "Üçüncü Dünya Kervanı Güney Sınırına Yaklaşırken Tom Homan'ın Açık Sınır Demokratlarına Bir Mesajı Var",
-    "s": "Tom Homan Has A Message For Open Border Democrats As Third Worlder Caravan Nears Southern Border For several weeks, we've tracked the third-worlder caravan heading north towards the US southern border, made up largely of migrants from Honduras, and now tracking through southern Mexico .&nbsp; . @Osc",
-    "ss": "Üçüncü Dünya Kervanı Güney Sınırına Yaklaşırken Tom Homan'ın Açık Sınır Demokratlarına Bir Mesajı Var Birkaç haftadır, büyük ölçüde Honduras'tan gelen göçmenlerden oluşan, kuzeye, ABD'nin güney sınırına doğru ilerleyen ve şimdi de Güney Meksika'dan geçen üçüncü dünya karavanını takip ediyorduk.  . @Osc",
-    "u": "https://www.zerohedge.com/political/tom-homan-has-message-open-border-democrats-third-worlder-caravan-nears-southern-border",
-    "ts": 1794444000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "AIIB ile Türkiye arasında 1,6 milyar dolarlık iklim anlaşması",
+    "tt": null,
+    "s": "Asya Altyapı Yatırım Bankası (AIIB) ve Türkiye, Türkiye'nin iklim taahhütlerini yerine getirmesine yardımcı olacak politika ve kurumsal reformları desteklemek üzere 1,6 milyar dolarlık bir finansman paketi üzerinde anlaşmaya vardı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/aiib-ile-turkiye-arasinda-1-6-milyar-dolarlik-iklim-anlasmasi-3794314",
+    "ts": 1794469556000,
+    "tags": []
+   },
+   {
+    "t": "Yılın son enflasyon raporu",
+    "tt": null,
+    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, yılın son enflasyon raporu için kameraların karşısına geçti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yilin-son-enflasyon-raporu-3794290",
+    "ts": 1794468406000,
+    "tags": []
+   },
+   {
+    "t": "Türkiye'de ilk kez aile ofisleri buluştu",
+    "tt": null,
+    "s": "Türkiye'de ilk kez bir aile ofisi forumu düzenlendi. Henley & Partners Global Family Office Forum'un açılış konuşmasını, Cumhurbaşkanlığı Yatırım ve Finans Ofisi Başkanı Ahmet Burak Dağlıoğlu ve Henley & Partners Türkiye Yönetici Ortağı Burak Demirel yaptı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkiyede-ilk-kez-aile-ofisleri-bulustu-3794289",
+    "ts": 1794468329000,
+    "tags": []
+   },
+   {
+    "t": "İngiltere'de 2024'ten beri en güçlü büyüme",
+    "tt": null,
+    "s": "İngiltere'de işletmeler ve tüketiciler, İran savaşının yol açtığı enerji şokunun etkilerini atlatmaya devam ederken, ekonomi son iki buçuk yılın en hızlı büyüme hızını kaydetti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ingiltere-de-2024-ten-beri-en-guclu-buyume-3794288",
+    "ts": 1794468104000,
+    "tags": []
+   },
+   {
+    "t": "Sabancı'nın elektrifikasyon yatırımları 2022'den bu yana 6 milyar doları aştı",
+    "tt": null,
+    "s": "COP31'de 11 Kasım'da başlayan Liderler Zirvesi kapsamında düzenlenen \"Sürdürülebilir, Dayanıklı ve Adil Bir Geleceğe Doğru\" başlıklı oturumda Türk iş dünyasını temsil eden Sabancı Holding Yönetim Kurulu Başkanı Hayri Çulhacı, aynı gün COP31 Başkanlığı'nın ev sahipliğinde gerçekleşen \"Temiz Enerji Dö",
+    "ss": null,
+    "u": "https://www.bloomberght.com/sabancinin-elektrifikasyon-yatirimlari-2022den-bu-yana-6-milyar-dolari-asti-3794287",
+    "ts": 1794467626000,
+    "tags": []
+   },
+   {
+    "t": "Küresel elektrikli araç satışları Ekim'de 2,09 milyona ulaştı",
+    "tt": null,
+    "s": "Dünyada elektrikli araç satışları Ekim ayında bir önceki yılın aynı ayına göre yüzde 8 artışla 2,09 milyona yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-elektrikli-arac-satislari-ekim-de-2-09-milyona-ulasti-3794281",
+    "ts": 1794466819000,
+    "tags": []
+   },
+   {
+    "t": "Dış ticaret haddi 1,5 yılın en düşük seviyesinde",
+    "tt": null,
+    "s": "Dış ticaret haddi Eylül'de 4,7 puan geriledi.İhracat birim değer endeksinin ithalat birim değer endeksine bölünmesiyle hesaplanan ve 2025 yılı Eylül ayında 92,7 olarak elde edilmiş olan dış ticaret haddi, 4,7 puan azalarak, 2026 yılı Eylül ayında 88 oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dis-ticaret-haddi-1-5-yilin-en-dusuk-seviyesinde-3794276",
+    "ts": 1794466278000,
+    "tags": []
+   },
+   {
+    "t": "Şimşek Dünya Bankası başkanı ile bir araya geldi",
+    "tt": null,
+    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, Dünya Bankası, Avrupa İmar ve Kalkınma Bankası (EBRD) ve Birleşmiş Milletler Kalkınma Programının (UNDP) başkanlarıyla görüşerek Türkiye'nin COP31'deki öncü girişimi \"İklim Uygulama Köprüsü\"nü (BRIDGE) de gündeme taşıdı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/simsek-dunya-bankasi-baskani-ile-bir-araya-geldi-3794275",
+    "ts": 1794465738000,
+    "tags": []
+   },
+   {
+    "t": "Benzine indirim geldi",
+    "tt": null,
+    "s": "Uluslararası ürün fiyatlarında yaşanan gerilemenin ardından benzinin litre fiyatına 12 Kasım tarihinden itibaren geçerli olmak üzere 3,48 TL indirim geldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/benzine-indirim-geldi-3794274",
+    "ts": 1794465372000,
+    "tags": []
+   },
    {
     "t": "ING araştırdı: Bankacılıkta yeni normal daha az masraf, daha az zahmet",
     "tt": null,
@@ -897,87 +967,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/ing-arastirdi-bankacilikta-yeni-normal-daha-az-masraf-daha-az-zahmet-3794270",
     "ts": 1794464354000,
-    "tags": []
-   },
-   {
-    "t": "SpaceX 6 günde ikinci gizli fırlatmayı yaptı",
-    "tt": null,
-    "s": "ABD merkezli SpaceX şirketinin ABD Uzay Kuvvetleri için California eyaletinden 6 gün içinde ikinci gizli fırlatmasını yaptığı bildirildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spacex-6-gunde-ikinci-gizli-firlatmayi-yapti-3794269",
-    "ts": 1794464284000,
-    "tags": []
-   },
-   {
-    "t": "Altında 4 bin dolar testi",
-    "tt": null,
-    "s": "Altın fiyatları, ABD'de kalıcı seyreden enflasyon ve Fed yetkililerinin gelecek ay faiz artışı beklentilerini körükleyen şahin açıklamalarıyla üst üste üçüncü gününde de değer kaybederek ons başına 4 bin doların altındaki seyrini sürdürdü.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/altinda-4-bin-dolar-testi-3794268",
-    "ts": 1794463406000,
-    "tags": []
-   },
-   {
-    "t": "Petrolde iki ayın en düşük seviyesi",
-    "tt": null,
-    "s": "Petrol fiyatları, Orta Doğu'daki petrol üretiminin artması ve İran ile ABD arasındaki çatışmaların sakin seyretmesiyle son iki ayın en düşük seviyesine geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/petrolde-iki-ayin-en-dusuk-seviyesi-3794261",
-    "ts": 1794462577000,
-    "tags": []
-   },
-   {
-    "t": "Küresel piyasalarda yapay zeka hisselerine güçlü dönüş",
-    "tt": null,
-    "s": "Anthropic'in 1,4 trilyon dolarlık değerlemeyle gerçekleştirmeyi planladığı halka arz, yatırımcıların yapay zeka temasına yönelik iştahı açısından önemli bir gösterge olacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-piyasalarda-yapay-zeka-hisselerine-guclu-donus-3794260",
-    "ts": 1794461819000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia yönetimi Huang'ın geleceğini görüşüyor",
-    "tt": null,
-    "s": "Nvidia yönetim kurulu CEO Huang'ın görevden alınıp alınmayacağını görüşmek üzere toplandı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/nvidia-yonetimi-huangin-gelecegini-gorusuyor-3794259",
-    "ts": 1794461480000,
-    "tags": []
-   },
-   {
-    "t": "Vestel tahvillerinde kritik viraj alındı",
-    "tt": null,
-    "s": "Vestel, 2029 vadeli tahvilin sahiplerinin yapılandırmayı onayladığını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vestel-tahvillerinde-kritik-viraj-alindi-3794258",
-    "ts": 1794460266000,
-    "tags": []
-   },
-   {
-    "t": "MSCI, Sabancı ve Astor'u standart endeksinden çıkardı",
-    "tt": null,
-    "s": "Küresel endeks sağlayıcısı MSCI, Türkiye endekslerinde değişikliğe gitti. Sabancı Holding ve Astor Enerji, MSCI Turkey Index'ten çıkarılarak MSCI Turkey Small Cap Index'e dahil edildi. Küçük ölçekli şirketlerin yer aldığı endeksten ise 18 hisse çıkarıldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/msci-sabanci-ve-astor-u-standart-endeksinden-cikardi-3794257",
-    "ts": 1794459709000,
-    "tags": []
-   },
-   {
-    "t": "Zelenskiy: Üçlü zirve için görüşmeler sürüyor",
-    "tt": null,
-    "s": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşı sona erdirmek amacıyla ABD, Rusya ve Ukrayna liderlerini bir araya getirecek bir zirve için görüşmelerin sürdüğünü açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/zelenskiy-uclu-zirve-icin-gorusmeler-suruyor-3794256",
-    "ts": 1794431568000,
-    "tags": []
-   },
-   {
-    "t": "Dolar/TL'de son durum ne? 12 Kasım 2026 Euro ve döviz fiyatları…",
-    "tt": null,
-    "s": "Dolar haftanın dördüncü işlem gününde (saat 09:30 itibari ile) 50.2576 liradan, euro ise 55.7996 liradan işlem görüyor. Serbest döviz piyasalarındaki anlık dolar/euro işlemleri ile ilgili merak ettiğiniz tüm detaylar burada; dolar kaç TL oldu, euro kaç liradan satılıyor, dolar/euro bugün ne kadar? g",
-    "ss": null,
-    "u": "https://www.bloomberght.com/dolartlde-son-durum-ne-12-kasim-2026-euro-ve-doviz-fiyatlari-pkh2-3794272",
-    "ts": 1794465002000,
     "tags": []
    }
   ]
