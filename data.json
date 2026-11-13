@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T08:46:40.621367+00:00",
+ "generated": "2026-11-13T09:47:06.018535+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,51 +17,51 @@
   },
   {
    "n": "Dow",
-   "p": 52297.1,
+   "p": 52297.09,
    "c": -0.36,
-   "d": -189.388,
+   "d": -189.398,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 18.95,
-   "c": 1.34,
-   "d": 0.25,
+   "p": 18.66,
+   "c": -0.21,
+   "d": -0.04,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3899.3,
-   "c": 0.36,
-   "d": 14.0,
+   "p": 3903.0,
+   "c": 0.46,
+   "d": 17.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.895,
-   "c": -0.15,
-   "d": -0.077,
+   "p": 50.08,
+   "c": 0.22,
+   "d": 0.108,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 89.05,
-   "c": 0.35,
-   "d": 0.31,
+   "p": 88.56,
+   "c": -0.2,
+   "d": -0.18,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.22,
-   "c": 0.42,
-   "d": 0.4,
+   "p": 95.89,
+   "c": 0.07,
+   "d": 0.07,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.122,
-   "c": -0.05,
-   "d": -0.048,
+   "p": 103.181,
+   "c": 0.01,
+   "d": 0.011,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3634,
+   "p": 50.3647,
    "c": 0.22,
-   "d": 0.11,
+   "d": 0.111,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11802.46,
-   "c": -0.07,
-   "d": -8.74,
+   "p": 11869.98,
+   "c": 0.5,
+   "d": 58.78,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 68722,
-   "c": -6.43,
+   "p": 68992,
+   "c": -5.92,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1931.8,
-   "c": -5.61,
+   "p": 1938.28,
+   "c": -5.13,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 79.86,
-   "c": -3.59,
+   "p": 79.85,
+   "c": -3.74,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.028,
-   "c": -1.47,
+   "p": 1.029,
+   "c": -1.76,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 630.98,
-   "c": -6.07,
+   "p": 636.77,
+   "c": -5.05,
    "k": "usd"
   }
  ],
@@ -504,18 +504,33 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Hong Kong Turns Even More Bullish on Economy With Growth Upgrade",
-    "tt": null,
-    "s": "Hong Kong raised its full-year growth forecast for a second time in months after the global artificial intelligence boom turbocharged trade and brought the pace of its economic expansion to a five-year high.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/hong-kong-lifts-gdp-growth-outlook-again-as-ai-boom-spurs-export",
-    "ts": 1794558887000,
+    "t": "Brasília em Off",
+    "tt": "Brezilya kapalı",
+    "s": "Martha Beck conta sobre os cotados para a Fazenda e a Casa Civil no quarto mandato do presidente Lula. Com edição de Patricia Xavier. (Source: Bloomberg)",
+    "ss": "Martha Beck, Başkan Lula'nın yetkisi altında Fazenda ve Casa Civil için çok sayıda ev kiraladı. Patricia Xavier'in yazısı. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/brasilia-em-off-video",
+    "ts": 1794562610000,
     "tags": []
    },
    {
-    "t": "Stocks Slip Before Inflation Test of Fed-Hike Bets: Markets Wrap",
+    "t": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
+    "tt": "Hazine Getirilerindeki Artış, Tahvil Rutunun En Kötüsünün Bittiğine dair Umutları Yerle Bir Ediyor",
+    "s": "Just when global bond investors were starting to believe the worst of this year’s rout was over, surging Treasury yields are making them think again.",
+    "ss": "Küresel tahvil yatırımcıları tam da bu yılın en kötü döneminin geride kaldığına inanmaya başlamışken, artan Hazine getirileri onları yeniden düşünmeye sevk ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
+    "ts": 1794549617000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap",
     "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
-    "s": "US stock futures edged lower ahead of inflation data that will cap a dramatic week of mounting bets on Federal Reserve interest-rate hikes and the ouster of Jensen Huang at Nvidia Corp.",
+    "s": "US stocks struggled for direction ahead of inflation data that will cap a dramatic week in which traders ramped up bets on Federal Reserve interest-rate hikes and Jensen Huang was ousted from Nvidia Corp.",
     "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
     "ts": 1794521833000,
@@ -528,77 +543,71 @@
     ]
    },
    {
-    "t": "Gold Edges Up After Slump to One-Year Low Attracts Dip Buying",
-    "tt": null,
-    "s": "Gold advanced as investors with a long-term bullish view on bullion bought the dip after the precious metal tumbled to the lowest level in more than a year in the previous session.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
-    "ts": 1794527925000,
+    "t": "Indonesian Stocks Set for Best Week Since June on Foreign Buying",
+    "tt": "Endonezya Hisse Senetleri Yabancı Alımlarla Hazirandan Bu Yana En İyi Haftaya Girdi",
+    "s": "Indonesia’s stocks are heading for their best week since mid-June as foreign investors tiptoed back into the market after months of selling.",
+    "ss": "Endonezya hisseleri, yabancı yatırımcıların aylardır süren satışların ardından piyasaya geri dönmeleriyle Haziran ortasından bu yana en iyi haftasına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-stocks-set-for-best-week-since-june-on-foreign-buying",
+    "ts": 1794561431000,
+    "tags": []
+   },
+   {
+    "t": "ICTSI: Keen to Expand in Southern, Western Africa",
+    "tt": "ICTSI: Güney ve Batı Afrika'da Büyümek İstiyoruz",
+    "s": "International Container Terminal Services Senior Adviser Christian Gonzalez says the world’s largest, independent terminal operator is keen to expand in Southern and Western Africa. It currently has 34 terminal operations and port development projects across 19 countries. He speaks with Haslinda Ami",
+    "ss": "Uluslararası Konteyner Terminal Hizmetleri Kıdemli Danışmanı Christian Gonzalez, dünyanın en büyük, bağımsız terminal operatörünün Güney ve Batı Afrika'da genişlemeye istekli olduğunu söyledi. Şu anda 19 ülkede 34 terminal işletmesi ve liman geliştirme projesi bulunmaktadır. Haslinda Ami ile konuşuyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/ictsi-keen-to-expand-in-southern-western-africa-video",
+    "ts": 1794561192000,
+    "tags": []
+   },
+   {
+    "t": "China’s Credit Growth Disappoints Despite Greater Policy Support",
+    "tt": "Çin'in Kredi Büyümesi Daha Fazla Politika Desteğine Rağmen Hayal Kırıklığı Yarattı",
+    "s": "China’s credit expansion fell short of expectations in October with loans contracting for the third time this year, as greater policy support struggled to offset persistently weak borrowing demand.",
+    "ss": "Çin'in kredi genişlemesi Ekim ayında beklentilerin altında kaldı ve krediler bu yıl üçüncü kez daralırken, daha fazla politika desteği ısrarla zayıf olan borçlanma talebini telafi etmekte zorlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
+    "ts": 1794561173000,
+    "tags": []
+   },
+   {
+    "t": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
+    "tt": "Guinness Atkinson CEO'su Yeni K-Beauty ETF Lansmanını Tartışıyor",
+    "s": "Jim Atkinson, President & CEO at Guinness Atkinson Funds, discusses the launch of the firm's new K-beauty ETF and his outlook for demand. He speaks on Bloomberg's ETQ IQ Asia. (Source: Bloomberg)",
+    "ss": "Guinness Atkinson Funds Başkanı ve CEO'su Jim Atkinson, firmanın yeni K-beauty ETF'sinin lansmanını ve talep görünümünü anlatıyor. Bloomberg'in ETQ IQ Asia programında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
+    "ts": 1794551370000,
+    "tags": []
+   },
+   {
+    "t": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
+    "tt": "IEA, Irak'ta Ekim Petrol Üretiminin 2019'dan Bu Yana En Yüksek Seviyeye Çıktığını Açıkladı",
+    "s": "Iraq’s oil output surged in October and production in the United Arab Emirates held near the previous month’s high, as Gulf producers increased crude flows despite shipping disruptions caused by the Iran war, the International Energy Agency said.",
+    "ss": "Uluslararası Enerji Ajansı, Körfez üreticilerinin İran savaşının neden olduğu nakliye kesintilerine rağmen ham petrol akışlarını artırması nedeniyle Irak'ın petrol üretiminin Ekim ayında arttığını ve Birleşik Arap Emirlikleri'ndeki üretimin önceki ayın en yüksek seviyesine yakın seyrettiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/iraq-october-oil-output-jumps-to-highest-since-2019-iea-says",
+    "ts": 1794560730000,
     "tags": [
-     "Altın ▼"
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
     ]
    },
    {
-    "t": "European Shares Pull Back From Record High After Four-Day Rally",
-    "tt": null,
-    "s": "European stocks slipped as a four-day rally to record highs ran out of steam after a busy week.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/european-shares-pull-back-from-record-high-after-four-day-rally",
-    "ts": 1794558146000,
+    "t": "Why a $2 Billion Law Firm Suddenly Collapsed",
+    "tt": "2 Milyar Dolarlık Hukuk Bürosu Neden Aniden Çöktü?",
+    "s": "What Weil Gotshal’s collapse says about the frailty of big law.",
+    "ss": "Weil Gotshal'ın çöküşü büyük hukukun kırılganlığı hakkında ne söylüyor?",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/why-a-2-billion-law-firm-suddenly-collapsed",
+    "ts": 1794560402000,
     "tags": []
    },
    {
-    "t": "Talabat CEO: Grocery Demand Up Amid Mideast Situation",
-    "tt": null,
-    "s": "Food delivery giant Talabat reported its 3Q revenue jumped 18 percent to $1.2 billion. The Dubai-based firm says the growth is driven by robust demand during the summer and back-to-school periods. Talabat CEO Toon Gyssels spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the ea",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/talabat-ceo-grocery-demand-up-amid-mideast-situation-video",
-    "ts": 1794557883000,
-    "tags": []
-   },
-   {
-    "t": "Hidary: Investors See Anthropic IPO as Key Bellwether",
-    "tt": null,
-    "s": "Anthropic’s IPO is said to be about 6 times oversubscribed. The Claude AI Model firm and its co-founders are seeking to raise $64.4 billion in the public listing as well as $26 billion in private placement, making it bigger than Space X’s IPO. Jack Hidary, CEO of SandboxAQ spoke to Bloomberg’s Abeer",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/hidary-investors-see-anthropic-ipo-as-key-bellwether-video",
-    "ts": 1794557842000,
-    "tags": []
-   },
-   {
-    "t": "EGA CFO: Al Taweelah At Full Production by 1Q 2027",
-    "tt": null,
-    "s": "Emirates Global Aluminium says it’s making “strong progress” on restoring production at its main smelter, which was damaged in an Iranian strike earlier this year. It comes as the firm reported 9m revenue of $5.3 billion compared to $6.3 billion y/y. EGA’s CFO, Pal Kildemo spoke to Bloomberg’s Abeer",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/ega-cfo-al-taweelah-at-full-production-by-1q-2027-video",
-    "ts": 1794557756000,
-    "tags": []
-   },
-   {
-    "t": "Copper Set for Worst Run in Two Years on Nvidia and Rates Unease",
-    "tt": null,
-    "s": "Copper tumbled toward a fifth weekly loss — the longest run in nearly two years — on a wave of upheaval in the artificial-intelligence industry and growing expectations for further hikes in US interest rates.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/copper-climbs-from-three-month-low-after-rough-week-for-metals",
-    "ts": 1794541476000,
-    "tags": []
-   },
-   {
-    "t": "UK Gilts Head for Worst Weekly Drop Since September",
-    "tt": "İngiltere Gilts Eylül'den bu yana en kötü haftalık düşüşe doğru gidiyor",
-    "s": "Plus, a protracted software outage at Microsoft",
-    "ss": "Ayrıca Microsoft'ta uzun süren bir yazılım kesintisi",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-13/uk-gilts-head-for-worst-weekly-drop-since-september",
-    "ts": 1794556120000,
-    "tags": []
-   },
-   {
-    "t": "(USD:ZWG) Zimbabwe Moves to Rebuild Local Bond Market After Currency Turmoil",
-    "tt": "(USD:ZWG) Zimbabwe, Döviz Kargaşasının Ardından Yerel Tahvil Piyasasını Yeniden İnşa Etmek İçin Harekete Geçti",
-    "s": "Zimbabwe is taking steps to rebuild its domestic bond market after stabilizing the gold-backed ZiG currency and bringing inflation down to single digits following years of economic turmoil.",
-    "ss": "Zimbabwe, altın destekli ZiG para birimini istikrara kavuşturduktan ve yıllar süren ekonomik çalkantıların ardından enflasyonu tek haneli rakamlara indirdikten sonra yerel tahvil piyasasını yeniden inşa etmek için adımlar atıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/-usd-zwg-zimbabwe-moves-to-rebuild-local-bond-market-after-currency-turmoil",
-    "ts": 1794555865000,
+    "t": "Odd Lots: Why a $2 Billion Law Firm Suddenly Collapsed (Podcast)",
+    "tt": "Tuhaf Lotlar: Neden 2 Milyar Dolarlık Hukuk Bürosu Aniden Çöktü (Podcast)",
+    "s": "At the end of October, seemingly overnight, a major law firm called Weil Gotshal announced it was winding down after a number of partners departed and talks of a merger with another firm failed. So how did a $2 billion big law firm collapse in the span of a few weeks? In 2015, Yale Law professor Joh",
+    "ss": "Ekim ayının sonunda, görünüşte bir gecede, Weil Gotshal adlı büyük bir hukuk firması, bir dizi ortağın ayrılması ve başka bir firmayla birleşme görüşmelerinin başarısızlıkla sonuçlanmasının ardından kapanacağını duyurdu. Peki 2 milyar dolarlık büyük bir hukuk firması nasıl oldu da birkaç hafta içinde çöktü? 2015 yılında Yale Hukuk profesörü Joh",
+    "u": "https://www.bloomberg.com/news/audio/2026-11-13/odd-lots-why-a-2-billion-law-firm-suddenly-collapsed-podcast",
+    "ts": 1794560400000,
     "tags": []
    }
   ],
@@ -701,6 +710,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
+    "tt": "Karımın demansı var ve benden daha uzun yaşayabilir. Uzun süreli hafıza bakımına nasıl hazırlanabiliriz?",
+    "s": "“She’s 69 and otherwise healthy as a horse.”",
+    "ss": "\"69 yaşında ve diğer açılardan bir at kadar sağlıklı.\"",
+    "u": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
+    "ts": 1794560940000,
+    "tags": []
+   },
+   {
     "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
     "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
     "s": "There is already a demographic ‘run’ on Social Security.",
@@ -786,29 +804,32 @@
     "u": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
     "ts": 1794517680000,
     "tags": []
-   },
-   {
-    "t": "The bond market now has an even bigger fear than AI fallout",
-    "tt": "Tahvil piyasası artık yapay zekanın etkisinden çok daha büyük bir korkuya sahip",
-    "s": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
-    "ss": "Teknoloji hisselerindeki keskin satışlar Hazine tahvillerinin son haftalarda daha çekici görünmesine neden oldu, ancak getirilerin bir başka büyük etkeni daha ortaya çıkıyor.",
-    "u": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-    "ts": 1794516240000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "ZeroHedge": [
    {
+    "t": "\"Killing People To Benefit Someone\": Slovakia's Fico \"Literally Shocked\" After Private Talk With Ukraine's PM",
+    "tt": "\"Birine Fayda Sağlamak İçin İnsanları Öldürmek\": Slovakya'nın Fico'su, Ukrayna Başbakanıyla Özel Görüşmenin Ardından \"Gerçekten Şok Oldu\"",
+    "s": "\"Killing People To Benefit Someone\": Slovakia's Fico \"Literally Shocked\" After Private Talk With Ukraine's PM Authored by Remix News Staff via Remix News , Slovak Prime Minister Robert Fico admitted that he was shocked by a private conversation with Ukrainian Prime Minister Serhiy Koretsky about the",
+    "ss": "\"Birilerine Fayda Sağlamak İçin İnsanları Öldürmek\": Slovakya'nın Fico'su, Ukrayna Başbakanıyla Özel Konuşmasının Ardından \"Gerçekten Şok Oldu\" Remix Haber Personeli tarafından Remix News aracılığıyla yazıldı, Slovakya Başbakanı Robert Fico, Ukrayna Başbakanı Serhiy Koretsky ile Ukrayna Başbakanı Serhiy Koretsky ile yaptığı özel görüşme karşısında şok olduğunu itiraf etti.",
+    "u": "https://www.zerohedge.com/geopolitical/killing-people-benefit-someone-slovakias-fico-literally-shocked-after-private-talk",
+    "ts": 1794562800000,
+    "tags": []
+   },
+   {
+    "t": "Follow The Nonprofit Money Behind Push For \"Anti-Fascist Economics\" Getting Boosted On Financial Times",
+    "tt": "Financial Times'ta \"Anti-Faşist Ekonomi\"nin Güçlendirilmesine Yönelik Baskının Arkasındaki Kâr Amacı Gütmeyen Parayı Takip Edin",
+    "s": "Follow The Nonprofit Money Behind Push For \"Anti-Fascist Economics\" Getting Boosted On Financial Times The Financial Times gave a so-called \" economist \" a platform to rebrand democracy or democratic socialism with a spicy new term: \"anti-fascist economics.\" &nbsp; Isabella Weber, director of the no",
+    "ss": "\"Anti-Faşist Ekonomi\"nin Financial Times'ta Güçlendirilmesi İçin Yapılan Baskının Arkasındaki Kâr Amacı Gütmeyen Parayı Takip Edin Financial Times, sözde \"ekonomiste\" demokrasiyi veya demokratik sosyalizmi yeni ve çekici bir terimle yeniden markalaştıracak bir platform verdi: \"anti-faşist ekonomi.\"   Isabella Weber, no'nun direktörü",
+    "u": "https://www.zerohedge.com/economics/follow-nonprofit-money-behind-push-anti-fascist-economics-getting-boasted-financial-times",
+    "ts": 1794560400000,
+    "tags": []
+   },
+   {
     "t": "Spain's Socialist Government-Backed General Strike Ends In Riots, Looting",
-    "tt": null,
+    "tt": "İspanya'da Sosyalist Hükümetin Desteklediği Genel Grev, İsyan ve Yağmayla Sona Erdi",
     "s": "Spain's Socialist Government-Backed General Strike Ends In Riots, Looting Authored by Etienne Fauchaire via The Epoch Times , Spain's first general strike in 14 years, called by left-wing unions with the backing of Prime Minister Pedro Sánchez's Socialist government, ended in riots in Madrid and Bar",
-    "ss": null,
+    "ss": "İspanya'nın Sosyalist Hükümet Destekli Genel Grevi Ayaklanmalar ve Yağmalarla Sona Erdi Etienne Fauchaire tarafından The Epoch Times aracılığıyla yazıldı. İspanya'nın 14 yıl içindeki ilk genel grevi, Başbakan Pedro Sánchez'in Sosyalist hükümetinin desteğiyle sol sendikaların çağrısıyla Madrid ve Bar'da ayaklanmalarla sonuçlandı.",
     "u": "https://www.zerohedge.com/political/spains-socialist-government-backed-general-strike-ends-riots-looting",
     "ts": 1794558000000,
     "tags": []
@@ -875,27 +896,72 @@
     "u": "https://www.zerohedge.com/medical/maid-would-rank-canadas-fourth-leading-cause-death-if-counted-separately",
     "ts": 1794537900000,
     "tags": []
-   },
-   {
-    "t": "Powerful Iranian Clerical Body Declares Exiting Nuclear Treaty A 'National Demand'",
-    "tt": "Güçlü İran Din Kurumu, Nükleer Anlaşmadan Çıkmayı 'Ulusal Talep' Olarak İlan Etti",
-    "s": "Powerful Iranian Clerical Body Declares Exiting Nuclear Treaty A 'National Demand' Iran is continuing to signal that it could at any point formally withdraw from the Nuclear Non-Proliferation Treaty (NPT). If so this would certainly trigger alarm in the West, and might result in Israel launching a s",
-    "ss": "Güçlü İran Ruhani Kurulu, Nükleer Anlaşmadan Çıkıldığını Açıkladı 'Ulusal Talep' İran, Nükleer Silahların Yayılmasını Önleme Anlaşması'ndan (NPT) herhangi bir noktada resmi olarak çekilebileceğinin sinyallerini vermeye devam ediyor. Eğer öyleyse, bu kesinlikle Batı'da alarmı tetikleyecek ve İsrail'in bir saldırı başlatmasıyla sonuçlanabilecektir.",
-    "u": "https://www.zerohedge.com/geopolitical/powerful-iranian-clerical-body-declares-exiting-nuclear-treaty-national-demand",
-    "ts": 1794536400000,
-    "tags": []
-   },
-   {
-    "t": "US Budget Deficit Explodes: Worst October On Record On Historic Surge In Defense Spending; 28% Of All Taxes Go To Pay Interest",
-    "tt": "ABD Bütçe Açığı Patladı: Savunma Harcamalarında Tarihi Artışla Kaydedilen En Kötü Ekim; Tüm Vergilerin %28'i Faiz Ödemesine Gidiyor",
-    "s": "US Budget Deficit Explodes: Worst October On Record On Historic Surge In Defense Spending; 28% Of All Taxes Go To Pay Interest September was not a terrible month for the US budget deficit; well it wasn't great either, but at just a deficit of $27 billion in the last month of fiscal 2026, at a time w",
-    "ss": "ABD Bütçe Açığı Patladı: Savunma Harcamalarında Tarihi Artışla Kaydedilen En Kötü Ekim; Tüm Vergilerin %28'i Faiz Ödemeye Gidiyor Eylül ayı, ABD bütçe açığı açısından berbat bir ay değildi; pek de iyi değildi ama 2026 mali yılının son ayında sadece 27 milyar dolar açık verdi.",
-    "u": "https://www.zerohedge.com/markets/us-budget-deficit-explodes-worst-october-record-us-treasury-historic-surge-defense-spending",
-    "ts": 1794535080000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Bakan Şimşek'ten cari açık değerlendirmesi",
+    "tt": null,
+    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, Eylül ayı cari denge verilerine ilişkin yaptığı açıklamada \"Son dönemde cari açığın milli gelire oranının yatay seyretmesi, ekonomimizin artan dayanıklılığının önemli bir göstergesidir\" dedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bakan-simsek-ten-cari-acik-degerlendirmesi-3794577",
+    "ts": 1794562715000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de beş büyük teknoloji şirketine dava",
+    "tt": null,
+    "s": "ABD'de 5 büyük teknoloji şirketine, geliştirdikleri yapay zeka temelli teknolojilerin insanlık için ciddi riskler oluşturduğu ve yeterince kontrol edilemediği iddiasıyla dava açıldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-bes-buyuk-teknoloji-sirketine-dava-3794573",
+    "ts": 1794562178000,
+    "tags": []
+   },
+   {
+    "t": "Ekim'de küresel petrol arzında artış",
+    "tt": null,
+    "s": "Uluslararası Enerji Ajansı (UEA), Körfez ülkelerinin yüksek ihracatının etkisiyle küresel petrol arzının Ekim'de önceki aya göre günlük 2 milyon 300 bin varil artarak 105 milyon 360 bin varile yükseldiğini bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ekim-de-kuresel-petrol-arzinda-artis-3794572",
+    "ts": 1794561290000,
+    "tags": []
+   },
+   {
+    "t": "\"Türkiye'nin uluslararası finansmandan daha fazla yararlanma potansiyeli var\"",
+    "tt": null,
+    "s": "TÜSİAD Başkanı Ozan Diren COP31 Zirvesi'nde Bloomberg HT'ye COP31 sonrası Türkiye'nin uluslararası finansmandan daha fazla yararlanma potansiyeli olduğunu söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tusiaddiren-turkiyenin-uluslararasi-finansmandan-daha-fazla-yararlanma-potansiyeli-var-3794563",
+    "ts": 1794560137000,
+    "tags": []
+   },
+   {
+    "t": "AB'den ücretsiz karbon tahsisatını artırma kararı",
+    "tt": null,
+    "s": "Avrupa Birliği (AB) kurumları, enerji yoğun sanayi sektörlerine 2026-2030 döneminde sağlanacak ücretsiz karbon emisyon tahsisatlarını artırma konusunda anlaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-den-ucretsiz-karbon-tahsisatini-artirma-karari-3794562",
+    "ts": 1794560135000,
+    "tags": []
+   },
+   {
+    "t": "Microsoft'un bazı hizmetlerinde erişim sorunu",
+    "tt": null,
+    "s": "ABD merkezli teknoloji şirketi Microsoft'un Microsoft 365, Outlook ve Teams hizmetlerinde erişim sorunları yaşandığı bildirildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/microsoft-un-bazi-hizmetlerinde-erisim-sorunu-3794564",
+    "ts": 1794560433000,
+    "tags": []
+   },
+   {
+    "t": "Almanya toptan eşya fiyatlarında 3,5 yılın en hızlı artışı",
+    "tt": null,
+    "s": "Orta Doğu'da tırmanan gerilimin enerji ve hammadde maliyetlerini yükseltmesiyle Almanya'da toptan eşya fiyat endeksi Ekim'de son 3,5 yılın en hızlı artışını gösterdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/almanya-toptan-esya-fiyatlarinda-3-5-yilin-en-hizli-artisi-3794561",
+    "ts": 1794559756000,
+    "tags": []
+   },
    {
     "t": "Fransa'dan gıda ithalatını azaltacak 8,7 milyar euroluk hamle",
     "tt": null,
@@ -922,69 +988,6 @@
     "u": "https://www.bloomberght.com/goldman-sachs-abd-10-yillik-tahvil-faizinde-gerileme-bekliyor-3794554",
     "ts": 1794557269000,
     "tags": []
-   },
-   {
-    "t": "Bitcoin'de sert düşüş",
-    "tt": null,
-    "s": "Bitcoin ve Ethereum'da son 24 saatte yüzde 6'yı aşan kayıplar yaşanırken Bitcoin 69 bin doların altına, Ethereum ise bin 930 doların altına geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bitcoin-de-sert-dusus-3794553",
-    "ts": 1794556945000,
-    "tags": []
-   },
-   {
-    "t": "\"Alice Huang'ın şirketi Nvidia'nın yasaklı çipini temin etti\"",
-    "tt": null,
-    "s": "Nvidia'yı sarsan tartışmanın merkezinde yer alan Alice Huang tarafından kurulan Çinli şirketin, Nvidia'nın Çin'de yasaklı çipini temin ettiği ileri sürüldü.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/alice-huang-in-sirketi-nvidia-nin-yasakli-cipini-temin-etti-3794552",
-    "ts": 1794556836000,
-    "tags": []
-   },
-   {
-    "t": "Çiftçinin borç krizi bankayı sarstı",
-    "tt": null,
-    "s": "Brezilya'nın ikinci büyük bankası Banco do Brasil, tarım kredilerinde 218 yıllık tarihinin en zorlu dönemini yaşıyor. Çiftçilerin ödeme güçlüğü ve artan kredi maliyetleri nedeniyle kâr beklentisini yarıya indiren bankanın hisseleri yüzde 13'e varan düşüş kaydetti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ciftcinin-borc-krizi-bankayi-sarsti-3794551",
-    "ts": 1794556833000,
-    "tags": []
-   },
-   {
-    "t": "Rusya, Ukrayna saldırılarında tarım ve gıda işletmelerini hedef alıyor",
-    "tt": null,
-    "s": "Rusya, Ukrayna'nın tarım ve gıda işleme tesislerine yönelik saldırılarını artırıyor. Ülkenin ihracat gelirlerinin yarısından fazlasını sağlayan sektörde, yılın ikinci yarısındaki ihracat kaybının 4,6 milyar dolara ulaşabileceği öngörülüyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/rusya-ukrayna-saldirilarinda-tarim-ve-gida-isletmelerini-hedef-aliyor-3794550",
-    "ts": 1794554615000,
-    "tags": []
-   },
-   {
-    "t": "İklim değişikliğine uyum çözümlerinde 1 trilyon dolarlık pazar",
-    "tt": null,
-    "s": "Dünya Ekonomik Forumu ve BCG'nin yeni raporuna göre, iklim değişikliğine uyum ve dayanıklılığı destekleyen 10 öncelikli ürün ve hizmet alt pazarının toplam yıllık küresel büyüklüğü 1 trilyon doları aşıyor. Tarım, inşaat, sigorta, soğutma teknolojileri ve su yönetimi gibi alanlarda 2030'a kadar öneml",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iklim-degisikligine-uyum-cozumlerinde-1-trilyon-dolarlik-pazar-3794549",
-    "ts": 1794554563000,
-    "tags": []
-   },
-   {
-    "t": "İnşaat üretimi Eylül'de azaldı",
-    "tt": null,
-    "s": "İnşaat üretimi Eylül'de aylık ve yıllık bazda geriledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/insaat-uretimi-eylulde-azaldi-3794543",
-    "ts": 1794553498000,
-    "tags": []
-   },
-   {
-    "t": "Piyasanın enflasyon beklentisinde ılımlı artış",
-    "tt": null,
-    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Kasım ayına ilişkin piyasa katılımcıları anketini yayımladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/piyasanin-enflasyon-beklentileri-3794534",
-    "ts": 1794553120000,
-    "tags": []
    }
   ]
  },
@@ -1000,7 +1003,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
