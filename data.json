@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-13T16:03:06.863704+00:00",
+ "generated": "2026-11-13T17:09:42.853979+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7518.65,
-   "c": -0.97,
-   "d": -73.75,
+   "p": 7540.72,
+   "c": -0.68,
+   "d": -51.68,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24941.906,
-   "c": -1.67,
-   "d": -424.184,
+   "p": 25065.818,
+   "c": -1.18,
+   "d": -300.272,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52183.56,
-   "c": -0.22,
-   "d": -113.53,
+   "p": 52247.87,
+   "c": -0.09,
+   "d": -49.22,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 20.26,
-   "c": 8.34,
-   "d": 1.56,
+   "p": 20.22,
+   "c": 8.13,
+   "d": 1.52,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3882.5,
-   "c": -0.07,
-   "d": -2.8,
+   "p": 3883.4,
+   "c": -0.05,
+   "d": -1.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.085,
-   "c": -1.77,
-   "d": -0.887,
+   "p": 48.955,
+   "c": -2.04,
+   "d": -1.017,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.83,
-   "c": 0.1,
-   "d": 0.09,
+   "p": 88.31,
+   "c": -0.48,
+   "d": -0.43,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.11,
-   "c": 0.3,
-   "d": 0.29,
+   "p": 95.62,
+   "c": -0.21,
+   "d": -0.2,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.341,
-   "c": 0.17,
-   "d": 0.171,
+   "p": 103.364,
+   "c": 0.19,
+   "d": 0.194,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.129,
-   "c": 0.51,
-   "d": 0.026,
+   "p": 5.137,
+   "c": 0.67,
+   "d": 0.034,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.3635,
+   "p": 50.3628,
    "c": 0.22,
-   "d": 0.11,
+   "d": 0.109,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 68810,
-   "c": -3.77,
+   "p": 68732,
+   "c": -4.1,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1932.83,
-   "c": -3.56,
+   "p": 1929.03,
+   "c": -3.85,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 79.94,
-   "c": -1.83,
+   "p": 79.6,
+   "c": -2.01,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.018,
-   "c": -0.59,
+   "p": 1.019,
+   "c": -0.45,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 632.36,
-   "c": -3.21,
+   "p": 631.89,
+   "c": -3.68,
    "k": "usd"
   }
  ],
@@ -494,54 +494,86 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
-    "tt": "ABD Toptan Satış Enflasyonu 2022'den Bu Yana En Hızlı Hıza Ulaştı",
-    "s": "US wholesale inflation climbed in October from a year earlier at the fastest pace since 2022, adding to evidence of persistent price pressures throughout the economy. Tani Fukui, Senior Director of Economic & Market Strategy at MetLife Investment Management, discusses consumer outlook and reacts to ",
-    "ss": "ABD toptan enflasyonu Ekim ayında bir önceki yılın aynı dönemine göre 2022'den bu yana en hızlı yükselişini gerçekleştirerek ekonomi genelinde devam eden fiyat baskılarına dair kanıtlara katkıda bulundu. MetLife Yatırım Yönetimi Ekonomi ve Piyasa Stratejisi Kıdemli Direktörü Tani Fukui, tüketicilerin bakış açısını tartışıyor ve",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/us-wholesale-inflation-hits-fastest-pace-since-2022-video",
-    "ts": 1794585647000,
+    "t": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
+    "tt": "Gelişmekte Olan Piyasa Varlıkları Çip Bozgunu Olarak Düşüyor, Fed Faiz Oranı Endişeleri Devam Ediyor",
+    "s": "Emerging-market assets fell on Friday as a rout in chipmakers weighed on equities and lingering concerns over the Federal Reserve’s rate path kept currencies under pressure.",
+    "ss": "Gelişmekte olan piyasa varlıkları Cuma günü, çip üreticilerindeki düşüşün hisse senetleri üzerinde baskı oluşturması ve Fed'in faiz politikasına ilişkin süregelen endişelerin para birimlerini baskı altında tutmasıyla düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+    "ts": 1794545627000,
     "tags": []
    },
    {
-    "t": "Patterson: For now, Iran has won the war",
-    "tt": "Patterson: Şimdilik savaşı İran kazandı",
-    "s": "With the Iran war appearing to de-escalate, energy-market pressure may linger. Iran could retain greater influence over the Strait of Hormuz, keeping shipping and insurance costs elevated even as oil flows resume. Charles Schwab Chief Investment Strategist Liz Ann Sonders and Council on Foreign Rela",
-    "ss": "İran savaşının hafiflemesi nedeniyle enerji piyasasındaki baskı devam edebilir. İran, petrol akışı devam ederken bile nakliye ve sigorta maliyetlerini yüksek tutarak Hürmüz Boğazı üzerinde daha fazla nüfuz sahibi olabilir. Charles Schwab Baş Yatırım Stratejisti Liz Ann Sonders ve Yabancı İlişkiler Konseyi",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/patterson-for-now-iran-has-won-the-war-video",
-    "ts": 1794585298000,
+    "t": "Cameron says Brexit did not cause UK's problems",
+    "tt": "Cameron, Brexit'in İngiltere'nin sorunlarına yol açmadığını söyledi",
+    "s": "The UK’s economic problems “have nothing to do with Brexit,” former Prime Minister David Cameron tells Mishal Husain. (Source: Bloomberg)",
+    "ss": "Eski Başbakan David Cameron, Mishal Husain'e, Birleşik Krallık'ın ekonomik sorunlarının \"Brexit'le hiçbir ilgisi olmadığını\" söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/cameron-says-brexit-did-not-cause-uk-s-problems-video",
+    "ts": 1794589491000,
     "tags": []
    },
    {
-    "t": "US Stocks Slide as Tech Concerns Linger Despite Rates Relief",
-    "tt": "ABD Vadeli İşlemleri Microsoft'un Kesintisi ve Üretici Fiyatlarına Odaklanmayla Kazanıyor",
-    "s": "US equities fell Friday as investors continue to evaluate the merits of the AI trade, even as wholesale inflation data helped ease fears of an outsized interest-rate hike.",
-    "ss": "Yatırımcıların Microsoft Corp.'taki küresel yazılım kesintisini, yapay zeka ticaretinin yönü hakkında daha fazla haberi ve ABD enflasyonu için bir sonraki barometreyi tartması nedeniyle ABD hisse senedi vadeli işlemleri Cuma günü erken saatlerde pek değişmedi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
-    "ts": 1794575952000,
+    "t": "Third Chicago CFO’s Surprise Exit Sparks Credit Rating Fears",
+    "tt": "Chicago CFO'sunun Üçüncü Sürpriz Çıkışı Kredi Notu Korkularını Ateşledi",
+    "s": "Chicago has lost its third chief financial officer this year, raising concerns about the city’s credit ratings as it scrambles to close an $882 million budget deficit.",
+    "ss": "Chicago'nun bu yıl üçüncü finans şefini kaybetmesi, 882 milyon dolarlık bütçe açığını kapatmaya çalışan şehrin kredi notlarıyla ilgili endişeleri artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/third-chicago-cfo-resigns-from-johnson-administration-this-year-mwf6350o",
+    "ts": 1794585860000,
+    "tags": []
+   },
+   {
+    "t": "The Billion-Dollar Business of Virtual Schools",
+    "tt": "Sanal Okulların Milyar Dolarlık İşi",
+    "s": "US online public schools are enrolling more students than they did during the pandemic, and nowhere has the expansion happened faster than in Texas. But what does this trend mean for the education students receive? (Source: Bloomberg)",
+    "ss": "ABD'deki çevrimiçi devlet okulları salgın sırasında olduğundan daha fazla öğrenci alıyor ve genişleme hiçbir yerde Teksas'taki kadar hızlı olmadı. Peki bu eğilim öğrencilerin aldıkları eğitim açısından ne anlama geliyor? (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/the-billion-dollar-business-of-virtual-schools-video",
+    "ts": 1794588973000,
+    "tags": []
+   },
+   {
+    "t": "K-Beauty Boom Becomes Wall Street’s Latest Investment Play",
+    "tt": "K-Beauty Boom Wall Street'in En Son Yatırım Oyunu Oldu",
+    "s": "Korean beauty products have long filled American medicine cabinets. Now, a new exchange-traded fund is set to test whether there’s room for them in US investors’ portfolios as well.",
+    "ss": "Kore güzellik ürünleri uzun süredir Amerikan ecza dolaplarını dolduruyor. Şimdi yeni bir borsa yatırım fonu, ABD'li yatırımcıların portföylerinde de bunlara yer olup olmadığını test edecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/k-beauty-boom-becomes-wall-street-s-latest-investment-play",
+    "ts": 1794588953000,
+    "tags": []
+   },
+   {
+    "t": "Compass Sues Multiple Listing Services, Upping Antitrust Row",
+    "tt": "Compass Çoklu Listeleme Hizmetlerine Dava Açtı, Antitröst Sırasını Arttırdı",
+    "s": "A feud over how consumers can buy and sell homes escalated on Thursday with a slew of antitrust lawsuits filed across the country by the top US broker for residential properties.",
+    "ss": "Tüketicilerin nasıl ev alıp satabilecekleri konusundaki çekişme, Perşembe günü ABD'nin önde gelen konut emlak komisyoncusu tarafından ülke çapında açılan bir dizi antitröst davasıyla daha da arttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/compass-sues-multiple-listing-services-ramping-up-antitrust-row",
+    "ts": 1794523712000,
+    "tags": []
+   },
+   {
+    "t": "Dollar Poised for Best Week in Over a Month on Fed Hike Bets",
+    "tt": "Dolar, Fed'in Artış Bahisleriyle Bir Aydan Fazla Bir Sürenin En İyi Haftasına Hazırlanıyor",
+    "s": "The dollar is heading for its strongest weekly advance in more than a month, extending a rally fueled by growing expectations that the Federal Reserve will increase interest rates next month.",
+    "ss": "Dolar, Fed'in gelecek ay faiz oranlarını artıracağına dair artan beklentilerin körüklediği yükselişini sürdürerek, bir aydan fazla bir sürenin en güçlü haftalık yükselişine doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/dollar-poised-for-best-week-in-over-a-month-on-fed-hike-bets",
+    "ts": 1794588262000,
     "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
+     "DXY ▲"
     ]
    },
    {
-    "t": "Finance Experts Reveal Lessons for Investors",
-    "tt": "Finans Uzmanları Yatırımcılara Dersler Açıkladı",
-    "s": "In a world of 24/7 trading, options and investing apps, Charles Schwab Chief Investment Strategist Liz Ann Sonders and Council on Foreign Relations Senior Fellow Rebecca Patterson join Bloomberg Open Interest to talk about their new book, “Investment Wisdom for Our Friends and Loved Ones: Timeless L",
-    "ss": "7/24 ticaret, opsiyonlar ve yatırım uygulamalarının olduğu bir dünyada, Charles Schwab Baş Yatırım Stratejisti Liz Ann Sonders ve Dış İlişkiler Konseyi Kıdemli Üyesi Rebecca Patterson, yeni kitapları \"Arkadaşlarımız ve Sevdiklerimiz için Yatırım Bilgeliği: Zamansız L\" hakkında konuşmak için Bloomberg Open Interest'e katıldı.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/finance-experts-reveal-lessons-for-investors-video",
-    "ts": 1794585238000,
+    "t": "Ecopetrol in Talks for 10-Year Venezuela Gas Supply Deal",
+    "tt": "Ecopetrol, Venezuela'ya 10 Yıllık Gaz Tedarik Anlaşması İçin Görüşmelerde",
+    "s": "Ecopetrol SA is negotiating a 10-year agreement to buy natural gas from Venezuela as Colombia’s state oil company explores opportunities to expand in the neighboring country.",
+    "ss": "Ecopetrol SA, Kolombiya'nın devlet petrol şirketi komşu ülkede genişleme fırsatlarını araştırırken Venezuela'dan doğal gaz satın almak için 10 yıllık bir anlaşma müzakere ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/ecopetrol-in-talks-for-10-year-venezuela-gas-supply-deal",
+    "ts": 1794587757000,
     "tags": []
    },
    {
-    "t": "Fed's Collins Says Additional Policy Tightening Is Appropriate",
-    "tt": "Fed'den Collins Ek Politika Sıkılaştırmasının Uygun Olduğunu Söyledi",
-    "s": "Federal Reserve Bank of Boston President Susan Collins says recent data show inflation is too high and broadening. Speaking with Michael McKee on \"Bloomberg Open Interest,\" Collins adds that because of the increasing inflation risks, more rate tightening is needed. (Source: Bloomberg)",
-    "ss": "Boston Federal Rezerv Bankası Başkanı Susan Collins, son verilerin enflasyonun çok yüksek olduğunu ve genişlediğini gösterdiğini söyledi. \"Bloomberg Açık Faiz\" konusunda Michael McKee ile konuşan Collins, artan enflasyon riskleri nedeniyle daha fazla faiz sıkılaştırmasının gerekli olduğunu ekliyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-says-additional-policy-firming-appropriate-video",
-    "ts": 1794584972000,
+    "t": "Bond Investors Expect More Pain After Week of Soaring Yields",
+    "tt": "Tahvil Yatırımcıları Yükselen Getiri Haftasının Ardından Daha Fazla Ağrı Bekliyor",
+    "s": "Just when global bond investors were starting to believe the worst of this year’s rout was over, surging Treasury yields are making them think again.",
+    "ss": "Küresel tahvil yatırımcıları tam da bu yılın en kötü döneminin geride kaldığına inanmaya başlamışken, artan Hazine getirileri onları yeniden düşünmeye sevk ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
+    "ts": 1794549617000,
     "tags": []
    },
    {
@@ -558,42 +590,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed",
-    "tt": "Çin'den Gelen Antropik Halka Arz Hissesi Emirlerinin Reddedildiği Söyleniyor",
-    "s": "Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBC’s initial public offering, according to people familiar with the matter, highlighting the sensitivities around an industry both Washington and Beijing consider strategic.",
-    "ss": "Konuya aşina olan kaynaklara göre, Çin ana karası ve Hong Kong'da yerleşik kurumsal yatırımcılar, Anthropic PBC'nin ilk halka arzında sipariş vermekten men edildi; bu durum, hem Washington hem de Pekin'in stratejik olarak değerlendirdiği bir sektördeki hassasiyetlerin altını çizdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
-    "ts": 1794584247000,
-    "tags": []
-   },
-   {
-    "t": "Raw Sugar Heads for Weekly Rise With India, Brazil in Focus",
-    "tt": "Ham Şeker, Hindistan ve Brezilya Odak Noktasında Haftalık Yükselişe Gidiyor",
-    "s": "Raw sugar futures headed for a weekly gain, capping a volatile week as traders looked for signals on the scale and timing of potential imports by India and the state of the weather in Brazil, the world’s top producer.",
-    "ss": "Ham şeker vadeli işlemleri, tüccarların Hindistan'ın potansiyel ithalatının ölçeği ve zamanlaması ile dünyanın bir numaralı üreticisi olan Brezilya'daki hava durumuna ilişkin sinyaller aramasıyla dalgalı bir haftayı sonlandırarak haftalık yükselişe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/raw-sugar-heads-for-weekly-rise-with-india-imports-in-focus",
-    "ts": 1794578652000,
-    "tags": []
-   },
-   {
-    "t": "Wall Street Regulator Finra Moves to Give Industry Bigger Role",
-    "tt": "Wall Street Düzenleyicisi Finra, Sektöre Daha Büyük Bir Rol Vermek İçin Harekete Geçiyor",
-    "s": "The Financial Industry Regulatory Authority wants to give the industry it helps regulate a bigger role in its oversight, proposing the first major shakeup in decades to the Wall Street watchdog’s governing board.",
-    "ss": "Finans Endüstrisi Düzenleme Otoritesi, düzenlemeye yardımcı olduğu sektöre gözetiminde daha büyük bir rol vermek istiyor ve Wall Street gözlemcisinin yönetim kuruluna on yıllardır ilk büyük değişikliği teklif ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-regulator-finra-moves-to-give-industry-bigger-role",
-    "ts": 1794584005000,
-    "tags": []
-   },
-   {
-    "t": "Senegal Picks Deloitte to Audit Debt as It Seeks IMF Loan Pact",
-    "tt": "Senegal, IMF Kredi Anlaşması İsteyen Deloitte'u Borç Denetimi İçin Seçti",
-    "s": "Senegal selected Deloitte to audit its public debt, according to people familiar with the matter, taking a step toward meeting conditions for a proposed $2.2 billion International Monetary Fund program.",
-    "ss": "Konuya aşina kaynaklara göre Senegal, kamu borcunu denetlemek için Deloitte'u seçti ve önerilen 2,2 milyar dolarlık Uluslararası Para Fonu programının koşullarını karşılama yönünde bir adım attı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/senegal-picks-deloitte-to-audit-debt-as-it-seeks-imf-loan-pact",
-    "ts": 1794583247000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -695,6 +691,60 @@
   ],
   "MarketWatch": [
    {
+    "t": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
+    "tt": "Çığlık atan bir pazarlık için Nvidia'nın hisselerinin ne kadar düşmesi gerekiyor?",
+    "s": "Also in Weekend Reads: Other AI stocks, tips for open-enrollment season and advice from the Moneyist.",
+    "ss": "Ayrıca Hafta Sonu Okumalarında: Diğer AI hisse senetleri, açık kayıt sezonu için ipuçları ve Moneyist'ten tavsiyeler.",
+    "u": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
+    "ts": 1794589620000,
+    "tags": []
+   },
+   {
+    "t": "If you could change one thing about caregiving, what would it be?",
+    "tt": "Bakım vermeyle ilgili bir şeyi değiştirebilseydiniz bu ne olurdu?",
+    "s": "‘Take Me Home’ offers a view of how one family faces caregiving issues and finds solutions.",
+    "ss": "'Beni Eve Götür' bir ailenin bakım sorunlarıyla nasıl karşılaştığına ve çözüm bulduğuna dair bir bakış sunuyor.",
+    "u": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
+    "ts": 1794589260000,
+    "tags": []
+   },
+   {
+    "t": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
+    "tt": "SpaceX roketçiliğin 'kutsal kasesini' denemek üzere",
+    "s": "“It’s hard to overstate the significance” of the Starship launch scheduled to take place on Friday, analyst says",
+    "ss": "Analist, Cuma günü gerçekleşmesi planlanan Starship lansmanının \"önemini abartmanın zor\" olduğunu söylüyor",
+    "u": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
+    "ts": 1794588840000,
+    "tags": []
+   },
+   {
+    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
+    "s": "There is already a demographic ‘run’ on Social Security.",
+    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
+    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "ts": 1794587400000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+    "tt": "Nvidia'nın hisseleri 14 yıldır görülmemiş bir kayıp serisi yaşıyor. Sırada ne var?",
+    "s": "Nvidia has wiped out $657 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+    "ss": "Nvidia bu hafta piyasa değerinden 657 milyar doları sildi; art arda altıncı hafta hisse senedi düşüşlerini yaşadı.",
+    "u": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+    "ts": 1794587160000,
+    "tags": []
+   },
+   {
+    "t": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+    "tt": "Arabasında yaşamaktan 756 kredi puanına: Bir emektar mali durumunu nasıl yeniden inşa etti?",
+    "s": "Many service members face an often invisible financial trap when they step out of uniform.",
+    "ss": "Pek çok asker, üniformalarını çıkardıklarında çoğunlukla görünmez bir mali tuzakla karşı karşıya kalıyor.",
+    "u": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+    "ts": 1794586200000,
+    "tags": []
+   },
+   {
     "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
     "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
     "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
@@ -729,63 +779,63 @@
     "u": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
     "ts": 1794584640000,
     "tags": []
-   },
-   {
-    "t": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-    "tt": "17 yaşındayım ve birinci nesil üniversite öğrencisi olacağım. Hukuk fakültesi 200.000 dolar borca ​​girmeye değer mi?",
-    "s": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
-    "ss": "\"Hukuk öncesi bir bölüm düşünüyorum... Hukuk fakültesinin pahalı olmasından dolayı biraz tereddütlüyüm.\"",
-    "u": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
-    "ts": 1794584220000,
-    "tags": []
-   },
-   {
-    "t": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-    "tt": "'Planlarıma fantezi diyor': Kocam, yıllık 200.000 dolarlık emekliliği karşılayamayacağımızı söylüyor. Ucuz mu davranıyor?",
-    "s": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-    "ss": "“Emeklilik hesaplarımızda birikmiş 2 milyon dolarımız ve 1,3 milyon dolar değerinde bir evimiz var.”",
-    "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "ts": 1794583800000,
-    "tags": []
-   },
-   {
-    "t": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-    "tt": "'Finansal kötü yönetim geçmişi var': Kardeşim, kız kardeşimizi vasiyetinden çıkardı. Her şeyi alacağım. Ona söyleyeyim mi?",
-    "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-    "ss": "\"Kardeşimin isteklerine saygı duymakla kız kardeşime karşı adil olmak arasında kaldım.\"",
-    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "ts": 1794582900000,
-    "tags": []
-   },
-   {
-    "t": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
-    "tt": "Sağlık sigortasına fazla mı para ödüyorum? Bu açık kayıt sezonundaki kilit soruya nasıl cevap verilir?",
-    "s": "More people want to understand the fine print on plans this year, financial planners say.",
-    "ss": "Mali planlamacılar, bu yıl daha fazla insanın planların ayrıntılarını anlamak istediğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-    "ts": 1794582660000,
-    "tags": []
-   },
-   {
-    "t": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
-    "tt": "Fiyatlar tüm zamanların en yüksek seviyesine ulaşırken ev satışları 'Büyük Durgunluk'tan bu yana en düşük seviyesine geriledi",
-    "s": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
-    "ss": "Alıcıların yüzde 7'lik ipotek faizleri karşısında konut piyasasından kaçmasıyla ev satışları Ekim ayında 16 yılın en düşük seviyesine geriledi.",
-    "u": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
-    "ts": 1794582480000,
-    "tags": []
-   },
-   {
-    "t": "The 2027 401(k) limits are here. See how much more you can save next year.",
-    "tt": "2027 401(k) sınırları buradadır. Gelecek yıl ne kadar daha fazla tasarruf edebileceğinizi görün.",
-    "s": "Defined-contribution plans are getting a bump. IRA savers are not.",
-    "ss": "Tanımlanmış katkı planları artış gösteriyor. IRA koruyucuları değildir.",
-    "u": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
-    "ts": 1794582180000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Most Americans, Including Republicans, Want Congress To Pass Legislation To End Iran War; New Poll Finds",
+    "tt": "Cumhuriyetçiler de dahil olmak üzere çoğu Amerikalı, Kongre'nin İran Savaşını Sonlandıracak Yasayı Geçirmesini İstiyor; Yeni Anket Bulguları",
+    "s": "Most Americans, Including Republicans, Want Congress To Pass Legislation To End Iran War; New Poll Finds Authored by Dave DeCamp via Antiwar.com , A new poll from Reuters/Ipsos has found that a majority of US adults, including the majority of Republicans, want Congress to pass legislation to end the",
+    "ss": "Cumhuriyetçiler de dahil olmak üzere çoğu Amerikalı, Kongre'nin İran Savaşını Sonlandıracak Yasayı Geçirmesini İstiyor; Yeni Anket Bulguları Yazar: Antiwar.com aracılığıyla Dave DeCamp , Reuters/Ipsos tarafından yapılan yeni bir anket, Cumhuriyetçilerin çoğunluğu da dahil olmak üzere ABD'li yetişkinlerin çoğunluğunun, Kongre'nin savaşa son verecek yasayı geçirmesini istediğini ortaya çıkardı.",
+    "u": "https://www.zerohedge.com/political/most-americans-including-republicans-want-congress-pass-legislation-end-iran-war-new-poll",
+    "ts": 1794589800000,
+    "tags": []
+   },
+   {
+    "t": "Watch Live: Anthropic's Dario Amodei Joins JPMorgan's Jamie Dimon To Pitch Record IPO",
+    "tt": "Canlı İzle: Anthropic'ten Dario Amodei, Pitch Record Halka Arzında JPMorgan'dan Jamie Dimon'a Katıldı",
+    "s": "Watch Live: Anthropic's Dario Amodei Joins JPMorgan's Jamie Dimon To Pitch Record IPO Anthropic is streaming a fireside chat today at 12 PM ET between CEO Dario Amodei and JPMorgan Chase CEO Jamie Dimon as part of the marketing push for what is shaping up to be one of the largest IPOs on record.&nbs",
+    "ss": "Canlı İzle: Anthropic'ten Dario Amodei, Pitch Record IPO'su İçin JPMorgan'dan Jamie Dimon'a Katıldı Anthropic, kayıtlardaki en büyük halka arzlardan biri olma yolunda ilerleyen pazarlama hamlesinin bir parçası olarak, bugün saat 12:00 ET'de CEO Dario Amodei ile JPMorgan Chase CEO'su Jamie Dimon arasında bir şömine başı sohbeti yayınlıyor.&nbs",
+    "u": "https://www.zerohedge.com/technology/watch-live-anthropics-dario-amodei-joins-jpmorgans-jamie-dimon-pitch-record-ipo",
+    "ts": 1794589200000,
+    "tags": []
+   },
+   {
+    "t": "\"Irresponsible & Dangerous\": Bessent Slams WSJ Over Publishing Photo Of Home As IRGC Threats Force Move To Military Base",
+    "tt": "\"Sorumsuz ve Tehlikeli\": Bessent, Devrim Muhafızları'nın Askeri Üsse Taşınmayı Zorlayacağını Tehdit Ederken Evin Fotoğrafını Yayınlayan WSJ'yi Eleştirdi",
+    "s": "\"Irresponsible &amp; Dangerous\": Bessent Slams WSJ Over Publishing Photo Of Home As IRGC Threats Force Move To Military Base Treasury Secretary Scott Bessent joined CNBC earlier this morning to describe why the Secret Service has relocated him from his Washington, DC, home following Iranian death th",
+    "ss": "\"Sorumsuz ve Tehlikeli\": Bessent, Devrim Muhafızları'nın Askeri Üsse Taşınmasını Tehdit Ederken Evin Fotoğrafını Yayınlayan WSJ'yi Eleştirdi Hazine Bakanı Scott Bessent, bu sabah erken saatlerde CNBC'ye katılarak Gizli Servis'in İran'ın ölümünün ardından kendisini Washington DC'den neden başka bir yere taşıdığını anlattı.",
+    "u": "https://www.zerohedge.com/markets/irresponsible-dangerous-bessent-slams-wsj-over-publishing-photo-home-irgc-threats-force",
+    "ts": 1794588900000,
+    "tags": []
+   },
+   {
+    "t": "Dem Lawmakers Launch New Probe Of RFK Jr.",
+    "tt": "Demokrat Milletvekilleri RFK Jr. Hakkında Yeni Soruşturma Başlattı",
+    "s": "Dem Lawmakers Launch New Probe Of RFK Jr. Authored by Zachary Stieber via The Epoch Times , Democratic lawmakers have begun new probes into Health Secretary Robert F. Kennedy Jr., including whether he lied to Congress. One investigation looks into Kennedy's testimony during confirmation hearings in ",
+    "ss": "Demokrat Milletvekilleri RFK Jr. Hakkında Yeni Soruşturma Başlattı Zachary Stieber tarafından The Epoch Times aracılığıyla yazılan Demokrat milletvekilleri, Sağlık Bakanı Robert F. Kennedy Jr. hakkında Kongre'ye yalan söyleyip söylemediği de dahil olmak üzere yeni soruşturmalar başlattı. Bir soruşturma, Kennedy'nin onay duruşmaları sırasındaki ifadesini inceliyor.",
+    "u": "https://www.zerohedge.com/political/dem-lawmakers-launch-new-probe-rfk-jr",
+    "ts": 1794588000000,
+    "tags": []
+   },
+   {
+    "t": "Fresh Off Turning Down Trump, Dana White Finds Himself In A Fight With... 'Power Spank'",
+    "tt": "Trump'ı Yeni Reddeden Dana White Kendini Bir Kavganın İçinde Buluyor... 'Güç Şaplak'",
+    "s": "Fresh Off Turning Down Trump, Dana White Finds Himself In A Fight With... 'Power Spank' Power Slap, the slap-fighting league co-owned by UFC CEO Dana White, has sent a cease-and-desist letter demanding that Lingerie Fighting Championships stop using the name \"Power Spank\" - the lingerie promotion's ",
+    "ss": "Trump'ı Yeni Reddeden Dana White Kendini Bir Kavganın İçinde Buluyor... 'Power Spank' UFC CEO'su Dana White'ın ortak sahibi olduğu tokatla mücadele ligi Power Slap, Lingerie Fighting Championships'in iç çamaşırı promosyonunun adı olan \"Power Spank\" adını kullanmayı bırakmasını talep eden bir durdurma ve vazgeçme mektubu gönderdi.",
+    "u": "https://www.zerohedge.com/personal-finance/fresh-turning-down-trump-dana-white-finds-himself-fight-power-spank",
+    "ts": 1794587100000,
+    "tags": []
+   },
+   {
+    "t": "'Speechless At The Dysfunction': Ebola 'Out Of Control' In Congo As Deaths Top 5,400",
+    "tt": "'İşlev Bozukluğunda Suskun': Kongo'da Ebola 'Kontrolden Çıktı', İlk 5.400 Ölüm",
+    "s": "'Speechless At The Dysfunction': Ebola 'Out Of Control' In Congo As Deaths Top 5,400 Authored by Victoria Friedman via The Epoch Times , Congo's Ebola outbreak remains out of control six months into the response , Médecins Sans Frontières (MSF) has said, with there being a disconnect between the res",
+    "ss": "Sınır Tanımayan Doktorlar (MSF), \"İşlev Bozukluğunda Konuşulmuyor\": Ebola Ölümlerin İlk 5.400'ünde Kongo'da \"Kontrolden Çıktı\" Victoria Friedman tarafından The Epoch Times aracılığıyla yazılan Sınır Tanımayan Doktorlar (MSF), Kongo'daki Ebola salgınının müdahalenin üzerinden altı ay geçmesine rağmen kontrolden çıktığını ve resmî kaynaklar arasında bir kopukluk bulunduğunu söyledi.",
+    "u": "https://www.zerohedge.com/medical/speechless-dysfunction-ebola-out-control-congo-deaths-top-5400",
+    "ts": 1794586200000,
+    "tags": []
+   },
    {
     "t": "First-Take On Almonty Earnings: \"Sangdong Ramping, With First Cargo Loaded\"",
     "tt": "Almonty Kazançlarında İlk Alım: \"İlk Kargo Yüklendiğinde Sangdong Rampalanıyor\"",
@@ -821,63 +871,27 @@
     "u": "https://www.zerohedge.com/political/ice-sets-all-time-records-483200-deported-arrests-nearly-double",
     "ts": 1794581700000,
     "tags": []
-   },
-   {
-    "t": "\"Commerce Has The Pen\": Bessent Throws Lutnick Under The Bus Amid Agreement To Testify In Nvidia Spy Scandal",
-    "tt": "\"Kalem Ticarette\": Bessent, Nvidia Casus Skandalında İfade Verme Anlaşmasının Ortasında Lutnick'i Otobüsün Altına Attı",
-    "s": "\"Commerce Has The Pen\": Bessent Throws Lutnick Under The Bus Amid Agreement To Testify In Nvidia Spy Scandal Treasury Secretary Scott Bessent on Friday publicly pinned the failure to blacklist Megaspeed on Howard Lutnick's Commerce Department , as Lutnick agreed to testify before the Senate Banking ",
-    "ss": "\"Kalem Ticarette\": Bessent, Nvidia Casus Skandalı Konusunda İfade Verme Anlaşmasının Ortasında Lutnick'i Otobüsün Altına Attı Hazine Bakanı Scott Bessent Cuma günü, Lutnick'in Senato Bankacılık önünde ifade vermeyi kabul ettiği gibi, Megaspeed'in kara listeye alınmamasını Howard Lutnick'in Ticaret Departmanına yükledi.",
-    "u": "https://www.zerohedge.com/political/commerce-has-pen-bessent-throws-lutnick-under-bus-amid-agreement-testify-nvidia-spy",
-    "ts": 1794580800000,
-    "tags": []
-   },
-   {
-    "t": "Soaring Electricity Costs Force Britain To Rethink Its Green Agenda",
-    "tt": "Artan Elektrik Maliyetleri Britanya'yı Yeşil Gündemini Yeniden Düşünmeye Zorluyor",
-    "s": "Soaring Electricity Costs Force Britain To Rethink Its Green Agenda Via City A.M., Labour is making affordable energy a central priority as high electricity prices undermine British industrial competitiveness. Decisions on North Sea drilling and electric vehicle targets are testing the government's ",
-    "ss": "Artan Elektrik Maliyetleri Britanya'yı City A.M. aracılığıyla Yeşil Gündemini Yeniden Düşünmeye Zorluyor Yüksek elektrik fiyatları Britanya'nın endüstriyel rekabet gücünü zayıflatırken, İşçi Partisi uygun fiyatlı enerjiyi merkezi bir öncelik haline getiriyor. Kuzey Denizi sondajı ve elektrikli araç hedeflerine ilişkin kararlar hükümetin testini yapıyor",
-    "u": "https://www.zerohedge.com/personal-finance/soaring-electricity-costs-force-britain-rethink-its-green-agenda",
-    "ts": 1794580500000,
-    "tags": []
-   },
-   {
-    "t": "Something Big Brewing: Mossad Chief Meets With CIA Director In DC, Oil Spikes",
-    "tt": "Büyük Bir Gelişme Geliyor: Mossad Şefi DC'de CIA Direktörüyle Buluşuyor, Petrol Yükselişleri",
-    "s": "Something Big Brewing: Mossad Chief Meets With CIA Director In DC, Oil Spikes President Trump has since the Republicans' midterm thrashing played down the prospect of renewed major war on Iran .&nbsp; But he also on Thursday stated the United States does not need a deal with Tehran, which suggests a",
-    "ss": "Büyük Gelişmeler: Mossad Şefi DC'de CIA Direktörüyle Görüştü, Petrol Yükselişleri Başkan Trump, Cumhuriyetçilerin ara dönem sert tavrından bu yana İran'a karşı yeni bir büyük savaş ihtimalini küçümsedi.  Ancak perşembe günü ABD'nin Tahran'la bir anlaşmaya ihtiyacı olmadığını da belirtti.",
-    "u": "https://www.zerohedge.com/geopolitical/something-big-brewing-mossad-chief-meets-cia-director-dc-oil-spikes",
-    "ts": 1794579600000,
-    "tags": []
-   },
-   {
-    "t": "Helsinki Warns Ukraine Against Expanding War Into Gulf Of Finland After Russian Warship Struck",
-    "tt": "Helsinki, Rus Savaş Gemisinin Çarpmasının Ardından Savaşın Finlandiya Körfezi'ne Genişletilmesine Karşı Ukrayna'yı Uyardı",
-    "s": "Helsinki Warns Ukraine Against Expanding War Into Gulf Of Finland After Russian Warship Struck In a rare moment of the Ukraine war spilling far outside its boundaries into the north, Finland's military on Thursday alerted the world that its military detected a rare strike on a Russian navy vessel in",
-    "ss": "Helsinki, Rus Savaş Gemisinin Çarpmasının Ardından Ukrayna'yı Savaşın Finlandiya Körfezi'ne Genişletilmesine Karşı Uyardı Ukrayna savaşının sınırlarının çok dışına çıkıp kuzeye doğru yayıldığı ender bir anda, Finlandiya ordusu Perşembe günü dünyayı, ordusunun Rusya'ya ait bir donanma gemisine nadir görülen bir saldırı tespit ettiği konusunda uyardı.",
-    "u": "https://www.zerohedge.com/geopolitical/helsinki-warns-ukraine-against-expanding-war-gulf-finland-after-russian-warship-struck",
-    "ts": 1794578700000,
-    "tags": []
-   },
-   {
-    "t": "Blanche Says DOJ Has Not Confirmed If Ex-Nvidia CEO's Affair Partner Was A Spy",
-    "tt": "Blanche, Eski Nvidia CEO'sunun İlişki Ortağının Casus Olup Olmadığını Adalet Bakanlığı'nın Onaylamadığını Söyledi",
-    "s": "Blanche Says DOJ Has Not Confirmed If Ex-Nvidia CEO's Affair Partner Was A Spy Authored by Jacki Thrapp via The Epoch Times , Attorney General Todd Blanche said neither the Department of Justice (DOJ) nor the FBI has confirmed whether a woman associated with ex-Nvidia CEO Jensen Huang was a Chinese ",
-    "ss": "Blanche, DOJ'un Eski Nvidia CEO'sunun İlişki Ortağının Casus Olup Olmadığını Doğrulamadığını Söyledi Jacki Thrapp tarafından The Epoch Times aracılığıyla yazılan Başsavcı Todd Blanche, ne Adalet Bakanlığı'nın (DOJ) ne de FBI'ın eski Nvidia CEO'su Jensen Huang ile bağlantılı bir kadının Çinli olup olmadığını doğrulamadığını söyledi",
-    "u": "https://www.zerohedge.com/political/blanche-says-doj-has-not-confirmed-if-ex-nvidia-ceos-affair-partner-was-spy",
-    "ts": 1794577800000,
-    "tags": []
-   },
-   {
-    "t": "Rate-Hike Odds Steady As Food & AI Lift Producer Price Inflation To 4 Year High",
-    "tt": "Gıda ve Yapay Zeka Üretici Fiyat Enflasyonunu 4 Yılın En Yüksek Seviyesine Çıkarırken Faiz Artışı Oranları Sabit",
-    "s": "Rate-Hike Odds Steady As Food &amp; AI Lift Producer Price Inflation To 4 Year High After the hotter-than-expected CPI earlier in the week , wholesale inflation was expected to accelerate at a slower pace in October (relative to the +1.3% MoM surge in September). Headline Producer Prices printed jus",
-    "ss": "Gıda ve Yapay Zeka Üretici Fiyat Enflasyonunu 4 Yılın En Yüksek Seviyesine Çıkarırken Faiz Artış Oranları Sabit Hafta başında beklenenden daha yüksek seyreden TÜFE'nin ardından, toptan enflasyonun Ekim ayında daha yavaş bir hızda artması bekleniyordu (Eylül ayındaki aylık +%1,3 artışa kıyasla). Başlık Üretici Fiyatları Temmuz ayında basıldı",
-    "u": "https://www.zerohedge.com/markets/rate-hike-odds-steady-energy-ai-lift-producer-price-inflation-4-year-high",
-    "ts": 1794577200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Bessent: Hazine aylardır Megaspeed'in kara listeye alınmasını destekliyor",
+    "tt": null,
+    "s": "ABD Hazine Bakanı Scott Bessent, Hazine Bakanlığının Singapur merkezli Megaspeed'in ihracat kısıtlamalarına tabi şirketlerin yer aldığı kara listeye alınmasını aylardır desteklediğini söyledi. Karar yetkisinin Ticaret Bakanlığında olduğunu belirten Bessent, Nvidia'nın paravan şirketlere satış yapıp ",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bessent-hazine-aylardir-megaspeed-in-kara-listeye-alinmasini-destekliyor-3794639",
+    "ts": 1794588785000,
+    "tags": []
+   },
+   {
+    "t": "OpenAI, yapay zekayla alışveriş için ChatGPT Wallet'ı kullanıma sundu",
+    "tt": null,
+    "s": "OpenAI, yapay zeka ajanlarının kullanıcıların kart bilgilerine erişmeden alışveriş ödemesi yapmasını sağlayan ChatGPT Wallet'ı kullanıma sundu. İlk aşamada ABD'deki uygun ChatGPT Pro abonelerine sunulacak hizmette kullanıcıların her işlemi güvenlik doğrulamasıyla onaylaması gerekecek.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/openai-odeme-yapabilen-chatgpt-wallet-i-duyurdu-3794638",
+    "ts": 1794587700000,
+    "tags": []
+   },
    {
     "t": "QNB/Ömür Tan: Karbon dönüşümünü gerçekleştiremeyen şirketler rekabet avantajını kaybeder",
     "tt": null,
@@ -948,24 +962,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/tasfiye-edilen-119-fonda-yatirimcilara-161-milyar-tl-odeme-yapildi-3794618",
     "ts": 1794576867000,
-    "tags": []
-   },
-   {
-    "t": "Akbank'tan sürdürülebilir finansmanda üç imza",
-    "tt": null,
-    "s": "Akbank, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31), yeşil yatırımlar, mavi ekonomi ve dış ticaret finansmanını desteklemek amacıyla üç uluslararası anlaşmaya imza attı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/akbank-tan-surdurulebilir-finansmanda-uc-imza-3794606",
-    "ts": 1794576105000,
-    "tags": []
-   },
-   {
-    "t": "Akbank Genel Müdürü Gür: 2,5 trilyon TL'lik finansman hedefimizin yüzde 50'si sanayi dönüşümü için",
-    "tt": null,
-    "s": "Akbank Genel Müdürü Kaan Gür, COP31 zirvesinde Bloomberg HT'ye verdiği özel söyleşide sürdürülebilirlik finansman konusunda kapsamlı değerlendirmelerde bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/akbank-genel-muduru-gur-2-5-trilyon-tl-lik-finansman-hedefimizin-yuzde-50-si-sanayi-donusumu-icin-3794600",
-    "ts": 1794575297000,
     "tags": []
    }
   ]
