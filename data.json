@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T11:44:02.890571+00:00",
+ "generated": "2026-11-13T12:48:18.243328+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.39,
-   "c": -1.66,
-   "d": -0.31,
+   "p": 18.26,
+   "c": -2.35,
+   "d": -0.44,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3890.8,
-   "c": 0.14,
-   "d": 5.5,
+   "p": 3893.7,
+   "c": 0.22,
+   "d": 8.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.765,
-   "c": -0.41,
-   "d": -0.207,
+   "p": 49.905,
+   "c": -0.13,
+   "d": -0.067,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.51,
-   "c": -0.26,
-   "d": -0.23,
+   "p": 88.78,
+   "c": 0.05,
+   "d": 0.04,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.98,
-   "c": 0.17,
-   "d": 0.16,
+   "p": 96.46,
+   "c": 0.67,
+   "d": 0.64,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.225,
+   "p": 103.226,
    "c": 0.05,
-   "d": 0.055,
+   "d": 0.056,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3626,
+   "p": 50.3627,
    "c": 0.22,
    "d": 0.109,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11855.66,
-   "c": 0.38,
-   "d": 44.46,
+   "p": 11897.48,
+   "c": 0.73,
+   "d": 86.28,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 69245,
-   "c": -5.0,
+   "p": 69265,
+   "c": -4.96,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1959.15,
-   "c": -3.31,
+   "p": 1961.15,
+   "c": -2.96,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 80.55,
-   "c": -2.3,
-   "k": "usd"
-  },
-  {
-   "n": "XRP",
-   "p": 1.02,
+   "p": 80.76,
    "c": -1.77,
    "k": "usd"
   },
   {
+   "n": "XRP",
+   "p": 1.022,
+   "c": -1.54,
+   "k": "usd"
+  },
+  {
    "n": "BNB",
-   "p": 639.08,
-   "c": -3.82,
+   "p": 641.38,
+   "c": -2.82,
    "k": "usd"
   }
  ],
@@ -504,6 +504,82 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Gain as Fed Bets Face Fresh Inflation Test: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
+    "s": "US stocks were set to open higher as traders waited for fresh inflation data to cap a week that was marked by a sharp rise in interest-rate hike expectations and Jensen Huang’s ouster from Nvidia Corp.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794521833000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Big Oil’s War-Fueled Profits Revive Calls for Windfall Taxes",
+    "tt": "Big Oil'in Savaşla Sağlanan Karları Beklenmedik Vergi Çağrılarını Yeniden Canlandırdı",
+    "s": "The five supermajors are on track for their second-most profitable year ever.",
+    "ss": "Beş süper büyük, şimdiye kadarki en karlı ikinci yıllarına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-13/big-oil-s-war-fueled-profits-revive-calls-for-windfall-taxes",
+    "ts": 1794573648000,
+    "tags": []
+   },
+   {
+    "t": "Global Equity Funds Draw Record Inflows, BofA Strategists Say",
+    "tt": "BofA Stratejistleri, Küresel Hisse Fonlarının Rekor Girişler Çektiğini Söyledi",
+    "s": "Global equity funds are attracting record inflows this year, with few investors willing to make bearish bets, according to Bank of America Corp. strategists.",
+    "ss": "Bank of America Corp. stratejistlerine göre, küresel hisse senedi fonları bu yıl rekor miktarda giriş çekerken, çok az sayıda yatırımcı düşüş yönünde bahis oynamak istiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/global-equity-funds-draw-record-inflows-bofa-strategists-say",
+    "ts": 1794573252000,
+    "tags": []
+   },
+   {
+    "t": "Gold Edges Up, Still On Track for Worst Weekly Slump Since June",
+    "tt": "Altın Yükseliyor, Hala Hazirandan Bu Yana En Kötü Haftalık Düşüş Yolunda",
+    "s": "Gold edged higher at the end of a downbeat week that saw the metal drop to its lowest point in more than a year.",
+    "ss": "Altın, bir yılı aşkın sürenin en düşük noktasına gerilediği olumsuz haftanın sonunda yükselişe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
+    "ts": 1794527925000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "Russia Oil Revenues Hit Five-Month High on Crude Rally, IEA Says",
+    "tt": "IEA, Rusya Petrol Gelirlerinin Ham Petroldeki Yükselişle Beş Ayın En Yüksek Seviyesine Ulaştığını Açıkladı",
+    "s": "Russia’s October revenues from crude and petroleum-product exports hit the highest since May as the ongoing Iran war bolstered oil prices, according to the International Energy Agency.",
+    "ss": "Uluslararası Enerji Ajansı'na göre, Rusya'nın Ekim ayı ham ve petrol ürünleri ihracatından elde ettiği gelir, devam eden İran savaşının petrol fiyatlarını artırmasıyla Mayıs ayından bu yana en yüksek seviyesine ulaştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says",
+    "ts": 1794572256000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "US Assures India Lower Tariffs Than Peers in Trade Deal",
+    "tt": "ABD, Ticaret Anlaşmasında Hindistan'a Benzerlerine Göre Daha Düşük Tarife Garantisi Verdi",
+    "s": "The US has assured India of lower tariffs than those of its peers under the trade deal the two sides are negotiating, an official familiar with the matter said.",
+    "ss": "Konuya yakın bir yetkili, ABD'nin Hindistan'a, iki tarafın müzakere ettiği ticaret anlaşması kapsamında emsallerine göre daha düşük gümrük vergileri konusunda güvence verdiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/us-assures-india-lower-tariffs-than-peers-in-trade-deal",
+    "ts": 1794571393000,
+    "tags": []
+   },
+   {
+    "t": "Microsoft Outage Hits Businesses, Nvidia Scandal Deepens",
+    "tt": "Microsoft Kesintisi İşletmeleri Vuruyor, Nvidia Skandalı Derinleşiyor",
+    "s": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Azeem Azhar, Expone",
+    "ss": "\"Francine Lacqua'nın Nabzı\" küresel iş dünyasının, ekonominin, finansın ve politikanın atan kalbinde yüksek profilli konuklarla yapılan sohbetleri konu alıyor. Londra merkezli olarak hikayenin olduğu yere gidiyoruz, size özel röportajlar ve piyasayı harekete geçiren haberler getiriyoruz. Bugünün konukları: Azeem Azhar, Expone",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/the-pulse-11-13-2026-video",
+    "ts": 1794570488000,
+    "tags": []
+   },
+   {
     "t": "New City of London Lord Mayor Seeks to Get Trillions of UK Pensions Invested",
     "tt": "Londra'nın Yeni Şehri Belediye Başkanı, Birleşik Krallık Emekliliklerinin Trilyonlarca Yatırımını Yapmak İstiyor",
     "s": "Bronek Masojada had a reputation as a tough leader in the insurance world he worked in for three decades. He’s now planning to bring that same rigor to his role as Lord Mayor of the City of London in a push to boost the UK’s competitiveness — and put its trillions of pension savings to work.",
@@ -522,81 +598,12 @@
     "tags": []
    },
    {
-    "t": "Stocks Gain as Fed Bets Face Fresh Inflation Test: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
-    "s": "US stocks were set to open higher as traders waited for the latest inflation data to cap a dramatic week marked by a sharp rise in Federal Reserve rate-hike bets and Jensen Huang’s ouster from Nvidia Corp.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794521833000,
-    "tags": []
-   },
-   {
     "t": "Cambridge Associates & KBW Ventures on Investing in 2027",
     "tt": "Cambridge Associates ve KBW Ventures 2027'de Yatırım Konusunda",
     "s": "David Druley, CEO of Cambridge Associates and Ekta Tolani, Chief Investment Officer, KBW Ventures discuss asset allocation, investment opportunities and areas of risk heading into 2027 with Bloomberg’s Farah Elbahrawy at Bloomberg Invest Dubai 2026. (Source: Bloomberg)",
     "ss": "Cambridge Associates CEO'su David Druley ve KBW Ventures Yatırım Direktörü Ekta Tolani, Bloomberg Invest Dubai 2026'da Bloomberg'den Farah Elbahrawy ile varlık tahsisi, yatırım fırsatları ve 2027'ye giden risk alanlarını tartışıyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-12/cambridge-associates-kbw-ventures-on-investing-in-2027-video",
     "ts": 1794479996000,
-    "tags": []
-   },
-   {
-    "t": "Investors Warn Bond Rout Isn’t Over After Week of Soaring Yields",
-    "tt": "Hazine Getirilerindeki Artış, Tahvil Rutunun En Kötüsünün Bittiğine dair Umutları Yerle Bir Ediyor",
-    "s": "Just when global bond investors were starting to believe the worst of this year’s rout was over, surging Treasury yields are making them think again.",
-    "ss": "Küresel tahvil yatırımcıları tam da bu yılın en kötü döneminin geride kaldığına inanmaya başlamışken, artan Hazine getirileri onları yeniden düşünmeye sevk ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
-    "ts": 1794549617000,
-    "tags": []
-   },
-   {
-    "t": "Microsoft Races to Fix Outage, Stocks Slip of Inflation Test",
-    "tt": "Microsoft Kesintiyi Düzeltmek İçin Yarışıyor ve Hisse Senedi Enflasyon Kayması Testi",
-    "s": "Microsoft is struggling to restore access to its flagship software half a day after an outage began, leaving users unable to access email and chat services in one of the tech giant’s most severe disruptions in recent memory. US stock futures edged lower ahead of inflation data that will cap a dramat",
-    "ss": "Microsoft, bir kesintinin başlamasından yarım gün sonra amiral gemisi yazılımına erişimi yeniden sağlamakta zorlanıyor ve bu durum, teknoloji devinin son zamanlardaki en ciddi kesintilerinden birinde kullanıcıların e-posta ve sohbet hizmetlerine erişememesine neden oluyor. ABD hisse senedi vadeli kontratları dramatik bir gelişmeyi sınırlayacak enflasyon verileri öncesinde düşüş kaydetti",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/the-opening-trade-11-13-2026-video",
-    "ts": 1794567588000,
-    "tags": []
-   },
-   {
-    "t": "That Haven Trade in Treasury Bonds Didn’t Last Long",
-    "tt": "Haven'ın Hazine Tahvili Ticareti Uzun Sürmedi",
-    "s": "Inflation, hawkish Fed are pushing yields higher.",
-    "ss": "Enflasyon ve şahin Fed getirileri yukarı çekiyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-13/that-haven-trade-in-treasury-bonds-didn-t-last-long",
-    "ts": 1794567309000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
-    "tt": "EM Hisseleri, Teknolojideki Artışlarla Eylül'den Bu Yana İlk Haftalık Kazancını Kazandı",
-    "s": "Emerging-market stocks are headed for their first weekly gain since late September, as investors return to the technology sector on bets the wider artificial intelligence industry will weather upheaval at Nvidia Corp.",
-    "ss": "Gelişmekte olan piyasa hisse senetleri, yatırımcıların daha geniş yapay zeka endüstrisinin Nvidia Corp.'taki çalkantıyı atlatacağı yönündeki iddialarla teknoloji sektörüne dönmesiyle birlikte, Eylül sonundan bu yana ilk haftalık kazancına doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
-    "ts": 1794545627000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 13",
-    "tt": "13 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil held gains after President Donald Trump said the US could forgo a deal with Iran, dimming prospects for a quick breakthrough to end the war that has roiled global energy markets.",
-    "ss": "Petrol, Başkan Donald Trump'ın ABD'nin İran'la yapılan anlaşmadan vazgeçebileceğini söylemesinin ve küresel enerji piyasalarını sarsan savaşı sona erdirecek hızlı bir atılım olasılığını azaltmasının ardından kazançlarını korudu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
-    "ts": 1794524529000,
-    "tags": []
-   },
-   {
-    "t": "Mexico Graft Scandal Erodes Trust in Electoral Authority, Threatens Sheinbaum",
-    "tt": "Meksika Greft Skandalı Seçim Otoritesine Olan Güveni Sarsıyor, Sheinbaum'u Tehdit Ediyor",
-    "s": "Nearly half of Mexicans have little or no confidence the country’s electoral authority can organize fair elections next year, according to a new poll, as a widening graft scandal batters the institution.",
-    "ss": "Yeni bir ankete göre, Meksikalıların neredeyse yarısı ülkenin seçim otoritesinin önümüzdeki yıl adil seçimler düzenleyebileceğine çok az güveniyor veya hiç güvenmiyor, çünkü giderek büyüyen yolsuzluk skandalı kurumu olumsuz etkiliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/mexico-graft-scandal-erodes-trust-in-electoral-authority-threatens-sheinbaum",
-    "ts": 1794564000000,
     "tags": []
    }
   ],
@@ -699,6 +706,42 @@
   ],
   "MarketWatch": [
    {
+    "t": "The prostate-cancer screening rules just changed. Here’s when men should get tested.",
+    "tt": "Prostat kanseri tarama kuralları yeni değişti. İşte erkeklerin ne zaman test edilmesi gerektiği.",
+    "s": "The American Cancer Society now recommends most men get their first PSA test when they turn 50. Black men and other men considered high risk should start screening at age 45.",
+    "ss": "Amerikan Kanser Derneği artık çoğu erkeğin ilk PSA testini 50 yaşına geldiğinde yaptırmasını öneriyor. Siyah erkekler ve yüksek riskli kabul edilen diğer erkekler taramaya 45 yaşında başlamalıdır.",
+    "u": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+    "ts": 1794573420000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.",
+    "tt": "Nvidia bu hafta piyasa değerinden yaklaşık 500 milyar dolar kaybetti. Hala 4 trilyon dolarlık bir yapay zeka devi.",
+    "s": "Can Nvidia keep its lead in AI chips without Jensen Huang? Plus, what investors are watching on inflation.",
+    "ss": "Nvidia, Jensen Huang olmadan yapay zeka çiplerinde liderliğini koruyabilir mi? Artı, yatırımcıların enflasyon konusunda ne izlediği.",
+    "u": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
+    "ts": 1794572700000,
+    "tags": []
+   },
+   {
+    "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+    "tt": "Babamdan bana 1.4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
+    "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+    "ss": "\"Her zaman mirasının bir kısmının kızına miras kalmasını istediğini söylerdi ve ben buna hiçbir zaman itiraz etmedim.\"",
+    "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+    "ts": 1794572100000,
+    "tags": []
+   },
+   {
+    "t": "Microsoft stock slumps on outage that includes the Copilot tool it has been heavily promoting",
+    "tt": "Microsoft'un hisseleri, yoğun bir şekilde tanıtımını yaptığı Copilot aracının da dahil olduğu kesintiler nedeniyle düştü",
+    "s": "Microsoft stock fell in premarket trade Friday as the company struggled to address a worldwide outage of its popular products.",
+    "ss": "Microsoft'un hisseleri, şirketin popüler ürünlerinin dünya çapındaki kesintisini gidermeye çabalaması nedeniyle Cuma günü piyasa öncesi ticarette düştü.",
+    "u": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+    "ts": 1794572040000,
+    "tags": []
+   },
+   {
     "t": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists",
     "tt": "Citi stratejistleri, kâr sürprizlerinin normalleştiğini ve bunun daha sağlıklı bir borsaya işaret edebileceğini söylüyor",
     "s": "Although the majority of S&amp;P 500 companies reported earnings above analysts’ expectations, the beats were significantly lower than in more recent quarters.",
@@ -751,51 +794,45 @@
     "u": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
     "ts": 1794560940000,
     "tags": []
-   },
-   {
-    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
-    "s": "There is already a demographic ‘run’ on Social Security.",
-    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
-    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "ts": 1794545160000,
-    "tags": []
-   },
-   {
-    "t": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-    "tt": "Nvidia CEO'su olarak Jensen Huang'ın yerini kim alabilir? Bu dört isim yapay zeka çevrelerinde konuşuluyor.",
-    "s": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
-    "ss": "Nvidia'nın yönetim kurulu yeni bir CEO ararken uzmanlar, bu kişinin teknoloji vizyonu ve iş anlayışı arasında ender görülen bir dengeye ihtiyacı olacağını söylüyor",
-    "u": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-    "ts": 1794524220000,
-    "tags": []
-   },
-   {
-    "t": "Opening trading-card packs has become a $2 billion market",
-    "tt": "Ticaret kartı paketlerinin açılması 2 milyar dolarlık bir pazar haline geldi",
-    "s": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
-    "ss": "Paket sökücü uygulamalar, insanların kart satın alma ve satma şeklini değiştiriyor. Ancak analistler, \"slot benzeri kazançların\" riskleri artırdığını söylüyor.",
-    "u": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-    "ts": 1794523080000,
-    "tags": []
-   },
-   {
-    "t": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-    "tt": "Tahvil getirileri, Fed'in daha fazla faiz artırımına yönelik beklentilerin artmasıyla 2022'den bu yana en büyük artışını gördü",
-    "s": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
-    "ss": "Fed Başkanı Warsh'un faiz oranı politikasını sessiz bir şekilde iletme tarzı, piyasaların daha değişken olmasına yol açtı.",
-    "u": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-    "ts": 1794521760000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "United Airlines Moves To Ban Use Of AI Agents In Booking Flights For Customers",
+    "tt": "United Airlines, Müşteriler İçin Uçuş Rezervasyonunda Yapay Zeka Temsilcilerinin Kullanımını Yasaklamak İçin Harekete Geçti",
+    "s": "United Airlines Moves To Ban Use Of AI Agents In Booking Flights For Customers Authored by Jacob Burg via The Epoch Times , United Airlines is moving to ban the use of artificial intelligence (AI) agents to make flight reservations on behalf of customers over concerns of possible security risks and ",
+    "ss": "United Airlines, Müşteriler İçin Uçuş Rezervasyonunda Yapay Zeka Acentelerinin Kullanımını Yasaklamak İçin Hareket Ediyor Jacob Burg tarafından The Epoch Times aracılığıyla yazılmıştır, United Airlines, olası güvenlik riskleri ve endişeleri nedeniyle müşteriler adına uçuş rezervasyonları yapmak için yapay zeka (AI) acentelerinin kullanımını yasaklamak için harekete geçiyor ve",
+    "u": "https://www.zerohedge.com/ai/united-airlines-moves-ban-use-ai-agents-booking-flights-customers",
+    "ts": 1794573900000,
+    "tags": []
+   },
+   {
+    "t": "Mapping Alleged Chinese Spy Network Behind Banned Nvidia Chip Flows To China",
+    "tt": "Çin'e Yasaklanan Nvidia Çip Akışının Arkasındaki İddia Edilen Çin Casus Ağının Haritalanması",
+    "s": "Mapping Alleged Chinese Spy Network Behind Banned Nvidia Chip Flows To China Jensen Huang spent decades building Nvidia into a multitrillion-dollar AI chip giant. He ends the week out of the top job , with CFO Colette Kress stepping in as interim CEO. But for Jensen, he might have a future elsewhere",
+    "ss": "Çin'e Yasaklanan Nvidia Çip Akışının Arkasındaki İddia Edilen Çin Casus Ağının Haritalanması Jensen Huang, Nvidia'yı multitrilyon dolarlık bir yapay zeka çip devine dönüştürmek için onlarca yıl harcadı. Haftayı, CFO Colette Kress'in geçici CEO olarak göreve başlamasıyla en iyi işten çıkararak bitirdi. Ama Jensen için başka bir yerde bir geleceği olabilir.",
+    "u": "https://www.zerohedge.com/geopolitical/mapping-alleged-chinese-spy-network-behind-banned-nvidia-chip-flows-china",
+    "ts": 1794573000000,
+    "tags": []
+   },
+   {
+    "t": "Trump's $40 Billion Mineral Push Enters Democrats' Crosshairs: Which Miners To Own, Which To Avoid",
+    "tt": "Trump'ın 40 Milyar Dolarlık Maden İtkisi Demokratların Dikkatine Giriyor: Hangi Madencilere Sahip Olmalı, Hangisinden Kaçınmalı",
+    "s": "Trump's $40 Billion Mineral Push Enters Democrats' Crosshairs: Which Miners To Own, Which To Avoid The Trump administration's efforts to break China's grip on critical metals mining and refining span $40 billion across 160 mining and minerals deals , creating massive new targets for Democrats when t",
+    "ss": "Trump'ın 40 Milyar Dolarlık Maden İtkisi Demokratların Hedefine Giriyor: Hangi Madenciler Sahip Olmalı, Hangilerinden Kaçınmalı Trump yönetiminin Çin'in kritik metal madenciliği ve rafinaj üzerindeki hakimiyetini kırma çabaları, 160 madencilik ve mineral anlaşmasında 40 milyar doları kapsıyor ve Demokratlar için devasa yeni hedefler yaratıyor.",
+    "u": "https://www.zerohedge.com/commodities/trumps-40-billion-mineral-push-enters-democrats-crosshairs-which-miners-own-which-avoid",
+    "ts": 1794572400000,
+    "tags": []
+   },
+   {
+    "t": "British Universities Push Sharia Loans While Taxpayers Cover The Unpaid Tab",
+    "tt": "İngiliz Üniversiteleri Şeriat Kredilerini Bastırırken Vergi Mükellefleri Ödenmeyen Hesabı Kapatıyor",
+    "s": "British Universities Push Sharia Loans While Taxpayers Cover The Unpaid Tab Authored by Steve Watson via Modernity , British universities are now openly advertising government-backed \"interest-free\" student loans designed around Islamic finance rules. The Alternative Student Finance product, based o",
+    "ss": "İngiliz Üniversiteleri Şeriat Kredilerini Bastırırken, Vergi Mükellefleri Modernity aracılığıyla Steve Watson tarafından yazılan Ödenmemiş Hesabı Kapatıyor, İngiliz üniversiteleri artık açıkça İslami finans kurallarına göre tasarlanmış devlet destekli \"faizsiz\" öğrenci kredilerinin reklamını yapıyor. Alternatif Öğrenci Finansmanı ürünü,",
+    "u": "https://www.zerohedge.com/political/british-universities-push-sharia-loans-while-taxpayers-cover-unpaid-tab",
+    "ts": 1794571200000,
+    "tags": []
+   },
    {
     "t": "After France, Belgium Is Europe's Next Debt Flashpoint",
     "tt": "Fransa'dan sonra Belçika, Avrupa'nın bir sonraki borç parlama noktası",
@@ -849,45 +886,63 @@
     "u": "https://www.zerohedge.com/geopolitical/leaks-reveal-over-11k-foreign-fighters-killed-ukraine",
     "ts": 1794555600000,
     "tags": []
-   },
-   {
-    "t": "Germany: Half Of All People Convicted In Bavaria Was A Foreigner Last Year",
-    "tt": "Almanya: Geçen Yıl Bavyera'da Mahkûm Edilen Kişilerin Yarısı Yabancıydı",
-    "s": "Germany: Half Of All People Convicted In Bavaria Was A Foreigner Last Year Via Remix News , Foreigners make up an incredible share of the people convicted of a crime in the German state of Bavaria, considered one of the wealthiest regions in Europe. The latest figures show that 49.7 percent of all p",
-    "ss": "Almanya: Geçen Yıl Bavyera'da Mahkum Edilen Kişilerin Yarısı Yabancıydı Remix News aracılığıyla, Avrupa'nın en zengin bölgelerinden biri olarak kabul edilen Almanya'nın Bavyera eyaletinde suçtan hüküm giymiş kişilerin inanılmaz bir kısmını yabancılar oluşturuyor. Son rakamlar tüm p'lerin yüzde 49,7'sinin",
-    "u": "https://www.zerohedge.com/geopolitical/germany-1-out-every-2-people-convicted-bavaria-was-foreigner-last-year",
-    "ts": 1794553200000,
-    "tags": []
-   },
-   {
-    "t": "10 Threats America Will Meet Before 2026 Ends, And The Quiet Arithmetic Behind Every One Of Them",
-    "tt": "Amerika'nın 2026 Bitmeden Karşılaşacağı 10 Tehdit ve Her Birinin Arkasındaki Sessiz Aritmetik",
-    "s": "10 Threats America Will Meet Before 2026 Ends, And The Quiet Arithmetic Behind Every One Of Them Authored by John Walter via Substack , Slack is what runs out first , and there is less of it now than at any point since 2008, with eight weeks left in the year. Both chambers of Congress changed hands ",
-    "ss": "Amerika'nın 2026 Bitmeden Karşılaşacağı 10 Tehdit ve Her Birinin Arkasındaki Sessiz Aritmetik John Walter tarafından Substack aracılığıyla yazılmıştır. İlk önce Slack tükenir ve şu anda 2008'den bu yana herhangi bir noktada olduğundan daha azı var ve yılın bitmesine sekiz hafta kaldı. Kongrenin her iki odası da el değiştirdi",
-    "u": "https://www.zerohedge.com/personal-finance/10-threats-america-will-meet-2026-ends-and-quiet-arithmetic-behind-every-one-them",
-    "ts": 1794543900000,
-    "tags": []
-   },
-   {
-    "t": "There's Something Suspicious About The Texas Midterm \"Blue Wave\"",
-    "tt": "Teksas Ara Sınavı \"Mavi Dalga\" Hakkında Şüpheli Bir Şey Var",
-    "s": "There's Something Suspicious About The Texas Midterm \"Blue Wave\" On the night of the 2020 Presidential Elections most Americans recall going to bed feeling certain that Donald Trump had pulled off another solid victory. &nbsp;With Joe Biden drawing mostly small crowds on the campaign trail and spend",
-    "ss": "Teksas Ara Sınavı \"Mavi Dalgası\" Hakkında Şüpheli Bir Şeyler Var 2020 Başkanlık Seçimleri gecesinde çoğu Amerikalı, Donald Trump'ın bir başka sağlam zafer daha elde ettiğinden emin olarak yatağa girdiğini hatırlıyor.  Joe Biden'ın kampanya yolunda çoğunlukla küçük kalabalıkları toplaması ve harcama yapmasıyla",
-    "u": "https://www.zerohedge.com/political/theres-something-suspicious-about-texas-midterm-numbers",
-    "ts": 1794542400000,
-    "tags": []
-   },
-   {
-    "t": "Twelve Senators Call For US-Israel Military Integration To Be Removed From NDAA",
-    "tt": "Oniki Senatör, ABD-İsrail Askeri Entegrasyonunun NDAA'dan Çıkarılması Çağrısında Bulundu",
-    "s": "Twelve Senators Call For US-Israel Military Integration To Be Removed From NDAA Authored by Dave DeCamp via AntiWar.com A group of 12 senators has written to congressional leadership urging the removal of provisions from the House and Senate versions of the 2027 National Defense Authorization Act (N",
-    "ss": "Oniki Senatör, ABD-İsrail Askeri Entegrasyonunun NDAA'dan Kaldırılması Çağrısında Bulundu Yazan Dave DeCamp, AntiWar.com aracılığıyla 12 senatörden oluşan bir grup, kongre liderliğine, 2027 Ulusal Savunma Yetki Yasası'nın (N) Meclis ve Senato versiyonlarındaki hükümlerin kaldırılması çağrısında bulunan bir mektup yazdı.",
-    "u": "https://www.zerohedge.com/geopolitical/twelve-senators-call-us-israel-military-integration-be-removed-ndaa",
-    "ts": 1794540900000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Sabancı/Bayçöl: Enerji uzun vadeli yatırım bakış açısı gerektiriyor",
+    "tt": null,
+    "s": "Sabancı Holding Stratejik Yatırımlar ve Operasyonlar Başkanı İhsan Erbil Bayçöl, Bloomberg HT'ye verdiği özel söyleşide elektrifikasyonun sanayinin tekrar şekillenmesi demek olduğunu ve enerjide uzun vadeli yatırım bakış açısının gelişmesi gerektiğini söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/sabancibaycol-enerji-uzun-vadeli-yatirim-bakis-acisi-gerektiriyor-3794597",
+    "ts": 1794572798000,
+    "tags": []
+   },
+   {
+    "t": "QNB Türkiye'den 500 milyon dolara kadar finansman anlaşması",
+    "tt": null,
+    "s": "QNB Türkiye, beş uluslararası kalkınma finansmanı kuruluşuyla toplam 500 milyon dolara kadar, 5 yıl vadeli finansman sağlanmasına yönelik mutabakat imzaladı. Kaynakların yeşil dönüşüm, iklim finansmanı, kadın girişimciliği ve sürdürülebilir kalkınma projelerinde kullanılması hedefleniyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/qnb-turkiye-den-500-milyon-dolara-kadar-finansman-anlasmasi-3794596",
+    "ts": 1794572111000,
+    "tags": []
+   },
+   {
+    "t": "100 milyar dolarlık sığır eti endüstrisi küçülüyor",
+    "tt": null,
+    "s": "ABD'de sığır sürüsünün 75 yılın en düşük seviyesine gerilemesi, et işleme tesislerinde kapanmaları beraberinde getirdi. Üreticiler sürülerini büyütmekte tereddüt ederken, 100 milyar dolarlık sığır eti endüstrisi sancılı bir küçülme sürecinden geçiyor. Ülkede sığır eti fiyatlarındaki yüksek seyrin uz",
+    "ss": null,
+    "u": "https://www.bloomberght.com/100-milyar-dolarlik-sigir-eti-endustrisi-kuculuyor-3794595",
+    "ts": 1794571950000,
+    "tags": []
+   },
+   {
+    "t": "Eximbank'tan IBRD, AIIB ve KfW ile uzun vadeli kredi anlaşmaları",
+    "tt": null,
+    "s": "Eximbank, Dünya Bankası (IBRD), Asya Altyapı Yatırım Bankası (AIIB) ve Alman Kalkınma Bankası (KfW) ile dolar ve euro cinsinden uzun vadeli kredi anlaşmaları imzaladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/eximbank-tan-ibrd-aiib-ve-kfw-ile-uzun-vadeli-kredi-anlasmalari-3794593",
+    "ts": 1794571187000,
+    "tags": []
+   },
+   {
+    "t": "Denizbank'tan 100 milyon dolarlık anlaşma",
+    "tt": null,
+    "s": "Denizbank, Japonya Uluslararası İş Birliği Ajansı (JICA) ile iklim değişikliğiyle mücadele ve uyum projelerinin finansmanı amacıyla 100 milyon dolar tutarında sözleşme imzaladığını duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/denizbank-tan-100-milyon-dolarlik-anlasma-3794592",
+    "ts": 1794571072000,
+    "tags": []
+   },
+   {
+    "t": "TSB/Yaşar: Sigorta olmadan iklim riskine karşı dayanıklılık olmayacağını anlatıyoruz",
+    "tt": null,
+    "s": "Türkiye Sigorta Birliği Başkanı Ahmet Yaşar COP31'de Bloomberg HT'nin sorularını yanıtladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tsbyasar-sigorta-olmadan-iklim-riskine-karsi-dayaniklilik-olmayacagini-anlatiyoruz-3794587",
+    "ts": 1794570547000,
+    "tags": []
+   },
    {
     "t": "Mercedes-Benz'den yatırım durdurma kararı",
     "tt": null,
@@ -922,60 +977,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/bakan-simsek-ten-cari-acik-degerlendirmesi-3794577",
     "ts": 1794562715000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de beş büyük teknoloji şirketine dava",
-    "tt": null,
-    "s": "ABD'de 5 büyük teknoloji şirketine, geliştirdikleri yapay zeka temelli teknolojilerin insanlık için ciddi riskler oluşturduğu ve yeterince kontrol edilemediği iddiasıyla dava açıldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-bes-buyuk-teknoloji-sirketine-dava-3794573",
-    "ts": 1794562178000,
-    "tags": []
-   },
-   {
-    "t": "Ekim'de küresel petrol arzında artış",
-    "tt": null,
-    "s": "Uluslararası Enerji Ajansı (UEA), Körfez ülkelerinin yüksek ihracatının etkisiyle küresel petrol arzının Ekim'de önceki aya göre günlük 2 milyon 300 bin varil artarak 105 milyon 360 bin varile yükseldiğini bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ekim-de-kuresel-petrol-arzinda-artis-3794572",
-    "ts": 1794561290000,
-    "tags": []
-   },
-   {
-    "t": "\"Türkiye'nin uluslararası finansmandan daha fazla yararlanma potansiyeli var\"",
-    "tt": null,
-    "s": "TÜSİAD Başkanı Ozan Diren COP31 Zirvesi'nde Bloomberg HT'ye COP31 sonrası Türkiye'nin uluslararası finansmandan daha fazla yararlanma potansiyeli olduğunu söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiyenin-uluslararasi-finansmandan-daha-fazla-yararlanma-potansiyeli-var-3794563",
-    "ts": 1794560137000,
-    "tags": []
-   },
-   {
-    "t": "AB'den ücretsiz karbon tahsisatını artırma kararı",
-    "tt": null,
-    "s": "Avrupa Birliği (AB) kurumları, enerji yoğun sanayi sektörlerine 2026-2030 döneminde sağlanacak ücretsiz karbon emisyon tahsisatlarını artırma konusunda anlaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ab-den-ucretsiz-karbon-tahsisatini-artirma-karari-3794562",
-    "ts": 1794560135000,
-    "tags": []
-   },
-   {
-    "t": "Microsoft'un bazı hizmetlerinde erişim sorunu",
-    "tt": null,
-    "s": "ABD merkezli teknoloji şirketi Microsoft'un Microsoft 365, Outlook ve Teams hizmetlerinde erişim sorunları yaşandığı bildirildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/microsoft-un-bazi-hizmetlerinde-erisim-sorunu-3794564",
-    "ts": 1794560433000,
-    "tags": []
-   },
-   {
-    "t": "Almanya toptan eşya fiyatlarında 3,5 yılın en hızlı artışı",
-    "tt": null,
-    "s": "Orta Doğu'da tırmanan gerilimin enerji ve hammadde maliyetlerini yükseltmesiyle Almanya'da toptan eşya fiyat endeksi Ekim'de son 3,5 yılın en hızlı artışını gösterdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/almanya-toptan-esya-fiyatlarinda-3-5-yilin-en-hizli-artisi-3794561",
-    "ts": 1794559756000,
     "tags": []
    }
   ]
