@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T03:26:15.638482+00:00",
+ "generated": "2026-11-13T04:33:44.260394+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 52297.09,
+   "p": 52297.1,
    "c": -0.36,
-   "d": -189.398,
+   "d": -189.388,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3919.1,
-   "c": 0.87,
-   "d": 33.8,
+   "p": 3914.4,
+   "c": 0.75,
+   "d": 29.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.43,
-   "c": 0.92,
-   "d": 0.458,
+   "p": 50.205,
+   "c": 0.47,
+   "d": 0.233,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.21,
-   "c": -0.6,
-   "d": -0.53,
+   "p": 88.34,
+   "c": -0.45,
+   "d": -0.4,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.54,
-   "c": -0.29,
-   "d": -0.28,
+   "p": 95.64,
+   "c": -0.19,
+   "d": -0.18,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.166,
-   "c": -0.0,
-   "d": -0.004,
+   "p": 103.185,
+   "c": 0.01,
+   "d": 0.015,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3608,
-   "c": 0.21,
-   "d": 0.107,
+   "p": 50.3088,
+   "c": 0.11,
+   "d": 0.055,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 69234,
-   "c": -6.04,
+   "p": 68903,
+   "c": -6.4,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1958.31,
-   "c": -4.45,
+   "p": 1930.49,
+   "c": -5.75,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 79.11,
-   "c": -4.71,
+   "p": 78.36,
+   "c": -5.44,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.01,
-   "c": -3.28,
+   "p": 1.006,
+   "c": -3.46,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 637.41,
-   "c": -5.95,
+   "p": 633.97,
+   "c": -6.28,
    "k": "usd"
   }
  ],
@@ -504,6 +504,42 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Asian Stocks Erase Gain, Bonds Slide Before US PPI: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
+    "s": "Asian stocks erased an early tech-led advance while bonds slumped as investors turned cautious ahead of Friday’s US producer-price data.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794521833000,
+    "tags": []
+   },
+   {
+    "t": "China Policy Bank Bonds Suffer Selloff as Tax Worries Hit Market",
+    "tt": "Çin Politika Bankası Tahvilleri, Vergi Endişelerinin Piyasayı Etkilemesiyle Satışlarda Zarar Görüyor",
+    "s": "Concern over a potential tax on Chinese government bonds is spilling over to major policy banks, pushing up their borrowing costs.",
+    "ss": "Çin devlet tahvillerine getirilebilecek potansiyel vergiye ilişkin endişeler büyük politika bankalarına da yansıyor ve borçlanma maliyetlerini artırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market",
+    "ts": 1794542772000,
+    "tags": []
+   },
+   {
+    "t": "Copper Climbs From Three-Month Low After Rough Week for Metals",
+    "tt": "Bakır, Metaller İçin Zorlu Haftanın Ardından Üç Ayın En Düşük Seviyesinden Tırmandı",
+    "s": "Copper flicked higher on Friday, trimming losses racked up in recent days due to upheaval in the artificial intelligence sector and expectations of further hikes in US interest rates.",
+    "ss": "Bakır, yapay zeka sektöründeki çalkantılar ve ABD faiz oranlarındaki ilave artış beklentileri nedeniyle son günlerde artan kayıpların azalmasıyla Cuma günü yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/copper-climbs-from-three-month-low-after-rough-week-for-metals",
+    "ts": 1794541476000,
+    "tags": []
+   },
+   {
+    "t": "Top Pension Fund to Buy More India State Bonds on High Yields",
+    "tt": "En İyi Emeklilik Fonu, Yüksek Getirilerle Daha Fazla Hindistan Devlet Tahvili Alacak",
+    "s": "India’s largest pension fund plans to step up purchases of state debt, expecting their yield premium over the federal government bonds will widen further.",
+    "ss": "Hindistan'ın en büyük emeklilik fonu, federal hükümet tahvilleri üzerindeki getiri priminin daha da artmasını bekleyerek devlet tahvili alımlarını artırmayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/top-pension-fund-to-buy-more-india-state-bonds-on-high-yields",
+    "ts": 1794541126000,
+    "tags": []
+   },
+   {
     "t": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
     "tt": "Japonya Tahvilleri, Fed'in Artırım Bahisleri Üzerine Hazine Rutunun Uzatılmasıyla Düştü",
     "s": "Japanese government bonds slumped on Friday, tracking Treasuries which saw a second straight session of losses as traders increased wagers on aggressive Federal Reserve interest-rate hikes.",
@@ -525,15 +561,6 @@
     "ss": "Petrol fiyatları, Başkan Donald Trump'ın ABD'nin İran'la anlaşmadan vazgeçebileceğini söylemesinin ve Orta Doğu'daki arzı olumsuz etkileyen savaşı sona erdirecek atılım umutlarını azaltmasının ardından kazançlarını korudu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
     "ts": 1794524529000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks Gain as Tech Bounces Back, Bonds Drop: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
-    "s": "Asian stocks climbed as technology shares rebounded from Thursday’s losses, with investors starting to look beyond the leadership turmoil at Nvidia Corp. and refocus on the outlook for the artificial-intelligence trade.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794521833000,
     "tags": []
    },
    {
@@ -578,33 +605,6 @@
     "ss": "Tüketicilerin nasıl ev alıp satabilecekleri konusundaki çekişme, Perşembe günü ABD'nin önde gelen konut emlak komisyoncusu tarafından ülke çapında açılan bir dizi antitröst davasıyla daha da arttı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/compass-sues-multiple-listing-services-ramping-up-antitrust-row",
     "ts": 1794523712000,
-    "tags": []
-   },
-   {
-    "t": "New World Suspends Trading as Investors Watch for Next Steps",
-    "tt": "Yatırımcılar Sonraki Adımları Beklerken Yeni Dünya Ticareti Askıya Aldı",
-    "s": "New World Development Co. has suspended trading in its shares, as the embattled real estate firm prepares to make an announcement to investors a month after reporting a record annual loss.",
-    "ss": "New World Development Co., zor durumdaki emlak firmasının rekor yıllık zarar bildirdikten bir ay sonra yatırımcılara bir duyuru yapmaya hazırlanması nedeniyle hisse alım satımını askıya aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/new-world-suspends-trading-as-investors-watch-for-next-steps",
-    "ts": 1794531456000,
-    "tags": []
-   },
-   {
-    "t": "India Equity Surge Brightens Outlook for Exchanges, Brokerages",
-    "tt": "Hindistan Hisse Senedindeki Artış Borsalar ve Aracı Kurumların Görünümünü Aydınlatıyor",
-    "s": "India’s $5.4 trillion equity market is bouncing back to life, creating a sweet spot for exchanges and brokerages as stronger trading activity brightens their earnings outlook.",
-    "ss": "Hindistan'ın 5,4 trilyon dolarlık hisse senedi piyasası yeniden canlanıyor ve daha güçlü ticaret faaliyeti kazanç görünümlerini aydınlatırken borsalar ve aracı kurumlar için tatlı bir nokta yaratıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/india-equity-surge-brightens-outlook-for-exchanges-brokerages",
-    "ts": 1794531600000,
-    "tags": []
-   },
-   {
-    "t": "Silver Market Set for Deficit Even as Solar Makers Cut Back",
-    "tt": "Güneş Enerjisi Üreticileri Kısıtlama Yapsa Bile Gümüş Piyasası Açık Vermeye Hazır",
-    "s": "The silver market is set for a sixth straight annual supply deficit in 2026, even as solar manufacturers cut their use of the metal and investor selling eases pressure on the physical market.",
-    "ss": "Güneş enerjisi üreticilerinin metal kullanımını azaltmasına ve yatırımcıların satışlarının fiziksel piyasa üzerindeki baskıyı hafifletmesine rağmen, gümüş piyasası 2026'da art arda altıncı yıllık arz açığına hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/silver-market-set-for-deficit-even-as-solar-makers-cut-back",
-    "ts": 1794529800000,
     "tags": []
    }
   ],
@@ -811,6 +811,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "10 Threats America Will Meet Before 2026 Ends, And The Quiet Arithmetic Behind Every One Of Them",
+    "tt": "Amerika'nın 2026 Bitmeden Karşılaşacağı 10 Tehdit ve Her Birinin Arkasındaki Sessiz Aritmetik",
+    "s": "10 Threats America Will Meet Before 2026 Ends, And The Quiet Arithmetic Behind Every One Of Them Authored by John Walter via Substack , Slack is what runs out first , and there is less of it now than at any point since 2008, with eight weeks left in the year. Both chambers of Congress changed hands ",
+    "ss": "Amerika'nın 2026 Bitmeden Karşılaşacağı 10 Tehdit ve Her Birinin Arkasındaki Sessiz Aritmetik John Walter tarafından Substack aracılığıyla yazılmıştır. İlk önce Slack tükenir ve şu anda 2008'den bu yana herhangi bir noktada olduğundan daha azı var ve yılın bitmesine sekiz hafta kaldı. Kongrenin her iki odası da el değiştirdi",
+    "u": "https://www.zerohedge.com/personal-finance/10-threats-america-will-meet-2026-ends-and-quiet-arithmetic-behind-every-one-them",
+    "ts": 1794543900000,
+    "tags": []
+   },
+   {
+    "t": "There's Something Suspicious About The Texas Midterm \"Blue Wave\"",
+    "tt": "Teksas Ara Sınavı \"Mavi Dalga\" Hakkında Şüpheli Bir Şey Var",
+    "s": "There's Something Suspicious About The Texas Midterm \"Blue Wave\" On the night of the 2020 Presidential Elections most Americans recall going to bed feeling certain that Donald Trump had pulled off another solid victory. &nbsp;With Joe Biden drawing mostly small crowds on the campaign trail and spend",
+    "ss": "Teksas Ara Sınavı \"Mavi Dalgası\" Hakkında Şüpheli Bir Şeyler Var 2020 Başkanlık Seçimleri gecesinde çoğu Amerikalı, Donald Trump'ın bir başka sağlam zafer daha elde ettiğinden emin olarak yatağa girdiğini hatırlıyor.  Joe Biden'ın kampanya yolunda çoğunlukla küçük kalabalıkları toplaması ve harcama yapmasıyla",
+    "u": "https://www.zerohedge.com/political/theres-something-suspicious-about-texas-midterm-numbers",
+    "ts": 1794542400000,
+    "tags": []
+   },
+   {
+    "t": "Twelve Senators Call For US-Israel Military Integration To Be Removed From NDAA",
+    "tt": "Oniki Senatör, ABD-İsrail Askeri Entegrasyonunun NDAA'dan Çıkarılması Çağrısında Bulundu",
+    "s": "Twelve Senators Call For US-Israel Military Integration To Be Removed From NDAA Authored by Dave DeCamp via AntiWar.com A group of 12 senators has written to congressional leadership urging the removal of provisions from the House and Senate versions of the 2027 National Defense Authorization Act (N",
+    "ss": "Oniki Senatör, ABD-İsrail Askeri Entegrasyonunun NDAA'dan Kaldırılması Çağrısında Bulundu Yazan Dave DeCamp, AntiWar.com aracılığıyla 12 senatörden oluşan bir grup, kongre liderliğine, 2027 Ulusal Savunma Yetki Yasası'nın (N) Meclis ve Senato versiyonlarındaki hükümlerin kaldırılması çağrısında bulunan bir mektup yazdı.",
+    "u": "https://www.zerohedge.com/geopolitical/twelve-senators-call-us-israel-military-integration-be-removed-ndaa",
+    "ts": 1794540900000,
+    "tags": []
+   },
+   {
     "t": "Kremlin Pours Cold Water On Europe Joining Talks Amid Kushner-Witkoff Visit",
     "tt": "Kremlin, Kushner-Witkoff Ziyareti Sırasında Görüşmelere Katılarak Avrupa'ya Soğuk Su Döküyor",
     "s": "Kremlin Pours Cold Water On Europe Joining Talks Amid Kushner-Witkoff Visit This is not what the Trump administration wanted to see after this week's Abu Dhabi trilateral talks, and as the team of Kushner-Witkoff, Trump's special envoys, are in Moscow where they met with President Vladimir Putin. Pu",
@@ -871,33 +898,6 @@
     "ss": "\"Filmlerde Gördüğünüz Şeyler\": Seçilmiş Demokratlar Sahtekarlaşıyor, Parti Liderlerinin Sıraya Girmeye Yönelik Şok Tehditlerini Ortaya Çıkarıyor Yeni gelen Demokrat bir kongre üyesi, Meclis Azınlık Lideri Hak'ın arkasında sıraya girmeyi reddetmesi halinde parti içindeki kişilerin kendisini uyardığını söylediği çirkin sonuçları açığa çıkarıyor",
     "u": "https://www.zerohedge.com/political/stuff-you-see-movies-democrat-elect-goes-rogue-reveals-shocking-threats-party-leaders",
     "ts": 1794531300000,
-    "tags": []
-   },
-   {
-    "t": "Leaked Letters Show Iran Quietly Buying Control Of Chinese Ports; Report",
-    "tt": "Sızan Mektuplar İran'ın Sessizce Çin Limanlarının Kontrolünü Satın Aldığını Gösteriyor; Rapor",
-    "s": "Leaked Letters Show Iran Quietly Buying Control Of Chinese Ports; Report Report: Leaked Letters Show Iran Quietly Buying Control Of Chinese Ports Authored by Charles Kennedy via OilPrice , Iran has been using oil terminals and storage facilities in China to ship its oil to its biggest buyer and keep",
-    "ss": "Sızan Mektuplar İran'ın Sessizce Çin Limanlarının Kontrolünü Satın Aldığını Gösteriyor; Rapor Raporu: Sızan Mektuplar, İran'ın Çin Limanlarının Kontrolünü Sessizce Satın Aldığını Gösteriyor Charles Kennedy tarafından OilPrice aracılığıyla yazılmıştır. İran, petrolünü en büyük alıcısına göndermek ve elinde tutmak için Çin'deki petrol terminallerini ve depolama tesislerini kullanıyor.",
-    "u": "https://www.zerohedge.com/energy/leaked-letters-show-iran-quietly-buying-control-chinese-ports-report",
-    "ts": 1794530400000,
-    "tags": []
-   },
-   {
-    "t": "Follow The Money: Florida Subpoenas DSA Over Cuban, Chinese Cash Days After Socialist Election Sweep",
-    "tt": "Parayı Takip Edin: Florida, Sosyalist Seçim Taramasından Sonraki Küba ve Çin Nakit Günleri Üzerine DSA Mahkeme Çağrısı Yaptı",
-    "s": "Follow The Money: Florida Subpoenas DSA Over Cuban, Chinese Cash Days After Socialist Election Sweep Florida Attorney General James Uthmeier on Tuesday issued an investigative subpoena to the Democratic Socialists of America, saying his office is examining whether DSA accepted contributions or suppo",
-    "ss": "Parayı Takip Edin: Florida, Küba ve Çin Nakitleri Hakkında DSA'ya Mahkeme Çağrısında Bulundu Sosyalist Seçimden Sonraki Günler Florida Başsavcısı James Uthmeier Salı günü Amerika Demokratik Sosyalistlerine bir soruşturma celbi yayınladı ve ofisinin DSA'nın katkıları veya destekleri kabul edip etmediğini incelediğini söyledi.",
-    "u": "https://www.zerohedge.com/political/follow-money-florida-subpoenas-dsa-over-cuban-chinese-cash-days-after-socialist-election",
-    "ts": 1794529200000,
-    "tags": []
-   },
-   {
-    "t": "Kurdish Leader Courted by Washington Urges 'Mighty US' To Make Peace With Iran",
-    "tt": "Washington'un Kur Yaptığı Kürt Liderden 'Güçlü ABD'ye İran'la Barış Çağrısı'",
-    "s": "Kurdish Leader Courted by Washington Urges 'Mighty US' To Make Peace With Iran Via Middle East Eye The US needs to stop treating Iran as if it is governed by \"mad mullahs\" and engage in dialogue with the Islamic Republic, which is emerging \"stronger but different\" from the US-Israeli war,&nbsp;a sen",
-    "ss": "Washington'un Kur Yaptığı Kürt Lider, 'Güçlü ABD'ye Ortadoğu Gözü Yoluyla İran'la Barış Yapma Çağrısında Bulundu ABD'nin, İran'a 'deli mollalar' tarafından yönetiliyormuş gibi davranmayı bırakması ve ABD-İsrail savaşından \"daha güçlü ama farklı\" ortaya çıkan İslam Cumhuriyeti ile diyaloga girmesi gerekiyor.",
-    "u": "https://www.zerohedge.com/geopolitical/kurdish-leader-courted-washington-urges-mighty-us-make-peace-iran",
-    "ts": 1794528000000,
     "tags": []
    }
   ],
