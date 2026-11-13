@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T05:34:01.346892+00:00",
+ "generated": "2026-11-13T06:33:16.421115+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3919.1,
-   "c": 0.87,
-   "d": 33.8,
+   "p": 3902.5,
+   "c": 0.44,
+   "d": 17.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.195,
-   "c": 0.45,
-   "d": 0.223,
+   "p": 49.955,
+   "c": -0.03,
+   "d": -0.017,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.22,
-   "c": -0.59,
-   "d": -0.52,
+   "p": 88.4,
+   "c": -0.38,
+   "d": -0.34,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.58,
-   "c": -0.25,
-   "d": -0.24,
+   "p": 95.9,
+   "c": 0.08,
+   "d": 0.08,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.176,
-   "c": 0.01,
-   "d": 0.006,
+   "p": 103.195,
+   "c": 0.02,
+   "d": 0.025,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3082,
+   "p": 50.3097,
    "c": 0.11,
-   "d": 0.054,
+   "d": 0.056,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 68505,
-   "c": -6.86,
+   "p": 68848,
+   "c": -6.38,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1915.75,
-   "c": -6.27,
+   "p": 1936.11,
+   "c": -5.41,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 78.5,
-   "c": -5.32,
+   "p": 79.68,
+   "c": -3.89,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.01,
-   "c": -3.05,
+   "p": 1.022,
+   "c": -1.72,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 631.98,
-   "c": -6.22,
+   "p": 633.55,
+   "c": -6.05,
    "k": "usd"
   }
  ],
@@ -504,6 +504,48 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
+    "tt": null,
+    "s": "Jim Atkinson, President & CEO at Guinness Atkinson Funds, discusses the launch of the firm's new K-beauty ETF and his outlook for demand. He speaks on Bloomberg's ETQ IQ Asia. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
+    "ts": 1794551370000,
+    "tags": []
+   },
+   {
+    "t": "Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing",
+    "tt": null,
+    "s": "Artificial intelligence server maker xFusion Digital Technologies Co. received approval from the Shenzhen Stock Exchange on Thursday to move ahead with its planned initial public offering on the tech-heavy ChiNext board.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing",
+    "ts": 1794549903000,
+    "tags": []
+   },
+   {
+    "t": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
+    "tt": null,
+    "s": "Just when global bond investors were starting to believe the worst of this year’s selloff was over, surging Treasury yields are making them think again.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
+    "ts": 1794549617000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Stocks Fluctuate After Huang’s Ouster, Bonds Slump: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
+    "s": "Stocks fluctuated as investors assessed the broader market fallout from Jensen Huang’s ouster at Nvidia Corp. while awaiting Friday’s US producer-price data that may offer fresh clues on the path of Federal Reserve interest rates.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794521833000,
+    "tags": []
+   },
+   {
     "t": "Oil-Hungry Asia Turns Back to Mideast in Earnest as Flows Expand",
     "tt": "Akışlar Genişledikçe Petrole Aç Asya Ciddi Bir Şekilde Orta Doğu'ya Dönüyor",
     "s": "Oil refiners in Asia are increasingly turning back toward crude from Middle Eastern producers as flows rebound after months of conflict, lessening the need for imports from alternative suppliers including the US.",
@@ -519,15 +561,6 @@
     "ss": "Petrol fiyatları, Başkan Donald Trump'ın ABD'nin İran'la anlaşmadan vazgeçebileceğini söylemesinin ve Orta Doğu'daki arzı olumsuz etkileyen savaşı sona erdirecek atılım umutlarını azaltmasının ardından kazançlarını korudu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
     "ts": 1794524529000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks Erase Gain, Bonds Slide Before US PPI: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
-    "s": "Asian stocks erased an early advance while regional bonds slumped as caution returned ahead of US producer-price data that may offer fresh clues on the path for Federal Reserve interest rates.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794521833000,
     "tags": []
    },
    {
@@ -565,41 +598,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-13/copper-climbs-from-three-month-low-after-rough-week-for-metals",
     "ts": 1794541476000,
     "tags": []
-   },
-   {
-    "t": "Top Pension Fund to Buy More India State Bonds on High Yields",
-    "tt": "En İyi Emeklilik Fonu, Yüksek Getirilerle Daha Fazla Hindistan Devlet Tahvili Alacak",
-    "s": "India’s largest pension fund plans to step up purchases of state debt, expecting their yield premium over the federal government bonds will widen further.",
-    "ss": "Hindistan'ın en büyük emeklilik fonu, federal hükümet tahvilleri üzerindeki getiri priminin daha da artmasını bekleyerek devlet tahvili alımlarını artırmayı planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/top-pension-fund-to-buy-more-india-state-bonds-on-high-yields",
-    "ts": 1794541126000,
-    "tags": []
-   },
-   {
-    "t": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
-    "tt": "Japonya Tahvilleri, Fed'in Artırım Bahisleri Üzerine Hazine Rutunun Uzatılmasıyla Düştü",
-    "s": "Japanese government bonds slumped on Friday, tracking Treasuries which saw a second straight session of losses as traders increased wagers on aggressive Federal Reserve interest-rate hikes.",
-    "ss": "Japon devlet tahvilleri, yatırımcıların Fed'in agresif faiz artırımına yönelik bahislerini artırmasıyla üst üste ikinci kez kayıp yaşayan Hazine tahvillerinin ardından Cuma günü geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/japan-bonds-fall-as-treasury-rout-extends-on-fed-hike-bets",
-    "ts": 1794539475000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Gold Advances After Slump to One-Year Low Attracts Dip Buying",
-    "tt": "Altın Bir Yılın En Düşük Seviyesine Düştükten Sonra Yükseliyor Dip Alımlarını Çekiyor",
-    "s": "Gold advanced as investors with a long-term bullish view on bullion bought the dip after the precious metal tumbled to the lowest level in more than a year in the previous session.",
-    "ss": "Altın, külçe üzerinde uzun vadeli yükseliş beklentisi olan yatırımcıların, değerli metalin bir önceki seansta bir yılı aşkın bir sürenin en düşük seviyesine gerilemesinin ardından düşüşü satın almasıyla yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
-    "ts": 1794527925000,
-    "tags": [
-     "Altın ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -897,6 +895,42 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "ING'ye göre TCMB'nin mesajları Aralık'ta faiz indirim beklentilerini destekliyor",
+    "tt": null,
+    "s": "ING'nin değerlendirmesine göre Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) enflasyonda ana eğilime yaptığı vurgu Aralık'ta faiz indirimlerinin süreceğine işaret ediyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ing-ye-gore-tcmb-nin-mesajlari-aralik-ta-faiz-indirim-beklentilerini-destekliyor-3794526",
+    "ts": 1794550975000,
+    "tags": []
+   },
+   {
+    "t": "Bloomberg Businessweek Türkiye'nin 156. sayısı yayınlandı",
+    "tt": null,
+    "s": "Bloomberg Businessweek Türkiye'nin yeni sayısı \"Söz Bitti Eylem Zamanı\" kapağıyla yayında...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bloomberg-businessweek-turkiye-nin-156-sayisi-yayinlandi-3794525",
+    "ts": 1794550455000,
+    "tags": []
+   },
+   {
+    "t": "İran ile ABD arasında gerilimi artıran karşılıklı saldırılar",
+    "tt": null,
+    "s": "İran Devrim Muhafızları Ordusu, ABD'nin Bahreyn'deki erken uyarı radarının hedef alınarak imha edildiğini duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-ile-abd-arasinda-gerilimi-artiran-karsilikli-saldirilar-3794521",
+    "ts": 1794549628000,
+    "tags": []
+   },
+   {
+    "t": "Altın, dipten alımların etkisiyle yükseldi",
+    "tt": null,
+    "s": "Altın, bir önceki gün bir yılı aşkın süredir görülen en düşük seviyeye geriledikten sonra, uzun vadeli yükseliş beklentisi olan yatırımcıların düşüş anında alım yapmasıyla değer kazandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altin-dipten-alimlarin-etkisiyle-yukseldi-3794520",
+    "ts": 1794548828000,
+    "tags": []
+   },
+   {
     "t": "Petrolde Trump gerginliği sürüyor",
     "tt": null,
     "s": "Petrol fiyatları, ABD Başkanı Donald Trump'ın İran ile bir anlaşmadan vazgeçebileceklerini açıklaması ve Orta Doğu enerji arzını sarsan savaşı bitirecek diplomatik çaba umutlarını zayıflatmasının ardından kazançlarını korudu.",
@@ -942,48 +976,12 @@
     "tags": []
    },
    {
-    "t": "Resmi Gazete'de bugün (13.11.2026)",
+    "t": "Dolar ne kadar oldu? 13 Kasım 2026, Dolar kurunda son durum ne?",
     "tt": null,
-    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "s": "Serbest piyasada dolar 50.3680 liradan güne başladı. Euro ise 55.7360 lirayı gördü. Dolar, euro ve diğer döviz kurlarıyla ile ilgili en son gelişmeler hakkında aradığınız tüm detayları; 1 dolar/euro kaç TL, dolar/euro ne kadar? gibi merak edilenleri sayfamızda bulabilirsiniz...",
     "ss": null,
-    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-13112026-3794499",
-    "ts": 1794517337000,
-    "tags": []
-   },
-   {
-    "t": "Fed/Daly: Yapay zekanın fiyat baskılarını artırdığına şüphe yok",
-    "tt": null,
-    "s": "San Francisco Fed Başkanı Mary Daly, yapay zekanın fiyat baskılarını artırdığını ve enflasyona şu anda sınırlı olan katkısının artabileceğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/feddaly-yapay-zekanin-fiyat-baskilarini-artirdigina-suphe-yok-3794498",
-    "ts": 1794516874000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de bütçe açığı Ekim'de 404,1 milyar dolara tırmandı",
-    "tt": null,
-    "s": "ABD'nin federal bütçe açığı, 2027 mali yılının ilk ayı olan Ekim'de geçen yılın aynı ayına göre yüzde 42,1 artarak 404,1 milyar dolara yükseldi. Federal hükümetin gelirleri yüzde 8,8 azalırken harcamaları yüzde 12,2 arttı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-butcesi-2027-mali-yilinin-ilk-ayinda-404-1-milyar-dolar-acik-verdi-3794497",
-    "ts": 1794514533000,
-    "tags": []
-   },
-   {
-    "t": "Erdoğan'dan COP31 taraflarına iklim taahhütlerini hayata geçirme çağrısı",
-    "tt": null,
-    "s": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya'daki COP31 Liderler Zirvesi'nde oluşan ortak zeminin iklim iş birliğini güçlendireceğini belirtti. Erdoğan, taraflara iklim taahhütlerini hayata geçirme ve küresel ısınmayı 1,5 dereceyle sınırlama hedefi doğrultusunda çabalarını sürdürme çağrısı yaptı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/erdogan-dan-cop31-taraflarina-iklim-taahhutlerini-hayata-gecirme-cagrisi-3794496",
-    "ts": 1794514080000,
-    "tags": []
-   },
-   {
-    "t": "Huang, ABD Kongresi'nde ifade vermeyi kabul etti",
-    "tt": null,
-    "s": "ABD Temsilciler Meclisi Dış İlişkiler Komitesi Başkanı Brian Mast, Nvidia'nın eski CEO'su Jensen Huang'ın ulusal güvenliğe yönelik tehditlerin ele alınacağı kapalı oturumda ifade vermeyi kabul ettiğini açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/huang-abd-kongresi-nde-ifade-vermeyi-kabul-etti-3794495",
-    "ts": 1794511100000,
+    "u": "https://www.bloomberght.com/dolar-ne-kadar-oldu-13-kasim-2026-dolar-kurunda-son-durum-ne-pkh2-3794528",
+    "ts": 1794551401000,
     "tags": []
    }
   ]
@@ -1000,6 +998,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
