@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T21:03:57.859236+00:00",
+ "generated": "2026-11-13T21:58:16.666080+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 19.16,
-   "c": 2.46,
-   "d": 0.46,
+   "p": 19.3,
+   "c": 3.21,
+   "d": 0.6,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3881.3,
-   "c": -0.1,
-   "d": -4.0,
+   "p": 3884.3,
+   "c": -0.03,
+   "d": -1.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 48.785,
-   "c": -2.38,
-   "d": -1.187,
+   "p": 48.68,
+   "c": -2.59,
+   "d": -1.292,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.84,
-   "c": 0.11,
-   "d": 0.1,
+   "p": 89.1,
+   "c": 0.41,
+   "d": 0.36,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.04,
-   "c": 0.23,
-   "d": 0.22,
+   "p": 96.26,
+   "c": 0.46,
+   "d": 0.44,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.43,
+   "p": 103.427,
    "c": 0.25,
-   "d": 0.26,
+   "d": 0.257,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3603,
-   "c": 0.21,
-   "d": 0.106,
+   "p": 50.3475,
+   "c": 0.19,
+   "d": 0.094,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 68791,
-   "c": -3.68,
+   "p": 68347,
+   "c": -4.41,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1945.55,
-   "c": -3.5,
+   "p": 1927.32,
+   "c": -4.4,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 79.76,
-   "c": -1.92,
+   "p": 78.68,
+   "c": -3.33,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.02,
-   "c": -1.57,
+   "p": 1.013,
+   "c": -2.2,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 636.64,
-   "c": -2.72,
+   "p": 631.04,
+   "c": -3.55,
    "k": "usd"
   }
  ],
@@ -481,6 +481,16 @@
    "reading": null
   },
   {
+   "title": "FOMC Financial Stability Report",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794603600000,
+   "tr": "Cmt 14.11 00:00",
+   "reading": null
+  },
+  {
    "title": "FOMC Member Jefferson Speaks",
    "impact": "Low",
    "forecast": "",
@@ -494,81 +504,57 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "We’re Living In An Inflationary Environment: Morse",
-    "tt": "Enflasyonist Bir Ortamda Yaşıyoruz: Morse",
-    "s": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on “Bloomberg Money.” They discuss the current state of the oil market, his career, and China. (Source: Bloomberg)",
-    "ss": "Hartree Partners'ın kıdemli danışmanı ve emtia stratejisti Ed Morse, \"Bloomberg Money\" programında Tome Keene'ye katılıyor. Petrol piyasasının mevcut durumunu, kariyerini ve Çin'i tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/we-re-living-in-an-inflationary-environment-morse-video",
-    "ts": 1794598866000,
+    "t": "Bond Investors Expect More Pain After Week of Soaring Yields",
+    "tt": "Tahvil Yatırımcıları Yükselen Getiri Haftasının Ardından Daha Fazla Ağrı Bekliyor",
+    "s": "Just when global bond investors were starting to believe the worst of this year’s selloff was over, surging Treasury yields are making them think again.",
+    "ss": "Küresel tahvil yatırımcıları tam da bu yılın en kötü satışlarının geride kaldığına inanmaya başlarken, artan Hazine getirileri onları yeniden düşünmeye sevk ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
+    "ts": 1794549617000,
     "tags": []
    },
    {
-    "t": "Grading Global Retirement Plans, US Receives C+",
-    "tt": "Küresel Emeklilik Planlarını Derecelendiren ABD, C+ Aldı",
-    "s": "Christine Mahoney, global defined benefit & defined contribution leader at Marsh, joins Tome Keene on “Bloomberg Money.” They discuss the 2026 Marsh CFA Institute Global Pension Index, which gives grades for the best and worst retirement plans around the world. (Source: Bloomberg)",
-    "ss": "Marsh'ın küresel tanımlanmış fayda ve tanımlanmış katkı lideri Christine Mahoney, \"Bloomberg Money\" programında Tome Keene'ye katılıyor. Dünya çapındaki en iyi ve en kötü emeklilik planlarına notlar veren 2026 Marsh CFA Enstitüsü Küresel Emeklilik Endeksi'ni tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/grading-global-retirement-plans-us-receives-c-video",
-    "ts": 1794599696000,
+    "t": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
+    "tt": "Gelişmekte Olan Piyasa Varlıkları Çip Bozgunu Olarak Düşüyor, Fed Faiz Oranı Endişeleri Devam Ediyor",
+    "s": "Emerging-market assets fell on Friday as a rout in chipmakers weighed on equities and lingering concerns over the Federal Reserve’s rate path kept currencies under pressure.",
+    "ss": "Gelişmekte olan piyasa varlıkları Cuma günü, çip üreticilerindeki düşüşün hisse senetleri üzerinde baskı oluşturması ve Fed'in faiz politikasına ilişkin süregelen endişelerin para birimlerini baskı altında tutmasıyla düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+    "ts": 1794545627000,
     "tags": []
    },
    {
-    "t": "Hard To Get A Retirement System ‘Right’: Ed Morse",
-    "tt": "Emeklilik Sistemini 'Doğru' Bulmak Zor: Ed Morse",
-    "s": "Ed Morse, senior advisor and commodities strategist at Hartree Partners, joins Tome Keene on “Bloomberg Money.” They discuss the challenges of fixing retirement. (Source: Bloomberg)",
-    "ss": "Hartree Partners'ın kıdemli danışmanı ve emtia stratejisti Ed Morse, \"Bloomberg Money\" programında Tome Keene'ye katılıyor. Emekliliği düzeltmenin zorluklarını tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/hard-to-get-a-retirement-system-right-ed-morse-video",
-    "ts": 1794599018000,
+    "t": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
+    "tt": "Nvidia, Huang'ın Ayrılmasıyla Trump Tarife Satışlarından Bu Yana En Kötü Haftayı Geçirdi",
+    "s": "Nvidia Corp. stock notched its worst week in more than 18 months, as its share price continued to reel after Jensen Huang’s ouster from the top chipmaker.",
+    "ss": "Nvidia Corp. hisseleri, Jensen Huang'ın lider yonga üreticisinden ayrılmasının ardından hisse fiyatının düşmeye devam etmesiyle 18 aydan uzun bir sürenin en kötü haftasını yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
+    "ts": 1794594281000,
     "tags": []
    },
    {
-    "t": "Mexico Rate Cut Fuels Speculation Officials Want a Weaker FX",
-    "tt": "Meksika Faiz İndirimi Yetkililerin Daha Zayıf Döviz İstiyor Olduğu Spekülasyonu Artırıyor",
-    "s": "Traders are increasingly speculating Mexico’s central bank is pushing to weaken the currency whose strength threatened to weigh on exports and tourism.",
-    "ss": "Yatırımcılar, Meksika merkez bankasının, gücü ihracat ve turizmi tehdit eden para birimini zayıflatmak için baskı yaptığı yönünde giderek daha fazla spekülasyon yapıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/mexico-rate-cut-fuels-speculation-officials-want-a-weaker-peso",
-    "ts": 1794581593000,
-    "tags": [
-     "DXY ▼",
-     "Altın ▲",
-     "Gümüş ▲",
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Social Security Will Be There, But Different: Mahoney",
-    "tt": "Sosyal Güvenlik Orada Olacak Ama Farklı: Mahoney",
-    "s": "Christine Mahoney, global defined benefit & defined contribution leader at Marsh, joins Tom Keene on “Bloomberg Money.” They discuss the future of Social Security and her belief it will still exist but look different than it does today. (Source: Bloomberg)",
-    "ss": "Marsh'ın küresel tanımlanmış fayda ve tanımlanmış katkı lideri Christine Mahoney, \"Bloomberg Money\"de Tom Keene'e katılıyor. Sosyal Güvenliğin geleceğini ve onun hala var olacağına ancak bugün olduğundan farklı görüneceğine olan inancını tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/social-security-will-be-there-but-different-mahoney-video",
-    "ts": 1794601392000,
+    "t": "US Stocks Close Lower After Nvidia Spurs Turbluence in AI Trade",
+    "tt": "ABD Hisse Senetleri, Nvidia'nın Yapay Zeka Ticaretinde Türbülansı Teşvik Etmesinin Ardından Düşüşle Kapandı",
+    "s": "US equities fell on Friday at the end of a volatile week as investors reassessed the artificial intelligence trade in the wake of turmoil at Nvidia Corp. and the outlook of Federal Reserve interest rates.",
+    "ss": "Yatırımcıların Nvidia Corp.'taki çalkantı sonrasında yapay zeka ticaretini ve Federal Rezerv faiz oranlarının görünümünü yeniden değerlendirmesiyle ABD hisse senetleri dalgalı bir haftanın sonunda Cuma günü düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
+    "ts": 1794575952000,
     "tags": []
    },
    {
-    "t": "Retail Investors Get Ready For Anthropic IPO",
-    "tt": "Perakende Yatırımcıları Antropik Halka Arza Hazırlanıyor",
-    "s": "Bloomberg’s Zijia Song and Max Chafkin join Tom Keene on “Bloomberg Money.” Anthropic’s IPO could raise up to $90.4 billion for the company and its co-founders when it prices on Nov. 18. It is expected to start trading on the Nasdaq around midday on Nov. 19, with investors who received allocations h",
-    "ss": "Bloomberg'den Zijia Song ve Max Chafkin, \"Bloomberg Money\"de Tom Keene'e katılıyor. Anthropic'in halka arzı, 18 Kasım'da fiyatlandığında şirket ve kurucu ortakları için 90,4 milyar dolara kadar çıkabilir. Tahsisi alan yatırımcılarla birlikte Nasdaq'da 19 Kasım öğle saatlerinde işlem görmeye başlaması bekleniyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/retail-investors-get-ready-for-anthropic-ipo-video",
-    "ts": 1794602420000,
+    "t": "Stocks End Week Higher Amid Tech Turmoil | Closing Bell",
+    "tt": "Hisse Senetleri Teknolojideki Kargaşanın Ortasında Haftayı Yükselişle Kapattı | Kapanış Zili",
+    "s": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Vonnie Quinn, Bailey Lipschultz, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "ss": "Vonnie Quinn, Bailey Lipschultz, Carol Massar ve Tim Stenovec'in katılımıyla Bloomberg Televizyonu, Bloomberg Radyosu ve YouTube'da ABD pazarı kapanışına ilişkin platformlar arası kapsamlı kapsamlı yayın. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/stocks-end-week-higher-amid-tech-turmoil-closing-bell-video",
+    "ts": 1794605658000,
     "tags": []
    },
    {
-    "t": "ETF Anthropic Exposure, Political Funds, BOJ Unwinds ETFs",
-    "tt": "ETF Antropik Risk, Siyasi Fonlar, BOJ, ETF'leri Çözüyor",
-    "s": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Active Investment Company Alliance Founder & Executive Chair John Cole Scott, Tema ETFs Head of Investment Strategy Paisley Nardini",
-    "ss": "\"Bloomberg ETF IQ\", küresel borsa yatırım fonları endüstrisindeki trilyonlarca dolara bağlı fırsatlara, risklere ve mevcut eğilimlere odaklanıyor. Bugünün konukları: Active Investment Company Alliance Kurucusu ve İcra Kurulu Başkanı John Cole Scott, Tema ETF'ler Yatırım Stratejisi Başkanı Paisley Nardini",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-02/etf-iq-10-2-2026-video",
-    "ts": 1793652963000,
-    "tags": []
-   },
-   {
-    "t": "S&P 500 Falls as Chip Slump Offsets Inflation Data: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
-    "s": "Another selloff in chipmakers weighed on stocks, overshadowing inflation data that eased concern about aggressive Federal Reserve rate hikes.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794521833000,
+    "t": "Gold Set for Worst Week Since March as Fed Rate Hike Bets Mount",
+    "tt": "Altın, Fed'in Faiz Artırımı Bahislerinin Artmasıyla Mart'tan Bu Yana En Kötü Haftaya Girdi",
+    "s": "Gold is on course for its worst week since March as traders bet that persistent energy-driven inflation will lead to more Federal Reserve tightening, a challenge for the precious metal.",
+    "ss": "Altın, tüccarların sürekli enerji kaynaklı enflasyonun Fed'in daha fazla sıkılaşmasına yol açacağı ve değerli metal için bir zorluk oluşturacağı yönündeki iddialarıyla Mart ayından bu yana en kötü haftasını geçirme yolunda ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
+    "ts": 1794527925000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -578,21 +564,45 @@
     ]
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 13",
-    "tt": "13 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil fluctuated as traders parsed conflicting signs on the trajectory of peace talks between the US and Iran.",
-    "ss": "Petrol, tüccarların ABD ile İran arasındaki barış görüşmelerinin gidişatına ilişkin çelişkili işaretleri analiz etmesiyle dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
-    "ts": 1794524529000,
+    "t": "Dollar Wraps Best Week in Over a Month on Fed Rate Hike Bets",
+    "tt": "Dolar, Fed'in Faiz Artırımı Bahisleriyle Bir Ayın En İyi Haftasını Tamamladı",
+    "s": "The dollar ended the week the strongest in more than a month, extending a rally fueled by growing expectations that the Federal Reserve will increase interest rates next month.",
+    "ss": "Dolar, haftayı bir aydan uzun bir sürenin en güçlü performansıyla tamamladı ve Fed'in gelecek ay faiz oranlarını artıracağına dair artan beklentilerin körüklediği yükselişini sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/dollar-poised-for-best-week-in-over-a-month-on-fed-hike-bets",
+    "ts": 1794588262000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "US Treasury Weighs Loan to Help Venezuela Pay Debt to IDB",
+    "tt": "ABD Hazinesi Venezuela'nın IDB'ye Borç Ödemesine Yardımcı Olmak İçin Krediyi Tartıyor",
+    "s": "The US Treasury is weighing a plan to provide a short-term bridge loan to help Venezuela repay its outstanding obligations with the Inter-American Development ⁠Bank, according to people familiar with the matter, a move that would pave the way for the cash-strapped country to unlock billions of dolla",
+    "ss": "Konuya yakın kaynaklara göre ABD Hazinesi, Venezüella'nın Inter-American Development ⁠Bank'a olan ödenmemiş yükümlülüklerini geri ödemesine yardımcı olmak için kısa vadeli bir köprü kredisi sağlama planını değerlendiriyor; bu, nakit sıkıntısı çeken ülkenin milyarlarca doların kilidini açmasının önünü açacak bir hamle.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/us-treasury-weighs-loan-to-help-venezuela-pay-debt-to-idb",
+    "ts": 1794605402000,
     "tags": []
    },
    {
-    "t": "JPMorgan Sees AI Spree Driving Record 2027 US High-Grade Supply",
-    "tt": "JPMorgan, Yapay Zeka Çılgınlığı Sürüş Rekorunu Gördü 2027 ABD Yüksek Kaliteli Tedarik",
-    "s": "Spending by big tech companies on the artificial intelligence buildout, along with elevated refinancing needs, will help drive another record year of US investment-grade bond issuance, according to JPMorgan Chase &amp; Co.",
-    "ss": "JPMorgan Chase & Co.'ya göre, büyük teknoloji şirketlerinin yapay zeka inşası için yaptığı harcamalar ve artan yeniden finansman ihtiyaçları, ABD'nin yatırım yapılabilir tahvil ihracında bir rekor yılı daha artırmaya yardımcı olacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/jpmorgan-sees-ai-spree-driving-record-2027-us-high-grade-supply",
-    "ts": 1794599887000,
+    "t": "SEC Moves to Rein In Executive Pay Disclosures to Investors",
+    "tt": "SEC, Yatırımcılara Yönetici Ücret Açıklamalarını Dizginlemek İçin Harekete Geçiyor",
+    "s": "Executive compensation disclosures are in for an overhaul as part of the US Securities and Exchange Commission’s plan to scale back the information that publicly-traded companies must give investors.",
+    "ss": "Yönetici tazminatı açıklamaları, ABD Menkul Kıymetler ve Borsa Komisyonu'nun halka açık şirketlerin yatırımcılara vermesi gereken bilgileri azaltma planının bir parçası olarak elden geçirilmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/sec-moves-to-rein-in-executive-pay-disclosures-to-investors",
+    "ts": 1794589910000,
+    "tags": []
+   },
+   {
+    "t": "Wall Street’s Wild Ride Delivers Big Paydays and Bigger Bruises",
+    "tt": "Wall Street'in Vahşi Yolculuğu Büyük Maaş Günleri ve Daha Büyük Morluklar Getiriyor",
+    "s": "From Treasuries to turbocharged tech bets, almost nothing on Wall Street is escaping the whiplash. Investors keep pouring billions into the fray anyway.",
+    "ss": "Hazine tahvillerinden turboşarjlı teknoloji bahislerine kadar Wall Street'te neredeyse hiçbir şey bu darbeden kurtulamıyor. Yatırımcılar yine de bu mücadeleye milyarlarca dolar akıtmaya devam ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/wall-street-s-wild-ride-delivers-big-paydays-and-bigger-bruises",
+    "ts": 1794605124000,
     "tags": []
    }
   ],
@@ -695,12 +705,60 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+    "tt": "'Planlarıma fantezi diyor': Kocam, yıllık 200.000 dolarlık emekliliği karşılayamayacağımızı söylüyor. Ucuz mu davranıyor?",
+    "s": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+    "ss": "“Emeklilik hesaplarımızda birikmiş 2 milyon dolarımız ve 1,3 milyon dolar değerinde bir evimiz var.”",
+    "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "ts": 1794607200000,
+    "tags": []
+   },
+   {
+    "t": "FAA declares rare, widespread ground outage",
+    "tt": "FAA nadir, yaygın yer kesintisi olduğunu açıkladı",
+    "s": "Nearly 8,000 flights are delayed so far.",
+    "ss": "Şu ana kadar yaklaşık 8.000 uçuş ertelendi.",
+    "u": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+    "ts": 1794607200000,
+    "tags": []
+   },
+   {
+    "t": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+    "tt": "'Finansal kötü yönetim geçmişi var': Kardeşim, kız kardeşimizi vasiyetinden çıkardı. Her şeyi alacağım. Ona söyleyeyim mi?",
+    "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "ss": "\"Kardeşimin isteklerine saygı duymakla kız kardeşime karşı adil olmak arasında kaldım.\"",
+    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "ts": 1794605520000,
+    "tags": []
+   },
+   {
+    "t": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+    "tt": "Bitcoin şu anda 69.000 doların altında ve yatırımcılar Antropik halka arza katılmak için nakit para çekerse daha da düşebilir",
+    "s": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
+    "ss": "Yatırımcılar, tarihin en çok aranan hisse senedi tekliflerinden birine portföylerinde yer açmak için mevcut bahislerin bir kısmını kripto olarak satmak zorunda kalabilir.",
+    "u": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+    "ts": 1794605160000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
     "tt": "Wall Street'in Jensen Huang olmadan yapay zeka ticaretini yeniden düşünmesiyle AMD ve diğer çip stokları düşüyor",
     "s": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
     "ss": "İlk başta Nvidia'nın acısı çip sektörünün geri kalan kazancı olabilirmiş gibi görünüyordu. Ancak şimdi yatırımcılar o kadar emin değil.",
     "u": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
-    "ts": 1794603420000,
+    "ts": 1794604200000,
+    "tags": []
+   },
+   {
+    "t": "The trillion-dollar mistake corporate America is making about retirement",
+    "tt": "Kurumsal Amerika'nın emeklilik konusunda yaptığı trilyon dolarlık hata",
+    "s": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+    "ss": "Piyasa, 50 yaş ve üzeri Amerikalıların ekonomik etkisini çarpıcı biçimde düşük fiyatlandırıyor.",
+    "u": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    "ts": 1794604140000,
     "tags": []
    },
    {
@@ -738,61 +796,34 @@
     "u": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
     "ts": 1794600000000,
     "tags": []
-   },
-   {
-    "t": "Budget airlines are going upscale with first-class seats and faster wifi",
-    "tt": "Ekonomik havayolları birinci sınıf koltuklar ve daha hızlı Wi-Fi ile lükse geçiş yapıyor",
-    "s": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-    "ss": "Gösterişsizliği unutun: Frontier ve JetBlue lüks ilanların peşinde, Wall Street de onları satın alıyor.",
-    "u": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-    "ts": 1794598800000,
-    "tags": []
-   },
-   {
-    "t": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-    "tt": "50 yaşında sağlık sigortası mı? 'Daha fazlası için Medicare' Amerikalı işçiler için ne anlama gelebilir?",
-    "s": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
-    "ss": "Bu \"Herkes için Medicare\" değil, ancak yeni bir yasa tasarısı Medicare yaşını 50'ye düşürerek kapsamı 60 milyon yetişkini kapsayacak şekilde genişletecek",
-    "u": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-    "ts": 1794597960000,
-    "tags": []
-   },
-   {
-    "t": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-    "tt": "Nvidia'daki skandal S&P 500'ün sorununun tam olarak aynısı",
-    "s": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-    "ss": "Emekliliğinizin büyük bir kısmı muhtemelen bilgisayar çipi devine yatırılıyor.",
-    "u": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-    "ts": 1794597540000,
-    "tags": []
-   },
-   {
-    "t": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
-    "tt": "Washington'un Pekin'in Nvidia çiplerine erişimini engelleme çabaları, piyasaları sarsan 'kısa ömürlü bir ABD-Çin ticaret savaşını' ateşleyebilir",
-    "s": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month.",
-    "ss": "Bu arada Nvidia ve Ticaret Bakanlığı'nın üst düzey yetkilileri önümüzdeki ay bir dizi kongre duruşmasıyla karşı karşıya kalacak.",
-    "u": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
-    "ts": 1794597540000,
-    "tags": []
-   },
-   {
-    "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "tt": "Babamdan bana 1,4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
-    "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-    "ss": "\"Her zaman mirasının bir kısmının kızına miras kalmasını istediğini söylerdi ve ben buna hiçbir zaman itiraz etmedim.\"",
-    "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "ts": 1794597360000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
-    "t": "The Last Man Defending 'Open' AI Just Left The Building: How Jensen's Fall Clears The Way For A Federal Crackdown...",
-    "tt": "'Açık' Yapay Zekayı Savunan Son Adam Binayı Az Önce Terk Etti: Jensen'in Düşüşü Federal Baskının Önünü Nasıl Açtı?",
-    "s": "The Last Man Defending 'Open' AI Just Left The Building: How Jensen's Fall Clears The Way For A Federal Crackdown... Four months ago, Jensen Huang was the most powerful voice in Washington arguing that Americans should be allowed to download AI models and run them on their own hardware. This morning",
-    "ss": "'Açık' Yapay Zekayı Savunan Son Adam Binayı Az Önce Terk Etti: Jensen'in Düşüşü Federal Baskının Önünü Nasıl Açtı... Dört ay önce Jensen Huang, Amerikalıların yapay zeka modellerini indirip kendi donanımlarında çalıştırmalarına izin verilmesi gerektiğini savunan Washington'daki en güçlü sesti. Bu sabah",
-    "u": "https://www.zerohedge.com/ai/federal-crackdown-imminent-open-weight-models-under-fire-after-jensen-ouster",
-    "ts": 1794603000000,
+    "t": "RFK Jr. Bets Millions On Psychedelic Ibogaine, Taps Mark Cuban To Make It",
+    "tt": "RFK Jr. Psychedelic Ibogaine'e Milyonlarca Dolar Bahis Yaptı, Mark Cuban'ı Kazandırdı",
+    "s": "RFK Jr. Bets Millions On Psychedelic Ibogaine, Taps Mark Cuban To Make It Authored by Zachary Stieber via The Epoch Times , The federal government is slated to invest millions to develop treatment with ibogaine, a psychedelic drug , Health Secretary Robert F. Kennedy Jr. said on Nov. 12. The Advance",
+    "ss": "RFK Jr. Psikedelik Ibogaine Milyonlarca Bahis Yaptı, Bunu Yapmak İçin Mark Cuban'a Dokundu Yazan: Zachary Stieber, The Epoch Times aracılığıyla, Sağlık Bakanı Robert F. Kennedy Jr. 12 Kasım'da yaptığı açıklamada, Federal hükümetin psikedelik bir ilaç olan ibogain ile tedavi geliştirmek için milyonlarca yatırım yapması planlandığını söyledi. İlerleme",
+    "u": "https://www.zerohedge.com/medical/rfk-jr-bets-millions-psychedelic-ibogaine-taps-mark-cuban-make-it",
+    "ts": 1794607200000,
+    "tags": []
+   },
+   {
+    "t": "Donors Have Given Nearly $100K To Ole Miss 'Monkey Noises' Student - On One Condition",
+    "tt": "Bağışçılar, Ole Miss 'Maymun Gürültüleri' Öğrencisine Tek Bir Şartla Yaklaşık 100 Bin Dolar Verdi",
+    "s": "Donors Have Given Nearly $100K To Ole Miss 'Monkey Noises' Student - On One Condition Last week, two women were caught on a Ring camera making monkey noises outside an apartment shared by three black Ole Miss students. One apologized - and is no longer a student. The other one has not apologized, an",
+    "ss": "Bağışçılar, Ole Miss 'Maymun Gürültüsü' Öğrencisine Tek Bir Şartla Yaklaşık 100 Bin Dolar Verdi Geçen hafta, iki kadın, üç siyah Ole Miss öğrencisinin paylaştığı bir dairenin dışında maymun sesleri çıkarırken Ring kamerasına yakalandı. Biri özür diledi ve artık öğrenci değil. Diğeri özür dilemedi",
+    "u": "https://www.zerohedge.com/political/donors-have-given-nearly-100k-ole-miss-monkey-noises-student-one-condition",
+    "ts": 1794606000000,
+    "tags": []
+   },
+   {
+    "t": "Villainy Abides",
+    "tt": "Kötülük Devam Ediyor",
+    "s": "Villainy Abides Authored by James Howard Kunstler via Kunstler.com , \"Sometimes things are happening that are bigger than what the headline flow suggests.\" - Tom Luongo, Gold, Goats and Guns The Party of Victims (a.k.a., the Democratic Party), the so far designated \"winners\" of the midterm election,",
+    "ss": "Villainy Abides Yazan: James Howard Kunstler, Kunstler.com aracılığıyla, \"Bazen manşet akışının önerdiğinden daha büyük şeyler oluyor.\" - Tom Luongo, Altın, Keçiler ve Silahlar Kurbanların Partisi (diğer adıyla Demokrat Parti), şu ana kadar ara seçimlerin \"kazananları\" olarak belirlendi,",
+    "u": "https://www.zerohedge.com/political/villainy-abides",
+    "ts": 1794604800000,
     "tags": []
    },
    {
@@ -801,7 +832,16 @@
     "s": "FAA Issues Nationwide Ground Stop Due To 'Extraordinary Circumstances' The Federal Aviation Administration has ordered a nationwide ground stop on all departing flights due to technical issues. The agency has listed an equipment outage (with comms issues noted in advisories).&nbsp; The order, issued",
     "ss": "FAA, 'Olağanüstü Koşullar' Nedeniyle Ülke Çapında Yer Durdurma İşlemi Yaptı Federal Havacılık İdaresi, teknik sorunlar nedeniyle tüm giden uçuşlarda ülke çapında yer durdurma emri verdi. Ajans, bir ekipman kesintisi bildirdi (iletişim sorunları tavsiyelerde belirtildi).  Verilen emir",
     "u": "https://www.zerohedge.com/political/faa-issues-nationwide-ground-stop-due-extraordinary-circumstances",
-    "ts": 1794602940000,
+    "ts": 1794603660000,
+    "tags": []
+   },
+   {
+    "t": "The Last Man Defending 'Open' AI Just Left The Building: How Jensen's Fall Clears The Way For A Federal Crackdown...",
+    "tt": "'Açık' Yapay Zekayı Savunan Son Adam Binayı Az Önce Terk Etti: Jensen'in Düşüşü Federal Baskının Önünü Nasıl Açtı?",
+    "s": "The Last Man Defending 'Open' AI Just Left The Building: How Jensen's Fall Clears The Way For A Federal Crackdown... Four months ago, Jensen Huang was the most powerful voice in Washington arguing that Americans should be allowed to download AI models and run them on their own hardware. This morning",
+    "ss": "'Açık' Yapay Zekayı Savunan Son Adam Binayı Az Önce Terk Etti: Jensen'in Düşüşü Federal Baskının Önünü Nasıl Açtı... Dört ay önce Jensen Huang, Amerikalıların yapay zeka modellerini indirip kendi donanımlarında çalıştırmalarına izin verilmesi gerektiğini savunan Washington'daki en güçlü sesti. Bu sabah",
+    "u": "https://www.zerohedge.com/ai/federal-crackdown-imminent-open-weight-models-under-fire-after-jensen-ouster",
+    "ts": 1794603000000,
     "tags": []
    },
    {
@@ -848,36 +888,36 @@
     "u": "https://www.zerohedge.com/political/obama-cia-chief-john-brennans-son-arrested-child-porn-charge-report",
     "ts": 1794600149000,
     "tags": []
-   },
-   {
-    "t": "Stephen Miller Cracks Down On Lobbyist Access After Wiles 'Pay-For-Play' Allegations",
-    "tt": "Stephen Miller, Wiles'ın 'Oynamak İçin Ödeme' İddialarından Sonra Lobici Erişimini Engelledi",
-    "s": "Stephen Miller Cracks Down On Lobbyist Access After Wiles 'Pay-For-Play' Allegations Authored by Zachary Stieber via The Epoch Times , New White House Chief of Staff Stephen Miller has imposed tighter rules regarding personnel meeting with lobbyists , after several former top officials alleged corru",
-    "ss": "Stephen Miller, Wiles'ın 'Oyun Kadar Öde' İddiaları Sonrasında Lobicilerin Erişimini Engelledi Zachary Stieber tarafından The Epoch Times aracılığıyla yazıldı, Yeni Beyaz Saray Özel Kalem Müdürü Stephen Miller, bazı eski üst düzey yetkililerin lobicilerle personel toplantıları konusunda daha sıkı kurallar getirdi.",
-    "u": "https://www.zerohedge.com/political/stephen-miller-cracks-down-lobbyist-access-after-wiles-pay-play-allegations",
-    "ts": 1794598800000,
-    "tags": []
-   },
-   {
-    "t": "ARM CEO Leads Pack To Replace Huang At Nvidia: Polymarket",
-    "tt": "ARM CEO'su Nvidia'da Huang'ın Yerini Alacak Pakete Liderlik Ediyor: Polymarket",
-    "s": "ARM CEO Leads Pack To Replace Huang At Nvidia: Polymarket Nvidia's board has approached Arm chief executive Rene Haas about succeeding Jensen Huang , people familiar with the matter told the Financial Times on Friday - and prediction-market bettors wasted no time crowning him the favorite. ARM CEO R",
-    "ss": "ARM CEO'su, Nvidia'da Huang'ın Yerini Alacak Pakete Liderlik Ediyor: Polymarket Nvidia'nın yönetim kurulu, Arm'ın CEO'su Rene Haas'a Jensen Huang'ın yerini alması için başvurdu, konuya aşina kişiler Cuma günü Financial Times'a söyledi - ve tahmin piyasası bahisçileri onu favori olarak taçlandırmak için hiç vakit kaybetmediler. ARM CEO'su R",
-    "u": "https://www.zerohedge.com/technology/arm-ceo-leads-pack-replace-huang-nvidia-polymarket",
-    "ts": 1794598388000,
-    "tags": []
-   },
-   {
-    "t": "\"A Deal For The World\": Russian Diesel Exports Double Under Trump's Waiver, And America Gets None Of It",
-    "tt": "\"Dünya İçin Bir Anlaşma\": Trump'ın Muafiyeti Altında Rus Dizel İhracatı İki Katına Çıkıyor Ve Amerika Hiçbirini Alamıyor",
-    "s": "\"A Deal For The World\": Russian Diesel Exports Double Under Trump's Waiver, And America Gets None Of It Five weeks after Trump announced that Putin would \"immediately\" supply diesel to the \"American and Global Marketplace,\" we can now check the receipts. The global marketplace did fine. The American",
-    "ss": "\"Dünya İçin Bir Anlaşma\": Trump'ın Muafiyeti Altında Rus Dizel İhracatı İki Katına Çıkıyor Ve Amerika Hiçbirini Alamıyor Trump'ın Putin'in \"Amerikan ve Küresel Pazara\" \"hemen\" dizel tedarik edeceğini açıklamasından beş hafta sonra, artık makbuzları kontrol edebiliriz. Küresel pazar iyi iş çıkardı. Amerikalı",
-    "u": "https://www.zerohedge.com/energy/deal-world-russian-diesel-exports-double-under-trumps-waiver-and-america-gets-none-it",
-    "ts": 1794597900000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Resmi Gazete'de bugün (14.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-14112026-3794649",
+    "ts": 1794605360000,
+    "tags": []
+   },
+   {
+    "t": "Mekke Anlaşması yürürlüğe girdi",
+    "tt": null,
+    "s": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/mekke-anlasmasi-yururluge-girdi-3794648",
+    "ts": 1794605085000,
+    "tags": []
+   },
+   {
+    "t": "SPK'dan üç şirketin işlemleriyle ilgili suç duyurusu ve işlem yasağı",
+    "tt": null,
+    "s": "Sermaye Piyasası Kurulu (SPK), E-Data Teknoloji, Kardemir Çelik ve Graintürk Holding paylarındaki işlemlere ilişkin incelemeler sonucunda suç duyurusunda bulunulmasına karar verdi. Kurul, incelemeler kapsamında bazı kişi ve kuruluşlara iki yıl süreyle işlem yasağı uygulanmasını da kararlaştırdı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/spk-dan-uc-hissede-suc-duyurusu-ve-islem-yasagi-3794647",
+    "ts": 1794604571000,
+    "tags": []
+   },
    {
     "t": "ABD-Çin Ticaret Kurulu ilk resmi toplantısını yaptı",
     "tt": null,
@@ -939,33 +979,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/bessent-hazine-aylardir-megaspeed-in-kara-listeye-alinmasini-destekliyor-3794639",
     "ts": 1794588785000,
-    "tags": []
-   },
-   {
-    "t": "OpenAI, yapay zekayla alışveriş için ChatGPT Wallet'ı kullanıma sundu",
-    "tt": null,
-    "s": "OpenAI, yapay zeka ajanlarının kullanıcıların kart bilgilerine erişmeden alışveriş ödemesi yapmasını sağlayan ChatGPT Wallet'ı kullanıma sundu. İlk aşamada ABD'deki uygun ChatGPT Pro abonelerine sunulacak hizmette kullanıcıların her işlemi güvenlik doğrulamasıyla onaylaması gerekecek.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/openai-odeme-yapabilen-chatgpt-wallet-i-duyurdu-3794638",
-    "ts": 1794587700000,
-    "tags": []
-   },
-   {
-    "t": "QNB/Ömür Tan: Karbon dönüşümünü gerçekleştiremeyen şirketler rekabet avantajını kaybeder",
-    "tt": null,
-    "s": "QNB Türkiye CEO'su Ömür Tan, COP31'de Bloomberg HT'ye yaptığı açıklamada, AB'nin sınırda karbon düzenlemesinin 2027'den itibaren daha fazla önem kazanacağını söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/qnbomur-tan-karbon-donusumunu-gerceklestiremeyen-sirketler-rekabet-avantajini-kaybeder-3794632",
-    "ts": 1794584166000,
-    "tags": []
-   },
-   {
-    "t": "Türkiye ile Katar arasında 5 anlaşma imzalandı",
-    "tt": null,
-    "s": "Türkiye ile Katar, Dolmabahçe'de düzenlenen Türkiye-Katar Yüksek Stratejik Komitesi'nin 12. toplantısı kapsamında ticaret, eğitim, diplomasi ve savunma alanlarında beş anlaşma imzaladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-ile-katar-arasinda-5-anlasma-imzalandi-3794630",
-    "ts": 1794582898000,
     "tags": []
    }
   ]
