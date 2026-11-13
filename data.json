@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T06:33:16.421115+00:00",
+ "generated": "2026-11-13T07:52:14.577644+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3902.5,
-   "c": 0.44,
-   "d": 17.2,
+   "p": 3901.9,
+   "c": 0.43,
+   "d": 16.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.955,
-   "c": -0.03,
-   "d": -0.017,
+   "p": 50.015,
+   "c": 0.09,
+   "d": 0.043,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.4,
-   "c": -0.38,
-   "d": -0.34,
+   "p": 88.62,
+   "c": -0.14,
+   "d": -0.12,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.9,
-   "c": 0.08,
-   "d": 0.08,
+   "p": 96.11,
+   "c": 0.3,
+   "d": 0.29,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.195,
-   "c": 0.02,
-   "d": 0.025,
+   "p": 103.134,
+   "c": -0.03,
+   "d": -0.036,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3097,
-   "c": 0.11,
-   "d": 0.056,
+   "p": 50.3627,
+   "c": 0.22,
+   "d": 0.109,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11811.19,
-   "c": 1.24,
-   "d": 144.79,
+   "p": 11797.25,
+   "c": -0.12,
+   "d": -13.95,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 68848,
-   "c": -6.38,
+   "p": 68673,
+   "c": -6.63,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1936.11,
-   "c": -5.41,
+   "p": 1938.66,
+   "c": -5.32,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 79.68,
-   "c": -3.89,
+   "p": 79.94,
+   "c": -3.53,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.022,
-   "c": -1.72,
+   "p": 1.027,
+   "c": -1.56,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 633.55,
-   "c": -6.05,
+   "p": 631.12,
+   "c": -6.26,
    "k": "usd"
   }
  ],
@@ -504,99 +504,93 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
-    "tt": null,
-    "s": "Jim Atkinson, President & CEO at Guinness Atkinson Funds, discusses the launch of the firm's new K-beauty ETF and his outlook for demand. He speaks on Bloomberg's ETQ IQ Asia. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
-    "ts": 1794551370000,
+    "t": "UK Gilts Head for Worst Weekly Drop Since September",
+    "tt": "İngiltere Gilts Eylül'den bu yana en kötü haftalık düşüşe doğru gidiyor",
+    "s": "Plus, a protracted software outage at Microsoft",
+    "ss": "Ayrıca Microsoft'ta uzun süren bir yazılım kesintisi",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-13/uk-gilts-head-for-worst-weekly-drop-since-september",
+    "ts": 1794556120000,
     "tags": []
    },
    {
-    "t": "Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing",
-    "tt": null,
-    "s": "Artificial intelligence server maker xFusion Digital Technologies Co. received approval from the Shenzhen Stock Exchange on Thursday to move ahead with its planned initial public offering on the tech-heavy ChiNext board.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing",
-    "ts": 1794549903000,
+    "t": "(USD:ZWG) Zimbabwe Moves to Rebuild Local Bond Market After Currency Turmoil",
+    "tt": "(USD:ZWG) Zimbabwe, Döviz Kargaşasının Ardından Yerel Tahvil Piyasasını Yeniden İnşa Etmek İçin Harekete Geçti",
+    "s": "Zimbabwe is taking steps to rebuild its domestic bond market after stabilizing the gold-backed ZiG currency and bringing inflation down to single digits following years of economic turmoil.",
+    "ss": "Zimbabwe, altın destekli ZiG para birimini istikrara kavuşturduktan ve yıllar süren ekonomik çalkantıların ardından enflasyonu tek haneli rakamlara indirdikten sonra yerel tahvil piyasasını yeniden inşa etmek için adımlar atıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/-usd-zwg-zimbabwe-moves-to-rebuild-local-bond-market-after-currency-turmoil",
+    "ts": 1794555865000,
     "tags": []
    },
    {
-    "t": "Treasury Yield Surge Shatters Hopes Worst of Bond Rout Is Over",
-    "tt": null,
-    "s": "Just when global bond investors were starting to believe the worst of this year’s selloff was over, surging Treasury yields are making them think again.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
-    "ts": 1794549617000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
+    "t": "Nvidia Names Kress Interim CEO After Huang Exit as Trump Cools on Iran Deal",
+    "tt": "Huang'ın ayrılmasının ardından Trump, İran Anlaşmasını Sakinleştirirken Nvidia, Kress'i Geçici CEO'ya Atadı",
+    "s": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lun",
+    "ss": "Horizons Orta Doğu ve Afrika, dünyanın en hızlı büyüyen bölgelerinden birine dair günlük ilgi odağınızdır. Dubai'den canlı olarak size en son küresel pazarları ve analizleri, ayrıca MEA'ya özel olarak odaklanarak haber veren röportajları sunuyoruz. Bütün bunlar ve daha fazlası, Körfez'deki ofise doğru giderken öğle yemeği için mola verin",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/horizons-middle-east-africa-11-13-2026-video",
+    "ts": 1794555324000,
+    "tags": []
    },
    {
-    "t": "Stocks Fluctuate After Huang’s Ouster, Bonds Slump: Markets Wrap",
+    "t": "India’s Manufacturing Incentives Fall Short on Jobs, Report Says",
+    "tt": "Rapora Göre Hindistan'ın Üretim Teşvikleri İstihdam Açısından Yetersiz Kalıyor",
+    "s": "India’s flagship manufacturing incentive program is falling well short of its job-creation goals, a government think tank said, highlighting the challenge of generating enough work for its large and growing young population.",
+    "ss": "Hükümete bağlı bir düşünce kuruluşu, Hindistan'ın amiral gemisi olan imalat teşvik programının iş yaratma hedeflerinin oldukça gerisinde kaldığını belirterek, büyük ve büyüyen genç nüfusu için yeterli iş yaratmanın zorluğunu vurguladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/india-s-manufacturing-incentives-fall-short-on-jobs-report-says",
+    "ts": 1794554975000,
+    "tags": []
+   },
+   {
+    "t": "China Internet Stock Gains Face Reality Check in Nvidia Fallout",
+    "tt": "Çin İnternet Hisse Senedi, Nvidia Fallout'ta Gerçeklik Kontrolü Kazandı",
+    "s": "A nascent November rebound in beaten-down Chinese internet stocks is facing a reckoning in collateral damage from the scandal at Nvidia Corp.",
+    "ss": "Çin internet hisselerinde Kasım ayında yeni başlayan bir toparlanma, Nvidia Corp.'taki skandaldan kaynaklanan ikincil zararın hesaba katılmasıyla karşı karşıya.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout",
+    "ts": 1794528422000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Slip as Nvidia Jitters Linger, Bonds Slump: Markets Wrap",
     "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
-    "s": "Stocks fluctuated as investors assessed the broader market fallout from Jensen Huang’s ouster at Nvidia Corp. while awaiting Friday’s US producer-price data that may offer fresh clues on the path of Federal Reserve interest rates.",
+    "s": "Stocks edged lower as investors assessed the broader market fallout from Jensen Huang’s ouster at Nvidia Corp. while awaiting US producer-price data that may offer fresh clues on the path of Federal Reserve interest rates.",
     "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
     "ts": 1794521833000,
     "tags": []
    },
    {
-    "t": "Oil-Hungry Asia Turns Back to Mideast in Earnest as Flows Expand",
-    "tt": "Akışlar Genişledikçe Petrole Aç Asya Ciddi Bir Şekilde Orta Doğu'ya Dönüyor",
-    "s": "Oil refiners in Asia are increasingly turning back toward crude from Middle Eastern producers as flows rebound after months of conflict, lessening the need for imports from alternative suppliers including the US.",
-    "ss": "Asya'daki petrol rafinerileri, aylar süren çatışmaların ardından akışların toparlanması ve ABD dahil alternatif tedarikçilerden yapılan ithalat ihtiyacının azalması nedeniyle, Orta Doğulu üreticilerden gelen ham petrole giderek daha fazla yöneliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/oil-hungry-asia-turns-back-to-mideast-in-earnest-as-flows-expand",
-    "ts": 1794546466000,
+    "t": "Traders Digest Jensen Huang's Exit from Nvidia",
+    "tt": "Yatırımcılar Jensen Huang'ın Nvidia'dan Çıkışını Özetledi",
+    "s": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Blo",
+    "ss": "“Bloomberg: The China Show” dünyanın ikinci büyük ekonomisine ilişkin haber ve analizler için eksiksiz kaynağınızdır. Yvonne Man ve Avril Hong, politika ve politikadan teknoloji ve trendlere kadar küresel yatırımcılara benzersiz bilgiler vererek önemli haber yapıcılarla derinlemesine tartışmalar gerçekleştiriyor. (Kaynak: Blo",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/the-china-show-11-13-2026-video",
+    "ts": 1794552022000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 13",
-    "tt": "13 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil held gains after President Donald Trump said the US could forgo a deal with Iran, dimming prospects for a breakthrough to end the war that has roiled Middle East supplies.",
-    "ss": "Petrol fiyatları, Başkan Donald Trump'ın ABD'nin İran'la anlaşmadan vazgeçebileceğini söylemesinin ve Orta Doğu'daki arzı olumsuz etkileyen savaşı sona erdirecek atılım umutlarını azaltmasının ardından kazançlarını korudu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
-    "ts": 1794524529000,
+    "t": "Billionaire KoGuan Vows Not to Buy Nvidia Stock After Huang Exit",
+    "tt": "Milyarder KoGuan, Huang'ın Çıkışından Sonra Nvidia Hisselerini Satın Almayacağına Söz Verdi",
+    "s": "Billionaire investor and Nvidia Corp. shareholder Leo KoGuan expressed support for Jensen Huang on Friday and said he won’t increase his stake in the tech company with someone else at the helm.",
+    "ss": "Milyarder yatırımcı ve Nvidia Corp. hissedarı Leo KoGuan, Cuma günü Jensen Huang'a desteğini ifade etti ve başka birisinin başındayken teknoloji şirketindeki hissesini artırmayacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/billionaire-koguan-vows-not-to-buy-nvidia-stock-as-huang-quits",
+    "ts": 1794551443000,
     "tags": []
    },
    {
-    "t": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
-    "tt": "EM Hisseleri, Teknolojideki Artışlarla Eylül'den Bu Yana İlk Haftalık Kazancını Kazandı",
-    "s": "Emerging-market stocks are headed for their first weekly gain since late September as investors return to the technology sector on bets that the upheaval at Nvidia Corp. will not upend the wider artificial intelligence industry.",
-    "ss": "Gelişmekte olan piyasa hisse senetleri, yatırımcıların Nvidia Corp.'taki çalkantının yapay zeka endüstrisini alt üst etmeyeceği yönündeki bahislerle teknoloji sektörüne dönmesiyle Eylül sonundan bu yana ilk haftalık kazancına doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
-    "ts": 1794545627000,
+    "t": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
+    "tt": "Guinness Atkinson CEO'su Yeni K-Beauty ETF Lansmanını Tartışıyor",
+    "s": "Jim Atkinson, President & CEO at Guinness Atkinson Funds, discusses the launch of the firm's new K-beauty ETF and his outlook for demand. He speaks on Bloomberg's ETQ IQ Asia. (Source: Bloomberg)",
+    "ss": "Guinness Atkinson Funds Başkanı ve CEO'su Jim Atkinson, firmanın yeni K-beauty ETF'sinin lansmanını ve talep görünümünü anlatıyor. Bloomberg'in ETQ IQ Asia programında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
+    "ts": 1794551370000,
     "tags": []
    },
    {
-    "t": "Jensen Huang Saga Tests AI Trade Ahead of Anthropic IPO",
-    "tt": "Jensen Huang Saga, Antropik Halka Arz Öncesinde Yapay Zeka Ticaretini Test Ediyor",
-    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets.",
-    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Paul Allen ile Sidney'den canlı yayında, haber yapımcılarından ve sektör liderlerinden küresel pazarları şekillendiren en büyük hikayeler hakkında fikir ve analiz alıyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/the-asia-trade-11-13-2026-video",
-    "ts": 1794544908000,
-    "tags": []
-   },
-   {
-    "t": "China Policy Bank Bonds Suffer Selloff as Tax Worries Hit Market",
-    "tt": "Çin Politika Bankası Tahvilleri, Vergi Endişelerinin Piyasayı Etkilemesiyle Satışlarda Zarar Görüyor",
-    "s": "Concern over a potential tax on Chinese government bonds is spilling over to major policy banks, pushing up their borrowing costs.",
-    "ss": "Çin devlet tahvillerine getirilebilecek potansiyel vergiye ilişkin endişeler büyük politika bankalarına da yansıyor ve borçlanma maliyetlerini artırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market",
-    "ts": 1794542772000,
-    "tags": []
-   },
-   {
-    "t": "Copper Climbs From Three-Month Low After Rough Week for Metals",
-    "tt": "Bakır, Metaller İçin Zorlu Haftanın Ardından Üç Ayın En Düşük Seviyesinden Tırmandı",
-    "s": "Copper flicked higher on Friday, trimming losses racked up in recent days due to upheaval in the artificial intelligence sector and expectations of further hikes in US interest rates.",
-    "ss": "Bakır, yapay zeka sektöründeki çalkantılar ve ABD faiz oranlarındaki ilave artış beklentileri nedeniyle son günlerde artan kayıpların azalmasıyla Cuma günü yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/copper-climbs-from-three-month-low-after-rough-week-for-metals",
-    "ts": 1794541476000,
+    "t": "Server Maker xFusion Gets Shenzhen Nod for $1.2 Billion Listing",
+    "tt": "Sunucu Üreticisi xFusion, Shenzhen Nod'u 1,2 Milyar Dolarlık Listelemeyle Aldı",
+    "s": "Artificial intelligence server maker xFusion Digital Technologies Co. received approval from the Shenzhen Stock Exchange on Thursday to move ahead with its planned initial public offering on the tech-heavy ChiNext board.",
+    "ss": "Yapay zeka sunucusu üreticisi xFusion Digital Technologies Co., teknoloji ağırlıklı ChiNext panosunda planlanan ilk halka arzına devam etmek için Perşembe günü Shenzhen Menkul Kıymetler Borsası'ndan onay aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/server-maker-xfusion-gets-shenzhen-nod-for-1-2-billion-listing",
+    "ts": 1794549903000,
     "tags": []
    }
   ],
@@ -803,6 +797,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Leaks Reveal Over 11K Foreign Fighters Killed In Ukraine",
+    "tt": "Sızıntılar, Ukrayna'da 11 Binden Fazla Yabancı Savaşçının Öldürüldüğünü Ortaya Çıkardı",
+    "s": "Leaks Reveal Over 11K Foreign Fighters Killed In Ukraine It has long been an open secret that foreign fighters are active in Ukraine, on both sides of the conflict. Early in the war, which is now approaching the 5-year mark, foreign and Western volunteers and mercenaries poured into Ukraine in suppo",
+    "ss": "Sızıntılar, Ukrayna'da 11 Binden Fazla Yabancı Savaşçının Öldürüldüğünü Ortaya Çıkarıyor Yabancı savaşçıların Ukrayna'da, çatışmanın her iki tarafında da aktif olduğu uzun zamandır açık bir sırdı. Şu anda 5. yılına yaklaşan savaşın başlarında, yabancı ve Batılı gönüllüler ve paralı askerler destek amacıyla Ukrayna'ya akın etti.",
+    "u": "https://www.zerohedge.com/geopolitical/leaks-reveal-over-11k-foreign-fighters-killed-ukraine",
+    "ts": 1794555600000,
+    "tags": []
+   },
+   {
+    "t": "Germany: Half Of All People Convicted In Bavaria Was A Foreigner Last Year",
+    "tt": "Almanya: Geçen Yıl Bavyera'da Mahkûm Edilen Kişilerin Yarısı Yabancıydı",
+    "s": "Germany: Half Of All People Convicted In Bavaria Was A Foreigner Last Year Via Remix News , Foreigners make up an incredible share of the people convicted of a crime in the German state of Bavaria, considered one of the wealthiest regions in Europe. The latest figures show that 49.7 percent of all p",
+    "ss": "Almanya: Geçen Yıl Bavyera'da Mahkum Edilen Kişilerin Yarısı Yabancıydı Remix News aracılığıyla, Avrupa'nın en zengin bölgelerinden biri olarak kabul edilen Almanya'nın Bavyera eyaletinde suçtan hüküm giymiş kişilerin inanılmaz bir kısmını yabancılar oluşturuyor. Son rakamlar tüm p'lerin yüzde 49,7'sinin",
+    "u": "https://www.zerohedge.com/geopolitical/germany-1-out-every-2-people-convicted-bavaria-was-foreigner-last-year",
+    "ts": 1794553200000,
+    "tags": []
+   },
+   {
     "t": "10 Threats America Will Meet Before 2026 Ends, And The Quiet Arithmetic Behind Every One Of Them",
     "tt": "Amerika'nın 2026 Bitmeden Karşılaşacağı 10 Tehdit ve Her Birinin Arkasındaki Sessiz Aritmetik",
     "s": "10 Threats America Will Meet Before 2026 Ends, And The Quiet Arithmetic Behind Every One Of Them Authored by John Walter via Substack , Slack is what runs out first , and there is less of it now than at any point since 2008, with eight weeks left in the year. Both chambers of Congress changed hands ",
@@ -873,27 +885,72 @@
     "u": "https://www.zerohedge.com/political/dems-eye-shutdown-showdown-defund-trumps-iran-war",
     "ts": 1794532800000,
     "tags": []
-   },
-   {
-    "t": "Asia's Fort Knox: First The World's Rich, Now Its Central Banks Are Sending Their Gold To Singapore",
-    "tt": "Asya'nın Fort Knox'u: Önce Dünyanın Zengini, Şimdi Merkez Bankaları Altınlarını Singapur'a Gönderiyor",
-    "s": "Asia's Fort Knox: First The World's Rich, Now Its Central Banks Are Sending Their Gold To Singapore For three years the gold story was about who was buying. In 2026 it has become a story about where the metal sleeps at night. On Tuesday the Monetary Authority of Singapore opened its national currenc",
-    "ss": "Asya'nın Fort Knox'u: Önce Dünyanın Zengini, Şimdi Merkez Bankaları Altınlarını Singapur'a Gönderiyor Üç yıl boyunca altın hikayesi kimin satın aldığıyla ilgiliydi. 2026'da metalin geceleri nerede uyuduğuyla ilgili bir hikaye haline geldi. Salı günü Singapur Para Otoritesi ulusal para birimini açtı",
-    "u": "https://www.zerohedge.com/precious-metals/asias-fort-knox-first-worlds-rich-now-its-central-banks-are-sending-their-gold",
-    "ts": 1794531600000,
-    "tags": []
-   },
-   {
-    "t": "\"Stuff You See In The Movies\": Democrat-Elect Goes Rogue, Reveals Shocking Threats From Party Leaders To Fall In Line",
-    "tt": "\"Filmlerde Gördüğünüz Şeyler\": Seçilmiş Demokratlar Sahtekarlık Yapıyor, Parti Liderlerinin Sıraya Girmeye Yönelik Şok Tehditlerini Ortaya Çıkarıyor",
-    "s": "\"Stuff You See In The Movies\": Democrat-Elect Goes Rogue, Reveals Shocking Threats From Party Leaders To Fall In Line An incoming Democrat congressman is exposing the ugly consequences that he says party insiders warned him he could face if he refuses to fall in line behind House Minority Leader Hak",
-    "ss": "\"Filmlerde Gördüğünüz Şeyler\": Seçilmiş Demokratlar Sahtekarlaşıyor, Parti Liderlerinin Sıraya Girmeye Yönelik Şok Tehditlerini Ortaya Çıkarıyor Yeni gelen Demokrat bir kongre üyesi, Meclis Azınlık Lideri Hak'ın arkasında sıraya girmeyi reddetmesi halinde parti içindeki kişilerin kendisini uyardığını söylediği çirkin sonuçları açığa çıkarıyor",
-    "u": "https://www.zerohedge.com/political/stuff-you-see-movies-democrat-elect-goes-rogue-reveals-shocking-threats-party-leaders",
-    "ts": 1794531300000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Rusya, Ukrayna saldırılarında tarım ve gıda işletmelerini hedef alıyor",
+    "tt": null,
+    "s": "Rusya, Ukrayna'nın tarım ve gıda işleme tesislerine yönelik saldırılarını artırıyor. Ülkenin ihracat gelirlerinin yarısından fazlasını sağlayan sektörde, yılın ikinci yarısındaki ihracat kaybının 4,6 milyar dolara ulaşabileceği öngörülüyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/rusya-ukrayna-saldirilarinda-tarim-ve-gida-isletmelerini-hedef-aliyor-3794550",
+    "ts": 1794554615000,
+    "tags": []
+   },
+   {
+    "t": "İklim değişikliğine uyum çözümlerinde 1 trilyon dolarlık pazar",
+    "tt": null,
+    "s": "Dünya Ekonomik Forumu ve BCG'nin yeni raporuna göre, iklim değişikliğine uyum ve dayanıklılığı destekleyen 10 öncelikli ürün ve hizmet alt pazarının toplam yıllık küresel büyüklüğü 1 trilyon doları aşıyor. Tarım, inşaat, sigorta, soğutma teknolojileri ve su yönetimi gibi alanlarda 2030'a kadar öneml",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iklim-degisikligine-uyum-cozumlerinde-1-trilyon-dolarlik-pazar-3794549",
+    "ts": 1794554563000,
+    "tags": []
+   },
+   {
+    "t": "İnşaat üretimi Eylül'de azaldı",
+    "tt": null,
+    "s": "İnşaat üretimi Eylül'de aylık ve yıllık bazda geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/insaat-uretimi-eylulde-azaldi-3794543",
+    "ts": 1794553498000,
+    "tags": []
+   },
+   {
+    "t": "Piyasanın enflasyon beklentisinde ılımlı artış",
+    "tt": null,
+    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Kasım ayına ilişkin piyasa katılımcıları anketini yayımladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/piyasanin-enflasyon-beklentileri-3794534",
+    "ts": 1794553120000,
+    "tags": []
+   },
+   {
+    "t": "Hizmet üretim endeksinde aylık bazda düşüş",
+    "tt": null,
+    "s": "Eylül ayında hizmet üretim endeksi aylık bazda yüzde 0,3 azalırken yıllık bazda yüzde 2,1 arttı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/hizmet-uretim-endeksinde-aylik-bazda-dusus-3794533",
+    "ts": 1794553008000,
+    "tags": []
+   },
+   {
+    "t": "Cari dengede yeniden aylık fazla",
+    "tt": null,
+    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) verilerine göre, cari işlemler hesabı Eylül ayında 2 milyar 720 milyon dolar fazla verdi. Yıllıklandırılmış cari açık ise 39,2 milyar dolar olarak gerçekleşti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cari-dengede-yeniden-aylik-fazla-3794531",
+    "ts": 1794552839000,
+    "tags": []
+   },
+   {
+    "t": "İTO Başkanı Avdagiç: Faiz indirimlerinin etkisi sembolik kalıyor",
+    "tt": null,
+    "s": "İstanbul Ticaret Odası (İTO) Başkanı Şekib Avdagiç, kredi büyüme sınırları devam ettiği sürece faiz indirimlerinin etkisinin sembolik kaldığını belirterek, reel sektörün beklentisinin KOBİ kredilerindeki büyüme sınırının ilk aşamada ihracatçı firmalar için kaldırılması olduğunu söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ito-baskani-avdagic-faiz-indirimlerinin-etkisi-sembolik-kaliyor-3794530",
+    "ts": 1794552084000,
+    "tags": []
+   },
    {
     "t": "ING'ye göre TCMB'nin mesajları Aralık'ta faiz indirim beklentilerini destekliyor",
     "tt": null,
@@ -920,69 +977,6 @@
     "u": "https://www.bloomberght.com/iran-ile-abd-arasinda-gerilimi-artiran-karsilikli-saldirilar-3794521",
     "ts": 1794549628000,
     "tags": []
-   },
-   {
-    "t": "Altın, dipten alımların etkisiyle yükseldi",
-    "tt": null,
-    "s": "Altın, bir önceki gün bir yılı aşkın süredir görülen en düşük seviyeye geriledikten sonra, uzun vadeli yükseliş beklentisi olan yatırımcıların düşüş anında alım yapmasıyla değer kazandı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/altin-dipten-alimlarin-etkisiyle-yukseldi-3794520",
-    "ts": 1794548828000,
-    "tags": []
-   },
-   {
-    "t": "Petrolde Trump gerginliği sürüyor",
-    "tt": null,
-    "s": "Petrol fiyatları, ABD Başkanı Donald Trump'ın İran ile bir anlaşmadan vazgeçebileceklerini açıklaması ve Orta Doğu enerji arzını sarsan savaşı bitirecek diplomatik çaba umutlarını zayıflatmasının ardından kazançlarını korudu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/petrolde-trump-gerginligi-suruyor-3794519",
-    "ts": 1794547283000,
-    "tags": []
-   },
-   {
-    "t": "Küresel piyasalarda yeniden petrol gündemi",
-    "tt": null,
-    "s": "Nvidia'daki gelişmelerin ardından Wall Street borsaları gerilerken, Trump'ın İran'la bir anlaşmaya ihtiyaç duymadıklarını söylemesiyle yükselen petrol fiyatları ABD tahvil getirilerini yukarı çekti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-piyasalarda-yeniden-petrol-gundemi-3794518",
-    "ts": 1794545920000,
-    "tags": []
-   },
-   {
-    "t": "Faiz hassasiyeti olan hisselerde satış dalgası",
-    "tt": null,
-    "s": "Bank of America işlem masasına göre hedge fonlar, son rallide pozisyonlarını kapatmak zorunda kaldıktan sonra yüksek faiz ve zayıf tüketici talebine karşı hassas şirketlerde yeniden kısa pozisyon almaya başladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/faiz-hassasiyeti-olan-hisselerde-satis-dalgasi-3794517",
-    "ts": 1794545629000,
-    "tags": []
-   },
-   {
-    "t": "Türkiye'de 12,5 milyon adet akıllı telefon satışı bekleniyor",
-    "tt": null,
-    "s": "Küresel akıllı telefon satışlarının daralarak, yılı 1 milyar adetle, Türkiye'de ise pazarın 12,5 milyon adetle yılı kapaması bekleniyor. Samsung Türkiye Başkan Yardımcısı Murat Azdemir, \"Mevcut piyasa koşullarında maliyet baskısının bir süre daha devam etmesini bekliyoruz. Aynı teknik özelliklere sa",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-de-12-5-milyon-adet-akilli-telefon-satisi-bekleniyor-3794501",
-    "ts": 1794519361000,
-    "tags": []
-   },
-   {
-    "t": "BBVA CEO'su Onur Genç: 1 trilyon euroluk hedefin %10-15'i Türkiye'ye gelebilir",
-    "tt": null,
-    "s": "BBVA CEO'su Onur Genç, Garanti BBVA'nın grubun kârının yüzde 8'ini sağladığını, ancak sürdürülebilir kredilerde aldığı payın daha yüksek olduğunu söyledi. Genç, Türkiye'nin, bankanın 1 trilyon euroluk sürdürülebilir finansman hedefinden yüzde 10-15 pay almasının mümkün olduğunu aktardı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bbva-ceo-su-onur-genc-1-trilyon-euroluk-hedefin-10-15-i-turkiye-ye-gelebilir-3794500",
-    "ts": 1794517865000,
-    "tags": []
-   },
-   {
-    "t": "Dolar ne kadar oldu? 13 Kasım 2026, Dolar kurunda son durum ne?",
-    "tt": null,
-    "s": "Serbest piyasada dolar 50.3680 liradan güne başladı. Euro ise 55.7360 lirayı gördü. Dolar, euro ve diğer döviz kurlarıyla ile ilgili en son gelişmeler hakkında aradığınız tüm detayları; 1 dolar/euro kaç TL, dolar/euro ne kadar? gibi merak edilenleri sayfamızda bulabilirsiniz...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/dolar-ne-kadar-oldu-13-kasim-2026-dolar-kurunda-son-durum-ne-pkh2-3794528",
-    "ts": 1794551401000,
-    "tags": []
    }
   ]
  },
@@ -998,7 +992,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
