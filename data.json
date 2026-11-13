@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T09:47:06.018535+00:00",
+ "generated": "2026-11-13T10:48:17.252199+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 18.66,
-   "c": -0.21,
-   "d": -0.04,
+   "p": 18.45,
+   "c": -1.34,
+   "d": -0.25,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3903.0,
-   "c": 0.46,
-   "d": 17.7,
+   "p": 3899.6,
+   "c": 0.37,
+   "d": 14.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 50.08,
-   "c": 0.22,
-   "d": 0.108,
+   "p": 49.93,
+   "c": -0.08,
+   "d": -0.042,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.56,
-   "c": -0.2,
-   "d": -0.18,
+   "p": 87.88,
+   "c": -0.97,
+   "d": -0.86,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.89,
-   "c": 0.07,
-   "d": 0.07,
+   "p": 95.21,
+   "c": -0.64,
+   "d": -0.61,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.181,
-   "c": 0.01,
-   "d": 0.011,
+   "p": 103.222,
+   "c": 0.05,
+   "d": 0.052,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3647,
-   "c": 0.22,
-   "d": 0.111,
+   "p": 50.3613,
+   "c": 0.21,
+   "d": 0.107,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11869.98,
-   "c": 0.5,
-   "d": 58.78,
+   "p": 11854.41,
+   "c": 0.37,
+   "d": 43.21,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 68992,
-   "c": -5.92,
+   "p": 69288,
+   "c": -5.64,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1938.28,
-   "c": -5.13,
+   "p": 1950.59,
+   "c": -4.65,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 79.85,
-   "c": -3.74,
+   "p": 80.35,
+   "c": -3.23,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.029,
-   "c": -1.76,
+   "p": 1.022,
+   "c": -2.7,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 636.77,
-   "c": -5.05,
+   "p": 638.79,
+   "c": -4.94,
    "k": "usd"
   }
  ],
@@ -504,6 +504,66 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
+    "tt": "EM Hisseleri, Teknolojideki Artışlarla Eylül'den Bu Yana İlk Haftalık Kazancını Kazandı",
+    "s": "Emerging-market stocks are headed for their first weekly gain since late September, as investors return to the technology sector on bets the wider artificial intelligence industry will weather upheaval at Nvidia Corp.",
+    "ss": "Gelişmekte olan piyasa hisse senetleri, yatırımcıların daha geniş yapay zeka endüstrisinin Nvidia Corp.'taki çalkantıyı atlatacağı yönündeki iddialarla teknoloji sektörüne dönmesiyle birlikte, Eylül sonundan bu yana ilk haftalık kazancına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+    "ts": 1794545627000,
+    "tags": []
+   },
+   {
+    "t": "US Stocks Drift as Fed Bets Face Inflation Test: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
+    "s": "US stocks struggled for direction ahead of inflation data that will cap a dramatic week in which traders ramped up bets on Federal Reserve interest-rate hikes and Jensen Huang was ousted from Nvidia Corp.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794521833000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 13",
+    "tt": "13 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil held gains after President Donald Trump said the US could forgo a deal with Iran, dimming prospects for a quick breakthrough to end the war that has roiled global energy markets.",
+    "ss": "Petrol, Başkan Donald Trump'ın ABD'nin İran'la yapılan anlaşmadan vazgeçebileceğini söylemesinin ve küresel enerji piyasalarını sarsan savaşı sona erdirecek hızlı bir atılım olasılığını azaltmasının ardından kazançlarını korudu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13",
+    "ts": 1794524529000,
+    "tags": []
+   },
+   {
+    "t": "Mexico Graft Scandal Erodes Trust in Electoral Authority, Threatens Sheinbaum",
+    "tt": "Meksika Greft Skandalı Seçim Otoritesine Olan Güveni Sarsıyor, Sheinbaum'u Tehdit Ediyor",
+    "s": "Nearly half of Mexicans have little or no confidence the country’s electoral authority can organize fair elections next year, according to a new poll, as a widening graft scandal batters the institution.",
+    "ss": "Yeni bir ankete göre, Meksikalıların neredeyse yarısı ülkenin seçim otoritesinin önümüzdeki yıl adil seçimler düzenleyebileceğine çok az güveniyor veya hiç güvenmiyor, çünkü giderek büyüyen yolsuzluk skandalı kurumu olumsuz etkiliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/mexico-graft-scandal-erodes-trust-in-electoral-authority-threatens-sheinbaum",
+    "ts": 1794564000000,
+    "tags": []
+   },
+   {
+    "t": "Indonesian Stocks Notch Best Week Since June on Foreign Buying",
+    "tt": "Endonezya Hisse Senetleri Yabancı Alımlarla Hazirandan Bu Yana En İyi Haftaya Girdi",
+    "s": "Indonesia’s stocks marked their best week since mid-June as foreign investors tiptoed back into the market after months of selling.",
+    "ss": "Endonezya hisseleri, yabancı yatırımcıların aylardır süren satışların ardından piyasaya geri dönmeleriyle Haziran ortasından bu yana en iyi haftasına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-stocks-set-for-best-week-since-june-on-foreign-buying",
+    "ts": 1794561431000,
+    "tags": []
+   },
+   {
+    "t": "Africa’s Top Pension Funds Ask for About $1 Billion in Dangote’s Refinery IPO",
+    "tt": "Afrika'nın En Büyük Emeklilik Fonları Dangote Rafinerisi Halka Arzında Yaklaşık 1 Milyar Dolar Talep Ediyor",
+    "s": "Africa’s biggest money manager and Nigerian pension-fund administrators applied for almost $1 billion of shares in Dangote Petroleum Refinery and Petrochemicals FZE, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, Afrika'nın en büyük para yöneticisi ve Nijeryalı emeklilik fonu yöneticileri, Dangote Petrol Rafinerisi ve Petrokimya FZE'deki yaklaşık 1 milyar dolarlık hisse için başvuruda bulundu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-13/africa-s-top-pension-funds-ask-for-about-1-billion-in-dangote-s-refinery-ipo",
+    "ts": 1794563369000,
+    "tags": []
+   },
+   {
     "t": "Brasília em Off",
     "tt": "Brezilya kapalı",
     "s": "Martha Beck conta sobre os cotados para a Fazenda e a Casa Civil no quarto mandato do presidente Lula. Com edição de Patricia Xavier. (Source: Bloomberg)",
@@ -528,30 +588,6 @@
     ]
    },
    {
-    "t": "US Stocks Drift Before Inflation Test of Fed Bets: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Nvidia ve Petrol Konusunda Temkinli Açılışa Hazır: Piyasalar Özetlendi",
-    "s": "US stocks struggled for direction ahead of inflation data that will cap a dramatic week in which traders ramped up bets on Federal Reserve interest-rate hikes and Jensen Huang was ousted from Nvidia Corp.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un liderlik değişiminin daha geniş yapay zeka ticaretindeki etkilerini, petroldeki yükselişi ve Hazine getirilerindeki yükselişi tartmasıyla temkinli bir açılışa hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-12/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794521833000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Indonesian Stocks Set for Best Week Since June on Foreign Buying",
-    "tt": "Endonezya Hisse Senetleri Yabancı Alımlarla Hazirandan Bu Yana En İyi Haftaya Girdi",
-    "s": "Indonesia’s stocks are heading for their best week since mid-June as foreign investors tiptoed back into the market after months of selling.",
-    "ss": "Endonezya hisseleri, yabancı yatırımcıların aylardır süren satışların ardından piyasaya geri dönmeleriyle Haziran ortasından bu yana en iyi haftasına doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-stocks-set-for-best-week-since-june-on-foreign-buying",
-    "ts": 1794561431000,
-    "tags": []
-   },
-   {
     "t": "ICTSI: Keen to Expand in Southern, Western Africa",
     "tt": "ICTSI: Güney ve Batı Afrika'da Büyümek İstiyoruz",
     "s": "International Container Terminal Services Senior Adviser Christian Gonzalez says the world’s largest, independent terminal operator is keen to expand in Southern and Western Africa. It currently has 34 terminal operations and port development projects across 19 countries. He speaks with Haslinda Ami",
@@ -567,47 +603,6 @@
     "ss": "Çin'in kredi genişlemesi Ekim ayında beklentilerin altında kaldı ve krediler bu yıl üçüncü kez daralırken, daha fazla politika desteği ısrarla zayıf olan borçlanma talebini telafi etmekte zorlandı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-13/china-s-credit-growth-disappoints-despite-greater-policy-support",
     "ts": 1794561173000,
-    "tags": []
-   },
-   {
-    "t": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
-    "tt": "Guinness Atkinson CEO'su Yeni K-Beauty ETF Lansmanını Tartışıyor",
-    "s": "Jim Atkinson, President & CEO at Guinness Atkinson Funds, discusses the launch of the firm's new K-beauty ETF and his outlook for demand. He speaks on Bloomberg's ETQ IQ Asia. (Source: Bloomberg)",
-    "ss": "Guinness Atkinson Funds Başkanı ve CEO'su Jim Atkinson, firmanın yeni K-beauty ETF'sinin lansmanını ve talep görünümünü anlatıyor. Bloomberg'in ETQ IQ Asia programında konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/guinness-atkinson-ceo-discusses-new-k-beauty-etf-launch-video",
-    "ts": 1794551370000,
-    "tags": []
-   },
-   {
-    "t": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
-    "tt": "IEA, Irak'ta Ekim Petrol Üretiminin 2019'dan Bu Yana En Yüksek Seviyeye Çıktığını Açıkladı",
-    "s": "Iraq’s oil output surged in October and production in the United Arab Emirates held near the previous month’s high, as Gulf producers increased crude flows despite shipping disruptions caused by the Iran war, the International Energy Agency said.",
-    "ss": "Uluslararası Enerji Ajansı, Körfez üreticilerinin İran savaşının neden olduğu nakliye kesintilerine rağmen ham petrol akışlarını artırması nedeniyle Irak'ın petrol üretiminin Ekim ayında arttığını ve Birleşik Arap Emirlikleri'ndeki üretimin önceki ayın en yüksek seviyesine yakın seyrettiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/iraq-october-oil-output-jumps-to-highest-since-2019-iea-says",
-    "ts": 1794560730000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "Why a $2 Billion Law Firm Suddenly Collapsed",
-    "tt": "2 Milyar Dolarlık Hukuk Bürosu Neden Aniden Çöktü?",
-    "s": "What Weil Gotshal’s collapse says about the frailty of big law.",
-    "ss": "Weil Gotshal'ın çöküşü büyük hukukun kırılganlığı hakkında ne söylüyor?",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-13/why-a-2-billion-law-firm-suddenly-collapsed",
-    "ts": 1794560402000,
-    "tags": []
-   },
-   {
-    "t": "Odd Lots: Why a $2 Billion Law Firm Suddenly Collapsed (Podcast)",
-    "tt": "Tuhaf Lotlar: Neden 2 Milyar Dolarlık Hukuk Bürosu Aniden Çöktü (Podcast)",
-    "s": "At the end of October, seemingly overnight, a major law firm called Weil Gotshal announced it was winding down after a number of partners departed and talks of a merger with another firm failed. So how did a $2 billion big law firm collapse in the span of a few weeks? In 2015, Yale Law professor Joh",
-    "ss": "Ekim ayının sonunda, görünüşte bir gecede, Weil Gotshal adlı büyük bir hukuk firması, bir dizi ortağın ayrılması ve başka bir firmayla birleşme görüşmelerinin başarısızlıkla sonuçlanmasının ardından kapanacağını duyurdu. Peki 2 milyar dolarlık büyük bir hukuk firması nasıl oldu da birkaç hafta içinde çöktü? 2015 yılında Yale Hukuk profesörü Joh",
-    "u": "https://www.bloomberg.com/news/audio/2026-11-13/odd-lots-why-a-2-billion-law-firm-suddenly-collapsed-podcast",
-    "ts": 1794560400000,
     "tags": []
    }
   ],
@@ -710,6 +705,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?",
+    "tt": "'Finansal kötü yönetim geçmişi var': Kardeşim, kız kardeşimi vasiyetinden çıkardı. Her şeyi alıyorum. Ona söyleyeyim mi?",
+    "s": "“I’m torn between respecting my brother’s wishes, being fair to my sister, and preserving a relationship that means a great deal to me.”",
+    "ss": "\"Kardeşimin isteklerine saygı duymak, kız kardeşime karşı adil olmak ve benim için çok şey ifade eden bir ilişkiyi sürdürmek arasında kaldım.\"",
+    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "ts": 1794564900000,
+    "tags": []
+   },
+   {
+    "t": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
+    "tt": "Goldman Sachs, kazanç artışının yavaş yavaş sona ereceğini ancak boğa piyasasında bu durumun söz konusu olmadığını söylüyor. İşte firmanın önerdiği şey.",
+    "s": "Earnings growth is almost halving across major indices in 2027 but stocks have already discounted much of that deceleration. Goldman recommends investors focus closely on those companies still delivering strong growth – as strong growth becomes a scarce commodity.",
+    "ss": "Kazanç artışı 2027'de büyük endekslerde neredeyse yarı yarıya azaldı ancak hisse senetleri bu yavaşlamanın çoğunu zaten dikkate almadı. Goldman, güçlü büyümenin kıt bir meta haline gelmesi nedeniyle yatırımcıların hâlâ güçlü büyüme sağlayan şirketlere yakından odaklanmalarını tavsiye ediyor.",
+    "u": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
+    "ts": 1794564840000,
+    "tags": []
+   },
+   {
     "t": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
     "tt": "Karımın demansı var ve benden daha uzun yaşayabilir. Uzun süreli hafıza bakımına nasıl hazırlanabiliriz?",
     "s": "“She’s 69 and otherwise healthy as a horse.”",
@@ -786,27 +799,18 @@
     "u": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
     "ts": 1794520200000,
     "tags": []
-   },
-   {
-    "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "tt": "Babamdan bana 1,4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
-    "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-    "ss": "\"Her zaman mirasının bir kısmının kızına miras kalmasını istediğini söylerdi ve ben buna hiçbir zaman itiraz etmedim.\"",
-    "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "ts": 1794519000000,
-    "tags": []
-   },
-   {
-    "t": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
-    "tt": "S&P 500, Nvidia'nın satışlarını umursamadı. İşte pazarın geri kalanını ayakta tutan şey.",
-    "s": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-    "ss": "Yatırımcılar yapay zeka ticaretinin poster çocuğuna bakmak ve tahtadaki diğer hisse senetlerini hatırlamak zorunda kaldılar.",
-    "u": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-    "ts": 1794517680000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Denmark Tallied What Every Resident Pays And Takes... Guess Which Migrants Come Out $11,000 Short",
+    "tt": "Danimarka Her Sakinin Ne Ödediğini ve Aldığını Hesapladı... Tahmin Edin Hangi Göçmen 11.000 Dolardan Eksik Çıktı",
+    "s": "Denmark Tallied What Every Resident Pays And Takes... Guess Which Migrants Come Out $11,000 Short Denmark's Finance Ministry added up the taxes paid and the public spending on each resident and sorted the results by origin: immigrants from the Middle East, North Africa, Pakistan and Turkey cost the ",
+    "ss": "Danimarka Her Sakinin Ne Ödediğini ve Aldığını Hesapladı... Tahmin Edin Hangi Göçmenler 11.000 Dolar Çıkıyor Kısa Danimarka Maliye Bakanlığı, her bir sakin için ödenen vergileri ve kamu harcamalarını topladı ve sonuçları kökene göre sıraladı: Orta Doğu, Kuzey Afrika, Pakistan ve Türkiye'den gelen göçmenlerin maliyeti",
+    "u": "https://www.zerohedge.com/political/denmark-tallied-what-every-resident-pays-and-takes-guess-which-migrants-come-out-11000",
+    "ts": 1794565200000,
+    "tags": []
+   },
    {
     "t": "\"Killing People To Benefit Someone\": Slovakia's Fico \"Literally Shocked\" After Private Talk With Ukraine's PM",
     "tt": "\"Birine Fayda Sağlamak İçin İnsanları Öldürmek\": Slovakya'nın Fico'su, Ukrayna Başbakanıyla Özel Görüşmenin Ardından \"Gerçekten Şok Oldu\"",
@@ -887,18 +891,18 @@
     "u": "https://www.zerohedge.com/geopolitical/kremlin-pours-cold-water-europe-joining-talks-amid-kushner-witkoff-visit",
     "ts": 1794539400000,
     "tags": []
-   },
-   {
-    "t": "MAID Would Rank As Canada's Fourth-Leading Cause Of Death If Counted Separately",
-    "tt": "HİZMETÇİ Ayrı Sayılırsa Kanada'nın Dördüncü Ölüm Nedeni Sırasında Yer Alacak",
-    "s": "MAID Would Rank As Canada's Fourth-Leading Cause Of Death If Counted Separately Authored by James Yang via The Epoch Times , Medical assistance in dying (MAID) would rank as the fourth-leading cause of death in Canada if deaths involving the procedure were counted separately, figures from Health Can",
-    "ss": "HİZMETÇİ Ayrı Olarak Sayılsaydı Kanada'nın Dördüncü Ölüm Nedeni Sıralayacaktı James Yang tarafından The Epoch Times aracılığıyla yazılmıştır, Health Can rakamlarına göre, prosedürle ilgili ölümler ayrı olarak sayılırsa, Ölümde tıbbi yardım (MAID), Kanada'da dördüncü önde gelen ölüm nedeni olacaktır.",
-    "u": "https://www.zerohedge.com/medical/maid-would-rank-canadas-fourth-leading-cause-death-if-counted-separately",
-    "ts": 1794537900000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Goldman Sachs, fon krizinin büyümeye baskı yapmasını bekliyor",
+    "tt": null,
+    "s": "Goldman Sachs ekonomistleri, fon krizinin etkisinin merkez bankasının değerlendirmesine kıyasla daha büyük olacağını öngörüyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/goldman-sachs-fon-krizinin-buyumeye-baski-yapmasini-bekliyor-3794581",
+    "ts": 1794566676000,
+    "tags": []
+   },
    {
     "t": "Bakan Şimşek'ten cari açık değerlendirmesi",
     "tt": null,
@@ -931,7 +935,7 @@
     "tt": null,
     "s": "TÜSİAD Başkanı Ozan Diren COP31 Zirvesi'nde Bloomberg HT'ye COP31 sonrası Türkiye'nin uluslararası finansmandan daha fazla yararlanma potansiyeli olduğunu söyledi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/tusiaddiren-turkiyenin-uluslararasi-finansmandan-daha-fazla-yararlanma-potansiyeli-var-3794563",
+    "u": "https://www.bloomberght.com/turkiyenin-uluslararasi-finansmandan-daha-fazla-yararlanma-potansiyeli-var-3794563",
     "ts": 1794560137000,
     "tags": []
    },
@@ -978,15 +982,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/hsbc-turk-bankalari-icin-gorunumunu-pozitife-yukseltti-3794559",
     "ts": 1794558778000,
-    "tags": []
-   },
-   {
-    "t": "Goldman Sachs ABD 10 yıllık tahvil faizinde gerileme bekliyor",
-    "tt": null,
-    "s": "Goldman Sachs Group, hedging aracı olarak cazibesinin artacağı beklentisi ve ılımlı enflasyon öngörüsüyle, 10 yıllık ABD Hazine tahvili getirilerinin 2027 sonuna kadar yüzde 4,6 seviyesine gerileyeceğini tahmin ediyor. Bu tahmin, piyasadaki genel beklentinin altında kalıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/goldman-sachs-abd-10-yillik-tahvil-faizinde-gerileme-bekliyor-3794554",
-    "ts": 1794557269000,
     "tags": []
    }
   ]
