@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T05:06:10.472252+00:00",
+ "generated": "2026-11-14T06:01:52.284300+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 52347.6,
+   "p": 52347.55,
    "c": 0.1,
-   "d": 50.51,
+   "d": 50.46,
    "k": "idx"
   },
   {
@@ -31,16 +31,16 @@
   },
   {
    "n": "Altın",
-   "p": 3887.6,
-   "c": 0.06,
-   "d": 2.3,
+   "p": 3886.3,
+   "c": 0.03,
+   "d": 1.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 48.65,
-   "c": -2.65,
-   "d": -1.322,
+   "p": 49.121,
+   "c": -1.7,
+   "d": -0.851,
    "k": "usd"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 66970,
-   "c": -2.11,
-   "k": "usd"
-  },
-  {
-   "n": "ETH",
-   "p": 1895.93,
+   "p": 67159,
    "c": -1.24,
    "k": "usd"
   },
   {
+   "n": "ETH",
+   "p": 1903.63,
+   "c": -0.24,
+   "k": "usd"
+  },
+  {
    "n": "SOL",
-   "p": 75.37,
-   "c": -3.77,
+   "p": 75.91,
+   "c": -3.12,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.994683,
-   "c": -0.88,
+   "p": 0.996054,
+   "c": -1.46,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 616.57,
-   "c": -2.28,
+   "p": 620.24,
+   "c": -0.82,
    "k": "usd"
   }
  ],
@@ -504,19 +504,28 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+    "tt": "Çin Piyasa Düzenleyicisi Küresel Varlıkların Yeniden Fiyatlanması Riskleri Konusunda Uyardı",
+    "s": "Global capital markets are undergoing a new round of asset repricing and rebalancing in the face of geopolitical tensions and policy uncertainty, according to Wu Qing, chairman of the China Securities Regulatory Commission.",
+    "ss": "Çin Menkul Kıymetler Düzenleme Komisyonu başkanı Wu Qing'e göre, küresel sermaye piyasaları jeopolitik gerilimler ve politika belirsizliği karşısında yeni bir varlık fiyatlama ve dengeleme sürecinden geçiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+    "ts": 1794633613000,
+    "tags": []
+   },
+   {
     "t": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
-    "tt": null,
+    "tt": "CCTV, Çin'in Tüm Yeni Güç Talebini Temiz Enerjiyle Karşılayacağını Açıkladı",
     "s": "China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported.",
-    "ss": null,
+    "ss": "Çin Merkezi Televizyonu'nun haberine göre, Çin'in güç talebindeki tüm artışı 2030 yılına kadar yeni temiz enerji üretimiyle karşılaması bekleniyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
     "ts": 1794629134000,
     "tags": []
    },
    {
     "t": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
-    "tt": null,
+    "tt": "Venezuela, Kolombiya Boru Hattı Onarımlarını Mart Ayına Kadar Tamamlayacağına Söz Verdi",
     "s": "Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.",
-    "ss": null,
+    "ss": "Venezuela, Kolombiya ile olan önemli bir çift uluslu boru hattının onarımını Mart ayına kadar tamamlayarak komşusunun azalan rezervleri dengelemesine yardımcı olma sözü verdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
     "ts": 1794627845000,
     "tags": []
@@ -582,15 +591,6 @@
     "ss": "London Business School Liderlik Enstitüsü'nün kurucu müdürü Randall Peterson, Nvidia yönetim kurulunun hem şirketi hem de Huang'ı başarısızlığa uğrattığına inanıyor. “The Close”da Vonnie Quinn ve Bailey Lipschultz ile konuşuyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
     "ts": 1794612008000,
-    "tags": []
-   },
-   {
-    "t": "Exemplar Luxury Group CEO on the Company’s Second Life",
-    "tt": "Şirketin Second Life'ında Örnek Lüks Grup CEO'su",
-    "s": "Geoffroy van Raemdonck said Exemplar Luxury Group is financially stronger after Saks emerged from bankruptcy. He emphasized reaching that goal through customer loyalty, full-price sales and profitable growth that supports reinvestment and strengthens relationships with brands. Geoffroy van Raemdonck",
-    "ss": "Geoffroy van Raemdonck, Saks'ın iflastan çıkmasının ardından Exemplar Luxury Group'un mali açıdan daha güçlü olduğunu söyledi. Bu hedefe müşteri sadakati, tam fiyatlı satışlar ve yeniden yatırımı destekleyen ve markalarla ilişkileri güçlendiren karlı büyüme yoluyla ulaşıldığını vurguladı. Geoffroy van Raemdonck",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
-    "ts": 1794610798000,
     "tags": []
    }
   ],
@@ -789,9 +789,9 @@
   "ZeroHedge": [
    {
     "t": "Let The Real Chaos Begin",
-    "tt": null,
+    "tt": "Gerçek Kaos Başlasın",
     "s": "Let The Real Chaos Begin Authored by Robert Gore via Straight Line Logic , Buckle up. The same motive power that propelled Donald Trump's electoral victories in 2016 and 2024 propelled his disastrous midterm repudiation - fear and loathing of government. There is no unconditional love in politics. T",
-    "ss": null,
+    "ss": "Gerçek Kaos Başlasın Robert Gore tarafından Düz Çizgi Mantığı aracılığıyla yazılmıştır, Kemerlerinizi bağlayın. Donald Trump'ın 2016 ve 2024'teki seçim zaferlerini sağlayan itici güç, onun ara dönem için feci şekilde reddedilmesine de yol açtı: hükümete karşı duyulan korku ve nefret. Siyasette koşulsuz sevgi yoktur. T",
     "u": "https://www.zerohedge.com/geopolitical/let-real-chaos-begin",
     "ts": 1794630300000,
     "tags": []
@@ -983,7 +983,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://tra",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
