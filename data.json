@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T04:06:18.662254+00:00",
+ "generated": "2026-11-14T05:06:10.472252+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 52347.55,
+   "p": 52347.6,
    "c": 0.1,
-   "d": 50.46,
+   "d": 50.51,
    "k": "idx"
   },
   {
@@ -45,16 +45,16 @@
   },
   {
    "n": "WTI",
-   "p": 88.92,
-   "c": 0.2,
-   "d": 0.18,
+   "p": 88.56,
+   "c": -0.2,
+   "d": -0.18,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 96.08,
-   "c": 0.27,
-   "d": 0.26,
+   "p": 95.84,
+   "c": 0.02,
+   "d": 0.02,
    "k": "usd"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 66732,
-   "c": -3.22,
+   "p": 66970,
+   "c": -2.11,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1884.6,
-   "c": -2.79,
+   "p": 1895.93,
+   "c": -1.24,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 75.14,
-   "c": -4.51,
+   "p": 75.37,
+   "c": -3.77,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.989467,
-   "c": -1.85,
+   "p": 0.994683,
+   "c": -0.88,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 615.05,
-   "c": -3.2,
+   "p": 616.57,
+   "c": -2.28,
    "k": "usd"
   }
  ],
@@ -504,6 +504,24 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "China to Meet All New Power Demand With Clean Energy, CCTV Says",
+    "tt": null,
+    "s": "China is expected to meet all growth in power demand with new clean energy generation by 2030, China Central Television reported.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
+    "ts": 1794629134000,
+    "tags": []
+   },
+   {
+    "t": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
+    "tt": null,
+    "s": "Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
+    "ts": 1794627845000,
+    "tags": []
+   },
+   {
     "t": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
     "tt": "Çin Demiryolları 10 Ayda 4,13 Milyar Seferle Rekor Kırdı",
     "s": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.",
@@ -573,24 +591,6 @@
     "ss": "Geoffroy van Raemdonck, Saks'ın iflastan çıkmasının ardından Exemplar Luxury Group'un mali açıdan daha güçlü olduğunu söyledi. Bu hedefe müşteri sadakati, tam fiyatlı satışlar ve yeniden yatırımı destekleyen ve markalarla ilişkileri güçlendiren karlı büyüme yoluyla ulaşıldığını vurguladı. Geoffroy van Raemdonck",
     "u": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
     "ts": 1794610798000,
-    "tags": []
-   },
-   {
-    "t": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
-    "tt": "Büyük Sonuç: İklim, Modellerin Tahmin Edemeyeceği Şekilde Değişiyor",
-    "s": "COP31 aims to set new goals to bring down emissions as climate change outpaces scientists’ predictions and disasters drive billions of dollars of losses. (Source: Bloomberg)",
-    "ss": "COP31, iklim değişikliğinin bilim adamlarının tahminlerini geride bırakması ve felaketlerin milyarlarca dolarlık kayba yol açması nedeniyle emisyonları azaltmak için yeni hedefler belirlemeyi amaçlıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
-    "ts": 1794610362000,
-    "tags": []
-   },
-   {
-    "t": "Jeff Currie Says He’s Bearish on Copper Due to China",
-    "tt": "Jeff Currie Çin Nedeniyle Bakırda Düşüş Olduğunu Söyledi",
-    "s": "Jeff Currie, CEO and founder at Real Macro and senior adviser at Carlyle, says gold’s retreat reflects a shortage of dollar liquidity. He also discusses the global oil industry in an interview with Vonnie Quinn and Bailey Lipschultz on “The Close.” (Source: Bloomberg)",
-    "ss": "Real Macro'nun CEO'su ve kurucusu ve Carlyle'ın kıdemli danışmanı Jeff Currie, altının gerilemesinin dolar likiditesi eksikliğini yansıttığını söylüyor. Ayrıca Vonnie Quinn ve Bailey Lipschultz ile “The Close”da yaptığı röportajda küresel petrol endüstrisini tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
-    "ts": 1794610319000,
     "tags": []
    }
   ],
@@ -788,6 +788,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Let The Real Chaos Begin",
+    "tt": null,
+    "s": "Let The Real Chaos Begin Authored by Robert Gore via Straight Line Logic , Buckle up. The same motive power that propelled Donald Trump's electoral victories in 2016 and 2024 propelled his disastrous midterm repudiation - fear and loathing of government. There is no unconditional love in politics. T",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/let-real-chaos-begin",
+    "ts": 1794630300000,
+    "tags": []
+   },
+   {
     "t": "\"It All Comes From The Israelis\": Joe Kent Reveals What Happened When He Told Trump About Iran Intel",
     "tt": "\"Hepsi İsraillilerden Geliyor\": Joe Kent, Trump'a İran Intel'i Anlattığında Neler Olduğunu Açıkladı",
     "s": "\"It All Comes From The Israelis\": Joe Kent Reveals What Happened When He Told Trump About Iran Intel Former National Counterterrorism Center director Joe Kent says Stephen Miller, now President Trump's chief of staff, \"knew going into the Iran war that this was bad\" - and that Miller's predecessor, ",
@@ -866,15 +875,6 @@
     "ss": "19.100.000.000.000 Dolar: Amerikalılar Dünya Tarihinin En Büyük Tüketici Borçları Okyanusunda Boğuluyor Michael Snyder tarafından The Economic Collapse Blog aracılığıyla yazılmıştır, Amerika Birleşik Devletleri'ndeki toplam hane halkı borcu tüm zamanların en yüksek seviyesine ulaştı. ABD nüfusunun büyük bir kısmı için,",
     "u": "https://www.zerohedge.com/personal-finance/19100000000000-americans-are-drowning-largest-ocean-consumer-debt-history-world",
     "ts": 1794618300000,
-    "tags": []
-   },
-   {
-    "t": "\"He Wants This To Go Fast\": Nvidia's Top Lawyer Kept Name-Dropping Trump To Strong-Arm Regulators, According To Report",
-    "tt": "\"Bunun Hızlı Gitmesini İstiyor\": Rapora Göre Nvidia'nın Baş Avukatı Trump'ın Adını Güçlü Düzenleyicilere Bıraktı",
-    "s": "\"He Wants This To Go Fast\": Nvidia's Top Lawyer Kept Name-Dropping Trump To Strong-Arm Regulators, According To Report Nvidia general counsel Tim Teter told more than a dozen government officials working on terms &amp; conditions for the company's H200 chip exports to China that he was in a meeting ",
-    "ss": "\"Bunun Hızlı Gitmesini İstiyor\": Rapora Göre Nvidia'nın Baş Avukatı Trump'ın İsmini Güçlü Silah Düzenleyicilerine Bıraktı Nvidia genel danışmanı Tim Teter, şirketin Çin'e H200 çip ihracatına ilişkin şartlar ve koşullar üzerinde çalışan bir düzineden fazla hükümet yetkilisine bir toplantıda olduğunu söyledi",
-    "u": "https://www.zerohedge.com/ai/he-wants-go-fast-nvidias-top-lawyer-kept-name-dropping-trump-strong-arm-regulators-china-chip",
-    "ts": 1794615300000,
     "tags": []
    }
   ],
@@ -983,6 +983,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://tra",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
