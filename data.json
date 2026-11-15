@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T22:52:18.348098+00:00",
+ "generated": "2026-11-15T23:34:12.339513+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3886.3,
-   "c": 0.03,
-   "d": 1.0,
+   "p": 3884.0,
+   "c": -0.06,
+   "d": -2.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 49.121,
-   "c": -1.7,
-   "d": -0.851,
+   "p": 48.68,
+   "c": -0.72,
+   "d": -0.351,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.56,
-   "c": -0.2,
-   "d": -0.18,
+   "p": 88.45,
+   "c": -0.12,
+   "d": -0.11,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.84,
-   "c": 0.02,
-   "d": 0.02,
+   "p": 95.44,
+   "c": -0.42,
+   "d": -0.4,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.411,
-   "c": 0.0,
-   "d": 0.001,
+   "p": 103.436,
+   "c": 0.03,
+   "d": 0.026,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3647,
-   "c": 0.16,
-   "d": 0.083,
+   "p": 50.3254,
+   "c": 0.09,
+   "d": 0.043,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 65134,
-   "c": 2.7,
+   "p": 65066,
+   "c": 2.28,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1825.51,
-   "c": 4.59,
+   "p": 1827.4,
+   "c": 4.79,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.21,
-   "c": 4.5,
+   "p": 72.28,
+   "c": 4.49,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.968316,
-   "c": 7.71,
+   "p": 0.97087,
+   "c": 7.98,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 594.89,
-   "c": 3.62,
+   "p": 594.22,
+   "c": 3.1,
    "k": "usd"
   }
  ],
@@ -534,12 +534,65 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
+    "t": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+    "tt": null,
+    "s": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+    "ts": 1794719427000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Indonesia’s Prabowo Apologizes to Singapore, Malaysia for Haze",
+    "tt": null,
+    "s": "Indonesian President Prabowo Subianto apologized to Singapore and Malaysia for the transboundary haze that blanketed parts of Southeast Asia in recent months.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze",
+    "ts": 1794784607000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Rise as AI Woes Ease, Oil Slips: Markets Wrap",
     "tt": "Asya Hisse Senetleri Yapay Zeka Baskısına Hazırlanıyor ve Veri Dökümü: Piyasa Özeti",
-    "s": "Stocks in Asia may come under renewed pressure as concerns over the artificial-intelligence trade linger, with Chinese and Japanese data due to offer clues on the health of the region’s major economies. Bitcoin steadies.",
+    "s": "US equity-index futures edged higher in early Asian trading as investors returned to risk assets following last week’s selloff, offering signs that concerns over the artificial intelligence trade may be easing. Oil slipped.",
     "ss": "Yapay zeka ticaretine ilişkin endişelerin devam etmesi ve Çin ve Japonya verilerinin bölgenin büyük ekonomilerinin sağlığına dair ipuçları sunması nedeniyle Asya'daki hisse senetleri yeniden baskı altına girebilir. Bitcoin stabil.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
     "ts": 1794780692000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 16",
+    "tt": null,
+    "s": "Oil steadied after a two-week slump, as fresh attacks in the Middle East countered signs of a well-supplied physical market.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
+    "ts": 1794783830000,
+    "tags": []
+   },
+   {
+    "t": "Shenzhen’s Manufacturing Power Draws Wave of Innovators",
+    "tt": null,
+    "s": "You can't get the speed anywhere else\": Despite tariffs and political narratives, hardware innovators from the US are rushing back to China's tech capital to turn their ideas into reality faster and cheaper.Bloomberg's Stephen Engle has more. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-15/pkg-engle-shenzhen-tech-entrepreneurs",
+    "ts": 1794783640000,
+    "tags": []
+   },
+   {
+    "t": "Philippines’ Main Coal Mine in Limbo Puts Nation’s Energy Supply at Risk",
+    "tt": null,
+    "s": "Sheila Potestad has spent two decades working as a welder at the Philippines’ largest coal mine on Semirara Island, on the western side of the archipelago. The mother of two is employed there alongside her husband. Now, more than 200 dump trucks, bulldozers and excavators are idle, seawater has forc",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/philippines-main-coal-mine-in-limbo-puts-nation-s-energy-supply-at-risk",
+    "ts": 1794783600000,
     "tags": []
    },
    {
@@ -576,51 +629,6 @@
     "ss": "Morarma dolu bir haftayı yeni geride bırakan tahvil tüccarları, piyasanın uzun bir faiz artırımı döngüsüne ilişkin beklentileri artırmasının ardından faiz oranlarına ilişkin ipuçları için Fed'in bir dizi konuşmasına ve merkez bankasının en son toplantı tutanaklarına bakacak.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
     "ts": 1794772800000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic’s IPO Makes Dario Amodei the New Face of the AI Boom",
-    "tt": "Anthropic'in Halka Arzı, Dario Amodei'yi Yapay Zeka Patlamasının Yeni Yüzü Haline Getiriyor",
-    "s": "The startup is set for the biggest IPO of all time, putting&nbsp;AI investors’ hopes and dreams — and fears — onto a frontier model maker.",
-    "ss": "Girişim, yapay zeka yatırımcılarının umutlarını, hayallerini ve korkularını öncü bir model oluşturucuya taşıyarak tüm zamanların en büyük halka arzına hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
-    "ts": 1794769220000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
-    "tt": "Nvidia Fallout, Sonraki Mega Halka Arz, FAA Yönlendirici Arızası",
-    "s": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. TSA Administrator and Fmr. FBI Deputy Director John Pistole, Veda Partners Co-Founder and Dire",
-    "ss": "Piyasalar kapanınca haberler bitmiyor. Sunucular David Gura, Christina Ruffini ve Lisa Mateo, hafta sonunun en büyük manşetleri olan New York'tan CANLI yayına netlik, bağlam ve biraz mizah getiriyor. Fmr'a katıldı. TSA Yöneticisi ve Fmr. FBI Direktör Yardımcısı John Pistole, Veda Partners Kurucu Ortağı ve Dire",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
-    "ts": 1794761631000,
-    "tags": []
-   },
-   {
-    "t": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
-    "tt": "Madencilik ve Tarımda Çöküş Yaşanırken Peru Ekonomisi Beklenmedik Bir Şekilde Yavaşlıyor",
-    "s": "Peru’s economy unexpectedly slowed in September, dragged down by weak mining and agriculture output.",
-    "ss": "Peru ekonomisi, zayıf madencilik ve tarım üretiminin etkisiyle Eylül ayında beklenmedik bir şekilde yavaşladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
-    "ts": 1794758094000,
-    "tags": []
-   },
-   {
-    "t": "Bookmarked: News Stories On Our Reading List",
-    "tt": "Favorilere Eklendi: Okuma Listemizdeki Haberler",
-    "s": "Foraging at luxury retreats, $20 million in cash found in Hungary, and the plight of big sisters: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)",
-    "ss": "Lüks tatil yerlerinde yiyecek arama, Macaristan'da bulunan 20 milyon dolar nakit ve ablaların durumu: Geçen hafta dikkatlerini çeken hikayeleri paylaştıkları Bookmarked için Bu Hafta Sonu Bloomberg'de sunucular David Gura, Christina Ruffini ve Lisa Mateo'ya katılın. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-15/bookmarked-news-stories-on-our-reading-list-video",
-    "ts": 1794757865000,
-    "tags": []
-   },
-   {
-    "t": "By The Way: Headlines You May Have Missed",
-    "tt": "Bu arada: Kaçırmış Olabileceğiniz Başlıklar",
-    "s": "AI bots using credit cards, Meta and TikTok’s confidential payments to teens, how the wealthy are trying to keep kids at home, and a fundraising drunk raccoon: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-    "ss": "Kredi kartlarını kullanan yapay zeka botları, Meta ve TikTok'un gençlere yaptığı gizli ödemeler, zenginlerin çocukları evde tutmaya çalışmaları ve bağış toplayan sarhoş bir rakun: Kaçırmış olabileceğiniz ama görmeniz gereken manşetlerin özeti için Lisa Mateo, David Gura ve Christina Ruffini'ye katılın. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-15/by-the-way-headlines-you-may-have-missed-video",
-    "ts": 1794757566000,
     "tags": []
    }
   ],
@@ -723,6 +731,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "tt": "'Tadımı ekşitiyor': Yaşlı annem kuzenimize araba tamiri için 800 dolar verdi. Endişelenmeli miyim?",
+    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "ss": "\"Yaşlı insanların kolaylıkla küçümsendiklerini hissedebileceklerini biliyorum ve bunun olmasını istemiyorum.\"",
+    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "ts": 1794785400000,
+    "tags": []
+   },
+   {
+    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "tt": null,
+    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "ts": 1794783600000,
+    "tags": []
+   },
+   {
     "t": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
     "tt": "Çocuğu olmayan ağabeyim tek kız kardeşimizi vasiyetinden çıkardı. Her şeyi alacağım. Ona söyleyeyim mi?",
     "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
@@ -756,15 +782,6 @@
     "ss": "\"Her zaman mirasının bir kısmının kızına miras kalmasını istediğini söylerdi ve ben buna hiçbir zaman itiraz etmedim.\"",
     "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
     "ts": 1794774600000,
-    "tags": []
-   },
-   {
-    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "tt": "'Tadımı ekşitiyor': Yaşlı annem kuzenimize araba tamiri için 800 dolar verdi. Endişelenmeli miyim?",
-    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-    "ss": "\"Yaşlı insanların kolaylıkla küçümsendiklerini hissedebileceklerini biliyorum ve bunun olmasını istemiyorum.\"",
-    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "ts": 1794772860000,
     "tags": []
    },
    {
@@ -802,18 +819,18 @@
     "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
     "ts": 1794754800000,
     "tags": []
-   },
-   {
-    "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
-    "s": "There is already a demographic ‘run’ on Social Security.",
-    "ss": "Zaten Sosyal Güvenlik konusunda demografik bir 'çalışma' var.",
-    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "ts": 1794751200000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It",
+    "tt": null,
+    "s": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It Authored by Naveen Athrappully via The Epoch Times , A coalition of nonprofits has sued major U.S. tech companies to freeze advanced artificial intelligence development , citing severe risks such as cyberattacks and b",
+    "ss": null,
+    "u": "https://www.zerohedge.com/ai/ai-labs-say-their-tech-could-kill-everyone-now-nonprofits-are-suing-freeze-it",
+    "ts": 1794785700000,
+    "tags": []
+   },
    {
     "t": "\"Something's Got To Break\": Murray Sabrin On $40 Trillion In Debt And Abolishing The Welfare-Warfare State",
     "tt": "\"Bir Şeyler Bozulmalı\": Murray Sabrin'in 40 Trilyon Dolarlık Borcu Var ve Refah-Savaş Devletini Kaldırıyor",
@@ -892,15 +909,6 @@
     "s": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models &amp; Chips Was Nvidia’s Jensen Huang ousted in part because he was the biggest corporate backer of open-source AI. David Sacks argues Anthropic's \"safetyist\" allies (EAs and related g",
     "ss": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Çipler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi Nvidia'dan Jensen Huang, kısmen açık kaynaklı yapay zekanın en büyük kurumsal destekçisi olduğu için görevden alındı. David Sacks, Anthropic'in \"güvenlikçi\" müttefiklerinin (EA'lar ve ilgili g)",
     "u": "https://www.zerohedge.com/ai/was-jensen-taken-out-over-open-source-sacks-says-anthropics-safetyist-allies-want-all-models-and",
-    "ts": 1794769200000,
-    "tags": []
-   },
-   {
-    "t": "Science Said We'd All Be Crushed To Death On Friday - It Was Peer-Reviewed",
-    "tt": "Bilim Cuma Günü Hepimizin Ezilerek Öleceğini Söyledi - Hakem Değerlendirmesinden Geçti",
-    "s": "Science Said We'd All Be Crushed To Death On Friday - It Was Peer-Reviewed Authored by Paul D. Thacker via The DisInformation Chronicle , Sixty-six years ago, the journal Science published a peer-reviewed study confirming what many know today: a distressing share of the academic literature is nonsen",
-    "ss": "Science, Cuma Günü Hepimizin Ezilerek Öleceğini Söyledi - Hakem Değerlendirmesinden Geçti Yazan: Paul D. Thacker, The DisInformation Chronicle aracılığıyla, Altmış altı yıl önce Science dergisi, bugün birçok kişinin bildiğini doğrulayan hakemli bir çalışma yayınladı: akademik literatürün üzücü bir kısmı saçmalık",
-    "u": "https://www.zerohedge.com/geopolitical/science-said-wed-all-be-crushed-death-friday-it-was-peer-reviewed",
     "ts": 1794769200000,
     "tags": []
    }
@@ -1010,6 +1018,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
