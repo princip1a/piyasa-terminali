@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T21:26:30.277872+00:00",
+ "generated": "2026-11-15T22:14:16.933165+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -60,8 +60,8 @@
   {
    "n": "DXY",
    "p": 103.411,
-   "c": 0.23,
-   "d": 0.241,
+   "c": 0.0,
+   "d": 0.001,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3468,
-   "c": 0.13,
-   "d": 0.065,
+   "p": 50.3553,
+   "c": 0.15,
+   "d": 0.073,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64927,
-   "c": 0.84,
+   "p": 65159,
+   "c": 2.18,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1814.8,
-   "c": 2.29,
+   "p": 1823.53,
+   "c": 4.16,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.68,
-   "c": 2.49,
+   "p": 72.19,
+   "c": 4.44,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.960054,
-   "c": 5.07,
+   "p": 0.966615,
+   "c": 7.37,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 591.41,
-   "c": 2.44,
+   "p": 594.47,
+   "c": 3.78,
    "k": "usd"
   }
  ],
@@ -534,6 +534,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Diamondback in Talks to Buy Double Eagle for About $5 Billion",
+    "tt": "Diamondback, Double Eagle'ı Yaklaşık 5 Milyar Dolara Satın Almak İçin Görüşmelerde",
+    "s": "Diamondback Energy Inc. is in talks to acquire closely held oil driller Double Eagle V for about $5 billion, further expanding its position in the Permian Basin, the world’s most productive shale region, according to a person familiar with the matter.",
+    "ss": "Konuya aşina bir kişiye göre, Diamondback Energy Inc., yakın elindeki petrol sondaj şirketi Double Eagle V'yi yaklaşık 5 milyar dolara satın almak ve böylece dünyanın en verimli kaya petrolü bölgesi olan Permiyen Havzası'ndaki konumunu daha da genişletmek için görüşmelerde bulunuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
+    "ts": 1794779350000,
+    "tags": []
+   },
+   {
     "t": "Pictet Adds Japan Stocks in Diversification Push After Midterms",
     "tt": "Pictet, Ara Sınavlardan Sonra Çeşitlendirmeye Japonya Hisse Senetlerini Ekledi",
     "s": "Pictet Asset Management has added more Japanese shares to one of its multi-asset portfolios following the US midterm elections, in a bid to diversify and seek opportunities beyond stocks that are directly tied to artificial intelligence.",
@@ -615,15 +624,6 @@
     "tags": [
      "Altın ▲"
     ]
-   },
-   {
-    "t": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
-    "tt": "Yatırımcılar Kaldıraç Korkuları Büyürken Nvidia ve SpaceX'teki Kalshi Hisse Senedi 'Perps'ine Dönüyor",
-    "s": "A new way for traders to place leveraged bets on stock prices is growing in popularity as questions around the outlook for AI following the US midterm elections spur demand for hedging.",
-    "ss": "ABD ara seçimlerinin ardından yapay zekanın görünümüyle ilgili soruların riskten korunma talebini artırmasıyla, yatırımcıların hisse senedi fiyatlarına kaldıraçlı bahis koymasının yeni bir yolu popülerlik kazanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
-    "ts": 1794754800000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -725,6 +725,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+    "tt": "Çocuğu olmayan ağabeyim tek kız kardeşimizi vasiyetinden çıkardı. Her şeyi alacağım. Ona söyleyeyim mi?",
+    "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "ss": "\"Kardeşimin isteklerine saygı duymakla kız kardeşime karşı adil olmak arasında kaldım.\"",
+    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "ts": 1794780900000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+    "tt": "Nvidia, Wall Street'in yıllardır en çok beklenen kazanç tahminlerinden birine hazırlanıyor",
+    "s": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+    "ss": "Jensen Huang'ın ani ayrılışı, Salı günkü kazancın \"şirket tarihindeki en önemli kazanç\" olarak nitelendirilmesine neden oldu.",
+    "u": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+    "ts": 1794778320000,
+    "tags": []
+   },
+   {
+    "t": "Budget airlines are going upscale with first-class seats and faster wifi",
+    "tt": "Ekonomik havayolları birinci sınıf koltuklar ve daha hızlı Wi-Fi ile lükse geçiş yapıyor",
+    "s": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+    "ss": "Gösterişsizliği unutun: Frontier ve JetBlue lüks ilanların peşinde, Wall Street de onları satın alıyor.",
+    "u": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+    "ts": 1794778260000,
+    "tags": []
+   },
+   {
     "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
     "tt": "Babamdan bana 1,4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
     "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
@@ -779,15 +806,6 @@
     "tags": []
    },
    {
-    "t": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-    "tt": "Nvidia, Wall Street'in yıllardır en çok beklenen kazanç tahminlerinden birine hazırlanıyor",
-    "s": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
-    "ss": "Jensen Huang'ın ani ayrılışı, Salı günkü kazancın \"şirket tarihindeki en önemli kazanç\" olarak nitelendirilmesine neden oldu.",
-    "u": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "ts": 1794754800000,
-    "tags": []
-   },
-   {
     "t": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
     "tt": "'100 yaşına kadar yaşama düşüncesi beni korkutuyor': Sosyal Güvenlik dev bir saadet zinciri mi?",
     "s": "There is already a demographic ‘run’ on Social Security.",
@@ -795,27 +813,18 @@
     "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
     "ts": 1794751200000,
     "tags": []
-   },
-   {
-    "t": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-    "tt": "Antropik halka arz, SpaceX'in yaptığı gibi daha geniş ABD hisse senedi piyasasında bir rahatsızlık yaratacak mı?",
-    "s": "SpaceX’s offering coincided with the June peak in semiconductors.",
-    "ss": "SpaceX'in teklifi, yarı iletkenlerde Haziran zirvesine denk geldi.",
-    "u": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-    "ts": 1794751200000,
-    "tags": []
-   },
-   {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimi kesmeli mi?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794749400000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Ex-CIA Chief Brennan's Son: Child Porn Tip Sat With Local Cops For Two Years Before FBI Got It",
+    "tt": "Eski CIA Şefi Brennan'ın Oğlu: Çocuk Pornosu İddiası FBI'ın Almasından Önce İki Yıl Boyunca Yerel Polislerle Konuşuldu",
+    "s": "Ex-CIA Chief Brennan's Son: Child Porn Tip Sat With Local Cops For Two Years Before FBI Got It Authored by Luis Cornelio via Headline USA , The adult son of embattled former CIA Director John Brennan was arrested Friday in Virginia in connection with alleged \"child pornography\" found on his phone , ",
+    "ss": "Eski CIA Şefi Brennan'ın Oğlu: Çocuk Pornosu İddiası, FBI'ın Almasından Önce İki Yıl Boyunca Yerel Polislerle Oturdu Luis Cornelio tarafından Headline USA aracılığıyla yazıldı. Güç durumdaki eski CIA Direktörü John Brennan'ın yetişkin oğlu, telefonunda bulunan \"çocuk pornografisi\" iddiasıyla bağlantılı olarak Cuma günü Virginia'da tutuklandı.",
+    "u": "https://www.zerohedge.com/political/ex-cia-chief-brennans-son-child-porn-tip-sat-local-cops-two-years-fbi-got-it",
+    "ts": 1794779700000,
+    "tags": []
+   },
    {
     "t": "\"These Shell Companies Were Obvious\": Bessent Gives Nvidia Board 10 Days, Wants Outsider To Replace Huang",
     "tt": "\"Bu Shell Şirketleri Açıktı\": Bessent, Nvidia Yönetim Kuruluna 10 Gün Verdi, Huang'ın Yerini Dışarıdan Almak İstiyor",
@@ -862,20 +871,20 @@
     "tags": []
    },
    {
-    "t": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models & Chips",
-    "tt": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Cipsler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi",
-    "s": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models &amp; Chips Was Nvidia’s Jensen Huang ousted in part because he was the biggest corporate backer of open-source AI. David Sacks argues Anthropic's \"safetyist\" allies (EAs and related g",
-    "ss": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Çipler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi Nvidia'dan Jensen Huang, kısmen açık kaynaklı yapay zekanın en büyük kurumsal destekçisi olduğu için görevden alındı. David Sacks, Anthropic'in \"güvenlikçi\" müttefiklerinin (EA'lar ve ilgili g)",
-    "u": "https://www.zerohedge.com/ai/was-jensen-taken-out-over-open-source-sacks-says-anthropics-safetyist-allies-want-all-models-and",
-    "ts": 1794769200000,
-    "tags": []
-   },
-   {
     "t": "Science Said We'd All Be Crushed To Death On Friday - It Was Peer-Reviewed",
     "tt": "Bilim Cuma Günü Hepimizin Ezilerek Öleceğini Söyledi - Hakem Değerlendirmesinden Geçti",
     "s": "Science Said We'd All Be Crushed To Death On Friday - It Was Peer-Reviewed Authored by Paul D. Thacker via The DisInformation Chronicle , Sixty-six years ago, the journal Science published a peer-reviewed study confirming what many know today: a distressing share of the academic literature is nonsen",
     "ss": "Science, Cuma Günü Hepimizin Ezilerek Öleceğini Söyledi - Hakem Değerlendirmesinden Geçti Yazan: Paul D. Thacker, The DisInformation Chronicle aracılığıyla, Altmış altı yıl önce Science dergisi, bugün birçok kişinin bildiğini doğrulayan hakemli bir çalışma yayınladı: akademik literatürün üzücü bir kısmı saçmalık",
     "u": "https://www.zerohedge.com/geopolitical/science-said-wed-all-be-crushed-death-friday-it-was-peer-reviewed",
+    "ts": 1794769200000,
+    "tags": []
+   },
+   {
+    "t": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models & Chips",
+    "tt": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Cipsler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi",
+    "s": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models &amp; Chips Was Nvidia’s Jensen Huang ousted in part because he was the biggest corporate backer of open-source AI. David Sacks argues Anthropic's \"safetyist\" allies (EAs and related g",
+    "ss": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Çipler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi Nvidia'dan Jensen Huang, kısmen açık kaynaklı yapay zekanın en büyük kurumsal destekçisi olduğu için görevden alındı. David Sacks, Anthropic'in \"güvenlikçi\" müttefiklerinin (EA'lar ve ilgili g)",
+    "u": "https://www.zerohedge.com/ai/was-jensen-taken-out-over-open-source-sacks-says-anthropics-safetyist-allies-want-all-models-and",
     "ts": 1794769200000,
     "tags": []
    },
@@ -895,15 +904,6 @@
     "ss": "Muhafızlar Hürmüz'ü \"Kapalı\" İlan Ederken İran Bahreyn'i Tekrar Vurdu İran Pazar günü erken saatlerde Bahreyn'e insansız hava araçları ateşledi; savaşı sona erdirmek için aylarca süren diplomasi hiçbir ilerleme sağlamadığı için Eylül ayından beri süren bir durgunluğun ardından, ABD Donanması'nın Beşinci Filosuna ev sahipliği yapan Körfez krallığına üç gün içinde ikinci saldırısı oldu.",
     "u": "https://www.zerohedge.com/geopolitical/iran-hits-bahrain-again-guards-declare-hormuz-closed",
     "ts": 1794763800000,
-    "tags": []
-   },
-   {
-    "t": "Schumer, Jeffries Pledge To Ban Stock Trading By Members Of Congress",
-    "tt": "Schumer ve Jeffries Kongre Üyelerinin Hisse Senedi Ticaretini Yasaklama Sözü Verdi",
-    "s": "Schumer, Jeffries Pledge To Ban Stock Trading By Members Of Congress Authored by Chase Smith via The Epoch Times , Senate Democratic Leader Chuck Schumer (D-N.Y.) said on Nov. 12 that Senate Democrats will ban stock trading for members of Congress and White House officials once they take the majorit",
-    "ss": "Schumer ve Jeffries, Kongre Üyeleri Tarafından Hisse Senedi Ticaretini Yasaklama Sözü Verdi Chase Smith tarafından The Epoch Times aracılığıyla yazılan, Senato Demokrat Lideri Chuck Schumer (D-N.Y.) 12 Kasım'da Senato Demokratlarının çoğunluğu aldıktan sonra Kongre üyeleri ve Beyaz Saray yetkilileri için hisse senedi ticaretini yasaklayacağını söyledi",
-    "u": "https://www.zerohedge.com/political/schumer-jeffries-pledge-ban-stock-trading-members-congress",
-    "ts": 1794762000000,
     "tags": []
    }
   ],
