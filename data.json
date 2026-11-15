@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T17:14:45.097727+00:00",
+ "generated": "2026-11-15T17:49:57.783309+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3447,
-   "c": 0.18,
-   "d": 0.091,
+   "p": 50.3456,
+   "c": 0.13,
+   "d": 0.064,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64769,
-   "c": -0.59,
+   "p": 64494,
+   "c": -2.01,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1815.96,
-   "c": -0.07,
+   "p": 1807.5,
+   "c": -2.06,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.3,
-   "c": -1.37,
+   "p": 71.23,
+   "c": -2.14,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.951812,
-   "c": 0.26,
+   "p": 0.948049,
+   "c": -1.6,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 591.52,
-   "c": 1.1,
+   "p": 589.79,
+   "c": -0.3,
    "k": "usd"
   }
  ],
@@ -534,6 +534,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Nvidia Fallout, Next Mega IPO, FAA Router Failure",
+    "tt": "Nvidia Fallout, Sonraki Mega Halka Arz, FAA Yönlendirici Arızası",
+    "s": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. TSA Administrator and Fmr. FBI Deputy Director John Pistole, Veda Partners Co-Founder and Dire",
+    "ss": "Piyasalar kapanınca haberler bitmiyor. Sunucular David Gura, Christina Ruffini ve Lisa Mateo, hafta sonunun en büyük manşetleri olan New York'tan CANLI yayına netlik, bağlam ve biraz mizah getiriyor. Fmr'a katıldı. TSA Yöneticisi ve Fmr. FBI Direktör Yardımcısı John Pistole, Veda Partners Kurucu Ortağı ve Dire",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-15/bloomberg-this-weekend-11-15-2026-video",
+    "ts": 1794761631000,
+    "tags": []
+   },
+   {
     "t": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
     "tt": "Madencilik ve Tarımda Çöküş Yaşanırken Peru Ekonomisi Beklenmedik Bir Şekilde Yavaşlıyor",
     "s": "Peru’s economy unexpectedly slowed in September, dragged down by weak mining and agriculture output.",
@@ -614,15 +623,6 @@
     "ss": "Veda Partners'tan Henrietta Treyz ve Washington Post ulusal güvenlik muhabiri Tara Copp, Nvidia krizinin çip ihracat kontrollerine yönelik iki partili incelemeyi nasıl körüklediğini ve Pentagon'un ileri teknolojiye bağımlılığıyla ilgili ulusal güvenlik endişelerini nasıl artırdığını tartışmak için Bu Hafta Sonu Bloomberg'de. S",
     "u": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-reshapes-washington-s-tech-debate-video",
     "ts": 1794751832000,
-    "tags": []
-   },
-   {
-    "t": "Router Failure Exposes Risks in FAA Network",
-    "tt": "Yönlendirici Arızası FAA Ağında Riskleri Ortaya Çıkarıyor",
-    "s": "Former TSA Administrator and FBI Deputy Director John Pistole is on Bloomberg This Weekend to discuss the nationwide FAA ground stop and the vulnerabilities exposed by a router failure during work on the agency’s aging telecommunications network. Speaking with hosts David Gura and Christina Ruffini,",
-    "ss": "Eski TSA Yöneticisi ve FBI Direktör Yardımcısı John Pistole, ülke çapındaki FAA yer durdurma işlemini ve ajansın yaşlanan telekomünikasyon ağı üzerinde çalışırken ortaya çıkan bir yönlendirici arızasının ortaya çıkardığı güvenlik açıklarını tartışmak üzere Bu Hafta Sonu Bloomberg'de. Sunucular David Gura ve Christina Ruffini ile konuşurken,",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-15/router-failure-exposes-risks-in-faa-network-video",
-    "ts": 1794749306000,
     "tags": []
    }
   ],
@@ -820,12 +820,30 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Iran Hits Bahrain Again As Guards Declare Hormuz \"Closed\"",
+    "tt": "Muhafızlar Hürmüz'ü \"Kapalı\" ilan ederken İran Bahreyn'i Tekrar Vurdu",
+    "s": "Iran Hits Bahrain Again As Guards Declare Hormuz \"Closed\" Iran fired drones at Bahrain early Sunday, its second attack in three days on the Gulf kingdom that hosts the US Navy's Fifth Fleet , after a lull that had held since September, as months of diplomacy to end the war have produced no breakthro",
+    "ss": "Muhafızlar Hürmüz'ü \"Kapalı\" İlan Ederken İran Bahreyn'i Tekrar Vurdu İran Pazar günü erken saatlerde Bahreyn'e insansız hava araçları ateşledi; savaşı sona erdirmek için aylarca süren diplomasi hiçbir ilerleme sağlamadığı için Eylül ayından beri süren bir durgunluğun ardından, ABD Donanması'nın Beşinci Filosuna ev sahipliği yapan Körfez krallığına üç gün içinde ikinci saldırısı oldu.",
+    "u": "https://www.zerohedge.com/geopolitical/iran-hits-bahrain-again-guards-declare-hormuz-closed",
+    "ts": 1794763800000,
+    "tags": []
+   },
+   {
     "t": "Schumer, Jeffries Pledge To Ban Stock Trading By Members Of Congress",
     "tt": "Schumer ve Jeffries Kongre Üyelerinin Hisse Senedi Ticaretini Yasaklama Sözü Verdi",
     "s": "Schumer, Jeffries Pledge To Ban Stock Trading By Members Of Congress Authored by Chase Smith via The Epoch Times , Senate Democratic Leader Chuck Schumer (D-N.Y.) said on Nov. 12 that Senate Democrats will ban stock trading for members of Congress and White House officials once they take the majorit",
     "ss": "Schumer ve Jeffries, Kongre Üyeleri Tarafından Hisse Senedi Ticaretini Yasaklama Sözü Verdi Chase Smith tarafından The Epoch Times aracılığıyla yazılan, Senato Demokrat Lideri Chuck Schumer (D-N.Y.) 12 Kasım'da Senato Demokratlarının çoğunluğu aldıktan sonra Kongre üyeleri ve Beyaz Saray yetkilileri için hisse senedi ticaretini yasaklayacağını söyledi",
     "u": "https://www.zerohedge.com/political/schumer-jeffries-pledge-ban-stock-trading-members-congress",
     "ts": 1794762000000,
+    "tags": []
+   },
+   {
+    "t": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models & Chips",
+    "tt": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Cipsler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi",
+    "s": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models &amp; Chips Was Nvidia’s Jensen Huang ousted in part because he was the biggest corporate backer of open-source AI. David Sacks argues Anthropic's \"safetyist\" allies (EAs and related g",
+    "ss": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Çipler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi Nvidia'dan Jensen Huang, kısmen açık kaynaklı yapay zekanın en büyük kurumsal destekçisi olduğu için görevden alındı. David Sacks, Anthropic'in \"güvenlikçi\" müttefiklerinin (EA'lar ve ilgili g)",
+    "u": "https://www.zerohedge.com/ai/was-jensen-taken-out-over-open-source-sacks-says-anthropics-safetyist-allies-want-all-models-and",
+    "ts": 1794758400000,
     "tags": []
    },
    {
@@ -893,27 +911,18 @@
     "u": "https://www.zerohedge.com/geopolitical/net-zero-falling-apart-one-target-time",
     "ts": 1794747600000,
     "tags": []
-   },
-   {
-    "t": "Europe's 'Last Bastion' Quietly Took In More Migrants Than Anyone; Now The Backlash Hits Warsaw",
-    "tt": "Avrupa'nın 'Son Tabyası' Sessizce Herkesten Daha Fazla Göçmen Aldı; Şimdi Tepki Varşova'yı Vuruyor",
-    "s": "Europe's 'Last Bastion' Quietly Took In More Migrants Than Anyone; Now The Backlash Hits Warsaw Poland's nationalists marched through Warsaw on Wednesday under the slogan \"Polak w Polsce gospodarzem!\" - \"A Pole is the master in Poland!\" (translated) - as the annual Independence March sets off, with ",
-    "ss": "Avrupa'nın 'Son Tabyası' Sessizce Herkesten Daha Fazla Göçmen Aldı; Şimdi Tepki Varşova'yı Vuruyor Polonyalı milliyetçiler Çarşamba günü \"Polak w Polsce gospodarzem!\" sloganıyla Varşova'da yürüdüler. - \"Polonya'da bir Polonyalı efendidir!\" (çevrildi) - yıllık Bağımsızlık Yürüyüşü yola çıkarken,",
-    "u": "https://www.zerohedge.com/geopolitical/europes-last-bastion-quietly-took-more-migrants-anyone-now-backlash-hits-warsaw",
-    "ts": 1794745800000,
-    "tags": []
-   },
-   {
-    "t": "From Sabotaged Supermarkets To RAF Fairford: Iran's War On Europe Is No Longer Deniable",
-    "tt": "Sabote Edilen Süpermarketlerden RAF Fairford'a: İran'ın Avrupa'ya Karşı Savaşı Artık İnkar Edilemez",
-    "s": "From Sabotaged Supermarkets To RAF Fairford: Iran's War On Europe Is No Longer Deniable Authored by Struan Stevenson via Townhall , France has finally done what European governments have been reluctant to do for far too long. On November 10, Paris formally accused the Iranian regime of conducting cy",
-    "ss": "Sabote Edilen Süpermarketlerden RAF Fairford'a: İran'ın Avrupa'ya Karşı Savaşı Artık İnkar Edilemez Struan Stevenson tarafından Townhall aracılığıyla yazılan Fransa, sonunda Avrupa hükümetlerinin çok uzun zamandır yapmakta isteksiz olduğu şeyi yaptı. 10 Kasım'da Paris, İran rejimini resmi olarak siber saldırı yürütmekle suçladı.",
-    "u": "https://www.zerohedge.com/geopolitical/sabotaged-supermarkets-raf-fairford-irans-war-europe-no-longer-deniable",
-    "ts": 1794744000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Megaspeed'den Nvidia çipleriyle ilgili iddialara iç soruşturma",
+    "tt": null,
+    "s": "Bulut hizmetleri sağlayıcısı Megaspeed, Nvidia'nın gelişmiş yapay zeka çiplerinin ABD'nin ihracat kısıtlamalarına rağmen Çin'e ulaştırıldığı iddiaları üzerine iç soruşturma başlattı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/megaspeed-den-nvidia-cipleriyle-ilgili-iddialara-ic-sorusturma-3794682",
+    "ts": 1794763195000,
+    "tags": []
+   },
    {
     "t": "SPK'dan olağanüstü tasfiyedeki pay geri alımlarına ilişkin açıklama",
     "tt": null,
@@ -993,15 +1002,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/iran-ne-savas-ne-baris-durumu-icinde-kalmayacagiz-3794673",
     "ts": 1794729601000,
-    "tags": []
-   },
-   {
-    "t": "VakıfBank ile Dünya Bankası arasında 250 milyon dolarlık finansman anlaşması",
-    "tt": null,
-    "s": "VakıfBank, \"Sanayinin Teknolojiyle Dönüşümü Projesi\" kapsamında Dünya Bankası ile 250 milyon dolarlık finansman anlaşması imzaladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vakifbank-ile-dunya-bankasi-arasinda-250-milyon-dolarlik-finansman-anlasmasi-3794672",
-    "ts": 1794729164000,
     "tags": []
    }
   ]
