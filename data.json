@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T12:34:09.427830+00:00",
+ "generated": "2026-11-15T13:31:57.336884+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 65430,
-   "c": -2.61,
+   "p": 65556,
+   "c": -1.6,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1829.81,
-   "c": -4.08,
+   "p": 1835.01,
+   "c": -2.85,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.73,
-   "c": -4.12,
+   "p": 72.94,
+   "c": -3.11,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.970579,
-   "c": -2.42,
+   "p": 0.974913,
+   "c": -1.39,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 597.82,
-   "c": -2.9,
+   "p": 596.87,
+   "c": -1.83,
    "k": "usd"
   }
  ],
@@ -534,6 +534,60 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Router Failure Exposes Risks in FAA Network",
+    "tt": "Yönlendirici Arızası FAA Ağında Riskleri Ortaya Çıkarıyor",
+    "s": "Former TSA Administrator and FBI Deputy Director John Pistole is on Bloomberg This Weekend to discuss the nationwide FAA ground stop and the vulnerabilities exposed by a router failure during work on the agency’s aging telecommunications network. Speaking with hosts David Gura and Christina Ruffini,",
+    "ss": "Eski TSA Yöneticisi ve FBI Direktör Yardımcısı John Pistole, ülke çapındaki FAA yer durdurma işlemini ve ajansın yaşlanan telekomünikasyon ağı üzerinde çalışırken ortaya çıkan bir yönlendirici arızasının ortaya çıkardığı güvenlik açıklarını tartışmak üzere Bu Hafta Sonu Bloomberg'de. Sunucular David Gura ve Christina Ruffini ile konuşurken,",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-15/router-failure-exposes-risks-in-faa-network-video",
+    "ts": 1794749306000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic IPO Arrives at a Pivotal AI Moment",
+    "tt": "Antropik Halka Arz Yapay Zekanın Önemli Bir Anına Geliyor",
+    "s": "Bloomberg News senior equities reporter Bailey Lipschultz and Bloomberg Intelligence’s Mandeep Singh are on Bloomberg This Weekend to examine Anthropic’s potentially record-setting IPO and how Nvidia’s upheaval following Jensen Huang’s departure is changing the outlook for AI investment and computin",
+    "ss": "Bloomberg News kıdemli hisse senedi muhabiri Bailey Lipschultz ve Bloomberg Intelligence'dan Mandeep Singh, Anthropic'in potansiyel olarak rekor kıran halka arzını ve Jensen Huang'ın ayrılışının ardından Nvidia'nın yaşadığı çalkantının yapay zeka yatırımı ve bilgisayar teknolojisine bakış açısını nasıl değiştirdiğini incelemek için Bu Hafta Sonu Bloomberg'deler.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-15/anthropic-ipo-arrives-at-a-pivotal-ai-moment-video",
+    "ts": 1794748636000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Crisis Complicates Trump’s China Trip",
+    "tt": "Nvidia Krizi Trump'ın Çin Gezisini Zorlaştırıyor",
+    "s": "On Bloomberg This Weekend, co-host of Bloomberg Surveillance Annmarie Hordern examines how scrutiny surrounding Nvidia and Jensen Huang is shifting the focus of President Donald Trump’s China trip from trade toward chip export controls and questions about how restricted technology may have reached C",
+    "ss": "Bu Hafta Sonu Bloomberg'de, Bloomberg Gözetim programının ortak sunucusu Annmarie Hordern, Nvidia ve Jensen Huang'ı çevreleyen incelemelerin, Başkan Donald Trump'ın Çin gezisinin odağını ticaretten çip ihracat kontrollerine doğru nasıl kaydırdığını inceliyor ve kısıtlı teknolojinin nasıl C'ye ulaşmış olabileceğine ilişkin soruları inceliyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-15/nvidia-crisis-complicates-trump-s-china-trip-video",
+    "ts": 1794747946000,
+    "tags": []
+   },
+   {
+    "t": "Can America’s Next Jobs Boom Build a Middle-Class Life?",
+    "tt": "Amerika'nın Sonraki İş Patlaması Orta Sınıf Bir Yaşam Yaratabilir mi?",
+    "s": "America’s aging population is driving rapid growth in demand for home care workers, but many of those jobs still offer wages too low to support a family. Ai-jen Poo of the National Domestic Workers Alliance says the country will need hundreds of thousands of additional home care workers in the comin",
+    "ss": "Amerika'nın yaşlanan nüfusu evde bakım çalışanlarına olan talebin hızlı bir şekilde artmasına neden oluyor, ancak bu işlerin çoğu hâlâ bir aileyi geçindiremeyecek kadar düşük ücretler sunuyor. Ulusal Ev İşçileri İttifakı'ndan Ai-jen Poo, ülkenin gelecekte yüz binlerce ek evde bakım çalışanına ihtiyaç duyacağını söyledi",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-15/can-america-s-next-jobs-boom-build-a-middle-class-life-video",
+    "ts": 1794747816000,
+    "tags": []
+   },
+   {
+    "t": "Trump Heads to Asia With Trade, Security at Stake",
+    "tt": "Trump Ticaret ve Güvenlik Tehlikesindeyken Asya'ya Gidiyor",
+    "s": "Bloomberg’s Avril Hong is on Bloomberg This Weekend to preview President Donald Trump’s trip to Asia, where trade, security ties and China’s growing regional influence are expected to shape meetings with Philippine President Ferdinand Marcos Jr. and other Southeast Asian leaders. Speaking with hosts",
+    "ss": "Bloomberg'den Avril Hong, Başkan Donald Trump'ın ticaret, güvenlik bağları ve Çin'in artan bölgesel nüfuzunun Filipin Devlet Başkanı Ferdinand Marcos Jr. ve diğer Güneydoğu Asyalı liderlerle yapılacak toplantıları şekillendirmesinin beklendiği Asya seyahatinin ön izlemesini yapmak için Bu Hafta Sonu Bloomberg'de. Ev sahipleriyle konuşma",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-15/trump-heads-to-asia-with-trade-security-at-stake-video",
+    "ts": 1794747156000,
+    "tags": []
+   },
+   {
+    "t": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%",
+    "tt": "Gelişmekte Olan Piyasalarda Tahvil Kuraklığı Satışların %41 Düşmesiyle Fiyatları Yükseltti",
+    "s": "New sales of emerging-market government bonds have cratered in the second half of the year despite strong demand from international investors, creating a supply shortage that’s supporting prices before an expected rebound in issuance early next year.",
+    "ss": "Gelişmekte olan piyasa devlet tahvillerinin yeni satışları, uluslararası yatırımcılardan gelen güçlü talebe rağmen yılın ikinci yarısında düşüş gösterdi ve bu durum, önümüzdeki yılın başında ihracın beklenen toparlanmasından önce fiyatları destekleyen bir arz sıkıntısı yarattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
+    "ts": 1794745800000,
+    "tags": []
+   },
+   {
     "t": "AirMozambique Warns of Flight Cancellations Due to Fuel Shortage",
     "tt": "AirMozambik, Yakıt Kıtlığı Nedeniyle Uçuş İptalleri Konusunda Uyardı",
     "s": "AirMozambique, the southeast African country’s national carrier, warned that fuel supply restrictions meant it may have to cancel some flights.",
@@ -570,60 +624,6 @@
     "ss": "(Dijital) SpaceX Yeni İnişte Yıldız Gemisini Yakaladı (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
     "ts": 1794695141000,
-    "tags": []
-   },
-   {
-    "t": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-    "tt": "%6'lık Verimli Getiriler Nvidia Dramasından Sonra İlgi Çekiyor: Credit Weekly",
-    "s": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-    "ss": "ABD şirket tahvilleri son haftalarda toparlanıyor ve hisse senetlerindeki türbülanstan korunmak isteyen para yöneticilerinin dikkatini çekiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-    "ts": 1794686400000,
-    "tags": []
-   },
-   {
-    "t": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
-    "tt": "Ülke Çapında Yer Durdurma Kaldırıldı, Nvidia Casus Skandalı, Starship'in En Uzun Test Uçuşu",
-    "s": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and “Ending Alzheimer’s” Podcast Host David Cameron, Space Network Co-Foun",
-    "ss": "Piyasalar kapanınca haberler bitmiyor. Sunucular David Gura, Christina Ruffini ve Lisa Mateo, hafta sonunun en büyük manşetleri olan New York'tan CANLI yayına netlik, bağlam ve biraz mizah getiriyor. Eski Birleşik Krallık Başbakanı ve “Alzheimer'ı Bitirmek” Podcast Sunucusu David Cameron, Space Network Kurucu Ortağı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-    "ts": 1794674701000,
-    "tags": []
-   },
-   {
-    "t": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-    "tt": "Sivri! Bloomberg'in Risk Alanlar İçin Haftalık Haber Sınavı",
-    "s": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-    "ss": "Pointed, haber yarışması formatına stratejik bir dokunuş sunarak oyuncuların yalnızca haberlere ilişkin bilgilerini değil aynı zamanda cevaplara olan güvenlerini de test ediyor. Bloomberg'den Lisa Mateo, Christina Ruffini ve David Gura'ya oyun oynarken katılın ve Bloomberg.com'daki testi kendiniz kontrol edin (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "ts": 1794673349000,
-    "tags": []
-   },
-   {
-    "t": "The Entrepreneurs Behind Poppi Start Over",
-    "tt": "Poppi'nin Arkasındaki Girişimciler Yeniden Başlıyor",
-    "s": "Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers market business into a nearly $2 billion beverage brand and what they learned from the decade-long journey. Speaking with hosts David Gura and Lisa Mateo, the couple explains why they are starting over",
-    "ss": "Poppi'nin kurucuları Allison ve Stephen Ellsworth, Bu Hafta Sonu Bloomberg'e bir çiftçi pazarındaki işletmeyi yaklaşık 2 milyar dolarlık bir içecek markasına nasıl dönüştürdüklerini ve on yıl süren yolculuktan neler öğrendiklerini anlatıyor. Sunucular David Gura ve Lisa Mateo ile konuşan çift, neden yeniden başladıklarını açıklıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
-    "ts": 1794672784000,
-    "tags": []
-   },
-   {
-    "t": "How China’s Intelligence Operations Target Tech",
-    "tt": "Çin'in İstihbarat Operasyonları Teknolojiyi Nasıl Hedefliyor?",
-    "s": "Former CIA counterintelligence analyst Peter Mattis tells Bloomberg This Weekend how China’s Ministry of State Security can use business and personal relationships to gather intelligence and potentially influence decision-making in strategically important industries. Speaking with hosts David Gura a",
-    "ss": "Eski CIA karşı istihbarat analisti Peter Mattis, Bu Hafta Sonu Bloomberg'e Çin Devlet Güvenlik Bakanlığı'nın istihbarat toplamak ve stratejik açıdan önemli sektörlerde karar alma sürecini potansiyel olarak etkilemek için ticari ve kişisel ilişkileri nasıl kullanabileceğini anlatıyor. Ev sahipleri David Gura ile konuşan",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-    "ts": 1794670872000,
-    "tags": []
-   },
-   {
-    "t": "The Stadium Bidding War Shaking Up the Midwest",
-    "tt": "Stadyum İhale Savaşı Orta Batı'yı Sarsıyor",
-    "s": "The Chicago Bears are weighing three possible homes for a new stadium: downtown Chicago, suburban Arlington Heights and Hammond, Indiana. The competition has turned into a high-stakes economic development battle involving billions of dollars in potential investment, tax incentives and public financi",
-    "ss": "Chicago Bears, yeni bir stadyum için olası üç evi değerlendiriyor: Chicago şehir merkezi, banliyö Arlington Heights ve Hammond, Indiana. Rekabet milyarlarca dolarlık potansiyel yatırım, vergi teşvikleri ve kamu finansmanını içeren yüksek riskli bir ekonomik kalkınma savaşına dönüştü.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
-    "ts": 1794668654000,
     "tags": []
    }
   ],
@@ -726,6 +726,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimi kesmeli mi?",
+    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
+    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "ts": 1794749400000,
+    "tags": []
+   },
+   {
+    "t": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
+    "tt": "Bir analist, ABD'nin Trump 2.0 yönetimi altında daha sosyalist hale geldiğini söylüyor. Demokratların yönettiği bir Kongrede neler değişebilir?",
+    "s": "A handy chart shows how the U.S. used to be among the economies with the least state control — until that changed last year.",
+    "ss": "Kullanışlı bir grafik, geçen yıl değişene kadar ABD'nin nasıl devlet kontrolü en az olan ekonomiler arasında yer aldığını gösteriyor.",
+    "u": "https://www.marketwatch.com/story/the-u-s-is-turning-more-socialist-under-trump-2-0-one-analyst-says-what-could-change-with-a-democratic-run-congress-95d7ff17?mod=mw_rss_topstories",
+    "ts": 1794749400000,
+    "tags": []
+   },
+   {
+    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "tt": "'Tadımı ekşitiyor': Yaşlı annem kuzenimize araba tamiri için 800 dolar verdi. Endişelenmeli miyim?",
+    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "ss": "\"Yaşlı insanların kolaylıkla küçümsendiklerini hissedebileceklerini biliyorum ve bunun olmasını istemiyorum.\"",
+    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "ts": 1794747600000,
+    "tags": []
+   },
+   {
     "t": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
     "tt": "Altın ve gümüşün enflasyona karşı koruma sağlaması gerekiyor. Peki neden her iki metal de yuvarlanıyor?",
     "s": "Charts show the potential for more pain ahead",
@@ -765,30 +792,12 @@
     "tags": []
    },
    {
-    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "tt": "'Tadımı ekşitiyor': Yaşlı annem kuzenimize araba tamiri için 800 dolar verdi. Endişelenmeli miyim?",
-    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-    "ss": "\"Yaşlı insanların kolaylıkla küçümsendiklerini hissedebileceklerini biliyorum ve bunun olmasını istemiyorum.\"",
-    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "ts": 1794686400000,
-    "tags": []
-   },
-   {
     "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
     "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
     "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
     "ss": "\"Belki bir dahaki sefere diğer yaklaşımı deneyeceğim: Canım istediğinde uçağa bineceğim ve çantamı gördüğüm ilk açık yuvaya bırakacağım.\"",
     "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
     "ts": 1794684600000,
-    "tags": []
-   },
-   {
-    "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimi kesmeli mi?",
-    "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
-    "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "ts": 1794681000000,
     "tags": []
    },
    {
@@ -808,18 +817,18 @@
     "u": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
     "ts": 1794678600000,
     "tags": []
-   },
-   {
-    "t": "The trillion-dollar mistake corporate America is making about retirement",
-    "tt": "Kurumsal Amerika'nın emeklilik konusunda yaptığı trilyon dolarlık hata",
-    "s": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-    "ss": "Piyasa, 50 yaş ve üzeri Amerikalıların ekonomik etkisini çarpıcı biçimde düşük fiyatlandırıyor.",
-    "u": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-    "ts": 1794678600000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Net Zero Is Falling Apart, One Target At A Time",
+    "tt": "Net Sıfır Parçalanıyor, Her Seferde Tek Hedef",
+    "s": "Net Zero Is Falling Apart, One Target At A Time Authored by Ross Clark via CapX, This week it seems that another Net Zero domino will fall. The British Government is reported to be on the point of announcing that the Zero Emission Vehicle (ZEV) mandate , which lays down targets for the sale of new c",
+    "ss": "Net Sıfır Parçalanıyor, Her Seferinde Tek Hedef Ross Clark tarafından CapX aracılığıyla yazılmıştır. Bu hafta bir Net Sıfır domino taşı daha düşecek gibi görünüyor. Britanya Hükümeti'nin, yeni C'nin satışına yönelik hedefleri belirleyen Sıfır Emisyonlu Araç (ZEV) talimatının yürürlüğe gireceğini duyurmak üzere olduğu bildiriliyor.",
+    "u": "https://www.zerohedge.com/geopolitical/net-zero-falling-apart-one-target-time",
+    "ts": 1794747600000,
+    "tags": []
+   },
    {
     "t": "Europe's 'Last Bastion' Quietly Took In More Migrants Than Anyone; Now The Backlash Hits Warsaw",
     "tt": "Avrupa'nın 'Son Tabyası' Sessizce Herkesten Daha Fazla Göçmen Aldı; Şimdi Tepki Varşova'yı Vuruyor",
@@ -900,18 +909,18 @@
     "u": "https://www.zerohedge.com/political/theyre-coming-rest-us-jon-stewart-nods-along-maddow-comes-unglued-over-trump-mega-prisons",
     "ts": 1794706500000,
     "tags": []
-   },
-   {
-    "t": "Thankfully, Child Transgenderism Lost On Election Day",
-    "tt": "Neyse ki Seçim Gününde Çocuk Transseksüelliği Kayboldu",
-    "s": "Thankfully, Child Transgenderism Lost On Election Day Authored by Roy Eappen via RealClearPolitics , Here's a story you probably haven't heard about the Nov. 3 election results: Radical gender ideology lost. Badly. This reality has been overlooked in virtually all the coverage of the Republican bloo",
-    "ss": "Neyse ki, Seçim Gününde Çocuk Transseksüelliği Kayboldu Yazan: Roy Eappen, RealClearPolitics aracılığıyla. İşte 3 Kasım seçim sonuçları hakkında muhtemelen duymadığınız bir hikaye: Radikal cinsiyet ideolojisi kaybedildi. Kötü. Bu gerçek Cumhuriyetçilerin neredeyse tüm haberlerinde gözden kaçırıldı.",
-    "u": "https://www.zerohedge.com/political/thankfully-child-transgenderism-lost-election-day",
-    "ts": 1794706200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Faaliyetler toparlanıyor ancak henüz kârlara yansımıyor",
+    "tt": null,
+    "s": "Borsa İstanbul'da üçüncü çeyrek bilanço döneminde şirket kârları karışık bir görünüm ortaya koydu. Şirketlerin faaliyet sonuçlarında bir toparlanma olsa da bunun genele ve kârlılığa tam olarak yansımadığı görülüyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/faaliyetler-toparlaniyor-ancak-henuz-krlara-yansimiyor-3794679",
+    "ts": 1794749397000,
+    "tags": []
+   },
    {
     "t": "Şimşek, fonlardaki varlıkların kaybolduğu iddialarını reddetti",
     "tt": null,
@@ -991,15 +1000,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-15-kasim-2026-3794670",
     "ts": 1794727143000,
-    "tags": []
-   },
-   {
-    "t": "Yılmaz: Ara ödemeleri bir ila iki hafta içinde tamamlamayı planlıyoruz",
-    "tt": null,
-    "s": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye kapsamındaki fonlarda 444 bin 987 yatırımcıya nakit ve ayni olarak yaklaşık 161 milyar lira ödeme yapıldığını açıkladı. Yılmaz, ara ödemelerin son taksitini bir ila iki hafta içinde ödemeyi planladıklarını söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yilmaz-ara-odemeleri-bir-ila-iki-hafta-icinde-tamamlamayi-planliyoruz-3794669",
-    "ts": 1794691148000,
     "tags": []
    }
   ]
