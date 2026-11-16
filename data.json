@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T00:25:42.566160+00:00",
+ "generated": "2026-11-16T02:00:23.230592+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3894.8,
-   "c": 0.22,
-   "d": 8.5,
+   "p": 3876.6,
+   "c": -0.25,
+   "d": -9.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 48.77,
-   "c": -0.53,
-   "d": -0.261,
+   "p": 47.58,
+   "c": -2.96,
+   "d": -1.451,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.68,
-   "c": 0.14,
-   "d": 0.12,
+   "p": 88.31,
+   "c": -0.28,
+   "d": -0.25,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.68,
-   "c": -0.17,
-   "d": -0.16,
+   "p": 95.35,
+   "c": -0.51,
+   "d": -0.49,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.379,
-   "c": -0.03,
-   "d": -0.031,
+   "p": 103.415,
+   "c": 0.0,
+   "d": 0.005,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3592,
-   "c": 0.15,
-   "d": 0.077,
+   "p": 50.3864,
+   "c": 0.21,
+   "d": 0.104,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 65011,
-   "c": 1.48,
+   "p": 64719,
+   "c": 3.44,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1824.94,
-   "c": 3.61,
+   "p": 1806.3,
+   "c": 4.45,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.16,
-   "c": 2.83,
+   "p": 71.34,
+   "c": 5.13,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.965941,
-   "c": 4.1,
+   "p": 0.959201,
+   "c": 5.72,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 594.94,
-   "c": 2.4,
+   "p": 590.6,
+   "c": 3.46,
    "k": "usd"
   }
  ],
@@ -168,6 +168,16 @@
    "actual": "",
    "ts": 1794848400000,
    "tr": "Pzt 16.11 20:00",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Hammack Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1794856500000,
+   "tr": "Pzt 16.11 22:15",
    "reading": null
   },
   {
@@ -492,7 +502,7 @@
   },
   {
    "title": "FOMC Member Waller Speaks",
-   "impact": "Medium",
+   "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
@@ -534,9 +544,9 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Futures Rebound After Two-Day Loss, Oil Slips: Markets Wrap",
+    "t": "Tech Selloff Drags Asian Stocks Lower, Oil Drops: Markets Wrap",
     "tt": "Asya Hisse Senetleri Yapay Zeka Baskısına Hazırlanıyor ve Veri Dökümü: Piyasa Özeti",
-    "s": "US equity-index futures rose in early Asian trading, pointing to a tentative recovery in market sentiment after a bout of weakness late last week. Oil slipped.",
+    "s": "A renewed selloff in tech stocks dragged Asian equities lower at the start of a busy week that may shape the near-term outlook for the artificial intelligence trade. Oil slipped.",
     "ss": "Yapay zeka ticaretine ilişkin endişelerin devam etmesi ve Çin ve Japonya verilerinin bölgenin büyük ekonomilerinin sağlığına dair ipuçları sunması nedeniyle Asya'daki hisse senetleri yeniden baskı altına girebilir. Bitcoin stabil.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
     "ts": 1794780692000,
@@ -548,87 +558,84 @@
     ]
    },
    {
+    "t": "Nvidia Shares Primed to Steady as Investors Eye Comeback Report",
+    "tt": "Nvidia Hisseleri, Yatırımcıların Gözü Geri Dönüş Raporuyla Durağanlığa Hazırlanıyor",
+    "s": "Nvidia Corp. shares may be poised for some relief after the Financial Times reported Jensen Huang is discussing a possible comeback to the chipmaker.",
+    "ss": "Financial Times'ın Jensen Huang'ın çip üreticisine olası bir geri dönüşü tartıştığını bildirmesinin ardından Nvidia Corp. hisseleri biraz rahatlamaya hazır olabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report",
+    "ts": 1794789646000,
+    "tags": []
+   },
+   {
+    "t": "HFT Firm Graviton’s Singapore Profit Surge Makes Indian Founders Billionaires",
+    "tt": "HFT Firması Graviton'un Singapur Kârındaki Artış Hintli Kurucuları Milyarder Yaptı",
+    "s": "High-frequency trading firm Graviton Research Capital LLP nearly tripled profits at its Singapore-based unit as it expands globally with new hires, turning its 39-year-old Indian founders into billionaires.",
+    "ss": "Yüksek frekanslı ticaret şirketi Graviton Research Capital LLP, yeni işe alımlarla küresel olarak genişleyerek 39 yaşındaki Hintli kurucularını milyarderlere dönüştürürken Singapur merkezli biriminin kârını neredeyse üç katına çıkardı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/hft-firm-graviton-s-singapore-profit-surge-makes-indian-founders-billionaires",
+    "ts": 1794792922000,
+    "tags": []
+   },
+   {
+    "t": "HKEX Launches First Dim Sum Bond Index to Boost Yuan Debt Market",
+    "tt": "HKEX, Yuan Borç Piyasasını Güçlendirmek İçin İlk Dim Sum Tahvil Endeksi'ni Başlattı",
+    "s": "The Hong Kong stock exchange launched its first-ever bond index, as the city seeks to boost liquidity and trading in the world’s largest offshore yuan market.",
+    "ss": "Hong Kong borsası, şehrin dünyanın en büyük offshore yuan piyasasında likiditeyi ve ticareti artırmayı amaçladığı bir dönemde ilk tahvil endeksini başlattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/hkex-launches-first-dim-sum-bond-index-to-boost-yuan-debt-market",
+    "ts": 1794791582000,
+    "tags": []
+   },
+   {
+    "t": "India Faces a More Painful Return to Higher Interest Rates",
+    "tt": "Hindistan Yüksek Faiz Oranlarına Daha Acı Bir Dönüşle Karşı Karşıya",
+    "s": "India is heading back toward interest rates last seen about two years ago. This time, it’s getting there against a tougher backdrop: accelerating inflation, rising food prices and heightened geopolitical uncertainty.",
+    "ss": "Hindistan en son yaklaşık iki yıl önce görülen faiz oranlarına geri dönüyor. Bu kez bu hedefe daha zorlu bir zeminde varılıyor: Hızlanan enflasyon, artan gıda fiyatları ve artan jeopolitik belirsizlik.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/india-faces-a-more-painful-return-to-higher-interest-rates",
+    "ts": 1794790800000,
+    "tags": []
+   },
+   {
+    "t": "China’s Teapot Refiners Turn to Trading Giants as Iran Oil Ebbs",
+    "tt": "İran Petrolü Çekilirken Çin'in Çaydanlık Rafinerileri Ticaret Devlerine Döndü",
+    "s": "China’s independent refiners are turning to Iraq and other alternative suppliers as a US blockade cuts off the sanctioned Iranian shipments they once depended on, giving international trading houses a rare opportunity to reenter a large and lucrative market.",
+    "ss": "Çin'in bağımsız rafinerileri, ABD ablukasının bir zamanlar bağımlı oldukları yaptırımlı İran sevkıyatlarını kesmesi ve uluslararası ticaret şirketlerine büyük ve kazançlı bir pazara yeniden girmeleri için nadir bir fırsat vermesi nedeniyle yüzünü Irak'a ve diğer alternatif tedarikçilere çeviriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-teapot-refiners-turn-to-trading-giants-as-iran-oil-ebbs",
+    "ts": 1794790357000,
+    "tags": []
+   },
+   {
+    "t": "Trump, Xi and Putin Set for Rare APEC Trilateral Talks",
+    "tt": "Trump, Xi ve Putin Nadir APEC Üçlü Görüşmelerine Hazırlanıyor",
+    "s": "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to hold a rare trilateral meeting Thursday on the sidelines of the APEC summit in Shenzhen. Reporting from Shenzhen, Bloomberg’s Stephen Engle says that while the White House is framing the talks aro",
+    "ss": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin, Perşembe günü Shenzhen'deki APEC zirvesinin oturum aralarında nadir bir üçlü toplantı düzenleyecek. Shenzhen'den bildiren Bloomberg'den Stephen Engle, görüşmelerin çerçevesini Beyaz Saray'ın hazırladığını söylüyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video",
+    "ts": 1794789266000,
+    "tags": []
+   },
+   {
+    "t": "Goldman, Morgan Stanley Split on Yen Outlook on Diverging Forces",
+    "tt": "Goldman ve Morgan Stanley, Farklı Güçlere İlişkin Yen Görünümü Konusunda Ayrıldı",
+    "s": "Goldman Sachs Group Inc. and Morgan Stanley are taking opposing views on the yen, highlighting the increasing difficulty in forecasting a currency being pulled in different directions.",
+    "ss": "Goldman Sachs Group Inc. ve Morgan Stanley, yen hakkında karşıt görüşlerde bulunuyor ve bu durum, bir para biriminin farklı yönlere çekileceğini tahmin etmenin giderek zorlaştığını vurguluyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-morgan-stanley-split-on-yen-outlook-on-diverging-forces",
+    "ts": 1794788285000,
+    "tags": []
+   },
+   {
     "t": "IDR/USD: Indonesian Rupiah May Fall Further Past Record Low, Says Analysts",
-    "tt": null,
+    "tt": "IDR/USD: Analistler, Endonezya Rupiahının Rekor Düşük Seviyenin Daha da Düşebileceğini Söyledi",
     "s": "Indonesian authorities may struggle to put a floor under Asia’s worst-performing currency, according to strategists, as rising domestic political uncertainty and further capital outflows weigh on the rupiah.",
-    "ss": null,
+    "ss": "Stratejistlere göre Endonezyalı yetkililer, artan yurt içi siyasi belirsizlik ve daha fazla sermaye çıkışının rupiah üzerinde baskı yaratması nedeniyle Asya'nın en kötü performans gösteren para biriminin altına bir zemin koymakta zorlanabilir.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/idr-usd-indonesian-rupiah-may-fall-further-past-record-low-says-analysts",
     "ts": 1794787206000,
     "tags": []
    },
    {
     "t": "Latest Oil Market News and Analysis for Nov. 16",
-    "tt": null,
+    "tt": "16 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
     "s": "Oil steadied after a two-week slump, as fresh attacks in the Middle East countered signs of a well-supplied physical market.",
-    "ss": null,
+    "ss": "Petrol fiyatları, Orta Doğu'daki yeni saldırıların fiziksel pazarın iyi tedarik edildiğine dair işaretlere karşı koymasıyla iki haftalık düşüşün ardından yatay seyretti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
     "ts": 1794783830000,
-    "tags": []
-   },
-   {
-    "t": "Australia Warns China Iron Ore Push Could Breach Trade Rules",
-    "tt": null,
-    "s": "Australia’s resources minister has expressed concern that state-backed buyer China Mineral Resources Group Co.’s negotiations with iron ore suppliers could breach international trade rules.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/australia-warns-china-iron-ore-push-could-breach-trade-rules",
-    "ts": 1794785737000,
-    "tags": []
-   },
-   {
-    "t": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
-    "tt": null,
-    "s": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
-    "ts": 1794719427000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Indonesia’s Prabowo Apologizes to Singapore, Malaysia for Haze",
-    "tt": null,
-    "s": "Indonesian President Prabowo Subianto apologized to Singapore and Malaysia for the transboundary haze that blanketed parts of Southeast Asia in recent months.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze",
-    "ts": 1794784607000,
-    "tags": []
-   },
-   {
-    "t": "Shenzhen’s Manufacturing Power Draws Wave of Innovators",
-    "tt": null,
-    "s": "You can't get the speed anywhere else\": Despite tariffs and political narratives, hardware innovators from the US are rushing back to China's tech capital to turn their ideas into reality faster and cheaper.Bloomberg's Stephen Engle has more. (Source: Bloomberg)",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-15/pkg-engle-shenzhen-tech-entrepreneurs",
-    "ts": 1794783640000,
-    "tags": []
-   },
-   {
-    "t": "Philippines’ Main Coal Mine in Limbo Puts Nation’s Energy Supply at Risk",
-    "tt": null,
-    "s": "Sheila Potestad has spent two decades working as a welder at the Philippines’ largest coal mine on Semirara Island, on the western side of the archipelago. The mother of two is employed there alongside her husband. Now, more than 200 dump trucks, bulldozers and excavators are idle, seawater has forc",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/philippines-main-coal-mine-in-limbo-puts-nation-s-energy-supply-at-risk",
-    "ts": 1794783600000,
-    "tags": []
-   },
-   {
-    "t": "Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
-    "tt": "Perakende Kalabalık Vietnam Hisselerini %10'a Yakın Banka Mevduat Faiziyle Boşalttı",
-    "s": "Vietnam’s retail investors are dumping equities and buying high-yielding notes from banks to capture interest rates nearing 10%, as locals and foreigners fall out of favor with the poor-performing stock market.",
-    "ss": "Vietnam'ın perakende yatırımcıları, yerli ve yabancıların zayıf performans gösteren borsadan hoşlanmaması nedeniyle hisse senetlerini satıyor ve %10'a yaklaşan faiz oranlarını yakalamak için bankalardan yüksek getirili tahviller satın alıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates",
-    "ts": 1794780000000,
-    "tags": []
-   },
-   {
-    "t": "Diamondback in Talks to Buy Double Eagle for About $5 Billion",
-    "tt": "Diamondback, Double Eagle'ı Yaklaşık 5 Milyar Dolara Satın Almak İçin Görüşmelerde",
-    "s": "Diamondback Energy Inc. is in talks to acquire closely held oil driller Double Eagle V for about $5 billion, further expanding its position in the Permian Basin, the world’s most productive shale region, according to a person familiar with the matter.",
-    "ss": "Konuya aşina bir kişiye göre, Diamondback Energy Inc., yakın elindeki petrol sondaj şirketi Double Eagle V'yi yaklaşık 5 milyar dolara satın almak ve böylece dünyanın en verimli kaya petrolü bölgesi olan Permiyen Havzası'ndaki konumunu daha da genişletmek için görüşmelerde bulunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
-    "ts": 1794779350000,
     "tags": []
    }
   ],
@@ -741,9 +748,9 @@
    },
    {
     "t": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "tt": null,
+    "tt": "Dul bir kadın, merhum partnerinin evini üvey çocuklarına mı bırakmalı yoksa onlarla iletişimi kesmeli mi?",
     "s": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-    "ss": null,
+    "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
     "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
     "ts": 1794783600000,
     "tags": []
@@ -823,6 +830,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Reactor Developers Line Up For Uranium Enrichment From Centrus",
+    "tt": "Reaktör Geliştiricileri Centrus'tan Uranyum Zenginleştirme İçin Sıraya Giriyor",
+    "s": "Reactor Developers Line Up For Uranium Enrichment From Centrus Meta's money has found its way to the nuclear fuel chain , as Oklo has lined up uranium enrichment services from Centrus for its reactor plant in Ohio. On November 12, Oklo said it signed \"multiple definitive, multi-year contracts\" with ",
+    "ss": "Reaktör Geliştiricileri Centrus'tan Uranyum Zenginleştirmesi İçin Sıraya Giriyor Oklo, Ohio'daki reaktör tesisi için Centrus'tan uranyum zenginleştirme hizmetleri ayarladığından, Meta'nın parası nükleer yakıt zincirine giden yolu buldu. 12 Kasım'da Oklo, \"çok sayıda kesin, çok yıllı sözleşme\" imzaladığını söyledi.",
+    "u": "https://www.zerohedge.com/energy/reactor-developers-line-uranium-enrichment-centrus",
+    "ts": 1794793200000,
+    "tags": []
+   },
+   {
+    "t": "Bukele Unleashes Armed Robot Dogs On Haiti's Gangs - Then Troops Find Skulls Inside The Stadium",
+    "tt": "Bukele, Haiti'deki Çetelere Silahlı Robot Köpekleri Saldı - Ardından Birlikler Stadyumda Kafatasları Buldu",
+    "s": "Bukele Unleashes Armed Robot Dogs On Haiti's Gangs - Then Troops Find Skulls Inside The Stadium Salvadoran President Nayib Bukele has posted video of four-legged robots with rifles bolted to their backs moving alongside his special forces as they retook Haiti's national stadium in Port-au-Prince fro",
+    "ss": "Bukele Silahlı Robot Köpekleri Haiti Çetelerine Saldı - Sonra Birlikler Stadyumda Kafatasları Buldu Salvador Devlet Başkanı Nayib Bukele, Haiti'nin Port-au-Prince'deki ulusal stadyumunu geri alırken özel kuvvetlerinin yanında hareket eden, sırtlarına tüfekleri cıvatalanmış dört ayaklı robotların videosunu yayınladı",
+    "u": "https://www.zerohedge.com/geopolitical/bukele-unleashes-armed-robot-dogs-haitis-gangs-then-troops-find-skulls-inside-stadium",
+    "ts": 1794790200000,
+    "tags": []
+   },
+   {
     "t": "Jensen The White? Huang Reportedly Weighs Nvidia Comeback As Silicon Valley \"War Room\" Of Allies Assembles",
     "tt": "Beyaz Jensen mı? Huang'ın, Müttefiklerin Silikon Vadisi \"Savaş Odası\" Toplanırken Nvidia'nın Geri Dönüşünü Tartıştığı Bildirildi",
     "s": "Jensen The White? Huang Reportedly Weighs Nvidia Comeback As Silicon Valley \"War Room\" Of Allies Assembles Days after resigning over his affair with an alleged Chinese spy, Jensen Huang is considering a return as Nvidia's chief executive , according to the Financial Times , as his allies in Silicon ",
@@ -833,18 +858,18 @@
    },
    {
     "t": "Mexico's President Says There's \"No Caravan\" Heading North... Then Admits Another One Is Forming",
-    "tt": null,
+    "tt": "Meksika Devlet Başkanı Kuzeye Giden \"Kervan Yok\" Dedi... Sonra Başka Bir Karavan Oluştuğunu İtiraf Etti",
     "s": "Mexico's President Says There's \"No Caravan\" Heading North... Then Admits Another One Is Forming Mexican President Claudia Sheinbaum says no migrant caravan is crossing her country toward the US border , a day after President Trump threatened to double tariffs on Mexico if it didn't stop one - but i",
-    "ss": null,
+    "ss": "Meksika Devlet Başkanı, Kuzeye Giden \"Kervan Yok\" Dedi... Sonra Başka Bir Kervanın Oluştuğunu İtiraf Etti Meksika Devlet Başkanı Claudia Sheinbaum, Başkan Trump'ın Meksika'ya gümrük vergilerini iki katına çıkaracağı tehdidinde bulunmasından bir gün sonra hiçbir göçmen kafilesinin ülkesini ABD sınırına doğru geçmediğini söyledi - ancak ben",
     "u": "https://www.zerohedge.com/political/mexicos-president-says-theres-no-caravan-heading-north-then-admits-another-one-forming",
     "ts": 1794787200000,
     "tags": []
    },
    {
     "t": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It",
-    "tt": null,
+    "tt": "Yapay Zeka Laboratuvarları Teknolojilerinin Herkesi Öldürebileceğini Söyledi - Şimdi Kâr Amacı Gütmeyen Kuruluşlar Teknolojiyi Dondurmak İçin Dava Açıyor",
     "s": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It Authored by Naveen Athrappully via The Epoch Times , A coalition of nonprofits has sued major U.S. tech companies to freeze advanced artificial intelligence development , citing severe risks such as cyberattacks and b",
-    "ss": null,
+    "ss": "Yapay Zeka Laboratuvarları, Teknolojilerinin Herkesi Öldürebileceğini Söyledi - Şimdi Kâr Amacı Gütmeyen Kuruluşlar, Bunu Dondurmak İçin Dava Açıyor Yazan Naveen Athrappully, The Epoch Times aracılığıyla, Kâr amacı gütmeyen kuruluşlardan oluşan bir koalisyon, siber saldırılar ve yapay zeka gibi ciddi riskleri öne sürerek büyük ABD teknoloji şirketlerine gelişmiş yapay zeka gelişimini dondurmaları için dava açtı.",
     "u": "https://www.zerohedge.com/ai/ai-labs-say-their-tech-could-kill-everyone-now-nonprofits-are-suing-freeze-it",
     "ts": 1794785700000,
     "tags": []
@@ -892,24 +917,6 @@
     "ss": "Senato'da Demokratların Schumer'e Karşı İsyanı Büyüyor Sen. Chris Van Hollen (D-MD), Senato'daki en üst düzey Demokrat makamı için Sen. Chuck Schumer'e (D-NY) meydan okuyor ve Maryland senatörü meslektaşlarından destek toplayarak Schumer'in liderlik görevini tehdit ediyor. Yarışma bir sp açtı",
     "u": "https://www.zerohedge.com/political/democrat-insurgency-senate-against-schumer-grows",
     "ts": 1794775200000,
-    "tags": []
-   },
-   {
-    "t": "Still Digesting",
-    "tt": "Hala Sindiriyorum",
-    "s": "Still Digesting Peter Tchir, Academy Securities — November 15, 2026 Last weekend we went with A Lot To Digest . Not only are markets trying to figure out the economic and market outlook post midterm elections, but we also had software outages, a nationwide ground stop, and the CEO of one of the most",
-    "ss": "Hala Sindiriyorum Peter Tchir, Akademi Menkul Değerler - 15 Kasım 2026 Geçen hafta sonu A Lot To Digest ile gittik. Piyasalar sadece ara seçimler sonrası ekonomik ve piyasa görünümünü anlamaya çalışmakla kalmıyor, aynı zamanda yazılım kesintileri, ülke çapında bir duraklama ve en çok konuşulanlardan birinin CEO'su da yaşadık.",
-    "u": "https://www.zerohedge.com/markets/still-digesting",
-    "ts": 1794772200000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Lacks Corporate D&O Insurance Amid Huang Scandal",
-    "tt": "Nvidia, Huang Skandalı Ortasında Kurumsal D&O Sigortasından Yoksun",
-    "s": "Nvidia Lacks Corporate D&amp;O Insurance Amid Huang Scandal Nvidia does not have directors’ and officers’ (D&amp;O) liability insurance covering the company itself, an unusual omission for a major US-listed corporation that could leave the chipmaker facing substantial legal costs amid the controvers",
-    "ss": "Nvidia, Huang Skandalı Ortasında Kurumsal D&O Sigortasından Yoksun Nvidia, şirketin kendisini kapsayan direktörler ve memurlar (D&O) sorumluluk sigortasına sahip değil; bu, ABD'de listelenen büyük bir şirket için alışılmadık bir ihmal, çip üreticisini tartışmalar arasında önemli yasal maliyetlerle karşı karşıya bırakabilir",
-    "u": "https://www.zerohedge.com/markets/nvidia-lacks-corporate-do-insurance-amid-huang-scandal",
-    "ts": 1794770700000,
     "tags": []
    }
   ],
@@ -1018,7 +1025,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
