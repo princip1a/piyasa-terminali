@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T04:49:21.465795+00:00",
+ "generated": "2026-11-16T05:58:17.430966+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3875.3,
-   "c": -0.28,
-   "d": -11.0,
+   "p": 3857.4,
+   "c": -0.74,
+   "d": -28.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.48,
-   "c": -3.16,
-   "d": -1.551,
+   "p": 47.36,
+   "c": -3.41,
+   "d": -1.671,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.35,
-   "c": -0.24,
-   "d": -0.21,
+   "p": 88.62,
+   "c": 0.07,
+   "d": 0.06,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.29,
-   "c": -0.57,
-   "d": -0.55,
+   "p": 95.76,
+   "c": -0.08,
+   "d": -0.08,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.467,
-   "c": 0.06,
-   "d": 0.057,
+   "p": 103.386,
+   "c": -0.02,
+   "d": -0.024,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3785,
-   "c": 0.19,
-   "d": 0.097,
+   "p": 50.3871,
+   "c": 0.21,
+   "d": 0.105,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64807,
-   "c": -0.29,
+   "p": 64347,
+   "c": -0.32,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1816.89,
-   "c": -0.1,
+   "p": 1807.56,
+   "c": 0.28,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.51,
-   "c": 0.51,
+   "p": 71.05,
+   "c": 0.27,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.958866,
-   "c": -1.85,
+   "p": 0.950476,
+   "c": -0.95,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 589.96,
-   "c": -0.93,
+   "p": 588.08,
+   "c": -0.98,
    "k": "usd"
   }
  ],
@@ -544,6 +544,74 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Fall in China Demand May Signal Need for Easing: Analyst",
+    "tt": null,
+    "s": "BofA Global Research Chief Greater China Economist Helen Qiao said the Chinese economy could see a further deterioration of domestic demand. China’s growth weakened across the board in October as consumption and industrial output undershot estimates while investment unexpectedly worsened, in a sign ",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/fall-in-china-demand-may-signal-need-for-easing-analyst-video",
+    "ts": 1794808225000,
+    "tags": []
+   },
+   {
+    "t": "China’s Economy Disappoints With Stimulus Yet to Lift Investment",
+    "tt": null,
+    "s": "China’s growth weakened across the board in October as investment unexpectedly worsened while consumption and industrial output undershot estimates, in a sign Beijing’s latest stimulus measures have yet to feed through to the economy.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
+    "ts": 1794794401000,
+    "tags": []
+   },
+   {
+    "t": "MTN in Talks to Buy Telkom in South African Cash, Share Deal",
+    "tt": null,
+    "s": "MTN Group Ltd. is in talks that could see Africa’s biggest wireless carrier buy all shares in Telkom SA SOC Ltd.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/mtn-holds-talks-to-buy-south-africa-s-telkom-in-cash-share-deal",
+    "ts": 1794807369000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 16",
+    "tt": "16 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil fell as signs of a well-supplied physical market and a wider shift away from risk assets outweighed fresh attacks in the Middle East.",
+    "ss": "Petrol fiyatları, Orta Doğu'daki yeni saldırıların fiziksel pazarın iyi tedarik edildiğine dair işaretlere karşı koymasıyla iki haftalık düşüşün ardından yatay seyretti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
+    "ts": 1794783830000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Rattled by Tech Selloff, Oil Drops: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Yapay Zeka Baskısına Hazırlanıyor ve Veri Dökümü: Piyasa Özeti",
+    "s": "Asian equities retreated as technology shares plunged at the start of a packed week that could help set the near-term direction for the artificial intelligence trade. Oil fell.",
+    "ss": "Yapay zeka ticaretine ilişkin endişelerin devam etmesi ve Çin ve Japonya verilerinin bölgenin büyük ekonomilerinin sağlığına dair ipuçları sunması nedeniyle Asya'daki hisse senetleri yeniden baskı altına girebilir. Bitcoin stabil.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794780692000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "EQT Sees “Wave” of Take-Private Opportunities in Japan",
+    "tt": null,
+    "s": "Jean Eric Salata, Chair at EQT Group, says the Stockholm-based private equity firm plans to invest up to 30 percent of its $30 billion in dry powder in Japan. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/eqt-sees-wave-of-take-private-opportunities-in-japan-video",
+    "ts": 1794805939000,
+    "tags": []
+   },
+   {
+    "t": "Philippines Seeks New Equilibrium With China",
+    "tt": null,
+    "s": "Philippine Ambassador to China Jaime FlorCruz says President Ferdinand Marcos Jr. will travel to China for the APEC meetings as Manila seeks a “predictable” equilibrium with Beijing. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/philippines-seeks-new-equilibrium-with-china-video",
+    "ts": 1794805346000,
+    "tags": []
+   },
+   {
     "t": "Chinese Iron Ore Futures Hit Four-Year Low on Weak Steel Outlook",
     "tt": "Çin Demir Cevheri Vadeli İşlemleri Zayıf Çelik Görünümüyle Son Dört Yılın En Düşük Seviyesinde",
     "s": "Chinese iron ore futures slumped to the lowest in four years as traders turned increasingly bearish on the demand outlook for winter.",
@@ -562,80 +630,12 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks Slump on Tech Selloff, Oil Drops: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Yapay Zeka Baskısına Hazırlanıyor ve Veri Dökümü: Piyasa Özeti",
-    "s": "Asian equities retreated as technology shares plunged at the start of a packed week that could help set the near-term direction for the artificial intelligence trade. Oil slipped.",
-    "ss": "Yapay zeka ticaretine ilişkin endişelerin devam etmesi ve Çin ve Japonya verilerinin bölgenin büyük ekonomilerinin sağlığına dair ipuçları sunması nedeniyle Asya'daki hisse senetleri yeniden baskı altına girebilir. Bitcoin stabil.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794780692000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
     "t": "Wheat Falls on Optimism Trilateral Talks Will Free Up Black Sea",
     "tt": "Buğday iyimserlikle düşüyor Üçlü Görüşmeler Karadeniz'i Özgürleştirecek",
     "s": "Wheat fell in Chicago on optimism that progress will be made in negotiations to end the Russia-Ukraine conflict, freeing up supplies of the grain.",
     "ss": "Chicago'da buğday, Rusya-Ukrayna ihtilafını sona erdirerek tahıl tedarikini serbest bırakmaya yönelik müzakerelerde ilerleme kaydedileceğine ilişkin iyimserlik nedeniyle düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
     "ts": 1794802282000,
-    "tags": []
-   },
-   {
-    "t": "Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes",
-    "tt": "Bakır, Tech Rout ve Çin'deki Büyüme Sıkıntılarıyla Dört Ayın En Düşük Seviyesine Düştü",
-    "s": "Copper fell for a third day to the lowest in more than four months as a selloff in technology shares and weaker Chinese economic data darkened the demand outlook and sapped appetite for risk.",
-    "ss": "Bakır, teknoloji hisselerindeki satışların ve zayıf Çin ekonomik verilerinin talep görünümünü karartması ve risk iştahını azaltmasıyla üçüncü günde de dört aydan fazla bir sürenin en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/copper-sinks-to-four-month-low-on-tech-rout-china-growth-woes",
-    "ts": 1794801311000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 16",
-    "tt": "16 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil fell as signs of a well-supplied physical market and a wider shift away from risk assets outweighed fresh attacks in the Middle East.",
-    "ss": "Petrol fiyatları, Orta Doğu'daki yeni saldırıların fiziksel pazarın iyi tedarik edildiğine dair işaretlere karşı koymasıyla iki haftalık düşüşün ardından yatay seyretti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
-    "ts": 1794783830000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Shares Steady After Report on Jensen Huang Comeback Talks",
-    "tt": "Nvidia Hisseleri, Yatırımcıların Gözü Geri Dönüş Raporuyla Durağanlığa Hazırlanıyor",
-    "s": "Nvidia Corp.’s stock may see some relief after the Financial Times reported Jensen Huang is discussing a possible comeback to the chipmaker.",
-    "ss": "Financial Times'ın Jensen Huang'ın çip üreticisine olası bir geri dönüşü tartıştığını bildirmesinin ardından Nvidia Corp. hisseleri biraz rahatlamaya hazır olabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report",
-    "ts": 1794789646000,
-    "tags": []
-   },
-   {
-    "t": "Investors Return to JGBs as Rate Outlook Shifts, SMBC Nikko Says",
-    "tt": "SMBC Nikko, Faiz Görünümü Değiştikçe Yatırımcıların JGB'lere Döndüğünü Söyledi",
-    "s": "Investors both at home and abroad are adding to positions in Japanese government debt as the surge in bond yields shows signs of peaking and concerns over artificial intelligence grow, according to SMBC Nikko Securities Inc.",
-    "ss": "SMBC Nikko Securities Inc.'e göre, tahvil getirilerindeki artışın zirve işaretleri göstermesi ve yapay zekaya ilişkin endişelerin artmasıyla hem yurtiçi hem de yurtdışındaki yatırımcılar Japon devlet borcundaki pozisyonlarını artırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/investors-return-to-jgbs-as-rate-outlook-shifts-smbc-nikko-says",
-    "ts": 1794799678000,
-    "tags": []
-   },
-   {
-    "t": "PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets",
-    "tt": "PBOC, Bahisleri Kolaylaştırmak İçin Uyarı İşaretiyle Orta Vadeli Fonları Geri Çekiyor",
-    "s": "China’s central bank is draining funds from the financial system via a medium-term liquidity tool for the first time in five months, signaling caution to traders betting on monetary easing.",
-    "ss": "Çin merkez bankası, beş aydan bu yana ilk kez orta vadeli bir likidite aracı aracılığıyla finansal sistemden fon çekiyor ve bu da parasal genişlemeye yatırım yapan yatırımcılara temkinli olma sinyali veriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets",
-    "ts": 1794799286000,
-    "tags": []
-   },
-   {
-    "t": "Modi Heads to Manila With Maritime, Trade, Trump on Agenda",
-    "tt": "Modi, Denizcilik, Ticaret ve Trump Gündeminde Manila'ya Gidiyor",
-    "s": "Indian Prime Minister Narendra Modi arrives in the Philippines on Monday for a regional summit that will showcase growing trade and maritime security ties with Southeast Asia.",
-    "ss": "Hindistan Başbakanı Narendra Modi, Güneydoğu Asya ile büyüyen ticaret ve deniz güvenliği bağlarını sergileyecek bölgesel bir zirve için Pazartesi günü Filipinler'e geldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/modi-heads-to-manila-with-maritime-trade-trump-on-agenda",
-    "ts": 1794798873000,
     "tags": []
    }
   ],
@@ -922,6 +922,69 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Küresel piyasalarda satış dalgası",
+    "tt": null,
+    "s": "ABD'de teknoloji hisselerinde yoğunlaşan satış baskısı yeni haftada Asya piyasalarına da yayıldı. Nvidia hisselerindeki sert kayıplar ve yapay zeka sektörüne ilişkin endişeler risk iştahını zayıflatırken, Çin ve Japonya'dan gelen olumsuz ekonomik veriler satışları derinleştirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-satis-dalgasi-3794694",
+    "ts": 1794807824000,
+    "tags": []
+   },
+   {
+    "t": "OSD: Otomotiv üretimi ilk 10 ayda yüzde 6 azaldı",
+    "tt": null,
+    "s": "Otomotiv Sanayii Derneği (OSD), bu yılın ocak-ekim dönemine ait üretim ve ihracat adetleri ile pazar verilerini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/osd-otomotiv-uretimi-ilk-10-ayda-yuzde-6-azaldi-3794693",
+    "ts": 1794807756000,
+    "tags": []
+   },
+   {
+    "t": "Morgan Stanley küresel hisselerde ağırlık artırdı",
+    "tt": null,
+    "s": "Morgan Stanley stratejistleri, yapay zeka sermaye harcamaları döngüsünün devam ederek konomik büyüme ve şirket karlarındaki dayanıklılığı gelecek yıla taşıyacağı beklentisiyle küresel hisselerde \"azami ağırlık artır\" pozisyonu tavsiye etti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/morgan-stanley-kuresel-hisselerde-agirlik-artirdi-3794691",
+    "ts": 1794807253000,
+    "tags": []
+   },
+   {
+    "t": "FT: Huang Nvidia'ya dönüşü değerlendiriyor",
+    "tt": null,
+    "s": "Financial Times'ın haberine göre, görevden alınan Nvidia CEO'su Jensen Huang, yönetim kurulunun kendisini görevden uzaklaştırmasından günler sonra şirkete dönmeyi değerlendiriyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ft-huang-nvidiaya-donusu-degerlendiriyor-3794690",
+    "ts": 1794807027000,
+    "tags": []
+   },
+   {
+    "t": "Çin ekonomisinde sürpriz yavaşlama",
+    "tt": null,
+    "s": "Çin ekonomisinde Ekim ayında tüketim, sanayi üretimi ve yatırımlar beklentilerin altında kaldı. Perakende satışlar yıllık bazda yalnızca yüzde 0,4 artarken, sabit sermaye yatırımları yılın ilk 10 ayında yüzde 8,1 geriledi. Veriler, Pekin yönetiminin ekonomiyi desteklemek için açıkladığı son teşvikle",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-ekonomisinde-surpriz-yavaslama-3794688",
+    "ts": 1794806458000,
+    "tags": []
+   },
+   {
+    "t": "İran petrolü kesilince Çinli rafineriler Irak'a yöneldi",
+    "tt": null,
+    "s": "ABD'nin deniz ablukası nedeniyle İran'dan petrol sevkiyatının büyük ölçüde kesilmesi, Çin'in bağımsız rafinerilerini alternatif tedarikçilere yöneltti. Irak, indirimli petrol fiyatlarıyla öne çıkarken uluslararası enerji ticaret şirketleri de Çin pazarındaki faaliyetlerini artırdı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-petrolu-kesilince-cinli-rafineriler-irak-a-yoneldi-3794686",
+    "ts": 1794805768000,
+    "tags": []
+   },
+   {
+    "t": "Ekonomi ve siyaset gündemi- 16 Kasım 2026",
+    "tt": null,
+    "s": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-16-kasim-2026-3794685",
+    "ts": 1794804665000,
+    "tags": []
+   },
+   {
     "t": "Resmi Gazete'de bugün (16.11.2026)",
     "tt": null,
     "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
@@ -947,69 +1010,6 @@
     "u": "https://www.bloomberght.com/megaspeed-den-nvidia-cipleriyle-ilgili-iddialara-ic-sorusturma-3794682",
     "ts": 1794763195000,
     "tags": []
-   },
-   {
-    "t": "SPK'dan olağanüstü tasfiyedeki pay geri alımlarına ilişkin açıklama",
-    "tt": null,
-    "s": "SPK, olağanüstü tasfiye kapsamındaki fonların elindeki payların şirketlere geri satılmasına ilişkin bazı haberlerde işlemlerin niteliği ve amacı hakkında eksik veya hatalı değerlendirmeler yer aldığını bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spk-dan-olaganustu-tasfiyedeki-pay-geri-alimlarina-iliskin-aciklama-3794681",
-    "ts": 1794758904000,
-    "tags": []
-   },
-   {
-    "t": "Shell, Mısır'daki Mina West sahasında doğalgaz üretimine başladı",
-    "tt": null,
-    "s": "Shell, Mısır'ın Akdeniz açıklarındaki Mina West sahasında doğalgaz üretimine başladığını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/shell-misir-daki-mina-west-sahasinda-dogalgaz-uretimine-basladi-3794680",
-    "ts": 1794754729000,
-    "tags": []
-   },
-   {
-    "t": "Faaliyetler toparlanıyor ancak henüz kârlara yansımıyor",
-    "tt": null,
-    "s": "Borsa İstanbul'da üçüncü çeyrek bilanço döneminde şirket kârları karışık bir görünüm ortaya koydu. Şirketlerin faaliyet sonuçlarında bir toparlanma olsa da bunun genele ve kârlılığa tam olarak yansımadığı görülüyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/faaliyetler-toparlaniyor-ancak-henuz-krlara-yansimiyor-3794679",
-    "ts": 1794749397000,
-    "tags": []
-   },
-   {
-    "t": "Şimşek, fonlardaki varlıkların kaybolduğu iddialarını reddetti",
-    "tt": null,
-    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, tasfiye kapsamındaki fonlarda tüm varlıkların kaybolduğu ve yatırımcılara ödeme yapılmayacağı yönündeki iddiaları reddetti. Şimşek, tasfiyeye alınan 131 fonun 119'unda 444 bin 987 yatırımcıya toplam 161 milyar lira ödendiğini açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/simsek-fonlardaki-tum-varliklarin-kayboldugu-iddialarini-reddetti-3794678",
-    "ts": 1794742029000,
-    "tags": []
-   },
-   {
-    "t": "2027 enflasyonunun risk haritası",
-    "tt": null,
-    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) yılın son Enflasyon Raporu'nda beklenen hamleyi yaptı, tahminleri ve ara hedefleri yukarı güncelledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/2027-enflasyonunun-risk-haritasi-3794677",
-    "ts": 1794740781000,
-    "tags": []
-   },
-   {
-    "t": "QNB Leasing, Proparco ile 75 milyon euroluk finansman anlaşması imzaladı",
-    "tt": null,
-    "s": "QNB Leasing, Antalya'daki COP31'de Proparco ile 75 milyon euroluk finansman anlaşması imzaladı. Anlaşmayla sağlanacak kaynak, Türkiye'de ağırlıklı olarak güneş ve rüzgâr enerjisi santrallerinin finansmanında kullanılacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/qnb-leasing-proparco-ile-75-milyon-euroluk-finansman-anlasmasi-imzaladi-3794676",
-    "ts": 1794738232000,
-    "tags": []
-   },
-   {
-    "t": "Bakan Çiftçi'den süresi dolacak kimlik ve sürücü belgelerine ilişkin uyarı",
-    "tt": null,
-    "s": "İçişleri Bakanı Mustafa Çiftçi, 2026 sonuna kadar 112 bin 791 kimlik kartı ve 374 bin 805 sürücü belgesinin yenilenmesi gerektiğini açıkladı. Çiftçi, vatandaşlardan belgelerinin geçerlilik tarihlerini kontrol etmelerini ve yenileme işlemlerini son güne bırakmamalarını istedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bakan-ciftci-den-suresi-dolacak-kimlik-ve-surucu-belgelerine-iliskin-uyari-3794675",
-    "ts": 1794734644000,
-    "tags": []
    }
   ]
  },
@@ -1025,6 +1025,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
