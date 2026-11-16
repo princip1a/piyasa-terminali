@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T23:34:12.339513+00:00",
+ "generated": "2026-11-16T00:25:42.566160+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3884.0,
-   "c": -0.06,
-   "d": -2.3,
+   "p": 3894.8,
+   "c": 0.22,
+   "d": 8.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 48.68,
-   "c": -0.72,
-   "d": -0.351,
+   "p": 48.77,
+   "c": -0.53,
+   "d": -0.261,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 88.45,
-   "c": -0.12,
-   "d": -0.11,
+   "p": 88.68,
+   "c": 0.14,
+   "d": 0.12,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 95.44,
-   "c": -0.42,
-   "d": -0.4,
+   "p": 95.68,
+   "c": -0.17,
+   "d": -0.16,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.436,
-   "c": 0.03,
-   "d": 0.026,
+   "p": 103.379,
+   "c": -0.03,
+   "d": -0.031,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3254,
-   "c": 0.09,
-   "d": 0.043,
+   "p": 50.3592,
+   "c": 0.15,
+   "d": 0.077,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 65066,
-   "c": 2.28,
+   "p": 65011,
+   "c": 1.48,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1827.4,
-   "c": 4.79,
+   "p": 1824.94,
+   "c": 3.61,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.28,
-   "c": 4.49,
+   "p": 72.16,
+   "c": 2.83,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.97087,
-   "c": 7.98,
+   "p": 0.965941,
+   "c": 4.1,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 594.22,
-   "c": 3.1,
+   "p": 594.94,
+   "c": 2.4,
    "k": "usd"
   }
  ],
@@ -534,6 +534,47 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "US Futures Rebound After Two-Day Loss, Oil Slips: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Yapay Zeka Baskısına Hazırlanıyor ve Veri Dökümü: Piyasa Özeti",
+    "s": "US equity-index futures rose in early Asian trading, pointing to a tentative recovery in market sentiment after a bout of weakness late last week. Oil slipped.",
+    "ss": "Yapay zeka ticaretine ilişkin endişelerin devam etmesi ve Çin ve Japonya verilerinin bölgenin büyük ekonomilerinin sağlığına dair ipuçları sunması nedeniyle Asya'daki hisse senetleri yeniden baskı altına girebilir. Bitcoin stabil.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794780692000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "IDR/USD: Indonesian Rupiah May Fall Further Past Record Low, Says Analysts",
+    "tt": null,
+    "s": "Indonesian authorities may struggle to put a floor under Asia’s worst-performing currency, according to strategists, as rising domestic political uncertainty and further capital outflows weigh on the rupiah.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/idr-usd-indonesian-rupiah-may-fall-further-past-record-low-says-analysts",
+    "ts": 1794787206000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 16",
+    "tt": null,
+    "s": "Oil steadied after a two-week slump, as fresh attacks in the Middle East countered signs of a well-supplied physical market.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
+    "ts": 1794783830000,
+    "tags": []
+   },
+   {
+    "t": "Australia Warns China Iron Ore Push Could Breach Trade Rules",
+    "tt": null,
+    "s": "Australia’s resources minister has expressed concern that state-backed buyer China Mineral Resources Group Co.’s negotiations with iron ore suppliers could breach international trade rules.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/australia-warns-china-iron-ore-push-could-breach-trade-rules",
+    "ts": 1794785737000,
+    "tags": []
+   },
+   {
     "t": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
     "tt": null,
     "s": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.",
@@ -552,29 +593,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze",
     "ts": 1794784607000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Rise as AI Woes Ease, Oil Slips: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Yapay Zeka Baskısına Hazırlanıyor ve Veri Dökümü: Piyasa Özeti",
-    "s": "US equity-index futures edged higher in early Asian trading as investors returned to risk assets following last week’s selloff, offering signs that concerns over the artificial intelligence trade may be easing. Oil slipped.",
-    "ss": "Yapay zeka ticaretine ilişkin endişelerin devam etmesi ve Çin ve Japonya verilerinin bölgenin büyük ekonomilerinin sağlığına dair ipuçları sunması nedeniyle Asya'daki hisse senetleri yeniden baskı altına girebilir. Bitcoin stabil.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794780692000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 16",
-    "tt": null,
-    "s": "Oil steadied after a two-week slump, as fresh attacks in the Middle East countered signs of a well-supplied physical market.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
-    "ts": 1794783830000,
     "tags": []
    },
    {
@@ -611,24 +629,6 @@
     "ss": "Konuya aşina bir kişiye göre, Diamondback Energy Inc., yakın elindeki petrol sondaj şirketi Double Eagle V'yi yaklaşık 5 milyar dolara satın almak ve böylece dünyanın en verimli kaya petrolü bölgesi olan Permiyen Havzası'ndaki konumunu daha da genişletmek için görüşmelerde bulunuyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
     "ts": 1794779350000,
-    "tags": []
-   },
-   {
-    "t": "Pictet Adds Japan Stocks in Diversification Push After Midterms",
-    "tt": "Pictet, Ara Sınavlardan Sonra Çeşitlendirmeye Japonya Hisse Senetlerini Ekledi",
-    "s": "Pictet Asset Management has added more Japanese shares to one of its multi-asset portfolios following the US midterm elections, in a bid to diversify and seek opportunities beyond stocks that are directly tied to artificial intelligence.",
-    "ss": "Pictet Asset Management, ABD ara seçimlerinin ardından, yapay zekaya doğrudan bağlı hisse senetlerinin ötesinde fırsatlar aramak ve çeşitlendirmek amacıyla çok varlıklı portföylerinden birine daha fazla Japon hissesi ekledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/pictet-adds-japan-stocks-in-diversification-push-after-midterms",
-    "ts": 1794776400000,
-    "tags": []
-   },
-   {
-    "t": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
-    "tt": "Sertleşen Tahvil Yatırımcıları Bir Sonraki Hareket İçin Dakikalar Olan Fedspeak'e Bakıyor",
-    "s": "Bond traders fresh off a bruising week will look to a slew of Federal Reserve speeches and the central bank’s most recent meeting minutes for clues on interest rates after the market ramped up expectations for an extended cycle of hikes.",
-    "ss": "Morarma dolu bir haftayı yeni geride bırakan tahvil tüccarları, piyasanın uzun bir faiz artırımı döngüsüne ilişkin beklentileri artırmasının ardından faiz oranlarına ilişkin ipuçları için Fed'in bir dizi konuşmasına ve merkez bankasının en son toplantı tutanaklarına bakacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
-    "ts": 1794772800000,
     "tags": []
    }
   ],
@@ -823,6 +823,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Jensen The White? Huang Reportedly Weighs Nvidia Comeback As Silicon Valley \"War Room\" Of Allies Assembles",
+    "tt": "Beyaz Jensen mı? Huang'ın, Müttefiklerin Silikon Vadisi \"Savaş Odası\" Toplanırken Nvidia'nın Geri Dönüşünü Tartıştığı Bildirildi",
+    "s": "Jensen The White? Huang Reportedly Weighs Nvidia Comeback As Silicon Valley \"War Room\" Of Allies Assembles Days after resigning over his affair with an alleged Chinese spy, Jensen Huang is considering a return as Nvidia's chief executive , according to the Financial Times , as his allies in Silicon ",
+    "ss": "Beyaz Jensen mı? Huang'ın, Silikon Vadisi'ndeki Müttefiklerin \"Savaş Odası\" Toplanırken Nvidia'nın Geri Dönüşünü Değerlendirdiği Bildirildi Jensen Huang, iddia edilen bir Çinli casusla ilişkisi nedeniyle istifa ettikten günler sonra, Financial Times'a göre Silikon'daki müttefikleri olarak Nvidia'nın genel müdürü olarak geri dönmeyi düşünüyor",
+    "u": "https://www.zerohedge.com/ai/jensen-white-huang-reportedly-weighs-nvidia-comeback-silicon-valley-war-room-allies-assembles",
+    "ts": 1794788100000,
+    "tags": []
+   },
+   {
+    "t": "Mexico's President Says There's \"No Caravan\" Heading North... Then Admits Another One Is Forming",
+    "tt": null,
+    "s": "Mexico's President Says There's \"No Caravan\" Heading North... Then Admits Another One Is Forming Mexican President Claudia Sheinbaum says no migrant caravan is crossing her country toward the US border , a day after President Trump threatened to double tariffs on Mexico if it didn't stop one - but i",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/mexicos-president-says-theres-no-caravan-heading-north-then-admits-another-one-forming",
+    "ts": 1794787200000,
+    "tags": []
+   },
+   {
     "t": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It",
     "tt": null,
     "s": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It Authored by Naveen Athrappully via The Epoch Times , A coalition of nonprofits has sued major U.S. tech companies to freeze advanced artificial intelligence development , citing severe risks such as cyberattacks and b",
@@ -864,7 +882,7 @@
     "s": "\"These Shell Companies Were Obvious\": Bessent Gives Nvidia Board 10 Days, Wants Outsider To Replace Huang Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shakeup\" at the top and should look outside the company for Jensen Huang's successor , and he isn't letting the ouster close the bo",
     "ss": "\"Bu Shell Şirketleri Açıktı\": Bessent, Nvidia Yönetim Kuruluna 10 Gün Verdi, Huang Hazine Bakanı Scott Bessent'in Yerini Dışarıdan Almak İstiyor, Nvidia'nın tepede \"dramatik bir değişikliğe\" ihtiyacı olduğunu ve Jensen Huang'ın halefini şirket dışında araması gerektiğini ve devrilmenin işi kapatmasına izin vermeyeceğini söylüyor",
     "u": "https://www.zerohedge.com/ai/these-shell-companies-were-obvious-bessent-gives-nvidia-board-10-days-wants-outsider-replace",
-    "ts": 1794778200000,
+    "ts": 1794779100000,
     "tags": []
    },
    {
@@ -874,15 +892,6 @@
     "ss": "Senato'da Demokratların Schumer'e Karşı İsyanı Büyüyor Sen. Chris Van Hollen (D-MD), Senato'daki en üst düzey Demokrat makamı için Sen. Chuck Schumer'e (D-NY) meydan okuyor ve Maryland senatörü meslektaşlarından destek toplayarak Schumer'in liderlik görevini tehdit ediyor. Yarışma bir sp açtı",
     "u": "https://www.zerohedge.com/political/democrat-insurgency-senate-against-schumer-grows",
     "ts": 1794775200000,
-    "tags": []
-   },
-   {
-    "t": "Jensen The White? Huang Reportedly Weighs Nvidia Comeback As Silicon Valley \"War Room\" Of Allies Assembles",
-    "tt": "Beyaz Jensen mı? Huang'ın, Müttefiklerin Silikon Vadisi \"Savaş Odası\" Toplanırken Nvidia'nın Geri Dönüşünü Tartıştığı Bildirildi",
-    "s": "Jensen The White? Huang Reportedly Weighs Nvidia Comeback As Silicon Valley \"War Room\" Of Allies Assembles Days after resigning over his affair with an alleged Chinese spy, Jensen Huang is considering a return as Nvidia's chief executive , according to the Financial Times , as his allies in Silicon ",
-    "ss": "Beyaz Jensen mı? Huang'ın, Silikon Vadisi'ndeki Müttefiklerin \"Savaş Odası\" Toplanırken Nvidia'nın Geri Dönüşünü Değerlendirdiği Bildirildi Jensen Huang, iddia edilen bir Çinli casusla ilişkisi nedeniyle istifa ettikten günler sonra, Financial Times'a göre Silikon'daki müttefikleri olarak Nvidia'nın genel müdürü olarak geri dönmeyi düşünüyor",
-    "u": "https://www.zerohedge.com/ai/jensen-white-huang-reportedly-weighs-nvidia-comeback-silicon-valley-war-room-allies-assembles",
-    "ts": 1794773700000,
     "tags": []
    },
    {
@@ -901,15 +910,6 @@
     "ss": "Nvidia, Huang Skandalı Ortasında Kurumsal D&O Sigortasından Yoksun Nvidia, şirketin kendisini kapsayan direktörler ve memurlar (D&O) sorumluluk sigortasına sahip değil; bu, ABD'de listelenen büyük bir şirket için alışılmadık bir ihmal, çip üreticisini tartışmalar arasında önemli yasal maliyetlerle karşı karşıya bırakabilir",
     "u": "https://www.zerohedge.com/markets/nvidia-lacks-corporate-do-insurance-amid-huang-scandal",
     "ts": 1794770700000,
-    "tags": []
-   },
-   {
-    "t": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models & Chips",
-    "tt": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Cipsler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi",
-    "s": "Was Jensen Taken Out Over Open Source? Sacks Says Anthropic's 'Safetyist' Allies Want Full Govt Control Over Models &amp; Chips Was Nvidia’s Jensen Huang ousted in part because he was the biggest corporate backer of open-source AI. David Sacks argues Anthropic's \"safetyist\" allies (EAs and related g",
-    "ss": "Jensen Açık Kaynak Üzerinden Alındı ​​mı? Sacks, Anthropic'in 'Güvenlikçi' Müttefiklerinin Modeller ve Çipler Üzerinde Tam Hükümet Kontrolü İstediğini Söyledi Nvidia'dan Jensen Huang, kısmen açık kaynaklı yapay zekanın en büyük kurumsal destekçisi olduğu için görevden alındı. David Sacks, Anthropic'in \"güvenlikçi\" müttefiklerinin (EA'lar ve ilgili g)",
-    "u": "https://www.zerohedge.com/ai/was-jensen-taken-out-over-open-source-sacks-says-anthropics-safetyist-allies-want-all-models-and",
-    "ts": 1794769200000,
     "tags": []
    }
   ],
