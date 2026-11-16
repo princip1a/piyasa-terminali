@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T03:13:21.181377+00:00",
+ "generated": "2026-11-16T04:49:21.465795+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3875.0,
-   "c": -0.29,
-   "d": -11.3,
+   "p": 3875.3,
+   "c": -0.28,
+   "d": -11.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.47,
-   "c": -3.18,
-   "d": -1.561,
+   "p": 47.48,
+   "c": -3.16,
+   "d": -1.551,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 87.8,
-   "c": -0.86,
-   "d": -0.76,
+   "p": 88.35,
+   "c": -0.24,
+   "d": -0.21,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 94.76,
-   "c": -1.13,
-   "d": -1.08,
+   "p": 95.29,
+   "c": -0.57,
+   "d": -0.55,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.43,
-   "c": 0.02,
-   "d": 0.02,
+   "p": 103.467,
+   "c": 0.06,
+   "d": 0.057,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3859,
-   "c": 0.21,
-   "d": 0.104,
+   "p": 50.3785,
+   "c": 0.19,
+   "d": 0.097,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 65059,
-   "c": -0.49,
+   "p": 64807,
+   "c": -0.29,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1821.85,
-   "c": -0.33,
+   "p": 1816.89,
+   "c": -0.1,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.07,
-   "c": 0.23,
+   "p": 71.51,
+   "c": 0.51,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.963707,
-   "c": 0.08,
+   "p": 0.958866,
+   "c": -1.85,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 593.36,
-   "c": -0.62,
+   "p": 589.96,
+   "c": -0.93,
    "k": "usd"
   }
  ],
@@ -544,9 +544,27 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asian Stocks Slide on Tech Selloff, Oil Declines: Markets Wrap",
+    "t": "Chinese Iron Ore Futures Hit Four-Year Low on Weak Steel Outlook",
+    "tt": "Çin Demir Cevheri Vadeli İşlemleri Zayıf Çelik Görünümüyle Son Dört Yılın En Düşük Seviyesinde",
+    "s": "Chinese iron ore futures slumped to the lowest in four years as traders turned increasingly bearish on the demand outlook for winter.",
+    "ss": "Çin'in demir cevheri vadeli işlemleri, tüccarların kışa yönelik talep görünümüne yönelik giderek daha fazla olumsuz yaklaşmasıyla dört yılın en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-iron-ore-futures-hit-four-year-low-on-weak-steel-outlook",
+    "ts": 1794803626000,
+    "tags": []
+   },
+   {
+    "t": "Congo Ebola Outbreak 2026: Record Crisis Defies Control Six Months In",
+    "tt": "Kongo Ebola Salgını 2026: Altı Aydır Rekor Kriz Kontrole meydan okuyor",
+    "s": "Six months into the biggest Ebola outbreak in the Democratic Republic of Congo’s history, containing the virus increasingly depends on solving problems far beyond Ebola — hunger, armed conflict, mistrust and a health system already buckling under the strain.",
+    "ss": "Demokratik Kongo Cumhuriyeti tarihindeki en büyük Ebola salgınının üzerinden altı ay geçmesine rağmen, virüsü kontrol altına almak giderek daha fazla Ebola'nın çok ötesindeki açlık, silahlı çatışma, güvensizlik ve zaten bu baskı altında ezilen sağlık sistemi gibi sorunların çözülmesine bağlı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/congo-ebola-outbreak-2026-record-crisis-defies-control-six-months-in",
+    "ts": 1794803426000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Slump on Tech Selloff, Oil Drops: Markets Wrap",
     "tt": "Asya Hisse Senetleri Yapay Zeka Baskısına Hazırlanıyor ve Veri Dökümü: Piyasa Özeti",
-    "s": "Asian equities retreated as technology shares slumped at the start of a packed week that could help set the near-term direction for the artificial intelligence trade. Oil slipped.",
+    "s": "Asian equities retreated as technology shares plunged at the start of a packed week that could help set the near-term direction for the artificial intelligence trade. Oil slipped.",
     "ss": "Yapay zeka ticaretine ilişkin endişelerin devam etmesi ve Çin ve Japonya verilerinin bölgenin büyük ekonomilerinin sağlığına dair ipuçları sunması nedeniyle Asya'daki hisse senetleri yeniden baskı altına girebilir. Bitcoin stabil.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
     "ts": 1794780692000,
@@ -558,30 +576,21 @@
     ]
    },
    {
-    "t": "Coal India Unit MCL Seeks as Much as $953 Million in Mumbai IPO",
-    "tt": "Hindistan Kömür Birimi MCL, Mumbai'nin Halka Arzında 953 Milyon Dolar Arıyor",
-    "s": "Mahanadi Coalfields Ltd., a unit of state-owned Coal India Ltd., is seeking to raise as much as 89.81 billion rupees ($953 million) in an initial public offering/",
-    "ss": "Devlete ait Coal India Ltd.'nin bir birimi olan Mahanadi Coalfields Ltd., ilk halka arzda 89,81 milyar rupi (953 milyon $) kadar toplamayı hedefliyor/",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/coal-india-unit-mcl-seeks-as-much-as-953-million-in-mumbai-ipo",
-    "ts": 1794798286000,
+    "t": "Wheat Falls on Optimism Trilateral Talks Will Free Up Black Sea",
+    "tt": "Buğday iyimserlikle düşüyor Üçlü Görüşmeler Karadeniz'i Özgürleştirecek",
+    "s": "Wheat fell in Chicago on optimism that progress will be made in negotiations to end the Russia-Ukraine conflict, freeing up supplies of the grain.",
+    "ss": "Chicago'da buğday, Rusya-Ukrayna ihtilafını sona erdirerek tahıl tedarikini serbest bırakmaya yönelik müzakerelerde ilerleme kaydedileceğine ilişkin iyimserlik nedeniyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea",
+    "ts": 1794802282000,
     "tags": []
    },
    {
-    "t": "Chinese Aluminum Output Drops But Still on Course for Record",
-    "tt": "Çin'in Alüminyum Üretimi Düşüyor Ama Hala Rekor Yolunda",
-    "s": "Chinese aluminum output moderated last month as export demand softened and the industry runs up against Beijing’s capacity limits.",
-    "ss": "Çin'in alüminyum üretimi, ihracat talebinin yumuşaması ve sektörün Pekin'in kapasite sınırlarına ulaşması nedeniyle geçen ay yavaşladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-aluminum-output-drops-but-still-on-course-for-record",
-    "ts": 1794796214000,
-    "tags": []
-   },
-   {
-    "t": "Aerospace Stocks Shine as Anti-AI Flows Pour Into India",
-    "tt": null,
-    "s": "A global aircraft shortage is pushing more aerospace work toward India.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-16/aerospace-stocks-shine-as-anti-ai-flows-pour-into-india",
-    "ts": 1794797161000,
+    "t": "Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes",
+    "tt": "Bakır, Tech Rout ve Çin'deki Büyüme Sıkıntılarıyla Dört Ayın En Düşük Seviyesine Düştü",
+    "s": "Copper fell for a third day to the lowest in more than four months as a selloff in technology shares and weaker Chinese economic data darkened the demand outlook and sapped appetite for risk.",
+    "ss": "Bakır, teknoloji hisselerindeki satışların ve zayıf Çin ekonomik verilerinin talep görünümünü karartması ve risk iştahını azaltmasıyla üçüncü günde de dört aydan fazla bir sürenin en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/copper-sinks-to-four-month-low-on-tech-rout-china-growth-woes",
+    "ts": 1794801311000,
     "tags": []
    },
    {
@@ -594,48 +603,39 @@
     "tags": []
    },
    {
-    "t": "China’s Economy Falters With Surprise Across-the-Board Slowdown",
-    "tt": "Çin Ekonomisi Genel Sürpriz Yavaşlamayla Bocalıyor",
-    "s": "China’s growth weakened across the board in October as consumption and industrial output undershot estimates while investment unexpectedly worsened, in a sign Beijing’s latest stimulus measures have yet to feed through to the economy.",
-    "ss": "Tüketim ve sanayi üretiminin tahminlerin altında kalmasıyla birlikte Çin'in büyümesi Ekim ayında genel olarak zayıflarken, yatırımlar beklenmedik şekilde kötüleşti; bu da Pekin'in son teşvik tedbirlerinin henüz ekonomiye yansımadığının bir işareti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
-    "ts": 1794794401000,
-    "tags": []
-   },
-   {
-    "t": "Airbus, Boeing Supply-Chain Shift Boosts India Aerospace Stocks",
-    "tt": "Airbus ve Boeing Tedarik Zincirindeki Değişim Hindistan Havacılık ve Uzay Stoklarını Artırıyor",
-    "s": "A group of little-known Indian companies has emerged among the country’s best-performing stocks this year, powered by a multibillion dollar shift in global aerospace sourcing by Airbus SE and Boeing Co.",
-    "ss": "Airbus SE ve Boeing Co.'nun küresel havacılık tedarikindeki milyarlarca dolarlık değişimden güç alan, bu yıl ülkenin en iyi performans gösteren hisse senetleri arasında az tanınan bir grup Hint şirketi ortaya çıktı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/airbus-boeing-supply-chain-shift-boosts-india-aerospace-stocks",
-    "ts": 1794796742000,
-    "tags": []
-   },
-   {
-    "t": "Indonesia Says 70% of Benefits From Mines Should Go to State",
-    "tt": "Endonezya Madenlerden Elde Edilen Faydaların Yüzde 70'inin Devlete Verilmesi Gerektiğini Söyledi",
-    "s": "Indonesian President Prabowo Subianto said most of the benefits of mining permits should accrue to the state, the latest move to tighten government control over the country’s natural resources.",
-    "ss": "Endonezya Devlet Başkanı Prabowo Subianto, ülkenin doğal kaynakları üzerindeki hükümet kontrolünü sıkılaştırmaya yönelik son adım olan madencilik izinlerinin faydalarının çoğunun devlete ait olması gerektiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/indonesia-says-70-of-benefits-from-mines-should-go-to-state",
-    "ts": 1794796398000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Shares Primed to Steady as Investors Eye Comeback Report",
+    "t": "Nvidia Shares Steady After Report on Jensen Huang Comeback Talks",
     "tt": "Nvidia Hisseleri, Yatırımcıların Gözü Geri Dönüş Raporuyla Durağanlığa Hazırlanıyor",
-    "s": "Nvidia Corp. shares may be poised for some relief after the Financial Times reported Jensen Huang is discussing a possible comeback to the chipmaker.",
+    "s": "Nvidia Corp.’s stock may see some relief after the Financial Times reported Jensen Huang is discussing a possible comeback to the chipmaker.",
     "ss": "Financial Times'ın Jensen Huang'ın çip üreticisine olası bir geri dönüşü tartıştığını bildirmesinin ardından Nvidia Corp. hisseleri biraz rahatlamaya hazır olabilir.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-shares-primed-for-bounce-as-investors-eye-comeback-report",
     "ts": 1794789646000,
     "tags": []
    },
    {
-    "t": "HFT Firm Graviton’s Singapore Profit Surge Makes Indian Founders Billionaires",
-    "tt": "HFT Firması Graviton'un Singapur Kârındaki Artış Hintli Kurucuları Milyarder Yaptı",
-    "s": "High-frequency trading firm Graviton Research Capital LLP nearly tripled profits at its Singapore-based unit as it expands globally with new hires, turning its 39-year-old Indian founders into billionaires.",
-    "ss": "Yüksek frekanslı ticaret şirketi Graviton Research Capital LLP, yeni işe alımlarla küresel olarak genişleyerek 39 yaşındaki Hintli kurucularını milyarderlere dönüştürürken Singapur merkezli biriminin kârını neredeyse üç katına çıkardı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/hft-firm-graviton-s-singapore-profit-surge-makes-indian-founders-billionaires",
-    "ts": 1794792922000,
+    "t": "Investors Return to JGBs as Rate Outlook Shifts, SMBC Nikko Says",
+    "tt": "SMBC Nikko, Faiz Görünümü Değiştikçe Yatırımcıların JGB'lere Döndüğünü Söyledi",
+    "s": "Investors both at home and abroad are adding to positions in Japanese government debt as the surge in bond yields shows signs of peaking and concerns over artificial intelligence grow, according to SMBC Nikko Securities Inc.",
+    "ss": "SMBC Nikko Securities Inc.'e göre, tahvil getirilerindeki artışın zirve işaretleri göstermesi ve yapay zekaya ilişkin endişelerin artmasıyla hem yurtiçi hem de yurtdışındaki yatırımcılar Japon devlet borcundaki pozisyonlarını artırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/investors-return-to-jgbs-as-rate-outlook-shifts-smbc-nikko-says",
+    "ts": 1794799678000,
+    "tags": []
+   },
+   {
+    "t": "PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets",
+    "tt": "PBOC, Bahisleri Kolaylaştırmak İçin Uyarı İşaretiyle Orta Vadeli Fonları Geri Çekiyor",
+    "s": "China’s central bank is draining funds from the financial system via a medium-term liquidity tool for the first time in five months, signaling caution to traders betting on monetary easing.",
+    "ss": "Çin merkez bankası, beş aydan bu yana ilk kez orta vadeli bir likidite aracı aracılığıyla finansal sistemden fon çekiyor ve bu da parasal genişlemeye yatırım yapan yatırımcılara temkinli olma sinyali veriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets",
+    "ts": 1794799286000,
+    "tags": []
+   },
+   {
+    "t": "Modi Heads to Manila With Maritime, Trade, Trump on Agenda",
+    "tt": "Modi, Denizcilik, Ticaret ve Trump Gündeminde Manila'ya Gidiyor",
+    "s": "Indian Prime Minister Narendra Modi arrives in the Philippines on Monday for a regional summit that will showcase growing trade and maritime security ties with Southeast Asia.",
+    "ss": "Hindistan Başbakanı Narendra Modi, Güneydoğu Asya ile büyüyen ticaret ve deniz güvenliği bağlarını sergileyecek bölgesel bir zirve için Pazartesi günü Filipinler'e geldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/modi-heads-to-manila-with-maritime-trade-trump-on-agenda",
+    "ts": 1794798873000,
     "tags": []
    }
   ],
@@ -646,7 +646,7 @@
     "s": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
     "ss": "Analistler, dış talebe olan bağımlılığın derinleşmesinin Çin'i yurt içi momentum zayıflarken yurt dışındaki şoklara daha açık hale getirdiğini söylüyor.",
     "u": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-    "ts": 1794797568000,
+    "ts": 1794801239000,
     "tags": []
    },
    {
@@ -738,6 +738,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+    "tt": "Çocuğu olmayan ağabeyim tek kız kardeşimizi vasiyetinden çıkardı. Her şeyi alacağım. Ona söyleyeyim mi?",
+    "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "ss": "\"Kardeşimin isteklerine saygı duymakla kız kardeşime karşı adil olmak arasında kaldım.\"",
+    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "ts": 1794802500000,
+    "tags": []
+   },
+   {
     "t": "A big chunk of your 401(k) is likely invested in Nvidia",
     "tt": "401(k)'nizin büyük bir kısmı muhtemelen Nvidia'ya yatırılıyor",
     "s": "The scandal at the computer-chip giant is exactly what’s wrong with the S&amp;P 500.",
@@ -762,15 +771,6 @@
     "ss": "\"Bu, evi şimdi satıp geliri bölmekten daha az sert bir adım olurdu.\"",
     "u": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
     "ts": 1794783600000,
-    "tags": []
-   },
-   {
-    "t": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-    "tt": "Çocuğu olmayan ağabeyim tek kız kardeşimizi vasiyetinden çıkardı. Her şeyi alacağım. Ona söyleyeyim mi?",
-    "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-    "ss": "\"Kardeşimin isteklerine saygı duymakla kız kardeşime karşı adil olmak arasında kaldım.\"",
-    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "ts": 1794780900000,
     "tags": []
    },
    {
@@ -830,6 +830,60 @@
   ],
   "ZeroHedge": [
    {
+    "t": "The Dual Tax Of Empire: Funding More War And More Immigration",
+    "tt": "İmparatorluğun Çifte Vergisi: Daha Fazla Savaşı ve Daha Fazla Göçü Finanse Etmek",
+    "s": "The Dual Tax Of Empire: Funding More War And More Immigration Authored by Patrick Frise via Mises Institute , The American empire is routinely scrutinized for its staggering financial deficits and its tragic toll on human life overseas. Yet, the most enduring and permanent legacy of Washington's end",
+    "ss": "İmparatorluğun Çifte Vergisi: Daha Fazla Savaşın ve Daha Fazla Göçün Finanse Edilmesi Patrick Frize tarafından Mises Enstitüsü aracılığıyla yazılmıştır. Amerikan imparatorluğu, şaşırtıcı mali açıkları ve yurtdışındaki insan yaşamına verdiği trajik zarar nedeniyle rutin olarak inceleniyor. Ancak Washington'un sonunun en kalıcı ve kalıcı mirası",
+    "u": "https://www.zerohedge.com/geopolitical/dual-tax-empire-funding-more-war-and-more-immigration",
+    "ts": 1794803700000,
+    "tags": []
+   },
+   {
+    "t": "Dear Elon: Unplugged Performance Pitches \"Nine-Figure\" Funding Deal To Save Cybertruck, Introduce CyberSUV",
+    "tt": "Sevgili Elon: Bağlantısız Performans Sunumu Cybertruck'u Kurtarmak İçin \"Dokuz Rakamlı\" Finansman Anlaşması, CyberSUV'u Tanıtın",
+    "s": "Dear Elon: Unplugged Performance Pitches \"Nine-Figure\" Funding Deal To Save Cybertruck, Introduce CyberSUV Unplugged Performance has&nbsp; pitched a plan to save &nbsp;Tesla's Cybertruck production line and add a third row to a variant of the truck that would be called \" CyberSUV .\" The offer includ",
+    "ss": "Sevgili Elon: Unplugged Performance, Cybertruck'u Kurtarmak İçin \"Dokuz Rakamlı\" Finansman Anlaşması Sunuyor, CyberSUV'u Tanıtın Unplugged Performance, Tesla'nın Cybertruck üretim hattını kurtarmak ve kamyonun \" CyberSUV \" olarak adlandırılacak bir çeşidine üçüncü bir sıra eklemek için bir plan sundu. Teklif şunları içerir:",
+    "u": "https://www.zerohedge.com/technology/dear-elon-unplugged-performance-pitches-nine-figure-funding-deal-save-cybertruck",
+    "ts": 1794802200000,
+    "tags": []
+   },
+   {
+    "t": "The Death Of Real Life: We've Confused Technological Progress With Human Progress",
+    "tt": "Gerçek Hayatın Ölümü: Teknolojik İlerlemeyi İnsanın İlerlemesiyle Karıştırdık",
+    "s": "The Death Of Real Life: We've Confused Technological Progress With Human Progress Authored by Spyridon Andrews via American Greatness , I hate the digital age. There, I've said it. Go ahead, call me whatever you want. I'm a Luddite, an unenlightened Boomer, a dinosaur, or whatever other insult comes",
+    "ss": "Gerçek Hayatın Ölümü: Teknolojik İlerlemeyi İnsani İlerlemeyi Karıştırdık Spyridon Andrews tarafından American Greatness aracılığıyla yazılmıştır, dijital çağdan nefret ediyorum. İşte söyledim. Devam et, bana ne istersen onu çağır. Ben bir Luddite'yim, aydınlanmamış bir Boomer'ım, bir dinozorum ya da ne olursa olsun hakaretim var",
+    "u": "https://www.zerohedge.com/personal-finance/death-real-life-weve-confused-technological-progress-human-progress",
+    "ts": 1794800700000,
+    "tags": []
+   },
+   {
+    "t": "Two Weeks After Record $6.3 Billion Heist, Binance Reveals When Customers Will Get Full Access",
+    "tt": "6,3 Milyar Dolarlık Rekor Soygundan İki Hafta Sonra Binance, Müşterilerin Ne Zaman Tam Erişime Sahip Olacağını Açıkladı",
+    "s": "Two Weeks After Record $6.3 Billion Heist, Binance Reveals When Customers Will Get Full Access Binance is aiming to reopen withdrawals on every remaining network and asset by the end of this week , the exchange said Saturday, closing out a staged restart that began after North Korean hackers drained",
+    "ss": "6,3 Milyar Dolarlık Rekor Soygundan İki Hafta Sonra Binance, Müşterilerin Tam Erişime Ne Zaman Sahip Olacağını Açıkladı Binance, Cumartesi günü yaptığı açıklamada, Kuzey Koreli bilgisayar korsanlarının tüketiminin ardından başlayan aşamalı yeniden başlatmayı sonlandırarak, Binance'in kalan tüm ağ ve varlıklardaki para çekme işlemlerini bu hafta sonuna kadar yeniden açmayı hedeflediğini açıkladı",
+    "u": "https://www.zerohedge.com/crypto/two-weeks-after-record-63-billion-heist-binance-announces-when-customers-will-get-full",
+    "ts": 1794799200000,
+    "tags": []
+   },
+   {
+    "t": "Trump Goes Quiet As Mossad Warns CIA Of Iranian Plot To Kill Him With Explosive Drones",
+    "tt": "Mossad, İran'ın kendisini patlayıcı drone'larla öldürme planı konusunda CIA'yı uyarırken Trump sessiz kaldı",
+    "s": "Trump Goes Quiet As Mossad Warns CIA Of Iranian Plot To Kill Him With Explosive Drones Israel's Mossad has handed the CIA intelligence that Iran is planning to assassinate President Trump and senior members of his administration, possibly with explosive-laden drones , senior Israeli and American off",
+    "ss": "Mossad, İran'ın kendisini patlayıcı insansız hava araçlarıyla öldürme planı konusunda CIA'yı uyarırken Trump sessiz kalıyor İsrail'in Mossad'ı, İran'ın Başkan Trump'a ve yönetiminin üst düzey üyelerine, muhtemelen patlayıcı yüklü insansız hava araçlarıyla, üst düzey İsrailli ve Amerikalılarla suikast düzenlemeyi planladığı yönündeki istihbaratı CIA'e iletti.",
+    "u": "https://www.zerohedge.com/political/trump-goes-quiet-mossad-warns-cia-iranian-plot-kill-him-explosive-drones",
+    "ts": 1794798300000,
+    "tags": []
+   },
+   {
+    "t": "\"Hawks Flying In Formation\": Judge Refuses To Toss DRAM Cartel Suit Against Samsung, SK Hynix And Micron, Opening Door To Discovery",
+    "tt": "\"Şahinler Formasyonda Uçuyor\": Yargıç DRAM Karteli Davasını Samsung, SK Hynix ve Micron'a Atmayı Reddederek Keşfe Kapı Açıyor",
+    "s": "\"Hawks Flying In Formation\": Judge Refuses To Toss DRAM Cartel Suit Against Samsung, SK Hynix And Micron, Opening Door To Discovery For the past year, the only people with the power to do anything about memory prices have been the three companies that set them. As of this weekend, a federal judge in",
+    "ss": "\"Şahinler Oluşumda Uçuyor\": Yargıç Samsung, SK Hynix ve Micron'a DRAM Kartel Davası Atmayı Reddederek Discovery'ye Kapı Açıyor Geçen yıl, bellek fiyatlarıyla ilgili herhangi bir şey yapma gücüne sahip olan tek kişiler, bunları belirleyen üç şirket oldu. Bu hafta sonu itibarıyla federal bir yargıç",
+    "u": "https://www.zerohedge.com/markets/hawks-flying-formation-judge-refuses-toss-dram-cartel-suit-against-samsung-sk-hynix-and",
+    "ts": 1794797700000,
+    "tags": []
+   },
+   {
     "t": "Hormuz 'Closed', Bab El-Mandeb Falls: Three US Carriers Off Iran By Monday",
     "tt": "Hürmüz 'Kapalı', Bab El Mendeb Şelalesi: Üç ABD Taşıyıcısı Pazartesi Gününe Kadar İran'dan Açıklara Çıktı",
     "s": "Hormuz 'Closed', Bab El-Mandeb Falls: Three US Carriers Off Iran By Monday On Sunday we had a few developments in the Middle East... I ran's Revolutionary Guards declared the Strait of Hormuz \"closed,\" Saudi-backed forces in Yemen gave up the coast at the Bab el-Mandeb to the Houthis, and the New Yo",
@@ -863,60 +917,6 @@
     "ss": "Beyaz Jensen mı? Huang'ın, Silikon Vadisi'ndeki Müttefiklerin \"Savaş Odası\" Toplanırken Nvidia'nın Geri Dönüşünü Değerlendirdiği Bildirildi Jensen Huang, iddia edilen bir Çinli casusla ilişkisi nedeniyle istifa ettikten günler sonra, Financial Times'a göre Silikon'daki müttefikleri olarak Nvidia'nın genel müdürü olarak geri dönmeyi düşünüyor",
     "u": "https://www.zerohedge.com/ai/jensen-white-huang-reportedly-weighs-nvidia-comeback-silicon-valley-war-room-allies-assembles",
     "ts": 1794788100000,
-    "tags": []
-   },
-   {
-    "t": "Mexico's President Says There's \"No Caravan\" Heading North... Then Admits Another One Is Forming",
-    "tt": "Meksika Devlet Başkanı Kuzeye Giden \"Kervan Yok\" Dedi... Sonra Başka Bir Karavan Oluştuğunu İtiraf Etti",
-    "s": "Mexico's President Says There's \"No Caravan\" Heading North... Then Admits Another One Is Forming Mexican President Claudia Sheinbaum says no migrant caravan is crossing her country toward the US border , a day after President Trump threatened to double tariffs on Mexico if it didn't stop one - but i",
-    "ss": "Meksika Devlet Başkanı, Kuzeye Giden \"Kervan Yok\" Dedi... Sonra Başka Bir Kervanın Oluştuğunu İtiraf Etti Meksika Devlet Başkanı Claudia Sheinbaum, Başkan Trump'ın Meksika'ya gümrük vergilerini iki katına çıkaracağı tehdidinde bulunmasından bir gün sonra hiçbir göçmen kafilesinin ülkesini ABD sınırına doğru geçmediğini söyledi - ancak ben",
-    "u": "https://www.zerohedge.com/political/mexicos-president-says-theres-no-caravan-heading-north-then-admits-another-one-forming",
-    "ts": 1794787200000,
-    "tags": []
-   },
-   {
-    "t": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It",
-    "tt": "Yapay Zeka Laboratuvarları Teknolojilerinin Herkesi Öldürebileceğini Söyledi - Şimdi Kâr Amacı Gütmeyen Kuruluşlar Teknolojiyi Dondurmak İçin Dava Açıyor",
-    "s": "AI Labs Say Their Tech Could Kill Everyone - Now Nonprofits Are Suing To Freeze It Authored by Naveen Athrappully via The Epoch Times , A coalition of nonprofits has sued major U.S. tech companies to freeze advanced artificial intelligence development , citing severe risks such as cyberattacks and b",
-    "ss": "Yapay Zeka Laboratuvarları, Teknolojilerinin Herkesi Öldürebileceğini Söyledi - Şimdi Kâr Amacı Gütmeyen Kuruluşlar, Bunu Dondurmak İçin Dava Açıyor Yazan Naveen Athrappully, The Epoch Times aracılığıyla, Kâr amacı gütmeyen kuruluşlardan oluşan bir koalisyon, siber saldırılar ve yapay zeka gibi ciddi riskleri öne sürerek büyük ABD teknoloji şirketlerine gelişmiş yapay zeka gelişimini dondurmaları için dava açtı.",
-    "u": "https://www.zerohedge.com/ai/ai-labs-say-their-tech-could-kill-everyone-now-nonprofits-are-suing-freeze-it",
-    "ts": 1794785700000,
-    "tags": []
-   },
-   {
-    "t": "\"Something's Got To Break\": Murray Sabrin On $40 Trillion In Debt And Abolishing The Welfare-Warfare State",
-    "tt": "\"Bir Şeyler Bozulmalı\": Murray Sabrin'in 40 Trilyon Dolarlık Borcu Var ve Refah-Savaş Devletini Kaldırıyor",
-    "s": "\"Something's Got To Break\": Murray Sabrin On $40 Trillion In Debt And Abolishing The Welfare-Warfare State Authored by Ryan McMaken and Murray Sabrin via The Mises Institute , Ryan McMaken and Murray Sabrin discuss the ways that the United States has become a land of regulation, taxation, and welfar",
-    "ss": "\"Bir Şeyler Kırılmalı\": Murray Sabrin'in 40 Trilyon Dolarlık Borcu Var ve Refah-Savaş Devletini Ortadan Kaldırıyor Mises Enstitüsü aracılığıyla Ryan McMaken ve Murray Sabrin tarafından yazılmıştır, Ryan McMaken ve Murray Sabrin ABD'nin nasıl bir düzenleme, vergilendirme ve refah ülkesi haline geldiğini tartışıyor",
-    "u": "https://www.zerohedge.com/geopolitical/somethings-got-break-murray-sabrin-40-trillion-debt-and-abolishing-welfare-warfare",
-    "ts": 1794782700000,
-    "tags": []
-   },
-   {
-    "t": "\"He Was Sleeping\": What Epstein's Guards Were Doing The Night He Died",
-    "tt": "\"Uyuyordu\": Epstein'ın Gardiyanları Öldüğü Gece Ne Yapıyordu?",
-    "s": "\"He Was Sleeping\": What Epstein's Guards Were Doing The Night He Died The last guard to check his cell has now told Congress her side, and the blurry orange figure on the stairs is still unexplained . Video released by the Justice Department and FBI shows a view of the Special Housing Unit of the Me",
-    "ss": "\"Uyuyordu\": Epstein'ın Gardiyanları Öldüğü Gece Ne Yapıyordu Hücresini kontrol eden son gardiyan şimdi Kongre'ye kendi tarafını anlattı ve merdivenlerdeki bulanık turuncu figür hala açıklanamadı. Adalet Bakanlığı ve FBI tarafından yayınlanan videoda Me Özel Konut Birimi'nin görünümü gösteriliyor",
-    "u": "https://www.zerohedge.com/political/he-was-sleeping-what-epsteins-guards-were-doing-night-he-died",
-    "ts": 1794781200000,
-    "tags": []
-   },
-   {
-    "t": "Ex-CIA Chief Brennan's Son: Child Porn Tip Sat With Local Cops For Two Years Before FBI Got It",
-    "tt": "Eski CIA Şefi Brennan'ın Oğlu: Çocuk Pornosu İddiası FBI'ın Almasından Önce İki Yıl Boyunca Yerel Polislerle Konuşuldu",
-    "s": "Ex-CIA Chief Brennan's Son: Child Porn Tip Sat With Local Cops For Two Years Before FBI Got It Authored by Luis Cornelio via Headline USA , The adult son of embattled former CIA Director John Brennan was arrested Friday in Virginia in connection with alleged \"child pornography\" found on his phone , ",
-    "ss": "Eski CIA Şefi Brennan'ın Oğlu: Çocuk Pornosu İddiası, FBI'ın Almasından Önce İki Yıl Boyunca Yerel Polislerle Oturdu Luis Cornelio tarafından Headline USA aracılığıyla yazıldı. Güç durumdaki eski CIA Direktörü John Brennan'ın yetişkin oğlu, telefonunda bulunan \"çocuk pornografisi\" iddiasıyla bağlantılı olarak Cuma günü Virginia'da tutuklandı.",
-    "u": "https://www.zerohedge.com/political/ex-cia-chief-brennans-son-child-porn-tip-sat-local-cops-two-years-fbi-got-it",
-    "ts": 1794779700000,
-    "tags": []
-   },
-   {
-    "t": "\"These Shell Companies Were Obvious\": Bessent Gives Nvidia Board 10 Days, Wants Outsider To Replace Huang",
-    "tt": "\"Bu Shell Şirketleri Açıktı\": Bessent, Nvidia Yönetim Kuruluna 10 Gün Verdi, Huang'ın Yerini Dışarıdan Almak İstiyor",
-    "s": "\"These Shell Companies Were Obvious\": Bessent Gives Nvidia Board 10 Days, Wants Outsider To Replace Huang Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shakeup\" at the top and should look outside the company for Jensen Huang's successor , and he isn't letting the ouster close the bo",
-    "ss": "\"Bu Shell Şirketleri Açıktı\": Bessent, Nvidia Yönetim Kuruluna 10 Gün Verdi, Huang Hazine Bakanı Scott Bessent'in Yerini Dışarıdan Almak İstiyor, Nvidia'nın tepede \"dramatik bir değişikliğe\" ihtiyacı olduğunu ve Jensen Huang'ın halefini şirket dışında araması gerektiğini ve devrilmenin işi kapatmasına izin vermeyeceğini söylüyor",
-    "u": "https://www.zerohedge.com/ai/these-shell-companies-were-obvious-bessent-gives-nvidia-board-10-days-wants-outsider-replace",
-    "ts": 1794779100000,
     "tags": []
    }
   ],
@@ -1025,7 +1025,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "500 Server Error: Internal Server Error for url: https://translate.googleapis.com/translate_a/single",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
