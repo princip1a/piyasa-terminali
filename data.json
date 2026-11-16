@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-16T16:30:32.600921+00:00",
+ "generated": "2026-11-16T17:42:21.089562+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7486.79,
-   "c": -0.99,
-   "d": -74.88,
+   "p": 7455.04,
+   "c": -1.41,
+   "d": -106.63,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24787.97,
-   "c": -1.39,
-   "d": -348.3,
+   "p": 24638.324,
+   "c": -1.98,
+   "d": -497.946,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 52062.4,
-   "c": -0.54,
-   "d": -285.151,
+   "p": 51905.32,
+   "c": -0.84,
+   "d": -442.231,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 21.17,
-   "c": 9.69,
-   "d": 1.87,
+   "p": 21.64,
+   "c": 12.12,
+   "d": 2.34,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3861.7,
-   "c": -0.63,
-   "d": -24.6,
+   "p": 3870.6,
+   "c": -0.4,
+   "d": -15.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 46.7,
-   "c": -4.75,
-   "d": -2.331,
+   "p": 47.11,
+   "c": -3.92,
+   "d": -1.921,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.66,
-   "c": -2.15,
-   "d": -1.9,
+   "p": 86.2,
+   "c": -2.66,
+   "d": -2.36,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.45,
-   "c": -2.49,
-   "d": -2.39,
+   "p": 93.19,
+   "c": -2.77,
+   "d": -2.65,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.55,
-   "c": 0.14,
-   "d": 0.14,
+   "p": 103.496,
+   "c": 0.08,
+   "d": 0.086,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.133,
-   "c": -0.41,
-   "d": -0.021,
+   "p": 5.131,
+   "c": -0.45,
+   "d": -0.023,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.385,
-   "c": 0.2,
-   "d": 0.103,
+   "p": 50.3855,
+   "c": 0.21,
+   "d": 0.104,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64741,
-   "c": 0.06,
+   "p": 64937,
+   "c": 0.64,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1827.82,
-   "c": 0.93,
+   "p": 1826.91,
+   "c": 1.17,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.08,
-   "c": -0.72,
+   "p": 71.46,
+   "c": 0.52,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.95708,
-   "c": 0.09,
+   "p": 0.961783,
+   "c": 1.63,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 589.55,
-   "c": -0.09,
+   "p": 590.83,
+   "c": 0.23,
    "k": "usd"
   }
  ],
@@ -454,7 +454,7 @@
    "title": "Natural Gas Storage",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "61B",
    "actual": "",
    "ts": 1795102200000,
    "tr": "Per 19.11 18:30",
@@ -544,80 +544,21 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Brazilian Real Leads Losses, EM Stocks Sink on AI Uncertainty",
-    "tt": "Brezilya Reali Kayıplara Öncülük Ediyor, EM Hisse Senetleri Yapay Zeka Belirsizliği Nedeniyle Düşüyor",
-    "s": "An index of developing-world stocks sank and Latin American currencies sold off as a wave of risk aversion in financial markets kicked off a busy week for US technology companies.",
-    "ss": "Gelişmekte olan dünya hisse senetleri endeksi düştü ve Latin Amerika para birimleri, finansal piyasalarda riskten kaçınma dalgasının ABD teknoloji şirketleri için yoğun bir haftaya başlamasıyla birlikte satıldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
-    "ts": 1794809698000,
+    "t": "Lilly Pushes Buying Spree Beyond $32B With Calytrix Deal",
+    "tt": null,
+    "s": "Eli Lilly & Co. agreed to buy closely held Calytrix Bio Inc. in a deal that could be worth up to $1.5 billion, the latest in the drugmaker’s $32 billion wave of acquisitions in 2026 as it builds out its cancer and immunology businesses. Sam Fazeli, Bloomberg Intelligence, Director of Research for Gl",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/lilly-pushes-buying-spree-beyond-32b-with-calytrix-deal-video",
+    "ts": 1794849921000,
     "tags": []
    },
    {
-    "t": "The Chipdollar vs. The Petrodollar",
-    "tt": "Chipdollar Petrodollar'a Karşı",
-    "s": "A huge story at a major moment.",
-    "ss": "Önemli bir anda büyük bir hikaye.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-16/the-chipdollar-vs-the-petrodollar",
-    "ts": 1794846694000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-    "tt": "Nvidia ve Antropik Testler Beklerken Teknoloji Hisseleri Kayıyor: Piyasalar Sarılıyor",
-    "s": "A selloff in technology stocks carried into a new week as Wall Street traders geared up for Nvidia Corp.’s high-stakes earnings and Anthropic PBC’s expected market debut in the coming days.",
-    "ss": "Yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin önümüzdeki günlerde beklenen piyasaya çıkışı öncesinde riskli bahislerden kaçınmasıyla teknoloji hisselerindeki satışlar yeni haftaya da taşındı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794780692000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 16",
-    "tt": "16 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil declined the most in roughly a week amid signs that the market for physical barrels is well supplied, even as tensions in the Middle East threaten to hamper exports from the region.",
-    "ss": "Petrol, Orta Doğu'daki gerilimlerin bölgeden yapılan ihracatı engelleme tehdidi oluşturmasına rağmen, fiziksel varil piyasasının iyi tedarik edildiğine dair işaretlerin etkisiyle yaklaşık bir haftanın en sert düşüşünü gerçekleştirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/latest-oil-market-news-and-analysis-for-nov-16",
-    "ts": 1794783830000,
-    "tags": []
-   },
-   {
-    "t": "Euro Falls Below $1.10 For First Time Since April 2025",
-    "tt": "Euro, Nisan 2025'ten Bu Yana İlk Kez 1,10 Doların Altına Düştü",
-    "s": "The euro fell to a fresh 19-month low on expectations of further interest-rate hikes in the US that will support the dollar.",
-    "ss": "Euro, ABD'de doları destekleyecek faiz artırımlarının devam edeceği beklentileriyle 19 ayın en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025",
-    "ts": 1794844862000,
-    "tags": [
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "BlackRock Seeks to Break ETF Mold With Private-Market Hybrid",
-    "tt": "BlackRock, Özel Pazar Hibritiyle ETF Kalıplarını Kırmayı Amaçlıyor",
-    "s": "BlackRock Inc. is pushing to redraw the boundaries of the $16 trillion US exchange-traded funds industry with a novel investment vehicle that would marry two of Wall Street’s biggest obsessions: the trading ease of ETFs and the allure of private markets.",
-    "ss": "BlackRock Inc., Wall Street'in en büyük iki takıntısını bir araya getirecek yeni bir yatırım aracıyla 16 trilyon dolarlık ABD borsa yatırım fonları sektörünün sınırlarını yeniden çizmeye çalışıyor: ETF'lerin ticaret kolaylığı ve özel piyasaların cazibesi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/blackrock-seeks-to-break-etf-mold-with-private-market-hybrid",
-    "ts": 1794834988000,
-    "tags": []
-   },
-   {
-    "t": "India Reviewing Investor Tax Suggestions Ahead of Budget",
-    "tt": "Hindistan, Bütçe Öncesi Yatırımcı Vergi Önerilerini Gözden Geçiriyor",
-    "s": "India is examining suggestions from market participants on capital gains and stock transaction taxes as part of its pre-budget consultations, according to the country’s Finance Ministry.",
-    "ss": "Ülkenin Maliye Bakanlığı'na göre Hindistan, bütçe öncesi istişarelerinin bir parçası olarak piyasa katılımcılarının sermaye kazançları ve hisse senedi işlem vergileri konusundaki önerilerini inceliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/india-weighs-capital-gains-transaction-tax-change-mint-reports",
-    "ts": 1794834697000,
-    "tags": []
-   },
-   {
-    "t": "Pentagon’s Feinberg Said to Have Steered Companies to Goldman Banker",
-    "tt": "Pentagon'dan Feinberg'in Şirketleri Goldman Banker'a Yönlendirdiği Söylendi",
-    "s": "US Deputy Defense Secretary Steve Feinberg reportedly steered companies, including Lockheed Martin Corp. and RTX Corp., negotiating multibillion-dollar weapons deals with the federal government to his longtime Goldman Sachs banker, according to people familiar with the matter. Todd Gillespie reports",
-    "ss": "Konuyu bilen kaynaklara göre, ABD Savunma Bakan Yardımcısı Steve Feinberg'in, aralarında Lockheed Martin Corp. ve RTX Corp.'un da bulunduğu şirketleri, federal hükümetle milyarlarca dolarlık silah anlaşmaları müzakerelerini uzun süreli Goldman Sachs bankacılığına yönlendirdiği bildirildi. Todd Gillespie'nin bildirdiği",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-16/dod-s-feinberg-said-to-steer-firms-to-goldman-banker-video",
-    "ts": 1794842988000,
+    "t": "European Stocks Drop Over AI Concerns as Tech Sector Tumbles",
+    "tt": null,
+    "s": "European stocks reversed gains to trade lower as lingering concerns over the artificial-intelligence trade spurred declines in technology shares.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge",
+    "ts": 1794816461000,
     "tags": []
    },
    {
@@ -630,16 +571,79 @@
     "tags": []
    },
    {
-    "t": "Stocks Fall Ahead of Nvidia, Trump-Xi-Putin Summit; Huang’s Potential Return to Nvidia",
-    "tt": "Hisse Senetleri Nvidia ve Trump-Xi-Putin Zirvesi Öncesinde Düştü; Huang'ın Nvidia'ya Potansiyel Dönüşü",
-    "s": "US equity futures fall ahead of a busy week for markets, including Nvidia earnings, Anthropic’s IPO, and a trilateral meeting between Presidents Trump, Xi and Putin. Jensen Huang is reportedly discussing a possible return as CEO. Airlines scramble to recover from the longest nationwide grounding in ",
-    "ss": "ABD hisse senedi vadeli kontratları, Nvidia kazançları, Anthropic'in halka arzı ve Başkan Trump, Xi ve Putin arasındaki üçlü toplantı da dahil olmak üzere piyasalar için yoğun bir hafta öncesinde geriledi. Jensen Huang'ın CEO olarak olası bir dönüşü tartıştığı bildiriliyor. Havayolları ülke çapındaki en uzun süreli duraklamanın ardından toparlanmaya çalışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-brief-11-16-2026-video",
-    "ts": 1794842576000,
+    "t": "Athleisure Faces Price Pressures",
+    "tt": null,
+    "s": "Regis Schultz, CEO of JD Sports, discusses the state of sports fashion amid the popularity of running. He says the US is \"the most resilient customer\" and that JD stores haven't felt much tariff impact because the brands they carry are taking most of the hit. Schultz gives his expectations for the h",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/athleisure-faces-price-pressures-video",
+    "ts": 1794848765000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
+    "tt": "Nvidia ve Antropik Testler Beklerken Teknoloji Hisseleri Kayıyor: Piyasalar Sarılıyor",
+    "s": "A selloff in technology stocks carried into a new week as Wall Street traders geared up for Nvidia Corp.’s high-stakes earnings and Anthropic PBC’s expected market debut in the coming days.",
+    "ss": "Yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin önümüzdeki günlerde beklenen piyasaya çıkışı öncesinde riskli bahislerden kaçınmasıyla teknoloji hisselerindeki satışlar yeni haftaya da taşındı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794780692000,
+    "tags": []
+   },
+   {
+    "t": "Think Twice, Bloomberg’s New Daily Trivia Game",
+    "tt": null,
+    "s": "Every right answer means the next question is worth more. Go big in Bloomberg’s new daily trivia game Think Twice. Here’s how to play. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/think-twice-bloomberg-s-new-daily-trivia-game-video",
+    "ts": 1794848471000,
+    "tags": []
+   },
+   {
+    "t": "Diesel Falls Below $6 a Gallon, Easing Inflationary Pressure",
+    "tt": null,
+    "s": "US retail diesel prices dropped below $6 a gallon for the first time since early September, taking some pressure off a key inflationary input that has pushed the price of energy and food higher this fall.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/diesel-falls-below-6-a-gallon-easing-key-inflationary-pressure",
+    "ts": 1794820631000,
+    "tags": []
+   },
+   {
+    "t": "Pentagon Deputy Steered Defense Deals to His Goldman Banker",
+    "tt": "Pentagon'dan Feinberg'in Şirketleri Goldman Banker'a Yönlendirdiği Söylendi",
+    "s": "US Deputy Defense Secretary Steve Feinberg reportedly steered companies, including Lockheed Martin Corp. and RTX Corp., negotiating multibillion-dollar weapons deals with the federal government to his longtime Goldman Sachs banker, according to people familiar with the matter. Todd Gillespie reports",
+    "ss": "Konuyu bilen kaynaklara göre, ABD Savunma Bakan Yardımcısı Steve Feinberg'in, aralarında Lockheed Martin Corp. ve RTX Corp.'un da bulunduğu şirketleri, federal hükümetle milyarlarca dolarlık silah anlaşmaları müzakerelerini uzun süreli Goldman Sachs bankacılığına yönlendirdiği bildirildi. Todd Gillespie'nin bildirdiği",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/dod-s-feinberg-said-to-steer-firms-to-goldman-banker-video",
+    "ts": 1794842988000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stocks Tumble With Nvidia Earnings, Anthropic IPO in Focus",
+    "tt": null,
+    "s": "US stocks extended their slump on Monday, led by technology shares, as investors remained skittish around the AI trade before Nvidia Corp. earnings and the expected initial public offering of Anthropic PBC this week.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/us-futures-drop-as-market-looks-to-nvidia-results-anthropic-ipo",
+    "ts": 1794835045000,
+    "tags": []
+   },
+   {
+    "t": "Brazilian Real Leads Losses, EM Stocks Sink on AI Uncertainty",
+    "tt": "Brezilya Reali Kayıplara Öncülük Ediyor, EM Hisse Senetleri Yapay Zeka Belirsizliği Nedeniyle Düşüyor",
+    "s": "An index of developing-world stocks sank and Latin American currencies sold off as a wave of risk aversion in financial markets kicked off a busy week for US technology companies.",
+    "ss": "Gelişmekte olan dünya hisse senetleri endeksi düştü ve Latin Amerika para birimleri, finansal piyasalarda riskten kaçınma dalgasının ABD teknoloji şirketleri için yoğun bir haftaya başlamasıyla birlikte satıldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
+    "ts": 1794809698000,
     "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+    "tt": null,
+    "s": "",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+    "ts": 1794850144000,
+    "tags": []
+   },
    {
     "t": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
     "tt": "ABD ham petrolü Orta Doğu ihracatının toparlanmasıyla varil başına 87 dolara geriledi",
@@ -678,7 +682,7 @@
     "s": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
     "ss": "Eric Trump destekli robot girişimi Foundation Future Industries'in nakit parası azaldı ve maaş bordrosu kaçırıldı; CEO Sankaet Pathak, 4,6 milyon dolarlık şirket kredisi nedeniyle incelemeyle karşı karşıya kaldı.",
     "u": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-    "ts": 1794657601000,
+    "ts": 1794849253000,
     "tags": []
    },
    {
@@ -730,18 +734,27 @@
      "Altın ▼",
      "BTC ▼"
     ]
-   },
-   {
-    "t": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-    "tt": "Çin Devlet Güvenlik Bakanlığı, Nvidia'nın CEO meselesiyle dikkatleri üzerine çekti",
-    "s": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-    "ss": "Çin Devlet Güvenlik Bakanlığı, Nvidia CEO'su Jensen Huang'ın MSS casusu olduğu iddia edilen kişiyle ilişkisine ilişkin haberlerin ardından dikkatleri üzerine çekiyor.",
-    "u": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-    "ts": 1794468528000,
-    "tags": []
    }
   ],
   "MarketWatch": [
+   {
+    "t": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+    "tt": null,
+    "s": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "ts": 1794848400000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+    "tt": null,
+    "s": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+    "ts": 1794847020000,
+    "tags": []
+   },
    {
     "t": "I am turning 18 next month and want to start investing. What do I do first?",
     "tt": "Gelecek ay 18 yaşına giriyorum ve yatırıma başlamak istiyorum. İlk önce ne yapacağım?",
@@ -813,27 +826,45 @@
     "u": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories",
     "ts": 1794841200000,
     "tags": []
-   },
-   {
-    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "tt": "'Tadımı ekşitiyor': Yaşlı annem kuzenimize araba tamiri için 800 dolar verdi. Endişelenmeli miyim?",
-    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-    "ss": "\"Yaşlı insanların kolaylıkla küçümsendiklerini hissedebileceklerini biliyorum ve bunun olmasını istemiyorum.\"",
-    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "ts": 1794841200000,
-    "tags": []
-   },
-   {
-    "t": "Budget airlines are going upscale with first-class seats and faster wifi",
-    "tt": "Ekonomik havayolları birinci sınıf koltuklar ve daha hızlı Wi-Fi ile lükse geçiş yapıyor",
-    "s": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-    "ss": "Gösterişsizliği unutun: Frontier ve JetBlue lüks ilanların peşinde, Wall Street de onları satın alıyor.",
-    "u": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-    "ts": 1794839640000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Himes, GOP Senators Push To Slip FISA Spy Powers Into NDAA Before Democrats Take Over",
+    "tt": null,
+    "s": "Himes, GOP Senators Push To Slip FISA Spy Powers Into NDAA Before Democrats Take Over Authored by Ken Macon via Reclaim The Net , A group of US lawmakers is trying to convince Congress to use the lame-duck session to renew Section 702 of the Foreign Intelligence Surveillance Act (FISA). The idea is ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/himes-gop-senators-push-slip-fisa-spy-powers-ndaa-democrats-take-over",
+    "ts": 1794850800000,
+    "tags": []
+   },
+   {
+    "t": "US Is Protecting Mexican Fugitive Prosecutor Who Brought CIA Into Cartel Raids: Report",
+    "tt": null,
+    "s": "US Is Protecting Mexican Fugitive Prosecutor Who Brought CIA Into Cartel Raids: Report Authored by Ken Silva via Headline USA , The New York Times reported Tuesday that a prosecutor in Mexico is now a wanted fugitive for partnering with the CIA in a purported operation to take on the country's drug ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/us-protecting-mexican-fugitive-prosecutor-who-brought-cia-cartel-raids-report",
+    "ts": 1794849000000,
+    "tags": []
+   },
+   {
+    "t": "GTA VI Preorders Top Wall Street's Expectations Ahead Of Thursday Launch; Brace For \"GTA Flu\" As 13-Year Wait Ends",
+    "tt": null,
+    "s": "GTA VI Preorders Top Wall Street's Expectations Ahead Of Thursday Launch; Brace For \"GTA Flu\" As 13-Year Wait Ends Grand Theft Auto VI finally arrives Thursday for gamers around the world, ending a wait of more than 13 years since the franchise's last installment. Ahead of the launch, Jefferies anal",
+    "ss": null,
+    "u": "https://www.zerohedge.com/technology/gta-vi-preorders-top-wall-streets-expectations-ahead-thursday-launch-brace-gta-flu-13",
+    "ts": 1794848100000,
+    "tags": []
+   },
+   {
+    "t": "Texas Democrat Governor-Elect Vows To Strip Hamas-Tied CAIR's Terror Designation",
+    "tt": null,
+    "s": "Texas Democrat Governor-Elect Vows To Strip Hamas-Tied CAIR's Terror Designation Authored by Catherine Salgado via PJ Media , Gina Hinojosa, the Democrat no one ever heard of who supposedly won the Texas gubernatorial race, is already taking the mask off about siding with foreign jihadis. Gov. Greg ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/texas-democrat-governor-elect-vows-strip-hamas-tied-cairs-terror-designation",
+    "ts": 1794847200000,
+    "tags": []
+   },
    {
     "t": "US Attorney Lobs A Tomahawk At Elizabeth Warren's Anti-Trump Investigations",
     "tt": "ABD'li Avukat, Elizabeth Warren'ın Trump Karşıtı Soruşturmalarına Tomahawk Attı",
@@ -887,45 +918,36 @@
     "u": "https://www.zerohedge.com/geopolitical/did-putin-really-lift-his-rumored-ban-killing-zelensky",
     "ts": 1794841800000,
     "tags": []
-   },
-   {
-    "t": "US Closes The \"Cloud Loophole\": Days After Jensen's Exit, New Rule Puts AI Chip Rentals To China And Five \"Diversion\" Hubs Under License",
-    "tt": "ABD \"Bulut Boşluğunu\" Kapattı: Jensen'in Çıkışından Günler Sonra Yeni Kural, Yapay Zeka Çipi Kiralamayı Çin'e ve Beş \"Yönlendirme\" Merkezini Lisans Altına Alıyor",
-    "s": "US Closes The \"Cloud Loophole\": Days After Jensen's Exit, New Rule Puts AI Chip Rentals To China And Five \"Diversion\" Hubs Under License For four years, Washington has banned shipping America's best AI chips to China. For most of that time, Chinese labs have simply rented them instead. On Monday, th",
-    "ss": "ABD \"Bulut Boşluğunu\" Kapatıyor: Jensen'in Çıkışından Günler Sonra, Yeni Kural, Yapay Zeka Çipi Kiralamayı Çin'e ve Beş \"Yönlendirme\" Merkezini Lisans Altına Alıyor Washington dört yıl boyunca Amerika'nın en iyi yapay zeka çiplerinin Çin'e gönderilmesini yasakladı. Çoğu zaman Çin laboratuvarları bunları kiraladı. Pazartesi günü",
-    "u": "https://www.zerohedge.com/markets/us-closes-cloud-loophole-days-after-jensens-exit-new-rule-puts-ai-chip-rentals-china-and",
-    "ts": 1794840000000,
-    "tags": []
-   },
-   {
-    "t": "Former Obama Officials Urge Foreign Governments To \"Quietly Gather Evidence\" On Hegseth",
-    "tt": "Eski Obama Yetkilileri Yabancı Hükümetlere Hegseth Hakkında \"Sessizce Kanıt Toplama\" Çağrısında Bulundu",
-    "s": "Former Obama Officials Urge Foreign Governments To \"Quietly Gather Evidence\" On Hegseth Three former US national security officials, two of whom served in the Obama administration, have laid out how foreign governments could prosecute Defense Secretary Pete Hegseth and two top commanders for murder ",
-    "ss": "Eski Obama Yetkililerinden Yabancı Hükümetlere Hegseth Hakkında \"Sessizce Kanıt Toplamaları\" Çağrısı İkisi Obama yönetiminde görev yapan üç eski ABD ulusal güvenlik yetkilisi, yabancı hükümetlerin Savunma Bakanı Pete Hegseth ve iki üst düzey komutanı cinayetten nasıl kovuşturabileceklerini açıkladı",
-    "u": "https://www.zerohedge.com/political/former-obama-officials-urge-foreign-governments-quietly-gather-evidence-hegseth-and-wait",
-    "ts": 1794839100000,
-    "tags": []
-   },
-   {
-    "t": "A Week With APEC Consequences?",
-    "tt": "APEC Sonuçlarıyla Bir Hafta mı?",
-    "s": "A Week With APEC Consequences? By Bas van Geffen, Senior Macro Strategist at Rabobank A third US aircraft carrier has arrived in the Middle East, and Israeli representatives have met with US officials to discuss new strikes. However, President Trump has reportedly told his advisers that he may not a",
-    "ss": "APEC Sonuçlarıyla Bir Hafta mı? Yazan: Bas van Geffen, Rabobank Kıdemli Makro Stratejisti Üçüncü bir ABD uçak gemisi Orta Doğu'ya ulaştı ve İsrailli temsilciler, yeni saldırıları görüşmek üzere ABD'li yetkililerle bir araya geldi. Ancak Başkan Trump'ın danışmanlarına bu kararı vermeyebileceğini söylediği bildirildi.",
-    "u": "https://www.zerohedge.com/geopolitical/week-apec-consequences",
-    "ts": 1794837300000,
-    "tags": []
-   },
-   {
-    "t": "\"Highest Risk Will Be This Winter\": Regulators From 38 Countries Warn Of Nuclear Accident In Ukraine",
-    "tt": "\"En Yüksek Risk Bu Kış Olacak\": 38 Ülkeden Düzenleyiciler Ukrayna'daki Nükleer Kaza Konusunda Uyardı",
-    "s": "\"Highest Risk Will Be This Winter\": Regulators From 38 Countries Warn Of Nuclear Accident In Ukraine Nuclear safety regulators representing 38 countries warned Monday that the risk of a nuclear accident in Ukraine is rising this winter , and called on Russia to stop striking the power grid that Ukra",
-    "ss": "\"En Yüksek Risk Bu Kış Olacak\": 38 Ülkenin Düzenleyicileri Ukrayna'daki Nükleer Kaza Konusunda Uyardı 38 ülkeyi temsil eden nükleer güvenlik düzenleyicileri, Pazartesi günü Ukrayna'da nükleer kaza riskinin bu kış artacağı konusunda uyardılar ve Rusya'ya, Ukrayna'nın nükleer saldırılarını durdurması çağrısında bulundular.",
-    "u": "https://www.zerohedge.com/geopolitical/highest-risk-will-be-winter-regulators-38-countries-warn-nuclear-accident-ukraine",
-    "ts": 1794836400000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Fed Başkanı Warsh'tan açıklamalar",
+    "tt": null,
+    "s": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, San Francisco Fed'in ev sahipliğinde düzenlenen verimlilik ve istihdam konferansında konuşuyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fed-baskani-warsh-tan-aciklamalar-3794788",
+    "ts": 1794849109000,
+    "tags": []
+   },
+   {
+    "t": "Tenis yıldızı Serena Williams, yatırım şirketi kurdu",
+    "tt": null,
+    "s": "Efsanevi tenis yıldızı Serena Williams ve uzun süreli iş ortağı Beth Ferreira, Starfire Ventures adında, erken aşama yatırımlara odaklanan yeni bir şirket kurduklarını duyurdular. Şirket, yapay zeka tabanlı girişimleri desteklemek amacıyla 200 milyon dolarlık bir ilk fon oluşturmayı hedefliyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tenis-yildizi-serena-williams-yatirim-sirketi-kurdu-3794787",
+    "ts": 1794847178000,
+    "tags": []
+   },
+   {
+    "t": "Amazon'un robotaksi şirketi Zoox, Uber'le işbirliğine gitti",
+    "tt": null,
+    "s": "Amazon'a ait otonom araç şirketi Zoox'un robotaksileri, resmî olarak Las Vegas'taki Uber uygulaması üzerinden hizmete sunuldu. Bu gelişme, şirketin üçüncü taraf bir araç çağırma platformuyla yaptığı ilk ortaklık olma özelliğini taşıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/amazon-un-robotaksi-sirketi-zoox-uber-le-isbirligine-gitti-3794786",
+    "ts": 1794846540000,
+    "tags": []
+   },
    {
     "t": "Trump: Putin, Ukrayna savaşında biraz geri adım atıyor",
     "tt": null,
@@ -988,33 +1010,6 @@
     "u": "https://www.bloomberght.com/new-york-fed-imalat-endeksinde-keskin-gerileme-3794773",
     "ts": 1794838226000,
     "tags": []
-   },
-   {
-    "t": "İMSAD: İnşaat malzemesinde 11 alt sektörde üretim düştü",
-    "tt": null,
-    "s": "Türkiye İMSAD'ın eylül ayı sektör raporuna göre, ağustosta inşaat malzemesi sanayisinde incelenen 19 alt sektörün 11'inde üretim yıllık bazda geriledi. En sert düşüş yüzde 32,2 ile seramik sağlık gereçlerinde, en yüksek artış yüzde 10,4 ile metal yapı ve yapı parçalarında kaydedildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/imsad-insaat-malzemesinde-11-alt-sektorde-uretim-dustu-3794771",
-    "ts": 1794837257000,
-    "tags": []
-   },
-   {
-    "t": "ABD'den gelişmiş yapay zeka çiplerine erişimi kısıtlama hamlesi",
-    "tt": null,
-    "s": "ABD Ticaret Bakanlığı, belirli ülkelerden gelişmiş yapay zeka çipleri ve sunucularına uzaktan erişimi kısıtlamak amacıyla geçici bir düzenleme yayımladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-den-gelismis-yapay-zeka-ciplerine-erisimi-kisitlama-hamlesi-3794770",
-    "ts": 1794837218000,
-    "tags": []
-   },
-   {
-    "t": "AB'den Türkiye ve diğer 4 ülkeye yassı çelik anti-damping vergisi",
-    "tt": null,
-    "s": "Avrupa Komisyonu, Türkiye, Hindistan, Japonya, Tayvan ve Vietnam'dan AB'ye yapılan bazı soğuk haddelenmiş yassı çelik ürün ithalatına anti-damping vergileri getirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ab-den-turkiye-ve-diger-4-ulkeye-yassi-celik-anti-damping-vergisi-3794766",
-    "ts": 1794835394000,
-    "tags": []
    }
   ]
  },
@@ -1030,6 +1025,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
