@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T21:28:59.693887+00:00",
+ "generated": "2026-11-16T22:24:23.744566+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 22.92,
-   "c": 18.76,
-   "d": 3.62,
+   "p": 22.91,
+   "c": 18.7,
+   "d": 3.61,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3853.4,
-   "c": -0.85,
-   "d": -32.9,
+   "p": 3859.0,
+   "c": -0.7,
+   "d": -27.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 46.89,
-   "c": -4.37,
-   "d": -2.141,
+   "p": 46.91,
+   "c": -4.33,
+   "d": -2.121,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.4,
-   "c": -3.57,
-   "d": -3.16,
+   "p": 85.06,
+   "c": -3.95,
+   "d": -3.5,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.19,
-   "c": -3.81,
-   "d": -3.65,
+   "p": 91.84,
+   "c": -4.17,
+   "d": -4.0,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.602,
-   "c": 0.19,
-   "d": 0.192,
+   "p": 103.568,
+   "c": 0.15,
+   "d": 0.158,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3824,
-   "c": 0.2,
-   "d": 0.1,
+   "p": 50.4077,
+   "c": 0.25,
+   "d": 0.126,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 65182,
-   "c": 0.32,
+   "p": 65323,
+   "c": 0.24,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1823.09,
-   "c": 0.33,
+   "p": 1831.1,
+   "c": 0.26,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.64,
-   "c": -0.13,
+   "p": 71.9,
+   "c": -0.42,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.955646,
-   "c": -0.49,
+   "p": 0.960444,
+   "c": -0.73,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 592.91,
-   "c": 0.13,
+   "p": 593.74,
+   "c": -0.17,
    "k": "usd"
   }
  ],
@@ -233,7 +233,7 @@
   {
    "title": "Retail Sales m/m",
    "impact": "High",
-   "forecast": "0.2%",
+   "forecast": "0.1%",
    "previous": "0.8%",
    "actual": "",
    "ts": 1794922200000,
@@ -273,7 +273,7 @@
   {
    "title": "Industrial Production m/m",
    "impact": "Low",
-   "forecast": "0.1%",
+   "forecast": "0.0%",
    "previous": "0.7%",
    "actual": "",
    "ts": 1794924900000,
@@ -353,7 +353,7 @@
   {
    "title": "Pending Home Sales m/m",
    "impact": "Low",
-   "forecast": "-2.3%",
+   "forecast": "-2.1%",
    "previous": "-7.3%",
    "actual": "",
    "ts": 1795014000000,
@@ -368,6 +368,16 @@
    "actual": "",
    "ts": 1795015800000,
    "tr": "Çar 18.11 18:30",
+   "reading": null
+  },
+  {
+   "title": "FOMC Member Daly Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1795022100000,
+   "tr": "Çar 18.11 20:15",
    "reading": null
   },
   {
@@ -574,97 +584,106 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "Stocks in Asia looked set to decline, tracking losses on Wall Street as investors remained wary of the AI trade ahead of Nvidia Corp.’s high-stakes earnings and Anthropic PBC’s expected market debut.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": []
+   },
+   {
+    "t": "Pizza Hut Sells $1 Billion of Bonds Tied to Franchise Agreements",
+    "tt": "Pizza Hut, Franchise Anlaşmalarına Bağlı 1 Milyar Dolarlık Tahvil Sattı",
+    "s": "Pizza Hut sold $1 billion of bonds on Monday to help fund its buyout by private equity fund LongRange Capital LLC, according to a person with knowledge of the matter.",
+    "ss": "Konuyla ilgili bilgisi olan bir kişiye göre Pizza Hut, özel sermaye fonu LongRange Capital LLC tarafından satın alınmasına yardımcı olmak amacıyla Pazartesi günü 1 milyar dolarlık tahvil sattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/pizza-hut-sells-1-billion-of-bonds-tied-to-franchise-agreements",
+    "ts": 1794866633000,
+    "tags": []
+   },
+   {
+    "t": "JetBlue Rushes to Calm Workers Spooked by Bankruptcy Fears",
+    "tt": "JetBlue İflas Korkusundan Korkan İşçileri Sakinleştirmek İçin Acele Ediyor",
+    "s": "JetBlue is feeling the pressure of fierce competition and rising fuel prices. Employees are contacting the CEO with concerns about bankruptcy. There’s a turnaround plan in place, but as Sri Taylor explains, the clock is ticking on whether it will be enough (Source: Bloomberg)",
+    "ss": "JetBlue, şiddetli rekabetin ve artan yakıt fiyatlarının baskısını hissediyor. Çalışanlar iflasla ilgili endişeleri nedeniyle CEO ile iletişime geçiyor. Uygulanan bir geri dönüş planı var ancak Sri Taylor'ın açıkladığı gibi bunun yeterli olup olmayacağına dair zaman işliyor (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/jetblue-rushes-to-calm-workers-spooked-by-bankruptcy-fears",
+    "ts": 1794866416000,
+    "tags": []
+   },
+   {
+    "t": "Brazilian Real Leads FX Losses; EM Stocks Sink on AI Uncertainty",
+    "tt": "Brezilya Reali Döviz Zararında Öncülük Ediyor; EM Hisse Senetleri Yapay Zeka Belirsizliği Nedeniyle Düştü",
+    "s": "An index of developing-world stocks sank and most Latin American currencies sold off as a wave of risk aversion in financial markets kicked off a busy week for US technology companies.",
+    "ss": "Gelişmekte olan dünya hisse senetleri endeksi düştü ve çoğu Latin Amerika para birimi, finansal piyasalarda riskten kaçınma dalgasının ABD teknoloji şirketleri için yoğun bir haftaya başlamasıyla birlikte satıldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
+    "ts": 1794809698000,
+    "tags": []
+   },
+   {
+    "t": "Ex-Bank of Canada Deputy Beaudry Weighs Applying for Governor",
+    "tt": "Kanada Eski Bankası Vekili Beaudry, Başkanlığa Başvurmayı Ağırlaştırıyor",
+    "s": "Paul Beaudry, a former deputy governor of the Bank of Canada, says he’s considering applying to become the central bank’s next chief.",
+    "ss": "Kanada Merkez Bankası'nın eski başkan yardımcısı Paul Beaudry, merkez bankasının bir sonraki başkanı olmak için başvuruda bulunmayı düşündüğünü söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/ex-bank-of-canada-deputy-beaudry-weighs-applying-for-governor",
+    "ts": 1794865914000,
+    "tags": []
+   },
+   {
+    "t": "Stock Selloff Intensifies | Closing Bell",
+    "tt": "Hisse Senedi Satışları Yoğunlaşıyor | Kapanış Zili",
+    "s": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "ss": "Romaine Bostick, Vonnie Quinn, Carol Massar ve Tim Stenovec'in katılımıyla Bloomberg Televizyonu, Bloomberg Radyosu ve YouTube'da ABD pazarı kapanışına ilişkin platformlar arası kapsamlı kapsamlı yayın. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/stock-selloff-intensifies-closing-bell-video",
+    "ts": 1794865345000,
+    "tags": []
+   },
+   {
+    "t": "Deutsche Sees Asia Chip Boom Supporting Dollar Through Equities",
+    "tt": "Deutsche, Asya'daki Chip Artışının Doları Hisse Senedi Yoluyla Destekleyeceğini Görüyor",
+    "s": "Deutsche Bank sees growing Asian chip surpluses as a source of support for the US dollar as the proceeds are increasingly recycled into US equities.",
+    "ss": "Deutsche Bank, gelirlerin giderek ABD hisse senetlerine dönüştürülmesi nedeniyle, Asya'daki artan çip fazlalarını ABD doları için bir destek kaynağı olarak görüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/deutsche-sees-asia-chip-boom-supporting-dollar-through-equities",
+    "ts": 1794865324000,
+    "tags": []
+   },
+   {
+    "t": "Hedge Funds Slash Bullish Bets on US Diesel to January Low",
+    "tt": "Hedge Fonları ABD Dizelindeki Yükseliş Bahislerini Ocak ayının En Düşük Seviyesine Düşürdü",
+    "s": "Hedge funds cut net-long diesel bets to the lowest since January, a sign that a historic squeeze on the fuel that powers the economy may finally be easing.",
+    "ss": "Hedge fonları, net uzun dizel yatırımlarını Ocak ayından bu yana en düşük seviyesine indirdi; bu, ekonomiye güç veren yakıt üzerindeki tarihi daralmanın sonunda hafifleyebileceğinin bir işareti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/hedge-funds-slash-bullish-bets-on-us-diesel-to-january-low",
+    "ts": 1794865069000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Market",
+    "tt": "Huang'ın devrilmesi piyasanın üzerinde belirirken Nvidia'nın kazançları bir yan gösteri",
+    "s": "Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker.",
+    "ss": "Nvidia Corp.'un kazancı, dünyanın en önemli yapay zeka çip üreticisi için belki de mümkün olan en tuhaf zamana ulaştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
+    "ts": 1794864701000,
+    "tags": []
+   },
+   {
     "t": "How Ethiopia’s Gas-Car Ban Sparked an EV Boom",
     "tt": "Etiyopya'nın Gazlı Araba Yasağı EV Patlamasını Nasıl Ateşledi?",
-    "s": "Ethiopia became the first country to ban imports of gasoline-powered cars in 2024. Today, its EV share outpaces the global average, but the road ahead is uncertain. Can Ethiopia’s bet on EVs pay off? (Source: Bloomberg)",
+    "s": "Ethiopia became the first country to ban imports of gasoline-powered cars in 2024. Today, its EV share outpaces the global average, but the road ahead is uncertain. Can Ethiopia’s bet on EVs pay off? (Corrects the spelling of Mia Mottley) (Source: Bloomberg)",
     "ss": "Etiyopya, 2024 yılında benzinle çalışan otomobil ithalatını yasaklayan ilk ülke oldu. Bugün elektrikli araç payı küresel ortalamanın üzerinde ancak önümüzdeki yol belirsiz. Etiyopya'nın elektrikli araçlara yönelik iddiası işe yarayabilir mi? (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-02/how-ethiopia-s-gas-car-ban-sparked-an-ev-boom-video",
     "ts": 1793628238000,
     "tags": []
-   },
-   {
-    "t": "Lula Worries Slam Brazil Markets From Real to Corporate Debt",
-    "tt": "Lula, Brezilya Piyasalarının Reel Borçtan Kurumsal Borca Dönüşmesinden Endişeli",
-    "s": "Brazilian assets slumped on Monday, with the real touching its lowest level since April 2025, as mounting doubts over the government’s fiscal plans fueled expectations that interest rates will stay elevated for longer.",
-    "ss": "Brezilya'nın varlıkları, hükümetin mali planlarına ilişkin artan şüphelerin faiz oranlarının daha uzun süre yüksek kalacağı beklentilerini artırmasıyla Pazartesi günü düşüş yaşadı ve reel Nisan 2025'ten bu yana en düşük seviyesine dokundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
-    "ts": 1794850896000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq 100 Tumbles for Third Day With Nvidia Earnings on Horizon",
-    "tt": "Nasdaq 100, Nvidia Kazançları ve Antropik Halka Arzla Düştü",
-    "s": "Tech stocks extended their slump on Monday as investors remained skittish around the AI trade ahead of Nvidia Corp. earnings and the expected initial public offering of Anthropic PBC this week.",
-    "ss": "Teknoloji hisseleri, Nvidia Corp.'un kazançları ve Anthropic PBC'nin bu hafta beklenen ilk halka arzı öncesinde yatırımcıların yapay zeka ticareti konusunda çekingen davranmasıyla Pazartesi günü düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
-    "ts": 1794855064000,
-    "tags": []
-   },
-   {
-    "t": "RBNZ Flags Growing Private Credit Risks in Real Estate Finance",
-    "tt": "RBNZ, Gayrimenkul Finansmanında Artan Özel Kredi Risklerini İşaretledi",
-    "s": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
-    "ss": "Yeni Zelanda merkez bankası, özel kredilerin ülke ekonomisinde, özellikle de emlak geliştirme ve ticari gayrimenkul finansmanında artan rolünden kaynaklanan artan risklere dikkat çekti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
-    "ts": 1794863844000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic Fervor, Vanguard's 'Hot Sauce,' \"ETIFs\" Emerge",
-    "tt": "Antropik Coşku, Vanguard'ın 'Acı Sosu', 'ETIF'ler Ortaya Çıkıyor",
-    "s": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Raymond James Vice President of ETF Strategy Mayuranki De, ETF.com President & Director of Research Dave Nadig, Vanguard Head of ET",
-    "ss": "\"Bloomberg ETF IQ\", küresel borsa yatırım fonları endüstrisindeki trilyonlarca dolara bağlı fırsatlara, risklere ve mevcut eğilimlere odaklanıyor. Bugünün konukları: Raymond James ETF Stratejisinden Sorumlu Başkan Yardımcısı Mayuranki De, ETF.com Başkanı ve Araştırma Direktörü Dave Nadig, Vanguard ET Başkanı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-16/etf-iq-11-16-2026-video",
-    "ts": 1794863218000,
-    "tags": []
-   },
-   {
-    "t": "Braskem Creditors Shun Company’s Latest Offer, Discuss New Plan",
-    "tt": "Braskem Alacaklıları Shun Şirketinin Son Teklifi, Yeni Planı Tartışın",
-    "s": "Creditors of Braskem SA shunned the company’s latest proposal to restructure its debts, people familiar with the matter said, leaving the parties with few days to work out a deal and avoid a bankruptcy protection filing.",
-    "ss": "Konuya yakın kaynaklar, Braskem SA'nın alacaklılarının şirketin borçlarını yeniden yapılandırmaya yönelik son teklifini reddettiğini ve taraflara bir anlaşmaya varmaları ve iflas koruma başvurusu yapmaktan kaçınmaları için birkaç gün kaldığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/braskem-creditors-shun-company-s-latest-offer-discuss-new-plan",
-    "ts": 1794863134000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-    "tt": "Nvidia ve Antropik Testler Beklerken Teknoloji Hisseleri Kayıyor: Piyasalar Sarılıyor",
-    "s": "A selloff in technology stocks carried into a new week as Wall Street traders geared up for Nvidia Corp.’s high-stakes earnings and Anthropic PBC’s expected market debut in the coming days.",
-    "ss": "Yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin önümüzdeki günlerde beklenen piyasaya çıkışı öncesinde riskli bahislerden kaçınmasıyla teknoloji hisselerindeki satışlar yeni haftaya da taşındı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794780692000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic IPO Is Creating Luxury Home Buyers, Says Realtor Serhant",
-    "tt": "Emlakçı Serhant, Antropik Halka Arzın Lüks Ev Alıcıları Yarattığını Söyledi",
-    "s": "Real estate broker and reality television star Ryan Serhant talks about the housing market in the US, where some hot markets are and why buyers are willing to pay premium prices. He also says the expected Anthropic initial public offering is triggering sales of luxury homes across the country. He sp",
-    "ss": "Emlak komisyoncusu ve realite televizyon yıldızı Ryan Serhant, bazı sıcak pazarların bulunduğu ABD'deki konut piyasasından ve alıcıların neden yüksek fiyatlar ödemeye istekli olduklarından bahsediyor. Ayrıca beklenen Antropik ilk halka arzın ülke çapında lüks ev satışlarını tetiklediğini söyledi. O sp",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-16/anthropic-ipo-is-creating-luxury-home-buyers-serhant-video",
-    "ts": 1794861934000,
-    "tags": []
-   },
-   {
-    "t": "Uruguay Central Bank Keeps Interest Rate at 6%, Maintains Expansive Policy",
-    "tt": "Uruguay Merkez Bankası Faiz Oranını %6'da Tuttu, Genişleme Politikasını Sürdürdü",
-    "s": "Uruguay’s central bank held its benchmark interest rate unchanged at 6% on Monday, saying its decision to maintain an expansive monetary stance was consistent with keeping inflation and inflation expectations near the target.",
-    "ss": "Uruguay merkez bankası Pazartesi günü gösterge faiz oranını değiştirmeyerek yüzde 6'da tuttu ve genişlemeci parasal duruşu sürdürme kararının enflasyon ve enflasyon beklentilerini hedefe yakın tutmakla tutarlı olduğunu söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/uruguay-central-bank-holds-key-rate-at-6-says-policy-expansive",
-    "ts": 1794861418000,
-    "tags": []
-   },
-   {
-    "t": "ETF Market Saturated With Degen Products: Nadig",
-    "tt": "ETF Piyasası Degen Ürünlerine Doydu: Nadig",
-    "s": "Dave Nadig, president & director of Research at ETF.com, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the slowdown in leveraged ETFs. (Source: Bloomberg)",
-    "ss": "ETF.com Araştırma Başkanı ve Direktörü Dave Nadig, \"Bloomberg ETF IQ\" programında Isabelle Lee ve Eric Balchunas'a katılıyor. Kaldıraçlı ETF'lerdeki yavaşlamayı tartışıyorlar. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-16/etf-market-saturated-with-degen-products-nadig-video",
-    "ts": 1794860164000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "tt": "JPMorgan Chase, geçici yazılım hatasının tüketici bankacılığını etkilediğini söyledi",
+    "s": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+    "ss": "CNBC'den Eamon Javers, olaya kötü aktörlerin karıştığına dair bir belirti bulunmadığını ve aynı şekilde bir hatanın aynı anda birden fazla bankayı etkilediğine dair de bir belirti bulunmadığını bildirdi.",
+    "u": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "ts": 1794867287000,
+    "tags": []
+   },
    {
     "t": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
     "tt": "Fed Başkanı Kevin Warsh yapay zekanın ekonomi için önemini vurguladı ancak bunun 'hayal kırıklığı yaratabileceğini' söyledi",
@@ -680,7 +699,7 @@
     "s": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
     "ss": "Petrol fiyatları, dördüncü çeyrekte petrolde fazlalık olacağını öngören tahminlerle düşüyor",
     "u": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "ts": 1794862288000,
+    "ts": 1794867542000,
     "tags": [
      "Petrol ▼",
      "DXY ▼",
@@ -750,23 +769,63 @@
     "u": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
     "ts": 1794510325000,
     "tags": []
-   },
-   {
-    "t": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-    "tt": "Trump'ın İran anlaşmasına gerek olmadığını söylemesinin ardından petrol fiyatları yükseldi: 'Onların Boğazı bizde'",
-    "s": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-    "ss": "Petrol fiyatları Perşembe günü, Başkan Donald Trump'ın ABD-İran savaşının sona ermesinin ufukta görünmediğine dair endişeleri artırmasının ardından sert bir yükseliş yaşadı.",
-    "u": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-    "ts": 1794528079000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
    }
   ],
   "MarketWatch": [
+   {
+    "t": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+    "tt": "FDA, biyoteknolojinin en yakından izlenen kanser ilaçlarından birini onaylamayı reddetti. Şirketin hisseleri düştü.",
+    "s": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
+    "ss": "Düzenleyici, Summit Therapeutics'e akciğer kanseri ilacının insanların daha uzun yaşamasına yardımcı olabileceğini kanıtlaması gerektiğini söyledi.",
+    "u": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+    "ts": 1794867660000,
+    "tags": []
+   },
+   {
+    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "tt": "'Tadımı ekşitiyor': Yaşlı annem, kuzenimize araba tamiri için 800 dolar verdi. Endişelenmeli miyim?",
+    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "ss": "\"Yaşlı insanların kolaylıkla küçümsendiklerini hissedebileceklerini biliyorum ve bunun olmasını istemiyorum.\"",
+    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "ts": 1794866880000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia’s stock extends decline following harsh words from the U.S. government",
+    "tt": "Nvidia'nın hisseleri ABD hükümetinin sert sözlerinin ardından düşüşünü sürdürüyor",
+    "s": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
+    "ss": "Ticaret Bakanlığı, Çin'in gelişmiş çiplere uzaktan erişimini kısıtlamayı amaçlayan yeni bir kural duyurdu.",
+    "u": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+    "ts": 1794865980000,
+    "tags": []
+   },
+   {
+    "t": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
+    "tt": "Chase, Bank of America ve diğer ABD bankalarının müşterileri hizmet kesintilerini bildiriyor",
+    "s": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
+    "ss": "Bazı müşteriler hesaplarına erişemediklerini veya para çekemediklerini söylüyor.",
+    "u": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+    "ts": 1794865740000,
+    "tags": []
+   },
+   {
+    "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
+    "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+    "ss": "\"Yorgunum. Alarmım sabah 6'da çalıyor ve işe gidip gelmem için 50 dakikam var.\"",
+    "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "ts": 1794865500000,
+    "tags": []
+   },
+   {
+    "t": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
+    "tt": "Şimdi ağ oluşturmanın tam zamanı. İşte utanç duymadan bir e-postanın nasıl gönderileceği.",
+    "s": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+    "ss": "Beyaz yakalı işler için işe alım genellikle Kasım ve Aralık aylarında azalır, bu nedenle bunun yerine ağınıza \"soğuk e-postalar\" göndermeyi deneyin.",
+    "u": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+    "ts": 1794865200000,
+    "tags": []
+   },
    {
     "t": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
     "tt": "Nadir toprak stokları daha da kırmızıya gömülüyor. İşte en son katalizör.",
@@ -789,15 +848,6 @@
     ]
    },
    {
-    "t": "Customers of Chase, Bank of America and other U.S. banks report service outages",
-    "tt": "Chase, Bank of America ve diğer ABD bankalarının müşterileri hizmet kesintilerini bildiriyor",
-    "s": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
-    "ss": "Bazı müşteriler hesaplarına erişemediklerini veya para çekemediklerini söylüyor.",
-    "u": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
-    "ts": 1794863760000,
-    "tags": []
-   },
-   {
     "t": "Nvidia investors will be clamoring for these answers during a historic earnings call",
     "tt": "Nvidia yatırımcıları tarihi kazanç çağrısı sırasında bu yanıtları talep edecek",
     "s": "There’s a lot that Nvidia investors want to know about the post-Jensen Huang era — although management is likely to be tight-lipped on the topic of succession.",
@@ -814,54 +864,45 @@
     "u": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
     "ts": 1794861960000,
     "tags": []
-   },
-   {
-    "t": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-    "tt": "FDA, biyoteknolojinin en yakından izlenen kanser ilaçlarından birini onaylamayı reddetti. Şirketin hisseleri düştü.",
-    "s": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-    "ss": "Düzenleyici, Summit Therapeutics'e akciğer kanseri ilacının insanların daha uzun yaşamasına yardımcı olabileceğini kanıtlaması gerektiğini söyledi.",
-    "u": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-    "ts": 1794861660000,
-    "tags": []
-   },
-   {
-    "t": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
-    "tt": "SpaceX roketçiliğin 'kutsal kasesini' denemek üzere",
-    "s": "“It’s hard to overstate the significance” of the Starship launch scheduled to take place on Friday, analyst says",
-    "ss": "Analist, Cuma günü gerçekleşmesi planlanan Starship lansmanının \"önemini abartmanın zor\" olduğunu söylüyor",
-    "u": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
-    "ts": 1794860640000,
-    "tags": []
-   },
-   {
-    "t": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
-    "tt": "Jensen Huang'ın hayranları onun Nvidia CEO'su olarak geri dönmesini istiyor. Bu yüzden bu pek olası değil.",
-    "s": "Corporate-governance experts point to issues that would make a triumphant return difficult.",
-    "ss": "Kurumsal yönetim uzmanları, başarılı bir geri dönüşü zorlaştıracak konulara işaret ediyor.",
-    "u": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
-    "ts": 1794860220000,
-    "tags": []
-   },
-   {
-    "t": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
-    "tt": "Tahvil piyasasında volatilite giderek artıyor. Yatırımcılar için yeni normal olabilir.",
-    "s": "If the AI trade falters, investors have “insurance” in the former of bonds with a longer duration, says David Royal at Thrivent",
-    "ss": "Thrivent'ten David Royal, yapay zeka ticaretinin sekteye uğraması halinde yatırımcıların daha uzun vadeli tahvillerle \"sigortaya\" sahip olacağını söylüyor",
-    "u": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
-    "ts": 1794857640000,
-    "tags": []
-   },
-   {
-    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-    "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
-    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-    "ss": "“Eğer kocamdan önce ölürsem, ona benim aylık maaşımın yüzde 50-66’sı kadar ömür boyu emekli maaşı verilecek.”",
-    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-    "ts": 1794857460000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Trump Says Kim Jong Un \"May Come\" To China: \"That's Up To President Xi\"",
+    "tt": "Trump, Kim Jong Un'un Çin'e \"Gelebileceğini\" Söyledi: \"Bu Başkan Xi'ye Bağlı\"",
+    "s": "Trump Says Kim Jong Un \"May Come\" To China: \"That's Up To President Xi\" Authored by Timothy Frudd via The Epoch Times , U.S. President Donald Trump said on Nov. 16 that he may meet with North Korean leader Kim Jong Un during his trip to the Asia-Pacific Economic Cooperation summit in Shenzhen, China",
+    "ss": "Trump, Kim Jong Un'un Çin'e \"Gelebileceğini\" Söyledi: \"Bu Başkan Xi'ye Bağlı\" The Epoch Times aracılığıyla Timothy Frudd tarafından yazılan ABD Başkanı Donald Trump, 16 Kasım'da Çin'in Shenzhen kentindeki Asya-Pasifik Ekonomik İşbirliği zirvesine yapacağı gezi sırasında Kuzey Kore lideri Kim Jong Un ile görüşebileceğini söyledi.",
+    "u": "https://www.zerohedge.com/geopolitical/trump-says-kim-jong-un-may-come-china-thats-president-xi",
+    "ts": 1794867600000,
+    "tags": []
+   },
+   {
+    "t": "Hillary Clinton Names The Actual 'Leader Of The Free World'",
+    "tt": "Hillary Clinton, 'Özgür Dünyanın Gerçek Lideri' Adını Verdi",
+    "s": "Hillary Clinton Names The Actual 'Leader Of The Free World' Hillary Clinton has found a new \"leader of the free world,\" and he doesn't live in the White House. Asked by MS NOW's Rachel Maddow whether anyone holds the title right now, the former secretary of state answered, \"Maybe Mark Carney.\" The e",
+    "ss": "Hillary Clinton, 'Özgür Dünyanın Gerçek Lideri'ni Adlandırdı Hillary Clinton, \"özgür dünyanın yeni liderini\" buldu ve o, Beyaz Saray'da yaşamıyor. MS NOW'dan Rachel Maddow'un şu anda bu unvanı elinde bulunduran birisinin olup olmadığı sorusuna eski dışişleri bakanı \"Belki Mark Carney\" yanıtını verdi. e",
+    "u": "https://www.zerohedge.com/political/hillary-clinton-names-actual-leader-free-world",
+    "ts": 1794866400000,
+    "tags": []
+   },
+   {
+    "t": "\"No Evidence It's Cyber-Related\": JPMorgan Is Working To Fix Temporary Outage Due To \"Technical Issue\"",
+    "tt": "Büyük ABD Bankaları Hizmet Kesintisi Raporlarıyla Karşı Karşıya",
+    "s": "\"No Evidence It's Cyber-Related\": JPMorgan Is Working To Fix Temporary Outage Due To \"Technical Issue\" Update (1700ET) : JPMorgan Chase &amp; Co.&nbsp;said some transactions are taking longer to process than normal as the bank grapples with a \"technical issue.\" The bank said a \"temporary issue relat",
+    "ss": "Büyük ABD Bankaları Hizmet Kesintisi Raporlarıyla Karşı Karşıya Büyük finansal kuruluşlardaki potansiyel hizmet kesintilerine ilişkin raporlar bu öğleden sonra X'te ortaya çıktı. Bu durum, siber tehditlere ilişkin endişelerin arttığı, dünya çapındaki hükümetlerin vatandaşlara yiyecek stoklamalarını söylediği ve Bill Gates'in uyarılarının olduğu bir dönemde gerçekleşti.",
+    "u": "https://www.zerohedge.com/personal-finance/major-us-banks-hit-reports-service-disruptions",
+    "ts": 1794866100000,
+    "tags": []
+   },
+   {
+    "t": "Reality Isn't What It Used To Be...",
+    "tt": "Gerçeklik Eskisi Gibi Değil...",
+    "s": "Reality Isn't What It Used To Be... Authored by James Howard Kunstler via Kunstler.com , Slip Slidin' Away \"America has now shifted beyond ordinary political quarreling and into the dark territory of a real constitutional crisis.\"&nbsp; - Jeff Childers Reality isn't what it used to be: a baseline co",
+    "ss": "Gerçeklik Eskisi Gibi Değil... Yazan: James Howard Kunstler, Kunstler.com aracılığıyla, Slip Slidin' Away \"Amerika artık sıradan siyasi tartışmaların ötesine geçti ve gerçek bir anayasal krizin karanlık bölgesine geçti.\"  - Jeff Childers Reality artık eskisi gibi değil: temel bir ortak çalışma",
+    "u": "https://www.zerohedge.com/political/reality-isnt-what-it-used-be",
+    "ts": 1794865200000,
+    "tags": []
+   },
    {
     "t": "\"They Are F**king Terrified\": White House Demands Sign-Off Before Any Federal Employee Testifies To Congress",
     "tt": "\"Onlar Dehşete Düşüyorlar\": Beyaz Saray, Herhangi Bir Federal Çalışanın Kongrede İfade Vermesinden Önce İmza İstiyor",
@@ -915,45 +956,36 @@
     "u": "https://www.zerohedge.com/geopolitical/foreign-students-are-ditching-us-colleges-and-tuition-money-goes-them",
     "ts": 1794858900000,
     "tags": []
-   },
-   {
-    "t": "Lame-Duck Republicans Sabotaging Trump's Judicial Confirmation Blitz",
-    "tt": "Topal Ördek Cumhuriyetçiler Trump'ın Adli Onayı Baskınını Sabote Ediyor",
-    "s": "Lame-Duck Republicans Sabotaging Trump's Judicial Confirmation Blitz President Trump is pressing Senate Republicans to confirm his pending judicial nominees before Democrats take control of the chamber in January , the same lame-duck judicial strategy Democrats used to seat Joe Biden's judges in 202",
-    "ss": "Topal Ördek Cumhuriyetçiler Trump'ın Adli Onayı Baskınını Sabote Ediyor Başkan Trump, Demokratlar Ocak ayında meclisin kontrolünü ele geçirmeden önce, beklemede olan yargı adaylarını onaylamak için Senato Cumhuriyetçilerine baskı yapıyor; Demokratların 202'de Joe Biden'ın yargıçlarını oturtmak için kullandıkları topal ördek yargı stratejisinin aynısı",
-    "u": "https://www.zerohedge.com/political/lame-duck-republicans-sabotaging-trumps-judicial-confirmation-blitz",
-    "ts": 1794858000000,
-    "tags": []
-   },
-   {
-    "t": "Supreme Court To Consider Trump's Asylum Restrictions At Southern Border",
-    "tt": "Yüksek Mahkeme, Trump'ın Güney Sınırındaki İltica Kısıtlamalarını Değerlendirecek",
-    "s": "Supreme Court To Consider Trump's Asylum Restrictions At Southern Border Authored by Jack Phillips via The Epoch Times , The U.S. Supreme Court on Friday agreed to take up a case challenging whether President Donald Trump's administration has the authority to bar asylum applications from people who ",
-    "ss": "Yüksek Mahkeme, Trump'ın Güney Sınırındaki İltica Kısıtlamalarını Değerlendirecek Jack Phillips tarafından The Epoch Times aracılığıyla yazılmıştır, ABD Yüksek Mahkemesi Cuma günü, Başkan Donald Trump yönetiminin, Güney Sınırındaki kişilerin sığınma başvurularını yasaklama yetkisine sahip olup olmadığını sorgulayan bir davayı ele almayı kabul etti.",
-    "u": "https://www.zerohedge.com/political/supreme-court-consider-trumps-asylum-restrictions-southern-border",
-    "ts": 1794856200000,
-    "tags": []
-   },
-   {
-    "t": "Major US Banks Hit With Reports Of Service Disruptions",
-    "tt": "Büyük ABD Bankaları Hizmet Kesintisi Raporlarıyla Karşı Karşıya",
-    "s": "Major US Banks Hit With Reports Of Service Disruptions Reports of potential service disruptions at major financial institutions emerged on X early this afternoon. This comes amid heightened concern over cyber threats, governments worldwide telling citizens to stockpile food, and Bill Gates' warnings",
-    "ss": "Büyük ABD Bankaları Hizmet Kesintisi Raporlarıyla Karşı Karşıya Büyük finansal kuruluşlardaki potansiyel hizmet kesintilerine ilişkin raporlar bu öğleden sonra X'te ortaya çıktı. Bu durum, siber tehditlere ilişkin endişelerin arttığı, dünya çapındaki hükümetlerin vatandaşlara yiyecek stoklamalarını söylediği ve Bill Gates'in uyarılarının olduğu bir dönemde gerçekleşti.",
-    "u": "https://www.zerohedge.com/personal-finance/major-us-banks-hit-reports-service-disruptions",
-    "ts": 1794855780000,
-    "tags": []
-   },
-   {
-    "t": "Once-Bitter Rivals Forge The Most \"Consequential\" Alliance Of Trump's Second Term",
-    "tt": "Bir Zamanların Acı Rakipleri, Trump'ın İkinci Döneminin En \"Sonuçlu\" İttifakını Kuruyor",
-    "s": "Once-Bitter Rivals Forge The Most \"Consequential\" Alliance Of Trump's Second Term Secretary of State Marco Rubio and White House Chief of Staff Stephen Miller have gone from bitter political enemies to powerful allies , forging what The Wall Street Journal describes as \"one of the most under-the-rad",
-    "ss": "Bir Zamanların Acı Rakipleri, Trump'ın İkinci Dönem Dışişleri Bakanı Marco Rubio ve Beyaz Saray Özel Kalem Müdürü Stephen Miller'ın En \"Sonuçlu\" İttifakını Kurdular; The Wall Street Journal'ın \"en gözden kaçanlardan biri\" olarak tanımladığı şeyi oluşturarak, amansız siyasi düşmanlardan güçlü müttefiklere dönüştüler.",
-    "u": "https://www.zerohedge.com/political/once-bitter-rivals-forge-most-consequential-alliance-trumps-second-term-wsj",
-    "ts": 1794855300000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "OpenAI, çocuk istismarı görüntülerini tespit etmek için yeni araç geliştirdi",
+    "tt": null,
+    "s": "OpenAI, yapay zeka ile üretilenler de dahil olmak üzere çevrim içi çocuk istismarı görüntülerini tespit etmek için geliştirdiği aracı onaylı kuruluşlara ücretsiz sunacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/openai-cocuk-istismari-goruntulerini-tespit-etmek-icin-yeni-arac-gelistirdi-3794809",
+    "ts": 1794866530000,
+    "tags": []
+   },
+   {
+    "t": "Fon soruşturmasında 21 şirkete kayyum atandı",
+    "tt": null,
+    "s": "Fon soruşturması kapsamında 21 şirkete TMSF'nin kayyum olarak atanmasına karar verildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fon-sorusturmasinda-21-sirkete-kayyum-atandi-3794808",
+    "ts": 1794865430000,
+    "tags": []
+   },
+   {
+    "t": "Intel'e yatırımcıları yanılttığı iddiasıyla toplu dava",
+    "tt": null,
+    "s": "Intel'e, PC pazarındaki yavaşlamanın ve tedarik sorunlarının gelirlerine etkisini yatırımcılardan gizlediği iddiasıyla dava açıldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/intel-e-yatirimcilari-yanilttigi-iddiasiyla-toplu-dava-3794807",
+    "ts": 1794864467000,
+    "tags": []
+   },
    {
     "t": "Fitch: Kuzey Amerika'nın kredi görünümü kötüleşiyor",
     "tt": null,
@@ -1015,33 +1047,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-de-bazi-bankalarin-dijital-hizmetlerinde-erisim-sorunu-bildirildi-3794800",
     "ts": 1794859026000,
-    "tags": []
-   },
-   {
-    "t": "Hindistan, dizel ve jet yakıtı ihracatında vergileri artırdı",
-    "tt": null,
-    "s": "Hindistan, dizel ihracatına uygulanan ek vergiyi litre başına 11,50 rupiden 14 rupiye, jet yakıtı ihracatındaki vergiyi ise 11 rupiden 12,50 rupiye yükseltti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hindistan-dizel-ve-jet-yakiti-ihracatinda-vergileri-artirdi-3794798",
-    "ts": 1794857078000,
-    "tags": []
-   },
-   {
-    "t": "Kanada Merkez Bankası'nda Macklem dönemi Haziran 2027'de sona erecek",
-    "tt": null,
-    "s": "Kanada Merkez Bankası Başkanı Tiff Macklem, yedi yıllık görev süresinin dolacağı Haziran 2027'de görevinden ayrılacağını açıkladı. Banka, yeni başkanı belirlemek için bir komite kuracağını ve sürecin 2027 baharında tamamlanmasını beklediğini bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kanada-merkez-bankasi-nda-macklem-donemi-haziran-2027-de-sona-erecek-3794791",
-    "ts": 1794856286000,
-    "tags": []
-   },
-   {
-    "t": "Trump, Huang'ın Nvidia'ya dönmesine karşı olmadığını söyledi",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, 12 Kasım'da istifa eden Jensen Huang'ın yeniden Nvidia CEO'su olmasına karşı olmadığını söyledi. Trump, Huang'ın dönüşüne ilişkin soruya \"Benim için sorun olmaz\" yanıtını verdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-huang-in-nvidia-ya-donmesine-karsi-olmadigini-soyledi-3794789",
-    "ts": 1794854083000,
     "tags": []
    }
   ]
