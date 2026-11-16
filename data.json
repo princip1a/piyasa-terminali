@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-16T18:43:10.681084+00:00",
+ "generated": "2026-11-16T19:46:55.538911+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7417.69,
-   "c": -1.9,
-   "d": -143.98,
+   "p": 7401.96,
+   "c": -2.11,
+   "d": -159.71,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24509.537,
-   "c": -2.49,
-   "d": -626.733,
+   "p": 24475.568,
+   "c": -2.63,
+   "d": -660.702,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 51650.31,
-   "c": -1.33,
-   "d": -697.241,
+   "p": 51516.07,
+   "c": -1.59,
+   "d": -831.481,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 22.96,
-   "c": 18.96,
-   "d": 3.66,
+   "p": 23.53,
+   "c": 21.92,
+   "d": 4.23,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3850.7,
-   "c": -0.92,
-   "d": -35.6,
+   "p": 3868.3,
+   "c": -0.46,
+   "d": -18.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 46.745,
-   "c": -4.66,
-   "d": -2.286,
+   "p": 47.1,
+   "c": -3.94,
+   "d": -1.931,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.68,
-   "c": -3.25,
-   "d": -2.88,
+   "p": 85.64,
+   "c": -3.3,
+   "d": -2.92,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.65,
-   "c": -3.33,
-   "d": -3.19,
+   "p": 92.4,
+   "c": -3.59,
+   "d": -3.44,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.601,
-   "c": 0.18,
-   "d": 0.191,
+   "p": 103.503,
+   "c": 0.09,
+   "d": 0.093,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.3835,
+   "p": 50.3842,
    "c": 0.2,
    "d": 0.102,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64937,
-   "c": 0.64,
+   "p": 64746,
+   "c": -0.31,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1826.91,
-   "c": 1.17,
+   "p": 1812.95,
+   "c": -0.67,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.46,
-   "c": 0.52,
+   "p": 71.0,
+   "c": -1.09,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.961783,
-   "c": 1.63,
+   "p": 0.952632,
+   "c": -0.75,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 590.83,
-   "c": 0.23,
+   "p": 589.67,
+   "c": -0.35,
    "k": "usd"
   }
  ],
@@ -544,41 +544,75 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Giant Aluminum Squeeze Is Stress Test for LME’s Anti-Abuse Rules",
-    "tt": "Dev Alüminyum Sıkma, LME'nin Kötüye Kullanımla Mücadele Kuralları İçin Stres Testidir",
-    "s": "The London Metal Exchange’s rules to prevent squeezes from wreaking havoc with the market are being given an extreme stress test — this time in aluminum.",
-    "ss": "Londra Metal Borsası'nın, sıkışmaların piyasaya zarar vermesini önlemeye yönelik kuralları, bu kez alüminyumda aşırı bir stres testine tabi tutuluyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/giant-aluminum-squeeze-is-stress-test-for-lme-s-anti-abuse-rules",
-    "ts": 1794835598000,
+    "t": "ETF Launches Blow Past IPOs: Slavin",
+    "tt": null,
+    "s": "Ben Slavin, managing director, global head of ETFs at BNY, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss how ETF launches have surpassed IPOs and his firms efforts in tokenization. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/etf-launches-blow-past-ipos-slavin-video",
+    "ts": 1794858514000,
     "tags": []
    },
    {
-    "t": "GSA, Calpers Buy £600 Million Student Housing Portfolio",
-    "tt": "GSA, Calpers 600 Milyon £ Öğrenci Konutu Portföyü Satın Aldı",
-    "s": "Global Student Accommodation and the California Public Employees’ Retirement System bought a majority stake in a portfolio of student dormitories for about £600 million from a UK housing association.",
-    "ss": "Küresel Öğrenci Konaklama ve Kaliforniya Kamu Çalışanları Emeklilik Sistemi, bir öğrenci yurtları portföyünün çoğunluk hissesini Birleşik Krallık'taki bir konut birliğinden yaklaşık 600 milyon £ karşılığında satın aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/gsa-buys-600-million-student-housing-portfolio-from-sanctuary",
-    "ts": 1794819660000,
+    "t": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
+    "tt": "Lula, Brezilya Piyasalarını Reel Tahvillerden Kurumsal Tahvillere Yönelik Eğiliminden Endişeli",
+    "s": "Brazilian assets slumped on Monday, with the real touching its lowest level since April 2025, as mounting doubts over the government’s fiscal plans fueled expectations that interest rates will stay elevated for longer.",
+    "ss": "Brezilya varlıkları, yatırımcıların Başkan Luiz Inácio Lula da Silva yönetimi altında ülkenin mali görünümüne ilişkin endişelerini sürdürürken bir zemin arayışına devam etmesiyle genel olarak düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
+    "ts": 1794850896000,
     "tags": []
    },
    {
-    "t": "Dollar Erases Liberation Day Loss as ‘Sell America’ Fear Fades",
-    "tt": "Dolar, 'Amerika'yı Sat' Korkusunun Azalmasıyla Kurtuluş Günü Kaybını Sildi",
-    "s": "The dollar has recovered all of its decline since President Donald Trump announced tariffs on so-called Liberation Day. A resilient economy, rising interest rates and the artificial intelligence boom have boosted the US currency’s appeal.",
-    "ss": "Dolar, Başkan Donald Trump'ın sözde Kurtuluş Günü'nde tarifeleri açıklamasından bu yana yaşadığı tüm düşüşleri toparladı. Dayanıklı bir ekonomi, artan faiz oranları ve yapay zeka patlaması ABD para biriminin çekiciliğini artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/dollar-erases-liberation-day-loss-as-sell-america-fear-fades",
-    "ts": 1794853446000,
-    "tags": [
-     "DXY ▼"
-    ]
+    "t": "Citigroup Pulls $400 Million Loan for IT Provider UST Global",
+    "tt": null,
+    "s": "A group of banks led by Citigroup Inc. has pulled a debt deal for UST Global Inc. from the syndicated loan market after lenders did not attract enough demand from investors.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-pulls-400-million-loan-for-it-provider-ust-global",
+    "ts": 1794858142000,
+    "tags": []
    },
    {
-    "t": "Cambridge Associates & KBW Ventures on Investing in 2027",
-    "tt": "Cambridge Associates ve KBW Ventures 2027'de Yatırım Konusunda",
-    "s": "David Druley, CEO of Cambridge Associates and Ekta Tolani, Chief Investment Officer, KBW Ventures discuss asset allocation, investment opportunities and areas of risk heading into 2027 with Bloomberg’s Farah Elbahrawy at Bloomberg Invest Dubai 2026. (Source: Bloomberg)",
-    "ss": "Cambridge Associates CEO'su David Druley ve KBW Ventures Yatırım Direktörü Ekta Tolani, Bloomberg Invest Dubai 2026'da Bloomberg'den Farah Elbahrawy ile varlık tahsisi, yatırım fırsatları ve 2027'ye giden risk alanlarını tartışıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-12/cambridge-associates-kbw-ventures-on-investing-in-2027-video",
-    "ts": 1794479996000,
+    "t": "AI and 24-Hour Trading Test Rules Governing Currency Markets",
+    "tt": null,
+    "s": "The rapid growth of artificial intelligence and round-the-clock trading is raising questions about whether rules governing the $9.5 trillion foreign-exchange market can keep pace with technological change.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/ai-and-24-hour-trading-test-rules-governing-currency-markets",
+    "ts": 1794858134000,
+    "tags": []
+   },
+   {
+    "t": "Big Test Ahead For Equity Appetite: Nadig",
+    "tt": null,
+    "s": "Dave Nadig, president & director of Research at ETF.com, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss private markets and the upcoming IPO for Anthropic. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/big-test-ahead-for-equity-appetite-nadig-video",
+    "ts": 1794858096000,
+    "tags": []
+   },
+   {
+    "t": "Virgin Media O2 Downgraded by Moody’s on Turnaround Concerns",
+    "tt": null,
+    "s": "Virgin Media O2’s credit grade was cut one level by Moody’s Ratings amid continued uncertainty over the timing and pace of the UK telecom’s turnaround efforts.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/virgin-media-o2-downgraded-by-moody-s-on-turnaround-concerns",
+    "ts": 1794857686000,
+    "tags": []
+   },
+   {
+    "t": "Retail Investors Trying To Buy Chip Dip: Mayuranki De",
+    "tt": null,
+    "s": "Mayuranki De, vice president of Raymond James, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the volatility in chip stocks, the upcoming Anthropic IPO, active ETFs. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/retail-investors-trying-to-buy-chip-dip-mayuranki-de-video",
+    "ts": 1794857563000,
+    "tags": []
+   },
+   {
+    "t": "Fed's Hammack Prefers Moving Rates in Smaller Increments",
+    "tt": null,
+    "s": "Federal Reserve Bank of Cleveland President Beth Hammack says she favors smaller moves in rates but if an inflation mindset sets in the central bank might need to make bigger moves. She speaks with Michael McKee on Bloomberg Television. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-16/fed-s-hammack-prefers-moving-rates-in-smaller-increments-video",
+    "ts": 1794857004000,
     "tags": []
    },
    {
@@ -591,48 +625,12 @@
     "tags": []
    },
    {
-    "t": "US Shale Producers Take a Chance on Going Without Hedges",
-    "tt": "ABD Kaya Petrolü Üreticileri Riskten Korunmadan Devam Etme Şansını Denedi",
-    "s": "Oil producers in the US shale patch are souring on hedges that took the sheen off an otherwise stellar quarter, in a bet that stronger balance sheets will be enough to weather a price collapse.",
-    "ss": "ABD kaya petrolü bölgesindeki petrol üreticileri, daha güçlü bilançoların fiyat çöküşünü atlatmak için yeterli olacağı iddasıyla, normalde parlak bir çeyreğin parlaklığını ortadan kaldıran korumalardan zarar görüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/us-oil-producers-sour-on-hedges-as-stronger-finances-offer-cover",
-    "ts": 1794852231000,
-    "tags": []
-   },
-   {
-    "t": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
-    "tt": "Lula, Brezilya Piyasalarını Reel Tahvillerden Kurumsal Tahvillere Yönelik Eğiliminden Endişeli",
-    "s": "Brazilian assets slumped across the board as traders continue to search for a floor while fretting over the outlook for the nation’s finances under President Luiz Inácio Lula da Silva.",
-    "ss": "Brezilya varlıkları, yatırımcıların Başkan Luiz Inácio Lula da Silva yönetimi altında ülkenin mali görünümüne ilişkin endişelerini sürdürürken bir zemin arayışına devam etmesiyle genel olarak düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
-    "ts": 1794850896000,
-    "tags": []
-   },
-   {
-    "t": "Lilly Pushes Buying Spree Beyond $32B With Calytrix Deal",
-    "tt": "Lilly, Calytrix Anlaşmasıyla Satın Alma Çılgınlığını 32 Milyar Doların Ötesine İlerletiyor",
-    "s": "Eli Lilly & Co. agreed to buy closely held Calytrix Bio Inc. in a deal that could be worth up to $1.5 billion, the latest in the drugmaker’s $32 billion wave of acquisitions in 2026 as it builds out its cancer and immunology businesses. Sam Fazeli, Bloomberg Intelligence, Director of Research for Gl",
-    "ss": "Eli Lilly & Co., değeri 1,5 milyar dolara kadar çıkabilen bir anlaşmayla yakından sahip olunan Calytrix Bio Inc.'i satın almayı kabul etti; bu, ilaç üreticisinin kanser ve immünoloji işlerini kurarken 2026'da gerçekleştirdiği 32 milyar dolarlık satın alma dalgasının en sonuncusu. Sam Fazeli, Bloomberg Intelligence, Gl Araştırma Direktörü",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-16/lilly-pushes-buying-spree-beyond-32b-with-calytrix-deal-video",
-    "ts": 1794849921000,
-    "tags": []
-   },
-   {
-    "t": "European Stocks Drop Over AI Concerns as Tech Sector Tumbles",
-    "tt": "Teknoloji Sektörü Düşerken Avrupa Hisse Senetleri Yapay Zeka Kaygılarını Düşürdü",
-    "s": "European stocks reversed gains to trade lower as lingering concerns over the artificial-intelligence trade spurred declines in technology shares.",
-    "ss": "Avrupa borsaları, yapay zeka ticaretine ilişkin süregelen endişelerin teknoloji hisselerinde düşüşlere yol açmasıyla kazançlarını tersine çevirerek düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/european-stocks-fluctuate-as-ai-concerns-keep-investors-on-edge",
-    "ts": 1794816461000,
-    "tags": []
-   },
-   {
-    "t": "Canadian Natural to Buy Advantage Energy Amid Oil Price Boom",
-    "tt": "Kanadalı Doğal Petrol Fiyatlarındaki Artış Ortasında Avantajlı Enerji Alacak",
-    "s": "Canadian Natural Resources agreed to acquire Advantage Energy Ltd. for C$2.255 billion ($1.6 billion), adding to a string of deals in the country’s oil and gas industry as conflicts in the Middle East and Ukraine boost demand for alternative supplies.",
-    "ss": "Canadian Natural Resources, Advantage Energy Ltd.'yi 2,255 milyar C$ (1,6 milyar $) karşılığında satın almayı kabul ederek, Orta Doğu ve Ukrayna'daki çatışmaların alternatif kaynaklara olan talebi artırması nedeniyle ülkenin petrol ve gaz endüstrisindeki bir dizi anlaşmaya katkıda bulundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/canadian-natural-buys-advantage-energy-to-boost-alberta-assets",
-    "ts": 1794822667000,
+    "t": "Macquarie Warns of Data Center Exuberance Amid Capex Super Cycle",
+    "tt": null,
+    "s": "Macquarie Asset Management boss Ben Way signaled that the risk of missteps in data center investing is rising, a warning from the Australian finance juggernaut that manages more than half a trillion dollars and has a track record of well-timed exits in the sector.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/macquarie-warns-of-data-center-exuberance-amid-capex-super-cycle",
+    "ts": 1794855600000,
     "tags": []
    }
   ],
@@ -647,12 +645,12 @@
     "tags": []
    },
    {
-    "t": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
+    "t": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
     "tt": "ABD ham petrolü Orta Doğu ihracatının toparlanmasıyla varil başına 87 dolara geriledi",
     "s": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
     "ss": "Petrol fiyatları, dördüncü çeyrekte petrolde fazlalık olacağını öngören tahminlerle düşüyor",
     "u": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "ts": 1794845859000,
+    "ts": 1794856405000,
     "tags": [
      "Petrol ▼",
      "DXY ▼",
@@ -740,6 +738,45 @@
   ],
   "MarketWatch": [
    {
+    "t": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
+    "tt": null,
+    "s": "If the AI trade falters, investors have “insurance” in the former of bonds with a longer duration, says David Royal at Thrivent",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
+    "ts": 1794857640000,
+    "tags": []
+   },
+   {
+    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "tt": null,
+    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "ts": 1794857460000,
+    "tags": []
+   },
+   {
+    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "tt": null,
+    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "ts": 1794855600000,
+    "tags": []
+   },
+   {
+    "t": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+    "tt": null,
+    "s": "Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
+    "ts": 1794855240000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
     "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
     "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
@@ -792,45 +829,45 @@
     "u": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
     "ts": 1794847020000,
     "tags": []
-   },
-   {
-    "t": "I am turning 18 next month and want to start investing. What do I do first?",
-    "tt": "Gelecek ay 18 yaşına giriyorum ve yatırıma başlamak istiyorum. İlk önce ne yapacağım?",
-    "s": "“I have not tried investing before.”",
-    "ss": "“Daha önce yatırım yapmayı denemedim.”",
-    "u": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
-    "ts": 1794846000000,
-    "tags": []
-   },
-   {
-    "t": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
-    "tt": "SpaceX, teknoloji satışlarının hisselerini olumsuz etkilemesine rağmen uzay yarışındaki liderliğini genişletiyor",
-    "s": "SpaceX had a mostly successful Starship launch, while an Amazon partner hit a setback.",
-    "ss": "SpaceX, Starship lansmanını çoğunlukla başarılı bir şekilde gerçekleştirirken, Amazon ortağı bir aksilik yaşadı.",
-    "u": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
-    "ts": 1794844740000,
-    "tags": []
-   },
-   {
-    "t": "These 13 S&P 500 stocks can rise up to 70% over the next year, according to analysts",
-    "tt": "Analistlere göre bu 13 S&P 500 hissesi gelecek yıl yüzde 70'e kadar yükselebilir",
-    "s": "Consensus earnings estimates have continued to increase, especially for semiconductor manufacturers whose share have declined significantly since the end of September, which underscores several calls for investors to load up on stocks.",
-    "ss": "Konsensüs kazanç tahminleri, özellikle Eylül ayının sonundan bu yana payları önemli ölçüde düşen yarı iletken üreticileri için artmaya devam etti; bu da yatırımcılara hisse senedi yüklemeleri yönünde birçok çağrının altını çiziyor.",
-    "u": "https://www.marketwatch.com/story/these-13-s-p-500-stocks-can-rise-up-to-70-over-the-next-year-according-to-analysts-21119af9?mod=mw_rss_topstories",
-    "ts": 1794844020000,
-    "tags": []
-   },
-   {
-    "t": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
-    "tt": "FDA, biyoteknolojinin en yakından izlenen kanser ilaçlarından birini onaylamayı reddetti",
-    "s": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-    "ss": "Düzenleyici, Summit Therapeutics'e akciğer kanseri ilacının insanların daha uzun yaşamasına yardımcı olabileceğini kanıtlaması gerektiğini söyledi.",
-    "u": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-    "ts": 1794841560000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Lame-Duck Republicans Sabotaging Trump's Judicial Confirmation Blitz",
+    "tt": null,
+    "s": "Lame-Duck Republicans Sabotaging Trump's Judicial Confirmation Blitz President Trump is pressing Senate Republicans to confirm his pending judicial nominees before Democrats take control of the chamber in January , the same lame-duck judicial strategy Democrats used to seat Joe Biden's judges in 202",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/lame-duck-republicans-sabotaging-trumps-judicial-confirmation-blitz",
+    "ts": 1794858000000,
+    "tags": []
+   },
+   {
+    "t": "Supreme Court To Consider Trump's Asylum Restrictions At Southern Border",
+    "tt": null,
+    "s": "Supreme Court To Consider Trump's Asylum Restrictions At Southern Border Authored by Jack Phillips via The Epoch Times , The U.S. Supreme Court on Friday agreed to take up a case challenging whether President Donald Trump's administration has the authority to bar asylum applications from people who ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/supreme-court-consider-trumps-asylum-restrictions-southern-border",
+    "ts": 1794856200000,
+    "tags": []
+   },
+   {
+    "t": "Major US Banks Hit With Reports Of Service Disruptions",
+    "tt": null,
+    "s": "Major US Banks Hit With Reports Of Service Disruptions Reports of potential service disruptions at major financial institutions emerged on X early this afternoon. This comes amid heightened concern over cyber threats, governments worldwide telling citizens to stockpile food, and Bill Gates' warnings",
+    "ss": null,
+    "u": "https://www.zerohedge.com/personal-finance/major-us-banks-hit-reports-service-disruptions",
+    "ts": 1794855780000,
+    "tags": []
+   },
+   {
+    "t": "Once-Bitter Rivals Forge The Most \"Consequential\" Alliance Of Trump's Second Term",
+    "tt": null,
+    "s": "Once-Bitter Rivals Forge The Most \"Consequential\" Alliance Of Trump's Second Term Secretary of State Marco Rubio and White House Chief of Staff Stephen Miller have gone from bitter political enemies to powerful allies , forging what The Wall Street Journal describes as \"one of the most under-the-rad",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/once-bitter-rivals-forge-most-consequential-alliance-trumps-second-term-wsj",
+    "ts": 1794855300000,
+    "tags": []
+   },
    {
     "t": "Trump Tells Advisers He Won't Escalate War Against Iran Unless Provoked By Iran, Houthis",
     "tt": "Trump, Danışmanlarına İran ve Husiler Tarafından Kışkırtılmadıkça İran'a Karşı Savaşı Arttırmayacağını Söyledi",
@@ -884,45 +921,27 @@
     "u": "https://www.zerohedge.com/technology/gta-vi-preorders-top-wall-streets-expectations-ahead-thursday-launch-brace-gta-flu-13",
     "ts": 1794848100000,
     "tags": []
-   },
-   {
-    "t": "Texas Democrat Governor-Elect Vows To Strip Hamas-Tied CAIR's Terror Designation",
-    "tt": "Teksas'ın Seçilmiş Demokrat Valisi, Hamas'la Bağlantılı CAIR'in Terör Tanımını Kaldırma Sözü Verdi",
-    "s": "Texas Democrat Governor-Elect Vows To Strip Hamas-Tied CAIR's Terror Designation Authored by Catherine Salgado via PJ Media , Gina Hinojosa, the Democrat no one ever heard of who supposedly won the Texas gubernatorial race, is already taking the mask off about siding with foreign jihadis. Gov. Greg ",
-    "ss": "Teksas'ın Seçilmiş Demokrat Valisi, Hamas'a Bağlı CAIR'in Terör Tanımını Kaldırma Sözü Verdi Catherine Salgado, PJ Media aracılığıyla, Teksas valilik yarışını kimin kazandığını iddia eden, kimsenin adını duymadığı Demokrat Gina Hinojosa, yabancı cihatçıların yanında yer alma konusundaki maskesini şimdiden çıkarıyor. Vali Greg",
-    "u": "https://www.zerohedge.com/political/texas-democrat-governor-elect-vows-strip-hamas-tied-cairs-terror-designation",
-    "ts": 1794847200000,
-    "tags": []
-   },
-   {
-    "t": "US Attorney Lobs A Tomahawk At Elizabeth Warren's Anti-Trump Investigations",
-    "tt": "ABD'li Avukat, Elizabeth Warren'ın Trump Karşıtı Soruşturmalarına Tomahawk Attı",
-    "s": "US Attorney Lobs A Tomahawk At Elizabeth Warren's Anti-Trump Investigations Authored by Matt Margolis via PJ Media , When Sen. Elizabeth Warren (D-Mass.) started plotting to turn congressional oversight into a weapon against President Donald Trump's associates, U.S. Attorney Aaron Reitz promptly put",
-    "ss": "ABD Başsavcısı, Elizabeth Warren'ın Trump Karşıtı Soruşturmalarına Tomahawk Attı Yazan: Matt Margolis, PJ Media aracılığıyla, Senatör Elizabeth Warren (D-Mass.), Kongre gözetimini Başkan Donald Trump'ın ortaklarına karşı bir silaha dönüştürmek için komplo kurmaya başladığında, ABD Başsavcısı Aaron Reitz derhal harekete geçti.",
-    "u": "https://www.zerohedge.com/political/us-attorney-lobs-tomahawk-elizabeth-warrens-anti-trump-investigations",
-    "ts": 1794845400000,
-    "tags": []
-   },
-   {
-    "t": "Key Events This Busy Week: NVDA Eernings, Anthropic IPO, Retail Sales, US-China Summit, Fed Speakers Galore And Much More",
-    "tt": "Bu Yoğun Haftanın Önemli Olayları: NVDA Eernings, Antropik Halka Arz, Perakende Satışlar, ABD-Çin Zirvesi, Çok Sayıda Fed Konuşmacısı ve Çok Daha Fazlası",
-    "s": "Key Events This Busy Week: NVDA Eernings, Anthropic IPO, Retail Sales, US-China Summit, Fed Speakers Galore And Much More Brace for another rollercoaster week.&nbsp; As DB's Jim Reid notes, the week ahead has plenty to keep markets occupied after Waller’s 50bps thunderbolt last week and the stronger",
-    "ss": "Bu Yoğun Haftanın Önemli Olayları: NVDA Eernings, Antropik Halka Arz, Perakende Satışlar, ABD-Çin Zirvesi, Fed Konuşmacılarının Bolluğu ve Çok Daha Fazlası Bir başka inişli çıkışlı haftaya hazırlık.  DB'den Jim Reid'in belirttiği gibi, Waller'ın geçen haftaki 50 baz puanlık yıldırımı ve daha güçlü yükselişin ardından önümüzdeki hafta piyasaları meşgul edecek çok şey var",
-    "u": "https://www.zerohedge.com/economics/key-events-busy-week-nvda-eernings-anthropic-ipo-retail-sales-us-china-summit-fed",
-    "ts": 1794844800000,
-    "tags": []
-   },
-   {
-    "t": "\"Identity Confirmed\": Meet The New James Bond",
-    "tt": "\"Kimlik Onaylandı\": Yeni James Bond'la Tanışın",
-    "s": "\"Identity Confirmed\": Meet The New James Bond At 10 a.m. ET, the official James Bond X account confirmed the identity of the new actor playing the secret agent for the first time in 20 years: Robert Pattinson will replace the 58-year-old Daniel Craig . Robert Pattinson is James Bond pic.twitter.com/",
-    "ss": "\"Kimlik Onaylandı\": Yeni James Bond'la Tanışın Saat 10:00'da resmi James Bond X hesabı, 20 yıl sonra ilk kez gizli ajanı canlandıran yeni aktörün kimliğini doğruladı: Robert Pattinson, 58 yaşındaki Daniel Craig'in yerini alacak. Robert Pattinson James Bond'dur pic.twitter.com/",
-    "u": "https://www.zerohedge.com/markets/identity-confirmed-meet-new-james-bond",
-    "ts": 1794844200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Hindistan, dizel ve jet yakıtı ihracatında vergileri artırdı",
+    "tt": null,
+    "s": "Hindistan, dizel ihracatına uygulanan ek vergiyi litre başına 11,50 rupiden 14 rupiye, jet yakıtı ihracatındaki vergiyi ise 11 rupiden 12,50 rupiye yükseltti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/hindistan-dizel-ve-jet-yakiti-ihracatinda-vergileri-artirdi-3794798",
+    "ts": 1794857078000,
+    "tags": []
+   },
+   {
+    "t": "Kanada Merkez Bankası'nda Macklem dönemi Haziran 2027'de sona erecek",
+    "tt": null,
+    "s": "Kanada Merkez Bankası Başkanı Tiff Macklem, yedi yıllık görev süresinin dolacağı Haziran 2027'de görevinden ayrılacağını açıkladı. Banka, yeni başkanı belirlemek için bir komite kuracağını ve sürecin 2027 baharında tamamlanmasını beklediğini bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kanada-merkez-bankasi-nda-macklem-donemi-haziran-2027-de-sona-erecek-3794791",
+    "ts": 1794856286000,
+    "tags": []
+   },
    {
     "t": "Trump, Huang'ın Nvidia'ya dönmesine karşı olmadığını söyledi",
     "tt": null,
@@ -994,29 +1013,10 @@
     "u": "https://www.bloomberght.com/ing-cop31-de-enerji-donusumunu-ve-turkiye-nin-firsatlarini-ele-aldi-3794781",
     "ts": 1794842345000,
     "tags": []
-   },
-   {
-    "t": "Tesla, Almanya'daki fabrikasına 3 milyar euroluk yatırım yapacak",
-    "tt": null,
-    "s": "ABD'li elektrikli otomobil üreticisi Tesla, yerel otomobil üreticilerinin yüksek maliyetler ve düşük taleple mücadele ettiği bir dönemde, Almanya'nın başkenti Berlin yakınlarındaki Grünheide fabrikasını genişletmek için 3 milyar euro yatırım yapacağını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tesla-almanya-daki-fabrikasina-3-milyar-euroluk-yatirim-yapacak-3794779",
-    "ts": 1794840164000,
-    "tags": []
-   },
-   {
-    "t": "Norveç: Avrupa'da nükleer kaza riski son 40 yılın en yüksek seviyesinde",
-    "tt": null,
-    "s": "Norveç'te yayın yapan NRK'ye konuşan Vestre, Avrupa'da birçok ülkenin nükleer kaza risklerine endişeyle yaklaştığını ifade ederek, bu riskin son 40 yılın en yüksek seviyesinde olduğunu söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/norvec-avrupa-da-nukleer-kaza-riski-son-40-yilin-en-yuksek-seviyesinde-3794774",
-    "ts": 1794838494000,
-    "tags": []
    }
   ]
  },
  "errors": {
-  "crypto": "429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Cethereum%2Csolana%2Cripple%2Cbinanc",
   "fred:DFF": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS10": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
@@ -1028,6 +1028,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://www.google.com/sorry/index?continue=https://tra",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
