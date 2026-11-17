@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T22:42:16.079432+00:00",
+ "generated": "2026-11-17T23:39:28.831956+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3851.9,
-   "c": -0.03,
-   "d": -1.1,
+   "p": 3856.9,
+   "c": 0.1,
+   "d": 3.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.29,
-   "c": 1.08,
-   "d": 0.505,
+   "p": 47.345,
+   "c": 1.2,
+   "d": 0.56,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.61,
-   "c": -0.13,
-   "d": -0.11,
+   "p": 85.91,
+   "c": 0.22,
+   "d": 0.19,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.07,
-   "c": 0.68,
-   "d": 0.63,
+   "p": 93.47,
+   "c": 1.11,
+   "d": 1.03,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.563,
-   "c": 0.01,
-   "d": 0.013,
+   "p": 103.598,
+   "c": 0.05,
+   "d": 0.048,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4278,
-   "c": 0.17,
-   "d": 0.088,
+   "p": 50.4145,
+   "c": 0.15,
+   "d": 0.074,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64750,
-   "c": -0.89,
+   "p": 64928,
+   "c": -0.01,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1812.65,
-   "c": -1.0,
+   "p": 1823.22,
+   "c": 0.36,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.9,
-   "c": 2.75,
+   "p": 75.03,
+   "c": 5.5,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.97191,
-   "c": 1.18,
+   "p": 0.98521,
+   "c": 3.56,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 592.99,
-   "c": -0.15,
+   "p": 595.72,
+   "c": 0.97,
    "k": "usd"
   }
  ],
@@ -584,21 +584,63 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Nasdaq, S&P 500 Futures Rise After Nvidia Earnings: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Düşüyor, Nvidia Satış Görünümü İyi: Piyasalar Sarılıyor",
+    "s": "US equity-index futures rose after Nvidia Corp.’s sales forecast topped Wall Street estimates, easing concerns about the artificial intelligence trade after a recent bout of weakness.",
+    "ss": "Asya hisse senetleri, teknoloji sektörüne ilişkin endişelerin devam etmesiyle ABD hisse senetlerindeki satışların derinleşmesinin ardından Çarşamba günü düşüşe hazırlanıyor. Nvidia Corp., piyasa kapandıktan sonra Wall Street'in beklentilerini aşan bir satış tahmini yayınladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794953228000,
+    "tags": []
+   },
+   {
+    "t": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
+    "tt": "Altın, Faiz Artışı Baskısı Arttıkça 14 Ayın En Düşük Seviyesinde Durdu",
+    "s": "Gold was steady near a 14-month low, after Federal Reserve officials argued the case for more rate hikes to tackle stubborn inflation.",
+    "ss": "Altın, Fed yetkililerinin inatçı enflasyonla mücadele için daha fazla faiz artışı yapılması gerektiğini savunmasının ardından 14 ayın en düşük seviyesinde yatay seyrediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+    "ts": 1794958432000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 18",
+    "tt": "18 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil steadied as traders assessed renewed fighting in the Middle East against signs of recovering supplies and higher US inventories.",
+    "ss": "Petrol fiyatları, tüccarların Orta Doğu'da arzın toparlandığına ve ABD stoklarındaki artışa ilişkin işaretlere karşı yeniden başlayan mücadeleyi değerlendirmesiyle yatay seyretti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
+    "ts": 1794956493000,
+    "tags": []
+   },
+   {
+    "t": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
+    "tt": "Fidelity, Hazine Tahvillerinin Yüzde 6 Oranında Bile 'Çok Ucuz' Olamadığını Söyledi",
+    "s": "The recent selloff in Treasuries has sparked debate about buying opportunities, but Fidelity International’s Salman Ahmed reckons that even a 6% yield wouldn’t make the 10-year note “massively cheap.”",
+    "ss": "Hazine tahvillerindeki son satış, satın alma fırsatlarına ilişkin tartışmaları ateşledi ancak Fidelity International'dan Salman Ahmed, %6'lık bir getirinin bile 10 yıllık tahvili \"çok ucuz\" yapmayacağını düşünüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/fidelity-says-even-at-6-treasuries-fail-to-be-massively-cheap",
+    "ts": 1794956400000,
+    "tags": []
+   },
+   {
+    "t": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
+    "tt": "Apollo'dan Rowan, Sigortanın 8 Trilyon Dolarlık Yapay Zeka Patlamasını Güçlendireceğini Söyledi",
+    "s": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan said insurance and retirement capital will power an AI buildout that could demand as much as $8 trillion of financing.",
+    "ss": "Apollo Global Management Inc. İcra Kurulu Başkanı Marc Rowan, sigorta ve emeklilik sermayesinin 8 trilyon dolara kadar finansman gerektirebilecek bir yapay zeka yapısına güç sağlayacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
+    "ts": 1794955744000,
+    "tags": []
+   },
+   {
     "t": "Putin Arrives in China for Trump, Xi Meeting",
     "tt": "Putin, Trump ve Xi Görüşmesi İçin Çin'e Geldi",
     "s": "Vladimir Putin arrived in Shenzhen Wednesday ahead of his meeting with Presidents Xi Jinping and Donald Trump during the annual APEC assembly on Thursday. (Source: Bloomberg)",
     "ss": "Vladimir Putin, Perşembe günü yapılacak yıllık APEC toplantısı sırasında Başkanlar Xi Jinping ve Donald Trump ile yapacağı görüşme öncesinde Çarşamba günü Shenzhen'e geldi. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
     "ts": 1794954804000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Düşüyor, Nvidia Satış Görünümü İyi: Piyasalar Sarılıyor",
-    "s": "Asian stocks were poised for declines Wednesday after a selloff in US equities deepened as concerns over the technology sector persisted. Nvidia Corp. delivered a sales forecast that topped Wall Street expectations after the market closed.",
-    "ss": "Asya hisse senetleri, teknoloji sektörüne ilişkin endişelerin devam etmesiyle ABD hisse senetlerindeki satışların derinleşmesinin ardından Çarşamba günü düşüşe hazırlanıyor. Nvidia Corp., piyasa kapandıktan sonra Wall Street'in beklentilerini aşan bir satış tahmini yayınladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794953228000,
     "tags": []
    },
    {
@@ -635,42 +677,6 @@
     "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
     "ts": 1794866811000,
-    "tags": []
-   },
-   {
-    "t": "Treasuries Rise as Risk-Aversion Stokes Demand for Bonds",
-    "tt": "Riskten Kaçınmanın Tahvil Talebi Artırmasıyla Hazine Tahvilleri Yükseldi",
-    "s": "Treasuries gained as investors, alarmed by the latest in a series of technology breakdowns over the past week, flocked to US government debt as a haven from stocks.",
-    "ss": "Geçtiğimiz hafta yaşanan bir dizi teknolojik çöküşün sonuncusundan alarma geçen yatırımcıların hisse senetlerinden korunmak için ABD devlet borçlarına akın etmesiyle hazine tahvilleri değer kazandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
-    "ts": 1794932784000,
-    "tags": []
-   },
-   {
-    "t": "Treasury Buyback Operation Nets Smallest Amount Since Expansion",
-    "tt": "Hazine Geri Alım Operasyonu Genişlemeden Bu Yana En Küçük Tutarı Getirdi",
-    "s": "The Treasury Department bought back the smallest amount of long-dated debt in months during an operation Tuesday.",
-    "ss": "Hazine Bakanlığı Salı günü gerçekleştirdiği operasyonla aylardır görülen en küçük uzun vadeli borcu geri aldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasury-buyback-operation-nets-smallest-amount-since-expansion",
-    "ts": 1794949742000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stocks Drop for Fourth Day Ahead of Crucial Nvidia Earnings",
-    "tt": "Teknoloji Hisseleri, Önemli Nvidia Kazançları Öncesinde Dördüncü Gün Düştü",
-    "s": "US stocks slumped for a fourth straight day as investors looked to an all-important earnings release from Nvidia Corp. after the market close to potentially help restore confidence in the artificial-intelligence trade.",
-    "ss": "ABD hisse senetleri, yatırımcıların yapay zeka ticaretine olan güveni yeniden tesis etmeye potansiyel olarak yardım etmek için piyasa kapanışının ardından Nvidia Corp.'tan gelecek çok önemli kazanç açıklamasına bakmalarıyla üst üste dördüncü günde de düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
-    "ts": 1794921215000,
-    "tags": []
-   },
-   {
-    "t": "Treasuries’ Big Short Sets Up ‘Pain Trade’ as Haven Bid Ramps Up",
-    "tt": "Hazine Tahvillerinin Büyük Açılısı, Liman İhalesi Artarken 'Acı Ticaretini' Başlatıyor",
-    "s": "Bond traders risk facing a short squeeze after reloading bearish positions, as renewed jitters around artificial intelligence and a spate of technical disruptions reignite a flight to safety.",
-    "ss": "Tahvil yatırımcıları, düşüş pozisyonlarını yeniden yükledikten sonra, yapay zeka etrafında yenilenen gerginlikler ve bir dizi teknik aksaklığın güvenliğe kaçışı yeniden alevlendirmesiyle kısa süreli bir sıkışmayla karşı karşıya kalma riskiyle karşı karşıya kalıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
-    "ts": 1794948087000,
     "tags": []
    }
   ],
@@ -773,6 +779,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
+    "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+    "ss": "\"Yorgunum. Alarmım sabah 6'da çalıyor ve işe gidip gelmem için 50 dakikam var.\"",
+    "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "ts": 1794958200000,
+    "tags": []
+   },
+   {
+    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
+    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+    "ss": "“Eğer kocamdan önce ölürsem, ona benim aylık maaşımın yüzde 50-66’sı kadar ömür boyu emekli maaşı verilecek.”",
+    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "ts": 1794957300000,
+    "tags": []
+   },
+   {
+    "t": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
+    "tt": "Analistler, müşterilerin mal stoklaması nedeniyle Costco'nun \"kıyamet endişelerinden\" faydalandığını söylüyor",
+    "s": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
+    "ss": "Mizuho analistleri, Microsoft'un kesintisi ve ülke çapında uçuşların durdurulmasının ardından depo zincirinde \"acil durum hazırlık satışlarında bir hızlanma\" gördü.",
+    "u": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+    "ts": 1794955560000,
+    "tags": []
+   },
+   {
     "t": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
     "tt": "'Düpedüz kirli': Kardeşim, hasta annemizin hayatını ve mali durumunu devraldı. Ne yapabilirim?",
     "s": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
@@ -840,36 +873,27 @@
     "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
     "ts": 1794949200000,
     "tags": []
-   },
-   {
-    "t": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
-    "tt": "FDA'nın akciğer kanseri ilacı için yeni bir deneme önermesiyle Summit Therapeutics'in hisseleri yeniden düştü",
-    "s": "The U.S. regulator’s disclosure was more extensive than what the biotech company had announced Sunday.",
-    "ss": "ABD düzenleyicisinin açıklaması, biyoteknoloji şirketinin Pazar günü duyurduğu açıklamadan daha kapsamlıydı.",
-    "u": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
-    "ts": 1794949080000,
-    "tags": []
-   },
-   {
-    "t": "The U.S.’s classified national-security communications network experiences tech outage",
-    "tt": "En son teknoloji hatası: ABD'nin gizli ulusal güvenlik iletişim ağı",
-    "s": "A reported outage of a classified U.S. communications network has become the latest in a string of technology disruptions impacting consumers, businesses and the government.",
-    "ss": "Gizli bir ABD iletişim ağında bildirilen kesinti, tüketicileri, işletmeleri ve hükümeti etkileyen giderek artan teknoloji kesintileri dizisinin en sonuncusu oldu.",
-    "u": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
-    "ts": 1794948300000,
-    "tags": []
-   },
-   {
-    "t": "Private equity has been buying up hospice centers — with striking consequences",
-    "tt": "Özel sermaye bakımevlerini satın alıyor - bunun çarpıcı sonuçları var",
-    "s": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
-    "ss": "Yeni araştırmalar, sağlık bakım maliyetlerinin daha yüksek olduğunu ve hastaların özel sermaye şirketlerinin sahip olduğu bakımevlerinde daha uzun süre kaldıklarını ortaya çıkardı.",
-    "u": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-    "ts": 1794948000000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Ro Khanna Wants Democrats To Pass $1,700 'Iran War' Rebate Checks In Their First Week Of Control",
+    "tt": "Ro Khanna, Demokratların Kontrollerinin İlk Haftasında 1.700 Dolarlık 'İran Savaşı' İndirim Çeklerini Geçmesini İstiyor",
+    "s": "Ro Khanna Wants Democrats To Pass $1,700 'Iran War' Rebate Checks In Their First Week Of Control Authored by Jack Phillips via The Epoch Times , A House Democratic lawmaker called on members of his party to pass a $1,700 Iran war-related rebate check to Americans in the first week after Democrats ta",
+    "ss": "Ro Khanna, Demokratların İlk Kontrol Haftasında 1.700 Dolarlık 'İran Savaşı'na İlişkin İndirim Çeklerini Geçmelerini İstiyor Jack Phillips tarafından The Epoch Times aracılığıyla yazılmıştır, Temsilciler Meclisi Demokratlarından bir milletvekili, partisinin üyelerini, Demokratlar'ın İran savaşıyla ilgili 1.700 dolarlık indirim çekini Amerikalılara Demokratlar'ın onayından sonraki ilk haftada iletmeye çağırdı.",
+    "u": "https://www.zerohedge.com/political/ro-khanna-wants-democrats-pass-1700-iran-war-rebate-checks-their-first-week-control",
+    "ts": 1794958200000,
+    "tags": []
+   },
+   {
+    "t": "Beijing Bristles As US, 9 Allies Sign AI Supply Chain Pact Days Before Trump-Xi Summit",
+    "tt": "Pekin ABD ve 9 Müttefikin Trump-Xi Zirvesinden Günler Önce Yapay Zeka Tedarik Zinciri Paktını İmzalamasına Kızdı",
+    "s": "Beijing Bristles As US, 9 Allies Sign AI Supply Chain Pact Days Before Trump-Xi Summit Authored by Sean Tseng via The Epoch Times , The Chinese regime on Nov. 16 pushed back against a new U.S.-led pact to protect the technology and infrastructure behind artificial intelligence , a day after the Unit",
+    "ss": "Pekin, ABD ve 9 Müttefikin Yapay Zeka Tedarik Zinciri Paktı İmzalamasına Kızdı Trump-Xi Zirvesinden Günler Önce Sean Tseng tarafından The Epoch Times aracılığıyla yazıldı, Çin rejimi, 16 Kasım'da yapay zekanın arkasındaki teknoloji ve altyapıyı korumaya yönelik ABD öncülüğündeki yeni bir anlaşmaya, Birim'den bir gün sonra karşı çıktı.",
+    "u": "https://www.zerohedge.com/ai/beijing-bristles-us-9-allies-sign-ai-supply-chain-pact-days-trump-xi-summit",
+    "ts": 1794955800000,
+    "tags": []
+   },
    {
     "t": "Elon Musk Says Transportation Secretary Duffy Declined Free Starlink For FAA",
     "tt": "Elon Musk, Ulaştırma Bakanı Duffy'nin FAA İçin Ücretsiz Starlink Teklifini Reddettiğini Söyledi",
@@ -907,9 +931,9 @@
     "tags": []
    },
    {
-    "t": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75%",
+    "t": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance; Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75%",
     "tt": "Nvidia Üçüncü Çeyrek Kazançlarındaki Patlamadan Sonra Yükseliyor, Yıldız Yönlendirmesi Ancak Kazanç Çağrısı Görünüyor",
-    "s": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75% Update 5:10pm - Conference Call details The new management team didnt waste any time to cut to the chase: NVIDIA BOARD CHAIR SAYS FIRM DOESN'T PLAN TO REINSTATE HUANG \"WE WILL NOT",
+    "s": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance; Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75% Update 2: Summary of the call Update 5:10pm - Conference Call details The new management team didnt waste any time to cut to the chase: NVIDIA BOARD CHAIR SAYS FIRM DOESN'T PLAN T",
     "ss": "Nvidia Patlamanın Ardından Yükseliyor 3. Çeyrek Kazançları, Yıldız Rehberliği, Ancak Kazançlar Görünüyor Önizlememizde yazdığımız gibi, Nvidia bugün kazançlarını dikkate değer koşullar altında rapor ediyor. Geçen hafta CEO olarak işini kaybeden kurucu ortak Jensen Huang, 30 yılı aşkın tarihinde ilk kez olmayacak.",
     "u": "https://www.zerohedge.com/markets/nvidia-surges-after-blowout-q3-earnings-stellar-guidance-earnings-call-looms",
     "ts": 1794951446000,
@@ -941,27 +965,18 @@
     "u": "https://www.zerohedge.com/markets/nsas-spy-network-reportedly-goes-dark-sending-stocks-sliding",
     "ts": 1794949500000,
     "tags": []
-   },
-   {
-    "t": "Thanksgiving Travel Faces \"Severe Weather Risks\" As New Models Show Cold And Storm Threats Build",
-    "tt": "Yeni Modeller Soğuk ve Fırtına Tehditlerinin Arttığını Gösterirken Şükran Günü Seyahati \"Ciddi Hava Riskleriyle\" Karşı Karşıya",
-    "s": "Thanksgiving Travel Faces \"Severe Weather Risks\" As New Models Show Cold And Storm Threats Build Tens of millions of Americans are preparing to hit the roads or board planes in about one week to visit friends and family for Thanksgiving. But last weekend's nationwide FAA travel snafu might have some",
-    "ss": "Yeni Modeller Soğuk ve Fırtına Tehditlerini Gösterirken Şükran Günü Seyahati \"Ciddi Hava Riskleriyle\" Karşı Karşıya On milyonlarca Amerikalı, Şükran Günü için arkadaşlarını ve ailesini ziyaret etmek üzere yaklaşık bir hafta içinde yollara çıkmaya veya uçaklara binmeye hazırlanıyor. Ancak geçen hafta sonu ülke çapındaki FAA seyahat sorunu bazı noktalara sahip olabilir.",
-    "u": "https://www.zerohedge.com/weather/thanksgiving-travel-faces-severe-weather-risks-new-models-show-cold-and-storm-threats-build",
-    "ts": 1794948000000,
-    "tags": []
-   },
-   {
-    "t": "Cuba Braces For War After Trump Says He Wants It \"Done\" Before He Leaves Office",
-    "tt": "Trump, Görevden Ayrılmadan Önce İşin \"Bitmesini\" İstediğini Söyledikten Sonra Küba Savaşa Hazırlanıyor",
-    "s": "Cuba Braces For War After Trump Says He Wants It \"Done\" Before He Leaves Office Cuba's president says the island is preparing to fight off a US military attack , a day after President Trump said he would consider a short military campaign to settle the Cuba question before his term ends. Miguel Díaz",
-    "ss": "Trump, Görevden Ayrılmadan Önce Bunun \"Bitmesini\" İstediğini Söyledikten Sonra Küba Savaşa Hazırlanıyor Küba başkanı, Başkan Trump'ın görev süresi sona ermeden Küba sorununu çözmek için kısa bir askeri harekat düşüneceğini söylemesinden bir gün sonra, adanın bir ABD askeri saldırısına karşı koymaya hazırlandığını söyledi. Miguel Díaz",
-    "u": "https://www.zerohedge.com/geopolitical/cuba-braces-war-after-trump-says-he-wants-it-done-he-leaves-office",
-    "ts": 1794947100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Resmi Gazete'de bugün (18.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-18112026-3794936",
+    "ts": 1794955032000,
+    "tags": []
+   },
    {
     "t": "Adil Katılım Bankası'nın yönetimi TMSF'ye devredildi",
     "tt": null,
@@ -1041,15 +1056,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/nsa-gizli-agdaki-sorunu-rutin-bakima-bagladi-3794927",
     "ts": 1794946569000,
-    "tags": []
-   },
-   {
-    "t": "Fon soruşturmasında 7 şüpheli daha tutuklandı",
-    "tt": null,
-    "s": "İstanbul Cumhuriyet Başsavcılığının yürüttüğü fon soruşturmasında gözaltına alınan 17 şüpheliden 7'si tutuklandı, 10'u hakkında adli kontrol kararı verildi. Aynı soruşturmada sabah saatlerinde de 7 şüpheli tutuklanmıştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fon-sorusturmasinda-7-supheli-daha-tutuklandi-3794926",
-    "ts": 1794945904000,
     "tags": []
    }
   ]
