@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-17T18:45:05.711967+00:00",
+ "generated": "2026-11-17T19:54:00.859273+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7335.31,
-   "c": -1.1,
-   "d": -81.28,
+   "p": 7314.76,
+   "c": -1.37,
+   "d": -101.83,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24255.107,
-   "c": -1.04,
-   "d": -254.653,
+   "p": 24202.467,
+   "c": -1.25,
+   "d": -307.293,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50870.3,
-   "c": -1.43,
-   "d": -737.872,
+   "p": 50688.52,
+   "c": -1.78,
+   "d": -919.652,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 25.27,
-   "c": 10.3,
-   "d": 2.36,
+   "p": 26.13,
+   "c": 14.05,
+   "d": 3.22,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3864.9,
-   "c": 0.31,
-   "d": 11.9,
+   "p": 3851.9,
+   "c": -0.03,
+   "d": -1.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.47,
-   "c": 1.46,
-   "d": 0.685,
+   "p": 47.195,
+   "c": 0.88,
+   "d": 0.41,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.59,
-   "c": 1.01,
-   "d": 0.87,
+   "p": 85.74,
+   "c": 0.02,
+   "d": 0.02,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.56,
-   "c": 1.21,
-   "d": 1.12,
+   "p": 92.85,
+   "c": 0.44,
+   "d": 0.41,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.445,
-   "c": -0.1,
-   "d": -0.105,
+   "p": 103.458,
+   "c": -0.09,
+   "d": -0.092,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.101,
-   "c": -0.39,
-   "d": -0.02,
+   "p": 5.097,
+   "c": -0.47,
+   "d": -0.024,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.4097,
+   "p": 50.4116,
    "c": 0.14,
-   "d": 0.069,
+   "d": 0.071,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 63667,
-   "c": -1.92,
+   "p": 63732,
+   "c": -1.86,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1788.1,
-   "c": -1.61,
+   "p": 1789.78,
+   "c": -1.56,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.31,
-   "c": 1.6,
+   "p": 72.75,
+   "c": 2.04,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.955817,
-   "c": -0.26,
+   "p": 0.964728,
+   "c": 0.89,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 586.4,
-   "c": -0.61,
+   "p": 587.57,
+   "c": -0.57,
    "k": "usd"
   }
  ],
@@ -584,12 +584,48 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Nuclear Thriller Puts Spotlight on French Election Campaign",
-    "tt": "Nükleer Gerilim Fransa Seçim Kampanyasına Işık Tutuyor",
-    "s": "France is about to elect a new president with the power to launch a nuclear strike. The new film Jupiter imagines what happens next.",
-    "ss": "Fransa, nükleer saldırı başlatma yetkisine sahip yeni bir cumhurbaşkanı seçmek üzere. Yeni film Jüpiter bundan sonra ne olacağını hayal ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/nuclear-thriller-puts-spotlight-on-french-presidential-campaign",
-    "ts": 1794928982000,
+    "t": "Fed's Williams Doesn't See Need for 'Dramatic Action' on Rates",
+    "tt": "Fed'den Williams Faizlerde 'Dramatik Aksiyona' İhtiyaç Görmüyor",
+    "s": "Federal Reserve Bank of New York President John Williams says he's seeing drivers pushing up inflation, including AI, but not necessarily a broadening of it at the Axios BFD Annual Summit. (Source: Bloomberg)",
+    "ss": "New York Federal Rezerv Bankası Başkanı John Williams, Axios BFD Yıllık Zirvesi'nde yapay zeka da dahil olmak üzere enflasyonu yukarı çeken faktörlerin olduğunu ancak bunun genişletilmesinin şart olmadığını söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-williams-no-need-for-dramatic-action-on-rates-video",
+    "ts": 1794945107000,
+    "tags": []
+   },
+   {
+    "t": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
+    "tt": "Deutsche Bank, Veri Sızıntılarından Kaynaklanan Etkileri Önlemeye Çalışıyor",
+    "s": "Deutsche Bank sought to contain the fallout from a data leak which provided new details of payments tied to Jeffrey Epstein and efforts to expand its Russian business prior to the full scale invasion of Ukraine. Alex Morgan explains. (Source: Bloomberg)",
+    "ss": "Deutsche Bank, Jeffrey Epstein'la bağlantılı ödemelere ilişkin yeni ayrıntıların ve Ukrayna'nın tam kapsamlı işgali öncesinde Rusya'daki işlerini genişletme çabalarının ortaya çıktığı bir veri sızıntısından kaynaklanan sonuçları kontrol altına almaya çalıştı. Alex Morgan açıklıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
+    "ts": 1794944606000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stocks Sink Before Nvidia’s First Results After Huang Exit",
+    "tt": "Teknoloji Hisseleri, Nvidia'nın Huang Çıkışından Sonra İlk Sonuçları Öncesinde Düştü",
+    "s": "US stocks slumped for a fourth day as investors looked to an all-important earnings release from Nvidia Corp. after the market close to potentially help restore confidence in the artificial-intelligence trade.",
+    "ss": "ABD hisse senetleri, yatırımcıların yapay zeka ticaretine olan güveni yeniden tesis etmeye potansiyel olarak yardım etmek için piyasa kapanışının ardından Nvidia Corp.'un çok önemli kazanç açıklamasını beklemesiyle, teknoloji hisselerinin öncülüğünde dördüncü günde de düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
+    "ts": 1794921215000,
+    "tags": []
+   },
+   {
+    "t": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
+    "tt": "SpaceX'in Yapay Zeka Çiplerine İlişkin Borcu Bu Hafta En Yakın Zamanda Piyasaya Çıkacak",
+    "s": "SpaceX may kick off part of a $40 billion debt sale to fund its purchase of artificial intelligence chips as soon as this week, according to people with knowledge of the matter.",
+    "ss": "Konuyla ilgili bilgiye sahip kaynaklara göre SpaceX, yapay zeka çipleri alımını finanse etmek için 40 milyar dolarlık borç satışının bir kısmını bu haftadan itibaren başlatabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
+    "ts": 1794927190000,
+    "tags": []
+   },
+   {
+    "t": "Saks, Neiman Marcus Parent Company CEO Says Growth Plan Is on Track",
+    "tt": "Saks ve Neiman Marcus Ana Şirketin CEO'su Büyüme Planının Doğru Yolda Olduğunu Söyledi",
+    "s": "Exemplar Luxury Group CEO Geoffroy van Raemdonck says the Saks Fifth Avenue and Neiman Marcus parent company is profitable and aims to grow revenue from $7 billion to $9 billion. He talks about the demand for luxury goods, strengthening relationships with vendors and how the company is preparing for",
+    "ss": "Exemplar Luxury Group CEO'su Geoffroy van Raemdonck, Saks Fifth Avenue ve Neiman Marcus'un ana şirketinin kârlı olduğunu ve gelirini 7 milyar dolardan 9 milyar dolara çıkarmayı hedeflediğini söyledi. Lüks ürünlere olan talepten, satıcılarla ilişkilerin güçlendirilmesinden ve şirketin bu krize nasıl hazırlandığından bahsediyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/exemplar-luxury-ceo-says-growth-plan-is-on-track-video",
+    "ts": 1794923151000,
     "tags": []
    },
    {
@@ -599,6 +635,24 @@
     "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
     "ts": 1794866811000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Stock",
+    "tt": "Huang'ın devrilmesi stokların üzerinde belirirken Nvidia'nın kazançları ikincil gösteri",
+    "s": "Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker.",
+    "ss": "Nvidia Corp.'un kazancı, dünyanın en önemli yapay zeka çip üreticisi için belki de mümkün olan en tuhaf zamana ulaştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
+    "ts": 1794864701000,
+    "tags": []
+   },
+   {
+    "t": "Nuclear Thriller Puts Spotlight on French Election Campaign",
+    "tt": "Nükleer Gerilim Fransa Seçim Kampanyasına Işık Tutuyor",
+    "s": "France is about to elect a new president with the power to launch a nuclear strike. The new film Jupiter imagines what happens next.",
+    "ss": "Fransa, nükleer saldırı başlatma yetkisine sahip yeni bir cumhurbaşkanı seçmek üzere. Yeni film Jüpiter bundan sonra ne olacağını hayal ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/nuclear-thriller-puts-spotlight-on-french-presidential-campaign",
+    "ts": 1794928982000,
     "tags": []
    },
    {
@@ -617,60 +671,6 @@
     "ss": "Lucky Strike Entertainment Corp.'un hisseleri, kurucu Thomas Shannon'ın, hisselerinin rekor düşük seviyeye ulaştığı ve borçlarının sıkıntılı bölgeye düştüğü zorlu bir dönemden sonra şirketi özelleştirmeyi önermesinin ardından %22 arttı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/lucky-strike-ceo-makes-take-private-offer-as-loan-hits-distress",
     "ts": 1794928387000,
-    "tags": []
-   },
-   {
-    "t": "Oil Swings as Mideast Flareups Threaten Ample Supply Outlook",
-    "tt": "Ortadoğu'daki alevlenmelerin arzın rahat görünümünü tehdit etmesiyle petrol artıyor",
-    "s": "Oil prices swung in choppy trading as renewed fighting in the Middle East cast doubt on the staying power of an increasingly comfortable supply outlook.",
-    "ss": "Petrol, Orta Doğu'da yeniden başlayan çatışmaların giderek rahatlayan arz görünümünün kalıcılığına dair şüphe yaratmasıyla yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-    "ts": 1794870175000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stocks Sink Before Nvidia’s First Results After Huang Exit",
-    "tt": "Teknoloji Hisseleri, Nvidia'nın Huang Çıkışından Sonra İlk Sonuçları Öncesinde Düştü",
-    "s": "US stocks slumped for a fourth day as investors looked to an all-important earnings release from Nvidia Corp. after the market close to potentially help restore confidence in the artificial-intelligence trade.",
-    "ss": "ABD hisse senetleri, yatırımcıların yapay zeka ticaretine olan güveni yeniden tesis etmeye potansiyel olarak yardım etmek için piyasa kapanışının ardından Nvidia Corp.'un çok önemli kazanç açıklamasını beklemesiyle, teknoloji hisselerinin öncülüğünde dördüncü günde de düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
-    "ts": 1794921215000,
-    "tags": []
-   },
-   {
-    "t": "Swiss Pharma Employee Convicted Over $300,000 Insider Trades",
-    "tt": "İsviçreli İlaç Çalışanı 300.000 Dolardan Fazla İçeriden Bilgi Ticaretinden Mahkûm Edildi",
-    "s": "An employee of Swiss healthcare supplier SKAN Group AG was found guilty of insider trading after his appeal of a penalty order handed down by Swiss prosecutors was rejected.",
-    "ss": "İsviçreli sağlık hizmetleri tedarikçisi SKAN Group AG'nin bir çalışanı, İsviçre savcıları tarafından verilen ceza kararına itirazının reddedilmesinin ardından içeriden bilgi ticareti yapmaktan suçlu bulundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
-    "ts": 1794916936000,
-    "tags": []
-   },
-   {
-    "t": "Mark Walter’s Largest Insurer Sees Sales Plunge After US Probe",
-    "tt": "Mark Walter'ın En Büyük Sigorta Şirketi ABD Soruşturması Ortasında Satışlarında Düşüş Bildirdi",
-    "s": "Annuity sales at billionaire Los Angeles Dodgers owner Mark Walter’s largest insurance company dropped after a federal investigation into the firm’s accounting practices became public.",
-    "ss": "Milyarder Los Angeles Dodgers'ın sahibi Mark Walter'ın en büyük sigorta şirketinin yıllık gelir satışları, firmanın muhasebe uygulamalarına ilişkin federal bir soruşturmanın kamuya açıklanmasının ardından düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/mark-walter-s-largest-insurer-reports-sales-plunge-amid-us-probe",
-    "ts": 1794935467000,
-    "tags": []
-   },
-   {
-    "t": "European Stocks Extend Fall as Tech Drags; Deutsche Bank Slides",
-    "tt": "Avrupa Hisse Senetleri Teknolojinin Sürüklenmesiyle Düşüşü Uzatıyor; Deutsche Bank Slaytları",
-    "s": "European stocks extended declines Tuesday, weighed down by technology stocks ahead of results from Nvidia Corp.",
-    "ss": "Avrupa hisse senetleri Salı günü, Nvidia Corp.'un açıklayacağı sonuçlar öncesinde teknoloji hisselerinin baskısıyla düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
-    "ts": 1794904244000,
-    "tags": []
-   },
-   {
-    "t": "Bank of America Says US Rates Will Rise ‘Until Activity Cools’",
-    "tt": "Bank of America, ABD Faiz Oranlarının 'Faaliyetler Sakinleşene Kadar' Artacağını Söyledi",
-    "s": "US short-term interest rates are likely to continue to rise in the absence of signs that they are restraining the American economy, according to interest-rate strategists at Bank of America Corp.",
-    "ss": "Bank of America Corp.'taki faiz oranı stratejistlerine göre, ABD kısa vadeli faiz oranları, Amerikan ekonomisini kısıtladıklarına dair işaretlerin yokluğunda muhtemelen yükselmeye devam edecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/bank-of-america-says-us-rates-will-rise-until-activity-cools",
-    "ts": 1794935138000,
     "tags": []
    }
   ],
@@ -773,6 +773,60 @@
   ],
   "MarketWatch": [
    {
+    "t": "Apple users report service interruptions — the latest in a series of tech outages",
+    "tt": "Apple kullanıcıları, bir dizi teknik kesintinin en sonuncusu olan hizmet kesintilerini bildiriyor",
+    "s": "Apple and Google customers were reporting service outages on Tuesday, the latest disruptions in a string of technology outages reported by consumers over the past week.",
+    "ss": "Apple ve Google müşterileri, geçtiğimiz hafta tüketiciler tarafından bildirilen bir dizi teknoloji kesintisindeki en son aksaklıklar olan Salı günü hizmet kesintilerini bildiriyordu.",
+    "u": "https://www.marketwatch.com/story/apple-users-report-service-interruptions-the-latest-in-a-series-of-tech-outages-d1a5ff9f?mod=mw_rss_topstories",
+    "ts": 1794944760000,
+    "tags": []
+   },
+   {
+    "t": "The latest tech failure: U.S. classified national security communications network",
+    "tt": "En son teknoloji hatası: ABD'nin gizli ulusal güvenlik iletişim ağı",
+    "s": "A reported outage of a classified U.S. communications network has become the latest in a string of technology disruptions impacting consumers, businesses and the government.",
+    "ss": "Gizli bir ABD iletişim ağında bildirilen kesinti, tüketicileri, işletmeleri ve hükümeti etkileyen giderek artan teknoloji kesintileri dizisinin en sonuncusu oldu.",
+    "u": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+    "ts": 1794944580000,
+    "tags": []
+   },
+   {
+    "t": "Want to know what bitcoin is really worth? Check this chart.",
+    "tt": "Bitcoin'in gerçekten değerinin ne olduğunu bilmek ister misiniz? Bu tabloyu kontrol edin.",
+    "s": "A model for calculating bitcoin’s value has worked well to inform investors when the cryptocurrency is overbought or oversold. Now, the price is just right.",
+    "ss": "Bitcoin'in değerini hesaplamaya yönelik bir model, kripto para birimi aşırı alım veya aşırı satım durumunda yatırımcıları bilgilendirmek için iyi çalıştı. Şimdi fiyat tam uygun.",
+    "u": "https://www.marketwatch.com/story/want-to-know-what-bitcoin-is-really-worth-check-this-chart-daa3fce7?mod=mw_rss_topstories",
+    "ts": 1794944040000,
+    "tags": []
+   },
+   {
+    "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
+    "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+    "ss": "\"Yorgunum. Alarmım sabah 6'da çalıyor ve işe gidip gelmem için 50 dakikam var.\"",
+    "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "ts": 1794943800000,
+    "tags": []
+   },
+   {
+    "t": "These charts show investor fears run even deeper than the stock market’s decline suggests",
+    "tt": "Bu grafikler yatırımcıların korkularının borsadaki düşüşün gösterdiğinden daha da derin olduğunu gösteriyor",
+    "s": "The yen’s recent strengthening, particularly against the Australian dollar, suggests investors are unwinding risky bets.",
+    "ss": "Yenin son zamanlarda özellikle Avustralya doları karşısında güçlenmesi, yatırımcıların riskli bahislerden vazgeçtiklerini gösteriyor.",
+    "u": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
+    "ts": 1794943320000,
+    "tags": []
+   },
+   {
+    "t": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+    "tt": "'Nvidia'nın çalkantısı beni ürküttü': Hisse senetlerimi satmanın zamanı geldi mi?",
+    "s": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+    "ss": "\"Florida'daki emlak bazı ilginç fırsatlar sunuyor gibi görünüyor.\"",
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1794942000000,
+    "tags": []
+   },
+   {
     "t": "‘It is heartbreaking’: My brother took over our ailing mother’s life and finances. What can I do?",
     "tt": "‘Yürek parçalayıcı’: Kardeşim, hasta annemizin hayatını ve maddi durumunu devraldı. Ne yapabilirim?",
     "s": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
@@ -807,63 +861,45 @@
     "u": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
     "ts": 1794937200000,
     "tags": []
-   },
-   {
-    "t": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
-    "tt": "Salesforce'un hisseleri, teknolojideki tedirginliklerin ortasında neden S&P 500'deki düşüşlerin başında yer alıyor?",
-    "s": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
-    "ss": "Bir analist, bir dizi teknoloji kesintisinin yatırımcıların, yazılım şirketlerinin yapay zekanın kötüye kullanımına karşı \"özellikle savunmasız\" olabileceğinden endişe duyduğunu söylüyor.",
-    "u": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
-    "ts": 1794936960000,
-    "tags": []
-   },
-   {
-    "t": "The latest tech failure: U.S. classified national security communications network",
-    "tt": "En son teknoloji hatası: ABD'nin gizli ulusal güvenlik iletişim ağı",
-    "s": "A reported outage of a classified U.S. communications network has become the latest in a growing string of technology disruptions impacting consumers, businesses and the government.",
-    "ss": "Gizli bir ABD iletişim ağında bildirilen kesinti, tüketicileri, işletmeleri ve hükümeti etkileyen giderek artan teknoloji kesintileri dizisinin en sonuncusu oldu.",
-    "u": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
-    "ts": 1794935520000,
-    "tags": []
-   },
-   {
-    "t": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’",
-    "tt": "Ebeveynler bize çocuklarının spor kumar bağımlılığıyla mücadelesine yardımcı olmanın nasıl bir şey olduğunu anlattı: 'El kitabı yok'",
-    "s": "“We essentially married the most addictive device with the most addictive behavior, and we put them together.”",
-    "ss": "\"Aslında en bağımlılık yaratan cihazı en bağımlılık yaratan davranışla birleştirdik ve onları bir araya getirdik.\"",
-    "u": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories",
-    "ts": 1794935220000,
-    "tags": []
-   },
-   {
-    "t": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-    "tt": "'Göründüğümü hissettim': Amerika'nın dört bir yanındaki aileler neden SNL'nin 'Kardeş' taslağı üzerine gülüyor ve ağlıyor?",
-    "s": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-    "ss": "Gece yarısı komedi taslağı, kadın bakıcıların görüldüklerini hissettirerek imkansızı başarıyor.",
-    "u": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-    "ts": 1794934980000,
-    "tags": []
-   },
-   {
-    "t": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not",
-    "tt": "Nasdaq-100 fonuna sahipseniz, isteseniz de istemeseniz de 15 işlem günü sonunda Anthropic hisselerine sahip olacaksınız.",
-    "s": "Anthropic’s suppliers are buying $26 billion worth of stock at the IPO price because they want to. Some funds will be forced to buy, and at a potentially worse price.",
-    "ss": "Anthropic'in tedarikçileri, istedikleri için halka arz fiyatından 26 milyar dolar değerinde hisse satın alıyor. Bazı fonlar, potansiyel olarak daha kötü bir fiyata satın almak zorunda kalacak.",
-    "u": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories",
-    "ts": 1794934920000,
-    "tags": []
-   },
-   {
-    "t": "Measles cases in the U.S. are at a 35-year high. Here’s the staggering cost of falling vaccination rates for Americans.",
-    "tt": "ABD'deki kızamık vakaları 35 yılın en yüksek seviyesinde. İşte Amerikalılar için düşen aşı oranlarının şaşırtıcı maliyeti.",
-    "s": "The U.S. officially lost its measles elimination status on Tuesday as it grapples with multiple outbreaks of the virus.",
-    "ss": "ABD, birden fazla virüs salgınıyla boğuştuğu için Salı günü kızamık eliminasyon statüsünü resmen kaybetti.",
-    "u": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
-    "ts": 1794934020000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Ilhan Omar Raid Records To Be Made Public As Soon As Monday",
+    "tt": "İlhan Omar Baskını Plakları Pazartesi Günü Açıklanacak",
+    "s": "Ilhan Omar Raid Records To Be Made Public As Soon As Monday Chief US District Judge James Boasberg ruled Tuesday that parts of the sealed records from the federal search of Rep. Ilhan Omar's Washington home will be released with redactions , possibly as soon as Monday, while the 67-page affidavit la",
+    "ss": "İlhan Omar Baskın Kayıtları Pazartesi Günü Kamuya Açıklanacak ABD Bölge Baş Hakimi James Boasberg Salı günü, Temsilci İlhan Omar'ın Washington'daki evinde yapılan federal aramada elde edilen mühürlü kayıtların bir kısmının muhtemelen Pazartesi günü redaksiyonlarla birlikte açıklanacağına hükmetti.",
+    "u": "https://www.zerohedge.com/political/ilhan-omar-raid-records-be-made-public-soon-monday",
+    "ts": 1794945300000,
+    "tags": []
+   },
+   {
+    "t": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System",
+    "tt": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistemini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı",
+    "s": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System Summary: Feds Begin Nationwide Emergency Test Equinor Reports Ongoing Cyberattack&nbsp; Apple Hit By Disruptions &nbsp; FBI Issues FLASH Advisory Warning NSA Spy Network Goes Dark&nbsp; List Expa",
+    "ss": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistem Özetini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı: Federaller Ülke Çapında Acil Durum Testlerine Başlıyor Equinor Devam Eden Siber Saldırıların Apple'ı Kesintilerle Etkilediğini Bildirdi FBI FLASH Tavsiye Uyarısı Yayınladı NSA Casus Ağı Karanlıkta Kaldı Expa",
+    "u": "https://www.zerohedge.com/markets/nsas-spy-network-reportedly-goes-dark-sending-stocks-sliding",
+    "ts": 1794944040000,
+    "tags": []
+   },
+   {
+    "t": "Bernstein Slaps Pepsi With Downgrade As Junk Food Demand Falters",
+    "tt": "Bernstein, Abur cubur Talebi Düşerken Pepsi'nin Notunu Düşürdü",
+    "s": "Bernstein Slaps Pepsi With Downgrade As Junk Food Demand Falters Pepsi shares have been locked in a 3.5-year drawdown , with the snack and soda giant losing as much as 36% of its market capitalization amid soft junk-food demand. On Tuesday morning, Bernstein consumer analysts Cristian Rios and Yolan",
+    "ss": "Bernstein, Abur cubur Talebi Düşerken Pepsi'nin Notunu Düşürdü Pepsi hisseleri 3,5 yıllık bir düşüşe kilitlendi; atıştırmalık ve soda devi, zayıf abur cubur talebi nedeniyle piyasa değerinin %36'sını kaybetti. Salı sabahı Bernstein tüketici analistleri Cristian Rios ve Yolan",
+    "u": "https://www.zerohedge.com/markets/bernstein-slaps-pepsi-downgrade-junk-food-demand-falters",
+    "ts": 1794943500000,
+    "tags": []
+   },
+   {
+    "t": "US Sees Zero Border Releases For 18th Consecutive Month",
+    "tt": "ABD Üst Üste 18. Ayda Sınırda Sıfır Sürüm Görüyor",
+    "s": "US Sees Zero Border Releases For 18th Consecutive Month Authored by Naveen Athrappully via The Epoch Times , U.S. authorities released zero illegal immigrants at the southwest border for the 18th straight month in October, according to Customs and Border Protection (CBP). ZERO-RELEASE STREAK AT THE ",
+    "ss": "ABD, Üst üste 18. Ayda Sınırda Sıfır Serbest Bırakılma Görüyor The Epoch Times aracılığıyla Naveen Athrappully tarafından yazılan, Gümrük ve Sınır Koruma'ya (CBP) göre ABD yetkilileri, Ekim ayında üst üste 18. ayda güneybatı sınırında sıfır yasadışı göçmeni serbest bıraktı. SIFIR SALINMA SERİLERİ",
+    "u": "https://www.zerohedge.com/political/us-sees-zero-border-releases-18th-consecutive-month",
+    "ts": 1794942600000,
+    "tags": []
+   },
    {
     "t": "Trump Issues Threat Over 'Dirty Bomb Plot', While Iran Says 'Israeli Fingerprints' All Over Reports",
     "tt": "Trump 'Kirli Bomba Planı' Konusunda Tehdit Ederken İran Tüm Raporlarda 'İsrail'in Parmak İzi Var' Diyor",
@@ -917,45 +953,63 @@
     "u": "https://www.zerohedge.com/political/lisa-cook-threatens-skip-her-own-firing-hearing-calls-trumps-panel-facade",
     "ts": 1794935100000,
     "tags": []
-   },
-   {
-    "t": "NYC Ignored ICE And Freed An Attempted Murder Suspect From Rikers - Now He's On The Loose",
-    "tt": "NYC, ICE'yi Görmezden Geldi ve Cinayete Teşebbüs Eden Bir Şüpheliyi Rikers'tan Serbest Bıraktı - Şimdi Serbest",
-    "s": "NYC Ignored ICE And Freed An Attempted Murder Suspect From Rikers - Now He's On The Loose A Guyanese man charged with attempted murder in Brooklyn walked out of Rikers Island earlier this month despite an ICE detainer, and remains at large , the Department of Homeland Security said Monday, according",
-    "ss": "NYC, ICE'yi Görmezden Geldi ve Bir Cinayet Teşebbüsü Şüphelisini Rikers'tan Serbest Bıraktı - Şimdi Ortalıkta Brooklyn'de cinayete teşebbüsle suçlanan Guyanlı bir adam, ICE tutuklusuna rağmen bu ayın başlarında Rikers Adası'ndan ayrıldı ve hala serbest kaldı İç Güvenlik Bakanlığı Pazartesi günü yaptığı açıklamada,",
-    "u": "https://www.zerohedge.com/political/nyc-ignored-ice-and-freed-attempted-murder-suspect-rikers-now-hes-loose",
-    "ts": 1794933600000,
-    "tags": []
-   },
-   {
-    "t": "NJ Gov. Sherrill Scolds Rutgers Republicans For Hosting Bovino Instead Of The Mob That Screamed Him Down",
-    "tt": "NJ Valisi Sherrill, Rutgers Cumhuriyetçilerini Onu Çığlık Eden Mafya Yerine Bovino'ya Ev Sahipliği Yaptıkları İçin Azarladı",
-    "s": "NJ Gov. Sherrill Scolds Rutgers Republicans For Hosting Bovino Instead Of The Mob That Screamed Him Down Authored by Jonathan Turley via JonathanTurley.org , Pandemonium broke out at Rutgers University after College Republicans held an event to hear former border chief Gregory Bovino's views on immi",
-    "ss": "NJ Valisi Sherrill, Rutgers Cumhuriyetçilerini Onu Çığlık Eden Mafya Yerine Bovino'ya Ev Sahipliği Yaptıkları İçin Azarladı Jonathan Turley tarafından JonathanTurley.org aracılığıyla yazılan Pandemonium, Rutgers Üniversitesi'nde Kolej Cumhuriyetçilerinin eski sınır şefi Gregory Bovino'nun immi hakkındaki görüşlerini dinlemek için bir etkinlik düzenlemesinin ardından patlak verdi",
-    "u": "https://www.zerohedge.com/political/nj-gov-sherrill-scolds-rutgers-republicans-hosting-bovino-instead-mob-screamed-him-down",
-    "ts": 1794932700000,
-    "tags": []
-   },
-   {
-    "t": "Iran Confirms US Attack On Qeshm Island, As IRGC Assaults Up To Four Tankers",
-    "tt": "İran, IRGC'nin Dört Tankere Saldırısında ABD'nin Qeshm Adası'na Saldırısını Doğruladı",
-    "s": "Iran Confirms US Attack On Qeshm Island, As IRGC Assaults Up To Four Tankers Update(11:14ET) : There's been some active fighting on Tuesday as the US and Iran continue to square off for control of the Strait of Hormuz. Iran has confirmed a fresh US bombing attack on its Qeshm Island. And Iranian off",
-    "ss": "İran, IRGC'nin Dört Tankere Saldırısı Sırasında ABD'nin Qeshm Adası'na Saldırısını Doğruladı Güncelleme(11:14ET) : ABD ve İran, Hürmüz Boğazı'nın kontrolü için meydan okumaya devam ederken, Salı günü bazı aktif çatışmalar yaşandı. İran, Keşm Adası'na ABD'nin yeni bir bombalı saldırı düzenlediğini doğruladı. Ve İran kapalı",
-    "u": "https://www.zerohedge.com/geopolitical/pentagon-says-irgc-missiles-bahrain-airbase-intercepted-more-tankers-flames",
-    "ts": 1794932040000,
-    "tags": []
-   },
-   {
-    "t": "\"I Own My Mistakes\": Jensen Huang Breaks Silence, Talks About Return To Nvidia",
-    "tt": "\"Hatalarım Benim\": Jensen Huang Sessizliğini Bozdu, Nvidia'ya Dönüş Hakkında Konuştu",
-    "s": "\"I Own My Mistakes\": Jensen Huang Breaks Silence, Talks About Return To Nvidia Jensen Huang says he would return as Nvidia's chief executive if the board asks him to , in his first public remarks since resigning last Thursday over extramarital affairs that included one with an alleged (and disputed)",
-    "ss": "\"Hatalarım Benim\": Jensen Huang Sessizliği Bozdu, Nvidia'ya Dönüş Hakkında Konuşuyor Jensen Huang, yönetim kurulunun kendisinden talep etmesi halinde Nvidia'nın CEO'su olarak geri döneceğini söyledi ve iddia edilen (ve tartışmalı) bir evlilik dışı ilişkiler nedeniyle geçen Perşembe günü istifa etmesinden bu yana ilk kamuoyuna yaptığı açıklamada",
-    "u": "https://www.zerohedge.com/political/i-own-my-mistakes-jensen-huang-breaks-silence-talks-about-return-nvidia",
-    "ts": 1794931914000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "OpenAI, siber güvenlik için NATO ile işbirliği yaptığını duyurdu",
+    "tt": null,
+    "s": "OpenAI, NATO üyesi ülkelerin ağlarının korunmasına katkı sağlamak amacıyla gelişmiş siber güvenlik modellerini ittifakın temel kurumlarına açmak için NATO İletişim ve Bilgi Ajansı ile işbirliği yaptığını duyurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/openai-siber-guvenlik-icin-nato-ile-isbirligi-yaptigini-duyurdu-3794925",
+    "ts": 1794945095000,
+    "tags": []
+   },
+   {
+    "t": "Almanya'dan Ukrayna'ya 2027'de 11,6 milyar euroluk destek",
+    "tt": null,
+    "s": "Almanya Savunma Bakanı Boris Pistorius, ülkesinin 2027'de Ukrayna'ya yaklaşık 11,6 milyar euro destek sağlayacağını açıkladı. Pistorius, askeri yardımlarda hava savunmasına öncelik vereceklerini belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/almanya-dan-ukrayna-ya-2027-de-11-6-milyar-euroluk-destek-3794922",
+    "ts": 1794944536000,
+    "tags": []
+   },
+   {
+    "t": "Yapay zekayla ilaç geliştiren Isomorphic Labs, 5 milyar dolar yatırım aldı",
+    "tt": null,
+    "s": "Alphabet bünyesinde faaliyet gösteren yapay zeka tabanlı ilaç keşfi şirketi Isomorphic Labs, Greenoaks Capital ve Sequoia Capital liderliğinde 5 milyar dolarlık Seri C yatırım turunu kapattı. Yatırım turuna Greenoaks ve Sequoia Capital liderlik ederken, yeni yatırımcı Andreessen Horowitz de sürece d",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yapay-zekayla-ilac-gelistiren-isomorphic-labs-5-milyar-dolar-yatirim-aldi-3794920",
+    "ts": 1794943743000,
+    "tags": []
+   },
+   {
+    "t": "Apple'ın birçok hizmetinde kesinti yaşanıyor",
+    "tt": null,
+    "s": "Apple, App Store ve Apple Music'te Türkiye saatiyle 19.45'ten itibaren kesinti yaşandığını bildirdi. Şirket, aynı saatten bu yana iCloud hesaplarına girişte tüm kullanıcıları etkileyen bir sorun yaşandığını da açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/apple-in-bircok-hizmetinde-kesinti-yasaniyor-3794919",
+    "ts": 1794943415000,
+    "tags": []
+   },
+   {
+    "t": "İspanya'da asgari ücrete enflasyon tahminini aşan zam kararı",
+    "tt": null,
+    "s": "İspanya hükümeti, 2027 için asgari ücreti yüzde 5,3 artırarak aylık brüt 1.286 euroya çıkarma kararı aldı. Zam oranı, İspanya Merkez Bankası'nın 2026 için öngördüğü yüzde 3,9'luk enflasyon tahminini aşarken, düzenlemenin yürürlüğe girmesi için Meclis Daimi Komitesi'nin onayı gerekiyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ispanya-da-asgari-ucrete-enflasyon-tahminini-asan-zam-karari-3794918",
+    "ts": 1794942792000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de hava trafik kontrolüne 50 milyar dolarlık modernizasyon talebi",
+    "tt": null,
+    "s": "Trump yönetimi, hava trafik kontrol sistemini yenilemek için Kongreden 50,1 milyar dolar talep etti. ABD Ulaştırma Bakanlığı, 13 Kasım'da ülke genelinde uçuşların dört saatten fazla durmasına yol açan kesintinin finansman ihtiyacının aciliyetini gösterdiğini belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-hava-trafik-kontrolune-50-milyar-dolarlik-modernizasyon-talebi-3794917",
+    "ts": 1794941891000,
+    "tags": []
+   },
    {
     "t": "ABD Ulusal Güvenlik Ajansı'nın gizli ağı çöktü",
     "tt": null,
@@ -990,60 +1044,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/iran-dan-abd-ye-nukleer-rest-ayni-duzeyde-karsilik-veririz-3794913",
     "ts": 1794932877000,
-    "tags": []
-   },
-   {
-    "t": "Huang'dan Nvidia'ya geri dönüş sinyali",
-    "tt": null,
-    "s": "Nvidia'nın eski CEO'su Jensen Huang, istifasının ardından yaptığı ilk kamuoyu açıklamasında, yönetim kurulunun talep etmesi halinde göreve dönmeye hazır olduğunu söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/huang-dan-nvidia-ya-geri-donus-sinyali-3794912",
-    "ts": 1794932318000,
-    "tags": []
-   },
-   {
-    "t": "Çin'den ABD'ye çip kısıtlamalarına karşı misilleme uyarısı",
-    "tt": null,
-    "s": "Çin Ticaret Bakanlığı, gelişmiş yapay zeka çiplerine erişimi daha da kısıtlamayı amaçlayan ABD düzenlemesine karşı çıktı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cin-den-abd-ye-cip-kisitlamalarina-karsi-misilleme-uyarisi-3794910",
-    "ts": 1794930824000,
-    "tags": []
-   },
-   {
-    "t": "Ford'dan AB'ye uyarı: Türkiye'nin dışlanması otomotiv sektörüne zarar verir",
-    "tt": null,
-    "s": "Ford Avrupa Başkanı Jim Baumbick, Türkiye, İngiltere ve Fas'ın AB'nin \"Made in Europe\" planı dışında kalmasının otomotiv sektörüne zarar vereceğini ve yeni yatırımları caydıracağını söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ford-dan-ab-ye-uyari-turkiye-nin-dislanmasi-otomotiv-sektorune-zarar-verir-3794909",
-    "ts": 1794929442000,
-    "tags": []
-   },
-   {
-    "t": "\"Türkiye'nin enerji dönüşümünde 2053'e kadar 160 milyar dolara ihtiyacı var\"",
-    "tt": null,
-    "s": "S&amp;P Global Ratings Sürdürülebilir Finans Piyasaları Direktörü Bloomberg HT'ye Türkiye'nin enerji dönüşümünde 2053 yılına kadar 160 milyar dolara ihtiyacı olduğunu söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiyenin-enerji-donusumunde-2053e-kadar-160-milyar-dolara-ihtiyaci-var-3794906",
-    "ts": 1794928125000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de sanayi üretimi Ekim'de geriledi",
-    "tt": null,
-    "s": "ABD'de sanayi üretimi, Ekim'de aylık bazda yatay seyredeceği beklentilerinin aksine yüzde 0,4 azaldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-sanayi-uretimi-ekim-de-geriledi-3794904",
-    "ts": 1794926993000,
-    "tags": []
-   },
-   {
-    "t": "İzmir'de ESİAD 5. Yatırım Zirvesi düzenlendi",
-    "tt": null,
-    "s": "Ege Sanayicileri ve İş İnsanları Derneğince (ESİAD) bu yıl beşincisi düzenlenen ESİAD Yatırım Zirvesi'nde, küresel belirsizlikler karşısında şirketlerin dayanıklılığını artırma yolları, stratejik büyüme, risk yönetimi ve finansman olanakları ele alındı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/izmir-de-esiad-5-yatirim-zirvesi-duzenlendi-3794899",
-    "ts": 1794924836000,
     "tags": []
    }
   ]
