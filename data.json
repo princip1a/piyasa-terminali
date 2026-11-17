@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T03:25:33.842809+00:00",
+ "generated": "2026-11-17T04:33:25.351397+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 51608.17,
+   "p": 51608.2,
    "c": -1.41,
-   "d": -739.381,
+   "d": -739.351,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3875.1,
-   "c": 0.57,
-   "d": 22.1,
+   "p": 3871.3,
+   "c": 0.47,
+   "d": 18.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.45,
-   "c": 1.42,
-   "d": 0.665,
+   "p": 47.31,
+   "c": 1.12,
+   "d": 0.525,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.07,
-   "c": -0.76,
-   "d": -0.65,
+   "p": 84.93,
+   "c": -0.92,
+   "d": -0.79,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.67,
-   "c": -0.83,
-   "d": -0.77,
+   "p": 91.52,
+   "c": -1.0,
+   "d": -0.92,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.514,
-   "c": -0.03,
-   "d": -0.036,
+   "p": 103.491,
+   "c": -0.06,
+   "d": -0.059,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4032,
+   "p": 50.4079,
    "c": 0.13,
-   "d": 0.063,
+   "d": 0.068,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64661,
-   "c": -0.75,
+   "p": 64892,
+   "c": -0.09,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1823.84,
-   "c": -0.01,
+   "p": 1825.53,
+   "c": 0.13,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.23,
-   "c": -0.12,
+   "p": 72.59,
+   "c": 1.11,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.960911,
-   "c": -0.66,
+   "p": 0.961598,
+   "c": -0.03,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 592.09,
-   "c": -0.43,
+   "p": 592.7,
+   "c": 0.19,
    "k": "usd"
   }
  ],
@@ -584,13 +584,24 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
-    "tt": "ABD, Çin'in Bilgi İşlem Erişimine Yeni Sınırlamalar Getirirken Çip Hisseleri Düşüyor",
-    "s": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
-    "ss": "Chipmaker hisseleri, Nvidia Corp.'un dahil olduğu skandalın ardından ABD'nin Çin'in gelişmiş yapay zeka çiplerine ve sunucularına erişimini daha da kısıtlamak için harekete geçmesinin ardından düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
-    "ts": 1794874939000,
+    "t": "Anthropic IPO: What Australian Investors Need to Know",
+    "tt": "Antropik Halka Arz: Avustralyalı Yatırımcıların Bilmesi Gerekenler",
+    "s": "Australian investors are among a select group outside the US able to participate directly in Anthropic’s IPO. North Star Funds Management Managing Partner Claudia Kwan discusses the risks surrounding the AI trade and how Australia could benefit from the AI infrastructure boom on \"Bloomberg: The Asia",
+    "ss": "Avustralyalı yatırımcılar, Anthropic'in halka arzına doğrudan katılabilecek ABD dışındaki seçkin bir grup arasında yer alıyor. North Star Fon Yönetimi Yönetici Ortağı Claudia Kwan, \"Bloomberg: The Asia\" programında yapay zeka ticaretini çevreleyen riskleri ve Avustralya'nın yapay zeka altyapısı patlamasından nasıl yararlanabileceğini anlatıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/anthropic-ipo-what-australian-investors-need-to-know-video",
+    "ts": 1794888608000,
     "tags": []
+   },
+   {
+    "t": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+    "tt": "Yeni Zelanda Doları, ABD Doları Karşısında Son Altı Yılın En Düşük Seviyesine Düştü",
+    "s": "The New Zealand dollar fell to its lowest level since 2020 against the greenback, pressured by cooling domestic inflation expectations and a widening interest rate gap with the US.",
+    "ss": "Yeni Zelanda doları, ABD ile artan faiz oranı farkı ve ülke ekonomisine yönelik kötüleşen görünümün etkisiyle Amerikan doları karşısında altı yılın en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+    "ts": 1794883607000,
+    "tags": [
+     "DXY ▲"
+    ]
    },
    {
     "t": "Asia Stock Selloff Enters Fourth Day, Oil Declines: Markets Wrap",
@@ -602,12 +613,30 @@
     "tags": []
    },
    {
-    "t": "New Zealand Dollar Drops to Six-Year Low Against Greenback",
-    "tt": "Yeni Zelanda Doları, ABD Doları Karşısında Son Altı Yılın En Düşük Seviyesine Düştü",
-    "s": "The New Zealand dollar fell to a six-year low against the greenback, weighed down by a widening interest rate gap with the US and a dimmer outlook for the nation’s economy.",
-    "ss": "Yeni Zelanda doları, ABD ile artan faiz oranı farkı ve ülke ekonomisine yönelik kötüleşen görünümün etkisiyle Amerikan doları karşısında altı yılın en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
-    "ts": 1794883607000,
+    "t": "Latest Oil Market News and Analysis for Nov. 17",
+    "tt": "17 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
+    "ss": "Petrol, arzın talebi geride bıraktığına dair işaretler ve Başkan Yardımcısı JD Vance'in ABD'nin İran'da uzun süreli bir savaştan kaçınmak istediğinin sinyalini vermesiyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+    "ts": 1794870175000,
+    "tags": []
+   },
+   {
+    "t": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+    "tt": "ABD, Çin'in Bilgi İşlem Erişimine Yeni Sınırlamalar Getirirken Çip Hisseleri Düşüyor",
+    "s": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
+    "ss": "Chipmaker hisseleri, Nvidia Corp.'un dahil olduğu skandalın ardından ABD'nin Çin'in gelişmiş yapay zeka çiplerine ve sunucularına erişimini daha da kısıtlamak için harekete geçmesinin ardından düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+    "ts": 1794874939000,
+    "tags": []
+   },
+   {
+    "t": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
+    "tt": "Barclays, Tayvan'daki Hisse Senedi Bozgununun Arkasında Zorunlu Perakende Tasfiyesinin Olduğunu Söyledi",
+    "s": "Forced selling by retail investors was a main driver of Taiwanese stocks’ steep selloff on Monday, a trend that could extend and pressure the market further, according to Barclays Plc.",
+    "ss": "Barclays Plc'ye göre, perakende yatırımcılar tarafından yapılan zorunlu satışlar, Tayvan hisse senetlerinin Pazartesi günü sert satışlarının ana itici gücü oldu; bu eğilim, piyasayı daha da genişletip baskı altına alabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
+    "ts": 1794885424000,
     "tags": []
    },
    {
@@ -644,33 +673,6 @@
     "ss": "Yeni Zelanda'nın uzun vadeli enflasyon beklentileri dördüncü çeyrekte azaldı ve bu durum, yeni bir yüksek yakıt fiyatları dalgasının ekonomiye yerleşmediğine dair işaretleri artırdı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
     "ts": 1794882284000,
-    "tags": []
-   },
-   {
-    "t": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
-    "tt": "Yabancı Fonlar Mayıs ayından bu yana Haven'ın çağrısıyla Çin tahvillerinin çoğunu satın aldı",
-    "s": "Global investors boosted their holdings of onshore Chinese government bonds at the fastest pace since May last month, underscoring growing foreign interest in yuan debt that has remained relatively insulated from global market turmoil.",
-    "ss": "Küresel yatırımcılar, karadaki Çin devlet tahvili varlıklarını geçen ay Mayıs ayından bu yana en hızlı şekilde artırdı ve bu durum, küresel piyasadaki çalkantılardan nispeten izole kalan yuan borcuna artan yabancı ilginin altını çizdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
-    "ts": 1794882096000,
-    "tags": []
-   },
-   {
-    "t": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
-    "tt": "BoK'dan Yoon: Yapay Zeka Endişeleri Kore Hisse Senedi Oynaklığını Arttırıyor",
-    "s": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-    "ss": "Bank of Korea Baş Ekonomisti Kyoungsoo Yoon, yapay zekaya ilişkin endişelerin Güney Kore hisse senedi piyasalarındaki oynaklığı artırdığına inanıyor. Haidi Stroud-Watts ve Paul Allen ile \"Bloomberg: Asya Ticareti\" üzerine konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
-    "ts": 1794879986000,
-    "tags": []
-   },
-   {
-    "t": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
-    "tt": "Yapay Zekanın Yönü Derinleştikçe Yatırımcılar BlackRock'un Hindistan ETF'sine Nakit Akıyor",
-    "s": "Investors plowed cash into an exchange-traded fund that buys Indian stocks at the fastest pace in over a year last week, as the selloff around artificiall intelligence stocks pushed investors to diversify into other markets.",
-    "ss": "Yapay zeka hisselerindeki satışların yatırımcıları diğer pazarlara yönelmeye itmesiyle, yatırımcılar geçen hafta Hindistan hisse senetlerini son bir yılın en hızlı temposunda satın alan borsada işlem gören bir fona nakit akıttı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-etfs-rise-for-2nd-week-in-982-mln-streak",
-    "ts": 1794826829000,
     "tags": []
    }
   ],
@@ -867,6 +869,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "'Brazil No Longer Lives In A Full Democracy': Self-Exiled Flávio Bolsonaro Plans To Stay In US",
+    "tt": "'Brezilya Artık Tam Demokraside Yaşamıyor': Kendini Sürgüne Gönderen Flávio Bolsonaro ABD'de Kalmayı Planlıyor",
+    "s": "'Brazil No Longer Lives In A Full Democracy': Self-Exiled Flávio Bolsonaro Plans To Stay In US Authored by Troy Myers, Emel Akan and Jan Jekielek via The Epoch Times , Self-exiled Brazilian presidential candidate Flávio Bolsonaro said he plans to seek permanent residency in the United States, citing",
+    "ss": "'Brezilya Artık Tam Bir Demokraside Yaşamıyor': Kendiliğinden Sürgün Edilen Flávio Bolsonaro ABD'de Kalmayı Planlıyor Troy Myers, Emel Akan ve Jan Jekielek tarafından The Epoch Times aracılığıyla yazılan, Kendini sürgüne gönderen Brezilyalı başkan adayı Flávio Bolsonaro, Amerika Birleşik Devletleri'nde kalıcı oturma izni almayı planladığını belirterek şunları söyledi:",
+    "u": "https://www.zerohedge.com/geopolitical/brazil-no-longer-lives-full-democracy-self-exiled-flavio-bolsonaro-plans-stay-us",
+    "ts": 1794889200000,
+    "tags": []
+   },
+   {
+    "t": "Mossad Abducted Iranian General In Turkey, Tortured Him For Weeks Before Killing Him: NYT",
+    "tt": "Mossad İranlı Generali Türkiye'de Kaçırdı, Öldürmeden Önce Haftalarca İşkence Yaptı: NYT",
+    "s": "Mossad Abducted Iranian General In Turkey, Tortured Him For Weeks Before Killing Him: NYT Via Middle East Eye Israel kidnapped two Iranian officials and killed one of them in a decades-long search for an Israeli pilot whose fighter jet crashed in Lebanon while bombing the country in 1986 , The New Y",
+    "ss": "Mossad, İranlı Generali Türkiye'de Kaçırdı, Öldürmeden Önce Haftalarca İşkence Yaptı: NYT Via Middle East Eye İsrail, 1986'da ülkeyi bombalarken savaş uçağı Lübnan'da düşen İsrailli pilotu onlarca yıldır ararken iki İranlı yetkiliyi kaçırdı ve içlerinden birini öldürdü.",
+    "u": "https://www.zerohedge.com/geopolitical/mossad-abducted-iranian-general-turkey-tortured-him-weeks-killing-him-nyt",
+    "ts": 1794886800000,
+    "tags": []
+   },
+   {
     "t": "South Korea Scrambles Fighter Jets After Russian Planes Breach Air Defense Zone",
     "tt": "Güney Kore, Rus Uçaklarının Hava Savunma Bölgesini İhlal Etmesinin Ardından Savaş Uçaklarını Karıştırdı",
     "s": "South Korea Scrambles Fighter Jets After Russian Planes Breach Air Defense Zone In a rare development, multiple Russian military aircraft buzzed South Korean airspace , resulting in South Korean Air Force jets being scrambled. Seoul's Joint Chiefs of Staff (JCS) confirmed of the early Tuesday event ",
@@ -936,24 +956,6 @@
     "ss": "Amazon AWS, Indiana'da 7 Milyar Dolarlık Veri Merkezinin Temelini Atıyor DatacenterDynamics'ten Georgia Butler tarafından Amazon Web Services (AWS), Kuzeybatı Indiana'daki 7 milyar dolarlık veri merkezi projesinin temelini attı. The Times of Northwest Indiana'nın haberine göre Wheatfield'daki Project Rise'ın inşaatı başladı",
     "u": "https://www.zerohedge.com/markets/amazon-aws-breaks-ground-7bn-data-center-indiana",
     "ts": 1794877200000,
-    "tags": []
-   },
-   {
-    "t": "Trump Rages At 60 Minutes Segment On Shocking Scale Of Iran's Retaliation",
-    "tt": "Trump, İran'ın Misillemesinin Şok Ölçeğiyle 60 Dakikalık Bölüme Öfkeli",
-    "s": "Trump Rages At 60 Minutes Segment On Shocking Scale Of Iran's Retaliation CBS' \"60 Minutes\" just ran a visual report which documents the significant and immense damage sustained by American bases after Iran struck at least 31 military locations spanning eight countries , according to its estimation.",
-    "ss": "Trump, İran'ın Misillemesinin Şok Ölçeğiyle İlgili 60 Dakikalık Bir Bölümle Öfkeleniyor CBS'in \"60 Dakika\"sı, tahminine göre, İran'ın sekiz ülkeyi kapsayan en az 31 askeri lokasyonu vurmasının ardından Amerikan üslerinin uğradığı önemli ve büyük hasarı belgeleyen görsel bir rapor yayınladı.",
-    "u": "https://www.zerohedge.com/military/trump-rages-60-minutes-segment-shocking-scale-irans-retaliation",
-    "ts": 1794876000000,
-    "tags": []
-   },
-   {
-    "t": "No Kings, No Votes: Democrats Move To Save Democracy From Itself",
-    "tt": "Kral Yok, Oy Yok: Demokratlar Demokrasiyi Kendisinden Kurtarmak İçin Harekete Geçiyor",
-    "s": "No Kings, No Votes: Democrats Move To Save Democracy From Itself Authored by Jonathan Turley via Jonathan Turley , Below is a column in The Hill on the move by many in the \"save democracy\" movement to negate some of the results of the last election while moving to change our constitutional system wi",
-    "ss": "Kral Yok, Oy Yok: Demokratlar Demokrasiyi Kendinden Kurtarmak İçin Hareket Ediyor Yazan Jonathan Turley, Jonathan Turley aracılığıyla, Aşağıda The Hill'de yer alan ve \"demokrasiyi kurtar\" hareketindeki pek çok kişi tarafından anayasal sistemimizi değiştirmeye çalışırken son seçimin bazı sonuçlarını reddetmek için harekete geçen bir köşe yazısı yer alıyor.",
-    "u": "https://www.zerohedge.com/political/no-kings-no-votes-democrats-move-save-democracy-itself",
-    "ts": 1794874800000,
     "tags": []
    }
   ],
