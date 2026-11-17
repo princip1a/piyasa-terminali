@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T12:33:14.660625+00:00",
+ "generated": "2026-11-17T13:50:16.103906+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,97 +24,97 @@
   },
   {
    "n": "VIX",
-   "p": 22.55,
-   "c": -1.57,
-   "d": -0.36,
+   "p": 23.02,
+   "c": 0.48,
+   "d": 0.11,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3866.7,
-   "c": 0.36,
-   "d": 13.7,
+   "p": 3840.2,
+   "c": -0.33,
+   "d": -12.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.585,
-   "c": 1.71,
-   "d": 0.8,
+   "p": 47.18,
+   "c": 0.84,
+   "d": 0.395,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.19,
-   "c": 0.55,
-   "d": 0.47,
+   "p": 86.95,
+   "c": 1.43,
+   "d": 1.23,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.91,
-   "c": 0.51,
-   "d": 0.47,
+   "p": 93.69,
+   "c": 1.35,
+   "d": 1.25,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.608,
-   "c": 0.06,
-   "d": 0.058,
+   "p": 103.763,
+   "c": 0.21,
+   "d": 0.213,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.121,
-   "c": -0.64,
-   "d": -0.033,
+   "p": 5.139,
+   "c": 0.35,
+   "d": 0.018,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.4113,
-   "c": 0.14,
-   "d": 0.071,
+   "p": 50.4142,
+   "c": 0.15,
+   "d": 0.074,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11729.9,
-   "c": -0.94,
-   "d": -111.9,
+   "p": 11709.89,
+   "c": -1.11,
+   "d": -131.91,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 64899,
-   "c": 1.53,
+   "p": 64925,
+   "c": 0.9,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1816.47,
-   "c": 1.41,
+   "p": 1821.51,
+   "c": 0.9,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.45,
-   "c": 3.92,
+   "p": 73.42,
+   "c": 3.34,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.970458,
-   "c": 2.48,
+   "p": 0.971425,
+   "c": 2.08,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 593.65,
-   "c": 1.47,
+   "p": 591.45,
+   "c": 0.52,
    "k": "usd"
   }
  ],
@@ -363,7 +363,7 @@
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "-0.5M",
    "previous": "4.7M",
    "actual": "",
    "ts": 1795015800000,
@@ -584,16 +584,66 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Stock Selloff Loses Steam Ahead of Nvidia Test: Markets Wrap",
+    "t": "México enfrenta trabas para atraer centros de datos de IA",
+    "tt": "Meksika, IA veri merkezleri için çalışıyor",
+    "s": "México tiene ubicación, talento y cercanía con EE.UU. para convertirse en un polo de centros de datos. Pero una red eléctrica insuficiente y la burocracia amenazan con dejarlo atrás. (Source: Bloomberg)",
+    "ss": "Meksika'da EE.UU ile yetenek ve sertifikalar mevcuttur. veri merkezlerini tek bir noktaya dönüştürmek için. Ancak kırmızı bir elektrik yetersiz ve bürokratik durum daha da kötüleşiyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/mexico-enfrenta-trabas-para-atraer-centros-de-datos-ia-video",
+    "ts": 1794923354000,
+    "tags": []
+   },
+   {
+    "t": "Russia's Oil Exports Hit Their Highest Since July as Drones Hit Refineries",
+    "tt": "Rusya'nın Petrol İhracatı, Drone'ların Rafinerileri Vurmasıyla Temmuz'dan Bu Yana En Yüksek Seviyesine Ulaştı",
+    "s": "A&nbsp;surge in Ukrainian attacks on oil-processing plants&nbsp;forced producers to divert crude to exports",
+    "ss": "Ukrayna'nın petrol işleme tesislerine yönelik saldırılarındaki artış, üreticileri ham petrolü ihracata yönlendirmeye zorladı",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/russia-s-oil-exports-hit-their-highest-since-july-as-drones-hit-refineries",
+    "ts": 1794923248000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "US Stock Selloff Loses Steam Ahead of Nvidia Test: Markets Wrap",
     "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "A selloff in US stocks receded as beaten-down technology shares drew buyers, with traders looking to Nvidia Corp.’s earnings after the close for a crucial read on the outlook for artificial intelligence.",
+    "s": "A selloff in US stocks lost momentum as beaten-down technology shares drew buyers, with traders looking to Nvidia Corp.’s earnings after the close for a crucial read on the outlook for artificial intelligence.",
     "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
     "ts": 1794866811000,
     "tags": []
    },
    {
-    "t": "Home Depot Names McPhail CEO as Decker Returns as Chairman",
+    "t": "Todo lo que debe saber sobre la salida a bolsa de Anthropic",
+    "tt": "Antropik Bolsa'yı salıvermek için yapılması gerekenler",
+    "s": "Anthropic se prepara para una de las mayores OPI de la historia, con una valoración que podría llegar a US$1,4 billones. Esto es lo que debe saber sobre su salida a bolsa. (Source: Bloomberg)",
+    "ss": "Anthropic, 1,4 milyar ABD Doları değerinde bir değere sahip olan bir belediye başkanının tarihi OPI'sine hazırlanıyor. Bu, bolsa'ya salıverilmesi gereken bir kılıçtır. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/lo-que-debe-saber-sobre-la-salida-a-bolsa-de-anthropic-video",
+    "ts": 1794922712000,
+    "tags": []
+   },
+   {
+    "t": "Fed’s Musalem Says Economy to Likely Require ‘Several’ Hikes by Spring",
+    "tt": "Fed'den Musalem Ekonominin Bahara Kadar \"Birkaç\" Faiz Artışına İhtiyaç Duyabileceğini Söyledi",
+    "s": "Federal Reserve Bank of St. Louis President Alberto Musalem signaled support for multiple interest rate-increases in the coming months. He said, “the economy will likely require several interest rate increases before the spring of 2027 to achieve price stability in a timely manner” during comments T",
+    "ss": "Louis Federal Rezerv Bankası Başkanı Alberto Musalem önümüzdeki aylarda birden fazla faiz artırımına destek sinyali verdi. T yorumları sırasında \"Fiyat istikrarını zamanında sağlamak için ekonominin 2027 baharından önce muhtemelen birkaç faiz artışına ihtiyacı olacak\" dedi.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-musalem-several-hikes-likely-needed-by-spring-video",
+    "ts": 1794921619000,
+    "tags": []
+   },
+   {
+    "t": "Foreign Investors Pour Record $9.6 Billion Into Indian Stocks in November",
+    "tt": "Yabancı Yatırımcılar Kasım Ayında Hindistan Hisse Senetlerine Rekor 9,6 Milyar Dolar Akıttı",
+    "s": "Foreigners are turning into buyers of Indian stocks at a record pace, signaling a broader portfolio shift as the weakening artificial intelligence trade revives demand for a market investors had largely abandoned over the past two years.",
+    "ss": "Yabancılar rekor bir hızla Hint hisse senedi alıcılarına dönüşüyor ve zayıflayan yapay zeka ticareti, yatırımcıların son iki yılda büyük ölçüde terk ettiği bir pazara olan talebi yeniden canlandırırken, daha geniş bir portföy değişikliğinin sinyalini veriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-investors-pour-record-9-6-billion-into-indian-stocks-in-november",
+    "ts": 1794922281000,
+    "tags": []
+   },
+   {
+    "t": "Home Depot Names McPhail CEO With Decker Back as Chairman",
     "tt": "Home Depot, Decker Olarak McPhail'in CEO'sunu Adlandırdı",
     "s": "Home Depot Inc. said Richard McPhail will take over as chief executive officer from Ted Decker, who is returning from medical leave to serve as chairman.",
     "ss": "Home Depot Inc., Richard McPhail'in yönetim kurulu başkanlığı görevini tıbbi izinden dönen Ted Decker'den devralacağını söyledi.",
@@ -602,75 +652,30 @@
     "tags": []
    },
    {
-    "t": "Swiss Pharma Employee Convicted Over $300,000 in Insider Trades",
-    "tt": "İsviçreli İlaç Çalışanı İçeriden Bilgi Ticaretinden 300.000 Dolardan Fazla Mahkûm Edildi",
-    "s": "An employee of Swiss healthcare supplier SKAN Group AG was found guilty of insider trading after his appeal of a penalty order handed down by Swiss prosecutors was rejected.",
-    "ss": "İsviçreli sağlık hizmetleri tedarikçisi SKAN Group AG'nin bir çalışanı, İsviçre savcıları tarafından verilen ceza kararına itirazının reddedilmesinin ardından içeriden bilgi ticareti yapmaktan suçlu bulundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
-    "ts": 1794916936000,
+    "t": "ETF, CEF, Swap, Perp: Investors Get Slice of Anthropic Before IPO",
+    "tt": "ETF, CEF, Swap, Perp: Yatırımcılar halka arzdan önce Antropik'ten bir dilim alıyor",
+    "s": "Anthropic PBC’s much-anticipated Nasdaq debut isn’t expected until later this week, but retail traders are already finding ways to get a piece of the AI giant.",
+    "ss": "Antropik PBC'nin merakla beklenen Nasdaq lansmanı bu hafta sonuna kadar beklenmiyor, ancak perakende tüccarlar şimdiden yapay zeka devinden bir parça almanın yollarını buluyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/etf-cef-swap-perp-investors-get-slice-of-anthropic-before-ipo",
+    "ts": 1794921328000,
     "tags": []
    },
    {
-    "t": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
-    "tt": "Avrupa Hisse Senetleri, ABD Çiplerinin Sınırlandırılmasının Yeni Yapay Zeka Satışlarını Ateşlemesiyle Düşüyor",
-    "s": "European stocks slid as concerns over the artificial-intelligence trade swept markets ahead of results from Nvidia Corp., after the US moved to impose sweeping new restrictions on China’s access to high-end AI chips.",
-    "ss": "Avrupa hisse senetleri, ABD'nin Çin'in ileri teknoloji yapay zeka çiplerine erişimine kapsamlı yeni kısıtlamalar getirmesinin ardından, Nvidia Corp.'un sonuçları öncesinde yapay zeka ticaretine ilişkin endişelerin piyasaları etkisi altına almasıyla düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
-    "ts": 1794904244000,
+    "t": "Nasdaq 100 Futures Rise as Investors Prepare for Nvidia Results",
+    "tt": "Yatırımcılar Nvidia Sonuçlarına Hazırlanırken Nasdaq 100 Vadeli İşlemleri Yükseliyor",
+    "s": "Technology stocks climbed before the bell on Tuesday as investors prepared for an all-important earnings release from Nvidia Corp. and as a selloff in the artificial intelligence trade eased.",
+    "ss": "Yatırımcıların Nvidia Corp.'tan çok önemli bir kazanç açıklamasına hazırlanması ve yapay zeka ticaretindeki satışların hafiflemesi nedeniyle teknoloji hisseleri Salı günü zilden önce tırmandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
+    "ts": 1794921215000,
     "tags": []
    },
    {
-    "t": "US Gas Pump Price Hits 8-Month Low to Ease Inflation Worries",
-    "tt": "Petrol Arzının İyileşmesiyle ABD Benzin Pompası Fiyatı Mart'tan Bu Yana En Düşük Seviyesine Düştü",
-    "s": "US gasoline pump prices fell to the lowest since mid-March following a broader decline in oil markets this month, in a sign that inflationary pressures from the Iran war are beginning to ease.",
-    "ss": "ABD'de benzin pompası fiyatları, bu ay petrol piyasalarında yaşanan daha geniş çaplı düşüşün ardından Mart ayından bu yana en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
-    "ts": 1794910054000,
-    "tags": []
-   },
-   {
-    "t": "US Funding for Trump-Linked Bosnian Gas Pipeline Is in Jeopardy",
-    "tt": "ABD'nin Trump Bağlantılı Bosna Gaz Boru Hattına Sağladığı Fon Tehlikede",
-    "s": "US federal funding of $2.3 billion in energy and airport infrastructure projects in Bosnia-Herzegovina are in jeopardy as government development banks in Washington distanced themselves from the plan.",
-    "ss": "Bosna-Hersek'teki enerji ve havaalanı altyapı projelerine ABD'nin 2,3 milyar dolarlık federal finansmanı, Washington'daki hükümet kalkınma bankalarının plandan uzaklaşması nedeniyle tehlikede.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/us-funding-for-trump-linked-bosnian-gas-pipeline-is-in-jeopardy",
-    "ts": 1794915496000,
-    "tags": []
-   },
-   {
-    "t": "European Gas Fluctuates as Traders Weigh Iran Mediation Efforts",
-    "tt": "Tüccarlar İran'ın Arabuluculuk Çabalarını Tartarken Avrupa Gazı Dalgalanıyor",
-    "s": "European natural gas fluctuated as traders weighed the outlook for fresh efforts to mediate the conflict between the US and Iran.",
-    "ss": "Avrupa doğalgazı, tüccarların ABD ile İran arasındaki çatışmaya arabuluculuk yapmaya yönelik yeni çabalara yönelik bakış açılarını değerlendirmeleriyle birlikte dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/europe-gas-edges-higher-on-middle-east-tensions-weather-outlook",
-    "ts": 1794902897000,
-    "tags": []
-   },
-   {
-    "t": "Clampdown on China Chip Loophole; Nvidia Earnings Countdown",
-    "tt": "Çin Çipindeki Kaçak Üzerine Kısıtlama; Nvidia Kazanç Geri Sayımı",
-    "s": "Selling pressure on US technology stocks eased ahead of Nvidia Corp.’s much-anticipated results that could prove as pivotal for the company as for the broader artificial-intelligence trade. Nvidia’s earnings arrive at a time when the world’s most important chipmaker is facing what may be the greates",
-    "ss": "ABD teknoloji hisseleri üzerindeki satış baskısı, Nvidia Corp.'un şirket için olduğu kadar daha geniş yapay zeka ticareti için de önemli olabilecek ve merakla beklenen sonuçları öncesinde azaldı. Nvidia'nın kazancı, dünyanın en önemli çip üreticisinin en iyilerle karşı karşıya olduğu bir zamanda geliyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/the-opening-trade-11-17-2026-video",
-    "ts": 1794915185000,
-    "tags": []
-   },
-   {
-    "t": "Disney Profit Beats With Marvel Films Powering Streaming",
-    "tt": "Disney'in kârı, Marvel Films'in Yayını Güçlendirmesiyle Artıyor",
-    "s": "Walt Disney Co. reported sales and earnings that exceeded analysts’ expectations, with a particularly strong result in its streaming TV unit.",
-    "ss": "Walt Disney Co., analistlerin beklentilerini aşan satış ve kazanç bildirdi; özellikle yayın yapan TV ünitesinde güçlü bir sonuç elde edildi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming",
-    "ts": 1794915106000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil",
-    "tt": "Nvidia'nın Kazançları Teknolojide Kargaşanın Arttığı Bir Zamanda Geldi",
-    "s": "Stock has plunged 35% from October peak, dragging Nasdaq lower.",
-    "ss": "Hisse senedi Ekim zirvesinden %35 düşerek Nasdaq'ı düşüşe sürükledi.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
-    "ts": 1794914789000,
+    "t": "Amazon, Google to Have About 28% of Anthropic Stock After IPO",
+    "tt": "Amazon ve Google, Halka Arz Sonrası Antropik Hisselerin Yaklaşık %28'ine Sahip Olacak",
+    "s": "Two of Anthropic PBC’s biggest customers will have about 28% of its stock in aggregate after it goes public, adding to the close links between the companies powering the artificial intelligence boom.",
+    "ss": "Anthropic PBC'nin en büyük müşterilerinden ikisi, halka açıldıktan sonra toplam hisselerinin yaklaşık %28'ine sahip olacak ve bu da yapay zeka patlamasını güçlendiren şirketler arasındaki yakın bağlantılara katkıda bulunacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
+    "ts": 1794920597000,
     "tags": []
    }
   ],
@@ -773,6 +778,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble?",
+    "tt": "ABD'de perakende satışlar tatil alışveriş sezonunun hemen öncesinde yavaşlıyor. Bir sorun belirtisi mi?",
+    "s": "Sales at U.S. retailers rose just slightly in October after two months of big increases, suggesting households took a breather before the start of the holiday shopping season.",
+    "ss": "ABD'li perakendecilerin satışları, iki ay süren büyük artışların ardından Ekim ayında sadece hafif bir artış gösterdi; bu da hane halkının tatil alışveriş sezonu başlamadan önce biraz nefes aldığına işaret ediyor.",
+    "u": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+    "ts": 1794922860000,
+    "tags": []
+   },
+   {
+    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
+    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+    "ss": "“Eğer kocamdan önce ölürsem, ona benim aylık maaşımın yüzde 50-66’sı kadar ömür boyu emekli maaşı verilecek.”",
+    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "ts": 1794921300000,
+    "tags": []
+   },
+   {
+    "t": "Now’s the perfect time for networking. Here’s how to send a cringe-free email.",
+    "tt": "Şimdi ağ oluşturmanın tam zamanı. İşte utanç duymadan bir e-postanın nasıl gönderileceği.",
+    "s": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+    "ss": "Beyaz yakalı işler için işe alım genellikle Kasım ve Aralık aylarında azalır, bu nedenle bunun yerine ağınıza \"soğuk e-postalar\" göndermeyi deneyin.",
+    "u": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+    "ts": 1794919560000,
+    "tags": []
+   },
+   {
     "t": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
     "tt": "Fon yöneticileri teknoloji bahislerini son yirmi yılın en hızlı temposunda düşürdüler ve bu da onları geceleri uyanık tutan kuyruk riski oldu",
     "s": "Investors are shifting their overweight positioning away from megacap tech and getting less bearish on bonds. Yet they still maintain exceedingly low cash positions as global growth forecasts are bullish.",
@@ -811,14 +843,14 @@
    {
     "t": "Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists",
     "tt": "Stratejistler, 10 yıl bu temel seviyenin altında kaldığı sürece kazanç artışının hızlanacağı iki sektörü seçin diyor",
-    "s": "Strategists at the investment bank recommend hyperscalers and the health care sector in an environment of slowing earnings growth.",
+    "s": "Strategists at the investment bank recommend hyperscalers and the healthcare sector in an environment of slowing earnings growth.",
     "ss": "Yatırım bankasındaki stratejistler, kazanç artışının yavaşladığı bir ortamda hiper ölçekleyicileri ve sağlık sektörünü öneriyor.",
     "u": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
     "ts": 1794912420000,
     "tags": []
    },
    {
-    "t": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+    "t": "Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown",
     "tt": "Tepper ve Loeb, Ekim ayı düşüşünün arifesinde Nvidia ve diğer megacap teknolojilerine yatırım yapan fon yöneticileri arasında",
     "s": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.",
     "ss": "SEC'e yapılan 13-F başvuruları, dördüncü çeyrek için ne kadar büyük kurumsal fonların konumlandığına dair bir anlık görüntü sunuyor. Yapay zeka ticaretindeki patlama göz önüne alındığında, bildirilen bazı pozisyonlar birçok portföy yöneticisi için acı verici bir altı haftaya işaret ediyor.",
@@ -834,36 +866,72 @@
     "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
     "ts": 1794910500000,
     "tags": []
-   },
-   {
-    "t": "‘Breaking Bad’ star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
-    "tt": "'Breaking Bad' yıldızı Dean Norris, boşanmanın ardından California'daki 11 dönümlük arazisini 3,2 milyon dolara satıyor",
-    "s": "Dean Norris is looking for a buyer for his 11-acre Temecula, Calif., property, listing the hilltop home for $3.2 million—after his wife, Bridget Norris, filed for divorce.",
-    "ss": "Dean Norris, karısı Bridget Norris'in boşanma davası açmasının ardından tepedeki evini 3,2 milyon dolara listeleyen 11 dönümlük Temecula, Kaliforniya'daki mülkü için bir alıcı arıyor.",
-    "u": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
-    "ts": 1794909660000,
-    "tags": []
-   },
-   {
-    "t": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
-    "tt": "Süpermodel Bella Hadid, Colorado'daki büyüleyici bir yerleşkeyi 5,5 milyon dolara satın aldı",
-    "s": "Bella Hadid has purchased a creekside compound in Crested Butte, Colorado, for $5.5 million.",
-    "ss": "Bella Hadid, Crested Butte, Colorado'da dere kenarındaki bir yerleşkeyi 5,5 milyon dolara satın aldı.",
-    "u": "https://www.marketwatch.com/story/supermodel-bella-hadid-snaps-up-a-charming-colorado-compound-for-5-5-million-b907958c?mod=mw_rss_topstories",
-    "ts": 1794909420000,
-    "tags": []
-   },
-   {
-    "t": "Here’s how much of Deutsche Bank’s market cap has been wiped away after reports on 15 million leaked documents",
-    "tt": "İşte 15 milyon belgenin sızdırıldığına dair raporların ardından Deutsche Bank'ın piyasa değerinin ne kadarının silindiği:",
-    "s": "Deutsche Bank saw as much as €3.8 billion ($4.2 billion) of its market cap wiped away after a team of media organizations wrote about a trove of 15 million leaked documents.",
-    "ss": "Deutsche Bank, medya kuruluşlarından oluşan bir ekibin sızdırılan 15 milyon belgeden oluşan bir hazine hakkında yazmasının ardından piyasa değerinin 3,8 milyar Euro'ya (4,2 milyar $) kadar silindiğini gördü.",
-    "u": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
-    "ts": 1794908100000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Pentagon Says IRGC Missiles On Bahrain Airbase Intercepted; More Tankers Up In Flames",
+    "tt": "Pentagon, Bahreyn Hava Üssü'ndeki Devrim Muhafızları Füzelerinin Ele Geçirildiğini Açıkladı; Daha Fazla Tanker Alevler İçinde",
+    "s": "Pentagon Says IRGC Missiles On Bahrain Airbase Intercepted; More Tankers Up In Flames Iran's Islamic Revolutionary Guard Corps (IRGC) has on Tuesday launched another drone attack on Bahrain, reportedly targeting a US radar system at a Bahrain airbase.&nbsp; The IRGC statement identified that Bahrain",
+    "ss": "Pentagon, Bahreyn Hava Üssü'ndeki Devrim Muhafızları Füzelerinin Ele Geçirildiğini Açıkladı; Daha Fazla Tanker Alevler İçinde İran'ın İslam Devrim Muhafızları Birliği (IRGC) Salı günü Bahreyn'e başka bir insansız hava aracı saldırısı başlattı ve bildirildiğine göre Bahreyn hava üssündeki ABD radar sistemini hedef aldı.  IRGC açıklamasında Bahreyn'in",
+    "u": "https://www.zerohedge.com/geopolitical/pentagon-says-irgc-missiles-bahrain-airbase-intercepted-more-tankers-flames",
+    "ts": 1794923400000,
+    "tags": []
+   },
+   {
+    "t": "US Retail Sales Growth Fastest In 4 Years As Low-Income Spend Leads",
+    "tt": "Düşük Gelirli Harcamaların Liderlik Etmesiyle ABD Perakende Satışları Son 4 Yılın En Hızlı Büyümesi",
+    "s": "US Retail Sales Growth Fastest In 4 Years As Low-Income Spend Leads As we detailed in our preview , BofA's omniscient analysts expected a 'slow' October for retail sales after September's surprising (+0.8% MoM) surge. Goldman was more optimistic, JPMorgan less so.. so who was right? US headline reta",
+    "ss": "ABD Perakende Satış Büyümesi, Düşük Gelir Harcamalarının Öncülüğünde 4 Yılın En Hızlısı Önizlememizde ayrıntılı olarak belirttiğimiz gibi, BofA'nın her şeyi bilen analistleri, Eylül'deki şaşırtıcı (aylık bazda +%0,8) artışın ardından perakende satışlar için 'yavaş' bir Ekim bekliyorlardı. Goldman daha iyimserdi, JPMorgan ise daha az. Peki kim haklıydı? ABD manşet haberi",
+    "u": "https://www.zerohedge.com/markets/us-retail-sales-growth-fastest-4-years-low-income-spend-leads",
+    "ts": 1794922800000,
+    "tags": []
+   },
+   {
+    "t": "Fed's Barr Warns AI Agents Could Spark Bank Runs \"In Minutes,\" Overwhelming Banks' Liquidity Defenses",
+    "tt": "Fed'den Barr, Yapay Zeka Ajanlarının Bankaların \"Dakikalar İçinde\" Çalıştırılmasına Yol Açabileceği ve Bankaların Likidite Savunmalarını Ezebileceği Uyarısında Bulundu",
+    "s": "Fed's Barr Warns AI Agents Could Spark Bank Runs \"In Minutes,\" Overwhelming Banks' Liquidity Defenses There's been all sorts of talk about the threat of an \" agentic bank run \" that could trigger stampedes out of banks and send the financial system into crisis mode in minutes.&nbsp; Federal Reserve ",
+    "ss": "Fed'den Barr, Yapay Zeka Ajanlarının Bankaların Likidite Savunmalarını Ezici Bir Şekilde \"Dakikalar İçinde\" Başlatabileceği Uyarısında Bulundu. Bankalarda izdihama yol açabilecek ve finansal sistemi dakikalar içinde kriz moduna sokabilecek bir \"acente banka hücumu\" tehdidi hakkında her türlü konuşma yapıldı.  Federal Rezerv",
+    "u": "https://www.zerohedge.com/ai/feds-barr-warns-ai-agents-could-spark-bank-runs-minutes-overwhelming-banks-liquidity-defenses",
+    "ts": 1794922200000,
+    "tags": []
+   },
+   {
+    "t": "Futures Mixed As Market Braces For Nvidia's First Earnings Without Jensen, Iran Hits Bahrain",
+    "tt": "Piyasalar Nvidia'nın Jensen Olmadan İlk Kazancına Hazırlanırken Vadeli İşlemler Karışık, İran Bahreyn'i Vurdu",
+    "s": "Futures Mixed As Market Braces For Nvidia's First Earnings Without Jensen, Iran Hits Bahrain US futures are fractionally lower, if well off their overnight lows, as global stocks slide for a fourth day on fresh US curbs on China's access to AI chips and compute, Iran claims to have hit a US radar in",
+    "ss": "Vadeli İşlemler, Nvidia'nın Jensen ve İran'sız İlk Kazancına Hazırlanırken, Bahreyn'i Vururken Karıştı ABD vadeli işlemleri, küresel hisse senetlerinin ABD'nin Çin'in yapay zeka çipleri ve bilgi işlem erişimine getirdiği yeni kısıtlamalar nedeniyle dördüncü günde de gerilemesiyle, İran'ın ABD'nin radarına yakalandığını iddia etmesiyle birlikte, bir gecedeki en düşük seviyelerinden biraz geride kaldı.",
+    "u": "https://www.zerohedge.com/markets/futures-mixed-market-braces-nvidias-first-earnings-without-jensen-iran-hits-bahrain",
+    "ts": 1794921943000,
+    "tags": []
+   },
+   {
+    "t": "Gas Below $4, Diesel Below $6: Pump Prices Tumble Ahead Of Thanksgiving Travel Rush",
+    "tt": "Benzin 4 Doların Altında, Dizel 6 Doların Altında: Şükran Günü Seyahat Telaşı Öncesinde Pompa Fiyatları Düşüyor",
+    "s": "Gas Below $4, Diesel Below $6: Pump Prices Tumble Ahead Of Thanksgiving Travel Rush AAA forecasts another busy Thanksgiving travel season next week , estimating that about 81.5 million people will travel at least 50 miles. That figure is about 121,000 fewer than last year. \"After three years of reco",
+    "ss": "Benzin 4 Doların Altında, Dizel 6 Doların Altında: Şükran Günü Öncesinde Pompa Fiyatları Düşüyor Seyahat Rush AAA, önümüzdeki hafta yine yoğun bir Şükran Günü seyahat sezonu öngörüyor ve yaklaşık 81,5 milyon insanın en az 80 mil yol kat edeceğini tahmin ediyor. Bu rakam geçen yıla göre yaklaşık 121.000 daha az. \"Üç yıllık bir keşiften sonra",
+    "u": "https://www.zerohedge.com/markets/gas-below-4-diesel-below-6-pump-prices-tumble-ahead-thanksgiving-travel-rush",
+    "ts": 1794921300000,
+    "tags": []
+   },
+   {
+    "t": "Retail Sales Preview: BofA's \"Omniscient\" Card Data Sees A Sleepy October... And A Seasonal Gift From The Census Bureau",
+    "tt": "Perakende Satış Önizlemesi: BofA'nın \"Her Şeyi Bilen\" Kart Verileri Uykulu Bir Ekim Ayını Görüyor... Ve Nüfus Sayım Bürosundan Sezonluk Bir Hediye",
+    "s": "Retail Sales Preview: BofA's \"Omniscient\" Card Data Sees A Sleepy October... And A Seasonal Gift From The Census Bureau American shoppers took October off. The Census Bureau may not have noticed. That, in two sentences, is what Bank of America's real-time debit and credit card data says about today'",
+    "ss": "Perakende Satış Önizlemesi: BofA'nın \"Her Şeyi Bilen\" Kart Verileri Ekim Ayını Uykulu Bir Şekilde Geçiriyor... Ve Nüfus Sayımı Bürosundan Sezonluk Bir Hediye Amerikalı alışverişçiler Ekim ayına izin verdi. Nüfus Sayımı Bürosu fark etmemiş olabilir. Bu, Bank of America'nın gerçek zamanlı banka ve kredi kartı verilerinin bugün hakkında iki cümleyle söylediği şey.",
+    "u": "https://www.zerohedge.com/markets/retail-sales-preview-bofas-omniscient-card-data-sees-sleepy-october-and-seasonal-gift",
+    "ts": 1794920700000,
+    "tags": []
+   },
+   {
+    "t": "China AI Stocks Sink As US Tightens Chip Curbs; Nvidia Forms Export Committee After Jensen's Exit",
+    "tt": "ABD'nin Talaş Kısıtlarını Sıkılaştırmasıyla Çin Yapay Zeka Hisseleri Düştü; Nvidia, Jensen'in Ayrılmasının Ardından İhracat Komitesi Kurdu",
+    "s": "China AI Stocks Sink As US Tightens Chip Curbs; Nvidia Forms Export Committee After Jensen's Exit Nvidia heads into earnings after the market closes today, with attention split between another potentially solid AI-driven beat and concerns over the fallout from Jensen Huang's abrupt departure last we",
+    "ss": "ABD'nin Talaş Kısıtlarını Sıkılaştırmasıyla Çin Yapay Zeka Hisseleri Düştü; Nvidia, Jensen'in Çıkışından Sonra İhracat Komitesi Oluşturdu Nvidia, bugün piyasanın kapanmasının ardından kazançlara yöneliyor; dikkatler, potansiyel olarak sağlam bir yapay zeka güdümlü atılım ile geçen hafta Jensen Huang'ın ani ayrılışından kaynaklanan endişeler arasında bölünmüş durumda.",
+    "u": "https://www.zerohedge.com/ai/china-ai-stocks-sink-us-tightens-chip-curbs-nvidia-forms-export-committee-after-jensens-exit",
+    "ts": 1794919500000,
+    "tags": []
+   },
    {
     "t": "\"It's Illegal\": Trump Fires Back As Massive Leak Shows What Deutsche Bank Hid About Epstein, Russia - And Him",
     "tt": "\"Yasadışı\": Devasa Sızıntı Deutsche Bank'ın Epstein, Rusya ve Kendisi Hakkında Ne Sakladığını Gösterirken Trump Karşılık Verdi",
@@ -890,72 +958,27 @@
     "u": "https://www.zerohedge.com/markets/leveraged-etf-math-doesnt-work-way-you-think",
     "ts": 1794916800000,
     "tags": []
-   },
-   {
-    "t": "Trafigura Scrambles For Aluminum As Backwardation Steepest In Years Amid Draining Stockpiles",
-    "tt": "Trafigura, Stokların Boşaltılmasının Ortasında Yıllardır Gerilemenin En Yüksek Olduğu Durumda Alüminyum İçin Mücadele Ediyor",
-    "s": "Trafigura Scrambles For Aluminum As Backwardation Steepest In Years Amid Draining Stockpiles The scramble for physical aluminum continues to intensify this fall, with commodities giant Trafigura snapping up the industrial metal on the London Metal Exchange to capitalize on a very lucrative arbitrage",
-    "ss": "Trafigura, Stokların Boşaltılması Ortasında Yıllar İçinde En Dik Gerileme Olarak Alüminyum İçin Mücadele Ediyor Fiziksel alüminyum için mücadele bu sonbaharda yoğunlaşmaya devam ediyor; emtia devi Trafigura, çok kazançlı bir arbitrajdan yararlanmak için Londra Metal Borsası'ndaki endüstriyel metali kapıyor",
-    "u": "https://www.zerohedge.com/commodities/trafigura-scrambles-aluminum-backwardation-steepest-years-amid-draining-stockpiles",
-    "ts": 1794915000000,
-    "tags": []
-   },
-   {
-    "t": "'It's An Invasion': Tiny Spanish Island Of 12,000 Takes In 1,261 Migrants In One Day",
-    "tt": "'Bu Bir İstila': 12.000 Nüfuslu Küçük İspanyol Adası Bir Günde 1.261 Göçmen Aldı",
-    "s": "'It's An Invasion': Tiny Spanish Island Of 12,000 Takes In 1,261 Migrants In One Day Authored by Etienne Fauchaire via The Epoch Times , EL HIERRO, Spain - Shortly before noon on Sunday, a wooden fishing boat carrying hundreds of African migrants was brought into the small harbor of La Restinga, on ",
-    "ss": "'Bu Bir İstila': 12.000 Kişilik Küçük İspanyol Adası Bir Günde 1.261 Göçmen Aldı Etienne Fauchaire tarafından The Epoch Times aracılığıyla yazılmıştır, EL HIERRO, İspanya - Pazar günü öğleden kısa bir süre önce, yüzlerce Afrikalı göçmeni taşıyan ahşap bir balıkçı teknesi, La Restinga'nın küçük limanına getirildi.",
-    "u": "https://www.zerohedge.com/geopolitical/its-invasion-tiny-spanish-island-12000-takes-1261-migrants-one-day",
-    "ts": 1794913200000,
-    "tags": []
-   },
-   {
-    "t": "Middle East Countries Ban Telegram, Citing Threat To National Security",
-    "tt": "Orta Doğu Ülkeleri Ulusal Güvenliğe Tehdit Gerekçesiyle Telegramı Yasakladı",
-    "s": "Middle East Countries Ban Telegram, Citing Threat To National Security Middle East nations Jordan and Iraq have both issued a blanket ban on the popular Telegram messaging app, after recent terror attacks hit the region. Officials in both countries have cited national security concerns, noting that ",
-    "ss": "Orta Doğu Ülkeleri Telegram'ı Ulusal Güvenliğe Tehdit Olduğunu Gerekçesiyle Yasakladı Orta Doğu ülkeleri Ürdün ve Irak, bölgeyi vuran son terör saldırılarının ardından popüler Telegram mesajlaşma uygulamasını genel olarak yasakladı. Her iki ülkedeki yetkililer de ulusal güvenlik endişelerini dile getirerek şunları kaydetti:",
-    "u": "https://www.zerohedge.com/geopolitical/middle-east-countries-ban-telegram-citing-threat-national-security",
-    "ts": 1794910800000,
-    "tags": []
-   },
-   {
-    "t": "France Is Prosecuting Its Most Famous Novelist For 'Noticing'... Trump Should Offer Him Asylum",
-    "tt": "Fransa, En Ünlü Romancısını 'Fark Ettiği' Nedeniyle Dava Ediyor... Trump Ona Sığınma Teklif Etmeli",
-    "s": "France Is Prosecuting Its Most Famous Novelist For 'Noticing'... Trump Should Offer Him Asylum Via The Brownstone Institute , France has placed its most famous living novelist under formal investigation for the crime of describing the country's demographic and security realities. On Tuesday, the Fre",
-    "ss": "Fransa, En Ünlü Romancısını 'Fark Ettiği' Nedeniyle Yargılıyor... Trump, Brownstone Enstitüsü Aracılığıyla Kendisine Sığınma Teklif Etmeli Fransa, yaşayan en ünlü romancısını, ülkenin demografik ve güvenlik gerçeklerini açıklama suçundan resmi soruşturmaya tabi tuttu. Salı günü Fre",
-    "u": "https://www.zerohedge.com/political/france-prosecuting-its-most-famous-novelist-noticing-trump-should-offer-him-asylum",
-    "ts": 1794908400000,
-    "tags": []
-   },
-   {
-    "t": "Wildberries Founder & Russia's Richest Woman, Tatyana Kim, Hit With EU Sanctions",
-    "tt": "Wildberries Kurucusu ve Rusya'nın En Zengin Kadını Tatyana Kim, AB Yaptırımlarına Uğradı",
-    "s": "Wildberries Founder &amp; Russia's Richest Woman, Tatyana Kim, Hit With EU Sanctions Tatyana Kim is founder and CEO of the Russia's largest online retailer, Wildberries, which has made her the country's richest woman - with assets totaling at least $5 billion (some reports estimate $8 billion). She ",
-    "ss": "Wildberries Kurucusu ve Rusya'nın En Zengin Kadını Tatyana Kim, AB Yaptırımlarından Vuruldu Tatyana Kim, Rusya'nın en büyük çevrimiçi perakendecisi Wildberries'in kurucusu ve CEO'sudur ve bu şirket, toplam varlıkları en az 5 milyar dolar (bazı raporlarda 8 milyar dolar olduğu tahmin edilmektedir) ile ülkenin en zengin kadını haline gelmiştir. O",
-    "u": "https://www.zerohedge.com/geopolitical/wildberries-founder-russias-richest-woman-tatyana-kim-hit-eu-sanctions",
-    "ts": 1794906000000,
-    "tags": []
-   },
-   {
-    "t": "Britain Refuses To Release Full Migrant Crime Data, Citing Offenders' Privacy",
-    "tt": "İngiltere, Suçluların Gizliliğini Gerektirerek Göçmen Suçu Verilerinin Tamamını Yayınlamayı Reddediyor",
-    "s": "Britain Refuses To Release Full Migrant Crime Data, Citing Offenders' Privacy Authored by AG News Staff via American Greatness , The British government is refusing to release detailed crime statistics on foreign nationals, saying the data could reveal the identities of the offenders , Breitbart News",
-    "ss": "İngiltere, AG Haber Personeli tarafından American Greatness tarafından yazılan Suçluların Gizliliğini Gerektirerek Göçmen Suçu Verilerinin Tümünü Yayınlamayı Reddediyor. Britanya hükümeti, verilerin suçluların kimliklerini ortaya çıkarabileceğini söyleyerek yabancı uyruklulara ilişkin ayrıntılı suç istatistiklerini yayınlamayı reddediyor, Breitbart News",
-    "u": "https://www.zerohedge.com/political/britain-refuses-release-full-migrant-crime-data-citing-offenders-privacy",
-    "ts": 1794903600000,
-    "tags": []
-   },
-   {
-    "t": "\"This Gun Kills Fascists\": Netflix Black Doves Displays Far-Left Political Violence Messaging",
-    "tt": "\"Bu Silah Faşistleri Öldürüyor\": Netflix Kara Güvercinler Aşırı Sol Siyasi Şiddet Mesajlarını Gösteriyor",
-    "s": "\"This Gun Kills Fascists\": Netflix Black Doves Displays Far-Left Political Violence Messaging There's nothing new about the troubling rise of the far left within the Democratic Party, and unhinged leftists across Europe have a tendency to brand anyone they don't like as \"fascists\" and \"Nazis\" and wh",
-    "ss": "\"Bu Silah Faşistleri Öldürüyor\": Netflix Kara Güvercinler Aşırı Sol Siyasi Şiddet Mesajlarını Sergiliyor Demokrat Parti içinde aşırı solun endişe verici yükselişinde yeni bir şey yok ve Avrupa genelinde aklını başından alan solcular, hoşlanmadıkları herkesi \"faşist\" ve \"Nazi\" olarak damgalama eğiliminde",
-    "u": "https://www.zerohedge.com/political/gun-kills-fascist-netflix-black-doves-displays-far-left-political-violence-messaging",
-    "ts": 1794901200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "\"Artık verimli çözümlere yönelmemiz gerekiyor\"",
+    "tt": null,
+    "s": "Solar Impulse Foundation Kurucusu Bertrand Piccard Antalya'daki COP31 Zirvesi'nde Bloomberg HT'ye COP'un elektrifikasyon hedefinin doğru bir hedef olduğunu belirterek, \"Elektrifikasyona geçmek zorundasınız. Yeterli verimlilik sağlamayan her şeyden vazgeçmeliyiz, artık modern ve verimli çözümlere yön",
+    "ss": null,
+    "u": "https://www.bloomberght.com/artik-verimli-cozumlere-yonelmemiz-gerekiyor-3794887",
+    "ts": 1794920440000,
+    "tags": []
+   },
+   {
+    "t": "Fed/Musalem: İlkbahara kadar birkaç faiz artışı muhtemel",
+    "tt": null,
+    "s": "St. Louis Fed Başkanı Alberto Musalem, enflasyonu kontrol altına almak için önümüzdeki aylarda birden fazla faiz artışı yapılmasına destek verdiğini belirtti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fedmusalem-ilkbahara-kadar-birkac-faiz-artisi-muhtemel-3794886",
+    "ts": 1794919806000,
+    "tags": []
+   },
    {
     "t": "AB'den \"35'te 35 Küresel Elektrifikasyon Hedefi\"ne destek",
     "tt": null,
@@ -970,7 +993,7 @@
     "tt": null,
     "s": "Bank of America Corp. tarafından yapılan bir ankete göre, küresel yapay zeka patlamasına ilişkin yatırımcı iyimserliği azaldı, fon yöneticileri teknoloji hisselerindeki ağırlıklarını son yirmi yılın en büyük oranında düşürdü.",
     "ss": null,
-    "u": "https://www.bloomberght.com/bofa-anketi-yatirimcilar-teknoloji-sektorundeki-agirligini-azaltti-3794877",
+    "u": "https://www.bloomberght.com/bofa-teknoloji-sektorunde-20-yilin-en-buyuk-agirlik-azaltimi-3794877",
     "ts": 1794917839000,
     "tags": []
    },
@@ -1026,24 +1049,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/almanya-dan-amb-basekonomistligi-icin-markus-brunnermeier-hamlesi-3794851",
     "ts": 1794908377000,
-    "tags": []
-   },
-   {
-    "t": "JPMorgan, MSCI Türkiye Endeksi için tavsiyesini yükseltti",
-    "tt": null,
-    "s": "JPMorgan, Türkiye hisselerine ilişkin tavsiyesini \"nötr\"den \"ağırlık artır\"a yükseltti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/jpmorgan-msci-turkiye-endeksi-icin-tavsiyesini-yukseltti-3794848",
-    "ts": 1794904706000,
-    "tags": []
-   },
-   {
-    "t": "Avrupa'da doğalgaz fiyatlarında savaş gerilimi nedeniyle artış",
-    "tt": null,
-    "s": "Avrupa'da doğalgaz fiyatları, İran'ın Bahreyn'deki ABD üslerine misilleme saldırılarını sürdürmesi ve hava tahmin modellerinin yaklaşan soğuk dalgasına işaret etmesi üzerine yükseldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlarinda-savas-gerilimi-nedeniyle-artis-3794847",
-    "ts": 1794904591000,
     "tags": []
    }
   ]
