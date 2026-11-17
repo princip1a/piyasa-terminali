@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T09:50:47.254907+00:00",
+ "generated": "2026-11-17T10:51:25.235054+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 24.07,
-   "c": 5.06,
-   "d": 1.16,
+   "p": 23.55,
+   "c": 2.79,
+   "d": 0.64,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3867.0,
-   "c": 0.36,
-   "d": 14.0,
+   "p": 3862.0,
+   "c": 0.23,
+   "d": 9.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.335,
-   "c": 1.18,
-   "d": 0.55,
+   "p": 47.365,
+   "c": 1.24,
+   "d": 0.58,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.91,
-   "c": 0.22,
-   "d": 0.19,
+   "p": 85.73,
+   "c": 0.01,
+   "d": 0.01,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.78,
-   "c": 0.37,
-   "d": 0.34,
+   "p": 92.46,
+   "c": 0.02,
+   "d": 0.02,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.481,
-   "c": -0.07,
-   "d": -0.069,
+   "p": 103.57,
+   "c": 0.02,
+   "d": 0.02,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4126,
+   "p": 50.4124,
    "c": 0.14,
    "d": 0.072,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11757.14,
-   "c": -0.71,
-   "d": -84.66,
+   "p": 11729.7,
+   "c": -0.95,
+   "d": -112.1,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 64360,
-   "c": 0.06,
+   "p": 64207,
+   "c": -0.44,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1812.53,
-   "c": 0.92,
+   "p": 1793.06,
+   "c": -0.69,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.44,
-   "c": 2.38,
+   "p": 72.28,
+   "c": 1.22,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.955473,
-   "c": 1.26,
+   "p": 0.957098,
+   "c": 0.56,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 590.17,
-   "c": 0.25,
+   "p": 587.77,
+   "c": -0.44,
    "k": "usd"
   }
  ],
@@ -584,28 +584,73 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Tech Stocks Lose Further Ground Ahead of Nvidia: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "Global equities fell as traders cut risk ahead of Nvidia Corp.’s earnings, with concerns high that upheaval at the chipmaker could ripple through the broader artificial intelligence trade.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": []
+   },
+   {
+    "t": "UniCredit Sees Up to €2 Billion Value from Generali Cooperation",
+    "tt": "UniCredit, Generali İşbirliğinden 2 Milyar Avroya Kadar Değer Görüyor",
+    "s": "UniCredit SpA sees the potential to unlock €1.5 billion ($1.65 billion) to €2 billion of value through closer cooperation with Italian insurer Assicurazioni Generali SpA, Chief Executive Officer Andrea Orcel said.",
+    "ss": "İcra Kurulu Başkanı Andrea Orcel, UniCredit SpA'nın, İtalyan sigorta şirketi Assicurazioni Generali SpA ile daha yakın işbirliği yoluyla 1,5 milyar Euro (1,65 milyar $) ile 2 milyar Euro arasında bir değerin kilidini açma potansiyelini gördüğünü söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/unicredit-sees-up-to-2-billion-value-from-generali-cooperation",
+    "ts": 1794911888000,
+    "tags": []
+   },
+   {
+    "t": "The Latest Longevity Hack Is Surprisingly Low-Tech",
+    "tt": "En Yeni Uzun Ömür Hack'i Şaşırtıcı Derecede Düşük Teknolojiye Sahip",
+    "s": "The latest longevity trend isn’t cryotherapy chambers or $250,000 clubs, but a competition that measures strength, balance and brain health. Jen Murphy takes us behind the scenes of the first Super Age Games. (Source: Bloomberg)",
+    "ss": "Son uzun ömürlülük trendi kriyoterapi odaları ya da 250.000 dolarlık kulüpler değil; güç, denge ve beyin sağlığını ölçen bir yarışma. Jen Murphy bizi ilk Süper Çağ Oyunlarının perde arkasına götürüyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/the-latest-longevity-hack-is-surprisingly-low-tech",
+    "ts": 1794910559000,
+    "tags": []
+   },
+   {
+    "t": "US Gas Pump Price Hits Lowest Since March as Oil Supply Recovers",
+    "tt": "Petrol Arzının İyileşmesiyle ABD Benzin Pompası Fiyatı Mart'tan Bu Yana En Düşük Seviyesine Düştü",
+    "s": "US gasoline pump prices fell to the lowest since March following a broader decline in oil markets this month.",
+    "ss": "ABD'de benzin pompası fiyatları, bu ay petrol piyasalarında yaşanan daha geniş çaplı düşüşün ardından Mart ayından bu yana en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
+    "ts": 1794910054000,
+    "tags": []
+   },
+   {
+    "t": "Unloved 30-Year Bond Is a Surprise Hit With UK Retail Investors",
+    "tt": "Sevilmeyen 30 Yıllık Tahvil, Birleşik Krallık'taki Bireysel Yatırımcılar İçin Sürpriz Oldu",
+    "s": "Retail investors are piling into long-dated UK bonds that bore the brunt of this year’s selloff, locking in rates above 5% and the chance of tax-free capital gains if prices rise.",
+    "ss": "Perakende yatırımcılar, bu yılki satış dalgasının en büyük darbesini taşıyan uzun vadeli Birleşik Krallık tahvillerine yöneliyor, oranları %5'in üzerinde sabitliyor ve fiyatlar yükselirse vergisiz sermaye kazancı şansı yakalıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/unloved-30-year-bond-is-a-surprise-hit-with-uk-retail-investors",
+    "ts": 1794909610000,
+    "tags": []
+   },
+   {
     "t": "Shanghai Exchange Intervenes After Historic Copper Crunch",
-    "tt": null,
+    "tt": "Şangay Borsası Tarihi Bakır Çöküşünden Sonra Müdahalede Bulundu",
     "s": "The Shanghai Futures Exchange has stepped in to try to ease an historic copper squeeze, as an acute shortage of available metal threatens to drain inventories.",
-    "ss": null,
+    "ss": "Şanghay Vadeli İşlemler Borsası, mevcut metaldeki akut kıtlığın stokları tüketme tehdidi oluşturması nedeniyle, tarihi bakır sıkışıklığını hafifletmek için devreye girdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/shanghai-exchange-intervenes-after-historic-copper-squeeze",
     "ts": 1794885112000,
     "tags": []
    },
    {
     "t": "Deutsche Bank Leak Shows Payments Linked to Epstein",
-    "tt": null,
+    "tt": "Deutsche Bank Sızıntısı Ödemelerin Epstein'la Bağlantılı Olduğunu Gösteriyor",
     "s": "Deutsche Bank dropped after the Financial Times reported the firm had processed $582 million of suspicious payments linked to the late sex offender Jeffrey Epstein. Internal documents showed that the German bank filed so-called suspicious activity reports in the US in 2019 identifying that amount of",
-    "ss": null,
+    "ss": "Deutsche Bank, Financial Times'ın firmanın geç cinsel suçlu Jeffrey Epstein ile bağlantılı 582 milyon dolarlık şüpheli ödemeyi işlediğini bildirmesinin ardından düştü. Dahili belgeler, Alman bankasının 2019 yılında ABD'de bu miktardaki şüpheli faaliyet raporlarını sunduğunu gösterdi.",
     "u": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
     "ts": 1794909030000,
     "tags": []
    },
    {
     "t": "Oil Edges Up as Traders Weigh Mideast Threats and Ample Supply",
-    "tt": null,
+    "tt": "Petrol, Yatırımcıların Orta Doğu Tehditlerini ve Bol Arzı Tartışmasıyla Yükseliyor",
     "s": "Oil edged higher, erasing an earlier decline, as traders weighed threats in the Middle East against signs supplies are outpacing demand.",
-    "ss": null,
+    "ss": "Petrol fiyatları, tüccarların Orta Doğu'daki tehditleri arzın talebi geride bıraktığına ilişkin işaretlere göre değerlendirmesiyle daha önceki düşüşünü silip bir miktar yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
     "ts": 1794870175000,
     "tags": [
@@ -617,9 +662,9 @@
    },
    {
     "t": "Turkish Households Buckle Under Gold-Price Slide, Funds Crisis",
-    "tt": null,
+    "tt": "Türk Haneleri Altın Fiyatlarındaki Düşüş ve Fon Krizi Altında Boyun Eğiyor",
     "s": "Falling gold prices and an investment-industry crisis are amplifying a slowdown in Turkish domestic demand, reversing a wealth effect that helped sustain household spending in recent years.",
-    "ss": null,
+    "ss": "Düşen altın fiyatları ve yatırım sektörü krizi, Türkiye'nin iç talebindeki yavaşlamayı artırıyor ve son yıllarda hane halkı harcamalarının sürdürülmesine yardımcı olan servet etkisini tersine çeviriyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/turkish-households-buckle-under-gold-price-slide-funds-crisis",
     "ts": 1794907523000,
     "tags": [
@@ -628,65 +673,20 @@
    },
    {
     "t": "Nvidia Earnings Are Sideshow as CEO Ouster Looms Over Stock",
-    "tt": null,
+    "tt": "CEO Ouster'ın Hisse Senedi Üzerinde Belirmesiyle Nvidia Kazançları Ek Gösteri",
     "s": "Nvidia Corp.’s earnings arrive at perhaps the strangest time possible for the world’s most important artificial intelligence chipmaker.",
-    "ss": null,
+    "ss": "Nvidia Corp.'un kazancı, dünyanın en önemli yapay zeka çip üreticisi için belki de mümkün olan en tuhaf zamana ulaştı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
     "ts": 1794864701000,
-    "tags": []
-   },
-   {
-    "t": "Zurich’s Greco Boosts Revenue, Capital Gain From Beazley Deal",
-    "tt": null,
-    "s": "Zurich Insurance Group AG said it now expects increased revenue of around $1.5 billion per year in the medium term as a result of the integration of Beazley Plc, the specialty insurer it bought earlier this year.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/zurich-revenue-gain-on-beazley-deal-to-reach-1-5-billion",
-    "ts": 1794896495000,
-    "tags": []
-   },
-   {
-    "t": "T. Rowe Sticks to Bearish Treasuries Bet That Fueled Banner 2026",
-    "tt": null,
-    "s": "Betting on UK gilts and against US Treasuries since early 2026 is paying off for T. Rowe Price’s Scott Solomon, who isn’t in any hurry to unwind those wagers.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/t-rowe-sticks-to-bearish-treasuries-bet-that-fueled-banner-2026",
-    "ts": 1794907358000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stocks Extend Selloff as Nvidia Results Near: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "Technology stocks fell further ahead of Nvidia Corp.’s earnings, with the stakes extending beyond the chipmaker to the broader artificial intelligence trade.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
-    "tags": []
-   },
-   {
-    "t": "Pirelli Falls as Sinochem Sells €455 Million Stake in Tiremaker",
-    "tt": null,
-    "s": "Pirelli &amp; C. SpA shares fell after Chinese state-owned Sinochem sold a €455 million ($500 million) stake in the Italian tiremaker at a discount, extending a series of disposals aimed at reducing its influence over the company.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/pirelli-falls-as-sinochem-sells-455-million-stake-in-tiremaker",
-    "ts": 1794906752000,
-    "tags": []
-   },
-   {
-    "t": "China AI Stocks Drop as US Chip Curbs Hit Labs and Hyperscalers",
-    "tt": null,
-    "s": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
-    "ts": 1794874939000,
     "tags": []
    }
   ],
   "CNBC": [
    {
     "t": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-    "tt": null,
+    "tt": "Nvidia'dan Apple'a kadar ABD şirketleri büyüyen bir Çin ikilemiyle karşı karşıya",
     "s": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-    "ss": null,
+    "ss": "ABD ve Çin pazarlarında gezinen işletmeler için riskler daha da arttı.",
     "u": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
     "ts": 1794905565000,
     "tags": []
@@ -780,10 +780,55 @@
   ],
   "MarketWatch": [
    {
+    "t": "Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists",
+    "tt": "Stratejistler, 10 yıl bu temel seviyenin altında kaldığı sürece kazanç artışının hızlanacağı iki sektörü seçin diyor",
+    "s": "Strategists at the investment bank recommend hyperscalers and the health care sector in an environment of slowing earnings growth.",
+    "ss": "Yatırım bankasındaki stratejistler, kazanç artışının yavaşladığı bir ortamda hiper ölçekleyicileri ve sağlık sektörünü öneriyor.",
+    "u": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
+    "ts": 1794912420000,
+    "tags": []
+   },
+   {
+    "t": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+    "tt": "Tepper ve Loeb, Ekim ayı düşüşünün arifesinde Nvidia ve diğer megacap teknolojilerine yatırım yapan fon yöneticileri arasında",
+    "s": "13-F filings with the SEC offer a snapshot of how large institutional funds were positioning for the fourth quarter. Given the blowup in the AI trade, some positions reported suggest a painful six weeks for many portfolio managers.",
+    "ss": "SEC'e yapılan 13-F başvuruları, dördüncü çeyrek için ne kadar büyük kurumsal fonların konumlandığına dair bir anlık görüntü sunuyor. Yapay zeka ticaretindeki patlama göz önüne alındığında, bildirilen bazı pozisyonlar birçok portföy yöneticisi için acı verici bir altı haftaya işaret ediyor.",
+    "u": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+    "ts": 1794911280000,
+    "tags": []
+   },
+   {
+    "t": "‘Nvidia spooked me’: Should I sell my stocks or ride out the market turmoil?",
+    "tt": "'Nvidia beni korkuttu': Hisse senetlerimi satmalı mıyım yoksa piyasadaki kargaşayı atlatmalı mıyım?",
+    "s": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+    "ss": "\"Florida'daki emlak bazı ilginç fırsatlar sunuyor gibi görünüyor.\"",
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1794910500000,
+    "tags": []
+   },
+   {
+    "t": "‘Breaking Bad’ star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
+    "tt": "'Breaking Bad' yıldızı Dean Norris, boşanmanın ardından California'daki 11 dönümlük arazisini 3,2 milyon dolara satıyor",
+    "s": "Dean Norris is looking for a buyer for his 11-acre Temecula, Calif., property, listing the hilltop home for $3.2 million—after his wife, Bridget Norris, filed for divorce.",
+    "ss": "Dean Norris, karısı Bridget Norris'in boşanma davası açmasının ardından tepedeki evini 3,2 milyon dolara listeleyen 11 dönümlük Temecula, Kaliforniya'daki mülkü için bir alıcı arıyor.",
+    "u": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
+    "ts": 1794909660000,
+    "tags": []
+   },
+   {
+    "t": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
+    "tt": "Süpermodel Bella Hadid, Colorado'daki büyüleyici bir yerleşkeyi 5,5 milyon dolara satın aldı",
+    "s": "Bella Hadid has purchased a creekside compound in Crested Butte, Colorado, for $5.5 million.",
+    "ss": "Bella Hadid, Crested Butte, Colorado'da dere kenarındaki bir yerleşkeyi 5,5 milyon dolara satın aldı.",
+    "u": "https://www.marketwatch.com/story/supermodel-bella-hadid-snaps-up-a-charming-colorado-compound-for-5-5-million-b907958c?mod=mw_rss_topstories",
+    "ts": 1794909420000,
+    "tags": []
+   },
+   {
     "t": "Here’s how much of Deutsche Bank’s market cap has been wiped away after reports on 15 million leaked documents",
-    "tt": null,
+    "tt": "İşte 15 milyon belgenin sızdırıldığına dair raporların ardından Deutsche Bank'ın piyasa değerinin ne kadarının silindiği:",
     "s": "Deutsche Bank saw as much as €3.8 billion ($4.2 billion) of its market cap wiped away after a team of media organizations wrote about a trove of 15 million leaked documents.",
-    "ss": null,
+    "ss": "Deutsche Bank, medya kuruluşlarından oluşan bir ekibin sızdırılan 15 milyon belgeden oluşan bir hazine hakkında yazmasının ardından piyasa değerinin 3,8 milyar Euro'ya (4,2 milyar $) kadar silindiğini gördü.",
     "u": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
     "ts": 1794908100000,
     "tags": []
@@ -823,70 +868,32 @@
     "u": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
     "ts": 1794870240000,
     "tags": []
-   },
-   {
-    "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
-    "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-    "ss": "\"Yorgunum. Alarmım sabah 6'da çalıyor ve işe gidip gelmem için 50 dakikam var.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "ts": 1794870000000,
-    "tags": []
-   },
-   {
-    "t": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-    "tt": "ABD Dolarının Yapay Zekanın Güdümlü Çıkışı Borsayı Yıkan Bir Topa Dönüşebilir",
-    "s": "The dollar recently climbed to its strongest level in a year and a half.",
-    "ss": "Dolar yakın zamanda bir buçuk yılın en güçlü seviyesine tırmandı.",
-    "u": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-    "ts": 1794869160000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-    "tt": "Berkshire, kuşatma altında olan ABD konut piyasasına ilişkin bahisini artırırken, banka hisselerinden olumsuz etkilendi",
-    "s": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
-    "ss": "Berkshire Hathaway, geçtiğimiz çeyrekte ABD konut piyasasındaki yatırımlarını hızlandırdı ve konut inşaatçısı Lennar'daki hissesini neredeyse iki katına çıkardı.",
-    "u": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-    "ts": 1794868380000,
-    "tags": []
-   },
-   {
-    "t": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-    "tt": "'Planlarıma fantezi diyor': Kocam, yıllık 200.000 dolarlık emekliliği karşılayamayacağımızı söylüyor. Ucuz mu davranıyor?",
-    "s": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-    "ss": "“Emeklilik hesaplarımızda birikmiş 2 milyon dolarımız ve 1,3 milyon dolar değerinde bir evimiz var.”",
-    "u": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "ts": 1794868200000,
-    "tags": []
-   },
-   {
-    "t": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-    "tt": "FDA, biyoteknolojinin en yakından izlenen kanser ilaçlarından birini onaylamayı reddetti. Şirketin hisseleri düştü.",
-    "s": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-    "ss": "Düzenleyici, Summit Therapeutics'e akciğer kanseri ilacının insanların daha uzun yaşamasına yardımcı olabileceğini kanıtlaması gerektiğini söyledi.",
-    "u": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-    "ts": 1794867660000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "Middle East Countries Ban Telegram, Citing Threat To National Security",
+    "tt": "Orta Doğu Ülkeleri Ulusal Güvenliğe Tehdit Gerekçesiyle Telegramı Yasakladı",
+    "s": "Middle East Countries Ban Telegram, Citing Threat To National Security Middle East nations Jordan and Iraq have both issued a blanket ban on the popular Telegram messaging app, after recent terror attacks hit the region. Officials in both countries have cited national security concerns, noting that ",
+    "ss": "Orta Doğu Ülkeleri Telegram'ı Ulusal Güvenliğe Tehdit Olduğunu Gerekçesiyle Yasakladı Orta Doğu ülkeleri Ürdün ve Irak, bölgeyi vuran son terör saldırılarının ardından popüler Telegram mesajlaşma uygulamasını genel olarak yasakladı. Her iki ülkedeki yetkililer de ulusal güvenlik endişelerini dile getirerek şunları kaydetti:",
+    "u": "https://www.zerohedge.com/geopolitical/middle-east-countries-ban-telegram-citing-threat-national-security",
+    "ts": 1794910800000,
+    "tags": []
+   },
+   {
     "t": "France Is Prosecuting Its Most Famous Novelist For 'Noticing'... Trump Should Offer Him Asylum",
-    "tt": null,
+    "tt": "Fransa, En Ünlü Romancısını 'Fark Ettiği' Nedeniyle Dava Ediyor... Trump Ona Sığınma Teklif Etmeli",
     "s": "France Is Prosecuting Its Most Famous Novelist For 'Noticing'... Trump Should Offer Him Asylum Via The Brownstone Institute , France has placed its most famous living novelist under formal investigation for the crime of describing the country's demographic and security realities. On Tuesday, the Fre",
-    "ss": null,
+    "ss": "Fransa, En Ünlü Romancısını 'Fark Ettiği' Nedeniyle Yargılıyor... Trump, Brownstone Enstitüsü Aracılığıyla Kendisine Sığınma Teklif Etmeli Fransa, yaşayan en ünlü romancısını, ülkenin demografik ve güvenlik gerçeklerini açıklama suçundan resmi soruşturmaya tabi tuttu. Salı günü Fre",
     "u": "https://www.zerohedge.com/political/france-prosecuting-its-most-famous-novelist-noticing-trump-should-offer-him-asylum",
     "ts": 1794908400000,
     "tags": []
    },
    {
     "t": "Wildberries Founder & Russia's Richest Woman, Tatyana Kim, Hit With EU Sanctions",
-    "tt": null,
+    "tt": "Wildberries Kurucusu ve Rusya'nın En Zengin Kadını Tatyana Kim, AB Yaptırımlarına Uğradı",
     "s": "Wildberries Founder &amp; Russia's Richest Woman, Tatyana Kim, Hit With EU Sanctions Tatyana Kim is founder and CEO of the Russia's largest online retailer, Wildberries, which has made her the country's richest woman - with assets totaling at least $5 billion (some reports estimate $8 billion). She ",
-    "ss": null,
+    "ss": "Wildberries Kurucusu ve Rusya'nın En Zengin Kadını Tatyana Kim, AB Yaptırımlarından Vuruldu Tatyana Kim, Rusya'nın en büyük çevrimiçi perakendecisi Wildberries'in kurucusu ve CEO'sudur ve bu şirket, toplam varlıkları en az 5 milyar dolar (bazı raporlarda 8 milyar dolar olduğu tahmin edilmektedir) ile ülkenin en zengin kadını haline gelmiştir. O",
     "u": "https://www.zerohedge.com/geopolitical/wildberries-founder-russias-richest-woman-tatyana-kim-hit-eu-sanctions",
     "ts": 1794906000000,
     "tags": []
@@ -953,18 +960,27 @@
     "u": "https://www.zerohedge.com/geopolitical/brazil-no-longer-lives-full-democracy-self-exiled-flavio-bolsonaro-plans-stay-us",
     "ts": 1794889200000,
     "tags": []
-   },
-   {
-    "t": "Biden Finally Admits What Vance Told Zelensky To His Face",
-    "tt": "Biden Sonunda Vance'in Zelensky'nin Yüzüne Söylediklerini İtiraf Etti",
-    "s": "Biden Finally Admits What Vance Told Zelensky To His Face Joe Biden writes in his new memoir that Volodymyr Zelensky \"could be moody and stubborn in our private conversations, and not as grateful as I would have expected\" - the same charge that set off a media firestorm when Vice President JD Vance ",
-    "ss": "Biden Sonunda Vance'in Zelensky'ye Söylediklerini İtiraf Etti Joe Biden yeni anı kitabında Volodymyr Zelensky'nin \"özel konuşmalarımızda karamsar ve inatçı olabileceğini ve beklediğim kadar minnettar olmadığını\" yazıyor; bu, Başkan Yardımcısı JD Vance'in görevi devraldığında medyada yangın fırtınasını başlatan suçlamanın aynısıydı.",
-    "u": "https://www.zerohedge.com/political/biden-finally-admits-what-vance-told-zelensky-his-face",
-    "ts": 1794887700000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Irak: Türkiye'ye eski boru hattından ham petrol sevkiyatı başladı",
+    "tt": null,
+    "s": "Irak Petrol Bakanı Basim Muhammed Hudayyır, Irak-Türkiye arasındaki \"eski boru hattı üzerinden ham petrol sevkiyatına yeniden başlandığını\" açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/irak-turkiyeye-eski-boru-hattindan-ham-petrol-sevkiyati-basladi-3794867",
+    "ts": 1794912035000,
+    "tags": []
+   },
+   {
+    "t": "AB Türkiye için büyüme beklentisini düşürdü",
+    "tt": null,
+    "s": "Avrupa Komisyonu bu yıl için Türkiye'de büyüme beklentilerini düşürdü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-turkiye-icin-buyume-beklentisini-dusurdu-3794865",
+    "ts": 1794910999000,
+    "tags": []
+   },
    {
     "t": "Almanya'dan AMB başekonomistliği için Markus Brunnermeier hamlesi",
     "tt": null,
@@ -1036,24 +1052,6 @@
     "u": "https://www.bloomberght.com/konut-satislarinda-yillik-yuzde-13-1-dusus-3794842",
     "ts": 1794899296000,
     "tags": []
-   },
-   {
-    "t": "Konut fiyatlarında reel kayıp hızlandı",
-    "tt": null,
-    "s": "2026 yılı Ekim ayında bir önceki aya göre yüzde 0,7 oranında artan KFE, bir önceki yılın aynı ayına göre nominal olarak yüzde 21,1 oranında artarken reel olarak yüzde 6,6 oranında azaldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/konut-fiyatlarinda-reel-kayip-hizlandi-3794837",
-    "ts": 1794899002000,
-    "tags": []
-   },
-   {
-    "t": "VakıfBank ile ADB arasında 500 milyon dolarlık finansman anlaşması",
-    "tt": null,
-    "s": "VakıfBank, Asya Kalkınma Bankası (ADB) ile toplam 500 milyon dolar tutarında finansman anlaşmasına imza attı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vakifbank-ile-adb-arasinda-500-milyon-dolarlik-finansman-anlasmasi-3794823",
-    "ts": 1794897976000,
-    "tags": []
    }
   ]
  },
@@ -1069,7 +1067,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
