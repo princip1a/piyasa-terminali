@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T01:37:30.414156+00:00",
+ "generated": "2026-11-17T02:33:53.296100+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3852.0,
-   "c": -0.03,
-   "d": -1.0,
+   "p": 3871.1,
+   "c": 0.47,
+   "d": 18.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.025,
-   "c": -4.09,
-   "d": -2.006,
+   "p": 47.195,
+   "c": -3.74,
+   "d": -1.836,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.23,
-   "c": -0.57,
-   "d": -0.49,
+   "p": 85.0,
+   "c": -0.84,
+   "d": -0.72,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.88,
-   "c": -4.13,
-   "d": -3.96,
+   "p": 91.57,
+   "c": -4.46,
+   "d": -4.27,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.694,
-   "c": 0.27,
-   "d": 0.284,
+   "p": 103.592,
+   "c": 0.18,
+   "d": 0.182,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4096,
-   "c": 0.14,
-   "d": 0.069,
+   "p": 50.405,
+   "c": 0.13,
+   "d": 0.065,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64620,
-   "c": -0.18,
+   "p": 64389,
+   "c": -1.13,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1816.26,
-   "c": 0.47,
+   "p": 1812.81,
+   "c": -0.72,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.63,
-   "c": 0.59,
+   "p": 71.69,
+   "c": -0.83,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.955398,
-   "c": -0.42,
+   "p": 0.954568,
+   "c": -1.22,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 591.19,
-   "c": -0.01,
+   "p": 589.95,
+   "c": -0.95,
    "k": "usd"
   }
  ],
@@ -584,6 +584,47 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "New Zealand Inflation Expectations Remain Anchored Above 2%",
+    "tt": "Yeni Zelanda Enflasyon Beklentileri %2'nin Üzerinde Sabit Kaldı",
+    "s": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy.",
+    "ss": "Yeni Zelanda'nın uzun vadeli enflasyon beklentileri dördüncü çeyrekte azaldı ve bu durum, yeni bir yüksek yakıt fiyatları dalgasının ekonomiye yerleşmediğine dair işaretleri artırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
+    "ts": 1794882284000,
+    "tags": []
+   },
+   {
+    "t": "Foreign Funds Bought Most China Bonds Since May on Haven Appeal",
+    "tt": "Yabancı Fonlar Mayıs ayından bu yana Haven'ın çağrısıyla Çin tahvillerinin çoğunu satın aldı",
+    "s": "Global investors boosted their holdings of onshore Chinese government bonds at the fastest pace since May last month, underscoring growing foreign interest in yuan debt that has remained relatively insulated from global market turmoil.",
+    "ss": "Küresel yatırımcılar, karadaki Çin devlet tahvili varlıklarını geçen ay Mayıs ayından bu yana en hızlı şekilde artırdı ve bu durum, küresel piyasadaki çalkantılardan nispeten izole kalan yuan borcuna artan yabancı ilginin altını çizdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/foreign-funds-bought-most-china-bonds-since-may-on-haven-appeal",
+    "ts": 1794882096000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Decline for a Fourth Day, Oil Slips: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "Asian stocks fell, tracking losses on Wall Street as caution ahead of Nvidia Corp.’s earnings was compounded by US moves to further restrict China’s access to advanced artificial intelligence chips and servers.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
+    "tt": "BoK'dan Yoon: Yapay Zeka Endişeleri Kore Hisse Senedi Oynaklığını Arttırıyor",
+    "s": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+    "ss": "Bank of Korea Baş Ekonomisti Kyoungsoo Yoon, yapay zekaya ilişkin endişelerin Güney Kore hisse senedi piyasalarındaki oynaklığı artırdığına inanıyor. Haidi Stroud-Watts ve Paul Allen ile \"Bloomberg: Asya Ticareti\" üzerine konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/bok-s-yoon-ai-concerns-add-to-korea-equity-volatility-video",
+    "ts": 1794879986000,
+    "tags": []
+   },
+   {
     "t": "RBNZ Flags Growing Private Credit Risks in Property Finance",
     "tt": "RBNZ, Gayrimenkul Finansmanında Artan Özel Kredi Risklerini İşaretledi",
     "s": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
@@ -599,15 +640,6 @@
     "ss": "Petrol, arzın talebi geride bıraktığına ilişkin işaretler ve Başkan Yardımcısı JD Vance'in ABD'nin İran'da uzun süreli bir savaştan kaçınmak istediğinin sinyalini vermesiyle düştü.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
     "ts": 1794870175000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks Track US Losses Before Nvidia Results: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "Asian stocks fell, tracking declines on Wall Street as caution ahead of Nvidia Corp.’s widely anticipated earnings was compounded by US moves to further restrict China’s access to advanced artificial intelligence chips and servers.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
     "tags": []
    },
    {
@@ -644,33 +676,6 @@
     "ss": "Chipmaker hisseleri, Nvidia Corp.'un dahil olduğu skandalın ardından ABD'nin Çin'in gelişmiş yapay zeka çiplerine ve sunucularına erişimini daha da kısıtlamak için harekete geçmesinin ardından düşüş yaşadı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
     "ts": 1794874939000,
-    "tags": []
-   },
-   {
-    "t": "China’s Buyback Push Struggles to Put a Floor Under Stocks",
-    "tt": "Çin'in Geri Alımı, Hisselerin Altında Bir Zemin Oluşturma Mücadelesini Zorluyor",
-    "s": "Chinese companies are tapping only a fraction of loans provided by Beijing for stock buybacks, an indication that the latest effort to support markets is faltering.",
-    "ss": "Çinli şirketler Pekin'in hisse geri alımları için sağladığı kredilerin yalnızca küçük bir kısmını kullanıyor; bu da piyasaları desteklemeye yönelik son çabaların aksadığının bir göstergesi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-buyback-push-struggles-to-put-a-floor-under-stocks",
-    "ts": 1794873650000,
-    "tags": []
-   },
-   {
-    "t": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
-    "tt": "Teknoloji Antropik Halka Arz Öncesinde Baskı Altında, Hisse Satışları Devam Ediyor",
-    "s": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Alger’s Executive Vice President, Portfolio Manager Ankur Crawford, Bilt’s CEO Ankur Jain, Jefferies’ Senior Equity Research A",
-    "ss": "Bloomberg Television, Wall Street'in kapanış zilinden önceki ve sonraki son dakika ve saniyelere kadar uzanan en son haberleri ve analizleri size getiriyor. Bugünün konukları Alger'in Genel Müdür Yardımcısı, Portföy Yöneticisi Ankur Crawford, Bilt'in CEO'su Ankur Jain, Jefferies' Senior Equity Research A",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/the-close-11-16-2026-video",
-    "ts": 1794874658000,
-    "tags": []
-   },
-   {
-    "t": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
-    "tt": "Altın, Enflasyon Baskısının Devam Etmesiyle 14 Ayın En Düşük Seviyesinde Durdu",
-    "s": "Gold steadied after its lowest close since September 2025, under pressure from stubborn US inflation and losses on Wall Street.",
-    "ss": "Altın, inatçı ABD enflasyonu ve Wall Street'teki kayıpların baskısı altında Eylül 2025'ten bu yana en düşük kapanışının ardından istikrarını korudu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
-    "ts": 1794871608000,
     "tags": []
    }
   ],
@@ -773,6 +778,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
+    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+    "ss": "“Eğer kocamdan önce ölürsem, ona benim aylık maaşımın yüzde 50-66’sı kadar ömür boyu emekli maaşı verilecek.”",
+    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "ts": 1794882600000,
+    "tags": []
+   },
+   {
     "t": "United Airlines resolves system outage that delayed flights Monday",
     "tt": "United Airlines, FAA'nın yer durdurma gecikmeleri nedeniyle sistem kesintisi yaşıyor",
     "s": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
@@ -854,18 +868,36 @@
     "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
     "ts": 1794866880000,
     "tags": []
-   },
-   {
-    "t": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-    "tt": "Nvidia'nın hisseleri ABD hükümetinin sert sözlerinin ardından düşüşünü sürdürüyor",
-    "s": "The Commerce Department announced a new rule aimed at restricting China’s remote access to advanced chips.",
-    "ss": "Ticaret Bakanlığı, Çin'in gelişmiş çiplere uzaktan erişimini kısıtlamayı amaçlayan yeni bir kural duyurdu.",
-    "u": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-    "ts": 1794865980000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Anon Intel Officials: Iran Could Detonate Dirty Bomb Or Chemical Weapon In D.C.",
+    "tt": "Anon Intel Yetkilileri: İran, DC'de Kirli Bomba Veya Kimyasal Silah Patlatabilir",
+    "s": "Anon Intel Officials: Iran Could Detonate Dirty Bomb Or Chemical Weapon In D.C. A who's who of top Trump administration officials and their families are currently living on military bases around Washington D.C. on fears that Iranian intelligence or Iran-linked agents could move to attack or assasina",
+    "ss": "Anon Intel Yetkilileri: İran, DC'de Kirli Bomba Veya Kimyasal Silah Patlatabilir Trump yönetiminin üst düzey yetkililerinden ve ailelerinden biri, İran istihbaratının veya İran bağlantılı ajanların saldırı veya suikast için harekete geçebileceği korkusuyla şu anda Washington DC çevresindeki askeri üslerde yaşıyor",
+    "u": "https://www.zerohedge.com/markets/anon-intel-officials-iran-could-detonate-dirty-bomb-or-chemical-weapons-dc",
+    "ts": 1794882000000,
+    "tags": []
+   },
+   {
+    "t": "Florida Rep. Offers Safe Haven To Elon Musk As Democrats Prepare Revenge Tour",
+    "tt": "Demokratlar İntikam Turuna Hazırlanırken Florida Temsilcisi Elon Musk'a Güvenli Liman Sunuyor",
+    "s": "Florida Rep. Offers Safe Haven To Elon Musk As Democrats Prepare Revenge Tour There is a lesson to be learned from the tactics of progressives, primarily in the fleeting nature of power and how to use it to its utmost potential while you have it. &nbsp;The greatest weakness of conservatives is their",
+    "ss": "Florida Temsilcisi, Demokratlar İntikam Turuna Hazırlanırken Elon Musk'a Güvenli Sığınak Sunuyor İlericilerin taktiklerinden, öncelikle gücün geçici doğası ve ona sahip olduğunuzda onu en yüksek potansiyeline kadar nasıl kullanacağınız konusunda öğrenilecek bir ders var.  Muhafazakarların en büyük zayıflığı",
+    "u": "https://www.zerohedge.com/political/florida-rep-offers-safe-haven-elon-musk-democrats-prepare-revenge-tour",
+    "ts": 1794880800000,
+    "tags": []
+   },
+   {
+    "t": "French-Style Protests Erupt In Los Angeles As Far-Left Groups Mobilize Kids To Push Agenda",
+    "tt": "Aşırı Sol Grupların Gündemi Öne Çıkarmak İçin Çocukları Harekete Geçirmesiyle Los Angeles'ta Fransız Tarzı Protestolar Patlak Verdi",
+    "s": "French-Style Protests Erupt In Los Angeles As Far-Left Groups Mobilize Kids To Push Agenda Late last week, we asked: \" Is French-Style Chaos Coming To America?\" The major concern stateside is that far-left NGOs and activist networks will use students as useful idiots to advance their anti-American a",
+    "ss": "Aşırı Sol Grupların Gündemi Öne Çıkarmak İçin Çocukları Harekete Geçirmesiyle Los Angeles'ta Fransız Tarzı Protestolar Patlak Verdi Geçen hafta sonlarında şunu sorduk: \"Amerika'ya Fransız tarzı kaos mu geliyor?\" ABD'deki en büyük endişe, aşırı sol STK'ların ve aktivist ağların, Amerikan karşıtı tutumlarını ilerletmek için öğrencileri kullanışlı aptallar olarak kullanacaklarıdır.",
+    "u": "https://www.zerohedge.com/political/french-style-protests-erupt-los-angeles-far-left-groups-mobilize-kids-push-agenda",
+    "ts": 1794880200000,
+    "tags": []
+   },
    {
     "t": "Horrific: Christians Burned Alive, Churches Torched, & Girls Forced Into Child Marriage",
     "tt": "Korkunç: Hıristiyanlar Diri Diri Yakıldı, Kiliseler Yakıldı ve Kızlar Zorla Evlendirildi",
@@ -927,33 +959,6 @@
     "ss": "Mamdani, Trump'ın Bodegas'a Ülke Genelinde SNAP Stoklama Kuralı İçin 90 Günlük Erteleme Verdiğini Söyledi Tom Gantert tarafından The Epoch Times aracılığıyla yazılan New York Belediye Başkanı Zohran Mamdani, 13 Kasım'da Trump yönetimiyle görüştükten sonra ABD Tarım Bakanlığı'nın (USDA) yaptırımları erteleyeceğini söyledi",
     "u": "https://www.zerohedge.com/personal-finance/mamdani-says-trump-gave-bodegas-nationwide-90-day-reprieve-snap-stocking-rule",
     "ts": 1794870000000,
-    "tags": []
-   },
-   {
-    "t": "Schiff Bill Would Make Taxpayers Pay For Migrants' Housing, Food And Rehab While They Fight Deportation",
-    "tt": "Schiff Tasarısı, Sınır Dışı Edilmeyle Mücadele Ederken Vergi Mükelleflerinin Göçmenlerin Barınma, Yiyecek ve Rehabilitasyon Masraflarını Ödemesini Sağlayacak",
-    "s": "Schiff Bill Would Make Taxpayers Pay For Migrants' Housing, Food And Rehab While They Fight Deportation Sen. Adam Schiff's immigration bill would let the government-paid lawyers it creates for people facing deportation ask for public money to cover their clients' housing, food, travel, mental health",
-    "ss": "Schiff Tasarısı, Sınır Dışı Edilmeyle Mücadele Ederken Göçmenlerin Barınma, Yiyecek ve Rehabilitasyon masraflarını Vergi Mükelleflerine Ödetecek Senatör Adam Schiff'in göçmenlik yasa tasarısı, sınır dışı edilme tehlikesiyle karşı karşıya olan insanlar için oluşturulan hükümet maaşlı avukatların, müşterilerinin barınma, yiyecek, seyahat ve akıl sağlığını karşılamak için kamu parası talep etmelerine olanak tanıyacak",
-    "u": "https://www.zerohedge.com/political/schiff-bill-would-make-taxpayers-pay-migrants-housing-food-and-rehab-while-they-fight",
-    "ts": 1794868800000,
-    "tags": []
-   },
-   {
-    "t": "Trump Says Kim Jong Un \"May Come\" To China: \"That's Up To President Xi\"",
-    "tt": "Trump, Kim Jong Un'un Çin'e \"Gelebileceğini\" Söyledi: \"Bu Başkan Xi'ye Bağlı\"",
-    "s": "Trump Says Kim Jong Un \"May Come\" To China: \"That's Up To President Xi\" Authored by Timothy Frudd via The Epoch Times , U.S. President Donald Trump said on Nov. 16 that he may meet with North Korean leader Kim Jong Un during his trip to the Asia-Pacific Economic Cooperation summit in Shenzhen, China",
-    "ss": "Trump, Kim Jong Un'un Çin'e \"Gelebileceğini\" Söyledi: \"Bu Başkan Xi'ye Bağlı\" The Epoch Times aracılığıyla Timothy Frudd tarafından yazılan ABD Başkanı Donald Trump, 16 Kasım'da Çin'in Shenzhen kentindeki Asya-Pasifik Ekonomik İşbirliği zirvesine yapacağı gezi sırasında Kuzey Kore lideri Kim Jong Un ile görüşebileceğini söyledi.",
-    "u": "https://www.zerohedge.com/geopolitical/trump-says-kim-jong-un-may-come-china-thats-president-xi",
-    "ts": 1794867600000,
-    "tags": []
-   },
-   {
-    "t": "\"No Evidence It's Cyber-Related\": JPMorgan Is Working To Fix Temporary Outage Due To \"Technical Issue\"",
-    "tt": "Büyük ABD Bankaları Hizmet Kesintisi Raporlarıyla Karşı Karşıya",
-    "s": "\"No Evidence It's Cyber-Related\": JPMorgan Is Working To Fix Temporary Outage Due To \"Technical Issue\" Update (1700ET) : JPMorgan Chase &amp; Co.&nbsp;said some transactions are taking longer to process than normal as the bank grapples with a \"technical issue.\" The bank said a \"temporary issue relat",
-    "ss": "Büyük ABD Bankaları Hizmet Kesintisi Raporlarıyla Karşı Karşıya Büyük finansal kuruluşlardaki potansiyel hizmet kesintilerine ilişkin raporlar bu öğleden sonra X'te ortaya çıktı. Bu durum, siber tehditlere ilişkin endişelerin arttığı, dünya çapındaki hükümetlerin vatandaşlara yiyecek stoklamalarını söylediği ve Bill Gates'in uyarılarının olduğu bir dönemde gerçekleşti.",
-    "u": "https://www.zerohedge.com/personal-finance/major-us-banks-hit-reports-service-disruptions",
-    "ts": 1794866100000,
     "tags": []
    }
   ],
