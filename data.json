@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T04:33:25.351397+00:00",
+ "generated": "2026-11-17T05:34:24.464902+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 51608.2,
+   "p": 51608.17,
    "c": -1.41,
-   "d": -739.351,
+   "d": -739.381,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3871.3,
-   "c": 0.47,
-   "d": 18.3,
+   "p": 3884.1,
+   "c": 0.81,
+   "d": 31.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.31,
-   "c": 1.12,
-   "d": 0.525,
+   "p": 47.605,
+   "c": 1.75,
+   "d": 0.82,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 84.93,
-   "c": -0.92,
-   "d": -0.79,
+   "p": 84.98,
+   "c": -0.86,
+   "d": -0.74,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.52,
-   "c": -1.0,
-   "d": -0.92,
+   "p": 91.7,
+   "c": -0.8,
+   "d": -0.74,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.491,
+   "p": 103.483,
    "c": -0.06,
-   "d": -0.059,
+   "d": -0.067,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4079,
+   "p": 50.4082,
    "c": 0.13,
    "d": 0.068,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64892,
-   "c": -0.09,
+   "p": 64940,
+   "c": 0.31,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1825.53,
-   "c": 0.13,
-   "k": "usd"
-  },
-  {
-   "n": "SOL",
-   "p": 72.59,
+   "p": 1838.22,
    "c": 1.11,
    "k": "usd"
   },
   {
+   "n": "SOL",
+   "p": 72.93,
+   "c": 1.98,
+   "k": "usd"
+  },
+  {
    "n": "XRP",
-   "p": 0.961598,
-   "c": -0.03,
+   "p": 0.965151,
+   "c": 0.84,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 592.7,
-   "c": 0.19,
+   "p": 594.05,
+   "c": 0.59,
    "k": "usd"
   }
  ],
@@ -584,6 +584,74 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Latest Oil Market News and Analysis for Nov. 17",
+    "tt": "17 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
+    "ss": "Petrol, arzın talebi geride bıraktığına dair işaretler ve Başkan Yardımcısı JD Vance'in ABD'nin İran'da uzun süreli bir savaştan kaçınmak istediğinin sinyalini vermesiyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+    "ts": 1794870175000,
+    "tags": []
+   },
+   {
+    "t": "Aluminum Squeeze Intensifies With Traders Scrambling for Metal",
+    "tt": "Alüminyum Sıkıştırması Tüccarların Metal İçin Mücadele Etmesiyle Yoğunlaşıyor",
+    "s": "An aluminum supply squeeze is intensifying, with extreme tightness in near-term contracts leaving traders scrambling for metal.",
+    "ss": "Alüminyum arzı sıkışıklığı yoğunlaşıyor ve kısa vadeli sözleşmelerdeki aşırı sıkışıklık, tüccarları metal için çabalamaya itiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/aluminum-squeeze-intensifies-lme-traders-scrambling-for-metal",
+    "ts": 1794893057000,
+    "tags": []
+   },
+   {
+    "t": "Gold Rises From 14-Month Low as Dip Buyers Offset Rate-Hike Bets",
+    "tt": "Altın, Dip Alıcıların Faiz Artışı Bahislerini Dengelemesiyle 14 Ayın En Düşük Seviyesinden Yükseldi",
+    "s": "Gold edged higher — after its lowest close since September 2025 — as dip buyers brought some relief from stubborn US inflation and a selloff in technology stocks.",
+    "ss": "Altın, Eylül 2025'ten bu yana en düşük kapanışının ardından, dip alıcılarının inatçı ABD enflasyonu ve teknoloji hisselerindeki satışlardan bir miktar rahatlama getirmesiyle yükselişe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/gold-steadies-near-14-month-low-as-inflation-pressure-persists",
+    "ts": 1794871608000,
+    "tags": []
+   },
+   {
+    "t": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
+    "tt": "Macaristan, Küresel Risklerin Dikkati Desteklemesi Nedeniyle Faiz Oranlarını Tutmaya Hazır",
+    "s": "Hungary is set to leave interest rates steady for a third month as central bankers assess an uptick in inflation against the backdrop of higher borrowing costs across the world.",
+    "ss": "Macaristan, merkez bankacılarının dünya genelinde artan borçlanma maliyetleri ortamında enflasyonun artacağını değerlendirmeleri nedeniyle faiz oranlarını üçüncü ay boyunca sabit tutmaya hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/hungary-is-set-to-hold-rates-as-global-risks-support-caution",
+    "ts": 1794891600000,
+    "tags": []
+   },
+   {
+    "t": "Stock Selloff Extends Into Fourth Day, Oil Drops: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "Global stock losses deepened as US moves to restrict China’s access to advanced artificial intelligence chips and servers compounded investor caution ahead of Nvidia Corp.’s high-stakes earnings.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "China's AI² Robotics On Business Strategy",
+    "tt": "Çin'in AI² Robotik İş Stratejisi",
+    "s": "Guo Yandong, Founder and CEO at AI² Robotics, discusses his outlook on innovation in China's humanoid technology sector with Stephen Engle on the sidelines of the APEC meetings in Shenzhen. (Source: Bloomberg)",
+    "ss": "AI² Robotics Kurucusu ve CEO'su Guo Yandong, Shenzhen'deki APEC toplantılarının oturum aralarında Stephen Engle ile Çin'in insansı teknoloji sektöründeki inovasyona bakış açısını tartışıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/china-s-ai-robotics-on-business-strategy-video",
+    "ts": 1794890680000,
+    "tags": []
+   },
+   {
+    "t": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+    "tt": "ABD, Çin'in Nvidia'nın Yapay Zeka Çiplerine Uzaktan Erişimini Engellemek İçin Harekete Geçiyor",
+    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets.",
+    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Paul Allen ile Sidney'den canlı yayında, haber yapımcılarından ve sektör liderlerinden küresel pazarları şekillendiren en büyük hikayeler hakkında fikir ve analiz alıyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/the-asia-trade-11-17-2026-video",
+    "ts": 1794889945000,
+    "tags": []
+   },
+   {
     "t": "Anthropic IPO: What Australian Investors Need to Know",
     "tt": "Antropik Halka Arz: Avustralyalı Yatırımcıların Bilmesi Gerekenler",
     "s": "Australian investors are among a select group outside the US able to participate directly in Anthropic’s IPO. North Star Funds Management Managing Partner Claudia Kwan discusses the risks surrounding the AI trade and how Australia could benefit from the AI infrastructure boom on \"Bloomberg: The Asia",
@@ -604,75 +672,12 @@
     ]
    },
    {
-    "t": "Asia Stock Selloff Enters Fourth Day, Oil Declines: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "Asian stocks dropped as US moves to restrict China’s access to advanced artificial intelligence chips and servers added to caution ahead of Nvidia Corp.’s high-stakes earnings.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 17",
-    "tt": "17 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
-    "ss": "Petrol, arzın talebi geride bıraktığına dair işaretler ve Başkan Yardımcısı JD Vance'in ABD'nin İran'da uzun süreli bir savaştan kaçınmak istediğinin sinyalini vermesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-    "ts": 1794870175000,
-    "tags": []
-   },
-   {
     "t": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
     "tt": "ABD, Çin'in Bilgi İşlem Erişimine Yeni Sınırlamalar Getirirken Çip Hisseleri Düşüyor",
     "s": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
     "ss": "Chipmaker hisseleri, Nvidia Corp.'un dahil olduğu skandalın ardından ABD'nin Çin'in gelişmiş yapay zeka çiplerine ve sunucularına erişimini daha da kısıtlamak için harekete geçmesinin ardından düşüş yaşadı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
     "ts": 1794874939000,
-    "tags": []
-   },
-   {
-    "t": "Barclays Says Forced Retail Liquidation Behind Taiwan Stock Rout",
-    "tt": "Barclays, Tayvan'daki Hisse Senedi Bozgununun Arkasında Zorunlu Perakende Tasfiyesinin Olduğunu Söyledi",
-    "s": "Forced selling by retail investors was a main driver of Taiwanese stocks’ steep selloff on Monday, a trend that could extend and pressure the market further, according to Barclays Plc.",
-    "ss": "Barclays Plc'ye göre, perakende yatırımcılar tarafından yapılan zorunlu satışlar, Tayvan hisse senetlerinin Pazartesi günü sert satışlarının ana itici gücü oldu; bu eğilim, piyasayı daha da genişletip baskı altına alabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-says-forced-retail-liquidation-behind-taiwan-stock-rout",
-    "ts": 1794885424000,
-    "tags": []
-   },
-   {
-    "t": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
-    "tt": "ABD Talaş Kaldırımlarını Hazırlarken Çinli Teknoloji Liderleri Buluşuyor",
-    "s": "Chinese business and technology leaders are gathering in Shenzhen ahead of the APEC CEO Summit. The talks unfold as the US Commerce Department adds licensing requirements for advanced chip sales to data centers in Southeast Asia and Brazil to close remote-access loopholes. (Source: Bloomberg)",
-    "ss": "Çinli iş ve teknoloji liderleri, APEC CEO Zirvesi öncesinde Shenzhen'de bir araya geliyor. Görüşmeler, ABD Ticaret Bakanlığı'nın uzaktan erişim açıklarını kapatmak amacıyla Güneydoğu Asya ve Brezilya'daki veri merkezlerine gelişmiş çip satışları için lisans gereklilikleri eklemesiyle devam ediyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
-    "ts": 1794884142000,
-    "tags": []
-   },
-   {
-    "t": "Mitsui & Co. Said to Back J-Oil Mills in Battle Over Kadoya",
-    "tt": "Mitsui & Co., Kadoya Savaşında J-Oil Mills'i Destekleyeceğini Söyledi",
-    "s": "Kadoya Sesame Mills Inc. shareholder Mitsui &amp; Co. has backed a proposal from J-Oil Mills Inc. to take over the Japanese sesame seed oil seller, according to people familiar with the matter, potentially strengthening the bidder’s hand in a three-way battle for control of the company.",
-    "ss": "Kadoya Sesame Mills Inc.'in hissedarı Mitsui & Co., J-Oil Mills Inc.'in Japon susam tohumu yağı satıcısını devralma teklifini, konuya aşina olan kaynaklara göre destekledi ve bu teklif sahibinin, şirketin kontrolü için üçlü bir savaşta potansiyel olarak elini güçlendirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/mitsui-co-said-to-back-j-oil-mills-in-battle-over-kadoya",
-    "ts": 1794821729000,
-    "tags": []
-   },
-   {
-    "t": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
-    "tt": "Küresel Fonlar Hindistan BT Hisselerine Maruz Kalmayı Dikkatli Bir Şekilde Artırıyor",
-    "s": "Foreign long-only funds are gradually adding exposure after months of caution.",
-    "ss": "Yalnızca uzun vadeli yabancı fonlar, aylarca süren ihtiyatlılığın ardından yavaş yavaş risklerini artırıyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
-    "ts": 1794883155000,
-    "tags": []
-   },
-   {
-    "t": "New Zealand Inflation Expectations Remain Anchored Above 2%",
-    "tt": "Yeni Zelanda Enflasyon Beklentileri %2'nin Üzerinde Sabit Kaldı",
-    "s": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy.",
-    "ss": "Yeni Zelanda'nın uzun vadeli enflasyon beklentileri dördüncü çeyrekte azaldı ve bu durum, yeni bir yüksek yakıt fiyatları dalgasının ekonomiye yerleşmediğine dair işaretleri artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-inflation-expectations-remain-anchored-above-2",
-    "ts": 1794882284000,
     "tags": []
    }
   ],
@@ -869,12 +874,48 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Three Men & A Photo Op: What To Expect In Shenzhen",
+    "tt": "Üç Adam ve Bir Fotoğraf Operasyonu: Shenzhen'de Neler Beklenmeli?",
+    "s": "Three Men &amp; A Photo Op: What To Expect In Shenzhen Authored by Larry C. Johnson via Sonar21 , On Thursday, November 19, in the Chinese tech hub of Shenzhen, Donald Trump will sit down with Vladimir Putin and Xi Jinping for a three-way conversation . Beijing's Foreign Ministry made it official on",
+    "ss": "Üç Adam ve Bir Fotoğraf Operasyonu: Shenzhen'de Neler Beklenmeli Yazan: Larry C. Johnson, Sonar21 aracılığıyla, 19 Kasım Perşembe günü, Çin'in teknoloji merkezi Shenzhen'de Donald Trump, Vladimir Putin ve Xi Jinping ile üçlü bir görüşme yapacak. Pekin Dışişleri Bakanlığı bunu resmileştirdi",
+    "u": "https://www.zerohedge.com/geopolitical/three-men-photo-op-what-expect-shenzhen",
+    "ts": 1794891600000,
+    "tags": []
+   },
+   {
+    "t": "From Druckenmiller's Chip Dump To Aschenbrenner's $18.7 Billion Vanishing Act: What The \"Smart Money\" Was Doing Right Before The AI Trade Blew Up",
+    "tt": "Druckenmiller'ın Çip Dökülmesinden Aschenbrenner'ın 18,7 Milyar Dolarlık Kaybolma Yasasına: Yapay Zeka Ticareti Patlamadan Hemen Önce \"Akıllı Para\" Ne Yapıyordu?",
+    "s": "From Druckenmiller's Chip Dump To Aschenbrenner's $18.7 Billion Vanishing Act: What The \"Smart Money\" Was Doing Right Before The AI Trade Blew Up Every quarter the 13Fs tell you what the biggest names in hedge fund land owned 45 days ago. This quarter they tell you something more useful: how those n",
+    "ss": "Druckenmiller'ın Çip Dökülmesinden Aschenbrenner'ın 18,7 Milyar Dolarlık Kaybolma Yasasına: Yapay Zeka Ticareti Patlamadan Hemen Önce \"Akıllı Para\" Ne Yapıyordu? 13F'ler her çeyrekte, hedge fon arazisindeki en büyük isimlerin 45 gün önce neye sahip olduğunu anlatıyor. Bu çeyrekte size daha yararlı bir şey söylüyorlar: bu n'ler nasıl",
+    "u": "https://www.zerohedge.com/markets/druckenmillers-chip-dump-aschenbrenners-187-billion-vanishing-act-what-smart-money-was",
+    "ts": 1794890932000,
+    "tags": []
+   },
+   {
+    "t": "Historian Who Tied Ilhan Omar's Father To Somali Dictator Says He Was Warned Minneapolis Isn't Safe",
+    "tt": "İlhan Omar'ın Babasını Somalili Diktatöre Bağlayan Tarihçi, Minneapolis'in Güvenli Olmadığı konusunda Uyarıldığını Söyledi",
+    "s": "Historian Who Tied Ilhan Omar's Father To Somali Dictator Says He Was Warned Minneapolis Isn't Safe A Somali-born historian whose research ties Rep. Ilhan Omar's late father to dictator Siad Barre's military regime says the organizers of a Minneapolis awards ceremony pulled him from the event at the",
+    "ss": "İlhan Omar'ın Babasını Somalili Diktatöre Bağlayan Tarihçi, Minneapolis'in Güvenli Olmadığı konusunda Uyarıldığını Söyledi Araştırması Temsilci İlhan Omar'ın merhum babasını diktatör Siad Barre'nin askeri rejimine bağlayan Somali doğumlu bir tarihçi, Minneapolis ödül törenini düzenleyenlerin kendisini ödül törenindeki etkinlikten çektiğini söylüyor",
+    "u": "https://www.zerohedge.com/political/historian-who-tied-ilhan-omars-father-somali-dictator-says-he-was-warned-minneapolis-isnt",
+    "ts": 1794890400000,
+    "tags": []
+   },
+   {
     "t": "'Brazil No Longer Lives In A Full Democracy': Self-Exiled Flávio Bolsonaro Plans To Stay In US",
     "tt": "'Brezilya Artık Tam Demokraside Yaşamıyor': Kendini Sürgüne Gönderen Flávio Bolsonaro ABD'de Kalmayı Planlıyor",
     "s": "'Brazil No Longer Lives In A Full Democracy': Self-Exiled Flávio Bolsonaro Plans To Stay In US Authored by Troy Myers, Emel Akan and Jan Jekielek via The Epoch Times , Self-exiled Brazilian presidential candidate Flávio Bolsonaro said he plans to seek permanent residency in the United States, citing",
     "ss": "'Brezilya Artık Tam Bir Demokraside Yaşamıyor': Kendiliğinden Sürgün Edilen Flávio Bolsonaro ABD'de Kalmayı Planlıyor Troy Myers, Emel Akan ve Jan Jekielek tarafından The Epoch Times aracılığıyla yazılan, Kendini sürgüne gönderen Brezilyalı başkan adayı Flávio Bolsonaro, Amerika Birleşik Devletleri'nde kalıcı oturma izni almayı planladığını belirterek şunları söyledi:",
     "u": "https://www.zerohedge.com/geopolitical/brazil-no-longer-lives-full-democracy-self-exiled-flavio-bolsonaro-plans-stay-us",
     "ts": 1794889200000,
+    "tags": []
+   },
+   {
+    "t": "Biden Finally Admits What Vance Told Zelensky To His Face",
+    "tt": "Biden Sonunda Vance'in Zelensky'nin Yüzüne Söylediklerini İtiraf Etti",
+    "s": "Biden Finally Admits What Vance Told Zelensky To His Face Joe Biden writes in his new memoir that Volodymyr Zelensky \"could be moody and stubborn in our private conversations, and not as grateful as I would have expected\" - the same charge that set off a media firestorm when Vice President JD Vance ",
+    "ss": "Biden Sonunda Vance'in Zelensky'ye Söylediklerini İtiraf Etti Joe Biden yeni anı kitabında Volodymyr Zelensky'nin \"özel konuşmalarımızda karamsar ve inatçı olabileceğini ve beklediğim kadar minnettar olmadığını\" yazıyor; bu, Başkan Yardımcısı JD Vance'in görevi devraldığında medyada yangın fırtınasını başlatan suçlamanın aynısıydı.",
+    "u": "https://www.zerohedge.com/political/biden-finally-admits-what-vance-told-zelensky-his-face",
+    "ts": 1794887700000,
     "tags": []
    },
    {
@@ -921,45 +962,36 @@
     "u": "https://www.zerohedge.com/markets/anon-intel-officials-iran-could-detonate-dirty-bomb-or-chemical-weapons-dc",
     "ts": 1794882000000,
     "tags": []
-   },
-   {
-    "t": "Florida Rep. Offers Safe Haven To Elon Musk As Democrats Prepare Revenge Tour",
-    "tt": "Demokratlar İntikam Turuna Hazırlanırken Florida Temsilcisi Elon Musk'a Güvenli Liman Sunuyor",
-    "s": "Florida Rep. Offers Safe Haven To Elon Musk As Democrats Prepare Revenge Tour There is a lesson to be learned from the tactics of progressives, primarily in the fleeting nature of power and how to use it to its utmost potential while you have it. &nbsp;The greatest weakness of conservatives is their",
-    "ss": "Florida Temsilcisi, Demokratlar İntikam Turuna Hazırlanırken Elon Musk'a Güvenli Sığınak Sunuyor İlericilerin taktiklerinden, öncelikle gücün geçici doğası ve ona sahip olduğunuzda onu en yüksek potansiyeline kadar nasıl kullanacağınız konusunda öğrenilecek bir ders var.  Muhafazakarların en büyük zayıflığı",
-    "u": "https://www.zerohedge.com/political/florida-rep-offers-safe-haven-elon-musk-democrats-prepare-revenge-tour",
-    "ts": 1794880800000,
-    "tags": []
-   },
-   {
-    "t": "French-Style Protests Erupt In Los Angeles As Far-Left Groups Mobilize Kids To Push Agenda",
-    "tt": "Aşırı Sol Grupların Gündemi Öne Çıkarmak İçin Çocukları Harekete Geçirmesiyle Los Angeles'ta Fransız Tarzı Protestolar Patlak Verdi",
-    "s": "French-Style Protests Erupt In Los Angeles As Far-Left Groups Mobilize Kids To Push Agenda Late last week, we asked: \" Is French-Style Chaos Coming To America?\" The major concern stateside is that far-left NGOs and activist networks will use students as useful idiots to advance their anti-American a",
-    "ss": "Aşırı Sol Grupların Gündemi Öne Çıkarmak İçin Çocukları Harekete Geçirmesiyle Los Angeles'ta Fransız Tarzı Protestolar Patlak Verdi Geçen hafta sonlarında şunu sorduk: \"Amerika'ya Fransız tarzı kaos mu geliyor?\" ABD'deki en büyük endişe, aşırı sol STK'ların ve aktivist ağların, Amerikan karşıtı tutumlarını ilerletmek için öğrencileri kullanışlı aptallar olarak kullanacaklarıdır.",
-    "u": "https://www.zerohedge.com/political/french-style-protests-erupt-los-angeles-far-left-groups-mobilize-kids-push-agenda",
-    "ts": 1794880200000,
-    "tags": []
-   },
-   {
-    "t": "Horrific: Christians Burned Alive, Churches Torched, & Girls Forced Into Child Marriage",
-    "tt": "Korkunç: Hıristiyanlar Diri Diri Yakıldı, Kiliseler Yakıldı ve Kızlar Zorla Evlendirildi",
-    "s": "Horrific: Christians Burned Alive, Churches Torched, &amp; Girls Forced Into Child Marriage Authored by Steve Watson via Modernity , New research from Open Doors and Aid to the Church in Need (ACN) paints a grim picture of escalating violence against Christians, driven by Islamist militants in Afric",
-    "ss": "Korkunç: Canlı Diri Hıristiyanlar Yakıldı, Kiliseler Yakıldı ve Kızlar Çocuk Evliliğine Zorlandı Steve Watson via Modernity tarafından yazılan Açık Kapılar ve Muhtaç Kiliseye Yardım (ACN) tarafından hazırlanan yeni araştırma, Afrika'daki İslamcı militanlar tarafından Hıristiyanlara karşı artan şiddetin korkunç bir resmini çiziyor",
-    "u": "https://www.zerohedge.com/geopolitical/horrific-christians-burned-alive-churches-torched-girls-forced-child-marriage",
-    "ts": 1794879600000,
-    "tags": []
-   },
-   {
-    "t": "Amazon AWS Breaks Ground On $7BN Data Center In Indiana",
-    "tt": "Amazon AWS Indiana'da 7 Milyar Dolarlık Veri Merkezinin Temelini Atıyor",
-    "s": "Amazon AWS Breaks Ground On $7BN Data Center In Indiana By Georgia Butler of DatacenterDynamics Amazon Web Services (AWS) has broken ground on its $7 billion data center project in Northwest Indiana. As reported by The Times of Northwest Indiana , construction has begun on Project Rise in Wheatfield",
-    "ss": "Amazon AWS, Indiana'da 7 Milyar Dolarlık Veri Merkezinin Temelini Atıyor DatacenterDynamics'ten Georgia Butler tarafından Amazon Web Services (AWS), Kuzeybatı Indiana'daki 7 milyar dolarlık veri merkezi projesinin temelini attı. The Times of Northwest Indiana'nın haberine göre Wheatfield'daki Project Rise'ın inşaatı başladı",
-    "u": "https://www.zerohedge.com/markets/amazon-aws-breaks-ground-7bn-data-center-indiana",
-    "ts": 1794877200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Çin ve Kanada gümrük vergisi muafiyetini genişletti",
+    "tt": null,
+    "s": "Çin, yıllık 400 milyon Kanada doları tutarındaki ilave Kanada tarım ve su ürününü gümrük vergisi indirimi kapsamına alırken, Kanada da bazı Çin menşeli çelik ve alüminyum ürünlerinde vergi muafiyetini genişletecek.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-ve-kanada-gumruk-vergisi-indirimlerini-genisletti-3794812",
+    "ts": 1794893234000,
+    "tags": []
+   },
+   {
+    "t": "Küresel piyasalarda çip baskısı",
+    "tt": null,
+    "s": "ABD'nin Çin'in gelişmiş yapay zekâ çipleri ve sunucularına erişimini kısıtlamaya yönelik adımları, Nvidia'nın bilançosu öncesinde küresel hisse senetlerindeki kayıpları derinleştirdi. Asya'da düşüşe Tayvan ve Güney Kore borsaları öncülük etti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-cip-baskisi-3794811",
+    "ts": 1794892725000,
+    "tags": []
+   },
+   {
+    "t": "Ekonomi ve siyaset gündemi- 17 Kasım 2026",
+    "tt": null,
+    "s": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-17-kasim-2026-3794810",
+    "ts": 1794891901000,
+    "tags": []
+   },
    {
     "t": "OpenAI, çocuk istismarı görüntülerini tespit etmek için yeni araç geliştirdi",
     "tt": null,
@@ -1021,33 +1053,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/vance-alice-huang-hakkindaki-istihbarat-raporlari-celisiyor-3794803",
     "ts": 1794861702000,
-    "tags": []
-   },
-   {
-    "t": "AB'den sınır ötesi banka birleşmelerini artırma çağrısı",
-    "tt": null,
-    "s": "AB Komisyonu'nun finansal hizmetlerden sorumlu üyesi Maria Luis Albuquerque, Avrupa'nın ABD ve Çin'in en büyük bankalarıyla rekabet edebilmesi için daha fazla sınır ötesi banka birleşmesine ihtiyaç duyduğunu söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ab-den-sinir-otesi-banka-birlesmelerini-artirma-cagrisi-3794802",
-    "ts": 1794860492000,
-    "tags": []
-   },
-   {
-    "t": "Fed/Hammack: Güçlü büyüme ve Fed beklentileri faiz artışını tetikliyor",
-    "tt": null,
-    "s": "Cleveland Fed Başkanı Beth Hammack, güçlü ekonomik büyümenin ve Fed'in atacağı adımlara ilişkin beklentilerin faizlerdeki artışı tetiklediğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fedhammack-guclu-buyume-ve-fed-beklentileri-faiz-artisini-tetikliyor-3794801",
-    "ts": 1794859957000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de bazı bankaların dijital hizmetlerinde erişim sorunu bildirildi",
-    "tt": null,
-    "s": "Chase, Bank of America ve Wells Fargo'nun da aralarında bulunduğu bazı ABD bankalarının müşterileri, hesaplarına çevrimiçi erişimde ve Zelle üzerinden para transferlerinde sorun yaşadıklarını bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-bazi-bankalarin-dijital-hizmetlerinde-erisim-sorunu-bildirildi-3794800",
-    "ts": 1794859026000,
     "tags": []
    }
   ]
