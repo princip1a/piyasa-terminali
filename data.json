@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-17T20:42:04.205049+00:00",
+ "generated": "2026-11-17T21:40:55.900530+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7328.46,
-   "c": -1.19,
-   "d": -88.13,
+   "p": 7340.53,
+   "c": -1.03,
+   "d": -76.06,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24259.836,
-   "c": -1.02,
-   "d": -249.924,
+   "p": 24328.383,
+   "c": -0.74,
+   "d": -181.377,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50724.92,
-   "c": -1.71,
-   "d": -883.252,
+   "p": 50759.42,
+   "c": -1.64,
+   "d": -848.752,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 26.46,
-   "c": 15.5,
-   "d": 3.55,
+   "p": 25.46,
+   "c": 11.13,
+   "d": 2.55,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3853.7,
-   "c": 0.02,
-   "d": 0.7,
+   "p": 3856.6,
+   "c": 0.09,
+   "d": 3.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.185,
-   "c": 0.85,
-   "d": 0.4,
+   "p": 47.365,
+   "c": 1.24,
+   "d": 0.58,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.68,
-   "c": -0.05,
-   "d": -0.04,
+   "p": 85.62,
+   "c": -0.12,
+   "d": -0.1,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.86,
-   "c": 0.45,
-   "d": 0.42,
+   "p": 92.93,
+   "c": 0.53,
+   "d": 0.49,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.504,
-   "c": -0.04,
-   "d": -0.046,
+   "p": 103.548,
+   "c": -0.0,
+   "d": -0.002,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4127,
+   "p": 50.4106,
    "c": 0.14,
-   "d": 0.072,
+   "d": 0.07,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11661.0,
-   "c": -1.53,
-   "d": -180.8,
+   "c": -1.54,
+   "d": -181.8,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 63983,
-   "c": -1.49,
+   "p": 64474,
+   "c": -1.22,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1798.54,
-   "c": -0.94,
+   "p": 1811.0,
+   "c": -0.84,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.1,
-   "c": 2.56,
+   "p": 73.71,
+   "c": 2.5,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.968777,
-   "c": 1.5,
+   "p": 0.97355,
+   "c": 1.6,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 589.15,
-   "c": -0.27,
+   "p": 592.04,
+   "c": -0.24,
    "k": "usd"
   }
  ],
@@ -353,7 +353,7 @@
   {
    "title": "Pending Home Sales m/m",
    "impact": "Low",
-   "forecast": "-1.8%",
+   "forecast": "-2.0%",
    "previous": "-7.3%",
    "actual": "",
    "ts": 1795014000000,
@@ -363,7 +363,7 @@
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "-0.3M",
+   "forecast": "0.4M",
    "previous": "4.7M",
    "actual": "",
    "ts": 1795015800000,
@@ -433,7 +433,7 @@
   {
    "title": "Philly Fed Manufacturing Index",
    "impact": "Medium",
-   "forecast": "19.2",
+   "forecast": "20.6",
    "previous": "20.9",
    "actual": "",
    "ts": 1795095000000,
@@ -443,7 +443,7 @@
   {
    "title": "Unemployment Claims",
    "impact": "Medium",
-   "forecast": "199K",
+   "forecast": "198K",
    "previous": "200K",
    "actual": "",
    "ts": 1795095000000,
@@ -493,7 +493,7 @@
   {
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "25B",
    "previous": "61B",
    "actual": "",
    "ts": 1795102200000,
@@ -553,7 +553,7 @@
   {
    "title": "Revised UoM Consumer Sentiment",
    "impact": "Medium",
-   "forecast": "52.1",
+   "forecast": "51.7",
    "previous": "51.0",
    "actual": "",
    "ts": 1795186800000,
@@ -584,6 +584,69 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Fall on Tech Disruptions as Nvidia in Focus: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "A selloff in technology giants dragged down stocks on mounting concerns about technical disruptions, with investors also looking to Nvidia Corp.’s earnings for a read on the outlook for artificial intelligence.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": []
+   },
+   {
+    "t": "Sellas Life Sciences Surges 156% After Cancer Vaccine Data",
+    "tt": "Sellas Life Sciences, Kanser Aşısı Verilerinden Sonra %156 Arttı",
+    "s": "Sellas Life Sciences Group Inc. soared after the drug developer reported positive late-stage trial results for an experimental cancer vaccine to treat an aggressive form of blood cancer.",
+    "ss": "Sellas Life Sciences Group Inc., ilaç geliştiricisinin, agresif bir kan kanseri türünü tedavi etmek için deneysel bir kanser aşısı için son aşamadaki deneme sonuçlarının olumlu olduğunu bildirmesinin ardından yükselişe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/sellas-life-sciences-stock-triples-after-cancer-vaccine-data",
+    "ts": 1794934330000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Rise as Risk-Aversion Stokes Demand for Bonds",
+    "tt": "Riskten Kaçınmanın Tahvil Talebi Artırmasıyla Hazine Tahvilleri Yükseldi",
+    "s": "Treasuries gained as investors, alarmed by the latest in a series of technology breakdowns over the past week, flocked to US government debt as a haven from stocks.",
+    "ss": "Geçtiğimiz hafta yaşanan bir dizi teknolojik çöküşün sonuncusundan alarma geçen yatırımcıların hisse senetlerinden korunmak için ABD devlet borçlarına akın etmesiyle hazine tahvilleri değer kazandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
+    "ts": 1794932784000,
+    "tags": []
+   },
+   {
+    "t": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
+    "tt": "WSJ Raporlarına Göre SEC, Jensen Huang'ın Ayrılması Sırasında Nvidia'yı Soruşturuyor",
+    "s": "The Securities and Exchange Commission is investigating Nvidia Corp., the Wall Street Journal reported Tuesday, as the company grapples with fallout from the exit of former Chief Executive Officer Jensen Huang.",
+    "ss": "Wall Street Journal'ın Salı günü bildirdiğine göre, şirket eski İcra Kurulu Başkanı Jensen Huang'ın ayrılmasının etkileriyle uğraşırken, Menkul Kıymetler ve Borsa Komisyonu Nvidia Corp.'u araştırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
+    "ts": 1794950724000,
+    "tags": []
+   },
+   {
+    "t": "Treasury Buyback Operation Nets Smallest Amount Since Expansion",
+    "tt": "Hazine Geri Alım Operasyonu Genişlemeden Bu Yana En Küçük Tutarı Getirdi",
+    "s": "The Treasury Department bought back the smallest amount of long-dated debt in months during an operation Tuesday.",
+    "ss": "Hazine Bakanlığı Salı günü gerçekleştirdiği operasyonla aylardır görülen en küçük uzun vadeli borcu geri aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasury-buyback-operation-nets-smallest-amount-since-expansion",
+    "ts": 1794949742000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stocks Drop for Fourth Day Ahead of Crucial Nvidia Earnings",
+    "tt": "Teknoloji Hisseleri, Önemli Nvidia Kazançları Öncesinde Dördüncü Gün Düştü",
+    "s": "US stocks slumped for a fourth straight day as investors looked to an all-important earnings release from Nvidia Corp. after the market close to potentially help restore confidence in the artificial-intelligence trade.",
+    "ss": "ABD hisse senetleri, yatırımcıların yapay zeka ticaretine olan güveni yeniden tesis etmeye potansiyel olarak yardım etmek için piyasa kapanışının ardından Nvidia Corp.'tan gelecek çok önemli kazanç açıklamasına bakmalarıyla üst üste dördüncü günde de düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
+    "ts": 1794921215000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries’ Big Short Sets Up ‘Pain Trade’ as Haven Bid Ramps Up",
+    "tt": "Hazine Tahvillerinin Büyük Açılısı, Liman İhalesi Artarken 'Acı Ticaretini' Başlatıyor",
+    "s": "Bond traders risk facing a short squeeze after reloading bearish positions, as renewed jitters around artificial intelligence and a spate of technical disruptions reignite a flight to safety.",
+    "ss": "Tahvil yatırımcıları, düşüş pozisyonlarını yeniden yükledikten sonra, yapay zeka etrafında yenilenen gerginlikler ve bir dizi teknik aksaklığın güvenliğe kaçışı yeniden alevlendirmesiyle kısa süreli bir sıkışmayla karşı karşıya kalma riskiyle karşı karşıya kalıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
+    "ts": 1794948087000,
+    "tags": []
+   },
+   {
     "t": "Oil Swings as Mideast Flareups Threaten Ample Supply Outlook",
     "tt": "Orta Doğu'daki Alevlenmelerin Bol Arz Görünümünü Tehdit Etmesiyle Petrol Dalgalanıyor",
     "s": "Oil swung in choppy trading as renewed fighting in the Middle East cast doubt on the staying power of an increasingly comfortable supply outlook.",
@@ -602,75 +665,12 @@
     "tags": []
    },
    {
-    "t": "Stocks Fall on Tech Disruptions Before Nvidia Test: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "A selloff in technology giants dragged down stocks on mounting concerns about technical disruptions, with investors also looking to Nvidia Corp.’s earnings for a read on the outlook for artificial intelligence.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
-    "tags": []
-   },
-   {
     "t": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
     "tt": "ABD 10 Yıllık Getiri, Fed Döngüsünde Tarihi Koşuyla %5'in Üzerinde",
     "s": "The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation.",
     "ss": "ABD'nin 10 yıllık Hazine tahvil getirisi, yatırımcıların ısrarla yükselen enflasyon ortamında Fed'in faiz oranlarını daha fazla artırması yönünde pozisyon almasıyla neredeyse yirmi yılın üzerindeki %5'in üzerindeki en uzun vadesine yaklaşıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle",
     "ts": 1794928500000,
-    "tags": []
-   },
-   {
-    "t": "One of the Biggest Weeks in the AI Industry’s History",
-    "tt": "Yapay Zeka Endüstrisinin Tarihindeki En Büyük Haftalardan Biri",
-    "s": "The ripple effects of a Jensen-less Nvidia are starting to show up.",
-    "ss": "Jensen'siz bir Nvidia'nın dalgalanma etkileri ortaya çıkmaya başlıyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history",
-    "ts": 1794945823000,
-    "tags": []
-   },
-   {
-    "t": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
-    "tt": "SpaceX'in Yapay Zeka Çiplerine İlişkin Borcu Bu Hafta En Yakın Zamanda Piyasaya Çıkacak",
-    "s": "SpaceX may kick off part of a $40 billion debt sale to fund its purchase of artificial intelligence chips as soon as this week, according to people with knowledge of the matter.",
-    "ss": "Konuyla ilgili bilgiye sahip kaynaklara göre SpaceX, yapay zeka çipleri alımını finanse etmek için 40 milyar dolarlık borç satışının bir kısmını bu haftadan itibaren başlatabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
-    "ts": 1794927190000,
-    "tags": []
-   },
-   {
-    "t": "Trump Prepares for Power Flex at Putin-Xi Summit",
-    "tt": "Trump, Putin-Xi Zirvesinde Power Flex'e Hazırlanıyor",
-    "s": "Bloomberg Economics senior geoeconomics analyst Adam Farrar said that the planned summit between Xi, Putin and Trump really amounts to a 'photo op.' Farrar said that despite the slate of topics laid out by President Trump, positions AI, trade or denuclearization is unlikely to come from the meeting.",
-    "ss": "Bloomberg Economics'in kıdemli jeoekonomi analisti Adam Farrar, Xi, Putin ve Trump arasında yapılması planlanan zirvenin gerçekten bir 'fotoğraf çekimi' anlamına geldiğini söyledi. Farrar, Başkan Trump'ın ortaya koyduğu konu başlıklarına rağmen, yapay zeka, ticaret veya nükleer silahsızlanma konularının toplantıdan çıkmasının pek mümkün olmadığını söyledi.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video",
-    "ts": 1794945740000,
-    "tags": []
-   },
-   {
-    "t": "Barclays Sees 2027 Muni Bond Supply Reaching Up to $600 Billion",
-    "tt": "Barclays, 2027 Muni Tahvili Arzının 600 Milyar Dolara Ulaşacağını Öngörüyor",
-    "s": "Barclays Plc anticipates between $580 billion and $600 billion of municipal-bond issuance next year, pushing the market’s size closer to $5 trillion by the end of 2027, according to analysts led by Mikhail Foux.",
-    "ss": "Mikhail Foux liderliğindeki analistlere göre Barclays Plc, gelecek yıl 580 milyar ila 600 milyar dolar arasında belediye tahvili ihracını bekliyor ve bu da piyasanın büyüklüğünü 2027 sonuna kadar 5 trilyon dolara yaklaştırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion",
-    "ts": 1794945289000,
-    "tags": []
-   },
-   {
-    "t": "Fed's Williams Doesn't See Need for 'Dramatic Action' on Rates",
-    "tt": "Fed'den Williams Faizlerde 'Dramatik Aksiyona' İhtiyaç Görmüyor",
-    "s": "Federal Reserve Bank of New York President John Williams says he's seeing drivers pushing up inflation, including AI, but not necessarily a broadening of it at the Axios BFD Annual Summit. (Source: Bloomberg)",
-    "ss": "New York Federal Rezerv Bankası Başkanı John Williams, Axios BFD Yıllık Zirvesi'nde yapay zeka da dahil olmak üzere enflasyonu yukarı çeken faktörlerin olduğunu ancak bunun genişletilmesinin şart olmadığını söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-williams-no-need-for-dramatic-action-on-rates-video",
-    "ts": 1794945107000,
-    "tags": []
-   },
-   {
-    "t": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
-    "tt": "Deutsche Bank, Veri Sızıntılarından Kaynaklanan Etkileri Önlemeye Çalışıyor",
-    "s": "Deutsche Bank sought to contain the fallout from a data leak which provided new details of payments tied to Jeffrey Epstein and efforts to expand its Russian business prior to the full scale invasion of Ukraine. Alex Morgan explains. (Source: Bloomberg)",
-    "ss": "Deutsche Bank, Jeffrey Epstein'la bağlantılı ödemelere ilişkin yeni ayrıntıların ve Ukrayna'nın tam kapsamlı işgali öncesinde Rusya'daki işlerini genişletme çabalarının ortaya çıktığı bir veri sızıntısından kaynaklanan sonuçları kontrol altına almaya çalıştı. Alex Morgan açıklıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
-    "ts": 1794944606000,
     "tags": []
    }
   ],
@@ -773,6 +773,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
+    "tt": "Çocuğu olmayan ağabeyim tek kız kardeşimizi vasiyetinden çıkardı. Onun yerine her şeyi alacağım. Ona söyleyeyim mi?",
+    "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "ss": "\"Kardeşimin isteklerine saygı duymakla kız kardeşime karşı adil olmak arasında kaldım.\"",
+    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "ts": 1794951000000,
+    "tags": []
+   },
+   {
+    "t": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
+    "tt": "Salesforce'un hisseleri neden teknolojideki tedirginliklerin ortasında S&P 500'ün düşüşlerine öncülük etti?",
+    "s": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+    "ss": "Bir analist, bir dizi teknoloji kesintisinin yatırımcıların, yazılım şirketlerinin yapay zekanın kötüye kullanımına karşı \"özellikle savunmasız\" olabileceğinden endişe duyduğunu söylüyor.",
+    "u": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+    "ts": 1794949920000,
+    "tags": []
+   },
+   {
+    "t": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
+    "tt": "'Beynini alabilir miyim?' ve bir ağ e-postasında söylenecek diğer korkunç şeyler",
+    "s": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+    "ss": "Beyaz yakalı işler için işe alım genellikle Kasım ve Aralık aylarında azalır, bu nedenle bunun yerine ağınıza \"soğuk e-postalar\" göndermeyi deneyin.",
+    "u": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+    "ts": 1794949860000,
+    "tags": []
+   },
+   {
+    "t": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "tt": "'Tadımı ekşitiyor': Yaşlı annem kuzenimize araba tamiri için 800 dolar verdi. Endişelenmeli miyim?",
+    "s": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+    "ss": "\"Yaşlı insanların kolayca küçümsendiklerini hissedebileceklerini biliyorum ve bunun olmasını istemiyorum.\"",
+    "u": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "ts": 1794949200000,
+    "tags": []
+   },
+   {
+    "t": "Summit Therapeutics’ stock tumbles again as FDA recommends new trial for lung-cancer drug",
+    "tt": "FDA'nın akciğer kanseri ilacı için yeni bir deneme önermesiyle Summit Therapeutics'in hisseleri yeniden düştü",
+    "s": "The U.S. regulator’s disclosure was more extensive than what the biotech company had announced Sunday.",
+    "ss": "ABD düzenleyicisinin açıklaması, biyoteknoloji şirketinin Pazar günü duyurduğu açıklamadan daha kapsamlıydı.",
+    "u": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
+    "ts": 1794949080000,
+    "tags": []
+   },
+   {
     "t": "The U.S.’s classified national-security communications network experiences tech outage",
     "tt": "En son teknoloji hatası: ABD'nin gizli ulusal güvenlik iletişim ağı",
     "s": "A reported outage of a classified U.S. communications network has become the latest in a string of technology disruptions impacting consumers, businesses and the government.",
@@ -791,7 +836,7 @@
     "tags": []
    },
    {
-    "t": "Gold is in a bear market — and hackproof in an increasingly digital world. Is this a good time to buy?",
+    "t": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?",
     "tt": "Altın bir ayı piyasasında ve giderek dijitalleşen dünyada hacklenmeye karşı dayanıklı. Bu satın almak için iyi bir zaman mı?",
     "s": "After the world’s largest crypto hack and a spate of outages in the digital world, physical gold may be the ultimate “antidigital” asset.",
     "ss": "Dünyanın en büyük kripto hacklenmesinden ve dijital dünyadaki bir dizi kesintiden sonra, fiziksel altın nihai “antidijital” varlık olabilir.",
@@ -816,54 +861,54 @@
     "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
     "ts": 1794946500000,
     "tags": []
-   },
-   {
-    "t": "The S&P 500 is testing a key technical floor. Is it time to buy, or brace for a bear market?",
-    "tt": "S&P 500 önemli bir teknik zemini test ediyor. Satın alma zamanı mı, yoksa ayı piyasasına hazırlanma zamanı mı?",
-    "s": "The S&amp;P 500 is joining other major U.S. equity indexes in trading below its 200-day moving average as the artificial-intelligence trade continues to struggle.",
-    "ss": "Yapay zeka ticaretinin mücadeleye devam etmesi nedeniyle S&P 500, 200 günlük hareketli ortalamasının altında işlem gören diğer büyük ABD hisse senedi endekslerine katılıyor.",
-    "u": "https://www.marketwatch.com/story/the-s-p-500-is-testing-a-key-technical-floor-is-it-time-to-buy-or-brace-for-a-bear-market-c432b192?mod=mw_rss_topstories",
-    "ts": 1794946380000,
-    "tags": []
-   },
-   {
-    "t": "Apple users report service interruptions — the latest in a series of tech outages",
-    "tt": "Apple kullanıcıları, bir dizi teknik kesintinin en sonuncusu olan hizmet kesintilerini bildiriyor",
-    "s": "Apple and Google customers were reporting service outages on Tuesday, the latest disruptions in a string of technology outages reported by consumers over the past week.",
-    "ss": "Apple ve Google müşterileri, geçtiğimiz hafta tüketiciler tarafından bildirilen bir dizi teknoloji kesintisindeki en son aksaklıklar olan Salı günü hizmet kesintilerini bildiriyordu.",
-    "u": "https://www.marketwatch.com/story/apple-users-report-service-interruptions-the-latest-in-a-series-of-tech-outages-d1a5ff9f?mod=mw_rss_topstories",
-    "ts": 1794944760000,
-    "tags": []
-   },
-   {
-    "t": "Want to know what bitcoin is really worth? Check this chart.",
-    "tt": "Bitcoin'in gerçekten değerinin ne olduğunu bilmek ister misiniz? Bu tabloyu kontrol edin.",
-    "s": "A model for calculating bitcoin’s value has worked well to inform investors when the cryptocurrency is overbought or oversold. Now, the price is just right.",
-    "ss": "Bitcoin'in değerini hesaplamaya yönelik bir model, kripto para birimi aşırı alım veya aşırı satım durumunda yatırımcıları bilgilendirmek için iyi çalıştı. Şimdi fiyat tam uygun.",
-    "u": "https://www.marketwatch.com/story/want-to-know-what-bitcoin-is-really-worth-check-this-chart-daa3fce7?mod=mw_rss_topstories",
-    "ts": 1794944040000,
-    "tags": []
-   },
-   {
-    "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
-    "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-    "ss": "\"Yorgunum. Alarmım sabah 6'da çalıyor ve işe gidip gelmem için 50 dakikam var.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "ts": 1794943800000,
-    "tags": []
-   },
-   {
-    "t": "These charts show investor fears run even deeper than the stock market’s decline suggests",
-    "tt": "Bu grafikler yatırımcıların korkularının borsadaki düşüşün gösterdiğinden daha da derin olduğunu gösteriyor",
-    "s": "The yen’s recent strengthening, particularly against the Australian dollar, suggests investors are unwinding risky bets.",
-    "ss": "Yenin son zamanlarda özellikle Avustralya doları karşısında güçlenmesi, yatırımcıların riskli bahislerden vazgeçtiklerini gösteriyor.",
-    "u": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
-    "ts": 1794943320000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, But Earnings Call Looms",
+    "tt": "Nvidia Üçüncü Çeyrek Kazançlarındaki Patlamadan Sonra Yükseliyor, Yıldız Yönlendirmesi Ancak Kazanç Çağrısı Görünüyor",
+    "s": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, But Earnings Call Looms As we wrote in our preview , Nvidia is reporting earnings today in remarkable circumstances. It’s the first time in its 30-plus year history that co-founder Jensen Huang, who lost his job as CEO last week, will not be",
+    "ss": "Nvidia Patlamanın Ardından Yükseliyor 3. Çeyrek Kazançları, Yıldız Rehberliği, Ancak Kazançlar Görünüyor Önizlememizde yazdığımız gibi, Nvidia bugün kazançlarını dikkate değer koşullar altında rapor ediyor. Geçen hafta CEO olarak işini kaybeden kurucu ortak Jensen Huang, 30 yılı aşkın tarihinde ilk kez olmayacak.",
+    "u": "https://www.zerohedge.com/markets/nvidia-surges-after-blowout-q3-earnings-stellar-guidance-earnings-call-looms",
+    "ts": 1794951446000,
+    "tags": []
+   },
+   {
+    "t": "SEC Announces Another Nvidia Probe As Jensen Huang Breaks Silence",
+    "tt": "SEC, Jensen Huang'ın Sessizliğini Bozarken Yeni Bir Nvidia Probunu Duyurdu",
+    "s": "SEC Announces Another Nvidia Probe As Jensen Huang Breaks Silence Summary: SEC Probes Nvidia&nbsp; \"I Own My Mistakes\": Jensen Huang Breaks Silence, Talks About Return To Nvidia SEC Probes Nvidia&nbsp; Just ahead of Nvidia's earnings, The Wall Street Journal reported that the Securities and Exchange",
+    "ss": "SEC, Jensen Huang'ın Sessizliğini Kırmasıyla Başka Bir Nvidia Probunu Duyurdu Özet: SEC Nvidia'yı Soruşturuyor \"Hatalarımın Sahibiyim\": Jensen Huang Sessizliği Bozdu, Nvidia'ya Dönüş Hakkında Konuşuyor SEC Nvidia'yı Soruşturuyor Nvidia'nın kazancından hemen önce The Wall Street Journal, Menkul Kıymetler ve Borsa'nın",
+    "u": "https://www.zerohedge.com/political/i-own-my-mistakes-jensen-huang-breaks-silence-talks-about-return-nvidia",
+    "ts": 1794951000000,
+    "tags": []
+   },
+   {
+    "t": "\"They Killed My Wife\": 60 Minutes Whistleblower Says Army Leaders Ignored Warnings Before Iranian Drone Killed Six Soldiers In Kuwait",
+    "tt": "\"Karımı Öldürdüler\": 60 Dakikalık İhbarcı, İran Drone'larının Kuveyt'te Altı Askeri Öldürmesinden Önce Ordu Liderlerinin Uyarıları Göz Ardı Ettiğini Söyledi",
+    "s": "\"They Killed My Wife\": 60 Minutes Whistleblower Says Army Leaders Ignored Warnings Before Iranian Drone Killed Six Soldiers In Kuwait Authored by Dave DeCamp via Antiwar.com , An investigation from \"60 Minutes\" that aired Sunday night detailed allegations that US Army commanders ignored warnings abo",
+    "ss": "\"Karımı Öldürdüler\": 60 Dakikalık İhbar, İran Drone'larının Kuveyt'te Altı Askeri Öldürmesinden Önce Ordu Liderlerinin Uyarıları Görmezden Geldiğini Söyledi Dave DeCamp tarafından Antiwar.com aracılığıyla yazıldı. Pazar gecesi yayınlanan \"60 Minutes\" programında yer alan bir soruşturma, ABD Ordusu komutanlarının bu konudaki uyarıları görmezden geldiğine dair ayrıntılı iddiaları detaylandırdı",
+    "u": "https://www.zerohedge.com/political/they-killed-my-wife-60-minutes-whistleblower-says-army-leaders-ignored-warnings-iranian",
+    "ts": 1794950400000,
+    "tags": []
+   },
+   {
+    "t": "5 Tankers Reported Hit Around Hormuz On Tuesday; US Strikes Qeshm Island",
+    "tt": "Salı Günü Hürmüz Çevresinde 5 Tankerin Vurulduğu Bildirildi; ABD Keşm Adası'nı vurdu",
+    "s": "5 Tankers Reported Hit Around Hormuz On Tuesday; US Strikes Qeshm Island Summary Five ships total attacked: At least five vessels were hit by drones, missiles, or sea mines in the Strait of Hormuz on Tuesday. US strikes Iran: American forces bombed Qeshm Island, though Iran reported no damage to cri",
+    "ss": "Salı Günü Hürmüz Çevresinde 5 Tankerin Vurulduğu Bildirildi; ABD Keşm Adası'na Saldırdı Özet Toplam beş gemi saldırıya uğradı: Salı günü Hürmüz Boğazı'nda en az beş gemi insansız hava araçları, füzeler veya deniz mayınları tarafından vuruldu. ABD İran'ı vurdu: Amerikan kuvvetleri Keşm Adası'nı bombaladı, ancak İran saldırıda herhangi bir hasar bildirmedi",
+    "u": "https://www.zerohedge.com/geopolitical/pentagon-says-irgc-missiles-bahrain-airbase-intercepted-more-tankers-flames",
+    "ts": 1794950340000,
+    "tags": []
+   },
+   {
+    "t": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System",
+    "tt": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistemini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı",
+    "s": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System Summary: Feds Begin Nationwide Emergency Test Equinor Reports Ongoing Cyberattack&nbsp; Apple Hit By Disruptions &nbsp; FBI Issues FLASH Advisory Warning NSA Spy Network Goes Dark&nbsp; List Expa",
+    "ss": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistem Özetini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı: Federaller Ülke Çapında Acil Durum Testlerine Başlıyor Equinor Devam Eden Siber Saldırıların Apple'ı Kesintilerle Etkilediğini Bildirdi FBI FLASH Tavsiye Uyarısı Yayınladı NSA Casus Ağı Karanlıkta Kaldı Expa",
+    "u": "https://www.zerohedge.com/markets/nsas-spy-network-reportedly-goes-dark-sending-stocks-sliding",
+    "ts": 1794949500000,
+    "tags": []
+   },
    {
     "t": "Thanksgiving Travel Faces \"Severe Weather Risks\" As New Models Show Cold And Storm Threats Build",
     "tt": "Yeni Modeller Soğuk ve Fırtına Tehditlerinin Arttığını Gösterirken Şükran Günü Seyahati \"Ciddi Hava Riskleriyle\" Karşı Karşıya",
@@ -901,15 +946,6 @@
     "tags": []
    },
    {
-    "t": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System",
-    "tt": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistemini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı",
-    "s": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System Summary: Feds Begin Nationwide Emergency Test Equinor Reports Ongoing Cyberattack&nbsp; Apple Hit By Disruptions &nbsp; FBI Issues FLASH Advisory Warning NSA Spy Network Goes Dark&nbsp; List Expa",
-    "ss": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistem Özetini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı: Federaller Ülke Çapında Acil Durum Testlerine Başlıyor Equinor Devam Eden Siber Saldırıların Apple'ı Kesintilerle Etkilediğini Bildirdi FBI FLASH Tavsiye Uyarısı Yayınladı NSA Casus Ağı Karanlıkta Kaldı Expa",
-    "u": "https://www.zerohedge.com/markets/nsas-spy-network-reportedly-goes-dark-sending-stocks-sliding",
-    "ts": 1794944040000,
-    "tags": []
-   },
-   {
     "t": "Bernstein Slaps Pepsi With Downgrade As Junk Food Demand Falters",
     "tt": "Bernstein, Abur cubur Talebi Düşerken Pepsi'nin Notunu Düşürdü",
     "s": "Bernstein Slaps Pepsi With Downgrade As Junk Food Demand Falters Pepsi shares have been locked in a 3.5-year drawdown , with the snack and soda giant losing as much as 36% of its market capitalization amid soft junk-food demand. On Tuesday morning, Bernstein consumer analysts Cristian Rios and Yolan",
@@ -917,45 +953,36 @@
     "u": "https://www.zerohedge.com/markets/bernstein-slaps-pepsi-downgrade-junk-food-demand-falters",
     "ts": 1794943500000,
     "tags": []
-   },
-   {
-    "t": "US Sees Zero Border Releases For 18th Consecutive Month",
-    "tt": "ABD Üst Üste 18. Ayda Sınırda Sıfır Sürüm Görüyor",
-    "s": "US Sees Zero Border Releases For 18th Consecutive Month Authored by Naveen Athrappully via The Epoch Times , U.S. authorities released zero illegal immigrants at the southwest border for the 18th straight month in October, according to Customs and Border Protection (CBP). ZERO-RELEASE STREAK AT THE ",
-    "ss": "ABD, Üst üste 18. Ayda Sınırda Sıfır Serbest Bırakılma Görüyor The Epoch Times aracılığıyla Naveen Athrappully tarafından yazılan, Gümrük ve Sınır Koruma'ya (CBP) göre ABD yetkilileri, Ekim ayında üst üste 18. ayda güneybatı sınırında sıfır yasadışı göçmeni serbest bıraktı. SIFIR SALINMA SERİLERİ",
-    "u": "https://www.zerohedge.com/political/us-sees-zero-border-releases-18th-consecutive-month",
-    "ts": 1794942600000,
-    "tags": []
-   },
-   {
-    "t": "Trump Issues Threat Over 'Dirty Bomb Plot', While Iran Says 'Israeli Fingerprints' All Over Reports",
-    "tt": "Trump 'Kirli Bomba Planı' Konusunda Tehdit Ederken İran Tüm Raporlarda 'İsrail'in Parmak İzi Var' Diyor",
-    "s": "Trump Issues Threat Over 'Dirty Bomb Plot', While Iran Says 'Israeli Fingerprints' All Over Reports Iran's foreign ministry is vehemently denying a CNN report that cited anonymous US officials who accused Tehran of planning to detonate a \"dirty bomb\" in Washington, which would target top US official",
-    "ss": "Trump 'Kirli Bomba Planı' Konusunda Tehdit Ederken, İran Tüm Raporlarda 'İsrail'in Parmak İzleri' Diyor İran dışişleri bakanlığı, Tahran'ı Washington'da üst düzey ABD yetkilisini hedef alacak bir \"kirli bomba\" patlatmayı planlamakla suçlayan isimsiz ABD'li yetkililerin alıntılandığı CNN raporunu şiddetle reddediyor",
-    "u": "https://www.zerohedge.com/geopolitical/trump-issues-threat-over-dirty-bomb-plot-while-iran-says-israeli-fingerprints-all-over",
-    "ts": 1794940800000,
-    "tags": []
-   },
-   {
-    "t": "Airlines Face A \"Reckoning\" As Fuel Hedges Run Out With Jet Fuel Near $150",
-    "tt": "Havayolları Yakıt Korumasının 150 Dolara Yakın Jet Yakıtıyla Bitmesiyle Bir \"Hesaplaşmayla\" Karşı Karşıya",
-    "s": "Airlines Face A \"Reckoning\" As Fuel Hedges Run Out With Jet Fuel Near $150 Authored by Irina Slav via OilPrice.com , Jet fuel is trading a little below $150 a barrel against about $85 before the war, and airline executives say it is staying there.&nbsp; Hedges signed earlier this year are rolling of",
-    "ss": "Yakıt Koruması 150 Dolara Yakın Jet Yakıtıyla Tükenirken Havayolları Bir \"Hesaplaşma\"yla Karşı Karşıya Irina Slav tarafından OilPrice.com aracılığıyla yazılan Jet yakıtı, savaştan önceki yaklaşık 85 dolardan varil başına 150 doların biraz altında işlem görüyor ve havayolu yöneticileri bu durumda kalacağını söylüyor.  Bu yılın başlarında imzalanan riskten korunma işlemleri sürüyor",
-    "u": "https://www.zerohedge.com/energy/airlines-face-reckoning-fuel-hedges-run-out-jet-fuel-near-150",
-    "ts": 1794939900000,
-    "tags": []
-   },
-   {
-    "t": "Gensler Warns AI Bubble Will Burst Before 2028 As Warsh Reveals Fed Is Modeling A Crash",
-    "tt": "Gensler, Warsh'un Fed'in Bir Çöküşü Modellediğini Ortaya Çıkarmasıyla Yapay Zeka Balonunun 2028'den Önce Patlayacağı Uyardı",
-    "s": "Gensler Warns AI Bubble Will Burst Before 2028 As Warsh Reveals Fed Is Modeling A Crash Gary Gensler, who ran the SEC under Biden, says the AI boom is a bubble that will likely burst and push the US into recession before the 2028 presidential election. \"It's already a bubble,\" Gensler told CNN in an",
-    "ss": "Gensler, Warsh'un Fed'in Bir Çöküşü Modellediğini Ortaya Çıkarmasıyla Yapay Zeka Balonunun 2028'den Önce Patlayacağı Uyardı Biden başkanlığında SEC'i yöneten Gary Gensler, yapay zeka patlamasının muhtemelen patlayacak ve 2028 başkanlık seçimleri öncesinde ABD'yi resesyona sürükleyecek bir balon olduğunu söylüyor. Gensler CNN'e yaptığı açıklamada \"Bu zaten bir balon\" dedi.",
-    "u": "https://www.zerohedge.com/economics/gensler-warns-ai-bubble-will-burst-2028-warsh-reveals-fed-modeling-crash",
-    "ts": 1794939000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Anthropic için 2030'da 500 milyar doların üzerinde gelir tahmini",
+    "tt": null,
+    "s": "Yatırım araştırma şirketi New Street Research, bu hafta halka açılması beklenen Anthropic için \"al\" tavsiyesi verdi ve 12 aylık hedef fiyatını 105 dolar olarak belirledi. Kurum, şirketin yıllık gelirinin 2030'da 505 milyar dolara ulaşmasını bekliyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/anthropic-icin-2030-da-500-milyar-dolarin-uzerinde-gelir-tahmini-3794931",
+    "ts": 1794950533000,
+    "tags": []
+   },
+   {
+    "t": "Norveçli enerji devi Equinor'a siber saldırı",
+    "tt": null,
+    "s": "Norveçli enerji devi Equinor, bazı bilişim sistemlerine yönelik siber saldırı tespit ettiğini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/norvecli-enerji-devi-equinor-a-siber-saldiri-3794930",
+    "ts": 1794948901000,
+    "tags": []
+   },
+   {
+    "t": "ABD'de konut piyasası güven endeksi 14,5 yılın dibinde",
+    "tt": null,
+    "s": "ABD'de konut piyasası güven endeksi, Kasım'da 4 puan düşerek 25'e indi ve Nisan 2012'den bu yana en düşük seviyesine geriledi. Yüksek konut kredisi faizleri alıcı talebini baskılarken, işgücü sıkıntısı ve artan maliyetler de müteahhitleri zorladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-konut-piyasasi-guven-endeksi-14-5-yilin-dibinde-3794929",
+    "ts": 1794948453000,
+    "tags": []
+   },
    {
     "t": "Google Gemini güvenlik güncellemesi yaptı",
     "tt": null,
@@ -1017,33 +1044,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/apple-in-bircok-hizmetinde-kesinti-yasaniyor-3794919",
     "ts": 1794943415000,
-    "tags": []
-   },
-   {
-    "t": "İspanya'da asgari ücrete enflasyon tahminini aşan zam kararı",
-    "tt": null,
-    "s": "İspanya hükümeti, 2027 için asgari ücreti yüzde 5,3 artırarak aylık brüt 1.286 euroya çıkarma kararı aldı. Zam oranı, İspanya Merkez Bankası'nın 2026 için öngördüğü yüzde 3,9'luk enflasyon tahminini aşarken, düzenlemenin yürürlüğe girmesi için Meclis Daimi Komitesi'nin onayı gerekiyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ispanya-da-asgari-ucrete-enflasyon-tahminini-asan-zam-karari-3794918",
-    "ts": 1794942792000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de hava trafik kontrolüne 50 milyar dolarlık modernizasyon talebi",
-    "tt": null,
-    "s": "Trump yönetimi, hava trafik kontrol sistemini yenilemek için Kongreden 50,1 milyar dolar talep etti. ABD Ulaştırma Bakanlığı, 13 Kasım'da ülke genelinde uçuşların dört saatten fazla durmasına yol açan kesintinin finansman ihtiyacının aciliyetini gösterdiğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-hava-trafik-kontrolune-50-milyar-dolarlik-modernizasyon-talebi-3794917",
-    "ts": 1794941891000,
-    "tags": []
-   },
-   {
-    "t": "ABD Ulusal Güvenlik Ajansı'nın gizli ağı çöktü",
-    "tt": null,
-    "s": "Bloomberg'e konuşan bir kaynağa göre, ABD Ulusal Güvenlik Ajansı'nın (NSA) kurum içi iletişimde kullandığı gizli ağ, Salı sabahının erken saatlerinden bu yana çalışmıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-ulusal-guvenlik-ajansi-nin-gizli-agi-coktu-3794916",
-    "ts": 1794939752000,
     "tags": []
    }
   ]
