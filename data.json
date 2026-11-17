@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T02:33:53.296100+00:00",
+ "generated": "2026-11-17T03:25:33.842809+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3871.1,
-   "c": 0.47,
-   "d": 18.1,
+   "p": 3875.1,
+   "c": 0.57,
+   "d": 22.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.195,
-   "c": -3.74,
-   "d": -1.836,
+   "p": 47.45,
+   "c": 1.42,
+   "d": 0.665,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.0,
-   "c": -0.84,
-   "d": -0.72,
+   "p": 85.07,
+   "c": -0.76,
+   "d": -0.65,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.57,
-   "c": -4.46,
-   "d": -4.27,
+   "p": 91.67,
+   "c": -0.83,
+   "d": -0.77,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.592,
-   "c": 0.18,
-   "d": 0.182,
+   "p": 103.514,
+   "c": -0.03,
+   "d": -0.036,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.405,
+   "p": 50.4032,
    "c": 0.13,
-   "d": 0.065,
+   "d": 0.063,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11841.81,
-   "c": 0.26,
-   "d": 30.61,
+   "c": -0.01,
+   "d": -0.99,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 64389,
-   "c": -1.13,
+   "p": 64661,
+   "c": -0.75,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1812.81,
-   "c": -0.72,
+   "p": 1823.84,
+   "c": -0.01,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.69,
-   "c": -0.83,
+   "p": 72.23,
+   "c": -0.12,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.954568,
-   "c": -1.22,
+   "p": 0.960911,
+   "c": -0.66,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 589.95,
-   "c": -0.95,
+   "p": 592.09,
+   "c": -0.43,
    "k": "usd"
   }
  ],
@@ -584,6 +584,60 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+    "tt": "ABD, Çin'in Bilgi İşlem Erişimine Yeni Sınırlamalar Getirirken Çip Hisseleri Düşüyor",
+    "s": "Chinese artificial-intelligence stocks tumbled Tuesday after the US moved to further restrict access to advanced chips, with the country’s biggest hyperscalers and AI model developers among the hardest hit.",
+    "ss": "Chipmaker hisseleri, Nvidia Corp.'un dahil olduğu skandalın ardından ABD'nin Çin'in gelişmiş yapay zeka çiplerine ve sunucularına erişimini daha da kısıtlamak için harekete geçmesinin ardından düşüş yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+    "ts": 1794874939000,
+    "tags": []
+   },
+   {
+    "t": "Asia Stock Selloff Enters Fourth Day, Oil Declines: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "Asian stocks dropped as US moves to restrict China’s access to advanced artificial intelligence chips and servers added to caution ahead of Nvidia Corp.’s high-stakes earnings.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": []
+   },
+   {
+    "t": "New Zealand Dollar Drops to Six-Year Low Against Greenback",
+    "tt": "Yeni Zelanda Doları, ABD Doları Karşısında Son Altı Yılın En Düşük Seviyesine Düştü",
+    "s": "The New Zealand dollar fell to a six-year low against the greenback, weighed down by a widening interest rate gap with the US and a dimmer outlook for the nation’s economy.",
+    "ss": "Yeni Zelanda doları, ABD ile artan faiz oranı farkı ve ülke ekonomisine yönelik kötüleşen görünümün etkisiyle Amerikan doları karşısında altı yılın en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+    "ts": 1794883607000,
+    "tags": []
+   },
+   {
+    "t": "Chinese Tech Leaders Meet as US Prepares Chip Curbs",
+    "tt": "ABD Talaş Kaldırımlarını Hazırlarken Çinli Teknoloji Liderleri Buluşuyor",
+    "s": "Chinese business and technology leaders are gathering in Shenzhen ahead of the APEC CEO Summit. The talks unfold as the US Commerce Department adds licensing requirements for advanced chip sales to data centers in Southeast Asia and Brazil to close remote-access loopholes. (Source: Bloomberg)",
+    "ss": "Çinli iş ve teknoloji liderleri, APEC CEO Zirvesi öncesinde Shenzhen'de bir araya geliyor. Görüşmeler, ABD Ticaret Bakanlığı'nın uzaktan erişim açıklarını kapatmak amacıyla Güneydoğu Asya ve Brezilya'daki veri merkezlerine gelişmiş çip satışları için lisans gereklilikleri eklemesiyle devam ediyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/chinese-tech-leaders-meet-as-us-prepares-chip-curbs-video",
+    "ts": 1794884142000,
+    "tags": []
+   },
+   {
+    "t": "Mitsui & Co. Said to Back J-Oil Mills in Battle Over Kadoya",
+    "tt": "Mitsui & Co., Kadoya Savaşında J-Oil Mills'i Destekleyeceğini Söyledi",
+    "s": "Kadoya Sesame Mills Inc. shareholder Mitsui &amp; Co. has backed a proposal from J-Oil Mills Inc. to take over the Japanese sesame seed oil seller, according to people familiar with the matter, potentially strengthening the bidder’s hand in a three-way battle for control of the company.",
+    "ss": "Kadoya Sesame Mills Inc.'in hissedarı Mitsui & Co., J-Oil Mills Inc.'in Japon susam tohumu yağı satıcısını devralma teklifini, konuya aşina olan kaynaklara göre destekledi ve bu teklif sahibinin, şirketin kontrolü için üçlü bir savaşta potansiyel olarak elini güçlendirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/mitsui-co-said-to-back-j-oil-mills-in-battle-over-kadoya",
+    "ts": 1794821729000,
+    "tags": []
+   },
+   {
+    "t": "Global Funds Cautiously Increasing Exposure to India IT Stocks",
+    "tt": "Küresel Fonlar Hindistan BT Hisselerine Maruz Kalmayı Dikkatli Bir Şekilde Artırıyor",
+    "s": "Foreign long-only funds are gradually adding exposure after months of caution.",
+    "ss": "Yalnızca uzun vadeli yabancı fonlar, aylarca süren ihtiyatlılığın ardından yavaş yavaş risklerini artırıyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-17/global-funds-cautiously-increasing-exposure-to-india-it-stocks",
+    "ts": 1794883155000,
+    "tags": []
+   },
+   {
     "t": "New Zealand Inflation Expectations Remain Anchored Above 2%",
     "tt": "Yeni Zelanda Enflasyon Beklentileri %2'nin Üzerinde Sabit Kaldı",
     "s": "New Zealand’s long-term inflation expectations eased in the fourth quarter, adding to signs that a fresh wave of higher fuel prices is not becoming embedded in the economy.",
@@ -602,20 +656,6 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks Decline for a Fourth Day, Oil Slips: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "Asian stocks fell, tracking losses on Wall Street as caution ahead of Nvidia Corp.’s earnings was compounded by US moves to further restrict China’s access to advanced artificial intelligence chips and servers.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
     "t": "BoK's Yoon: AI Concerns Add to Korea Equity Volatility",
     "tt": "BoK'dan Yoon: Yapay Zeka Endişeleri Kore Hisse Senedi Oynaklığını Arttırıyor",
     "s": "Bank of Korea Chief Economist Kyoungsoo Yoon believes concerns over artificial intelligence have added to volatility in South Korea's equity markets. He speaks with Haidi Stroud-Watts and Paul Allen on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
@@ -625,57 +665,12 @@
     "tags": []
    },
    {
-    "t": "RBNZ Flags Growing Private Credit Risks in Property Finance",
-    "tt": "RBNZ, Gayrimenkul Finansmanında Artan Özel Kredi Risklerini İşaretledi",
-    "s": "New Zealand’s central bank highlighted increasing risks from the growing role of private credit in the nation’s economy, particularly in property development and commercial real estate finance.",
-    "ss": "Yeni Zelanda merkez bankası, özel kredilerin ülke ekonomisinde, özellikle de emlak geliştirme ve ticari gayrimenkul finansmanında artan rolünden kaynaklanan artan risklere dikkat çekti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/rbnz-flags-growing-private-credit-risks-in-real-estate-finance",
-    "ts": 1794863844000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 17",
-    "tt": "17 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil fell on signs supplies are outpacing demand, and as Vice President JD Vance signaled the US wants to avoid a prolonged war in Iran.",
-    "ss": "Petrol, arzın talebi geride bıraktığına ilişkin işaretler ve Başkan Yardımcısı JD Vance'in ABD'nin İran'da uzun süreli bir savaştan kaçınmak istediğinin sinyalini vermesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-    "ts": 1794870175000,
-    "tags": []
-   },
-   {
-    "t": "New Zealand Sees Best Quarterly Population Gain in Two Years",
-    "tt": "Yeni Zelanda, İki Yıl İçinde En İyi Üç Aylık Nüfus Artışını Görüyor",
-    "s": "New Zealand saw its best quarterly increase in population in more than two years as immigration inflows pick up, offering a potential boost to housing demand and the wider economy.",
-    "ss": "Yeni Zelanda, göç girişlerinin artmasıyla birlikte konut talebinde ve daha geniş anlamda ekonomide potansiyel bir artış sunarken, iki yıldan uzun bir sürenin en iyi üç aylık nüfus artışını gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-sees-best-quarterly-population-gain-in-two-years",
-    "ts": 1794877786000,
-    "tags": []
-   },
-   {
-    "t": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
-    "tt": "Samuel Sekuritas Hisseleri Arttırdığını, MSCI Ticaretinde Yer Aldığını Reddetti",
-    "s": "PT Samuel Sekuritas Indonesia and its owner, Eunice Satyono, denied that the firm carried out any illegal stock market transactions to spark the sudden rally in an Asian delicacy maker named PT Abadi Lestari Indonesia.",
-    "ss": "PT Samuel Sekuritas Endonezya ve sahibi Eunice Satyono, firmanın PT Abadi Lestari Endonezya adlı Asyalı bir lezzet üreticisinde ani yükselişi tetiklemek için herhangi bir yasa dışı borsa işlemi gerçekleştirdiğini yalanladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
-    "ts": 1794876267000,
-    "tags": []
-   },
-   {
-    "t": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
-    "tt": "Tutanaklara Göre RBA, Fiyat Risklerinin Yukarı Yönde Kalması Nedeniyle Faizleri Yükseltti",
-    "s": "A majority of the Australian central bank’s nine-member board voted to raise interest rates two weeks ago on concerns that risks to the inflation outlook remained to the upside and consumer prices had stayed too high for too long.",
-    "ss": "Avustralya merkez bankasının dokuz üyeli yönetim kurulunun çoğunluğu, enflasyon görünümüne yönelik risklerin yukarı yönlü olduğu ve tüketici fiyatlarının çok uzun süre çok yüksek kaldığı endişeleri nedeniyle iki hafta önce faiz oranlarının artırılması yönünde oy kullanmıştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
-    "ts": 1794875400000,
-    "tags": []
-   },
-   {
-    "t": "Chip Stocks Slide as US Sets New Curbs on China’s Compute Access",
-    "tt": "ABD, Çin'in Bilgi İşlem Erişimine Yeni Sınırlamalar Getirirken Çip Hisseleri Düşüyor",
-    "s": "Chipmaker stocks tumbled after the US moved to further restrict China’s access to advanced artificial intelligence chips and servers in the wake of the scandal involving Nvidia Corp.",
-    "ss": "Chipmaker hisseleri, Nvidia Corp.'un dahil olduğu skandalın ardından ABD'nin Çin'in gelişmiş yapay zeka çiplerine ve sunucularına erişimini daha da kısıtlamak için harekete geçmesinin ardından düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
-    "ts": 1794874939000,
+    "t": "Traders Pour Cash Into BlackRock’s India ETF as AI Rout Deepens",
+    "tt": "Yapay Zekanın Yönü Derinleştikçe Yatırımcılar BlackRock'un Hindistan ETF'sine Nakit Akıyor",
+    "s": "Investors plowed cash into an exchange-traded fund that buys Indian stocks at the fastest pace in over a year last week, as the selloff around artificiall intelligence stocks pushed investors to diversify into other markets.",
+    "ss": "Yapay zeka hisselerindeki satışların yatırımcıları diğer pazarlara yönelmeye itmesiyle, yatırımcılar geçen hafta Hindistan hisse senetlerini son bir yılın en hızlı temposunda satın alan borsada işlem gören bir fona nakit akıttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-etfs-rise-for-2nd-week-in-982-mln-streak",
+    "ts": 1794826829000,
     "tags": []
    }
   ],
@@ -872,6 +867,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "South Korea Scrambles Fighter Jets After Russian Planes Breach Air Defense Zone",
+    "tt": "Güney Kore, Rus Uçaklarının Hava Savunma Bölgesini İhlal Etmesinin Ardından Savaş Uçaklarını Karıştırdı",
+    "s": "South Korea Scrambles Fighter Jets After Russian Planes Breach Air Defense Zone In a rare development, multiple Russian military aircraft buzzed South Korean airspace , resulting in South Korean Air Force jets being scrambled. Seoul's Joint Chiefs of Staff (JCS) confirmed of the early Tuesday event ",
+    "ss": "Güney Kore, Rus Uçaklarının Hava Savunma Bölgesini İhlal Etmesinin Ardından Savaş Uçaklarını Karıştırdı Nadir bir gelişme olarak, çok sayıda Rus askeri uçağı Güney Kore hava sahasını vızıldayarak çaldı ve bunun sonucunda Güney Kore Hava Kuvvetleri jetleri karıştırıldı. Seul Genelkurmay Başkanları (JCS) Salı günü erken saatlerde gerçekleşen olayı doğruladı",
+    "u": "https://www.zerohedge.com/geopolitical/south-korea-scrambles-fighter-jets-after-russian-planes-enter-air-defense-zone",
+    "ts": 1794885600000,
+    "tags": []
+   },
+   {
+    "t": "Californians Pay 68% More At The Pump Than Texans - And Blue States Got Smaller Post-Election Drops",
+    "tt": "Kaliforniyalılar Teksaslılara Göre Pump'ta %68 Daha Fazla Ödüyor - Ve Mavi Eyaletler Seçim Sonrası Düşüşlerden Daha Az Aldı",
+    "s": "Californians Pay 68% More At The Pump Than Texans - And Blue States Got Smaller Post-Election Drops Authored by Andrea Widburg via American Thinker , As President Trump predicted, gasoline prices have dropped. It would have been nice if they'd done so before the election, but if wishes were horses, ",
+    "ss": "Kaliforniyalılar Pompada Teksaslılara Göre %68 Daha Fazla Ödüyor - Ve Mavi Eyaletler Seçim Sonrası Düşüşlerden Daha Küçük Aldı Yazan: Andrea Widburg, American Thinker aracılığıyla, Başkan Trump'ın öngördüğü gibi, benzin fiyatları düştü. Seçimden önce yapsalardı güzel olurdu ama keşkeler at olsaydı",
+    "u": "https://www.zerohedge.com/personal-finance/californians-pay-68-more-pump-texans-and-blue-states-got-smaller-post-election",
+    "ts": 1794884400000,
+    "tags": []
+   },
+   {
+    "t": "King Salman Fires Commander Of Anti-Houthi Coalition Amid Disastrous Setbacks",
+    "tt": "Kral Selman, Feci Gerilemeler Ortasında Husi Karşıtı Koalisyonun Komutanı'nı Görevden Aldı",
+    "s": "King Salman Fires Commander Of Anti-Houthi Coalition Amid Disastrous Setbacks Amid widespread reports in recent days of the Houthis rapidly regaining ground along Yemen's southern coast , Saudi Arabia has fired the top general in charge of its coalition in Yemen. On Monday King Salman issued a decre",
+    "ss": "Kral Salman, Feci Gerilemeler Ortasında Husi Karşıtı Koalisyon Komutanı'nı Görevden Aldı Son günlerde Husilerin Yemen'in güney kıyılarında hızla toprak kazandığına dair yaygın raporların ortasında, Suudi Arabistan, Yemen'deki koalisyondan sorumlu üst düzey generali kovdu. Pazartesi günü Kral Selman bir kararname yayınladı.",
+    "u": "https://www.zerohedge.com/geopolitical/king-salman-fires-commander-anti-houthi-coalition-amid-disastrous-setbacks",
+    "ts": 1794883200000,
+    "tags": []
+   },
+   {
     "t": "Anon Intel Officials: Iran Could Detonate Dirty Bomb Or Chemical Weapon In D.C.",
     "tt": "Anon Intel Yetkilileri: İran, DC'de Kirli Bomba Veya Kimyasal Silah Patlatabilir",
     "s": "Anon Intel Officials: Iran Could Detonate Dirty Bomb Or Chemical Weapon In D.C. A who's who of top Trump administration officials and their families are currently living on military bases around Washington D.C. on fears that Iranian intelligence or Iran-linked agents could move to attack or assasina",
@@ -932,33 +954,6 @@
     "ss": "Kral Yok, Oy Yok: Demokratlar Demokrasiyi Kendinden Kurtarmak İçin Hareket Ediyor Yazan Jonathan Turley, Jonathan Turley aracılığıyla, Aşağıda The Hill'de yer alan ve \"demokrasiyi kurtar\" hareketindeki pek çok kişi tarafından anayasal sistemimizi değiştirmeye çalışırken son seçimin bazı sonuçlarını reddetmek için harekete geçen bir köşe yazısı yer alıyor.",
     "u": "https://www.zerohedge.com/political/no-kings-no-votes-democrats-move-save-democracy-itself",
     "ts": 1794874800000,
-    "tags": []
-   },
-   {
-    "t": "\"World's Most Wanted\" OnlyFans Model Busted By ICE, Breaks Down In Tears",
-    "tt": "\"Dünyanın En Çok Arananları\" OnlyFans Modeli ICE Tarafından Yakalandı, Gözyaşlarına Döküldü",
-    "s": "\"World's Most Wanted\" OnlyFans Model Busted By ICE, Breaks Down In Tears A European OnlyFans star who built an online empire flaunting a glamorous lifestyle has landed in federal immigration detention, raising questions about how foreign influencers earn money while visiting the United States, the N",
-    "ss": "\"Dünyanın En Çok Aranan\" OnlyFans Modeli ICE Tarafından Yakalandı, Gözyaşları İçinde Göz Kamaştırıcı bir yaşam tarzı sergileyen bir çevrimiçi imparatorluk kuran Avrupalı ​​OnlyFans yıldızı, federal göçmenlik gözetimine alındı ​​ve bu durum, yabancı fenomenlerin Amerika Birleşik Devletleri'ni ziyaret ederken nasıl para kazandığına dair soruları gündeme getirdi.",
-    "u": "https://www.zerohedge.com/political/worlds-most-wanted-onlyfans-model-busted-ice-breaks-down-tears",
-    "ts": 1794873600000,
-    "tags": []
-   },
-   {
-    "t": "Hillary Clinton Names The Actual 'Leader Of The Free World'",
-    "tt": "Hillary Clinton, 'Özgür Dünyanın Gerçek Lideri' Adını Verdi",
-    "s": "Hillary Clinton Names The Actual 'Leader Of The Free World' Hillary Clinton has found a new \"leader of the free world,\" and he doesn't live in the White House. Asked by MS NOW's Rachel Maddow whether anyone holds the title right now, the former secretary of state answered, \"Maybe Mark Carney.\" The e",
-    "ss": "Hillary Clinton, 'Özgür Dünyanın Gerçek Lideri'ni Adlandırdı Hillary Clinton, \"özgür dünyanın yeni liderini\" buldu ve o, Beyaz Saray'da yaşamıyor. MS NOW'dan Rachel Maddow'un şu anda bu unvanı elinde bulunduran birisinin olup olmadığı sorusuna eski dışişleri bakanı \"Belki Mark Carney\" yanıtını verdi. e",
-    "u": "https://www.zerohedge.com/political/hillary-clinton-names-actual-leader-free-world",
-    "ts": 1794873600000,
-    "tags": []
-   },
-   {
-    "t": "Mamdani Says Trump Gave Bodegas Nationwide A 90-Day Reprieve From SNAP Stocking Rule",
-    "tt": "Mamdani, Trump'ın Bodegas'a SNAP Stoklama Kuralından Ülke Çapında 90 Günlük Erteleme Verdiğini Söyledi",
-    "s": "Mamdani Says Trump Gave Bodegas Nationwide A 90-Day Reprieve From SNAP Stocking Rule Authored by Tom Gantert via The Epoch Times , New York City Mayor Zohran Mamdani said on Nov. 13 that, after negotiating with the Trump administration, the U.S. Department of Agriculture (USDA) will delay enforcemen",
-    "ss": "Mamdani, Trump'ın Bodegas'a Ülke Genelinde SNAP Stoklama Kuralı İçin 90 Günlük Erteleme Verdiğini Söyledi Tom Gantert tarafından The Epoch Times aracılığıyla yazılan New York Belediye Başkanı Zohran Mamdani, 13 Kasım'da Trump yönetimiyle görüştükten sonra ABD Tarım Bakanlığı'nın (USDA) yaptırımları erteleyeceğini söyledi",
-    "u": "https://www.zerohedge.com/personal-finance/mamdani-says-trump-gave-bodegas-nationwide-90-day-reprieve-snap-stocking-rule",
-    "ts": 1794870000000,
     "tags": []
    }
   ],
