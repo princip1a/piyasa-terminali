@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T11:39:26.480010+00:00",
+ "generated": "2026-11-17T12:33:14.660625+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 23.26,
-   "c": 1.53,
-   "d": 0.35,
+   "p": 22.55,
+   "c": -1.57,
+   "d": -0.36,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3861.5,
-   "c": 0.22,
-   "d": 8.5,
+   "p": 3866.7,
+   "c": 0.36,
+   "d": 13.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.425,
-   "c": 1.37,
-   "d": 0.64,
+   "p": 47.585,
+   "c": 1.71,
+   "d": 0.8,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 86.03,
-   "c": 0.36,
-   "d": 0.31,
+   "p": 86.19,
+   "c": 0.55,
+   "d": 0.47,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.85,
-   "c": 0.44,
-   "d": 0.41,
+   "p": 92.91,
+   "c": 0.51,
+   "d": 0.47,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.563,
-   "c": 0.01,
-   "d": 0.013,
+   "p": 103.608,
+   "c": 0.06,
+   "d": 0.058,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.337,
-   "c": -0.01,
-   "d": -0.003,
+   "p": 50.4113,
+   "c": 0.14,
+   "d": 0.071,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11743.17,
-   "c": -0.83,
-   "d": -98.63,
+   "p": 11729.9,
+   "c": -0.94,
+   "d": -111.9,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 64638,
-   "c": 0.07,
+   "p": 64899,
+   "c": 1.53,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1812.38,
-   "c": 0.3,
+   "p": 1816.47,
+   "c": 1.41,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.39,
-   "c": 2.64,
+   "p": 73.45,
+   "c": 3.92,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.968538,
-   "c": 1.33,
+   "p": 0.970458,
+   "c": 2.48,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 592.09,
-   "c": 0.29,
+   "p": 593.65,
+   "c": 1.47,
    "k": "usd"
   }
  ],
@@ -584,12 +584,57 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stock Selloff Loses Steam Ahead of Nvidia Test: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "A selloff in US stocks receded as beaten-down technology shares drew buyers, with traders looking to Nvidia Corp.’s earnings after the close for a crucial read on the outlook for artificial intelligence.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": []
+   },
+   {
+    "t": "Home Depot Names McPhail CEO as Decker Returns as Chairman",
+    "tt": "Home Depot, Decker Olarak McPhail'in CEO'sunu Adlandırdı",
+    "s": "Home Depot Inc. said Richard McPhail will take over as chief executive officer from Ted Decker, who is returning from medical leave to serve as chairman.",
+    "ss": "Home Depot Inc., Richard McPhail'in yönetim kurulu başkanlığı görevini tıbbi izinden dönen Ted Decker'den devralacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
+    "ts": 1794912809000,
+    "tags": []
+   },
+   {
+    "t": "Swiss Pharma Employee Convicted Over $300,000 in Insider Trades",
+    "tt": "İsviçreli İlaç Çalışanı İçeriden Bilgi Ticaretinden 300.000 Dolardan Fazla Mahkûm Edildi",
+    "s": "An employee of Swiss healthcare supplier SKAN Group AG was found guilty of insider trading after his appeal of a penalty order handed down by Swiss prosecutors was rejected.",
+    "ss": "İsviçreli sağlık hizmetleri tedarikçisi SKAN Group AG'nin bir çalışanı, İsviçre savcıları tarafından verilen ceza kararına itirazının reddedilmesinin ardından içeriden bilgi ticareti yapmaktan suçlu bulundu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/swiss-pharma-employee-convicted-over-300-000-in-insider-trades",
+    "ts": 1794916936000,
+    "tags": []
+   },
+   {
+    "t": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
+    "tt": "Avrupa Hisse Senetleri, ABD Çiplerinin Sınırlandırılmasının Yeni Yapay Zeka Satışlarını Ateşlemesiyle Düşüyor",
+    "s": "European stocks slid as concerns over the artificial-intelligence trade swept markets ahead of results from Nvidia Corp., after the US moved to impose sweeping new restrictions on China’s access to high-end AI chips.",
+    "ss": "Avrupa hisse senetleri, ABD'nin Çin'in ileri teknoloji yapay zeka çiplerine erişimine kapsamlı yeni kısıtlamalar getirmesinin ardından, Nvidia Corp.'un sonuçları öncesinde yapay zeka ticaretine ilişkin endişelerin piyasaları etkisi altına almasıyla düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
+    "ts": 1794904244000,
+    "tags": []
+   },
+   {
     "t": "US Gas Pump Price Hits 8-Month Low to Ease Inflation Worries",
     "tt": "Petrol Arzının İyileşmesiyle ABD Benzin Pompası Fiyatı Mart'tan Bu Yana En Düşük Seviyesine Düştü",
     "s": "US gasoline pump prices fell to the lowest since mid-March following a broader decline in oil markets this month, in a sign that inflationary pressures from the Iran war are beginning to ease.",
     "ss": "ABD'de benzin pompası fiyatları, bu ay petrol piyasalarında yaşanan daha geniş çaplı düşüşün ardından Mart ayından bu yana en düşük seviyesine geriledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/us-gas-pump-price-hits-lowest-since-march-as-oil-supply-recovers",
     "ts": 1794910054000,
+    "tags": []
+   },
+   {
+    "t": "US Funding for Trump-Linked Bosnian Gas Pipeline Is in Jeopardy",
+    "tt": "ABD'nin Trump Bağlantılı Bosna Gaz Boru Hattına Sağladığı Fon Tehlikede",
+    "s": "US federal funding of $2.3 billion in energy and airport infrastructure projects in Bosnia-Herzegovina are in jeopardy as government development banks in Washington distanced themselves from the plan.",
+    "ss": "Bosna-Hersek'teki enerji ve havaalanı altyapı projelerine ABD'nin 2,3 milyar dolarlık federal finansmanı, Washington'daki hükümet kalkınma bankalarının plandan uzaklaşması nedeniyle tehlikede.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/us-funding-for-trump-linked-bosnian-gas-pipeline-is-in-jeopardy",
+    "ts": 1794915496000,
     "tags": []
    },
    {
@@ -602,75 +647,30 @@
     "tags": []
    },
    {
+    "t": "Clampdown on China Chip Loophole; Nvidia Earnings Countdown",
+    "tt": "Çin Çipindeki Kaçak Üzerine Kısıtlama; Nvidia Kazanç Geri Sayımı",
+    "s": "Selling pressure on US technology stocks eased ahead of Nvidia Corp.’s much-anticipated results that could prove as pivotal for the company as for the broader artificial-intelligence trade. Nvidia’s earnings arrive at a time when the world’s most important chipmaker is facing what may be the greates",
+    "ss": "ABD teknoloji hisseleri üzerindeki satış baskısı, Nvidia Corp.'un şirket için olduğu kadar daha geniş yapay zeka ticareti için de önemli olabilecek ve merakla beklenen sonuçları öncesinde azaldı. Nvidia'nın kazancı, dünyanın en önemli çip üreticisinin en iyilerle karşı karşıya olduğu bir zamanda geliyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/the-opening-trade-11-17-2026-video",
+    "ts": 1794915185000,
+    "tags": []
+   },
+   {
+    "t": "Disney Profit Beats With Marvel Films Powering Streaming",
+    "tt": "Disney'in kârı, Marvel Films'in Yayını Güçlendirmesiyle Artıyor",
+    "s": "Walt Disney Co. reported sales and earnings that exceeded analysts’ expectations, with a particularly strong result in its streaming TV unit.",
+    "ss": "Walt Disney Co., analistlerin beklentilerini aşan satış ve kazanç bildirdi; özellikle yayın yapan TV ünitesinde güçlü bir sonuç elde edildi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming",
+    "ts": 1794915106000,
+    "tags": []
+   },
+   {
     "t": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil",
     "tt": "Nvidia'nın Kazançları Teknolojide Kargaşanın Arttığı Bir Zamanda Geldi",
     "s": "Stock has plunged 35% from October peak, dragging Nasdaq lower.",
     "ss": "Hisse senedi Ekim zirvesinden %35 düşerek Nasdaq'ı düşüşe sürükledi.",
     "u": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
     "ts": 1794914789000,
-    "tags": []
-   },
-   {
-    "t": "Oil Swings as Traders Weigh Mideast Flareups and Ample Supply",
-    "tt": "Petrol, Yatırımcıların Orta Doğu Tehditlerini ve Bol Arzı Tartışmasıyla Yükseliyor",
-    "s": "Oil swung between gains and losses as traders weighed flareups in the Middle East against signs supplies are outpacing demand.",
-    "ss": "Petrol fiyatları, tüccarların Orta Doğu'daki tehditleri arzın talebi geride bıraktığına ilişkin işaretlere göre değerlendirmesiyle daha önceki düşüşünü silip bir miktar yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-    "ts": 1794870175000,
-    "tags": []
-   },
-   {
-    "t": "Home Depot Names McPhail CEO as Decker Returns as Chairman",
-    "tt": "Home Depot, Decker Olarak McPhail'in CEO'sunu Adlandırdı",
-    "s": "Home Depot Inc. said Richard McPhail will take over as chief executive officer from Ted Decker, who is returning from medical leave to serve as chairman of the board.",
-    "ss": "Home Depot Inc., Richard McPhail'in yönetim kurulu başkanlığı görevini tıbbi izinden dönen Ted Decker'den devralacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
-    "ts": 1794912809000,
-    "tags": []
-   },
-   {
-    "t": "Cash-Strapped Indian States Risk Infrastructure Push, Study Says",
-    "tt": "Çalışma, Nakit Sıkıntısı İçinde Olan Hindistan Eyaletinin Risk Altyapısının Zorlandığını Söyledi",
-    "s": "Indian states are being squeezed between rising spending commitments and weaker-than-expected revenues, leaving less money for infrastructure at a time when Prime Minister Narendra Modi is counting on investment to sustain rapid economic growth.",
-    "ss": "Hindistan eyaletleri artan harcama taahhütleri ve beklenenden zayıf gelirler arasında sıkışıp kalıyor ve Başbakan Narendra Modi'nin hızlı ekonomik büyümeyi sürdürmek için yatırıma güvendiği bir dönemde altyapıya daha az para kalıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/cash-strapped-indian-states-risk-infrastructure-push-study-says",
-    "ts": 1794913544000,
-    "tags": []
-   },
-   {
-    "t": "Canadian Funds Join Nordic Capital in €3 Billion Cary Deal",
-    "tt": "Kanada Fonları 3 Milyar Avroluk Cary Anlaşmasıyla Nordic Capital'e Katıldı",
-    "s": "CVC Capital Partners Plc is selling its stake in vehicle glass repair company Cary Group to two of Canada’s largest pension funds and Nordic Capital, which is set to reinvest in the business.",
-    "ss": "CVC Capital Partners Plc, araç camı onarım şirketi Cary Group'taki hisselerini Kanada'nın en büyük iki emeklilik fonuna ve sektöre yeniden yatırım yapmaya hazırlanan Nordic Capital'e satıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/canada-pension-funds-cvc-capital-partners-nordic-capital-in-3-billion-cary-deal",
-    "ts": 1794897393000,
-    "tags": []
-   },
-   {
-    "t": "BofA Survey Shows Investors Cut Tech Exposure by Most Since 2006",
-    "tt": "BofA Araştırması, Yatırımcıların Teknolojiye Maruz Kalmasını 2006'dan Bu Yana En Çok Azalttığını Gösteriyor",
-    "s": "Investor optimism around the global AI boom is fading with fund managers slashing exposure to technology stocks by the most in two decades, according to a poll by Bank of America Corp.",
-    "ss": "Bank of America Corp. tarafından yapılan bir ankete göre, küresel yapay zeka patlamasına ilişkin yatırımcıların iyimserliği, fon yöneticilerinin teknoloji hisselerine maruz kalma oranını son yirmi yılda en fazla azaltmasıyla birlikte sönüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/bofa-survey-shows-investors-cut-tech-exposure-by-most-since-2006",
-    "ts": 1794912824000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stocks Lose Further Ground Ahead of Nvidia: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "Global equities fell as traders cut risk ahead of Nvidia Corp.’s earnings, with concerns high that upheaval at the chipmaker could ripple through the broader artificial intelligence trade.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
-    "tags": []
-   },
-   {
-    "t": "UniCredit Sees Up to €2 Billion Value from Generali Cooperation",
-    "tt": "UniCredit, Generali İşbirliğinden 2 Milyar Avroya Kadar Değer Görüyor",
-    "s": "UniCredit SpA sees the potential to unlock €1.5 billion ($1.65 billion) to €2 billion of value through closer cooperation with Italian insurer Assicurazioni Generali SpA, Chief Executive Officer Andrea Orcel said.",
-    "ss": "İcra Kurulu Başkanı Andrea Orcel, UniCredit SpA'nın, İtalyan sigorta şirketi Assicurazioni Generali SpA ile daha yakın işbirliği yoluyla 1,5 milyar Euro (1,65 milyar $) ile 2 milyar Euro arasında bir değerin kilidini açma potansiyelini gördüğünü söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/unicredit-sees-up-to-2-billion-value-from-generali-cooperation",
-    "ts": 1794911888000,
     "tags": []
    }
   ],
@@ -773,6 +773,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
+    "tt": "Fon yöneticileri teknoloji bahislerini son yirmi yılın en hızlı temposunda düşürdüler ve bu da onları geceleri uyanık tutan kuyruk riski oldu",
+    "s": "Investors are shifting their overweight positioning away from megacap tech and getting less bearish on bonds. Yet they still maintain exceedingly low cash positions as global growth forecasts are bullish.",
+    "ss": "Yatırımcılar aşırı kilolu pozisyonlarını megacap teknolojisinden uzaklaştırıyor ve tahvillerde daha az düşüş eğilimi gösteriyor. Ancak küresel büyüme tahminlerinin olumlu olması nedeniyle hala son derece düşük nakit pozisyonlarını koruyorlar.",
+    "u": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories",
+    "ts": 1794918480000,
+    "tags": []
+   },
+   {
+    "t": "Can Nvidia sell investors on a future without Jensen Huang?",
+    "tt": "Nvidia, yatırımcılara Jensen Huang'ın olmadığı bir geleceği satabilir mi?",
+    "s": "Co-founder Huang is gone. Can Colette Kress ease market fears? Can a new board committee? Plus, the Fed weighs AI’s economic fallout, and parents confront their kids’ gambling problems.",
+    "ss": "Kurucu ortak Huang gitti. Colette Kress piyasa korkularını hafifletebilir mi? Yeni bir yönetim kurulu komitesi kurulabilir mi? Ayrıca Fed, yapay zekanın ekonomik etkilerini değerlendiriyor ve ebeveynler, çocuklarının kumar sorunlarıyla yüzleşiyor.",
+    "u": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories",
+    "ts": 1794918420000,
+    "tags": []
+   },
+   {
+    "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
+    "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+    "ss": "\"Yorgunum. Alarmım sabah 6'da çalıyor ve işe gidip gelmem için 50 dakikam var.\"",
+    "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "ts": 1794917700000,
+    "tags": []
+   },
+   {
     "t": "‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
     "tt": "'Yürek burkan, yorucu ve düpedüz kirli': Kardeşim, hasta annemizin hayatını ve maddi durumunu devraldı. Ne yapabilirim?",
     "s": "‘It is devastating when the people you should be able to trust become the very people you have to protect yourself from’",
@@ -834,36 +861,36 @@
     "u": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
     "ts": 1794908100000,
     "tags": []
-   },
-   {
-    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-    "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
-    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-    "ss": "“Eğer kocamdan önce ölürsem, ona benim aylık maaşımın yüzde 50-66’sı kadar ömür boyu emekli maaşı verilecek.”",
-    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-    "ts": 1794882600000,
-    "tags": []
-   },
-   {
-    "t": "United Airlines resolves system outage that delayed flights Monday",
-    "tt": "United Airlines, FAA'nın yer durdurma gecikmeleri nedeniyle sistem kesintisi yaşıyor",
-    "s": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
-    "ss": "United Airlines Pazartesi akşamı bir sistem kesintisi bildirdi, çünkü havayolu endüstrisi, Federal Havacılık İdaresi'nin geçen hafta ülke çapındaki yer durdurma emrinin neden olduğu aksaklıklardan hâlâ kurtulmaya çalışıyor.",
-    "u": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-    "ts": 1794872520000,
-    "tags": []
-   },
-   {
-    "t": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-    "tt": "Stanley Druckenmiller, SpaceX ve Palantir'i satın alırken bu çip stoklarını elden çıkardı",
-    "s": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
-    "ss": "Druckenmiller'ın aile ofisi üçüncü çeyrekte AMD ve Sandisk hisselerini elden çıkardı.",
-    "u": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-    "ts": 1794871680000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"It's Illegal\": Trump Fires Back As Massive Leak Shows What Deutsche Bank Hid About Epstein, Russia - And Him",
+    "tt": "\"Yasadışı\": Devasa Sızıntı Deutsche Bank'ın Epstein, Rusya ve Kendisi Hakkında Ne Sakladığını Gösterirken Trump Karşılık Verdi",
+    "s": "\"It's Illegal\": Trump Fires Back As Massive Leak Shows What Deutsche Bank Hid About Epstein, Russia - And Him Deutsche Bank shares fell more than 6% in Frankfurt on Tuesday after 15 million leaked files showed the lender processed $582 million in suspicious payments tied to Jeffrey Epstein , quietly",
+    "ss": "\"Yasadışı\": Büyük Sızıntı, Deutsche Bank'ın Epstein, Rusya Hakkında Ne Sakladığını Gösterdiğinde Trump Karşılık Verdi - Ve O Deutsche Bank hisseleri, sızdırılan 15 milyon dosyanın kredi verenin Jeffrey Epstein'a bağlı 582 milyon dolarlık şüpheli ödemeleri sessizce işlediğini göstermesinin ardından Salı günü Frankfurt'ta %6'dan fazla düştü.",
+    "u": "https://www.zerohedge.com/markets/its-illegal-trump-fires-back-massive-leak-shows-what-deutsche-bank-hid-about-epstein-russia",
+    "ts": 1794918600000,
+    "tags": []
+   },
+   {
+    "t": "\"Unprecedented Operation\": Zelensky Boasts About Drone And Missile Attack Destroying Crimea's Kerch Bridge",
+    "tt": "\"Eşi benzeri görülmemiş operasyon\": Zelensky, Kırım'ın Kerç Köprüsü'nü yok eden insansız hava aracı ve füze saldırılarıyla övünüyor",
+    "s": "\"Unprecedented Operation\": Zelensky Boasts About Drone And Missile Attack Destroying Crimea's Kerch Bridge President Volodymyr Zelensky boasted about Ukraine's strike on the strategically important Kerch Bridge on Tuesday, which damaged a road and rail link connecting Crimea with mainland Russia tha",
+    "ss": "\"Eşi benzeri görülmemiş operasyon\": Zelensky, Kırım'ın Kerç Köprüsü'nü Yok Eden Drone ve Füze Saldırısıyla Övünüyor Başkan Volodimir Zelensky, Salı günü Ukrayna'nın, Kırım'ı Rusya ana karasına bağlayan karayolu ve demiryolu bağlantısına zarar veren stratejik açıdan önemli Kerç Köprüsü'ne saldırısıyla övündü.",
+    "u": "https://www.zerohedge.com/geopolitical/unprecedented-operation-zelensky-boasts-about-drone-and-missile-attack-destroying",
+    "ts": 1794917700000,
+    "tags": []
+   },
+   {
+    "t": "A Leveraged ETF: That Math Doesn't Work The Way You Think",
+    "tt": "Kaldıraçlı ETF: Matematik Düşündüğünüz Gibi Çalışmıyor",
+    "s": "A Leveraged ETF: That Math Doesn't Work The Way You Think Authored by Lance Roberts via RealInvestmentAdvice.com , Are leveraged ETFs gambling? Run the daily-reset math through a full market cycle and the answer looks a lot like a parlay with a ticker symbol. Key Takeaways A 2x or 3x ETF promises a ",
+    "ss": "Kaldıraçlı ETF: Matematik Düşündüğünüz Gibi Çalışmıyor Lance Roberts tarafından RealInvestmentAdvice.com aracılığıyla yazılmıştır, Kaldıraçlı ETF'ler kumar mıdır? Günlük sıfırlama matematiğini tam bir piyasa döngüsü boyunca çalıştırın ve cevap, hisse senedi sembollü bir parlay'a çok benziyor. Temel Çıkarımlar 2x veya 3x ETF,",
+    "u": "https://www.zerohedge.com/markets/leveraged-etf-math-doesnt-work-way-you-think",
+    "ts": 1794916800000,
+    "tags": []
+   },
    {
     "t": "Trafigura Scrambles For Aluminum As Backwardation Steepest In Years Amid Draining Stockpiles",
     "tt": "Trafigura, Stokların Boşaltılmasının Ortasında Yıllardır Gerilemenin En Yüksek Olduğu Durumda Alüminyum İçin Mücadele Ediyor",
@@ -926,36 +953,36 @@
     "u": "https://www.zerohedge.com/political/gun-kills-fascist-netflix-black-doves-displays-far-left-political-violence-messaging",
     "ts": 1794901200000,
     "tags": []
-   },
-   {
-    "t": "Turkey Breaks With US: No Hezbollah Disarmament While Israel Occupies Lebanese Soil",
-    "tt": "Türkiye ABD'den Ayrılıyor: İsrail Lübnan Topraklarını İşgal Ederken Hizbullah'a Silahsızlanma Yok",
-    "s": "Turkey Breaks With US: No Hezbollah Disarmament While Israel Occupies Lebanese Soil Via Middle East Eye Hezbollah’s disarmament in Lebanon can ultimately be achieved only if Israel ends its occupation of Lebanese territory , a Turkish official told Middle East Eye.&nbsp; Ankara has stepped up its en",
-    "ss": "Türkiye ABD'den Ayrılıyor: İsrail Ortadoğu Gözü Yoluyla Lübnan Topraklarını İşgal Ederken Hizbullah'ın Silahsızlanması Yok Bir Türk yetkili Middle East Eye'a verdiği demeçte, Hizbullah'ın Lübnan'daki silahsızlandırılmasının ancak İsrail'in Lübnan toprakları üzerindeki işgaline son vermesi halinde gerçekleşebileceğini söyledi.  Ankara çalışmalarını hızlandırdı",
-    "u": "https://www.zerohedge.com/geopolitical/turkey-says-hezbollah-wont-disarm-while-israel-occupies-lebanese-territory",
-    "ts": 1794898800000,
-    "tags": []
-   },
-   {
-    "t": "Watch: China's Self-Flying, Battery-Powered Airliner Takes Off As US Chokes Beijing's Jet Parts",
-    "tt": "İzle: ABD'nin Pekin'in Jet Parçalarını Boğması Sırasında Çin'in Kendi Kendine Uçan, Pille Çalışan Uçağı Havalanıyor",
-    "s": "Watch: China's Self-Flying, Battery-Powered Airliner Takes Off As US Chokes Beijing's Jet Parts China's state planemaker flew its all-electric commuter airliner with a crew on board for the first time on Saturday, putting two pilots and a flight-test engineer in a 19-seat, battery-powered CE-25A ove",
-    "ss": "İzle: Çin'in Kendi Kendine Uçan, Pille Çalışan Uçağı, ABD Pekin'in Jet Parçalarını Boğarken Havalanıyor Çin'in devlet uçak üreticisi, tamamen elektrikli banliyö uçağını ilk kez Cumartesi günü bir mürettebatla uçurdu ve iki pilot ve bir uçuş testi mühendisini 19 koltuklu, pille çalışan CE-25A fırına yerleştirdi",
-    "u": "https://www.zerohedge.com/technology/watch-chinas-self-flying-battery-powered-airliner-takes-us-chokes-beijings-jet-parts",
-    "ts": 1794895200000,
-    "tags": []
-   },
-   {
-    "t": "Three Men & A Photo Op: What To Expect In Shenzhen",
-    "tt": "Üç Adam ve Bir Fotoğraf Operasyonu: Shenzhen'de Neler Beklenmeli?",
-    "s": "Three Men &amp; A Photo Op: What To Expect In Shenzhen Authored by Larry C. Johnson via Sonar21 , On Thursday, November 19, in the Chinese tech hub of Shenzhen, Donald Trump will sit down with Vladimir Putin and Xi Jinping for a three-way conversation . Beijing's Foreign Ministry made it official on",
-    "ss": "Üç Adam ve Bir Fotoğraf Operasyonu: Shenzhen'de Neler Beklenmeli Yazan: Larry C. Johnson, Sonar21 aracılığıyla, 19 Kasım Perşembe günü, Çin'in teknoloji merkezi Shenzhen'de Donald Trump, Vladimir Putin ve Xi Jinping ile üçlü bir görüşme yapacak. Pekin Dışişleri Bakanlığı bunu resmileştirdi",
-    "u": "https://www.zerohedge.com/geopolitical/three-men-photo-op-what-expect-shenzhen",
-    "ts": 1794891600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "AB'den \"35'te 35 Küresel Elektrifikasyon Hedefi\"ne destek",
+    "tt": null,
+    "s": "Avrupa Birliği (AB) Komisyonu, Türkiye'nin Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Başkanlığı kapsamında belirlediği elektriğin küresel nihai enerji tüketimindeki payının 2035'e kadar yüzde 35'e (35x35) çıkarılmasına yönelik hedefine desteğini açıklad",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-den-35-te-35-kuresel-elektrifikasyon-hedefine-destek-3794878",
+    "ts": 1794918067000,
+    "tags": []
+   },
+   {
+    "t": "BofA: Teknoloji sektöründe 20 yılın en büyük ağırlık azaltımı",
+    "tt": null,
+    "s": "Bank of America Corp. tarafından yapılan bir ankete göre, küresel yapay zeka patlamasına ilişkin yatırımcı iyimserliği azaldı, fon yöneticileri teknoloji hisselerindeki ağırlıklarını son yirmi yılın en büyük oranında düşürdü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bofa-anketi-yatirimcilar-teknoloji-sektorundeki-agirligini-azaltti-3794877",
+    "ts": 1794917839000,
+    "tags": []
+   },
+   {
+    "t": "İran'dan 'kirli bomba' iddialarına yalanlama",
+    "tt": null,
+    "s": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Sözcüsü Hasan Kaşkavi, ABD basınında yer alan ve Tahran'ın Washington'da üst düzey yetkilileri öldürmek için \"potansiyel olarak kirli bomba patlatma planları\" geliştirdiğine dair iddiaları reddetti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-dan-kirli-bomba-iddialarina-yalanlama-3794876",
+    "ts": 1794917299000,
+    "tags": []
+   },
    {
     "t": "Trump: Mümkün olursa Putin ile ikili görüşme yapacağım",
     "tt": null,
@@ -1017,33 +1044,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlarinda-savas-gerilimi-nedeniyle-artis-3794847",
     "ts": 1794904591000,
-    "tags": []
-   },
-   {
-    "t": "SocGen'den dolar/TL ve büyüme değerlendirmesi",
-    "tt": null,
-    "s": "Societe Generale stratejistleri, Türkiye'de enflasyonla mücadelede Türk Lirası'nın kontrollü değer kaybının temel politika araçlarından biri olmaya devam etmesini, dolar/TL'nin 2027 sonunda 60 seviyesine yükselmesini, büyümenin gelecek yıl canlanmasını bekliyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/socgen-den-dolartl-ve-buyume-degerlendirmesi-3794846",
-    "ts": 1794903251000,
-    "tags": []
-   },
-   {
-    "t": "Pegasus pay geri alım programı başlattı",
-    "tt": null,
-    "s": "Pegasus Hava Yolları, 24 ay sürecek pay geri alım programı kapsamında, toplam 3 milyar TL'yi aşmamak üzere sermayesinin yüzde 3'üne kadar pay geri alabilecek.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/pegasus-pay-geri-alim-programi-baslatti-3794845",
-    "ts": 1794902799000,
-    "tags": []
-   },
-   {
-    "t": "İngiltere'de işsizlik geriledi",
-    "tt": null,
-    "s": "İngiltere'de işsizlik oranı, Temmuz-Eylül döneminde önceki üç aylık döneme göre 0,3 puan azalarak yüzde 4,6 oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ingiltere-de-issizlik-geriledi-3794844",
-    "ts": 1794902699000,
     "tags": []
    }
   ]
