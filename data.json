@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T21:40:55.900530+00:00",
+ "generated": "2026-11-17T22:42:16.079432+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3856.6,
-   "c": 0.09,
-   "d": 3.6,
+   "p": 3851.9,
+   "c": -0.03,
+   "d": -1.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.365,
-   "c": 1.24,
-   "d": 0.58,
+   "p": 47.29,
+   "c": 1.08,
+   "d": 0.505,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.62,
-   "c": -0.12,
-   "d": -0.1,
+   "p": 85.61,
+   "c": -0.13,
+   "d": -0.11,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 92.93,
-   "c": 0.53,
-   "d": 0.49,
+   "p": 93.07,
+   "c": 0.68,
+   "d": 0.63,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.548,
-   "c": -0.0,
-   "d": -0.002,
+   "p": 103.563,
+   "c": 0.01,
+   "d": 0.013,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4106,
-   "c": 0.14,
-   "d": 0.07,
+   "p": 50.4278,
+   "c": 0.17,
+   "d": 0.088,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64474,
-   "c": -1.22,
+   "p": 64750,
+   "c": -0.89,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1811.0,
-   "c": -0.84,
+   "p": 1812.65,
+   "c": -1.0,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.71,
-   "c": 2.5,
+   "p": 73.9,
+   "c": 2.75,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.97355,
-   "c": 1.6,
+   "p": 0.97191,
+   "c": 1.18,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 592.04,
-   "c": -0.24,
+   "p": 592.99,
+   "c": -0.15,
    "k": "usd"
   }
  ],
@@ -584,12 +584,39 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Stocks Fall on Tech Disruptions as Nvidia in Focus: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "A selloff in technology giants dragged down stocks on mounting concerns about technical disruptions, with investors also looking to Nvidia Corp.’s earnings for a read on the outlook for artificial intelligence.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
+    "t": "Putin Arrives in China for Trump, Xi Meeting",
+    "tt": "Putin, Trump ve Xi Görüşmesi İçin Çin'e Geldi",
+    "s": "Vladimir Putin arrived in Shenzhen Wednesday ahead of his meeting with Presidents Xi Jinping and Donald Trump during the annual APEC assembly on Thursday. (Source: Bloomberg)",
+    "ss": "Vladimir Putin, Perşembe günü yapılacak yıllık APEC toplantısı sırasında Başkanlar Xi Jinping ve Donald Trump ile yapacağı görüşme öncesinde Çarşamba günü Shenzhen'e geldi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
+    "ts": 1794954804000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks to Fall, Nvidia Sales Outlook Beats: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Düşüyor, Nvidia Satış Görünümü İyi: Piyasalar Sarılıyor",
+    "s": "Asian stocks were poised for declines Wednesday after a selloff in US equities deepened as concerns over the technology sector persisted. Nvidia Corp. delivered a sales forecast that topped Wall Street expectations after the market closed.",
+    "ss": "Asya hisse senetleri, teknoloji sektörüne ilişkin endişelerin devam etmesiyle ABD hisse senetlerindeki satışların derinleşmesinin ardından Çarşamba günü düşüşe hazırlanıyor. Nvidia Corp., piyasa kapandıktan sonra Wall Street'in beklentilerini aşan bir satış tahmini yayınladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794953228000,
+    "tags": []
+   },
+   {
+    "t": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
+    "tt": "WSJ Raporlarına Göre SEC, Jensen Huang'ın Ayrılması Sırasında Nvidia'yı Soruşturuyor",
+    "s": "The Securities and Exchange Commission is investigating Nvidia Corp., the Wall Street Journal reported Tuesday, as the company grapples with fallout from the exit of former Chief Executive Officer Jensen Huang.",
+    "ss": "Wall Street Journal'ın Salı günü bildirdiğine göre, şirket eski İcra Kurulu Başkanı Jensen Huang'ın ayrılmasının etkileriyle uğraşırken, Menkul Kıymetler ve Borsa Komisyonu Nvidia Corp.'u araştırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
+    "ts": 1794950724000,
+    "tags": []
+   },
+   {
+    "t": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
+    "tt": "Panama, Moody's'in Görünümü Yükseltmesiyle Hurdalığın Eşiğinden Geri Çekildi",
+    "s": "Panama moved away from the brink of a downgrade to junk territory after Moody’s Ratings dropped a negative outlook that had hung over the nation’s credit score for two years.",
+    "ss": "Panama, Moody's Ratings'in iki yıl boyunca ülkenin kredi notu üzerinde asılı kalan olumsuz görünümü düşürmesinin ardından not düşürmenin eşiğinden çöp bölgesine doğru uzaklaştı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
+    "ts": 1794952156000,
     "tags": []
    },
    {
@@ -602,21 +629,21 @@
     "tags": []
    },
    {
+    "t": "Stocks Fall on Tech Disruptions as Nvidia in Focus: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
+    "s": "A selloff in technology giants dragged down stocks on mounting concerns about technical disruptions, with investors also looking to Nvidia Corp.’s earnings for a read on the outlook for artificial intelligence.",
+    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794866811000,
+    "tags": []
+   },
+   {
     "t": "Treasuries Rise as Risk-Aversion Stokes Demand for Bonds",
     "tt": "Riskten Kaçınmanın Tahvil Talebi Artırmasıyla Hazine Tahvilleri Yükseldi",
     "s": "Treasuries gained as investors, alarmed by the latest in a series of technology breakdowns over the past week, flocked to US government debt as a haven from stocks.",
     "ss": "Geçtiğimiz hafta yaşanan bir dizi teknolojik çöküşün sonuncusundan alarma geçen yatırımcıların hisse senetlerinden korunmak için ABD devlet borçlarına akın etmesiyle hazine tahvilleri değer kazandı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
     "ts": 1794932784000,
-    "tags": []
-   },
-   {
-    "t": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
-    "tt": "WSJ Raporlarına Göre SEC, Jensen Huang'ın Ayrılması Sırasında Nvidia'yı Soruşturuyor",
-    "s": "The Securities and Exchange Commission is investigating Nvidia Corp., the Wall Street Journal reported Tuesday, as the company grapples with fallout from the exit of former Chief Executive Officer Jensen Huang.",
-    "ss": "Wall Street Journal'ın Salı günü bildirdiğine göre, şirket eski İcra Kurulu Başkanı Jensen Huang'ın ayrılmasının etkileriyle uğraşırken, Menkul Kıymetler ve Borsa Komisyonu Nvidia Corp.'u araştırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
-    "ts": 1794950724000,
     "tags": []
    },
    {
@@ -644,33 +671,6 @@
     "ss": "Tahvil yatırımcıları, düşüş pozisyonlarını yeniden yükledikten sonra, yapay zeka etrafında yenilenen gerginlikler ve bir dizi teknik aksaklığın güvenliğe kaçışı yeniden alevlendirmesiyle kısa süreli bir sıkışmayla karşı karşıya kalma riskiyle karşı karşıya kalıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-big-short-sets-up-pain-trade-as-haven-bid-ramps-up",
     "ts": 1794948087000,
-    "tags": []
-   },
-   {
-    "t": "Oil Swings as Mideast Flareups Threaten Ample Supply Outlook",
-    "tt": "Orta Doğu'daki Alevlenmelerin Bol Arz Görünümünü Tehdit Etmesiyle Petrol Dalgalanıyor",
-    "s": "Oil swung in choppy trading as renewed fighting in the Middle East cast doubt on the staying power of an increasingly comfortable supply outlook.",
-    "ss": "Orta Doğu'da yeniden başlayan çatışmaların giderek rahatlayan arz görünümünün kalıcılığına dair şüphe yaratmasıyla birlikte petrol dalgalı ticarette dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
-    "ts": 1794870175000,
-    "tags": []
-   },
-   {
-    "t": "B3 to Add Brazil Stocks Listed Abroad to Aid Ailing Local Market",
-    "tt": "B3, Zor Durumdaki Yerel Pazara Yardımcı Olmak İçin Yurt Dışında Kote Edilen Brezilya Hisse Senetlerini Ekleyecek",
-    "s": "Brazil’s exchange operator B3 SA will incorporate shares of Brazilian companies listed abroad to the nation’s benchmark equity index starting next year in a push to boost liquidity after years of de-listings in the local market.",
-    "ss": "Brezilya'nın borsa operatörü B3 SA, yurt dışında listelenen Brezilyalı şirketlerin hisselerini, yerel pazarda yıllarca listeden çıkarıldıktan sonra likiditeyi artırmak amacıyla önümüzdeki yıldan itibaren ülkenin gösterge özsermaye endeksine dahil edecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market",
-    "ts": 1794946579000,
-    "tags": []
-   },
-   {
-    "t": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
-    "tt": "ABD 10 Yıllık Getiri, Fed Döngüsünde Tarihi Koşuyla %5'in Üzerinde",
-    "s": "The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation.",
-    "ss": "ABD'nin 10 yıllık Hazine tahvil getirisi, yatırımcıların ısrarla yükselen enflasyon ortamında Fed'in faiz oranlarını daha fazla artırması yönünde pozisyon almasıyla neredeyse yirmi yılın üzerindeki %5'in üzerindeki en uzun vadesine yaklaşıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/us-10-year-yield-set-for-historic-run-above-5-on-fed-rate-cycle",
-    "ts": 1794928500000,
     "tags": []
    }
   ],
@@ -773,6 +773,39 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+    "tt": "'Düpedüz kirli': Kardeşim, hasta annemizin hayatını ve mali durumunu devraldı. Ne yapabilirim?",
+    "s": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+    "ss": "\"Güvenmeniz gereken insanların, kendinizi korumanız gereken insanlar haline gelmesi yıkıcı bir şey.\"",
+    "u": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "ts": 1794954600000,
+    "tags": []
+   },
+   {
+    "t": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+    "tt": "'Nvidia'nın kargaşası beni ürküttü': Hisse senetlerimi satmanın zamanı geldi mi?",
+    "s": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+    "ss": "\"Florida'daki emlak bazı ilginç fırsatlar sunuyor gibi görünüyor.\"",
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1794953700000,
+    "tags": []
+   },
+   {
+    "t": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+    "tt": "Kısa vadeli Hazine tahvillerinden tekrar %5 kazanmak ister misiniz? Bu değişime dikkat edin.",
+    "s": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
+    "ss": "BofA Global'in oran ekibi, Aralık ayında yarım puanlık faiz artırımı ihtimalini göz ardı etmeyin dedi.",
+    "u": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+    "ts": 1794953280000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
     "tt": "Çocuğu olmayan ağabeyim tek kız kardeşimizi vasiyetinden çıkardı. Onun yerine her şeyi alacağım. Ona söyleyeyim mi?",
     "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
@@ -834,40 +867,49 @@
     "u": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
     "ts": 1794948000000,
     "tags": []
-   },
-   {
-    "t": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?",
-    "tt": "Altın bir ayı piyasasında ve giderek dijitalleşen dünyada hacklenmeye karşı dayanıklı. Bu satın almak için iyi bir zaman mı?",
-    "s": "After the world’s largest crypto hack and a spate of outages in the digital world, physical gold may be the ultimate “antidigital” asset.",
-    "ss": "Dünyanın en büyük kripto hacklenmesinden ve dijital dünyadaki bir dizi kesintiden sonra, fiziksel altın nihai “antidijital” varlık olabilir.",
-    "u": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
-    "ts": 1794947040000,
-    "tags": []
-   },
-   {
-    "t": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
-    "tt": "2025'in başından bu yana sadece iki 'Muhteşem Yedi' hissesi S&P 500'ü geçmeyi başardı",
-    "s": "Alphabet and Apple have approached artificial intelligence in ways that have resonated on Wall Street.",
-    "ss": "Alphabet ve Apple yapay zekaya Wall Street'te yankı uyandıracak şekilde yaklaştı.",
-    "u": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
-    "ts": 1794946560000,
-    "tags": []
-   },
-   {
-    "t": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "tt": "Babamdan bana 1,4 milyon dolar miras kaldı. 25 yıllık kocamdan evlilik sonrası anlaşma istemekle haksız mıyım?",
-    "s": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-    "ss": "\"Her zaman mirasının bir kısmının kızına miras kalmasını istediğini söylerdi ve ben buna hiçbir zaman itiraz etmedim.\"",
-    "u": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "ts": 1794946500000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
-    "t": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, But Earnings Call Looms",
+    "t": "Elon Musk Says Transportation Secretary Duffy Declined Free Starlink For FAA",
+    "tt": "Elon Musk, Ulaştırma Bakanı Duffy'nin FAA İçin Ücretsiz Starlink Teklifini Reddettiğini Söyledi",
+    "s": "Elon Musk Says Transportation Secretary Duffy Declined Free Starlink For FAA Elon Musk said Monday that Transportation Secretary Sean Duffy turned down an offer of free Starlink service for the Federal Aviation Administration , three days after a rare nationwide ground stop froze air traffic for mor",
+    "ss": "Elon Musk, Ulaştırma Sekreteri Duffy'nin FAA İçin Ücretsiz Starlink'i Reddettiğini Söyledi Elon Musk Pazartesi günü yaptığı açıklamada, Ulaştırma Bakanı Sean Duffy'nin, ülke çapında nadir bir yer durağının hava trafiğini uzun süre dondurmasından üç gün sonra, Federal Havacılık İdaresi için ücretsiz Starlink hizmeti teklifini geri çevirdiğini söyledi.",
+    "u": "https://www.zerohedge.com/political/elon-musk-says-transportation-secretary-duffy-declined-free-starlink-faa",
+    "ts": 1794954600000,
+    "tags": []
+   },
+   {
+    "t": "The Post-1945 World Order Is Breaking Apart...",
+    "tt": "1945 Sonrası Dünya Düzeni Parçalanıyor...",
+    "s": "The Post-1945 World Order Is Breaking Apart... Authored by Nick Giambruno via International Man , Here is my view of the Big Picture as the US-led world order, which has existed since 1945, enters terminal decline . We're likely to see the major global powers - Russia, China, and the US - consolidat",
+    "ss": "1945 Sonrası Dünya Düzeni Parçalanıyor... Nick Giambruno tarafından International Man aracılığıyla yazılmıştır. 1945'ten bu yana var olan ABD önderliğindeki dünya düzeni ölümcül bir düşüşe girerken benim Büyük Resim hakkındaki görüşüm şöyle. Muhtemelen büyük küresel güçlerin (Rusya, Çin ve ABD) konsolidasyona girdiğini göreceğiz.",
+    "u": "https://www.zerohedge.com/geopolitical/post-1945-world-order-breaking-apart-heres-what-it-means-your-money",
+    "ts": 1794953400000,
+    "tags": []
+   },
+   {
+    "t": "US Bases In Kuwait Under Drone Attack After Pentagon Struck Qeshm Island; Iran Hits 5 Tankers",
+    "tt": "Salı Günü Hürmüz Çevresinde 5 Tankerin Vurulduğu Bildirildi; ABD Keşm Adası'nı vurdu",
+    "s": "US Bases In Kuwait Under Drone Attack After Pentagon Struck Qeshm Island; Iran Hits 5 Tankers Summary Drone attack inbound on Kuwait: targeting US bases there, according to Fars. Five ships total attacked: At least five vessels were hit by drones, missiles, or sea mines in the Strait of Hormuz on Tu",
+    "ss": "Salı Günü Hürmüz Çevresinde 5 Tankerin Vurulduğu Bildirildi; ABD Keşm Adası'na Saldırdı Özet Toplam beş gemi saldırıya uğradı: Salı günü Hürmüz Boğazı'nda en az beş gemi insansız hava araçları, füzeler veya deniz mayınları tarafından vuruldu. ABD İran'ı vurdu: Amerikan kuvvetleri Keşm Adası'nı bombaladı, ancak İran saldırıda herhangi bir hasar bildirmedi",
+    "u": "https://www.zerohedge.com/geopolitical/pentagon-says-irgc-missiles-bahrain-airbase-intercepted-more-tankers-flames",
+    "ts": 1794952980000,
+    "tags": []
+   },
+   {
+    "t": "The \"Dementia Belt\" Where Alzheimer's Epidemic Is Exploding - And Aging Isn't The Only Culprit",
+    "tt": "Alzheimer Salgınının Patladığı \"Demans Kuşağı\" - Ve Tek Suçlu Yaşlanma Değil",
+    "s": "The \"Dementia Belt\" Where Alzheimer's Epidemic Is Exploding - And Aging Isn't The Only Culprit The dementia epidemic sweeping across parts of the United States may be driven by far more than aging , with geography, cardiovascular health and economic conditions emerging as potentially important facto",
+    "ss": "Alzheimer Salgınının Patladığı \"Demans Kuşağı\" - Ve Tek Suçlu Yaşlanma Değil Amerika Birleşik Devletleri'nin bazı bölgelerini kasıp kavuran demans salgınının nedeni yaşlanmadan çok daha fazlası olabilir; coğrafya, kardiyovasküler sağlık ve ekonomik koşullar potansiyel olarak önemli faktörler olarak ortaya çıkıyor",
+    "u": "https://www.zerohedge.com/medical/dementia-belt-where-alzheimers-epidemic-exploding-and-aging-isnt-only-culprit",
+    "ts": 1794952200000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75%",
     "tt": "Nvidia Üçüncü Çeyrek Kazançlarındaki Patlamadan Sonra Yükseliyor, Yıldız Yönlendirmesi Ancak Kazanç Çağrısı Görünüyor",
-    "s": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, But Earnings Call Looms As we wrote in our preview , Nvidia is reporting earnings today in remarkable circumstances. It’s the first time in its 30-plus year history that co-founder Jensen Huang, who lost his job as CEO last week, will not be",
+    "s": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance, Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75% Update 5:10pm - Conference Call details The new management team didnt waste any time to cut to the chase: NVIDIA BOARD CHAIR SAYS FIRM DOESN'T PLAN TO REINSTATE HUANG \"WE WILL NOT",
     "ss": "Nvidia Patlamanın Ardından Yükseliyor 3. Çeyrek Kazançları, Yıldız Rehberliği, Ancak Kazançlar Görünüyor Önizlememizde yazdığımız gibi, Nvidia bugün kazançlarını dikkate değer koşullar altında rapor ediyor. Geçen hafta CEO olarak işini kaybeden kurucu ortak Jensen Huang, 30 yılı aşkın tarihinde ilk kez olmayacak.",
     "u": "https://www.zerohedge.com/markets/nvidia-surges-after-blowout-q3-earnings-stellar-guidance-earnings-call-looms",
     "ts": 1794951446000,
@@ -889,15 +931,6 @@
     "ss": "\"Karımı Öldürdüler\": 60 Dakikalık İhbar, İran Drone'larının Kuveyt'te Altı Askeri Öldürmesinden Önce Ordu Liderlerinin Uyarıları Görmezden Geldiğini Söyledi Dave DeCamp tarafından Antiwar.com aracılığıyla yazıldı. Pazar gecesi yayınlanan \"60 Minutes\" programında yer alan bir soruşturma, ABD Ordusu komutanlarının bu konudaki uyarıları görmezden geldiğine dair ayrıntılı iddiaları detaylandırdı",
     "u": "https://www.zerohedge.com/political/they-killed-my-wife-60-minutes-whistleblower-says-army-leaders-ignored-warnings-iranian",
     "ts": 1794950400000,
-    "tags": []
-   },
-   {
-    "t": "5 Tankers Reported Hit Around Hormuz On Tuesday; US Strikes Qeshm Island",
-    "tt": "Salı Günü Hürmüz Çevresinde 5 Tankerin Vurulduğu Bildirildi; ABD Keşm Adası'nı vurdu",
-    "s": "5 Tankers Reported Hit Around Hormuz On Tuesday; US Strikes Qeshm Island Summary Five ships total attacked: At least five vessels were hit by drones, missiles, or sea mines in the Strait of Hormuz on Tuesday. US strikes Iran: American forces bombed Qeshm Island, though Iran reported no damage to cri",
-    "ss": "Salı Günü Hürmüz Çevresinde 5 Tankerin Vurulduğu Bildirildi; ABD Keşm Adası'na Saldırdı Özet Toplam beş gemi saldırıya uğradı: Salı günü Hürmüz Boğazı'nda en az beş gemi insansız hava araçları, füzeler veya deniz mayınları tarafından vuruldu. ABD İran'ı vurdu: Amerikan kuvvetleri Keşm Adası'nı bombaladı, ancak İran saldırıda herhangi bir hasar bildirmedi",
-    "u": "https://www.zerohedge.com/geopolitical/pentagon-says-irgc-missiles-bahrain-airbase-intercepted-more-tankers-flames",
-    "ts": 1794950340000,
     "tags": []
    },
    {
@@ -926,36 +959,45 @@
     "u": "https://www.zerohedge.com/geopolitical/cuba-braces-war-after-trump-says-he-wants-it-done-he-leaves-office",
     "ts": 1794947100000,
     "tags": []
-   },
-   {
-    "t": "Ghalibaf Threatens US-Israeli Civilian Infrastructure As IRGC-Aligned Channel Highlights Hoover Dam",
-    "tt": "Devrim Muhafızları ile Uyumlu Kanal Hoover Barajını Vurgularken Galibaf ABD-İsrail Sivil Altyapısını Tehdit Ediyor",
-    "s": "Ghalibaf Threatens US-Israeli Civilian Infrastructure As IRGC-Aligned Channel Highlights Hoover Dam As the NY Times is busy manufacturing consent for war crimes, a long pastime going back to the notorious Judith Miller days and beyond, Tehran is vowing infrastructure for infrastructure attacks. Iran",
-    "ss": "IRGC Bağlantılı Kanal Hoover Barajını Vurgularken Galibaf, ABD-İsrail Sivil Altyapısını Tehdit Ediyor NY Times, kötü şöhretli Judith Miller günlerine ve sonrasına uzanan uzun bir eğlence olan savaş suçları için izin üretmekle meşgulken, Tahran altyapı saldırıları için altyapı sözü veriyor. İran",
-    "u": "https://www.zerohedge.com/geopolitical/ghalibaf-threatens-us-israeli-infrastructure-irgc-aligned-channel-highlights-hoover",
-    "ts": 1794946200000,
-    "tags": []
-   },
-   {
-    "t": "Ilhan Omar Raid Records To Be Made Public As Soon As Monday",
-    "tt": "İlhan Omar Baskını Plakları Pazartesi Günü Açıklanacak",
-    "s": "Ilhan Omar Raid Records To Be Made Public As Soon As Monday Chief US District Judge James Boasberg ruled Tuesday that parts of the sealed records from the federal search of Rep. Ilhan Omar's Washington home will be released with redactions , possibly as soon as Monday, while the 67-page affidavit la",
-    "ss": "İlhan Omar Baskın Kayıtları Pazartesi Günü Kamuya Açıklanacak ABD Bölge Baş Hakimi James Boasberg Salı günü, Temsilci İlhan Omar'ın Washington'daki evinde yapılan federal aramada elde edilen mühürlü kayıtların bir kısmının muhtemelen Pazartesi günü redaksiyonlarla birlikte açıklanacağına hükmetti.",
-    "u": "https://www.zerohedge.com/political/ilhan-omar-raid-records-be-made-public-soon-monday",
-    "ts": 1794945300000,
-    "tags": []
-   },
-   {
-    "t": "Bernstein Slaps Pepsi With Downgrade As Junk Food Demand Falters",
-    "tt": "Bernstein, Abur cubur Talebi Düşerken Pepsi'nin Notunu Düşürdü",
-    "s": "Bernstein Slaps Pepsi With Downgrade As Junk Food Demand Falters Pepsi shares have been locked in a 3.5-year drawdown , with the snack and soda giant losing as much as 36% of its market capitalization amid soft junk-food demand. On Tuesday morning, Bernstein consumer analysts Cristian Rios and Yolan",
-    "ss": "Bernstein, Abur cubur Talebi Düşerken Pepsi'nin Notunu Düşürdü Pepsi hisseleri 3,5 yıllık bir düşüşe kilitlendi; atıştırmalık ve soda devi, zayıf abur cubur talebi nedeniyle piyasa değerinin %36'sını kaybetti. Salı sabahı Bernstein tüketici analistleri Cristian Rios ve Yolan",
-    "u": "https://www.zerohedge.com/markets/bernstein-slaps-pepsi-downgrade-junk-food-demand-falters",
-    "ts": 1794943500000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Adil Katılım Bankası'nın yönetimi TMSF'ye devredildi",
+    "tt": null,
+    "s": "BDDK, Adil Katılım Bankası A.Ş.'nin temettü hariç ortaklık hakları ile yönetim ve denetiminin TMSF'ye devredilmesine karar verdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/adil-katilim-bankasi-nin-yonetimi-tmsf-ye-devredildi-3794935",
+    "ts": 1794954666000,
+    "tags": []
+   },
+   {
+    "t": "Yabancı yatırımcılara verilecek ikamet izinlerinde yeni düzenleme",
+    "tt": null,
+    "s": "Türkiye'de çalışmayan yabancılara, en az 150 bin dolarlık yatırımla 3 yıl, en az 200 bin dolarlık yatırımla ise 5 yıl ikamet izni verilecek. Karara göre yatırımın ikamet izni süresinin en az yarısı boyunca korunması gerekecek.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yabanci-yatirimcilara-verilecek-ikamet-izinlerinde-yeni-duzenleme-3794934",
+    "ts": 1794954003000,
+    "tags": []
+   },
+   {
+    "t": "Kalshi, Trump'ın konuşmalarına yönelik bahisleri durdurdu",
+    "tt": null,
+    "s": "Kalshi, ABD'li düzenleyici CFTC'nin talimatıyla Trump'ın belirli kelimeleri söyleyip söylemeyeceğine ilişkin bahisleri durdurdu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kalshi-trump-in-konusmalarina-yonelik-bahisleri-durdurdu-3794933",
+    "ts": 1794952238000,
+    "tags": []
+   },
+   {
+    "t": "Almanya'da 10 kişiden yaklaşık 9'u hükümetten memnun değil",
+    "tt": null,
+    "s": "Forsa anketine göre Almanya'da Merz hükümetinin çalışmalarından memnun olmayanların oranı yüzde 86'ya yükseldi. Oy desteğinde ise AfD yüzde 26 ile ilk sırada yer alırken hükümetin büyük ortağı CDU/CSU yüzde 21'de kaldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/almanya-da-10-kisiden-yaklasik-9-u-hukumetten-memnun-degil-3794932",
+    "ts": 1794951268000,
+    "tags": []
+   },
    {
     "t": "Anthropic için 2030'da 500 milyar doların üzerinde gelir tahmini",
     "tt": null,
@@ -1008,42 +1050,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/fon-sorusturmasinda-7-supheli-daha-tutuklandi-3794926",
     "ts": 1794945904000,
-    "tags": []
-   },
-   {
-    "t": "OpenAI, siber güvenlik için NATO ile işbirliği yaptığını duyurdu",
-    "tt": null,
-    "s": "OpenAI, NATO üyesi ülkelerin ağlarının korunmasına katkı sağlamak amacıyla gelişmiş siber güvenlik modellerini ittifakın temel kurumlarına açmak için NATO İletişim ve Bilgi Ajansı ile işbirliği yaptığını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/openai-siber-guvenlik-icin-nato-ile-isbirligi-yaptigini-duyurdu-3794925",
-    "ts": 1794945095000,
-    "tags": []
-   },
-   {
-    "t": "Almanya'dan Ukrayna'ya 2027'de 11,6 milyar euroluk destek",
-    "tt": null,
-    "s": "Almanya Savunma Bakanı Boris Pistorius, ülkesinin 2027'de Ukrayna'ya yaklaşık 11,6 milyar euro destek sağlayacağını açıkladı. Pistorius, askeri yardımlarda hava savunmasına öncelik vereceklerini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/almanya-dan-ukrayna-ya-2027-de-11-6-milyar-euroluk-destek-3794922",
-    "ts": 1794944536000,
-    "tags": []
-   },
-   {
-    "t": "Yapay zekayla ilaç geliştiren Isomorphic Labs, 5 milyar dolar yatırım aldı",
-    "tt": null,
-    "s": "Alphabet bünyesinde faaliyet gösteren yapay zeka tabanlı ilaç keşfi şirketi Isomorphic Labs, Greenoaks Capital ve Sequoia Capital liderliğinde 5 milyar dolarlık Seri C yatırım turunu kapattı. Yatırım turuna Greenoaks ve Sequoia Capital liderlik ederken, yeni yatırımcı Andreessen Horowitz de sürece d",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yapay-zekayla-ilac-gelistiren-isomorphic-labs-5-milyar-dolar-yatirim-aldi-3794920",
-    "ts": 1794943743000,
-    "tags": []
-   },
-   {
-    "t": "Apple'ın birçok hizmetinde kesinti yaşanıyor",
-    "tt": null,
-    "s": "Apple, App Store ve Apple Music'te Türkiye saatiyle 19.45'ten itibaren kesinti yaşandığını bildirdi. Şirket, aynı saatten bu yana iCloud hesaplarına girişte tüm kullanıcıları etkileyen bir sorun yaşandığını da açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/apple-in-bircok-hizmetinde-kesinti-yasaniyor-3794919",
-    "ts": 1794943415000,
     "tags": []
    }
   ]
