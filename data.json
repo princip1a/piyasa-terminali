@@ -1,67 +1,67 @@
 {
- "generated": "2026-11-18T20:42:45.687770+00:00",
+ "generated": "2026-11-18T21:42:15.149401+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7324.0,
+   "p": 7323.63,
    "c": -0.23,
-   "d": -16.53,
+   "d": -16.9,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24410.924,
-   "c": 0.34,
-   "d": 82.543,
+   "p": 24429.885,
+   "c": 0.42,
+   "d": 101.504,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50194.46,
+   "p": 50198.17,
    "c": -1.11,
-   "d": -564.962,
+   "d": -561.252,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 24.68,
-   "c": -3.06,
-   "d": -0.78,
+   "p": 24.56,
+   "c": -3.53,
+   "d": -0.9,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3731.8,
-   "c": -3.43,
-   "d": -132.4,
+   "p": 3729.7,
+   "c": -3.48,
+   "d": -134.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 44.985,
-   "c": -4.87,
-   "d": -2.303,
+   "p": 45.05,
+   "c": -4.73,
+   "d": -2.238,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.14,
-   "c": -4.5,
-   "d": -3.87,
+   "p": 82.11,
+   "c": -4.53,
+   "d": -3.9,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.89,
-   "c": -4.56,
-   "d": -4.25,
+   "p": 88.91,
+   "c": -4.54,
+   "d": -4.23,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.773,
-   "c": 0.27,
-   "d": 0.283,
+   "p": 103.806,
+   "c": 0.31,
+   "d": 0.316,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4317,
-   "c": 0.03,
-   "d": 0.013,
+   "p": 50.4115,
+   "c": -0.01,
+   "d": -0.007,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11477.41,
-   "c": -1.57,
-   "d": -183.59,
+   "c": -3.08,
+   "d": -364.39,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 62534,
-   "c": -2.18,
+   "p": 62320,
+   "c": -3.25,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1749.59,
-   "c": -2.62,
+   "p": 1762.93,
+   "c": -2.59,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.95,
-   "c": -0.1,
+   "p": 73.01,
+   "c": -0.78,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.966457,
-   "c": -0.12,
+   "p": 0.969726,
+   "c": -0.29,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 578.24,
-   "c": -1.77,
+   "p": 576.83,
+   "c": -2.49,
    "k": "usd"
   }
  ],
@@ -584,99 +584,93 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 18",
-    "tt": "18 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil inched lower despite bullish headlines from the Middle East as risk appetite waned in a choppy session.",
-    "ss": "Petrol Orta Doğu'dan gelen iyimser manşetlere rağmen risk iştahının dalgalı bir seansta azalmasıyla birlikte hafif düşüş yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
-    "ts": 1794956493000,
+    "t": "Foreign Holdings of US Treasuries Decline by Most Since March",
+    "tt": "ABD Hazine Tahvillerinin Yabancı Varlıkları Mart'tan Bu Yana En Çok Düştü",
+    "s": "Foreign holdings of US Treasuries fell in September by the most in six months, led by decreases in the stockpiles of China and France.",
+    "ss": "ABD Hazine tahvillerinin yabancı varlıkları, Çin ve Fransa'nın stoklarındaki azalmanın etkisiyle Eylül ayında son altı ayın en sert düşüşünü yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/foreign-holdings-of-us-treasuries-decline-by-most-since-march",
+    "ts": 1795038080000,
     "tags": []
    },
    {
-    "t": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
-    "tt": "Arm CEO'su Haas, Nvidia Yönetim Kurulu İşe Alım Firmasıyla Görüştü",
-    "s": "Bloomberg's Ian King said that despite the Nvidia board's claims they have not begun the recruitment process for a new CEO, the firm hired to oversee the process has reached out to ARM Holdings CEO Renee Haas as a potential replacement for Jensen Huang. King said that after Nvidia earnings came in a",
-    "ss": "Bloomberg'den Ian King, Nvidia yönetim kurulunun yeni bir CEO için işe alım sürecini başlatmadıklarını iddia etmesine rağmen, süreci denetlemek üzere işe alınan firmanın, Jensen Huang'ın yerine potansiyel bir yedek olarak ARM Holdings CEO'su Renee Haas'a ulaştığını söyledi. King, Nvidia'nın kazançlarının artmaya başlamasının ardından şunları söyledi:",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/arm-ceo-approached-by-nvidia-board-s-recruitment-firm-video",
-    "ts": 1795033980000,
-    "tags": []
-   },
-   {
-    "t": "CoreWeave Says Nvidia Is ‘Not One Person,’ Remains a Key Partner",
-    "tt": "CoreWeave, Nvidia'nın 'Tek Kişi Olmadığını', Kilit Ortak Olarak Kaldığını Söyledi",
-    "s": "CoreWeave Inc. has moved to dispel concerns that Jensen Huang’s exit from Nvidia Corp. could affect the chipmaker’s support for neoclouds, with strategy leader Ben Richardson saying it plans to keep working with the company. (Source: Bloomberg)",
-    "ss": "CoreWeave Inc., Jensen Huang'ın Nvidia Corp.'tan ayrılmasının çip üreticisinin neocloud'lara verdiği desteği etkileyebileceği yönündeki endişeleri ortadan kaldırmak için harekete geçti ve strateji lideri Ben Richardson şirketle çalışmaya devam etmeyi planladığını söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/coreweave-says-nvidia-remains-a-key-partner-video",
-    "ts": 1795033220000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Fall on Nvidia Selloff Before Anthropic IPO: Markets Wrap",
+    "t": "Stocks Fall on Nvidia Rout as Anthropic in Focus: Markets Wrap",
     "tt": "Nvidia'nın Görünümü Yapay Zeka Korkularını Etkilerken Hisse Senetleri Yükseliyor: Piyasalar Sarılıyor",
-    "s": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.",
+    "s": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence of the durability of the artificial-intelligence trade.",
     "ss": "Teknoloji hisselerinde günlerdir süren satışlar, Nvidia Corp.'un güçlü görünümünün yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin korkularını gidermeye yardımcı olmasının ardından durma noktasına geldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
     "ts": 1794953228000,
     "tags": []
    },
    {
-    "t": "Chicago’s Third CFO This Year Saw Red Flags Before Exit",
-    "tt": "Chicago'nun Bu Yıl Üçüncü CFO'su Çıkıştan Önce Kırmızı Bayraklar Gördü",
-    "s": "The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.",
-    "ss": "Chicago'nun üçüncü finans sorumlusunun bir yıl içinde ani ayrılışı, tutarsız bütçe açığı hesaplamaları da dahil olmak üzere bütçeleme uygulamalarına ilişkin endişelerini defalarca dile getirmesinin ardından gerçekleşti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
-    "ts": 1795019262000,
+    "t": "Bloomberg New Economy Forum Day Three Opening Address",
+    "tt": "Bloomberg Yeni Ekonomi Forumu Üçüncü Gün Açılış Konuşması",
+    "s": "Rishi Sunak, Former Prime Minister & Member of Parliament, UK, delivers welcome remarks at the 2026 Bloomberg New Economy Forum in Delhi. (Source: Bloomberg)",
+    "ss": "Birleşik Krallık Eski Başbakanı ve Parlamento Üyesi Rishi Sunak, Delhi'deki 2026 Bloomberg Yeni Ekonomi Forumu'nda hoş geldin konuşması yapıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-new-economy-forum-day-three-opening-address-video",
+    "ts": 1795037639000,
     "tags": []
    },
    {
-    "t": "Anthropic Leveraged ETF Race Heats Up Even Before Stock’s Debut",
-    "tt": "Antropik Kaldıraçlı ETF Yarışı Hisse Senedinin Çıkışından Önce Kızışıyor",
-    "s": "A slew of leveraged ETFs tied to SpaceX launched soon after its public debut, but only one managed to attract meaningful assets. That experience has raised the stakes for Anthropic: Issuers are racing to get out front in hopes that their fund becomes the one that captures the bulk of investor dollar",
-    "ss": "SpaceX'e bağlı bir dizi kaldıraçlı ETF halka açıldıktan kısa bir süre sonra piyasaya sürüldü, ancak yalnızca bir tanesi anlamlı varlıkları çekmeyi başardı. Bu deneyim Anthropic'in çıtasını yükseltti: İhraççılar, kendi fonlarının yatırımcı dolarının büyük kısmını ele geçirecek fon haline gelmesi umuduyla öne çıkmak için yarışıyor",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-leveraged-etf-race-heats-up-even-before-stock-s-debut",
-    "ts": 1795031346000,
+    "t": "Canadian Stocks Sink to June Low as Metals, Oil Losses Mount",
+    "tt": "Kanada Hisse Senetleri Metal ve Petrol Kayıplarının Artmasıyla Haziranın En Düşük Seviyesine Düştü",
+    "s": "The Canadian equity benchmark fell to the lowest level since June as a selloff in metals and energy names dragged the market lower this month.",
+    "ss": "Kanada hisse senedi endeksi, metal ve enerji isimlerinde yaşanan satışların bu ay piyasayı daha da aşağı çekmesiyle Haziran ayından bu yana en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/canadian-stocks-sink-to-june-low-as-metals-oil-losses-mount",
+    "ts": 1795032034000,
     "tags": []
    },
    {
-    "t": "Fed Minutes Leave Door Open to Larger December Rate Hike",
-    "tt": "Fed Tutanakları Daha Büyük Aralık Faiz Artırımına Kapıyı Açık Bıraktı",
-    "s": "Minutes of the Federal Open Market Committee’s Oct. 27-28 meeting show nearly all Federal Reserve officials agreed they would likely have to raise interest rates “in the months ahead” to return inflation to their 2% target in a timely manner. Michael McKee reports. (Source: Bloomberg)",
-    "ss": "Federal Açık Piyasa Komitesi'nin 27-28 Ekim'deki toplantısının tutanakları, neredeyse tüm Fed yetkililerinin, enflasyonu zamanında %2 hedefine döndürmek için \"önümüzdeki aylarda\" faiz oranlarını artırmak zorunda kalacakları konusunda hemfikir olduklarını gösteriyor. Michael McKee bildiriyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/fed-minutes-leave-door-open-to-larger-december-rate-hike-video",
-    "ts": 1795031000000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
-    "tt": "Kanada Bankası Nisan Senaryo Analizi Telgrafla Zam Yapacağını Açıkladı",
-    "s": "A Bank of Canada official says policymakers are publishing scenario analyses to help market participants see potential paths for interest rates amid more frequent shocks.",
-    "ss": "Kanada Merkez Bankası'ndan bir yetkili, politika yapıcıların piyasa katılımcılarının daha sık şokların olduğu bir ortamda faiz oranlarına yönelik potansiyel yolları görmelerine yardımcı olmak için senaryo analizleri yayınladığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bank-of-canada-says-april-scenario-analysis-telegraphed-hike",
-    "ts": 1795023000000,
+    "t": "Patching the AI Trade",
+    "tt": "Yapay Zeka Ticaretini Düzeltmek",
+    "s": "What comes after early adoption?",
+    "ss": "Erken evlat edinmenin ardından ne gelir?",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-18/patching-the-ai-trade",
+    "ts": 1795037182000,
     "tags": []
    },
    {
-    "t": "Fed’s Barr Says Higher Rates Are Likely ‘Appropriate’",
-    "tt": "Fed Başkanı Barr, Yüksek Faizlerin Muhtemelen 'Uygun' Olduğunu Söyledi",
-    "s": "Federal Reserve Governor Michael Barr says higher interest rates would likely be appropriate to help tame inflation that continues to squeeze American households. He speaks at the New York Fed's Making Missing Markets event. (Source: Bloomberg)",
-    "ss": "Federal Reserve Guvernörü Michael Barr, Amerikan hane halkını sıkıştırmaya devam eden enflasyonun dizginlenmesine yardımcı olmak için daha yüksek faiz oranlarının muhtemelen uygun olacağını söyledi. New York Fed'in Kayıp Piyasaları Yaratmak etkinliğinde konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/fed-s-barr-says-higher-rates-are-likely-appropriate-video",
-    "ts": 1795028454000,
+    "t": "S&P Falls to Lowest Since July | Closing Bell",
+    "tt": "S&P Temmuz'dan Bu Yana En Düşük Seviyesine Düştü | Kapanış Zili",
+    "s": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Vonnie Quinn, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "ss": "Romaine Bostick, Vonnie Quinn, Carol Massar ve Tim Stenovec'in katılımıyla Bloomberg Televizyonu, Bloomberg Radyosu ve YouTube'da ABD pazarı kapanışına ilişkin platformlar arası kapsamlı kapsamlı yayın. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/s-p-falls-to-lowest-since-july-closing-bell-video",
+    "ts": 1795037153000,
     "tags": []
    },
    {
-    "t": "Need Accountability, Transparency in FAA Funding, Says Sen. Capito",
-    "tt": "Senatör Capito, FAA Finansmanında Hesap Verebilirliğe ve Şeffaflığa İhtiyaç Olduğunu Söyledi",
-    "s": "Republican Senator Shelley Moore Capito of West Virginia talks about government funding, energy permitting reform and concerns about advanced chips going to China. Capito said that there needs to be more a 'accountability' and 'transparency' for FAA funding, adding that Transportation Secretary Sean",
-    "ss": "Batı Virginia'dan Cumhuriyetçi Senatör Shelley Moore Capito, hükümet finansmanı, enerji izin reformu ve gelişmiş çiplerin Çin'e gitmesiyle ilgili endişelerden bahsediyor. Capito, FAA finansmanı için daha fazla 'sorumluluk' ve 'şeffaflık' olması gerektiğini söyledi ve Ulaştırma Bakanı Sean'ın da sözlerine ekledi:",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/need-accountability-transparency-in-faa-funding-capito-video",
-    "ts": 1795029836000,
+    "t": "US Rivals Seek Its Tech Through M&A, VC: Mullin",
+    "tt": "ABD'li Rakipler Teknolojisini Birleşme ve Satın Almalar Yoluyla Arıyor, VC: Mullin",
+    "s": "Bloomberg’s Mike Shepard joins Dani Burger and Scarlet Fu on “Bloomberg Deals.” US Homeland Security Secretary Markwayne Mullin told a House panel today that “adversarial nation-states continue to seek access to U.S. technology and intellectual property through corporate M&amp;A, greenfield investme",
+    "ss": "Bloomberg'den Mike Shepard, \"Bloomberg Deals\" programında Dani Burger ve Scarlet Fu'ya katılıyor. ABD İç Güvenlik Bakanı Markwayne Mullin bugün bir Meclis panelinde şunları söyledi: \"düşman ulus devletler, kurumsal birleşme ve satın almalar, yeşil alan yatırımları yoluyla ABD teknolojisine ve fikri mülkiyetine erişim arayışına devam ediyor.\"",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/us-rivals-seek-its-tech-through-m-a-vc-mullin-video",
+    "ts": 1795036484000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stocks Advance as Investors Look to Anthropic IPO Test",
+    "tt": "Yatırımcılar Antropik Halka Arz Testine Bakarken Teknoloji Hisseleri Yükseliyor",
+    "s": "The benchmark index for the 100 biggest US technology stocks snapped a four-day slide as traders looked to the mammoth market debut of Anthropic PBC for the next key test for the artificial intelligence trade.",
+    "ss": "ABD'nin en büyük 100 teknoloji hissesinin gösterge endeksi, yatırımcıların yapay zeka ticaretine yönelik bir sonraki önemli test için Anthropic PBC'nin devasa piyasaya çıkışına bakmasıyla dört günlük düşüşünü durdurdu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
+    "ts": 1795005286000,
+    "tags": []
+   },
+   {
+    "t": "US Carrier Sails From Persian Gulf, Leaving Two in Region",
+    "tt": "ABD Taşıyıcısı Basra Körfezi'nden yola çıktı ve bölgede iki tane bıraktı",
+    "s": "One of three US aircraft carrier strike groups in the Persian Gulf region to enforce the naval blockade against Iran has left the region and is likely returning to its home port, according to two US officials.",
+    "ss": "İki ABD'li yetkiliye göre, İran'a karşı deniz ablukasını uygulamak için Basra Körfezi bölgesinde bulunan üç ABD uçak gemisi saldırı grubundan biri bölgeyi terk etti ve muhtemelen ana limanına geri dönüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/us-carrier-leaves-persian-gulf-for-japan-leaving-two-in-region",
+    "ts": 1795028168000,
+    "tags": []
+   },
+   {
+    "t": "Credit Selloff Lures Bargain Hunters to ‘Stock Picker’s Market’",
+    "tt": "Credit Selloff, Pazarlık Avcılarını 'Hisse Senedi Seçici Piyasası'na Çekiyor",
+    "s": "MFS Investment Management’s Pilar Gomez-Bravo and J.P. Morgan Asset Management’s Iain Stealey see opportunities in beaten-up credit after the recent selloff, particularly in lower-rated and subordinated debt. Both stressed the need for selectivity, with Gomez-Bravo calling it a “stock picker’s marke",
+    "ss": "MFS Yatırım Yönetimi'nden Pilar Gomez-Bravo ve J.P. Morgan Asset Management'tan Iain Stealey, özellikle düşük oranlı ve sermaye benzeri borçlar olmak üzere, son dönemde yaşanan satışların ardından artan kredi fırsatlarını görüyor. Her ikisi de seçicilik ihtiyacını vurguladı ve Gomez-Bravo bunu \"hisse senedi toplayıcının piyasa değeri\" olarak nitelendirdi.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/credit-selloff-could-be-a-stock-picker-s-market-video",
+    "ts": 1795036260000,
     "tags": []
    }
   ],
@@ -786,12 +780,57 @@
   ],
   "MarketWatch": [
    {
+    "t": "Has the stock market’s correction hit bottom yet? Here’s what these contrarian indicators say.",
+    "tt": "Borsadaki düzeltme henüz dibe vurdu mu? İşte bu zıt göstergelerin söyledikleri.",
+    "s": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
+    "ss": "Karşıt satın alma sinyalleri genellikle duyarlılık şimdiye kadar olduğundan daha fazla düşene kadar gelmez",
+    "u": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+    "ts": 1795038120000,
+    "tags": []
+   },
+   {
+    "t": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "tt": "'Evde oturan bir anneyim': 50 yaşındayım ve kronik bir hastalığım var. Kocam işini kaybetti. 401(k)'sine baskın yapmalı mı?",
+    "s": "“Our financial and healthcare situation has become increasingly concerning.”",
+    "ss": "“Finansal ve sağlık durumumuz giderek endişe verici hale geldi.”",
+    "u": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "ts": 1795037400000,
+    "tags": []
+   },
+   {
+    "t": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+    "tt": "Nvidia'nın çarpıcı sonuçlarının omuz silkmeyle karşılanmasının ardından yapay zeka ticaretinde sırada ne var?",
+    "s": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+    "ss": "Nvidia güçlü bir performans sergiledi ancak şirket ve makroekonomik faktörler üzerinde artan incelemeler nedeniyle sorular devam ediyor",
+    "u": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+    "ts": 1795036740000,
+    "tags": []
+   },
+   {
     "t": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
     "tt": "Google, yapay zekayı güçlendirmek için yeni ve çılgın bir teklifle yanardağ ve kaya eritme teknolojisine yöneliyor",
     "s": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
     "ss": "Bir Bernstein analistine göre Google'ın Quaise ile yaptığı anlaşma \"türünün ilk örneği olan bir teknolojiye yapılan bir bahis\".",
     "u": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-    "ts": 1795034340000,
+    "ts": 1795035660000,
+    "tags": []
+   },
+   {
+    "t": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+    "tt": "'Nvidia'nın kargaşası beni korkuttu': Hisse senetlerimi satıp emlak mı almalıyım yoksa fırtınayı atlatmalı mıyım?",
+    "s": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "ss": "Gayrimenkul veya CD'ler için stoklardan vazgeçmeye mi karar verdiniz? Ani hareketler yapmadan önce derin bir nefes alın.",
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1795035600000,
+    "tags": []
+   },
+   {
+    "t": "Fed minutes show growing unease about the outlook for inflation",
+    "tt": "Fed tutanakları enflasyon görünümüne ilişkin artan tedirginliği gösteriyor",
+    "s": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
+    "ss": "Fed'in Ekim ayındaki politika toplantısının tutanakları, faiz oranlarını sabit tutmaya karar vermelerine rağmen yetkililer arasında enflasyonun görünümüne ilişkin artan tedirginliği gösterdi.",
+    "u": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+    "ts": 1795035060000,
     "tags": []
    },
    {
@@ -813,15 +852,6 @@
     "tags": []
    },
    {
-    "t": "Fed minutes show growing unease about the outlook for inflation",
-    "tt": "Fed tutanakları enflasyon görünümüne ilişkin artan tedirginliği gösteriyor",
-    "s": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
-    "ss": "Fed'in Ekim ayındaki politika toplantısının tutanakları, faiz oranlarını sabit tutmaya karar vermelerine rağmen yetkililer arasında enflasyonun görünümüne ilişkin artan tedirginliği gösterdi.",
-    "u": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-    "ts": 1795030680000,
-    "tags": []
-   },
-   {
     "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
     "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
     "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
@@ -838,45 +868,45 @@
     "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
     "ts": 1795026600000,
     "tags": []
-   },
-   {
-    "t": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
-    "tt": "'GTA 6' şimdiye kadarki en büyük oyundur. Take-Two'nun stokları, teslimat uygulamaları ve podcast'leri de yanınızda.",
-    "s": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
-    "ss": "\"Grand Theft Auto VI\" Metacritic'ten 99 puan aldı ve şimdiden Yılın Oyunu ödülüne aday gösterildi. Bir analist, \"Açıkçası 13 yıllık bekleyiş boşa gitmedi\" dedi.",
-    "u": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
-    "ts": 1795026480000,
-    "tags": []
-   },
-   {
-    "t": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-    "tt": "'Düpedüz kirli': Kardeşim, hasta annemizin hayatını ve mali durumunu devraldı. Ne yapabilirim?",
-    "s": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-    "ss": "\"Güvenmeniz gereken insanların, kendinizi korumanız gereken insanlar haline gelmesi yıkıcı bir şey.\"",
-    "u": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-    "ts": 1795024800000,
-    "tags": []
-   },
-   {
-    "t": "Social Security should be shut down, this Republican senator says",
-    "tt": "Bu Cumhuriyetçi senatör, Sosyal Güvenliğin kapatılması gerektiğini söylüyor",
-    "s": "The program’s trust funds are expected to run out of money in the next six years.",
-    "ss": "Programın güven fonlarının önümüzdeki altı yıl içinde parasının bitmesi bekleniyor.",
-    "u": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-    "ts": 1795023960000,
-    "tags": []
-   },
-   {
-    "t": "Rising healthcare costs push Medicare Part B premiums higher",
-    "tt": "Artan sağlık hizmetleri maliyetleri Medicare Kısım B primlerini yükseltiyor",
-    "s": "The premiums will increase by $6.50, to $209.40 a month.",
-    "ss": "Primler 6,50 dolar artarak ayda 209,40 dolara çıkacak.",
-    "u": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-    "ts": 1795022880000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Houthis Launch More Missiles On Riyadh's Financial District, International Airport",
+    "tt": "Suudi Arabistan, Yemen Savaşı'nın 2027'ye Kadar Uzamasına Hazırlanıyor",
+    "s": "Houthis Launch More Missiles On Riyadh's Financial District, International Airport Update(1639ET) : Another day, another Houthi attack on Riyadh: \"Yemen's Iran-aligned ​Houthis said ‌on Sunday they ​targeted ​the King Khalid ⁠International ​Airport and ​a financial centre in ​the ​Saudi capital Riya",
+    "ss": "Suudi Arabistan, Yemen Savaşı'nın 2027'ye Kadar Uzamasını Bekliyor Bu sürpriz olmamalı, ancak Reuters'in planlar hakkında Suudiler tarafından bilgilendirilen iki Batılı yetkiliye dayandırdığı haberine göre, Suudi Arabistanlı yetkililer Husilerle savaşın 2027'ye kadar sürmesi için hazırlanıyor. \"Etrafta halka açık mesajlaşma",
+    "u": "https://www.zerohedge.com/geopolitical/saudi-arabia-braces-yemen-war-extend-well-2027",
+    "ts": 1795037940000,
+    "tags": []
+   },
+   {
+    "t": "\"The Most California Headline Ever\": Homeless Housing CEO Tried To Flee On His Yacht",
+    "tt": "\"Şimdiye Kadarki En Kaliforniya Manşeti\": Evsizler Konutu CEO'su Yatıyla Kaçmaya Çalıştı",
+    "s": "\"The Most California Headline Ever\": Homeless Housing CEO Tried To Flee On His Yacht The CEO of a Long Beach affordable housing charity was carrying $15,000 in cash, parts for a broken-down yacht and documents tied to properties named in his federal indictment when he was arrested at the airport in ",
+    "ss": "\"Şimdiye Kadarki En Çok Kaliforniya Manşeti\": Evsiz Konut CEO'su Yatıyla Kaçmaya Çalıştı Long Beach'teki uygun fiyatlı konut yardım kuruluşunun CEO'su, 15.000 dolar nakit para, arızalı bir yatın parçaları ve federal iddianamesinde adı geçen mülklere bağlı belgeler taşıyordu.",
+    "u": "https://www.zerohedge.com/political/most-california-headline-ever-homeless-housing-ceo-tried-flee-his-yacht",
+    "ts": 1795037700000,
+    "tags": []
+   },
+   {
+    "t": "Get Ready For Surging Inflation As Democrats Take Power",
+    "tt": "Demokratların İktidara Gelmesiyle Artan Enflasyona Hazır Olun",
+    "s": "Get Ready For Surging Inflation As Democrats Take Power Authored by Brandon Smith via Alt-Market.us Pattern recognition is an important mental tool and something that has been largely neglected in western countries in modern times. It’s the ability to identify and address persistent problems when it",
+    "ss": "Demokratlar İktidara Gelirken Artan Enflasyona Hazır Olun Yazan Brandon Smith, Alt-Market.us aracılığıyla Örüntü tanıma önemli bir zihinsel araçtır ve modern zamanlarda batı ülkelerinde büyük ölçüde ihmal edilen bir şeydir. Kalıcı sorunları tespit etme ve çözme yeteneğidir.",
+    "u": "https://www.zerohedge.com/economics/get-ready-surging-inflation-democrats-take-power",
+    "ts": 1795036800000,
+    "tags": []
+   },
+   {
+    "t": "IRGC Says 3 More Tankers On Fire After Ignoring Warnings In Hormuz Area",
+    "tt": "Devrim Muhafızları, Hürmüz Bölgesinde Uyarıları Dikkate Almadıktan Sonra 3 Tankerin Daha Alev Aldığını Söyledi",
+    "s": "IRGC Says 3 More Tankers On Fire After Ignoring Warnings In Hormuz Area Update(1605ET) : Added to Tuesday's reported five tanker attacks in or near the Hormuz Strait, on Wednesday the IRGC has claimed three more attacks on oil tankers which caught fire : The IRGC says the three oil tankers that caug",
+    "ss": "Devrim Muhafızları, Hürmüz Bölgesindeki Uyarıları Göz Ardı Ettikten Sonra 3 Tankerin Daha Ateşte Olduğunu Söyledi Güncelleme(1605ET): Salı günü Hürmüz Boğazı'nda veya yakınında bildirilen beş tanker saldırısına eklendi, Çarşamba günü Devrim Muhafızları, alev alan petrol tankerlerine yönelik üç saldırı daha üstlendi: Devrim Muhafızları, yanan üç petrol tankerinin daha olduğunu söylüyor",
+    "u": "https://www.zerohedge.com/geopolitical/crew-abandons-burning-gas-tanker-hit-twice-hormuz-fears-grow-it-could-explode",
+    "ts": 1795035900000,
+    "tags": []
+   },
    {
     "t": "Trump Said To Have Grown Angrier With Vance Since Midterms Over War Criticism: Report",
     "tt": "Trump'ın Ara Sınavlardan Bu Yana Savaş Eleştirileri Nedeniyle Vance'e Kızgınlığı Arttığı Söylendi: Rapor",
@@ -887,21 +917,30 @@
     "tags": []
    },
    {
-    "t": "Saudi Arabia Braces for Yemen War To Extend Well Into 2027",
-    "tt": "Suudi Arabistan, Yemen Savaşı'nın 2027'ye Kadar Uzamasına Hazırlanıyor",
-    "s": "Saudi Arabia Braces for Yemen War To Extend Well Into 2027 This should come as no surprise, but Saudi Arabian officials are peparing for the war with the Houthis to extend well into 2027 , according to Reuters citing two Western officials briefed by Saudis on the plans. \"Public ‌messaging around the",
-    "ss": "Suudi Arabistan, Yemen Savaşı'nın 2027'ye Kadar Uzamasını Bekliyor Bu sürpriz olmamalı, ancak Reuters'in planlar hakkında Suudiler tarafından bilgilendirilen iki Batılı yetkiliye dayandırdığı haberine göre, Suudi Arabistanlı yetkililer Husilerle savaşın 2027'ye kadar sürmesi için hazırlanıyor. \"Etrafta halka açık mesajlaşma",
-    "u": "https://www.zerohedge.com/geopolitical/saudi-arabia-braces-yemen-war-extend-well-2027",
-    "ts": 1795033800000,
-    "tags": []
-   },
-   {
     "t": "Ed Dowd: Governments Are Telling You To Get Ready... Pay Attention",
     "tt": "Ed Dowd: Hükümetler Size Hazırlanmanızı Söylüyor... Dikkat Edin",
     "s": "Ed Dowd: Governments Are Telling You To Get Ready... Pay Attention Authored by Ed Dowd via Beyond the Narrative , The clustering of preparedness guidance and system failures is not random. Practical steps and why anxiety is still the wrong strategy... Something has shifted in official messaging. Acr",
     "ss": "Ed Dowd: Hükümetler Size Hazırlanmanızı Söylüyor... Dikkat Edin Ed Dowd tarafından Anlatının Ötesinde aracılığıyla yazılmıştır, Hazırlık rehberliği ve sistem arızalarının kümelenmesi rastgele değildir. Pratik adımlar ve kaygının neden hala yanlış strateji olduğu... Resmi mesajlaşmada bir şeyler değişti. Acr",
     "u": "https://www.zerohedge.com/personal-finance/ed-dowd-governments-are-telling-you-get-ready-pay-attention",
     "ts": 1795032900000,
+    "tags": []
+   },
+   {
+    "t": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse",
+    "tt": "Bir Büyük Fast Food Franchise Sahibi Daha Acımasız Kâr Çöküşünden Sonra İflasla Sarsıldı",
+    "s": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse The bankruptcy bloodbath sweeping America's fast-food industry has claimed another victim as a major KFC and Taco Bell franchise operator buckles under the weight of plunging sales, soaring operating costs, and ",
+    "ss": "Acımasız Kâr Çöküşünden Sonra Bir Büyük Fast Food Franchise Sahibi Daha İflasla Sarsıldı Amerika'nın fast-food endüstrisini kasıp kavuran iflas kan banyosu, büyük bir KFC ve Taco Bell franchise işletmecisinin düşen satışlar, yükselen işletme maliyetleri ve artan işletme maliyetleri altında ezilmesinden dolayı bir kurban daha aldı.",
+    "u": "https://www.zerohedge.com/political/yet-another-major-fast-food-franchisee-rocked-bankruptcy-after-brutal-profit-collapse",
+    "ts": 1795032000000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic's Founders Slipped A Chilling Warning Into Their IPO Letter",
+    "tt": "Anthropic'in Kurucuları Halka Arz Mektubuna Ürpertici Bir Uyarı Eklediler",
+    "s": "Anthropic's Founders Slipped A Chilling Warning Into Their IPO Letter The founders' letter at the beginning of Anthropic's IPO prospectus carries a warning about what the company's own product could do in the wrong hands: \"Authoritarian governments may use AI to create high-tech surveillance states,",
+    "ss": "Anthropic'in Kurucuları Halka Arz Mektubuna Ürpertici Bir Uyarı Kaydırdı Anthropic'in halka arz izahnamesinin başlangıcındaki kurucuların mektubu, şirketin kendi ürününün yanlış ellerde neler yapabileceğine dair bir uyarı taşıyor: \"Otoriter hükümetler yapay zekayı yüksek teknolojili gözetim durumları oluşturmak için kullanabilir,",
+    "u": "https://www.zerohedge.com/ai/anthropics-founders-slipped-chilling-warning-their-ipo-letter",
+    "ts": 1795032000000,
     "tags": []
    },
    {
@@ -921,60 +960,45 @@
     "u": "https://www.zerohedge.com/political/ironies-stimulus-recession-and-conflagration-come",
     "ts": 1795031100000,
     "tags": []
-   },
-   {
-    "t": "\"Might Have Difficulty Launching Games\": PlayStation Reports Disruption Amid GTA VI Global Rollout",
-    "tt": "\"Oyunları Başlatmakta Zorluk Olabilir\": PlayStation, GTA VI'nın Küresel Kullanıma Sunulmasının Ortasında Kesinti Bildiriyor",
-    "s": "\"Might Have Difficulty Launching Games\": PlayStation Reports Disruption Amid GTA VI Global Rollout After a 13-year wait, Grand Theft Auto VI started rolling out earlier this morning in New Zealand, Australia and parts of Asia on PS5 and Xbox Series X|S. Hours into the launch, PlayStation's status pa",
-    "ss": "\"Oyunları Başlatmakta Zorluk Yaşayabilir\": PlayStation, GTA VI'nın Küresel Sürümünde Kesinti Bildiriyor Grand Theft Auto VI, 13 yıllık bir bekleyişin ardından bu sabah erken saatlerde Yeni Zelanda, Avustralya ve Asya'nın bazı bölgelerinde PS5 ve Xbox Series X|S'de piyasaya sürülmeye başladı. Lansmana saatler kaldı, PlayStation'ın durum raporu",
-    "u": "https://www.zerohedge.com/technology/might-have-difficulty-launching-game-playstation-reports-disruption-amid-gta-vi-global",
-    "ts": 1795029300000,
-    "tags": []
-   },
-   {
-    "t": "Hawkish Minutes Show \"Almost All\" FOMC Members See More Hikes As Fed Frets Over \"Opaque\" AI Debt",
-    "tt": "Şahin Tutanaklar \"Neredeyse Tümü\" FOMC Üyelerinin Fed'in \"Opak\" Yapay Zeka Borçlarından Endişelenmesiyle Daha Fazla Artış Gördüğünü Gösteriyor",
-    "s": "Hawkish Minutes Show \"Almost All\" FOMC Members See More Hikes As Fed Frets Over \"Opaque\" AI Debt Tl;dr : One chart to rule them all... a very hawkish minutes - it's not if but by how much they hike in December... ~~~~~ Since the 'heated' hold (2 hawkish dissents) at the last FOMC statement (Oct 28th",
-    "ss": "Şahin Tutanaklar \"Neredeyse Tümü\" FOMC Üyelerini Gösteriyor Fed \"Opak\" Yapay Zeka Borçları Üzerine Endişelenirken Daha Fazla Artış Görüyor: Hepsine hükmedecek bir grafik... çok şahin dakikalar - Aralık'ta ne kadar artış yaptıkları önemli değil... ~~~~~ Son FOMC açıklamasındaki (28 Ekim) 'hararetli' bekleyişten bu yana (2 şahin muhalefet)",
-    "u": "https://www.zerohedge.com/markets/hawkish-minutes-show-almost-all-fomc-members-see-more-hikes-fed-frets-over-opaque-ai-debt",
-    "ts": 1795028700000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Ken Griffin Disposes NYC Condo For $58 Million After Socialist Mamdani's \"Creepy & Weird\" Video",
-    "tt": "Ken Griffin, Sosyalist Mamdani'nin \"Korkunç ve Garip\" Videosunun Ardından New York'taki Daireyi 58 Milyon Dolara Elden Çıkardı",
-    "s": "Ken Griffin Disposes NYC Condo For $58 Million After Socialist Mamdani's \"Creepy &amp; Weird\" Video Citadel founder Ken Griffin has reportedly sold his duplex at Manhattan's 740 Park Avenue to New York Jets owner Woody Johnson for $58 million, according to Bloomberg . Griffin saw the writing on the ",
-    "ss": "Ken Griffin, Sosyalist Mamdani'nin \"Korkunç ve Tuhaf\" Video Citadel kurucusu Ken Griffin'in Manhattan 740 Park Avenue'deki dubleksini New York Jets'in sahibi Woody Johnson'a 58 milyon dolara satmasının ardından NYC'deki apartman dairesini 58 milyon dolara elden çıkarıyor Bloomberg'e göre. Griffin üzerindeki yazıyı gördü",
-    "u": "https://www.zerohedge.com/markets/ken-griffin-disposes-nyc-condo-58-million-after-socialist-mamdanis-creepy-weird-video",
-    "ts": 1795028400000,
-    "tags": []
-   },
-   {
-    "t": "Feds Charge Irishman Who Barricaded Himself Inside US Military Plane And Destroyed It",
-    "tt": "Federaller, ABD Askeri Uçağının İçine Barikat Kurarak Onu İmha Eden İrlandalıyı Suçluyor",
-    "s": "Feds Charge Irishman Who Barricaded Himself Inside US Military Plane And Destroyed It Federal prosecutors in Manhattan have charged an Irish national with destroying a US Air National Guard C-130H Hercules at Shannon Airport, alleging he spent months planning an attack that left the roughly $60 mill",
-    "ss": "Federaller, ABD Askeri Uçağının İçine Barikat Kuran ve Onu İmha Eden İrlandalıyı Suçluyor Manhattan'daki federal savcılar, İrlanda uyruklu bir kişiyi, yaklaşık 60 milyon dolarlık uçağı bırakacak bir saldırıyı planlamak için aylar harcadığını iddia ederek, Shannon Havalimanı'nda ABD Ulusal Hava Muhafızları C-130H Hercules uçağını imha etmekle suçladı.",
-    "u": "https://www.zerohedge.com/political/feds-charge-irishman-who-barricaded-himself-inside-us-military-plane-and-destroyed-it",
-    "ts": 1795027500000,
-    "tags": []
-   },
-   {
-    "t": "Neocon Fox News Host Goes Mask-Off With Stunning Attack On JD Vance",
-    "tt": "Neocon Fox Haber Sunucusu JD Vance'e Çarpıcı Saldırıyla Maskesini Çıkardı",
-    "s": "Neocon Fox News Host Goes Mask-Off With Stunning Attack On JD Vance Fox News host Brian Kilmeade let his neoconservative mask slip, launching a blistering attack on Vice President JD Vance over his opposition to another prolonged war in the Middle East. The longtime Fox &amp; Friends co-host used hi",
-    "ss": "Neocon Fox Haber Sunucusu, JD Vance'e Çarpıcı Saldırıyla Maskesini Çıkardı Fox Haber sunucusu Brian Kilmeade, neo-muhafazakar maskesini düşürdü ve Orta Doğu'da bir başka uzun süreli savaşa muhalefeti nedeniyle Başkan Yardımcısı JD Vance'e şiddetli bir saldırı başlattı. Uzun süredir Fox & Friends'in ortak sunucusu merhaba kullandı",
-    "u": "https://www.zerohedge.com/political/neocon-fox-news-host-goes-mask-stunning-attack-jd-vance",
-    "ts": 1795026600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "İtalya'dan hibrit tehditlere karşı 6 milyar euroluk yatırım planı",
+    "tt": null,
+    "s": "İtalya Savunma Bakanı Guido Crosetto, ülkesinin önümüzdeki yıllarda hibrit tehditlerle mücadeleye 6 milyar euronun üzerinde kaynak ayıracağını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/italya-dan-hibrit-tehditlere-karsi-6-milyar-euroluk-yatirim-plani-3795053",
+    "ts": 1795037946000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic'in halka arz fiyatı beklenti aralığını aştı",
+    "tt": null,
+    "s": "Bloomberg'e konuşan kaynaklara göre Anthropic, halka arz fiyatını beklenen 70-78 dolar aralığının üzerinde hisse başına 83 dolar olarak belirledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/anthropic-in-halka-arz-fiyati-beklenti-araligini-asti-3795052",
+    "ts": 1795037401000,
+    "tags": []
+   },
+   {
+    "t": "Resmi Gazete'de bugün (19.11.2026)",
+    "tt": null,
+    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+    "ss": null,
+    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-19112026-3795051",
+    "ts": 1795035882000,
+    "tags": []
+   },
+   {
+    "t": "İran anlaşmazlığının Vance'in 2028 adaylığını gölgelediği iddia edildi",
+    "tt": null,
+    "s": "New York Times, Trump'ın seçim yenilgisini İran savaşına bağlayan JD Vance'in açıklamalarından rahatsız olduğunu ve Vance'in 2028 başkan adaylığına mesafeli yaklaşmaya başladığını öne sürdü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-anlasmazliginin-vance-in-2028-adayligini-golgeledigi-iddia-edildi-3795050",
+    "ts": 1795035402000,
+    "tags": []
+   },
    {
     "t": "AB'den Ukrayna'ya 45 milyar euroluk yeni kredi önerisi",
     "tt": null,
@@ -1027,42 +1051,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-istihbaratindan-art-arda-yasanan-kesintilere-dair-aciklama-3795035",
     "ts": 1795024064000,
-    "tags": []
-   },
-   {
-    "t": "Deutsche Bank'a veri sızıntısının ardından soruşturma",
-    "tt": null,
-    "s": "Almanya'da Hessen eyaletinin veri koruma merkezi, 15 milyon iç kaydın sızdırıldığına ilişkin haberlerin ardından Deutsche Bank hakkında soruşturma başlattı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/deutsche-bank-a-veri-sizintisinin-ardindan-sorusturma-3795034",
-    "ts": 1795021485000,
-    "tags": []
-   },
-   {
-    "t": "Avrupa'da elektrikli araç satışları yüzde 60'ın üzerinde arttı",
-    "tt": null,
-    "s": "Avrupa'nın 18 önemli pazarında tam elektrikli araç satışları, Ekim'de yıllık bazda yüzde 60'ın üzerinde artarak 295 bin 252'ye ulaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/avrupa-da-elektrikli-arac-satislari-yuzde-60-in-uzerinde-artti-3795033",
-    "ts": 1795019896000,
-    "tags": []
-   },
-   {
-    "t": "NYT: Putin savaşı kış boyunca sürdürmek istiyor",
-    "tt": null,
-    "s": "New York Times'a konuşan yetkililer, Batılı istihbarat analizlerinin Putin'in Ukrayna'daki savaşı en azından kış boyunca sürdürmek istediğine işaret ettiğini öne sürdü. Yetkililer, Putin'in ciddi barış müzakerelerine hazır olmadığını savundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/nyt-putin-savasi-kis-boyunca-surdurmek-istiyor-3795032",
-    "ts": 1795016538000,
-    "tags": []
-   },
-   {
-    "t": "İngiltere'de tepkilere rağmen Palantir ile devam kararı",
-    "tt": null,
-    "s": "İngiltere hükümeti, milletvekilleri ve sağlık çalışanlarının eleştirilerine rağmen Palantir ile 330 milyon sterlinlik sağlık verisi sözleşmesini 2029'a kadar sürdürme kararı aldı. Hükümet, 2027'de erken sonlandırma seçeneğini kullanmayacak ve yeni hizmet sağlayıcısını belirlemek için gelecek yaz iha",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ingiltere-de-tepkilere-ragmen-palantir-ile-devam-karari-3795031",
-    "ts": 1795016034000,
     "tags": []
    }
   ]
