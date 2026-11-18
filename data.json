@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T23:39:28.831956+00:00",
+ "generated": "2026-11-18T00:29:21.484061+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 3856.9,
-   "c": 0.1,
-   "d": 3.9,
+   "p": 3842.1,
+   "c": -0.28,
+   "d": -10.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 47.345,
-   "c": 1.2,
-   "d": 0.56,
+   "p": 47.215,
+   "c": 0.92,
+   "d": 0.43,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 85.91,
-   "c": 0.22,
-   "d": 0.19,
+   "p": 85.51,
+   "c": -0.24,
+   "d": -0.21,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 93.47,
-   "c": 1.11,
-   "d": 1.03,
+   "p": 93.14,
+   "c": 0.76,
+   "d": 0.7,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4145,
-   "c": 0.15,
-   "d": 0.074,
+   "p": 50.4285,
+   "c": 0.02,
+   "d": 0.01,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 64928,
-   "c": -0.01,
+   "p": 64697,
+   "c": 0.23,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1823.22,
-   "c": 0.36,
+   "p": 1816.56,
+   "c": 0.08,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 75.03,
-   "c": 5.5,
+   "p": 75.05,
+   "c": 5.0,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.98521,
-   "c": 3.56,
+   "p": 0.98181,
+   "c": 3.06,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 595.72,
-   "c": 0.97,
+   "p": 596.16,
+   "c": 1.02,
    "k": "usd"
   }
  ],
@@ -584,39 +584,6 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Nasdaq, S&P 500 Futures Rise After Nvidia Earnings: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Düşüyor, Nvidia Satış Görünümü İyi: Piyasalar Sarılıyor",
-    "s": "US equity-index futures rose after Nvidia Corp.’s sales forecast topped Wall Street estimates, easing concerns about the artificial intelligence trade after a recent bout of weakness.",
-    "ss": "Asya hisse senetleri, teknoloji sektörüne ilişkin endişelerin devam etmesiyle ABD hisse senetlerindeki satışların derinleşmesinin ardından Çarşamba günü düşüşe hazırlanıyor. Nvidia Corp., piyasa kapandıktan sonra Wall Street'in beklentilerini aşan bir satış tahmini yayınladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794953228000,
-    "tags": []
-   },
-   {
-    "t": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
-    "tt": "Altın, Faiz Artışı Baskısı Arttıkça 14 Ayın En Düşük Seviyesinde Durdu",
-    "s": "Gold was steady near a 14-month low, after Federal Reserve officials argued the case for more rate hikes to tackle stubborn inflation.",
-    "ss": "Altın, Fed yetkililerinin inatçı enflasyonla mücadele için daha fazla faiz artışı yapılması gerektiğini savunmasının ardından 14 ayın en düşük seviyesinde yatay seyrediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
-    "ts": 1794958432000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 18",
-    "tt": "18 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil steadied as traders assessed renewed fighting in the Middle East against signs of recovering supplies and higher US inventories.",
-    "ss": "Petrol fiyatları, tüccarların Orta Doğu'da arzın toparlandığına ve ABD stoklarındaki artışa ilişkin işaretlere karşı yeniden başlayan mücadeleyi değerlendirmesiyle yatay seyretti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
-    "ts": 1794956493000,
-    "tags": []
-   },
-   {
     "t": "Fidelity Says Even at 6% Treasuries Fail to Be ‘Massively Cheap’",
     "tt": "Fidelity, Hazine Tahvillerinin Yüzde 6 Oranında Bile 'Çok Ucuz' Olamadığını Söyledi",
     "s": "The recent selloff in Treasuries has sparked debate about buying opportunities, but Fidelity International’s Salman Ahmed reckons that even a 6% yield wouldn’t make the 10-year note “massively cheap.”",
@@ -626,61 +593,97 @@
     "tags": []
    },
    {
-    "t": "Apollo’s Rowan Says Insurance Will Power the $8 Trillion AI Boom",
-    "tt": "Apollo'dan Rowan, Sigortanın 8 Trilyon Dolarlık Yapay Zeka Patlamasını Güçlendireceğini Söyledi",
-    "s": "Apollo Global Management Inc. Chief Executive Officer Marc Rowan said insurance and retirement capital will power an AI buildout that could demand as much as $8 trillion of financing.",
-    "ss": "Apollo Global Management Inc. İcra Kurulu Başkanı Marc Rowan, sigorta ve emeklilik sermayesinin 8 trilyon dolara kadar finansman gerektirebilecek bir yapay zeka yapısına güç sağlayacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/apollo-s-rowan-says-insurance-will-power-the-8-trillion-ai-boom",
-    "ts": 1794955744000,
+    "t": "Nasdaq, S&P 500 Futures Rise After Nvidia Earnings: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Düşüyor, Nvidia Satış Görünümü İyi: Piyasalar Sarılıyor",
+    "s": "US equity-index futures rose along with Asian shares after Nvidia Corp.’s sales forecast topped Wall Street estimates, easing concerns about the artificial intelligence trade following a recent selloff.",
+    "ss": "Asya hisse senetleri, teknoloji sektörüne ilişkin endişelerin devam etmesiyle ABD hisse senetlerindeki satışların derinleşmesinin ardından Çarşamba günü düşüşe hazırlanıyor. Nvidia Corp., piyasa kapandıktan sonra Wall Street'in beklentilerini aşan bir satış tahmini yayınladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794953228000,
     "tags": []
    },
    {
-    "t": "Putin Arrives in China for Trump, Xi Meeting",
-    "tt": "Putin, Trump ve Xi Görüşmesi İçin Çin'e Geldi",
-    "s": "Vladimir Putin arrived in Shenzhen Wednesday ahead of his meeting with Presidents Xi Jinping and Donald Trump during the annual APEC assembly on Thursday. (Source: Bloomberg)",
-    "ss": "Vladimir Putin, Perşembe günü yapılacak yıllık APEC toplantısı sırasında Başkanlar Xi Jinping ve Donald Trump ile yapacağı görüşme öncesinde Çarşamba günü Shenzhen'e geldi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
-    "ts": 1794954804000,
+    "t": "Thailand Sees US Chip Curbs as Risk to Data Center Drive",
+    "tt": "Tayland, ABD Çip Kısıtlamalarını Veri Merkezi Hareketi İçin Risk Olarak Görüyor",
+    "s": "New US restrictions on the export and access to top-end semiconductors risks denting Thailand’s ambitions to be a hub for data centers, the foreign minister said. Foreign Minister Sihasak said in a BTV interview with Haslinda Amin that the new rules, announced this week just as President Donald Trum",
+    "ss": "Dışişleri bakanı, ABD'nin ihracata ve üst düzey yarı iletkenlere erişime yönelik yeni kısıtlamalarının Tayland'ın veri merkezleri için bir merkez olma hedefini zedeleme riski taşıdığını söyledi. Dışişleri Bakanı Sihasak, BTV'nin Haslinda Amin ile yaptığı röportajda, Başkan Donald Trump'ın bu hafta açıkladığı yeni kuralların geçerli olduğunu söyledi.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/thailand-sees-us-chip-curbs-as-risk-to-data-center-drive-video",
+    "ts": 1794960657000,
     "tags": []
    },
    {
-    "t": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
-    "tt": "WSJ Raporlarına Göre SEC, Jensen Huang'ın Ayrılması Sırasında Nvidia'yı Soruşturuyor",
-    "s": "The Securities and Exchange Commission is investigating Nvidia Corp., the Wall Street Journal reported Tuesday, as the company grapples with fallout from the exit of former Chief Executive Officer Jensen Huang.",
-    "ss": "Wall Street Journal'ın Salı günü bildirdiğine göre, şirket eski İcra Kurulu Başkanı Jensen Huang'ın ayrılmasının etkileriyle uğraşırken, Menkul Kıymetler ve Borsa Komisyonu Nvidia Corp.'u araştırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
-    "ts": 1794950724000,
+    "t": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
+    "tt": "Dış İlişkiler Konseyi'nden McGuire, Trump-XI Toplantısının Cipslere Yönelik Etkileri Hakkında",
+    "s": "Chris McGuire, Council on Foreign Relations' Senior Fellow on China and Emerging Technologies discusses US restrictions on Nvidia chip sales and remote access, as the US president prepares to meet Chinese President Xi Jinping at the APEC summit. He speaks with Romaine Bostick and Ed Ludlow on \"The C",
+    "ss": "Dış İlişkiler Konseyi'nin Çin ve Gelişen Teknolojiler Kıdemli Üyesi Chris McGuire, ABD başkanı APEC zirvesinde Çin Devlet Başkanı Xi Jinping ile buluşmaya hazırlanırken ABD'nin Nvidia yonga satışları ve uzaktan erişim üzerindeki kısıtlamalarını tartışıyor. \"The C\" programında Romaine Bostick ve Ed Ludlow ile konuşuyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
+    "ts": 1794959996000,
     "tags": []
    },
    {
-    "t": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
-    "tt": "Panama, Moody's'in Görünümü Yükseltmesiyle Hurdalığın Eşiğinden Geri Çekildi",
-    "s": "Panama moved away from the brink of a downgrade to junk territory after Moody’s Ratings dropped a negative outlook that had hung over the nation’s credit score for two years.",
-    "ss": "Panama, Moody's Ratings'in iki yıl boyunca ülkenin kredi notu üzerinde asılı kalan olumsuz görünümü düşürmesinin ardından not düşürmenin eşiğinden çöp bölgesine doğru uzaklaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
-    "ts": 1794952156000,
+    "t": "China Bank Rally Gains Momentum as Global AI Trade Unravels",
+    "tt": "Çin Bankasının Yükselişi, Küresel Yapay Zeka Ticaretinin Çözülmesiyle Hız Kazanıyor",
+    "s": "Chinese bank stocks are gaining a tailwind as turmoil around Nvidia Corp. deepens cracks in the artificial intelligence trade and drives investors toward defensive bets.",
+    "ss": "Çin banka hisseleri, Nvidia Corp. etrafındaki çalkantının yapay zeka ticaretindeki çatlakları derinleştirmesi ve yatırımcıları savunmaya yönelik bahislere yöneltmesi nedeniyle gerileme yaşıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/china-bank-rally-gains-momentum-as-global-ai-trade-unravels",
+    "ts": 1794959834000,
     "tags": []
    },
    {
-    "t": "Sellas Life Sciences Surges 156% After Cancer Vaccine Data",
-    "tt": "Sellas Life Sciences, Kanser Aşısı Verilerinden Sonra %156 Arttı",
-    "s": "Sellas Life Sciences Group Inc. soared after the drug developer reported positive late-stage trial results for an experimental cancer vaccine to treat an aggressive form of blood cancer.",
-    "ss": "Sellas Life Sciences Group Inc., ilaç geliştiricisinin, agresif bir kan kanseri türünü tedavi etmek için deneysel bir kanser aşısı için son aşamadaki deneme sonuçlarının olumlu olduğunu bildirmesinin ardından yükselişe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/sellas-life-sciences-stock-triples-after-cancer-vaccine-data",
-    "ts": 1794934330000,
+    "t": "Willy Shih on Risks With Nvidia’s Supply Chain",
+    "tt": "Willy Shih, Nvidia'nın Tedarik Zincirindeki Riskler Üzerine",
+    "s": "Willy Shih, Harvard Business School professor of management practice, discusses how NVIDIA’s supplier network and rising purchase commitments help it reserve production capacity amid intense competition. He speaks with Romaine Bostick and Ed Ludlow on \"The Close\". (Source: Bloomberg)",
+    "ss": "Harvard Business School yönetim uygulamaları profesörü Willy Shih, NVIDIA'nın tedarikçi ağının ve artan satın alma taahhütlerinin, yoğun rekabet ortamında üretim kapasitesini korumasına nasıl yardımcı olduğunu anlatıyor. \"The Close\"da Romaine Bostick ve Ed Ludlow ile konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/willy-shih-on-risks-with-nvidia-s-supply-chain-video",
+    "ts": 1794959631000,
     "tags": []
    },
    {
-    "t": "Stocks Fall on Tech Disruptions as Nvidia in Focus: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Nvidia'nın Önünde Düşecek: Piyasalar Sarıldı",
-    "s": "A selloff in technology giants dragged down stocks on mounting concerns about technical disruptions, with investors also looking to Nvidia Corp.’s earnings for a read on the outlook for artificial intelligence.",
-    "ss": "Asya'daki hisse senetleri, yatırımcıların Nvidia Corp.'un yüksek riskli kazançları ve Anthropic PBC'nin beklenen piyasaya çıkışı öncesinde yapay zeka ticaretine karşı temkinli davranmasıyla Wall Street'teki kayıpları takip ederek düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794866811000,
+    "t": "Australia Revamps Pension Fund Test to Unlock New Investment",
+    "tt": "Avustralya, Yeni Yatırımların Kilidini Açmak İçin Emeklilik Fonu Testini Yeniliyor",
+    "s": "Australia’s government is overhauling the annual performance test for the nation’s pension funds, including introducing a new benchmark aimed at encouraging investment in a broader range of assets.",
+    "ss": "Avustralya hükümeti, daha geniş bir varlık yelpazesine yatırımı teşvik etmeyi amaçlayan yeni bir kriterin getirilmesi de dahil olmak üzere, ülkenin emeklilik fonlarına yönelik yıllık performans testini elden geçiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/australia-revamps-pension-fund-test-to-unlock-new-investment",
+    "ts": 1794959337000,
+    "tags": []
+   },
+   {
+    "t": "China Is Finding Workarounds on Restrictions: Sara Hsu",
+    "tt": "Çin, Kısıtlamalara Geçici Çözümler Buluyor: Sara Hsu",
+    "s": "Sara Hsum University of Tennessee at Knoxville's Supply Chain Management Clinical Associate Professor says China has already been developing domestic supply chains and advanced semiconductors as a policy priority. She speaks with Romaine Bostick and Ed Ludlow on \"The Close\". (Source: Bloomberg)",
+    "ss": "Knoxville Tedarik Zinciri Yönetimi Klinik Doçenti Sara Hsum Tennessee Üniversitesi, Çin'in zaten bir politika önceliği olarak yerel tedarik zincirleri ve gelişmiş yarı iletkenler geliştirdiğini söylüyor. \"The Close\"da Romaine Bostick ve Ed Ludlow ile konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/china-is-finding-workarounds-on-restrictions-sara-hsu-video",
+    "ts": 1794959302000,
+    "tags": []
+   },
+   {
+    "t": "Former Darden CEO: Cava Better Off As A Private Company",
+    "tt": "Eski Darden CEO'su: Cava Özel Bir Şirket Olarak Daha İyi Durumda",
+    "s": "Clarence Otis, Darden Restaurant's former Chairman and CEO discusses how restaurants are responding to rising food, labor and real estate costs as menu prices increase and consumers face more pressure on their budgets. He speaks with Romaine Bostick on \"The Close\". (Source: Bloomberg)",
+    "ss": "Darden Restaurant'ın eski Yönetim Kurulu Başkanı ve CEO'su Clarence Otis, menü fiyatları arttıkça ve tüketiciler bütçeleri üzerinde daha fazla baskıyla karşı karşıya kaldıkça restoranların artan gıda, işçilik ve emlak maliyetlerine nasıl tepki verdiğini anlatıyor. \"The Close\"da Romaine Bostick ile konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/former-darden-ceo-cava-better-off-as-a-private-company-video",
+    "ts": 1794959131000,
+    "tags": []
+   },
+   {
+    "t": "Nothing to Nitpick With Nvidia Results: Erika Klauer",
+    "tt": "Nvidia Sonuçlarında Nitpick ile İlgili Bir Şey Yok: Erika Klauer",
+    "s": "Ahead of NVIDIA’s results, Erika Klauer, CIO at Science and Technology Partners, says Jensen Huang has had an indelible impact on NVIDIA and the evolution of the AI business. She speaks with Romaine Bostick on \"The Close\". (Source: Bloomberg)",
+    "ss": "Science and Technology Partners CIO'su Erika Klauer, NVIDIA'nın sonuçları öncesinde Jensen Huang'ın NVIDIA ve yapay zeka işinin gelişimi üzerinde silinmez bir etkiye sahip olduğunu söylüyor. \"The Close\"da Romaine Bostick ile konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-17/nothing-to-nitpick-with-nvidia-results-erika-klauer-video",
+    "ts": 1794958949000,
     "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "JPMorgan is working on AI agent transactions that don’t involve humans",
+    "tt": "JPMorgan, insanları içermeyen yapay zeka aracı işlemleri üzerinde çalışıyor",
+    "s": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+    "ss": "JPMorgan ve Hyundai Card, finansal işlemlerde yapay zeka aracılarının kullanımını genişletmeyi planlıyor.",
+    "u": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+    "ts": 1794958213000,
+    "tags": []
+   },
    {
     "t": "U.S. companies from Nvidia to Apple face a growing China dilemma",
     "tt": "Nvidia'dan Apple'a kadar ABD şirketleri büyüyen bir Çin ikilemiyle karşı karşıya",
@@ -765,15 +768,6 @@
     "ss": "Jensen Huang'ın Nvidia CEO'su olarak istifası, Ticaret Bakanı Howard Lutnick ve ailesinin çip üreticisiyle olan mali bağlarının yeniden incelenmesine neden oldu.",
     "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
     "ts": 1794831286000,
-    "tags": []
-   },
-   {
-    "t": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-    "tt": "Chicago Fed'den Goolsbee, merkez bankasının enflasyon konusunda 'kesinlikle yapacak işleri olduğunu' söyledi",
-    "s": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-    "ss": "Politika yapıcı, CNBC'ye merkez bankasının muhtemelen harekete geçmesi gerekeceğini söyleyerek en son enflasyon verileriyle ilgili endişelerini dile getirdi.",
-    "u": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-    "ts": 1794579727000,
     "tags": []
    }
   ],
@@ -877,6 +871,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "\"We Don't See A Crisis Coming\": Vance Waves Off Bunkers As Spicer Goes \"Full Prepper Mode\"",
+    "tt": "\"Gelecek Bir Kriz Göremiyoruz\": Spicer \"Tam Hazırlık Moduna\" Geçerken Vance Sığınaklardan El Sallıyor",
+    "s": "\"We Don't See A Crisis Coming\": Vance Waves Off Bunkers As Spicer Goes \"Full Prepper Mode\" Vice President JD Vance told Americans on Monday night not to build a bunker or stock up on food and water , after a run of outages in which Microsoft's Outlook went down worldwide, the FAA halted departures n",
+    "ss": "\"Gelecek bir kriz görmüyoruz\": Spicer \"Tam Hazırlık Modu\"na Geçerken Vance Sığınaklardan El Sallıyor Başkan Yardımcısı JD Vance Pazartesi gecesi Amerikalılara sığınak inşa etmemelerini veya yiyecek ve su stoklamamalarını söyledi.",
+    "u": "https://www.zerohedge.com/geopolitical/we-dont-see-crisis-coming-vance-waves-bunkers-spicer-goes-full-prepper-mode",
+    "ts": 1794961800000,
+    "tags": []
+   },
+   {
+    "t": "Reich's Plan To Nationalize SpaceX Is \"A Clear Effort To Destroy The Wealth\" Musk Created",
+    "tt": "Reich'ın SpaceX'i Millileştirme Planı, Musk'ın Yarattığı \"Zenginliği Yok Etmeye Yönelik Açık Bir Çabadır\"",
+    "s": "Reich's Plan To Nationalize SpaceX Is \"A Clear Effort To Destroy The Wealth\" Musk Created Authored by Richard A. Epstein via City Journal , As Democrats sweep back into power, too many of them are looking to take aim at America's most successful businesses. One likely target of their evident ire is ",
+    "ss": "Reich'ın SpaceX'i Millileştirme Planı \"Zenginliği Yok Etmeye Yönelik Açık Bir Çabadır\" Musk'ın Yarattığı Yazar Richard A. Epstein City Journal aracılığıyla, Demokratlar tekrar iktidara gelirken, pek çoğu Amerika'nın en başarılı işletmelerini hedef almanın yollarını arıyor. Açık öfkelerinin muhtemel hedeflerinden biri",
+    "u": "https://www.zerohedge.com/political/reichs-plan-nationalize-spacex-clear-effort-destroy-wealth-musk-created",
+    "ts": 1794960600000,
+    "tags": []
+   },
+   {
+    "t": "DHS Reveals The Truth Behind \"World's Most Wanted\" OnlyFans Model's ICE Arrest",
+    "tt": "DHS, \"Dünyanın En Çok Arananları\" OnlyFans Modelinin ICE Tutuklanmasının Ardındaki Gerçeği Ortaya Çıkardı",
+    "s": "DHS Reveals The Truth Behind \"World's Most Wanted\" OnlyFans Model's ICE Arrest A Dutch OnlyFans model whose family has accused immigration authorities of mistreatment has a history of immigration violations dating back seven years , the Department of Homeland Security revealed Tuesday. @VERADIJKMANS",
+    "ss": "DHS, \"Dünyanın En Çok Arananları\" OnlyFans Modelinin ICE Tutuklanmasının Ardındaki Gerçeği Ortaya Çıkardı İç Güvenlik Bakanlığı Salı günü yaptığı açıklamada, ailesi göçmenlik yetkililerini kötü muameleyle suçlayan Hollandalı bir OnlyFans modelinin yedi yıl öncesine dayanan bir göçmenlik ihlali geçmişine sahip olduğunu açıkladı. @VERADIJKMANS",
+    "u": "https://www.zerohedge.com/political/dhs-reveals-truth-behind-worlds-most-wanted-onlyfans-models-ice-arrest",
+    "ts": 1794959400000,
+    "tags": []
+   },
+   {
     "t": "Ro Khanna Wants Democrats To Pass $1,700 'Iran War' Rebate Checks In Their First Week Of Control",
     "tt": "Ro Khanna, Demokratların Kontrollerinin İlk Haftasında 1.700 Dolarlık 'İran Savaşı' İndirim Çeklerini Geçmesini İstiyor",
     "s": "Ro Khanna Wants Democrats To Pass $1,700 'Iran War' Rebate Checks In Their First Week Of Control Authored by Jack Phillips via The Epoch Times , A House Democratic lawmaker called on members of his party to pass a $1,700 Iran war-related rebate check to Americans in the first week after Democrats ta",
@@ -937,33 +958,6 @@
     "ss": "Nvidia Patlamanın Ardından Yükseliyor 3. Çeyrek Kazançları, Yıldız Rehberliği, Ancak Kazançlar Görünüyor Önizlememizde yazdığımız gibi, Nvidia bugün kazançlarını dikkate değer koşullar altında rapor ediyor. Geçen hafta CEO olarak işini kaybeden kurucu ortak Jensen Huang, 30 yılı aşkın tarihinde ilk kez olmayacak.",
     "u": "https://www.zerohedge.com/markets/nvidia-surges-after-blowout-q3-earnings-stellar-guidance-earnings-call-looms",
     "ts": 1794951446000,
-    "tags": []
-   },
-   {
-    "t": "SEC Announces Another Nvidia Probe As Jensen Huang Breaks Silence",
-    "tt": "SEC, Jensen Huang'ın Sessizliğini Bozarken Yeni Bir Nvidia Probunu Duyurdu",
-    "s": "SEC Announces Another Nvidia Probe As Jensen Huang Breaks Silence Summary: SEC Probes Nvidia&nbsp; \"I Own My Mistakes\": Jensen Huang Breaks Silence, Talks About Return To Nvidia SEC Probes Nvidia&nbsp; Just ahead of Nvidia's earnings, The Wall Street Journal reported that the Securities and Exchange",
-    "ss": "SEC, Jensen Huang'ın Sessizliğini Kırmasıyla Başka Bir Nvidia Probunu Duyurdu Özet: SEC Nvidia'yı Soruşturuyor \"Hatalarımın Sahibiyim\": Jensen Huang Sessizliği Bozdu, Nvidia'ya Dönüş Hakkında Konuşuyor SEC Nvidia'yı Soruşturuyor Nvidia'nın kazancından hemen önce The Wall Street Journal, Menkul Kıymetler ve Borsa'nın",
-    "u": "https://www.zerohedge.com/political/i-own-my-mistakes-jensen-huang-breaks-silence-talks-about-return-nvidia",
-    "ts": 1794951000000,
-    "tags": []
-   },
-   {
-    "t": "\"They Killed My Wife\": 60 Minutes Whistleblower Says Army Leaders Ignored Warnings Before Iranian Drone Killed Six Soldiers In Kuwait",
-    "tt": "\"Karımı Öldürdüler\": 60 Dakikalık İhbarcı, İran Drone'larının Kuveyt'te Altı Askeri Öldürmesinden Önce Ordu Liderlerinin Uyarıları Göz Ardı Ettiğini Söyledi",
-    "s": "\"They Killed My Wife\": 60 Minutes Whistleblower Says Army Leaders Ignored Warnings Before Iranian Drone Killed Six Soldiers In Kuwait Authored by Dave DeCamp via Antiwar.com , An investigation from \"60 Minutes\" that aired Sunday night detailed allegations that US Army commanders ignored warnings abo",
-    "ss": "\"Karımı Öldürdüler\": 60 Dakikalık İhbar, İran Drone'larının Kuveyt'te Altı Askeri Öldürmesinden Önce Ordu Liderlerinin Uyarıları Görmezden Geldiğini Söyledi Dave DeCamp tarafından Antiwar.com aracılığıyla yazıldı. Pazar gecesi yayınlanan \"60 Minutes\" programında yer alan bir soruşturma, ABD Ordusu komutanlarının bu konudaki uyarıları görmezden geldiğine dair ayrıntılı iddiaları detaylandırdı",
-    "u": "https://www.zerohedge.com/political/they-killed-my-wife-60-minutes-whistleblower-says-army-leaders-ignored-warnings-iranian",
-    "ts": 1794950400000,
-    "tags": []
-   },
-   {
-    "t": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System",
-    "tt": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistemini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı",
-    "s": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System Summary: Feds Begin Nationwide Emergency Test Equinor Reports Ongoing Cyberattack&nbsp; Apple Hit By Disruptions &nbsp; FBI Issues FLASH Advisory Warning NSA Spy Network Goes Dark&nbsp; List Expa",
-    "ss": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistem Özetini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı: Federaller Ülke Çapında Acil Durum Testlerine Başlıyor Equinor Devam Eden Siber Saldırıların Apple'ı Kesintilerle Etkilediğini Bildirdi FBI FLASH Tavsiye Uyarısı Yayınladı NSA Casus Ağı Karanlıkta Kaldı Expa",
-    "u": "https://www.zerohedge.com/markets/nsas-spy-network-reportedly-goes-dark-sending-stocks-sliding",
-    "ts": 1794949500000,
     "tags": []
    }
   ],
