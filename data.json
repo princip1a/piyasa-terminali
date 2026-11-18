@@ -1,79 +1,79 @@
 {
- "generated": "2026-11-18T16:52:14.502309+00:00",
+ "generated": "2026-11-18T17:48:00.579257+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7297.21,
-   "c": -0.59,
-   "d": -43.32,
+   "p": 7334.64,
+   "c": -0.08,
+   "d": -5.89,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24269.861,
-   "c": -0.24,
-   "d": -58.52,
+   "p": 24442.943,
+   "c": 0.47,
+   "d": 114.562,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50142.19,
-   "c": -1.22,
-   "d": -617.232,
+   "p": 50318.02,
+   "c": -0.87,
+   "d": -441.402,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 24.97,
-   "c": -1.92,
-   "d": -0.49,
+   "p": 23.59,
+   "c": -7.34,
+   "d": -1.87,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3740.8,
-   "c": -3.19,
-   "d": -123.4,
+   "p": 3744.9,
+   "c": -3.09,
+   "d": -119.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 44.845,
-   "c": -5.17,
-   "d": -2.443,
+   "p": 45.035,
+   "c": -4.76,
+   "d": -2.253,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.57,
-   "c": -4.0,
-   "d": -3.44,
+   "p": 81.69,
+   "c": -5.02,
+   "d": -4.32,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.73,
-   "c": -4.73,
-   "d": -4.41,
+   "p": 88.38,
+   "c": -5.11,
+   "d": -4.76,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.89,
-   "c": 0.39,
-   "d": 0.4,
+   "p": 103.79,
+   "c": 0.29,
+   "d": 0.3,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.072,
-   "c": -0.61,
-   "d": -0.031,
+   "p": 5.07,
+   "c": -0.65,
+   "d": -0.033,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.4377,
+   "p": 50.4376,
    "c": 0.04,
    "d": 0.019,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 62454,
-   "c": -1.99,
+   "p": 63133,
+   "c": -0.96,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1739.44,
-   "c": -2.14,
+   "p": 1771.7,
+   "c": -0.72,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.51,
-   "c": 0.56,
+   "p": 73.65,
+   "c": 1.85,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.964461,
-   "c": 0.84,
+   "p": 0.980308,
+   "c": 2.21,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 577.35,
-   "c": -1.17,
+   "p": 583.76,
+   "c": -0.49,
    "k": "usd"
   }
  ],
@@ -584,6 +584,83 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Waver as Oil Slump Offsets Nvidia Selloff: Markets Wrap",
+    "tt": "Nvidia'nın Görünümü Yapay Zeka Korkularını Etkilerken Hisse Senetleri Yükseliyor: Piyasalar Sarılıyor",
+    "s": "Stocks fluctuated as a decline in oil prices tempered Wall Street’s concerns over the durability of the artificial-intelligence trade despite solid results from Nvidia Corp.",
+    "ss": "Teknoloji hisselerinde günlerdir süren satışlar, Nvidia Corp.'un güçlü görünümünün yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin korkularını gidermeye yardımcı olmasının ardından durma noktasına geldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794953228000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Credit Chiefs Warn of ‘Fear Factor’ With Debt Repricing",
+    "tt": null,
+    "s": "Credit chiefs warned that a sharp repricing across fixed-income markets is likely to continue as interest rates remain elevated, putting greater pressure on weaker borrowers. Speaking at Bloomberg’s Global Credit Forum in London, investors point to growing fear in credit markets, rapidly shifting se",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/credit-chiefs-warn-of-fear-factor-with-debt-repricing-video",
+    "ts": 1795023005000,
+    "tags": []
+   },
+   {
+    "t": "Bank of Canada Says April Scenario Analysis Telegraphed Hike",
+    "tt": null,
+    "s": "A Bank of Canada official says policymakers are publishing scenario analyses more frequently to guide market participants along the potential path for interest rates amid more frequent shocks.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bank-of-canada-says-april-scenario-analysis-telegraphed-hike",
+    "ts": 1795023000000,
+    "tags": []
+   },
+   {
+    "t": "Blackstone's Chant Says Structured Deals Are Fit for Insurance Money",
+    "tt": null,
+    "s": "Victoria Chant, senior managing director and global head of capital markets and bank relations at Blackstone Credit and Insurance, says structured deals in private investment-grade can help quality-conscious insurers and pension funds increase returns. She speaks at Bloomberg’s Global Credit Forum. ",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/structured-deals-fit-for-insurance-money-blackstone-md-video",
+    "ts": 1795022428000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Fall as Nvidia’s Earnings Rally Sputters",
+    "tt": null,
+    "s": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade. John Mowrey, CIO at NFJ Investment Group, brings us into the market open and talks about what Nvidia an",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/stocks-fall-as-nvidia-s-earnings-rally-sputters-video",
+    "ts": 1795022200000,
+    "tags": []
+   },
+   {
+    "t": "New York MTA’s Budget Risks $1 Billion Shortfall in 2030",
+    "tt": null,
+    "s": "New York City’s transit system is projecting a nearly $1 billion budget gap in 2030 as increasing healthcare and fuel costs outpace its revenue growth.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/new-york-mta-s-budget-risks-1-billion-shortfall-in-2030",
+    "ts": 1795018240000,
+    "tags": []
+   },
+   {
+    "t": "Tech Stocks Decline as Worries Remain For Nvidia After Earnings",
+    "tt": null,
+    "s": "US technology stocks erased gains in the wake of Nvidia Corp.’s earnings, while traders looked to the mammoth market debut of Anthropic PBC as the next key test for the artificial intelligence trade.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
+    "ts": 1795005286000,
+    "tags": []
+   },
+   {
+    "t": "Newsmax Sues to Block Fox From Integrating With Roku",
+    "tt": null,
+    "s": "Conservative news channel Newsmax Inc. sued Fox Corp. Wednesday seeking to block the company’s integration of its $22 billion merger with Roku Inc.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
+    "ts": 1795021100000,
+    "tags": []
+   },
+   {
     "t": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
     "tt": null,
     "s": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
@@ -602,78 +679,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/videos/2026-11-18/rates-are-normal-for-longer-not-higher-says-yardeni-video",
     "ts": 1795020248000,
-    "tags": []
-   },
-   {
-    "t": "Warsh Is Closer to Waller on Fed Policy, Gopinath Says",
-    "tt": null,
-    "s": "Gita Gopinath, former IMF deputy managing director, says Fed Chair Kevin Warsh has to \"walk the talk\" when it comes to bringing inflation down to its target of 2%. She says Warsh is closer to Fed Governor Christopher Waller on monetary policy. Waller is calling for a half-point hike in December. (So",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/warsh-is-closer-to-waller-on-fed-policy-gopinath-says-video",
-    "ts": 1795019585000,
-    "tags": []
-   },
-   {
-    "t": "Chicago’s Third CFO This Year Saw Budget Red Flags Before Exit",
-    "tt": null,
-    "s": "The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
-    "ts": 1795019262000,
-    "tags": []
-   },
-   {
-    "t": "SQM Is Expanding Into a Lithium Glut on Price-Recovery Bet",
-    "tt": null,
-    "s": "Major lithium supplier SQM is forging ahead with production and investment plans, even as the global market is set to swing back into a surplus, betting robust demand will spur a recovery in prices.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
-    "ts": 1794964685000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap",
-    "tt": "Nvidia'nın Görünümü Yapay Zeka Korkularını Etkilerken Hisse Senetleri Yükseliyor: Piyasalar Sarılıyor",
-    "s": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.",
-    "ss": "Teknoloji hisselerinde günlerdir süren satışlar, Nvidia Corp.'un güçlü görünümünün yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin korkularını gidermeye yardımcı olmasının ardından durma noktasına geldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794953228000,
-    "tags": []
-   },
-   {
-    "t": "Credit Chiefs Warn of ‘Fear Factor’ as Debt Reprices All at Once",
-    "tt": "Kredi Şefleri, Borçların Aynı Anda Yeniden Fiyatlandırılmasından Kaynaklanan 'Korku Faktörü' Konusunda Uyardı",
-    "s": "A sharp repricing across fixed-income markets in recent months is likely to continue as interest rates remain elevated, causing a shakeout among weaker borrowers across industries.",
-    "ss": "Faiz oranlarının yüksek kalması nedeniyle sabit gelirli piyasalarda son aylarda keskin bir yeniden fiyatlamanın devam etmesi muhtemel ve bu da sektörler genelinde zayıf borçlular arasında bir sarsıntıya neden olacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once",
-    "ts": 1795000309000,
-    "tags": []
-   },
-   {
-    "t": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
-    "tt": null,
-    "s": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike (NKE) shares are movin",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/nike-moves-on-investor-day-lowe-s-reports-earnings-video",
-    "ts": 1795018797000,
-    "tags": []
-   },
-   {
-    "t": "Turkey Slaps Main Erdogan Rival Imamoglu With Political Ban",
-    "tt": "Türkiye, Erdoğan'ın rakibi İmamoğlu'na siyasi yasakla tokat attı",
-    "s": "A Turkish court ordered a political ban for Istanbul Mayor Ekrem Imamoglu, President Recep Tayyip Erdogan’s main opponent, paving the way for the ruling party to potentially take control of Turkey’s largest city.",
-    "ss": "Bir Türk mahkemesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın baş rakibi olan İstanbul Belediye Başkanı Ekrem İmamoğlu'na siyasi yasak kararı vererek, iktidar partisinin Türkiye'nin en büyük şehrinin kontrolünü ele geçirmesinin önünü açtı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/turkey-slaps-main-erdogan-rival-imamoglu-with-political-ban",
-    "ts": 1795013748000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 18",
-    "tt": null,
-    "s": "Oil inched lower despite bullish headlines from the Middle East as risk appetite waned in a choppy session.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
-    "ts": 1794956493000,
     "tags": []
    }
   ],
@@ -777,6 +782,69 @@
   ],
   "MarketWatch": [
    {
+    "t": "Social Security should be shut down, this Republican senator says",
+    "tt": null,
+    "s": "The program’s trust funds are expected to run out of money in the next six years.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+    "ts": 1795023960000,
+    "tags": []
+   },
+   {
+    "t": "Rising healthcare costs push Medicare Part B premiums higher",
+    "tt": null,
+    "s": "The premiums will increase by $6.50, to $209.40 a month.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+    "ts": 1795022880000,
+    "tags": []
+   },
+   {
+    "t": "It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.",
+    "tt": null,
+    "s": "Energy stocks are pretending the war is over. It isn’t.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
+    "ts": 1795022580000,
+    "tags": []
+   },
+   {
+    "t": "I tried TikTok’s viral ‘corporate slop lunch hacks’ — and finally escaped the $20 desk salad",
+    "tt": null,
+    "s": "I’m not telling you to start buying lunch if you don’t already. I’m showing you how to spend less when you do.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
+    "ts": 1795022160000,
+    "tags": []
+   },
+   {
+    "t": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
+    "tt": null,
+    "s": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1795022100000,
+    "tags": []
+   },
+   {
+    "t": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
+    "tt": null,
+    "s": "More builders are cutting prices in spite of rising construction costs that make it more expensive to build new homes.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
+    "ts": 1795022040000,
+    "tags": []
+   },
+   {
+    "t": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "tt": null,
+    "s": "“Our financial and healthcare situation has become increasingly concerning.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "ts": 1795021200000,
+    "tags": []
+   },
+   {
     "t": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
     "tt": null,
     "s": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
@@ -802,78 +870,45 @@
     "u": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
     "ts": 1795017420000,
     "tags": []
-   },
-   {
-    "t": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
-    "tt": "Nvidia'nın artan talebini 'göz ardı etmek zor' ancak bu dört soru hisse senedinin üzerinde beliriyor",
-    "s": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
-    "ss": "Nvidia yatırımcıları CEO'nun devri, yapay zeka ekosistemi, ihracat kontrolleri ve Çin konusunda belirsizlikle karşı karşıya.",
-    "u": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-    "ts": 1795016520000,
-    "tags": []
-   },
-   {
-    "t": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-    "tt": "'Göründüğümü hissettim': Amerika'nın dört bir yanındaki aileler neden SNL'nin 'Kardeş' taslağı üzerine gülüyor ve ağlıyor?",
-    "s": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-    "ss": "Gece yarısı komedi taslağı, kadın bakıcıların görüldüklerini hissettirerek imkansızı başarıyor.",
-    "u": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-    "ts": 1795015920000,
-    "tags": []
-   },
-   {
-    "t": "Fed’s Waller says interest-rate hikes may be needed to ‘shock’ inflation out of the system",
-    "tt": "Fed'den Waller, enflasyonu sistemden 'şoklamak' için faiz artırımlarına ihtiyaç duyulabileceğini söyledi",
-    "s": "The central bank might need to hike interest rates by a full percentage point or more to cool down inflation, Federal Reserve governor Christopher Waller said Wednesday.",
-    "ss": "Federal Reserve Guvernörü Christopher Waller Çarşamba günü yaptığı açıklamada, merkez bankasının enflasyonu düşürmek için faiz oranlarını tam yüzde puan veya daha fazla artırması gerekebileceğini söyledi.",
-    "u": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
-    "ts": 1795014000000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
-    "tt": "2025'in başından bu yana sadece iki 'Muhteşem Yedi' hissesi S&P 500'ü geçmeyi başardı",
-    "s": "Alphabet and Apple have approached artificial intelligence in ways that have resonated on Wall Street.",
-    "ss": "Alphabet ve Apple, yapay zekaya Wall Street'te yankı uyandıracak şekilde yaklaştı.",
-    "u": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
-    "ts": 1795012380000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
-    "tt": "Anthropic, sıradan yatırımcıların halka arzın bir parçası olmasını istiyor. Bu yatırımcıların şüpheleri var.",
-    "s": "“It’s total hype and kind of inflated expectations.”",
-    "ss": "“Bu tamamen bir abartı ve şişirilmiş beklentiler.”",
-    "u": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
-    "ts": 1795010940000,
-    "tags": []
-   },
-   {
-    "t": "The AI power scramble is in full force. Which companies really stand to profit?",
-    "tt": "Yapay zeka güç mücadelesi tam güçte. Hangi şirketler gerçekten kar elde ediyor?",
-    "s": "Big Tech is inking deals with traditional power companies, but investors need to look beyond the headlines.",
-    "ss": "Big Tech, geleneksel enerji şirketleriyle anlaşmalar imzalıyor ancak yatırımcıların manşetlerin ötesine bakması gerekiyor.",
-    "u": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
-    "ts": 1795010760000,
-    "tags": []
-   },
-   {
-    "t": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
-    "tt": "Analistler, müşterilerin mal stoklaması nedeniyle Costco'nun \"kıyamet endişelerinden\" faydalandığını söylüyor",
-    "s": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
-    "ss": "Mizuho analistleri, Microsoft'un kesintisi ve ülke çapında uçuşların durdurulmasının ardından depo zincirinde \"acil durum hazırlık satışlarında bir hızlanma\" gördü.",
-    "u": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
-    "ts": 1795010340000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "A Heated Hold: FOMC Minutes To Show The Hawks Were Closer To Winning Than The 10-2 Vote Suggested",
+    "tt": null,
+    "s": "A Heated Hold: FOMC Minutes To Show The Hawks Were Closer To Winning Than The 10-2 Vote Suggested At 2pm today the Fed releases the minutes of the October 27-28 FOMC meeting, and if there is one thing everyone agrees on it's that they won't matter very much. Recall that three weeks ago the Fed held ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/heated-hold-fomc-minutes-show-hawks-were-closer-winning-10-2-vote-suggested",
+    "ts": 1795023900000,
+    "tags": []
+   },
+   {
+    "t": "\"Who Had Him Killed?\": Epstein's Brother Demands Murder Probe After Forensics Bombshell",
+    "tt": null,
+    "s": "\"Who Had Him Killed?\": Epstein's Brother Demands Murder Probe After Forensics Bombshell Jeffrey Epstein's younger brother Mark is demanding a murder investigation into the financier's 2019 death in a Manhattan federal jail, and says President Trump should be asked what he knows about it. Realtor.com",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/who-had-him-killed-epsteins-brother-demands-murder-probe-after-forensics-bombshell",
+    "ts": 1795023000000,
+    "tags": []
+   },
+   {
+    "t": "Why Iraq Just Fast-Tracked Chevron's Takeover Of A 14-Billion-Barrel Supergiant",
+    "tt": null,
+    "s": "Why Iraq Just Fast-Tracked Chevron's Takeover Of A 14-Billion-Barrel Supergiant Authored by Simon Watkins via OilPrice.com , U.S. supermajor Chevron has moved from open-ended negotiations under its previous USD200 million exclusivity window to finalizing commercial terms for Iraq's supergiant West Q",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/why-iraq-just-fast-tracked-chevrons-takeover-14-billion-barrel-supergiant",
+    "ts": 1795022100000,
+    "tags": []
+   },
+   {
+    "t": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse",
+    "tt": null,
+    "s": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse The bankruptcy bloodbath sweeping America's fast-food industry has claimed another victim as a major KFC and Taco Bell franchise operator buckles under the weight of plunging sales, soaring operating costs, and ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/yet-another-major-fast-food-franchisee-rocked-bankruptcy-after-brutal-profit-collapse",
+    "ts": 1795021200000,
+    "tags": []
+   },
    {
     "t": "Pentagon Flunks Financial Audit For Ninth Straight Year",
     "tt": null,
@@ -927,45 +962,18 @@
     "u": "https://www.zerohedge.com/personal-finance/renter-nation-juices-starts-building-permits-plunge-covid-lows-homebuilder",
     "ts": 1795014600000,
     "tags": []
-   },
-   {
-    "t": "Small Vessel Trade Thrives in Hormuz As Iran Targets Supertankers",
-    "tt": "İran'ın Süper Tankerleri Hedeflemesiyle Hürmüz'de Küçük Gemi Ticareti Artıyor",
-    "s": "Small Vessel Trade Thrives in Hormuz As Iran Targets Supertankers By Tsvetana Paraskova of OilPrice.com Smaller oil tankers moved in October the most volumes of crude oil out of the Strait of Hormuz since the war began, as Iran targets supertankers and incidents with naval mines and unknown projecti",
-    "ss": "İran'ın Süper Tankerleri Hedeflemesiyle Hürmüz'de Küçük Gemi Ticareti Gelişiyor OilPrice.com'dan Tsvetana Paraskova Yazan: İran'ın süper tankerleri ve deniz mayınları ve bilinmeyen projelerle ilgili olayları hedef alması nedeniyle, küçük petrol tankerleri Ekim ayında savaşın başlangıcından bu yana en fazla miktarda ham petrolü Hürmüz Boğazı'ndan çıkardı.",
-    "u": "https://www.zerohedge.com/commodities/small-vessel-trade-thrives-hormuz-iran-targets-supertankers",
-    "ts": 1795014600000,
-    "tags": []
-   },
-   {
-    "t": "Dawn Of A Multipolar World? Trump, Xi & Putin Meet At APEC Summit Ahead Of Historic Talks",
-    "tt": "Çok Kutuplu Bir Dünyanın Doğuşu mu? Trump, Xi ve Putin Tarihi Görüşmeler Öncesinde APEC Zirvesinde Buluştu",
-    "s": "Dawn Of A Multipolar World? Trump, Xi &amp; Putin Meet At APEC Summit Ahead Of Historic Talks President Trump arrived in China earlier this morning for the APEC summit and was personally greeted by Chinese President Xi Jinping, a notable difference from Russian President Vladimir Putin's arrival las",
-    "ss": "Çok Kutuplu Bir Dünyanın Doğuşu mu? Trump, Xi ve Putin, Tarihi Görüşmeler Öncesinde APEC Zirvesinde Buluştu Başkan Trump, APEC zirvesi için bu sabah erken saatlerde Çin'e geldi ve Çin Devlet Başkanı Xi Jinping tarafından kişisel olarak karşılandı; bu, Rusya Devlet Başkanı Vladimir Putin'in geçtiğimiz günlerdeki gelişinden dikkate değer bir farktı.",
-    "u": "https://www.zerohedge.com/geopolitical/dawn-multipolar-world-trump-xi-putin-meet-apec-summit-ahead-historic-talks",
-    "ts": 1795014000000,
-    "tags": []
-   },
-   {
-    "t": "Ransomware Gang 'The Gentlemen' Reportedly Hacked Nvidia",
-    "tt": "Fidye Yazılımı Çetesi 'The Gentlemen'in Nvidia'yı Hacklediği Bildirildi",
-    "s": "Ransomware Gang 'The Gentlemen' Reportedly Hacked Nvidia Unconfirmed reports circulating on X this morning say a ransomware group known as The Gentlemen has listed Nvidia on its leak site , claiming it hacked the chip giant and will publish stolen data soon. International Cyber Digest wrote: Ransomw",
-    "ss": "'The Gentlemen' Fidye Yazılımı Çetesinin Nvidia'yı Hacklediği Bildirildi X'te bu sabah dolaşan doğrulanmamış raporlar, The Gentlemen olarak bilinen bir fidye yazılımı grubunun, çip devini hacklediğini ve çalınan verileri yakında yayınlayacağını iddia ederek Nvidia'yı sızıntı sitesinde listelediğini söylüyor. International Cyber ​​Digest şunu yazdı: Ransomw",
-    "u": "https://www.zerohedge.com/technology/ransomware-gang-gentlemen-reportedly-hacked-nvidia",
-    "ts": 1795013700000,
-    "tags": []
-   },
-   {
-    "t": "Minnesota Paid Former Muslim Brotherhood Spokesman Nearly $100,000 Last Fiscal Year",
-    "tt": "Minnesota, Eski Müslüman Kardeşler Sözcüsü'ne Geçen Mali Yılda Yaklaşık 100.000 Dolar Ödedi",
-    "s": "Minnesota Paid Former Muslim Brotherhood Spokesman Nearly $100,000 Last Fiscal Year Authored by Lucas Greenberg via PJ Media , A former Egyptian lawmaker and spokesman for the Muslim Brotherhood's political party earned nearly $100,000 on Minnesota's payroll last fiscal year , according to state rec",
-    "ss": "Minnesota, Eski Müslüman Kardeşler Sözcüsü'ne Geçen Mali Yıl Yaklaşık 100.000 Dolar Ödedi PJ Media aracılığıyla Lucas Greenberg tarafından yazıldı. Eski bir Mısırlı milletvekili ve Müslüman Kardeşler'in siyasi partisinin sözcüsü, eyalet raporuna göre geçen mali yılda Minnesota'nın maaş bordrosundan yaklaşık 100.000 dolar kazandı.",
-    "u": "https://www.zerohedge.com/political/minnesota-paid-former-muslim-brotherhood-spokesman-nearly-100000-last-fiscal-year",
-    "ts": 1795012800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Deutsche Bank'a veri sızıntısının ardından soruşturma",
+    "tt": null,
+    "s": "Almanya'da Hessen eyaletinin veri koruma merkezi, 15 milyon iç kaydın sızdırıldığına ilişkin haberlerin ardından Deutsche Bank hakkında soruşturma başlattı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/deutsche-bank-a-veri-sizintisinin-ardindan-sorusturma-3795034",
+    "ts": 1795021485000,
+    "tags": []
+   },
    {
     "t": "Avrupa'da elektrikli araç satışları yüzde 60'ın üzerinde arttı",
     "tt": null,
@@ -1045,15 +1053,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/finansal-istikrar-komitesi-toplantisinda-kredi-ve-kredi-kartlari-gundemi-3795007",
     "ts": 1795005463000,
-    "tags": []
-   },
-   {
-    "t": "Türk Eximbank ve NEXI'den reasürans anlaşması",
-    "tt": null,
-    "s": "Türk Eximbank, Japonya'nın başkenti Tokyo'da 16-19 Kasım 2026 tarihlerinde düzenlenen Berne Union Yıllık Toplantısı kapsamında, Japonya'nın resmî ihracat destek kuruluşlarından Nippon İhracat ve Yatırım Sigortası Kurumu (NEXI) ile reasürans anlaşması imzaladığını duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turk-eximbank-ve-nexi-den-reasurans-anlasmasi-3795003",
-    "ts": 1795004822000,
     "tags": []
    }
   ]
