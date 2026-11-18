@@ -1,120 +1,120 @@
 {
- "generated": "2026-11-18T13:51:42.700154+00:00",
+ "generated": "2026-11-18T14:43:24.088274+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7340.53,
-   "c": -1.03,
-   "d": -76.06,
+   "p": 7332.18,
+   "c": -0.11,
+   "d": -8.35,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24328.383,
-   "c": -0.74,
-   "d": -181.377,
+   "p": 24355.15,
+   "c": 0.11,
+   "d": 26.769,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50759.42,
-   "c": -1.64,
-   "d": -848.752,
+   "p": 50458.65,
+   "c": -0.59,
+   "d": -300.772,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 24.31,
-   "c": -4.52,
-   "d": -1.15,
+   "p": 24.33,
+   "c": -4.44,
+   "d": -1.13,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3784.6,
-   "c": -2.06,
-   "d": -79.6,
+   "p": 3772.7,
+   "c": -2.37,
+   "d": -91.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.73,
-   "c": -3.29,
-   "d": -1.558,
+   "p": 45.42,
+   "c": -3.95,
+   "d": -1.868,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.86,
-   "c": -2.5,
-   "d": -2.15,
+   "p": 84.07,
+   "c": -2.26,
+   "d": -1.94,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.91,
-   "c": -3.47,
-   "d": -3.23,
+   "p": 90.06,
+   "c": -3.31,
+   "d": -3.08,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.762,
-   "c": 0.26,
-   "d": 0.272,
+   "p": 103.811,
+   "c": 0.31,
+   "d": 0.321,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.109,
-   "c": 0.12,
-   "d": 0.006,
+   "p": 5.089,
+   "c": -0.27,
+   "d": -0.014,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.4379,
+   "p": 50.4378,
    "c": 0.04,
    "d": 0.019,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11554.5,
-   "c": -0.91,
-   "d": -106.5,
+   "p": 11506.83,
+   "c": -1.32,
+   "d": -154.17,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 63967,
-   "c": -1.47,
+   "p": 63161,
+   "c": -3.1,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1792.22,
-   "c": -1.73,
+   "p": 1761.32,
+   "c": -3.44,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 74.2,
-   "c": 0.92,
+   "p": 73.55,
+   "c": -0.68,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.987241,
-   "c": 1.58,
+   "p": 0.979144,
+   "c": 0.41,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 588.96,
-   "c": -0.46,
+   "p": 583.54,
+   "c": -1.55,
    "k": "usd"
   }
  ],
@@ -584,6 +584,90 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stocks Rise on Nvidia’s View Before Anthropic IPO: Markets Wrap",
+    "tt": "Nvidia'nın Görünümü Yapay Zeka Korkularını Etkilerken Hisse Senetleri Yükseliyor: Piyasalar Sarılıyor",
+    "s": "Technology stocks powered Wall Street gains as a strong outlook from Nvidia Corp. helped soothe concerns over the durability of the artificial-intelligence trade.",
+    "ss": "Teknoloji hisselerinde günlerdir süren satışlar, Nvidia Corp.'un güçlü görünümünün yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin korkularını gidermeye yardımcı olmasının ardından durma noktasına geldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794953228000,
+    "tags": []
+   },
+   {
+    "t": "South African Rand Hits Eight-Month Low on Gold, Fed Hike Bets",
+    "tt": null,
+    "s": "The rand slumped to its weakest level against the dollar since March as a retreat in gold, a key South African export, added to worries that a Federal Reserve interest-rate hike will erode the South African currency’s yield advantage.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/rand-leads-emerging-market-losses-as-gold-drops-below-3-800",
+    "ts": 1795000091000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Once the Regional Laggard in Sustainable Debt, Mexico Now Leads",
+    "tt": null,
+    "s": "Mexico’s government has issued a record amount of sustainable debt this year, bucking a decline in such sales seen across emerging-markets as local pension funds step up investments.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/once-the-regional-laggard-in-sustainable-debt-mexico-now-leads",
+    "ts": 1795011556000,
+    "tags": []
+   },
+   {
+    "t": "CoreWeave Says Nvidia Is ‘Not One Person,’ Remains a Key Partner",
+    "tt": null,
+    "s": "CoreWeave Inc. has moved to dispel concerns that Jensen Huang’s exit from Nvidia Corp. could affect the chipmaker’s support for neoclouds, with strategy leader Ben Richardson saying it plans to keep working with the company.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/coreweave-says-nvidia-is-not-one-person-remains-a-key-partner",
+    "ts": 1795011451000,
+    "tags": []
+   },
+   {
+    "t": "As Lithium Glut Looms, Major Producer SQM Is Stepping Up Output",
+    "tt": null,
+    "s": "Major lithium supplier SQM is forging ahead with plans to increase production next year even as a renewed slump threatens to slash battery metal prices.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
+    "ts": 1794964685000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 18",
+    "tt": null,
+    "s": "Oil inched lower despite bullish headlines from the Middle East as risk appetite waned in a choppy session.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
+    "ts": 1794956493000,
+    "tags": []
+   },
+   {
+    "t": "JPMorgan Adds Dallas Hub for Private Bank Unit Catering to Funds",
+    "tt": null,
+    "s": "JPMorgan Chase &amp; Co.’s private bank is expanding its Fund Banking Group with a new hub in Dallas in a bid to tap the city’s growing alternative investment scene.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/jpmorgan-adds-dallas-hub-for-private-bank-unit-catering-to-funds",
+    "ts": 1795010400000,
+    "tags": []
+   },
+   {
+    "t": "Waller Thinks Fed Should Consider Half-Point Rate Hike",
+    "tt": null,
+    "s": "Federal Reserve Governor Christopher Waller urged the central bank to consider a larger, half-percentage-point rate hike at its December meeting. Waller said inflation remains headed in the wrong direction in comments Wednesday on CNBC. Michael McKee reports on Bloomberg Television. (Source: Bloombe",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/waller-thinks-fed-should-consider-half-point-rate-hike-video",
+    "ts": 1795010279000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
     "t": "Alaska’s Oil Renaissance Dawns After Decades of Decline",
     "tt": "Alaska'nın Petrol Rönesansı Onlarca Yıllık Düşüşün Ardından Şafak Vakti",
     "s": "State is forecast to add 23,000 barrels a day this year and about double that in 2027.",
@@ -600,81 +684,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme",
     "ts": 1794978985000,
     "tags": []
-   },
-   {
-    "t": "Anthropic Nears Final IPO Hurdle After Tech Stocks Churn",
-    "tt": "Anthropic, Teknoloji Hisselerinin Kaybolmasından Sonra Son Halka Arz Engeline Yaklaştı",
-    "s": "Anthropic PBC is on the cusp of pricing potentially the biggest IPO of all time, defying days of volatility in technology stocks that threaten to weigh on the startup’s long-awaited debut.",
-    "ss": "Antropik PBC, potansiyel olarak tüm zamanların en büyük halka arzını fiyatlandırmanın eşiğinde ve startup'ın uzun zamandır beklenen çıkışına ağırlık verme tehdidi oluşturan teknoloji hisselerinde günlerce süren dalgalanmalara meydan okuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-approaches-final-ipo-hurdle-after-tech-stocks-churn",
-    "ts": 1794996000000,
-    "tags": []
-   },
-   {
-    "t": "US Stocks Rise as Nvidia Outlook Tempers AI Fears: Markets Wrap",
-    "tt": "Nvidia'nın Görünümü Yapay Zeka Korkularını Etkilerken Hisse Senetleri Yükseliyor: Piyasalar Sarılıyor",
-    "s": "A dayslong selloff in technology stocks came to a halt after a strong outlook from Nvidia Corp. helped soothe investors’ fears over the durability of the artificial intelligence trade.",
-    "ss": "Teknoloji hisselerinde günlerdir süren satışlar, Nvidia Corp.'un güçlü görünümünün yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin korkularını gidermeye yardımcı olmasının ardından durma noktasına geldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794953228000,
-    "tags": []
-   },
-   {
-    "t": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-    "tt": "Bitcoin, Kaldıraç ve Likiditenin Azalmasıyla Bessent Rallisini Sildi",
-    "s": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
-    "ss": "Risk iştahının azalması ve Binance borsasındaki rekor hacklemenin yatırımcıları geri çekilmeye sürüklemesi ve daha ince bir pazardaki en büyük token ticaretini keskin fiyat dalgalanmalarına karşı giderek daha savunmasız bırakması nedeniyle Bitcoin, yaz sonundaki rallisinden elde ettiği tüm kazanımları sildi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-    "ts": 1794995109000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Stocks Rise After Nvidia Earnings; Xi Welcomes Trump",
-    "tt": "Hisse Senetleri Nvidia Kazançlarından Sonra Yükseliyor; Xi, Trump'ı karşıladı",
-    "s": "US equity futures rally after Nvidia's outlook boost helped ease investors' concerns over the durability of the AI trade and the chipmaker's confidence to thrive without Jensen Huang. President Donald Trump meets President Xi Jinping in Shenzhen, China, ahead of a trilateral meeting with President P",
-    "ss": "ABD hisse senedi vadeli işlemleri, Nvidia'nın görünüm artışının, yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin endişelerini ve çip üreticisinin Jensen Huang olmadan gelişebileceğine dair güvenini hafifletmesine yardımcı olmasının ardından yükselişe geçti. Başkan Donald Trump, Başkan P ile üçlü toplantı öncesinde Çin'in Shenzhen kentinde Başkan Xi Jinping ile bir araya geldi",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-brief-11-18-2026-video",
-    "ts": 1795008360000,
-    "tags": []
-   },
-   {
-    "t": "Credit Chiefs Warn of ‘Fear Factor’ as Debt Reprices All at Once",
-    "tt": "Kredi Şefleri, Borçların Bir Anda Yeniden Fiyatlanmasıyla 'Korku Faktörü' Uyarısında Bulundu",
-    "s": "A sharp repricing across fixed-income markets in recent months is likely to continue as interest rates remain elevated, causing a shakeout among weaker borrowers across industries.",
-    "ss": "Faiz oranlarının yüksek kalması nedeniyle sabit gelirli piyasalarda son aylarda keskin bir yeniden fiyatlamanın devam etmesi muhtemel ve bu da sektörler genelinde zayıf borçlular arasında bir sarsıntıya neden olacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once",
-    "ts": 1795000309000,
-    "tags": []
-   },
-   {
-    "t": "Inside Netflix’s Fight to Keep the Streaming Crown",
-    "tt": "Netflix'in Yayın Tacını Koruma Mücadelesinin İçinde",
-    "s": "Emily Chang travels to Paris, Seoul and Los Angeles to explore Netflix's next chapter in the entertainment world. In conversations with Co-CEO Ted Sarandos and Hollywood stars Ben Affleck and Lily Collins, Chang probes the company's global strategy, AI ambitions and executive shakeups. (Source: Bloo",
-    "ss": "Emily Chang, Netflix'in eğlence dünyasındaki bir sonraki bölümünü keşfetmek için Paris, Seul ve Los Angeles'a gidiyor. Eş CEO Ted Sarandos ve Hollywood yıldızları Ben Affleck ve Lily Collins ile yaptığı görüşmelerde Chang, şirketin küresel stratejisini, yapay zeka hedeflerini ve yönetici değişikliklerini araştırıyor. (Kaynak: Bloo",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/inside-netflix-s-fight-to-keep-the-streaming-crown-video",
-    "ts": 1795006861000,
-    "tags": []
-   },
-   {
-    "t": "More US LNG Cargoes Divert to Europe in Relief for Tight Market",
-    "tt": "Sıkışık Pazarın Rahatlaması İçin Daha Fazla ABD LNG Yükü Avrupa'ya Yönlendiriliyor",
-    "s": "More liquefied natural gas vessels have diverted toward Europe in recent days, bolstering supplies in a tight market and pressuring prices.",
-    "ss": "Son günlerde daha fazla sıvılaştırılmış doğal gaz gemisinin Avrupa'ya yönelmesi, dar pazardaki arzı artırıyor ve fiyatlar üzerinde baskı oluşturuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/more-us-lng-cargoes-divert-to-europe-in-relief-for-tight-market",
-    "ts": 1795006655000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Rally as Nvidia Results Ease AI Trade Worries",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri, Nvidia'nın Sonuçlarının Yapay Zeka Ticareti Endişelerini Hafifletmesiyle Yükseliyor",
-    "s": "US technology stocks rallied before the open on Wednesday as Nvidia Corp.’s earnings assuaged concerns following the exit of former Chief Executive Officer Jensen Huang, boosting confidence in the durability of the artificial intelligence trade.",
-    "ss": "ABD teknoloji hisseleri, Nvidia Corp.'un kazançlarının eski İcra Kurulu Başkanı Jensen Huang'ın ayrılmasının ardından endişeleri hafifleterek yapay zeka ticaretinin dayanıklılığına olan güveni artırmasıyla Çarşamba günü açılıştan önce yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
-    "ts": 1795005286000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -684,7 +693,7 @@
     "s": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
     "ss": "Enflasyonun Fed'in %2 hedefinin üzerinde devam etmesi, merkez bankası yetkililerini daha agresif bir duruşa itiyor.",
     "u": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-    "ts": 1795008753000,
+    "ts": 1795012808000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -782,6 +791,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+    "tt": null,
+    "s": "Alphabet and Apple have approached artificial intelligence in ways that have resonated on Wall Street.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+    "ts": 1795012380000,
+    "tags": []
+   },
+   {
+    "t": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed’s Waller says.",
+    "tt": null,
+    "s": "The central bank might have to be more aggressive in order to “shock” inflation out of the system, Federal Reserve governor Christopher Waller said Wednesday.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+    "ts": 1795012320000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
+    "tt": null,
+    "s": "“It’s total hype and kind of inflated expectations.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
+    "ts": 1795010940000,
+    "tags": []
+   },
+   {
+    "t": "The AI power scramble is in full force. Which companies really stand to profit?",
+    "tt": null,
+    "s": "Big Tech is inking deals with traditional power companies, but investors need to look beyond the headlines.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
+    "ts": 1795010760000,
+    "tags": []
+   },
+   {
+    "t": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
+    "tt": null,
+    "s": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
+    "ts": 1795010340000,
+    "tags": []
+   },
+   {
     "t": "Medicare Part B premiums rise due to higher healthcare spending",
     "tt": "Yüksek sağlık harcamaları nedeniyle Medicare Kısım B primleri artıyor",
     "s": "The premiums will increase by $6.50, to $209.40 a month.",
@@ -831,54 +885,45 @@
     "u": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
     "ts": 1795006800000,
     "tags": []
-   },
-   {
-    "t": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-    "tt": "'Nvidia'nın çalkantısı beni ürküttü': Hisse senetlerimi satmanın zamanı geldi mi?",
-    "s": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
-    "ss": "\"Florida'daki emlak bazı ilginç fırsatlar sunuyor gibi görünüyor.\"",
-    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "ts": 1795006800000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
-    "tt": "Anthropic'in halka arzına talep artarken Nvidia'nın liderlik efsanesi ortaya çıkıyor",
-    "s": "Three takeaways from Colette Kress’s first earnings call as Nvidia’s interim CEO. Plus, what Medicare Part B will cost in 2027 and why one investor is eyeing Florida real estate as a stock-market alternative.",
-    "ss": "Colette Kress'in ilk kazancından çıkan üç çıkarım, Nvidia'nın geçici CEO'su olduğunu gösteriyor. Ayrıca, Medicare Bölüm B'nin 2027'de maliyetinin ne olacağı ve bir yatırımcının neden Florida gayrimenkulünü borsa alternatifi olarak izlediği.",
-    "u": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories",
-    "ts": 1795004520000,
-    "tags": []
-   },
-   {
-    "t": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-    "tt": "Bu tüccar, Fed'in sıkılaştırdığını, ekonominin yavaşladığını ve bunun tahvil satın almak için mükemmel bir ortam olduğunu savunuyor",
-    "s": "Having missed the rally in U.S. Treasurys that statrted in mid-October, Macro Tourist commentator Kevin Muir is taking advantage of a renewed weakness in bonds to buy.",
-    "ss": "ABD Hazine tahvillerinde Ekim ortasında başlayan yükselişi kaçıran Makro Turist yorumcusu Kevin Muir, satın almak için tahvillerdeki yenilenen zayıflıktan yararlanıyor.",
-    "u": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
-    "ts": 1795001880000,
-    "tags": []
-   },
-   {
-    "t": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing",
-    "tt": "Hedef bir canlanma görüyor ancak yine de ayakkabılar ve kadın kıyafetleri üzerinde çalışmaya ihtiyacı var",
-    "s": "Some analysts have seen an overhaul of Target’s apparel and home segments as crucial to its turnaround.",
-    "ss": "Bazı analistler, Target'ın giyim ve ev segmentlerinde elden geçirilmesinin, toparlanma açısından çok önemli olduğunu düşünüyor.",
-    "u": "https://www.marketwatch.com/story/target-is-seeing-a-revival-but-it-still-needs-to-work-on-shoes-and-womens-clothing-afb16799?mod=mw_rss_topstories",
-    "ts": 1795001580000,
-    "tags": []
-   },
-   {
-    "t": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
-    "tt": "İyi haber: Balon tahminleri gerçek bölümlerin sayısından çok daha fazla. Kötü tarafı: Şu anda %97 oranında bir ihtimal olabilir.",
-    "s": "It turns out, the business media cries wolf about impending stock-market doom too frequently. But that doesn’t mean that the warnings have no predictive value.",
-    "ss": "Görünen o ki, iş dünyası medyası borsadaki kıyametin yaklaştığını çok sık haykırıyor. Ancak bu, uyarıların öngörü değerinin olmadığı anlamına gelmez.",
-    "u": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories",
-    "ts": 1795000980000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Minnesota Paid Former Muslim Brotherhood Spokesman Nearly $100,000 Last Fiscal Year",
+    "tt": null,
+    "s": "Minnesota Paid Former Muslim Brotherhood Spokesman Nearly $100,000 Last Fiscal Year Authored by Lucas Greenberg via PJ Media , A former Egyptian lawmaker and spokesman for the Muslim Brotherhood's political party earned nearly $100,000 on Minnesota's payroll last fiscal year , according to state rec",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/minnesota-paid-former-muslim-brotherhood-spokesman-nearly-100000-last-fiscal-year",
+    "ts": 1795012800000,
+    "tags": []
+   },
+   {
+    "t": "Waller Wants To \"Shock\" People: Fed Hawk Reprises 50bps Call As Market Refuses To Price It",
+    "tt": null,
+    "s": "Waller Wants To \"Shock\" People: Fed Hawk Reprises 50bps Call As Market Refuses To Price It He's back. Eight days after threatening a 50bps hike hours before CPI , Fed Governor Chris Waller went on CNBC this morning and did it again: inflation is headed in the wrong direction, it is broadening, and p",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/waller-wants-shock-people-fed-hawk-reprises-50bps-call-market-refuses-price-it",
+    "ts": 1795011900000,
+    "tags": []
+   },
+   {
+    "t": "Great Replacement In Belgium? Muslims Now 56% Of Antwerp's Schoolkids",
+    "tt": null,
+    "s": "Great Replacement In Belgium? Muslims Now 56% Of Antwerp's Schoolkids Authored by Remix News Staff via Remix News , Incredible demographic shifts are taking place across Europe, with the data from Antwerp just the latest indication that the claims behind the Great Replacement are backed by clear and",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/great-replacement-belgium-muslims-now-56-antwerps-schoolkids",
+    "ts": 1795011000000,
+    "tags": []
+   },
+   {
+    "t": "Ken Griffin Disposes NYC Condo For $58 Million After Socialist Mamdani's \"Creepy & Weird\" Video",
+    "tt": null,
+    "s": "Ken Griffin Disposes NYC Condo For $58 Million After Socialist Mamdani's \"Creepy &amp; Weird\" Video Citadel founder Ken Griffin has reportedly sold his duplex at Manhattan's 740 Park Avenue to New York Jets owner Woody Johnson for $58 million, according to Bloomberg . Griffin saw the writing on the ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/ken-griffin-disposes-nyc-condo-58-million-after-socialist-mamdanis-creepy-weird-video",
+    "ts": 1795010400000,
+    "tags": []
+   },
    {
     "t": "\"It's Happening\": GTA 6 Launch Begins Worldwide After 13-Year Wait",
     "tt": "\"It's Happening\": GTA 6'nın Lansmanı 13 Yıllık Beklentinin Ardından Dünya Çapında Başlıyor",
@@ -937,45 +982,18 @@
     "u": "https://www.zerohedge.com/geopolitical/crew-abandons-burning-gas-tanker-hit-twice-hormuz-fears-grow-it-could-explode",
     "ts": 1795006800000,
     "tags": []
-   },
-   {
-    "t": "Dawn Of A Multipolar World? Trump, Xi & Putin Meet At APEC Summit Ahead Of Historic Talks",
-    "tt": "Çok Kutuplu Bir Dünyanın Doğuşu mu? Trump, Xi ve Putin Tarihi Görüşmeler Öncesinde APEC Zirvesinde Buluştu",
-    "s": "Dawn Of A Multipolar World? Trump, Xi &amp; Putin Meet At APEC Summit Ahead Of Historic Talks President Trump arrived in China earlier this morning for the APEC summit and was personally greeted by Chinese President Xi Jinping, a notable difference from Russian President Vladimir Putin's arrival las",
-    "ss": "Çok Kutuplu Bir Dünyanın Doğuşu mu? Trump, Xi ve Putin, Tarihi Görüşmeler Öncesinde APEC Zirvesinde Buluştu Başkan Trump, APEC zirvesi için bu sabah erken saatlerde Çin'e geldi ve Çin Devlet Başkanı Xi Jinping tarafından kişisel olarak karşılandı; bu, Rusya Devlet Başkanı Vladimir Putin'in geçtiğimiz günlerdeki gelişinden dikkate değer bir farktı.",
-    "u": "https://www.zerohedge.com/geopolitical/dawn-multipolar-world-trump-xi-putin-meet-apec-summit-ahead-historic-talks",
-    "ts": 1795004400000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance; Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75%",
-    "tt": "Nvidia Üçüncü Çeyrek Kazançlarındaki Patlamadan Sonra Yükseliyor, Yıldız Yönlendirmesi; Huang'ın Görevine İade Etmeyeceğini Söyledi, 2028 Gelir Artışını %75'e Çıkardı",
-    "s": "Nvidia Surges After Blowout Q3 Earnings, Stellar Guidance; Says Won't Reinstate Huang, Boosts 2028 Revenue Growth To 75% Update 2: Summary of the call Update 5:10pm - Conference Call details The new management team didnt waste any time to cut to the chase: NVIDIA BOARD CHAIR SAYS FIRM DOESN'T PLAN T",
-    "ss": "Nvidia Üçüncü Çeyrek Kazançlarındaki Patlamadan Sonra Yükseliyor, Yıldız Yönlendirmesi; Huang'ı Eski Görevine Getirmeyeceğini Söyledi, 2028 Gelir Artışını %75'e Çıkardı Güncelleme 2: Çağrının Özeti Güncelleme 17:10 - Konferans Görüşmesi ayrıntıları Yeni yönetim ekibi peşine düşmek için zaman kaybetmedi: NVIDIA YÖNETİM KURULU BAŞKANI FİRMANIN PLANLAMADIĞINI SÖYLÜYOR",
-    "u": "https://www.zerohedge.com/markets/nvidia-surges-after-blowout-q3-earnings-stellar-guidance-earnings-call-looms",
-    "ts": 1795004100000,
-    "tags": []
-   },
-   {
-    "t": "\"Skynet-Like\" Terminator Walks Hamas Tunnels As IDF In Talks For 1,000 Phantom Robots",
-    "tt": "\"Skynet Benzeri\" Terminatör, IDF Olarak 1000 Hayalet Robot İçin Görüşmelerde Hamas Tünellerinde Yürüyor",
-    "s": "\"Skynet-Like\" Terminator Walks Hamas Tunnels As IDF In Talks For 1,000 Phantom Robots Well before Eric Trump backed Mike LeBlanc's Foundation Future Industries, we identified combat testing as the next frontier for humanoid robots, while Wall Street focused on boring factory floors, warehouses, and ",
-    "ss": "IDF, 1000 Hayalet Robot İçin Görüşmelerde \"Skynet Benzeri\" Terminatör Hamas Tünellerinde Yürüyor Eric Trump, Mike LeBlanc'ın Future Industries Vakfı'nı desteklemeden çok önce, savaş testlerini insansı robotlar için bir sonraki sınır olarak tanımlamıştık; Wall Street ise sıkıcı fabrika zeminleri, depolar ve",
-    "u": "https://www.zerohedge.com/technology/skynet-terminator-walks-hamas-tunnels-idf-talks-1000-phantom-robots",
-    "ts": 1795003920000,
-    "tags": []
-   },
-   {
-    "t": "Europe Has Already Drained 10% Of Its Summer Gas Injections",
-    "tt": "Avrupa Yaz Gaz Enjeksiyonlarının %10'unu Zaten Boşalttı",
-    "s": "Europe Has Already Drained 10% Of Its Summer Gas Injections Authored by Michael Kern via OilPrice.com , Europe has not only entered the heating season with the lowest gas levels in storage sites in decades, but it has also withdrawn in recent weeks 10% of the natural gas injected during the summer f",
-    "ss": "Avrupa, Yaz Gaz Enjeksiyonlarının %10'unu Zaten Boşalttı Michael Kern tarafından OilPrice.com aracılığıyla yazılmıştır, Avrupa sadece ısıtma sezonuna depolama sahalarındaki on yıllardır en düşük gaz seviyeleriyle girmekle kalmadı, aynı zamanda son haftalarda yaz aylarında enjekte edilen doğal gazın %10'unu da geri çekti.",
-    "u": "https://www.zerohedge.com/energy/europe-has-already-drained-10-its-summer-gas-injections",
-    "ts": 1795003200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "ABD'de konut başlangıçları Ekim'de yükseldi",
+    "tt": null,
+    "s": "ABD'de konut üreticileri, büyük ölçüde apartman inşaatlarındaki toparlanmanın etkisiyle Ekim ayında daha fazla konutun yapımına başladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-konut-baslangiclari-ekimde-yukseldi-3795020",
+    "ts": 1795010272000,
+    "tags": []
+   },
    {
     "t": "Fed/Waller: Fed yarım puan faiz artışına karar vermeli",
     "tt": null,
@@ -1056,15 +1074,6 @@
     "u": "https://www.bloomberght.com/akkuyuda-ilk-unitenin-sicak-ve-soguk-testleri-basladi-3794998",
     "ts": 1795001115000,
     "tags": []
-   },
-   {
-    "t": "\"Türkiye 'Made in EU' kapsamına alınmalı\"",
-    "tt": null,
-    "s": "Avrupa Uluslararası Politik Ekonomi Merkezi (ECIPE) Direktörü Fredrik Erixon, Türkiye'nin \"Made in EU\" düzenlemesine dahil edilmesi gerektiğini belirterek, ticaret ortaklarının dışlanmasının Avrupa'nın üretim maliyetlerini artırıp rekabet gücünü zayıflatacağı uyarısında bulundu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-made-in-eu-kapsamina-alinmali-3794997",
-    "ts": 1795000937000,
-    "tags": []
    }
   ]
  },
@@ -1080,6 +1089,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
