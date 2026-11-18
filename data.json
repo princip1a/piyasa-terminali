@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T08:08:48.217804+00:00",
+ "generated": "2026-11-18T09:17:59.163679+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 25.46,
-   "c": 11.13,
-   "d": 2.55,
+   "p": 23.99,
+   "c": -5.77,
+   "d": -1.47,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3773.9,
-   "c": -2.34,
-   "d": -90.3,
+   "p": 3775.2,
+   "c": -2.3,
+   "d": -89.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.915,
-   "c": -2.9,
-   "d": -1.373,
+   "p": 45.695,
+   "c": -3.37,
+   "d": -1.593,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 84.08,
-   "c": -2.24,
-   "d": -1.93,
+   "p": 82.89,
+   "c": -3.63,
+   "d": -3.12,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.74,
-   "c": -1.5,
-   "d": -1.4,
+   "p": 88.96,
+   "c": -4.49,
+   "d": -4.18,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.759,
-   "c": 0.26,
-   "d": 0.269,
+   "p": 103.839,
+   "c": 0.34,
+   "d": 0.349,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.359,
-   "c": -0.12,
-   "d": -0.059,
+   "p": 50.4418,
+   "c": 0.05,
+   "d": 0.023,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11672.35,
-   "c": 0.1,
-   "d": 11.35,
+   "p": 11704.25,
+   "c": 0.37,
+   "d": 43.25,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 64726,
-   "c": 0.15,
+   "p": 64641,
+   "c": 0.73,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1812.65,
-   "c": -0.98,
+   "p": 1810.57,
+   "c": -0.03,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 75.06,
-   "c": 3.14,
+   "p": 74.82,
+   "c": 3.75,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 1.003,
-   "c": 4.35,
+   "p": 0.997671,
+   "c": 4.39,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 592.25,
-   "c": -0.04,
+   "p": 591.68,
+   "c": 0.42,
    "k": "usd"
   }
  ],
@@ -584,75 +584,50 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 18",
-    "tt": null,
-    "s": "Oil extended a decline as traders looked past renewed fighting in the Middle East, tracking signs of recovering supplies and higher US inventories.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
-    "ts": 1794956493000,
+    "t": "Copper Slumps to Seven-Month Low as Doubts Over Demand Grow",
+    "tt": "Bakır, talep konusundaki şüphelerin artmasıyla yedi ayın en düşük seviyesine geriledi",
+    "s": "Copper fell to a seven-month low as a stronger dollar added to downward pressure from doubts over data center demand and gloomy Chinese economic data.",
+    "ss": "Bakır, güçlü doların veri merkezi talebine ilişkin şüpheler ve kasvetli Çin ekonomik verileri nedeniyle oluşan aşağı yönlü baskıya eklenmesiyle yedi ayın en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme",
+    "ts": 1794978985000,
+    "tags": [
+     "DXY ▼"
+    ]
+   },
+   {
+    "t": "MUFG: Reverse Yankees Are About 20% of Europe Corporates",
+    "tt": "MUFG: Ters Yankee'ler Avrupa Şirketlerinin Yaklaşık %20'sini Oluşturuyor",
+    "s": "MUFG EMEA Capital Markets Co-Head Fabianna del Canto says the percentage of reverse yankees, or debt issued by US companies in foreign currencies, has ballooned to around 20% of the European corporate market, with clients now looking to issue further afield markets like Australia's. She joins Bloomb",
+    "ss": "MUFG EMEA Sermaye Piyasaları Eş Başkanı Fabianna del Canto, ters yankee'lerin veya ABD şirketleri tarafından yabancı para cinsinden ihraç edilen borçların yüzdesinin Avrupa kurumsal pazarının yaklaşık %20'sine ulaştığını ve müşterilerin artık Avustralya'nınki gibi daha uzak piyasalarda tahvil ihraç etmek istediğini söyledi. Bloomb'a katıldı",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/mufg-reverse-yankees-are-about-20-of-europe-corporates-video",
+    "ts": 1794992813000,
     "tags": []
    },
    {
-    "t": "UK Inflation Print at Fastest in a Year Comes With Few Surprises",
-    "tt": null,
-    "s": "Plus, markets digest Nvidia’s strong earnings",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises",
-    "ts": 1794988232000,
+    "t": "Eurobank to Buy 65% of Bulgaria’s Fibank for €650 Million",
+    "tt": "Eurobank, Bulgar Fibank'ın yüzde 65'ini 650 milyon avroya satın alacak",
+    "s": "Greece’s Eurobank agreed to buy a majority stake in First Investment Bank in Bulgaria, setting in motion a mandatory offer for the rest in a deal that would create the Balkan country’s biggest lender by assets.",
+    "ss": "Yunanistan'ın Eurobank'ı, Bulgaristan'daki First Investment Bank'ın çoğunluk hissesini satın almayı kabul ederek, Balkan ülkesinin varlıklar açısından en büyük borç vereni haline gelecek bir anlaşmada geri kalanlar için zorunlu bir teklifi harekete geçirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/eurobank-to-buy-65-stake-in-bulgaria-s-fibank-for-650-million",
+    "ts": 1794990620000,
     "tags": []
    },
    {
-    "t": "Trump Treated to Late-Night Jollibee Snacks by Marcos",
-    "tt": null,
-    "s": "“We are very proud to say we have surpassed KFC in the United States in terms of popularity.” Philippine President Ferdinand Marcos Jr. served up a taste of Jollibee diplomacy to Donald Trump, sending the US leader and his delegation late-night snacks on Tuesday from the Filipino fast-food giant kno",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/trump-treated-to-late-night-jollibee-snacks-by-marcos-video",
-    "ts": 1794987528000,
+    "t": "Kenya Parks $1.9 Billion Vodacom-Safaricom Cash in Bonds Pending Court Ruling",
+    "tt": "Kenya Parkında 1,9 Milyar Dolarlık Vodacom-Safaricom Tahvili Mahkeme Kararı Bekleniyor",
+    "s": "Kenya has invested some of the $1.9 billion that Vodacom Group Ltd. paid for a stake in the country’s biggest company in government securities as it awaits the outcome of a court petition opposing the transaction, its treasury secretary said.",
+    "ss": "Hazine bakanı, Kenya'nın, işleme karşı çıkan mahkeme dilekçesinin sonucunu beklerken, Vodacom Group Ltd.'nin ülkenin en büyük devlet tahvili şirketinin hissesi için ödediği 1,9 milyar doların bir kısmını yatırdığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/kenya-parks-1-9-billion-vodacom-safaricom-cash-in-bonds-pending-court-ruling",
+    "ts": 1794991902000,
     "tags": []
    },
    {
-    "t": "Optimism About Europe Just Hit a Nine-Month High: Taking Stock",
-    "tt": null,
-    "s": "The view among investors about the outlook for European stocks has rarely been brighter this year, with expectations of further gains.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock",
-    "ts": 1794986138000,
-    "tags": []
-   },
-   {
-    "t": "Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals",
-    "tt": null,
-    "s": "Private equity activity is picking up in Sweden as buyout firms return to the market after a quieter period for dealmaking, according to the chief executive of Advokatfirman Vinge KB, one of the country’s biggest law firms.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
-    "ts": 1794986101000,
-    "tags": []
-   },
-   {
-    "t": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
-    "tt": null,
-    "s": "Indian revenue officials are reviewing proposals from investors and economists to raise taxes on stock derivatives while lowering levies on share trading, in a bid to curb speculative bets and encourage broader participation in the equity market, according to people with knowledge of the matter.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
-    "ts": 1794985328000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Waver After Nvidia Results, Treasuries Rise: Markets Wrap",
-    "tt": "Nvidia Sonuçlarının Ardından Hisse Senetleri Dalgalandı, Hazine Tahvilleri Yükseldi: Piyasalar Sarıldı",
-    "s": "Global stocks failed to mount a meaningful rebound as the initial boost from Nvidia Corp.’s better-than-expected sales forecast faded, signaling lingering doubts over the artificial intelligence trade. Treasuries gained.",
-    "ss": "Küresel hisse senetleri, Nvidia Corp.'un beklenenden iyi gelen satış tahminlerinin ilk yükselişinin yapay zeka ticaretine ilişkin devam eden şüphelerin sinyalini vermesiyle anlamlı bir toparlanma sağlayamadı. Hazine tahvilleri güvenli liman talebiyle değer kazandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-    "ts": 1794953228000,
-    "tags": []
-   },
-   {
-    "t": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
-    "tt": "Altın, Fed Yetkililerinin Daha Fazla Faiz Artışı Sinyali Vermesiyle 3.800 Doların Altına Düştü",
-    "s": "Gold dropped below $3,800 an ounce for the first time since September 2025 after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation.",
-    "ss": "Altın, Fed yetkililerinin inatçı enflasyonla mücadele için daha fazla faiz artırımı yapılması gerektiğini öne sürmesinin ardından Eylül 2025'ten bu yana ilk kez ons başına 3.800 doların altına düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
-    "ts": 1794958432000,
+    "t": "UK Inflation Accelerates to Highest Level in a Year",
+    "tt": "İngiltere'de Enflasyon Bir Yılın En Yüksek Seviyesine Çıktı",
+    "s": "Consumer prices rose 3.6% from a year earlier after a surge in energy bills and motor fuel costs, the Office for National Statistics said on Wednesday. It was in line with economists’ expectations. Bloomberg's Sam Unsted breaks down the numbers. (Source: Bloomberg)",
+    "ss": "Ulusal İstatistik Ofisi Çarşamba günü yaptığı açıklamada, enerji faturaları ve motor yakıt maliyetlerindeki artışın ardından tüketici fiyatlarının bir önceki yıla göre %3,6 arttığını söyledi. İktisatçıların beklentileriyle uyumluydu. Bloomberg'den Sam Unsted rakamları detaylandırıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/uk-inflation-accelerates-to-highest-level-in-a-year-video",
+    "ts": 1794991785000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -662,32 +637,59 @@
     ]
    },
    {
-    "t": "Gilts Rally After Benign Inflation Data",
-    "tt": "FTSE 100 Satışları Uzatacak, Pound 1,32 Doların Altında",
-    "s": "",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/live-blog/2026-11-18/what-s-moving-uk-markets-right-now-markets-today",
-    "ts": 1794984542000,
+    "t": "Alstom Falls After Expectations of Equity Raise to Reduce Debt",
+    "tt": "Alstom, Borcun Azaltılması İçin Hisse Artışı Beklentilerinin Ardından Düştü",
+    "s": "Alstom SA declined after the troubled French trainmaker lowered expectations for asset sales to help pay down debt, putting the possibility of a rights issue in view.",
+    "ss": "Alstom SA, sorunlu Fransız tren üreticisinin borcun ödenmesine yardımcı olmak için varlık satışı beklentilerini düşürmesi ve haklar sorunu olasılığını göz önünde bulundurmasının ardından geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/alstom-falls-after-expectations-of-equity-raise-to-reduce-debt",
+    "ts": 1794991312000,
     "tags": []
    },
    {
-    "t": "Muzinich CEO on Higher Rates and Private Credit Risks",
-    "tt": "Muzinich CEO'su Yüksek Oranlar ve Özel Kredi Riskleri Hakkında",
-    "s": "Justin Muzinich, CEO of Muzinich & Co., discusses sticky inflation, his outlook for higher rates and stress in private credit. He also explains how geopolitical risks are affecting AI data-center financing and opportunities across Asia. He appeared on Bloomberg's Insight with Haslinda Amin. (Source:",
-    "ss": "Muzinich & Co. CEO'su Justin Muzinich, yapışkan enflasyonu, daha yüksek oranlara ilişkin görünümünü ve özel kredilerdeki stresi tartışıyor. Ayrıca jeopolitik risklerin Asya genelinde yapay zeka veri merkezi finansmanını ve fırsatlarını nasıl etkilediğini de açıklıyor. Bloomberg'in Insight programında Haslinda Amin'le birlikte yer aldı. (Kaynak:",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/muzinich-ceo-on-higher-rates-and-private-credit-risks-video",
-    "ts": 1794984384000,
+    "t": "Xi-Trump-Putin Trilateral: A Great Power Stitch-Up?",
+    "tt": "Xi-Trump-Putin Üçlüsü: Büyük Bir Güç Birleşmesi mi?",
+    "s": "Trump, China’s Xi and Russia’s Putin will meet for a three-way summit this week. It’s an unprecedented meeting that’s drawn comparisons with the summit at Yalta near the end of World War II — and raised concerns of a great power stitch-up. Rebecca Choong Wilkins has more. (Source: Bloomberg)",
+    "ss": "Trump, Çin'in Xi'si ve Rusya'nın Putin'i bu hafta üçlü bir zirve için bir araya gelecek. Bu, İkinci Dünya Savaşı'nın sonlarına doğru Yalta'da yapılan zirveyle karşılaştırmalar yapan ve büyük bir güç dikişi endişelerini gündeme getiren eşi benzeri görülmemiş bir toplantı. Rebecca Choong Wilkins'te daha fazlası var. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-putin-trilateral-a-great-power-stitch-up-video",
+    "ts": 1794991273000,
+    "tags": []
+   },
+   {
+    "t": "US Stocks Rise as Nvidia Offers Relief to AI Trade: Markets Wrap",
+    "tt": "Nvidia Sonuçlarının Ardından Hisse Senetleri Dalgalandı, Hazine Tahvilleri Yükseldi: Piyasalar Sarıldı",
+    "s": "A dayslong selloff in technology stocks came to a halt after a strong outlook from Nvidia Corp. helped soothe investors’ fears over the durability of the artificial intelligence trade.",
+    "ss": "Küresel hisse senetleri, Nvidia Corp.'un beklenenden iyi gelen satış tahminlerinin ilk yükselişinin yapay zeka ticaretine ilişkin devam eden şüphelerin sinyalini vermesiyle anlamlı bir toparlanma sağlayamadı. Hazine tahvilleri güvenli liman talebiyle değer kazandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+    "ts": 1794953228000,
+    "tags": []
+   },
+   {
+    "t": "Metal Prices In Free Fall Flash Warning: Market Analysis",
+    "tt": "Metal Fiyatları Serbest Düşüşte Flaş Uyarı: Piyasa Analizi",
+    "s": "Anna Edwards, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+    "ss": "Anna Edwards, Guy Johnson ve Mark Cudmore \"Bloomberg: Açılış Ticareti\"nde analistler ve yatırımcılar için bugünün ana temalarını ayrıntılarıyla anlatıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/metal-prices-in-free-fall-flash-warning-3-minutes-mliv-video",
+    "ts": 1794990841000,
+    "tags": []
+   },
+   {
+    "t": "US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks",
+    "tt": "Bahreyn ve Kuveyt Yeni Drone Saldırılarıyla Karşı Karşıyayken ABD İran'ın Keşm Adasını Vurdu",
+    "s": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lun",
+    "ss": "Horizons Orta Doğu ve Afrika, dünyanın en hızlı büyüyen bölgelerinden birine dair günlük ilgi odağınızdır. Dubai'den canlı olarak size en son küresel pazarları ve analizleri, ayrıca MEA'ya özel olarak odaklanarak haber veren röportajları sunuyoruz. Tüm bunlar ve daha fazlası, Körfez'deki ofise doğru giderken öğle yemeği için mola verin",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/horizons-middle-east-africa-11-18-2026-video",
+    "ts": 1794989895000,
     "tags": []
    }
   ],
   "CNBC": [
    {
-    "t": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+    "t": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
     "tt": "Putin, Trump ve Xi ile görüşme öncesinde AB'nin sanayi kaybettiğini ve rekabetin gerisinde kaldığını söyledi",
     "s": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
     "ss": "Putin konuşmasını Rusya'nın ABD yaptırımlarına rağmen ekonomik dayanıklılığını vurgulamak için kullandı ve ülkedeki APEC üyelerine yönelik fırsatları öne çıkardı.",
     "u": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-    "ts": 1794986231000,
+    "ts": 1794990575000,
     "tags": []
    },
    {
@@ -779,6 +781,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now.",
+    "tt": "S&P 500 çok önemli bir destek seviyesini kırdı. İşte tarihin gösterdiği şu anda neler olabilir.",
+    "s": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
+    "ss": "200 günlük hareketli ortalamanın aşılması düşüş sinyali olarak kabul ediliyor. Bespoke Investment'a göre bu pazar için durum böyle olmayabilir",
+    "u": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
+    "ts": 1794991800000,
+    "tags": []
+   },
+   {
     "t": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
     "tt": "Nvidia finansmana 'disiplinli' bir yaklaşımdan bahsetse bile CoreWeave'in hisseleri yükseliyor",
     "s": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
@@ -788,7 +799,7 @@
     "tags": []
    },
    {
-    "t": "Medicare Part B premiums rise due higher healthcare spending",
+    "t": "Medicare Part B premiums rise due to higher healthcare spending",
     "tt": "Medicare Kısım B primleri, yüksek sağlık harcamaları nedeniyle artıyor",
     "s": "The premiums will increase by $6.50, to $209.40 a month.",
     "ss": "Primler 6,50 dolar artarak ayda 209,40 dolara çıkacak.",
@@ -864,32 +875,41 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
-    "tt": "Çocuğu olmayan ağabeyim tek kız kardeşimizi vasiyetinden çıkardı. Onun yerine her şeyi alacağım. Ona söyleyeyim mi?",
-    "s": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-    "ss": "\"Kardeşimin isteklerine saygı duymakla kız kardeşime karşı adil olmak arasında kaldım.\"",
-    "u": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "ts": 1794951000000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "France Confirms Its Troops Are On The Ground In Ukraine In Months-Long 'Covert Operation'",
+    "tt": "Fransa, Aylardır Süren 'Gizli Operasyon' İçinde Askerlerinin Ukrayna'da Sahada Olduğunu Doğruladı",
+    "s": "France Confirms Its Troops Are On The Ground In Ukraine In Months-Long 'Covert Operation' While it has long been well-known that European, French and American mercenaries and 'volunteers' have been fighting alongside Ukraine forces against Russia going back to near the war's start, the question of g",
+    "ss": "Fransa, Aylardır Süren 'Gizli Operasyon'da Askerlerinin Ukrayna'da Sahada Olduğunu Doğruladı Avrupalı, Fransız ve Amerikalı paralı askerlerin ve 'gönüllülerin' savaşın başlangıcına yakın bir zamanda Rusya'ya karşı Ukrayna güçleriyle birlikte savaştığı uzun süredir biliniyor.",
+    "u": "https://www.zerohedge.com/geopolitical/france-confirms-its-troops-are-ground-ukraine-months-long-covert-operation",
+    "ts": 1794992400000,
+    "tags": []
+   },
+   {
+    "t": "Italy Slaps Meta With $880 Million Fine Over What Facebook Was Doing With Your Phone's Photos",
+    "tt": "İtalya, Facebook'un Telefonunuzdaki Fotoğraflarla Yaptıkları Üzerine Meta'ya 880 Milyon Dolar Ceza Verdi",
+    "s": "Italy Slaps Meta With $880 Million Fine Over What Facebook Was Doing With Your Phone's Photos Authored by Naveen Athrappully via The Epoch Times , Italy has fined Meta $887 million for allegedly violating Android users' privacy by accessing their images and videos without consent. The feature called",
+    "ss": "İtalya, Meta'ya, Facebook'un Telefonunuzun Fotoğraflarıyla Yaptıklarına Karşı 880 Milyon Dolar Ceza Verdi Naveen Athrappully tarafından The Epoch Times aracılığıyla yazılmıştır. İtalya, Meta'ya, Android kullanıcılarının resimlerine ve videolarına izinsiz erişerek gizliliğini ihlal ettiği iddiasıyla 887 milyon dolar para cezası verdi. Özellik adı verildi",
+    "u": "https://www.zerohedge.com/technology/italy-slaps-meta-880-million-fine-over-what-facebook-was-doing-your-phones-photos",
+    "ts": 1794990000000,
+    "tags": []
+   },
+   {
     "t": "EU Hits 30 More People With Sanctions... This Time For What They Said",
-    "tt": null,
+    "tt": "AB 30 Kişiyi Daha Yaptırımla Vurdu... Bu Kez Söyledikleri İçin",
     "s": "EU Hits 30 More People With Sanctions... This Time For What They Said The European Union on Monday sanctioned 30 people and two organizations it accuses of running Russia's information manipulation and cyberattacks against Europe , a list that takes in Russian television hosts, a popular military bl",
-    "ss": null,
+    "ss": "AB, 30 Kişiyi Daha Yaptırımlarla Vurdu... Bu Kez Söyledikleri İçin Avrupa Birliği Pazartesi günü, Rusya'nın Avrupa'ya karşı bilgi manipülasyonu ve siber saldırılarını yürütmekle suçladığı 30 kişi ve iki kuruluşa yaptırım uyguladı; bu listede popüler bir askeri program olan Rus televizyon sunucuları yer alıyor.",
     "u": "https://www.zerohedge.com/geopolitical/eu-hits-30-more-people-sanctions-time-what-they-said",
     "ts": 1794987600000,
     "tags": []
    },
    {
     "t": "Afghans, Syrians, Tunisians: Frankfurt Police Reveal Who They Arrested In Halloween Riots",
-    "tt": null,
+    "tt": "Afganlar, Suriyeliler, Tunuslular: Frankfurt Polisi Cadılar Bayramı Ayaklanmalarında Kimi Tutukladığını Açıkladı",
     "s": "Afghans, Syrians, Tunisians: Frankfurt Police Reveal Who They Arrested In Halloween Riots Authored by Remix News Staff via Remix News , Frankfurt police have released a detailed breakdown of the citizenship of those arrested during violent unrest in the city's center on Oct. 31, with the data showin",
-    "ss": null,
+    "ss": "Afganlar, Suriyeliler, Tunuslular: Frankfurt Polisi Cadılar Bayramı Ayaklanmalarında Kimi Tutukladıklarını Açıkladı Remix Haber Personeli tarafından Remix News aracılığıyla yazılmıştır. Frankfurt polisi, 31 Ekim'de şehir merkezindeki şiddetli ayaklanmalar sırasında tutuklananların vatandaşlıklarına ilişkin ayrıntılı bir dökümü aşağıdaki verilerle yayınladı:",
     "u": "https://www.zerohedge.com/geopolitical/afghans-syrians-tunisians-frankfurt-police-reveal-who-they-arrested-halloween-riots",
     "ts": 1794985200000,
     "tags": []
@@ -931,15 +951,6 @@
     "tags": []
    },
    {
-    "t": "US Centcom Chief To Arrive In Saudi Arabia To Examine Why Air Defenses Are Failing",
-    "tt": "ABD Centcom Şefi, Hava Savunmalarının Neden Başarısız Olduğunu İncelemek İçin Suudi Arabistan'a Gelecek",
-    "s": "US Centcom Chief To Arrive In Saudi Arabia To Examine Why Air Defenses Are Failing Via Middle East Eye US Central Command chief, Admiral Brad Cooper, the commander of forces in the Middle East, is expected to arrive in Saudi Arabia this week with advisors to examine the kingdom’s air defense capabil",
-    "ss": "ABD Centcom Şefi, Orta Doğu Gözü Aracılığıyla Hava Savunmalarının Neden Başarısız Olduğunu İncelemek İçin Suudi Arabistan'a Gelecek ABD Merkez Komutanlığı şefi, Orta Doğu'daki kuvvetler komutanı Amiral Brad Cooper'ın, krallığın hava savunma yeteneğini incelemek üzere danışmanlarla birlikte bu hafta Suudi Arabistan'a gelmesi bekleniyor",
-    "u": "https://www.zerohedge.com/military/us-centcom-chief-arrive-saudi-arabia-examine-why-air-defenses-are-failing",
-    "ts": 1794972600000,
-    "tags": []
-   },
-   {
     "t": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System",
     "tt": "NSA, Apple ve Equinor Kesintilerden Etkilendi; Federaller Acil Durum Sistemini Test Ederken FBI, Devlet Bağlantılı Bilgisayar Korsanları Hakkında Uyardı",
     "s": "NSA, Apple, Equinor Hit By Disruptions; FBI Warns Of State-Aligned Hackers As Feds Test Emergency System Summary: Feds Begin Nationwide Emergency Test Equinor Reports Ongoing Cyberattack&nbsp; Apple Hit By Disruptions &nbsp; FBI Issues FLASH Advisory Warning NSA Spy Network Goes Dark&nbsp; List Expa",
@@ -949,25 +960,43 @@
     "tags": []
    },
    {
-    "t": "Biden's Newest Debate Excuse: Hunter's Conviction \"Took A Piece Out Of Me\"",
-    "tt": "Biden'ın Yeni Tartışma Bahanesi: Hunter'ın Mahkûmiyeti \"Benden Bir Parçayı Aldı\"",
-    "s": "Biden's Newest Debate Excuse: Hunter's Conviction \"Took A Piece Out Of Me\" Joe Biden has a new explanation for the June 27, 2024 debate that ended his presidency: his son Hunter's felony gun conviction, handed down 16 days before he took the stage against Trump . The claim is in his memoir Promise M",
-    "ss": "Biden'ın En Yeni Tartışma Bahanesi: Hunter'ın Mahkûmiyeti \"Benden Bir Parça Aldı\" Joe Biden'ın, başkanlığını sona erdiren 27 Haziran 2024 tartışmasına ilişkin yeni bir açıklaması var: Oğlu Hunter'ın, Trump'a karşı sahneye çıkmadan 16 gün önce verilen ağır suçtan mahkumiyeti. İddia onun anı kitabı Promise M'de yer alıyor",
-    "u": "https://www.zerohedge.com/political/biden-has-new-excuse-debate-and-time-its-hunters-fault",
-    "ts": 1794971400000,
-    "tags": []
-   },
-   {
-    "t": "China Turns To Iraqi Oil As US Blockade Chokes Iranian Supply",
-    "tt": "ABD Ablukası İran Arzını Boğarken Çin Irak Petrolüne Döndü",
-    "s": "China Turns To Iraqi Oil As US Blockade Chokes Iranian Supply Authored by Irina Slav via OilPrice.com , Chinese independent refiners are seeking crude oil cargoes from Iraq using the services of global commodity trading houses in a departure from their usual oil-sourcing practices, Bloomberg has rep",
-    "ss": "ABD Ablukası İran Arzını Boğarken Çin Irak Petrolüne Yönleniyor",
-    "u": "https://www.zerohedge.com/energy/china-turns-iraqi-oil-us-blockade-chokes-iranian-supply",
-    "ts": 1794970200000,
+    "t": "US Centcom Chief To Arrive In Saudi Arabia To Examine Why Air Defenses Are Failing",
+    "tt": "ABD Centcom Şefi, Hava Savunmalarının Neden Başarısız Olduğunu İncelemek İçin Suudi Arabistan'a Gelecek",
+    "s": "US Centcom Chief To Arrive In Saudi Arabia To Examine Why Air Defenses Are Failing Via Middle East Eye US Central Command chief, Admiral Brad Cooper, the commander of forces in the Middle East, is expected to arrive in Saudi Arabia this week with advisors to examine the kingdom’s air defense capabil",
+    "ss": "ABD Centcom Şefi, Orta Doğu Gözü Aracılığıyla Hava Savunmalarının Neden Başarısız Olduğunu İncelemek İçin Suudi Arabistan'a Gelecek ABD Merkez Komutanlığı şefi, Orta Doğu'daki kuvvetler komutanı Amiral Brad Cooper'ın, krallığın hava savunma yeteneğini incelemek üzere danışmanlarla birlikte bu hafta Suudi Arabistan'a gelmesi bekleniyor",
+    "u": "https://www.zerohedge.com/military/us-centcom-chief-arrive-saudi-arabia-examine-why-air-defenses-are-failing",
+    "ts": 1794972600000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Finansal Kurumlar Birliği'nin yeni başkanı belli oldu",
+    "tt": null,
+    "s": "Aracında ölü bulunan Ali Emre Ballı'nın ardından Finansal Kurumlar Birliği'nde yeni yönetim belirlendi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/finansal-kurumlar-birligi-nin-yeni-baskani-belli-oldu-3794970",
+    "ts": 1794990670000,
+    "tags": []
+   },
+   {
+    "t": "Alman şirketlerinde işten çıkarmalar derinleşiyor",
+    "tt": null,
+    "s": "Almanya'nın önde gelen sanayi, otomotiv, lojistik, sigorta, telekomünikasyon ve finans kuruluşlarının son iki yılda açıkladığı ve 2026 yılı boyunca yeni paketlerle genişlettiği işten çıkarma planlarının Almanya ayağı yaklaşık 160 bin, küresel ölçekteki boyutu ise 200 bin pozisyonu aştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/alman-sirketlerinde-isten-cikarmalar-derinlesiyor-3794969",
+    "ts": 1794990643000,
+    "tags": []
+   },
+   {
+    "t": "OPEC Fund'dan Türkiye finansman portföyünü büyütme planı",
+    "tt": null,
+    "s": "OPEC Uluslararası Kalkınma Fonu (OPEC Fund) Genel Direktörü ve İcra Kurulu Başkanı Abdulhamid Alkhalifa, Türkiye ile finansman işbirliğini genişletmeyi hedeflediklerini belirterek, \"Türkiye, dünyanın en hızlı büyüyen ekonomilerinden biri. Türkiye'nin büyüme ve kalkınma hikayesinin bir parçası olmak ",
+    "ss": null,
+    "u": "https://www.bloomberght.com/opec-fund-dan-turkiye-finansman-portfoyunu-buyutme-plani-3794968",
+    "ts": 1794989596000,
+    "tags": []
+   },
    {
     "t": "Trump: Filipinler ile yeni ve farklı ticaret anlaşması imzaladık",
     "tt": null,
@@ -1030,33 +1059,6 @@
     "u": "https://www.bloomberght.com/issizlik-ucuncu-ceyrek-3794949",
     "ts": 1794985145000,
     "tags": []
-   },
-   {
-    "t": "Şi ve Putin'den Trump ile zirve öncesinde ekonomik bariyer eleştirisi",
-    "tt": null,
-    "s": "Çin Devlet Başkanı Şi Jinping, ABD Başkanı Donald Trump ile yapacağı görüşmeler öncesinde ekonomik bariyerlere karşı uyarıda bulundu ve Asya-Pasifik ülkeleri arasında daha yakın işbirliği çağrısı yaptı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/si-ve-putinden-trump-ile-zirve-oncesinde-ekonomik-bariyer-elestirisi-3794947",
-    "ts": 1794984550000,
-    "tags": []
-   },
-   {
-    "t": "Altın, yeni faiz artışları beklentisiyle düşüşünü sürdürdü",
-    "tt": null,
-    "s": "Altın fiyatları, Fed yetkililerinin enflasyonla mücadele için faiz oranlarında ilave artışlar yapılması gerektiğini savunmasının ardından Eylül 2025'ten bu yana ilk kez ons başına 3 bin 800 doların altına düştü.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/altin-yeni-faiz-artislari-beklentisiyle-dususunu-surdurdu-3794943",
-    "ts": 1794983373000,
-    "tags": []
-   },
-   {
-    "t": "Küresel piyasalarda teknoloji satışları",
-    "tt": null,
-    "s": "Nvidia, Jensen Huang'ın ayrılışının ardından açıkladığı ilk bilançosunda gelecek mali yıl için gelir büyümesi tahminini yükseltti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-piyasalarda-teknoloji-satislari-3794941",
-    "ts": 1794982801000,
-    "tags": []
    }
   ]
  },
@@ -1072,7 +1074,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
