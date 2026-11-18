@@ -1,79 +1,79 @@
 {
- "generated": "2026-11-18T17:48:00.579257+00:00",
+ "generated": "2026-11-18T18:41:31.515849+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7334.64,
-   "c": -0.08,
-   "d": -5.89,
+   "p": 7352.85,
+   "c": 0.17,
+   "d": 12.32,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24442.943,
-   "c": 0.47,
-   "d": 114.562,
+   "p": 24518.805,
+   "c": 0.78,
+   "d": 190.424,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50318.02,
-   "c": -0.87,
-   "d": -441.402,
+   "p": 50412.72,
+   "c": -0.68,
+   "d": -346.702,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 23.59,
-   "c": -7.34,
-   "d": -1.87,
+   "p": 24.06,
+   "c": -5.5,
+   "d": -1.4,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3744.9,
-   "c": -3.09,
-   "d": -119.3,
+   "p": 3745.1,
+   "c": -3.08,
+   "d": -119.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.035,
-   "c": -4.76,
-   "d": -2.253,
+   "p": 45.15,
+   "c": -4.52,
+   "d": -2.138,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.69,
-   "c": -5.02,
-   "d": -4.32,
+   "p": 81.81,
+   "c": -4.88,
+   "d": -4.2,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.38,
-   "c": -5.11,
-   "d": -4.76,
+   "p": 88.53,
+   "c": -4.95,
+   "d": -4.61,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.79,
-   "c": 0.29,
-   "d": 0.3,
+   "p": 103.762,
+   "c": 0.26,
+   "d": 0.272,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.07,
-   "c": -0.65,
-   "d": -0.033,
+   "p": 5.056,
+   "c": -0.92,
+   "d": -0.047,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.4376,
+   "p": 50.4373,
    "c": 0.04,
    "d": 0.019,
    "k": "idx"
@@ -89,31 +89,31 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 63133,
-   "c": -0.96,
+   "p": 63156,
+   "c": -0.88,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1771.7,
-   "c": -0.72,
+   "p": 1770.39,
+   "c": -1.11,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.65,
-   "c": 1.85,
+   "p": 73.9,
+   "c": 2.06,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.980308,
-   "c": 2.21,
+   "p": 0.980393,
+   "c": 2.43,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 583.76,
+   "p": 584.05,
    "c": -0.49,
    "k": "usd"
   }
@@ -584,9 +584,9 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Stocks Waver as Oil Slump Offsets Nvidia Selloff: Markets Wrap",
+    "t": "Stocks Churn as Oil Slump Offsets Nvidia Selloff: Markets Wrap",
     "tt": "Nvidia'nın Görünümü Yapay Zeka Korkularını Etkilerken Hisse Senetleri Yükseliyor: Piyasalar Sarılıyor",
-    "s": "Stocks fluctuated as a decline in oil prices tempered Wall Street’s concerns over the durability of the artificial-intelligence trade despite solid results from Nvidia Corp.",
+    "s": "Volatility gripped Wall Street again, with stocks fluctuating as a drop in oil prices offset worries about a renewed selloff in Nvidia Corp.",
     "ss": "Teknoloji hisselerinde günlerdir süren satışlar, Nvidia Corp.'un güçlü görünümünün yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin korkularını gidermeye yardımcı olmasının ardından durma noktasına geldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
     "ts": 1794953228000,
@@ -596,6 +596,66 @@
      "Altın ▲",
      "BTC ▲"
     ]
+   },
+   {
+    "t": "New York MTA’s Budget Risks $1 Billion Shortfall in 2030",
+    "tt": null,
+    "s": "New York City’s transit system is projecting a nearly $1 billion budget gap in 2030 as increasing healthcare and fuel costs outpace its revenue growth.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/new-york-mta-s-budget-risks-1-billion-shortfall-in-2030",
+    "ts": 1795018240000,
+    "tags": []
+   },
+   {
+    "t": "Newsmax Sues to Block Fox From Integrating With Roku",
+    "tt": null,
+    "s": "Conservative news channel Newsmax Inc. filed a lawsuit seeking to block rival broadcaster Fox Corp. from integrating the TV streaming assets of Roku Inc., arguing the $22 billion merger would hurt competition.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
+    "ts": 1795021100000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic’s IPO by the Numbers: Taking on SpaceX’s Record Debut",
+    "tt": null,
+    "s": "Anthropic PBC is preparing to price what could be the biggest IPO of all time, and the numbers are startling. The AI lab is set to challenge SpaceX for the record, which Elon Musk’s rocket and satellite firm claimed in June with a first-time share sale that rocked markets.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut",
+    "ts": 1795025542000,
+    "tags": []
+   },
+   {
+    "t": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
+    "tt": null,
+    "s": "Trinidad Navarro knows how to hunt down wrongdoing.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
+    "ts": 1795025059000,
+    "tags": []
+   },
+   {
+    "t": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals",
+    "tt": null,
+    "s": "Gold tumbled over 3% to the lowest in over a year after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+    "ts": 1794958432000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Kalshi Turns to Compute Desk in Renewed Push for GPU Futures",
+    "tt": null,
+    "s": "Kalshi Inc. is working with index provider Compute Desk to launch futures contracts tied to the cost of computing power used for artificial intelligence, pushing into what exchanges see as a potentially lucrative new asset class, according to people familiar with the matter.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/kalshi-turns-to-compute-desk-in-renewed-push-for-gpu-futures",
+    "ts": 1795024699000,
+    "tags": []
    },
    {
     "t": "Credit Chiefs Warn of ‘Fear Factor’ With Debt Repricing",
@@ -622,63 +682,6 @@
     "ss": null,
     "u": "https://www.bloomberg.com/news/videos/2026-11-18/structured-deals-fit-for-insurance-money-blackstone-md-video",
     "ts": 1795022428000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Fall as Nvidia’s Earnings Rally Sputters",
-    "tt": null,
-    "s": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade. John Mowrey, CIO at NFJ Investment Group, brings us into the market open and talks about what Nvidia an",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/stocks-fall-as-nvidia-s-earnings-rally-sputters-video",
-    "ts": 1795022200000,
-    "tags": []
-   },
-   {
-    "t": "New York MTA’s Budget Risks $1 Billion Shortfall in 2030",
-    "tt": null,
-    "s": "New York City’s transit system is projecting a nearly $1 billion budget gap in 2030 as increasing healthcare and fuel costs outpace its revenue growth.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/new-york-mta-s-budget-risks-1-billion-shortfall-in-2030",
-    "ts": 1795018240000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stocks Decline as Worries Remain For Nvidia After Earnings",
-    "tt": null,
-    "s": "US technology stocks erased gains in the wake of Nvidia Corp.’s earnings, while traders looked to the mammoth market debut of Anthropic PBC as the next key test for the artificial intelligence trade.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
-    "ts": 1795005286000,
-    "tags": []
-   },
-   {
-    "t": "Newsmax Sues to Block Fox From Integrating With Roku",
-    "tt": null,
-    "s": "Conservative news channel Newsmax Inc. sued Fox Corp. Wednesday seeking to block the company’s integration of its $22 billion merger with Roku Inc.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
-    "ts": 1795021100000,
-    "tags": []
-   },
-   {
-    "t": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-    "tt": null,
-    "s": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-    "ts": 1794995109000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Interest-Rates are 'Normal for Longer,' Not Higher, Says Ed Yardeni",
-    "tt": null,
-    "s": "Fed officials left rates steady last month after raising their benchmark rate in September for the first time in three years. Since the last meeting, officials have signaled broad agreement over additional hikes, but offered differing views on the appropriate pace. Ed Yardeni, Founder of Yardeni Res",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/rates-are-normal-for-longer-not-higher-says-yardeni-video",
-    "ts": 1795020248000,
     "tags": []
    }
   ],
@@ -782,6 +785,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "tt": null,
+    "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "ts": 1795026600000,
+    "tags": []
+   },
+   {
+    "t": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
+    "tt": null,
+    "s": "“Grand Theft Auto VI” has racked up a Metacritic score of 99 and been nominated for Game of the Year already. “Clearly, the 13-year wait has not gone to waste,” one analyst said.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
+    "ts": 1795026480000,
+    "tags": []
+   },
+   {
+    "t": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+    "tt": null,
+    "s": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "ts": 1795024800000,
+    "tags": []
+   },
+   {
     "t": "Social Security should be shut down, this Republican senator says",
     "tt": null,
     "s": "The program’s trust funds are expected to run out of money in the next six years.",
@@ -843,36 +873,45 @@
     "u": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
     "ts": 1795021200000,
     "tags": []
-   },
-   {
-    "t": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
-    "tt": null,
-    "s": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-    "ts": 1795019400000,
-    "tags": []
-   },
-   {
-    "t": "Worried investors are paying a premium for these stocks — some with as much as 49% upside, analysts say",
-    "tt": null,
-    "s": "Defensive sectors have beaten the S&amp;P 500 by a wide margin in recent months, even though they are priced much higher relative to earnings estimates than the index.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/worried-investors-are-paying-up-for-these-stocks-some-with-up-to-49-upside-analysts-say-ea8f2c6f?mod=mw_rss_topstories",
-    "ts": 1795017840000,
-    "tags": []
-   },
-   {
-    "t": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
-    "tt": null,
-    "s": "Even if you assume Oracle’s AI data-center business disappears while its debt remains, Oracle shares are still trading lower than they should, according to new analysis from Bernstein.",
-    "ss": null,
-    "u": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
-    "ts": 1795017420000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Feds Charge Irishman Who Barricaded Himself Inside US Military Plane And Destroyed It",
+    "tt": null,
+    "s": "Feds Charge Irishman Who Barricaded Himself Inside US Military Plane And Destroyed It Federal prosecutors in Manhattan have charged an Irish national with destroying a US Air National Guard C-130H Hercules at Shannon Airport, alleging he spent months planning an attack that left the roughly $60 mill",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/feds-charge-irishman-who-barricaded-himself-inside-us-military-plane-and-destroyed-it",
+    "ts": 1795027500000,
+    "tags": []
+   },
+   {
+    "t": "Neocon Fox News Host Goes Mask-Off With Stunning Attack On JD Vance",
+    "tt": null,
+    "s": "Neocon Fox News Host Goes Mask-Off With Stunning Attack On JD Vance Fox News host Brian Kilmeade let his neoconservative mask slip, launching a blistering attack on Vice President JD Vance over his opposition to another prolonged war in the Middle East. The longtime Fox &amp; Friends co-host used hi",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/neocon-fox-news-host-goes-mask-stunning-attack-jd-vance",
+    "ts": 1795026600000,
+    "tags": []
+   },
+   {
+    "t": "Average 20Y Auction Prices On The Screws",
+    "tt": null,
+    "s": "Average 20Y Auction Prices On The Screws Unlike last week's debacle of a Treasury auction week, which saw some real stinkers including a catastrophic 10Y auction, moments ago the Treasury sold $42BN in 20Y paper in a perfectly average auction.&nbsp; The week's lone coupon auction priced at a high yi",
+    "ss": null,
+    "u": "https://www.zerohedge.com/markets/average-20y-auction-prices-screws",
+    "ts": 1795026183000,
+    "tags": []
+   },
+   {
+    "t": "Destroyer Deployments Will Stretch To Nearly A Year, Navy Chief Tells Stunned Military Families",
+    "tt": null,
+    "s": "Destroyer Deployments Will Stretch To Nearly A Year, Navy Chief Tells Stunned Military Families The USS Abraham Lincoln featured heavily in the news throughout much of the Iran war, given its deployment lasted a whopping 321 days , 286 of which were without a port call - before it finally returned h",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/destroyer-deployments-could-stretch-nearly-year-navy-chief-warns-military-families",
+    "ts": 1795024800000,
+    "tags": []
+   },
    {
     "t": "A Heated Hold: FOMC Minutes To Show The Hawks Were Closer To Winning Than The 10-2 Vote Suggested",
     "tt": null,
@@ -926,45 +965,36 @@
     "u": "https://www.zerohedge.com/political/we-dodged-bomb-ex-con-trainee-indicted-over-device-emptied-2500-homes-around-illinois",
     "ts": 1795018500000,
     "tags": []
-   },
-   {
-    "t": "Anthropic's Founders Slipped A Chilling Warning Into Their IPO Letter",
-    "tt": null,
-    "s": "Anthropic's Founders Slipped A Chilling Warning Into Their IPO Letter The founders' letter at the beginning of Anthropic's IPO prospectus carries a warning about what the company's own product could do in the wrong hands: \"Authoritarian governments may use AI to create high-tech surveillance states,",
-    "ss": null,
-    "u": "https://www.zerohedge.com/ai/anthropics-founders-slipped-chilling-warning-their-ipo-letter",
-    "ts": 1795017600000,
-    "tags": []
-   },
-   {
-    "t": "Anti-Realpolitik Economics?",
-    "tt": "Realpolitik Karşıtı Ekonomi?",
-    "s": "Anti-Realpolitik Economics? By Michael Every of Rabobank Another day, another IT system down&nbsp; – now the classified US intelligence communications network; oh, and the CIA building was on fire. Assuming this is IT and not CYA related, note Huang is not going to return as Nvidia CEO and the SEC I",
-    "ss": "Realpolitik Karşıtı Ekonomi? Rabobank'tan Michael Every Başka bir gün, başka bir BT sistemi çöktü - şimdi de gizli ABD istihbarat iletişim ağı; oh, ve CIA binası yanıyordu. Bunun BT olduğunu ve CYA ile ilgili olmadığını varsayarsak, Huang'ın Nvidia CEO'su ve SEC I olarak geri dönmeyeceğini unutmayın.",
-    "u": "https://www.zerohedge.com/political/anti-realpolitik-economics",
-    "ts": 1795016700000,
-    "tags": []
-   },
-   {
-    "t": "WTI Extends Losses After Big Crude Build, Record Production; Shrugs Off Tanker Attacks",
-    "tt": "WTI Büyük Ham Petrol Üretimi ve Rekor Üretimin Ardından Kayıplarını Genişletti; Tanker Saldırılarını Omuz silkiyor",
-    "s": "WTI Extends Losses After Big Crude Build, Record Production; Shrugs Off Tanker Attacks Oil prices are tumbling for no good reason (oddly triggered simultaneously across many asset-classes at the US equity cash open), erasing morning gains driven by yet more tankers coming under attack in the MidEast",
-    "ss": "WTI Büyük Ham Petrol Üretimi ve Rekor Üretimin Ardından Kayıplarını Genişletti; Tanker Saldırılarını Önemsemiyor Petrol fiyatları sebepsiz yere düşüyor (ABD hisse senedi nakit açılışında birçok varlık sınıfında garip bir şekilde aynı anda tetikleniyor), Orta Doğu'da daha fazla tankerin saldırıya uğramasıyla elde edilen sabah kazançları siliniyor",
-    "u": "https://www.zerohedge.com/energy/wti-extends-losses-after-big-crude-build-record-production-shrugs-tanker-attacks",
-    "ts": 1795016100000,
-    "tags": []
-   },
-   {
-    "t": "Housing Crisis Escalates: Pending Home Sales Hit Record Low, Building Permits Worst Since COVID As Homebuilder Confidence Crashes",
-    "tt": "'Kiracı Ulus' Meyve Suları Başlıyor; İnşaatçıların Güveni Çökerken İnşaat İzinleri COVID'de En Düşük Seviyelere Düştü",
-    "s": "Housing Crisis Escalates: Pending Home Sales Hit Record Low, Building Permits Worst Since COVID As Homebuilder Confidence Crashes Update (1000ET) : Following the good (Housing Starts), and bad (Building permits and homebuilder confidence) earlier this morning, we now have the ugly as pending home sa",
-    "ss": "'Kiracı Ulus' Meyve Suları Başlıyor; Konut İnşaatçılarının Güveni Çökerken İnşaat İzinleri Kovid-19'daki En Düşük Seviyelere Düştü Kasvetli bir Eylül ayının ardından, analistler (bir şekilde), konut inşaatçılarının güveninin 2012'den bu yana en zayıf seviyesine gerilemesine rağmen Konut Başlangıçlarının Ekim ayında toparlanmasını bekliyordu ... İnşaatçıların hala daha uzun bir yolu var",
-    "u": "https://www.zerohedge.com/personal-finance/renter-nation-juices-starts-building-permits-plunge-covid-lows-homebuilder",
-    "ts": 1795014600000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "AB'den Rusya'ya yeni yaptırım uyarısı",
+    "tt": null,
+    "s": "Avrupa Birliği (AB), Ukrayna'da kimyasal silah kullandığı iddiaları üzerine Rusya'ya bu tür silahların kullanımını derhal durdurma çağrısı yaptı. AB, sorumlulara yönelik yeni yaptırımlar uygulamaya hazır olduğunu bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-den-rusya-ya-yeni-yaptirim-uyarisi-3795038",
+    "ts": 1795026873000,
+    "tags": []
+   },
+   {
+    "t": "İngiliz savunma devi BAE Systems 1.070 çalışanını işten çıkarıyor",
+    "tt": null,
+    "s": "BAE Systems, İngiltere'deki genel merkezinde ve havacılık faaliyetlerinde 1.070 çalışanını işten çıkarmayı planladığını açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ingiliz-savunma-devi-bae-systems-1070-calisanini-isten-cikariyor-3795037",
+    "ts": 1795026406000,
+    "tags": []
+   },
+   {
+    "t": "ABD istihbaratından art arda yaşanan kesintilere dair açıklama",
+    "tt": null,
+    "s": "ABD Ulusal İstihbarat Direktörü Jay Clayton, teknoloji şirketlerinin hizmetlerinde art arda yaşanan kesintilerin bakım ve teknik değişikliklerden kaynaklanan ayrı olaylar olduğunu söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-istihbaratindan-art-arda-yasanan-kesintilere-dair-aciklama-3795035",
+    "ts": 1795024064000,
+    "tags": []
+   },
    {
     "t": "Deutsche Bank'a veri sızıntısının ardından soruşturma",
     "tt": null,
@@ -1026,33 +1056,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/mustafa-yazici-ifadeye-cagrildi-3795015",
     "ts": 1795007185000,
-    "tags": []
-   },
-   {
-    "t": "Denizbank, murabaha sendikasyon kredisini 220 milyon dolar olarak yeniledi",
-    "tt": null,
-    "s": "Denizbank, uluslararası piyasalardan sağladığı murabaha sendikasyon kredisini 220 milyon dolar tutarında, iki ve üç yıl vadelerde yeniledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/denizbank-murabaha-sendikasyon-kredisini-220-milyon-dolar-olarak-yeniledi-3795014",
-    "ts": 1795006859000,
-    "tags": []
-   },
-   {
-    "t": "Enerjiye ve sosyal güvenliğe ilişkin kanun teklifi Komisyonda",
-    "tt": null,
-    "s": "TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonunda, Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi'nin görüşmelerine başlandı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/enerjiye-ve-sosyal-guvenlige-iliskin-kanun-teklifi-komisyonda-3795010",
-    "ts": 1795005542000,
-    "tags": []
-   },
-   {
-    "t": "Finansal İstikrar Komitesi'nde kredi ve kredi kartı gündemi",
-    "tt": null,
-    "s": "Finansal İstikrar Komitesi'nin toplantısında bireysel krediler ve kredi kartlarına yönelik politika adımlarının değerlendirildiği belirtildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/finansal-istikrar-komitesi-toplantisinda-kredi-ve-kredi-kartlari-gundemi-3795007",
-    "ts": 1795005463000,
     "tags": []
    }
   ]
