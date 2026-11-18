@@ -1,79 +1,79 @@
 {
- "generated": "2026-11-18T15:46:38.542825+00:00",
+ "generated": "2026-11-18T16:52:14.502309+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7310.32,
-   "c": -0.41,
-   "d": -30.21,
+   "p": 7297.21,
+   "c": -0.59,
+   "d": -43.32,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24326.734,
-   "c": -0.01,
-   "d": -1.647,
+   "p": 24269.861,
+   "c": -0.24,
+   "d": -58.52,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50155.7,
-   "c": -1.19,
-   "d": -603.722,
+   "p": 50142.19,
+   "c": -1.22,
+   "d": -617.232,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 24.48,
-   "c": -3.85,
-   "d": -0.98,
+   "p": 24.97,
+   "c": -1.92,
+   "d": -0.49,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3762.5,
-   "c": -2.63,
-   "d": -101.7,
+   "p": 3740.8,
+   "c": -3.19,
+   "d": -123.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.065,
-   "c": -4.7,
-   "d": -2.223,
+   "p": 44.845,
+   "c": -5.17,
+   "d": -2.443,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.02,
-   "c": -3.48,
-   "d": -2.99,
+   "p": 82.57,
+   "c": -4.0,
+   "d": -3.44,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.09,
-   "c": -4.35,
-   "d": -4.05,
+   "p": 88.73,
+   "c": -4.73,
+   "d": -4.41,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.844,
-   "c": 0.34,
-   "d": 0.354,
+   "p": 103.89,
+   "c": 0.39,
+   "d": 0.4,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.079,
-   "c": -0.47,
-   "d": -0.024,
+   "p": 5.072,
+   "c": -0.61,
+   "d": -0.031,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.4373,
+   "p": 50.4377,
    "c": 0.04,
    "d": 0.019,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 63178,
-   "c": -1.52,
+   "p": 62454,
+   "c": -1.99,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1764.35,
-   "c": -0.86,
+   "p": 1739.44,
+   "c": -2.14,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.42,
-   "c": 1.59,
+   "p": 72.51,
+   "c": 0.56,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.97616,
-   "c": 1.83,
+   "p": 0.964461,
+   "c": 0.84,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 583.16,
-   "c": -0.62,
+   "p": 577.35,
+   "c": -1.17,
    "k": "usd"
   }
  ],
@@ -584,84 +584,60 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+    "tt": null,
+    "s": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+    "ts": 1794995109000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Interest-Rates are 'Normal for Longer,' Not Higher, Says Ed Yardeni",
+    "tt": null,
+    "s": "Fed officials left rates steady last month after raising their benchmark rate in September for the first time in three years. Since the last meeting, officials have signaled broad agreement over additional hikes, but offered differing views on the appropriate pace. Ed Yardeni, Founder of Yardeni Res",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/rates-are-normal-for-longer-not-higher-says-yardeni-video",
+    "ts": 1795020248000,
+    "tags": []
+   },
+   {
+    "t": "Warsh Is Closer to Waller on Fed Policy, Gopinath Says",
+    "tt": null,
+    "s": "Gita Gopinath, former IMF deputy managing director, says Fed Chair Kevin Warsh has to \"walk the talk\" when it comes to bringing inflation down to its target of 2%. She says Warsh is closer to Fed Governor Christopher Waller on monetary policy. Waller is calling for a half-point hike in December. (So",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/warsh-is-closer-to-waller-on-fed-policy-gopinath-says-video",
+    "ts": 1795019585000,
+    "tags": []
+   },
+   {
+    "t": "Chicago’s Third CFO This Year Saw Budget Red Flags Before Exit",
+    "tt": null,
+    "s": "The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
+    "ts": 1795019262000,
+    "tags": []
+   },
+   {
+    "t": "SQM Is Expanding Into a Lithium Glut on Price-Recovery Bet",
+    "tt": null,
+    "s": "Major lithium supplier SQM is forging ahead with production and investment plans, even as the global market is set to swing back into a surplus, betting robust demand will spur a recovery in prices.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/sqm-sees-positive-lithium-demand-outlook-even-as-prices-slide",
+    "ts": 1794964685000,
+    "tags": []
+   },
+   {
     "t": "Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap",
     "tt": "Nvidia'nın Görünümü Yapay Zeka Korkularını Etkilerken Hisse Senetleri Yükseliyor: Piyasalar Sarılıyor",
-    "s": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that traders are looking for more evidence about the durability of the artificial-intelligence trade.",
+    "s": "Wall Street saw renewed volatility as Nvidia Corp.’s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.",
     "ss": "Teknoloji hisselerinde günlerdir süren satışlar, Nvidia Corp.'un güçlü görünümünün yatırımcıların yapay zeka ticaretinin dayanıklılığına ilişkin korkularını gidermeye yardımcı olmasının ardından durma noktasına geldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
     "ts": 1794953228000,
-    "tags": []
-   },
-   {
-    "t": "Lithium CEO Warns of Perils Facing US Critical Minerals Push",
-    "tt": "Lityum CEO'su ABD'deki Kritik Minerallerin Karşılaştığı Tehlikelere Karşı Uyardı",
-    "s": "Lithium Americas Corp.’s flagship US mine has become an expensive test of the Trump administration’s push to rebuild a domestic critical minerals industry, with labor shortages, rising wages and tariffs pushing its construction bill almost $900 million higher.",
-    "ss": "Lithium Americas Corp.'un amiral gemisi ABD madeni, Trump yönetiminin yerli kritik maden endüstrisini yeniden inşa etme çabasının pahalı bir sınavı haline geldi; işgücü kıtlığı, artan ücretler ve gümrük vergileri inşaat faturasını neredeyse 900 milyon dolar artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/lithium-miner-warns-of-perils-facing-us-critical-minerals-push",
-    "ts": 1795004451000,
-    "tags": []
-   },
-   {
-    "t": "Private Fund Giants Target €80 Billion From EU Insurance Regulatory Revamp",
-    "tt": "Özel Fon Devleri, AB Sigorta Mevzuatının Yenilenmesinden 80 Milyar Avro Hedefliyor",
-    "s": "The world’s biggest private capital firms are stepping up their hunt for a larger chunk of the European Union’s €10 trillion ($11 trillion) insurance asset pile — and settling in for a long pursuit.",
-    "ss": "Dünyanın en büyük özel sermaye şirketleri, Avrupa Birliği'nin 10 trilyon Euro'luk (11 trilyon dolar) sigorta varlığı yığınının daha büyük bir kısmını ele geçirmek için arayışlarını hızlandırıyor ve uzun bir arayışa giriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp",
-    "ts": 1794978900000,
-    "tags": []
-   },
-   {
-    "t": "Turkey Slaps Main Erdogan Rival Imamoglu With Political Ban",
-    "tt": "Türkiye, Erdoğan'ın rakibi İmamoğlu'na siyasi yasakla tokat attı",
-    "s": "A Turkish court ordered a political ban for Istanbul Mayor Ekrem Imamoglu, President Recep Tayyip Erdogan’s main opponent, paving the way for the ruling party to take control of Turkey’s largest city.",
-    "ss": "Bir Türk mahkemesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın baş rakibi olan İstanbul Belediye Başkanı Ekrem İmamoğlu'na siyasi yasak kararı vererek, iktidar partisinin Türkiye'nin en büyük şehrinin kontrolünü ele geçirmesinin önünü açtı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/turkey-slaps-main-erdogan-rival-imamoglu-with-political-ban",
-    "ts": 1795013748000,
-    "tags": []
-   },
-   {
-    "t": "Nike Bets on Cricket to Triple India Sales as China Sputters",
-    "tt": "Nike, China Sputters'la Kriket'in Hindistan Satışlarını Üçe Katlayacağına Bahis Yaptı",
-    "s": "Nike Inc. is targeting a booming sports market dominated by cricket to triple its India business in five years, as growth falters in Greater China.",
-    "ss": "Nike Inc., Büyük Çin'de büyümenin yavaşlaması nedeniyle, kriketin hakim olduğu gelişen bir spor pazarını Hindistan'daki işini beş yıl içinde üç katına çıkarmayı hedefliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/nike-bets-on-cricket-to-triple-india-sales-as-china-sputters",
-    "ts": 1795015560000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Waver After Nvidia Results as Anthropic IPO Test Looms",
-    "tt": "Antropik Halka Arz Testi Yaklaşırken Nvidia Sonuçlarının Ardından Hisse Senetleri Dalgalanıyor",
-    "s": "US technology stocks edged higher in the wake of Nvidia Corp.’s earnings, while traders looked to the mammoth market debut of Anthropic PBC for the next key test of the artificial intelligence trade.",
-    "ss": "ABD teknoloji hisseleri Nvidia Corp.'un kazançlarının ardından yükselirken, yatırımcılar yapay zeka ticaretinin bir sonraki önemli testi için Anthropic PBC'nin devasa piyasaya çıkışına baktı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
-    "ts": 1795005286000,
-    "tags": []
-   },
-   {
-    "t": "Odd Lots: GTA VI Is the Most Expensive Game Ever Made. Is It Worth It?",
-    "tt": "Garip Sayılar: GTA VI Şimdiye Kadar Yapılmış En Pahalı Oyundur. Buna değer mi?",
-    "s": "The much anticipated Grand Theft Auto VI will be released on November 19 as the most expensive video game ever made. Bloomberg News video game reporter Jason Schreier joins Joe Weisenthal and Tracy Alloway on the Odd Lots podcast to discuss why it took 13 years and reportedly over $1 billion to make",
-    "ss": "Merakla beklenen Grand Theft Auto VI, şimdiye kadar yapılmış en pahalı video oyunu olarak 19 Kasım'da piyasaya sürülecek. Bloomberg News video oyunu muhabiri Jason Schreier, Odd Lots podcast'inde Joe Weisenthal ve Tracy Alloway'e katılarak bu işin neden 13 yıl sürdüğünü ve 1 milyar dolardan fazla para kazandığını tartışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/odd-lots-gta-vi-is-the-most-expensive-game-ever-made-is-it-worth-it",
-    "ts": 1795014514000,
-    "tags": []
-   },
-   {
-    "t": "BASF’s Evonik Chase Poses Test for Potential Merz Successor",
-    "tt": "BASF'nin Evonik Chase'i Merz'in Potansiyel Halefini Test Ediyor",
-    "s": "BASF SE’s bid to consolidate Germany’s struggling chemicals industry with a takeover of Evonik Industries AG looks set to join the ranks of politically-charged deals taking shape across Europe this year.",
-    "ss": "BASF SE'nin, Evonik Industries AG'yi satın alarak Almanya'nın zor durumdaki kimya endüstrisini birleştirme teklifi, bu yıl Avrupa çapında şekillenen siyasi içerikli anlaşmalar arasına katılacak gibi görünüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/basf-s-evonik-chase-poses-test-for-potential-merz-successor",
-    "ts": 1794993254000,
-    "tags": []
-   },
-   {
-    "t": "AI-Driven Firm Corgi Ventures Into Banking After ETFs, Insurance",
-    "tt": "Yapay Zeka Odaklı Firma Corgi, ETF ve Sigortadan Sonra Bankacılığa da Giriyor",
-    "s": "Financial technology firm Corgi is looking to add another line of business to its fast-growing portfolio: banking.",
-    "ss": "Finansal teknoloji firması Corgi, hızla büyüyen portföyüne başka bir iş kolu daha eklemeyi planlıyor: bankacılık.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/ai-driven-firm-corgi-ventures-into-banking-after-etfs-insurance",
-    "ts": 1795014027000,
     "tags": []
    },
    {
@@ -672,16 +648,52 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once",
     "ts": 1795000309000,
     "tags": []
+   },
+   {
+    "t": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
+    "tt": null,
+    "s": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike (NKE) shares are movin",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/nike-moves-on-investor-day-lowe-s-reports-earnings-video",
+    "ts": 1795018797000,
+    "tags": []
+   },
+   {
+    "t": "Turkey Slaps Main Erdogan Rival Imamoglu With Political Ban",
+    "tt": "Türkiye, Erdoğan'ın rakibi İmamoğlu'na siyasi yasakla tokat attı",
+    "s": "A Turkish court ordered a political ban for Istanbul Mayor Ekrem Imamoglu, President Recep Tayyip Erdogan’s main opponent, paving the way for the ruling party to potentially take control of Turkey’s largest city.",
+    "ss": "Bir Türk mahkemesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın baş rakibi olan İstanbul Belediye Başkanı Ekrem İmamoğlu'na siyasi yasak kararı vererek, iktidar partisinin Türkiye'nin en büyük şehrinin kontrolünü ele geçirmesinin önünü açtı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/turkey-slaps-main-erdogan-rival-imamoglu-with-political-ban",
+    "ts": 1795013748000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 18",
+    "tt": null,
+    "s": "Oil inched lower despite bullish headlines from the Middle East as risk appetite waned in a choppy session.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-17/latest-oil-market-news-and-analysis-for-nov-18",
+    "ts": 1794956493000,
+    "tags": []
    }
   ],
   "CNBC": [
    {
-    "t": "Tech outages are causing people to panic buy. Costco is benefitting",
+    "t": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "tt": null,
+    "s": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+    "ss": null,
+    "u": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+    "ts": 1795018450000,
+    "tags": []
+   },
+   {
+    "t": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
     "tt": "Teknoloji kesintileri insanların panikle satın almasına neden oluyor. Costco fayda sağlıyor",
-    "s": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods",
+    "s": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
     "ss": "Teknoloji kesintileri acil durum ürünlerini alma yarışına dönüştükçe alışveriş yapanlar Costco'da daha fazla harcama yapıyor",
     "u": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-    "ts": 1795015344000,
+    "ts": 1795019594000,
     "tags": []
    },
    {
@@ -761,23 +773,36 @@
     "u": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
     "ts": 1794854767000,
     "tags": []
-   },
-   {
-    "t": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-    "tt": "ABD ham petrolü Orta Doğu ihracatının toparlanmasıyla varil başına 87 dolara geriledi",
-    "s": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-    "ss": "Petrol fiyatları, dördüncü çeyrekte petrolde fazlalık olacağını öngören tahminlerle düşüyor",
-    "u": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "ts": 1794867542000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
    }
   ],
   "MarketWatch": [
+   {
+    "t": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
+    "tt": null,
+    "s": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+    "ts": 1795019400000,
+    "tags": []
+   },
+   {
+    "t": "Worried investors are paying a premium for these stocks — some with as much as 49% upside, analysts say",
+    "tt": null,
+    "s": "Defensive sectors have beaten the S&amp;P 500 by a wide margin in recent months, even though they are priced much higher relative to earnings estimates than the index.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/worried-investors-are-paying-up-for-these-stocks-some-with-up-to-49-upside-analysts-say-ea8f2c6f?mod=mw_rss_topstories",
+    "ts": 1795017840000,
+    "tags": []
+   },
+   {
+    "t": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
+    "tt": null,
+    "s": "Even if you assume Oracle’s AI data-center business disappears while its debt remains, Oracle shares are still trading lower than they should, according to new analysis from Bernstein.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
+    "ts": 1795017420000,
+    "tags": []
+   },
    {
     "t": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
     "tt": "Nvidia'nın artan talebini 'göz ardı etmek zor' ancak bu dört soru hisse senedinin üzerinde beliriyor",
@@ -846,42 +871,36 @@
     "u": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
     "ts": 1795010340000,
     "tags": []
-   },
-   {
-    "t": "Medicare Part B premiums rise due to higher healthcare spending",
-    "tt": "Yüksek sağlık harcamaları nedeniyle Medicare Kısım B primleri artıyor",
-    "s": "The premiums will increase by $6.50, to $209.40 a month.",
-    "ss": "Primler 6,50 dolar artarak ayda 209,40 dolara çıkacak.",
-    "u": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-    "ts": 1795009320000,
-    "tags": []
-   },
-   {
-    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-    "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
-    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-    "ss": "“Eğer kocamdan önce ölürsem, ona benim aylık maaşımın yüzde 50-66’sı kadar ömür boyu emekli maaşı verilecek.”",
-    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-    "ts": 1795008600000,
-    "tags": []
-   },
-   {
-    "t": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-    "tt": "Kısa vadeli Hazine tahvillerinden tekrar %5 kazanmak ister misiniz? Bu değişime dikkat edin.",
-    "s": "Don’t rule out a half-point interest-rate hike in December, BofA Global’s rates team said.",
-    "ss": "BofA Global'in oran ekibi, Aralık ayında yarım puanlık faiz artırımı ihtimalini göz ardı etmeyin dedi.",
-    "u": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-    "ts": 1795008240000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Pentagon Flunks Financial Audit For Ninth Straight Year",
+    "tt": null,
+    "s": "Pentagon Flunks Financial Audit For Ninth Straight Year Authored by AG News Staff via American Greatness , The Pentagon has failed its financial audit for the ninth fiscal year in a row , the Department of War's Office of Inspector General announced Monday , citing outdated and inadequate financial ",
+    "ss": null,
+    "u": "https://www.zerohedge.com/military/pentagon-flunks-financial-audit-ninth-straight-year",
+    "ts": 1795020300000,
+    "tags": []
+   },
+   {
+    "t": "\"We Dodged A Bomb\": Ex-Con Trainee Indicted Over Device That Emptied 2,500 Homes Around Illinois Ethanol Plant",
+    "tt": null,
+    "s": "\"We Dodged A Bomb\": Ex-Con Trainee Indicted Over Device That Emptied 2,500 Homes Around Illinois Ethanol Plant A federal grand jury has indicted a 41-year-old trainee at the Peoria, Illinois, ethanol plant where a bomb was found last Friday , charging him with emailing the company a threat that expl",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/we-dodged-bomb-ex-con-trainee-indicted-over-device-emptied-2500-homes-around-illinois",
+    "ts": 1795018500000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic's Founders Slipped A Chilling Warning Into Their IPO Letter",
+    "tt": null,
+    "s": "Anthropic's Founders Slipped A Chilling Warning Into Their IPO Letter The founders' letter at the beginning of Anthropic's IPO prospectus carries a warning about what the company's own product could do in the wrong hands: \"Authoritarian governments may use AI to create high-tech surveillance states,",
+    "ss": null,
+    "u": "https://www.zerohedge.com/ai/anthropics-founders-slipped-chilling-warning-their-ipo-letter",
+    "ts": 1795017600000,
+    "tags": []
+   },
    {
     "t": "Anti-Realpolitik Economics?",
     "tt": "Realpolitik Karşıtı Ekonomi?",
@@ -901,20 +920,20 @@
     "tags": []
    },
    {
-    "t": "Small Vessel Trade Thrives in Hormuz As Iran Targets Supertankers",
-    "tt": "İran'ın Süper Tankerleri Hedeflemesiyle Hürmüz'de Küçük Gemi Ticareti Artıyor",
-    "s": "Small Vessel Trade Thrives in Hormuz As Iran Targets Supertankers By Tsvetana Paraskova of OilPrice.com Smaller oil tankers moved in October the most volumes of crude oil out of the Strait of Hormuz since the war began, as Iran targets supertankers and incidents with naval mines and unknown projecti",
-    "ss": "İran'ın Süper Tankerleri Hedeflemesiyle Hürmüz'de Küçük Gemi Ticareti Gelişiyor OilPrice.com'dan Tsvetana Paraskova Yazan: İran'ın süper tankerleri ve deniz mayınları ve bilinmeyen projelerle ilgili olayları hedef alması nedeniyle, küçük petrol tankerleri Ekim ayında savaşın başlangıcından bu yana en fazla miktarda ham petrolü Hürmüz Boğazı'ndan çıkardı.",
-    "u": "https://www.zerohedge.com/commodities/small-vessel-trade-thrives-hormuz-iran-targets-supertankers",
-    "ts": 1795014600000,
-    "tags": []
-   },
-   {
     "t": "Housing Crisis Escalates: Pending Home Sales Hit Record Low, Building Permits Worst Since COVID As Homebuilder Confidence Crashes",
     "tt": "'Kiracı Ulus' Meyve Suları Başlıyor; İnşaatçıların Güveni Çökerken İnşaat İzinleri COVID'de En Düşük Seviyelere Düştü",
     "s": "Housing Crisis Escalates: Pending Home Sales Hit Record Low, Building Permits Worst Since COVID As Homebuilder Confidence Crashes Update (1000ET) : Following the good (Housing Starts), and bad (Building permits and homebuilder confidence) earlier this morning, we now have the ugly as pending home sa",
     "ss": "'Kiracı Ulus' Meyve Suları Başlıyor; Konut İnşaatçılarının Güveni Çökerken İnşaat İzinleri Kovid-19'daki En Düşük Seviyelere Düştü Kasvetli bir Eylül ayının ardından, analistler (bir şekilde), konut inşaatçılarının güveninin 2012'den bu yana en zayıf seviyesine gerilemesine rağmen Konut Başlangıçlarının Ekim ayında toparlanmasını bekliyordu ... İnşaatçıların hala daha uzun bir yolu var",
     "u": "https://www.zerohedge.com/personal-finance/renter-nation-juices-starts-building-permits-plunge-covid-lows-homebuilder",
+    "ts": 1795014600000,
+    "tags": []
+   },
+   {
+    "t": "Small Vessel Trade Thrives in Hormuz As Iran Targets Supertankers",
+    "tt": "İran'ın Süper Tankerleri Hedeflemesiyle Hürmüz'de Küçük Gemi Ticareti Artıyor",
+    "s": "Small Vessel Trade Thrives in Hormuz As Iran Targets Supertankers By Tsvetana Paraskova of OilPrice.com Smaller oil tankers moved in October the most volumes of crude oil out of the Strait of Hormuz since the war began, as Iran targets supertankers and incidents with naval mines and unknown projecti",
+    "ss": "İran'ın Süper Tankerleri Hedeflemesiyle Hürmüz'de Küçük Gemi Ticareti Gelişiyor OilPrice.com'dan Tsvetana Paraskova Yazan: İran'ın süper tankerleri ve deniz mayınları ve bilinmeyen projelerle ilgili olayları hedef alması nedeniyle, küçük petrol tankerleri Ekim ayında savaşın başlangıcından bu yana en fazla miktarda ham petrolü Hürmüz Boğazı'ndan çıkardı.",
+    "u": "https://www.zerohedge.com/commodities/small-vessel-trade-thrives-hormuz-iran-targets-supertankers",
     "ts": 1795014600000,
     "tags": []
    },
@@ -944,36 +963,27 @@
     "u": "https://www.zerohedge.com/political/minnesota-paid-former-muslim-brotherhood-spokesman-nearly-100000-last-fiscal-year",
     "ts": 1795012800000,
     "tags": []
-   },
-   {
-    "t": "Waller Wants To \"Shock\" People: Fed Hawk Reprises 50bps Call As Market Refuses To Price It",
-    "tt": "Waller İnsanları \"Şoklamak\" İstiyor: Piyasa Fiyatlandırmayı Reddettiğinden Fed Hawk 50 baz puanlık çağrıya yeniden yanıt verdi",
-    "s": "Waller Wants To \"Shock\" People: Fed Hawk Reprises 50bps Call As Market Refuses To Price It He's back. Eight days after threatening a 50bps hike hours before CPI , Fed Governor Chris Waller went on CNBC this morning and did it again: inflation is headed in the wrong direction, it is broadening, and p",
-    "ss": "Waller İnsanları \"Şoklamak\" İstiyor: Fed Hawk, Piyasanın Fiyatlandırmayı Reddetmesi Üzerine 50 baz puanlık Çağrıyı Tekrarladı Geri döndü. Fed Guvernörü Chris Waller, TÜFE'ye saatler kala 50 baz puanlık artış tehdidinde bulunduktan sekiz gün sonra bu sabah CNBC'ye çıktı ve bunu tekrar yaptı: Enflasyon yanlış yöne gidiyor, genişliyor ve p",
-    "u": "https://www.zerohedge.com/markets/waller-wants-shock-people-fed-hawk-reprises-50bps-call-market-refuses-price-it",
-    "ts": 1795011900000,
-    "tags": []
-   },
-   {
-    "t": "Great Replacement In Belgium? Muslims Now 56% Of Antwerp's Schoolkids",
-    "tt": "Belçika'da Büyük Değişim? Müslümanlar Artık Antwerp'teki Okul Çocuklarının %56'sını Oluşturuyor",
-    "s": "Great Replacement In Belgium? Muslims Now 56% Of Antwerp's Schoolkids Authored by Remix News Staff via Remix News , Incredible demographic shifts are taking place across Europe, with the data from Antwerp just the latest indication that the claims behind the Great Replacement are backed by clear and",
-    "ss": "Belçika'da Büyük Değişim? Müslümanlar Artık Antwerp'teki Okul Çocuklarının %56'sını Remix News aracılığıyla Remix Haber Ekibi tarafından yazılmıştır, Avrupa genelinde inanılmaz demografik değişimler yaşanıyor; Antwerp'ten gelen veriler, Büyük Değiştirme'nin ardındaki iddiaların açık ve net bir şekilde desteklendiğinin en son göstergesi.",
-    "u": "https://www.zerohedge.com/geopolitical/great-replacement-belgium-muslims-now-56-antwerps-schoolkids",
-    "ts": 1795011000000,
-    "tags": []
-   },
-   {
-    "t": "Ken Griffin Disposes NYC Condo For $58 Million After Socialist Mamdani's \"Creepy & Weird\" Video",
-    "tt": "Ken Griffin, Sosyalist Mamdani'nin \"Korkunç ve Garip\" Videosunun Ardından New York'taki Daireyi 58 Milyon Dolara Elden Çıkardı",
-    "s": "Ken Griffin Disposes NYC Condo For $58 Million After Socialist Mamdani's \"Creepy &amp; Weird\" Video Citadel founder Ken Griffin has reportedly sold his duplex at Manhattan's 740 Park Avenue to New York Jets owner Woody Johnson for $58 million, according to Bloomberg . Griffin saw the writing on the ",
-    "ss": "Ken Griffin, Sosyalist Mamdani'nin \"Korkunç ve Tuhaf\" Video Citadel kurucusu Ken Griffin'in Manhattan 740 Park Avenue'deki dubleksini New York Jets'in sahibi Woody Johnson'a 58 milyon dolara satmasının ardından NYC'deki apartman dairesini 58 milyon dolara elden çıkarıyor Bloomberg'e göre. Griffin üzerindeki yazıyı gördü",
-    "u": "https://www.zerohedge.com/markets/ken-griffin-disposes-nyc-condo-58-million-after-socialist-mamdanis-creepy-weird-video",
-    "ts": 1795010400000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Avrupa'da elektrikli araç satışları yüzde 60'ın üzerinde arttı",
+    "tt": null,
+    "s": "Avrupa'nın 18 önemli pazarında tam elektrikli araç satışları, Ekim'de yıllık bazda yüzde 60'ın üzerinde artarak 295 bin 252'ye ulaştı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/avrupa-da-elektrikli-arac-satislari-yuzde-60-in-uzerinde-artti-3795033",
+    "ts": 1795019896000,
+    "tags": []
+   },
+   {
+    "t": "NYT: Putin savaşı kış boyunca sürdürmek istiyor",
+    "tt": null,
+    "s": "New York Times'a konuşan yetkililer, Batılı istihbarat analizlerinin Putin'in Ukrayna'daki savaşı en azından kış boyunca sürdürmek istediğine işaret ettiğini öne sürdü. Yetkililer, Putin'in ciddi barış müzakerelerine hazır olmadığını savundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/nyt-putin-savasi-kis-boyunca-surdurmek-istiyor-3795032",
+    "ts": 1795016538000,
+    "tags": []
+   },
    {
     "t": "İngiltere'de tepkilere rağmen Palantir ile devam kararı",
     "tt": null,
@@ -1045,24 +1055,6 @@
     "u": "https://www.bloomberght.com/turk-eximbank-ve-nexi-den-reasurans-anlasmasi-3795003",
     "ts": 1795004822000,
     "tags": []
-   },
-   {
-    "t": "Vujcic: AMB'nin önümüzdeki ay faiz artırması muhtemel",
-    "tt": null,
-    "s": "Avrupa Merkez Bankası (AMB) Başkan Yardımcısı Boris Vujcic, önümüzdeki ay AMB'nin faiz artırımına gitmesinin son derece muhtemel olduğunu ve enflasyonun yaygınlaşmasıyla 2027'de başka faiz artışlarının da gelebileceğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/vujcic-ambnin-onumuzdeki-ay-faiz-artirmasi-muhtemel-3795002",
-    "ts": 1795004366000,
-    "tags": []
-   },
-   {
-    "t": "Mücevher sektöründen iki talep",
-    "tt": null,
-    "s": "Mücevher İhracatçıları Birliği (MİB) Yönetim Kurulu Başkanı Mustafa Özcan, kota ve ek vergi uygulamalarının üretim, istihdam ve uluslararası rekabet gücü üzerinde olumsuz etkiler yarattığını belirterek, \"Altın ithalatındaki kota kaldırılır, ek vergi sorunu çözülür ve gümrük mevzuatında gerekli düzen",
-    "ss": null,
-    "u": "https://www.bloomberght.com/mucevher-sektorunden-iki-talep-3794999",
-    "ts": 1795002076000,
-    "tags": []
    }
   ]
  },
@@ -1078,6 +1070,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
