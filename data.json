@@ -1,120 +1,120 @@
 {
- "generated": "2026-11-19T14:43:00.519821+00:00",
+ "generated": "2026-11-19T15:47:08.700456+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7391.64,
-   "c": 0.93,
-   "d": 68.01,
+   "p": 7299.61,
+   "c": -0.33,
+   "d": -24.02,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24853.299,
-   "c": 1.73,
-   "d": 423.418,
+   "p": 24465.55,
+   "c": 0.15,
+   "d": 35.669,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50218.15,
-   "c": 0.04,
-   "d": 19.978,
+   "p": 49715.97,
+   "c": -0.96,
+   "d": -482.202,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 22.5,
-   "c": -8.39,
-   "d": -2.06,
+   "p": 24.97,
+   "c": 1.67,
+   "d": 0.41,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3716.9,
-   "c": -0.67,
-   "d": -25.0,
+   "p": 3687.4,
+   "c": -1.46,
+   "d": -54.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.385,
-   "c": 0.86,
-   "d": 0.386,
+   "p": 44.57,
+   "c": -0.95,
+   "d": -0.429,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.76,
-   "c": 0.6,
-   "d": 0.5,
+   "p": 82.91,
+   "c": -0.42,
+   "d": -0.35,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.53,
-   "c": -1.54,
-   "d": -1.42,
+   "p": 89.76,
+   "c": -2.38,
+   "d": -2.19,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.666,
-   "c": -0.19,
-   "d": -0.194,
+   "p": 103.813,
+   "c": -0.05,
+   "d": -0.047,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.085,
-   "c": 0.38,
-   "d": 0.019,
+   "p": 5.07,
+   "c": 0.08,
+   "d": 0.004,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.464,
+   "p": 50.4638,
    "c": 0.05,
-   "d": 0.026,
+   "d": 0.025,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11430.07,
-   "c": -0.41,
-   "d": -47.33,
+   "p": 11400.09,
+   "c": -0.67,
+   "d": -77.31,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 63814,
-   "c": 0.95,
+   "p": 62873,
+   "c": -0.45,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1806.53,
-   "c": 2.43,
+   "p": 1775.44,
+   "c": 0.63,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 75.2,
-   "c": 2.07,
+   "p": 73.57,
+   "c": 0.36,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.991905,
-   "c": 1.18,
+   "p": 0.969009,
+   "c": -0.67,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 591.86,
-   "c": 1.19,
+   "p": 585.17,
+   "c": 0.43,
    "k": "usd"
   }
  ],
@@ -481,16 +481,6 @@
    "reading": null
   },
   {
-   "title": "Mortgage Delinquencies",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "4.37%",
-   "actual": "",
-   "ts": 1795101300000,
-   "tr": "Per 19.11 18:15",
-   "reading": null
-  },
-  {
    "title": "Natural Gas Storage",
    "impact": "Low",
    "forecast": "25B",
@@ -498,6 +488,16 @@
    "actual": "",
    "ts": 1795102200000,
    "tr": "Per 19.11 18:30",
+   "reading": null
+  },
+  {
+   "title": "Mortgage Delinquencies",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "4.37%",
+   "actual": "",
+   "ts": 1795105800000,
+   "tr": "Per 19.11 19:30",
    "reading": null
   },
   {
@@ -584,83 +584,40 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Anthropic IPO Said to Give Nothing to Most Institutional Buyers",
-    "tt": "Antropik Halka Arzın Çoğu Kurumsal Alıcıya Hiçbir Şey Vermeyeceği Söylendi",
-    "s": "Anthropic PBC’s initial public offering left more than half of the institutional investors bidding for stock without any shares, according to people familiar with the matter.",
-    "ss": "Konuya aşina kaynaklara göre, Antropik PBC'nin ilk halka arzı, kurumsal yatırımcıların yarısından fazlasının hisse senedi olmadan hisse senedi teklifinde bulunmasına neden oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers",
-    "ts": 1795098954000,
+    "t": "Anthropic Shares Indicated to Open 25% Above IPO",
+    "tt": "Halka Arzın %25 Üzerinde Açılacağı Belirlenen Antropik Hisseler",
+    "s": "Anthropic shares are set to soar when they start trading on Thursday, after the AI lab’s $107.3 billion IPO and private placement broke SpaceX’s record for the biggest-ever offering. The company behind the Claude chatbot and its seven co-founders raised $81.3 billion in an IPO priced above range, to",
+    "ss": "Yapay zeka laboratuvarının 107,3 ​​milyar dolarlık halka arzının ve özel yerleştirmenin SpaceX'in şimdiye kadarki en büyük arz rekorunu kırmasının ardından, Perşembe günü işlem görmeye başladığında antropik hisseler hızla yükselecek. Claude chatbot'un arkasındaki şirket ve yedi kurucu ortağı, aralığın üzerinde bir fiyatla halka arzdan 81,3 milyar dolar topladı.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-indicated-to-open-25-above-ipo-video",
+    "ts": 1795102982000,
     "tags": []
    },
    {
-    "t": "US Initial Jobless Claims Unexpectedly Rise by 1,000",
-    "tt": "ABD'de İlk İşsizlik Başvuruları Beklenmedik Bir Şekilde 1.000 Arttı",
-    "s": "Initial jobless claims in the US rose by 1,000 to 203,000 in the week ending November 14 compared with the median estimate of 198,000. Bloomberg's Enda Curran reports. (Source: Bloomberg)",
-    "ss": "ABD'de ilk işsizlik başvuruları 14 Kasım'da sona eren haftada 198.000 olan ortalama tahmine kıyasla 1.000 artarak 203.000'e yükseldi. Bloomberg'den Enda Curran bildiriyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/us-initial-jobless-claims-unexpectedly-rise-by-1-000-video",
-    "ts": 1795098952000,
-    "tags": []
-   },
-   {
-    "t": "Tech Stocks Rally as Anthropic IPO Fuels AI Trade: Markets Wrap",
+    "t": "Stocks Fall as AI Bets Wane Before Anthropic Debut: Markets Wrap",
     "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "Wall Street investors gearing up for Anthropic PBC’s debut sent stocks higher as a record initial public offering revived enthusiasm for the artificial-intelligence trade.",
+    "s": "A rally in stocks fizzled out as Anthropic PBC’s record initial public offering failed to sustain enthusiasm for the artificial-intelligence trade.",
     "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
     "ts": 1795039661000,
     "tags": []
    },
    {
-    "t": "Kalshi, Novig Asks States to Help Bar Problem Gamblers From Prediction Markets",
-    "tt": "Kalshi ve Novig, Eyaletlerden Sorunlu Kumarbazların Tahmin Piyasalarından Uzaklaştırılmasına Yardım İstedi",
-    "s": "Even as Kalshi Inc. is fighting dozens of states in court, the prediction market platform is asking the states to help it deal with problem gamblers who want to place wagers on the exchange.",
-    "ss": "Kalshi Inc. düzinelerce eyaletle mahkemede mücadele ederken, tahmin piyasası platformu eyaletlerden borsada bahis oynamak isteyen sorunlu kumarbazlarla başa çıkmalarına yardımcı olmalarını istiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/kalshi-novig-asks-states-to-help-bar-problem-gamblers-from-prediction-markets",
-    "ts": 1795098601000,
+    "t": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
+    "tt": "Gabon, Denetimin Borcunu Azalttığını Gösterdikten Sonra Gelecek Ay IMF Anlaşması İstiyor",
+    "s": "Gabon expects to reach a deal with the International Monetary Fund for a new program by next month and is paying off some arrears as it waits for the fund’s sign-off on a debt audit.",
+    "ss": "Gabon, gelecek aya kadar Uluslararası Para Fonu ile yeni bir program için anlaşmaya varmayı bekliyor ve fonun borç denetimi onayını beklerken bazı borçlarını ödüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gabon-seeks-imf-deal-next-month-after-audit-shows-lower-debt",
+    "ts": 1795089503000,
     "tags": []
    },
    {
-    "t": "Senado aprova fiscal em meio a pressões nos ativos",
-    "tt": "Senato, daha fazla faaliyet için mali durumu onayladı",
-    "s": "Daniel Carvalho fala sobre a aprovação do plano fiscal do governo Lula em meio a pressão nos ativos. Com produção de Daniel Carvalho e edição de Patrícia Xavier. (Source: Bloomberg)",
-    "ss": "Daniel Carvalho, bir baskıyla Lula hükümetinin mali planına onay verdi. Yapımcılığını Daniel Carvalho'nun ve editörlüğünü Patricia Xavier'in üstlendiği. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/senado-aprova-fiscal-em-meio-a-pressoes-nos-ativos-video",
-    "ts": 1795097950000,
+    "t": "Anthropic Set for Historic Debut on the Nasdaq",
+    "tt": "Nasdaq'ta Tarihi İlk Çıkış İçin Antropik Set",
+    "s": "Anthropic is set to be the biggest IPO of all time. The opening share price keeps rising. The IPO price was $83 per share. Bloomberg's Ryan Gould and Mandeep Singh of Bloomberg Intelligence set the stage for us. (Source: Bloomberg)",
+    "ss": "Anthropic tüm zamanların en büyük halka arzı olacak. Açılış hisse fiyatı yükselmeye devam ediyor. Halka arz fiyatı hisse başına 83 dolardı. Bloomberg'den Ryan Gould ve Bloomberg Intelligence'tan Mandeep Singh bizim için sahneyi hazırladı. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
+    "ts": 1795102466000,
     "tags": []
-   },
-   {
-    "t": "India Customs Dispute Holds Up $66 Million of Scotch Whisky",
-    "tt": "Hindistan Gümrük Anlaşmazlığı 66 Milyon Dolarlık İskoç Viskisini Engelledi",
-    "s": "Indian customs authorities are holding up bulk Scotch whisky shipments worth more than £50 million ($65.8 million) at various ports over an import duty dispute, said a person familiar with the matter.",
-    "ss": "Konuya yakın bir kaynak, Hint gümrük yetkililerinin, ithalat vergisi anlaşmazlığı nedeniyle çeşitli limanlarda değeri 50 milyon £'dan (65,8 milyon $) fazla olan toplu İskoç viskisi sevkiyatını durdurduğunu söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/india-customs-dispute-holds-up-66-million-of-scotch-whisky",
-    "ts": 1795095934000,
-    "tags": []
-   },
-   {
-    "t": "Ninety One’s Cheveley Sees Commodities Rebound on Supply Woes",
-    "tt": "Ninety One'dan Cheveley, Arz Sıkıntıları Nedeniyle Emtiaların Yükselişini Görüyor",
-    "s": "Ninety One portfolio manager George Cheveley is betting on a rebound in commodities over the next year as continued disruptions to global supply chains keep oil and fertilizer markets tight, while gold remains supported by central bank buying.",
-    "ss": "Ninety One portföy yöneticisi George Cheveley, küresel tedarik zincirlerinde devam eden aksaklıkların petrol ve gübre piyasalarını sıkı tutması ve altının merkez bankası alımlarıyla desteklenmesi nedeniyle emtialarda gelecek yıl toparlanma olacağı yönünde bahis oynuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/ninety-one-s-cheveley-sees-commodities-rebound-on-supply-woes",
-    "ts": 1795095883000,
-    "tags": [
-     "Altın ▲"
-    ]
-   },
-   {
-    "t": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
-    "tt": "Petrol Fiyatları Düşerken İran Hürmüz Tankerine Saldırılarını Yoğunlaştırıyor",
-    "s": "Iran’s attacks on oil tankers crossing the crucial Strait of Hormuz are getting more intense, just as prices have tumbled due to a flood of supply from the Middle East.",
-    "ss": "Ortadoğu'dan gelen petrol arzı nedeniyle fiyatlar düşerken, İran'ın kritik önem taşıyan Hürmüz Boğazı'ndan geçen petrol tankerlerine yönelik saldırıları da daha da yoğunlaşıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide",
-    "ts": 1795094939000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
    },
    {
     "t": "Latest Oil Market News and Analysis for Nov. 19",
@@ -677,12 +634,54 @@
     ]
    },
    {
-    "t": "Argentina’s $24 Billion LNG Dream Bets On Milei's Model Enduring",
-    "tt": "Arjantin'in 24 Milyar Dolarlık LNG Rüyası, Milei'nin Kalıcı Modeline Bahis Oldu",
-    "s": "Argentina is trying to push through one of the biggest energy investments ever in Latin America. The $24 billion plan to produce vast quantities of liquefied shale gas is a key part of efforts to turn Argentina into a significant world supplier. But while locals hope for enduring prosperity, fears l",
-    "ss": "Arjantin, Latin Amerika'da şimdiye kadarki en büyük enerji yatırımlarından birini gerçekleştirmeye çalışıyor. Büyük miktarlarda sıvılaştırılmış kaya gazı üretmeye yönelik 24 milyar dolarlık plan, Arjantin'i önemli bir dünya tedarikçisine dönüştürme çabalarının önemli bir parçası. Ancak yerel halk kalıcı bir refah umut ederken,",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/argentina-s-24-billion-lng-dream-bets-on-milei-s-model-enduring",
-    "ts": 1795094145000,
+    "t": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets",
+    "tt": "Meksika Pezosu, Fed Görünümünün Piyasaları Sarsmasıyla 17 Ayın En Düşük Seviyesinde",
+    "s": "The Mexican peso sank past the 19-per-dollar mark to its lowest in over a year, as the prospect of further Federal Reserve tightening intensified a selloff fueled by Mexico’s dovish monetary stance.",
+    "ss": "Meksika pesosu, Fed'in daha fazla sıkılaştırma yapması ihtimalinin Meksika'nın güvercin parasal duruşunun körüklediği satışları yoğunlaştırmasıyla dolar başına 19 seviyesini aşarak bir yılın en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
+    "ts": 1795102446000,
+    "tags": [
+     "DXY ▼",
+     "Altın ▲",
+     "Gümüş ▲",
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Anthropic Poised to Surge After $107.3 Billion IPO Tops SpaceX",
+    "tt": "Antropik, SpaceX'in 107,3 ​​Milyar Dolarlık Halka Arzından Sonra Artmaya Hazır",
+    "s": "Anthropic PBC shares are set to soar when they start trading on Thursday, after the artificial intelligence lab’s $107.3 billion IPO and private placement broke SpaceX’s record for the biggest-ever offering.",
+    "ss": "Antropik PBC hisseleri, yapay zeka laboratuvarının 107,3 ​​milyar dolarlık halka arzının ve özel yerleştirmenin SpaceX'in bugüne kadarki en büyük arz rekorunu kırmasının ardından Perşembe günü işlem görmeye başladığında yükselişe geçecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
+    "ts": 1795099974000,
+    "tags": []
+   },
+   {
+    "t": "Sanofi Weighs Takeover of US Drugmaker Insmed",
+    "tt": "Sanofi, ABD'li İlaç Üreticisi Insmed'i Satın Almayı Tartıyor",
+    "s": "Sanofi SA is weighing an acquisition of US drugmaker Insmed Inc., people familiar with the matter said, in what would be the largest biopharma deal in years.",
+    "ss": "Konuya aşina olan kişilerin söylediğine göre, Sanofi SA, son yılların en büyük biyofarma anlaşması olacak ABD'li ilaç üreticisi Insmed Inc.'i satın almayı değerlendiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed",
+    "ts": 1795100737000,
+    "tags": []
+   },
+   {
+    "t": "Investec Retreats as UK Costs Offset First-Half Profit Gains",
+    "tt": "Investec, İngiltere'deki Maliyetlerin İlk Yarı Kâr Kazançlarını Dengelemesi Nedeniyle Geri Çekildi",
+    "s": "Investec fell to an eight-month low after first-half results showed rising costs and weaker profitability in the lender’s British business.",
+    "ss": "Investec, ilk yarı sonuçlarının borç verenin Britanya işlerinde maliyetlerin arttığını ve kârlılığın azaldığını göstermesinin ardından sekiz ayın en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/investec-profit-climbs-as-south-africa-unit-offsets-uk-weakness",
+    "ts": 1795072956000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic IPO Allocates Nothing to Most Institutional Orders",
+    "tt": "Antropik Halka Arzın Çoğu Kurumsal Alıcıya Hiçbir Şey Vermeyeceği Söylendi",
+    "s": "Anthropic PBC’s initial public offering left more than half of the institutional investors bidding for stock without any shares, according to people familiar with the matter.",
+    "ss": "Konuya aşina kaynaklara göre, Antropik PBC'nin ilk halka arzı, kurumsal yatırımcıların yarısından fazlasının hisse senedi olmadan hisse senedi teklifinde bulunmasına neden oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers",
+    "ts": 1795098954000,
     "tags": []
    }
   ],
@@ -792,6 +791,51 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘Buyers are out for blood’ as housing market finally hits rock bottom",
+    "tt": "Konut piyasası nihayet dibe vururken 'alıcılar kan peşinde'",
+    "s": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+    "ss": "Emlakçılar, rekor yüksek ev fiyatlarına ve yüzde 7'lik konut kredisi oranlarına göğüs gererek piyasada kalan az sayıda alıcının kararları almaya başladığını söylüyor.",
+    "u": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+    "ts": 1795102680000,
+    "tags": []
+   },
+   {
+    "t": "Why are these tech outages rattling Americans so much that they’re stockpiling cash and supplies?",
+    "tt": "Bu teknoloji kesintileri Amerikalıları neden bu kadar rahatsız ediyor ki nakit ve malzeme stokluyorlar?",
+    "s": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+    "ss": "Dünya liderlerinin netlik eksikliği, bazı insanları en kötüsüne hazırlanmaya sevk ediyor.",
+    "u": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+    "ts": 1795102440000,
+    "tags": []
+   },
+   {
+    "t": "Trump says Americans should ‘relax’ as Washington scrambles to get to the bottom of outages",
+    "tt": "Trump, Washington kesintilerin temeline inmeye çalışırken Amerikalıların 'rahatlaması' gerektiğini söyledi",
+    "s": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
+    "ss": "Trump yönetimi ve Kongre, geçtiğimiz hafta ABD'yi vuran bir dizi teknoloji başarısızlığını ele almak için acele ederken, Başkan Yardımcısı J.D. Vance, konuyla ilgili toplantılara katılmak üzere Çarşamba günü düzenlenen bir etkinlikten çekildi.",
+    "u": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+    "ts": 1795100460000,
+    "tags": []
+   },
+   {
+    "t": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
+    "tt": "Micron, Intel ve diğer AI hisseleri Perşembe günü neden yükselişe geçiyor?",
+    "s": "Anthropic’s IPO is one big reason — but there’s also optimism about Texas’s data-center landscape and a new buyback program from optical company Coherent.",
+    "ss": "Anthropic'in halka arzı büyük bir neden; ancak Teksas'ın veri merkezi ortamı ve optik şirketi Coherent'in yeni geri satın alma programı hakkında da iyimserlik var.",
+    "u": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+    "ts": 1795099920000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+    "tt": "Antropik 401(k)'nize geliyor. Sevin ya da nefret edin, yapay zeka finansal planınızın daha büyük bir parçası haline geliyor.",
+    "s": "A number of public pension plans already have a stake in Anthropic.",
+    "ss": "Bir dizi kamu emeklilik planının hâlihazırda Anthropic'te payı var.",
+    "u": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+    "ts": 1795099680000,
+    "tags": []
+   },
+   {
     "t": "Sandisk’s stock split is almost here. This is what investors need to know.",
     "tt": "Sandisk'in hisselerinin bölünmesi neredeyse yaklaşıyor. Yatırımcıların bilmesi gereken şey bu.",
     "s": "Sandisk is due to split its stock after Thursday’s close, and while the move has gotten some buzz, it won’t alter the fundamental picture for shareholders of the memory-chip company.",
@@ -819,7 +863,7 @@
     "tags": []
    },
    {
-    "t": "My wife pays thousands for her family to visit us in New York. How can I ask her to choose between them and me?",
+    "t": "My wife pays for her family to visit us in New York. I don’t want to make this a choice between them and me.",
     "tt": "Eşim, ailesinin New York'ta bizi ziyaret etmesi için binlerce para ödüyor. Ondan onlarla benim aramda seçim yapmasını nasıl isteyebilirim?",
     "s": "“Hotel rooms can cost as much as $400 per night.”",
     "ss": "“Otel odalarının gecelik maliyeti 400 dolara kadar çıkabiliyor.”",
@@ -835,54 +879,72 @@
     "u": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
     "ts": 1795097460000,
     "tags": []
-   },
-   {
-    "t": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
-    "tt": "Alibaba'nın bulut işi gelişiyor. Ancak bu karlar, yapay zeka laboratuvarlarından kaynaklanan zararlarla tamamen dengeleniyor.",
-    "s": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
-    "ss": "Çinli internet devi Alibaba'nın bulut hizmetleri işi gelişiyor ancak yapay zeka laboratuvarları işinden kaynaklanan kayıplar bunu tamamen telafi ediyor.",
-    "u": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-    "ts": 1795096500000,
-    "tags": []
-   },
-   {
-    "t": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
-    "tt": "Sosyal Güvenlik bir saadet zinciri midir? Hayır ama korku bu tür konuşmaları körüklüyor.",
-    "s": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-    "ss": "Wisconsin Cumhuriyetçi Senatörü Ron Johnson, Sosyal Güvenliği bir \"dolandırıcılık\" olarak nitelendirdi ve milletvekillerini bu sistemi kapatmaya çağırdı.",
-    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "ts": 1795095960000,
-    "tags": []
-   },
-   {
-    "t": "If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays",
-    "tt": "Barclays, yapay zeka ticaretinin gevşemesi durumunda ABD ekonomisini ayakta tutan diğer sütunların \"önemsiz\" olacağını söylüyor",
-    "s": "The bank does not hold that the artificial-intelligence trade is collapsing, viewing today’s slowdown as a correction that can selectively be bought into.",
-    "ss": "Banka, yapay zeka ticaretinin çökmekte olduğunu düşünmüyor ve bugünkü yavaşlamayı seçici olarak satın alınabilecek bir düzeltme olarak görüyor.",
-    "u": "https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories",
-    "ts": 1795092300000,
-    "tags": []
-   },
-   {
-    "t": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-    "tt": "Palo Alto Networks'ün hisseleri, kazançların yapay zekanın siber güvenlik açısından riskleri artırdığını göstermesiyle yükseldi",
-    "s": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-    "ss": "Şirket, \"mevcut tehdit ortamı ve önümüzde gördüğümüz talep\" karşısında görünümünü güçlendiriyor.",
-    "u": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-    "ts": 1795091640000,
-    "tags": []
-   },
-   {
-    "t": "Here’s the precise moment when cyberattacks started to increase exponentially",
-    "tt": "İşte siber saldırıların katlanarak artmaya başladığı tam an",
-    "s": "One of the world’s top hedge funds is linking the surge to the release of one AI large language model.",
-    "ss": "Dünyanın en büyük hedge fonlarından biri, siber olayların artmaya başladığı anı tam olarak belirledi.",
-    "u": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
-    "ts": 1795091400000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"Today Feels Important...\": US Equity Indices Plunge As Anthropic Open Looms",
+    "tt": "\"Bugün Önemli Hissediyor...\": ABD Hisse Senedi Endeksleri Antropik Açık Belirdikçe Düşüyor",
+    "s": "\"Today Feels Important...\": US Equity Indices Plunge As Anthropic Open Looms Update (1045ET): Unfortunately for Goldman's Rich Privorotsky, the early squeeze in stocks has faded very rapidly. As the indicative price for Anthropic's IPO open increases (latest around $105 from $83 IPO), so the US Majo",
+    "ss": "\"Bugün Önemli Hissediyor...\": ABD Hisse Senedi Endeksleri, Antropik Açık Belirti Güncellemesi (1045ET) Olarak Düştü: Ne yazık ki Goldman'dan Rich Privorotsky için, hisse senetlerindeki erken sıkışma çok hızlı bir şekilde azaldı. Anthropic'in halka arz açık göstergesi fiyatı arttıkça (en son halka arz 83 dolardan 105 dolar civarında), ABD Majo",
+    "u": "https://www.zerohedge.com/markets/hedge-funds-are-massively-underweight-tech-anthropic-day-goldmans-privorotsky-smells",
+    "ts": 1795103400000,
+    "tags": []
+   },
+   {
+    "t": "FAA Administrator Takes Blame For Nationwide Ground Stop",
+    "tt": "FAA Yöneticisi Ülke Çapında Durdurmanın Suçunu Üstlendi",
+    "s": "FAA Administrator Takes Blame For Nationwide Ground Stop Authored by Jacob Burg via The Epoch Times , The chief of the Federal Aviation Administration (FAA) took the fall for last week's nationwide ground stop on Nov. 18, urging the public to blame him instead of Transportation Secretary Sean Duffy.",
+    "ss": "FAA Yöneticisi, Ülke Çapında Yer Durdurması İçin Suçu Üstlendi Jacob Burg tarafından The Epoch Times aracılığıyla, Federal Havacılık İdaresi (FAA) şefi, geçen hafta 18 Kasım'da ülke çapındaki yer durağının suçunu üstlendi ve halkı Ulaştırma Bakanı Sean Duffy yerine onu suçlamaya çağırdı.",
+    "u": "https://www.zerohedge.com/political/faa-administrator-takes-blame-nationwide-ground-stop",
+    "ts": 1795103100000,
+    "tags": []
+   },
+   {
+    "t": "Hackers Just Exposed Some Of JPMorgan's Richest Customers",
+    "tt": "Bilgisayar korsanları JPMorgan'ın en zengin müşterilerinden bazılarını açığa çıkardı",
+    "s": "Hackers Just Exposed Some Of JPMorgan's Richest Customers A ransomware gang calling itself n0n has published roughly 16,000 customer email addresses in a dataset apparently linked to JPMorgan Chase's invitation-only Reserve card program , according to Cybernews , whose researchers examined the relea",
+    "ss": "Bilgisayar korsanları, JPMorgan'ın En Zengin Müşterilerinden Bazılarını İfşa Etti Kendisine n0n adını veren bir fidye yazılımı çetesi, araştırmacıları bu açıklamayı inceleyen Cybernews'e göre, görünüşe göre JPMorgan Chase'in yalnızca davetli Rezerv kartı programına bağlı bir veri kümesinde yaklaşık 16.000 müşteri e-posta adresi yayınladı.",
+    "u": "https://www.zerohedge.com/technology/hackers-just-exposed-some-jpmorgans-richest-customers",
+    "ts": 1795102200000,
+    "tags": []
+   },
+   {
+    "t": "Trump Warmly Greets 'My Friend' Putin, Who Says Ukraine Not Interested In Peace",
+    "tt": "Trump, Ukrayna'nın Barışla İlgilenmediğini Söyleyen 'Arkadaşım' Putin'i Sıcak Bir Şekilde Karşıladı",
+    "s": "Trump Warmly Greets 'My Friend' Putin, Who Says Ukraine Not Interested In Peace President Vladimir Putin is in China meeting with Trump and Xi for their history-making trilateral summit, but while there was treated to reports of multiple Ukranainian strike waves on the strategic Crimean bridge this ",
+    "ss": "Trump, Ukrayna'nın Barışla İlgilenmediğini Söyleyen 'Arkadaşım' Putin'i Sıcak Bir Şekilde Karşıladı Başkan Vladimir Putin, tarih yazan üçlü zirve için Trump ve Xi ile Çin'de buluşuyor, ancak Ukrayna'nın stratejik Kırım köprüsüne birden fazla saldırı dalgasıyla ilgili raporlar mevcutken, bu durum",
+    "u": "https://www.zerohedge.com/geopolitical/trump-warmly-greets-my-friend-putin-who-says-ukraine-not-interested-peace-or",
+    "ts": 1795101300000,
+    "tags": []
+   },
+   {
+    "t": "Rebellion Against Jeffries Disintegrates In Landslide Speaker Nomination: Will The Same Happen With Schumer?",
+    "tt": "Jeffries'e Karşı İsyan, Heyelan Konuşmacı Adaylığında Dağılıyor: Aynısı Schumer İçin de Olacak mı?",
+    "s": "Rebellion Against Jeffries Disintegrates In Landslide Speaker Nomination: Will The Same Happen With Schumer? Two weeks of post-midterm histrionics about a rebellion against House Democratic Party leader Hakeem Jeffries evaporated on Wednesday, as the New Yorker won the House speaker nomination in a ",
+    "ss": "Jeffries'e Karşı İsyan, Heyelan Konuşmacı Adaylığında Dağılıyor: Aynısı Schumer İçin de Olacak mı? Temsilciler Meclisi Demokrat Parti lideri Hakeem Jeffries'e karşı bir isyanla ilgili iki hafta ara sınav sonrası histrioniklik, Çarşamba günü New Yorker'ın Temsilciler Meclisi sözcüsü adaylığını kazanmasıyla buharlaştı.",
+    "u": "https://www.zerohedge.com/political/rebellion-against-jeffries-disintegrates-landslide-speaker-nomination-will-same-happen",
+    "ts": 1795100700000,
+    "tags": []
+   },
+   {
+    "t": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO?",
+    "tt": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi?",
+    "s": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO? Summary: ANT IPO Could Begin Trading At 10 ET, But May Trade Late Morning Or Early Afternoon Anthropic-Linked Perpetual Futs On Hyperliquid $104 Anthropic IPO Prices At $83 , Raises A Record $107 Billion Update BBG: ANTHROPIC IPO SAI",
+    "ss": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi? Özet: ANT Halka Arzı 10 ET'den İşleme Başlayabilir, Ancak Sabah Geç Saatlerde veya Öğleden Sonra Erken İşlem Yapabilir Hyperliquid'de Antropik Bağlantılı Sürekli Futlar 104 Dolarlık Antropik Halka Arz Fiyatları 83 Dolar ile Rekor 107 Milyar Dolarlık Güncelleme Artırdı BBG: ANTHROPIC IPO SAI",
+    "u": "https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor",
+    "ts": 1795099800000,
+    "tags": []
+   },
+   {
+    "t": "UK Govt Asks Google To Silence Russell Brand After \"Appalling\" Prison Message",
+    "tt": "Birleşik Krallık Hükümeti, \"Korkunç\" Hapishane Mesajından Sonra Google'dan Russell Brand'in Susturulmasını İstedi",
+    "s": "UK Govt Asks Google To Silence Russell Brand After \"Appalling\" Prison Message The UK government has asked Google to take down Russell Brand's YouTube channel , three days after his wife read out a message from him in prison on it. A justice minister met with representatives of Google, which owns You",
+    "ss": "Birleşik Krallık Hükümeti Google'dan Russell Brand'in \"Korkunç\" Cezaevi Mesajından Sonra Susturulmasını İstedi Birleşik Krallık hükümeti, eşinin hapishanede kendisinden gelen bir mesajı okumasından üç gün sonra Google'dan Russell Brand'in YouTube kanalını kapatmasını istedi. Bir adalet bakanı, You'nun sahibi olan Google'ın temsilcileriyle görüştü",
+    "u": "https://www.zerohedge.com/geopolitical/uk-govt-asks-google-silence-russell-brand-after-appalling-prison-message",
+    "ts": 1795098900000,
+    "tags": []
+   },
    {
     "t": "Minnesota's New Somali-Born Democrat Lawmaker Has A Wife Problem",
     "tt": "Minnesota'nın Yeni Somali Doğumlu Demokrat Milletvekilinin Eş Sorunu Var",
@@ -909,72 +971,18 @@
     "u": "https://www.zerohedge.com/geopolitical/denmark-unanimously-ratifies-trumps-greenland-deal-opening-door-golden-dome",
     "ts": 1795098000000,
     "tags": []
-   },
-   {
-    "t": "Days-Long Strike Campaign On Table As Trump Links Iran To Chemical, Biological Weapons",
-    "tt": "Trump İran'ı Kimyasal ve Biyolojik Silahlarla Bağlantılandırırken Günlerce Süren Grev Kampanyası Masada",
-    "s": "Days-Long Strike Campaign On Table As Trump Links Iran To Chemical, Biological Weapons After the whole CNN 'dirty bombs' and 'chemical weapons' in DC reporting this week, which was based on the usual cast of 'anonymous intelligence' officials, President Trump has given these dubious claims new life ",
-    "ss": "Trump İran'ı Kimyasal, Biyolojik Silahlarla Bağlantılandırırken Günler Boyu Grev Kampanyası Masada Bu hafta DC'de yayınlanan ve 'anonim istihbarat' yetkililerinin olağan kadrosuna dayanan tüm CNN 'kirli bombalar' ve 'kimyasal silahlar' haberinden sonra, Başkan Trump bu şüpheli iddialara yeni bir hayat verdi.",
-    "u": "https://www.zerohedge.com/geopolitical/days-long-strike-campaign-table-trump-links-iran-chemical-biological-weapons",
-    "ts": 1795097100000,
-    "tags": []
-   },
-   {
-    "t": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO?",
-    "tt": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi?",
-    "s": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO? Summary: ANT IPO Could Begin Trading At 10 ET, But May Trade Late Morning Or Early Afternoon Anthropic-Linked Perpetual Futs On Hyperliquid $104 Anthropic IPO Prices At $83 , Raises A Record $107 Billion Update BBG: ANTHROPIC IPO SAI",
-    "ss": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi? Özet: ANT Halka Arzı 10 ET'den İşleme Başlayabilir, Ancak Sabah Geç Saatlerde veya Öğleden Sonra Erken İşlem Yapabilir Hyperliquid'de Antropik Bağlantılı Sürekli Futlar 104 Dolarlık Antropik Halka Arz Fiyatları 83 Dolar ile Rekor 107 Milyar Dolarlık Güncelleme Artırdı BBG: ANTHROPIC IPO SAI",
-    "u": "https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor",
-    "ts": 1795096800000,
-    "tags": []
-   },
-   {
-    "t": "Continuing Jobless Claims Unexpectedly Jump As 'Low Hire, Low Fire, Low Inspire' Economy Rolls On",
-    "tt": "'Düşük İşe Alma, Düşük Ateş, Düşük İlham' Ekonomisi Devam Ederken Devam Eden İşsizlik Başvuruları Beklenmedik Bir Şekilde Yükseliyor",
-    "s": "Continuing Jobless Claims Unexpectedly Jump As 'Low Hire, Low Fire, Low Inspire' Economy Rolls On Last week we called it the labor market's trilemma: claims at 57-year lows, sentiment near record lows and a hires rate stuck at 3.4% (Nov 12). This morning the \"low fire\" leg finally blinked. Not by mu",
-    "ss": "'Düşük İşe Alma, Düşük Ateş, Düşük İlham' Ekonomisi Devam Ederken Devam Eden İşsizlik Başvuruları Beklenmedik Bir Şekilde Sıçrayıyor Geçen hafta buna işgücü piyasasının üçlemi adını verdik: başvurular 57 yılın en düşük seviyelerinde, duyarlılık rekor düşük seviyelere yakın ve işe alım oranı %3,4'te kaldı (12 Kasım). Bu sabah \"düşük ateş\" bacağı nihayet göz kırptı. benim tarafımdan değil",
-    "u": "https://www.zerohedge.com/personal-finance/continuing-jobless-claims-unexpectedly-jump-low-hire-low-fire-low-inspire-economy",
-    "ts": 1795096500000,
-    "tags": []
-   },
-   {
-    "t": "Walmart Finally Gets A Break: Comps Bounce, Guidance Raised For Third Time As The Wealthy Keep Hunting For Deals",
-    "tt": "Walmart Sonunda Mola Verdi: Zenginler Fırsat Armaya Devam Ederken Ücretler Yükseldi, Rehberlik Üçüncü Kez Yükseltildi",
-    "s": "Walmart Finally Gets A Break: Comps Bounce, Guidance Raised For Third Time As The Wealthy Keep Hunting For Deals After two straight quarters in which Walmart's earnings day turned into a bloodbath, the world's largest retailer finally gets to enjoy a green morning. Recall that in May, the stock tumb",
-    "ss": "Walmart Sonunda Mola Verdi: Zenginler Anlaşma Ararken Yönlendirmeler Üçüncü Kez Yükseldi Walmart'ın kazanç gününün kan gölüne döndüğü iki çeyreğin ardından, dünyanın en büyük perakendecisi nihayet yeşil bir sabahın tadını çıkarıyor. Mayıs ayında borsanın düştüğünü hatırlayın",
-    "u": "https://www.zerohedge.com/markets/walmart-finally-gets-break-comps-bounce-guidance-raised-third-time-wealthy-keep-hunting",
-    "ts": 1795096290000,
-    "tags": []
-   },
-   {
-    "t": "Crimean Bridge Attacked For Third Time In A Week, As Russia Initiates Revenge Strikes On Ukraine",
-    "tt": "Rusya Ukrayna'ya İntikam Saldırısı Başlatırken Kırım Köprüsü Bir Haftada Üçüncü Kez Saldırıya Uğradı",
-    "s": "Crimean Bridge Attacked For Third Time In A Week, As Russia Initiates Revenge Strikes On Ukraine The Crimean bridge has come under yet another attack overnight, which marks the third Ukrainian assault on the key structure in the past week . It was initially hit in a major surprise attack wave early ",
-    "ss": "Rusya, Ukrayna'ya İntikam Saldırıları Başlatırken Kırım Köprüsü Bir Haftada Üçüncü Kez Saldırıya Uğradı Kırım köprüsü, geçtiğimiz hafta kilit yapıya yönelik Ukrayna'nın üçüncü saldırısına işaret eden bir gecede başka bir saldırıya uğradı. Başlangıçta büyük bir sürpriz saldırı dalgasıyla erken vuruldu",
-    "u": "https://www.zerohedge.com/geopolitical/crimean-bridge-attacked-3rd-time-week-russia-initiates-revenge-strikes-ukraine",
-    "ts": 1795095900000,
-    "tags": []
-   },
-   {
-    "t": "\"Little Or No Warning\": US Embassies Across Europe Issue Holiday Terror Alert",
-    "tt": "\"Çok Az veya Hiç Uyarı Yok\": Avrupa'daki ABD Büyükelçilikleri Tatilde Terör Uyarısı Yayınladı",
-    "s": "\"Little Or No Warning\": US Embassies Across Europe Issue Holiday Terror Alert Authored by Kimberly Hayek via The Epoch Times , U.S. embassies in Madrid; Berlin; Pristina, Kosovo; and Tallinn, Estonia, have posted matching security alerts urging Americans across Europe to stay alert as holiday crowds",
-    "ss": "\"Çok Az Uyarı Veya Hiç Uyarı Yok\": Avrupa'daki ABD Elçilikleri Tatilde Terör Uyarısı Yayınlıyor Kimberly Hayek tarafından The Epoch Times aracılığıyla yazılmıştır; Madrid'deki ABD büyükelçilikleri; Berlin; Priştine, Kosova; ve Estonya'nın Tallinn kenti, Avrupa çapındaki Amerikalıları tatil kalabalıkları nedeniyle tetikte olmaya çağıran eşleşen güvenlik uyarıları yayınladı",
-    "u": "https://www.zerohedge.com/geopolitical/little-or-no-warning-us-embassies-across-europe-issue-holiday-terror-alert",
-    "ts": 1795095000000,
-    "tags": []
-   },
-   {
-    "t": "\"Windows Blown Out\": PIF Skyscraper In Riyadh Reportedly Damaged Amid Houthi Attacks",
-    "tt": "\"Pencereler Patladı\": Riyad'daki PIF Gökdeleninin Husi Saldırıları Sırasında Hasar Gördüğü Bildirildi",
-    "s": "\"Windows Blown Out\": PIF Skyscraper In Riyadh Reportedly Damaged Amid Houthi Attacks Yemen's Iran-backed Houthi rebels launched another missile or drone attack toward Riyadh on Thursday, with witnesses reporting damage to the Public Investment Fund Tower , home to the kingdom's massive sovereign wea",
-    "ss": "\"Pencereler Patladı\": Riyad'daki PIF Gökdeleninin Husi Saldırıları Sırasında Hasar Gördüğü Bildirildi Yemen'in İran destekli Husi isyancıları Perşembe günü Riyad'a başka bir füze veya insansız hava aracı saldırısı düzenledi; görgü tanıkları, krallığın devasa egemenlik gücüne ev sahipliği yapan Kamu Yatırım Fonu Kulesi'nin hasar gördüğünü bildirdi.",
-    "u": "https://www.zerohedge.com/geopolitical/windows-blown-out-pif-skyscraper-riyadh-reportedly-damaged-amid-houthi-attacks",
-    "ts": 1795094100000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "JPMorgan'a hizmet veren şirketlere siber saldırı",
+    "tt": null,
+    "s": "JPMorgan Chase, bankaya hizmet veren şirketlerin siber saldırıya uğradığını ve bazı müşterilerin adları ile e-posta adreslerine erişilmiş olabileceğini açıkladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/jpmorgan-a-hizmet-veren-sirketlere-siber-saldiri-3795177",
+    "ts": 1795102997000,
+    "tags": []
+   },
    {
     "t": "Türkiye 10 yıllık tahvil getirisi rekor seviyeye yükseldi",
     "tt": null,
@@ -1054,15 +1062,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/hazine-nin-esg-tahviline-uc-kata-yakin-talep-geldi-3795103",
     "ts": 1795081223000,
-    "tags": []
-   },
-   {
-    "t": "FAO: Küresel tahıl stokları 2027'de yüzde 1,8 artacak",
-    "tt": null,
-    "s": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), küresel tahıl stoklarının 2027'de yüzde 1,8 artmasını, dünya tahıl ticaretinin ise 2026/2027 sezonunda yüzde 3,3 daralmasını bekliyor. Raporda, pirinç, şeker ve bitkisel yağ piyasalarında arz-talep dengesinin sıkılaşacağına dikkat çekildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fao-kuresel-tahil-stoklari-2027-de-yuzde-1-8-artacak-3795102",
-    "ts": 1795080101000,
     "tags": []
    }
   ]
