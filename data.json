@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-19T15:47:08.700456+00:00",
+ "generated": "2026-11-19T16:53:29.485156+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7299.61,
-   "c": -0.33,
-   "d": -24.02,
+   "p": 7255.27,
+   "c": -0.93,
+   "d": -68.36,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24465.55,
-   "c": 0.15,
-   "d": 35.669,
+   "p": 24268.451,
+   "c": -0.66,
+   "d": -161.43,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 49715.97,
-   "c": -0.96,
-   "d": -482.202,
+   "p": 49451.41,
+   "c": -1.49,
+   "d": -746.762,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 24.97,
-   "c": 1.67,
-   "d": 0.41,
+   "p": 24.65,
+   "c": 0.37,
+   "d": 0.09,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3687.4,
-   "c": -1.46,
-   "d": -54.5,
+   "p": 3689.8,
+   "c": -1.39,
+   "d": -52.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 44.57,
-   "c": -0.95,
-   "d": -0.429,
+   "p": 44.72,
+   "c": -0.62,
+   "d": -0.279,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.91,
-   "c": -0.42,
-   "d": -0.35,
+   "p": 83.69,
+   "c": 0.52,
+   "d": 0.43,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.76,
-   "c": -2.38,
-   "d": -2.19,
+   "p": 90.35,
+   "c": -1.74,
+   "d": -1.6,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.813,
-   "c": -0.05,
-   "d": -0.047,
+   "p": 103.836,
+   "c": -0.02,
+   "d": -0.024,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.07,
-   "c": 0.08,
-   "d": 0.004,
+   "p": 5.085,
+   "c": 0.38,
+   "d": 0.019,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.4638,
+   "p": 50.4628,
    "c": 0.05,
-   "d": 0.025,
+   "d": 0.024,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 62873,
-   "c": -0.45,
+   "p": 62968,
+   "c": 0.84,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1775.44,
-   "c": 0.63,
+   "p": 1774.82,
+   "c": 1.93,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.57,
-   "c": 0.36,
+   "p": 73.5,
+   "c": 1.35,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.969009,
-   "c": -0.67,
+   "p": 0.972855,
+   "c": 0.83,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 585.17,
-   "c": 0.43,
+   "p": 585.35,
+   "c": 1.31,
    "k": "usd"
   }
  ],
@@ -496,8 +496,8 @@
    "forecast": "",
    "previous": "4.37%",
    "actual": "",
-   "ts": 1795105800000,
-   "tr": "Per 19.11 19:30",
+   "ts": 1795103160000,
+   "tr": "Per 19.11 18:46",
    "reading": null
   },
   {
@@ -584,13 +584,51 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Anthropic Shares Indicated to Open 25% Above IPO",
-    "tt": "Halka Arzın %25 Üzerinde Açılacağı Belirlenen Antropik Hisseler",
-    "s": "Anthropic shares are set to soar when they start trading on Thursday, after the AI lab’s $107.3 billion IPO and private placement broke SpaceX’s record for the biggest-ever offering. The company behind the Claude chatbot and its seven co-founders raised $81.3 billion in an IPO priced above range, to",
-    "ss": "Yapay zeka laboratuvarının 107,3 ​​milyar dolarlık halka arzının ve özel yerleştirmenin SpaceX'in şimdiye kadarki en büyük arz rekorunu kırmasının ardından, Perşembe günü işlem görmeye başladığında antropik hisseler hızla yükselecek. Claude chatbot'un arkasındaki şirket ve yedi kurucu ortağı, aralığın üzerinde bir fiyatla halka arzdan 81,3 milyar dolar topladı.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-indicated-to-open-25-above-ipo-video",
-    "ts": 1795102982000,
+    "t": "Anthropic Shares Jump 34% After $107.3 Billion IPO Breaks Record",
+    "tt": "Antropik, SpaceX'in 107,3 ​​Milyar Dolarlık Halka Arzından Sonra Artmaya Hazır",
+    "s": "Anthropic PBC shares opened 34% above their IPO price after the artificial intelligence lab’s blockbuster $107.3 billion debut broke SpaceX’s record for the biggest-ever offering.",
+    "ss": "Antropik PBC hisseleri, yapay zeka laboratuvarının 107,3 ​​milyar dolarlık halka arzının ve özel yerleştirmenin SpaceX'in bugüne kadarki en büyük arz rekorunu kırmasının ardından Perşembe günü işlem görmeye başladığında yükselişe geçecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
+    "ts": 1795099974000,
     "tags": []
+   },
+   {
+    "t": "US Sour Crude’s War Premium Vanishes as Supply Surges",
+    "tt": "ABD Ekşi Ham Petrolünün Savaş Primi, Arz Arttıkça Kayboluyor",
+    "s": "The price of US sour oil has plunged, as a surge of oil from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.",
+    "ss": "ABD ekşi petrolünün fiyatı, Venezüella, Kanada ve Orta Doğu'dan gelen petrolün artmasıyla rafinerilere bol miktarda varil seçeneği sunulmasıyla düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges",
+    "ts": 1795106706000,
+    "tags": []
+   },
+   {
+    "t": "Banks Swap Battered Brazil for Mexico in Regional Equity Picks",
+    "tt": "Bankalar, Bölgesel Hisse Seçimlerinde Hırpalanmış Brezilya'yı Meksika'yla Takas Ediyor",
+    "s": "Banks from Wall Street to Brazil’s Faria Lima financial hub are switching their stock preferences to Mexico and away from Brazil as diverging growth, rates and earnings outlooks reshape the investment case across Latin America.",
+    "ss": "Wall Street'ten Brezilya'nın Faria Lima finans merkezine kadar bankalar, Latin Amerika'daki farklı büyüme, faiz oranları ve kazanç görünümlerinin yatırım senaryosunu yeniden şekillendirmesi nedeniyle hisse tercihlerini Brezilya'dan Meksika'ya çeviriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/banks-swap-battered-brazil-for-mexico-in-regional-equity-picks",
+    "ts": 1795106628000,
+    "tags": []
+   },
+   {
+    "t": "Amundi Sees Buying Opportunity If French Bond Ructions Resume",
+    "tt": "Amundi, Fransız Tahvili İhraçlarının Devam Etmesi Halinde Satın Alma Fırsatı Görüyor",
+    "s": "France’s Amundi SA said a renewed selloff in the nation’s beaten-down bonds could create buying opportunities.",
+    "ss": "Fransa'nın Amundi SA'sı, ülkenin zayıf tahvillerindeki yeniden satış dalgasının satın alma fırsatları yaratabileceğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/amundi-not-seeing-panic-selling-in-french-debt-mortier-says",
+    "ts": 1795079134000,
+    "tags": []
+   },
+   {
+    "t": "Mexican Peso Rout Deepens as Banxico, Fed Policies Diverge",
+    "tt": "Meksika Pezosu, Fed Görünümünün Piyasaları Sarsmasıyla 17 Ayın En Düşük Seviyesinde",
+    "s": "The Mexican peso sank past the 19-per-dollar mark to its lowest in over a year, as the prospect of further Federal Reserve interest-rate hikes intensified a selloff fueled by Mexico’s dovish monetary policy.",
+    "ss": "Meksika pesosu, Fed'in daha fazla sıkılaştırma yapması ihtimalinin Meksika'nın güvercin parasal duruşunun körüklediği satışları yoğunlaştırmasıyla dolar başına 19 seviyesini aşarak bir yılın en düşük seviyesine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
+    "ts": 1795102446000,
+    "tags": [
+     "DXY ▼"
+    ]
    },
    {
     "t": "Stocks Fall as AI Bets Wane Before Anthropic Debut: Markets Wrap",
@@ -602,86 +640,39 @@
     "tags": []
    },
    {
-    "t": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
-    "tt": "Gabon, Denetimin Borcunu Azalttığını Gösterdikten Sonra Gelecek Ay IMF Anlaşması İstiyor",
-    "s": "Gabon expects to reach a deal with the International Monetary Fund for a new program by next month and is paying off some arrears as it waits for the fund’s sign-off on a debt audit.",
-    "ss": "Gabon, gelecek aya kadar Uluslararası Para Fonu ile yeni bir program için anlaşmaya varmayı bekliyor ve fonun borç denetimi onayını beklerken bazı borçlarını ödüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gabon-seeks-imf-deal-next-month-after-audit-shows-lower-debt",
-    "ts": 1795089503000,
+    "t": "South Africa Port Operator Blames Delays on Old Equipment",
+    "tt": "Güney Afrika Liman İşletmecisi Gecikmelerden Eski Ekipmanları Sorumlu Tuttu",
+    "s": "The operator of South Africa’s biggest shipping container terminal blamed poor equipment upkeep for severe delays that have caused medical supply shortages and hit car exports, triggering threats it could lose its license.",
+    "ss": "Güney Afrika'nın en büyük nakliye konteyneri terminalinin işletmecisi, tıbbi malzeme sıkıntısına yol açan ve otomobil ihracatını olumsuz etkileyen ciddi gecikmelerden ekipman bakımının yetersiz olmasını sorumlu tutarak lisansını kaybedebileceği tehditlerini tetikledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-port-operator-blames-delays-on-old-equipment",
+    "ts": 1795105142000,
     "tags": []
    },
    {
-    "t": "Anthropic Set for Historic Debut on the Nasdaq",
-    "tt": "Nasdaq'ta Tarihi İlk Çıkış İçin Antropik Set",
-    "s": "Anthropic is set to be the biggest IPO of all time. The opening share price keeps rising. The IPO price was $83 per share. Bloomberg's Ryan Gould and Mandeep Singh of Bloomberg Intelligence set the stage for us. (Source: Bloomberg)",
-    "ss": "Anthropic tüm zamanların en büyük halka arzı olacak. Açılış hisse fiyatı yükselmeye devam ediyor. Halka arz fiyatı hisse başına 83 dolardı. Bloomberg'den Ryan Gould ve Bloomberg Intelligence'tan Mandeep Singh bizim için sahneyi hazırladı. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-set-for-historic-debut-on-the-nasdaq-video",
-    "ts": 1795102466000,
+    "t": "Algebris Hedges Against AT1 Volatility by Avoiding Tight Spreads",
+    "tt": "Algebris, Sıkı Spreadlerden Kaçınarak AT1 Volatilitesine Karşı Korunuyor",
+    "s": "Algebris Investments is taking a cautious approach to AT1 bonds as spreads remain historically tight, avoiding the most expensive parts of the market and keeping buffers against a potential downturn. Other investors remain positive on the asset class, arguing that banks are well capitalized and that",
+    "ss": "Algebris Investments, spreadlerin tarihsel olarak sıkı kalması nedeniyle AT1 tahvillerine karşı temkinli bir yaklaşım benimsiyor, piyasanın en pahalı kısımlarından kaçınıyor ve potansiyel bir gerilemeye karşı tampon oluşturuyor. Diğer yatırımcılar ise bankaların iyi sermayelendirildiğini ve varlık sınıfına olumlu baktığını ifade ediyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/algebris-hedges-against-at1-volatility-video",
+    "ts": 1795105068000,
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 19",
-    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil moved higher on concern violence in the Middle East could escalate once again despite recent pressure on US President Donald Trump to pursue a diplomatic resolution to the nine-month war.",
-    "ss": "Petrol, ABD Başkanı Donald Trump'a dokuz aylık savaşa ilişkin diplomatik bir çözüm bulunması yönündeki son baskılara rağmen Orta Doğu'da şiddetin yeniden artabileceği endişesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-    "ts": 1795043015000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "Mexican Peso Hits 17-Month Low as Fed Outlook Rattles Markets",
-    "tt": "Meksika Pezosu, Fed Görünümünün Piyasaları Sarsmasıyla 17 Ayın En Düşük Seviyesinde",
-    "s": "The Mexican peso sank past the 19-per-dollar mark to its lowest in over a year, as the prospect of further Federal Reserve tightening intensified a selloff fueled by Mexico’s dovish monetary stance.",
-    "ss": "Meksika pesosu, Fed'in daha fazla sıkılaştırma yapması ihtimalinin Meksika'nın güvercin parasal duruşunun körüklediği satışları yoğunlaştırmasıyla dolar başına 19 seviyesini aşarak bir yılın en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
-    "ts": 1795102446000,
-    "tags": [
-     "DXY ▼",
-     "Altın ▲",
-     "Gümüş ▲",
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Anthropic Poised to Surge After $107.3 Billion IPO Tops SpaceX",
-    "tt": "Antropik, SpaceX'in 107,3 ​​Milyar Dolarlık Halka Arzından Sonra Artmaya Hazır",
-    "s": "Anthropic PBC shares are set to soar when they start trading on Thursday, after the artificial intelligence lab’s $107.3 billion IPO and private placement broke SpaceX’s record for the biggest-ever offering.",
-    "ss": "Antropik PBC hisseleri, yapay zeka laboratuvarının 107,3 ​​milyar dolarlık halka arzının ve özel yerleştirmenin SpaceX'in bugüne kadarki en büyük arz rekorunu kırmasının ardından Perşembe günü işlem görmeye başladığında yükselişe geçecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
-    "ts": 1795099974000,
+    "t": "US Stocks Pare Gains as Tech Rally Ebbs Ahead of Anthropic Debut",
+    "tt": "ABD Hisse Senetleri, Antropik Çıkış Öncesi Teknoloji Rallisi Gerilerken Parite Kazandı",
+    "s": "US equity indexes pared gains on Thursday as a rally in technology stocks fizzled ahead of the stock-market debut of Anthropic PBC.",
+    "ss": "ABD hisse senedi endeksleri Perşembe günü, Anthropic PBC'nin borsaya çıkışı öncesinde teknoloji hisselerindeki yükselişin başarısızlıkla sonuçlanmasıyla kazançlarını azalttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
+    "ts": 1795072156000,
     "tags": []
    },
    {
-    "t": "Sanofi Weighs Takeover of US Drugmaker Insmed",
-    "tt": "Sanofi, ABD'li İlaç Üreticisi Insmed'i Satın Almayı Tartıyor",
-    "s": "Sanofi SA is weighing an acquisition of US drugmaker Insmed Inc., people familiar with the matter said, in what would be the largest biopharma deal in years.",
-    "ss": "Konuya aşina olan kişilerin söylediğine göre, Sanofi SA, son yılların en büyük biyofarma anlaşması olacak ABD'li ilaç üreticisi Insmed Inc.'i satın almayı değerlendiriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed",
-    "ts": 1795100737000,
-    "tags": []
-   },
-   {
-    "t": "Investec Retreats as UK Costs Offset First-Half Profit Gains",
-    "tt": "Investec, İngiltere'deki Maliyetlerin İlk Yarı Kâr Kazançlarını Dengelemesi Nedeniyle Geri Çekildi",
-    "s": "Investec fell to an eight-month low after first-half results showed rising costs and weaker profitability in the lender’s British business.",
-    "ss": "Investec, ilk yarı sonuçlarının borç verenin Britanya işlerinde maliyetlerin arttığını ve kârlılığın azaldığını göstermesinin ardından sekiz ayın en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/investec-profit-climbs-as-south-africa-unit-offsets-uk-weakness",
-    "ts": 1795072956000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic IPO Allocates Nothing to Most Institutional Orders",
-    "tt": "Antropik Halka Arzın Çoğu Kurumsal Alıcıya Hiçbir Şey Vermeyeceği Söylendi",
-    "s": "Anthropic PBC’s initial public offering left more than half of the institutional investors bidding for stock without any shares, according to people familiar with the matter.",
-    "ss": "Konuya aşina kaynaklara göre, Antropik PBC'nin ilk halka arzı, kurumsal yatırımcıların yarısından fazlasının hisse senedi olmadan hisse senedi teklifinde bulunmasına neden oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers",
-    "ts": 1795098954000,
+    "t": "Alphabet to Raise at Least $3.5 Billion With Canadian Debt Sale",
+    "tt": "Alphabet, Kanada Borç Satışıyla En Az 3,5 Milyar Dolar Artıracak",
+    "s": "Alphabet Inc. is returning to the Canadian market with a five-part bond sale, just six months after issuing its first notes in the currency.",
+    "ss": "Alphabet Inc., Kanada para birimi cinsinden ilk banknotlarını ihracından sadece altı ay sonra, beş parçalı tahvil satışıyla Kanada pazarına geri dönüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
+    "ts": 1795105010000,
     "tags": []
    }
   ],
@@ -791,21 +782,84 @@
   ],
   "MarketWatch": [
    {
-    "t": "‘Buyers are out for blood’ as housing market finally hits rock bottom",
+    "t": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+    "tt": "Antropik 401(k)'nize geliyor. Sevin ya da nefret edin, yapay zeka finansal planınızın daha büyük bir parçası haline geliyor.",
+    "s": "A number of public pension plans already have a stake in Anthropic.",
+    "ss": "Bir dizi kamu emeklilik planının hâlihazırda Anthropic'te payı var.",
+    "u": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+    "ts": 1795107180000,
+    "tags": []
+   },
+   {
+    "t": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+    "tt": "Alibaba'nın bulut işi gelişiyor. Ancak bu karlar, yapay zeka laboratuvarlarından kaynaklanan zararlarla tamamen dengeleniyor.",
+    "s": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
+    "ss": "Çinli internet devi Alibaba'nın bulut hizmetleri işi gelişiyor ancak yapay zeka laboratuvarları işinden kaynaklanan kayıplar bunu tamamen telafi ediyor.",
+    "u": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
+    "ts": 1795107120000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic’s IPO poses this big risk to an already shaky stock market",
+    "tt": "Anthropic'in halka arzı, zaten sallantılı olan borsa için büyük bir risk teşkil ediyor",
+    "s": "Investors are worried that a flood of equity issuance could overwhelm demand.",
+    "ss": "Yatırımcılar, hisse senedi ihraçlarının talebi aşabileceğinden endişe ediyor.",
+    "u": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories",
+    "ts": 1795106940000,
+    "tags": []
+   },
+   {
+    "t": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+    "tt": "CoreWeave'in kurucu ortaklarından biri, yıpranmış tahvillerine alışılmadık 30 milyon dolarlık bir bahis yaptı",
+    "s": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+    "ss": "Yöneticiler genellikle güven sinyali vermek için hisse satın alırken CoreWeave kurucu ortağı Brian Venturo, yapay zekadaki tedirginliği yatıştırmak için tahvil piyasasına yöneliyor.",
+    "u": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+    "ts": 1795105620000,
+    "tags": []
+   },
+   {
+    "t": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
+    "tt": "Market teslimatında daha fazla rekabet mi yaratmak istiyorsunuz? DoorDash ve Instacart'ın birleşmesine izin verin.",
+    "s": "The combined company would be better able to challenge corporate juggernauts like Amazon, Walmart and Uber.",
+    "ss": "Birleşen şirket, Amazon, Walmart ve Uber gibi kurumsal ezici güçlere daha iyi meydan okuyabilecek.",
+    "u": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
+    "ts": 1795105260000,
+    "tags": []
+   },
+   {
+    "t": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+    "tt": "50'li yaşlarımızdayız ve piyasanın çökmesinden korkuyoruz. 1 milyon dolarlık emeklilik birikimimizin 400.000 dolarını yıllık gelire yatırmalı mıyız?",
+    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
+    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "ts": 1795104900000,
+    "tags": []
+   },
+   {
+    "t": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
     "tt": "Konut piyasası nihayet dibe vururken 'alıcılar kan peşinde'",
     "s": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
     "ss": "Emlakçılar, rekor yüksek ev fiyatlarına ve yüzde 7'lik konut kredisi oranlarına göğüs gererek piyasada kalan az sayıda alıcının kararları almaya başladığını söylüyor.",
     "u": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-    "ts": 1795102680000,
+    "ts": 1795104840000,
     "tags": []
    },
    {
-    "t": "Why are these tech outages rattling Americans so much that they’re stockpiling cash and supplies?",
+    "t": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
     "tt": "Bu teknoloji kesintileri Amerikalıları neden bu kadar rahatsız ediyor ki nakit ve malzeme stokluyorlar?",
     "s": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
     "ss": "Dünya liderlerinin netlik eksikliği, bazı insanları en kötüsüne hazırlanmaya sevk ediyor.",
     "u": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-    "ts": 1795102440000,
+    "ts": 1795103820000,
+    "tags": []
+   },
+   {
+    "t": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
+    "tt": "Anthropic'in halka arzı, Nvidia'nın kazancının yapamadığını borsa için yapabilir mi?",
+    "s": "Here’s the case for energy stocks in your 401(k) and why Target’s comeback runs through the shoe aisle. Plus, what “GTA VI” means for Take-Two investors.",
+    "ss": "İşte 401(k)'nizdeki enerji stokları ve Target'ın geri dönüşünün neden ayakkabı reyonunda gerçekleştiği. Ayrıca Take-Two yatırımcıları için \"GTA VI\"nın ne anlama geldiği.",
+    "u": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories",
+    "ts": 1795103460000,
     "tags": []
    },
    {
@@ -816,72 +870,45 @@
     "u": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
     "ts": 1795100460000,
     "tags": []
-   },
-   {
-    "t": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
-    "tt": "Micron, Intel ve diğer AI hisseleri Perşembe günü neden yükselişe geçiyor?",
-    "s": "Anthropic’s IPO is one big reason — but there’s also optimism about Texas’s data-center landscape and a new buyback program from optical company Coherent.",
-    "ss": "Anthropic'in halka arzı büyük bir neden; ancak Teksas'ın veri merkezi ortamı ve optik şirketi Coherent'in yeni geri satın alma programı hakkında da iyimserlik var.",
-    "u": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-    "ts": 1795099920000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
-    "tt": "Antropik 401(k)'nize geliyor. Sevin ya da nefret edin, yapay zeka finansal planınızın daha büyük bir parçası haline geliyor.",
-    "s": "A number of public pension plans already have a stake in Anthropic.",
-    "ss": "Bir dizi kamu emeklilik planının hâlihazırda Anthropic'te payı var.",
-    "u": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-    "ts": 1795099680000,
-    "tags": []
-   },
-   {
-    "t": "Sandisk’s stock split is almost here. This is what investors need to know.",
-    "tt": "Sandisk'in hisselerinin bölünmesi neredeyse yaklaşıyor. Yatırımcıların bilmesi gereken şey bu.",
-    "s": "Sandisk is due to split its stock after Thursday’s close, and while the move has gotten some buzz, it won’t alter the fundamental picture for shareholders of the memory-chip company.",
-    "ss": "Sandisk, Perşembe günkü kapanıştan sonra hisselerini bölecek ve bu hamle biraz ses getirse de, bellek çipi şirketinin hissedarları için temel tabloyu değiştirmeyecek.",
-    "u": "https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories",
-    "ts": 1795099320000,
-    "tags": []
-   },
-   {
-    "t": "Investors are rushing back into cybersecurity stocks after a string of outages. Here’s what to know before buying.",
-    "tt": "Yatırımcılar bir dizi kesintinin ardından siber güvenlik hisselerine yöneliyor. İşte satın almadan önce bilmeniz gerekenler.",
-    "s": "The theme is increasingly attractive to investors, and Wall Street has taken notice .",
-    "ss": "Tema yatırımcılar için giderek daha çekici hale geliyor ve Wall Street'in dikkatini çekti.",
-    "u": "https://www.marketwatch.com/story/investors-are-rushing-back-into-cybersecurity-stocks-after-a-string-of-outages-heres-what-to-know-before-buying-09e41107?mod=mw_rss_topstories",
-    "ts": 1795098660000,
-    "tags": []
-   },
-   {
-    "t": "Ron Johnson’s Social Security gaffe buried important news",
-    "tt": "Ron Johnson'ın Sosyal Güvenlik gafıyla önemli haberler gizlendi",
-    "s": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
-    "ss": "Wisconsin Cumhuriyetçisinin sözleri, Sosyal Güvenliğin düzeltilmesine ilişkin Senato komitesinin faydalı olabilecek duruşmasını gölgede bıraktı.",
-    "u": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
-    "ts": 1795098540000,
-    "tags": []
-   },
-   {
-    "t": "My wife pays for her family to visit us in New York. I don’t want to make this a choice between them and me.",
-    "tt": "Eşim, ailesinin New York'ta bizi ziyaret etmesi için binlerce para ödüyor. Ondan onlarla benim aramda seçim yapmasını nasıl isteyebilirim?",
-    "s": "“Hotel rooms can cost as much as $400 per night.”",
-    "ss": "“Otel odalarının gecelik maliyeti 400 dolara kadar çıkabiliyor.”",
-    "u": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-    "ts": 1795097700000,
-    "tags": []
-   },
-   {
-    "t": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-    "tt": "Google, yapay zekayı güçlendirmek için yeni ve çılgın bir teklifle yanardağ ve kaya eritme teknolojisine yöneliyor",
-    "s": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
-    "ss": "Bir Bernstein analistine göre Google'ın Quaise ile yaptığı anlaşma \"türünün ilk örneği olan bir teknolojiye yapılan bir bahis\".",
-    "u": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-    "ts": 1795097460000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Anthropic Opens 34% Above IPO Price, Market Cap Tops $2 Trillion",
+    "tt": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi?",
+    "s": "Anthropic Opens 34% Above IPO Price, Market Cap Tops $2 Trillion Summary: ANT has opened for trading at $111.50, 34% above the IPO Price Anthropic IPO Allocates Nothing to Most Institutional Orders Anthropic-Linked Perpetual Futs On Hyperliquid $104 Anthropic IPO Prices At $83 , Raises A Record $107",
+    "ss": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi? Özet: ANT Halka Arzı 10 ET'den İşleme Başlayabilir, Ancak Sabah Geç Saatlerde veya Öğleden Sonra Erken İşlem Yapabilir Hyperliquid'de Antropik Bağlantılı Sürekli Futlar 104 Dolarlık Antropik Halka Arz Fiyatları 83 Dolar ile Rekor 107 Milyar Dolarlık Güncelleme Artırdı BBG: ANTHROPIC IPO SAI",
+    "u": "https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor",
+    "ts": 1795107000000,
+    "tags": []
+   },
+   {
+    "t": "APEC-ing Order",
+    "tt": "APEC Düzeni",
+    "s": "APEC-ing Order By Michael Every of Rabobank Today is all about APEC-ing order. Starting with markets, Anthropic raised $81bn in a record IPO , showing AI is still the apex trade even when the firm involved may present a potential risk to the existence of humanity. Either “because markets” or nationa",
+    "ss": "APEC'lenme Emri Yazan: Michael Rabobank'ın her biri Bugün tamamen APEC'leme düzeniyle ilgilidir. Anthropic, piyasalardan başlayarak rekor bir halka arzla 81 milyar dolar topladı; bu da, ilgili firmanın insanlığın varlığına yönelik potansiyel bir risk oluşturabileceği durumlarda bile yapay zekanın hâlâ zirve ticaret olduğunu gösteriyor. Ya “çünkü piyasalar” ya da ulus",
+    "u": "https://www.zerohedge.com/geopolitical/apec-ing-order",
+    "ts": 1795106700000,
+    "tags": []
+   },
+   {
+    "t": "Short Seller Comes For AMD's \"China Problem\" - But Read The Fine Print",
+    "tt": "AMD'nin \"Çin Sorunu\" İçin Açığa Çıkan Satıcı Geldi - Ama Ayrıntılı Yazıyı Okuyun",
+    "s": "Short Seller Comes For AMD's \"China Problem\" - But Read The Fine Print A week after Wall Street crowned AMD the big winner of Nvidia's China crisis, a short seller is out with quite the bear case. Hunterbrook Media, whose affiliated fund is short AMD, published an investigation Thursday arguing that",
+    "ss": "AMD'nin \"Çin Sorunu\" İçin Açığa Çıkan Satıcı Geliyor - Ama İnce Yazıyı Okuyun Wall Street'in AMD'yi Nvidia'nın Çin krizinin büyük kazananı ilan etmesinden bir hafta sonra, açıktan satan bir satıcı oldukça kötü bir durumla karşı karşıya kaldı. Bağlı fonu kısa AMD olan Hunterbrook Media, Perşembe günü şunları savunan bir araştırma yayınladı:",
+    "u": "https://www.zerohedge.com/geopolitical/short-seller-comes-amds-china-problem-read-fine-print",
+    "ts": 1795105800000,
+    "tags": []
+   },
+   {
+    "t": "Google Signs Landmark Superhot Geothermal Deal",
+    "tt": "Google, Simgesel Yapı Superhot Jeotermal Anlaşmasını İmzaladı",
+    "s": "Google Signs Landmark Superhot Geothermal Deal Authored by Tsvetana Paraskova via OilPrice.com , Google has signed a landmark 50-MW geothermal power deal with Quaise Energy, targeting electricity from superhot rocks in Oregon for its data centers starting in the early 2030s.&nbsp; Breakthrough drill",
+    "ss": "Google Çığır Açan Süper Sıcak Jeotermal Anlaşması İmzaladı Tsvetana Paraskova tarafından OilPrice.com aracılığıyla yazılan Google, Quaise Energy ile 2030'ların başından itibaren veri merkezleri için Oregon'daki süper sıcak kayalardan elde edilen elektriği hedef alan 50 MW'lık dönüm noktası niteliğinde bir jeotermal enerji anlaşması imzaladı.  Çığır açan matkap",
+    "u": "https://www.zerohedge.com/energy/google-signs-landmark-superhot-geothermal-deal",
+    "ts": 1795104900000,
+    "tags": []
+   },
    {
     "t": "\"Today Feels Important...\": US Equity Indices Plunge As Anthropic Open Looms",
     "tt": "\"Bugün Önemli Hissediyor...\": ABD Hisse Senedi Endeksleri Antropik Açık Belirdikçe Düşüyor",
@@ -928,52 +955,43 @@
     "tags": []
    },
    {
-    "t": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO?",
-    "tt": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi?",
-    "s": "Countdown To Anthropic: Will World's Biggest IPO Reignite AI FOMO? Summary: ANT IPO Could Begin Trading At 10 ET, But May Trade Late Morning Or Early Afternoon Anthropic-Linked Perpetual Futs On Hyperliquid $104 Anthropic IPO Prices At $83 , Raises A Record $107 Billion Update BBG: ANTHROPIC IPO SAI",
-    "ss": "Antropik İçin Geri Sayım: Dünyanın En Büyük Halka Arzı Yapay Zeka FOMO'sunu Yeniden Ateşleyecek mi? Özet: ANT Halka Arzı 10 ET'den İşleme Başlayabilir, Ancak Sabah Geç Saatlerde veya Öğleden Sonra Erken İşlem Yapabilir Hyperliquid'de Antropik Bağlantılı Sürekli Futlar 104 Dolarlık Antropik Halka Arz Fiyatları 83 Dolar ile Rekor 107 Milyar Dolarlık Güncelleme Artırdı BBG: ANTHROPIC IPO SAI",
-    "u": "https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor",
-    "ts": 1795099800000,
-    "tags": []
-   },
-   {
-    "t": "UK Govt Asks Google To Silence Russell Brand After \"Appalling\" Prison Message",
-    "tt": "Birleşik Krallık Hükümeti, \"Korkunç\" Hapishane Mesajından Sonra Google'dan Russell Brand'in Susturulmasını İstedi",
-    "s": "UK Govt Asks Google To Silence Russell Brand After \"Appalling\" Prison Message The UK government has asked Google to take down Russell Brand's YouTube channel , three days after his wife read out a message from him in prison on it. A justice minister met with representatives of Google, which owns You",
-    "ss": "Birleşik Krallık Hükümeti Google'dan Russell Brand'in \"Korkunç\" Cezaevi Mesajından Sonra Susturulmasını İstedi Birleşik Krallık hükümeti, eşinin hapishanede kendisinden gelen bir mesajı okumasından üç gün sonra Google'dan Russell Brand'in YouTube kanalını kapatmasını istedi. Bir adalet bakanı, You'nun sahibi olan Google'ın temsilcileriyle görüştü",
-    "u": "https://www.zerohedge.com/geopolitical/uk-govt-asks-google-silence-russell-brand-after-appalling-prison-message",
-    "ts": 1795098900000,
-    "tags": []
-   },
-   {
-    "t": "Minnesota's New Somali-Born Democrat Lawmaker Has A Wife Problem",
-    "tt": "Minnesota'nın Yeni Somali Doğumlu Demokrat Milletvekilinin Eş Sorunu Var",
-    "s": "Minnesota's New Somali-Born Democrat Lawmaker Has A Wife Problem The wife of a Somali-born Democrat who will soon take a seat in the Minnesota House is in the country illegally, according to federal immigration authorities.&nbsp; Abdi Daisane was elected to represent the St. Cloud area in the Minnes",
-    "ss": "Minnesota'nın Yeni Somali Doğumlu Demokrat Milletvekilinin Eş Sorunu Var Federal göç yetkililerine göre, yakında Minnesota Meclisi'nde sandalyeye oturacak olan Somali doğumlu bir Demokrat'ın karısı ülkede yasadışı olarak bulunuyor.  Abdi Daisane, Minnes'teki St. Cloud bölgesini temsil etmek üzere seçildi",
-    "u": "https://www.zerohedge.com/political/minnesotas-new-somali-born-democrat-lawmaker-has-wife-problem",
-    "ts": 1795098900000,
-    "tags": []
-   },
-   {
-    "t": "Trump, Xi, & Putin Unveil Four-Point \"Declaration Toward Peace\" After Historic Summit",
-    "tt": "Çok Kutuplu Bir Dünya Şekillenirken Trump, Xi ve Putin İlk Üçlü Zirveyi Düzenledi",
-    "s": "Trump, Xi, &amp; Putin Unveil Four-Point \"Declaration Toward Peace\" After Historic Summit Summary:&nbsp; Four-Point Communiqué Released&nbsp; Multipolar World Takes Shape Trump, Xi &amp; Putin Meet In Historic Meeting In China &nbsp; Four-Point Communiqué &nbsp; Shortly after the historic trilateral",
-    "ss": "Çok Kutuplu Bir Dünya Şekillenirken Trump, Xi ve Putin İlk Üçlü Zirveyi Düzenledi Çin'deki APEC zirvesi bugün ikinci güne girdi ve Çin Devlet Başkanı Xi Jinping, ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin'i ortak bir noktada buluşan tarihi üçlü görüşmeler için bir araya getirdi.",
-    "u": "https://www.zerohedge.com/geopolitical/trump-xi-putin-hold-first-ever-trilateral-summit-multipolar-world-takes-shape",
-    "ts": 1795098240000,
-    "tags": []
-   },
-   {
-    "t": "Denmark Unanimously Ratifies Trump's Greenland Deal, Opening Door To Golden Dome",
-    "tt": "Danimarka, Trump'ın Grönland Anlaşmasını Oybirliğiyle Onaylayarak Altın Kubbe'ye Kapı Açtı",
-    "s": "Denmark Unanimously Ratifies Trump's Greenland Deal, Opening Door To Golden Dome Authored by Tom Ozimek via The Epoch Times , Lawmakers in Denmark - which administers Greenland - on Thursday approved a security agreement between the Arctic island and the United States to bolster security. The deal, ",
-    "ss": "Danimarka, Trump'ın Grönland Anlaşmasını Oybirliğiyle Onayladı, Altın Kubbeye Kapı Açılıyor Tom Ozimek tarafından The Epoch Times aracılığıyla yazıldı. Grönland'ı yöneten Danimarka'daki milletvekilleri, perşembe günü Kuzey Kutbu adası ile ABD arasında güvenliği artırmak için bir güvenlik anlaşmasını onayladı. Anlaşma,",
-    "u": "https://www.zerohedge.com/geopolitical/denmark-unanimously-ratifies-trumps-greenland-deal-opening-door-golden-dome",
-    "ts": 1795098000000,
+    "t": "Days-Long Strike Campaign On Table As Trump Links Iran To Chemical, Biological Weapons",
+    "tt": "Trump İran'ı Kimyasal ve Biyolojik Silahlarla Bağlantılandırırken Günlerce Süren Grev Kampanyası Masada",
+    "s": "Days-Long Strike Campaign On Table As Trump Links Iran To Chemical, Biological Weapons After the whole CNN 'dirty bombs' and 'chemical weapons' in DC reporting this week, which was based on the usual cast of 'anonymous intelligence' officials, President Trump has given these dubious claims new life ",
+    "ss": "Trump, İran'ı Kimyasal ve Biyolojik Silahlarla Bağlantılandırırken Günler Boyu Grev Kampanyası Masada CNN'in bu hafta DC'de yayınlanan ve 'anonim istihbarat' yetkililerinin olağan kadrosuna dayanan haberlerindeki tüm 'kirli bombalar' ve 'kimyasal silahlar'dan sonra, Başkan Trump bu şüpheli iddialara yeni bir hayat verdi.",
+    "u": "https://www.zerohedge.com/geopolitical/days-long-strike-campaign-table-trump-links-iran-chemical-biological-weapons",
+    "ts": 1795100400000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "İran: ABD'nin olası kara harekâtına hazırız",
+    "tt": null,
+    "s": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, ABD'nin olası kara harekâtına karşı hazırlıklarının hava ve deniz alanlarındakinden daha ileri düzeyde olduğunu söyledi. Muhibbi, Washington'un böyle bir saldırıyla hedeflerine ulaşamayacağını savundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-abd-nin-olasi-kara-harektina-haziriz-3795181",
+    "ts": 1795105914000,
+    "tags": []
+   },
+   {
+    "t": "New York'ta 4 bin emeklinin verilerinin sızdırıldığı iddiası",
+    "tt": null,
+    "s": "Politico, New York'ta yaklaşık 4 bin eski belediye çalışanının mali ve tıbbi verilerine siber saldırıyla erişildiğini öne sürdü. Habere göre saldırının hedefindeki veri tabanı, emeklilere yapılacak geri ödemeler için Atticus Administration tarafından oluşturuldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/new-york-ta-4-bin-emeklinin-verilerinin-sizdirildigi-iddiasi-3795179",
+    "ts": 1795104639000,
+    "tags": []
+   },
+   {
+    "t": "AB'nin önceliği Ukrayna'ya desteği sürdürmek",
+    "tt": null,
+    "s": "AB Konseyi Başkanı Antonio Costa, Birliğin önceliğinin Ukrayna'ya desteği sürdürmek ve Rusya'yı müzakere masasına oturmaya zorlamak olduğunu söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-nin-onceligi-ukrayna-ya-destegi-surdurmek-3795178",
+    "ts": 1795103708000,
+    "tags": []
+   },
    {
     "t": "JPMorgan'a hizmet veren şirketlere siber saldırı",
     "tt": null,
@@ -1035,33 +1053,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/ifcdiop-turkiye-en-buyuk-ucuncu-yatirim-portfoyumuz-3795117",
     "ts": 1795087259000,
-    "tags": []
-   },
-   {
-    "t": "Üçlü zirveden enerji arzını artırma kararı çıktı",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin, Çin'in Şenzen kentinde gerçekleştirilen tarihi üçlü zirvede bir araya gelerek küresel enerji ürünlerinin arzını artırma konusunda mutabakata vardı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/uclu-zirveden-enerji-arzini-artirma-taahhutu-cikti-3795116",
-    "ts": 1795086334000,
-    "tags": []
-   },
-   {
-    "t": "Ekol Lojistik Alman şirkete satıldı",
-    "tt": null,
-    "s": "Alman medya, hizmet ve eğitim grubu Bertelsmann'ın tedarik zinciri ve e-ticaret çözümleri birimi Arvato, Türkiye merkezli Ekol Lojistik'i satın aldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ekol-lojistik-alman-sirkete-satildi-3795104",
-    "ts": 1795083184000,
-    "tags": []
-   },
-   {
-    "t": "Hazine'nin ESG tahviline üç kata yakın talep geldi",
-    "tt": null,
-    "s": "Hazine ve Maliye Bakanlığı'nın 1,25 milyar euroluk yeşil tahvil ihracına üç kata yakın talep geldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hazine-nin-esg-tahviline-uc-kata-yakin-talep-geldi-3795103",
-    "ts": 1795081223000,
     "tags": []
    }
   ]
