@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T22:29:11.767767+00:00",
+ "generated": "2026-11-19T23:21:35.894359+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3627.9,
-   "c": -3.05,
-   "d": -114.0,
+   "p": 3628.0,
+   "c": -3.04,
+   "d": -113.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.835,
-   "c": -4.81,
-   "d": -2.164,
+   "p": 42.965,
+   "c": -4.52,
+   "d": -2.034,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.16,
-   "c": -0.12,
-   "d": -0.1,
+   "p": 83.01,
+   "c": -0.3,
+   "d": -0.25,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.05,
-   "c": -2.07,
-   "d": -1.9,
+   "p": 90.02,
+   "c": -2.1,
+   "d": -1.93,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.93,
-   "c": 0.07,
-   "d": 0.07,
+   "p": 103.924,
+   "c": 0.06,
+   "d": 0.064,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5133,
-   "c": 0.15,
-   "d": 0.075,
+   "p": 50.5259,
+   "c": 0.17,
+   "d": 0.088,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 61994,
-   "c": -0.75,
+   "p": 62057,
+   "c": -0.68,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1754.24,
-   "c": -0.45,
-   "k": "usd"
-  },
-  {
-   "n": "SOL",
-   "p": 72.8,
-   "c": -0.11,
-   "k": "usd"
-  },
-  {
-   "n": "XRP",
-   "p": 0.960172,
+   "p": 1757.71,
    "c": -0.39,
    "k": "usd"
   },
   {
+   "n": "SOL",
+   "p": 73.19,
+   "c": 0.31,
+   "k": "usd"
+  },
+  {
+   "n": "XRP",
+   "p": 0.961724,
+   "c": 0.01,
+   "k": "usd"
+  },
+  {
    "n": "BNB",
-   "p": 579.56,
-   "c": 0.24,
+   "p": 581.28,
+   "c": 0.36,
    "k": "usd"
   }
  ],
@@ -584,6 +584,38 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stock Losses to Extend in Asia, Nasdaq Futures Dip: Markets Wrap",
+    "tt": "Asya'da Hisse Senedi Kayıpları Artacak, Nasdaq Vadeli İşlemleri Düşüş: Piyasalarda Gelişmeler",
+    "s": "A global stock selloff was set to deepen in Asia as Anthropic PBC’s solid market debut failed to reverse pessimism around the artificial-intelligence trade and stem a broader retreat from technology shares.",
+    "ss": "Anthropic PBC'nin piyasaya sağlam çıkışının yapay zeka ticaretine ilişkin karamsarlığı tersine çevirmede ve teknoloji hisselerinde daha geniş bir gerilemeyi önlemede başarısız olması nedeniyle Asya'da küresel hisse senedi satışlarının derinleşmesi bekleniyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795125820000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 20",
+    "tt": "20 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decline as traders weigh the risk of renewed US strikes on Iran against signs of ample supply.",
+    "ss": "Petrol Perşembe günkü dalgalı seansın ardından yükseldi; vadeli işlemler üçüncü haftalık düşüş yolunda ilerlerken, tüccarlar ABD'nin İran'a yeniden saldırı yapma riskini bol arz işaretleri karşısında değerlendiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+    "ts": 1795129551000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Treasury Official Renews Warning on Wave of Tax-Saving Trades",
+    "tt": "Hazine Yetkilisi Vergi Tasarruflu Ticaret Dalgasına İlişkin Uyarıyı Yeniledi",
+    "s": "A senior US Treasury official reiterated concerns Thursday about Wall Street’s tax-efficient investing boom, saying firms should win clients on the merits of their investments, not on how far they’ll go to minimize a tax bill.",
+    "ss": "Üst düzey bir ABD Hazine yetkilisi Perşembe günü Wall Street'in vergi açısından verimli yatırım patlamasıyla ilgili endişelerini yineledi ve firmaların vergi faturasını en aza indirmek için ne kadar ileri gideceklerine göre değil, yatırımlarının değerine göre müşteri kazanması gerektiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades",
+    "ts": 1795127510000,
+    "tags": []
+   },
+   {
     "t": "Shenkman, Blackstone, GDA Among Lenders to Take Over Vivid",
     "tt": "Bilet Satıcısı Canlı Koltuklarını Devralan Kredi Verenler Arasında Blackstone",
     "s": "A group of lenders including Blackstone Inc. and Shenkman Capital Management are set to take over Vivid Seats Inc. in a deal that would reduce the ticket reseller’s net debt by more than $200 million, according to people familiar with the matter.",
@@ -646,39 +678,6 @@
     "ss": "Petrol fiyatları, ABD Başkanı Donald Trump'a dokuz ay süren savaşa ilişkin diplomatik bir çözüm bulunması yönündeki baskıya rağmen Orta Doğu'da şiddetin yeniden tırmanacağı endişesinin ortasında dalgalandı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
     "ts": 1795043015000,
-    "tags": []
-   },
-   {
-    "t": "Latin America Currencies Sink on Rate Worries; Brazil Intervenes",
-    "tt": "Latin Amerika Para Birimleri Oran Endişeleri Nedeniyle Düşüyor; Brezilya Müdahale Ediyor",
-    "s": "A selloff in Latin American currencies extended to a second session on Thursday, sending the Mexican peso to its lowest since June 2025 and pushing Brazil’s central bank to step in to prop up the real, amid the mounting prospects for more rate hikes in the US.",
-    "ss": "Latin Amerika para birimlerindeki satışlar Perşembe günü derinleşti ve Meksika pesosunu Haziran 2025'ten bu yana en düşük seviyesine geriledi ve Brezilya merkez bankası, ABD'de daha fazla faiz artırımı beklentisinin arttığı bir ortamda reali desteklemek için adım atmaya zorladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/south-africa-s-rand-ticks-higher-as-most-emerging-fx-steadies",
-    "ts": 1795092076000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.",
-    "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795039661000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic Shares Jump 17% After $107.3 Billion IPO Breaks Record",
-    "tt": "Anthropic Hisseleri 107,3 ​​Milyar Dolarlık Halka Arzın Rekor Kırmasının Ardından %17 Arttı",
-    "s": "Anthropic PBC shares soared 17% above their IPO price in the biggest offering on record, raising $107.3 billion despite signs of growing caution around the artificial intelligence trade.",
-    "ss": "Antropik PBC hisseleri, yapay zeka ticaretine ilişkin artan ihtiyat işaretlerine rağmen halka arz fiyatının %17 üzerinde rekor bir artışla 107,3 ​​milyar dolar artışla rekora imza attı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex",
-    "ts": 1795099974000,
     "tags": []
    }
   ],
@@ -788,6 +787,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+    "tt": "Perşembe günü borsadaki çöküşün ortasında yükselen tek hisse senetleri bunlardı",
+    "s": "All 11 sectors of the S&amp;P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
+    "ss": "S&P 500'ün 11 sektörünün tamamı düşüş gösterdi (bunlardan 10'u %1'den fazla) ancak siber güvenlik hisseleri bu zayıflığı telafi etti.",
+    "u": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+    "ts": 1795129860000,
+    "tags": []
+   },
+   {
+    "t": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+    "tt": "Intuit'in kötümser görünümü Wall Street'in yazılım şirketleri hakkındaki endişelerini derinleştiriyor",
+    "s": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+    "ss": "TurboTax üreticisi Intuit, yatırımcılara eski yazılım şirketleri hakkında endişelenmeleri için yeni bir neden sunuyor.",
+    "u": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+    "ts": 1795128780000,
+    "tags": []
+   },
+   {
+    "t": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+    "tt": "CoreWeave'in kurucu ortaklarından biri, yıpranmış tahvillerine alışılmadık 30 milyon dolarlık bir bahis yaptı",
+    "s": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+    "ss": "Yöneticiler genellikle güven sinyali vermek için hisse satın alırken CoreWeave kurucu ortağı Brian Venturo, yapay zekadaki tedirginliği yatıştırmak için tahvil piyasasına yöneliyor.",
+    "u": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+    "ts": 1795128060000,
+    "tags": []
+   },
+   {
     "t": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
     "tt": "50'li yaşlarımızdayız ve piyasanın çökmesinden korkuyoruz. 1 milyon dolarlık emeklilik birikimimizin 400.000 dolarını yıllık gelire yatırmalı mıyız?",
     "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
@@ -849,36 +875,36 @@
     "u": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
     "ts": 1795122780000,
     "tags": []
-   },
-   {
-    "t": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-    "tt": "'Göründüğümü hissettim': Amerika'nın dört bir yanındaki aileler neden SNL'nin 'Kardeş' taslağı üzerine gülüyor ve ağlıyor?",
-    "s": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-    "ss": "Gece yarısı komedi taslağı, kadın bakıcıların görüldüklerini hissettirerek imkansızı başarıyor.",
-    "u": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-    "ts": 1795122360000,
-    "tags": []
-   },
-   {
-    "t": "Rising healthcare costs push Medicare Part B premiums higher",
-    "tt": "Artan sağlık hizmetleri maliyetleri Medicare Kısım B primlerini yükseltiyor",
-    "s": "The premiums will increase by $6.50, to $209.40 a month.",
-    "ss": "Primler 6,50 dolar artarak ayda 209,40 dolara çıkacak.",
-    "u": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-    "ts": 1795122300000,
-    "tags": []
-   },
-   {
-    "t": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "tt": "'Nvidia'nın kargaşası beni korkuttu': Hisse senetlerimi satıp emlak mı almalıyım yoksa fırtınayı atlatmalı mıyım?",
-    "s": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-    "ss": "Gayrimenkul veya CD'ler için stoklardan vazgeçmeye mi karar verdiniz? Ani hareketler yapmadan önce derin bir nefes alın.",
-    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "ts": 1795121400000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Senate Kills House-Passed Resolution To End Iran War As Tillis Flips",
+    "tt": "Tillis tersine dönerken Senato, İran Savaşını Bitirmek İçin Meclisten Geçen Kararı İptal Etti",
+    "s": "Senate Kills House-Passed Resolution To End Iran War As Tillis Flips Authored by Timothy Frudd via The Epoch Times , The Senate voted against a war powers resolution that would have directed President Donald Trump to end U.S. military action against Iran. The Senate's 48-51 vote on House Concurrent ",
+    "ss": "Senato, Temsilciler Meclisi'nden geçen İran Savaşını Bitirmeye Yönelik Kararı İptal Ederken Tillis Dönerken Timothy Frudd tarafından The Epoch Times aracılığıyla yazılmıştır. Senato, Başkan Donald Trump'ı ABD'nin İran'a karşı askeri harekâtını sona erdirmeye yönlendirecek bir savaş yetkileri kararına karşı oy kullandı. Senato'nun Eşzamanlı Meclis'teki 48-51 oyu",
+    "u": "https://www.zerohedge.com/political/senate-kills-house-passed-resolution-end-iran-war-tillis-flips",
+    "ts": 1795130400000,
+    "tags": []
+   },
+   {
+    "t": "Taiwan Strangles The Shorts After The Taiex Loses 5,000 Points In Three Days",
+    "tt": "Tayvan, Taiex'in Üç Günde 5.000 Puan Kaybetmesinin Ardından Shorts'u Boğdu",
+    "s": "Taiwan Strangles The Shorts After The Taiex Loses 5,000 Points In Three Days Regulators don't cut a short-selling quota twice in two weeks because the first cut worked. On Thursday, hours after the Taiex plunged 1,768 points or 4.4% to 38,426.89, and the small-cap TPEx crashed 7.2% with more than 28",
+    "ss": "Tayvan, Taiex'in Üç Günde 5.000 Puan Kaybetmesinin Ardından Short'ları Boğdu Düzenleyiciler, ilk kesinti işe yaradığı için iki haftada iki kez açığa satış kotasını kesmiyor. Perşembe günü, Taiex'in 1.768 puan (yüzde 4,4) düşerek 38.426,89'a düşmesinden ve küçük sermayeli TPEx'in 28'den fazla puanla yüzde 7,2 gerilemesinden birkaç saat sonra",
+    "u": "https://www.zerohedge.com/markets/taiwan-strangles-shorts-after-taiex-loses-5000-points-three-days",
+    "ts": 1795129200000,
+    "tags": []
+   },
+   {
+    "t": "China's Second-Richest Man Secures Access To US City's Water Supply In Controversial Deal",
+    "tt": "Çin'in İkinci En Zengin Adamı Tartışmalı Anlaşmayla ABD Şehrinin Su Kaynağına Erişimini Güvenceye Aldı",
+    "s": "China's Second-Richest Man Secures Access To US City's Water Supply In Controversial Deal A Chinese billionaire is preparing to tap into a substantial share of the water supply in Fairfield, California as part of a $200 million industrial project that has raised questions about foreign investment an",
+    "ss": "Çin'in İkinci En Zengin Adamı, Tartışmalı Anlaşmayla ABD Şehrinin Su Kaynağına Erişimini Güvenceye Aldı Çinli bir milyarder, yabancı yatırımlar hakkında soru işaretleri yaratan 200 milyon dolarlık bir sanayi projesinin parçası olarak Fairfield, California'daki su kaynaklarının önemli bir kısmından yararlanmaya hazırlanıyor.",
+    "u": "https://www.zerohedge.com/political/chinas-second-richest-man-secures-access-us-citys-water-supply-controversial-deal",
+    "ts": 1795128000000,
+    "tags": []
+   },
    {
     "t": "Muslims Set To Outnumber Christians Worldwide Within A Decade: Study",
     "tt": "On Yıl İçinde Dünya Çapında Müslümanların Sayısı Hıristiyanları Geçecek: Araştırma",
@@ -940,33 +966,6 @@
     "ss": "Tüm Tahvil Taşımaları Eşit Oluşturulmaz Yazan: M&G Investments' Bond Vigilantes aracılığıyla Eva Sun-Wai, 'Carry' kelimesi sabit gelirde sık sık ortalıkta dolaşıyor ve bu yıl bu kelimenin 'carry geri döndü' veya 'sabit gelir sonunda yeniden gelir sunuyor' şeklinde birçok kullanımını duymuş olacaksınız. bu ben",
     "u": "https://www.zerohedge.com/markets/not-all-carry-created-equal",
     "ts": 1795119300000,
-    "tags": []
-   },
-   {
-    "t": "\"Elon's Worst Nightmare\": Democrats Pivot From Affordability Agenda To 'Trump Revenge' In Third-World-Like Political Chaos",
-    "tt": "\"Elon'un En Kötü Kabusu\": Demokratlar, Üçüncü Dünya Benzeri Siyasi Kaosta Uygun Fiyat Gündeminden \"Trump İntikamına\" Dönüyor",
-    "s": "\"Elon's Worst Nightmare\": Democrats Pivot From Affordability Agenda To 'Trump Revenge' In Third-World-Like Political Chaos The Democratic Party's uncontrollable spin further and further left , including its growing wing of unhinged DSA members, raises questions about whether its midterm promise of \"",
-    "ss": "\"Elon'un En Kötü Kabusu\": Demokratlar, Üçüncü Dünya Benzeri Siyasi Kaos İçinde Uygun Fiyat Gündeminden 'Trump İntikamı'na Dönüyor Demokrat Parti'nin, dengesiz DSA üyelerinden oluşan büyüyen kanadı da dahil olmak üzere, giderek daha da sola kontrol edilemeyen dönüşü, orta vadeli vaadinin \"",
-    "u": "https://www.zerohedge.com/political/elons-worst-nightmare-democrats-pivot-affordability-agenda-trump-revenge-third-world",
-    "ts": 1795118400000,
-    "tags": []
-   },
-   {
-    "t": "Remember ABC's Deleted Trump Sons Hit Piece? Two Staffers Just Paid For It",
-    "tt": "ABC'nin Silinen Trump Sons Hit Parçasını hatırlıyor musunuz? İki Personel Az Önce Parasını Ödedi",
-    "s": "Remember ABC's Deleted Trump Sons Hit Piece? Two Staffers Just Paid For It ABC News has quietly put the reporter and the supervisor behind its botched October story on Donald Trump Jr.'s venture firm on paid leave , according to the Wall Street Journal 's Joe Flint, who broke the news on X on Tuesda",
-    "ss": "ABC'nin Silinen Trump Sons Hit Parçasını hatırlıyor musunuz? Haberi Salı günü X'te veren Wall Street Journal'dan Joe Flint'e göre ABC News, Donald Trump Jr.'ın girişim firmasının ücretli izinli olduğu yönündeki berbat Ekim hikayesinin arkasına sessizce muhabiri ve yöneticiyi koydu.",
-    "u": "https://www.zerohedge.com/political/remember-abcs-deleted-trump-sons-hit-piece-two-staffers-just-paid-it",
-    "ts": 1795116600000,
-    "tags": []
-   },
-   {
-    "t": "House Dems Push Bill To Let Deportation Orders Expire After 10 Years",
-    "tt": "Temsilciler Meclisi Demokratları, Sınır Dışı Kararlarının 10 Yıl Sonra Sona Ermesini Sağlayan Yasa Tasarısını İtiraf Etti",
-    "s": "House Dems Push Bill To Let Deportation Orders Expire After 10 Years Authored by AG News Staff via American Greatness , House Democrats plan to introduce legislation Thursday that would cause final deportation orders to expire after 10 years and give those immigrants a path to permanent legal reside",
-    "ss": "Temsilciler Meclisi Demokratları, Sınır Dışı Kararlarının 10 Yıl Sonra Sona Ermesine İzin Veren Tasarıyı İtiyor AG Haber Personeli tarafından American Greatness aracılığıyla yazılan Temsilciler Meclisi Demokratları, nihai sınır dışı etme kararlarının 10 yıl sonra sona ermesine neden olacak ve bu göçmenlere kalıcı yasal ikamet yolu sağlayacak bir yasayı Perşembe günü çıkarmayı planlıyor",
-    "u": "https://www.zerohedge.com/political/house-dems-push-bill-let-deportation-orders-expire-after-10-years",
-    "ts": 1795115700000,
     "tags": []
    }
   ],
