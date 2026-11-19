@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T01:52:34.976432+00:00",
+ "generated": "2026-11-19T02:42:28.239853+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3753.9,
-   "c": -2.85,
-   "d": -110.3,
+   "p": 3744.1,
+   "c": 0.06,
+   "d": 2.2,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.47,
-   "c": -3.84,
-   "d": -1.818,
+   "p": 45.195,
+   "c": 0.44,
+   "d": 0.196,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.65,
-   "c": -3.91,
-   "d": -3.36,
+   "p": 82.37,
+   "c": -1.07,
+   "d": -0.89,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.63,
-   "c": -3.77,
-   "d": -3.51,
+   "p": 89.4,
+   "c": -2.77,
+   "d": -2.55,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.812,
-   "c": 0.31,
-   "d": 0.322,
+   "p": 103.87,
+   "c": 0.01,
+   "d": 0.01,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4518,
+   "p": 50.4522,
    "c": 0.03,
-   "d": 0.013,
+   "d": 0.014,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11477.41,
-   "c": -3.08,
-   "d": -364.39,
+   "c": -1.57,
+   "d": -183.59,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 62688,
-   "c": -2.66,
+   "p": 62554,
+   "c": -2.75,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1774.6,
-   "c": -1.74,
+   "p": 1769.13,
+   "c": -1.94,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.32,
-   "c": -1.33,
+   "p": 73.11,
+   "c": -1.79,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.961055,
-   "c": -1.4,
+   "p": 0.960841,
+   "c": -1.34,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 580.74,
-   "c": -1.99,
+   "p": 579.55,
+   "c": -1.92,
    "k": "usd"
   }
  ],
@@ -584,6 +584,15 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "India Studies Tax Proposals to Encourage Stock Trading, Curb Speculative Bets",
+    "tt": null,
+    "s": "Investors and economists have proposed raising taxes on stock derivatives while lowering levies on share trading.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-19/india-studies-tax-proposals-to-encourage-stock-trading-curb-speculative-bets",
+    "ts": 1795055435000,
+    "tags": []
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Nov. 19",
     "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
     "s": "Oil climbed as traders assessed the outlook for the US-Iran conflict, including the possibility of fresh attacks against Tehran.",
@@ -598,21 +607,54 @@
     ]
    },
    {
-    "t": "Trump Hails ‘Great’ Ties With Xi, Downplays Nvidia Spy Scandal",
-    "tt": "Trump, Xi ile 'Harika' İlişkileri Övdü, Nvidia Casus Skandalını Küçümsüyor",
-    "s": "US President Donald Trump hailed his great “friendship” with Chinese counterpart Xi Jinping and downplayed a spying scandal involving Nvidia Corp., just hours before leaders of the world’s top two economies meet for talks in China.",
-    "ss": "ABD Başkanı Donald Trump, Çinli mevkidaşı Xi Jinping ile olan büyük \"dostluğunu\" övdü ve dünyanın en büyük iki ekonomisinin liderlerinin Çin'de görüşmek üzere buluşmasından sadece birkaç saat önce Nvidia Corp.'un dahil olduğu casusluk skandalını küçümsedi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/trump-hails-great-ties-with-xi-downplays-nvidia-spy-scandal",
-    "ts": 1795052682000,
+    "t": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
+    "tt": null,
+    "s": "Australia’s dollar wiped out its 2026 gain against the greenback after weak employment data reinforced bets that the central bank has ended its interest-rate hike cycle and will pivot to cuts next year.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
+    "ts": 1795053217000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
+    "tt": "Çin, Hong Kong'da 2 Milyar Dolara Kadar Tahvil Piyasaya Sürüyor",
+    "s": "China began marketing up to $2 billion of dollar-denominated sovereign bonds, as leaders of the world’s two largest economies are set to meet in Shenzhen.",
+    "ss": "Çin, bu ay ikinci denizaşırı tahvil arzında 2 milyar dolar kadar toplamayı planladığı için Hong Kong'da dolar cinsinden devlet tahvili pazarlamaya başladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+    "ts": 1795049870000,
     "tags": []
    },
    {
-    "t": "Stocks Fluctuate After Anthropic IPO, Copper Gains: Markets Wrap",
+    "t": "Stocks Lose Momentum After Anthropic, Copper Gains: Markets Wrap",
     "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "Asian stocks and US equity-index futures diverged after Anthropic PBC’s pricing of its initial public offering, putting investor appetite for the technology sector to a fresh test following recent losses.",
+    "s": "Stocks struggled to sustain gains for a second straight session as lingering concerns over the artificial-intelligence trade tempered initial enthusiasm over Anthropic PBC’s IPO pricing.",
     "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
     "ts": 1795039661000,
+    "tags": []
+   },
+   {
+    "t": "K-Pop Giants Position for China Return After Decade-Long Freeze",
+    "tt": null,
+    "s": "South Korean entertainment companies are positioning themselves for a return to China after the two countries agreed to expand cultural exchanges, raising hopes that Beijing may loosen restrictions that have kept major K-pop acts out of the mainland for almost a decade.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/k-pop-giants-position-for-china-return-after-decade-long-freeze",
+    "ts": 1795053753000,
+    "tags": []
+   },
+   {
+    "t": "A-Cap Insurer Asks to Defer Payouts to Clients Amid Deal Talks",
+    "tt": null,
+    "s": "Advantage Capital Holdings’ main life insurer, which has been disputing a state regulator’s concerns about its financial strength, is seeking to defer certain payments to customers while pursuing sale talks with a potential acquirer.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/a-cap-insurer-asks-to-defer-payouts-to-clients-amid-deal-talks",
+    "ts": 1795053507000,
     "tags": []
    },
    {
@@ -642,50 +684,6 @@
     "ss": "Bakır, Çarşamba günü keskin bir düşüşün ardından kısmi bir toparlanma kaydetti; yatırımcılar yapay zeka ve ABD gümrük vergilerine bağlı yükseliş tahminlerinin keskin bir şekilde gevşemesinin fazla ileri gidip gitmediğini tarttı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
     "ts": 1795050876000,
-    "tags": []
-   },
-   {
-    "t": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
-    "tt": "Altın, Fed'in Daha Fazla Faiz Artırımı Sinyali Vermesiyle 14 Ayın En Düşük Seviyesinde Durdu",
-    "s": "Gold climbed from a 14-month low as dip buyers helped cushion growing expectations that the Federal Reserve will hike interest rates.",
-    "ss": "Altın, Fed yetkililerinin şahin yorumlarının gelecek yıla kadar devam edecek faiz artırımı beklentilerini güçlendirmesinin ardından 14 ayın en düşük seviyesi yakınlarında yatay seyrediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-    "ts": 1795044246000,
-    "tags": [
-     "DXY ▲",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-    "tt": "Bitcoin, Kaldıraç ve Likiditenin Azalmasıyla Bessent Rallisini Sildi",
-    "s": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
-    "ss": "Risk iştahının azalması ve Binance borsasındaki rekor hacklemenin yatırımcıları geri çekilmeye yöneltmesi ve daha ince bir pazardaki en büyük token ticaretini keskin fiyat dalgalanmalarına karşı giderek daha savunmasız bırakması nedeniyle Bitcoin, yaz sonundaki rallisinden elde ettiği tüm kazanımları sildi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-    "ts": 1794995109000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
-    "tt": "Morgan Stanley'den Hornbach, Rogue AI'nın En Büyük Düşük Fiyatlı Risk Olduğunu Söyledi",
-    "s": "Artificial intelligence can bring exponential benefits but the damage that may result from a breach of its safeguards is the biggest risk that’s being underpriced by markets right now, according to Morgan Stanley.",
-    "ss": "Yapay zeka katlanarak artan faydalar sağlayabilir ancak Morgan Stanley'e göre, yapay zekanın güvenlik önlemlerinin ihlalinden kaynaklanabilecek hasar, şu anda piyasalar tarafından düşük fiyatlandırılan en büyük risk.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
-    "ts": 1795050036000,
-    "tags": []
-   },
-   {
-    "t": "China Markets Up to $2 Billion of Dollar Bonds in Hong Kong",
-    "tt": "Çin, Hong Kong'da 2 Milyar Dolara Kadar Tahvil Piyasaya Sürüyor",
-    "s": "China began marketing dollar-denominated sovereign bonds in Hong Kong, as it looks to raise as much as $2 billion in its second offshore note offering this month.",
-    "ss": "Çin, bu ay ikinci denizaşırı tahvil arzında 2 milyar dolar kadar toplamayı planladığı için Hong Kong'da dolar cinsinden devlet tahvili pazarlamaya başladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
-    "ts": 1795049870000,
     "tags": []
    }
   ],
@@ -887,6 +885,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Electoral College Under Threat",
+    "tt": null,
+    "s": "Electoral College Under Threat Authored by Joseph Burns via City Journal , With the 2026 election in the books, attention turns to what emboldened Democrats from state capitals to Capitol Hill will do with their newfound power. The press appears focused on hot topics like AI and affordability polici",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/electoral-college-under-threat",
+    "ts": 1795056000000,
+    "tags": []
+   },
+   {
+    "t": "Harvard Study Reveals What Happens When Schools Lock Up Kids' Phones",
+    "tt": null,
+    "s": "Harvard Study Reveals What Happens When Schools Lock Up Kids' Phones Shocker... Schools that locked students' phones away for the whole school day saw math and reading scores grow faster , by about one to two extra weeks of learning a year, according to a Harvard study of 3.3 million students releas",
+    "ss": null,
+    "u": "https://www.zerohedge.com/technology/harvard-study-reveals-what-happens-when-schools-lock-kids-phones",
+    "ts": 1795054800000,
+    "tags": []
+   },
+   {
+    "t": "NIH Targets Fauci's Secret Role In Lab Leak Cover-Up Paper",
+    "tt": null,
+    "s": "NIH Targets Fauci's Secret Role In Lab Leak Cover-Up Paper Authored by Steve Watson via Modernity , The Trump administration has formally demanded that Nature Medicine investigate whether Anthony Fauci, Francis Collins and Sir Jeremy Farrar secretly shaped the 2020 paper that became the decisive wea",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/nih-targets-faucis-secret-role-lab-leak-cover-paper",
+    "ts": 1795053600000,
+    "tags": []
+   },
+   {
     "t": "Wall Street's Climate Cartel Faces New Scrutiny Over \"Blatant Weaponization\"",
     "tt": "Wall Street'in İklim Karteli \"Bariz Silahlanma\" Konusunda Yeni İncelemeyle Karşı Karşıya",
     "s": "Wall Street's Climate Cartel Faces New Scrutiny Over \"Blatant Weaponization\" Wall Street's biggest banks may have walked away from their virtual-signaling climate pledges, but a conservative consumer watchdog alleges that the policies behind them could still be freezing lawful businesses out of the ",
@@ -947,33 +972,6 @@
     "ss": "\"Dünyanın En Çok Tehlike Altındaki Kabilesi\"nin Yabancılarla Nadiren Temas Kurduğu Çarpıcı An \"Dünyanın en çok nesli tükenmekte olan kabilesi\" olarak adlandırılan Awá kabilesinin üyeleri, Brezilya yağmur ormanlarının derinliklerinden çıkıp dış dünyayla ender rastlanan bir karşılaşma sonrasında köylüleri şaşkına çevirdi. Yaklaşık 20 üye",
     "u": "https://www.zerohedge.com/geopolitical/stunning-moment-worlds-most-endangered-tribe-makes-rare-contact-outsiders",
     "ts": 1795045200000,
-    "tags": []
-   },
-   {
-    "t": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage",
-    "tt": "\"Defalarca Patlatmak İçin Kötü Form\": İki Kez Yanan Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planını Yapıyor... Bu Kez Daha Fazla Kaldıraçla",
-    "s": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage Some people learn from blowing up. Others raise more money. Four months after his AI hedge fund went from $20 billion-plus to needing a firesale rescue from Ken Grif",
-    "ss": "\"Defalarca Patlatmak İçin Kötü Biçim\": İki Kez Yanmış Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planlıyor... Bu Kez Daha Fazla Kaldıraçla Bazı insanlar patlamadan ders alıyor. Diğerleri daha fazla para topluyor. Yapay zeka hedge fonunun 20 milyar dolardan fazla bir değerden Ken Grif'in acilen kurtarılmasına ihtiyaç duymasından dört ay sonra",
-    "u": "https://www.zerohedge.com/markets/bad-form-blow-repeatedly-twice-burned-leopold-aschenbrenner-plots-situational-awareness-20",
-    "ts": 1795044000000,
-    "tags": []
-   },
-   {
-    "t": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse",
-    "tt": "Bir Büyük Fast Food Franchise Sahibi Daha Acımasız Kâr Çöküşünden Sonra İflasla Sarsıldı",
-    "s": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse The bankruptcy bloodbath sweeping America's fast-food industry has claimed another victim as a major KFC and Taco Bell franchise operator buckles under the weight of plunging sales, soaring operating costs, and ",
-    "ss": "Acımasız Kâr Çöküşünden Sonra Bir Büyük Fast Food Franchise Sahibi Daha İflasla Sarsıldı Amerika'nın fast-food endüstrisini kasıp kavuran iflas kan banyosu, büyük bir KFC ve Taco Bell franchise işletmecisinin düşen satışlar, artan işletme maliyetleri ve artan işletme maliyetleri altında ezilmesinden dolayı bir kurban daha aldı.",
-    "u": "https://www.zerohedge.com/political/yet-another-major-fast-food-franchisee-rocked-bankruptcy-after-brutal-profit-collapse",
-    "ts": 1795043400000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic IPO Prices At $83, Raises A Record $107 Billion... With Its Own Chip Suppliers Holding Up The Floor",
-    "tt": "Antropik Halka Arz Fiyatları 83 Dolar Oldu, 94 Milyar Dolara Yükseldi... Kendi Çip Tedarikçileri Ayakta Kaldı",
-    "s": "Anthropic IPO Prices At $83, Raises A Record $107 Billion... With Its Own Chip Suppliers Holding Up The Floor Update: the revised IPO terms were just published by Anthropic , and instead of the 825 million shares offered previously, the new offering is 980 million shares, a 19% increase in the offer",
-    "ss": "Anthropic Halka Arz Fiyatları 83 Dolar, Rekor 94 Milyar Dolara Yükseldi... Kendi Çip Tedarikçileri Ayakta Kalarak Resmi: Anthropic 1,08 trilyon dolarlık bir şirket... ya da - geçen hafta belirttiğimiz gibi - kimin saydığına bağlı olarak 1,49 trilyon dolarlık tamamen sulandırılmış bir şirket. Aynı \"yukarıda\" olduğu bir hafta sonra",
-    "u": "https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor",
-    "ts": 1795042800000,
     "tags": []
    }
   ],
@@ -1082,6 +1080,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
