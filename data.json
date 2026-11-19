@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T03:45:14.499415+00:00",
+ "generated": "2026-11-19T04:52:24.131698+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 50198.17,
+   "p": 50198.2,
    "c": -1.11,
-   "d": -561.252,
+   "d": -561.222,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3714.9,
-   "c": -0.72,
-   "d": -27.0,
+   "p": 3724.2,
+   "c": -0.47,
+   "d": -17.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 44.855,
-   "c": -0.32,
-   "d": -0.144,
+   "p": 45.08,
+   "c": 0.18,
+   "d": 0.081,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.83,
-   "c": -1.72,
-   "d": -1.43,
+   "p": 82.22,
+   "c": -1.25,
+   "d": -1.04,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.97,
-   "c": -3.24,
-   "d": -2.98,
+   "p": 89.37,
+   "c": -2.81,
+   "d": -2.58,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.947,
-   "c": 0.08,
-   "d": 0.087,
+   "p": 103.911,
+   "c": 0.05,
+   "d": 0.051,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4515,
-   "c": 0.03,
-   "d": 0.013,
+   "p": 50.4449,
+   "c": 0.01,
+   "d": 0.007,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 62919,
-   "c": -2.4,
+   "p": 63588,
+   "c": -1.19,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1778.98,
-   "c": -1.45,
+   "p": 1800.47,
+   "c": -0.06,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.71,
-   "c": -1.66,
+   "p": 74.57,
+   "c": -0.41,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.962555,
-   "c": -1.63,
+   "p": 0.975756,
+   "c": -0.23,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 580.85,
-   "c": -1.86,
+   "p": 586.88,
+   "c": -0.75,
    "k": "usd"
   }
  ],
@@ -584,6 +584,50 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Gold Wavers Near 14-Month Low as Market Tracks Hawkish Fed",
+    "tt": "Altın, Piyasanın Şahin Fed'i Takip Etmesiyle 14 Ayın En Düşük Seviyesinde Dalgalanıyor",
+    "s": "Gold wavered near a 14-month low after Federal Reserve officials signaled that interest-rate hikes are likely to stretch into next year.",
+    "ss": "Altın, Fed yetkililerinin faiz artırımlarının gelecek yıla da yayılabileceği sinyalini vermesinin ardından 14 ayın en düşük seviyesine yakın dalgalandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+    "ts": 1795044246000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "New World Shares Tank 54% to Head for Worst Week on Rights Issue",
+    "tt": "Yeni Dünya Hisseleri %54'le Haklar Konusunda En Kötü Haftaya Doğru Gidiyor",
+    "s": "New World Development Co. shares are heading for their worst week on record as a heavily discounted rights issue shakes investor confidence, prompting analysts to downgrade the indebted Hong Kong developer.",
+    "ss": "New World Development Co. hisseleri, büyük oranda iskonto edilen haklar sorununun yatırımcıların güvenini sarsması ve analistlerin borçlu Hong Konglu geliştiricinin notunu düşürmesine yol açmasıyla tarihteki en kötü haftasına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/new-world-shares-tank-54-to-head-for-worst-week-on-rights-issue",
+    "ts": 1795063100000,
+    "tags": []
+   },
+   {
+    "t": "Xi Pledges $20 Million for APEC Cooperation",
+    "tt": "Xi, APEC İşbirliği İçin 20 Milyon Dolar Söz Verdi",
+    "s": "Bloomberg's Stephen Engle reports on China's plans to provide about $20 million for APEC cooperation, including a policy research center, signaling support for multilateralism across the 21-member group. Host city Shenzhen, operating under heightened security during the ongoing APEC summit, also sho",
+    "ss": "Bloomberg'den Stephen Engle, Çin'in bir politika araştırma merkezi de dahil olmak üzere APEC işbirliği için yaklaşık 20 milyon dolar sağlama planlarını bildiriyor ve 21 üyeli grup genelinde çok taraflılığa destek sinyali veriyor. Devam eden APEC zirvesi sırasında yüksek güvenlik altında faaliyet gösteren ev sahibi şehir Shenzhen de",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/xi-pledges-20-million-for-apec-cooperation-video",
+    "ts": 1795061967000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Fluctuate on Anthropic, Aussie Dollar Falls: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
+    "s": "Asian stocks and US equity-index futures diverged after Anthropic PBC priced its initial public offering, putting investor appetite for the technology sector to a fresh test after global equities slid to their weakest level since April. The Australian dollar fell.",
+    "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795039661000,
+    "tags": [
+     "DXY ▼"
+    ]
+   },
+   {
     "t": "Anthropic IPO Hands Korean Tycoon’s Firm $3 Billion Windfall",
     "tt": "Antropik Halka Arz, SK Hynix Tycoon'un Firmasına 3 Milyar Dolarlık Beklenmedik Bir Kazanç Sağladı",
     "s": "Anthropic PBC’s blockbuster initial public offering has delivered a multibillion-dollar windfall for billionaire Chey Tae-won’s empire, rewarding an early bet on the artificial intelligence startup by SK Telecom Co., South Korea’s largest mobile carrier.",
@@ -596,9 +640,9 @@
    },
    {
     "t": "'The Meeting is the Message': Ex-CIA Official on Trilateral’s Symbolism",
-    "tt": null,
+    "tt": "'Toplantı Mesajdır': Trilateral'in Sembolizmine İlişkin Eski CIA Yetkilisi",
     "s": "Dennis Wilder, Senior Fellow at Georgetown University and former CIA Deputy Assistant Director for East Asia and the Pacific, says the trilateral meeting between US President Donald Trump, Chinese counterpart Xi Jinping and Russian President Vladimir Putin is in itself sending a message. Wilder argu",
-    "ss": null,
+    "ss": "Georgetown Üniversitesi Kıdemli Üyesi ve eski CIA Doğu Asya ve Pasifik Direktör Yardımcısı Dennis Wilder, ABD Başkanı Donald Trump, Çinli mevkidaşı Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin arasındaki üçlü toplantının başlı başına bir mesaj gönderdiğini söyledi. Wilder tartışıyor",
     "u": "https://www.bloomberg.com/news/videos/2026-11-19/ex-cia-official-on-trilateral-s-symbolism-and-impact-video",
     "ts": 1795058876000,
     "tags": []
@@ -623,9 +667,9 @@
    },
    {
     "t": "Treasuries Draw Record Demand From South Korean Investors",
-    "tt": null,
+    "tt": "Hazine tahvillerine Güney Koreli yatırımcılardan rekor talep geldi",
     "s": "South Korean investors bought a record amount of US Treasuries in September, reversing heavy selling as yields climbed and buyers sought to diversify away from a chip-heavy local stock market.",
-    "ss": null,
+    "ss": "Güney Koreli yatırımcılar Eylül ayında rekor miktarda ABD Hazine tahvili satın alarak, getirilerin artması ve alıcıların çip ağırlıklı yerel borsadan uzaklaşma arayışına girmesiyle yoğun satışları tersine çevirdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/korea-investors-buy-record-amount-of-treasuries-in-september",
     "ts": 1795049102000,
     "tags": [
@@ -637,19 +681,10 @@
     ]
    },
    {
-    "t": "Stocks Lose Momentum After Anthropic, Aussie Drops: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "Stocks struggled to sustain gains for a second straight session as lingering concerns over the artificial-intelligence trade tempered initial enthusiasm over Anthropic PBC’s IPO pricing. The Australian dollar fell.",
-    "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795039661000,
-    "tags": []
-   },
-   {
     "t": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
-    "tt": null,
+    "tt": "Avustralya Doları, Faiz İndirimi Bahislerinin Artmasıyla 2026 Kazancını Sildi",
     "s": "Australia’s dollar wiped out its 2026 gain against the greenback after weak employment data reinforced bets that the central bank has ended its interest-rate hike cycle and will pivot to cuts next year.",
-    "ss": null,
+    "ss": "Avustralya doları, zayıf istihdam verilerinin merkez bankasının faiz artırım döngüsünü sona erdirdiği ve gelecek yıl faiz indirimlerine yöneleceği yönündeki bahisleri güçlendirmesinin ardından dolar karşısında 2026'daki kazancını sildi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
     "ts": 1795053217000,
     "tags": [
@@ -659,33 +694,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "RRJ-Led Consortium Buys Australia Coal Miner’s $619 Million Debt",
-    "tt": null,
-    "s": "A consortium led by private investment firm RRJ Capital has agreed to buy $619 million of bonds from Australian coking coal miner GM3, according to people familiar with the matter.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/rrj-led-consortium-buys-australia-coal-miner-s-619-million-debt",
-    "ts": 1795055603000,
-    "tags": []
-   },
-   {
-    "t": "India Studies Tax Proposals to Encourage Stock Trading, Curb Speculative Bets",
-    "tt": null,
-    "s": "Investors and economists have proposed raising taxes on stock derivatives while lowering levies on share trading.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-19/india-studies-tax-proposals-to-encourage-stock-trading-curb-speculative-bets",
-    "ts": 1795055435000,
-    "tags": []
-   },
-   {
-    "t": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
-    "tt": "Çin, Hong Kong'da 2 Milyar Dolara Kadar Tahvil Piyasaya Sürüyor",
-    "s": "China began marketing up to $2 billion of dollar-denominated sovereign bonds, as leaders of the world’s two largest economies are set to meet in Shenzhen.",
-    "ss": "Çin, bu ay ikinci denizaşırı tahvil arzında 2 milyar dolar kadar toplamayı planladığı için Hong Kong'da dolar cinsinden devlet tahvili pazarlamaya başladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
-    "ts": 1795049870000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -795,18 +803,18 @@
   "MarketWatch": [
    {
     "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "tt": null,
+    "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
     "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-    "ss": null,
+    "ss": "\"Yorgunum. Alarmım sabah 6'da çalıyor ve işe gidip gelmem için 50 dakikam var.\"",
     "u": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
     "ts": 1795059900000,
     "tags": []
    },
    {
     "t": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-    "tt": null,
+    "tt": "'Düpedüz kirli': Kardeşim, hasta annemizin hayatını ve mali durumunu devraldı. Ne yapabilirim?",
     "s": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-    "ss": null,
+    "ss": "\"Güvenmeniz gereken insanların, kendinizi korumanız gereken insanlar haline gelmesi yıkıcı bir şey.\"",
     "u": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
     "ts": 1795059900000,
     "tags": []
@@ -886,97 +894,160 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Is The Crimean Bridge's Partial Collapse A Tactical Setback Or A Strategic Disaster For Russia?",
+    "tt": "Kırım Köprüsü'nün Kısmi Çökmesi Rusya İçin Taktiksel Bir Gerileme mi Yoksa Stratejik Bir Felaket mi?",
+    "s": "Is The Crimean Bridge's Partial Collapse A Tactical Setback Or A Strategic Disaster For Russia? Authored by Andrew Korybko via Substack , So long as Russia can defend its land bridge from Ukraine's attempted drone-enforced \"blockade\", everything should be okay, but the tightening of the aforesaid \"b",
+    "ss": "Kırım Köprüsü'nün Kısmi Çökmesi Rusya İçin Taktiksel Bir Gerileme mi Yoksa Stratejik Bir Felaket mi? Andrew Korybko tarafından Substack aracılığıyla yazılmıştır. Rusya kara köprüsünü Ukrayna'nın insansız hava aracıyla uyguladığı \"abluka\" girişimine karşı koruyabildiği sürece her şey yolunda olmalı, ancak yukarıda bahsedilen \"b\"nin sıkılaştırılması",
+    "u": "https://www.zerohedge.com/geopolitical/crimean-bridges-partial-collapse-tactical-setback-or-strategic-disaster-russia",
+    "ts": 1795063200000,
+    "tags": []
+   },
+   {
+    "t": "Lefty Sen. Padilla Says \"Everyone\" Deserves The American Dream. All 8.3 Billion People?",
+    "tt": "Solcu Senatör Padilla \"Herkes\"in Amerikan Rüyasını Hak Ettiğini Söyledi. 8,3 Milyar İnsanın Tamamı mı?",
+    "s": "Lefty Sen. Padilla Says \"Everyone\" Deserves The American Dream. All 8.3 Billion People? Lefty US Senator Alex Padilla's (D-CA) use of \" everyone \" to describe who \"deserves a fair shot at the American Dream\" has drawn online criticism, with many questioning the politician's prioritization of illegal",
+    "ss": "Solcu Senatör Padilla \"Herkes\"in Amerikan Rüyasını Hak Ettiğini Söyledi. 8,3 Milyar İnsanın Tamamı mı? Solak ABD Senatörü Alex Padilla'nın (D-CA) \"Amerikan Rüyasında adil bir şansı hak eden\" kişiyi tanımlamak için \"herkes\" kelimesini kullanması internette eleştirilere yol açtı ve pek çok kişi politikacının yasa dışı seçimlere öncelik vermesini sorguladı.",
+    "u": "https://www.zerohedge.com/political/lefty-sen-padilla-says-everyone-deserves-american-dream-all-83-billion-people",
+    "ts": 1795062000000,
+    "tags": []
+   },
+   {
+    "t": "Former US Diplomat Recalls CCP 'Honey Traps', Surveillance, Business Pitfalls In China",
+    "tt": "Eski ABD Diplomatı ÇKP'nin 'Bal Tuzaklarını', Gözetlemeyi ve Çin'deki Ticari Tuzakları Hatırlıyor",
+    "s": "Former US Diplomat Recalls CCP 'Honey Traps', Surveillance, Business Pitfalls In China Authored by Eliza Wu and Olivia Li via The Epoch Times , After the fall of the Berlin Wall on Nov. 9, 1989, staff at the U.S. Embassy in East Germany uncovered a damaging breach inside their own walls: An American",
+    "ss": "Eski ABD Diplomatı, ÇKP'nin 'Bal Tuzaklarını', Gözetimini ve Çin'deki İş Tuzaklarını Hatırlıyor Eliza Wu ve Olivia Li tarafından The Epoch Times aracılığıyla yazılmıştır, 9 Kasım 1989'da Berlin Duvarı'nın yıkılmasından sonra, Doğu Almanya'daki ABD Büyükelçiliği personeli, kendi duvarlarının içindeki zarar verici bir gediği ortaya çıkardı: Bir Amerikalı",
+    "u": "https://www.zerohedge.com/geopolitical/former-us-diplomat-recalls-ccp-honey-traps-surveillance-business-pitfalls-china",
+    "ts": 1795060800000,
+    "tags": []
+   },
+   {
     "t": "NY Times Thinks It's Unfair To Criticize Their Reporting",
-    "tt": null,
+    "tt": "NY Times, Haberlerini Eleştirmenin Haksız Olduğunu Düşünüyor",
     "s": "NY Times Thinks It's Unfair To Criticize Their Reporting There's been an avalanche of pushback and a real pile-on (much deserved) against the New York Times in the wake of its story published this week entitled: War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason . The NY Times ",
-    "ss": null,
+    "ss": "NY Times, Haberlerini Eleştirmenin Haksızlık Olduğunu Düşünüyor New York Times'ın bu hafta yayınlanan: Savaş, İran Barajlarının Uzun Zamandır Açık Bir Sebep Olmadan İnşa Edildiği Bilmecesine Cevap Verebilir başlıklı öyküsünün ardından, New York Times'a karşı çığ gibi bir geri itme ve gerçek bir yığılma (oldukça hak edilmiş) yaşandı. NY Times",
     "u": "https://www.zerohedge.com/geopolitical/ny-times-thinks-its-unfair-criticize-their-reporting",
     "ts": 1795059600000,
     "tags": []
    },
    {
     "t": "Trump Says US Rare Earths Production Will Match China's Within 10 Months",
-    "tt": null,
+    "tt": "Trump, ABD'nin Nadir Toprak Üretiminin 10 Ay İçinde Çin'in Üretimiyle Eşleşeceğini Söyledi",
     "s": "Trump Says US Rare Earths Production Will Match China's Within 10 Months Authored by Jill McLaughlin via The Epoch Times , The United States should have enough rare earth minerals within 10 months to supply its own critical materials needed for national security, energy, and industry , President Don",
-    "ss": null,
+    "ss": "Trump, ABD Nadir Toprak Üretiminin 10 Ay İçinde Çin'in Üretimiyle Eşleşeceğini Söyledi Jill McLaughlin, The Epoch Times aracılığıyla, ABD'nin 10 ay içinde ulusal güvenlik, enerji ve endüstri için ihtiyaç duyduğu kritik malzemeleri sağlamaya yetecek kadar nadir toprak minerallerine sahip olması gerekiyor, Başkan Don",
     "u": "https://www.zerohedge.com/geopolitical/trump-says-us-rare-earths-production-will-match-chinas-within-10-months",
     "ts": 1795058400000,
     "tags": []
    },
    {
     "t": "Palmer Luckey's Secret $1 Billion Seastead Isn't What You Think",
-    "tt": null,
+    "tt": "Palmer Luckey'nin Sırrı 1 Milyar Dolarlık Seastead Düşündüğünüz Gibi Değil",
     "s": "Palmer Luckey's Secret $1 Billion Seastead Isn't What You Think Anduril cofounder Palmer Luckey says he has spent the years since selling Oculus to Facebook developing a seastead called SLAB, with \"a 1,000 year design life,\" built to be \"cheaper than land and absent state/local laws that cripple cri",
-    "ss": null,
+    "ss": "Palmer Luckey'nin Sırrı 1 Milyar Dolarlık Deniz Alanı Sandığınız Gibi Değil Anduril'in kurucu ortağı Palmer Luckey, Oculus'u Facebook'a sattığından bu yana yıllarını, \"karadan daha ucuz\" olacak şekilde inşa edilmiş ve \"karadan daha ucuz\" olacak şekilde inşa edilmiş ve sosyal ağları sekteye uğratan eyalet/yerel yasaların bulunmadığı SLAB adlı bir deniz alanı geliştirmek için harcadığını söylüyor",
     "u": "https://www.zerohedge.com/technology/palmer-luckeys-secret-1-billion-seastead-isnt-what-you-think",
     "ts": 1795057200000,
     "tags": []
    },
    {
     "t": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage",
-    "tt": null,
+    "tt": "\"Defalarca Patlatmak İçin Kötü Form\": İki Kez Yanan Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planını Yapıyor... Bu Kez Daha Fazla Kaldıraçla",
     "s": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage Some people learn from blowing up. Others raise more money. Four months after his AI hedge fund went from $20 billion-plus to needing a firesale rescue from Ken Grif",
-    "ss": null,
+    "ss": "\"Defalarca Patlatmak İçin Kötü Biçim\": İki Kez Yakılan Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planlıyor... Bu Kez Daha Fazla Kaldıraçla Bazı insanlar patlamadan ders alıyor. Diğerleri daha fazla para topluyor. Yapay zeka hedge fonunun 20 milyar dolardan fazla bir değerden Ken Grif'in acilen kurtarılmasına ihtiyaç duymasından dört ay sonra",
     "u": "https://www.zerohedge.com/markets/bad-form-blow-repeatedly-twice-burned-leopold-aschenbrenner-plots-situational-awareness-20",
     "ts": 1795056300000,
     "tags": []
    },
    {
     "t": "Electoral College Under Threat",
-    "tt": null,
+    "tt": "Seçim Kurulu Tehdit Altında",
     "s": "Electoral College Under Threat Authored by Joseph Burns via City Journal , With the 2026 election in the books, attention turns to what emboldened Democrats from state capitals to Capitol Hill will do with their newfound power. The press appears focused on hot topics like AI and affordability polici",
-    "ss": null,
+    "ss": "Seçici Kurul Tehdit Altında Yazan: Joseph Burns, City Journal aracılığıyla, 2026 seçimlerinin kitaplarda yer almasıyla birlikte dikkatler, eyalet başkentlerinden Capitol Hill'e kadar cesaretlenen Demokratların yeni buldukları güçle ne yapacaklarına çevriliyor. Basın yapay zeka ve uygun fiyat politikası gibi güncel konulara odaklanmış görünüyor",
     "u": "https://www.zerohedge.com/political/electoral-college-under-threat",
     "ts": 1795056000000,
     "tags": []
    },
    {
     "t": "Harvard Study Reveals What Happens When Schools Lock Up Kids' Phones",
-    "tt": null,
+    "tt": "Harvard Araştırması, Okullar Çocukların Telefonlarını Kilitlediğinde Ne Olacağını Ortaya Çıkarıyor",
     "s": "Harvard Study Reveals What Happens When Schools Lock Up Kids' Phones Shocker... Schools that locked students' phones away for the whole school day saw math and reading scores grow faster , by about one to two extra weeks of learning a year, according to a Harvard study of 3.3 million students releas",
-    "ss": null,
+    "ss": "Harvard Araştırması, Okullar Çocukların Telefonlarını Kilitlediğinde Ne Olacağını Ortaya Çıkarıyor Şok... Harvard'ın 3,3 milyon öğrenciyle yaptığı araştırmaya göre, tüm okul günü boyunca öğrencilerinin telefonlarını kilitleyen okullar, matematik ve okuma puanlarının yılda yaklaşık bir ila iki hafta fazladan öğrenmeyle daha hızlı arttığını gördü",
     "u": "https://www.zerohedge.com/technology/harvard-study-reveals-what-happens-when-schools-lock-kids-phones",
     "ts": 1795054800000,
     "tags": []
    },
    {
     "t": "NIH Targets Fauci's Secret Role In Lab Leak Cover-Up Paper",
-    "tt": null,
+    "tt": "NIH, Fauci'nin Laboratuvar Sızıntısını Örtbas Etme Makalesindeki Gizli Rolünü Hedefliyor",
     "s": "NIH Targets Fauci's Secret Role In Lab Leak Cover-Up Paper Authored by Steve Watson via Modernity , The Trump administration has formally demanded that Nature Medicine investigate whether Anthony Fauci, Francis Collins and Sir Jeremy Farrar secretly shaped the 2020 paper that became the decisive wea",
-    "ss": null,
+    "ss": "NIH, Fauci'nin Laboratuar Sızıntısını Örtbas Etme Makalesindeki Gizli Rolünü Hedef Aldı Steve Watson via Modernity tarafından yazılmıştır. Trump yönetimi, Nature Medicine'in Anthony Fauci, Francis Collins ve Sir Jeremy Farrar'ın belirleyici güç haline gelen 2020 makalesini gizlice şekillendirip şekillendirmediğini araştırmasını resmi olarak talep etti.",
     "u": "https://www.zerohedge.com/political/nih-targets-faucis-secret-role-lab-leak-cover-paper",
     "ts": 1795053600000,
-    "tags": []
-   },
-   {
-    "t": "Wall Street's Climate Cartel Faces New Scrutiny Over \"Blatant Weaponization\"",
-    "tt": "Wall Street'in İklim Karteli \"Bariz Silahlanma\" Konusunda Yeni İncelemeyle Karşı Karşıya",
-    "s": "Wall Street's Climate Cartel Faces New Scrutiny Over \"Blatant Weaponization\" Wall Street's biggest banks may have walked away from their virtual-signaling climate pledges, but a conservative consumer watchdog alleges that the policies behind them could still be freezing lawful businesses out of the ",
-    "ss": "Wall Street'in İklim Karteli \"Açık Silahlanma\" Konusunda Yeni Bir İncelemeyle Karşı Karşıya Wall Street'in en büyük bankaları sanal sinyalizasyon iklim taahhütlerinden uzaklaşmış olabilir, ancak muhafazakar bir tüketici gözlemcisi, bunların arkasındaki politikaların hâlâ yasal işletmeleri küresel ölçekten donduruyor olabileceğini iddia ediyor",
-    "u": "https://www.zerohedge.com/markets/wall-streets-climate-cartel-faces-new-scrutiny-over-blatant-weaponization",
-    "ts": 1795052400000,
-    "tags": []
-   },
-   {
-    "t": "Houthis Are 'Occupying' Part Of Saudi Arabia, Tucker Carlson Claims",
-    "tt": "Tucker Carlson, Husilerin Suudi Arabistan'ın Bir Kısmını 'İşgal Ettiğini' İddia Ediyor",
-    "s": "Houthis Are 'Occupying' Part Of Saudi Arabia, Tucker Carlson Claims Via Middle East Eye Conservative US podcaster Tucker Carlson said that Yemen’s Houthis are “occupying” parts of Saudi Arabia, and that the American media is not covering the wartime development. “The Houthis are legitimately threate",
-    "ss": "Tucker Carlson, Husilerin Suudi Arabistan'ın Bir Kısmını 'İşgal Ettiğini' İddia Ediyor Middle East Eye Conservative Aracılığıyla ABD'li podcast yayıncısı Tucker Carlson, Yemen'deki Husilerin Suudi Arabistan'ın bazı kısımlarını 'işgal ettiğini' ve Amerikan medyasının savaş zamanı gelişmelerini haber yapmadığını söyledi. \"Husiler meşru bir tehdit oluşturuyor\"",
-    "u": "https://www.zerohedge.com/geopolitical/houthis-are-occupying-part-saudi-arabia-tucker-carlson-says",
-    "ts": 1795051200000,
-    "tags": []
-   },
-   {
-    "t": "Watch: Musk Shreds 'Russian Apologist' Smears, Exposes Zelensky's Starlink Lies At NYT DealBook Summit",
-    "tt": "İzle: Musk, NYT DealBook Zirvesinde 'Rus Özürcü' Lekelerini Parçaladı, Zelensky'nin Starlink Yalanlarını Ortaya Çıkardı",
-    "s": "Watch: Musk Shreds 'Russian Apologist' Smears, Exposes Zelensky's Starlink Lies At NYT DealBook Summit Update(1925ET) : Among the more interesting and explosive stand-out parts of the NY Times' DealBook Summit interview with Elon Musk (Musk joined remotely from China), Andrew Ross Sorkin pressed him",
-    "ss": "İzleyin: Musk 'Rus Savunucusu' Karalamalarını Parçaladı, NYT DealBook Zirvesi Güncellemesinde Zelensky'nin Starlink Yalanını Ortaya Çıkardı (1925ET): NY Times'ın DealBook Zirvesi'nde Elon Musk ile yapılan röportajın daha ilginç ve patlayıcı öne çıkan kısımları arasında (Musk Çin'den uzaktan katıldı), Andrew Ross Sorkin ona baskı yaptı",
-    "u": "https://www.zerohedge.com/geopolitical/dutch-startup-boasts-its-missiles-helped-destroy-crimea-bridge-now-russias-crosshairs",
-    "ts": 1795049100000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Anthropic'ten 81,3 milyar dolarlık rekor halka arz",
+    "tt": null,
+    "s": "Yapay zekâ şirketi Anthropic, 81,3 milyar dolarlık halka arzıyla SpaceX'i geride bırakarak tarihin en büyük halka arzına imza attı. Hisse başına 83 dolardan gerçekleştirilen halka arzla şirketin değeri yaklaşık 1,5 trilyon dolara ulaşırken, 26 milyar dolarlık özel plasmanla birlikte toplam kaynak 10",
+    "ss": null,
+    "u": "https://www.bloomberght.com/anthropic-ten-81-3-milyar-dolarlik-rekor-halka-arz-3795061",
+    "ts": 1795063251000,
+    "tags": []
+   },
+   {
+    "t": "BOJ Başkanı Ueda'dan faiz artırımına açık kapı",
+    "tt": null,
+    "s": "Japonya Merkez Bankası (BOJ) Başkanı Kazuo Ueda, tüketici harcamalarındaki zayıflığın geçici olduğunu belirterek, ekonomik daralmaya rağmen faiz artırımına devam edilebileceğinin sinyalini verdi. Piyasalarda aralık ayında faiz artırımı olasılığı yüzde 84'e yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/boj-baskani-ueda-dan-faiz-artirimina-acik-kapi-3795060",
+    "ts": 1795062250000,
+    "tags": []
+   },
+   {
+    "t": "Trump yapay zekaya yönelik küreselci düzenlemeye karşı çıktı",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump, Çin'deki APEC Zirvesi'nde yapay zekanın \"bazı kötü unsurları\" olduğunu ancak \"neredeyse tamamen iyi\" olduğunu belirterek, yapay zekanın kontrol edilmesine veya kısıtlanmasına yönelik her türlü \"küreselci düzenlemeye\" karşı olduklarını söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-yapay-zekaya-yonelik-kureselci-duzenlemeye-karsi-cikti-3795059",
+    "ts": 1795061722000,
+    "tags": []
+   },
+   {
+    "t": "Mustafa Yazıcı'ya 'fon soruşturması'nda adli kontrol talebi",
+    "tt": null,
+    "s": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında ifade işlemleri tamamlanan Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı, adli kontrol talebiyle sulh ceza hakimliğine sevk edildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/mustafa-yazici-ya-fon-sorusturmasi-nda-adli-kontrol-talebi-3795058",
+    "ts": 1795061181000,
+    "tags": []
+   },
+   {
+    "t": "İngiltere'den AB öğrencilerine üniversite ücretlerini azaltma planı",
+    "tt": null,
+    "s": "İngiltere hükümeti, Avrupa Birliği vatandaşı üniversite öğrencilerinin İngiltere'deki üniversitelere ödediği ücretleri yıllık 38 bin sterlinden İngiliz öğrencilerin ödediği 9 bin 970 sterline çekme planını AB yetkililerine iletti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ingiltere-den-ab-ogrencilerine-universite-ucretlerini-azaltma-plani-3795057",
+    "ts": 1795060701000,
+    "tags": []
+   },
+   {
+    "t": "Enerji ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi, Komisyonda kabul edildi",
+    "tt": null,
+    "s": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonunda kabul edildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/enerji-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi-3795056",
+    "ts": 1795060155000,
+    "tags": []
+   },
+   {
+    "t": "Moody's'ten ABD ekonomisi için borç uyarısı",
+    "tt": null,
+    "s": "ABD'ye yönelik kredi incelemesini tamamlayan Moody's, Aa1 notunu korurken federal borcun 31,8 trilyon dolara, bütçe açığının ise 2 trilyon dolara ulaştığını bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/moodysten-abd-ekonomisi-icin-borc-uyarisi-3795055",
+    "ts": 1795059642000,
+    "tags": []
+   },
    {
     "t": "Ekonomi ve siyaset gündemi- 19 Kasım 2026",
     "tt": null,
@@ -1003,69 +1074,6 @@
     "u": "https://www.bloomberght.com/anthropic-in-halka-arz-fiyati-beklenti-araligini-asti-3795052",
     "ts": 1795037401000,
     "tags": []
-   },
-   {
-    "t": "Resmi Gazete'de bugün (19.11.2026)",
-    "tt": null,
-    "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-19112026-3795051",
-    "ts": 1795035882000,
-    "tags": []
-   },
-   {
-    "t": "İran anlaşmazlığının Vance'in 2028 adaylığını gölgelediği iddia edildi",
-    "tt": null,
-    "s": "New York Times, Trump'ın seçim yenilgisini İran savaşına bağlayan JD Vance'in açıklamalarından rahatsız olduğunu ve Vance'in 2028 başkan adaylığına mesafeli yaklaşmaya başladığını öne sürdü.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-anlasmazliginin-vance-in-2028-adayligini-golgeledigi-iddia-edildi-3795050",
-    "ts": 1795035402000,
-    "tags": []
-   },
-   {
-    "t": "AB'den Ukrayna'ya 45 milyar euroluk yeni kredi önerisi",
-    "tt": null,
-    "s": "Avrupa Komisyonu, Ukrayna'nın gelecek yılki finansman açığını kapatmaya katkı sağlamak için 45 milyar euroluk yeni kredi önerdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ab-den-ukrayna-ya-45-milyar-euroluk-yeni-kredi-onerisi-3795049",
-    "ts": 1795034070000,
-    "tags": []
-   },
-   {
-    "t": "Fon soruşturmasında Emre Tezmen ve Taha Çakmak ek ifade verdi",
-    "tt": null,
-    "s": "Fon soruşturmasında tutuklu bulunan Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen ile eski Türkiye Sigorta Genel Müdürü Taha Çakmak, savcılığa ek ifade verdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fon-sorusturmasinda-emre-tezmen-ve-taha-cakmak-ek-ifade-verdi-3795048",
-    "ts": 1795032317000,
-    "tags": []
-   },
-   {
-    "t": "Fed tutanakları: Neredeyse tüm yetkililer faiz artışından yana",
-    "tt": null,
-    "s": "Fed'in Ekim FOMC Toplantısı tutanaklarına göre, yetkililerin neredeyse tamamı enflasyonu yüzde 2'ye indirmek için önümüzdeki aylarda faizlerin yeniden artırılması gerektiğini düşünüyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fed-tutanaklari-neredeyse-tum-uyeler-faiz-artisindan-yana-3795047",
-    "ts": 1795030315000,
-    "tags": []
-   },
-   {
-    "t": "AB'den Rusya'ya yeni yaptırım uyarısı",
-    "tt": null,
-    "s": "Avrupa Birliği (AB), Ukrayna'da kimyasal silah kullandığı iddiaları üzerine Rusya'ya bu tür silahların kullanımını derhal durdurma çağrısı yaptı. AB, sorumlulara yönelik yeni yaptırımlar uygulamaya hazır olduğunu bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ab-den-rusya-ya-yeni-yaptirim-uyarisi-3795038",
-    "ts": 1795026873000,
-    "tags": []
-   },
-   {
-    "t": "İngiliz savunma devi BAE Systems 1.070 çalışanını işten çıkarıyor",
-    "tt": null,
-    "s": "BAE Systems, İngiltere'deki genel merkezinde ve havacılık faaliyetlerinde 1.070 çalışanını işten çıkarmayı planladığını açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ingiliz-savunma-devi-bae-systems-1070-calisanini-isten-cikariyor-3795037",
-    "ts": 1795026406000,
-    "tags": []
    }
   ]
  },
@@ -1081,7 +1089,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
