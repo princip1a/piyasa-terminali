@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T08:15:12.182910+00:00",
+ "generated": "2026-11-19T09:22:47.809683+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,51 +17,51 @@
   },
   {
    "n": "Dow",
-   "p": 50198.2,
+   "p": 50198.17,
    "c": -1.11,
-   "d": -561.222,
+   "d": -561.252,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 24.56,
-   "c": -3.53,
-   "d": -0.9,
+   "p": 21.94,
+   "c": -10.67,
+   "d": -2.62,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3734.9,
-   "c": -0.19,
-   "d": -7.0,
+   "p": 3736.6,
+   "c": -0.14,
+   "d": -5.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.195,
-   "c": 0.44,
-   "d": 0.196,
+   "p": 45.065,
+   "c": 0.15,
+   "d": 0.066,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.3,
-   "c": -1.15,
-   "d": -0.96,
+   "p": 82.78,
+   "c": -0.58,
+   "d": -0.48,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.37,
-   "c": -2.81,
-   "d": -2.58,
+   "p": 89.77,
+   "c": -2.37,
+   "d": -2.18,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.773,
-   "c": -0.08,
-   "d": -0.087,
+   "p": 103.685,
+   "c": -0.17,
+   "d": -0.175,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4638,
+   "p": 50.4637,
    "c": 0.05,
    "d": 0.025,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11503.77,
-   "c": 0.23,
-   "d": 26.37,
+   "p": 11431.56,
+   "c": -0.4,
+   "d": -45.84,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 63651,
-   "c": -1.35,
+   "p": 63758,
+   "c": -1.3,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1801.9,
-   "c": -0.28,
+   "p": 1803.03,
+   "c": -0.38,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 74.62,
-   "c": -0.16,
+   "p": 74.53,
+   "c": -0.28,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.980027,
-   "c": -1.86,
+   "p": 0.984902,
+   "c": -1.28,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 589.03,
-   "c": -0.44,
+   "p": 590.15,
+   "c": -0.22,
    "k": "usd"
   }
  ],
@@ -584,77 +584,84 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Hong Kong Family Office Unwinds $3.9 Billion of Bets Around AI",
-    "tt": "Hong Kong Aile Ofisi Yapay Zekayla İlgili 3,9 Milyar Dolarlık Bahsi Geri Aldı",
-    "s": "The Hong Kong family office launched by hedge fund veteran Larry Chen slashed its equity holdings last quarter as investors more broadly retreated from AI assets.",
-    "ss": "Finansal riskten korunma fonu emektarı Larry Chen tarafından kurulan Hong Kong aile ofisi, yatırımcıların yapay zeka varlıklarından daha geniş çapta çekilmesiyle geçen çeyrekte özsermaye varlıklarını azalttı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/hong-kong-family-office-unwinds-3-9-billion-of-bets-around-ai",
-    "ts": 1795075117000,
+    "t": "Path to Year-End Rally Looks Clearer After Anthropic",
+    "tt": "Yıl Sonu Hisse Senedi Rallisine Giden Yol Antropik Sonrası Daha Net Görünüyor",
+    "s": "Optimism is growing for a year-end rally once a series of major risk events that prompted equity investors to slash exposure is done.",
+    "ss": "Hisse senedi yatırımcılarını risklerini azaltmaya iten bir dizi önemli risk olayının sona ermesiyle yıl sonu yükselişine ilişkin iyimserlik artıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/the-path-to-a-year-end-rally-looks-clearer-taking-stock",
+    "ts": 1795072884000,
     "tags": []
    },
    {
-    "t": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade",
-    "tt": "Antropik Halka Arzın Yapay Zeka Ticaretini Artırmasıyla ABD Teknoloji Hisseleri Yükselişe Hazırlanıyor",
-    "s": "US technology stocks were set to bounce after a blockbuster reception to Anthropic PBC’s initial public offering revived confidence in the artificial intelligence trade.",
-    "ss": "ABD teknoloji hisseleri, Anthropic PBC'nin ilk halka arzının gişe rekorları kıran tepkisinin yapay zeka ticaretine olan güveni yeniden canlandırmasının ardından toparlanmaya hazırlanıyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
-    "ts": 1795072156000,
+    "t": "Nick Khan on Making WWE a Global Media Power",
+    "tt": "Nick Khan, WWE'yi Küresel Medya Gücü Haline Getirme Konusunda Konuşuyor",
+    "s": "In this episode of The Deal, Alex Rodriguez and Jason Kelly talk with WWE president Nick Khan at Bloomberg’s Screentime conference about his deals with Netflix and ESPN. (Source: Bloomberg)",
+    "ss": "The Deal'ın bu bölümünde Alex Rodriguez ve Jason Kelly, Bloomberg'in Screentime konferansında WWE başkanı Nick Khan ile Netflix ve ESPN ile olan anlaşmaları hakkında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/nick-khan-on-making-wwe-a-global-media-power-video",
+    "ts": 1795078862000,
     "tags": []
    },
    {
-    "t": "Philippines Returns to Retail Dollar Bonds as Peso Rebounds",
-    "tt": "Filipinler Pesodaki Yükselişle Perakende Dolar Tahviline Döndü",
-    "s": "The Philippines raised more than $450 million from retail dollar bonds on Thursday, marking its return to selling such debt after three years as yields eased and the peso bounced back from a record low.",
-    "ss": "Filipinler, perşembe günü perakende dolar tahvillerinden 450 milyon dolardan fazla para toplayarak, getirilerin azalması ve pesonun rekor düşük seviyesinden toparlanmasıyla üç yıl sonra bu tür borçları satmaya geri döndü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/philippines-returns-to-retail-dollar-bond-sale-as-peso-rebounds",
-    "ts": 1795069226000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Oil Traders in Talks With QatarEnergy for Long-Term Supplies",
-    "tt": "Petrol Tacirleri Uzun Vadeli Tedarik İçin Katar Enerjisi ile Görüşüyor",
-    "s": "Some of the world’s top commodity-trading houses are in talks to secure more long-term supplies of Qatari crude, seeking to build on their success at shuttling oil out of the Persian Gulf during the Iran-US war.",
-    "ss": "Dünyanın önde gelen emtia ticareti yapan şirketlerinden bazıları, İran-ABD savaşı sırasında petrolü Basra Körfezi'nden çıkarma konusundaki başarılarını daha da artırmaya çalışarak, daha uzun vadeli Katar ham petrolü tedariki sağlamak için görüşmelerde bulunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/oil-traders-in-talks-with-qatarenergy-for-long-term-supplies",
-    "ts": 1795073574000,
+    "t": "This Is The Problem With AI's Most Bullish Chart",
+    "tt": "Yapay Zekanın En Yükseliş Grafiğinin Sorunu Bu",
+    "s": "Credit strains are emerging during a historic week for the industry.",
+    "ss": "Sektör için tarihi bir haftada kredi sıkıntıları ortaya çıkıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/this-is-the-problem-with-ai-s-most-bullish-chart",
+    "ts": 1795078804000,
     "tags": []
    },
    {
-    "t": "Traders’ Relief on UK Inflation May Prove Short-Lived as Price Woes Mount",
-    "tt": "Fiyat Sorunları Arttıkça Yatırımcıların İngiltere Enflasyonuna İlişkin Rahatlaması Kısa Ömürlü Olabilir",
-    "s": "Plus, all eyes on the Anthropic IPO",
-    "ss": "Ayrıca tüm gözler Antropik halka arzda",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-19/traders-relief-on-uk-inflation-may-prove-short-lived-as-price-woes-mount",
-    "ts": 1795073394000,
+    "t": "Odd Lots: AI’s Credit Crunch Moment (Podcast)",
+    "tt": "Garip Lotlar: Yapay Zekanın Kredi Çöküş Anı (Podcast)",
+    "s": "It has been a historic week for AI: the Anthropic IPO and the ongoing situation at Nvidia headline a pretty head-spinning time for the industry. Despite Nvidia’s earnings outlook looking good, and despite the scale of the Anthropic IPO — it’s oversubscribed, as you might know — there are so many ope",
+    "ss": "Yapay zeka için tarihi bir hafta oldu: Antropik halka arz ve Nvidia'da devam eden durum, sektör için oldukça baş döndürücü bir döneme damgasını vurdu. Nvidia'nın kazanç görünümünün iyi görünmesine ve Antropik halka arzın ölçeğine rağmen (bildiğiniz gibi aşırı talep var) pek çok girişim var.",
+    "u": "https://www.bloomberg.com/news/audio/2026-11-19/odd-lots-ai-s-credit-crunch-moment-podcast",
+    "ts": 1795078800000,
     "tags": []
    },
    {
-    "t": "Anthropic Shares Indicated About 20% Higher on Gray Market",
+    "t": "Dollar and Commodities Hint at Cooler Growth Ahead: Market Analysis",
+    "tt": "Dolar ve Emtia İleride Daha Soğuk Bir Büyümenin İşaretini Veriyor: Piyasa Analizi",
+    "s": "Anna Edwards, Guy Johnson and David Savage break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+    "ss": "Anna Edwards, Guy Johnson ve David Savage, \"Bloomberg: The Opening Trade\"de analistler ve yatırımcılar için bugünün ana temalarını özetliyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/dollar-and-commodities-hint-at-cooler-growth-ahead-mliv-video",
+    "ts": 1795078167000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 19",
+    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil steadied as traders assessed the outlook for the Middle East conflict, including the possibility of fresh attacks against Iran.",
+    "ss": "Petrol, tüccarların İran'a yönelik yeni saldırılar da dahil olmak üzere Orta Doğu'daki çatışmaya ilişkin görünümü değerlendirmesiyle yatay seyretti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+    "ts": 1795043015000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic Shares Indicated Up to 24% Higher on Gray Market",
     "tt": "Antropik Hisseler Gri Piyasada Yaklaşık %20 Daha Yüksek Gösteriliyor",
-    "s": "Anthropic PBC shares are indicated to open between 20% and 26% higher in gray market trading after the artificial intelligence lab’s upsized $107.3 billion initial public offering and private placement broke SpaceX’s record.",
+    "s": "Anthropic PBC shares are indicated to open higher in gray market trading after the artificial intelligence lab’s upsized $107.3 billion initial public offering and private placement broke SpaceX’s record.",
     "ss": "Yapay zeka laboratuvarının 107,3 ​​milyar dolarlık ilk halka arzı ve özel yerleştirmenin SpaceX'in rekorunu kırmasının ardından antropik PBC hisselerinin gri piyasa ticaretinde %20 ila %26 arasında daha yüksek açılacağı belirtiliyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-shares-indicated-more-than-20-higher-on-gray-markets",
     "ts": 1795064400000,
     "tags": []
    },
    {
-    "t": "Investec Profit Climbs as South Africa Unit Offsets UK Weakness",
-    "tt": "Güney Afrika Birimi İngiltere'nin Zayıflığını Dengelerken Investec'in Kârı Arttı",
-    "s": "Investec’s interim profit climbed as a recovery in its southern African business offset a slowdown in the specialist lender’s UK operations.",
-    "ss": "Investec'in ara karı, güney Afrika işlerindeki toparlanmanın, uzman kredi veren kurumun İngiltere operasyonlarındaki yavaşlamayı telafi etmesiyle arttı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/investec-profit-climbs-as-south-africa-unit-offsets-uk-weakness",
-    "ts": 1795072956000,
+    "t": "US Futures Rally as Anthropic Fuels AI Enthusiasm: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
+    "s": "US stock futures rallied after a record-breaking initial public offering for Anthropic PBC rekindled enthusiasm for the artificial intelligence trade.",
+    "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795039661000,
     "tags": []
    },
    {
-    "t": "The Path to a Year-End Stock Rally Looks Clearer After Anthropic",
-    "tt": "Yıl Sonu Hisse Senedi Rallisine Giden Yol Antropik Sonrası Daha Net Görünüyor",
-    "s": "Optimism is growing for a year-end rally once a series of major risk events that prompted equity investors to slash exposure is done.",
-    "ss": "Hisse senedi yatırımcılarını risklerini azaltmaya iten bir dizi önemli risk olayının sona ermesiyle yıl sonu yükselişine ilişkin iyimserlik artıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/the-path-to-a-year-end-rally-looks-clearer-taking-stock",
-    "ts": 1795072884000,
+    "t": "Modi Calls on Indian Companies to Expand Global Ambitions",
+    "tt": "Modi, Hintli Şirketlere Küresel Hedeflerini Genişletme Çağrısında Bulundu",
+    "s": "Prime Minister Narendra Modi urged Indian companies to look beyond the domestic market and focus on global demand, telling business leaders Thursday that they should prepare to compete globally.",
+    "ss": "Başbakan Narendra Modi, Perşembe günü iş dünyası liderlerine küresel rekabete hazırlanmaları gerektiğini söyleyerek Hint şirketlerini iç pazarın ötesine bakmaya ve küresel talebe odaklanmaya çağırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/modi-calls-on-indian-companies-to-expand-global-ambitions",
+    "ts": 1795076866000,
     "tags": []
    },
    {
@@ -665,27 +672,16 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/taiwan-tightens-short-selling-curbs-to-help-support-stock-market",
     "ts": 1795070814000,
     "tags": []
-   },
-   {
-    "t": "Nasdaq Futures Rally on Anthropic, Dollar Rises: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "US equity-index futures rose while Asian shares fell as traders assessed the impact of Anthropic PBC’s record initial public offering on financial markets.",
-    "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795039661000,
-    "tags": [
-     "DXY ▲"
-    ]
    }
   ],
   "CNBC": [
    {
-    "t": "Russia says Putin in ‘excellent mood’ after Trump meeting, ahead of trilateral with Xi in China",
+    "t": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
     "tt": "Trump, tarihi üçlü toplantısı öncesinde Putin ve Xi ile ayrı ayrı görüştü",
     "s": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
     "ss": "ABD Başkanı Donald Trump, perşembe günü Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping ile ayrı ayrı görüştü.",
     "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-    "ts": 1795075889000,
+    "ts": 1795078920000,
     "tags": []
    },
    {
@@ -784,6 +780,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Here’s the precise moment when cyberattacks started increasing exponentially",
+    "tt": "İşte siber saldırıların katlanarak artmaya başladığı tam an",
+    "s": "One of the world’s top hedge funds has identified the exact moment of time when cyber incidents have started to surge.",
+    "ss": "Dünyanın en büyük hedge fonlarından biri, siber olayların artmaya başladığı anı tam olarak belirledi.",
+    "u": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
+    "ts": 1795079580000,
+    "tags": []
+   },
+   {
+    "t": "This closely-watched guru just sold everything",
+    "tt": "Yakından izlenen bu guru her şeyi sattı",
+    "s": "Panmure Liberum strategist and widely-followed stock-market commentator Joachim Klement has effectively had his personal retirement portfolio 100% invested in stocks for many years.",
+    "ss": "Panmure Liberum stratejisti ve geniş çapta takip edilen borsa yorumcusu Joachim Klement, uzun yıllardır kişisel emeklilik portföyünün %100'ünü hisse senetlerine yatırmış durumda.",
+    "u": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
+    "ts": 1795076700000,
+    "tags": []
+   },
+   {
     "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
     "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
     "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
@@ -854,27 +868,27 @@
     "u": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
     "ts": 1795042380000,
     "tags": []
-   },
-   {
-    "t": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
-    "tt": "Nvidia'nın artan talebini 'göz ardı etmek zor' ancak bu dört soru hisse senedinin üzerinde beliriyor",
-    "s": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
-    "ss": "Nvidia yatırımcıları CEO'nun devri, yapay zeka ekosistemi, ihracat kontrolleri ve Çin konusunda belirsizlikle karşı karşıya.",
-    "u": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-    "ts": 1795041060000,
-    "tags": []
-   },
-   {
-    "t": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
-    "tt": "Sosyal Güvenlik bir saadet zinciri midir? Hayır ama korku bu tür konuşmaları körüklüyor.",
-    "s": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-    "ss": "Wisconsin Cumhuriyetçi Senatörü Ron Johnson, Sosyal Güvenliği bir \"dolandırıcılık\" olarak nitelendirdi ve milletvekillerini bu sistemi kapatmaya çağırdı.",
-    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "ts": 1795039200000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"Scared To Face Russia?\" Hackers Hijack Hockey Federation Days After Banning Russians",
+    "tt": "\"Rusya ile yüzleşmekten korkuyor musun?\" Hackerlar Rusları Yasakladıktan Günler Sonra Hokey Federasyonunu Ele Geçirdi",
+    "s": "\"Scared To Face Russia?\" Hackers Hijack Hockey Federation Days After Banning Russians Hackers took over the International Ice Hockey Federation's website on Tuesday morning , replacing it with a picture of Russian players celebrating under the words \"Scared to face Russia?\" and a second line: \"You b",
+    "ss": "\"Rusya ile yüzleşmekten korkuyor musun?\" Bilgisayar Korsanları Hokey Federasyonu'nu Rusları Yasakladıktan Günler Sonra Ele Geçirdi Bilgisayar korsanları Salı sabahı Uluslararası Buz Hokeyi Federasyonu'nun web sitesini ele geçirdi ve yerine \"Rusya ile yüzleşmekten korktunuz mu?\" yazan Rus oyuncuların kutlama fotoğraflarını koydu. ve ikinci satır: \"Sen b",
+    "u": "https://www.zerohedge.com/geopolitical/scared-face-russia-hackers-hijack-hockey-federation-days-after-banning-russians",
+    "ts": 1795078800000,
+    "tags": []
+   },
+   {
+    "t": "Andy Burnham's EU Surrender Is An Outrage Against Democracy",
+    "tt": "Andy Burnham'ın AB'den Teslim Olması Demokrasiye Karşı Bir Rezalettir",
+    "s": "Andy Burnham's EU Surrender Is An Outrage Against Democracy Authored by Fraser Myers via Spiked , Andy Burnham seems to have twigged that his ' Brexit reset ' is going to be a tough sell to the public. Due to be unveiled at Friday's UK-EU summit in Brussels, the new deal - covering food, youth mobil",
+    "ss": "Andy Burnham'ın AB'den Teslim Olması Demokrasiye Karşı Bir Rezalettir Spiked aracılığıyla Fraser Myers tarafından yazılan Andy Burnham, 'Brexit sıfırlamasının' halka zor bir satış olacağını söylemiş gibi görünüyor. Cuma günü Brüksel'de yapılacak Birleşik Krallık-AB zirvesinde açıklanacak yeni anlaşma, gıda ve gençlik mobilitesini kapsıyor",
+    "u": "https://www.zerohedge.com/geopolitical/andy-burnhams-eu-surrender-outrage-against-democracy",
+    "ts": 1795076400000,
+    "tags": []
+   },
    {
     "t": "China's First Fully AI-Generated Feature Film Flops At Box Office Despite Multimillion-Yuan Budget",
     "tt": "Çin'in Tamamen Yapay Zekayla Üretilen İlk Uzun Metrajlı Filmi Milyon Yuanlık Bütçeye Rağmen Gişede Başarısız Oldu",
@@ -946,27 +960,36 @@
     "u": "https://www.zerohedge.com/technology/palmer-luckeys-secret-1-billion-seastead-isnt-what-you-think",
     "ts": 1795057200000,
     "tags": []
-   },
-   {
-    "t": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage",
-    "tt": "\"Defalarca Patlatmak İçin Kötü Form\": İki Kez Yanan Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planını Yapıyor... Bu Kez Daha Fazla Kaldıraçla",
-    "s": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage Some people learn from blowing up. Others raise more money. Four months after his AI hedge fund went from $20 billion-plus to needing a firesale rescue from Ken Grif",
-    "ss": "\"Defalarca Patlatmak İçin Kötü Biçim\": İki Kez Yakılan Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planlıyor... Bu Kez Daha Fazla Kaldıraçla Bazı insanlar patlamadan ders alıyor. Diğerleri daha fazla para topluyor. Yapay zeka hedge fonunun 20 milyar dolardan fazla bir değerden Ken Grif'in acilen kurtarılmasına ihtiyaç duymasından dört ay sonra",
-    "u": "https://www.zerohedge.com/markets/bad-form-blow-repeatedly-twice-burned-leopold-aschenbrenner-plots-situational-awareness-20",
-    "ts": 1795056300000,
-    "tags": []
-   },
-   {
-    "t": "Electoral College Under Threat",
-    "tt": "Seçim Kurulu Tehdit Altında",
-    "s": "Electoral College Under Threat Authored by Joseph Burns via City Journal , With the 2026 election in the books, attention turns to what emboldened Democrats from state capitals to Capitol Hill will do with their newfound power. The press appears focused on hot topics like AI and affordability polici",
-    "ss": "Seçici Kurul Tehdit Altında Yazan: Joseph Burns, City Journal aracılığıyla, 2026 seçimlerinin kitaplarda yer almasıyla birlikte dikkatler, eyalet başkentlerinden Capitol Hill'e kadar cesaretlenen Demokratların yeni buldukları güçle ne yapacaklarına çevriliyor. Basın yapay zeka ve uygun fiyat politikası gibi güncel konulara odaklanmış görünüyor",
-    "u": "https://www.zerohedge.com/political/electoral-college-under-threat",
-    "ts": 1795056000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Zayıflama ilaçları market harcamalarını 1.3 milyar dolar azalttı",
+    "tt": null,
+    "s": "İngiltere'de Wegovy gibi zayıflama ilaçlarının yaygınlaşması, yıllık market harcamalarını 1 milyar sterlinden (1.3 milyar dolar) fazla düşürdü. İlaçları kullanmaya başlayan bireylerin bulunduğu haneler, takip eden bir yılda toplam 415 milyon adet daha az gıda ürünü satın aldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/zayiflama-ilaclari-market-harcamalarini-13-milyar-dolar-azaltti-3795101",
+    "ts": 1795079611000,
+    "tags": []
+   },
+   {
+    "t": "Fon soruşturmasında Kavcıoğlu'na yurt dışına çıkış yasağı",
+    "tt": null,
+    "s": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında eski Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu hakkında yurt dışına çıkış yasağı getirildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fon-sorusturmasinda-kavcioglu-na-yurt-disina-cikis-yasagi-3795095",
+    "ts": 1795077827000,
+    "tags": []
+   },
+   {
+    "t": "Alman hükümetinden Commerzbank onayı",
+    "tt": null,
+    "s": "İtalyan bankası UniCredit SpA ile Alman hükümeti, UniCredit'in Commerzbank AG'yi satın alma sürecini kolaylaştıran bir anlaşmaya vardı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/alman-hukumetinden-commerzbank-onayi-3795088",
+    "ts": 1795076149000,
+    "tags": []
+   },
    {
     "t": "TPAO 1 milyar dolarlık kredi için görüşmeler yapıyor",
     "tt": null,
@@ -1028,33 +1051,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-ticari-ham-petrol-stok-artisi-beklentinin-ustunde-3795074",
     "ts": 1795068140000,
-    "tags": []
-   },
-   {
-    "t": "Kentin İyi Yaşam Çizgisi: KENT Etiler",
-    "tt": null,
-    "s": "",
-    "ss": null,
-    "u": "http://pubads.g.doubleclick.net/gampad/clk?id=7490383806&iu=/31903365",
-    "ts": 1795068020000,
-    "tags": []
-   },
-   {
-    "t": "Trump İran'a yönelik yeni saldırı seçeneklerini değerlendiriyor",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump'ın, İran'ın askeri kapasitesini yeniden güçlendirdiğine ilişkin istihbarat ve İsrail'in artan baskısı üzerine Tahran'a yönelik kapsamlı askeri saldırı seçeneklerini değerlendirdiği öne sürüldü. Trump'ın henüz nihai kararını vermediği, yönetim içinde ise yeni bir operasyonun ",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-irana-yonelik-yeni-saldiri-seceneklerini-degerlendiriyor-3795072",
-    "ts": 1795067320000,
-    "tags": []
-   },
-   {
-    "t": "Küresel piyasalarda Anthropic gündemi",
-    "tt": null,
-    "s": "Anthropic'in tahsisli satışlar dahil halka arz büyüklüğü 107,3 milyar dolarla rekora ulaşırken, şirketin değerlemesi yaklaşık 1,5 trilyon dolar oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-piyasalarda-anthropic-gundemi-3795070",
-    "ts": 1795067253000,
     "tags": []
    }
   ]
