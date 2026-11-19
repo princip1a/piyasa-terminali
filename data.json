@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T00:32:15.805163+00:00",
+ "generated": "2026-11-19T01:52:34.976432+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3741.3,
-   "c": -3.18,
-   "d": -122.9,
+   "p": 3753.9,
+   "c": -2.85,
+   "d": -110.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.41,
-   "c": -3.97,
-   "d": -1.878,
+   "p": 45.47,
+   "c": -3.84,
+   "d": -1.818,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.94,
-   "c": -4.73,
-   "d": -4.07,
+   "p": 82.65,
+   "c": -3.91,
+   "d": -3.36,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.63,
-   "c": -4.84,
-   "d": -4.51,
+   "p": 89.63,
+   "c": -3.77,
+   "d": -3.51,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.813,
+   "p": 103.812,
    "c": 0.31,
-   "d": 0.323,
+   "d": 0.322,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4473,
-   "c": 0.02,
-   "d": 0.009,
+   "p": 50.4518,
+   "c": 0.03,
+   "d": 0.013,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 62784,
-   "c": -3.12,
+   "p": 62688,
+   "c": -2.66,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1775.9,
-   "c": -2.46,
+   "p": 1774.6,
+   "c": -1.74,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.37,
-   "c": -2.52,
+   "p": 73.32,
+   "c": -1.33,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.963949,
-   "c": -2.04,
+   "p": 0.961055,
+   "c": -1.4,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 581.83,
-   "c": -2.53,
+   "p": 580.74,
+   "c": -1.99,
    "k": "usd"
   }
  ],
@@ -584,104 +584,108 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Stock Futures Climb on Anthropic IPO Pricing: Markets Wrap",
+    "t": "Latest Oil Market News and Analysis for Nov. 19",
+    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil climbed as traders assessed the outlook for the US-Iran conflict, including the possibility of fresh attacks against Tehran.",
+    "ss": "Petrol fiyatları, zayıf risk iştahı, artan ABD stokları ve bol miktardaki arzın Orta Doğu'daki gerilimlere ağır basması nedeniyle Çarşamba günkü düşüşünün ardından sakin kaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+    "ts": 1795043015000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "Trump Hails ‘Great’ Ties With Xi, Downplays Nvidia Spy Scandal",
+    "tt": "Trump, Xi ile 'Harika' İlişkileri Övdü, Nvidia Casus Skandalını Küçümsüyor",
+    "s": "US President Donald Trump hailed his great “friendship” with Chinese counterpart Xi Jinping and downplayed a spying scandal involving Nvidia Corp., just hours before leaders of the world’s top two economies meet for talks in China.",
+    "ss": "ABD Başkanı Donald Trump, Çinli mevkidaşı Xi Jinping ile olan büyük \"dostluğunu\" övdü ve dünyanın en büyük iki ekonomisinin liderlerinin Çin'de görüşmek üzere buluşmasından sadece birkaç saat önce Nvidia Corp.'un dahil olduğu casusluk skandalını küçümsedi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/trump-hails-great-ties-with-xi-downplays-nvidia-spy-scandal",
+    "ts": 1795052682000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Fluctuate After Anthropic IPO, Copper Gains: Markets Wrap",
     "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "US equity-index futures advanced after Anthropic PBC priced its initial public offering above the marketed range, putting investor appetite for the technology sector to a fresh test following recent losses.",
+    "s": "Asian stocks and US equity-index futures diverged after Anthropic PBC’s pricing of its initial public offering, putting investor appetite for the technology sector to a fresh test following recent losses.",
     "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
     "ts": 1795039661000,
     "tags": []
    },
    {
-    "t": "Trade and AI Rivalry to Dominate APEC Summit",
-    "tt": "Ticaret ve Yapay Zeka Rekabeti APEC Zirvesine Hakim Oluyor",
-    "s": "Bloomberg's Stephen Engle reports from Shenzhen where he breaks down the key topics likely to play out during a trilateral meeting between President Donald Trump, Xi Jinping and Vladimir Putin. Speaking to Bloomberg, Columbia University Professor Jeffrey Sachs also argues that the US cannot win a tr",
-    "ss": "Bloomberg'den Stephen Engle, Shenzhen'den Başkan Donald Trump, Xi Jinping ve Vladimir Putin arasındaki üçlü toplantıda ortaya çıkması muhtemel önemli konuları ayrıntılarıyla aktarıyor. Bloomberg'e konuşan Columbia Üniversitesi Profesörü Jeffrey Sachs da ABD'nin yeni bir zafer kazanamayacağını savunuyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/trade-and-ai-rivalry-to-dominate-apec-summit-video",
-    "ts": 1795047483000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 19",
-    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil steadied after slumping on Wednesday, as traders assessed the outlook for the next phase of the US-Iran conflict.",
-    "ss": "Petrol fiyatları, zayıf risk iştahı, artan ABD stokları ve bol miktardaki arzın Orta Doğu'daki gerilimlere ağır basması nedeniyle Çarşamba günkü düşüşünün ardından sakin kaldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-    "ts": 1795043015000,
+    "t": "Anthropic IPO Hands SK Hynix Tycoon’s Firm $3 Billion Windfall",
+    "tt": "Antropik Halka Arz, SK Hynix Tycoon'un Firmasına 3 Milyar Dolarlık Beklenmedik Bir Kazanç Sağladı",
+    "s": "Anthropic PBC’s blockbuster initial public offering has delivered a multibillion-dollar windfall for billionaire Chey Tae-won’s empire, rewarding an early bet on the artificial-intelligence startup by SK Telecom Co., South Korea’s largest mobile carrier.",
+    "ss": "Antropik PBC'nin gişe rekorları kıran ilk halka arzı, milyarder Chey Tae-won'un imparatorluğuna milyarlarca dolarlık beklenmedik bir kazanç sağladı ve Güney Kore'nin en büyük mobil operatörü SK Telecom Co.'nun yapay zeka girişimine erken bir bahis kazandırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall",
+    "ts": 1795052186000,
     "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
+     "DXY ▼"
     ]
    },
    {
-    "t": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
-    "tt": "Eski Google Mühendisi, Gemini 3.0 Bahisleri Nedeniyle Yeni Suçlamalarla Karşı Karşıya Olabilir",
-    "s": "A former Google software engineer accused of making an illegal bet on Polymarket about company search data may face additional charges that he also traded on the release date of its Gemini 3.0 artificial-intelligence model.",
-    "ss": "Polymarket'ta şirket arama verileriyle ilgili yasa dışı bahis oynamakla suçlanan eski bir Google yazılım mühendisi, Gemini 3.0 yapay zeka modelinin çıkış tarihinde de işlem yaptığı için ek suçlamalarla karşı karşıya kalabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
-    "ts": 1795045462000,
+    "t": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
+    "tt": "Hürmüz Yoluyla LNG İhracatı Daha Fazla Saldırıdan Sonra Yavaşlıyor Görünüyor",
+    "s": "The amount of liquefied natural gas tankers passing outbound through the Strait of Hormuz appears to have dropped over the last week, according to satellite and ship-tracking data, suggesting shipowners are being more cautious after a flurry of attacks.",
+    "ss": "Uydu ve gemi izleme verilerine göre, Hürmüz Boğazı'ndan geçen sıvılaştırılmış doğal gaz tankerlerinin miktarının geçen hafta içinde düştüğü görülüyor; bu da armatörlerin bir dizi saldırı sonrasında daha temkinli davrandıklarını gösteriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
+    "ts": 1795051403000,
     "tags": []
    },
    {
-    "t": "Seesaw Day for Markets, Anthropic IPO Looms",
-    "tt": "Piyasalar için Tahterevalli Günü, Antropik Halka Arz Yaklaşıyor",
-    "s": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Doubleline’s Global Sovereign and Emerging Markets Head Bill Campbell, Csis’ Senior Fellow Henrietta Levin, Former SEC Chair G",
-    "ss": "Bloomberg Television, Wall Street'in kapanış zilinden önceki ve sonraki son dakika ve saniyelere kadar uzanan en son haberleri ve analizleri size getiriyor. Bugünün konukları Doubleline'ın Küresel Egemen ve Yükselen Piyasalar Başkanı Bill Campbell, Csis'in Kıdemli Üyesi Henrietta Levin, Eski SEC Başkanı G",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/the-close-11-18-2026-video",
-    "ts": 1795045416000,
+    "t": "Copper Rebounds After Rout as Physical Tightness Persists",
+    "tt": "Bakır Bozulma Sonrası Fiziksel Sıkılığın Devam Etmesiyle Yeniden Yükseliyor",
+    "s": "Copper staged a partial recovery following a steep drop on Wednesday, as traders weighed whether a sharp unwinding of bullish bets tied to artificial intelligence and US tariffs has gone too far.",
+    "ss": "Bakır, Çarşamba günü keskin bir düşüşün ardından kısmi bir toparlanma kaydetti; yatırımcılar yapay zeka ve ABD gümrük vergilerine bağlı yükseliş tahminlerinin keskin bir şekilde gevşemesinin fazla ileri gidip gitmediğini tarttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
+    "ts": 1795050876000,
     "tags": []
    },
    {
-    "t": "Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook",
-    "tt": "Jane Fraser, Halka Arz Hattı, Yapay Zeka ve Faiz Oranı Görünümü hakkında konuştu",
-    "s": "Jane Fraser, Citi's Chair and CEO, says NVIDIA’s better-than-expected earnings and increased guidance were not the only issues investors were weighing; they were also focused on whether AI-related financing would continue and who would lead the company next. She speaks with Lisa Abramowicz at Bloomb",
-    "ss": "Citi Yönetim Kurulu Başkanı ve CEO'su Jane Fraser, NVIDIA'nın beklenenden iyi kazançlarının ve artan rehberliğin yatırımcıların değerlendirdiği tek konu olmadığını söylüyor; ayrıca yapay zeka ile ilgili finansmanın devam edip etmeyeceği ve şirkete bundan sonra kimin liderlik edeceği konularına da odaklandılar. Bloomb'da Lisa Abramowicz ile konuşuyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/jane-fraser-on-ipo-pipeline-ai-interest-rate-outlook-video",
-    "ts": 1795044708000,
-    "tags": []
-   },
-   {
-    "t": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+    "t": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
     "tt": "Altın, Fed'in Daha Fazla Faiz Artırımı Sinyali Vermesiyle 14 Ayın En Düşük Seviyesinde Durdu",
-    "s": "Gold steadied near a 14-month low after hawkish comments from Federal Reserve officials reinforced expectations for interest-rate hikes stretching into next year.",
+    "s": "Gold climbed from a 14-month low as dip buyers helped cushion growing expectations that the Federal Reserve will hike interest rates.",
     "ss": "Altın, Fed yetkililerinin şahin yorumlarının gelecek yıla kadar devam edecek faiz artırımı beklentilerini güçlendirmesinin ardından 14 ayın en düşük seviyesi yakınlarında yatay seyrediyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
     "ts": 1795044246000,
     "tags": [
      "DXY ▲",
-     "Altın ▼",
      "Gümüş ▼",
      "BTC ▼",
      "Altcoin ▼"
     ]
    },
    {
-    "t": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork",
-    "tt": "Mark Walter'ın Sigortacıları Soruşturması Düzenleyici Patchwork'teki Boşluklara Işık Tutuyor",
-    "s": "Trinidad Navarro knows how to hunt down wrongdoing.",
-    "ss": "Trinidad Navarro yanlış davranışların nasıl avlanacağını biliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/probe-of-mark-walter-s-insurers-spotlights-gaps-in-regulatory-patchwork",
-    "ts": 1795025059000,
+    "t": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+    "tt": "Bitcoin, Kaldıraç ve Likiditenin Azalmasıyla Bessent Rallisini Sildi",
+    "s": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
+    "ss": "Risk iştahının azalması ve Binance borsasındaki rekor hacklemenin yatırımcıları geri çekilmeye yöneltmesi ve daha ince bir pazardaki en büyük token ticaretini keskin fiyat dalgalanmalarına karşı giderek daha savunmasız bırakması nedeniyle Bitcoin, yaz sonundaki rallisinden elde ettiği tüm kazanımları sildi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+    "ts": 1794995109000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
+    "tt": "Morgan Stanley'den Hornbach, Rogue AI'nın En Büyük Düşük Fiyatlı Risk Olduğunu Söyledi",
+    "s": "Artificial intelligence can bring exponential benefits but the damage that may result from a breach of its safeguards is the biggest risk that’s being underpriced by markets right now, according to Morgan Stanley.",
+    "ss": "Yapay zeka katlanarak artan faydalar sağlayabilir ancak Morgan Stanley'e göre, yapay zekanın güvenlik önlemlerinin ihlalinden kaynaklanabilecek hasar, şu anda piyasalar tarafından düşük fiyatlandırılan en büyük risk.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
+    "ts": 1795050036000,
     "tags": []
    },
    {
-    "t": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
-    "tt": "Bain, Savaşın Piyasayı Sıkılaştırmasıyla LNG Glutunun Görünümünü 2030'a Erteledi",
-    "s": "A looming global glut of liquefied natural gas has been pushed back by more than a year as the conflict in the Middle East disrupts supplies and delays projects, according to Bain &amp; Co., extending a period of tightness that’s delivering higher profits for traders.",
-    "ss": "Bain & Co.'ya göre, Orta Doğu'daki çatışmaların arzı kesintiye uğratması ve projeleri geciktirmesi nedeniyle, küresel sıvılaştırılmış doğal gaz bolluğu bir yıldan fazla bir süre ertelendi ve bu da tüccarlar için daha yüksek kârlar sağlayan sıkılık dönemini uzattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/bain-pushes-back-lng-glut-outlook-to-2030-as-war-tightens-market",
-    "ts": 1795042950000,
-    "tags": []
-   },
-   {
-    "t": "Former SEC Chair Gary Gensler Warns Anthropic’s Cash Flow Poses Big Risk To AI Economy",
-    "tt": "Eski SEC Başkanı Gary Gensler, Anthropic'in Nakit Akışının Yapay Zeka Ekonomisi İçin Büyük Risk Oluşturduğu Uyardı",
-    "s": "Gary Gensler, former SEC Chair and Professor of the Practice of Global Economics and Management and Finance at MIT Sloan School of Management, joined Bloomberg’s Romaine Bostick about Anthropic and OpenAI’s corporate governance structure, the evolving role of the SEC, and risk factors he’s watching.",
-    "ss": "Eski SEC Başkanı ve MIT Sloan School of Management'ta Küresel Ekonomi ve Yönetim ve Finans Uygulamaları Profesörü olan Gary Gensler, Antropik ve OpenAI'nin kurumsal yönetim yapısı, SEC'in gelişen rolü ve izlediği risk faktörleri hakkında Bloomberg'in Romaine Bostick'ine katıldı.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
-    "ts": 1795042384000,
+    "t": "China Markets Up to $2 Billion of Dollar Bonds in Hong Kong",
+    "tt": "Çin, Hong Kong'da 2 Milyar Dolara Kadar Tahvil Piyasaya Sürüyor",
+    "s": "China began marketing dollar-denominated sovereign bonds in Hong Kong, as it looks to raise as much as $2 billion in its second offshore note offering this month.",
+    "ss": "Çin, bu ay ikinci denizaşırı tahvil arzında 2 milyar dolar kadar toplamayı planladığı için Hong Kong'da dolar cinsinden devlet tahvili pazarlamaya başladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+    "ts": 1795049870000,
     "tags": []
    }
   ],
@@ -791,6 +795,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+    "tt": "Palo Alto Networks'ün hisseleri, kazançların yapay zekanın siber güvenlik açısından riskleri artırdığını göstermesiyle yükseldi",
+    "s": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+    "ss": "Şirket, \"mevcut tehdit ortamı ve önümüzde gördüğümüz talep\" karşısında görünümünü güçlendiriyor.",
+    "u": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+    "ts": 1795050120000,
+    "tags": []
+   },
+   {
+    "t": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "tt": "'Evde oturan bir anneyim': 50 yaşındayım ve kronik bir hastalığım var. Kocam işini kaybetti. 401(k)'sine baskın yapmalı mı?",
+    "s": "“Our financial and healthcare situation has become increasingly concerning.”",
+    "ss": "“Finansal ve sağlık durumumuz giderek endişe verici hale geldi.”",
+    "u": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "ts": 1795050000000,
+    "tags": []
+   },
+   {
     "t": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
     "tt": "'Nvidia'nın kargaşası beni korkuttu': Hisse senetlerimi satıp emlak mı almalıyım yoksa fırtınayı atlatmalı mıyım?",
     "s": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
@@ -827,15 +849,6 @@
     "tags": []
    },
    {
-    "t": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-    "tt": "Palo Alto Networks'ün hisseleri, kazançların yapay zekanın siber güvenlik açısından riskleri artırdığını göstermesiyle yükseldi",
-    "s": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
-    "ss": "Şirket, \"mevcut tehdit ortamı ve önümüzde gördüğümüz talep\" karşısında görünümünü güçlendiriyor.",
-    "u": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-    "ts": 1795042380000,
-    "tags": []
-   },
-   {
     "t": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
     "tt": "Nvidia'nın artan talebini 'göz ardı etmek zor' ancak bu dört soru hisse senedinin üzerinde beliriyor",
     "s": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
@@ -863,15 +876,6 @@
     "tags": []
    },
    {
-    "t": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "tt": "'Evde oturan bir anneyim': 50 yaşındayım ve kronik bir hastalığım var. Kocam işini kaybetti. 401(k)'sine baskın yapmalı mı?",
-    "s": "“Our financial and healthcare situation has become increasingly concerning.”",
-    "ss": "“Finansal ve sağlık durumumuz giderek endişe verici hale geldi.”",
-    "u": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "ts": 1795037400000,
-    "tags": []
-   },
-   {
     "t": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
     "tt": "Nvidia'nın çarpıcı sonuçlarının omuz silkmeyle karşılanmasının ardından yapay zeka ticaretinde sırada ne var?",
     "s": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
@@ -882,6 +886,42 @@
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Wall Street's Climate Cartel Faces New Scrutiny Over \"Blatant Weaponization\"",
+    "tt": "Wall Street'in İklim Karteli \"Bariz Silahlanma\" Konusunda Yeni İncelemeyle Karşı Karşıya",
+    "s": "Wall Street's Climate Cartel Faces New Scrutiny Over \"Blatant Weaponization\" Wall Street's biggest banks may have walked away from their virtual-signaling climate pledges, but a conservative consumer watchdog alleges that the policies behind them could still be freezing lawful businesses out of the ",
+    "ss": "Wall Street'in İklim Karteli \"Açık Silahlanma\" Konusunda Yeni Bir İncelemeyle Karşı Karşıya Wall Street'in en büyük bankaları sanal sinyalizasyon iklim taahhütlerinden uzaklaşmış olabilir, ancak muhafazakar bir tüketici gözlemcisi, bunların arkasındaki politikaların hâlâ yasal işletmeleri küresel ölçekten donduruyor olabileceğini iddia ediyor",
+    "u": "https://www.zerohedge.com/markets/wall-streets-climate-cartel-faces-new-scrutiny-over-blatant-weaponization",
+    "ts": 1795052400000,
+    "tags": []
+   },
+   {
+    "t": "Houthis Are 'Occupying' Part Of Saudi Arabia, Tucker Carlson Claims",
+    "tt": "Tucker Carlson, Husilerin Suudi Arabistan'ın Bir Kısmını 'İşgal Ettiğini' İddia Ediyor",
+    "s": "Houthis Are 'Occupying' Part Of Saudi Arabia, Tucker Carlson Claims Via Middle East Eye Conservative US podcaster Tucker Carlson said that Yemen’s Houthis are “occupying” parts of Saudi Arabia, and that the American media is not covering the wartime development. “The Houthis are legitimately threate",
+    "ss": "Tucker Carlson, Husilerin Suudi Arabistan'ın Bir Kısmını 'İşgal Ettiğini' İddia Ediyor Middle East Eye Conservative Aracılığıyla ABD'li podcast yayıncısı Tucker Carlson, Yemen'deki Husilerin Suudi Arabistan'ın bazı kısımlarını 'işgal ettiğini' ve Amerikan medyasının savaş zamanı gelişmelerini haber yapmadığını söyledi. \"Husiler meşru bir tehdit oluşturuyor\"",
+    "u": "https://www.zerohedge.com/geopolitical/houthis-are-occupying-part-saudi-arabia-tucker-carlson-says",
+    "ts": 1795051200000,
+    "tags": []
+   },
+   {
+    "t": "Watch: Musk Shreds 'Russian Apologist' Smears, Exposes Zelensky's Starlink Lies At NYT DealBook Summit",
+    "tt": "İzle: Musk, NYT DealBook Zirvesinde 'Rus Özürcü' Lekelerini Parçaladı, Zelensky'nin Starlink Yalanlarını Ortaya Çıkardı",
+    "s": "Watch: Musk Shreds 'Russian Apologist' Smears, Exposes Zelensky's Starlink Lies At NYT DealBook Summit Update(1925ET) : Among the more interesting and explosive stand-out parts of the NY Times' DealBook Summit interview with Elon Musk (Musk joined remotely from China), Andrew Ross Sorkin pressed him",
+    "ss": "İzleyin: Musk 'Rus Savunucusu' Karalamalarını Parçaladı, NYT DealBook Zirvesi Güncellemesinde Zelensky'nin Starlink Yalanını Ortaya Çıkardı (1925ET): NY Times'ın DealBook Zirvesi'nde Elon Musk ile yapılan röportajın daha ilginç ve patlayıcı öne çıkan kısımları arasında (Musk Çin'den uzaktan katıldı), Andrew Ross Sorkin ona baskı yaptı",
+    "u": "https://www.zerohedge.com/geopolitical/dutch-startup-boasts-its-missiles-helped-destroy-crimea-bridge-now-russias-crosshairs",
+    "ts": 1795049100000,
+    "tags": []
+   },
+   {
+    "t": "The Fake 96,000-Patient Database That Sank Hydroxychloroquine... And Medicine's Growing Black-Box",
+    "tt": "Hidroksiklorokin'i Batan Sahte 96.000 Hasta Veritabanı... Ve Tıbbın Büyüyen Kara Kutusu",
+    "s": "The Fake 96,000-Patient Database That Sank Hydroxychloroquine... And Medicine's Growing Black-Box Authored by Maryanne Demasi via Brownstone Institute , On May 22, 2020, the Lancet published a study that changed the course of the Covid-19 pandemic. It purported to analyze the medical records of 96,0",
+    "ss": "Hidroksiklorokin'i Batan Sahte 96.000 Hasta Veri Tabanı... Ve Tıbbın Büyüyen Kara Kutusu Brownstone Enstitüsü aracılığıyla Maryanne Demasi tarafından yazılmıştır, 22 Mayıs 2020'de Lancet, Kovid-19 salgınının gidişatını değiştiren bir çalışma yayınladı. 96,0 kişinin tıbbi kayıtlarını analiz ettiği iddia ediliyor",
+    "u": "https://www.zerohedge.com/medical/fake-96000-patient-database-sank-hydroxychloroquine-and-medicines-growing-black-box",
+    "ts": 1795048800000,
+    "tags": []
+   },
    {
     "t": "Texas County Kills SpaceX Tax Break As Musk's Lone Star Welcome Wears Thin",
     "tt": "Musk'ın Lone Star Hoş Geldiniz'i Zayıflarken Texas County, SpaceX Vergi İndirimini Öldürdü",
@@ -934,42 +974,6 @@
     "ss": "Anthropic Halka Arz Fiyatları 83 Dolar, Rekor 94 Milyar Dolara Yükseldi... Kendi Çip Tedarikçileri Ayakta Kalarak Resmi: Anthropic 1,08 trilyon dolarlık bir şirket... ya da - geçen hafta belirttiğimiz gibi - kimin saydığına bağlı olarak 1,49 trilyon dolarlık tamamen sulandırılmış bir şirket. Aynı \"yukarıda\" olduğu bir hafta sonra",
     "u": "https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor",
     "ts": 1795042800000,
-    "tags": []
-   },
-   {
-    "t": "Every Airline Flight Is A Government Flight",
-    "tt": "Her Havayolu Uçuşu Bir Devlet Uçuşudur",
-    "s": "Every Airline Flight Is A Government Flight Authored by Matthew G. Andersson via American Thinker , The recent nation-wide airline ground stop that was ordered by the FAA under Department of Transportation Secretary Sean Duffy, should make it clear to airline passengers that you fly from one place t",
-    "ss": "Her Havayolu Uçuşu Bir Devlet Uçuşudur Matthew G. Andersson tarafından American Thinker aracılığıyla yazılmıştır. FAA tarafından Ulaştırma Bakanlığı Sekreteri Sean Duffy başkanlığında sipariş edilen ülke çapındaki havayolu yer durağı, havayolu yolcularına tek bir yerden uçtuklarını açıkça belirtmelidir.",
-    "u": "https://www.zerohedge.com/political/every-airline-flight-government-flight",
-    "ts": 1795041600000,
-    "tags": []
-   },
-   {
-    "t": "IRGC Agent Who Plotted To Kill Trump Learns His Fate",
-    "tt": "Trump'ı Öldürmeyi Planlayan Devrim Muhafızları Ajanı Kaderini Öğreniyor",
-    "s": "IRGC Agent Who Plotted To Kill Trump Learns His Fate Asif Merchant, the Pakistani national who admitted working for Iran's Islamic Revolutionary Guard Corps and came to the US in 2024 to hire hitmen for a political assassination, was sentenced Tuesday in Brooklyn federal court to 330 months - 27.5 y",
-    "ss": "Trump'ı Öldürmeyi Planlayan Devrim Muhafızları Ajanı Kaderini Öğreniyor İran'ın İslam Devrim Muhafızları Birliği'nde çalıştığını itiraf eden ve 2024'te siyasi bir suikast için tetikçi kiralamak üzere ABD'ye gelen Pakistan uyruklu Asif Tüccar, Salı günü Brooklyn federal mahkemesinde 330 ay - 27,5 yıl hapis cezasına çarptırıldı.",
-    "u": "https://www.zerohedge.com/political/irgc-agent-who-plotted-kill-trump-learns-his-fate",
-    "ts": 1795040400000,
-    "tags": []
-   },
-   {
-    "t": "Over-Indulging Or Over-Charging? Virginia Couple Criminally Charged Over Raucous Party",
-    "tt": "Aşırı Hoşgörü mü Yoksa Aşırı Şarj mı? Virginia Çifti Gürültülü Parti Nedeniyle Cezai Olarak Suçlandı",
-    "s": "Over-Indulging Or Over-Charging? Virginia Couple Criminally Charged Over Raucous Party Authored by Jonathan Turley via Jonathan Turley , In McLean, Virginia, police arrested a couple after a middle-school party became an alleged public nuisance . Police officers were called to the home of Lisa Vaugh",
-    "ss": "Aşırı Hoşgörü mü Yoksa Aşırı Şarj mı? Virginia Çifti Gürültülü Parti Nedeniyle Cezai Suçlama Yazan Jonathan Turley, Jonathan Turley aracılığıyla , McLean, Virginia'da, polis bir ortaokul partisinin kamuyu rahatsız ettiği iddiası haline gelmesinin ardından bir çifti tutukladı. Polis memurları Lisa Vaugh'un evine çağrıldı",
-    "u": "https://www.zerohedge.com/personal-finance/over-indulging-or-over-charging-virginia-couple-criminally-charged-over-raucous",
-    "ts": 1795039200000,
-    "tags": []
-   },
-   {
-    "t": "Houthis Launch More Missiles On Riyadh's Financial District, International Airport",
-    "tt": "Suudi Arabistan, Yemen Savaşı'nın 2027'ye Kadar Uzamasına Hazırlanıyor",
-    "s": "Houthis Launch More Missiles On Riyadh's Financial District, International Airport Update(1639ET) : Another day, another Houthi attack on Riyadh: \"Yemen's Iran-aligned ​Houthis said ‌on Sunday they ​targeted ​the King Khalid ⁠International ​Airport and ​a financial centre in ​the ​Saudi capital Riya",
-    "ss": "Suudi Arabistan, Yemen Savaşı'nın 2027'ye Kadar Uzamasını Bekliyor Bu sürpriz olmamalı, ancak Reuters'in planlar hakkında Suudiler tarafından bilgilendirilen iki Batılı yetkiliye dayandırdığı haberine göre, Suudi Arabistanlı yetkililer Husilerle savaşın 2027'ye kadar sürmesi için hazırlanıyor. \"Etrafta halka açık mesajlaşma",
-    "u": "https://www.zerohedge.com/geopolitical/saudi-arabia-braces-yemen-war-extend-well-2027",
-    "ts": 1795037940000,
     "tags": []
    }
   ],
