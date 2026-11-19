@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T05:51:34.436591+00:00",
+ "generated": "2026-11-19T06:55:25.872392+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,23 +31,23 @@
   },
   {
    "n": "Altın",
-   "p": 3735.6,
-   "c": -0.17,
-   "d": -6.3,
+   "p": 3733.2,
+   "c": -0.23,
+   "d": -8.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.325,
-   "c": 0.72,
-   "d": 0.326,
+   "p": 45.23,
+   "c": 0.51,
+   "d": 0.231,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.44,
-   "c": -0.98,
-   "d": -0.82,
+   "p": 82.41,
+   "c": -1.02,
+   "d": -0.85,
    "k": "usd"
   },
   {
@@ -59,9 +59,9 @@
   },
   {
    "n": "DXY",
-   "p": 103.899,
-   "c": 0.04,
-   "d": 0.039,
+   "p": 103.863,
+   "c": 0.0,
+   "d": 0.003,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4603,
+   "p": 50.4607,
    "c": 0.04,
    "d": 0.022,
    "k": "idx"
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 63277,
-   "c": -2.07,
+   "p": 63516,
+   "c": -1.6,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1796.57,
-   "c": -0.7,
+   "p": 1804.1,
+   "c": -0.2,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 74.5,
-   "c": -0.77,
+   "p": 75.02,
+   "c": 0.49,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.971884,
-   "c": -1.25,
+   "p": 0.982059,
+   "c": -0.19,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 585.81,
-   "c": -0.99,
+   "p": 588.49,
+   "c": -0.47,
    "k": "usd"
   }
  ],
@@ -584,6 +584,51 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "OKX's Lin Discusses Tokenization and Stablecoins Outlook",
+    "tt": "OKX'ten Lin Tokenizasyon ve Stablecoin Görünümünü Tartışıyor",
+    "s": "Gracie Lin, Regional CEO for Singapore & Australia at OKX, discusses tokenization and her outlook for stablecoins. She speaks exclusively on the sidelines of Singapore FinTech Week on \"Bloomberg: The China Show.” (Source: Bloomberg)",
+    "ss": "OKX'in Singapur ve Avustralya Bölge CEO'su Gracie Lin, tokenizasyonu ve stabilcoinlere bakış açısını anlatıyor. Singapur FinTech Haftası oturum aralarında \"Bloomberg: The China Show\" programında özel olarak konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/okx-s-lin-discusses-tokenization-and-stablecoins-outlook-video",
+    "ts": 1795070755000,
+    "tags": []
+   },
+   {
+    "t": "Australia to Allow Pension Funds to Offer More Targeted Advice",
+    "tt": "Avustralya, Emeklilik Fonlarının Daha Hedefli Tavsiyeler Sunmasına İzin Verecek",
+    "s": "Australia will allow pension funds to offer more targeted advice to their members as part of long-awaited changes to the country’s financial advice laws that will be introduced to parliament next week.",
+    "ss": "Avustralya, önümüzdeki hafta parlamentoya sunulacak olan ülkenin mali tavsiye yasalarında uzun süredir beklenen değişikliklerin bir parçası olarak emeklilik fonlarının üyelerine daha hedefe yönelik tavsiyeler sunmasına izin verecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/australia-to-allow-pension-funds-to-offer-more-targeted-advice",
+    "ts": 1795069606000,
+    "tags": []
+   },
+   {
+    "t": "Chinese Chip Design Stocks Sink on Concerns Over Foundry Access",
+    "tt": "Çin Çip Tasarımı Hisseleri, Dökümhaneye Erişimle İlgili Endişeler Nedeniyle Düştü",
+    "s": "Chinese chip designer stocks tumbled on investor worries that their orders to overseas manufacturers may be turned away as the US tightens its regulatory grasp on technology.",
+    "ss": "Çinli çip tasarımcısı hisseleri, yatırımcıların, ABD'nin teknoloji üzerindeki düzenleyici kontrolünü sıkılaştırması nedeniyle denizaşırı üreticilere verilen siparişlerin geri çevrilebileceğine dair endişeleri üzerine geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access",
+    "ts": 1795069445000,
+    "tags": []
+   },
+   {
+    "t": "Copper Rebounds After Rout as Physical Tightness Persists",
+    "tt": "Bakır Bozulma Sonrası Fiziksel Sıkılığın Devam Etmesiyle Yeniden Yükseliyor",
+    "s": "Copper staged a partial recovery after plunging almost 6% on Wednesday — the biggest drop since April 2025 — on a sharp unwinding of bullish bets tied to artificial intelligence and US tariffs.",
+    "ss": "Bakır, yapay zeka ve ABD gümrük vergilerine bağlı yükseliş tahminlerinin keskin bir şekilde gevşemesi üzerine Çarşamba günü neredeyse %6 (Nisan 2025'ten bu yana en büyük düşüş) düştükten sonra kısmi bir toparlanma kaydetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
+    "ts": 1795050876000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Rise on Anthropic, Aussie Drops: Markets Wrap",
+    "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
+    "s": "US equity-index futures rose while Asian shares fell as traders assessed whether Anthropic PBC’s record initial public offering can revive confidence in the artificial intelligence trade following a recent selloff in technology stocks. The Australian dollar weakened.",
+    "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795039661000,
+    "tags": []
+   },
+   {
     "t": "Anthropic Shares Indicated About 20% Higher on Gray Market",
     "tt": "Antropik Hisseler Gri Piyasada Yaklaşık %20 Daha Yüksek Gösteriliyor",
     "s": "Anthropic PBC shares are indicated to open between 20% and 26% higher in gray market trading after the artificial intelligence lab’s upsized $107.3 billion initial public offering and private placement broke SpaceX’s record.",
@@ -627,66 +672,18 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency",
     "ts": 1795065300000,
     "tags": []
-   },
-   {
-    "t": "US Stock Futures Rise on Anthropic, Aussie Drops: Markets Wrap",
-    "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "US equity-index futures rose while Asian shares fell as traders assessed whether Anthropic PBC’s record initial public offering can revive confidence in the artificial intelligence trade following a recent selloff in technology stocks. The Australian dollar weakened.",
-    "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795039661000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 19",
-    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil steadied as traders assessed the outlook for the US-Iran conflict, including the possibility of fresh attacks against Tehran.",
-    "ss": "Petrol fiyatları, zayıf risk iştahı, artan ABD stokları ve bol miktardaki arzın Orta Doğu'daki gerilimlere ağır basması nedeniyle Çarşamba günkü düşüşünün ardından sakin kaldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-    "ts": 1795043015000,
-    "tags": []
-   },
-   {
-    "t": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
-    "tt": "Avustralya Doları, Faiz İndirimi Bahislerinin Artmasıyla 2026 Kazancını Sildi",
-    "s": "Australia’s dollar wiped out its 2026 gain against the greenback after weak employment data reinforced bets that the central bank has ended its interest-rate hike cycle and will pivot to cuts next year.",
-    "ss": "Avustralya doları, zayıf istihdam verilerinin merkez bankasının faiz artırım döngüsünü sona erdirdiği ve gelecek yıl faiz indirimlerine yöneleceği yönündeki bahisleri güçlendirmesinin ardından dolar karşısında 2026'daki kazancını sildi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
-    "ts": 1795053217000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Gold Wavers Near 14-Month Low as Market Tracks Hawkish Fed",
-    "tt": "Altın, Piyasanın Şahin Fed'i Takip Etmesiyle 14 Ayın En Düşük Seviyesinde Dalgalanıyor",
-    "s": "Gold wavered near a 14-month low after Federal Reserve officials signaled that interest-rate hikes are likely to stretch into next year.",
-    "ss": "Altın, Fed yetkililerinin faiz artırımlarının gelecek yıla da yayılabileceği sinyalini vermesinin ardından 14 ayın en düşük seviyesine yakın dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
-    "ts": 1795044246000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "New World Shares Tank 54% to Head for Worst Week on Rights Issue",
-    "tt": "Yeni Dünya Hisseleri %54'le Haklar Konusunda En Kötü Haftaya Doğru Gidiyor",
-    "s": "New World Development Co. shares are heading for their worst week on record as a heavily discounted rights issue shakes investor confidence, prompting analysts to downgrade the indebted Hong Kong developer.",
-    "ss": "New World Development Co. hisseleri, büyük oranda iskonto edilen haklar sorununun yatırımcıların güvenini sarsması ve analistlerin borçlu Hong Konglu geliştiricinin notunu düşürmesine yol açmasıyla tarihteki en kötü haftasına doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/new-world-shares-tank-54-to-head-for-worst-week-on-rights-issue",
-    "ts": 1795063100000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+    "tt": "Trump, tarihi üçlü toplantısı öncesinde Putin ve Xi ile ayrı ayrı görüştü",
+    "s": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+    "ss": "ABD Başkanı Donald Trump, perşembe günü Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping ile ayrı ayrı görüştü.",
+    "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+    "ts": 1795069774000,
+    "tags": []
+   },
    {
     "t": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "tt": "Tutanaklara göre Fed yetkilileri daha fazla faiz artırımı bekliyor ve yapay zekanın enflasyon üzerindeki etkisinden endişe ediyor",
@@ -778,15 +775,6 @@
     "ss": "Berkshire Hathaway üçüncü çeyrekte birçok hisse senedi pozisyonunu artırırken Bank of America da dahil olmak üzere diğerlerini azalttı.",
     "u": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
     "ts": 1794870079000,
-    "tags": []
-   },
-   {
-    "t": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-    "tt": "JPMorgan Chase, geçici yazılım hatasının tüketici bankacılığını etkilediğini söyledi",
-    "s": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-    "ss": "CNBC'den Eamon Javers, olaya kötü aktörlerin karıştığına dair bir belirti bulunmadığını ve aynı şekilde bir hatanın aynı anda birden fazla bankayı etkilediğine dair de bir belirti bulunmadığını bildirdi.",
-    "u": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-    "ts": 1794867287000,
     "tags": []
    }
   ],
@@ -976,6 +964,51 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "UEA: Benzeri görülmemiş bir şok enerji dünyasını yeniden şekillendiriyor",
+    "tt": null,
+    "s": "Uluslararası Enerji Ajansı (UEA), Orta Doğu'daki savaş sonrasında Hürmüz Boğazı'ndaki tedarik akışının büyük ölçüde kesintiye uğramasıyla enerji piyasalarında yaşanan \"benzeri görülmemiş şokun\" sektörü yeniden şekillendirdiğini ve bu krizin süresinin değişimin boyutunu belirleyeceğini bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/uea-benzeri-gorulmemis-bir-sok-enerji-dunyasini-yeniden-sekillendiriyor-3795075",
+    "ts": 1795069117000,
+    "tags": []
+   },
+   {
+    "t": "ABD ticari ham petrol stok artışı beklentinin üstünde",
+    "tt": null,
+    "s": "ABD'nin ticari ham petrol stokları, geçen hafta önceki haftaya göre yaklaşık 3 milyon 400 bin varil arttı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-ticari-ham-petrol-stok-artisi-beklentinin-ustunde-3795074",
+    "ts": 1795068140000,
+    "tags": []
+   },
+   {
+    "t": "Kentin İyi Yaşam Çizgisi: KENT Etiler",
+    "tt": null,
+    "s": "",
+    "ss": null,
+    "u": "http://pubads.g.doubleclick.net/gampad/clk?id=7490383806&iu=/31903365",
+    "ts": 1795068020000,
+    "tags": []
+   },
+   {
+    "t": "Trump İran'a yönelik yeni saldırı seçeneklerini değerlendiriyor",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump'ın, İran'ın askeri kapasitesini yeniden güçlendirdiğine ilişkin istihbarat ve İsrail'in artan baskısı üzerine Tahran'a yönelik kapsamlı askeri saldırı seçeneklerini değerlendirdiği öne sürüldü. Trump'ın henüz nihai kararını vermediği, yönetim içinde ise yeni bir operasyonun ",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-irana-yonelik-yeni-saldiri-seceneklerini-degerlendiriyor-3795072",
+    "ts": 1795067320000,
+    "tags": []
+   },
+   {
+    "t": "Küresel piyasalarda Anthropic gündemi",
+    "tt": null,
+    "s": "Anthropic'in tahsisli satışlar dahil halka arz büyüklüğü 107,3 milyar dolarla rekora ulaşırken, şirketin değerlemesi yaklaşık 1,5 trilyon dolar oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-anthropic-gundemi-3795070",
+    "ts": 1795067253000,
+    "tags": []
+   },
+   {
     "t": "Petrolde yeni jeopolitik gerilim riski",
     "tt": null,
     "s": "New York Times'ın ABD Başkanı Donald Trump'ın İran'a yönelik saldırılara yeniden başlayacağı yönündeki haberinin ardından petrol fiyatlarında yukarı yönlü baskı görüldü.",
@@ -1003,66 +1036,21 @@
     "tags": []
    },
    {
+    "t": "Altında istikrar arayışı",
+    "tt": null,
+    "s": "Bir yılın en düşük seviyesine gerileyen altın, Fed'in şahin sinyallerinin ardından gece boyunca yaşanan sert satışlardan sonra ons başına 3 bin 743 dolarda istikrar kazandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altinda-istikrar-arayisi-3795065",
+    "ts": 1795066943000,
+    "tags": []
+   },
+   {
     "t": "Anthropic'ten rekor halka arz",
     "tt": null,
     "s": "Yapay zekâ şirketi Anthropic, 81,3 milyar dolarlık halka arzıyla SpaceX'i geride bırakarak tarihin en büyük halka arzına imza attı.",
     "ss": null,
     "u": "https://www.bloomberght.com/anthropic-ten-81-3-milyar-dolarlik-rekor-halka-arz-3795061",
     "ts": 1795063251000,
-    "tags": []
-   },
-   {
-    "t": "BOJ Başkanı Ueda'dan faiz artırımına açık kapı",
-    "tt": null,
-    "s": "Japonya Merkez Bankası (BOJ) Başkanı Kazuo Ueda, tüketici harcamalarındaki zayıflığın geçici olduğunu belirterek, ekonomik daralmaya rağmen faiz artırımına devam edilebileceğinin sinyalini verdi. Piyasalarda aralık ayında faiz artırımı olasılığı yüzde 84'e yükseldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/boj-baskani-ueda-dan-faiz-artirimina-acik-kapi-3795060",
-    "ts": 1795062250000,
-    "tags": []
-   },
-   {
-    "t": "Trump yapay zekaya yönelik küreselci düzenlemeye karşı çıktı",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, Çin'deki APEC Zirvesi'nde yapay zekanın \"bazı kötü unsurları\" olduğunu ancak \"neredeyse tamamen iyi\" olduğunu belirterek, yapay zekanın kontrol edilmesine veya kısıtlanmasına yönelik her türlü \"küreselci düzenlemeye\" karşı olduklarını söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-yapay-zekaya-yonelik-kureselci-duzenlemeye-karsi-cikti-3795059",
-    "ts": 1795061722000,
-    "tags": []
-   },
-   {
-    "t": "Mustafa Yazıcı'ya 'fon soruşturması'nda adli kontrol talebi",
-    "tt": null,
-    "s": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında ifade işlemleri tamamlanan Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı, adli kontrol talebiyle sulh ceza hakimliğine sevk edildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/mustafa-yazici-ya-fon-sorusturmasi-nda-adli-kontrol-talebi-3795058",
-    "ts": 1795061181000,
-    "tags": []
-   },
-   {
-    "t": "İngiltere'den AB öğrencilerine üniversite ücretlerini azaltma planı",
-    "tt": null,
-    "s": "İngiltere hükümeti, Avrupa Birliği vatandaşı üniversite öğrencilerinin İngiltere'deki üniversitelere ödediği ücretleri yıllık 38 bin sterlinden İngiliz öğrencilerin ödediği 9 bin 970 sterline çekme planını AB yetkililerine iletti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ingiltere-den-ab-ogrencilerine-universite-ucretlerini-azaltma-plani-3795057",
-    "ts": 1795060701000,
-    "tags": []
-   },
-   {
-    "t": "Enerji ve sosyal güvenliğe ilişkin düzenlemeleri de içeren kanun teklifi, Komisyonda kabul edildi",
-    "tt": null,
-    "s": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonunda kabul edildi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/enerji-ve-sosyal-guvenlige-iliskin-duzenlemeleri-de-iceren-kanun-teklifi-komisyonda-kabul-edildi-3795056",
-    "ts": 1795060155000,
-    "tags": []
-   },
-   {
-    "t": "Moody's'ten ABD ekonomisi için borç uyarısı",
-    "tt": null,
-    "s": "ABD'ye yönelik kredi incelemesini tamamlayan Moody's, Aa1 notunu korurken federal borcun 31,8 trilyon dolara, bütçe açığının ise 2 trilyon dolara ulaştığını bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/moodysten-abd-ekonomisi-icin-borc-uyarisi-3795055",
-    "ts": 1795059642000,
     "tags": []
    }
   ]
