@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T23:39:41.973907+00:00",
+ "generated": "2026-11-19T00:32:15.805163+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 3741.7,
-   "c": -3.17,
-   "d": -122.5,
+   "p": 3741.3,
+   "c": -3.18,
+   "d": -122.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 45.395,
-   "c": -4.0,
-   "d": -1.893,
+   "p": 45.41,
+   "c": -3.97,
+   "d": -1.878,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.11,
-   "c": -4.53,
-   "d": -3.9,
+   "p": 81.94,
+   "c": -4.73,
+   "d": -4.07,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.81,
-   "c": -4.65,
-   "d": -4.33,
+   "p": 88.63,
+   "c": -4.84,
+   "d": -4.51,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.4477,
-   "c": 0.06,
-   "d": 0.029,
+   "p": 50.4473,
+   "c": 0.02,
+   "d": 0.009,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 62868,
-   "c": -3.2,
+   "p": 62784,
+   "c": -3.12,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1771.85,
-   "c": -2.85,
+   "p": 1775.9,
+   "c": -2.46,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.4,
-   "c": -2.17,
+   "p": 73.37,
+   "c": -2.52,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.967726,
-   "c": -1.71,
+   "p": 0.963949,
+   "c": -2.04,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 582.05,
-   "c": -2.29,
+   "p": 581.83,
+   "c": -2.53,
    "k": "usd"
   }
  ],
@@ -584,12 +584,53 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Nasdaq Futures Rise After Anthropic IPO Pricing: Markets Wrap",
+    "t": "US Stock Futures Climb on Anthropic IPO Pricing: Markets Wrap",
     "tt": "Asya Hisse Senetleri Antropik Çıkış Öncesinde Düşüşe Hazır: Piyasalar Tamamlandı",
-    "s": "US equity-index futures advanced after Anthropic PBC priced its initial public offering above the marketed range, putting investor appetite for the technology sector to a fresh test following recent losses. Copper declined.",
+    "s": "US equity-index futures advanced after Anthropic PBC priced its initial public offering above the marketed range, putting investor appetite for the technology sector to a fresh test following recent losses.",
     "ss": "Asya hisse senetleri, yatırımcıların yapay zeka ticaretinin dayanıklılığına dair yeni kanıtlar bulmak için Anthropic PBC'nin devasa piyasaya çıkışına yönelmesiyle birlikte, Wall Street'te yeniden yaşanan volatilitenin ardından düşüşe hazır görünüyordu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
     "ts": 1795039661000,
+    "tags": []
+   },
+   {
+    "t": "Trade and AI Rivalry to Dominate APEC Summit",
+    "tt": "Ticaret ve Yapay Zeka Rekabeti APEC Zirvesine Hakim Oluyor",
+    "s": "Bloomberg's Stephen Engle reports from Shenzhen where he breaks down the key topics likely to play out during a trilateral meeting between President Donald Trump, Xi Jinping and Vladimir Putin. Speaking to Bloomberg, Columbia University Professor Jeffrey Sachs also argues that the US cannot win a tr",
+    "ss": "Bloomberg'den Stephen Engle, Shenzhen'den Başkan Donald Trump, Xi Jinping ve Vladimir Putin arasındaki üçlü toplantıda ortaya çıkması muhtemel önemli konuları ayrıntılarıyla aktarıyor. Bloomberg'e konuşan Columbia Üniversitesi Profesörü Jeffrey Sachs da ABD'nin yeni bir zafer kazanamayacağını savunuyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-19/trade-and-ai-rivalry-to-dominate-apec-summit-video",
+    "ts": 1795047483000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 19",
+    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil steadied after slumping on Wednesday, as traders assessed the outlook for the next phase of the US-Iran conflict.",
+    "ss": "Petrol fiyatları, zayıf risk iştahı, artan ABD stokları ve bol miktardaki arzın Orta Doğu'daki gerilimlere ağır basması nedeniyle Çarşamba günkü düşüşünün ardından sakin kaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+    "ts": 1795043015000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
+    "tt": "Eski Google Mühendisi, Gemini 3.0 Bahisleri Nedeniyle Yeni Suçlamalarla Karşı Karşıya Olabilir",
+    "s": "A former Google software engineer accused of making an illegal bet on Polymarket about company search data may face additional charges that he also traded on the release date of its Gemini 3.0 artificial-intelligence model.",
+    "ss": "Polymarket'ta şirket arama verileriyle ilgili yasa dışı bahis oynamakla suçlanan eski bir Google yazılım mühendisi, Gemini 3.0 yapay zeka modelinin çıkış tarihinde de işlem yaptığı için ek suçlamalarla karşı karşıya kalabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
+    "ts": 1795045462000,
+    "tags": []
+   },
+   {
+    "t": "Seesaw Day for Markets, Anthropic IPO Looms",
+    "tt": "Piyasalar için Tahterevalli Günü, Antropik Halka Arz Yaklaşıyor",
+    "s": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Doubleline’s Global Sovereign and Emerging Markets Head Bill Campbell, Csis’ Senior Fellow Henrietta Levin, Former SEC Chair G",
+    "ss": "Bloomberg Television, Wall Street'in kapanış zilinden önceki ve sonraki son dakika ve saniyelere kadar uzanan en son haberleri ve analizleri size getiriyor. Bugünün konukları Doubleline'ın Küresel Egemen ve Yükselen Piyasalar Başkanı Bill Campbell, Csis'in Kıdemli Üyesi Henrietta Levin, Eski SEC Başkanı G",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-18/the-close-11-18-2026-video",
+    "ts": 1795045416000,
     "tags": []
    },
    {
@@ -626,20 +667,6 @@
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 19",
-    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil steadied after slumping on Wednesday, as weaker risk appetite, rising US inventories and ample supplies outweighed Middle East tensions.",
-    "ss": "Petrol fiyatları, zayıf risk iştahı, artan ABD stokları ve bol miktardaki arzın Orta Doğu'daki gerilimlere ağır basması nedeniyle Çarşamba günkü düşüşünün ardından sakin kaldı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-    "ts": 1795043015000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
     "t": "Bain Pushes Back LNG Glut Outlook to 2030 as War Tightens Market",
     "tt": "Bain, Savaşın Piyasayı Sıkılaştırmasıyla LNG Glutunun Görünümünü 2030'a Erteledi",
     "s": "A looming global glut of liquefied natural gas has been pushed back by more than a year as the conflict in the Middle East disrupts supplies and delays projects, according to Bain &amp; Co., extending a period of tightness that’s delivering higher profits for traders.",
@@ -655,33 +682,6 @@
     "ss": "Eski SEC Başkanı ve MIT Sloan School of Management'ta Küresel Ekonomi ve Yönetim ve Finans Uygulamaları Profesörü olan Gary Gensler, Antropik ve OpenAI'nin kurumsal yönetim yapısı, SEC'in gelişen rolü ve izlediği risk faktörleri hakkında Bloomberg'in Romaine Bostick'ine katıldı.",
     "u": "https://www.bloomberg.com/news/videos/2026-11-18/fmr-sec-chair-gary-gensler-nvidia-misled-the-public-video",
     "ts": 1795042384000,
-    "tags": []
-   },
-   {
-    "t": "Chicago’s Third CFO This Year Saw Red Flags Before Exit",
-    "tt": "Chicago'nun Bu Yıl Üçüncü CFO'su Çıkıştan Önce Kırmızı Bayraklar Gördü",
-    "s": "The sudden departure of Chicago’s third chief financial officer in a year came after she repeatedly raised concerns about budgeting practices, including inconsistent deficit calculations.",
-    "ss": "Chicago'nun üçüncü mali işler sorumlusunun bir yıl içinde ani ayrılışı, tutarsız bütçe açığı hesaplamaları da dahil olmak üzere bütçeleme uygulamalarıyla ilgili endişelerini defalarca dile getirmesinin ardından gerçekleşti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/chicago-s-third-cfo-this-year-saw-budget-red-flags-before-exit",
-    "ts": 1795019262000,
-    "tags": []
-   },
-   {
-    "t": "Skydance Skips FIFA World Cup Bid as Netflix, Fox Eye $4 Billion Deal",
-    "tt": "Skydance, Netflix Olarak FIFA Dünya Kupası Teklifini Atladı, Fox Eye ile 4 Milyar Dolarlık Anlaşma",
-    "s": "Skydance Corp. is opting out of bidding for the US media rights for the next FIFA Men’s World Cup tournaments in what could be one of the costliest and competitive auctions in the global soccer event’s history, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre Skydance Corp., küresel futbol etkinliği tarihindeki en maliyetli ve rekabetçi açık artırmalardan biri olabilecek bir sonraki FIFA Erkekler Dünya Kupası turnuvası için ABD medya hakları için teklif vermekten vazgeçiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal",
-    "ts": 1795042369000,
-    "tags": []
-   },
-   {
-    "t": "Eddie Best on Expectations for Anthropic’s IPO",
-    "tt": "Eddie Best, Anthropic'in halka arzına ilişkin Beklentiler konusunda",
-    "s": "Edward Best, co-chair of Wilkie Farr & Gallagher’s capital markets practice, discusses Bloomberg’s report that Anthropic may price its IPO at $83 per share, up from an initial marketing price of $70. He speaks with Romaine Bostick on \"The Close\". (Source: Bloomberg)",
-    "ss": "Wilkie Farr & Gallagher'ın sermaye piyasası uygulamaları eş başkanı Edward Best, Bloomberg'in Anthropic'in halka arzını hisse başına 70 $'lık başlangıç ​​pazarlama fiyatından 83 $'a yükseltebileceği yönündeki raporunu tartışıyor. \"The Close\"da Romaine Bostick ile konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-18/eddie-best-on-expectations-for-anthropic-s-ipo-video",
-    "ts": 1795042074000,
     "tags": []
    }
   ],
@@ -791,6 +791,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+    "tt": "'Nvidia'nın kargaşası beni korkuttu': Hisse senetlerimi satıp emlak mı almalıyım yoksa fırtınayı atlatmalı mıyım?",
+    "s": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "ss": "Gayrimenkul veya CD'ler için stoklardan vazgeçmeye mi karar verdiniz? Ani hareketler yapmadan önce derin bir nefes alın.",
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1795048200000,
+    "tags": []
+   },
+   {
     "t": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
     "tt": "Küçük çaplı hisse senetlerindeki 'ölüm haçı' piyasanın geri kalanı için ne anlama geliyor?",
     "s": "The negative chart pattern confirms weakness in the Russell 2000 and in overall market breadth.",
@@ -870,18 +879,27 @@
     "u": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
     "ts": 1795036740000,
     "tags": []
-   },
-   {
-    "t": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-    "tt": "Google, yapay zekayı güçlendirmek için yeni ve çılgın bir teklifle yanardağ ve kaya eritme teknolojisine yöneliyor",
-    "s": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
-    "ss": "Bir Bernstein analistine göre Google'ın Quaise ile yaptığı anlaşma \"türünün ilk örneği olan bir teknolojiye yapılan bir bahis\".",
-    "u": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-    "ts": 1795035660000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Texas County Kills SpaceX Tax Break As Musk's Lone Star Welcome Wears Thin",
+    "tt": "Musk'ın Lone Star Hoş Geldiniz'i Zayıflarken Texas County, SpaceX Vergi İndirimini Öldürdü",
+    "s": "Texas County Kills SpaceX Tax Break As Musk's Lone Star Welcome Wears Thin If you needed a reminder that Texas just turned blue - Cameron County commissioners on Tuesday killed SpaceX's bid for a 10-year, 100% property tax abatement on its planned $24 billion data center and gas-fired power plant ne",
+    "ss": "Texas County, Musk'ın Yalnız Yıldızı Hoş Geldiniz İnce Giyerken SpaceX Vergi İndirimini Öldürüyor Teksas'ın maviye döndüğünü hatırlatmak isterseniz - Cameron County komisyon üyeleri Salı günü SpaceX'in planlanan 24 milyar dolarlık veri merkezi ve gaz yakıtlı enerji santrali için 10 yıllık %100 emlak vergisi indirimi teklifini iptal etti",
+    "u": "https://www.zerohedge.com/political/texas-county-kills-spacex-tax-break-musks-lone-star-welcome-wears-thin",
+    "ts": 1795047600000,
+    "tags": []
+   },
+   {
+    "t": "New York Will Force Unskippable Warnings On Social Media - Unless You Prove Your Age",
+    "tt": "New York, Yaşınızı Kanıtlamadığınız sürece Sosyal Medyada Atlanamayan Uyarıları Zorunlu Tutacak",
+    "s": "New York Will Force Unskippable Warnings On Social Media - Unless You Prove Your Age Authored by Dan Frieth via Reclaim The Net , Every day, millions of New Yorkers access social media to read the news, check in on friends, watch a lecture, attend a religious service, debate politics, learn somethin",
+    "ss": "New York, Sosyal Medyada Atlanamayan Uyarıları Zorunlu Tutacak - Yaşınızı Kanıtlamadığınız sürece Yazan: Dan Frieth, Reclaim The Net , Milyonlarca New Yorklu her gün haberleri okumak, arkadaşlarına göz atmak, bir ders izlemek, dini bir törene katılmak, siyaseti tartışmak, bir şeyler öğrenmek için sosyal medyaya giriyor",
+    "u": "https://www.zerohedge.com/political/new-york-will-force-unskippable-warnings-social-media-unless-you-prove-your-age",
+    "ts": 1795046400000,
+    "tags": []
+   },
    {
     "t": "Stunning Moment \"World's Most Endangered Tribe\" Makes Rare Contact With Outsiders",
     "tt": "\"Dünyanın En Çok Tehlike Altındaki Kabilesinin\" Yabancılarla Nadiren Temas Kurduğu Çarpıcı An",
@@ -892,9 +910,27 @@
     "tags": []
    },
    {
-    "t": "Anthropic IPO Prices At $83, Raises A Record $94 Billion... With Its Own Chip Suppliers Holding Up The Floor",
+    "t": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage",
+    "tt": "\"Defalarca Patlatmak İçin Kötü Form\": İki Kez Yanan Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planını Yapıyor... Bu Kez Daha Fazla Kaldıraçla",
+    "s": "\"Bad Form To Blow Up Repeatedly\": Twice-Burned Leopold Aschenbrenner Plots \"Situational Awareness 2.0\"... This Time With More Leverage Some people learn from blowing up. Others raise more money. Four months after his AI hedge fund went from $20 billion-plus to needing a firesale rescue from Ken Grif",
+    "ss": "\"Defalarca Patlatmak İçin Kötü Biçim\": İki Kez Yanmış Leopold Aschenbrenner \"Durumsal Farkındalık 2.0\" Planlıyor... Bu Kez Daha Fazla Kaldıraçla Bazı insanlar patlamadan ders alıyor. Diğerleri daha fazla para topluyor. Yapay zeka hedge fonunun 20 milyar dolardan fazla bir değerden Ken Grif'in acilen kurtarılmasına ihtiyaç duymasından dört ay sonra",
+    "u": "https://www.zerohedge.com/markets/bad-form-blow-repeatedly-twice-burned-leopold-aschenbrenner-plots-situational-awareness-20",
+    "ts": 1795044000000,
+    "tags": []
+   },
+   {
+    "t": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse",
+    "tt": "Bir Büyük Fast Food Franchise Sahibi Daha Acımasız Kâr Çöküşünden Sonra İflasla Sarsıldı",
+    "s": "Yet Another Major Fast-Food Franchisee Rocked By Bankruptcy After Brutal Profit Collapse The bankruptcy bloodbath sweeping America's fast-food industry has claimed another victim as a major KFC and Taco Bell franchise operator buckles under the weight of plunging sales, soaring operating costs, and ",
+    "ss": "Acımasız Kâr Çöküşünden Sonra Bir Büyük Fast Food Franchise Sahibi Daha İflasla Sarsıldı Amerika'nın fast-food endüstrisini kasıp kavuran iflas kan banyosu, büyük bir KFC ve Taco Bell franchise işletmecisinin düşen satışlar, artan işletme maliyetleri ve artan işletme maliyetleri altında ezilmesinden dolayı bir kurban daha aldı.",
+    "u": "https://www.zerohedge.com/political/yet-another-major-fast-food-franchisee-rocked-bankruptcy-after-brutal-profit-collapse",
+    "ts": 1795043400000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic IPO Prices At $83, Raises A Record $107 Billion... With Its Own Chip Suppliers Holding Up The Floor",
     "tt": "Antropik Halka Arz Fiyatları 83 Dolar Oldu, 94 Milyar Dolara Yükseldi... Kendi Çip Tedarikçileri Ayakta Kaldı",
-    "s": "Anthropic IPO Prices At $83, Raises A Record $94 Billion... With Its Own Chip Suppliers Holding Up The Floor It's official: Anthropic is a $1.08 trillion company... or $1.49 trillion fully-diluted company depending - as we noted last week - on who's counting . After a week in which the same \"above t",
+    "s": "Anthropic IPO Prices At $83, Raises A Record $107 Billion... With Its Own Chip Suppliers Holding Up The Floor Update: the revised IPO terms were just published by Anthropic , and instead of the 825 million shares offered previously, the new offering is 980 million shares, a 19% increase in the offer",
     "ss": "Anthropic Halka Arz Fiyatları 83 Dolar, Rekor 94 Milyar Dolara Yükseldi... Kendi Çip Tedarikçileri Ayakta Kalarak Resmi: Anthropic 1,08 trilyon dolarlık bir şirket... ya da - geçen hafta belirttiğimiz gibi - kimin saydığına bağlı olarak 1,49 trilyon dolarlık tamamen sulandırılmış bir şirket. Aynı \"yukarıda\" olduğu bir hafta sonra",
     "u": "https://www.zerohedge.com/markets/anthropic-prices-83-raises-record-94-billion-its-own-chip-suppliers-holding-floor",
     "ts": 1795042800000,
@@ -934,42 +970,6 @@
     "ss": "Suudi Arabistan, Yemen Savaşı'nın 2027'ye Kadar Uzamasını Bekliyor Bu sürpriz olmamalı, ancak Reuters'in planlar hakkında Suudiler tarafından bilgilendirilen iki Batılı yetkiliye dayandırdığı haberine göre, Suudi Arabistanlı yetkililer Husilerle savaşın 2027'ye kadar sürmesi için hazırlanıyor. \"Etrafta halka açık mesajlaşma",
     "u": "https://www.zerohedge.com/geopolitical/saudi-arabia-braces-yemen-war-extend-well-2027",
     "ts": 1795037940000,
-    "tags": []
-   },
-   {
-    "t": "\"The Most California Headline Ever\": Homeless Housing CEO Tried To Flee On His Yacht",
-    "tt": "\"Şimdiye Kadarki En Kaliforniya Manşeti\": Evsizler Konutu CEO'su Yatıyla Kaçmaya Çalıştı",
-    "s": "\"The Most California Headline Ever\": Homeless Housing CEO Tried To Flee On His Yacht The CEO of a Long Beach affordable housing charity was carrying $15,000 in cash, parts for a broken-down yacht and documents tied to properties named in his federal indictment when he was arrested at the airport in ",
-    "ss": "\"Şimdiye Kadarki En Çok Kaliforniya Manşeti\": Evsiz Konut CEO'su Yatıyla Kaçmaya Çalıştı Long Beach'teki uygun fiyatlı konut yardım kuruluşunun CEO'su, 15.000 dolar nakit para, arızalı bir yatın parçaları ve federal iddianamesinde adı geçen mülklere bağlı belgeler taşıyordu.",
-    "u": "https://www.zerohedge.com/political/most-california-headline-ever-homeless-housing-ceo-tried-flee-his-yacht",
-    "ts": 1795037700000,
-    "tags": []
-   },
-   {
-    "t": "Get Ready For Surging Inflation As Democrats Take Power",
-    "tt": "Demokratların İktidara Gelmesiyle Artan Enflasyona Hazır Olun",
-    "s": "Get Ready For Surging Inflation As Democrats Take Power Authored by Brandon Smith via Alt-Market.us Pattern recognition is an important mental tool and something that has been largely neglected in western countries in modern times. It’s the ability to identify and address persistent problems when it",
-    "ss": "Demokratlar İktidara Gelirken Artan Enflasyona Hazır Olun Yazan Brandon Smith, Alt-Market.us aracılığıyla Örüntü tanıma önemli bir zihinsel araçtır ve modern zamanlarda batı ülkelerinde büyük ölçüde ihmal edilen bir şeydir. Kalıcı sorunları tespit etme ve çözme yeteneğidir.",
-    "u": "https://www.zerohedge.com/economics/get-ready-surging-inflation-democrats-take-power",
-    "ts": 1795036800000,
-    "tags": []
-   },
-   {
-    "t": "IRGC Says 3 More Tankers On Fire After Ignoring Warnings In Hormuz Area",
-    "tt": "Devrim Muhafızları, Hürmüz Bölgesinde Uyarıları Dikkate Almadıktan Sonra 3 Tankerin Daha Alev Aldığını Söyledi",
-    "s": "IRGC Says 3 More Tankers On Fire After Ignoring Warnings In Hormuz Area Update(1605ET) : Added to Tuesday's reported five tanker attacks in or near the Hormuz Strait, on Wednesday the IRGC has claimed three more attacks on oil tankers which caught fire : The IRGC says the three oil tankers that caug",
-    "ss": "Devrim Muhafızları, Hürmüz Bölgesindeki Uyarıları Göz Ardı Ettikten Sonra 3 Tankerin Daha Ateşte Olduğunu Söyledi Güncelleme(1605ET): Salı günü Hürmüz Boğazı'nda veya yakınında bildirilen beş tanker saldırısına eklendi, Çarşamba günü Devrim Muhafızları, alev alan petrol tankerlerine yönelik üç saldırı daha üstlendi: Devrim Muhafızları, yanan üç petrol tankerinin daha olduğunu söylüyor",
-    "u": "https://www.zerohedge.com/geopolitical/crew-abandons-burning-gas-tanker-hit-twice-hormuz-fears-grow-it-could-explode",
-    "ts": 1795035900000,
-    "tags": []
-   },
-   {
-    "t": "Trump Said To Have Grown Angrier With Vance Since Midterms Over War Criticism: Report",
-    "tt": "Trump'ın Ara Sınavlardan Bu Yana Savaş Eleştirileri Nedeniyle Vance'e Kızgınlığı Arttığı Söylendi: Rapor",
-    "s": "Trump Said To Have Grown Angrier With Vance Since Midterms Over War Criticism: Report As recently as Monday, Vice President JD Vance rejected claims that he and President Trump are at odds over the Iran war. Vance has insisted there's \" no daylight\" between them despite his severe public criticisms ",
-    "ss": "Trump'ın Ara Sınavlardan Bu Yana Savaş Eleştirileri Nedeniyle Vance'e Daha Öfkeli Olduğu Söylendi: Rapor Pazartesi gününe kadar Başkan Yardımcısı JD Vance, kendisinin ve Başkan Trump'ın İran savaşı konusunda anlaşmazlığa düştüğü yönündeki iddiaları reddetti. Vance, kamuoyundaki sert eleştirilerine rağmen aralarında \"gün ışığı olmadığı\" konusunda ısrar etti",
-    "u": "https://www.zerohedge.com/political/trump-said-have-grown-angrier-vance-midterms-over-war-criticism-report",
-    "ts": 1795034700000,
     "tags": []
    }
   ],
