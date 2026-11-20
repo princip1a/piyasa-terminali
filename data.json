@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T12:32:38.032338+00:00",
+ "generated": "2026-11-20T13:50:25.383459+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,97 +24,97 @@
   },
   {
    "n": "VIX",
-   "p": 30.4,
-   "c": 6.89,
-   "d": 1.96,
+   "p": 31.42,
+   "c": 10.48,
+   "d": 2.98,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3575.9,
-   "c": -2.97,
-   "d": -109.6,
+   "p": 3561.8,
+   "c": -3.36,
+   "d": -123.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.155,
-   "c": -4.88,
-   "d": -2.163,
+   "p": 41.735,
+   "c": -5.83,
+   "d": -2.583,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.26,
-   "c": -1.14,
-   "d": -0.95,
+   "p": 82.41,
+   "c": -0.96,
+   "d": -0.8,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.23,
-   "c": -2.99,
-   "d": -2.75,
+   "p": 89.14,
+   "c": -3.09,
+   "d": -2.84,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.867,
-   "c": -0.03,
-   "d": -0.033,
+   "p": 103.65,
+   "c": -0.24,
+   "d": -0.25,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 5.052,
-   "c": -0.28,
-   "d": -0.014,
+   "p": 4.976,
+   "c": -1.5,
+   "d": -0.076,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.5723,
+   "p": 50.5708,
    "c": 0.22,
-   "d": 0.11,
+   "d": 0.109,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11159.54,
-   "c": -2.11,
-   "d": -240.56,
+   "p": 11134.79,
+   "c": -2.33,
+   "d": -265.31,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 61497,
-   "c": -3.51,
+   "p": 61608,
+   "c": -3.31,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1739.93,
-   "c": -3.07,
+   "p": 1741.87,
+   "c": -3.49,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.12,
-   "c": -4.19,
+   "p": 70.84,
+   "c": -5.48,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.946599,
-   "c": -3.51,
+   "p": 0.937749,
+   "c": -5.18,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 567.87,
-   "c": -3.71,
+   "p": 567.45,
+   "c": -4.14,
    "k": "usd"
   }
  ],
@@ -571,6 +571,16 @@
    "reading": null
   },
   {
+   "title": "President Trump Speaks",
+   "impact": "Medium",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1795194000000,
+   "tr": "Cum 20.11 20:00",
+   "reading": null
+  },
+  {
    "title": "FOMC Member Cook Speaks",
    "impact": "Low",
    "forecast": "",
@@ -584,21 +594,90 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+    "tt": "Altın, Hawkish Fed ve AI Selloff'a Göre Mart'tan Bu Yana En Kötü Haftaya Girdi",
+    "s": "Gold fell for a fifth day — heading for the biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets.",
+    "ss": "Altın, şahin Fed'in daha fazla faiz artırımı sinyali vermesi ve AI hisselerindeki düşüşün metal piyasalarında satışları artırmasıyla beşinci günde de düşüşünü sürdürerek Mart ayından bu yana en büyük haftalık düşüşünü gerçekleştirmeye yöneldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "ts": 1795132563000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "S&P 500 Faces Technical Make-or-Break Moment Below 7,200 Line",
+    "tt": "S&P 500 7.200 Hattının Altında Teknik Bir Düşüş Anıyla Karşı Karşıya",
+    "s": "There’s an old adage among market technicians on Wall Street when looking at the S&amp;P 500 Index: “Nothing good happens below the 200-day moving average.”",
+    "ss": "Wall Street'teki piyasa teknisyenleri arasında S&P 500 Endeksine bakarken eski bir atasözü vardır: \"200 günlük hareketli ortalamanın altında iyi bir şey olmaz.\"",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/s-p-500-faces-technical-make-or-break-moment-below-7-200-line",
+    "ts": 1795181837000,
+    "tags": []
+   },
+   {
+    "t": "Global Stocks Hit Longest Losing Run Since 2023: Markets Wrap",
+    "tt": "Küresel Hisse Senetleri 2023'ten Bu Yana En Uzun Kayıp Serisini Yaşadı: Piyasalar Özetlendi",
+    "s": "A gauge of global stocks is heading for its longest losing streak in three years as the artificial intelligence trade undergoes a sharp unravelling, putting this year’s broader equity gains at risk and roiling metals markets.",
+    "ss": "Yapay zeka ticaretinin keskin bir çözülmeye maruz kalması ve 2026'nın daha geniş hisse senedi kazanımlarını riske atması nedeniyle, küresel hisse senetleri endeksi üç yılı aşkın süredir en uzun kayıp serisine doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795125820000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic IPO Live Updates: AI Trade Fears Rattle Markets, Stocks Fall",
+    "tt": "Antropik Halka Arz Canlı Güncellemeleri: Yapay Zeka Ticareti Korkuları Piyasaları Sallıyor, Hisse Senetleri Düşüyor",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+    "ts": 1795181629000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Add to Steep Weekly Gain as Investors Flee Stocks",
+    "tt": "Yapay Zeka Endişeleri Nedeniyle Hazine'nin İki Yıllık Getirileri 2025'ten Bu Yana En Çok Düştü",
+    "s": "Treasuries added to a steep weekly advance as stock markets slumped globally on mounting doubts over the artificial intelligence trade.",
+    "ss": "Kısa vadeli ABD Hazine tahvilleri, küresel hisse senetlerinin yapay zeka ticaretine ilişkin artan şüpheler nedeniyle gerilemesiyle bir yıldan fazla bir sürenin en iyi haftasını geçirmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
+    "ts": 1795149203000,
+    "tags": []
+   },
+   {
+    "t": "European Tech Stocks Fall As AI Trade Buckles",
+    "tt": "Avrupa Teknoloji Hisse Senetleri Yapay Zeka Ticaretinin Engellenmesiyle Düşüyor",
+    "s": "Anthropic’s blockbuster IPO is becoming a catalyst for a selloff across AI stocks, with some of Europe's biggest tech names falling on Friday. Europe's Stoxx 600 Technology Index sank 3.7% and was poised for its biggest weekly slump in six years. The Opening Trade has everything you need to know as ",
+    "ss": "Anthropic'in gişe rekorları kıran halka arzı, Avrupa'nın en büyük teknoloji isimlerinden bazılarının Cuma günü düşmesiyle birlikte AI hisselerindeki satışlar için bir katalizör haline geliyor. Avrupa'nın Stoxx 600 Teknoloji Endeksi yüzde 3,7 oranında değer kaybetti ve son altı yılın en büyük haftalık düşüşünü gerçekleştirmeye hazırlanıyor. Açılış Ticareti bilmeniz gereken her şeye sahiptir",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/the-opening-trade-11-20-2026-video",
+    "ts": 1795179901000,
+    "tags": []
+   },
+   {
+    "t": "MMG Faces Beefed Up EU Evidence Citing Concerns Over Anglo Deal",
+    "tt": "MMG, Anglo Anlaşmasına İlişkin Endişeleri Gösteren AB Kanıtlarıyla Karşı Karşıya",
+    "s": "China’s MMG Ltd. faces mounting European Union opposition to its planned $500 million Anglo American Plc deal in Brazil, after EU watchdogs pointed to fresh evidence of the threat to future supplies of vital ferro nickel to the bloc’s stainless-steel industry.",
+    "ss": "AB gözlemcilerinin, bloğun paslanmaz çelik endüstrisine gelecekte hayati önem taşıyan ferro nikel tedarikine yönelik tehdit olduğuna dair yeni kanıtlara işaret etmesinden sonra, Çinli MMG Ltd., Brezilya'da yapmayı planladığı 500 milyon dolarlık Anglo American Plc anlaşmasına Avrupa Birliği'nin artan muhalefetiyle karşı karşıya kaldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/mmg-faces-beefed-up-eu-evidence-citing-concerns-over-anglo-deal",
+    "ts": 1795179112000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
+    "tt": "Nasdaq'ta Antropik (ANT) Halka Arz, Yapay Zeka Korkularını ve Uyarılarını Aştı",
+    "s": "The pioneering AI lab saw unprecedented demand for its stock from both retail and institutional investors.",
+    "ss": "Öncü yapay zeka laboratuvarı, hem perakende hem de kurumsal yatırımcılardan hisselerine eşi benzeri görülmemiş bir talep gördü.",
+    "u": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
+    "ts": 1795141002000,
+    "tags": []
+   },
+   {
     "t": "Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets",
     "tt": "Yapay zeka satışlarının metal piyasalarında hasara yol açmasıyla bakır bozgunları kötüleşiyor",
     "s": "Copper sank to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
     "ss": "Bakır, küresel talebe ilişkin derinleşen endişelerin tetiklediği bir haftalık piyasa çalkantısının ardından Mart ayından bu yana en düşük seviyesine geriledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
     "ts": 1795143785000,
-    "tags": []
-   },
-   {
-    "t": "Global Stocks Hit Longest Losing Run Since 2023: Markets Wrap",
-    "tt": "Küresel Hisse Senetleri 2023'ten Bu Yana En Uzun Kayıp Serisini Yaşadı: Piyasalar Özetlendi",
-    "s": "A gauge of global stocks is heading for its longest losing streak in three years as the artificial intelligence trade undergoes a sharp unravelling, putting this year’s broader equity gains at risk and roiling metal markets.",
-    "ss": "Yapay zeka ticaretinin keskin bir çözülmeye maruz kalması ve 2026'nın daha geniş hisse senedi kazanımlarını riske atması nedeniyle, küresel hisse senetleri endeksi üç yılı aşkın süredir en uzun kayıp serisine doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795125820000,
     "tags": []
    },
    {
@@ -609,74 +688,18 @@
     "u": "https://www.bloomberg.com/news/videos/2026-11-20/lagarde-warns-europe-is-hesitant-responding-to-crises-video",
     "ts": 1795177715000,
     "tags": []
-   },
-   {
-    "t": "Nvidia Turmoil Leaves Few Stock Market Winners in Sea of Losers",
-    "tt": "Nvidia Kargaşası, Çok Az sayıda Borsa Kazananını Kaybedenler Denizinde Bıraktı",
-    "s": "After the chaos of the past week, the winners and losers from Jensen Huang’s stunning ouster from Nvidia Corp. are coming into focus.",
-    "ss": "Geçtiğimiz hafta yaşanan kaosun ardından, Jensen Huang'ın Nvidia Corp.'tan şaşırtıcı bir şekilde devrilmesinin kazananları ve kaybedenleri mercek altına alınıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers",
-    "ts": 1795177260000,
-    "tags": []
-   },
-   {
-    "t": "Gold’s Rout Tests the Myth of an All-Weather Safe Haven",
-    "tt": "Gold'un Rut'u Her Hava Koşuluna Uygun Güvenli Liman Efsanesini Test Ediyor",
-    "s": "Bullion’s worst year in more than a decade shows why investors can’t count on it to protect against every kind of market turmoil.",
-    "ss": "Külçenin on yılı aşkın sürenin en kötü yılı, yatırımcıların her türlü piyasa çalkantısına karşı koruma konusunda neden ona güvenemeyeceğini gösteriyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-20/gold-s-rout-tests-the-myth-of-an-all-weather-safe-haven",
-    "ts": 1795176798000,
-    "tags": [
-     "Altın ▲"
-    ]
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 20",
-    "tt": "20 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil headed for a third weekly decline as traders weighed the risk of renewed US strikes on Iran against ample supply.",
-    "ss": "Petrol fiyatları, tüccarların bol arz karşısında ABD'nin İran'a yeniden saldırı düzenlemesi riskini tartmasıyla üçüncü haftalık düşüşe yöneldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
-    "ts": 1795129551000,
-    "tags": []
-   },
-   {
-    "t": "Price Hikes Set to Lift Materials Companies’ Margins in 2027",
-    "tt": "Fiyat Artışları 2027'de Malzeme Firmalarının Marjlarını Artıracak",
-    "s": "Makers of steel, paint and packaging are expected to bounce back from a quarter of disappointing margins, with price increases and cost cuts set to lift profitability to its highest in almost three decades.",
-    "ss": "Çelik, boya ve ambalaj üreticilerinin, çeyreklik hayal kırıklığı yaratan marjlardan sonra toparlanmaları, fiyat artışları ve maliyet kesintilerinin ise kârlılığı neredeyse otuz yılın en yüksek seviyesine çıkarması bekleniyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/price-hikes-set-to-lift-materials-companies-margins-in-2027",
-    "ts": 1795176000000,
-    "tags": []
-   },
-   {
-    "t": "Stock Rout’s Spread Beyond Tech Carries Warning From Dotcom-Era",
-    "tt": "Hisse Senedinin Teknolojinin Ötesine Yayılması Dotcom Döneminden Uyarı Taşıyor",
-    "s": "The way this AI-driven rout is spreading across stocks reveals some worrying similarities to market patterns leading up to the dotcom crash.",
-    "ss": "Bu AI odaklı yenilginin hisse senetlerine yayılma şekli, dotcom çöküşüne yol açan piyasa modelleriyle bazı endişe verici benzerlikleri ortaya koyuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/stock-rout-s-spread-beyond-tech-carries-warning-from-dotcom-era",
-    "ts": 1795175413000,
-    "tags": []
-   },
-   {
-    "t": "Skepticism About AI Is Crushing Stock Prices Around the World",
-    "tt": "Yapay Zeka Hakkında Şüphecilik Dünya Çapında Hisse Senedi Fiyatlarını Eziyor",
-    "s": "Metals are slumping too as traders worry that demand will dry up.",
-    "ss": "Tüccarlar talebin azalacağından endişe ederken metaller de düşüş yaşıyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-20/skepticism-about-ai-is-crushing-stock-prices-around-the-world",
-    "ts": 1795174798000,
-    "tags": []
-   },
-   {
-    "t": "Treasury Two-Year Yields Sink Most Since 2025 as AI Worries Bite",
-    "tt": "Yapay Zeka Endişeleri Nedeniyle Hazine'nin İki Yıllık Getirileri 2025'ten Bu Yana En Çok Düştü",
-    "s": "Short-dated US Treasuries were set for their best week in more than a year as global stocks slumped on mounting doubts over the artificial intelligence trade.",
-    "ss": "Kısa vadeli ABD Hazine tahvilleri, küresel hisse senetlerinin yapay zeka ticaretine ilişkin artan şüpheler nedeniyle gerilemesiyle bir yıldan fazla bir sürenin en iyi haftasını geçirmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
-    "ts": 1795149203000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+    "tt": "Trump Asya'dan dönerken ABD-Çin ticareti, Tayvan ve teknoloji gerilimleri çözümsüz kalmayı sürdürüyor",
+    "s": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
+    "ss": "Analistler, bu hafta Shenzhen'de düzenlenen yüksek profilli üçlü toplantılardan ve APEC için yapılan diğer toplantılardan elde edilen çok az somut sonuca dikkat çekiyor.",
+    "u": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+    "ts": 1795181390000,
+    "tags": []
+   },
    {
     "t": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
     "tt": "Trump, tarihi üçlü toplantısı öncesinde Putin ve Xi ile ayrı ayrı görüştü",
@@ -769,18 +792,54 @@
     "u": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
     "ts": 1794905565000,
     "tags": []
-   },
-   {
-    "t": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-    "tt": "Berkshire Hathaway üçüncü çeyrekte Delta'daki hissesini artırdı. Aynı zamanda önemli bir banka holdingini de azalttı",
-    "s": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-    "ss": "Berkshire Hathaway üçüncü çeyrekte birçok hisse senedi pozisyonunu artırırken Bank of America da dahil olmak üzere diğerlerini azalttı.",
-    "u": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-    "ts": 1794870079000,
-    "tags": []
    }
   ],
   "MarketWatch": [
+   {
+    "t": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+    "tt": "Anthropic'in hisseleri halka arz fiyatına yaklaşıyor ve AI ticaretini aşağı çekiyor",
+    "s": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+    "ss": "Anthropic'in açılış hisse senedi fiyatını tutamaması \"teknolojinin geri kalanı için kötü\" olarak görülüyor.",
+    "u": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+    "ts": 1795182480000,
+    "tags": []
+   },
+   {
+    "t": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+    "tt": "Sosyal Güvenlik bir saadet zinciri midir? Hayır. 1930'ların felaket kehanetlerine kendinizi kaptırmayın.",
+    "s": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+    "ss": "Wisconsin Cumhuriyetçi Senatörü Ron Johnson, Sosyal Güvenliği bir \"dolandırıcılık\" olarak nitelendirdi ve milletvekillerini bu sistemi kapatmaya çağırdı.",
+    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "ts": 1795179600000,
+    "tags": []
+   },
+   {
+    "t": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+    "tt": "Intuit'in kötümser görünümü Wall Street'in yazılım şirketleri hakkındaki endişelerini derinleştiriyor",
+    "s": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+    "ss": "TurboTax üreticisi Intuit, yatırımcılara eski yazılım şirketleri hakkında endişelenmeleri için yeni bir neden sunuyor.",
+    "u": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+    "ts": 1795179540000,
+    "tags": []
+   },
+   {
+    "t": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
+    "tt": "Bu 5 savunma hissesi, 2027'deki askeri harcama patlaması öncesinde içeriden öğrenilen bahislerle milyonlar çekiyor",
+    "s": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
+    "ss": "ABD'nin savunma harcamalarının gelecek yıl yaklaşık 1,15 trilyon dolar olacağı öngörülüyor; bu da füze, insansız hava aracı, uçak ve daha fazlasını üreten şirketlerin işlerini artıracak",
+    "u": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
+    "ts": 1795178700000,
+    "tags": []
+   },
+   {
+    "t": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
+    "tt": "Bank of America stratejisti, Wall Street'in sert iniş risklerini düşük fiyatlaması nedeniyle felaket döngüsünün hisse senetlerini vurabileceği konusunda uyardı",
+    "s": "The S&amp;P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
+    "ss": "ABD'nin resesyondan kaçınması durumunda S&P 500 satın almaya değer bir seviyeye yaklaşıyor ancak bir stratejist, yatırımcıların riskli varlıkları satın almadan önce beklemesi gerektiğini söyleyerek Wall Street'in sert iniş riskini düşük fiyatladığı konusunda uyarıyor.",
+    "u": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+    "ts": 1795178580000,
+    "tags": []
+   },
    {
     "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
     "tt": "Kocam bir tekneye 80.000 dolar harcadı ama 100.000 dolarlık bir çömlek atölyesi kurma planlarımın sorumsuz olduğunu söylüyor. Kim haklı?",
@@ -825,54 +884,54 @@
     "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
     "ts": 1795176000000,
     "tags": []
-   },
-   {
-    "t": "Citi warns a key stock-market signal is close to flashing red",
-    "tt": "Citi, önemli bir borsa sinyalinin kırmızı renkte yanıp sönmeye yakın olduğu konusunda uyardı",
-    "s": "Having turned risk averse more than a month ago, Citi strategists find no compelling reason to go more positive risk assets yet, despite the steep decline. If sentiment deteriorates further, buying long-duration bonds is the answer, they say.",
-    "ss": "Bir aydan fazla bir süre önce riskten kaçınmaya başlayan Citi stratejistleri, keskin düşüşe rağmen henüz daha pozitif risk varlıklarına yönelmek için ikna edici bir neden bulamıyor. Duyguların daha da kötüleşmesi durumunda çözümün uzun vadeli tahvil satın almak olduğunu söylüyorlar.",
-    "u": "https://www.marketwatch.com/story/citi-warns-a-key-stock-market-signal-is-close-to-flashing-red-5cbee1c3?mod=mw_rss_topstories",
-    "ts": 1795175100000,
-    "tags": []
-   },
-   {
-    "t": "Apple seems to be building its own AI agent. This could be bad news for Meta’s Muse.",
-    "tt": "Apple kendi yapay zeka ajanını oluşturuyor gibi görünüyor. Bu, Meta'nın Muse'u için kötü bir haber olabilir.",
-    "s": "Shares of Apple climbed in premarket trading after the company posted a number of job openings seeking engineers to help build an agentic artificial-intelligence system.",
-    "ss": "Apple'ın hisseleri, şirketin ajansal bir yapay zeka sistemi kurmaya yardımcı olacak mühendisler arayan bir dizi iş ilanı yayınlamasının ardından piyasa öncesi işlemlerde yükseldi.",
-    "u": "https://www.marketwatch.com/story/apple-seems-to-be-building-its-own-ai-agent-this-could-be-bad-news-for-metas-muse-8d9be2a7?mod=mw_rss_topstories",
-    "ts": 1795172700000,
-    "tags": []
-   },
-   {
-    "t": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "tt": "50'li yaşlarımızdayız ve piyasanın çökmesinden korkuyoruz. 1 milyon dolarlık emeklilik birikimimizin 400.000 dolarını yıllık gelire yatırmalı mıyız?",
-    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
-    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "ts": 1795172400000,
-    "tags": []
-   },
-   {
-    "t": "Here’s what happened next after previous times the S&P 500 losing streak reached six sessions",
-    "tt": "S&P 500'ün yenilgi serisinin altı seansa ulaşmasından sonra neler oldu?",
-    "s": "For markets, it’s been a week from hell — or, more accurately, the worst stretch for the S&amp;P 500 since the “liberation day” tariffs of 2025 — but the history of six-session losing streaks actually points to some better news ahead.",
-    "ss": "Piyasalar için bu, cehennemden bir hafta oldu - ya da daha doğrusu S&P 500 için 2025 \"Kurtuluş Günü\" tarifelerinden bu yana en kötü dönem - ancak altı seanslık yenilgi serilerinin geçmişi aslında ileride daha iyi haberlere işaret ediyor.",
-    "u": "https://www.marketwatch.com/story/heres-what-happened-next-after-previous-times-the-s-p-500-losing-streak-reached-six-sessions-13ff7704?mod=mw_rss_topstories",
-    "ts": 1795169280000,
-    "tags": []
-   },
-   {
-    "t": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with ‘no power, no water, no roof’",
-    "tt": "Bear Grylls, 'elektriksiz, susuz, çatısız' terk edilmiş bir adadaki kendi evindeki zorlu koşullarda nasıl yaşadı?",
-    "s": "Bear Grylls made an unusual choice with his wife, Shara Grylls decades ago—buying a starter home on an abandoned island instead of a London flat.",
-    "ss": "Bear Grylls, onlarca yıl önce eşi Shara Grylls ile alışılmadık bir seçim yaptı; Londra'da bir daire yerine terk edilmiş bir adada bir başlangıç ​​evi satın aldı.",
-    "u": "https://www.marketwatch.com/story/how-bear-grylls-lived-in-the-harsh-conditions-of-his-own-home-on-an-abandoned-island-with-no-power-no-water-no-roof-8c3e17c4?mod=mw_rss_topstories",
-    "ts": 1795168860000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"If Everyone Needs One, It Won't\": Anthropic Slides Toward $83 IPO Price As Wall Street Waits For An AI \"Clearing Event\"",
+    "tt": "\"Herkesin İhtiyacı Varsa, Olmayacak\": Wall Street Yapay Zeka \"Taksit Etkinliği\"ni Beklerken Antropik Halka Arz Fiyatı 83 Dolara Doğru Kayıyor",
+    "s": "\"If Everyone Needs One, It Won't\": Anthropic Slides Toward $83 IPO Price As Wall Street Waits For An AI \"Clearing Event\" \"If everyone wants a clearing event, one might happen. If everyone needs one, it won't.\" That's how JPMorgan's co-head of global high-touch trading Ronald Adler boiled down the po",
+    "ss": "\"Herkesin İhtiyacı Varsa, Olmayacak\": Wall Street Yapay Zeka \"Takas Etkinliği\"ni Beklerken Antropik Halka Arz Fiyatı 83 Dolara Doğru Kayıyor \"Herkes bir takas olayı istiyorsa, bu gerçekleşebilir. Eğer herkes buna ihtiyaç duyuyorsa, olmayacak.\" JPMorgan'ın küresel yüksek temaslı ticaret eşbaşkanı Ronald Adler, durumu bu şekilde özetledi",
+    "u": "https://www.zerohedge.com/markets/if-everyone-needs-one-it-wont-anthropic-slides-toward-83-ipo-price-wall-street-waits-ai",
+    "ts": 1795181700000,
+    "tags": []
+   },
+   {
+    "t": "Pump Prices Hit Eight-Month Low Ahead Of Thanksgiving Travel",
+    "tt": "Pompa Fiyatları Şükran Günü Seyahati Öncesinde Sekiz Ayın En Düşük Seviyesine Ulaştı",
+    "s": "Pump Prices Hit Eight-Month Low Ahead Of Thanksgiving Travel With Thanksgiving next week, the holiday travel period is about to begin.&nbsp; There is some good news Thursday morning: the latest AAA data shows the national average price of gasoline at US pumps has slipped to its lowest level since mi",
+    "ss": "Pompa Fiyatları Şükran Günü Seyahati Öncesinde Sekiz Ayın En Düşük Seviyesine Ulaştı Önümüzdeki hafta Şükran Günü ile birlikte tatil seyahati dönemi başlamak üzere.  Perşembe sabahı bazı iyi haberler var: En son AAA verileri, ABD pompalarındaki ulusal ortalama benzin fiyatının 2017 yılından bu yana en düşük seviyesine gerilediğini gösteriyor.",
+    "u": "https://www.zerohedge.com/energy/pump-prices-hit-eight-month-low-ahead-thanksgiving-travel",
+    "ts": 1795180500000,
+    "tags": []
+   },
+   {
+    "t": "Futures Tumble As Anthropic IPO Hangover Turns AI Unwind Into Global Rout",
+    "tt": "Antropik Halka Arz Akşamdan Kalması Yapay Zekayı Küresel Bir Bozguna Dönüştürdüğünde Vadeli İşlemler Düşüyor",
+    "s": "Futures Tumble As Anthropic IPO Hangover Turns AI Unwind Into Global Rout US futures are lower for a second day as the AI unwind turns into a global liquidation: a day after its record-setting debut, Anthropic is sliding in premarket trading as the biggest IPO ever turns into a sell-the-news event ,",
+    "ss": "Antropik Halka Arz Akşamdan Kalması, Yapay Zekanın Küresel Bir Bozguna Dönüşmesiyle Vadeli İşlemler Düşüyor ABD vadeli işlemleri, yapay zekanın gevşemesinin küresel bir tasfiyeye dönüşmesiyle ikinci günde de düşük: rekor kıran çıkışından bir gün sonra Anthropic, şimdiye kadarki en büyük halka arzın bir haber satma olayına dönüşmesiyle piyasa öncesi ticarette geriliyor.",
+    "u": "https://www.zerohedge.com/markets/futures-tumble-anthropic-ipo-hangover-turns-ai-unwind-global-rout",
+    "ts": 1795180154000,
+    "tags": []
+   },
+   {
+    "t": "\"Every Chart, Every Asset\": Goldman's Privorotsky Says The Rotation Is Now Outright Liquidation As Financial Conditions Spike",
+    "tt": "\"Her Grafik, Her Varlık\": Goldman'dan Privorotsky, Finansal Koşulların Yükselişiyle Rotasyonun Artık Tamamen Tasfiye Olduğunu Söyledi",
+    "s": "\"Every Chart, Every Asset\": Goldman's Privorotsky Says The Rotation Is Now Outright Liquidation As Financial Conditions Spike Thursday was supposed to be the day the AI trade got its groove back. Nvidia had beaten and raised even without Jensen, Anthropic had priced the biggest IPO in history at $83",
+    "ss": "\"Her Grafik, Her Varlık\": Goldman'dan Privorotsky, Finansal Koşullardaki Yükseliş Perşembe günü yapay zeka ticaretinin tekrar yoluna girdiği gün olması nedeniyle Rotasyonun Artık Tamamen Tasfiye Olduğunu Söyledi. Nvidia, Jensen olmadan bile yenip büyümüştü, Anthropic ise tarihin en büyük halka arzını 83 dolar olarak fiyatlandırmıştı.",
+    "u": "https://www.zerohedge.com/markets/every-chart-every-asset-goldmans-privorotsky-says-rotation-now-outright-liquidation",
+    "ts": 1795179600000,
+    "tags": []
+   },
+   {
+    "t": "Prince Harry Says He Would Rejoin The British Military To Fight Russia",
+    "tt": "Prens Harry, Rusya'ya Karşı Savaşmak İçin İngiliz Ordusuna Yeniden Katılacağını Söyledi",
+    "s": "Prince Harry Says He Would Rejoin The British Military To Fight Russia Why is the war in Ukraine a liberal obsession? &nbsp;While the media rages over Trump's blockade of Iran, European elites are actively advocating for boots on the ground in Ukraine, which would inevitably trigger a world war invo",
+    "ss": "Prens Harry, Rusya'ya Karşı Savaşmak İçin İngiliz Ordusuna Yeniden Katılacağını Söyledi Ukrayna'daki savaş neden liberal bir saplantı?  Medya, Trump'ın İran ablukasına öfkelenirken, Avrupalı ​​elitler aktif olarak Ukrayna'da karaya çıkmanın savunuculuğunu yapıyor, bu da kaçınılmaz olarak bir dünya savaşını tetikleyecek.",
+    "u": "https://www.zerohedge.com/geopolitical/prince-harry-says-he-would-rejoin-military-fight-russia",
+    "ts": 1795178700000,
+    "tags": []
+   },
    {
     "t": "Republicans Fear Anthropic's IPO Will Create '200 George Soroses'",
     "tt": "Cumhuriyetçiler Anthropic'in halka arzının '200 George Soroses' yaratmasından korkuyor",
@@ -917,54 +976,36 @@
     "u": "https://www.zerohedge.com/geopolitical/americas-china-tech-crackdown-pits-us-security-hawks-against-dutch-tech-giant-asml",
     "ts": 1795174200000,
     "tags": []
-   },
-   {
-    "t": "First Rule Of The Great Replacement: Don't Talk About The Great Replacement",
-    "tt": "Büyük Değişimin İlk Kuralı: Büyük Değişim Hakkında Konuşmayın",
-    "s": "First Rule Of The Great Replacement: Don't Talk About The Great Replacement Authored by J.B. Shurk via American Thinker , Anyone with a brain knows that the Great Replacement is real . Throughout the West, foreign populations are replacing native populations at an exponential pace. This is not a phe",
-    "ss": "Büyük Değişimin İlk Kuralı: J.B. Shurk tarafından American Thinker tarafından yazılan Büyük Değişim Hakkında Konuşmayın, Beyni olan herkes Büyük Değişimin gerçek olduğunu bilir. Batı genelinde, yabancı nüfuslar katlanarak artan bir hızla yerli nüfusların yerini alıyor. Bu bir phe değil",
-    "u": "https://www.zerohedge.com/political/first-rule-great-replacement-dont-talk-about-great-replacement",
-    "ts": 1795172400000,
-    "tags": []
-   },
-   {
-    "t": "The Uprising That Never Came Is Arriving In Slow Motion: Iran's Border Insurgents Log Busiest Year In A Decade",
-    "tt": "Asla Gelmeyen Ayaklanma Ağır Çekimde Geliyor: İran'ın Sınır İsyancıları Son On Yılın En Yoğun Yılını Kaydediyor",
-    "s": "The Uprising That Never Came Is Arriving In Slow Motion: Iran's Border Insurgents Log Busiest Year In A Decade The plan in the first week of March was simple enough: bomb Tehran from the air, arm the Kurds on the ground, and wait for Iran's minorities to do the rest. Well, the bombs fell, the Kurds ",
-    "ss": "Asla Gelmeyen Ayaklanma Ağır Çekimde Geliyor: İran'ın Sınır İsyancıları Son On Yılın En Yoğun Yılını Kaydediyor Mart ayının ilk haftasındaki plan yeterince basitti: Tahran'ı havadan bombalamak, karadaki Kürtleri silahlandırmak ve gerisini İran azınlıklarının halletmesini beklemek. Bombalar düştü Kürtler",
-    "u": "https://www.zerohedge.com/markets/uprising-never-came-arriving-slow-motion-irans-border-insurgents-log-busiest-year-decade",
-    "ts": 1795170000000,
-    "tags": []
-   },
-   {
-    "t": "Everyone Against The AfD? CDU Considers 'All-Party' Government To Stop Right-Wing Ruling Saxony-Anhalt",
-    "tt": "Herkes AfD'ye Karşı mı? CDU, 'Tüm Partilerden Oluşan' Hükümetin Saksonya Anhalt'taki Sağcı İktidarı Durdurmasını Düşünüyor",
-    "s": "Everyone Against The AfD? CDU Considers 'All-Party' Government To Stop Right-Wing Ruling Saxony-Anhalt Authored by Remix News Staff via Remix News , Acting Minister-President and Christian Democratic Union (CDU) parliamentary group leader Sven Schulze has announced that his caucus will reconsider it",
-    "ss": "Herkes AfD'ye Karşı mı? CDU, 'Tüm Partilerden Oluşan' Hükümetin Saksonya-Anhalt'taki Sağcı İktidarı Durdurmayı Düşünüyor Remix Haber Çalışanı tarafından Remix News aracılığıyla, Bakan-Başkan Vekili ve Hıristiyan Demokrat Birlik (CDU) parlamento grup lideri Sven Schulze, kadın grubunun bunu yeniden değerlendireceğini duyurdu",
-    "u": "https://www.zerohedge.com/markets/everyone-against-afd-cdu-considers-all-party-government-stop-afd-ruling-saxony-anhalt",
-    "ts": 1795167600000,
-    "tags": []
-   },
-   {
-    "t": "Iran's Attacks On Hormuz Shipping Have More Than Doubled Compared To Prior Months",
-    "tt": "İran'ın Hürmüz Gemisine Saldırıları Önceki Aylara Göre İki Kattan Fazla Arttı",
-    "s": "Iran's Attacks On Hormuz Shipping Have More Than Doubled Compared To Prior Months \"We will see what happens after the beginning of the year ,\" President Trump has told Axios on Thursday in a phone call from Air Force One on his way back from China, when he was pressed about a timeline for potential ",
-    "ss": "İran'ın Hürmüz Gemisine Yönelik Saldırıları Önceki Aylara Göre İki Kattan Fazla Arttı Başkan Trump Perşembe günü Çin'den dönerken Air Force One'dan yaptığı telefon görüşmesinde Axios'a, potansiyel için bir zaman çizelgesi konusunda kendisine baskı yapıldığı sırada \"Yıl başından sonra ne olacağını göreceğiz\" dedi.",
-    "u": "https://www.zerohedge.com/geopolitical/irans-attacks-hormuz-shipping-have-more-doubled-compared-prior-months",
-    "ts": 1795165200000,
-    "tags": []
-   },
-   {
-    "t": "Chernobyl Didn't Just Poison A Population, It Killed An Empire - Are We Next?",
-    "tt": "Çernobil Sadece Bir Nüfusu Zehirlemekle Kalmadı, Bir İmparatorluğu da Öldürdü - Sırada Biz Mi Varız?",
-    "s": "Chernobyl Didn't Just Poison A Population, It Killed An Empire - Are We Next? Authored by Jeffrey A. Tucker via The Epoch Times , For years, people have recommended to me the 2019 HBO miniseries called Chernobyl . It is a dramatization of the 1986 meltdown of a nuclear power plant in Ukraine, then p",
-    "ss": "Çernobil Sadece Bir Nüfusu Zehirlemekle Kalmadı, Bir İmparatorluğu da Öldürdü - Sırada Biz Mi Varız? Jeffrey A. Tucker tarafından The Epoch Times aracılığıyla yazılmıştır, Yıllardır insanlar bana Çernobil adlı 2019 HBO mini dizisini önerdiler. Bu, 1986'da Ukrayna'daki bir nükleer santralin erimesinin dramatizasyonudur.",
-    "u": "https://www.zerohedge.com/geopolitical/chernobyl-didnt-just-poison-population-it-killed-empire-are-we-next",
-    "ts": 1795162800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Birleşik Krallık ve AB'den ilişkilerini güçlendirme adımı",
+    "tt": null,
+    "s": "Birleşik Krallık ve Avrupa Birliği; gıda ticaretini kolaylaştırmak, karbon piyasalarını birbirine bağlamak ve gençlerin birbirlerinin ülkelerinde yaşamasına, çalışmasına ve eğitim görmesine olanak tanımak üzere anlaşmalara vardı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/birlesik-krallik-ve-ab-den-iliskilerini-guclendirme-adimi-3795323",
+    "ts": 1795181577000,
+    "tags": []
+   },
+   {
+    "t": "BDDK'dan kredi kartları ve konut kredileriyle ilgili yeni düzenleme",
+    "tt": null,
+    "s": "BDDK, kredi kartlarının asgari limitlerinde ve konut kredilerinde yeni düzenleme yaptı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bddk-dan-kredi-kartlari-ve-konut-kredileriyle-ilgili-yeni-duzenleme-3795310",
+    "ts": 1795178410000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic hisselerinde sert satış dalgası sürüyor",
+    "tt": null,
+    "s": "Rekor halka arz Anthropic'te satış dalgası ikinci günde de devam ediyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/anthropic-hisselerinde-sert-satis-dalgasi-suruyor-3795308",
+    "ts": 1795177806000,
+    "tags": []
+   },
    {
     "t": "ABD tahvillerinde güvenli liman alımları",
     "tt": null,
@@ -1026,33 +1067,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/kirmizi-et-talebi-sigirlari-meradan-besi-ciftliklerine-tasiyor-3795276",
     "ts": 1795162766000,
-    "tags": []
-   },
-   {
-    "t": "Citi'den hisseler için zirve uyarısı",
-    "tt": null,
-    "s": "Citigroup stratejistlerine göre, 'hisse senedi faktörleri' arasındaki rotasyon 'en azından sarı bir ışık' yakıyor ve 2000 ile 2021 yıllarındaki önceki piyasa zirvelerini anımsatıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/citiden-hisseler-icin-zirve-uyarisi-3795272",
-    "ts": 1795161219000,
-    "tags": []
-   },
-   {
-    "t": "Türkiye'nin dış borcunda rekor çeyrek",
-    "tt": null,
-    "s": "Türkiye'nin brüt dış borç stoku 2026 yılının üçüncü çeyreğinde 549,2 milyar dolarla rekor seviyeye yükseldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-nin-dis-borcunda-rekor-ceyrek-3795271",
-    "ts": 1795159913000,
-    "tags": []
-   },
-   {
-    "t": "Yurt dışı üretici fiyatlarında yıllık artış hızlandı",
-    "tt": null,
-    "s": "Yurt Dışı Üretici Fiyat Endeksi (YD-ÜFE), Ekim'de aylık yüzde 0,75, yıllık yüzde 33,45 arttı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yurt-disi-uretici-fiyatlarinda-yillik-artis-hizlandi-3795270",
-    "ts": 1795159716000,
     "tags": []
    }
   ]
