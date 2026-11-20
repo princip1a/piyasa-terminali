@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T23:21:35.894359+00:00",
+ "generated": "2026-11-20T00:20:52.253004+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 3628.0,
-   "c": -3.04,
-   "d": -113.9,
+   "p": 3621.8,
+   "c": -3.21,
+   "d": -120.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.965,
-   "c": -4.52,
-   "d": -2.034,
+   "p": 42.9,
+   "c": -4.66,
+   "d": -2.099,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.01,
-   "c": -0.3,
-   "d": -0.25,
+   "p": 82.93,
+   "c": -0.4,
+   "d": -0.33,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.02,
-   "c": -2.1,
-   "d": -1.93,
+   "p": 89.77,
+   "c": -2.37,
+   "d": -2.18,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5259,
-   "c": 0.17,
-   "d": 0.088,
+   "p": 50.5206,
+   "c": 0.12,
+   "d": 0.059,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 62057,
-   "c": -0.68,
+   "p": 62149,
+   "c": -0.79,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1757.71,
-   "c": -0.39,
+   "p": 1760.42,
+   "c": -0.49,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.19,
-   "c": 0.31,
+   "p": 73.22,
+   "c": -0.13,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.961724,
-   "c": 0.01,
+   "p": 0.963567,
+   "c": 0.15,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 581.28,
-   "c": 0.36,
+   "p": 581.76,
+   "c": 0.3,
    "k": "usd"
   }
  ],
@@ -584,18 +584,29 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Stock Losses to Extend in Asia, Nasdaq Futures Dip: Markets Wrap",
+    "t": "Asian Stocks Fall, Anthropic Slips in After-Hours: Markets Wrap",
     "tt": "Asya'da Hisse Senedi Kayıpları Artacak, Nasdaq Vadeli İşlemleri Düşüş: Piyasalarda Gelişmeler",
-    "s": "A global stock selloff was set to deepen in Asia as Anthropic PBC’s solid market debut failed to reverse pessimism around the artificial-intelligence trade and stem a broader retreat from technology shares.",
+    "s": "Asian stocks sold off as pessimism over the artificial-intelligence trade hammered technology shares, with global equities set for their longest losing streak in three years. Anthropic PBC fell in after-hours trading after jumping on its market debut.",
     "ss": "Anthropic PBC'nin piyasaya sağlam çıkışının yapay zeka ticaretine ilişkin karamsarlığı tersine çevirmede ve teknoloji hisselerinde daha geniş bir gerilemeyi önlemede başarısız olması nedeniyle Asya'da küresel hisse senedi satışlarının derinleşmesi bekleniyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
     "ts": 1795125820000,
     "tags": []
    },
    {
+    "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+    "tt": null,
+    "s": "Gold fell and was heading for the biggest weekly decline since March, as a hawkish Federal Reserve signaled more interest-rate cuts and a selloff in AI stocks pushed investors to sell the metal to cover losses.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "ts": 1795132563000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
     "t": "Latest Oil Market News and Analysis for Nov. 20",
     "tt": "20 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decline as traders weigh the risk of renewed US strikes on Iran against signs of ample supply.",
+    "s": "Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decline as traders weigh the risk of renewed US strikes on Iran against ample supply.",
     "ss": "Petrol Perşembe günkü dalgalı seansın ardından yükseldi; vadeli işlemler üçüncü haftalık düşüş yolunda ilerlerken, tüccarlar ABD'nin İran'a yeniden saldırı yapma riskini bol arz işaretleri karşısında değerlendiriyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
     "ts": 1795129551000,
@@ -605,6 +616,42 @@
      "Altın ▼",
      "BTC ▼"
     ]
+   },
+   {
+    "t": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
+    "tt": null,
+    "s": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
+    "ts": 1795115651000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic IPO Raises Only $110 Million From Australian Investors",
+    "tt": null,
+    "s": "Australian investors were allocated less than 1% of total shares from Anthropic PBC’s record-breaking initial public offering.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
+    "ts": 1795131317000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic Becomes World’s 7th Most Valuable Company After IPO",
+    "tt": null,
+    "s": "Anthropic PBC’s blockbuster IPO lifted the company into the ranks of the most valuable in the world, with shares closing 17% from the offer price to give it a $1.8 trillion fully diluted market value.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo",
+    "ts": 1795130180000,
+    "tags": []
+   },
+   {
+    "t": "Nintendo Gains as ‘Roaring Kitty’ Posts Mario Character on X",
+    "tt": null,
+    "s": "Nintendo Co.’s American depositary receipts soared Thursday after an account associated with Keith Gill, the online persona known as “Roaring Kitty,” posted an image of the firm’s mascot on X.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
+    "ts": 1795108550000,
+    "tags": []
    },
    {
     "t": "Treasury Official Renews Warning on Wave of Tax-Saving Trades",
@@ -631,53 +678,6 @@
     "ss": "Anthropic'in uzun zamandır beklenen çıkışı, zorlu sorunların üstesinden gelmek ve kullanıcılara karmaşık görevlerde yardımcı olmak için en gelişmiş modelleri geliştiren bir grup firmadan oluşan öncü bir yapay zeka laboratuvarı tarafından şimdiye kadar yapılan ilki işaret ediyor. Yapay zekanın iş potansiyeline duyulan ilgi, çip gibi altyapılara büyük yatırımları teşvik etti",
     "u": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-is-about-capital-says-kathryn-thompson-video",
     "ts": 1795126671000,
-    "tags": []
-   },
-   {
-    "t": "Alphabet Raises $4.2 Billion From Latest Canada Bond Sale",
-    "tt": "Alphabet, Son Kanada Tahvili Satışından 4,2 Milyar Dolar Kazandı",
-    "s": "Alphabet Inc. sold C$6 billion ($4.2 billion) of Canadian bonds, six months after its market debut.",
-    "ss": "Alphabet Inc., piyasaya çıkışından altı ay sonra 6 milyar C$'lık (4,2 milyar $) Kanada tahvili sattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
-    "ts": 1795105010000,
-    "tags": []
-   },
-   {
-    "t": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
-    "tt": "Blue Owl, Amazon Tarafından Kiralanan Veri Merkezi için 513 Milyon Dolarlık CMBS Planlıyor",
-    "s": "Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
-    "ss": "Konuyla ilgili bilgisi olan kaynaklara göre Blue Owl Capital Inc., tamamı Amazon.com Inc.'e kiralanan Kuzey Virginia veri merkezinin satın alınmasını finanse etmek için 513 milyon dolarlık ticari ipoteğe dayalı menkul kıymet satmaya hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
-    "ts": 1795049692000,
-    "tags": []
-   },
-   {
-    "t": "Mexican Peso Rout Deepens as Banxico, Fed Policies Diverge",
-    "tt": "Banxico ve Fed Politikaları Farklılaştıkça Meksika Pesosu Rutusu Derinleşiyor",
-    "s": "The Mexican peso sank past the 19-per-dollar mark to its lowest in over a year, as the prospect of further Federal Reserve interest-rate hikes intensified a selloff triggered by Mexico’s dovish monetary policy.",
-    "ss": "Meksika pesosu, Fed'in daha fazla faiz artırımı beklentisinin Meksika'nın güvercin para politikasının tetiklediği satışları yoğunlaştırmasıyla dolar başına 19 seviyesini aşarak bir yılın en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets",
-    "ts": 1795102446000,
-    "tags": [
-     "DXY ▼"
-    ]
-   },
-   {
-    "t": "NY’s Largest Mall Debt Now Controlled by Billionaire Namdar",
-    "tt": "New York'un En Büyük Alışveriş Merkezi Borcu Artık Milyarder Namdar Tarafından Kontrol Ediliyor",
-    "s": "The debt on Destiny USA, New York state’s largest shopping center, has been acquired by Namdar Realty Group, a Long Island-based real estate firm known for distressed retail real estate deals.",
-    "ss": "New York eyaletinin en büyük alışveriş merkezi olan Destiny USA'nın borcu, sıkıntılı perakende emlak anlaşmalarıyla tanınan Long Island merkezli bir emlak şirketi olan Namdar Realty Group tarafından satın alındı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar",
-    "ts": 1795125066000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 19",
-    "tt": "19 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil prices swung amid concern that violence in the Middle East will re-escalate despite pressure on US President Donald Trump to pursue a diplomatic resolution to the nine-month war.",
-    "ss": "Petrol fiyatları, ABD Başkanı Donald Trump'a dokuz ay süren savaşa ilişkin diplomatik bir çözüm bulunması yönündeki baskıya rağmen Orta Doğu'da şiddetin yeniden tırmanacağı endişesinin ortasında dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
-    "ts": 1795043015000,
     "tags": []
    }
   ],
@@ -787,6 +787,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+    "tt": null,
+    "s": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+    "ts": 1795132560000,
+    "tags": []
+   },
+   {
     "t": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
     "tt": "Perşembe günü borsadaki çöküşün ortasında yükselen tek hisse senetleri bunlardı",
     "s": "All 11 sectors of the S&amp;P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
@@ -866,18 +875,36 @@
     "u": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
     "ts": 1795123320000,
     "tags": []
-   },
-   {
-    "t": "Why Walmart is making a bigger bet on fast-food delivery",
-    "tt": "Walmart neden fast-food teslimatına daha büyük yatırım yapıyor?",
-    "s": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
-    "ss": "Perakende devi, fast food zincirlerindeki harcamaların yaklaşık %90'ının Walmart'tan birkaç kilometre uzakta gerçekleştiğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
-    "ts": 1795122780000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Revealed: Trump Admin Cleared 879,868 Nvidia, AMD AI Chips For China, A Third For Pentagon-Listed Military Companies",
+    "tt": null,
+    "s": "Revealed: Trump Admin Cleared 879,868 Nvidia, AMD AI Chips For China, A Third For Pentagon-Listed Military Companies Export license records released Thursday by the House Foreign Affairs Committee show that the Trump administration approved more than 879,000 of Nvidia's H200 and AMD's MI325X AI chip",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/revealed-trump-admin-cleared-879868-nvidia-amd-ai-chips-china-third-pentagon-listed",
+    "ts": 1795134000000,
+    "tags": []
+   },
+   {
+    "t": "Russia To Let Retail Investors Trade Bitcoin On Margin",
+    "tt": null,
+    "s": "Russia To Let Retail Investors Trade Bitcoin On Margin Authored by Micah Zimmerman via Bitcoin Magazine , Russia's central bank plans to let ordinary investors trade bitcoin and other crypto on margin, capped at 300,000 rubles with a broker , a senior Bank of Russia official said this week, days aft",
+    "ss": null,
+    "u": "https://www.zerohedge.com/crypto/russia-let-retail-investors-trade-bitcoin-margin",
+    "ts": 1795132800000,
+    "tags": []
+   },
+   {
+    "t": "Trump's Cyber Chief Quits Days After DNI Swore \"This Is Not A Cyberattack\"",
+    "tt": null,
+    "s": "Trump's Cyber Chief Quits Days After DNI Swore \"This Is Not A Cyberattack\" White House National Cyber Director Sean Cairncross is leaving his post , Axios reported Thursday, capping a week of outages that grounded every flight in the country, knocked Microsoft's Outlook offline for most of a day and",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/trumps-cyber-chief-quits-days-after-dni-swore-not-cyberattack",
+    "ts": 1795131600000,
+    "tags": []
+   },
    {
     "t": "Senate Kills House-Passed Resolution To End Iran War As Tillis Flips",
     "tt": "Tillis tersine dönerken Senato, İran Savaşını Bitirmek İçin Meclisten Geçen Kararı İptal Etti",
@@ -939,33 +966,6 @@
     "ss": "\"Cuck Simulator\": Eleştirmenler GTA VI'ya 99 Puanı Verdi. Gerçek Oyuncular Fahişelerini Geri İstiyor Grand Theft Auto VI, 13 yıllık bir bekleyişin ardından Perşembe günü PlayStation 5 ve Xbox Series X|S'de satışa çıktı ve Metacritic'te sitenin bugüne kadar bir oyuna verdiği en yüksek puanı alan 99 puan aldı. Yaklaşık 150 eleştirmen ağırlanıyor",
     "u": "https://www.zerohedge.com/political/gta-6-scores-99-critics-actual-gamers-are-calling-it-cuck-simulator",
     "ts": 1795123200000,
-    "tags": []
-   },
-   {
-    "t": "\"For The Motherland\": Russian Agent Chased Silicon Valley Defense Worker 30 Miles, DOJ Says",
-    "tt": "Adalet Bakanlığı, \"Anavatan İçin\": Rus Ajanın Silikon Vadisi Savunma Çalışanını 30 Mil Uzaklıkta Takip Ettiğini Açıkladı",
-    "s": "\"For The Motherland\": Russian Agent Chased Silicon Valley Defense Worker 30 Miles, DOJ Says A Russian national who allegedly crossed into the US from Mexico this summer has been indicted for stalking employees of a Silicon Valley defense company on orders from handlers who told him the work was for ",
-    "ss": "\"Anavatan İçin\": Rus Ajan Silikon Vadisi Savunma Çalışanını 30 Mil Uzakta Kovaladı, DOJ, Bu yaz Meksika'dan ABD'ye geçtiği iddia edilen bir Rus vatandaşının, kendisine bu işin ne için olduğunu söyleyen idarecilerin emri üzerine bir Silikon Vadisi savunma şirketinin çalışanlarını takip etmekle suçlandığını söyledi",
-    "u": "https://www.zerohedge.com/political/motherland-russian-agent-chased-silicon-valley-defense-worker-30-miles-doj-says",
-    "ts": 1795120800000,
-    "tags": []
-   },
-   {
-    "t": "'You Aren't Loyal To America': Gaetz Says Fox Hosts Begged Him To Lay Off 'Unhinged' Mark Levin",
-    "tt": "'Amerika'ya Sadık Değilsiniz': Gaetz, Fox Sunucularının 'Çılgın' Mark Levin'i İşten Çıkarması İçin Ona Yalvardığını Söyledi",
-    "s": "'You Aren't Loyal To America': Gaetz Says Fox Hosts Begged Him To Lay Off 'Unhinged' Mark Levin Former congressman Matt Gaetz challenged Fox News host Mark Levin to a debate on Thursday, telling him \"You aren't loyal to America, just Israel\" and blaming his \"warmonger views\" for the Republican midte",
-    "ss": "'Amerika'ya Sadık Değilsiniz': Gaetz, Fox'un Sunucularının 'Hinged' Mark Levin'i İşten Çıkarması İçin Yalvardığını Söyledi Eski kongre üyesi Matt Gaetz, Perşembe günü Fox News sunucusu Mark Levin'i bir tartışmaya davet etti ve ona \"Amerika'ya sadık değilsiniz, sadece İsrail'e sadıksınız\" dedi ve Cumhuriyetçi zihniyetin \"savaş çığırtkanı görüşlerini\" suçladı",
-    "u": "https://www.zerohedge.com/political/you-arent-loyal-america-gaetz-says-fox-hosts-begged-him-lay-unhinged-mark-levin",
-    "ts": 1795119900000,
-    "tags": []
-   },
-   {
-    "t": "Not All Bond Carry Is Created Equal",
-    "tt": "Tüm Tahvil Taşımaları Eşit Oluşturulmamıştır",
-    "s": "Not All Bond Carry Is Created Equal Authored by Eva Sun-Wai via M&amp;G Investments' Bond Vigilantes , The word 'carry' is frequently thrown around in fixed income, and you will have heard many uses of it this year in the fashion of 'carry is back' or 'fixed income finally offers income again.' It i",
-    "ss": "Tüm Tahvil Taşımaları Eşit Oluşturulmaz Yazan: M&G Investments' Bond Vigilantes aracılığıyla Eva Sun-Wai, 'Carry' kelimesi sabit gelirde sık sık ortalıkta dolaşıyor ve bu yıl bu kelimenin 'carry geri döndü' veya 'sabit gelir sonunda yeniden gelir sunuyor' şeklinde birçok kullanımını duymuş olacaksınız. bu ben",
-    "u": "https://www.zerohedge.com/markets/not-all-carry-created-equal",
-    "ts": 1795119300000,
     "tags": []
    }
   ],
@@ -1074,6 +1074,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
