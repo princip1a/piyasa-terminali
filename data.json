@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T06:54:42.062248+00:00",
+ "generated": "2026-11-20T08:10:53.212457+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 49097.06,
+   "p": 49097.1,
    "c": -2.19,
-   "d": -1101.112,
+   "d": -1101.072,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3554.2,
-   "c": -3.56,
-   "d": -131.3,
+   "p": 3571.1,
+   "c": -3.1,
+   "d": -114.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.94,
-   "c": -5.37,
-   "d": -2.378,
+   "p": 42.195,
+   "c": -4.79,
+   "d": -2.123,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.88,
-   "c": -0.4,
-   "d": -0.33,
+   "p": 82.66,
+   "c": -0.66,
+   "d": -0.55,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.85,
-   "c": -2.32,
-   "d": -2.13,
+   "p": 89.68,
+   "c": -2.5,
+   "d": -2.3,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.717,
-   "c": -0.18,
-   "d": -0.183,
+   "p": 103.768,
+   "c": -0.13,
+   "d": -0.132,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5197,
-   "c": 0.11,
-   "d": 0.058,
+   "p": 50.5774,
+   "c": 0.23,
+   "d": 0.115,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11400.09,
-   "c": -0.67,
-   "d": -77.31,
+   "p": 11157.05,
+   "c": -2.13,
+   "d": -243.05,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 61928,
-   "c": -2.54,
+   "p": 61851,
+   "c": -2.84,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1746.16,
-   "c": -3.22,
+   "p": 1752.6,
+   "c": -2.76,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.75,
-   "c": -3.01,
+   "p": 72.64,
+   "c": -2.74,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.969063,
-   "c": -1.34,
+   "p": 0.96538,
+   "c": -1.55,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 571.81,
-   "c": -2.86,
+   "p": 571.92,
+   "c": -2.92,
    "k": "usd"
   }
  ],
@@ -584,93 +584,107 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Moodliar: Investec Comfortable with UK Business Foundation",
+    "tt": "Moodliar: Investec, Birleşik Krallık İşletme Vakfı ile Rahat",
+    "s": "Investec shares slid after the lender reported first-half results, declining to the lowest level since March. Investors were disappointed by rising costs and weaker profitability in Investec’s UK operations, even as operating profit in its southern African business surged. Cumesh Moodliar, Investec ",
+    "ss": "Investec hisseleri, borç verenin ilk yarı sonuçlarını açıklamasının ardından düşüş göstererek Mart ayından bu yana en düşük seviyesine geriledi. Yatırımcılar, Investec'in İngiltere operasyonlarındaki artan maliyetler ve zayıf karlılık nedeniyle hayal kırıklığına uğradı; buna rağmen Güney Afrika'daki faaliyet kârı arttı. Cumesh Moodliar, Investec",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/moodliar-investec-s-uk-business-foundation-comfortable-video",
+    "ts": 1795162051000,
+    "tags": []
+   },
+   {
+    "t": "Castleberry-Hernandez: Saudi Action on Houthis Into 2027",
+    "tt": "Castleberry-Hernandez: 2027'de Husilere Karşı Suudi Eylemi",
+    "s": "Oil edged higher as risks of a new round of US strikes on Iran is growing as military clashes intensified and diplomatic efforts remain stalled. Asha Castleberry-Hernandez, Adjunct Fellow at the American Security Project and former senior official for Near Eastern Affairs at the US State Department ",
+    "ss": "Petrol, askeri çatışmaların yoğunlaşması ve diplomatik çabaların durmaya devam etmesi nedeniyle ABD'nin İran'a yönelik yeni bir saldırı saldırısı riskinin artmasıyla yükseldi. Asha Castleberry-Hernandez, Amerikan Güvenlik Projesi Yardımcı Üyesi ve ABD Dışişleri Bakanlığı Yakın Doğu İşlerinden sorumlu eski üst düzey yetkili",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/castleberry-hernandez-saudi-action-on-houthis-into-2027-video",
+    "ts": 1795161193000,
+    "tags": [
+     "Petrol ▲",
+     "DXY ▲",
+     "Altın ▼",
+     "BTC ▼"
+    ]
+   },
+   {
+    "t": "AI Anxiety Returns With Flight From Risk Seen Hitting FTSE 100",
+    "tt": "FTSE 100'e Vurulan Riskten Kaçışla Yapay Zeka Kaygısı Geri Dönüyor",
+    "s": "Plus, some positive consumer data and a look at the housing market",
+    "ss": "Ayrıca bazı olumlu tüketici verileri ve konut piyasasına bir bakış",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-20/ai-anxiety-returns-with-flight-from-risk-seen-hitting-ftse-100",
+    "ts": 1795161142000,
+    "tags": []
+   },
+   {
+    "t": "Metro Bank Draws Early Interest From Barclays, Lone Star",
+    "tt": "Metro Bank, Barclays ve Lone Star'dan Erken İlgi Çekti",
+    "s": "Metro Bank Holdings Plc is attracting early takeover interest from suitors including Barclays Plc after putting itself up for sale, according to people with knowledge of the matter.",
+    "ss": "Konu hakkında bilgisi olan kaynaklara göre Metro Bank Holdings Plc, kendisini satışa çıkardıktan sonra Barclays Plc de dahil olmak üzere taliplerden erken devralma ilgisini çekiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star",
+    "ts": 1795159712000,
+    "tags": []
+   },
+   {
+    "t": "Tech Valuation Plunge Brings Some Opportunities: Taking Stock",
+    "tt": "Teknoloji Değerlemesindeki Düşüş Bazı Fırsatlar Getiriyor: Hisse Senedi Almak",
+    "s": "The sharp drop in the valuations of technology stocks, especially those linked to the artificial intelligence trade, is fueling debate over whether too much negativity has already been priced in.",
+    "ss": "Teknoloji hisselerinin, özellikle de yapay zeka ticaretiyle bağlantılı olanların değerlemelerindeki keskin düşüş, çok fazla olumsuzluğun zaten fiyatlanıp fiyatlandırılmadığı konusundaki tartışmayı alevlendiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/tech-valuation-plunge-brings-some-opportunities-taking-stock",
+    "ts": 1795159622000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Can Manchester United's New Coach Fix All the Problems?",
+    "tt": "Manchester United'ın Yeni Teknik Direktörü Tüm Sorunları Çözebilir mi?",
+    "s": "Manchester United's new coach Mauricio Pochettino is walking into a club beset by competing egos, poor commercial decisions and a clash between its owners, according to interviews with more than a dozen current and former executives. Bloomberg's David Hellier has the details. (Source: Bloomberg)",
+    "ss": "Bir düzineden fazla mevcut ve eski yöneticiyle yapılan röportajlara göre, Manchester United'ın yeni teknik direktörü Mauricio Pochettino, birbiriyle yarışan egolar, kötü ticari kararlar ve kulüp sahipleri arasındaki çatışmalarla kuşatılmış bir kulübe giriyor. Bloomberg'den David Hellier ayrıntılara sahip. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/can-manchester-united-s-new-coach-fix-all-the-problems-video",
+    "ts": 1795159436000,
+    "tags": []
+   },
+   {
+    "t": "India-US Trade Ties After Shenzhen Meeting",
+    "tt": "Shenzhen Toplantısı Sonrası Hindistan-ABD Ticari İlişkileri",
+    "s": "Asia Society Australia Senior Fellow Premesha Saha discusses India-US relations following the ASEAN and APEC meetings. She says India is preserving its strategic autonomy while maintaining ties with the US. (Source: Bloomberg)",
+    "ss": "Asia Society Australia Kıdemli Üyesi Premesha Saha, ASEAN ve APEC toplantılarının ardından Hindistan-ABD ilişkilerini tartışıyor. Hindistan'ın ABD ile bağlarını sürdürürken stratejik özerkliğini de koruduğunu söylüyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/india-us-trade-ties-after-shenzhen-meeting-video",
+    "ts": 1795159422000,
+    "tags": []
+   },
+   {
+    "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+    "tt": "Altın, Hawkish Fed ve AI Selloff'a Göre Mart'tan Bu Yana En Kötü Haftaya Girdi",
+    "s": "Gold fell for a fifth day — heading for the biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks pushed investors to sell the metal to cover losses.",
+    "ss": "Altın, şahin Fed'in daha fazla faiz artırımı sinyali vermesi ve AI hisselerindeki düşüşün yatırımcıları kayıplarını karşılamak için metali satmaya itmesiyle beşinci günde de düşüşünü sürdürerek Mart ayından bu yana en büyük haftalık düşüşünü gerçekleştirmeye yöneldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "ts": 1795132563000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Anthropic Soars Then Slips as AI Trade Fears Linger",
+    "tt": "Yapay Zeka Ticareti Korkusu Devam Ederken Antropik Yükseliş Sonra Kayıyor",
+    "s": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+    "ss": "İzleyicilere önemli hikayelerin tam resmini vermek için derinlemesine, yüksek profilli röportajlar ve analizler içeren günlük bir haber programı olan Haslinda Amin ile İçgörü. Gösteride iş, finans, siyaset ve kültür dünyalarını kapsayan önde gelen liderler yer alıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/insight-with-haslinda-amin-11-20-2026-video",
+    "ts": 1795158876000,
+    "tags": []
+   },
+   {
     "t": "Shoprite Moves to End Tycoon Wiese’s Dual-Class Shares",
     "tt": "Shoprite, Tycoon Wiese'nin İki Sınıflı Paylaşımlarını Sonlandırmak İçin Harekete Geçti",
     "s": "Shoprite Holdings Ltd. moved to dismantle a 25-year-old structure that gives billionaire Christo Wiese voting rights that are disproportionately larger than his actual economic interest in Africa’s biggest supermarket retailer.",
     "ss": "Shoprite Holdings Ltd., milyarder Christo Wiese'ye Afrika'nın en büyük süpermarket perakendecisindeki gerçek ekonomik çıkarından orantısız şekilde daha fazla oy hakkı veren 25 yıllık yapıyı ortadan kaldırmak için harekete geçti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/shoprite-moves-to-dismantle-tycoon-wiese-s-dual-class-structure",
     "ts": 1795098238000,
-    "tags": []
-   },
-   {
-    "t": "Goldman Sachs on Anthropic, India, Korea Opportunities",
-    "tt": "Goldman Sachs Antropik, Hindistan ve Kore Fırsatları Konusunda Konuşuyor",
-    "s": "Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe says uncertainty and de-risking are weighing on the broader AI trade. Speaking with Bloomberg's Haslinda Amin and Avril Hong, he also outlines the case for India, and explains why they prefer Korea over Taiwan. (Source: Bloo",
-    "ss": "Goldman Sachs'ın Asya Pasifik Baş Bölgesel Sermaye Stratejisti Timothy Moe, belirsizliğin ve risk azaltmanın daha geniş yapay zeka ticareti üzerinde baskı oluşturduğunu söylüyor. Bloomberg'den Haslinda Amin ve Avril Hong ile konuşan kendisi aynı zamanda Hindistan'ın durumunu da özetliyor ve neden Tayvan yerine Kore'yi tercih ettiklerini açıklıyor. (Kaynak: Bloo",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-sachs-on-anthropic-india-korea-opportunities-video",
-    "ts": 1795156532000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Suffer Worst Run Since 2023, Havens Gain: Markets Wrap",
-    "tt": "Asya'da Hisse Senedi Kayıpları Artacak, Nasdaq Vadeli İşlemleri Düşüş: Piyasalarda Gelişmeler",
-    "s": "Global stocks posted their longest losing streak in more than three years as the artificial intelligence trade cratered after a bull run in 2026, sending investors to haven assets such as Treasuries.",
-    "ss": "Anthropic PBC'nin piyasaya sağlam çıkışının yapay zeka ticaretine ilişkin karamsarlığı tersine çevirmede ve teknoloji hisselerinde daha geniş bir gerilemeyi önlemede başarısız olması nedeniyle Asya'da küresel hisse senedi satışlarının derinleşmesi bekleniyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795125820000,
-    "tags": []
-   },
-   {
-    "t": "FTSE 100 to Fall as Global Stocks Selloff Worsens",
-    "tt": "FTSE 100, Küresel Hisse Senetlerindeki Satışların Kötüleşmesiyle Düşecek",
-    "s": "",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/live-blog/2026-11-20/ftse-100-live-updates-pound-gilts-stocks-selloff-ai-what-s-moving-uk-markets-right-now-markets-today",
-    "ts": 1795157187000,
-    "tags": []
-   },
-   {
-    "t": "AI-fueled Cyberattacks Drive Claims Surge at Japan Insurers",
-    "tt": "Siber Saldırılar, Japonya Sigortacılarında Taleplerin Artmasına Neden Oldu",
-    "s": "Japan’s biggest property insurers are reporting a sharp jump in cyber insurance claims as artificial intelligence-driven attacks grow more sophisticated and hacking incidents surge nationwide.",
-    "ss": "Japonya'nın en büyük emlak sigortacıları, yapay zeka odaklı saldırıların daha karmaşık hale gelmesi ve bilgisayar korsanlığı olaylarının ülke çapında artması nedeniyle siber sigorta taleplerinde keskin bir artış olduğunu bildiriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/ai-fueled-cyberattacks-drive-claims-surge-at-japan-insurers",
-    "ts": 1795150502000,
-    "tags": []
-   },
-   {
-    "t": "Goldman’s Moe on Uncertainties Around the AI Trade",
-    "tt": "Goldman'ın Yapay Zeka Ticaretindeki Belirsizlikler Hakkında Moe'su",
-    "s": "Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe describes some of the broader pressures on AI-related stocks. He speaks as investors contend with worries over Nvidia, political developments in the US and opposition to data centers. (Source: Bloomberg)",
-    "ss": "Goldman Sachs'ın Asya Pasifik Baş Bölgesel Sermaye Stratejisti Timothy Moe, yapay zeka ile ilgili hisse senetleri üzerindeki daha geniş baskılardan bazılarını anlatıyor. Yatırımcıların Nvidia'ya ilişkin endişeleri, ABD'deki siyasi gelişmeler ve veri merkezlerine karşı muhalefetle mücadele ettiği bir dönemde konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-s-moe-on-uncertainties-around-the-ai-trade-video",
-    "ts": 1795155173000,
-    "tags": []
-   },
-   {
-    "t": "Taiwan’s Stock Benchmark Plunges 18% in Worst Week Since 1991",
-    "tt": "Destek Adımlarına Rağmen Tayvan Hisse Senetleri 1991'den Bu Yana En Kötü Haftayla Karşı Karşıya",
-    "s": "Taiwan’s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under further strain, sending the island’s benchmark to its worst week since 1991.",
-    "ss": "Tayvan'ın teknoloji ağırlıklı borsası, küresel yapay zeka ticaretinin yeni bir baskı altına girmesi ve adanın endeksinin 1991'den bu yana en kötü haftasını geçirme rotasına girmesiyle Cuma günü yeni bir satış dalgasına tanık oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-    "ts": 1795141797000,
-    "tags": []
-   },
-   {
-    "t": "Global Stocks Set for Worst Run Since 2023 as AI Enthusiasm Fades",
-    "tt": "Yapay zeka coşkusunun azalmasıyla birlikte küresel hisse senetleri 2023'ten bu yana en kötü gidişata hazırlanıyor",
-    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Haidi Stroud-Watts and Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets.",
-    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Paul Allen ile Sidney'den canlı yayında, haber yapımcılarından ve sektör liderlerinden küresel pazarları şekillendiren en büyük hikayeler hakkında fikir ve analiz alıyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/the-asia-trade-11-20-2026-video",
-    "ts": 1795153336000,
-    "tags": []
-   },
-   {
-    "t": "IDR/USD: Why Indonesia’s Rupiah Is So Weak And What It Means For the Economy",
-    "tt": "IDR/USD: Endonezya Rupiahı Neden Bu Kadar Zayıf ve Ekonomi İçin Ne İfade Ediyor?",
-    "s": "Indonesia’s rupiah — Asia’s worst-performing currency this year — has been under pressure since late 2024, as investors have grown increasingly concerned about the country’s fiscal outlook. Before the current period of volatility, the currency hadn’t traded at such low levels since the Asian Financi",
-    "ss": "Asya'nın bu yıl en kötü performans gösteren para birimi olan Endonezya rupiahı, yatırımcıların ülkenin mali görünümüne ilişkin giderek artan endişeleri nedeniyle 2024'ün sonlarından bu yana baskı altında. Mevcut dalgalanma döneminden önce para birimi, Asya Finans Piyasası'ndan bu yana bu kadar düşük seviyelerde işlem görmemişti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/idr-usd-why-indonesia-s-rupiah-is-so-weak-and-what-it-means-for-the-economy",
-    "ts": 1795153327000,
-    "tags": []
-   },
-   {
-    "t": "DayOne Is Said to Pause US IPO Plans on Data Center, Market Concerns",
-    "tt": "DayOne'ın Veri Merkezi ve Piyasa Kaygılarına İlişkin ABD Halka Arz Planlarını Duraklattığı Söyleniyor",
-    "s": "DayOne Data Centers Ltd. has put plans for its multibillion-dollar US initial public offering on hold, people familiar with the matter said, as investors question the sustainability of frothy valuations for digital infrastructure supporting the artificial intelligence boom.",
-    "ss": "Konuya yakın kaynaklar, yatırımcıların yapay zeka patlamasını destekleyen dijital altyapıya yönelik köpüklü değerlemelerin sürdürülebilirliğini sorgulaması nedeniyle DayOne Data Centers Ltd.'nin ABD'de milyarlarca dolarlık ilk halka arz planlarını askıya aldığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus",
-    "ts": 1795153271000,
     "tags": []
    }
   ],
@@ -872,6 +886,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Insurgent Attacks In Iran's Borderlands Rise, As Pezeshkian Warns Against \"Intensified Social Discontent\"",
+    "tt": "Pezeshkian'ın \"Yoğunlaşan Sosyal Hoşnutsuzluğa\" Karşı Uyardı, İran'ın Sınır Bölgelerinde İsyancıların Saldırıları Artıyor",
+    "s": "Insurgent Attacks In Iran's Borderlands Rise, As Pezeshkian Warns Against \"Intensified Social Discontent\" Washington has been trying to tighten the economic noose on Iran, and the Trump administration along with Israel have made no secret that they wish to destabilize Iran's economy and society. Whi",
+    "ss": "Pezeshkian'ın \"Yoğunlaşan Sosyal Hoşnutsuzluğa\" Karşı Uyardı, İran'ın Sınır Bölgelerindeki İsyancı Saldırılar Artıyor Washington, İran üzerindeki ekonomik ilmiği sıkılaştırmaya çalışıyor ve Trump yönetimi, İsrail ile birlikte İran'ın ekonomisini ve toplumunu istikrarsızlaştırmak istediklerini gizlemedi. ne",
+    "u": "https://www.zerohedge.com/geopolitical/insurgent-attacks-irans-borderlands-rise-pezeshkian-warns-against-intensified-social",
+    "ts": 1795160400000,
+    "tags": []
+   },
+   {
+    "t": "\"We Are A Christian Country\": Left-Wing Danish PM Rejects 'Large Population Replacement'",
+    "tt": "\"Biz Hıristiyan Bir Ülkeyiz\": Sol Görüşlü Danimarka Başbakanı \"Büyük Nüfus Değişimi\"ni Reddetti",
+    "s": "\"We Are A Christian Country\": Left-Wing Danish PM Rejects 'Large Population Replacement' Authored by Remix News Staff via Remix News , Danish Prime Minister Mette Frederiksen has used an appearance on a conservative-leaning podcast to reject multiculturalism and large-scale demographic change, while",
+    "ss": "\"Biz Hıristiyan Bir Ülkeyiz\": Sol Kanat Danimarka Başbakanı 'Büyük Nüfus Değişimini' Reddetti Remix Haber Çalışanları tarafından Remix News aracılığıyla yazılan Danimarka Başbakanı Mette Frederiksen, çok kültürlülüğü ve büyük ölçekli demografik değişimi reddetmek için muhafazakar eğilimli bir podcast'te yer aldı.",
+    "u": "https://www.zerohedge.com/geopolitical/we-are-christian-country-left-wing-danish-pm-rejects-large-population-replacement",
+    "ts": 1795158000000,
+    "tags": []
+   },
+   {
     "t": "The End Of Man: The Real Danger Isn't Artificial Intelligence",
     "tt": "İnsanın Sonu: Gerçek Tehlike Yapay Zeka Değildir",
     "s": "The End Of Man: The Real Danger Isn't Artificial Intelligence Authored by John &amp; Nisha Whitehead via The Rutherford Institute , \"Things fall apart; the centre cannot hold.\"&nbsp; - W.B. Yeats, \"The Second Coming\" We have been suffering through a veritable cascade of technological failures. First",
@@ -942,27 +974,72 @@
     "u": "https://www.zerohedge.com/political/something-very-wrong-nsa-classified-network-still-down-day-three",
     "ts": 1795141200000,
     "tags": []
-   },
-   {
-    "t": "\"They're F**ked\": Crypto's Favorite Senate Banking Democrat Turns On The Industry After $55M Flop",
-    "tt": "\"Onlar mahvoldu\": Kripto'nun Favori Senato Bankacılık Demokratı, 55 Milyon Dolarlık Başarısızlığın Ardından Sektöre Yöneldi",
-    "s": "\"They're F**ked\": Crypto's Favorite Senate Banking Democrat Turns On The Industry After $55M Flop Sen. Ruben Gallego (D-AZ) spent months negotiating the crypto industry's market structure bill. Now he has a two-word forecast for the industry once Democrats take over Congress: \"They're fucked.\" Sen. ",
-    "ss": "\"Onlar sikildi\": Kripto'nun Favori Senato Bankacılık Demokratı, 55 Milyon Dolarlık Flop'un Ardından Sektöre Yöneldi Sen. Ruben Gallego (D-AZ), kripto endüstrisinin piyasa yapısı tasarısını müzakere etmek için aylar harcadı. Artık Demokratlar Kongre'yi devraldığında sektör için iki kelimelik bir tahmini var: \"Sikildiler.\" Sen.",
-    "u": "https://www.zerohedge.com/crypto/theyre-fked-cryptos-favorite-senate-banking-democrat-turns-industry-after-55m-flop",
-    "ts": 1795140000000,
-    "tags": []
-   },
-   {
-    "t": "In Unprecedented Surprise Caracas Visit, Hegseth Unveils Venezuela Military Deal",
-    "tt": "Hegseth, Benzeri Görülmemiş Sürpriz Karakas Ziyaretinde Venezuela Askeri Anlaşmasını Açıkladı",
-    "s": "In Unprecedented Surprise Caracas Visit, Hegseth Unveils Venezuela Military Deal Authored by Dave DeCamp via AntiWar.com US Secretary of War Pete Hegseth made a surprise visit to Venezuela on Wednesday , less than one year after the US attacked the country to abduct President Nicolas Maduro and take",
-    "ss": "Hegseth, Benzeri Görülmemiş Sürpriz Karakas Ziyaretinde, AntiWar.com aracılığıyla Dave DeCamp tarafından yazılan Venezuela Askeri Anlaşmasını Açıkladı ABD Savaş Bakanı Pete Hegseth, ABD'nin Başkan Nicolas Maduro'yu kaçırıp onu ele geçirmek için ülkeye saldırmasının üzerinden bir yıldan az bir süre sonra, Çarşamba günü Venezuela'ya sürpriz bir ziyarette bulundu.",
-    "u": "https://www.zerohedge.com/markets/unprecedented-surprise-caracas-visit-hegseth-unveils-venezuela-military-deal",
-    "ts": 1795138800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Citi'den hisseler için zirve uyarısı",
+    "tt": null,
+    "s": "Citigroup stratejistlerine göre, 'hisse senedi faktörleri' arasındaki rotasyon 'en azından sarı bir ışık' yakıyor ve 2000 ile 2021 yıllarındaki önceki piyasa zirvelerini anımsatıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/citiden-hisseler-icin-zirve-uyarisi-3795272",
+    "ts": 1795161219000,
+    "tags": []
+   },
+   {
+    "t": "Türkiye'nin dış borcunda rekor çeyrek",
+    "tt": null,
+    "s": "Türkiye'nin brüt dış borç stoku 2026 yılının üçüncü çeyreğinde 549,2 milyar dolarla rekor seviyeye yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/turkiye-nin-dis-borcunda-rekor-ceyrek-3795271",
+    "ts": 1795159913000,
+    "tags": []
+   },
+   {
+    "t": "Yurt dışı üretici fiyatlarında yıllık artış hızlandı",
+    "tt": null,
+    "s": "Yurt Dışı Üretici Fiyat Endeksi (YD-ÜFE), Ekim'de aylık yüzde 0,75, yıllık yüzde 33,45 arttı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yurt-disi-uretici-fiyatlarinda-yillik-artis-hizlandi-3795270",
+    "ts": 1795159716000,
+    "tags": []
+   },
+   {
+    "t": "Net uluslararası yatırım pozisyonu açığı geriledi",
+    "tt": null,
+    "s": "Türkiye'nin net uluslararası yatırım pozisyonu açığı Ağustos ayı itibarıyla 364,5 milyar dolara geriledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/net-uluslararasi-yatirim-pozisyonu-acigi-geriledi-3795267",
+    "ts": 1795158536000,
+    "tags": []
+   },
+   {
+    "t": "Tüketici güveni 9 ayın dibinden döndü",
+    "tt": null,
+    "s": "TÜİK verilerine göre tüketici güven endeksi, Kasım ayında yüzde 2,4 oranında artarak 86,8 oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tuketici-guveni-9-ayin-dibinden-dondu-3795265",
+    "ts": 1795158282000,
+    "tags": []
+   },
+   {
+    "t": "Reel kesim güveni geriledi, yatırım ve istihdam beklentileri zayıfladı",
+    "tt": null,
+    "s": "TCMB verilerine göre mevsimsellikten arındırılmamış reel kesim güven endeksi Kamıs'da Mevsimsellikten arındırılmamış endeks ise 0,6 puan gerileyerek 99,2 seviyesinde gerçekleşti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/reel-kesim-guveni-kasim-3795246",
+    "ts": 1795157789000,
+    "tags": []
+   },
+   {
+    "t": "Tarımsal girdi enflasyonu Eylül'de sert yükseldi",
+    "tt": null,
+    "s": "Tarımsal girdi fiyat endeksi (Tarım-GFE) Eylül'de yıllık yüzde 32,36 arttı, aylık yüzde 3,78 arttı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tarimsal-girdi-enflasyonu-eylul-de-sert-yukseldi-3795245",
+    "ts": 1795157723000,
+    "tags": []
+   },
    {
     "t": "EPDK'dan benzin yoğunluğu düzenlemesi",
     "tt": null,
@@ -988,69 +1065,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/imf-baskani-ndan-yapay-zekada-duzeltme-uyarisi-3795233",
     "ts": 1795155945000,
-    "tags": []
-   },
-   {
-    "t": "ABD'den Nvidia soruşturması",
-    "tt": null,
-    "s": "ABD'de, çip üreticisi Nvidia'nın eski Üst Yöneticisi (CEO) Jensen Huang'ın casus olduğu öne sürülen Çinli bir iş insanı ile ilişki yaşadığı iddiasıyla görevinden ayrılması sonrası, şirketin yarı iletken teknolojilerinin Çin'in eline geçip geçmediğini araştırmak üzere Nvidia hakkında soruşturma açıld",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-nvidia-sorusturmasi-3795229",
-    "ts": 1795155776000,
-    "tags": []
-   },
-   {
-    "t": "Küresel borsalarda satış dalgası",
-    "tt": null,
-    "s": "Küresel borsalarda Anthropic halka arzı izlenirken, risk iştahında sert düşüş dikkat çekti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kuresel-borsalarda-satis-dalgasi-3795224",
-    "ts": 1795154174000,
-    "tags": []
-   },
-   {
-    "t": "Fed yetkililerinden enflasyonla mücadelede şahin mesajlar",
-    "tt": null,
-    "s": "ABD Merkez Bankası (Fed) yetkilileri, yüksek enflasyon karşısında ilave faiz artışlarına ihtiyaç duyulabileceği mesajı verdi. Chicago Fed Başkanı Austan Goolsbee, 50 baz puanlık artış ihtimalini dışlamazken, Fed Guvernörü Michael Barr destekleyici finansal koşulların enflasyonu beslediğine dikkat çe",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fed-yetkililerinden-enflasyonla-mucadelede-sahin-mesajlar-3795223",
-    "ts": 1795154011000,
-    "tags": []
-   },
-   {
-    "t": "Apple'dan OpenAI ve Anthropic'e rakip yapay zeka ajanı",
-    "tt": null,
-    "s": "Anthropic hisseleri rekor halka arzın ardından ilk işlem gününde %17 yükselse de kapanış sonrası işlemlerde %5 gerilerken, yüksek değerleme, artan rekabet ve zayıflayan fiyatlama gücü yapay zeka yatırım temasının sürdürülebilirliğine ilişkin endişeleri artırdı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/appledan-openai-ve-anthropice-rakip-yapay-zeka-ajani-3795221",
-    "ts": 1795153587000,
-    "tags": []
-   },
-   {
-    "t": "Çin kredi faiz oranlarını sabit tuttu",
-    "tt": null,
-    "s": "Çin'de gösterge faizi işlevi gören 1 ve 5 yıllık kredi faiz oranlarında (LPR) değişikliğe gidilmedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cin-kredi-faiz-oranlarini-sabit-tuttu-3795220",
-    "ts": 1795153424000,
-    "tags": []
-   },
-   {
-    "t": "Yapay zekâ endişeleri doları 19 ayın zirvesine taşıdı",
-    "tt": null,
-    "s": "Yapay zekâ şirketlerinin değerlemelerine yönelik endişeler küresel piyasalarda risk iştahını azaltırken, güvenli liman talebiyle güçlenen dolar 19 ayın en yüksek seviyesine yaklaştı. ABD Merkez Bankası'nın (Fed) faiz artıracağına ilişkin beklentiler de dolardaki yükselişi destekledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yapay-zek-endiseleri-dolari-19-ayin-zirvesine-tasidi-3795219",
-    "ts": 1795153074000,
-    "tags": []
-   },
-   {
-    "t": "Petrolde düşüş beklentisi",
-    "tt": null,
-    "s": "Brent petrol 93 dolara yaklaşırken haftalık kaybı yüzde 3,5'i buldu. Piyasaların odağında Hürmüz Boğazı'ndaki sevkiyatlar ve OPEC+'nın üretim politikası bulunuyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/petrolde-dusus-beklentisi-3795217",
-    "ts": 1795151074000,
     "tags": []
    }
   ]
