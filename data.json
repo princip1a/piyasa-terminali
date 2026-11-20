@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-20T18:46:35.160624+00:00",
+ "generated": "2026-11-20T19:50:29.892497+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7013.92,
-   "c": -2.26,
-   "d": -161.91,
+   "p": 6964.51,
+   "c": -2.94,
+   "d": -211.32,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 22996.066,
-   "c": -3.7,
-   "d": -883.133,
+   "p": 22823.178,
+   "c": -4.42,
+   "d": -1056.021,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 48753.94,
-   "c": -0.7,
-   "d": -343.119,
+   "p": 48484.93,
+   "c": -1.25,
+   "d": -612.129,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 32.27,
-   "c": 13.47,
-   "d": 3.83,
+   "p": 34.88,
+   "c": 22.64,
+   "d": 6.44,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3518.3,
-   "c": -4.54,
-   "d": -167.2,
+   "p": 3531.5,
+   "c": -4.18,
+   "d": -154.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.03,
-   "c": -7.42,
-   "d": -3.288,
+   "p": 41.13,
+   "c": -7.19,
+   "d": -3.188,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.97,
-   "c": -0.29,
-   "d": -0.24,
+   "p": 83.13,
+   "c": -0.1,
+   "d": -0.08,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.31,
-   "c": -2.9,
-   "d": -2.67,
+   "p": 89.6,
+   "c": -2.59,
+   "d": -2.38,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.833,
-   "c": -0.06,
-   "d": -0.067,
+   "p": 103.805,
+   "c": -0.09,
+   "d": -0.095,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.942,
-   "c": -2.18,
-   "d": -0.11,
+   "p": 4.91,
+   "c": -2.81,
+   "d": -0.142,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.5722,
-   "c": 0.22,
-   "d": 0.11,
+   "p": 50.5612,
+   "c": 0.2,
+   "d": 0.099,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 58773,
-   "c": -6.7,
+   "p": 58594,
+   "c": -6.23,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1628.05,
-   "c": -8.64,
+   "p": 1609.02,
+   "c": -9.24,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 68.92,
-   "c": -7.34,
+   "p": 68.22,
+   "c": -7.32,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.906811,
-   "c": -7.06,
+   "p": 0.897462,
+   "c": -7.21,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 540.61,
-   "c": -8.05,
+   "p": 535.87,
+   "c": -8.25,
    "k": "usd"
   }
  ],
@@ -594,7 +594,34 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "S&P 500 Falls 10% From Record to Enter Correction: Markets Wrap",
+    "t": "Wall Street Regulator Probing Nvidia’s Accounting, Reuters Says",
+    "tt": "Reuters: Wall Street Düzenleyicisi Nvidia'nın Muhasebesini Soruşturuyor",
+    "s": "The US Securities and Exchange Commission is investigating the accounting practices of Nvidia Corp., Reuters reported Friday, as the challenges facing the chipmaker continue to mount in the wake of Jensen Huang’s departure as chief executive officer.",
+    "ss": "Reuters'in Cuma günü bildirdiğine göre, ABD Menkul Kıymetler ve Borsa Komisyonu, Nvidia Corp.'un muhasebe uygulamalarını araştırıyor; zira çip üreticisinin karşılaştığı zorluklar, Jensen Huang'ın icra kurulu başkanı olarak ayrılmasının ardından artmaya devam ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
+    "ts": 1795204129000,
+    "tags": []
+   },
+   {
+    "t": "Apollo Enlists 13 Wall Street Banks for $9 Billion ADT Debt Deal",
+    "tt": "Apollo, 9 Milyar Dolarlık ADT Borç Anlaşması İçin 13 Wall Street Bankasını Listeledi",
+    "s": "Apollo Global Management Inc. has brought in 13 Wall Street lenders for a roughly $9 billion debt package it underwrote for Thrive Holdings Inc.’s acquisition of home security provider ADT Inc., according to people familiar with the matter.",
+    "ss": "Konuya yakın kaynaklara göre Apollo Global Management Inc., Thrive Holdings Inc.'in ev güvenlik sağlayıcısı ADT Inc.'i satın alması için üstlendiği yaklaşık 9 milyar dolarlık borç paketi için 13 Wall Street kredi sağlayıcısını işe aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/apollo-enlists-13-wall-street-banks-for-9-billion-adt-debt-deal",
+    "ts": 1795204082000,
+    "tags": []
+   },
+   {
+    "t": "US Treasuries Rally as AI Selloff Sends Investors to Havens",
+    "tt": "Yapay Zeka Selloff'un Yatırımcıları Limanlara Göndermesiyle ABD Hazine Tahvilleri Toplanıyor",
+    "s": "US Treasuries soared as mounting doubts over the artificial intelligence trade sent stocks tumbling and investors flocking to haven assets.",
+    "ss": "ABD Hazine tahvilleri, yapay zeka ticaretine ilişkin şüphelerin artmasıyla hisse senetlerinin değer kaybetmesi ve yatırımcıların güvenli liman varlıklarına akın etmesiyle yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
+    "ts": 1795149203000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq 100 Tumbles 5% on Report of Nvidia Probe: Markets Wrap",
     "tt": "Küresel Hisse Senetleri 2023'ten Bu Yana En Uzun Kayıp Serisini Yaşadı: Piyasalar Özetlendi",
     "s": "Another bruising technology selloff rippled through markets around the world, driving US stocks toward their longest slide since 2020 as investors piled into the perceived safety of bonds.",
     "ss": "Yapay zeka ticaretinin keskin bir çözülmeye maruz kalması ve 2026'nın daha geniş hisse senedi kazanımlarını riske atması nedeniyle, küresel hisse senetleri endeksi üç yılı aşkın süredir en uzun kayıp serisine doğru ilerliyor.",
@@ -603,87 +630,64 @@
     "tags": []
    },
    {
-    "t": "Fed’s Cook Sees Growing Urgency to Tackle Inflation",
-    "tt": "Fed Cook, Enflasyonla Mücadelede Artan Aciliyet Görüyor",
-    "s": "Federal Reserve Governor Lisa Cook sees an urgent need for the US central bank to raise interest rates to bring down inflation. Cook said Friday at a conference at Chile’s central bank in Santiago, “Inflation has been above target for more than five and a half years, and every additional day poses g",
-    "ss": "Federal Reserve Guvernörü Lisa Cook, ABD merkez bankasının enflasyonu düşürmek için faiz oranlarını artırmasının acil bir ihtiyaç olduğunu düşünüyor. Cook Cuma günü Şili'nin Santiago'daki merkez bankasında düzenlenen bir konferansta şunları söyledi: \"Enflasyon beş buçuk yıldan fazla bir süredir hedefin üzerinde seyrediyor ve her geçen gün daha da güçleniyor.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/fed-s-cook-sees-growing-urgency-to-tackle-inflation-video",
-    "ts": 1795199107000,
+    "t": "ETFs: High Conviction Through Novel Strategies",
+    "tt": "ETF'ler: Yeni Stratejiler Yoluyla Yüksek İnanç",
+    "s": "Inkoo Kang, Executive Director of Tactical Products at ProShares, Ryan Lee, SVP of Product & Strategy at Direxion ETFs, and Corgi's Chief Investment Strategist Jeff Weniger join Bloomberg Intelligence's Athanasios Psarofagis at the Bloomberg ETFs in Depth conference in New York on November 19, 2026.",
+    "ss": "ProShares Taktik Ürünler İcra Direktörü Inkoo Kang, Direxion ETF'ler Ürün ve Stratejiden Sorumlu Kıdemli Başkan Yardımcısı Ryan Lee ve Corgi'nin Baş Yatırım Stratejisti Jeff Weniger, 19 Kasım 2026'da New York'ta düzenlenen Bloomberg ETFs in Depth konferansında Bloomberg Intelligence'ın Athanasios Psarofagis'ine katıldı.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-high-conviction-through-novel-strategies-video",
+    "ts": 1795202975000,
     "tags": []
    },
    {
-    "t": "Copper Rout Worsens as AI Selloff Wreaks Havoc in Metals Markets",
-    "tt": "Yapay zeka satışlarının metal piyasalarında hasara yol açmasıyla bakır bozgunları kötüleşiyor",
-    "s": "Copper sank to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
-    "ss": "Bakır, küresel talebe ilişkin derinleşen endişelerin tetiklediği bir haftalık piyasa çalkantısının ardından Mart ayından bu yana en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
-    "ts": 1795143785000,
+    "t": "How Tokenization Could Change the ETF Market",
+    "tt": "Tokenizasyon ETF Pazarını Nasıl Değiştirebilir?",
+    "s": "Giang Bui, Head of Issuer Growth at Securitize, Jason Emery, Head of Product Management at DTCC Digital Assets, and Will Peck, Head of WisdomTree Onchain, join Bloomberg Intelligence's James Seyffart at the Bloomberg ETFs in Depth conference in New York on November 19, 2026. The panel examines how t",
+    "ss": "Securitize İhraççı Büyümesi Başkanı Giang Bui, DTCC Digital Assets Ürün Yönetimi Başkanı Jason Emery ve WisdomTree Onchain Başkanı Will Peck, 19 Kasım 2026'da New York'ta düzenlenen Bloomberg ETFs in Depth konferansında Bloomberg Intelligence'dan James Seyffart'a katılıyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/how-tokenization-could-change-the-etf-market-video",
+    "ts": 1795202940000,
     "tags": []
    },
    {
-    "t": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
-    "tt": "Tahviller Sıkıntıya Girerken Arjantin Küresel Kargaşadan Sert Bir Şekilde Vuruldu",
-    "s": "A global flight from risk is catching Argentina at a vulnerable moment, deepening a bond selloff fueled by anxiety over next year’s election and pushing its debt into distressed territory for the first time in two years.",
-    "ss": "Riskten küresel kaçış, Arjantin'i savunmasız bir anda yakalıyor, gelecek yıl yapılacak seçimlerle ilgili kaygının körüklediği tahvil satışlarını derinleştiriyor ve borcunu iki yıl sonra ilk kez sıkıntılı bölgeye itiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
-    "ts": 1795198355000,
+    "t": "Anthropic Share Slide Almost Erases IPO Pop as AI Trade Unravels",
+    "tt": "Yapay Zeka Ticareti Çözülürken Antropik Hisse Slaytı Neredeyse Halka Arz Populunu Siliyor",
+    "s": "Anthropic PBC shares erased much of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
+    "ss": "Antropik PBC hisseleri Cuma günü ilk günkü sıçramalarının çoğunu sildi ve yapay zeka laboratuvarının tarihin en büyük halka arzını gerçekleştirmesinin ardından yatırımcıların inancını test etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
+    "ts": 1795185409000,
     "tags": []
    },
    {
-    "t": "Morgan Stanley Sees Aussie Riding AI Storm to Outperform in 2027",
-    "tt": "Morgan Stanley, Avustralyalı'nın 2027'de Yapay Zeka Fırtınasından Daha İyi Performans Göstereceğini Görüyor",
-    "s": "The Australian dollar will stand out among developed-market currencies next year as it will reap the benefits of the artificial intelligence buildout, weathering the recent stock selloff, according to Andrew Watrous at Morgan Stanley.",
-    "ss": "Morgan Stanley'den Andrew Watrous'a göre, Avustralya doları gelecek yıl gelişmiş piyasa para birimleri arasında ön plana çıkacak ve yapay zekanın sağladığı faydalardan yararlanarak son hisse senedi satışlarını atlatacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-aussie-riding-ai-storm-to-outperform-in-2027",
-    "ts": 1795198019000,
+    "t": "Kalshi’s Novel Treasury Perps Hit Delays as Other Bets Expand",
+    "tt": "Kalshi'nin Yeni Hazine Failleri Diğer Bahisler Genişledikçe Gecikmeler Yaşadı",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/kalshi-s-novel-treasury-perps-hit-delays-as-other-bets-expand",
+    "ts": 1795202498000,
+    "tags": []
+   },
+   {
+    "t": "ETFs Across the AI Ecosystem",
+    "tt": "Yapay Zeka Ekosistemindeki ETF'ler",
+    "s": "Ryan Issakainen, SVP & ETF Strategist at First Trust, Matt Orton, Chief Market Strategist & Portfolio Manager at Raymond James Investment Management, and Hepsen Uzcan, CEO of Deutsche Asset Management Americas, join Bloomberg Intelligence's Emily Pierce at the Bloomberg ETFs in Depth conference in N",
+    "ss": "First Trust Kıdemli Başkan Yardımcısı ve ETF Stratejisti Ryan Issakainen, Raymond James Investment Management Baş Piyasa Stratejisti ve Portföy Müdürü Matt Orton ve Deutsche Asset Management Americas CEO'su Hepsen Uzcan, N'deki Bloomberg ETFs in Depth konferansında Bloomberg Intelligence'dan Emily Pierce'a katıldı.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/etfs-across-the-ai-ecosystem-video",
+    "ts": 1795202382000,
+    "tags": []
+   },
+   {
+    "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+    "tt": "Altın, Hawkish Fed ve AI Selloff'a Göre Mart'tan Bu Yana En Kötü Haftaya Girdi",
+    "s": "Gold fell for a fifth day — heading for the biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets.",
+    "ss": "Altın, şahin Fed'in daha fazla faiz artırımı sinyali vermesi ve AI hisselerindeki düşüşün metal piyasalarında satışları artırmasıyla beşinci günde de düşüşünü sürdürerek Mart ayından bu yana en büyük haftalık düşüşünü gerçekleştirmeye yöneldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "ts": 1795132563000,
     "tags": [
-     "DXY ▼"
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
     ]
-   },
-   {
-    "t": "SEC’s Daly on a Rapidly Evolving ETF Market",
-    "tt": "Hızla Gelişen ETF Pazarında SEC Daly",
-    "s": "Brian Daly, Director of the Division of Investment Management at the SEC, joins Bloomberg's Isabelle Lee at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Daly discusses the rapid evolution of the ETF market, the SEC’s approach to novel products and why the agency is taking",
-    "ss": "SEC Yatırım Yönetimi Bölümü Direktörü Brian Daly, 26 Kasım 2026'da New York'ta düzenlenen Bloomberg ETF'lerin Derinlik Konferansı'nda Bloomberg'den Isabelle Lee'ye katılıyor. Daly, ETF pazarının hızlı gelişimini, SEC'in yeni ürünlere yaklaşımını ve ajansın neden bu yaklaşımı benimsediğini anlatıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/sec-s-daly-on-a-rapidly-evolving-etf-market-video",
-    "ts": 1795197602000,
-    "tags": []
-   },
-   {
-    "t": "Robinhood’s Quirk on ETFs and the Next Generation of Investors",
-    "tt": "Robinhood'un ETF'lere ve Yeni Nesil Yatırımcılara İlişkin Tuhaflığı",
-    "s": "Robinhood Markets Chief Brokerage Officer Steve Quirk joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Quirk discusses how younger investors are trading through volatile marke",
-    "ss": "Robinhood Markets Baş Aracılık Sorumlusu Steve Quirk, 26 Kasım 2026'da New York'ta Bloomberg ETF'lerin Derinlik Konferansı'nda sahnede canlı olarak ETF IQ'nun özel bir versiyonu için Bloomberg'den Katie Greifeld ve Eric Balchunas'a katılıyor. Quirk, genç yatırımcıların değişken piyasalar yoluyla nasıl işlem yaptığını tartışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/robinhood-s-quirk-on-etfs-next-generation-of-investors-video",
-    "ts": 1795197297000,
-    "tags": []
-   },
-   {
-    "t": "AI Is Coming for Economists in the White House, Says Claudia Sahm",
-    "tt": "Claudia Sahm, Yapay Zekanın Beyaz Saray'daki Ekonomistler İçin Geldiğini Söyledi",
-    "s": "Claudia Sahm, Chief Economist at New Century Advisors, joined Bloomberg's Paul Sweeney and Scarlet Fu to discuss her latest column, \"AI Is Coming for the Economists in the White House.\" The AI debate, which economists have been having for years in various contexts, has come for the profession itself",
-    "ss": "New Century Advisors'ın Baş Ekonomisti Claudia Sahm, Bloomberg'den Paul Sweeney ve Scarlet Fu'ya katılarak son köşe yazısı \"Beyaz Saray'daki Ekonomistler İçin Yapay Zeka Geliyor\"u tartıştı. İktisatçıların yıllardır çeşitli bağlamlarda sürdürdüğü yapay zeka tartışması mesleğin kendisine de geldi",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/ai-is-coming-for-white-house-economists-says-sahm-video",
-    "ts": 1795196922000,
-    "tags": []
-   },
-   {
-    "t": "BI Survey: Budgetary Constraints for 2027 Travel",
-    "tt": "BI Araştırması: 2027 Seyahatine İlişkin Bütçe Kısıtlamaları",
-    "s": "Jody Lurie, Bloomberg Intelligence Credit Analyst, discussed her recent Bloomberg Survey covering budgetary constraints for 2027 travel. Lurie spoke with Bloomberg's Paul Sweeney and Scarlet Fu.on her recent BI surveys. US vacationers appear poised to spend more in 2027, but inflation is reshaping r",
-    "ss": "Bloomberg İstihbarat Kredi Analisti Jody Lurie, 2027 seyahatine yönelik bütçe kısıtlamalarını kapsayan son Bloomberg Anketi'ni tartıştı. Lurie, son BI anketleri hakkında Bloomberg'den Paul Sweeney ve Scarlet Fu ile konuştu. ABD'li tatilciler 2027'de daha fazla harcamaya hazır görünüyor ancak enflasyon yeniden şekilleniyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/inflation-lifts-trip-spending-as-consumers-cut-extras-video",
-    "ts": 1795196912000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 20",
-    "tt": "20 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil headed for a third weekly decline as traders weighed the risk of renewed US strikes on Iran against ample crude supplies.",
-    "ss": "Petrol fiyatları, tüccarların bol miktardaki ham petrol arzına karşı ABD'nin İran'a yeniden saldırı yapma riskini tartmasıyla üçüncü haftalık düşüşe yöneldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
-    "ts": 1795129551000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -693,7 +697,7 @@
     "s": "Odds that the S&amp;P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
     "ss": "Kalshi platformunda S&P 500'ün bir zamanlar %70'in kuzeyinde olan 8.000'i geçme ihtimali son derece düşük.",
     "u": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-    "ts": 1795200072000,
+    "ts": 1795203152000,
     "tags": []
    },
    {
@@ -792,6 +796,69 @@
   ],
   "MarketWatch": [
    {
+    "t": "Spooked by Nvidia’s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
+    "tt": "Nvidia'nın çalkantısından korktunuz mu? 401(k)'nize bakmak yerine Grand Theft Auto VI oynayın.",
+    "s": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+    "ss": "Mülk veya CD'ler için hisse senetlerinden vazgeçme eğilimindeyseniz, ani bir hamle yapmadan önce derin bir nefes alın.",
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1795204380000,
+    "tags": []
+   },
+   {
+    "t": "The Fed is too busy fighting inflation to rescue the stock market",
+    "tt": "Fed borsayı kurtaramayacak kadar enflasyonla mücadeleyle meşgul",
+    "s": "Federal Reserve officials will continue to raise interest rates, despite the recent selloff in the stock market, as equity-market gains over the past four years dwarf the recent declines, economists said Friday.",
+    "ss": "Ekonomistler Cuma günü yaptığı açıklamada, hisse senedi piyasasında son dört yıldaki kazanımların son düşüşleri gölgede bırakması nedeniyle, Fed yetkililerinin hisse senedi piyasasındaki son satışlara rağmen faiz oranlarını artırmaya devam edeceğini söyledi.",
+    "u": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
+    "ts": 1795204380000,
+    "tags": []
+   },
+   {
+    "t": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
+    "tt": "Stratejistler, Wall Street'in ekonomik gerileme riskini hafife alması durumunda hisse senetlerinin bir 'kıyamet döngüsü' ile karşı karşıya kalabileceği konusunda uyardı",
+    "s": "The S&amp;P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
+    "ss": "ABD'nin resesyondan kaçınması durumunda S&P 500 satın almaya değer bir seviyeye yaklaşıyor ancak bir stratejist, yatırımcıların riskli varlıkları satın almadan önce beklemesi gerektiğini söyleyerek Wall Street'in sert iniş riskini düşük fiyatladığı konusunda uyarıyor.",
+    "u": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+    "ts": 1795203780000,
+    "tags": []
+   },
+   {
+    "t": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+    "tt": "Alphabet, 2 yılı aşkın süredir ilk kez piyasa değerinde Nvidia'yı geride bıraktı",
+    "s": "Nvidia is now the fourth most valuable U.S. company, behind Apple, Microsoft and Alphabet.",
+    "ss": "Nvidia şu anda Apple, Microsoft ve Alphabet'in ardından ABD'nin en değerli dördüncü şirketi.",
+    "u": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
+    "ts": 1795202580000,
+    "tags": []
+   },
+   {
+    "t": "SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next",
+    "tt": "SpaceX'in hisseleri halka arz fiyatının altına geriledi ve sıradaki Anthropic'inki olabilir",
+    "s": "Investors may be worried that the “long-feared AI bubble-burst moment” is coming, one expert said.",
+    "ss": "Bir uzman, yatırımcıların \"uzun zamandır korkulan yapay zeka balonunun patlama anı\"nın yaklaşmakta olduğundan endişe duyabileceğini söyledi.",
+    "u": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories",
+    "ts": 1795202040000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+    "tt": "Nvidia'nın hisseleri 2008'den beri görülmeyen haftalık kayıplara doğru gidiyor",
+    "s": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased over $900 billion in market value in the past seven days.",
+    "ss": "Bir fon yöneticisi, şirketin son yedi gün içinde piyasa değerini 811 milyar dolar kaybetmesine rağmen devam eden belirsizliğin Nvidia'yı daha fazla satışa karşı \"savunmasız\" hale getirdiğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "ts": 1795201440000,
+    "tags": []
+   },
+   {
+    "t": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
+    "tt": "Trump, Big Tech'in ABD dışında veri merkezleri kurma çabasını durdurmaya çalışıyor.",
+    "s": "The companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.",
+    "ss": "Yapay zeka gelişiminin arkasındaki şirketler, politikacıların ve sıradan Amerikalıların veri merkezlerine karşı artan ihtiyatlı tavrının ortasında, yurt dışında yeni sınırlarını inşa etmek için çalışıyor.",
+    "u": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
+    "ts": 1795201020000,
+    "tags": []
+   },
+   {
     "t": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
     "tt": "'Evde oturan bir anneyim': 50 yaşındayım ve kronik bir hastalığım var. Kocam işini kaybetti. 401(k)'sine baskın yapmalı mı?",
     "s": "“Our financial and healthcare situation has become increasingly concerning.”",
@@ -817,72 +884,45 @@
     "u": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
     "ts": 1795196940000,
     "tags": []
-   },
-   {
-    "t": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
-    "tt": "Anthropic'in hisseleri halka arz fiyatına yaklaşıyor ve AI ticaretini aşağı çekiyor",
-    "s": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
-    "ss": "Anthropic'in açılış hisse senedi fiyatını tutamaması \"teknolojinin geri kalanı için kötü\" olarak görülüyor.",
-    "u": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-    "ts": 1795196820000,
-    "tags": []
-   },
-   {
-    "t": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-    "tt": "Yeni yasa tasarısı uyarınca Medicare yararlanıcıları evde daha ucuz bakım için huzurevini atlayabilir",
-    "s": "The plan would free up hospital and nursing-home beds — and lower costs.",
-    "ss": "Plan, hastane ve bakımevlerindeki yatakların boşaltılmasını ve maliyetlerin düşürülmesini sağlayacak.",
-    "u": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-    "ts": 1795194900000,
-    "tags": []
-   },
-   {
-    "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-    "tt": "Kocam bir tekneye 80.000 dolar harcadı ama 100.000 dolarlık bir çömlek atölyesi kurma planlarımın sorumsuz olduğunu söylüyor. Kim haklı?",
-    "s": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-    "ss": "\"Emeklilik hesaplarımızda 2,9 milyon dolar var. Buna yaklaşık 10 yıl önce miras kalan paranın bir kısmı da dahil.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-    "ts": 1795194900000,
-    "tags": []
-   },
-   {
-    "t": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "tt": "Piyasanın çökmesinden korkuyorum. 1 milyon dolarlık emeklilik birikimimin 400.000 dolarını yıllık gelire mi yatırmalıyım?",
-    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
-    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "ts": 1795194300000,
-    "tags": []
-   },
-   {
-    "t": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-    "tt": "'Alıcılar kan peşinde': Konut satışları rekor düşük seviyedeyken, kararları alıcılar veriyor",
-    "s": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-    "ss": "Emlakçılar, rekor yüksek ev fiyatlarına ve yüzde 7'lik konut kredisi oranlarına göğüs gererek piyasada kalan az sayıda alıcının kararları almaya başladığını söylüyor.",
-    "u": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-    "ts": 1795192620000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
-    "tt": "Nvidia'nın hisseleri 2008'den beri görülmeyen haftalık kayıplara doğru gidiyor",
-    "s": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
-    "ss": "Bir fon yöneticisi, şirketin son yedi gün içinde piyasa değerini 811 milyar dolar kaybetmesine rağmen devam eden belirsizliğin Nvidia'yı daha fazla satışa karşı \"savunmasız\" hale getirdiğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-    "ts": 1795191540000,
-    "tags": []
-   },
-   {
-    "t": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
-    "tt": "Yatırımcılar güvenlik için sağlık stoklarına kaçtı. Şimdi sigorta ve hastane hisseleri düşüyor.",
-    "s": "Shares of UnitedHealth, Humana and CVS Health declined this week in light of a new Medicare for All proposal",
-    "ss": "UnitedHealth, Humana ve CVS Health'in hisseleri, yeni Herkes için Medicare teklifi ışığında bu hafta düştü",
-    "u": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
-    "ts": 1795189980000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Nvidia Implosion Intensifies As SEC Nightmare Just Got A Lot Worse",
+    "tt": "SEC Kabusu Daha da Kötüleşirken Nvidia'daki Patlama Yoğunlaşıyor",
+    "s": "Nvidia Implosion Intensifies As SEC Nightmare Just Got A Lot Worse The Securities and Exchange Commission's probe of Nvidia is examining potential accounting issues at the chipmaker , two people briefed on the matter told Reuters on Friday. The Wall Street Journal first reported the SEC probe on Tue",
+    "ss": "SEC Kabusu Daha da Kötüleşirken Nvidia'daki İç Patlama Yoğunlaşıyor Menkul Kıymetler ve Borsa Komisyonu'nun Nvidia'ya yönelik soruşturması çip üreticisindeki olası muhasebe sorunlarını inceliyor, konuyla ilgili bilgi sahibi iki kişi Cuma günü Reuters'e söyledi. Wall Street Journal SEC soruşturmasını ilk olarak Salı günü bildirdi",
+    "u": "https://www.zerohedge.com/ai/nvidias-sec-probe-just-got-lot-worse",
+    "ts": 1795203524000,
+    "tags": []
+   },
+   {
+    "t": "Private Credit Redemptions: Why Investors Still Can't Get Out",
+    "tt": "Özel Kredi Geri Ödemeleri: Yatırımcılar Neden Hala Çıkamıyor?",
+    "s": "Private Credit Redemptions: Why Investors Still Can't Get Out Authored by Lance Roberts via RIA , Private credit redemptions are falling, but most funds still return only 5% of shares per quarter. Key Takeaways Redemption requests at the largest non-traded private credit funds are easing, but most s",
+    "ss": "Özel Kredi Geri Ödemeleri: Yatırımcılar Neden Hala Dışarı Çıkamıyor? Yazan: Lance Roberts, RIA aracılığıyla, Özel kredi geri ödemeleri düşüyor, ancak fonların çoğu hâlâ her çeyrekte hisselerin yalnızca %5'ini geri veriyor. Önemli Çıkarımlar En büyük ticari olmayan özel kredi fonlarındaki itfa talepleri hafifliyor, ancak çoğu",
+    "u": "https://www.zerohedge.com/markets/private-credit-redemptions-why-investors-still-cant-get-out",
+    "ts": 1795203000000,
+    "tags": []
+   },
+   {
+    "t": "Chinese-Built AI Hacking Machine Lets Any Idiot Infiltrate Systems In Under 3 Hours, FBI Warns",
+    "tt": "FBI, Çin Yapımı Yapay Zeka Hackleme Makinesinin Herhangi Bir Aptalın Sistemlere 3 Saatten Kısa Bir Süre İçinde Sızmasına İzin Verdiğini Uyardı",
+    "s": "Chinese-Built AI Hacking Machine Lets Any Idiot Infiltrate Systems In Under 3 Hours, FBI Warns ARTEX, an AI hacking framework developed in China , lets attackers \"with minimal technical expertise\" run complex, multi-target break-ins at machine speed , the FBI warned in a FLASH advisory last week. In",
+    "ss": "FBI, Çin Yapımı Yapay Zeka Hackleme Makinesinin Her Aptalın Sistemlere 3 Saatten Kısa Bir Süre İçinde Sızmasına İzin Verdiğini Uyarıyor FBI, Çin'de geliştirilen bir AI hackleme çerçevesi olan ARTEX'in, \"minimum teknik uzmanlığa sahip\" saldırganların karmaşık, çok hedefli izinsiz girişleri makine hızında gerçekleştirmesine olanak tanıdığını bildirdi, FBI geçen hafta bir FLASH tavsiyesinde uyardı. İçinde",
+    "u": "https://www.zerohedge.com/technology/chinese-built-ai-hacking-machine-lets-any-idiot-infiltrate-systems-under-3-hours-fbi",
+    "ts": 1795202100000,
+    "tags": []
+   },
+   {
+    "t": "\"Definitely\" A Supply Chain Risk: Pentagon Goes On CNBC To Bash Anthropic As Stock Slides Toward IPO Price",
+    "tt": "\"Kesinlikle\" Bir Tedarik Zinciri Riski: Hisseler Halka Arz Fiyatına Doğru Kayarken Pentagon CNBC'ye Antropik'i Bastırmaya Gidiyor",
+    "s": "\"Definitely\" A Supply Chain Risk: Pentagon Goes On CNBC To Bash Anthropic As Stock Slides Toward IPO Price A day after Anthropic's record-breaking Nasdaq debut, the Pentagon's technology chief went on CNBC and said the newly public AI giant is still a supply chain risk to the Department of War - whi",
+    "ss": "\"Kesinlikle\" Bir Tedarik Zinciri Riski: Pentagon, Hisse Senedi Halka Arz Fiyatına Doğru Kayarken Anthropic'i Ezmek İçin CNBC'ye Gidiyor Anthropic'in rekor kıran Nasdaq çıkışından bir gün sonra, Pentagon'un teknoloji şefi CNBC'ye çıktı ve yeni kamuya açık yapay zeka devinin hala Savaş Bakanlığı için bir tedarik zinciri riski olduğunu söyledi.",
+    "u": "https://www.zerohedge.com/ai/definitely-supply-chain-risk-pentagon-goes-cnbc-bash-anthropic-stock-slides-toward-ipo-price",
+    "ts": 1795201200000,
+    "tags": []
+   },
    {
     "t": "Mamdani Kills Central Park's 150-Year-Old Carriage Rides, Drivers Sue Within Minutes",
     "tt": "Mamdani, Central Park'ın 150 Yıllık Fayton Araçlarını Öldürdü, Sürücüler Dakikalar İçinde Dava Açtı",
@@ -936,45 +976,36 @@
     "u": "https://www.zerohedge.com/political/watch-live-trump-holds-white-house-press-conference-after-historic-summit-xi-and-putin",
     "ts": 1795194000000,
     "tags": []
-   },
-   {
-    "t": "Israeli Ambassador Says US Soldiers Will Be \"Back To Their Families\" Only When \"Iran Is Defeated\"",
-    "tt": "İsrail Büyükelçisi ABD askerlerinin ancak \"İran yenildiğinde\" \"ailelerine dönebileceklerini\" söyledi",
-    "s": "Israeli Ambassador Says US Soldiers Will Be \"Back To Their Families\" Only When \"Iran Is Defeated\" Israeli Ambassador to the US Yechiel Leiter has issued some new comments this week which have outraged many military members, veterans, and their families - who in some cases are venting online. He said",
-    "ss": "İsrail Büyükelçisi, ABD Askerlerinin Ancak \"İran Yenildiğinde\" \"Ailelerine Geri Dönebileceklerini\" Söyledi İsrail'in ABD Büyükelçisi Yechiel Leiter, bu hafta birçok askeri mensubu, gaziyi ve ailelerini kızdıran bazı yeni yorumlar yayınladı; dedi ki",
-    "u": "https://www.zerohedge.com/geopolitical/israeli-ambassador-says-us-soldiers-will-be-back-their-families-only-when-iran",
-    "ts": 1795193100000,
-    "tags": []
-   },
-   {
-    "t": "\"If Everyone Needs One, It Won't\": Anthropic Slides Toward $83 IPO Price As Wall Street Waits For An AI \"Clearing Event\"",
-    "tt": "\"Herkesin İhtiyacı Varsa, Olmayacak\": Wall Street Yapay Zeka \"Taksit Etkinliği\"ni Beklerken Antropik Halka Arz Fiyatı 83 Dolara Doğru Kayıyor",
-    "s": "\"If Everyone Needs One, It Won't\": Anthropic Slides Toward $83 IPO Price As Wall Street Waits For An AI \"Clearing Event\" \"If everyone wants a clearing event, one might happen. If everyone needs one, it won't.\" That's how JPMorgan's co-head of global high-touch trading Ronald Adler boiled down the po",
-    "ss": "\"Herkesin İhtiyacı Varsa, Olmayacak\": Wall Street Yapay Zeka \"Takas Etkinliği\"ni Beklerken Antropik Halka Arz Fiyatı 83 Dolara Doğru Kayıyor \"Herkes bir takas olayı istiyorsa, bu gerçekleşebilir. Eğer herkes buna ihtiyaç duyuyorsa, olmayacak.\" JPMorgan'ın küresel yüksek temaslı ticaret eşbaşkanı Ronald Adler, durumu bu şekilde özetledi",
-    "u": "https://www.zerohedge.com/markets/if-everyone-needs-one-it-wont-anthropic-slides-toward-83-ipo-price-wall-street-waits-ai",
-    "ts": 1795192200000,
-    "tags": []
-   },
-   {
-    "t": "Watch: \"Christ Is King\" - Florida Crowd Shouts Down Imam's City Hall Prayer",
-    "tt": "İzle: \"Mesih Kraldır\" - Florida'daki Kalabalık İmamın Belediye Binasındaki Duasını Bağırdı",
-    "s": "Watch: \"Christ Is King\" - Florida Crowd Shouts Down Imam's City Hall Prayer An imam's invocation at a city commission meeting in Bartow, Florida, turned into a standoff on Monday night, when much of the packed chamber drowned him out with the Lord's Prayer, shouts of \"Christ is King\" and chants of \"",
-    "ss": "İzle: \"Mesih Kraldır\" - Florida Kalabalık, İmamın Belediye Binasındaki Duasını Bağırdı Bartow, Florida'da bir belediye komisyonu toplantısında bir imamın duası, Pazartesi gecesi, tıklım tıkış salonun büyük bir kısmının imamı Rab'bin Duası, \"Mesih Kraldır\" bağırışları ve \"İsa'nın Kral\" sloganlarıyla bastırmasıyla bir ayrılığa dönüştü.",
-    "u": "https://www.zerohedge.com/political/watch-christ-king-florida-crowd-shouts-down-imams-city-hall-prayer",
-    "ts": 1795191300000,
-    "tags": []
-   },
-   {
-    "t": "Mossad Chief, Dermer Lobbied Trump Team For Joint Strikes On Iran: Report",
-    "tt": "Mossad Şefi ve Dermer, İran'a Ortak Saldırılar İçin Trump Ekibiyle Kulis Yaptı: Rapor",
-    "s": "Mossad Chief, Dermer Lobbied Trump Team For Joint Strikes On Iran: Report Authored by Dave DeCamp via Antiwar.com , The head of the Israeli spy agency Mossad, Roman Gofman, lobbied for the resumption of the US-Israeli bombing campaign against Iran during his visit to Washington last week, Reuters re",
-    "ss": "Mossad Şefi Dermer, İran'a Ortak Saldırılar İçin Trump Ekibinde Lobi Yaptı: Dave DeCamp tarafından Antiwar.com tarafından yazılan rapor, İsrail casus teşkilatı Mossad'ın başkanı Roman Gofman, geçen hafta Washington'a yaptığı ziyaret sırasında ABD-İsrail'in İran'a yönelik bombalama kampanyasının yeniden başlaması için lobi yaptı, Reuters yeniden",
-    "u": "https://www.zerohedge.com/political/mossad-chief-dermer-lobbied-trump-team-joint-strikes-iran-report",
-    "ts": 1795190400000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Tesla, Teksas'ta 3,1 milyar dolarlık yeni tesis kurmayı planlıyor",
+    "tt": null,
+    "s": "Tesla, vergi teşviki başvurusuna göre Teksas'ta güneş enerjisi sektörüne hammadde sağlayacak 3,1 milyar dolarlık tesis kurmayı planlıyor. Tesisin 2030'da faaliyete geçmesi ve 2032'ye kadar 515 kişiye istihdam sağlaması öngörülüyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/tesla-teksas-ta-3-1-milyar-dolarlik-yeni-tesis-kurmayi-planliyor-3795358",
+    "ts": 1795203468000,
+    "tags": []
+   },
+   {
+    "t": "Peker GYO ve Gündoğdu Gıda payları Yakın İzleme Pazarı'na alındı",
+    "tt": null,
+    "s": "Borsa İstanbul, Peker GYO ve Gündoğdu Gıda paylarını Yakın İzleme Pazarı'na aldı. Payların işlem sıraları 23 Kasım'da kapatılacak, 24 Kasım'da yeni pazarlarında yeniden açılacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/peker-gyo-ve-gundogdu-gida-paylari-yakin-izleme-pazari-na-alindi-3795355",
+    "ts": 1795202975000,
+    "tags": []
+   },
+   {
+    "t": "Fed/Cook: Gecikme daha sert faiz artışına yol açabilir",
+    "tt": null,
+    "s": "Fed Yönetim Kurulu Üyesi Lisa Cook, enflasyonu düşürmek için faizlerin acilen artırılması gerektiğini söyledi. Cook, gecikmenin ileride daha hızlı ve daha yüksek faiz artırımlarını gerektirebileceği uyarısında bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fedcook-gecikme-daha-sert-faiz-artisina-yol-acabilir-3795351",
+    "ts": 1795202087000,
+    "tags": []
+   },
    {
     "t": "Destek Holding'e kayyum atandı",
     "tt": null,
@@ -1036,33 +1067,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/hazine-alacaklari-ekim-sonunda-255-7-milyar-lira-oldu-3795331",
     "ts": 1795187783000,
-    "tags": []
-   },
-   {
-    "t": "HGS'de icra uygulaması durduruldu",
-    "tt": null,
-    "s": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, HGS kapsamında özel otoyol şirketlerinin süresi geçen tahsilatlar için yürüttüğü avukatlık ve icra uygulamalarının durdurulacağını açıkladı. İlgili hukuki düzenlemeler tamamlanana kadar vatandaşlara yönelik icra takibi uygulanmayacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hgs-de-icra-uygulamasi-durduruldu-3795329",
-    "ts": 1795187062000,
-    "tags": []
-   },
-   {
-    "t": "Sanayi üretici fiyatlarında artış hızı yavaşladı",
-    "tt": null,
-    "s": "Sanayi üretici fiyatlarında aylık artış hızı yavaşladı. Toplam sanayi üretici fiyat endeksi, Ekim'de aylık bazda yüzde 1,36, yıllık bazda yüzde 29,27 artış kaydetti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/sanayi-uretici-fiyatlari-aylik-yuzde-1-36-artti-3795324",
-    "ts": 1795184268000,
-    "tags": []
-   },
-   {
-    "t": "Birleşik Krallık ve AB'den ilişkilerini güçlendirme adımı",
-    "tt": null,
-    "s": "Birleşik Krallık ve Avrupa Birliği; gıda ticaretini kolaylaştırmak, karbon piyasalarını birbirine bağlamak ve gençlerin birbirlerinin ülkelerinde yaşamasına, çalışmasına ve eğitim görmesine olanak tanımak üzere anlaşmalara vardı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/birlesik-krallik-ve-ab-den-iliskilerini-guclendirme-adimi-3795323",
-    "ts": 1795181577000,
     "tags": []
    }
   ]
