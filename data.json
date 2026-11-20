@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T00:20:52.253004+00:00",
+ "generated": "2026-11-20T01:49:49.172266+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,16 +31,16 @@
   },
   {
    "n": "Altın",
-   "p": 3621.8,
-   "c": -3.21,
-   "d": -120.1,
+   "p": 3574.9,
+   "c": -4.46,
+   "d": -167.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.9,
-   "c": -4.66,
-   "d": -2.099,
+   "p": 42.04,
+   "c": -6.58,
+   "d": -2.959,
    "k": "usd"
   },
   {
@@ -52,16 +52,16 @@
   },
   {
    "n": "Brent",
-   "p": 89.77,
-   "c": -2.37,
-   "d": -2.18,
+   "p": 89.92,
+   "c": -2.21,
+   "d": -2.03,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.924,
-   "c": 0.06,
-   "d": 0.064,
+   "p": 103.906,
+   "c": 0.04,
+   "d": 0.046,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5206,
-   "c": 0.12,
-   "d": 0.059,
+   "p": 50.563,
+   "c": 0.2,
+   "d": 0.101,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 62149,
-   "c": -0.79,
+   "p": 61985,
+   "c": -1.11,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1760.42,
-   "c": -0.49,
+   "p": 1753.82,
+   "c": -1.18,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.22,
-   "c": -0.13,
+   "p": 72.75,
+   "c": -0.75,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.963567,
-   "c": 0.15,
+   "p": 0.962974,
+   "c": 0.22,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 581.76,
-   "c": 0.3,
+   "p": 577.07,
+   "c": -0.61,
    "k": "usd"
   }
  ],
@@ -584,24 +584,31 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asian Stocks Fall, Anthropic Slips in After-Hours: Markets Wrap",
-    "tt": "Asya'da Hisse Senedi Kayıpları Artacak, Nasdaq Vadeli İşlemleri Düşüş: Piyasalarda Gelişmeler",
-    "s": "Asian stocks sold off as pessimism over the artificial-intelligence trade hammered technology shares, with global equities set for their longest losing streak in three years. Anthropic PBC fell in after-hours trading after jumping on its market debut.",
-    "ss": "Anthropic PBC'nin piyasaya sağlam çıkışının yapay zeka ticaretine ilişkin karamsarlığı tersine çevirmede ve teknoloji hisselerinde daha geniş bir gerilemeyi önlemede başarısız olması nedeniyle Asya'da küresel hisse senedi satışlarının derinleşmesi bekleniyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795125820000,
+    "t": "Australian Pension Funds Confront Their Latest Rival: AI Agents",
+    "tt": "Avustralya Emeklilik Fonları Son Rakipleriyle Karşı Karşıya: Yapay Zeka Ajanları",
+    "s": "Top Australian pension funds are grappling with the potential proliferation of autonomous AI agents, a new source of competition in the lucrative retirement market which senior executives say is creating significant challenges.",
+    "ss": "Avustralya'nın önde gelen emeklilik fonları, üst düzey yöneticilerin önemli zorluklar yarattığını söylediği kazançlı emeklilik piyasasında yeni bir rekabet kaynağı olan otonom yapay zeka acentelerinin potansiyel çoğalmasıyla boğuşuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/australian-pension-funds-confront-their-latest-rival-ai-agents",
+    "ts": 1795137556000,
     "tags": []
    },
    {
-    "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
-    "tt": null,
-    "s": "Gold fell and was heading for the biggest weekly decline since March, as a hawkish Federal Reserve signaled more interest-rate cuts and a selloff in AI stocks pushed investors to sell the metal to cover losses.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
-    "ts": 1795132563000,
-    "tags": [
-     "Altın ▼"
-    ]
+    "t": "Trilateral Talks Yield Few Concrete Results",
+    "tt": "Üçlü Görüşmelerden Çok Az Somut Sonuç Getirildi",
+    "s": "Power dynamics were on full display as the leaders of the US, China, and Russia met on the sidelines of the APEC summit in Shenzhen. Presidents Donald Trump, Xi Jinping and Vladimir Putin pledged to boost global fuel supplies and held discussions spanning issues from Ukraine to denuclearization. (So",
+    "ss": "ABD, Çin ve Rusya liderlerinin Shenzhen'deki APEC zirvesinin oturum aralarında buluşmasıyla güç dinamikleri tüm çıplaklığıyla ortaya çıktı. Başkanlar Donald Trump, Xi Jinping ve Vladimir Putin, küresel yakıt tedarikini artırma sözü verdiler ve Ukrayna'dan nükleer silahlardan arınmaya kadar uzanan konuları tartıştılar. (Bu yüzden",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/trilateral-talks-yield-few-concrete-results",
+    "ts": 1795137346000,
+    "tags": []
+   },
+   {
+    "t": "RBA Seeks to Manage Inflation, Jobs Tradeoffs, Board Member Says",
+    "tt": "Yönetim Kurulu Üyesi, RBA'nın Enflasyonu ve İstihdam Dengelerini Yönetmek İstediğini Söyledi",
+    "s": "Australia’s central bank is trying to manage the difficult tradeoffs in monetary policy of how much weight to put on inflation and how much on employment, as required under its mandate, said Renee Fry-McKibbin, a member of the Reserve Bank’s rate-setting board.",
+    "ss": "Avustralya Merkez Bankası'nın faiz belirleme kurulu üyesi Renee Fry-McKibbin, Avustralya merkez bankasının kendi yetki alanı gereği enflasyona ne kadar ağırlık ve istihdama ne kadar ağırlık verileceği konusunda para politikasındaki zorlu dengeleri yönetmeye çalıştığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/rba-seeks-to-manage-inflation-jobs-tradeoffs-board-member-says",
+    "ts": 1795137340000,
+    "tags": []
    },
    {
     "t": "Latest Oil Market News and Analysis for Nov. 20",
@@ -618,66 +625,69 @@
     ]
    },
    {
-    "t": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
-    "tt": null,
-    "s": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
-    "ts": 1795115651000,
+    "t": "China Sells $2 Billion Bonds at Same Yield as US Treasuries",
+    "tt": "Çin, ABD Hazine Tahvilleriyle Aynı Getiride 2 Milyar Dolarlık Tahvil Sattı",
+    "s": "China sold $2 billion of dollar-denominated sovereign bonds on Thursday priced at no premium to US Treasuries, as the offering drew strong demand.",
+    "ss": "Çin, Perşembe günü güçlü talep görmesi nedeniyle ABD Hazine tahvillerine primsiz fiyatla 2 milyar dolarlık dolar cinsinden devlet tahvili sattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+    "ts": 1795049870000,
     "tags": []
    },
    {
-    "t": "Anthropic IPO Raises Only $110 Million From Australian Investors",
-    "tt": null,
-    "s": "Australian investors were allocated less than 1% of total shares from Anthropic PBC’s record-breaking initial public offering.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
-    "ts": 1795131317000,
+    "t": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+    "tt": "Altın, Hawkish Fed ve AI Selloff'a Göre Mart'tan Bu Yana En Kötü Haftaya Girdi",
+    "s": "Gold fell and was heading for the biggest weekly decline since March, as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks pushed investors to sell the metal to cover losses.",
+    "ss": "Altın, şahin Fed'in daha fazla faiz artırımı sinyali vermesi ve AI hisselerindeki bozgun nedeniyle yatırımcıları kayıplarını karşılamak için metali satmaya itmesiyle Mart ayından bu yana en büyük haftalık düşüşünü gerçekleştirmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "ts": 1795132563000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Asian Stocks Fall, Anthropic Slips in After-Hours: Markets Wrap",
+    "tt": "Asya'da Hisse Senedi Kayıpları Artacak, Nasdaq Vadeli İşlemleri Düşüş: Piyasalarda Gelişmeler",
+    "s": "Asian stocks sold off as pessimism over the artificial-intelligence trade hammered technology shares, with global equities set for their longest losing streak in three years. Anthropic PBC fell in after-hours trading.",
+    "ss": "Anthropic PBC'nin piyasaya sağlam çıkışının yapay zeka ticaretine ilişkin karamsarlığı tersine çevirmede ve teknoloji hisselerinde daha geniş bir gerilemeyi önlemede başarısız olması nedeniyle Asya'da küresel hisse senedi satışlarının derinleşmesi bekleniyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795125820000,
     "tags": []
    },
    {
-    "t": "Anthropic Becomes World’s 7th Most Valuable Company After IPO",
-    "tt": null,
-    "s": "Anthropic PBC’s blockbuster IPO lifted the company into the ranks of the most valuable in the world, with shares closing 17% from the offer price to give it a $1.8 trillion fully diluted market value.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo",
-    "ts": 1795130180000,
+    "t": "Japan Tobacco Shares Fall After Russia-Related Charges",
+    "tt": "Japan Tobacco Hisseleri Rusya Bağlantılı Suçlamaların Ardından Düştü",
+    "s": "Japan Tobacco Inc. shares declined after the cigarette maker said it expects to swing to an operating loss and slashed its dividend forecast after losing control of its Russian business.",
+    "ss": "Japan Tobacco Inc. hisseleri, sigara üreticisinin Rusya'daki işletmesinin kontrolünü kaybetmesinin ardından faaliyet kaybına uğramayı beklediğini söylemesi ve temettü tahminini düşürmesinin ardından geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges",
+    "ts": 1795133410000,
     "tags": []
    },
    {
-    "t": "Nintendo Gains as ‘Roaring Kitty’ Posts Mario Character on X",
-    "tt": null,
-    "s": "Nintendo Co.’s American depositary receipts soared Thursday after an account associated with Keith Gill, the online persona known as “Roaring Kitty,” posted an image of the firm’s mascot on X.",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x",
-    "ts": 1795108550000,
-    "tags": []
+    "t": "Dollar Heads for Fourth Week of Gains Following Anthropic IPO",
+    "tt": "Dolar, Antropik Halka Arzın Ardından Dördüncü Hafta Kazançlarına Doğru Gidiyor",
+    "s": "The dollar is headed for a fourth straight weekly gain as demand tied to the Anthropic PBC IPO further lifts the currency that has been supported by expectations of further Federal Reserve interest-rate hikes and elevated US Treasury yields.",
+    "ss": "Dolar, Antropik PBC halka arzına bağlı talebin, Federal Rezerv'in daha fazla faiz artırımı ve ABD Hazine tahvil getirilerinin yükseleceği beklentileriyle desteklenen para birimini daha da güçlendirmesiyle art arda dördüncü haftalık kazancına doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo",
+    "ts": 1795134047000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    },
    {
-    "t": "Treasury Official Renews Warning on Wave of Tax-Saving Trades",
-    "tt": "Hazine Yetkilisi Vergi Tasarruflu Ticaret Dalgasına İlişkin Uyarıyı Yeniledi",
-    "s": "A senior US Treasury official reiterated concerns Thursday about Wall Street’s tax-efficient investing boom, saying firms should win clients on the merits of their investments, not on how far they’ll go to minimize a tax bill.",
-    "ss": "Üst düzey bir ABD Hazine yetkilisi Perşembe günü Wall Street'in vergi açısından verimli yatırım patlamasıyla ilgili endişelerini yineledi ve firmaların vergi faturasını en aza indirmek için ne kadar ileri gideceklerine göre değil, yatırımlarının değerine göre müşteri kazanması gerektiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades",
-    "ts": 1795127510000,
-    "tags": []
-   },
-   {
-    "t": "Shenkman, Blackstone, GDA Among Lenders to Take Over Vivid",
-    "tt": "Bilet Satıcısı Canlı Koltuklarını Devralan Kredi Verenler Arasında Blackstone",
-    "s": "A group of lenders including Blackstone Inc. and Shenkman Capital Management are set to take over Vivid Seats Inc. in a deal that would reduce the ticket reseller’s net debt by more than $200 million, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre, aralarında Blackstone Inc. ve Shenkman Capital Management'ın da bulunduğu bir grup kredi veren, bilet satıcısının net borcunu 200 milyon dolardan fazla azaltacak bir anlaşmayla Vivid Seats Inc.'i devralmaya hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats",
-    "ts": 1795123365000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic IPO is About Capital, Says Kathryn Thompson",
-    "tt": "Kathryn Thompson, Antropik Halka Arzın Sermayeyle İlgili Olduğunu Söyledi",
-    "s": "Anthropic’s long-awaited debut marks the first ever by a frontier AI lab, a cohort of firms building the most advanced models to tackle difficult problems and assist users in complex tasks. While enthusiasm over AI’s business potential have spurred massive investments in infrastructure such as chips",
-    "ss": "Anthropic'in uzun zamandır beklenen çıkışı, zorlu sorunların üstesinden gelmek ve kullanıcılara karmaşık görevlerde yardımcı olmak için en gelişmiş modelleri geliştiren bir grup firmadan oluşan öncü bir yapay zeka laboratuvarı tarafından şimdiye kadar yapılan ilki işaret ediyor. Yapay zekanın iş potansiyeline duyulan ilgi, çip gibi altyapılara büyük yatırımları teşvik etti",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-is-about-capital-says-kathryn-thompson-video",
-    "ts": 1795126671000,
+    "t": "India’s Stock Rally Faces Valuation Test as Bond Allure Grows",
+    "tt": "Bond Allure Büyürken Hindistan Hisse Senetleri Rallisi Değerleme Testiyle Karşı Karşıya",
+    "s": "India’s stock rebound is approaching a crucial valuation test as rising bond yields make sovereign debt an increasingly viable alternative to equities.",
+    "ss": "Hindistan'ın hisselerindeki toparlanma, artan tahvil getirilerinin devlet borcunu hisse senetlerine karşı giderek daha geçerli bir alternatif haline getirmesiyle kritik bir değerleme testine yaklaşıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/india-s-stock-rally-faces-valuation-test-as-bond-allure-grows",
+    "ts": 1795132800000,
     "tags": []
    }
   ],
@@ -787,10 +797,28 @@
   ],
   "MarketWatch": [
    {
+    "t": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+    "tt": "50'li yaşlarımızdayız ve piyasanın çökmesinden korkuyoruz. 1 milyon dolarlık emeklilik birikimimizin 400.000 dolarını yıllık gelire yatırmalı mıyız?",
+    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
+    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "ts": 1795138200000,
+    "tags": []
+   },
+   {
+    "t": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+    "tt": "Eşim ailesinin New York gezilerini finanse ediyor ve bu bizim birikimlerimizi tüketiyor. Ondan durmasını istemeli miyim?",
+    "s": "“Hotel rooms can cost as much as $400 per night.”",
+    "ss": "“Otel odalarının gecelik maliyeti 400 dolara kadar çıkabiliyor.”",
+    "u": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+    "ts": 1795137720000,
+    "tags": []
+   },
+   {
     "t": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-    "tt": null,
+    "tt": "Anthropic'in 'acı tatlı' halka arzından sonra bizi neler bekliyor?",
     "s": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
-    "ss": null,
+    "ss": "Perakende yatırımcılar ortaya çıktı ancak Anthropic şu ana kadar teknoloji sektörüne geniş bir destek sağlamada başarısız oldu.",
     "u": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
     "ts": 1795132560000,
     "tags": []
@@ -820,15 +848,6 @@
     "ss": "Yöneticiler genellikle güven sinyali vermek için hisse satın alırken CoreWeave kurucu ortağı Brian Venturo, yapay zekadaki tedirginliği yatıştırmak için tahvil piyasasına yöneliyor.",
     "u": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
     "ts": 1795128060000,
-    "tags": []
-   },
-   {
-    "t": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-    "tt": "50'li yaşlarımızdayız ve piyasanın çökmesinden korkuyoruz. 1 milyon dolarlık emeklilik birikimimizin 400.000 dolarını yıllık gelire yatırmalı mıyız?",
-    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
-    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "ts": 1795126500000,
     "tags": []
    },
    {
@@ -866,41 +885,59 @@
     "u": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
     "ts": 1795123620000,
     "tags": []
-   },
-   {
-    "t": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-    "tt": "UnitedHealth'in hisseleri, hükümetin Medicare Advantage dolandırıcılığına karşı baskı sinyali vermesinin ardından düştü",
-    "s": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
-    "ss": "UnitedHealth Group'un hisseleri, hükümetin Medicare Advantage dolandırıcılığını ortadan kaldırma sözü verdiği ve milletvekillerinin Herkes için Medicare çağrılarını yenilediği zorlu bir haftanın ortasında Perşembe günü yeniden düştü.",
-    "u": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-    "ts": 1795123320000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
    {
+    "t": "In Unprecedented Surprise Caracas Visit, Hegseth Unveils Venezuela Military Deal",
+    "tt": "Hegseth, Benzeri Görülmemiş Sürpriz Karakas Ziyaretinde Venezuela Askeri Anlaşmasını Açıkladı",
+    "s": "In Unprecedented Surprise Caracas Visit, Hegseth Unveils Venezuela Military Deal Authored by Dave DeCamp via AntiWar.com US Secretary of War Pete Hegseth made a surprise visit to Venezuela on Wednesday , less than one year after the US attacked the country to abduct President Nicolas Maduro and take",
+    "ss": "Hegseth, Benzeri Görülmemiş Sürpriz Karakas Ziyaretinde, AntiWar.com aracılığıyla Dave DeCamp tarafından yazılan Venezuela Askeri Anlaşmasını Açıkladı ABD Savaş Bakanı Pete Hegseth, ABD'nin Başkan Nicolas Maduro'yu kaçırıp onu ele geçirmek için ülkeye saldırmasının üzerinden bir yıldan az bir süre sonra, Çarşamba günü Venezuela'ya sürpriz bir ziyarette bulundu.",
+    "u": "https://www.zerohedge.com/markets/unprecedented-surprise-caracas-visit-hegseth-unveils-venezuela-military-deal",
+    "ts": 1795138800000,
+    "tags": []
+   },
+   {
+    "t": "Palmer Luckey Says Everyone Has The Jensen Huang Saga Backwards",
+    "tt": "Palmer Luckey Herkesin Jensen Huang Destanını Tersine Çevirdiğini Söyledi",
+    "s": "Palmer Luckey Says Everyone Has The Jensen Huang Saga Backwards Anduril founder Palmer Luckey says the crowd cheering Jensen Huang's ouster from Nvidia as a blow to China has it exactly backwards: Beijing never wanted Nvidia's chips in Chinese hands, and it is glad to see Huang gone. \"China wants Je",
+    "ss": "Palmer Luckey Herkesin Jensen Huang Destanı Geriye Döndüğünü Söyledi Anduril'in kurucusu Palmer Luckey, Jensen Huang'ın Çin'e bir darbe olarak Nvidia'dan atılmasını alkışlayan kalabalığın tam tersi olduğunu söylüyor: Pekin, Nvidia'nın çiplerinin Çinlilerin eline geçmesini hiçbir zaman istemedi ve Huang'ın gittiğini görmekten memnun. \"Çin Je'yi istiyor",
+    "u": "https://www.zerohedge.com/ai/palmer-luckey-says-everyone-has-jensen-huang-saga-backwards",
+    "ts": 1795137600000,
+    "tags": []
+   },
+   {
+    "t": "PG&E Gave $1 Million To Newsom's Orbit, Then Got Its Bailout",
+    "tt": "PG&E, Newsom'un Orbit'ine 1 Milyon Dolar Verdi, Ardından Kurtarma Paketini Aldı",
+    "s": "PG&amp;E Gave $1 Million To Newsom's Orbit, Then Got Its Bailout Authored by Christopher F. Rufo, Susan Crabtree, and Kenneth Schrupp via City Journal , Paradise, California was a quiet town in the Sierra Nevada foothills. Seniors flocked there seeking affordable homes. Others came for abundant land",
+    "ss": "PG&E, Newsom'un Yörüngesine 1 Milyon Dolar Verdi, Sonra Kurtarma Paketini Aldı City Journal aracılığıyla Christopher F. Rufo, Susan Crabtree ve Kenneth Schrupp tarafından yazılmıştır. Paradise, Kaliforniya, Sierra Nevada eteklerinde sakin bir kasabaydı. Yaşlılar uygun fiyatlı ev bulmak için oraya akın etti. Diğerleri bol arazi için geldi",
+    "u": "https://www.zerohedge.com/markets/pge-gave-1-million-newsoms-orbit-then-got-its-bailout",
+    "ts": 1795135200000,
+    "tags": []
+   },
+   {
     "t": "Revealed: Trump Admin Cleared 879,868 Nvidia, AMD AI Chips For China, A Third For Pentagon-Listed Military Companies",
-    "tt": null,
-    "s": "Revealed: Trump Admin Cleared 879,868 Nvidia, AMD AI Chips For China, A Third For Pentagon-Listed Military Companies Export license records released Thursday by the House Foreign Affairs Committee show that the Trump administration approved more than 879,000 of Nvidia's H200 and AMD's MI325X AI chip",
-    "ss": null,
+    "tt": "Ortaya Çıktı: Trump Admin Çin İçin 879.868 Nvidia ve AMD Yapay Zeka Çipini Temizledi, Pentagon'da Listelenen Askeri Şirketler İçin Üçüncüsü",
+    "s": "Revealed: Trump Admin Cleared 879,868 Nvidia, AMD AI Chips For China, A Third For Pentagon-Listed Military Companies Update (2047ET): AMD in a statement told ZeroHedge:&nbsp; AMD complies with applicable U.S. export control laws and regulations and maintains rigorous processes to ensure compliance a",
+    "ss": "Ortaya Çıktı: Trump Yöneticisi, Çin İçin 879.868 Nvidia ve AMD Yapay Zeka Çipini Temizledi, Pentagon'da Listelenen Askeri Şirketler İçin Üçüncü Güncelleme (2047ET): AMD, ZeroHedge'e yaptığı açıklamada: AMD, geçerli ABD ihracat kontrol yasalarına ve düzenlemelerine uyuyor ve uyumluluğu sağlamak için sıkı süreçler sürdürüyor.",
     "u": "https://www.zerohedge.com/geopolitical/revealed-trump-admin-cleared-879868-nvidia-amd-ai-chips-china-third-pentagon-listed",
     "ts": 1795134000000,
     "tags": []
    },
    {
     "t": "Russia To Let Retail Investors Trade Bitcoin On Margin",
-    "tt": null,
+    "tt": "Rusya Perakende Yatırımcıların Marjla Bitcoin Ticaretine İzin Verecek",
     "s": "Russia To Let Retail Investors Trade Bitcoin On Margin Authored by Micah Zimmerman via Bitcoin Magazine , Russia's central bank plans to let ordinary investors trade bitcoin and other crypto on margin, capped at 300,000 rubles with a broker , a senior Bank of Russia official said this week, days aft",
-    "ss": null,
+    "ss": "Rusya Perakende Yatırımcıların Marjin Üzerinde Bitcoin Ticaretine İzin Verecek Bitcoin Magazine aracılığıyla Micah Zimmerman tarafından yazılan Rusya Merkez Bankası'nın üst düzey bir Rusya Merkez Bankası yetkilisi, bu hafta yaptığı açıklamada, Rusya merkez bankasının sıradan yatırımcılara bir broker ile 300.000 ruble sınırında marjda bitcoin ve diğer kripto para ticareti yapmasına izin vermeyi planladığını söyledi.",
     "u": "https://www.zerohedge.com/crypto/russia-let-retail-investors-trade-bitcoin-margin",
     "ts": 1795132800000,
     "tags": []
    },
    {
     "t": "Trump's Cyber Chief Quits Days After DNI Swore \"This Is Not A Cyberattack\"",
-    "tt": null,
+    "tt": "Trump'ın Siber Şefi, DNI'nin \"Bu bir Siber Saldırı Değildir\" Yemininden Birkaç Gün Sonra İstifa Etti",
     "s": "Trump's Cyber Chief Quits Days After DNI Swore \"This Is Not A Cyberattack\" White House National Cyber Director Sean Cairncross is leaving his post , Axios reported Thursday, capping a week of outages that grounded every flight in the country, knocked Microsoft's Outlook offline for most of a day and",
-    "ss": null,
+    "ss": "Trump'ın Siber Şefi, DNI'nin \"Bu Bir Siber Saldırı Değil\" Yemin Etmesinden Günler Sonra İstifa Etti Axios'un Perşembe günü bildirdiğine göre, Beyaz Saray Ulusal Siber Direktörü Sean Cairncross görevinden ayrılıyor, ülkedeki her uçuşun durmasına neden olan bir haftalık kesinti, Microsoft'un Outlook'unun günün büyük bölümünde çevrimdışı olmasına ve",
     "u": "https://www.zerohedge.com/political/trumps-cyber-chief-quits-days-after-dni-swore-not-cyberattack",
     "ts": 1795131600000,
     "tags": []
@@ -939,33 +976,6 @@
     "ss": "On Yıl İçinde Müslümanların Sayısı Dünya Çapındaki Hıristiyanları Geçecek: Savannah Hulsey Pointer tarafından The Epoch Times aracılığıyla yazılan çalışma, Pew Araştırma Merkezi'ne göre İslam'ın 2035 yılına kadar dünyanın en büyük dini olması bekleniyor. 18 Kasım'da yayınlanan bir Pew araştırması, iki büyük şirketin büyümesini tahmin etti",
     "u": "https://www.zerohedge.com/geopolitical/muslims-set-outnumber-christians-worldwide-within-decade-study",
     "ts": 1795126800000,
-    "tags": []
-   },
-   {
-    "t": "Mercenaries, COVID Cash, & A Florida Pastor: Behind The Killing Of Haiti's President",
-    "tt": "Paralı Askerler, COVID Parası ve Floridalı Bir Papaz: Haiti Başkanının Öldürülmesinin Arkasında",
-    "s": "Mercenaries, COVID Cash, &amp; A Florida Pastor: Behind The Killing Of Haiti's President A federal jury in Miami on Wednesday convicted Christian Emmanuel Sanon, the South Florida pastor whom the plotters first lined up to take Haitian President Jovenel Moïse's job, on all eight charges in the consp",
-    "ss": "Paralı Askerler, COVID Parası ve Floridalı Bir Papaz: Haiti Başkanının Öldürülmesinin Arkasında Miami'deki bir federal jüri Çarşamba günü, komplocuların Haiti Devlet Başkanı Jovenel Moïse'in işini almak için sıraya girdiği Güney Florida papazı Christian Emmanuel Sanon'u komplodaki sekiz suçlamanın tamamından suçlu buldu.",
-    "u": "https://www.zerohedge.com/geopolitical/mercenaries-who-killed-haitis-president-were-funded-covid-relief-cash-and-florida",
-    "ts": 1795125600000,
-    "tags": []
-   },
-   {
-    "t": "Reparations For Everyone!",
-    "tt": "Herkese Tazminat!",
-    "s": "Reparations For Everyone! Authored by Jeff Davidson via American Thinker , Presidential wannabe Gavin Newsom champions reparation movements in California. You know, the state requiring people today, who've never owned slaves, to pay people who never were slaves. This comes 163 years after slavery wa",
-    "ss": "Herkese Tazminat! Jeff Davidson tarafından American Thinker aracılığıyla yazılan Başkanlık özentisi Gavin Newsom, Kaliforniya'daki tazminat hareketlerini savunuyor. Biliyorsunuz, bugün devlet, hiç köle sahibi olmamış insanlardan, hiç köle olmamış insanlara ödeme yapmalarını talep ediyor. Bu, köleliğin 163 yıl sonrasına denk geliyor",
-    "u": "https://www.zerohedge.com/political/reparations-everyone",
-    "ts": 1795124400000,
-    "tags": []
-   },
-   {
-    "t": "\"Cuck Simulator\": Critics Give GTA VI A 99 Score. Actual Gamers Want Their Hookers Back",
-    "tt": "\"Cuck Simulator\": Eleştirmenler GTA VI'ya 99 Puanı Verdi. Gerçek Oyuncular Fahişelerini Geri İstiyor",
-    "s": "\"Cuck Simulator\": Critics Give GTA VI A 99 Score. Actual Gamers Want Their Hookers Back Grand Theft Auto VI went on sale Thursday on PlayStation 5 and Xbox Series X|S after a 13-year wait, carrying a 99 on Metacritic that ties the highest score the site has ever given a game. About 150 critics weigh",
-    "ss": "\"Cuck Simulator\": Eleştirmenler GTA VI'ya 99 Puanı Verdi. Gerçek Oyuncular Fahişelerini Geri İstiyor Grand Theft Auto VI, 13 yıllık bir bekleyişin ardından Perşembe günü PlayStation 5 ve Xbox Series X|S'de satışa çıktı ve Metacritic'te sitenin bugüne kadar bir oyuna verdiği en yüksek puanı alan 99 puan aldı. Yaklaşık 150 eleştirmen ağırlanıyor",
-    "u": "https://www.zerohedge.com/political/gta-6-scores-99-critics-actual-gamers-are-calling-it-cuck-simulator",
-    "ts": 1795123200000,
     "tags": []
    }
   ],
@@ -1074,7 +1084,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
