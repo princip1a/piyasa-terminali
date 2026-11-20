@@ -1,120 +1,120 @@
 {
- "generated": "2026-11-20T14:45:03.108723+00:00",
+ "generated": "2026-11-20T15:45:24.064657+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7142.03,
-   "c": -0.47,
-   "d": -33.8,
+   "p": 7088.28,
+   "c": -1.22,
+   "d": -87.55,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 23566.178,
-   "c": -1.31,
-   "d": -313.021,
+   "p": 23298.787,
+   "c": -2.43,
+   "d": -580.412,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 49312.24,
-   "c": 0.44,
-   "d": 215.181,
+   "p": 49147.03,
+   "c": 0.1,
+   "d": 49.971,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 29.46,
-   "c": 3.59,
-   "d": 1.02,
+   "p": 29.76,
+   "c": 4.64,
+   "d": 1.32,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3572.2,
-   "c": -3.07,
-   "d": -113.3,
+   "p": 3550.2,
+   "c": -3.67,
+   "d": -135.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.97,
-   "c": -5.3,
-   "d": -2.348,
+   "p": 41.73,
+   "c": -5.84,
+   "d": -2.588,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.79,
-   "c": -1.71,
-   "d": -1.42,
+   "p": 81.55,
+   "c": -1.99,
+   "d": -1.66,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.63,
-   "c": -3.64,
-   "d": -3.35,
+   "p": 88.21,
+   "c": -4.1,
+   "d": -3.77,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.701,
-   "c": -0.19,
-   "d": -0.199,
+   "p": 103.71,
+   "c": -0.18,
+   "d": -0.19,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.992,
-   "c": -1.19,
-   "d": -0.06,
+   "p": 4.956,
+   "c": -1.9,
+   "d": -0.096,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.5727,
+   "p": 50.5728,
    "c": 0.22,
    "d": 0.111,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11129.29,
-   "c": -2.38,
-   "d": -270.81,
+   "p": 11131.32,
+   "c": -2.36,
+   "d": -268.78,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 61463,
-   "c": -3.79,
+   "p": 59919,
+   "c": -4.7,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1736.25,
-   "c": -3.83,
+   "p": 1661.52,
+   "c": -6.43,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.77,
-   "c": -5.96,
+   "p": 68.34,
+   "c": -7.23,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.939371,
-   "c": -5.26,
+   "p": 0.910061,
+   "c": -6.08,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 567.1,
-   "c": -4.23,
+   "p": 550.27,
+   "c": -5.96,
    "k": "usd"
   }
  ],
@@ -594,30 +594,66 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Nvidia Turmoil Leaves Few Stock Market Winners in Sea of Losers",
-    "tt": "Nvidia Kargaşası, Çok Az sayıda Borsa Kazananını Kaybedenler Denizinde Bıraktı",
-    "s": "After the chaos of the past week, the winners and losers from Jensen Huang’s stunning ouster from Nvidia Corp. are coming into focus.",
-    "ss": "Geçtiğimiz hafta yaşanan kaosun ardından, Jensen Huang'ın Nvidia Corp.'tan şaşırtıcı bir şekilde devrilmesinin kazananları ve kaybedenleri mercek altına alınıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers",
-    "ts": 1795177260000,
-    "tags": []
-   },
-   {
-    "t": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap",
-    "tt": "Küresel Hisse Senetleri 2023'ten Bu Yana En Uzun Kayıp Serisini Yaşadı: Piyasalar Özetlendi",
-    "s": "A bruising tech rout roiled markets, driving global stocks toward their longest losing streak in three years as investors piled into bonds.",
-    "ss": "Yapay zeka ticaretinin keskin bir çözülmeye maruz kalması ve 2026'nın daha geniş hisse senedi kazanımlarını riske atması nedeniyle, küresel hisse senetleri endeksi üç yılı aşkın süredir en uzun kayıp serisine doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795125820000,
-    "tags": []
-   },
-   {
     "t": "Anthropic Share Slump Nearly Erases IPO Pop as AI Trade Unravels",
     "tt": "Antropik Hisse Çöküşü Yapay Zeka Ticareti Çözülürken Halka Arz Populasyonunu Neredeyse Siliyor",
     "s": "Anthropic PBC shares erased much of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
     "ss": "Antropik PBC hisseleri, yapay zeka laboratuvarının tarihin en büyük halka arzını gerçekleştirmesinin ardından yatırımcıların inancını test ederek Cuma günü ilk günkü sıçramalarının çoğunu sildi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
     "ts": 1795185409000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Build on Big Weekly Gain as Investors Flee Stocks",
+    "tt": "Yatırımcılar Hisse Senetlerinden Kaçarken Hazine Tahvilleri Büyük Haftalık Kazanç Elde Ediyor",
+    "s": "Treasuries added to a steep weekly advance as stocks slumped globally on mounting doubts over the artificial intelligence trade.",
+    "ss": "Hisse senetlerinin yapay zeka ticaretine ilişkin artan şüpheler üzerine küresel olarak düşmesiyle Hazine tahvilleri haftalık yükselişini sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
+    "ts": 1795149203000,
+    "tags": []
+   },
+   {
+    "t": "Tata Sons Board Meet Next Week to Revisit Listing Issue Amid Row",
+    "tt": "Tata Sons Yönetim Kurulu Sıranın Ortasındaki Listeleme Sorununu Yeniden Değerlendirmek İçin Gelecek Hafta Toplanıyor",
+    "s": "India’s Tata Group is entering a critical fortnight as the conglomerate’s controlling shareholders and holding company has back-to-back meetings amid a governance dispute that has spilled beyond the boardroom.",
+    "ss": "Hindistan'ın Tata Grubu, holdingin hakim hissedarları ve holding şirketinin, yönetim kurulu odasının ötesine taşan bir yönetim anlaşmazlığının ortasında arka arkaya toplantılar yapması nedeniyle kritik bir iki haftaya giriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/tata-sons-largest-shareholder-meets-to-discuss-listing-amid-rift",
+    "ts": 1795122000000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq 100 Falls 2% as Anthropic Plunge Deepens: Markets Wrap",
+    "tt": "Küresel Hisse Senetleri 2023'ten Bu Yana En Uzun Kayıp Serisini Yaşadı: Piyasalar Özetlendi",
+    "s": "A bruising tech rout roiled global markets, driving US stocks toward their longest slide since 2020 as investors piled into bonds.",
+    "ss": "Yapay zeka ticaretinin keskin bir çözülmeye maruz kalması ve 2026'nın daha geniş hisse senedi kazanımlarını riske atması nedeniyle, küresel hisse senetleri endeksi üç yılı aşkın süredir en uzun kayıp serisine doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795125820000,
+    "tags": []
+   },
+   {
+    "t": "Turkey Asks Hundreds to Return Gains From Fund Crisis",
+    "tt": "Türkiye Yüzlerce Kişiden Fon Krizinden Kazanılanların İadesini İstedi",
+    "s": "A Turkish state body demanded voluntary repayments from the hundreds of individuals and corporations that made the largest profits from a fund scandal that’s roiled markets, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre, bir Türk devlet kurumu, piyasaları karıştıran fon skandalından en büyük karı elde eden yüzlerce kişi ve şirketten gönüllü geri ödeme talep etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/turkey-asks-hundreds-to-return-gains-from-fund-crisis",
+    "ts": 1795187095000,
+    "tags": []
+   },
+   {
+    "t": "Sanofi Lines Up Takeover Target to Fix Pharma’s Lowest Valuation",
+    "tt": "Sanofi, Pharma'nın En Düşük Değerlemesini Sabitlemek İçin Devralma Hedefini Belirledi",
+    "s": "To understand why Sanofi is pursuing what would be the biggest takeover in the pharmaceutical industry in years, look no further than one number.",
+    "ss": "Sanofi'nin neden ilaç sektöründe son yıllardaki en büyük satın alma girişimini gerçekleştirdiğini anlamak için tek bir rakama bakmanız yeterli.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/sanofi-lines-up-takeover-target-to-fix-pharma-s-lowest-valuation",
+    "ts": 1795186088000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia Turmoil Leaves Few Stock Market Winners in Sea of Losers",
+    "tt": "Nvidia Kargaşası, Çok Az sayıda Borsa Kazananını Kaybedenler Denizinde Bıraktı",
+    "s": "After the chaos of the past week, the winners and losers from Jensen Huang’s stunning ouster from Nvidia Corp. are coming into focus.",
+    "ss": "Geçtiğimiz hafta yaşanan kaosun ardından, Jensen Huang'ın Nvidia Corp.'tan şaşırtıcı bir şekilde devrilmesinin kazananları ve kaybedenleri mercek altına alınıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers",
+    "ts": 1795177260000,
     "tags": []
    },
    {
@@ -646,45 +682,18 @@
     "u": "https://www.bloomberg.com/news/videos/2026-11-20/bloomberg-news-quiz-pointed-live-from-etfs-in-depth-video",
     "ts": 1795185123000,
     "tags": []
-   },
-   {
-    "t": "Turkey’s First Jet-Powered War Drone Expands Combat Capability",
-    "tt": "Türkiye’nin İlk Jet Motorlu Savaş Drone’u Savaş Kabiliyetini Artırıyor",
-    "s": "Baykar Technologies began deliveries of its jet-powered Kizilelma drones to the Turkish military, enabling the North Atlantic Treaty Organization member to begin utilizing unmanned aerial vehicles in air-to-air combat.",
-    "ss": "Baykar Teknolojileri, jet motorlu Kızılelma insansız hava araçlarını Türk ordusuna teslim etmeye başlayarak, Kuzey Atlantik Paktı Teşkilatı üyesi ülkenin havadan havaya muharebede insansız hava araçlarını kullanmaya başlamasını sağladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/turkey-s-first-jet-powered-war-drone-expands-combat-capability",
-    "ts": 1795184869000,
-    "tags": []
-   },
-   {
-    "t": "Life Insurers Are Lagging in Private Markets Risk Assessments, ex-Athora CRO Says",
-    "tt": "Eski Athora CRO, Hayat Sigortacılarının Özel Piyasa Risk Değerlendirmelerinde Geride Kaldığını Söyledi",
-    "s": "Life insurers haven't built up the same kind of skills to analyze private market investments in the same way as banks have and the lag compared with deployment is \"fairly significant\" in areas like credit risk assessment, valuation and capital allocation, according to Lukas Ziewer, a researcher and ",
-    "ss": "Araştırmacı ve araştırma görevlisi Lukas Ziewer'e göre hayat sigortacıları, özel piyasa yatırımlarını bankalarla aynı şekilde analiz etme konusunda aynı tür becerilere sahip değil ve kredi riski değerlendirmesi, değerleme ve sermaye tahsisi gibi alanlarda dağıtımla karşılaştırıldığında gecikme \"oldukça önemli\".",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-19/life-insurers-lagging-in-private-market-risk-assessments-video",
-    "ts": 1795107820000,
-    "tags": []
-   },
-   {
-    "t": "ARK Invest's Cathie Wood on Anthropic, Nvidia",
-    "tt": "ARK Invest'ten Cathie Wood Anthropic, Nvidia hakkında",
-    "s": "Cathie Wood, Founder, CEO & CIO at ARK Invest, discusses her exposure to Anthropic following the AI lab's historic IPO and her views on investing in innovation. She speaks on \"ETF IQ Asia.\" (Source: Bloomberg)",
-    "ss": "ARK Invest'in Kurucusu, CEO'su ve CIO'su Cathie Wood, yapay zeka laboratuvarının tarihi halka arzının ardından Anthropic ile tanışmasını ve inovasyona yatırım yapma konusundaki görüşlerini anlatıyor. \"ETF IQ Asia\" hakkında konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/ark-invest-s-cathie-wood-on-anthropic-nvidia-video",
-    "ts": 1795148527000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 20",
-    "tt": "20 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil headed for a third weekly decline as traders weighed the risk of renewed US strikes on Iran against ample supply.",
-    "ss": "Petrol fiyatları, tüccarların bol arz karşısında ABD'nin İran'a yeniden saldırı düzenlemesi riskini tartmasıyla üçüncü haftalık düşüşe yöneldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
-    "ts": 1795129551000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+    "tt": "Warsh, Fed yetkililerinin daha az konuşmasını istiyor. Bunun yerine daha çok konuşuyorlar",
+    "s": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+    "ss": "Fed yetkilileri son zamanlarda mikrofonlara koşarken, Fed başkanı kenarda duruyor.",
+    "u": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+    "ts": 1795188054000,
+    "tags": []
+   },
    {
     "t": "The bull market has a new problem. The 'smart money' is selling",
     "tt": "Boğa piyasasının yeni bir sorunu var. 'Akıllı para' satılıyor",
@@ -777,34 +786,52 @@
     "u": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
     "ts": 1794981879000,
     "tags": []
-   },
-   {
-    "t": "JPMorgan is working on AI agent transactions that don’t involve humans",
-    "tt": "JPMorgan, insanları içermeyen yapay zeka aracı işlemleri üzerinde çalışıyor",
-    "s": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-    "ss": "JPMorgan ve Hyundai Card, finansal işlemlerde yapay zeka aracılarının kullanımını genişletmeyi planlıyor.",
-    "u": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-    "ts": 1794982691000,
-    "tags": []
    }
   ],
   "MarketWatch": [
-   {
-    "t": "Here’s what’s been proven to help GLP-1 users who have lost muscle from the drug",
-    "tt": "İşte ilaç nedeniyle kas kaybı yaşayan GLP-1 kullanıcılarına yardımcı olduğu kanıtlanmış olan şey:",
-    "s": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle.",
-    "ss": "Tutarlı direnç antrenmanı yapan ve Zepbound alan kişiler, kaslarının bir kısmını kaybetseler bile yine de güçlenebilirler.",
-    "u": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-    "ts": 1795185840000,
-    "tags": []
-   },
    {
     "t": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
     "tt": "Anthropic'in hisseleri halka arz fiyatına yaklaşıyor ve AI ticaretini aşağı çekiyor",
     "s": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
     "ss": "Anthropic'in açılış hisse senedi fiyatını tutamaması \"teknolojinin geri kalanı için kötü\" olarak görülüyor.",
     "u": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-    "ts": 1795185240000,
+    "ts": 1795189080000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
+    "tt": "Nvidia'nın hisseleri 2008'den beri görülmeyen haftalık kayıplara doğru gidiyor",
+    "s": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
+    "ss": "Bir fon yöneticisi, şirketin son yedi gün içinde piyasa değerini 811 milyar dolar kaybetmesine rağmen devam eden belirsizliğin Nvidia'yı daha fazla satışa karşı \"savunmasız\" hale getirdiğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "ts": 1795189080000,
+    "tags": []
+   },
+   {
+    "t": "This proposed Social Security fix could add trillions to the national debt",
+    "tt": "Önerilen bu Sosyal Güvenlik düzeltmesi ulusal borca ​​trilyonlar ekleyebilir",
+    "s": "A Republican senator has a new proposal called the “Stop Scaring Seniors Act.”",
+    "ss": "Cumhuriyetçi bir senatörün \"Yaşlıları Korkutmayı Durdurma Yasası\" adında yeni bir teklifi var.",
+    "u": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
+    "ts": 1795188480000,
+    "tags": []
+   },
+   {
+    "t": "This closely watched investing guru just sold all of his stocks",
+    "tt": "Yakından izlenen bu yatırım gurusu az önce tüm hisse senetlerini sattı",
+    "s": "Panmure Liberum strategist and widely-followed stock-market commentator Joachim Klement has effectively had his personal retirement portfolio 100% invested in stocks for many years.",
+    "ss": "Panmure Liberum stratejisti ve geniş çapta takip edilen borsa yorumcusu Joachim Klement, uzun yıllardır kişisel emeklilik portföyünün %100'ünü hisse senetlerine yatırmış durumda.",
+    "u": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
+    "ts": 1795188180000,
+    "tags": []
+   },
+   {
+    "t": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+    "tt": "İşte ilaç nedeniyle kas kaybı yaşayan GLP-1 kullanıcılarına yardımcı olduğu kanıtlanmış olan şey:",
+    "s": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
+    "ss": "Tutarlı direnç antrenmanı yapan ve Zepbound alan kişiler, kaslarının bir kısmını kaybetseler bile yine de güçlenebilirler.",
+    "u": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+    "ts": 1795187040000,
     "tags": []
    },
    {
@@ -851,36 +878,45 @@
     "u": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
     "ts": 1795179540000,
     "tags": []
-   },
-   {
-    "t": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
-    "tt": "Bu 5 savunma hissesi, 2027'deki askeri harcama patlaması öncesinde içeriden öğrenilen bahislerle milyonlar çekiyor",
-    "s": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
-    "ss": "ABD'nin savunma harcamalarının gelecek yıl yaklaşık 1,15 trilyon dolar olacağı öngörülüyor; bu da füze, insansız hava aracı, uçak ve daha fazlasını üreten şirketlerin işlerini artıracak",
-    "u": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
-    "ts": 1795178700000,
-    "tags": []
-   },
-   {
-    "t": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
-    "tt": "Bank of America stratejisti, Wall Street'in sert iniş risklerini düşük fiyatlaması nedeniyle felaket döngüsünün hisse senetlerini vurabileceği konusunda uyardı",
-    "s": "The S&amp;P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
-    "ss": "ABD'nin resesyondan kaçınması durumunda S&P 500 satın almaya değer bir seviyeye yaklaşıyor ancak bir stratejist, yatırımcıların riskli varlıkları satın almadan önce beklemesi gerektiğini söyleyerek Wall Street'in sert iniş riskini düşük fiyatladığı konusunda uyarıyor.",
-    "u": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-    "ts": 1795178580000,
-    "tags": []
-   },
-   {
-    "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-    "tt": "Kocam bir tekneye 80.000 dolar harcadı ama 100.000 dolarlık bir çömlek atölyesi kurma planlarımın sorumsuz olduğunu söylüyor. Kim haklı?",
-    "s": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-    "ss": "\"2,9 milyon dolarlık emeklilik hesabımız ve 900.000 dolar değerinde ödenmiş bir evimiz var.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-    "ts": 1795177800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Yalta 2.0: \"I Wanna Be In The Room Where It Happens\"",
+    "tt": "Yalta 2.0: \"Olayın Olduğu Odada Olmak İstiyorum\"",
+    "s": "Yalta 2.0: \"I Wanna Be In The Room Where It Happens\" By Molly Schwartz, cross-asset strategist at Rabobank Yesterday’s report asked whether the APEC talks would clarify the global pecking order through a three-way agreement—or leave geopolitical tensions unresolved. The unprecedented trilateral talk",
+    "ss": "Yalta 2.0: \"Olduğu Odada Olmak İstiyorum\" Yazan: Molly Schwartz, Rabobank'ın çapraz varlık stratejisti Dünkü raporda, APEC görüşmelerinin küresel hiyerarşi düzenini üç yönlü bir anlaşma yoluyla açıklığa kavuşturup açıklığa kavuşturmayacağını veya jeopolitik gerilimleri çözümsüz bırakıp bırakmayacağını sordu. Eşi benzeri görülmemiş üçlü görüşme",
+    "u": "https://www.zerohedge.com/markets/yalta-20-i-wanna-be-room-where-it-happens",
+    "ts": 1795188600000,
+    "tags": []
+   },
+   {
+    "t": "Watch: New Pentagon UFO Files Drop Warship Video And Skinwalker Ranch Secrets",
+    "tt": "İzle: Yeni Pentagon UFO Dosyaları Savaş Gemisi Videosunu ve Skinwalker Çiftliği Sırlarını Ortaya Çıkarıyor",
+    "s": "Watch: New Pentagon UFO Files Drop Warship Video And Skinwalker Ranch Secrets The Department of War's eighth batch of UFO files, out Friday, carries a 2020 infrared clip from the Middle East in which a tiny object glowing white hot appears to fly across the bow of a warship , according to files and ",
+    "ss": "İzle: Yeni Pentagon UFO Dosyaları, Savaş Gemisi Videosunu ve Skinwalker Çiftliği Sırlarını Ortaya Çıkarıyor Savaş Bakanlığı'nın Cuma günü yayınlanan sekizinci UFO dosyası grubu, Orta Doğu'dan, beyaz sıcak parlayan küçük bir nesnenin bir savaş gemisinin pruvasında uçuyor gibi göründüğü 2020 kızılötesi klibi taşıyor.",
+    "u": "https://www.zerohedge.com/technology/watch-new-pentagon-ufo-files-drop-warship-video-and-skinwalker-ranch-secrets",
+    "ts": 1795187700000,
+    "tags": []
+   },
+   {
+    "t": "Inflation Fears Plunge As 'Independents' Lift UMich Consumer Confidence Off Record Lows",
+    "tt": "'Bağımsızlar' UMich Tüketici Güvenini Rekor Düşüklere Çıkarırken Enflasyonun Düşme Korkusu",
+    "s": "Inflation Fears Plunge As 'Independents' Lift UMich Consumer Confidence Off Record Lows Having bounced off record low levels in May, UMich's Consumer Sentiment survey was expected to continue rising modestly in its final November print (51 flash vs 48 Oct) and it did, with headline consumer sentimen",
+    "ss": "'Bağımsızlar' UMich Tüketici Güvenini Rekor Düşük Seviyelere Çıkarırken Enflasyonun Düşme Korkusu Mayıs ayında rekor düşük seviyelerden sıçrayan UMich'in Tüketici Duyarlılığı anketinin Kasım ayı son baskısında (51 flaş vs 48 Ekim) ılımlı bir şekilde yükselmeye devam etmesi bekleniyordu ve bu da manşet tüketici duyarlılığıyla gerçekleşti.",
+    "u": "https://www.zerohedge.com/markets/inflation-fears-plunge-independents-lift-umich-consumer-confidence-record-lows",
+    "ts": 1795187100000,
+    "tags": []
+   },
+   {
+    "t": "Democrat-Touted Grocery Co-Op Collapses After 16 Months",
+    "tt": "Demokratların Öne Çıktığı Bakkal Kooperatifi 16 Ay Sonra Çöktü",
+    "s": "Democrat-Touted Grocery Co-Op Collapses After 16 Months Prairie Food Co-op, a member-owned grocery store in Lombard, Illinois, backed by about $1.56 million in state and federal grants, is winding down store operations 16 months after it opened, its board told owners on Nov. 11. Illinois' taxpayer f",
+    "ss": "Demokratların Öne Çıkardığı Bakkal Kooperatifi 16 Ay Sonra Çöktü Lombard, Illinois'de üyelere ait olan ve yaklaşık 1,56 milyon dolarlık eyalet ve federal bağışla desteklenen Prairie Food Co-op'un yönetim kurulu, 11 Kasım'da sahiplerine, mağaza faaliyetlerini açıldıktan 16 ay sonra kapatacağını söyledi.",
+    "u": "https://www.zerohedge.com/political/democrat-touted-grocery-co-op-collapses-after-16-months",
+    "ts": 1795186200000,
+    "tags": []
+   },
    {
     "t": "California Probes Whether Nvidia Chips Reached China After Report Ex-CEO Was Target Of Chinese Spy Operation",
     "tt": "Kaliforniya, Eski CEO'nun Çin Casus Operasyonunun Hedefi Olduğu Raporunun Ardından Nvidia Çiplerinin Çin'e Ulaşıp Ulaşmadığını Araştırıyor",
@@ -934,45 +970,36 @@
     "u": "https://www.zerohedge.com/energy/pump-prices-hit-eight-month-low-ahead-thanksgiving-travel",
     "ts": 1795180500000,
     "tags": []
-   },
-   {
-    "t": "Futures Tumble As Anthropic IPO Hangover Turns AI Unwind Into Global Rout",
-    "tt": "Antropik Halka Arz Akşamdan Kalması Yapay Zekayı Küresel Bir Bozguna Dönüştürdüğünde Vadeli İşlemler Düşüyor",
-    "s": "Futures Tumble As Anthropic IPO Hangover Turns AI Unwind Into Global Rout US futures are lower for a second day as the AI unwind turns into a global liquidation: a day after its record-setting debut, Anthropic is sliding in premarket trading as the biggest IPO ever turns into a sell-the-news event ,",
-    "ss": "Antropik Halka Arz Akşamdan Kalması, Yapay Zekanın Küresel Bir Bozguna Dönüşmesiyle Vadeli İşlemler Düşüyor ABD vadeli işlemleri, yapay zekanın gevşemesinin küresel bir tasfiyeye dönüşmesiyle ikinci günde de düşük: rekor kıran çıkışından bir gün sonra Anthropic, şimdiye kadarki en büyük halka arzın bir haber satma olayına dönüşmesiyle piyasa öncesi ticarette geriliyor.",
-    "u": "https://www.zerohedge.com/markets/futures-tumble-anthropic-ipo-hangover-turns-ai-unwind-global-rout",
-    "ts": 1795180154000,
-    "tags": []
-   },
-   {
-    "t": "Prince Harry Says He Would Rejoin The British Military To Fight Russia",
-    "tt": "Prens Harry, Rusya'ya Karşı Savaşmak İçin İngiliz Ordusuna Yeniden Katılacağını Söyledi",
-    "s": "Prince Harry Says He Would Rejoin The British Military To Fight Russia Why is the war in Ukraine a liberal obsession? &nbsp;While the media rages over Trump's blockade of Iran, European elites are actively advocating for boots on the ground in Ukraine, which would inevitably trigger a world war invo",
-    "ss": "Prens Harry, Rusya'ya Karşı Savaşmak İçin İngiliz Ordusuna Yeniden Katılacağını Söyledi Ukrayna'daki savaş neden liberal bir saplantı?  Medya, Trump'ın İran ablukasına öfkelenirken, Avrupalı ​​elitler aktif olarak Ukrayna'da karaya çıkmanın savunuculuğunu yapıyor, bu da kaçınılmaz olarak bir dünya savaşını tetikleyecek.",
-    "u": "https://www.zerohedge.com/geopolitical/prince-harry-says-he-would-rejoin-military-fight-russia",
-    "ts": 1795178700000,
-    "tags": []
-   },
-   {
-    "t": "Republicans Fear Anthropic's IPO Will Create '200 George Soroses'",
-    "tt": "Cumhuriyetçiler Anthropic'in halka arzının '200 George Soroses' yaratmasından korkuyor",
-    "s": "Republicans Fear Anthropic's IPO Will Create '200 George Soroses' Anthropic, the San Francisco-based artificial intelligence company behind the Claude chatbot, began trading on the Nasdaq on Thursday . Anthropic co-founders Dario Amodei and Daniela Amodei at the opening bell ceremony. (AP Photo/Seth",
-    "ss": "Cumhuriyetçiler Anthropic'in Halka Arzının '200 George Soroses' Yaratacağından Korkuyor Claude chatbot'un arkasındaki San Francisco merkezli yapay zeka şirketi Anthropic, Perşembe günü Nasdaq'ta işlem görmeye başladı. Antropik kurucu ortaklar Dario Amodei ve Daniela Amodei açılış zili töreninde. (AP Fotoğrafı/Seth",
-    "u": "https://www.zerohedge.com/political/republicans-fear-anthropics-ipo-will-create-200-george-soroses",
-    "ts": 1795177800000,
-    "tags": []
-   },
-   {
-    "t": "Warsaw Slams \"Provocation\" By Moscow As Russian Missiles Crash In Poland, Raising NATO Spillover Fear",
-    "tt": "Varşova, Rus Füzelerinin Polonya'ya Düşmesiyle Moskova'nın \"Provokasyonunu\" Kınadı ve NATO'nun Yayılma Korkusunu Artırdı",
-    "s": "Warsaw Slams \"Provocation\" By Moscow As Russian Missiles Crash In Poland, Raising NATO Spillover Fear Two Russian missiles and a jet-powered one-way attack drone reportedly crashed in eastern Poland overnight during a massive Russian assault on Ukraine, raising concerns about the conflict spilling o",
-    "ss": "Varşova, Rus Füzelerinin Polonya'ya Düşmesiyle Moskova'nın \"Provokasyonunu\" Kınadı, Bu da NATO'nun Yayılma Korkusunu Artırdı İki Rus füzesi ve jet motorlu tek yönlü bir saldırı insansız hava aracının, Rusya'nın Ukrayna'ya düzenlediği büyük saldırı sırasında bir gecede doğu Polonya'ya düştüğü bildirildi.",
-    "u": "https://www.zerohedge.com/geopolitical/russia-missiles-crash-poland-warsaw-slams-provocation-moscow-raising-nato-spillover",
-    "ts": 1795176900000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "ABD'de enflasyon beklentisi Şubat'tan bu yana en düşük seviyede",
+    "tt": null,
+    "s": "Michigan Üniversitesi anketine göre ABD'de tüketicilerin bir yıllık enflasyon beklentisi, Kasım'da yüzde 4,7'den yüzde 3,7'ye gerileyerek Şubat'tan bu yana en düşük seviyesine indi. Tüketici güven endeksi ise 48'den 51,5'e yükseldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-enflasyon-beklentisi-subat-tan-bu-yana-en-dusuk-seviyede-3795333",
+    "ts": 1795188910000,
+    "tags": []
+   },
+   {
+    "t": "Hazine alacakları Ekim sonunda 255,7 milyar lira oldu",
+    "tt": null,
+    "s": "Hazine alacakları, 31 Ekim itibarıyla 255,7 milyar lira olarak gerçekleşti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/hazine-alacaklari-ekim-sonunda-255-7-milyar-lira-oldu-3795331",
+    "ts": 1795187783000,
+    "tags": []
+   },
+   {
+    "t": "HGS'de icra uygulaması durduruldu",
+    "tt": null,
+    "s": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, HGS kapsamında özel otoyol şirketlerinin süresi geçen tahsilatlar için yürüttüğü avukatlık ve icra uygulamalarının durdurulacağını açıkladı. İlgili hukuki düzenlemeler tamamlanana kadar vatandaşlara yönelik icra takibi uygulanmayacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/hgs-de-icra-uygulamasi-durduruldu-3795329",
+    "ts": 1795187062000,
+    "tags": []
+   },
    {
     "t": "Sanayi üretici fiyatlarında artış hızı yavaşladı",
     "tt": null,
@@ -1034,33 +1061,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/bloomberg-htnin-reklamarkasi-programina-bumerangda-sektor-ozel-odulu-3795296",
     "ts": 1795168216000,
-    "tags": []
-   },
-   {
-    "t": "Avrupa'da tahvil ihraçları 2 trilyon euroyla rekora ulaştı",
-    "tt": null,
-    "s": "Avrupa'da tahvil ihraçları, kamu borçlanmaları ve yapay zekâ patlamasının getirdiği finansman ihtiyaçlarının etkisiyle ilk kez 2 trilyon euroyu aştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/avrupa-da-tahvil-ihraclari-2-trilyon-euroyla-rekora-ulasti-3795294",
-    "ts": 1795165136000,
-    "tags": []
-   },
-   {
-    "t": "Nestle, Microsoft ve Boston Dynamics ile işbirliği yapacak",
-    "tt": null,
-    "s": "Nestle, fabrikalarında ve tüketici ürünlerinde yapay zeka kullanımını artırmak için Microsoft ve Boston Dynamics ile işbirliği yapıyor. İsviçre'deki yeni merkezde geliştirilecek teknolojilerin, şirketin dünya genelindeki tesislerinde kullanılması hedefleniyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/nestle-microsoft-ve-boston-dynamics-ile-isbirligi-yapacak-3795288",
-    "ts": 1795164274000,
-    "tags": []
-   },
-   {
-    "t": "Türkiye'nin risk primi yine kritik seviyeyi test etti",
-    "tt": null,
-    "s": "Türkiye'nin risk primi 6 Kasım'dan bu yana ilk kez 250 baz puanı aştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/turkiye-nin-risk-primi-yine-kritik-seviyeyi-test-etti-3795284",
-    "ts": 1795164069000,
     "tags": []
    }
   ]
