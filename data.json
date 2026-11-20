@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T10:24:16.458639+00:00",
+ "generated": "2026-11-20T11:29:27.538413+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 29.56,
-   "c": 3.94,
-   "d": 1.12,
+   "p": 29.25,
+   "c": 2.85,
+   "d": 0.81,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3577.4,
-   "c": -2.93,
-   "d": -108.1,
+   "p": 3587.0,
+   "c": -2.67,
+   "d": -98.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.285,
-   "c": -4.59,
-   "d": -2.033,
+   "p": 42.43,
+   "c": -4.26,
+   "d": -1.888,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 80.94,
-   "c": -2.73,
-   "d": -2.27,
+   "p": 82.17,
+   "c": -1.25,
+   "d": -1.04,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 87.81,
-   "c": -4.53,
-   "d": -4.17,
+   "p": 88.94,
+   "c": -3.31,
+   "d": -3.04,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.818,
-   "c": -0.08,
-   "d": -0.082,
+   "p": 103.854,
+   "c": -0.04,
+   "d": -0.046,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5734,
+   "p": 50.5745,
    "c": 0.22,
-   "d": 0.111,
+   "d": 0.112,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11139.7,
-   "c": -2.28,
-   "d": -260.4,
+   "p": 11167.91,
+   "c": -2.04,
+   "d": -232.19,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 61669,
-   "c": -3.34,
+   "p": 61766,
+   "c": -3.16,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1745.7,
-   "c": -3.31,
+   "p": 1750.01,
+   "c": -3.02,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.84,
-   "c": -3.57,
+   "p": 72.0,
+   "c": -3.41,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.958895,
-   "c": -2.4,
+   "p": 0.95436,
+   "c": -2.86,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 570.95,
-   "c": -3.25,
+   "p": 570.17,
+   "c": -3.66,
    "k": "usd"
   }
  ],
@@ -584,39 +584,48 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "JPMorgan’s Katrina Dudley Sees Opportunities Beyond Big Tech",
+    "tt": "JPMorgan'dan Katrina Dudley Büyük Teknolojinin Ötesinde Fırsatlar Görüyor",
+    "s": "Katrina Dudley of J.P. Morgan Asset Management discusses opportunities beyond the biggest AI and tech names as the market broadens. She examines underappreciated AI beneficiaries, the earnings outlook, consumer strength and inflation risks, and what the economic backdrop could mean for the Federal R",
+    "ss": "J.P. Morgan Asset Management'tan Katrina Dudley, pazar genişledikçe en büyük yapay zeka ve teknoloji isimlerinin ötesindeki fırsatları tartışıyor. Yeterince takdir edilmeyen yapay zeka yararlanıcılarını, kazanç görünümünü, tüketici gücünü ve enflasyon risklerini ve ekonomik ortamın Federal Almanya için ne anlama gelebileceğini inceliyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/jpmorgan-s-dudley-sees-opportunities-beyond-big-tech-video",
+    "ts": 1795173877000,
+    "tags": []
+   },
+   {
+    "t": "Galliard CEO Sold Flat Before London’s Royal Gateway Evacuated in Safety Crisis",
+    "tt": "Galliard CEO'su, Londra Kraliyet Geçidi Güvenlik Krizi Nedeniyle Tahliye Edilmeden Önce Daireyi Sattı",
+    "s": "The chief executive officer of Galliard Homes sold an apartment in one of the homebuilder’s London developments earlier this year, months before fears of a potential collapse prompted the evacuation of the complex.",
+    "ss": "Galliard Homes'un icra kurulu başkanı, bu yılın başlarında, inşaatçının Londra'daki projelerinden birinde bir daire sattı; bu, potansiyel bir çöküş korkusunun kompleksin boşaltılmasına yol açmasından aylar önceydi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/galliard-ceo-sold-flat-before-london-s-royal-gateway-evacuated-in-safety-crisis",
+    "ts": 1795173171000,
+    "tags": []
+   },
+   {
+    "t": "Cocoa Pricier in Europe as Traders Brace for Deforestation Rules",
+    "tt": "Tüccarlar Ormansızlaşma Kurallarına Hazırlanırken Avrupa'da Kakao Fiyatları Arttı",
+    "s": "London cocoa futures are commanding a widening premium over New York as the European Union’s impending deforestation rules threaten to tighten bean supplies to the bloc.",
+    "ss": "Londra kakao vadeli işlemleri, Avrupa Birliği'nin yaklaşan ormansızlaştırma kurallarının bloğa fasulye tedarikini sıkılaştırma tehdidi oluşturmasıyla New York karşısında artan bir primle seyrediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/cocoa-pricier-in-europe-as-traders-brace-for-deforestation-rules",
+    "ts": 1795172636000,
+    "tags": []
+   },
+   {
+    "t": "Saudis Make Deal With Japan to Replenish Depleted Oil Stocks",
+    "tt": "Suudiler, Tükenen Petrol Stoklarını Yenilemek İçin Japonya ile Anlaşma Yaptı",
+    "s": "Saudi Arabia reached an agreement to help replenish Japan’s depleted crude stockpiles and expand the kingdom’s own storage capacity in the Asian country.",
+    "ss": "Suudi Arabistan, Japonya'nın tükenen ham stoklarının yenilenmesine yardımcı olmak ve krallığın Asya ülkesindeki kendi depolama kapasitesini genişletmek için bir anlaşmaya vardı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/saudis-make-deal-with-japan-to-replenish-depleted-oil-stockpiles",
+    "ts": 1795170042000,
+    "tags": []
+   },
+   {
     "t": "Global Stocks Hit Longest Losing Run Since 2023: Markets Wrap",
     "tt": "Küresel Hisse Senetleri 2023'ten Bu Yana En Uzun Kayıp Serisini Yaşadı: Piyasalar Özetlendi",
     "s": "A gauge of global stocks is heading for its longest losing streak in three years as the artificial intelligence trade undergoes a sharp unravelling, putting this year’s broader equity gains at risk and roiling metal markets.",
     "ss": "Yapay zeka ticaretinin keskin bir çözülmeye maruz kalması ve 2026'nın daha geniş hisse senedi kazanımlarını riske atması nedeniyle, küresel hisse senetleri endeksi üç yılı aşkın süredir en uzun kayıp serisine doğru ilerliyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
     "ts": 1795125820000,
-    "tags": []
-   },
-   {
-    "t": "Lufthansa to Cut 1,000 Jobs at Struggling Flagship Airline",
-    "tt": "Lufthansa, Zorluk Çeken Amiral Havayolu Şirketinde 1.000 Kişiyi İşten Çıkaracak",
-    "s": "Deutsche Lufthansa AG will cut 1,000 jobs at its namesake airline to turn around the unprofitable mainline unit as high fuel costs put more pressure on Europe’s largest aviation group.",
-    "ss": "Deutsche Lufthansa AG, yüksek yakıt maliyetlerinin Avrupa'nın en büyük havacılık grubu üzerinde daha fazla baskı yaratması nedeniyle, kâr etmeyen ana hat ünitesini tersine çevirmek için aynı adı taşıyan havayolu şirketinde 1.000 kişiyi işten çıkaracak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/lufthansa-to-eliminate-1-000-jobs-at-struggling-flagship-airline",
-    "ts": 1795162140000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic (ANT) IPO on Nasdaq Overcame AI Fears and Warnings",
-    "tt": "Nasdaq'ta Antropik (ANT) Halka Arz, Yapay Zeka Korkularını ve Uyarılarını Aştı",
-    "s": "The pioneering AI lab saw unprecedented demand for its stock from both retail and institutional investors.",
-    "ss": "Öncü yapay zeka laboratuvarı, hem perakende hem de kurumsal yatırımcılardan hisselerine eşi benzeri görülmemiş bir talep gördü.",
-    "u": "https://www.bloomberg.com/news/features/2026-11-20/anthropic-ant-ipo-on-nasdaq-overcame-ai-fears-and-warnings",
-    "ts": 1795141002000,
-    "tags": []
-   },
-   {
-    "t": "Rand Poised for Worst Week Since March as Carry Appeal Fades",
-    "tt": "Rand, Carry'nin çekiciliğinin azalmasıyla Mart ayından bu yana en kötü haftaya hazırlanıyor",
-    "s": "South Africa’s rand headed for its worst weekly slump in eight months, after the nation’s central bank kept its policy rate unchanged while Federal Reserve officials signaled they’re poised to tighten.",
-    "ss": "Güney Afrika Randı, ülke merkez bankasının politika faizini değiştirmeden tutması ve Fed yetkililerinin sıkılaştırmaya hazır olduklarının sinyallerini vermesinin ardından sekiz ayın en kötü haftalık düşüşüne yöneldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/rand-poised-for-worst-week-since-march-as-carry-appeal-fades",
-    "ts": 1795167101000,
     "tags": []
    },
    {
@@ -629,54 +638,44 @@
     "tags": []
    },
    {
-    "t": "Dollar Set for Fourth Weekly Advance Following Anthropic IPO",
-    "tt": "Dolar, Antropik Halka Arzın Ardından Dördüncü Haftalık Yükselişe Hazırlanıyor",
-    "s": "The dollar is headed for a fourth straight weekly gain as demand tied to the Anthropic PBC IPO added to support from expectations of further Federal Reserve interest-rate hikes and elevated US Treasury yields.",
-    "ss": "Antropik PBC halka arzına bağlı talebin, Fed'in faiz artırımına devam edeceği ve ABD Hazine tahvil getirilerinin yükseleceği beklentilerini desteklemesiyle dolar, art arda dördüncü haftalık kazancına doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo",
-    "ts": 1795134047000,
+    "t": "Ivory Coast to Raise Mineral-Royalty Rates Before IMF Talks",
+    "tt": "Fildişi Sahili, IMF Görüşmeleri Öncesi Maden Telif Oranlarını Artıracak",
+    "s": "Ivory Coast plans to raise royalties paid by mining companies to boost government revenue before potential talks with the International Monetary Fund on a new financing program.",
+    "ss": "Fildişi Sahili, Uluslararası Para Fonu ile yeni bir finansman programına ilişkin olası görüşmelerden önce hükümet gelirlerini artırmak için madencilik şirketleri tarafından ödenen imtiyaz ücretlerini artırmayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/ivory-coast-to-raise-mineral-royalty-rates-before-imf-talks",
+    "ts": 1795172201000,
+    "tags": []
+   },
+   {
+    "t": "CATL, Luxshare to Join Hong Kong Tech Index in Major Revamp",
+    "tt": "CATL ve Luxshare, Büyük Yenilemede Hong Kong Teknoloji Endeksi'ne Katılacak",
+    "s": "Contemporary Amperex Technology Co. Ltd., Luxshare Precision Industry Co. and ASMPT Ltd. are among the stocks that will be added to Hong Kong’s Hang Seng Tech Index in a major expansion to better reflect China’s vast technology sector.",
+    "ss": "Contemporary Amperex Technology Co. Ltd., Luxshare Precision Industry Co. ve ASMPT Ltd., Çin'in geniş teknoloji sektörünü daha iyi yansıtacak şekilde büyük bir genişlemeyle Hong Kong'un Hang Seng Teknoloji Endeksi'ne eklenecek hisse senetleri arasında yer alıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/catl-luxshare-to-join-hong-kong-tech-index-in-major-revamp",
+    "ts": 1795171015000,
+    "tags": []
+   },
+   {
+    "t": "Germany Consumers Buy Heating Oil as Winter Looms Despite High Prices",
+    "tt": "Almanya'da tüketiciler, yüksek fiyatlara rağmen kış yaklaşırken kalorifer yakıtı alıyor",
+    "s": "Germans are finally piling back into the heating oil market, having put off buying for much of the year because of soaring prices.",
+    "ss": "Almanlar, yükselen fiyatlar nedeniyle yılın büyük bölümünde alımlarını erteleyen ısıtma yağı pazarına nihayet yeniden giriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/germans-buy-heating-oil-as-winter-looms-despite-high-prices-caused-by-iran-war",
+    "ts": 1795170885000,
     "tags": [
+     "Petrol ▲",
      "DXY ▲",
      "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
+     "BTC ▼"
     ]
    },
    {
-    "t": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
-    "tt": "Gabon, Denetimin Borcunu Azalttığını Gösterdikten Sonra Gelecek Ay IMF Anlaşması İstiyor",
-    "s": "Gabon expects to clinch a deal with the International Monetary Fund on a new program by next month and is paying down arrears as a show of good faith while awaiting the lender’s sign-off on a debt audit.",
-    "ss": "Gabon, önümüzdeki aya kadar Uluslararası Para Fonu ile yeni bir programa ilişkin bir anlaşma yapmayı bekliyor ve borç verenin borç denetimi onayını beklerken iyi niyet gösterisi olarak borçlarını ödüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gabon-seeks-imf-deal-next-month-after-audit-shows-lower-debt",
-    "ts": 1795089503000,
-    "tags": []
-   },
-   {
-    "t": "How an American AI Company Uses Chinese Open-Weight Models",
-    "tt": "Bir Amerikan Yapay Zeka Şirketi Çin Açık Ağırlık Modellerini Nasıl Kullanıyor?",
-    "s": "Model selection is becoming a serious concern.",
-    "ss": "Model seçimi ciddi bir endişe haline geliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/how-an-american-ai-company-uses-chinese-open-weight-models",
-    "ts": 1795165200000,
-    "tags": []
-   },
-   {
-    "t": "Odd Lots: How an AI Native Company Chooses Its Models (Podcast)",
-    "tt": "Tuhaf Lotlar: Yapay Zeka Yerli Bir Şirket Modellerini Nasıl Seçiyor (Podcast)",
-    "s": "This week, we got news that the Trump administration is reportedly considering a requirement for US companies to publicly disclose their use of Chinese AI models. Any effort to discourage US businesses from using Chinese open-source could be a big deal for both the AI industry and the market, where ",
-    "ss": "Bu hafta, Trump yönetiminin ABD şirketlerinin Çin yapay zeka modellerini kullanımlarını kamuya açıklama zorunluluğunu değerlendirdiği haberini aldık. ABD'li işletmeleri Çin açık kaynağını kullanmaktan vazgeçirmeye yönelik herhangi bir çaba, hem yapay zeka endüstrisi hem de pazar için büyük bir sorun olabilir.",
-    "u": "https://www.bloomberg.com/news/audio/2026-11-20/odd-lots-how-an-ai-native-company-chooses-its-models-podcast",
-    "ts": 1795165200000,
-    "tags": []
-   },
-   {
-    "t": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
-    "tt": "Milyarder, Megha'yı Satın Almak İçin 720 Milyon Dolarlık Özel Kredi Topladı",
-    "s": "Indian billionaire P.V. Krishna Reddy has secured about 67 billion rupees ($720 million) from global private credit investors to buy out his uncle’s stake in Megha Engineering &amp; Infrastructures Ltd., according to people familiar with the matter, in a layered transaction that is one of the countr",
-    "ss": "Hintli milyarder P.V. Krishna Reddy, konu hakkında bilgi sahibi kişilerin söylediğine göre, dünyanın önde gelen ülkelerinden biri olan katmanlı bir işlemle, amcasının Megha Engineering & Infrastructures Ltd.'deki hisselerini satın almak için küresel özel kredi yatırımcılarından yaklaşık 67 milyar rupi (720 milyon dolar) elde etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
-    "ts": 1795165070000,
+    "t": "Indian Refiners Race to Secure Oil Tankers as Freight Costs Rise",
+    "tt": "Hint Rafinerileri Navlun Maliyetleri Artarken Petrol Tankerlerini Güvenceye Almak İçin Yarışıyor",
+    "s": "Indian refiners are rushing to lock in tankers on long-term contracts to secure crude supplies as persistent disruptions in the Persian Gulf drive up freight costs and tighten vessel availability.",
+    "ss": "Hintli rafineriler, Basra Körfezi'ndeki sürekli kesintilerin navlun maliyetlerini artırması ve gemi kullanılabilirliğini daraltması nedeniyle ham petrol tedarikini güvence altına almak için uzun vadeli sözleşmelere tankerleri kilitlemek için acele ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/india-refiners-race-to-secure-oil-tankers-as-freight-costs-surge",
+    "ts": 1795170865000,
     "tags": []
    }
   ],
@@ -786,9 +785,36 @@
   ],
   "MarketWatch": [
    {
+    "t": "Apple seems to be building its own AI agent. This could be bad news for Meta’s Muse.",
+    "tt": "Apple kendi yapay zeka ajanını oluşturuyor gibi görünüyor. Bu, Meta'nın Muse'u için kötü bir haber olabilir.",
+    "s": "Shares in Apple climbed in premarket trading after the company posted a number of job openings seeking engineers to help build an agentic artificial-intelligence system.",
+    "ss": "Apple'ın hisseleri, şirketin ajansal bir yapay zeka sistemi kurmaya yardımcı olacak mühendisler arayan bir dizi iş ilanı yayınlamasının ardından piyasa öncesi işlemlerde yükseldi.",
+    "u": "https://www.marketwatch.com/story/apple-seems-to-be-building-its-own-ai-agent-this-could-be-bad-news-for-metas-muse-8d9be2a7?mod=mw_rss_topstories",
+    "ts": 1795172700000,
+    "tags": []
+   },
+   {
+    "t": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+    "tt": "'Nvidia'nın kargaşası beni korkuttu': Hisse senetlerimi satıp emlak mı almalıyım yoksa fırtınayı atlatmalı mıyım?",
+    "s": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "ss": "Gayrimenkul veya CD'ler için stoklardan vazgeçmeye mi karar verdiniz? Ani hareketler yapmadan önce derin bir nefes alın.",
+    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "ts": 1795172400000,
+    "tags": []
+   },
+   {
+    "t": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+    "tt": "50'li yaşlarımızdayız ve piyasanın çökmesinden korkuyoruz. 1 milyon dolarlık emeklilik birikimimizin 400.000 dolarını yıllık gelire yatırmalı mıyız?",
+    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
+    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "ts": 1795172400000,
+    "tags": []
+   },
+   {
     "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
     "tt": "Kocam bir tekneye 80.000 dolar harcadı ama 100.000 dolarlık bir çömlek atölyesi kurma planlarımın sorumsuz olduğunu söylüyor. Kim haklı?",
-    "s": "“We have $2.9 million in retirement accounts and a paid-off house worth $900,000.”",
+    "s": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
     "ss": "\"2,9 milyon dolarlık emeklilik hesabımız ve 900.000 dolar değerinde ödenmiş bir evimiz var.\"",
     "u": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
     "ts": 1795169700000,
@@ -810,24 +836,6 @@
     "ss": "Bear Grylls, onlarca yıl önce eşi Shara Grylls ile alışılmadık bir seçim yaptı; Londra'da bir daire yerine terk edilmiş bir adada bir başlangıç ​​evi satın aldı.",
     "u": "https://www.marketwatch.com/story/how-bear-grylls-lived-in-the-harsh-conditions-of-his-own-home-on-an-abandoned-island-with-no-power-no-water-no-roof-8c3e17c4?mod=mw_rss_topstories",
     "ts": 1795168860000,
-    "tags": []
-   },
-   {
-    "t": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "tt": "'Nvidia'nın kargaşası beni korkuttu': Hisse senetlerimi satıp emlak mı almalıyım yoksa fırtınayı atlatmalı mıyım?",
-    "s": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
-    "ss": "Gayrimenkul veya CD'ler için stoklardan vazgeçmeye mi karar verdiniz? Ani hareketler yapmadan önce derin bir nefes alın.",
-    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "ts": 1795145460000,
-    "tags": []
-   },
-   {
-    "t": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "tt": "50'li yaşlarımızdayız ve piyasanın çökmesinden korkuyoruz. 1 milyon dolarlık emeklilik birikimimizin 400.000 dolarını yıllık gelire yatırmalı mıyız?",
-    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
-    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "ts": 1795138200000,
     "tags": []
    },
    {
@@ -865,18 +873,27 @@
     "u": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
     "ts": 1795128780000,
     "tags": []
-   },
-   {
-    "t": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-    "tt": "CoreWeave'in kurucu ortaklarından biri, yıpranmış tahvillerine alışılmadık 30 milyon dolarlık bir bahis yaptı",
-    "s": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-    "ss": "Yöneticiler genellikle güven sinyali vermek için hisse satın alırken CoreWeave kurucu ortağı Brian Venturo, yapay zekadaki tedirginliği yatıştırmak için tahvil piyasasına yöneliyor.",
-    "u": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-    "ts": 1795128060000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "America's China Chip Crackdown Pits US Security Hawks Against Dutch Tech Giant ASML",
+    "tt": "Amerika'nın Çin Çipi Baskısı, ABD Güvenlik Şahinlerini Hollandalı Teknoloji Devi ASML'ye Karşı Karşıya Getiriyor",
+    "s": "America's China Chip Crackdown Pits US Security Hawks Against Dutch Tech Giant ASML Amid the ongoing push by Washington to keep advanced Western technology away from China, and with the Jensen Huang saga in the foreground, an intensifying dispute among allies is spilling into the open as European co",
+    "ss": "Amerika'nın Çin Çipindeki Baskı, ABD Güvenlik Şahinlerini Hollandalı Teknoloji Devi ASML'ye Karşı Karşıya Getiriyor Washington'un ileri Batı teknolojisini Çin'den uzak tutmaya yönelik devam eden çabası ve ön planda Jensen Huang destanı varken, Avrupalı ​​ortaklarla birlikte müttefikler arasında yoğunlaşan bir anlaşmazlık açığa çıkıyor.",
+    "u": "https://www.zerohedge.com/geopolitical/americas-china-tech-crackdown-pits-us-security-hawks-against-dutch-tech-giant-asml",
+    "ts": 1795174200000,
+    "tags": []
+   },
+   {
+    "t": "First Rule Of The Great Replacement: Don't Talk About The Great Replacement",
+    "tt": "Büyük Değişimin İlk Kuralı: Büyük Değişim Hakkında Konuşmayın",
+    "s": "First Rule Of The Great Replacement: Don't Talk About The Great Replacement Authored by J.B. Shurk via American Thinker , Anyone with a brain knows that the Great Replacement is real . Throughout the West, foreign populations are replacing native populations at an exponential pace. This is not a phe",
+    "ss": "Büyük Değişimin İlk Kuralı: J.B. Shurk tarafından American Thinker tarafından yazılan Büyük Değişim Hakkında Konuşmayın, Beyni olan herkes Büyük Değişimin gerçek olduğunu bilir. Batı genelinde, yabancı nüfuslar katlanarak artan bir hızla yerli nüfusların yerini alıyor. Bu bir phe değil",
+    "u": "https://www.zerohedge.com/political/first-rule-great-replacement-dont-talk-about-great-replacement",
+    "ts": 1795172400000,
+    "tags": []
+   },
    {
     "t": "The Uprising That Never Came Is Arriving In Slow Motion: Iran's Border Insurgents Log Busiest Year In A Decade",
     "tt": "Asla Gelmeyen Ayaklanma Ağır Çekimde Geliyor: İran'ın Sınır İsyancıları Son On Yılın En Yoğun Yılını Kaydediyor",
@@ -948,27 +965,18 @@
     "u": "https://www.zerohedge.com/markets/different-retail-one-showed-spacex-anthropic-sets-day-one-retail-trading-record-and-nearly",
     "ts": 1795148400000,
     "tags": []
-   },
-   {
-    "t": "UN Nuclear Watchdog Voices \"Serious Concern\" As North Korea Expands Uranium Enrichment",
-    "tt": "BM Nükleer Gözlem Örgütü, Kuzey Kore'nin Uranyum Zenginleştirmesini Genişletmesiyle İlgili \"Ciddi Kaygıyı\" Dile Getirdi",
-    "s": "UN Nuclear Watchdog Voices \"Serious Concern\" As North Korea Expands Uranium Enrichment Authored by Guy Birchall via The Epoch Times , The International Atomic Energy Agency (IAEA) on Nov. 18 said that North Korea's expansion of its uranium enrichment program remained a \"serious concern.\" IAEA Direct",
-    "ss": "BM Nükleer Gözlem Örgütü, Kuzey Kore'nin Uranyum Zenginleştirmesini Genişletmesiyle İlgili \"Ciddi Kaygıları\" Dile Getirdi Guy Birchall tarafından The Epoch Times aracılığıyla yazılan Uluslararası Atom Enerjisi Ajansı (IAEA), 18 Kasım'da Kuzey Kore'nin uranyum zenginleştirme programını genişletmesinin \"ciddi bir endişe\" olmaya devam ettiğini söyledi. IAEA Doğrudan",
-    "u": "https://www.zerohedge.com/geopolitical/un-nuclear-watchdog-voices-serious-concern-north-korea-expands-uranium-enrichment",
-    "ts": 1795147200000,
-    "tags": []
-   },
-   {
-    "t": "After Jensen, Nvidia's China Scandal Just Reached Its Former No. 3",
-    "tt": "Nvidia'nın Çin Skandalı, Jensen'dan Sonra Eski 3. Sırasına Ulaştı",
-    "s": "After Jensen, Nvidia's China Scandal Just Reached Its Former No. 3 Short seller Muddy Waters disclosed a bet against Nvidia on Tuesday and put a pointed question to the market: is the woman photographed at San Francisco galas with Ajay \"Jay\" Puri, who until June was Nvidia's third most senior execut",
-    "ss": "Jensen'ın ardından Nvidia'nın Çin Skandalı Eski 3. Sırasına Ulaştı Kısa satıcı Muddy Waters, Salı günü Nvidia'ya karşı bir iddiayı açıkladı ve piyasaya anlamlı bir soru yöneltti: San Francisco galalarında Ajay \"Jay\" Puri ile fotoğraflanan kadın, Haziran ayına kadar Nvidia'nın üçüncü en kıdemli yöneticisiydi.",
-    "u": "https://www.zerohedge.com/political/after-jensen-nvidias-china-scandal-just-reached-its-former-no-3",
-    "ts": 1795146000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Şimşek: Dış dengede elde ettiğimiz kazanımlarımızı kalıcı hale getireceğiz",
+    "tt": null,
+    "s": "Hazine ve Maliye Bakanı Mehmet Şimşek, sosyal medya hesabından yaptığı paylaşımda \"Dış dengede elde ettiğimiz kazanımlarımızı kalıcı hale getireceğiz\" ifadelerini kullandı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/simsek-dis-dengede-elde-ettigimiz-kazanimlarimizi-kalici-hale-getirecegiz-3795305",
+    "ts": 1795172592000,
+    "tags": []
+   },
    {
     "t": "Bloomberg HT'nin ReklaMarkası programına Bumerang'da Sektör Özel Ödülü",
     "tt": null,
@@ -1048,15 +1056,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/net-uluslararasi-yatirim-pozisyonu-acigi-geriledi-3795267",
     "ts": 1795158536000,
-    "tags": []
-   },
-   {
-    "t": "Tüketici güveni 9 ayın dibinden döndü",
-    "tt": null,
-    "s": "TÜİK verilerine göre tüketici güven endeksi, Kasım ayında yüzde 2,4 oranında artarak 86,8 oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tuketici-guveni-9-ayin-dibinden-dondu-3795265",
-    "ts": 1795158282000,
     "tags": []
    }
   ]
