@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T04:49:46.858408+00:00",
+ "generated": "2026-11-20T05:52:11.907545+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3522.8,
-   "c": -4.41,
-   "d": -162.7,
+   "p": 3520.8,
+   "c": -4.47,
+   "d": -164.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.285,
-   "c": -6.84,
-   "d": -3.033,
+   "p": 41.26,
+   "c": -6.9,
+   "d": -3.058,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.04,
-   "c": -0.2,
-   "d": -0.17,
+   "p": 82.86,
+   "c": -0.42,
+   "d": -0.35,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.05,
-   "c": -2.1,
-   "d": -1.93,
+   "p": 89.93,
+   "c": -2.23,
+   "d": -2.05,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.799,
-   "c": -0.1,
-   "d": -0.101,
+   "p": 103.815,
+   "c": -0.08,
+   "d": -0.085,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5607,
-   "c": 0.2,
-   "d": 0.099,
+   "p": 50.5586,
+   "c": 0.19,
+   "d": 0.097,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 61410,
-   "c": -3.46,
+   "p": 61878,
+   "c": -2.18,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1721.7,
-   "c": -4.47,
+   "p": 1736.68,
+   "c": -3.31,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 72.01,
-   "c": -3.56,
+   "p": 72.68,
+   "c": -2.44,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.957592,
-   "c": -2.0,
+   "p": 0.96981,
+   "c": -0.27,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 566.41,
-   "c": -3.58,
+   "p": 570.6,
+   "c": -2.6,
    "k": "usd"
   }
  ],
@@ -584,6 +584,60 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "IDR/USD: Why Indonesia’s Rupiah Is So Weak And What It Means For the Economy",
+    "tt": "IDR/USD: Endonezya Rupiahı Neden Bu Kadar Zayıf ve Ekonomi İçin Ne İfade Ediyor?",
+    "s": "Indonesia’s rupiah — Asia’s worst-performing currency this year — has been under pressure since late 2024, as investors have grown increasingly concerned about the country’s fiscal outlook. Before the current period of volatility, the currency hadn’t traded at such low levels since the Asian Financi",
+    "ss": "Asya'nın bu yıl en kötü performans gösteren para birimi olan Endonezya rupiahı, yatırımcıların ülkenin mali görünümüne ilişkin giderek artan endişeleri nedeniyle 2024'ün sonlarından bu yana baskı altında. Mevcut dalgalanma döneminden önce para birimi, Asya Finans Piyasası'ndan bu yana bu kadar düşük seviyelerde işlem görmemişti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/idr-usd-why-indonesia-s-rupiah-is-so-weak-and-what-it-means-for-the-economy",
+    "ts": 1795153327000,
+    "tags": []
+   },
+   {
+    "t": "DayOne Is Said to Pause US IPO Plans on Data Center, Market Concerns",
+    "tt": "DayOne'ın Veri Merkezi ve Piyasa Kaygılarına İlişkin ABD Halka Arz Planlarını Duraklattığı Söyleniyor",
+    "s": "DayOne Data Centers Ltd. has put plans for its multibillion-dollar US initial public offering on hold, people familiar with the matter said, as investors question the sustainability of frothy valuations for digital infrastructure supporting the artificial intelligence boom.",
+    "ss": "Konuya yakın kaynaklar, yatırımcıların yapay zeka patlamasını destekleyen dijital altyapıya yönelik köpüklü değerlemelerin sürdürülebilirliğini sorgulaması nedeniyle DayOne Data Centers Ltd.'nin ABD'de milyarlarca dolarlık ilk halka arz planlarını askıya aldığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus",
+    "ts": 1795153271000,
+    "tags": []
+   },
+   {
+    "t": "Taiwan Stock Benchmark Plunges 7%, Set for Worst Week Since 1991",
+    "tt": "Destek Adımlarına Rağmen Tayvan Hisse Senetleri 1991'den Bu Yana En Kötü Haftayla Karşı Karşıya",
+    "s": "Taiwan’s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under further strain, putting the island’s benchmark on course for its worst week since 1991.",
+    "ss": "Tayvan'ın teknoloji ağırlıklı borsası, küresel yapay zeka ticaretinin yeni bir baskı altına girmesi ve adanın endeksinin 1991'den bu yana en kötü haftasını geçirme rotasına girmesiyle Cuma günü yeni bir satış dalgasına tanık oldu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
+    "ts": 1795141797000,
+    "tags": []
+   },
+   {
+    "t": "Cyberattacks Drive Claims Surge at Japan Insurers",
+    "tt": "Siber Saldırılar, Japonya Sigortacılarında Taleplerin Artmasına Neden Oldu",
+    "s": "Japan’s biggest property insurers are reporting a sharp jump in cyber insurance claims as artificial intelligence-driven attacks grow more sophisticated and hacking incidents surge nationwide.",
+    "ss": "Japonya'nın en büyük emlak sigortacıları, yapay zeka odaklı saldırıların daha karmaşık hale gelmesi ve bilgisayar korsanlığı olaylarının ülke çapında artması nedeniyle siber sigorta taleplerinde keskin bir artış olduğunu bildiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/ai-fueled-cyberattacks-drive-claims-surge-at-japan-insurers",
+    "ts": 1795150502000,
+    "tags": []
+   },
+   {
+    "t": "Cambodia Sees Growth Risk as High US Rates Hit Economy",
+    "tt": "Yüksek ABD Faiz Oranları Ekonomiyi Etkilerken Kamboçya Büyüme Riski Görüyor",
+    "s": "National Bank of Cambodia Governor Chea Serey says her country faces pressure from elevated US rates, imported inflation and higher funding costs because of its dollarized economy. She adds that the government remains more optimistic than the International Monetary Fund on growth, citing expectation",
+    "ss": "Kamboçya Ulusal Bankası Müdürü Chea Serey, ülkesinin dolarize ekonomisi nedeniyle yüksek ABD faiz oranları, ithal enflasyon ve yüksek fonlama maliyetleri nedeniyle baskıyla karşı karşıya olduğunu söyledi. Beklentiyi öne sürerek, hükümetin büyüme konusunda Uluslararası Para Fonu'ndan daha iyimser kaldığını ekliyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/cambodia-sees-growth-risk-as-high-us-rates-hit-economy-video",
+    "ts": 1795151372000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Set for Worst Run Since 2023, Havens Gain: Markets Wrap",
+    "tt": "Asya'da Hisse Senedi Kayıpları Artacak, Nasdaq Vadeli İşlemleri Düşüş: Piyasalarda Gelişmeler",
+    "s": "Global stocks were poised for their longest losing streak in more than three years as the artificial intelligence trade cratered after a bull run in 2026, sending investors to haven assets such as Treasuries.",
+    "ss": "Anthropic PBC'nin piyasaya sağlam çıkışının yapay zeka ticaretine ilişkin karamsarlığı tersine çevirmede ve teknoloji hisselerinde daha geniş bir gerilemeyi önlemede başarısız olması nedeniyle Asya'da küresel hisse senedi satışlarının derinleşmesi bekleniyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795125820000,
+    "tags": []
+   },
+   {
     "t": "Yen Outperforms G-10 Peers as Tech Selloff Fuels Haven Demand",
     "tt": "Yen, Teknoloji Satışlarının Cennet Talebini Artırmasıyla G-10 Benzerlerinden Daha İyi Performans Gösterdi",
     "s": "The yen led gains among Group of 10 currencies on Friday as investors sought havens amid a deepening selloff in technology stocks that has spilled into Asia trading.",
@@ -595,7 +649,7 @@
    {
     "t": "China Has Capacity, But Maybe Not the Will to Boost Fuel Exports",
     "tt": "Çin'in Kapasitesi Var Ama Akaryakıt İhracatını Arttırma İsteği Belki Yok",
-    "s": "China has the greatest ability to boost global fuel supplies after it agreed with the US and Russia to do so, although whether Beijing will follow through on the pledge is doubtful.",
+    "s": "China has the greatest ability to boost global fuel supplies after it agreed with the US and Russia to do so, although analysts said it was doubtful whether Beijing would immediately follow through on the pledge.",
     "ss": "Çin, ABD ve Rusya ile anlaşmaya vardıktan sonra küresel yakıt tedarikini artırma konusunda en büyük yeteneğe sahip olsa da Pekin'in bu sözünü yerine getirip getirmeyeceği şüpheli.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-20/china-has-capacity-but-maybe-not-the-will-to-boost-fuel-exports",
     "ts": 1795150225000,
@@ -618,67 +672,6 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-20/pakistan-minister-makes-rare-india-visit-for-regional-forum",
     "ts": 1795149159000,
     "tags": []
-   },
-   {
-    "t": "ARK Invest's Cathie Wood on Anthropic, Nvidia",
-    "tt": "ARK Invest'ten Cathie Wood Anthropic, Nvidia hakkında",
-    "s": "Cathie Wood, Founder, CEO & CIO at ARK Invest, discusses her exposure to Anthropic following the AI lab's historic IPO and her views on investing in innovation. She speaks on \"ETF IQ Asia.\" (Source: Bloomberg)",
-    "ss": "ARK Invest'in Kurucusu, CEO'su ve CIO'su Cathie Wood, AI laboratuvarının tarihi halka arzının ardından Anthropic ile tanışmasını ve inovasyona yatırım yapma konusundaki görüşlerini anlatıyor. \"ETF IQ Asia\" hakkında konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/ark-invest-s-cathie-wood-on-anthropic-nvidia-video",
-    "ts": 1795148527000,
-    "tags": []
-   },
-   {
-    "t": "PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC",
-    "tt": "PBOC, APEC'in Ardından Volatilitenin Yükselişiyle Yuan'ı Sabit Sabitledi",
-    "s": "China’s central bank signaled it wants to curb sharp moves in the yuan with a largely steady fixing Friday, after the currency posted its biggest drop since March following a trilateral leaders’ meeting.",
-    "ss": "Çin merkez bankası, yuanın üçlü liderler toplantısının ardından Mart ayından bu yana en büyük düşüşünü kaydetmesinin ardından Cuma günü büyük ölçüde istikrarlı bir sabitleme ile yuandaki keskin hareketleri sınırlamak istediğinin sinyalini verdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/pboc-anchors-yuan-with-stable-fix-as-volatility-jumps-after-apec",
-    "ts": 1795148139000,
-    "tags": []
-   },
-   {
-    "t": "Taiwan Stocks Face Worst Week Since 1991 Despite Support Steps",
-    "tt": "Destek Adımlarına Rağmen Tayvan Hisse Senetleri 1991'den Bu Yana En Kötü Haftayla Karşı Karşıya",
-    "s": "Taiwan’s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under further strain, putting the island’s benchmark on course for its worst week since 1991.",
-    "ss": "Tayvan'ın teknoloji ağırlıklı borsası, küresel yapay zeka ticaretinin yeni bir baskı altına girmesi ve adanın endeksinin 1991'den bu yana en kötü haftasını geçirme rotasına girmesiyle Cuma günü yeni bir satış dalgasına tanık oldu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
-    "ts": 1795141797000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Set for Worst Run Since 2023, Havens Gain: Markets Wrap",
-    "tt": "Asya'da Hisse Senedi Kayıpları Artacak, Nasdaq Vadeli İşlemleri Düşüş: Piyasalarda Gelişmeler",
-    "s": "Global stocks were poised for their longest losing streak in more than three years as the artificial intelligence trade cratered after a bull run in 2026, sending investors to haven assets such as Treasuries and the dollar.",
-    "ss": "Anthropic PBC'nin piyasaya sağlam çıkışının yapay zeka ticaretine ilişkin karamsarlığı tersine çevirmede ve teknoloji hisselerinde daha geniş bir gerilemeyi önlemede başarısız olması nedeniyle Asya'da küresel hisse senedi satışlarının derinleşmesi bekleniyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795125820000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "AI Spurs Funding Needs as Top Japan Power Producer Weighs IPO",
-    "tt": "Yapay Zeka, Japonya'nın En Büyük Enerji Üreticisinin Halka Arzını Tartarken Finansman İhtiyaçlarını Artırıyor",
-    "s": "Japan’s biggest electricity producer said the artificial intelligence boom is supporting the case for investment in the power sector as it considers ways to raise funds for expansion, including a possible initial public offering.",
-    "ss": "Japonya'nın en büyük elektrik üreticisi, yapay zeka patlamasının, olası bir ilk halka arz da dahil olmak üzere genişleme için fon toplamanın yollarını düşündüğü için enerji sektörüne yatırım yapma durumunu desteklediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/ai-spurs-funding-needs-as-top-japan-power-producer-weighs-ipo",
-    "ts": 1795147205000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 20",
-    "tt": "20 Kasım Ayı Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decline as traders weigh the risk of renewed US strikes on Iran against ample supply.",
-    "ss": "Petrol Perşembe günü dalgalı bir seansın ardından yükseldi; traderların bol arz karşısında ABD'nin İran'a yeniden saldırı yapması riskini tartmasıyla vadeli kontratlar üçüncü haftalık düşüş yolunda ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
-    "ts": 1795129551000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
    }
   ],
   "CNBC": [
@@ -971,6 +964,51 @@
   ],
   "Bloomberg HT": [
    {
+    "t": "Apple'dan OpenAI ve Anthropic'e rakip yapay zeka ajanı",
+    "tt": null,
+    "s": "Anthropic hisseleri rekor halka arzın ardından ilk işlem gününde %17 yükselse de kapanış sonrası işlemlerde %5 gerilerken, yüksek değerleme, artan rekabet ve zayıflayan fiyatlama gücü yapay zeka yatırım temasının sürdürülebilirliğine ilişkin endişeleri artırdı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/appledan-openai-ve-anthropice-rakip-yapay-zeka-ajani-3795221",
+    "ts": 1795153587000,
+    "tags": []
+   },
+   {
+    "t": "Çin kredi faiz oranlarını sabit tuttu",
+    "tt": null,
+    "s": "Çin'de gösterge faizi işlevi gören 1 ve 5 yıllık kredi faiz oranlarında (LPR) değişikliğe gidilmedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/cin-kredi-faiz-oranlarini-sabit-tuttu-3795220",
+    "ts": 1795153424000,
+    "tags": []
+   },
+   {
+    "t": "Yapay zekâ endişeleri doları 19 ayın zirvesine taşıdı",
+    "tt": null,
+    "s": "Yapay zekâ şirketlerinin değerlemelerine yönelik endişeler küresel piyasalarda risk iştahını azaltırken, güvenli liman talebiyle güçlenen dolar 19 ayın en yüksek seviyesine yaklaştı. ABD Merkez Bankası'nın (Fed) faiz artıracağına ilişkin beklentiler de dolardaki yükselişi destekledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/yapay-zek-endiseleri-dolari-19-ayin-zirvesine-tasidi-3795219",
+    "ts": 1795153074000,
+    "tags": []
+   },
+   {
+    "t": "Petrolde düşüş beklentisi",
+    "tt": null,
+    "s": "Brent petrol 93 dolara yaklaşırken haftalık kaybı yüzde 3,5'i buldu. Piyasaların odağında Hürmüz Boğazı'ndaki sevkiyatlar ve OPEC+'nın üretim politikası bulunuyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrolde-dusus-beklentisi-3795217",
+    "ts": 1795151074000,
+    "tags": []
+   },
+   {
+    "t": "Motorinde 6 lirayı aşan indirim",
+    "tt": null,
+    "s": "20 Kasım gece yarısından itibaren mazot fiyatlarında 6 lira 58 kuruşluk bir indirim geldi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/motorine-indirim-geldi-3795216",
+    "ts": 1795149909000,
+    "tags": []
+   },
+   {
     "t": "Fed'den faiz politikasında net iletişim vurgusu",
     "tt": null,
     "s": "Philadelphia Fed Başkanı Anna Paulson, para politikasında açık ve anlaşılır iletişimin önemine dikkat çekerek, piyasaların Fed'in ekonomik gelişmelere nasıl tepki vereceğini öngörebilmesi gerektiğini söyledi.",
@@ -989,7 +1027,7 @@
     "tags": []
    },
    {
-    "t": "Anthropic hisseleri rekor halka arzın ardından yüzde 5 geriledi",
+    "t": "Anthropic hisseleri rekor halka arzın ardından geriledi",
     "tt": null,
     "s": "Yapay zeka şirketi Anthropic'in hisseleri, 107,3 milyar dolarlık rekor halka arzın ardından Nasdaq'taki ilk işlem gününü yüzde 17 yükselişle tamamladı. Ancak hisseler, seans sonrası işlemlerde yaklaşık yüzde 5 değer kaybetti.",
     "ss": null,
@@ -1013,51 +1051,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/belediye-baskani-ve-baskan-vekili-secimlerinde-yeni-duzenleme-3795204",
     "ts": 1795146711000,
-    "tags": []
-   },
-   {
-    "t": "ABD Senatosu'ndan Trump'ın İran'a saldırmasını engelleyen savaş yetkileri tasarısına red",
-    "tt": null,
-    "s": "ABD Senatosundaki Cumhuriyetçiler, Başkan Donald Trump'ın İran'a saldırı düzenlemesinin engellenmesini öngören savaş yetkileri tasarısını reddetti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-senatosu-ndan-trump-in-iran-a-saldirmasini-engelleyen-savas-yetkileri-tasarisina-red-3795203",
-    "ts": 1795145888000,
-    "tags": []
-   },
-   {
-    "t": "ABD'den Çin'e yapay zeka çipi ihracatına yönelik lisans bilgilendirmesi",
-    "tt": null,
-    "s": "ABD Temsilciler Meclisi Dış İlişkiler Komitesi Başkanı Brian Mast, Çin'deki şirketlere 879 binden fazla Nvidia ve Advanced Micro Devices (AMD) yapay zeka çipinin ihracatına onay verildiğini bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-den-cin-e-yapay-zeka-cipi-ihracatina-yonelik-lisans-bilgilendirmesi-3795202",
-    "ts": 1795145271000,
-    "tags": []
-   },
-   {
-    "t": "Ekonomi ve siyaset gündemi- 20 Kasım 2026",
-    "tt": null,
-    "s": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201",
-    "ts": 1795144509000,
-    "tags": []
-   },
-   {
-    "t": "SPK'dan Peker GYO paylarına yönelik yeni karar",
-    "tt": null,
-    "s": "SPK, Tera Portföy Algoritmik Stratejiler Serbest Fon ile Tera Yatırım Menkul Değerler A.Ş.'nin elindeki Peker GYO paylarının donmuş oy haklarının çözülmesine karar verdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spk-dan-peker-gyo-paylarina-yonelik-yeni-karar-3795200",
-    "ts": 1795125640000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic'in halka arzına Japonya'da üç kattan fazla talep",
-    "tt": null,
-    "s": "Bloomberg'e konuşan bir kaynağa göre, Anthropic'in halka arzının Japonya ayağına 9,4 milyar doları aşan talep geldi. Talep, satışa sunulan hisselerin üç katını aşarken şirket yaklaşık 3 milyar dolar topladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/anthropic-in-halka-arzina-japonya-da-uc-kattan-fazla-talep-3795199",
-    "ts": 1795123833000,
     "tags": []
    }
   ]
