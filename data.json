@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T21:28:12.868309+00:00",
+ "generated": "2026-11-20T22:24:28.374692+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 37.09,
-   "c": 30.41,
-   "d": 8.65,
+   "p": 35.89,
+   "c": 26.2,
+   "d": 7.45,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3516.6,
-   "c": -4.58,
-   "d": -168.9,
+   "p": 3539.0,
+   "c": -3.98,
+   "d": -146.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.67,
-   "c": -8.23,
-   "d": -3.648,
+   "p": 41.08,
+   "c": -7.31,
+   "d": -3.238,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.71,
-   "c": 0.6,
-   "d": 0.5,
+   "p": 83.62,
+   "c": 0.49,
+   "d": 0.41,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.98,
-   "c": -2.17,
-   "d": -2.0,
+   "p": 89.87,
+   "c": -2.29,
+   "d": -2.11,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.888,
-   "c": -0.01,
-   "d": -0.012,
+   "p": 103.84,
+   "c": -0.06,
+   "d": -0.06,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.569,
-   "c": 0.21,
-   "d": 0.107,
+   "p": 50.4969,
+   "c": 0.07,
+   "d": 0.035,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 58572,
-   "c": -4.85,
+   "p": 59132,
+   "c": -4.45,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1607.52,
-   "c": -7.95,
+   "p": 1622.39,
+   "c": -7.34,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 67.81,
-   "c": -6.47,
+   "p": 69.08,
+   "c": -4.91,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.894876,
-   "c": -6.45,
+   "p": 0.913768,
+   "c": -4.59,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 534.96,
-   "c": -7.25,
+   "p": 540.62,
+   "c": -6.52,
    "k": "usd"
   }
  ],
@@ -594,39 +594,21 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "SEC Aims to Directly Oversee Database Loathed by Wall Street",
-    "tt": "SEC, Wall Street'in Eleştirdiği Veritabanını Doğrudan Denetlemek İçin Harekete Geçiyor",
-    "s": "The Securities and Exchange Commission moved Friday to bring a controversial trade reporting database criticized by much of Wall Street under its direct oversight.",
-    "ss": "Menkul Kıymetler ve Borsa Komisyonu, Wall Street'in çoğunun nefret ettiği tartışmalı ticari raporlama veri tabanını doğrudan gözetimi altına almak için Cuma günü harekete geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
-    "ts": 1795205911000,
+    "t": "S&P, Dow Slide Into Correction as Investors Dump Tech",
+    "tt": null,
+    "s": "Chipmakers led a plunge in US stocks on Friday, with the S&amp;P 500 and the Dow Jones Industrial Index closing in correction territory. Carmen Reinicke reports. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/s-p-dow-slide-into-correction-as-investors-dump-tech-video",
+    "ts": 1795213552000,
     "tags": []
    },
    {
-    "t": "VIX Hits Highest Level Since 2025 Tariff Turmoil as Volatility Warning Flash",
-    "tt": "VIX, Volatilite Uyarısı Flaşıyla 2025 Tarife Kargaşasından Bu Yana En Yüksek Seviyeye Ulaştı",
-    "s": "The stock market’s main volatility gauge jumped to its highest level since April 2025 as the S&amp;P 500 capped its worst week in seven months.",
-    "ss": "Borsanın ana volatilite göstergesi, S&P 500'ün yedi aydaki en kötü haftasını tamamlamasıyla Nisan 2025'ten bu yana en yüksek seviyesine yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/vix-hits-highest-level-since-2025-tariff-turmoil-as-volatility-warning-flash",
-    "ts": 1795209753000,
-    "tags": []
-   },
-   {
-    "t": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum",
-    "tt": "Goldman, Panik Endeksi Maksimuma Yaklaşırken Hisse Satışlarının Ayakta Olduğunu Söyledi",
-    "s": "Goldman Sachs Group Inc.’s panic gauge climbed near its maximum level as US stocks tumbled Friday, signaling that another substantial wave of selling will follow over the coming week, according to the bank’s traders.",
-    "ss": "Goldman Sachs Group Inc.'in panik göstergesi Cuma günü ABD hisse senetlerinin düşmesiyle birlikte maksimum seviyesine yaklaştı ve bankanın traderlarına göre önümüzdeki hafta önemli bir satış dalgasının daha takip edeceğinin sinyalini verdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/goldman-says-stock-selloff-has-legs-as-panic-index-nears-maximum",
-    "ts": 1795209655000,
-    "tags": []
-   },
-   {
-    "t": "Market Calm Hid Widespread Losses Under Surface, Schwab's Sonders Says",
-    "tt": "Schwab'lı Sonders, Piyasa Sakinliğinin Yaygın Kayıpları Yüzeyde Gizlediğini Söyledi",
-    "s": "Liz Ann Sonders, chief investment strategist at Charles Schwab, says broad market declines exposed weaknesses that were obscured by relative calm in major indexes. Speaking on \"Bloomberg The Close,\" Sonders also says she expects a 25 basis-point rate hike in December. (Source: Bloomberg)",
-    "ss": "Charles Schwab'ın baş yatırım stratejisti Liz Ann Sonders, geniş çaplı piyasa düşüşlerinin, büyük endekslerdeki göreceli sakinlik nedeniyle gizlenen zayıflıkları ortaya çıkardığını söylüyor. \"Bloomberg The Close\" programında konuşan Sonders, Aralık ayında 25 baz puanlık faiz artışı beklediğini de söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-20/market-calm-hid-widespread-losses-schwab-s-sonders-says-video",
-    "ts": 1795209393000,
+    "t": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+    "tt": null,
+    "s": "Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+    "ts": 1795132563000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -636,12 +618,12 @@
     ]
    },
    {
-    "t": "Wall Street Regulator Probes Nvidia Accounting, Reuters Says",
-    "tt": "Reuters: Wall Street Düzenleyicisi Nvidia'nın Muhasebesini Soruşturuyor",
-    "s": "The US Securities and Exchange Commission is investigating the accounting practices of Nvidia Corp., Reuters reported Friday, as the challenges facing the chipmaker continue to mount in the wake of Jensen Huang’s departure as chief executive officer.",
-    "ss": "Reuters'in Cuma günü bildirdiğine göre, ABD Menkul Kıymetler ve Borsa Komisyonu, Nvidia Corp.'un muhasebe uygulamalarını araştırıyor; zira çip üreticisinin karşılaştığı zorluklar, Jensen Huang'ın icra kurulu başkanı olarak ayrılmasının ardından artmaya devam ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
-    "ts": 1795204129000,
+    "t": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
+    "tt": null,
+    "s": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video",
+    "ts": 1795212539000,
     "tags": []
    },
    {
@@ -654,39 +636,57 @@
     "tags": []
    },
    {
-    "t": "Bank Stocks Post Worst Week Since April 2025 as Rout Deepens",
-    "tt": "Banka Hisseleri, Rutinin Derinleşmesiyle Nisan 2025'ten Bu Yana En Kötü Haftayı Yaşıyor",
-    "s": "Stocks of big US banks notched their worst weekly performance since last April’s tariff chaos, as concerns over cybersecurity and the unwinding of the artificial-intelligence trade engulfed the broader market.",
-    "ss": "Büyük ABD bankalarının hisseleri, siber güvenlik endişeleri ve yapay zeka ticaretinin gevşemesinin piyasayı daha da etkilemesiyle geçen Nisan ayındaki tarife kaosundan bu yana en kötü haftalık performansını kaydetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/bank-stocks-set-for-worst-week-since-april-2025-as-rout-deepens",
-    "ts": 1795192783000,
+    "t": "Fear and ‘Hot Sauce’: Young Investors Want To Catch Up",
+    "tt": null,
+    "s": "Buzzy stocks, leveraged ETFs, and a generation feeling left behind. BlackRock’s Gargi Chaudhuri discusses ways investors can dabble in risky products while also leaning into time-proven strategies. On this week’s “Bloomberg Money”, she joins Tom Keene and Scarlet Fu, who gives a shoutout to @Eric Ba",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/fear-and-hot-sauce-young-investors-want-to-catch-up-video",
+    "ts": 1795212403000,
     "tags": []
    },
    {
-    "t": "Anthropic Slides 9.1% to Shrink IPO Gain as AI Trade Unravels",
-    "tt": "Anthropic, Yapay Zeka Ticaretinin Çözülmesiyle Halka Arz Kazancını Küçültmek İçin %9,1 Düştü",
-    "s": "Anthropic PBC shares erased a portion of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
-    "ss": "Antropik PBC hisseleri Cuma günü ilk günkü sıçramalarının bir kısmını sildi ve AI laboratuvarının tarihin en büyük halka arzını gerçekleştirmesinin ardından yatırımcıların inancını test etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
-    "ts": 1795185409000,
+    "t": "Fiber Network Operator Zayo Delays Public ABS Sale Until 2027",
+    "tt": null,
+    "s": "Fiber-optic network operator Zayo Group Holdings Inc. is delaying the public-market leg of a planned asset-backed securities offering, while moving ahead with the privately placed portion, according to people with knowledge of the matter.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/fiber-network-operator-zayo-delays-public-abs-sale-until-2027",
+    "ts": 1795211750000,
     "tags": []
    },
    {
-    "t": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
-    "tt": "CrowdStrike, Siber Güvenlik Firması Zscaler'ı Satın Almak İçin Görüşmelerde Bulunuyor",
-    "s": "CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter, in a deal that would be among the largest-ever in the cybersecurity sector and create a company with a combined market value of about $265 billion.",
-    "ss": "Konuya aşina kaynaklara göre CrowdStrike Holdings Inc., siber güvenlik sektöründe şimdiye kadarki en büyük anlaşmalardan biri olacak ve toplam piyasa değeri yaklaşık 265 milyar dolar olan bir şirket yaratacak bir anlaşmayla Zscaler Inc.'i satın almak için görüşmelerde bulunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
-    "ts": 1795208711000,
+    "t": "CrowdStrike Said in Talks to Buy Cybersecurity Firm Zscaler",
+    "tt": null,
+    "s": "CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter, in a deal that would be among the largest-ever in the cybersecurity sector. Zscaler, which had a market value of $32 billion at the end of regular trading Friday, rose about 16% after the clo",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-20/crowdstrike-said-in-talks-to-buy-zscaler-video",
+    "ts": 1795211610000,
     "tags": []
    },
    {
-    "t": "Hedge Funds Slash Bullish Bets on European Diesel To Wartime Low",
-    "tt": "Hedge Fonları Avrupa Dizelindeki Yükseliş Bahislerini Savaş Zamanının En Düşük Seviyesine Düşürdü",
-    "s": "Hedge funds cut bullish gasoil bets to the lowest since before the US-Iran war began, according to ICE Futures Europe data, the latest sign that traders see a historic diesel crunch beginning to ease.",
-    "ss": "ICE Futures Europe verilerine göre hedge fonları, motorin yükselişine yönelik bahisleri ABD-İran savaşı başlamadan bu yana en düşük seviyesine indirdi; bu, yatırımcıların tarihi dizel krizinin hafiflemeye başladığını gördüklerine dair son işaret.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-20/hedge-funds-slash-bullish-bets-on-european-diesel-to-wartime-low",
-    "ts": 1795208631000,
+    "t": "Bayer’s $7.25 Billion Roundup Settlement Approved by Judge",
+    "tt": null,
+    "s": "A Missouri judge approved a Bayer AG proposal to contain its mounting legal costs by paying as much as $7.25 billion to resolve tens of thousands of US lawsuits by people who blame the company’s Roundup weedkiller for their cancers.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/bayer-s-7-25-billion-roundup-settlement-approved-by-us-judge",
+    "ts": 1795207694000,
+    "tags": []
+   },
+   {
+    "t": "Euphoria Gives Way to Fear: ‘The Market Just Absolutely Puked’",
+    "tt": null,
+    "s": "All year, investors have gorged themselves on whatever the AI trade served up. Hundreds of billions of dollars of stock sold to build out infrastructure. Near-daily bond offerings to pay for chips and data centers. History’s two largest IPOs.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets",
+    "ts": 1795211520000,
+    "tags": []
+   },
+   {
+    "t": "Carrie Underwood on Her New Wellness Brand, HiNote",
+    "tt": null,
+    "s": "HiNote Founder Carrie Underwood and CEO Kerrigan Behrens discuss the wellness brand’s origins and plans to grow production of its flagship drink mix following a new investment. They speak with Vonnie Quinn and Bailey Lipschultz on “The Close” (Source: Bloomberg)",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
+    "ts": 1794612022000,
     "tags": []
    }
   ],
@@ -796,6 +796,60 @@
   ],
   "MarketWatch": [
    {
+    "t": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+    "tt": null,
+    "s": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+    "ts": 1795212720000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+    "tt": "Nvidia'nın hisseleri 2008'den beri görülmeyen haftalık kayıplara doğru gidiyor",
+    "s": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+    "ss": "Bir fon yöneticisi, şirketin son yedi gün içinde piyasa değerini 811 milyar dolar kaybetmesine rağmen devam eden belirsizliğin Nvidia'yı daha fazla satışa karşı \"savunmasız\" hale getirdiğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "ts": 1795211880000,
+    "tags": []
+   },
+   {
+    "t": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+    "tt": "Take-Two hisselerine yatırım yapanlar dışında herkes bu hafta GTA 6'dan para kazanıyor",
+    "s": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+    "ss": "'Grand Theft Auto VI' gişe rekorları kıran bir oyun olabilir, ancak yatırımcılar buna aldırış etmiyor.",
+    "u": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+    "ts": 1795210740000,
+    "tags": []
+   },
+   {
+    "t": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+    "tt": null,
+    "s": "A looming oversupply problem could weigh on the stock over the next year",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+    "ts": 1795210740000,
+    "tags": []
+   },
+   {
+    "t": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "tt": null,
+    "s": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "ts": 1795210560000,
+    "tags": []
+   },
+   {
+    "t": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+    "tt": null,
+    "s": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
+    "ss": null,
+    "u": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+    "ts": 1795210440000,
+    "tags": []
+   },
+   {
     "t": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
     "tt": "Anthropic'in hisseleri dramatik bir düşüş yaşadı ancak halka arz fiyatının üzerinde kalmayı başardı",
     "s": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
@@ -830,63 +884,36 @@
     "u": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
     "ts": 1795206720000,
     "tags": []
-   },
-   {
-    "t": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-    "tt": "Kocam bir tekneye 80.000 dolar harcadı ama 100.000 dolarlık bir çömlek atölyesi kurma planlarımın sorumsuz olduğunu söylüyor. Kim haklı?",
-    "s": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
-    "ss": "\"Emeklilik hesaplarımızda 2,9 milyon dolar var. Buna yaklaşık 10 yıl önce miras kalan paranın bir kısmı da dahil.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-    "ts": 1795206660000,
-    "tags": []
-   },
-   {
-    "t": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-    "tt": "40'lı yaşlarımdayım. Kocamı veya çocuğumu hak sahibi olarak belirtmem karşılığında daha düşük bir emekli maaşını kabul etmeli miyim?",
-    "s": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-    "ss": "“Eğer kocamdan önce ölürsem, ona benim aylık maaşımın yüzde 50-66’sı kadar ömür boyu emekli maaşı verilecek.”",
-    "u": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-    "ts": 1795206600000,
-    "tags": []
-   },
-   {
-    "t": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "tt": "Piyasanın çökmesinden korkuyorum. 1 milyon dolarlık emeklilik birikimimin 400.000 dolarını yıllık gelire mi yatırmalıyım?",
-    "s": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-    "ss": "\"450.000 dolar değerinde bir evimiz var. Yıllık toplam gelirimiz 125.000 dolar.\"",
-    "u": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "ts": 1795206600000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
-    "tt": "Nvidia'nın hisseleri 2008'den beri görülmeyen haftalık kayıplara doğru gidiyor",
-    "s": "One fund manager says the continued uncertainty makes Nvidia ‘vulnerable’ to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions",
-    "ss": "Bir fon yöneticisi, şirketin son yedi gün içinde piyasa değerini 811 milyar dolar kaybetmesine rağmen devam eden belirsizliğin Nvidia'yı daha fazla satışa karşı \"savunmasız\" hale getirdiğini söylüyor.",
-    "u": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-    "ts": 1795205280000,
-    "tags": []
-   },
-   {
-    "t": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
-    "tt": "Take-Two hisselerine yatırım yapanlar dışında herkes bu hafta GTA 6'dan para kazanıyor",
-    "s": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
-    "ss": "'Grand Theft Auto VI' gişe rekorları kıran bir oyun olabilir, ancak yatırımcılar buna aldırış etmiyor.",
-    "u": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-    "ts": 1795204980000,
-    "tags": []
-   },
-   {
-    "t": "Spooked by Nvidia’s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
-    "tt": "Nvidia'nın çalkantısından korktunuz mu? 401(k)'nize bakmak yerine Grand Theft Auto VI oynayın.",
-    "s": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-    "ss": "Mülk veya CD'ler için hisse senetlerinden vazgeçme eğilimindeyseniz, ani bir hamle yapmadan önce derin bir nefes alın.",
-    "u": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "ts": 1795204380000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "The Real Story Behind The Measles Comeback That RFK Hit Pieces Leave Out",
+    "tt": null,
+    "s": "The Real Story Behind The Measles Comeback That RFK Hit Pieces Leave Out One of the primary propaganda strategies of the political left is retroactive scapegoating ; blaming problems they created on the people who took power after them. And the accusations stick even though simple research would pro",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/real-story-behind-measles-comeback-rfk-hit-pieces-leave-out",
+    "ts": 1795213200000,
+    "tags": []
+   },
+   {
+    "t": "'No Bars Behind Bars': FCC Clears Way For Prisons To Jam Contraband Cellphones",
+    "tt": null,
+    "s": "'No Bars Behind Bars': FCC Clears Way For Prisons To Jam Contraband Cellphones Authored by Tom Gantert via The Epoch Times , The Federal Communications Commission (FCC) voted Thursday to adopt rules allowing state and local correctional facilities to jam signals from cellphones smuggled to inmates .",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/no-bars-behind-bars-fcc-clears-way-prisons-jam-contraband-cellphones",
+    "ts": 1795212000000,
+    "tags": []
+   },
+   {
+    "t": "Hate Hoax: GOP Aide Paid To Be Slashed, Had \"Trump Whore\" Scrawled On Her Belly, Then Faked Zip-Tie Ambush, Feds Say",
+    "tt": null,
+    "s": "Hate Hoax: GOP Aide Paid To Be Slashed, Had \"Trump Whore\" Scrawled On Her Belly, Then Faked Zip-Tie Ambush, Feds Say An alleged bloody \"Trump Whore\" ambush of a New Jersey congressional staffer last summer never happened, federal prosecutors say, and a grand jury has now indicted both the supposed v",
+    "ss": null,
+    "u": "https://www.zerohedge.com/political/hate-hoax-gop-aide-paid-be-slashed-had-trump-whore-scrawled-her-belly-then-faked-zip-tie",
+    "ts": 1795210800000,
+    "tags": []
+   },
    {
     "t": "Kunstler: All Seems Eerily Quiet... You Are Watching A Setup",
     "tt": "Kunstler: Her Şey Ürkütücü Bir Şekilde Sessiz Görünüyor... Bir Kurulumu İzliyorsunuz",
@@ -949,36 +976,18 @@
     "u": "https://www.zerohedge.com/ai/nvidias-sec-probe-just-got-lot-worse",
     "ts": 1795203524000,
     "tags": []
-   },
-   {
-    "t": "Private Credit Redemptions: Why Investors Still Can't Get Out",
-    "tt": "Özel Kredi Geri Ödemeleri: Yatırımcılar Neden Hala Çıkamıyor?",
-    "s": "Private Credit Redemptions: Why Investors Still Can't Get Out Authored by Lance Roberts via RIA , Private credit redemptions are falling, but most funds still return only 5% of shares per quarter. Key Takeaways Redemption requests at the largest non-traded private credit funds are easing, but most s",
-    "ss": "Özel Kredi Geri Ödemeleri: Yatırımcılar Neden Hala Dışarı Çıkamıyor? Yazan: Lance Roberts, RIA aracılığıyla, Özel kredi geri ödemeleri düşüyor, ancak fonların çoğu hâlâ her çeyrekte hisselerin yalnızca %5'ini geri veriyor. Önemli Çıkarımlar En büyük ticari olmayan özel kredi fonlarındaki itfa talepleri hafifliyor, ancak çoğu",
-    "u": "https://www.zerohedge.com/markets/private-credit-redemptions-why-investors-still-cant-get-out",
-    "ts": 1795203000000,
-    "tags": []
-   },
-   {
-    "t": "Chinese-Built AI Hacking Machine Lets Any Idiot Infiltrate Systems In Under 3 Hours, FBI Warns",
-    "tt": "FBI, Çin Yapımı Yapay Zeka Hackleme Makinesinin Herhangi Bir Aptalın Sistemlere 3 Saatten Kısa Bir Süre İçinde Sızmasına İzin Verdiğini Uyardı",
-    "s": "Chinese-Built AI Hacking Machine Lets Any Idiot Infiltrate Systems In Under 3 Hours, FBI Warns ARTEX, an AI hacking framework developed in China , lets attackers \"with minimal technical expertise\" run complex, multi-target break-ins at machine speed , the FBI warned in a FLASH advisory last week. In",
-    "ss": "FBI, Çin Yapımı Yapay Zeka Hackleme Makinesinin Her Aptalın Sistemlere 3 Saatten Kısa Bir Süre İçinde Sızmasına İzin Verdiğini Uyarıyor FBI, Çin'de geliştirilen bir AI hackleme çerçevesi olan ARTEX'in, \"minimum teknik uzmanlığa sahip\" saldırganların karmaşık, çok hedefli izinsiz girişleri makine hızında gerçekleştirmesine olanak tanıdığını bildirdi, FBI geçen hafta bir FLASH tavsiyesinde uyardı. İçinde",
-    "u": "https://www.zerohedge.com/technology/chinese-built-ai-hacking-machine-lets-any-idiot-infiltrate-systems-under-3-hours-fbi",
-    "ts": 1795202100000,
-    "tags": []
-   },
-   {
-    "t": "\"Definitely\" A Supply Chain Risk: Pentagon Goes On CNBC To Bash Anthropic As Stock Slides Toward IPO Price",
-    "tt": "\"Kesinlikle\" Bir Tedarik Zinciri Riski: Hisseler Halka Arz Fiyatına Doğru Kayarken Pentagon CNBC'ye Antropik'i Bastırmaya Gidiyor",
-    "s": "\"Definitely\" A Supply Chain Risk: Pentagon Goes On CNBC To Bash Anthropic As Stock Slides Toward IPO Price A day after Anthropic's record-breaking Nasdaq debut, the Pentagon's technology chief went on CNBC and said the newly public AI giant is still a supply chain risk to the Department of War - whi",
-    "ss": "\"Kesinlikle\" Bir Tedarik Zinciri Riski: Pentagon, Hisse Senedi Halka Arz Fiyatına Doğru Kayarken Anthropic'i Ezmek İçin CNBC'ye Gidiyor Anthropic'in rekor kıran Nasdaq çıkışından bir gün sonra, Pentagon'un teknoloji şefi CNBC'ye çıktı ve yeni kamuya açık yapay zeka devinin hala Savaş Bakanlığı için bir tedarik zinciri riski olduğunu söyledi.",
-    "u": "https://www.zerohedge.com/ai/definitely-supply-chain-risk-pentagon-goes-cnbc-bash-anthropic-stock-slides-toward-ipo-price",
-    "ts": 1795201200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Fon soruşturmasında 108 kişinin mal varlığı işlemleri için bildirim talebi",
+    "tt": null,
+    "s": "İstanbul Cumhuriyet Başsavcılığı, \"fon soruşturması\" kapsamında 108 kişinin mal varlıkları üzerinde işlem yapmak istemesi halinde ilgili kurumların kendisine bildirimde bulunmasını istedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fon-sorusturmasinda-108-kisinin-mal-varligi-islemleri-icin-bildirim-talebi-3795364",
+    "ts": 1795210254000,
+    "tags": []
+   },
    {
     "t": "Resmi Gazete'de bugün (21.11.2026)",
     "tt": null,
@@ -1059,15 +1068,6 @@
     "u": "https://www.bloomberght.com/trump-yakinda-10-ticaret-anlasmasi-daha-yapacagiz-3795341",
     "ts": 1795196800000,
     "tags": []
-   },
-   {
-    "t": "Euro Bölgesi'nde tüketici güveni beklentilerin aksine yükseldi",
-    "tt": null,
-    "s": "Euro Bölgesi'nde tüketici güven endeksi, Kasım'da bir önceki aya göre 1 puan artarak eksi 16,9'a yükseldi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/euro-bolgesi-nde-tuketici-guveni-beklentilerin-aksine-yukseldi-3795340",
-    "ts": 1795192824000,
-    "tags": []
    }
   ]
  },
@@ -1083,6 +1083,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
