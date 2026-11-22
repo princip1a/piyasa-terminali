@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T04:47:50.717736+00:00",
+ "generated": "2026-11-22T05:46:54.469327+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,55 +89,55 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59216,
-   "c": 5.71,
+   "p": 58711,
+   "c": 5.28,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1660.87,
-   "c": 6.84,
+   "p": 1646.86,
+   "c": 5.6,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 69.43,
-   "c": 5.85,
+   "p": 68.71,
+   "c": 5.07,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.92026,
-   "c": 4.75,
+   "p": 0.912034,
+   "c": 4.73,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 540.41,
-   "c": 5.64,
+   "p": 536.4,
+   "c": 5.04,
    "k": "usd"
   }
  ],
  "fred": null,
  "events": [
   {
-   "title": "FOMC Member Barr Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "title": "Flash Manufacturing PMI",
+   "impact": "Medium",
+   "forecast": "54.5",
+   "previous": "56.0",
    "actual": "",
-   "ts": 1794823200000,
-   "tr": "Pzt 16.11 13:00",
+   "ts": 1795445100000,
+   "tr": "Pzt 23.11 17:45",
    "reading": null
   },
   {
-   "title": "Empire State Manufacturing Index",
-   "impact": "Low",
-   "forecast": "17.6",
-   "previous": "25.5",
+   "title": "Flash Services PMI",
+   "impact": "Medium",
+   "forecast": "55.6",
+   "previous": "57.9",
    "actual": "",
-   "ts": 1794835800000,
-   "tr": "Pzt 16.11 16:30",
+   "ts": 1795445100000,
+   "tr": "Pzt 23.11 17:45",
    "reading": null
   },
   {
@@ -146,178 +146,58 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1794837900000,
-   "tr": "Pzt 16.11 17:05",
-   "reading": null
-  },
-  {
-   "title": "Cleveland Fed Inflation Expectations",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "3.3%",
-   "actual": "",
-   "ts": 1794840300000,
-   "tr": "Pzt 16.11 17:45",
-   "reading": null
-  },
-  {
-   "title": "Fed Chairman Warsh Speaks",
-   "impact": "High",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1794848400000,
-   "tr": "Pzt 16.11 20:00",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Hammack Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1794856500000,
-   "tr": "Pzt 16.11 22:15",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Barkin Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1794870600000,
-   "tr": "Sal 17.11 02:10",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Goolsbee Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1794871800000,
-   "tr": "Sal 17.11 02:30",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Musalem Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1794918600000,
-   "tr": "Sal 17.11 15:30",
+   "ts": 1795467600000,
+   "tr": "Sal 24.11 00:00",
    "reading": null
   },
   {
    "title": "ADP Weekly Employment Change",
    "impact": "Low",
    "forecast": "",
-   "previous": "19.8K",
+   "previous": "23.8K",
    "actual": "",
-   "ts": 1794921300000,
-   "tr": "Sal 17.11 16:15",
+   "ts": 1795526100000,
+   "tr": "Sal 24.11 16:15",
    "reading": null
   },
   {
-   "title": "Core Retail Sales m/m",
-   "impact": "High",
-   "forecast": "0.4%",
-   "previous": "0.9%",
-   "actual": "",
-   "ts": 1794922200000,
-   "tr": "Sal 17.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Retail Sales m/m",
-   "impact": "High",
-   "forecast": "0.1%",
-   "previous": "0.8%",
-   "actual": "",
-   "ts": 1794922200000,
-   "tr": "Sal 17.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Import Prices m/m",
+   "title": "HPI m/m",
    "impact": "Low",
-   "forecast": "0.7%",
-   "previous": "1.1%",
+   "forecast": "0.2%",
+   "previous": "0.3%",
    "actual": "",
-   "ts": 1794922200000,
-   "tr": "Sal 17.11 16:30",
+   "ts": 1795528800000,
+   "tr": "Sal 24.11 17:00",
    "reading": null
   },
   {
-   "title": "FOMC Member Waller Speaks",
+   "title": "S&P/CS Composite-20 HPI y/y",
    "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "forecast": "2.7%",
+   "previous": "2.7%",
    "actual": "",
-   "ts": 1794924600000,
-   "tr": "Sal 17.11 17:10",
+   "ts": 1795528800000,
+   "tr": "Sal 24.11 17:00",
    "reading": null
   },
   {
-   "title": "Capacity Utilization Rate",
-   "impact": "Low",
-   "forecast": "76.8%",
-   "previous": "76.9%",
+   "title": "CB Consumer Confidence",
+   "impact": "Medium",
+   "forecast": "92.1",
+   "previous": "91.7",
    "actual": "",
-   "ts": 1794924900000,
-   "tr": "Sal 17.11 17:15",
+   "ts": 1795532400000,
+   "tr": "Sal 24.11 18:00",
    "reading": null
   },
   {
-   "title": "Industrial Production m/m",
+   "title": "Richmond Manufacturing Index",
    "impact": "Low",
-   "forecast": "0.0%",
-   "previous": "0.7%",
+   "forecast": "-3",
+   "previous": "-2",
    "actual": "",
-   "ts": 1794924900000,
-   "tr": "Sal 17.11 17:15",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Hammack Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1794925800000,
-   "tr": "Sal 17.11 17:30",
-   "reading": null
-  },
-  {
-   "title": "Business Inventories m/m",
-   "impact": "Low",
-   "forecast": "0.5%",
-   "previous": "0.4%",
-   "actual": "",
-   "ts": 1794927600000,
-   "tr": "Sal 17.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "NAHB Housing Market Index",
-   "impact": "Low",
-   "forecast": "29",
-   "previous": "29",
-   "actual": "",
-   "ts": 1794927600000,
-   "tr": "Sal 17.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Williams Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1794943500000,
-   "tr": "Sal 17.11 22:25",
+   "ts": 1795532400000,
+   "tr": "Sal 24.11 18:00",
    "reading": null
   },
   {
@@ -326,268 +206,158 @@
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1794951000000,
-   "tr": "Çar 18.11 00:30",
+   "ts": 1795555800000,
+   "tr": "Çar 25.11 00:30",
    "reading": null
   },
   {
-   "title": "Building Permits",
-   "impact": "Low",
-   "forecast": "1.38M",
-   "previous": "1.40M",
-   "actual": "",
-   "ts": 1795008600000,
-   "tr": "Çar 18.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Housing Starts",
-   "impact": "Low",
-   "forecast": "1.25M",
-   "previous": "1.22M",
-   "actual": "",
-   "ts": 1795008600000,
-   "tr": "Çar 18.11 16:30",
-   "reading": null
-  },
-  {
-   "title": "Pending Home Sales m/m",
-   "impact": "Low",
-   "forecast": "-2.0%",
-   "previous": "-7.3%",
-   "actual": "",
-   "ts": 1795014000000,
-   "tr": "Çar 18.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Crude Oil Inventories",
-   "impact": "Low",
-   "forecast": "0.4M",
-   "previous": "4.7M",
-   "actual": "",
-   "ts": 1795015800000,
-   "tr": "Çar 18.11 18:30",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Daly Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795022100000,
-   "tr": "Çar 18.11 20:15",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Barr Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795026900000,
-   "tr": "Çar 18.11 21:35",
-   "reading": null
-  },
-  {
-   "title": "FOMC Meeting Minutes",
+   "title": "Core PCE Price Index m/m",
    "impact": "High",
-   "forecast": "",
-   "previous": "",
+   "forecast": "0.3%",
+   "previous": "0.3%",
    "actual": "",
-   "ts": 1795028400000,
-   "tr": "Çar 18.11 22:00",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
    "reading": null
   },
   {
-   "title": "FOMC Member Williams Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "title": "Prelim GDP q/q",
+   "impact": "High",
+   "forecast": "3.5%",
+   "previous": "3.4%",
    "actual": "",
-   "ts": 1795030200000,
-   "tr": "Çar 18.11 22:30",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
    "reading": null
   },
   {
-   "title": "TIC Long-Term Purchases",
-   "impact": "Low",
-   "forecast": "160.7B",
-   "previous": "279.2B",
-   "actual": "",
-   "ts": 1795035600000,
-   "tr": "Per 19.11 00:00",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Kashkari Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795036500000,
-   "tr": "Per 19.11 00:15",
-   "reading": null
-  },
-  {
-   "title": "Philly Fed Manufacturing Index",
+   "title": "Prelim GDP Price Index q/q",
    "impact": "Medium",
-   "forecast": "20.6",
-   "previous": "20.9",
+   "forecast": "2.3%",
+   "previous": "2.3%",
    "actual": "",
-   "ts": 1795095000000,
-   "tr": "Per 19.11 16:30",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
    "reading": null
   },
   {
    "title": "Unemployment Claims",
    "impact": "Medium",
-   "forecast": "198K",
-   "previous": "200K",
+   "forecast": "201K",
+   "previous": "203K",
    "actual": "",
-   "ts": 1795095000000,
-   "tr": "Per 19.11 16:30",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
    "reading": null
   },
   {
-   "title": "FOMC Member Hammack Speaks",
+   "title": "Core Durable Goods Orders m/m",
+   "impact": "Low",
+   "forecast": "0.5%",
+   "previous": "0.5%",
+   "actual": "",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Durable Goods Orders m/m",
+   "impact": "Low",
+   "forecast": "0.5%",
+   "previous": "1.8%",
+   "actual": "",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Personal Income m/m",
+   "impact": "Low",
+   "forecast": "0.4%",
+   "previous": "0.2%",
+   "actual": "",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Personal Spending m/m",
+   "impact": "Low",
+   "forecast": "0.4%",
+   "previous": "0.5%",
+   "actual": "",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "New Home Sales",
+   "impact": "Low",
+   "forecast": "649K",
+   "previous": "676K",
+   "actual": "",
+   "ts": 1795618800000,
+   "tr": "Çar 25.11 18:00",
+   "reading": null
+  },
+  {
+   "title": "Crude Oil Inventories",
    "impact": "Low",
    "forecast": "",
-   "previous": "",
+   "previous": "3.4M",
    "actual": "",
-   "ts": 1795096200000,
-   "tr": "Per 19.11 16:50",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Jefferson Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795098300000,
-   "tr": "Per 19.11 17:25",
-   "reading": null
-  },
-  {
-   "title": "CB Leading Index m/m",
-   "impact": "Low",
-   "forecast": "0.0%",
-   "previous": "0.0%",
-   "actual": "",
-   "ts": 1795100400000,
-   "tr": "Per 19.11 18:00",
+   "ts": 1795620600000,
+   "tr": "Çar 25.11 18:30",
    "reading": null
   },
   {
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "25B",
-   "previous": "61B",
-   "actual": "",
-   "ts": 1795102200000,
-   "tr": "Per 19.11 18:30",
-   "reading": null
-  },
-  {
-   "title": "Mortgage Delinquencies",
-   "impact": "Low",
    "forecast": "",
-   "previous": "4.37%",
+   "previous": "20B",
    "actual": "",
-   "ts": 1795103160000,
-   "tr": "Per 19.11 18:46",
+   "ts": 1795626000000,
+   "tr": "Çar 25.11 20:00",
    "reading": null
   },
   {
-   "title": "FOMC Member Goolsbee Speaks",
+   "title": "Beige Book",
    "impact": "Low",
    "forecast": "",
    "previous": "",
    "actual": "",
-   "ts": 1795109400000,
-   "tr": "Per 19.11 20:30",
+   "ts": 1795633200000,
+   "tr": "Çar 25.11 22:00",
    "reading": null
   },
   {
-   "title": "FOMC Member Barr Speaks",
+   "title": "Bank Holiday",
+   "impact": "Holiday",
+   "forecast": "",
+   "previous": "",
+   "actual": "",
+   "ts": 1795698000000,
+   "tr": "Per 26.11 16:00",
+   "reading": null
+  },
+  {
+   "title": "Goods Trade Balance",
    "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "forecast": "-134.4B",
+   "previous": "-134.9B",
    "actual": "",
-   "ts": 1795115700000,
-   "tr": "Per 19.11 22:15",
+   "ts": 1795786200000,
+   "tr": "Cum 27.11 16:30",
    "reading": null
   },
   {
-   "title": "FOMC Member Barkin Speaks",
+   "title": "Prelim Wholesale Inventories m/m",
    "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "forecast": "0.7%",
+   "previous": "0.6%",
    "actual": "",
-   "ts": 1795122000000,
-   "tr": "Cum 20.11 00:00",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Paulson Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795131000000,
-   "tr": "Cum 20.11 02:30",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Waller Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795181100000,
-   "tr": "Cum 20.11 16:25",
-   "reading": null
-  },
-  {
-   "title": "Revised UoM Consumer Sentiment",
-   "impact": "Medium",
-   "forecast": "51.7",
-   "previous": "51.0",
-   "actual": "",
-   "ts": 1795186800000,
-   "tr": "Cum 20.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "Revised UoM Inflation Expectations",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "4.3%",
-   "actual": "",
-   "ts": 1795186800000,
-   "tr": "Cum 20.11 18:00",
-   "reading": null
-  },
-  {
-   "title": "President Trump Speaks",
-   "impact": "Medium",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795194000000,
-   "tr": "Cum 20.11 20:00",
-   "reading": null
-  },
-  {
-   "title": "FOMC Member Cook Speaks",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": "",
-   "ts": 1795194900000,
-   "tr": "Cum 20.11 20:15",
+   "ts": 1795786200000,
+   "tr": "Cum 27.11 16:30",
    "reading": null
   }
  ],
@@ -882,6 +652,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Korybko: How Significant Is The Shenzhen Declaration? The Real Test Is Whether The Trilateral Becomes An Annual Tradition",
+    "tt": "Korybko: Shenzhen Deklarasyonu Ne Kadar Önemli? Gerçek Test Üçlülüğün Her Yıl Geleneğe Dönüşüp Dönüşmeyeceğidir",
+    "s": "Korybko: How Significant Is The Shenzhen Declaration? The Real Test Is Whether The Trilateral Becomes An Annual Tradition Authored by Andrew Korybko via Substack , It's purely perfunctory, but the importance of their historic meeting is that it could become an annual tradition that might gradually c",
+    "ss": "Korybko: Shenzhen Deklarasyonu Ne Kadar Önemli? Gerçek Test, Üçlü'nün Yıllık Bir Geleneğe Dönüşüp Dönüşmeyeceğidir Yazan Andrew Korybko, Substack aracılığıyla. Tamamen formalite icabı, ancak tarihi buluşmalarının önemi, bunun yavaş yavaş geleneksel hale gelebilecek yıllık bir gelenek haline gelebilmesidir.",
+    "u": "https://www.zerohedge.com/geopolitical/korybko-how-significant-shenzhen-declaration-real-test-whether-trilateral-becomes",
+    "ts": 1795323600000,
+    "tags": []
+   },
+   {
     "t": "Mexican Cartel Kingpin On FBI's Ten Most Wanted List Captured In Dramatic Operation",
     "tt": "FBI'ın En Çok Arananlar Listesindeki Meksikalı Kartel Lideri Dramatik Bir Operasyonda Yakalandı",
     "s": "Mexican Cartel Kingpin On FBI's Ten Most Wanted List Captured In Dramatic Operation Footage circulating on X overnight appears to show Black Hawk helicopters operated by Mexican armed forces engaging drug cartels with M134 rotary miniguns in the Sinaloa region on Friday night. The activity is linked",
@@ -961,18 +740,18 @@
     "u": "https://www.zerohedge.com/political/judge-young-strikes-down-administrations-ban-using-ryan-white-hiv-grants-gender-affirming",
     "ts": 1795305600000,
     "tags": []
-   },
-   {
-    "t": "Saber-Rattling, Or Coincidence?",
-    "tt": "Saber-Tıngırak mı Yoksa Tesadüf mü?",
-    "s": "Saber-Rattling, Or Coincidence? Authored by D. Padgett Blakley and Richard Blakley via American Thinker , Ian Fleming, having served in intelligence, once said this: \"Once is happenstance. Twice is coincidence. Three times is enemy action\"... With the recent outages across both the private and publi",
-    "ss": "Saber-Tıngırak mı Yoksa Tesadüf mü? American Thinker aracılığıyla D. Padgett Blakley ve Richard Blakley tarafından yazılan, istihbaratta görev yapan Ian Fleming bir keresinde şunu söylemişti: \"Bir kere tesadüf. İki kere tesadüf. Üç kere düşman eylemidir\"... Hem özel hem de kamusal alanda son zamanlarda yaşanan kesintilerle birlikte",
-    "u": "https://www.zerohedge.com/geopolitical/saber-rattling-or-coincidence",
-    "ts": 1795302000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "33 yıllık liderlik, dört saatlik kesinti ve üç büyük ders",
+    "tt": null,
+    "s": "Gelecekte şirketlerin yalnızca daha fazla yapay zekâ kullanması yeterli olmayacak. Bu sistemlerin hangi altyapılara bağlı olduğu, bir hizmet sağlayıcısı devre dışı kaldığında operasyonların nasıl sürdürüleceği de belirleyici olacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/33-yillik-liderlik-dort-saatlik-kesinti-ve-uc-buyuk-ders-3795372",
+    "ts": 1795325251000,
+    "tags": []
+   },
    {
     "t": "Türk matematikçi, 167 yıllık Riemann hipotezini Claude'la çözdüğünü açıkladı",
     "tt": null,
@@ -1052,15 +831,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-21112026-3795363",
     "ts": 1795208937000,
-    "tags": []
-   },
-   {
-    "t": "SPK'dan bir şirkete geçici işlem yasağı",
-    "tt": null,
-    "s": "SPK, Batıçim Batı Anadolu Sanayi ve Ticaret A.Ş. (BTCIM) paylarındaki işlemler nedeniyle BR Madencilik Enerji İnşaat Taahhüt ve Ticaret A.Ş.'ye borsalarda 6 ay süreyle geçici işlem yasağı getirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/spk-dan-bir-sirkete-gecici-islem-yasagi-3795362",
-    "ts": 1795207583000,
     "tags": []
    }
   ]
