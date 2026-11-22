@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T19:59:25.104505+00:00",
+ "generated": "2026-11-22T20:40:11.278846+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60651,
-   "c": 0.7,
+   "p": 60533,
+   "c": 0.27,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1713.32,
-   "c": 1.78,
+   "p": 1711.91,
+   "c": 1.66,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.2,
-   "c": -0.35,
+   "p": 69.99,
+   "c": -0.69,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.927244,
-   "c": -0.82,
+   "p": 0.924026,
+   "c": -1.02,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 555.59,
-   "c": 1.24,
+   "p": 555.33,
+   "c": 1.26,
    "k": "usd"
   }
  ],
@@ -364,21 +364,39 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
+    "tt": "Nasdaq 100 Ayı Piyasasına Yaklaşırken Dip Alıcıları Adım Atmakta Tereddüt Ediyor",
+    "s": "Since the fundamental outlook did not change dramatically during last week’s massive selloff in stocks and many valuation measures are now screaming bargain, contrarian impulses to buy the dip are running strong.",
+    "ss": "Hisse senetlerinde geçen hafta yaşanan yoğun satış sırasında temel görünüm dramatik bir şekilde değişmediğinden ve birçok değerleme ölçütü artık pazarlık çığlıkları attığında, düşüşü satın almaya yönelik karşıt dürtüler güçlü bir şekilde devam ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
+    "ts": 1795379504000,
+    "tags": []
+   },
+   {
+    "t": "Compass Plans to Move Main Listing to New York From London",
+    "tt": "FT, Compass'ın Ana Listeyi New York'a Taşımayı Planladığını Açıkladı",
+    "s": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, according to a person familiar with the matter, marking yet another disappointment for the UK stock market.",
+    "ss": "Financial Times'ın haberine göre, Birleşik Krallık'taki Compass Group Plc, ana listelemesini Londra'dan New York'a taşımayı planlıyor ve bu, Birleşik Krallık borsası için bir başka hayal kırıklığını daha işaret ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+    "ts": 1795367284000,
+    "tags": []
+   },
+   {
+    "t": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+    "tt": "Tahvil Piyasasının, Hisse Senetlerindeki Geri Çekilmenin Etkilediği Fed Artışları İçin Ticarete Yönelik Hareketi",
+    "s": "Wall Street is coalescing around one of the bond market’s favorite ways to bet that the Federal Reserve will press ahead with its vow to tame inflation, even as slumping stocks darken the economic outlook.",
+    "ss": "Wall Street, düşen hisse senetleri ekonomik görünümü karartsa bile, Fed'in enflasyonu kontrol altına alma vaadini sürdüreceğine dair tahvil piyasasının favori yollarından biri etrafında birleşiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+    "ts": 1795377600000,
+    "tags": []
+   },
+   {
     "t": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
     "tt": "Goldman Yatırımcıları ABD Hisse Senetlerine Giriş Noktasını Görüyor Ancak Risklere Karşı Uyardı",
     "s": "Goldman Sachs Group Inc.’s trading desk says last week’s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a meaningful rally could be missing.",
     "ss": "Goldman Sachs Group Inc.'in ticaret masası, geçen haftaki satışların ABD hisse senetlerinin yükselişi için cazip bir fırsat yarattığını söylüyor. Yine de banka, genel yatırımcı pozisyonunun yüksek kalmaya devam ettiği konusunda uyararak, anlamlı bir yükseliş için gereken daha geniş kapitülasyonun eksik olabileceğine işaret ediyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
     "ts": 1795374302000,
-    "tags": []
-   },
-   {
-    "t": "Compass Plans to Move Main Listing to New York, FT Says",
-    "tt": "FT, Compass'ın Ana Listeyi New York'a Taşımayı Planladığını Açıkladı",
-    "s": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market.",
-    "ss": "Financial Times'ın haberine göre, Birleşik Krallık'taki Compass Group Plc, ana listelemesini Londra'dan New York'a taşımayı planlıyor ve bu, Birleşik Krallık borsası için bir başka hayal kırıklığını daha işaret ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
-    "ts": 1795367284000,
     "tags": []
    },
    {
@@ -433,24 +451,6 @@
     "ss": "Hisse senetlerini sarsan mide bulandırıcı satışlar, opsiyon tüccarlarının ileride daha fazla volatiliteye hazır olmasına neden oldu.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
     "ts": 1795359600000,
-    "tags": []
-   },
-   {
-    "t": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
-    "tt": "Fırtına, Brezilya'nın Kırsal Kasabasını Mahvetti, Mahsuller ve Yaşamlar Tehdidi Altında",
-    "s": "A heavy storm that hit Brazil’s southern state of Rio Grande do Sul on Friday devastated a small town and raised concerns that continued rains and strong winds may bring further damage to crucial agriculture areas.",
-    "ss": "Cuma günü Brezilya'nın güney eyaleti Rio Grande do Sul'u vuran şiddetli fırtına küçük bir kasabayı harap etti ve devam eden yağmurlar ve kuvvetli rüzgarların önemli tarım alanlarına daha fazla zarar verebileceği endişelerini artırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
-    "ts": 1795358500000,
-    "tags": []
-   },
-   {
-    "t": "GTA VI Takes Over Thanksgiving Week",
-    "tt": "GTA VI Şükran Günü Haftasını Devraldı",
-    "s": "On Bloomberg This Weekend, Bloomberg reporter Josyana Joshua tells host Lisa Mateo how the long-awaited release of Grand Theft Auto VI is becoming a cultural and workplace phenomenon, with gamers taking time off and preparing to play through Thanksgiving week. Joshua explains how the game’s 13-year ",
-    "ss": "Bu Hafta Sonu Bloomberg'de Bloomberg muhabiri Josyana Joshua, sunucu Lisa Mateo'ya, Grand Theft Auto VI'nın uzun süredir beklenen sürümünün, oyuncuların Şükran Günü haftası boyunca ara verip oynamaya hazırlanmalarıyla nasıl kültürel ve işyerinde bir fenomen haline geldiğini anlatıyor. Joshua oyunun 13. yılını anlatıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
-    "ts": 1795357523000,
     "tags": []
    }
   ],
@@ -554,6 +554,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "Social Security should be shut down, this Republican senator says",
+    "tt": "Bu Cumhuriyetçi senatör, Sosyal Güvenliğin kapatılması gerektiğini söylüyor",
+    "s": "The program’s trust funds are forecast to run out of money in the next six years.",
+    "ss": "Programın güven fonlarının önümüzdeki altı yıl içinde parasının tükeneceği tahmin ediliyor.",
+    "u": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+    "ts": 1795379160000,
+    "tags": []
+   },
+   {
     "t": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
     "tt": "Yeni yasa tasarısı uyarınca Medicare yararlanıcıları evde daha ucuz bakım için huzurevini atlayabilir",
     "s": "The plan would free up hospital and nursing-home beds — and lower costs.",
@@ -633,18 +642,27 @@
     "u": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
     "ts": 1795363440000,
     "tags": []
-   },
-   {
-    "t": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
-    "tt": "Kurumsal Amerika, yapay zeka, ticari kartlar ve L.A. havaalanında 'nesiller arası' büyümenin peşinde",
-    "s": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
-    "ss": "Yöneticilerin kazanç görüşmelerinde nesilde bir kez görülen trendler konusunda hiçbir eksiklik yaşanmadı.",
-    "u": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
-    "ts": 1795359660000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Trump Tells Federal Contractors: Check With White House Before Answering Congress",
+    "tt": "Trump, Federal Müteahhitlere: Kongreye Yanıt Vermeden Önce Beyaz Saray'la Görüşün",
+    "s": "Trump Tells Federal Contractors: Check With White House Before Answering Congress Authored by Aldgra Fredly via The Epoch Times , President Donald Trump signed an executive order on Nov. 20 directing federal contractors to notify the White House of any pending or future congressional requests for in",
+    "ss": "Trump, Federal Müteahhitlere: Kongreyi Yanıtlamadan Önce Beyaz Saray'la Görüşün Yazan Aldgra Fredly, The Epoch Times aracılığıyla, Başkan Donald Trump, 20 Kasım'da federal müteahhitlere, Kongre'nin bekleyen veya gelecekteki taleplerini Beyaz Saray'a bildirmeleri yönünde talimat veren bir idari emir imzaladı.",
+    "u": "https://www.zerohedge.com/political/trump-tells-federal-contractors-check-white-house-answering-congress",
+    "ts": 1795380000000,
+    "tags": []
+   },
+   {
+    "t": "Watch: Bessent's Surprising Jensen Huang About-Face",
+    "tt": "İzle: Bessent'in Şaşırtıcı Jensen Huang Yüzü",
+    "s": "Watch: Bessent's Surprising Jensen Huang About-Face Treasury Secretary Scott Bessent, who a week ago told Nvidia's board to go outside the company for a new chief executive, declined on Sunday to say Jensen Huang shouldn't get his job back, and called the Chinese-spy angle of the scandal that ended ",
+    "ss": "Bessent'in Şaşırtıcı Jensen Huang'ı Bir hafta önce Nvidia'nın yönetim kuruluna yeni bir genel müdür bulmak için şirket dışına çıkmasını söyleyen Hazine Bakanı Scott Bessent, Pazar günü Jensen Huang'ın işini geri almaması gerektiğini söylemeyi reddetti ve sona eren skandalın Çin casusluk açısı olduğunu söyledi.",
+    "u": "https://www.zerohedge.com/ai/watch-bessents-stunning-jensen-huang-about-face",
+    "ts": 1795378500000,
+    "tags": []
+   },
    {
     "t": "Three \"Strong\" Men and One Weak Market",
     "tt": "Üç \"Güçlü\" Adam ve Bir Zayıf Pazar",
@@ -715,24 +733,6 @@
     "ss": "Meksika Suçlu, FBI'ın En Çok Arananları 'El Chapo Isidro'yu Baskın Sonrası 11 Ölü Güncellemeyle Yürüyor (1115ET): Meksika Savunma Bakanlığı, FBI'ın En Çok Aranan On kaçaklarından biri olan \"El Chapo Isidro\" Fausto Isidro Meza Flores'i yakalayan operasyonda dört Meksikalı asker ve yedi silahlı kişinin öldürüldüğünü söyledi.",
     "u": "https://www.zerohedge.com/geopolitical/mexican-cartel-kingpin-fbis-ten-most-wanted-list-captured-dramatic-operation",
     "ts": 1795364635000,
-    "tags": []
-   },
-   {
-    "t": "Watch: Russian Warship Explodes In Libyan Port - Was It Ukraine?",
-    "tt": "İzle: Rus Savaş Gemisi Libya Limanında Patladı - Ukrayna mıydı?",
-    "s": "Watch: Russian Warship Explodes In Libyan Port - Was It Ukraine? Libya's eastern government said Sunday that a preliminary investigation points to an explosion aboard a Russian vessel in the port of Benghazi, and that it suspects a drone strike . The blasts and fire tore through the city's naval bas",
-    "ss": "İzle: Rus Savaş Gemisi Libya Limanında Patladı - Ukrayna mıydı? Libya'nın doğu hükümeti Pazar günü yaptığı açıklamada, ön soruşturmanın Bingazi limanında bir Rus gemisinde patlamaya işaret ettiğini ve bir drone saldırısından şüphelendiğini söyledi. Patlamalar ve yangınlar şehrin deniz üssünü kasıp kavurdu",
-    "u": "https://www.zerohedge.com/geopolitical/watch-russian-warship-explodes-libyan-port-was-it-ukraine",
-    "ts": 1795363500000,
-    "tags": []
-   },
-   {
-    "t": "Delta's Biggest Hub Hit By \"Automation Issue,\" Sparking Delays As Thanksgiving Chaos Begins",
-    "tt": "Delta'nın En Büyük Merkezi \"Otomasyon Sorunu\"ndan Etkilendi, Şükran Günü Kaosu Başlarken Gecikmelere Yol Açtı",
-    "s": "Delta's Biggest Hub Hit By \"Automation Issue,\" Sparking Delays As Thanksgiving Chaos Begins Thanksgiving travel is underway Sunday morning, and an \" automation issue\" earlier triggered flight disruptions for Delta Air Lines at Hartsfield-Jackson Atlanta International Airport (ATL). Currently at LaGu",
-    "ss": "Delta'nın En Büyük Merkezi \"Otomasyon Sorunu\"ndan Etkilendi, Şükran Günü Kaosu Başlarken Kıvılcım Gecikmeler Pazar sabahı Şükran Günü seyahati başladı ve bir \"otomasyon sorunu\" daha önce Delta Air Lines'ın Hartsfield-Jackson Atlanta Uluslararası Havalimanı'ndaki (ATL) uçuş kesintilerini tetikledi. Şu anda LaGu'da",
-    "u": "https://www.zerohedge.com/markets/deltas-biggest-hub-hit-automation-issue-sparking-delays-thanksgiving-travel-ramps",
-    "ts": 1795363260000,
     "tags": []
    }
   ],
