@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:22:04.807729+00:00",
+ "generated": "2026-11-22T23:20:44.759574+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3515.4,
-   "c": -4.62,
-   "d": -170.1,
+   "p": 3571.1,
+   "c": 1.58,
+   "d": 55.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.07,
-   "c": -7.33,
-   "d": -3.248,
+   "p": 41.74,
+   "c": 1.72,
+   "d": 0.705,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.41,
-   "c": 0.24,
-   "d": 0.2,
+   "p": 83.16,
+   "c": -0.98,
+   "d": -0.82,
    "k": "usd"
   },
   {
    "n": "Brent",
    "p": 89.95,
-   "c": -2.21,
-   "d": -2.03,
+   "c": -2.83,
+   "d": -2.62,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.84,
-   "c": 0.03,
-   "d": 0.03,
+   "p": 103.801,
+   "c": -0.01,
+   "d": -0.009,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5578,
-   "c": -0.01,
-   "d": -0.005,
+   "p": 50.5627,
+   "c": 0.0,
+   "d": 0.0,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60844,
-   "c": 1.06,
+   "p": 60975,
+   "c": 1.31,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1714.99,
-   "c": 1.95,
+   "p": 1720.57,
+   "c": 2.29,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.21,
-   "c": 0.01,
+   "p": 70.45,
+   "c": 0.35,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.92283,
-   "c": -0.47,
+   "p": 0.926879,
+   "c": -0.4,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 556.01,
-   "c": 1.43,
+   "p": 557.38,
+   "c": 1.65,
    "k": "usd"
   }
  ],
@@ -364,12 +364,39 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asia Braces for More Volatility After US Selloff: Markets Wrap",
+    "t": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
     "tt": "Asya, ABD'deki Satışların Ardından Daha Fazla Volatiliteye Hazırlanıyor: Piyasalar Tamamlandı",
-    "s": "Traders in Asia were bracing for another bout of volatility after a sharp Wall Street selloff rattled risk appetite, even as regional authorities stepped up efforts to shore up markets.",
+    "s": "US equity-index futures opened higher in early Asian trading, offering investors some reprieve after Friday’s sharp selloff as the artificial intelligence trade unwound.",
     "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
     "ts": 1795384947000,
+    "tags": []
+   },
+   {
+    "t": "Stock Traders Brace For More Volatility After Tech-Driven Rout",
+    "tt": "Hisse Senedi Yatırımcıları Teknoloji Odaklı Rutinin Ardından Daha Fazla Volatiliteye Hazırlanıyor",
+    "s": "Wall Street enters the new trading week under intense pressure after a violent rotation out of US stocks left investors wondering if more pain is in store.",
+    "ss": "Wall Street, ABD hisse senetlerindeki şiddetli rotasyonun yatırımcıların daha fazla acının gelip gelmediğini merak etmesine neden olmasının ardından yeni işlem haftasına yoğun baskı altında giriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+    "ts": 1795388682000,
+    "tags": []
+   },
+   {
+    "t": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
+    "tt": "Dünyanın En Büyük Varant Piyasası Hong Kong'daki Olağandışı Ticaretle Besleniyor",
+    "s": "The $577 billion Hong Kong market has tell-tale signs of artificially inflated trading, insiders say.",
+    "ss": "İçeriden edinilen bilgilere göre, 577 milyar dolarlık Hong Kong pazarında yapay olarak şişirilmiş ticaretin işaretleri var.",
+    "u": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
+    "ts": 1795388417000,
+    "tags": []
+   },
+   {
+    "t": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
+    "tt": "Canlı: Asya-Pasifik Hisse Senetleri ve Dövizler Nasdaq ve S&P 500 Satışlarından Sonra Tepki Veriyor",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open",
+    "ts": 1795388192000,
     "tags": []
    },
    {
@@ -430,33 +457,6 @@
     "ss": "Piyasalar kapanınca haberler bitmiyor. Sunucular David Gura, Christina Ruffini ve Lisa Mateo, hafta sonunun en büyük manşetleri olan New York'tan CANLI yayına netlik, bağlam ve biraz mizah getiriyor. ABC Haber Dışişleri Bakanlığı Muhabiri Shannon Kingston, Maryland Valisi Wes Moore, Indiana Valisi Mike Bra da katıldı",
     "u": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
     "ts": 1795368444000,
-    "tags": []
-   },
-   {
-    "t": "Bookmarked: News Stories On Our Reading List",
-    "tt": "Favorilere Eklendi: Okuma Listemizdeki Haberler",
-    "s": "Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share ",
-    "ss": "Koca Ayak bir kağıt izi bırakıyor, GTA VI'daki benzin fiyatları, Bloomin Onion faturasının bir tarihte bölünmesi, masa oyunlarında insanların en çok hile yaptığı ve programımızda hile yapıldığına dair kanıtlar: Bloomberg Bu Hafta Sonu Bookmarked için sunucular David Gura, Christina Ruffini ve Lisa Mateo'ya katılın, burada paylaşıyorlar",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
-    "ts": 1795365682000,
-    "tags": []
-   },
-   {
-    "t": "By The Way: Headlines You May Have Missed",
-    "tt": "Bu arada: Kaçırmış Olabileceğiniz Başlıklar",
-    "s": "A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-    "ss": "Sözleşmeyle birlikte gelen bir GTA VI hediyesi, SNL 'Kardeş' taslağının Amerikan sağlık hizmetleri, Bond rolünde Robert Pattinson ve çocukların F1 hayalleri hakkında söyledikleri: Kaçırmış olabileceğiniz ama görmeniz gereken manşetlerin özeti için Lisa Mateo, David Gura ve Christina Ruffini'ye katılın. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
-    "ts": 1795364225000,
-    "tags": []
-   },
-   {
-    "t": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
-    "tt": "Rahm Emanuel, Trump'ın Çin'in ekmeğine yağ sürdüğünü söyledi",
-    "s": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, combating corruption and strengthening the middle class. Speaking with hosts David Gura and Christina Ru",
-    "ss": "ABD'nin eski Japonya Büyükelçisi Rahm Emanuel, Bu Hafta Sonu Bloomberg'e, kapitalizmi reform etmeye, yolsuzlukla mücadeleye ve orta sınıfı güçlendirmeye odaklanan bir ekonomik vizyon ortaya koyarken 2028 başkanlık seçimini ciddi olarak düşündüğünü söyledi. Sunucular David Gura ve Christina Ru ile konuşuyoruz",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
-    "ts": 1795362722000,
     "tags": []
    }
   ],
@@ -652,6 +652,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Texas Razor Wire Stays For 30 Years - And The New Democrat Governor Can't Pull It",
+    "tt": "Texas Jiletli Tel 30 Yıl Boyunca Kalıyor - Ve Yeni Demokrat Vali Bunu Çekemiyor",
+    "s": "Texas Razor Wire Stays For 30 Years - And The New Democrat Governor Can't Pull It Texas has locked its concertina wire in place along the Rio Grande for the next 30 years, in a settlement with the Trump administration that Gov. Greg Abbott and Attorney General Ken Paxton signed weeks before both lea",
+    "ss": "Texas Jiletli Tel 30 Yıl Boyunca Kalıyor - Ve Yeni Demokrat Vali Bunu Çekemiyor Teksas, Vali Greg Abbott ve Başsavcı Ken Paxton'ın her iki anlaşmanın imzalanmasından haftalar önce Trump yönetimiyle imzaladığı bir anlaşma uyarınca, akordeon telini önümüzdeki 30 yıl boyunca Rio Grande boyunca yerine kilitledi.",
+    "u": "https://www.zerohedge.com/political/texas-razor-wire-stays-30-years-and-new-democrat-governor-cant-pull-it",
+    "ts": 1795387500000,
+    "tags": []
+   },
+   {
     "t": "\"I'm All Into It\": Trump Ready To Join Democrats On Credit Card Rate Cap",
     "tt": "\"Ben bu işin içindeyim\": Trump, Kredi Kartı Oranı Tavanı Konusunda Demokratlara Katılmaya Hazır",
     "s": "\"I'm All Into It\": Trump Ready To Join Democrats On Credit Card Rate Cap President Trump said Saturday he would work with Democrats to cap credit card interest rates and fees , waving off free-market objections and taking aim at the card issuers just as Sen. Elizabeth Warren, the cap's loudest Democ",
@@ -730,15 +739,6 @@
     "ss": "Yedi Düştü, Üç Kaldı: Amerika'nın Mikroreaktörleri Kritik Duruma Devam Ediyor Başkan Trump'ın Mayıs 2025'te imzaladığı dört nükleer idari emir arasında en iddialı hedef muhtemelen EO 14301'deydi: kritik hedeflere ulaşma hedefiyle ulusal laboratuvarların dışında en az üç test reaktörünün onaylanması",
     "u": "https://www.zerohedge.com/energy/seven-down-three-go-americas-microreactors-keep-going-critical",
     "ts": 1795374000000,
-    "tags": []
-   },
-   {
-    "t": "Hackers Are Hammering US Ports Thousands Of Times A Day - And They Only Need To Win Once",
-    "tt": "Bilgisayar Korsanları ABD Limanlarını Günde Binlerce Kez Saldırıyor - Ve Sadece Bir Kez Kazanmaları Gerekiyor",
-    "s": "Hackers Are Hammering US Ports Thousands Of Times A Day - And They Only Need To Win Once The port that ships most of America's crude oil overseas is now fending off \"hundreds or even thousands\" of attempts to break into its systems every day , Port of Corpus Christi CEO Kent Britton told the Financi",
-    "ss": "Bilgisayar Korsanları ABD Limanlarını Günde Binlerce Kez Saldırıyor - Ve Sadece Bir Kez Kazanmaları Gerekiyor Port of Corpus Christi CEO'su Kent Britton, Financi'ye yaptığı açıklamada, Amerika'nın ham petrolünün çoğunu yurt dışına gönderen limanın, artık sistemlerine her gün \"yüzlerce, hatta binlerce\" girme girişimini savuşturduğunu söyledi.",
-    "u": "https://www.zerohedge.com/markets/hackers-are-hammering-us-ports-thousands-times-day-and-they-only-need-win-once",
-    "ts": 1795371000000,
     "tags": []
    }
   ],
