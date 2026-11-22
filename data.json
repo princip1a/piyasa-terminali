@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T13:36:39.547627+00:00",
+ "generated": "2026-11-22T14:27:13.845632+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -74,8 +74,8 @@
   {
    "n": "USD/TRY",
    "p": 50.5142,
-   "c": 0.1,
-   "d": 0.052,
+   "c": -0.1,
+   "d": -0.048,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60721,
-   "c": 1.58,
+   "p": 60635,
+   "c": 0.57,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1706.31,
-   "c": 1.5,
+   "p": 1703.63,
+   "c": 0.72,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.01,
-   "c": 0.44,
+   "p": 70.18,
+   "c": -0.56,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.92247,
-   "c": 0.64,
+   "p": 0.919878,
+   "c": -1.08,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 554.52,
-   "c": 2.47,
+   "p": 554.84,
+   "c": 1.38,
    "k": "usd"
   }
  ],
@@ -364,6 +364,51 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "GTA VI Takes Over Thanksgiving Week",
+    "tt": "GTA VI Şükran Günü Haftasını Devraldı",
+    "s": "On Bloomberg This Weekend, Bloomberg reporter Josyana Joshua tells host Lisa Mateo how the long-awaited release of Grand Theft Auto VI is becoming a cultural and workplace phenomenon, with gamers taking time off and preparing to play through Thanksgiving week. Joshua explains how the game’s 13-year ",
+    "ss": "Bu Hafta Sonu Bloomberg'de Bloomberg muhabiri Josyana Joshua, sunucu Lisa Mateo'ya, Grand Theft Auto VI'nın uzun süredir beklenen sürümünün, oyuncuların Şükran Günü haftası boyunca ara verip oynamaya hazırlanmalarıyla nasıl kültürel ve işyerinde bir fenomen haline geldiğini anlatıyor. Joshua oyunun 13. yılını anlatıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
+    "ts": 1795357523000,
+    "tags": []
+   },
+   {
+    "t": "Fed’s Inflation Fight May Require More Hikes",
+    "tt": "Fed'in Enflasyonla Mücadelesi Daha Fazla Artış Gerektirebilir",
+    "s": "Neil Dutta, head of US economic research at Renaissance Macro Research, tells Bloomberg This Weekend that the Federal Reserve made a mistake by holding rates steady in October and may need multiple hikes as inflation remains stubbornly above its 2% target. Speaking with hosts David Gura and Christin",
+    "ss": "Renaissance Macro Research ABD ekonomik araştırma başkanı Neil Dutta, Bu Hafta Sonu Bloomberg'e, Federal Reserve'ün Ekim ayında faiz oranlarını sabit tutarak hata yaptığını ve enflasyonun inatla %2 hedefinin üzerinde kalması nedeniyle birden fazla artışa ihtiyaç duyabileceğini söyledi. Sunucular David Gura ve Christin ile konuşma",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
+    "ts": 1795357166000,
+    "tags": []
+   },
+   {
+    "t": "Governors Push States to Lead on AI",
+    "tt": "Valiler Eyaletleri Yapay Zeka Konusunda Liderliğe Zorluyor",
+    "s": "On Bloomberg This Weekend, Governors Wes Moore, Spencer Cox, Josh Stein and Mike Braun tell host Christina Ruffini that states need to take a larger role in shaping AI and data center policy as concerns grow over electricity costs, water use, jobs and consumer protections. The bipartisan group says ",
+    "ss": "Bu Hafta Sonu Bloomberg'de Valiler Wes Moore, Spencer Cox, Josh Stein ve Mike Braun sunucu Christina Ruffini'ye elektrik maliyetleri, su kullanımı, işler ve tüketicinin korunmasına ilişkin endişeler arttıkça eyaletlerin yapay zeka ve veri merkezi politikasını şekillendirmede daha büyük bir rol üstlenmesi gerektiğini söyledi. İki partili grup diyor ki",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-22/governors-push-states-to-lead-on-ai-video",
+    "ts": 1795354350000,
+    "tags": []
+   },
+   {
+    "t": "Strong Earnings Prove No Match for the Crumbling AI Trade",
+    "tt": "Güçlü Kazançlar Çöken Yapay Zeka Ticaretiyle Eşleşemeyeceğini Kanıtlıyor",
+    "s": "For years, a strong earnings season has given Wall Street something to fall back on. But the crumbling artificial-intelligence trade has ripped away that support.",
+    "ss": "Yıllardır güçlü bir kazanç sezonu Wall Street'e güvenebileceği bir alan sağladı. Ancak çökmekte olan yapay zeka ticareti bu desteği ortadan kaldırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
+    "ts": 1795354200000,
+    "tags": []
+   },
+   {
+    "t": "Oil Shock Response Sets Emerging-Market Bond Winners and Losers",
+    "tt": "Petrol Şoku Tepkisi Gelişmekte Olan Piyasa Tahvillerinin Kazananlarını ve Kaybedenlerini Belirledi",
+    "s": "Fuel subsidies are driving a widening divide in emerging markets, with investors favoring bonds from nations that have taken the painful steps to curb them.",
+    "ss": "Yakıt sübvansiyonları gelişmekte olan piyasalarda giderek büyüyen bir uçuruma yol açıyor; yatırımcılar, onları frenlemek için acı verici adımlar atan ülkelerin tahvillerini tercih ediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/oil-shock-response-sets-emerging-market-bond-winners-and-losers",
+    "ts": 1795354200000,
+    "tags": []
+   },
+   {
     "t": "Why Your Health Insurance Keeps Getting More Expensive",
     "tt": "Sağlık Sigortanız Neden Giderek Pahalanıyor?",
     "s": "The average employer-sponsored family health plan now costs more than $28,000 a year, about the price of a new car, and premiums are expected to climb even faster in 2027. As costs rise, more of the bill is coming out of workers’ paychecks, and health care has become a top budget concern for CFOs. (",
@@ -406,51 +451,6 @@
     "ss": "Çin, kaldıraçlı ticaret faaliyeti azalırken likiditeyi artırmak ve ülkenin hisse senedi piyasasında istikrarı desteklemek amacıyla hisse senedi finansmanı için marj gereksinimlerini gevşetti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
     "ts": 1795345579000,
-    "tags": []
-   },
-   {
-    "t": "US Power Advantage Over China Shrinks Further on Iran War Effect",
-    "tt": "ABD'nin Çin'e Karşı Güç Avantajı, İran Savaşının Etkisiyle Daha Da Daraldı",
-    "s": "The advantage the US has over China in influencing the course of international events has shrunk to the smallest level since 2018, with the Iran war and unilateralism undermining its military and diplomatic strength, according to a new report.",
-    "ss": "Yeni bir rapora göre, ABD'nin uluslararası olayların gidişatını etkileme konusunda Çin'e karşı avantajı, İran savaşı ve tek taraflılığın ABD'nin askeri ve diplomatik gücünü baltalaması nedeniyle 2018'den bu yana en düşük seviyeye geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
-    "ts": 1795347000000,
-    "tags": []
-   },
-   {
-    "t": "From Squeezes to Meltdown, a Week of Mayhem Rocks Metals Markets",
-    "tt": "Sıkışmalardan Erimeye, Kargaşayla Geçen Bir Hafta Metal Piyasalarını Sarstı",
-    "s": "As the copper industry gathered in Shanghai last week, Grace Li was struck by the overwhelmingly bearish mood over the outlook for demand. She agreed with the pessimism. In fact, she came close to pulling out her phone on the spot to put on a short position after her Monday conversations.",
-    "ss": "Bakır endüstrisi geçen hafta Şangay'da toplanırken Grace Li, talep görünümüne ilişkin ezici bir düşüş hissiyatından etkilendi. Kötümserliğe katılıyordu. Aslında Pazartesi konuşmalarının ardından kısa pozisyon açmak için hemen telefonunu çıkarmaya yaklaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
-    "ts": 1795345200000,
-    "tags": []
-   },
-   {
-    "t": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
-    "tt": "UBS Capital Fight, Milletvekillerinin Tartışmaya Devam Etmesiyle Final Turuna Giriyor",
-    "s": "The argument over UBS Group AG’s future capital requirements is headed for a showdown, with the odds tilted toward defeat for the global wealth manager.",
-    "ss": "UBS Group AG'nin gelecekteki sermaye gereksinimlerine ilişkin tartışma, küresel varlık yöneticisinin yenilgiye uğrama ihtimalinin yüksek olduğu bir hesaplaşmaya doğru gidiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
-    "ts": 1795341600000,
-    "tags": []
-   },
-   {
-    "t": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-    "tt": "Çin'in 1,7 Trilyon Dolarlık Yapay Zeka Rotası Sıcak Ticareti Kaybedilen Bahse Dönüştürüyor",
-    "s": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
-    "ss": "Bir zamanlar ülkenin teknoloji güçlerinin ABD'ye yetişmek için yarıştığı bir dönemde sıcak bir bahis olan Çin'in yapay zeka borsası, kaybetme stratejisine dönüştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-    "ts": 1795305600000,
-    "tags": []
-   },
-   {
-    "t": "Russian Cargo Ship Attacked by Drones in Gulf of Finland",
-    "tt": "Rusya, Finlandiya Körfezi'nde Kargo Gemisine Drone'larla Saldırıya Uğradığını Açıkladı",
-    "s": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
-    "ss": "Rusya, Kaliningrad bölgesine giden bir kargo gemisinin Finlandiya Körfezi'ndeki tarafsız sularda hedef alındığını söyleyerek, ülkenin kritik Baltık nakliye rotaları üzerinden enerji ve gıda ihracatına yönelik artan risklere dikkat çekti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
-    "ts": 1795261486000,
     "tags": []
    }
   ],
@@ -560,6 +560,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+    "tt": "Hisse senetleri Şükran Günü tatiline doğru bir düzeltme içerisinde. Bundan sonra ne için hazırlanmalı?",
+    "s": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
+    "ss": "Diğer hisse senetleri ayı piyasasında; önümüzdeki kritik tatil alışverişi dönemi göz önüne alındığında bu kötü bir zamanlama olabilir.",
+    "u": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+    "ts": 1795356000000,
+    "tags": []
+   },
+   {
     "t": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
     "tt": "Hisse senetleri zorlu bir haftanın ardından toparlanabilir mi? Bu zamanlama modeli, tarihin piyasadan yana olduğunu söylüyor.",
     "s": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
@@ -639,18 +648,18 @@
     "u": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
     "ts": 1795285140000,
     "tags": []
-   },
-   {
-    "t": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-    "tt": "Sosyal Güvenlik bir saadet zinciri midir? Hayır. 1930'ların felaket kehanetlerine kendinizi kaptırmayın.",
-    "s": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-    "ss": "Wisconsin Cumhuriyetçi Senatörü Ron Johnson, Sosyal Güvenliği bir \"dolandırıcılık\" olarak nitelendirdi ve milletvekillerini bu sistemi kapatmaya çağırdı.",
-    "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "ts": 1795279800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Tesla Rolls Out \"GTA-Style\" Reality View For Full Self-Driving",
+    "tt": "Tesla, Tamamen Kendi Kendine Sürüş İçin \"GTA Tarzı\" Gerçeklik Görünümünü Sunuyor",
+    "s": "Tesla Rolls Out \"GTA-Style\" Reality View For Full Self-Driving Tesla began rolling out version 15 of its Full Self-Driving software to Early Access Program members Saturday afternoon, touting \"25x better handling of safety-critical cases,\" navigation upgrades and a wide range of new features. FSD v1",
+    "ss": "Tesla, Tam Otomatik Sürüş İçin \"GTA Tarzı\" Gerçeklik Görünümünü Sunuyor Tesla, Cumartesi öğleden sonra Tam Otomatik Sürüş yazılımının 15. sürümünü Erken Erişim Programı üyelerine sunmaya başladı ve \"güvenlik açısından kritik durumların 25 kat daha iyi ele alınması\", navigasyon yükseltmeleri ve çok çeşitli yeni özelliklerin tanıtımını yaptı. FSDv1",
+    "u": "https://www.zerohedge.com/technology/tesla-rolls-out-gta-style-reality-view-full-self-driving",
+    "ts": 1795357500000,
+    "tags": []
+   },
    {
     "t": "White Flight Hits Germany, Destroying The 'Desire For Diversity' Myth",
     "tt": "Beyaz Uçuş Almanya'yı Vurarak 'Çeşitlilik Arzusu' Efsanesini Yerle Bir Etti",
@@ -730,15 +739,6 @@
     "ss": "\"Her Şeyi Yok Ettim\": İtalya'nın Eski Polis Şefi, Mafyanın Örtbas Etme Soruşturmasının Kamuya Açıklanmasından Günler Sonra Kendini Öldürdü İtalya'nın ulusal polisini ve daha sonra istihbarat servislerini yöneten Gianni De Gennaro, Sicilya'daki savcıların kendisini suçlamasından birkaç gün sonra Cumartesi günü Toskana'daki kır evinde ölü bulundu.",
     "u": "https://www.zerohedge.com/geopolitical/ive-destroyed-everything-italys-ex-police-chief-kills-himself-days-after-mafia-cover",
     "ts": 1795334400000,
-    "tags": []
-   },
-   {
-    "t": "France's Arcom Will Impose TV-Style 'Political Balance' Rules On Big YouTubers And Streamers Before The 2027 Presidential Election",
-    "tt": "Fransa'nın Arcom'u, 2027 Cumhurbaşkanlığı Seçiminden Önce Büyük YouTuber'lara ve Yayıncılara TV Tarzı 'Siyasi Denge' Kuralları Uygulayacak",
-    "s": "France's Arcom Will Impose TV-Style 'Political Balance' Rules On Big YouTubers And Streamers Before The 2027 Presidential Election Authored by Owen Evans via The Epoch Times , France's media regulator defended plans on Friday to impose political balance rules on influential YouTubers and online stre",
-    "ss": "Fransa'da Arcom, 2027 Cumhurbaşkanlığı Seçimi Öncesi Büyük YouTuber'lara ve Yayıncılara TV Tarzı 'Siyasi Denge' Kuralları Uygulayacak Owen Evans tarafından The Epoch Times aracılığıyla yazıldı, Fransa'nın medya düzenleme kurumu Cuma günü etkili YouTuber'lara ve çevrimiçi yayınlara siyasi denge kuralları dayatma planlarını savundu",
-    "u": "https://www.zerohedge.com/geopolitical/frances-arcom-will-impose-tv-style-political-balance-rules-big-youtubers-and-streamers",
-    "ts": 1795330800000,
     "tags": []
    }
   ],
