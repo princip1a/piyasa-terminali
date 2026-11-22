@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T12:21:22.445614+00:00",
+ "generated": "2026-11-22T13:36:39.547627+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 61341,
-   "c": 5.1,
+   "p": 60721,
+   "c": 1.58,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1720.41,
-   "c": 3.9,
+   "p": 1706.31,
+   "c": 1.5,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.93,
-   "c": 2.66,
+   "p": 70.01,
+   "c": 0.44,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.933318,
-   "c": 3.13,
+   "p": 0.92247,
+   "c": 0.64,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 556.66,
-   "c": 4.67,
+   "p": 554.52,
+   "c": 2.47,
    "k": "usd"
   }
  ],
@@ -364,21 +364,57 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Why Your Health Insurance Keeps Getting More Expensive",
+    "tt": "Sağlık Sigortanız Neden Giderek Pahalanıyor?",
+    "s": "The average employer-sponsored family health plan now costs more than $28,000 a year, about the price of a new car, and premiums are expected to climb even faster in 2027. As costs rise, more of the bill is coming out of workers’ paychecks, and health care has become a top budget concern for CFOs. (",
+    "ss": "Ortalama işveren sponsorluğundaki aile sağlığı planının maliyeti şu anda yılda yaklaşık 28.000 dolardan fazla, yani yeni bir arabanın fiyatından fazla ve primlerin 2027'de daha da hızlı artması bekleniyor. Maliyetler arttıkça faturanın büyük kısmı çalışanların maaş çeklerinden geliyor ve sağlık hizmetleri CFO'lar için en önemli bütçe kaygısı haline geldi. (",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-22/why-your-health-insurance-keeps-getting-more-expensive-video",
+    "ts": 1795352634000,
+    "tags": []
+   },
+   {
+    "t": "S. Korea Rolls Out Phased Measures to Stabilize Stock Market",
+    "tt": "G. Kore, Değişken Piyasaları Stabilize Etmek İçin Aşamalı Önlemleri Uygulamaya Geçiriyor",
+    "s": "South Korea announced phased measures to calm markets amid rising volatility, including ensuring a stock stabilization fund is in place to respond when needed, top financial officials said after an emergency meeting on Sunday.",
+    "ss": "Üst düzey mali yetkililer, Pazar günkü acil toplantı sonrasında yaptığı açıklamada, Güney Kore'nin artan volatilite karşısında piyasaları sakinleştirmek için, ihtiyaç duyulduğunda müdahale edecek bir hisse senedi istikrar fonunun mevcut olmasını sağlamak da dahil olmak üzere aşamalı önlemler açıkladığını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
+    "ts": 1795342605000,
+    "tags": []
+   },
+   {
+    "t": "Trump’s Asia Trip Leaves Key Issues Unresolved",
+    "tt": "Trump'ın Asya Gezisi Önemli Sorunları Çözülmeden Bırakıyor",
+    "s": "ABC News State Department reporter Shannon Kingston tells Bloomberg This Weekend that Russia’s increasingly provocative actions near NATO countries are complicating President Donald Trump’s push for a negotiated end to the war in Ukraine, while Moscow remains publicly defiant. Speaking with hosts Da",
+    "ss": "ABC News Dışişleri Bakanlığı muhabiri Shannon Kingston, Bu Hafta Sonu Bloomberg'e, Rusya'nın NATO ülkelerine yakın giderek artan provokatif eylemlerinin, Başkan Donald Trump'ın Ukrayna'daki savaşın müzakere yoluyla sona erdirilmesi yönündeki çabasını karmaşık hale getirdiğini, Moskova'nın ise açıkça meydan okumayı sürdürdüğünü söyledi. Ev sahibi Da ile konuşma",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
+    "ts": 1795351181000,
+    "tags": []
+   },
+   {
+    "t": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
+    "tt": "Tayvan Borsayı Desteklemek İçin Marj Gereksinimini Düşürmeyi Düşünüyor",
+    "s": "Taiwan is considering lowering the margin requirement ratio for stock investors using borrowed funds as it tries to stem a selloff after the benchmark equity index’s worst week in 35 years.",
+    "ss": "Tayvan, gösterge hisse senedi endeksinin son 35 yılın en kötü haftasının ardından satışları durdurmaya çalışırken, borç alınan fonları kullanan hisse senedi yatırımcıları için marj gereksinimi oranını düşürmeyi düşünüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market",
+    "ts": 1795350915000,
+    "tags": []
+   },
+   {
+    "t": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
+    "tt": "Çin, Hisse Likiditesini Artırmak İçin Marj Gereksinimini %80'e Düşürdü",
+    "s": "Asian authorities are stepping up efforts to stem a deepening stock-market rout, with China easing margin requirements, and Taiwan and South Korea rolling out intervention measures following Friday’s plunge in US equities.",
+    "ss": "Çin, kaldıraçlı ticaret faaliyeti azalırken likiditeyi artırmak ve ülkenin hisse senedi piyasasında istikrarı desteklemek amacıyla hisse senedi finansmanı için marj gereksinimlerini gevşetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "ts": 1795345579000,
+    "tags": []
+   },
+   {
     "t": "US Power Advantage Over China Shrinks Further on Iran War Effect",
     "tt": "ABD'nin Çin'e Karşı Güç Avantajı, İran Savaşının Etkisiyle Daha Da Daraldı",
     "s": "The advantage the US has over China in influencing the course of international events has shrunk to the smallest level since 2018, with the Iran war and unilateralism undermining its military and diplomatic strength, according to a new report.",
     "ss": "Yeni bir rapora göre, ABD'nin uluslararası olayların gidişatını etkileme konusunda Çin'e karşı avantajı, İran savaşı ve tek taraflılığın ABD'nin askeri ve diplomatik gücünü baltalaması nedeniyle 2018'den bu yana en düşük seviyeye geriledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
     "ts": 1795347000000,
-    "tags": []
-   },
-   {
-    "t": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity",
-    "tt": "Çin, Hisse Likiditesini Artırmak İçin Marj Gereksinimini %80'e Düşürdü",
-    "s": "China loosened margin requirements for stock financing, seeking to boost liquidity and support stability in the nation’s equity market as leveraged trading activity declined.",
-    "ss": "Çin, kaldıraçlı ticaret faaliyeti azalırken likiditeyi artırmak ve ülkenin hisse senedi piyasasında istikrarı desteklemek amacıyla hisse senedi finansmanı için marj gereksinimlerini gevşetti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-    "ts": 1795345579000,
     "tags": []
    },
    {
@@ -400,15 +436,6 @@
     "tags": []
    },
    {
-    "t": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
-    "tt": "G. Kore, Değişken Piyasaları Stabilize Etmek İçin Aşamalı Önlemleri Uygulamaya Geçiriyor",
-    "s": "South Korea announced phased measures to calm markets amid rising volatility, including ensuring a stock stabilization fund is in place to respond when needed, top financial officials said after an emergency meeting on Sunday.",
-    "ss": "Üst düzey mali yetkililer, Pazar günkü acil toplantı sonrasında yaptığı açıklamada, Güney Kore'nin artan volatilite karşısında piyasaları sakinleştirmek için, ihtiyaç duyulduğunda müdahale edecek bir hisse senedi istikrar fonunun mevcut olmasını sağlamak da dahil olmak üzere aşamalı önlemler açıkladığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
-    "ts": 1795342605000,
-    "tags": []
-   },
-   {
     "t": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
     "tt": "Çin'in 1,7 Trilyon Dolarlık Yapay Zeka Rotası Sıcak Ticareti Kaybedilen Bahse Dönüştürüyor",
     "s": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
@@ -418,39 +445,12 @@
     "tags": []
    },
    {
-    "t": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
+    "t": "Russian Cargo Ship Attacked by Drones in Gulf of Finland",
     "tt": "Rusya, Finlandiya Körfezi'nde Kargo Gemisine Drone'larla Saldırıya Uğradığını Açıkladı",
     "s": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
     "ss": "Rusya, Kaliningrad bölgesine giden bir kargo gemisinin Finlandiya Körfezi'ndeki tarafsız sularda hedef alındığını söyleyerek, ülkenin kritik Baltık nakliye rotaları üzerinden enerji ve gıda ihracatına yönelik artan risklere dikkat çekti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
     "ts": 1795261486000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
-    "tt": "Antropik, Yapay Zeka Gerginliğini Sakinleştiremedi ve Şükran Günü İçin Mutfağı Bıraktı",
-    "s": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Direct",
-    "ss": "Piyasalar kapanınca haberler bitmiyor. Sunucular David Gura, Christina Ruffini ve Lisa Mateo, hafta sonunun en büyük manşetleri olan New York'tan CANLI yayına netlik, bağlam ve biraz mizah getiriyor. Just Ice Tea Kurucu Ortakları Seth Goldman ve Spike Mendelsohn, Seaport Araştırma Ortakları Direkt Yönetici de katıldı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
-    "ts": 1795280492000,
-    "tags": []
-   },
-   {
-    "t": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-    "tt": "Sivri! Bloomberg'in Risk Alanlar İçin Haftalık Haber Sınavı",
-    "s": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-    "ss": "Pointed, haber yarışması formatına stratejik bir dokunuş sunarak oyuncuların yalnızca haberlere ilişkin bilgilerini değil aynı zamanda cevaplara olan güvenlerini de test ediyor. Bloomberg'den Lisa Mateo, Christina Ruffini ve David Gura'ya oyun oynarken katılın ve Bloomberg.com'daki testi kendiniz kontrol edin (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "ts": 1795275792000,
-    "tags": []
-   },
-   {
-    "t": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
-    "tt": "Goldman'ın SpaceX Sunumu Yapay Zeka Borç Bulmacasının Çözülmesine Yardımcı Oluyor: Credit Weekly",
-    "s": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
-    "ss": "Goldman Sachs Group Inc., teknolojinin en büyük baş ağrılarından birini çözmek için bir yıldan fazla zaman harcadı: kurumsal bilançoları bozmadan yapay zeka çiplerinin ödemesi nasıl yapılır.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-    "ts": 1795275082000,
     "tags": []
    }
   ],
@@ -560,6 +560,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+    "tt": "Hisse senetleri zorlu bir haftanın ardından toparlanabilir mi? Bu zamanlama modeli, tarihin piyasadan yana olduğunu söylüyor.",
+    "s": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
+    "ss": "Norm Fosback'in 'Mevsimsellik Zamanlama Sistemi' uzun vadeli en iyi performans kayıtlarından birine sahip ve piyasanın önümüzdeki iki hafta için yukarı yönlü bir eğilime sahip olduğunu gösteriyor",
+    "u": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+    "ts": 1795350600000,
+    "tags": []
+   },
+   {
     "t": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
     "tt": "Kocam 64 yaşında mutlu bir şekilde emekli oldu ve çalışmaya devam etmem gerektiğini düşünüyor. Adil mi davranıyor?",
     "s": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
@@ -639,18 +648,36 @@
     "u": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
     "ts": 1795279800000,
     "tags": []
-   },
-   {
-    "t": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "tt": "'Uçmaktan bıktım': Öncelikli biniş için para ödedim ama baş üstü bagajları doluydu. Kandırıldım mı?",
-    "s": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-    "ss": "\"Belki bir dahaki sefere diğer yaklaşımı deneyeceğim: Canım istediğinde uçağa bineceğim ve çantamı gördüğüm ilk açık yuvaya bırakacağım.\"",
-    "u": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "ts": 1795279800000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "White Flight Hits Germany, Destroying The 'Desire For Diversity' Myth",
+    "tt": "Beyaz Uçuş Almanya'yı Vurarak 'Çeşitlilik Arzusu' Efsanesini Yerle Bir Etti",
+    "s": "White Flight Hits Germany, Destroying The 'Desire For Diversity' Myth Authored by Remix News Staff via Remix News , Recent official data confirm a clear pattern in German urban demography: as the share of foreigners rises sharply in major cities, net outflows of Germans follow . The same pattern hol",
+    "ss": "Beyaz Uçuş Almanya'yı Vurarak 'Çeşitlilik Arzusu' Efsanesini Yerle Bir Ediyor Remix Haber Ekibi tarafından Remix News aracılığıyla yazılmıştır, Son resmi veriler Alman kentsel demografisinde açık bir modeli doğrulamaktadır: büyük şehirlerde yabancıların payı keskin bir şekilde arttıkça, bunu Almanlardan net çıkış takip etmektedir. Aynı model hol",
+    "u": "https://www.zerohedge.com/geopolitical/white-flight-hits-germany-519000-foreigners-159000-germans-out-berlin",
+    "ts": 1795354200000,
+    "tags": []
+   },
+   {
+    "t": "Think NYC Is Bad Now? Watch What Happens As Socialist Experiment Takes Shape",
+    "tt": "Şimdi New York'un Kötü Olduğunu mu Düşünüyorsunuz? Sosyalist Deney Şekillenirken Neler Olduğunu İzleyin",
+    "s": "Think NYC Is Bad Now? Watch What Happens As Socialist Experiment Takes Shape Amazon ran an information campaign this week to raise awareness that a controversial labor bill supported by socialist NYC Mayor Zohran Mamdani and his supermajority of allies on the City Council could, according to the com",
+    "ss": "Şimdi New York'un Kötü Olduğunu mu Düşünüyorsunuz? Sosyalist Deney Şekillenirken Neler Olduğunu İzleyin Amazon, bu hafta, sosyalist NYC Belediye Başkanı Zohran Mamdani ve Belediye Meclisindeki müttefiklerinin büyük çoğunluğunun desteklediği tartışmalı bir çalışma tasarısının bu konuda farkındalık yaratmak için bir bilgilendirme kampanyası yürüttü.",
+    "u": "https://www.zerohedge.com/markets/think-nyc-bad-now-watch-what-socialist-experiment-takes-shape",
+    "ts": 1795352400000,
+    "tags": []
+   },
+   {
+    "t": "Bessent: Trump And Xi Agreed AI 'Should Not Be Allowed To Be Autonomous For Major Military Actions'",
+    "tt": "Bessent: Trump ve Xi Yapay Zekanın 'Büyük Askeri Eylemlerde Otonom Olmasına İzin Verilmemesi Gerektiğinde' Anlaştı",
+    "s": "Bessent: Trump And Xi Agreed AI 'Should Not Be Allowed To Be Autonomous For Major Military Actions' Authored by Timothy Frudd via The Epoch Times , Treasury Secretary Scott Bessent announced on Nov. 20 that President Donald Trump and Chinese leader Xi Jinping agreed that human involvement is needed ",
+    "ss": "Bessent: Trump ve Xi, Yapay Zekanın 'Büyük Askeri Eylemlerde Otonom Olmasına İzin Verilmemesi Gerektiği' Konusunda Anlaştı Timothy Frudd tarafından The Epoch Times aracılığıyla yazılan Hazine Bakanı Scott Bessent, 20 Kasım'da Başkan Donald Trump ve Çin lideri Xi Jinping'in insan katılımının gerekli olduğu konusunda anlaştıklarını duyurdu",
+    "u": "https://www.zerohedge.com/political/bessent-trump-and-xi-agreed-ai-should-not-be-allowed-be-autonomous-major-military-actions",
+    "ts": 1795350600000,
+    "tags": []
+   },
    {
     "t": "US Embassies Sound Alarm As Europe's Protest Wave Hits France And Belgium",
     "tt": "Avrupa'daki Protesto Dalgası Fransa ve Belçika'yı Etkilerken ABD Büyükelçilikleri Alarm Verdi",
@@ -713,36 +740,27 @@
     "u": "https://www.zerohedge.com/geopolitical/frances-arcom-will-impose-tv-style-political-balance-rules-big-youtubers-and-streamers",
     "ts": 1795330800000,
     "tags": []
-   },
-   {
-    "t": "Chinese Researchers Develop Electronic Comb That Achieves Nearly 98% Hair Regrowth In Mice",
-    "tt": "Çinli Araştırmacılar Farelerde Neredeyse %98 Saç Çıkmasını Sağlayan Elektronik Tarak Geliştirdi",
-    "s": "Chinese Researchers Develop Electronic Comb That Achieves Nearly 98% Hair Regrowth In Mice Researchers from Beihang University and City University of Hong Kong have developed an innovative electronic comb that could offer a promising new solution for treating hair loss, according to the South China ",
-    "ss": "Çinli Araştırmacılar, Farelerde Saçların Neredeyse %98'inin Çıkmasını Sağlayan Elektronik Tarak Geliştirdi Güney Çin'e göre, Beihang Üniversitesi ve Hong Kong Şehir Üniversitesi'nden araştırmacılar, saç dökülmesinin tedavisi için umut verici yeni bir çözüm sunabilecek yenilikçi bir elektronik tarak geliştirdiler",
-    "u": "https://www.zerohedge.com/markets/chinese-researchers-develop-electronic-comb-achieves-nearly-98-hair-regrowth-mice",
-    "ts": 1795327200000,
-    "tags": []
-   },
-   {
-    "t": "Korybko: How Significant Is The Shenzhen Declaration? The Real Test Is Whether The Trilateral Becomes An Annual Tradition",
-    "tt": "Korybko: Shenzhen Deklarasyonu Ne Kadar Önemli? Gerçek Test Üçlülüğün Her Yıl Geleneğe Dönüşüp Dönüşmeyeceğidir",
-    "s": "Korybko: How Significant Is The Shenzhen Declaration? The Real Test Is Whether The Trilateral Becomes An Annual Tradition Authored by Andrew Korybko via Substack , It's purely perfunctory, but the importance of their historic meeting is that it could become an annual tradition that might gradually c",
-    "ss": "Korybko: Shenzhen Deklarasyonu Ne Kadar Önemli? Gerçek Test, Üçlü'nün Yıllık Bir Geleneğe Dönüşüp Dönüşmeyeceğidir Yazan Andrew Korybko, Substack aracılığıyla. Tamamen formalite icabı, ancak tarihi buluşmalarının önemi, bunun yavaş yavaş geleneksel hale gelebilecek yıllık bir gelenek haline gelebilmesidir.",
-    "u": "https://www.zerohedge.com/geopolitical/korybko-how-significant-shenzhen-declaration-real-test-whether-trilateral-becomes",
-    "ts": 1795323600000,
-    "tags": []
-   },
-   {
-    "t": "Mexican Cartel Kingpin On FBI's Ten Most Wanted List Captured In Dramatic Operation",
-    "tt": "FBI'ın En Çok Arananlar Listesindeki Meksikalı Kartel Lideri Dramatik Bir Operasyonda Yakalandı",
-    "s": "Mexican Cartel Kingpin On FBI's Ten Most Wanted List Captured In Dramatic Operation Footage circulating on X overnight appears to show Black Hawk helicopters operated by Mexican armed forces engaging drug cartels with M134 rotary miniguns in the Sinaloa region on Friday night. The activity is linked",
-    "ss": "FBI'ın En Çok Arananlar Listesindeki Meksikalı Kartel Kralı Dramatik Operasyonda Yakalandı X'te gece boyunca dolaşan görüntüler, Meksika silahlı kuvvetleri tarafından işletilen Black Hawk helikopterlerinin Cuma gecesi Sinaloa bölgesinde M134 döner mini silahlarla uyuşturucu kartelleriyle çatışmaya girdiğini gösteriyor. Etkinlik bağlantılı",
-    "u": "https://www.zerohedge.com/geopolitical/mexican-cartel-kingpin-fbis-ten-most-wanted-list-captured-dramatic-operation",
-    "ts": 1795321800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Bakan Kurum: Tarihi bir fırsatın eşiğindeyiz",
+    "tt": null,
+    "s": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, son ana kadar uzlaşının imkanlarını aradıklarını, gelinen noktada tarihi bir fırsatın eşiğinde olunduğunu belirterek, \"Kimse istediği her şeyi almadı. Ancak herkes bu metinde kendini bulabilir. Uzlaşının manası da budur. İnş",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kurum-cop31-kapanis-oturumu-nda-konustu-tarihi-bir-firsatin-esigindeyiz-3795378",
+    "ts": 1795353656000,
+    "tags": []
+   },
+   {
+    "t": "Düzenlemeyle hedef ilk yıl 70 milyon bütünleşik poliçe",
+    "tt": null,
+    "s": "Daha önce sadece elektronik cihaz, uçak bileti ve tur paketiyle sınırlı olan bütünleşik sigortanın kapsamı yeni bir yönetmelikle genişletildi. Gömülü sigorta da denilen uygulamayla SEDDK ilk yıl 10 milyon sigortalıya ve 70 milyon poliçeye ulaşılmasını bekliyor. Eylül ayı itibariyle bu yıl elektronik",
+    "ss": null,
+    "u": "https://www.bloomberght.com/duzenlemeyle-hedef-ilk-yil-70-milyon-butunlesik-police-3795377",
+    "ts": 1795353175000,
+    "tags": []
+   },
    {
     "t": "İran: ABD ile görüşmeler sürüyor, diplomasi penceresi hala açık",
     "tt": null,
@@ -813,24 +831,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/gelisen-piyasa-hisseleri-ayi-piyasasina-girdi-3795369",
     "ts": 1795254467000,
-    "tags": []
-   },
-   {
-    "t": "Gayrimenkulün likidite sınavı",
-    "tt": null,
-    "s": "Eylül ayında başlayan fon krizi, yüksek finansman maliyetleri ve alım gücü kaybıyla mücadele eden konut piyasasında yeni bir baskı unsuru haline geldi. Ekim'de konut satışları yüzde 23,3, ikinci el satışlar yüzde 28,5 geriledi. Fon krizinin gayrimenkul piyasasına ne ölçüde yansıdığı, sektör temsilci",
-    "ss": null,
-    "u": "https://www.bloomberght.com/gayrimenkulun-likidite-sinavi-3795368",
-    "ts": 1795253697000,
-    "tags": []
-   },
-   {
-    "t": "\"İsviçre ile Türkiye arasındaki ticaret hacmi 17 milyar dolara ulaştı\"",
-    "tt": null,
-    "s": "Türkiye'de İsviçre Ticaret Odası Başkanı Arpat Şenocak Bloomberg HT'ye İsviçre ile Türkiye arasındaki ticaret hacminin yüzde 10'luk artışla 17 milyar dolara ulaştığını, son iki senede İsviçre'den Türkiye'ye 1 milyar dolara yakın doğrudan yatırım geldiğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/isvicre-ile-turkiye-arasindaki-ticaret-hacmi-17-milyar-dolara-ulasti-3795367",
-    "ts": 1795252551000,
     "tags": []
    }
   ]
