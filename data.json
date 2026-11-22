@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:02:00.898874+00:00",
+ "generated": "2026-11-22T09:00:26.928945+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59078,
-   "c": 2.23,
+   "p": 59680,
+   "c": 3.4,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1663.99,
-   "c": 2.34,
+   "p": 1683.34,
+   "c": 3.5,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 69.11,
-   "c": 2.77,
+   "p": 69.75,
+   "c": 3.76,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.914483,
-   "c": 2.84,
+   "p": 0.925649,
+   "c": 4.56,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 539.83,
-   "c": 3.19,
+   "p": 545.51,
+   "c": 4.65,
    "k": "usd"
   }
  ],
@@ -652,6 +652,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "'Licence To Kill': France Grants Police Presumption Of Self-Defense In Shootings",
+    "tt": "'Öldürme Ruhsatı': Fransa Polise Silahlı Saldırılarda Meşru Müdafaa Karinesi Verdi",
+    "s": "'Licence To Kill': France Grants Police Presumption Of Self-Defense In Shootings France's parliament on Friday gave final approval to a law under which police officers and gendarmes who fire their weapons are presumed to have acted lawfully , a measure opponents have branded a \"licence to kill\" and ",
+    "ss": "'Öldürme Ruhsatı': Fransa, Polise Ateş Etme Olaylarında Meşru Müdafaa Karinesi Verdi Fransa parlamentosu, silahlarını ateşleyen polis memurlarının ve jandarmaların hukuka uygun hareket ettiklerinin varsayılacağı bir yasayı Cuma günü nihai olarak onayladı.",
+    "u": "https://www.zerohedge.com/geopolitical/licence-kill-france-grants-police-presumption-self-defense-shootings",
+    "ts": 1795338000000,
+    "tags": []
+   },
+   {
     "t": "\"I've Destroyed Everything\": Italy's Ex-Police Chief Kills Himself Days After Mafia Cover-Up Probe Goes Public",
     "tt": "\"Her Şeyi Yok Ettim\": İtalya'nın Eski Polis Şefi, Mafya Örtbas Soruşturmasının Halka Açıklanmasından Günler Sonra Kendini Öldürdü",
     "s": "\"I've Destroyed Everything\": Italy's Ex-Police Chief Kills Himself Days After Mafia Cover-Up Probe Goes Public Gianni De Gennaro, who ran Italy's national police and later its intelligence services, was found dead Saturday at his country home in Tuscany, days after prosecutors in Sicily accused him ",
@@ -730,15 +739,6 @@
     "ss": "İzleyin: Eski NSA Bilgisayar Korsanı, Yapay Zeka 'Ajan Sürüsü'nün Bir Şirketi 14 Dakika İçinde Yok Ettiğini Ve Saatlerce Kimse Fark Etmediğini Söyledi Hem endişe verici hem de yapay zekanın korkak tehlikelerini çevreleyen muhtemelen daha anlatıyı şekillendiren bir röportajda (neden her ikisi de olmasın?), eski NSA hacker'ı David Kennedy, bir yapay zeka \"ajan sürüsü\"nün içeri girdiğini söylüyor",
     "u": "https://www.zerohedge.com/ai/watch-ex-nsa-hacker-says-ai-agent-swarm-gutted-company-14-minutes-and-nobody-noticed-hours",
     "ts": 1795314600000,
-    "tags": []
-   },
-   {
-    "t": "Three Free-Market Ways To Limit Immigration",
-    "tt": "Göçü Sınırlandırmanın Üç Serbest Piyasa Yolu",
-    "s": "Three Free-Market Ways To Limit Immigration Authored by Ryan McMaken via Mises Institute , The problem of immigration enforcement has always been a thorny issue for those who prefer to reduce federal power, rather than expand it. This is why Lew Rockwell, years ago, referred to \" the tragedy of immi",
-    "ss": "Göçü Sınırlamanın Üç Serbest Piyasa Yolu Mises Enstitüsü aracılığıyla Ryan McMaken tarafından yazılmıştır. Göçmenlerin yaptırımı sorunu, federal gücü genişletmek yerine azaltmayı tercih edenler için her zaman çetrefilli bir konu olmuştur. Lew Rockwell'in yıllar önce \"İmmi Trajedisi\"nden bahsetmesinin nedeni budur.",
-    "u": "https://www.zerohedge.com/political/three-free-market-ways-limit-immigration",
-    "ts": 1795312800000,
     "tags": []
    }
   ],
@@ -836,7 +836,7 @@
   ]
  },
  "errors": {
-  "fred:DFF": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+  "fred:DFF": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS10": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:DGS30": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
@@ -844,7 +844,7 @@
   "fred:MORTGAGE30US": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:BAMLH0A0HYM2": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UNRATE": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
-  "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Max retries exceeded with url: /graph/fre",
+  "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
