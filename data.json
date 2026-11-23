@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T00:20:19.868135+00:00",
+ "generated": "2026-11-23T01:56:18.177975+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3574.5,
-   "c": 1.68,
-   "d": 59.1,
+   "p": 3609.0,
+   "c": 2.66,
+   "d": 93.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.97,
-   "c": 2.28,
-   "d": 0.935,
+   "p": 42.24,
+   "c": 2.94,
+   "d": 1.205,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.85,
-   "c": -1.35,
-   "d": -1.13,
+   "p": 83.19,
+   "c": -0.94,
+   "d": -0.79,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.3,
-   "c": -3.53,
-   "d": -3.27,
+   "p": 89.61,
+   "c": -3.2,
+   "d": -2.96,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.842,
-   "c": 0.03,
-   "d": 0.032,
+   "p": 103.759,
+   "c": -0.05,
+   "d": -0.051,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5806,
-   "c": 0.04,
-   "d": 0.018,
+   "p": 50.5865,
+   "c": 0.05,
+   "d": 0.024,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 61117,
-   "c": 1.46,
+   "p": 60761,
+   "c": 1.19,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1721.85,
-   "c": 2.34,
+   "p": 1709.15,
+   "c": 1.45,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.64,
-   "c": 0.48,
+   "p": 70.38,
+   "c": 0.14,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.926372,
-   "c": -0.64,
+   "p": 0.917008,
+   "c": -1.49,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 558.82,
-   "c": 1.89,
+   "p": 555.77,
+   "c": 1.17,
    "k": "usd"
   }
  ],
@@ -364,31 +364,82 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
-    "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
-    "s": "South Korean shares fell as a global technology stock rout intensified, testing Asian authorities’ efforts to restore investor confidence as the AI trade unraveled.",
-    "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-    "ts": 1795345579000,
+    "t": "Why Asia Market Stabilization Measures May Not Be Enough",
+    "tt": "Asya Pazarı İstikrar Tedbirleri Neden Yeterli Olmayabilir?",
+    "s": "Bloomberg's Lianting Tu talks about investor sentiment that recent stabilization measures in China, Taiwan and Korea are not quite enough, and how near-term outlook depends on dip buying and whether hedge funds keep cutting positions. (Source: Bloomberg)",
+    "ss": "Bloomberg'den Lianting Tu, Çin, Tayvan ve Kore'deki son istikrar önlemlerinin yeterli olmadığı yönündeki yatırımcı duyarlılığından ve yakın vadeli görünümün nasıl dip alımlarına ve hedge fonlarının pozisyon kesmeye devam edip etmeyeceğine bağlı olduğundan bahsediyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
+    "ts": 1795399143000,
     "tags": []
    },
    {
-    "t": "Nasdaq, S&P 500 Futures Bounce After Friday’s Rout: Markets Wrap",
+    "t": "US Stock Futures Bounce After Rout, Havens Drop: Markets Wrap",
     "tt": "Asya, ABD'deki Satışların Ardından Daha Fazla Volatiliteye Hazırlanıyor: Piyasalar Tamamlandı",
-    "s": "US equity-index futures opened higher in early Asian trading as buyers returned following Friday’s sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fell.",
+    "s": "US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.",
     "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
     "ts": 1795384947000,
     "tags": []
    },
    {
-    "t": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand",
+    "t": "Treasury Futures Fall as Rising Stocks Damp Demand for Havens",
     "tt": "Yükselen Hisse Senedi Vadeli İşlemleri Haven Talebini Azalttıkça Hazine Vadeli İşlemleri Düşüyor",
-    "s": "US Treasury futures declined as demand for havens eased after US stock futures advanced.",
+    "s": "US Treasury futures declined as demand for havens waned on signs that the recent selloff in equities may be drawing some buyers back.",
     "ss": "ABD hisse senedi vadeli işlemlerinin yükselişinin ardından güvenli limanlara olan talebin azalmasıyla ABD Hazine vadeli işlemleri geriledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
     "ts": 1795391946000,
     "tags": []
+   },
+   {
+    "t": "Stocks Drop in Asia Again as Local Regulators Rush to Stem Rout",
+    "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
+    "s": "South Korean and Chinese shares fell as a global technology stock rout intensified, testing Asian authorities’ efforts to restore investor confidence as the AI trade unraveled.",
+    "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "ts": 1795345579000,
+    "tags": []
+   },
+   {
+    "t": "Copper Rises After Falling More Than 9% Last Week on AI Gloom",
+    "tt": "Bakır, AI Gloom'da Geçen Hafta %9'dan Fazla Düştükten Sonra Yükseldi",
+    "s": "Copper rose, after falling more than 9% last week on deepening worries about global demand related to the selloff in artificial intelligence stocks.",
+    "ss": "Bakır, yapay zeka stoklarındaki satışlarla ilgili küresel talebe ilişkin derinleşen endişeler nedeniyle geçen hafta %9'dan fazla düştükten sonra yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+    "ts": 1795395930000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Gain in Volatile Trading After Tech-Driven Rout",
+    "tt": "Hisse Senedi Yatırımcıları Teknoloji Odaklı Rutinin Ardından Daha Fazla Volatiliteye Hazırlanıyor",
+    "s": "US stock futures rebounded as dip buyers stepped in following a steep selloff that saw a violent rotation out of technology shares, in a signal of heightened volatility in the artificial intelligence trade.",
+    "ss": "Wall Street, ABD hisse senetlerindeki şiddetli rotasyonun yatırımcıların daha fazla acının gelip gelmediğini merak etmesine neden olmasının ardından yeni işlem haftasına yoğun baskı altında giriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+    "ts": 1795388682000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
+    "tt": "Hazine Tahvillerinin Hisse Senetleriyle Negatif Korelasyonu Geri Döndü: State Street",
+    "s": "Masahiko Loo, Chief Fixed Income Strategist at State Street Investment Management, says US treasuries are resuming a negative correlation with stocks. He speaks as US bond futures decline in early Asia trading. (Source: Bloomberg)",
+    "ss": "State Street Investment Management'ın Baş Sabit Gelir Stratejisti Masahiko Loo, ABD hazine tahvillerinin hisse senetleriyle negatif korelasyona devam ettiğini söylüyor. ABD tahvil vadeli işlemlerinin Asya ticaretinin başlarında düşüş yaşadığı bir dönemde konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
+    "ts": 1795393845000,
+    "tags": []
+   },
+   {
+    "t": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+    "tt": "Altın, Yatırımcıların Yakın Vadeli Fed Faiz Artırımlarına Yönelik Bahisleriyle Yükselişe Geçti",
+    "s": "Gold rebounded from its biggest weekly decline in eight months as traders scaled back bets on the Federal Reserve raising interest rates in the near term.",
+    "ss": "Altın, yatırımcıların Fed'in yakın vadede faiz artırımına gideceği yönündeki bahisleri azaltmasıyla sekiz ayın en büyük haftalık düşüşünü yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+    "ts": 1795393683000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    },
    {
     "t": "Latest Oil Market News and Analysis for Nov. 23",
@@ -400,65 +451,12 @@
     "tags": []
    },
    {
-    "t": "Stock Traders Brace For More Volatility After Tech-Driven Rout",
-    "tt": "Hisse Senedi Yatırımcıları Teknoloji Odaklı Rutinin Ardından Daha Fazla Volatiliteye Hazırlanıyor",
-    "s": "Wall Street enters the new trading week under intense pressure after a violent rotation out of US stocks left investors wondering if more pain is in store.",
-    "ss": "Wall Street, ABD hisse senetlerindeki şiddetli rotasyonun yatırımcıların daha fazla acının gelip gelmediğini merak etmesine neden olmasının ardından yeni işlem haftasına yoğun baskı altında giriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
-    "ts": 1795388682000,
-    "tags": []
-   },
-   {
     "t": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
     "tt": "Dünyanın En Büyük Varant Piyasası Hong Kong'daki Olağandışı Ticaretle Besleniyor",
     "s": "The $577 billion Hong Kong market has tell-tale signs of artificially inflated trading, insiders say.",
     "ss": "İçeriden edinilen bilgilere göre, 577 milyar dolarlık Hong Kong pazarında yapay olarak şişirilmiş ticaretin işaretleri var.",
     "u": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
     "ts": 1795388417000,
-    "tags": []
-   },
-   {
-    "t": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
-    "tt": "Altın Tufanı Çin'in 1 Trilyon Dolarlık Ticaret Fazlasını Kontrol Altında Tutuyor",
-    "s": "China’s gold imports surged to a record $209 billion so far this year, in an unprecedented buying spree that followed a promise by top officials to make their country into the world’s marketplace instead of just its factory.",
-    "ss": "Çin'in altın ithalatı, üst düzey yetkililerin ülkelerini sadece bir fabrika yerine dünya pazarı haline getirme sözünün ardından benzeri görülmemiş bir satın alma çılgınlığıyla bu yıl şu ana kadar rekor 209 milyar dolara yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
-    "ts": 1795388400000,
-    "tags": [
-     "Altın ▲"
-    ]
-   },
-   {
-    "t": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
-    "tt": "Canlı: Asya-Pasifik Hisse Senetleri ve Dövizler Nasdaq ve S&P 500 Satışlarından Sonra Tepki Veriyor",
-    "s": "",
-    "ss": null,
-    "u": "https://www.bloomberg.com/news/live-blog/2026-11-22/asia-market-open",
-    "ts": 1795388192000,
-    "tags": []
-   },
-   {
-    "t": "Aussie Seen Rebounding Against Kiwi From Worst Month Since 2022",
-    "tt": "Avustralyalı, 2022'den Bu Yana En Kötü Aydan Bu Yana Kiviye Karşı Toparlanma Görüyor",
-    "s": "Australia’s dollar is poised to rebound against its New Zealand counterpart after sliding toward its steepest monthly drop in four years as sticky inflation challenges bets on domestic interest-rate cuts, analysts say.",
-    "ss": "Analistler, Avustralya dolarının, yapışkan enflasyonun yurt içi faiz indirimi iddialarına meydan okumasıyla dört yılın en sert aylık düşüşüne doğru kaymasının ardından Yeni Zelanda doları karşısında toparlanmaya hazır olduğunu söylüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/aussie-seen-rebounding-against-kiwi-from-worst-month-since-2022",
-    "ts": 1795382197000,
-    "tags": [
-     "DXY ▼",
-     "Altın ▲",
-     "Gümüş ▲",
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Dip Buyers Hesitate to Step In as Nasdaq 100 Nears a Bear Market",
-    "tt": "Nasdaq 100 Ayı Piyasasına Yaklaşırken Dip Alıcıları Adım Atmakta Tereddüt Ediyor",
-    "s": "Since the fundamental outlook did not change dramatically during last week’s massive selloff in stocks and many valuation measures are now screaming bargain, contrarian impulses to buy the dip are running strong.",
-    "ss": "Hisse senetlerinde geçen hafta yaşanan yoğun satış sırasında temel görünüm dramatik bir şekilde değişmediğinden ve birçok değerleme ölçütü artık pazarlık çığlıkları attığında, düşüşü satın almaya yönelik karşıt dürtüler güçlü bir şekilde devam ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
-    "ts": 1795379504000,
     "tags": []
    }
   ],
@@ -654,6 +652,42 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Appeals Court Freezes Army's Plan To Blow Up 9,700 Pounds Of Lead Explosive Near Iowa Town",
+    "tt": "Temyiz Mahkemesi Ordunun Iowa Kasabası Yakınlarında 9.700 Pound Kurşun Patlayıcıyı Patlatma Planını Dondurdu",
+    "s": "Appeals Court Freezes Army's Plan To Blow Up 9,700 Pounds Of Lead Explosive Near Iowa Town Authored by Jack Phillips via The Epoch Times , A federal appeals court has blocked the U.S. Army's detonation of bomb-making, lead-based chemicals at an Iowa munitions plant amid concerns about its impact on ",
+    "ss": "Temyiz Mahkemesi, Ordunun Iowa Kasabası Yakınlarında 9.700 Pound Kurşun Patlayıcıyı Patlatma Planını Dondurdu Jack Phillips tarafından The Epoch Times aracılığıyla yazılmıştır. Federal bir temyiz mahkemesi, ABD Ordusunun Iowa'daki bir mühimmat fabrikasında bomba yapımı, kurşun bazlı kimyasalları patlatmasını, bunun ABD Ordusu üzerindeki etkisine ilişkin endişeler nedeniyle engelledi.",
+    "u": "https://www.zerohedge.com/military/appeals-court-freezes-armys-plan-blow-9700-pounds-lead-explosive-near-iowa-town",
+    "ts": 1795398000000,
+    "tags": []
+   },
+   {
+    "t": "Watch: Mamdani Peddles Socialism As A Monthly Subscription",
+    "tt": "İzleyin: Mamdani Sosyalizmi Aylık Abonelik Olarak Satıyor",
+    "s": "Watch: Mamdani Peddles Socialism As A Monthly Subscription Authored by Steve Watson via Modernity , New York City's socialist mayor is now selling the ideology like a streaming service. In a polished pitch released this week, Zohran Mamdani urged New Yorkers to sign up for recurring monthly donation",
+    "ss": "İzleyin: Mamdani Sosyalizmi Aylık Abonelik Olarak Satıyor Steve Watson tarafından Modernity aracılığıyla yazılmıştır, New York City'nin sosyalist belediye başkanı artık ideolojiyi bir yayın hizmeti gibi satıyor. Bu hafta yayınlanan gösterişli konuşmasında Zohran Mamdani, New Yorkluları yinelenen aylık bağış için kaydolmaya çağırdı",
+    "u": "https://www.zerohedge.com/political/watch-mamdani-peddles-socialism-monthly-subscription",
+    "ts": 1795396500000,
+    "tags": []
+   },
+   {
+    "t": "Asian Market Panic Continues As Korea Readies To Unleash Plunge Protectors For First Time Since Lehman",
+    "tt": "Kore, Lehman'dan Bu Yana İlk Kez Dalma Koruyucularını Serbest Bırakmaya Hazırlanırken Asya Piyasasında Panik Devam Ediyor",
+    "s": "Asian Market Panic Continues As Korea Readies To Unleash Plunge Protectors For First Time Since Lehman Asian authorities are stepping up efforts to stem a deepening stock-market rout, with China easing margin requirements, and Taiwan and South Korea rolling out intervention measures following Friday",
+    "ss": "Kore, Lehman'dan Bu Yana İlk Defa Dalma Koruyucularını Serbest Bırakmaya Hazırlanırken Asya Piyasasında Panik Devam Ediyor Asyalı yetkililer, Çin'in marj gereksinimlerini hafifletmesi ve Tayvan ve Güney Kore'nin Cuma gününden sonra müdahale tedbirlerini uygulamaya koymasıyla, hisse senedi piyasasında derinleşen bir bozgunla mücadele çabalarını hızlandırıyor",
+    "u": "https://www.zerohedge.com/markets/south-korea-readies-first-market-rescue-fund-deployment-2008",
+    "ts": 1795395000000,
+    "tags": []
+   },
+   {
+    "t": "Cantor Sees Opportunity In Enrichment As Nuclear Stocks Sink To 52-Week Lows",
+    "tt": "Cantor, Nükleer Stokların 52 Haftanın En Düşük Seviyesine Düşmesiyle Zenginleşme Fırsatı Görüyor",
+    "s": "Cantor Sees Opportunity In Enrichment As Nuclear Stocks Sink To 52-Week Lows Cantor Fitzgerald picked an interesting week to get bullish on Centrus Energy (LEU). On Monday, Cantor initiated coverage (subscribers can read the full report here ) on America's only domestic producer of high-assay low-en",
+    "ss": "Nükleer Hisseler 52 Haftanın En Düşük Seviyelerine Düşerken Cantor Zenginleşme Fırsatı Görüyor Cantor Fitzgerald, Centrus Energy'nin (LEU) yükselişe geçmesi için ilginç bir hafta seçti. Pazartesi günü Cantor, Amerika'nın tek yerli yüksek testli düşük-en üreticisi hakkında haber yapmaya başladı (aboneler raporun tamamını buradan okuyabilir)",
+    "u": "https://www.zerohedge.com/markets/cantor-sees-opportunity-enrichment-nuclear-stocks-sink-52-week-lows",
+    "ts": 1795393500000,
+    "tags": []
+   },
+   {
     "t": "Former Postal Contractor Admits To Stealing Mail In Multimillion-Dollar Fraud Operation",
     "tt": "Eski Posta Yüklenicisi Milyonlarca Dolarlık Dolandırıcılık Operasyonunda Posta Çaldığını İtiraf Etti",
     "s": "Former Postal Contractor Admits To Stealing Mail In Multimillion-Dollar Fraud Operation A Kansas City-area man who transported mail for the U.S. Postal Service has admitted to taking checks and financial cards from the mail system and supplying them to others involved in a fraud operation valued at ",
@@ -705,42 +739,6 @@
     "ss": "BM İklim Zirvesi Kaosa Çöktü - Ve Her Şey İki Kelimeye Kaldı Türkiye'nin Antalya kentindeki Birleşmiş Milletler iklim zirvesi, Suudi Arabistan liderliğindeki bir petrol üreticileri bloğunun anlaşmada \"fosil yakıtlar\" kelimelerinin yer almasına izin vermemesinin ardından Pazar günü nihai bir anlaşma sağlanamadan sızlanarak sona erdi.",
     "u": "https://www.zerohedge.com/geopolitical/un-climate-summit-collapses-chaos-and-it-all-came-down-two-words",
     "ts": 1795384500000,
-    "tags": []
-   },
-   {
-    "t": "Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
-    "tt": "İzle: Libya Limanına Ukrayna Denizinden Şüphelenilen Drone Saldırısında İkinci Gemi Patladı",
-    "s": "Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port Update(1635ET) : More details have emerged of the rare suspected Ukrainian drone attack on a Russan warship in the port of Benghazi on Sunday. A Ukrainian news source says at least ten people were injured, among them ",
-    "ss": "İzle: Libya Limanında Ukrayna Denizinden Şüphelenilen Drone Saldırısında İkinci Gemi Patladı Güncelleme(1635ET): Pazar günü Bingazi limanında bir Rus savaş gemisine düzenlenen nadir şüpheli Ukrayna drone saldırısıyla ilgili daha fazla ayrıntı ortaya çıktı. Ukraynalı bir haber kaynağı aralarında en az 10 kişinin yaralandığını söyledi",
-    "u": "https://www.zerohedge.com/geopolitical/watch-russian-warship-explodes-libyan-port-was-it-ukraine",
-    "ts": 1795383300000,
-    "tags": []
-   },
-   {
-    "t": "Watch: Obama Trashes 'Too White' GOP Congress As 'A Golf Country Club'",
-    "tt": "İzle: Obama 'Çok Beyaz' GOP Kongresini 'Bir Golf Country Kulübü' Olarak Çöpe Attı",
-    "s": "Watch: Obama Trashes 'Too White' GOP Congress As 'A Golf Country Club' Former President Barack Obama, in a closed-door pep talk to the newly elected House Democrats on Wednesday, complained that everybody on the Republican side of the chamber at his State of the Union addresses \"looked the same,\" li",
-    "ss": "İzle: Obama, GOP Kongresini 'Çok Beyaz' Bir Golf Kulübü Olarak Çöpe Attı Eski Başkan Barack Obama, çarşamba günü yeni seçilen Temsilciler Meclisi Demokratlarıyla yaptığı kapalı kapılar ardında yaptığı moral konuşmasında, Birliğin Durumu konuşmalarında meclisin Cumhuriyetçi tarafındaki herkesin \"aynı göründüğünden\" şikayet etti.",
-    "u": "https://www.zerohedge.com/political/watch-obama-trashes-too-white-gop-congress-golf-country-club",
-    "ts": 1795383000000,
-    "tags": []
-   },
-   {
-    "t": "Trump Tells Federal Contractors: Check With White House Before Answering Congress",
-    "tt": "Trump, Federal Müteahhitlere: Kongreye Yanıt Vermeden Önce Beyaz Saray'la Görüşün",
-    "s": "Trump Tells Federal Contractors: Check With White House Before Answering Congress Authored by Aldgra Fredly via The Epoch Times , President Donald Trump signed an executive order on Nov. 20 directing federal contractors to notify the White House of any pending or future congressional requests for in",
-    "ss": "Trump, Federal Müteahhitlere: Kongreyi Yanıtlamadan Önce Beyaz Saray'la Görüşün Yazan Aldgra Fredly, The Epoch Times aracılığıyla, Başkan Donald Trump, 20 Kasım'da federal müteahhitlere, Kongre'nin bekleyen veya gelecekteki taleplerini Beyaz Saray'a bildirmeleri yönünde talimat veren bir idari emir imzaladı.",
-    "u": "https://www.zerohedge.com/political/trump-tells-federal-contractors-check-white-house-answering-congress",
-    "ts": 1795380000000,
-    "tags": []
-   },
-   {
-    "t": "Watch: Bessent's Surprising Jensen Huang About-Face",
-    "tt": "İzle: Bessent'in Şaşırtıcı Jensen Huang Yüzü",
-    "s": "Watch: Bessent's Surprising Jensen Huang About-Face Treasury Secretary Scott Bessent, who a week ago told Nvidia's board to go outside the company for a new chief executive, declined on Sunday to say Jensen Huang shouldn't get his job back, and called the Chinese-spy angle of the scandal that ended ",
-    "ss": "Bessent'in Şaşırtıcı Jensen Huang'ı Bir hafta önce Nvidia'nın yönetim kuruluna yeni bir genel müdür bulmak için şirket dışına çıkmasını söyleyen Hazine Bakanı Scott Bessent, Pazar günü Jensen Huang'ın işini geri almaması gerektiğini söylemeyi reddetti ve sona eren skandalın Çin casusluk açısı olduğunu söyledi.",
-    "u": "https://www.zerohedge.com/ai/watch-bessents-stunning-jensen-huang-about-face",
-    "ts": 1795378500000,
     "tags": []
    }
   ],
