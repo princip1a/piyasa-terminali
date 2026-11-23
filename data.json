@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T01:56:18.177975+00:00",
+ "generated": "2026-11-23T02:48:31.226738+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3609.0,
-   "c": 2.66,
-   "d": 93.6,
+   "p": 3578.4,
+   "c": 1.79,
+   "d": 63.0,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.24,
-   "c": 2.94,
-   "d": 1.205,
+   "p": 41.525,
+   "c": 1.19,
+   "d": 0.49,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.19,
-   "c": -0.94,
-   "d": -0.79,
+   "p": 83.04,
+   "c": -1.12,
+   "d": -0.94,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.61,
-   "c": -3.2,
-   "d": -2.96,
+   "p": 89.53,
+   "c": -3.28,
+   "d": -3.04,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.759,
-   "c": -0.05,
-   "d": -0.051,
+   "p": 103.736,
+   "c": -0.07,
+   "d": -0.074,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5865,
-   "c": 0.05,
-   "d": 0.024,
+   "p": 50.5706,
+   "c": 0.02,
+   "d": 0.008,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60761,
-   "c": 1.19,
+   "p": 60455,
+   "c": 1.64,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1709.15,
-   "c": 1.45,
+   "p": 1700.31,
+   "c": 2.01,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.38,
-   "c": 0.14,
+   "p": 69.96,
+   "c": 0.7,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.917008,
-   "c": -1.49,
+   "p": 0.914426,
+   "c": -0.66,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 555.77,
-   "c": 1.17,
+   "p": 551.36,
+   "c": 1.58,
    "k": "usd"
   }
  ],
@@ -364,6 +364,78 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Asian Stocks Drop as AI Worries Offset State Support Measures",
+    "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
+    "s": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing.",
+    "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "ts": 1795345579000,
+    "tags": []
+   },
+   {
+    "t": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
+    "tt": "Bakır, AI Gloom'da Geçen Hafta %9'dan Fazla Düştükten Sonra Yükseldi",
+    "s": "Copper sank below $12,000 a ton on the London Metal Exchange, deepening a sharp selloff as doubts grow about demand from artificial intelligence.",
+    "ss": "Bakır, yapay zeka stoklarındaki satışlarla ilgili küresel talebe ilişkin derinleşen endişeler nedeniyle geçen hafta %9'dan fazla düştükten sonra yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+    "ts": 1795395930000,
+    "tags": []
+   },
+   {
+    "t": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
+    "tt": "Hindistan'ın Nifty'si Küresel Hisse Senetleri Olarak Öne Çıkıyor, Altın Nadir Ortak Satışlardan Etkileniyor",
+    "s": "India’s equity benchmark climbed as the S&amp;P 500, MSCI’s Asia gauge and gold each lost more than 5% last week.",
+    "ss": "Hindistan'ın hisse senedi endeksi, S&P 500, MSCI Asya endeksi ve altının geçen hafta yüzde 5'ten fazla değer kaybetmesiyle yükseldi.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
+    "ts": 1795401376000,
+    "tags": []
+   },
+   {
+    "t": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
+    "tt": "Tata Steel, APL Apollo Tubes'un %26,4 hissesini 1,7 Milyar Dolara Satın Alacak",
+    "s": "Tata Steel Ltd. has agreed to acquire a 26.4% stake in APL Apollo Tubes Ltd. for as much as 155.1 billion rupees ($1.7 billion), deepening its presence in India’s structural steel products market.",
+    "ss": "Tata Steel Ltd., APL Apollo Tubes Ltd.'nin %26,4 hissesini 155,1 milyar rupi (1,7 milyar $) karşılığında satın almayı kabul ederek Hindistan'ın yapısal çelik ürünleri pazarındaki varlığını derinleştirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
+    "ts": 1795401005000,
+    "tags": []
+   },
+   {
+    "t": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
+    "tt": "MSCI, Prabowo ve Dalio ile Endonezya'nın Not Düşüşünden Kaçınmayı Tartıştı",
+    "s": "MSCI Inc. Chief Executive Henry Fernandez conveyed a willingness to consider alternatives to a two-step downgrade of Indonesia’s stock-market status in recent direct talks with President Prabowo Subianto, according to people with knowledge of the discussion.",
+    "ss": "Tartışma hakkında bilgisi olan kaynaklara göre, MSCI Inc. İcra Kurulu Başkanı Henry Fernandez, Başkan Prabowo Subianto ile yakın zamanda yapılan doğrudan görüşmelerde Endonezya'nın borsa statüsünün iki aşamalı notunun düşürülmesi yerine alternatifleri değerlendirme isteğini dile getirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
+    "ts": 1795400859000,
+    "tags": []
+   },
+   {
+    "t": "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally",
+    "tt": "Altın, Yatırımcıların Yakın Vadeli Fed Faiz Artırımlarına Yönelik Bahisleriyle Yükselişe Geçti",
+    "s": "Gold rebounded from its biggest weekly decline in eight months as a technology-stock rout pushed traders to seek haven assets, driving down US Treasury yields and the dollar.",
+    "ss": "Altın, yatırımcıların Fed'in yakın vadede faiz artırımına gideceği yönündeki bahisleri azaltmasıyla sekiz ayın en büyük haftalık düşüşünü yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+    "ts": 1795393683000,
+    "tags": []
+   },
+   {
+    "t": "Asia Market Measures May Buffer Stock Losses: BNP",
+    "tt": "Asya Piyasası Önlemleri Hisse Senedi Kayıplarını Tamponlayabilir: BNP",
+    "s": "Jason Lui, Head of APAC Equity Derivative Strategy at BNP Paribas, says market support measures in China, Taiwan and South Korea may provide a buffer against weak sentiment, but longer-term investment returns will still face long-term uncertainty from US data-center regulations and restrictions on r",
+    "ss": "BNP Paribas APAC Hisse Türev Stratejisi Başkanı Jason Lui, Çin, Tayvan ve Güney Kore'deki piyasa destek önlemlerinin zayıf güvene karşı bir tampon sağlayabileceğini, ancak uzun vadeli yatırım getirilerinin ABD veri merkezi düzenlemeleri ve r üzerindeki kısıtlamalardan kaynaklanan uzun vadeli belirsizliklerle karşı karşıya kalacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
+    "ts": 1795399478000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 23",
+    "tt": "23 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil dipped as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
+    "ss": "Petrol fiyatları, tüccarların Orta Doğu'da düşmanlıkların artacağı beklentisi karşısında güçlü ham petrol ihracatına ilişkin işaretlere ağırlık vermesiyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+    "ts": 1795388766000,
+    "tags": []
+   },
+   {
     "t": "Why Asia Market Stabilization Measures May Not Be Enough",
     "tt": "Asya Pazarı İstikrar Tedbirleri Neden Yeterli Olmayabilir?",
     "s": "Bloomberg's Lianting Tu talks about investor sentiment that recent stabilization measures in China, Taiwan and Korea are not quite enough, and how near-term outlook depends on dip buying and whether hedge funds keep cutting positions. (Source: Bloomberg)",
@@ -379,84 +451,6 @@
     "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
     "ts": 1795384947000,
-    "tags": []
-   },
-   {
-    "t": "Treasury Futures Fall as Rising Stocks Damp Demand for Havens",
-    "tt": "Yükselen Hisse Senedi Vadeli İşlemleri Haven Talebini Azalttıkça Hazine Vadeli İşlemleri Düşüyor",
-    "s": "US Treasury futures declined as demand for havens waned on signs that the recent selloff in equities may be drawing some buyers back.",
-    "ss": "ABD hisse senedi vadeli işlemlerinin yükselişinin ardından güvenli limanlara olan talebin azalmasıyla ABD Hazine vadeli işlemleri geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
-    "ts": 1795391946000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Drop in Asia Again as Local Regulators Rush to Stem Rout",
-    "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
-    "s": "South Korean and Chinese shares fell as a global technology stock rout intensified, testing Asian authorities’ efforts to restore investor confidence as the AI trade unraveled.",
-    "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-    "ts": 1795345579000,
-    "tags": []
-   },
-   {
-    "t": "Copper Rises After Falling More Than 9% Last Week on AI Gloom",
-    "tt": "Bakır, AI Gloom'da Geçen Hafta %9'dan Fazla Düştükten Sonra Yükseldi",
-    "s": "Copper rose, after falling more than 9% last week on deepening worries about global demand related to the selloff in artificial intelligence stocks.",
-    "ss": "Bakır, yapay zeka stoklarındaki satışlarla ilgili küresel talebe ilişkin derinleşen endişeler nedeniyle geçen hafta %9'dan fazla düştükten sonra yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
-    "ts": 1795395930000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Gain in Volatile Trading After Tech-Driven Rout",
-    "tt": "Hisse Senedi Yatırımcıları Teknoloji Odaklı Rutinin Ardından Daha Fazla Volatiliteye Hazırlanıyor",
-    "s": "US stock futures rebounded as dip buyers stepped in following a steep selloff that saw a violent rotation out of technology shares, in a signal of heightened volatility in the artificial intelligence trade.",
-    "ss": "Wall Street, ABD hisse senetlerindeki şiddetli rotasyonun yatırımcıların daha fazla acının gelip gelmediğini merak etmesine neden olmasının ardından yeni işlem haftasına yoğun baskı altında giriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
-    "ts": 1795388682000,
-    "tags": []
-   },
-   {
-    "t": "Treasuries' Negative Correlation to Stocks Is Back: State Street",
-    "tt": "Hazine Tahvillerinin Hisse Senetleriyle Negatif Korelasyonu Geri Döndü: State Street",
-    "s": "Masahiko Loo, Chief Fixed Income Strategist at State Street Investment Management, says US treasuries are resuming a negative correlation with stocks. He speaks as US bond futures decline in early Asia trading. (Source: Bloomberg)",
-    "ss": "State Street Investment Management'ın Baş Sabit Gelir Stratejisti Masahiko Loo, ABD hazine tahvillerinin hisse senetleriyle negatif korelasyona devam ettiğini söylüyor. ABD tahvil vadeli işlemlerinin Asya ticaretinin başlarında düşüş yaşadığı bir dönemde konuşuyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-23/why-treasuries-negative-correlation-to-stocks-is-back-video",
-    "ts": 1795393845000,
-    "tags": []
-   },
-   {
-    "t": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
-    "tt": "Altın, Yatırımcıların Yakın Vadeli Fed Faiz Artırımlarına Yönelik Bahisleriyle Yükselişe Geçti",
-    "s": "Gold rebounded from its biggest weekly decline in eight months as traders scaled back bets on the Federal Reserve raising interest rates in the near term.",
-    "ss": "Altın, yatırımcıların Fed'in yakın vadede faiz artırımına gideceği yönündeki bahisleri azaltmasıyla sekiz ayın en büyük haftalık düşüşünü yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-    "ts": 1795393683000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 23",
-    "tt": "23 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil declined as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
-    "ss": "Petrol fiyatları, tüccarların Orta Doğu'da düşmanlıkların artacağı beklentisi karşısında güçlü ham petrol ihracatına ilişkin işaretlere ağırlık vermesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
-    "ts": 1795388766000,
-    "tags": []
-   },
-   {
-    "t": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
-    "tt": "Dünyanın En Büyük Varant Piyasası Hong Kong'daki Olağandışı Ticaretle Besleniyor",
-    "s": "The $577 billion Hong Kong market has tell-tale signs of artificially inflated trading, insiders say.",
-    "ss": "İçeriden edinilen bilgilere göre, 577 milyar dolarlık Hong Kong pazarında yapay olarak şişirilmiş ticaretin işaretleri var.",
-    "u": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
-    "ts": 1795388417000,
     "tags": []
    }
   ],
@@ -652,6 +646,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "ActBlue CEO Responds After Paxton Abandons 'Landmark' Lawsuit",
+    "tt": "ActBlue CEO'su, Paxton'un 'Landmark' Davasından Vazgeçmesinin Ardından Yanıt Verdi",
+    "s": "ActBlue CEO Responds After Paxton Abandons 'Landmark' Lawsuit Authored by Luis Cornelio via Headline USA , ActBlue CEO Regina Wallace-Jones, in remarks first shared with Headline USA, celebrated Texas Attorney General Ken Paxton's decision to drop his \"landmark\" lawsuit against the Democratic Party'",
+    "ss": "ActBlue CEO'su, Paxton'un 'Dönüm Noktası' Davasından Vazgeçmesinin Ardından Yanıt Verdi Luis Cornelio tarafından Headline USA aracılığıyla yazıldı ActBlue CEO'su Regina Wallace-Jones, ilk kez Headline USA ile paylaşılan konuşmasında Teksas Başsavcısı Ken Paxton'ın Demokrat Parti'ye karşı açtığı \"dönüm noktası\" davasını geri çekme kararını kutladı.",
+    "u": "https://www.zerohedge.com/political/actblue-ceo-responds-after-paxton-abandons-landmark-lawsuit",
+    "ts": 1795401000000,
+    "tags": []
+   },
+   {
+    "t": "One Noncitizen Voted 16 Times: New Records Expose Thousands On Battleground Voter Rolls",
+    "tt": "Vatandaş Olmayan Bir Kişi 16 Kez Oy Verdi: Yeni Kayıtlar Savaş Alanı Seçmen Kütüklerinde Binlerce Kişiyi Ortaya Çıkardı",
+    "s": "One Noncitizen Voted 16 Times: New Records Expose Thousands On Battleground Voter Rolls A Virginia list of \"declared noncitizens\" covering July 2020 to July 2026 shows at least 8,000 noncitizens on the state's voter rolls , the Republican National Committee says, while county files from Arizona, Pen",
+    "ss": "Vatandaş Olmayan Bir Kişi 16 Kez Oy Verdi: Yeni Kayıtlar, Savaş Alanı Seçmen Listelerinde Binlerce Kişiyi Ortaya Çıkardı Cumhuriyetçi Ulusal Komite, Temmuz 2020 ile Temmuz 2026 arasındaki dönemi kapsayan \"vatandaş olmadığı beyan edilenler\"in Virginia listesinde eyaletin seçmen listelerinde en az 8.000 vatandaş olmayan kişinin yer aldığını söylüyor; Arizona'dan gelen ilçe dosyaları ise Pen",
+    "u": "https://www.zerohedge.com/markets/one-noncitizen-voted-16-times-new-records-expose-thousands-battleground-voter-rolls",
+    "ts": 1795399500000,
+    "tags": []
+   },
+   {
     "t": "Appeals Court Freezes Army's Plan To Blow Up 9,700 Pounds Of Lead Explosive Near Iowa Town",
     "tt": "Temyiz Mahkemesi Ordunun Iowa Kasabası Yakınlarında 9.700 Pound Kurşun Patlayıcıyı Patlatma Planını Dondurdu",
     "s": "Appeals Court Freezes Army's Plan To Blow Up 9,700 Pounds Of Lead Explosive Near Iowa Town Authored by Jack Phillips via The Epoch Times , A federal appeals court has blocked the U.S. Army's detonation of bomb-making, lead-based chemicals at an Iowa munitions plant amid concerns about its impact on ",
@@ -721,24 +733,6 @@
     "ss": "Texas Jiletli Tel 30 Yıl Boyunca Kalıyor - Ve Yeni Demokrat Vali Bunu Çekemiyor Teksas, Vali Greg Abbott ve Başsavcı Ken Paxton'ın her iki anlaşmanın imzalanmasından haftalar önce Trump yönetimiyle imzaladığı bir anlaşma uyarınca, akordeon telini önümüzdeki 30 yıl boyunca Rio Grande boyunca yerine kilitledi.",
     "u": "https://www.zerohedge.com/political/texas-razor-wire-stays-30-years-and-new-democrat-governor-cant-pull-it",
     "ts": 1795387500000,
-    "tags": []
-   },
-   {
-    "t": "\"I'm All Into It\": Trump Ready To Join Democrats On Credit Card Rate Cap",
-    "tt": "\"Ben bu işin içindeyim\": Trump, Kredi Kartı Oranı Tavanı Konusunda Demokratlara Katılmaya Hazır",
-    "s": "\"I'm All Into It\": Trump Ready To Join Democrats On Credit Card Rate Cap President Trump said Saturday he would work with Democrats to cap credit card interest rates and fees , waving off free-market objections and taking aim at the card issuers just as Sen. Elizabeth Warren, the cap's loudest Democ",
-    "ss": "\"Ben de bu işin içindeyim\": Trump, Kredi Kartı Faiz Oranı Üst Sınırı Konusunda Demokratlara Katılmaya Hazır Başkan Trump Cumartesi günü yaptığı açıklamada, kredi kartı faiz oranlarını ve ücretlerini sınırlamak için Demokratlarla birlikte çalışacağını, serbest piyasa itirazlarını bir kenara bırakıp, tıpkı sınırın en gürültücü Demokratı Senatör Elizabeth Warren gibi kart veren kuruluşları hedef alacağını söyledi.",
-    "u": "https://www.zerohedge.com/political/im-all-it-trump-ready-join-democrats-credit-card-rate-cap",
-    "ts": 1795386000000,
-    "tags": []
-   },
-   {
-    "t": "UN Climate Summit Collapses Into Chaos - And It All Came Down To Two Words",
-    "tt": "BM İklim Zirvesi Kaosa Dönüştü - Ve Her Şey İki Kelimeden Kaldı",
-    "s": "UN Climate Summit Collapses Into Chaos - And It All Came Down To Two Words The United Nations climate summit in Antalya, Turkey, died with a whimper on Sunday with no final agreement, after a bloc of oil producers led by Saudi Arabia refused to let the words \"fossil fuels\" into the deal , acausing E",
-    "ss": "BM İklim Zirvesi Kaosa Çöktü - Ve Her Şey İki Kelimeye Kaldı Türkiye'nin Antalya kentindeki Birleşmiş Milletler iklim zirvesi, Suudi Arabistan liderliğindeki bir petrol üreticileri bloğunun anlaşmada \"fosil yakıtlar\" kelimelerinin yer almasına izin vermemesinin ardından Pazar günü nihai bir anlaşma sağlanamadan sızlanarak sona erdi.",
-    "u": "https://www.zerohedge.com/geopolitical/un-climate-summit-collapses-chaos-and-it-all-came-down-two-words",
-    "ts": 1795384500000,
     "tags": []
    }
   ],
