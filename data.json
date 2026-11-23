@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T03:49:53.106321+00:00",
+ "generated": "2026-11-23T05:01:48.584854+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3606.0,
-   "c": 2.58,
-   "d": 90.6,
+   "p": 3612.2,
+   "c": -1.99,
+   "d": -73.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.105,
-   "c": 2.61,
-   "d": 1.07,
+   "p": 42.095,
+   "c": -5.02,
+   "d": -2.223,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.24,
-   "c": -0.88,
-   "d": -0.74,
+   "p": 83.5,
+   "c": 0.35,
+   "d": 0.29,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.78,
-   "c": -3.01,
-   "d": -2.79,
+   "p": 89.96,
+   "c": -2.2,
+   "d": -2.02,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.763,
-   "c": -0.05,
-   "d": -0.047,
+   "p": 103.774,
+   "c": -0.12,
+   "d": -0.126,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5762,
-   "c": 0.03,
-   "d": 0.014,
+   "p": 50.5857,
+   "c": 0.05,
+   "d": 0.023,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 61184,
-   "c": 3.56,
+   "p": 61167,
+   "c": 3.33,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1730.24,
-   "c": 4.65,
+   "p": 1724.92,
+   "c": 3.92,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.2,
-   "c": 2.96,
+   "p": 71.25,
+   "c": 2.85,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.93084,
-   "c": 1.7,
+   "p": 0.931872,
+   "c": 1.39,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 557.64,
-   "c": 3.44,
+   "p": 556.91,
+   "c": 3.18,
    "k": "usd"
   }
  ],
@@ -364,6 +364,75 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "US Stock Futures Rally After AI Rout, Havens Fall: Markets Wrap",
+    "tt": "Asya, ABD'deki Satışların Ardından Daha Fazla Volatiliteye Hazırlanıyor: Piyasalar Tamamlandı",
+    "s": "US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.",
+    "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+    "ts": 1795384947000,
+    "tags": []
+   },
+   {
+    "t": "Indian Stocks Briefly Erase 2026 Losses on Record Foreign Buying",
+    "tt": "Hint Hisse Senetleri 2026 Rekor Yabancı Alım Kayıplarını Kısa Süreliğine Sildi",
+    "s": "Indian shares advanced on Monday in early trade, briefly wiping out their losses for the year before turning lower, as returning foreign money and the unraveling of the AI trade revived demand for overlooked markets.",
+    "ss": "Hindistan hisseleri Pazartesi günü erken işlemlerde yükseldi ve yabancı paranın geri dönmesi ve yapay zeka ticaretinin çözülmesinin gözden kaçan piyasalara olan talebi yeniden canlandırmasıyla, düşüşe geçmeden önce yıl içindeki kayıplarını kısa süreliğine sildi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/india-stocks-erase-yearly-losses-as-foreign-buying-spurs-rebound",
+    "ts": 1795405816000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Drop as AI Worries Offset State Support Measures",
+    "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
+    "s": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing.",
+    "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "ts": 1795345579000,
+    "tags": []
+   },
+   {
+    "t": "Gold Rebounds as Dip-Buyers Step In After Worst Week Since March",
+    "tt": "Altın, Mart ayından bu yana en kötü haftanın ardından dip alıcıların devreye girmesiyle toparlanıyor",
+    "s": "Gold rebounded from its biggest weekly decline in eight months, with dip-buyers stepping in as the market pared bets on a Federal Reserve rate hike in December.",
+    "ss": "Altın, piyasanın Fed'in Aralık ayında faiz artırımına gideceği yönündeki bahisleri boşa çıkarması üzerine dip alıcılarının devreye girmesiyle sekiz ayın en büyük haftalık kaybından sonra toparlandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+    "ts": 1795393683000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 23",
+    "tt": "23 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil fluctuated as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
+    "ss": "Petrol fiyatları, tüccarların Orta Doğu'da düşmanlıkların artacağı beklentisi karşısında güçlü ham petrol ihracatına ilişkin işaretleri değerlendirmesiyle dalgalandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+    "ts": 1795388766000,
+    "tags": []
+   },
+   {
+    "t": "South Korea Says Market Measures Will Ease Investor Jitters",
+    "tt": "Güney Kore, Piyasa Önlemlerinin Yatırımcıların Heyecanını Azaltacağını Söyledi",
+    "s": "South Korea reiterated its commitment to stabilize equity markets, but the measures failed to soothe investor sentiment, with the benchmark Kospi slumping another 5% on Monday following last week’s selloff.",
+    "ss": "Güney Kore maliye bakanı, Kospi endeksinin geçen haftaki satışın ardından Pazartesi günü yüzde 5 daha değer kaybetmesine rağmen, hükümetin en son piyasa istikrarı önlemlerinin yatırımcı güvenini yeniden sağlamaya yardımcı olması gerektiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-says-market-measures-will-ease-investor-jitters",
+    "ts": 1795403354000,
+    "tags": []
+   },
+   {
+    "t": "South Africa’s Woolworths, Momentum Face Investor Pay Challenges",
+    "tt": "Güney Afrika'nın Woolworths'ü Momentum Yatırımcı Ödeme Zorluklarıyla Karşı Karşıya",
+    "s": "Three of South Africa’s best-known companies will face challenges on issues including their pay policies and the independence of some of their directors at annual general meetings over the next week.",
+    "ss": "Güney Afrika'nın en tanınmış şirketlerinden üçü, önümüzdeki hafta yapılacak yıllık genel toplantılarda ücret politikaları ve bazı yöneticilerin bağımsızlığı gibi konularda zorluklarla karşılaşacak.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/south-africa-s-woolworths-momentum-face-investor-pay-challenges",
+    "ts": 1795406400000,
+    "tags": []
+   },
+   {
     "t": "China’s Record State Fund Rescue Masks Deepening Investor Gloom",
     "tt": "Çin'in Rekor Devlet Fonu Kurtarma Maskeleri Yatırımcının Kasvetini Derinleştiriyor",
     "s": "China’s state-backed funds poured a record amount of money into the market on Friday in another forceful attempt to stem a deepening selloff.",
@@ -382,75 +451,12 @@
     "tags": []
    },
    {
-    "t": "South Korea Says Market Measures Will Ease Investor Jitters",
-    "tt": "Güney Kore, Piyasa Önlemlerinin Yatırımcıların Heyecanını Azaltacağını Söyledi",
-    "s": "South Korea’s finance minister said the government’s latest market-stabilization measures should help restore investor confidence, even as the benchmark Kospi slumped another 5% on Monday following last week’s selloff.",
-    "ss": "Güney Kore maliye bakanı, Kospi endeksinin geçen haftaki satışın ardından Pazartesi günü yüzde 5 daha değer kaybetmesine rağmen, hükümetin en son piyasa istikrarı önlemlerinin yatırımcı güvenini yeniden sağlamaya yardımcı olması gerektiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-says-market-measures-will-ease-investor-jitters",
-    "ts": 1795403354000,
-    "tags": []
-   },
-   {
     "t": "India’s Appeal Grows as Global Tech Selloff Deepens",
     "tt": "Küresel Teknoloji Satışları Derinleştikçe Hindistan'ın Cazibesi Artıyor",
     "s": "India’s appeal as an anti-AI market is growing as the global tech selloff deepens. From stocks to the currency, Indian assets are drawing fresh foreign interest as several tailwinds fall into place. Bloomberg’s Abhishek Vishnoi explains what to watch this week. (Source: Bloomberg)",
     "ss": "Hindistan'ın yapay zeka karşıtı bir pazar olarak çekiciliği, küresel teknoloji satışları derinleştikçe artıyor. Hisse senetlerinden para birimine kadar Hint varlıkları, bazı olumsuzlukların ortadan kalkmasıyla yabancıların yeni ilgisini çekiyor. Bloomberg'den Abhishek Vishnoi bu hafta ne izleyeceğini açıklıyor. (Kaynak: Bloomberg)",
     "u": "https://www.bloomberg.com/news/videos/2026-11-23/india-s-appeal-grows-as-global-tech-selloff-deepens-video",
     "ts": 1795403334000,
-    "tags": []
-   },
-   {
-    "t": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
-    "tt": "Bakır, AI Gloom'da Geçen Hafta %9'dan Fazla Düştükten Sonra Yükseldi",
-    "s": "Copper briefly sank below $12,000 a ton on the London Metal Exchange, deepening a sharp selloff as doubts grow about demand from artificial intelligence.",
-    "ss": "Bakır, yapay zeka stoklarındaki satışlarla ilgili küresel talebe ilişkin derinleşen endişeler nedeniyle geçen hafta %9'dan fazla düştükten sonra yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
-    "ts": 1795395930000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Bounce After Rout, Havens Decline: Markets Wrap",
-    "tt": "Asya, ABD'deki Satışların Ardından Daha Fazla Volatiliteye Hazırlanıyor: Piyasalar Tamamlandı",
-    "s": "US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.",
-    "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-    "ts": 1795384947000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks Drop as AI Worries Offset State Support Measures",
-    "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
-    "s": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing.",
-    "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
-    "ts": 1795345579000,
-    "tags": []
-   },
-   {
-    "t": "India’s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff",
-    "tt": "Hindistan'ın Nifty'si Küresel Hisse Senetleri Olarak Öne Çıkıyor, Altın Nadir Ortak Satışlardan Etkileniyor",
-    "s": "India’s equity benchmark climbed as the S&amp;P 500, MSCI’s Asia gauge and gold each lost more than 5% last week.",
-    "ss": "Hindistan'ın hisse senedi endeksi, S&P 500, MSCI Asya endeksi ve altının geçen hafta yüzde 5'ten fazla değer kaybetmesiyle yükseldi.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-23/india-s-nifty-stands-apart-as-global-stocks-gold-suffer-rare-joint-selloff",
-    "ts": 1795401376000,
-    "tags": []
-   },
-   {
-    "t": "Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion",
-    "tt": "Tata Steel, APL Apollo Tubes'un %26,4 hissesini 1,7 Milyar Dolara Satın Alacak",
-    "s": "Tata Steel Ltd. has agreed to acquire a 26.4% stake in APL Apollo Tubes Ltd. for as much as 155.1 billion rupees ($1.7 billion), deepening its presence in India’s structural steel products market.",
-    "ss": "Tata Steel Ltd., APL Apollo Tubes Ltd.'nin %26,4 hissesini 155,1 milyar rupi (1,7 milyar $) karşılığında satın almayı kabul ederek Hindistan'ın yapısal çelik ürünleri pazarındaki varlığını derinleştirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/tata-steel-to-acquire-26-4-in-apl-apollo-tubes-for-1-7-billion",
-    "ts": 1795401005000,
-    "tags": []
-   },
-   {
-    "t": "MSCI Discussed Avoiding Indonesia Downgrade With Prabowo, Dalio",
-    "tt": "MSCI, Prabowo ve Dalio ile Endonezya'nın Not Düşüşünden Kaçınmayı Tartıştı",
-    "s": "MSCI Inc. Chief Executive Henry Fernandez conveyed a willingness to consider alternatives to a two-step downgrade of Indonesia’s stock-market status in recent direct talks with President Prabowo Subianto, according to people with knowledge of the discussion.",
-    "ss": "Tartışma hakkında bilgisi olan kaynaklara göre, MSCI Inc. İcra Kurulu Başkanı Henry Fernandez, Başkan Prabowo Subianto ile yakın zamanda yapılan doğrudan görüşmelerde Endonezya'nın borsa statüsünün iki aşamalı notunun düşürülmesi yerine alternatifleri değerlendirme isteğini dile getirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
-    "ts": 1795400859000,
     "tags": []
    }
   ],
@@ -554,6 +560,15 @@
   ],
   "MarketWatch": [
    {
+    "t": "The number of 401(k) millionaires drops amid stock-market swings",
+    "tt": "401(k) milyonerlerin sayısı borsadaki dalgalanmaların ortasında düştü",
+    "s": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+    "ss": "Fidelity, 'Zorlu bir çeyrekti': 401(k) bakiyeleri düşüyor ve karşılanabilirlik endişeleri sürüyor",
+    "u": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+    "ts": 1795410060000,
+    "tags": []
+   },
+   {
     "t": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
     "tt": "Kurumsal Amerika, yapay zeka, ticari kartlar ve L.A. havaalanında 'nesiller arası' büyümenin peşinde",
     "s": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
@@ -633,18 +648,45 @@
     "u": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
     "ts": 1795364280000,
     "tags": []
-   },
-   {
-    "t": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-    "tt": "'Başlamak için asla geç değil': Finans sektörünün önde gelen kadınlarından bazılarından pratik yatırım tavsiyeleri",
-    "s": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-    "ss": "ABD'de çok sayıda zengin ve nüfuzlu kadın var. Onların zamanı yaklaşıyor olabilir.",
-    "u": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-    "ts": 1795364100000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "These Are The US States With The Highest Tax Burden In 2026",
+    "tt": "Bunlar 2026'da En Yüksek Vergi Yüküne Sahip ABD Eyaletleri",
+    "s": "These Are The US States With The Highest Tax Burden In 2026 Hawaii has the heaviest state and local tax burden at 13.3% of personal income, nearly three times Alaska's 4.92%, according to WalletHub's 2026 figures, compiled by Visual Capitalist. New York is second at 12.39% and Vermont third at 11.1%",
+    "ss": "Bunlar, Visual Capitalist tarafından derlenen WalletHub 2026 rakamlarına göre, 2026'da En Yüksek Vergi Yüküne Sahip ABD Eyaletleri Hawaii, kişisel gelirin %13,3'üyle en ağır eyalet ve yerel vergi yüküne sahip; bu, Alaska'nın %4,92'lik oranının neredeyse üç katı. New York %12,39 ile ikinci, Vermont ise %11,1 ile üçüncü sırada yer alıyor.",
+    "u": "https://www.zerohedge.com/economics/mapped-us-states-highest-tax-burden-2026",
+    "ts": 1795410000000,
+    "tags": []
+   },
+   {
+    "t": "Israeli Fingerprints Grow On CNN's Iran 'Dirty Bomb' Scare",
+    "tt": "CNN'in İran'daki 'Kirli Bomba' Korkusunda İsrail'in Parmak İzleri Büyüdü",
+    "s": "Israeli Fingerprints Grow On CNN's Iran 'Dirty Bomb' Scare The chemical-weapons threat that pushed Treasury Secretary Scott Bessent out of his home and onto a military base appears to have come from Israeli intelligence - a detail conspicuously missing from CNN's report this week that Iran was plott",
+    "ss": "CNN'in İran 'Kirli Bomba' Korkusunda İsrail Parmak İzleri Büyüyor Hazine Bakanı Scott Bessent'i evinden alıp askeri üsse iten kimyasal silah tehdidi, İsrail istihbaratından gelmiş gibi görünüyor; CNN'in İran'ın bir komplo olduğuna dair bu haftaki raporunda bariz bir şekilde eksik olan bir ayrıntı.",
+    "u": "https://www.zerohedge.com/geopolitical/israeli-fingerprints-grow-cnns-iran-dirty-bomb-scare",
+    "ts": 1795410000000,
+    "tags": []
+   },
+   {
+    "t": "On Freedom In The Face Of Tyranny",
+    "tt": "Zulüm Karşısında Özgürlük Üzerine",
+    "s": "On Freedom In The Face Of Tyranny Authored by J.B. Shurk via American Thinker , As much as President Trump's supporters hoped that he would be able to save America from those who wish to destroy America, the midterm elections have made clear that this project will continue long after the president l",
+    "ss": "J.B. Shurk tarafından American Thinker aracılığıyla yazılan Tiranlık Karşısındaki Özgürlük Üzerine Başkan Trump'ın destekçileri onun Amerika'yı yok etmek isteyenlerden Amerika'yı kurtarabileceğini umdukları kadar ara seçimler de bu projenin başkandan çok sonra da devam edeceğini açıkça ortaya koydu.",
+    "u": "https://www.zerohedge.com/political/freedom-face-tyranny",
+    "ts": 1795408500000,
+    "tags": []
+   },
+   {
+    "t": "Chilling Suicide Wave Inside The NSA Has Lawmakers Demanding Answers",
+    "tt": "NSA'daki Tüyler ürpertici İntihar Dalgası, Kanun Yapıcılarından Cevap Talep Ediyor",
+    "s": "Chilling Suicide Wave Inside The NSA Has Lawmakers Demanding Answers At least 11 people working for the National Security Agency and US Cyber Command have died by suicide in a year, and a bipartisan group of House lawmakers is now pressing Congress to keep $11 million for mental health care at Fort ",
+    "ss": "NSA'daki Tüyler ürpertici İntihar Dalgası Milletvekillerinden Cevap İstedi Ulusal Güvenlik Ajansı ve ABD Siber Komutanlığı için çalışan en az 11 kişi bir yılda intihar sonucu öldü ve Temsilciler Meclisi'nde iki partiden oluşan bir grup milletvekili şu anda Kongre'ye akıl sağlığı bakımı için Fort'ta 11 milyon dolar ayırması için baskı yapıyor",
+    "u": "https://www.zerohedge.com/markets/chilling-suicide-wave-inside-nsa-has-lawmakers-demanding-answers",
+    "ts": 1795407000000,
+    "tags": []
+   },
    {
     "t": "Will Trump Cave On Immigration To Cut A Deal With Democrats?",
     "tt": "Trump Demokratlarla Anlaşma Yapmak İçin Göçmenlik Konusunda Pes Edecek mi?",
@@ -697,42 +739,6 @@
     "ss": "İzleyin: Mamdani Sosyalizmi Aylık Abonelik Olarak Satıyor Steve Watson tarafından Modernity aracılığıyla yazılmıştır, New York City'nin sosyalist belediye başkanı artık ideolojiyi bir yayın hizmeti gibi satıyor. Bu hafta yayınlanan gösterişli konuşmasında Zohran Mamdani, New Yorkluları yinelenen aylık bağış için kaydolmaya çağırdı",
     "u": "https://www.zerohedge.com/political/watch-mamdani-peddles-socialism-monthly-subscription",
     "ts": 1795396500000,
-    "tags": []
-   },
-   {
-    "t": "Asian Market Panic Continues As Korea Readies To Unleash Plunge Protectors For First Time Since Lehman",
-    "tt": "Kore, Lehman'dan Bu Yana İlk Kez Dalma Koruyucularını Serbest Bırakmaya Hazırlanırken Asya Piyasasında Panik Devam Ediyor",
-    "s": "Asian Market Panic Continues As Korea Readies To Unleash Plunge Protectors For First Time Since Lehman Asian authorities are stepping up efforts to stem a deepening stock-market rout, with China easing margin requirements, and Taiwan and South Korea rolling out intervention measures following Friday",
-    "ss": "Kore, Lehman'dan Bu Yana İlk Defa Dalma Koruyucularını Serbest Bırakmaya Hazırlanırken Asya Piyasasında Panik Devam Ediyor Asyalı yetkililer, Çin'in marj gereksinimlerini hafifletmesi ve Tayvan ve Güney Kore'nin Cuma gününden sonra müdahale tedbirlerini uygulamaya koymasıyla, hisse senedi piyasasında derinleşen bir bozgunla mücadele çabalarını hızlandırıyor",
-    "u": "https://www.zerohedge.com/markets/south-korea-readies-first-market-rescue-fund-deployment-2008",
-    "ts": 1795395000000,
-    "tags": []
-   },
-   {
-    "t": "Cantor Sees Opportunity In Enrichment As Nuclear Stocks Sink To 52-Week Lows",
-    "tt": "Cantor, Nükleer Stokların 52 Haftanın En Düşük Seviyesine Düşmesiyle Zenginleşme Fırsatı Görüyor",
-    "s": "Cantor Sees Opportunity In Enrichment As Nuclear Stocks Sink To 52-Week Lows Cantor Fitzgerald picked an interesting week to get bullish on Centrus Energy (LEU). On Monday, Cantor initiated coverage (subscribers can read the full report here ) on America's only domestic producer of high-assay low-en",
-    "ss": "Nükleer Hisseler 52 Haftanın En Düşük Seviyelerine Düşerken Cantor Zenginleşme Fırsatı Görüyor Cantor Fitzgerald, Centrus Energy'nin (LEU) yükselişe geçmesi için ilginç bir hafta seçti. Pazartesi günü Cantor, Amerika'nın tek yerli yüksek testli düşük-en üreticisi hakkında haber yapmaya başladı (aboneler raporun tamamını buradan okuyabilir)",
-    "u": "https://www.zerohedge.com/markets/cantor-sees-opportunity-enrichment-nuclear-stocks-sink-52-week-lows",
-    "ts": 1795393500000,
-    "tags": []
-   },
-   {
-    "t": "Former Postal Contractor Admits To Stealing Mail In Multimillion-Dollar Fraud Operation",
-    "tt": "Eski Posta Yüklenicisi Milyonlarca Dolarlık Dolandırıcılık Operasyonunda Posta Çaldığını İtiraf Etti",
-    "s": "Former Postal Contractor Admits To Stealing Mail In Multimillion-Dollar Fraud Operation A Kansas City-area man who transported mail for the U.S. Postal Service has admitted to taking checks and financial cards from the mail system and supplying them to others involved in a fraud operation valued at ",
-    "ss": "Eski Posta Müteahhidi Multimilyon Dolarlık Dolandırıcılık Operasyonunda Posta Çaldığını İtiraf Etti ABD Posta Servisi için posta taşıyan Kansas City bölgesinden bir adam, posta sisteminden çekler ve mali kartlar aldığını ve bunları 200 milyon dolarlık bir dolandırıcılık operasyonuna karışan diğer kişilere verdiğini itiraf etti.",
-    "u": "https://www.zerohedge.com/markets/former-postal-contractor-admits-stealing-mail-multimillion-dollar-fraud-operation",
-    "ts": 1795392000000,
-    "tags": []
-   },
-   {
-    "t": "Watch: Sorkin Sinks In His Chair As Palmer Luckey Dismantles Him On Ukraine, Trump And Musk",
-    "tt": "İzle: Palmer Luckey Ukrayna, Trump ve Musk Konusunda Onu Parçalarken Sorkin Sandalyesine Battı",
-    "s": "Watch: Sorkin Sinks In His Chair As Palmer Luckey Dismantles Him On Ukraine, Trump And Musk Asked by Andrew Ross Sorkin at the New York Times' DealBook Summit whether anyone can tell which side President Trump is really on in Ukraine, Anduril founder Palmer Luckey said Trump \"was put into an impossi",
-    "ss": "İzleyin: Palmer Luckey Ukrayna, Trump ve Musk Konusunda Onu Parçalarken Sorkin Sandalyesine Battı New York Times'ın DealBook Zirvesi'nde Andrew Ross Sorkin tarafından Başkan Trump'ın Ukrayna'da gerçekte hangi tarafta olduğunu söyleyebilecek birisinin olup olmadığı sorulduğunda, Anduril'in kurucusu Palmer Luckey, Trump'ın \"imkansız bir duruma düşürüldüğünü\" söyledi.",
-    "u": "https://www.zerohedge.com/political/watch-sorkin-sinks-his-chair-palmer-luckey-dismantles-him-ukraine-trump-and-musk",
-    "ts": 1795390500000,
     "tags": []
    }
   ],
