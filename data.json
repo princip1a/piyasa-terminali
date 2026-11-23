@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T23:20:44.759574+00:00",
+ "generated": "2026-11-23T00:20:19.868135+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3571.1,
-   "c": 1.58,
-   "d": 55.7,
+   "p": 3574.5,
+   "c": 1.68,
+   "d": 59.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.74,
-   "c": 1.72,
-   "d": 0.705,
+   "p": 41.97,
+   "c": 2.28,
+   "d": 0.935,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.16,
-   "c": -0.98,
-   "d": -0.82,
+   "p": 82.85,
+   "c": -1.35,
+   "d": -1.13,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.95,
-   "c": -2.83,
-   "d": -2.62,
+   "p": 89.3,
+   "c": -3.53,
+   "d": -3.27,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.801,
-   "c": -0.01,
-   "d": -0.009,
+   "p": 103.842,
+   "c": 0.03,
+   "d": 0.032,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5627,
-   "c": 0.0,
-   "d": 0.0,
+   "p": 50.5806,
+   "c": 0.04,
+   "d": 0.018,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60975,
-   "c": 1.31,
+   "p": 61117,
+   "c": 1.46,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1720.57,
-   "c": 2.29,
+   "p": 1721.85,
+   "c": 2.34,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.45,
-   "c": 0.35,
+   "p": 70.64,
+   "c": 0.48,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.926879,
-   "c": -0.4,
+   "p": 0.926372,
+   "c": -0.64,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 557.38,
-   "c": 1.65,
+   "p": 558.82,
+   "c": 1.89,
    "k": "usd"
   }
  ],
@@ -364,12 +364,39 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
+    "t": "Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge",
+    "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
+    "s": "South Korean shares fell as a global technology stock rout intensified, testing Asian authorities’ efforts to restore investor confidence as the AI trade unraveled.",
+    "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+    "ts": 1795345579000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq, S&P 500 Futures Bounce After Friday’s Rout: Markets Wrap",
     "tt": "Asya, ABD'deki Satışların Ardından Daha Fazla Volatiliteye Hazırlanıyor: Piyasalar Tamamlandı",
-    "s": "US equity-index futures opened higher in early Asian trading, offering investors some reprieve after Friday’s sharp selloff as the artificial intelligence trade unwound.",
+    "s": "US equity-index futures opened higher in early Asian trading as buyers returned following Friday’s sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fell.",
     "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
     "ts": 1795384947000,
+    "tags": []
+   },
+   {
+    "t": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand",
+    "tt": "Yükselen Hisse Senedi Vadeli İşlemleri Haven Talebini Azalttıkça Hazine Vadeli İşlemleri Düşüyor",
+    "s": "US Treasury futures declined as demand for havens eased after US stock futures advanced.",
+    "ss": "ABD hisse senedi vadeli işlemlerinin yükselişinin ardından güvenli limanlara olan talebin azalmasıyla ABD Hazine vadeli işlemleri geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+    "ts": 1795391946000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 23",
+    "tt": "23 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
+    "s": "Oil declined as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
+    "ss": "Petrol fiyatları, tüccarların Orta Doğu'da düşmanlıkların artacağı beklentisi karşısında güçlü ham petrol ihracatına ilişkin işaretlere ağırlık vermesiyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+    "ts": 1795388766000,
     "tags": []
    },
    {
@@ -389,6 +416,17 @@
     "u": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
     "ts": 1795388417000,
     "tags": []
+   },
+   {
+    "t": "Gold Deluge Keeps China’s $1 Trillion Trade Surplus in Check",
+    "tt": "Altın Tufanı Çin'in 1 Trilyon Dolarlık Ticaret Fazlasını Kontrol Altında Tutuyor",
+    "s": "China’s gold imports surged to a record $209 billion so far this year, in an unprecedented buying spree that followed a promise by top officials to make their country into the world’s marketplace instead of just its factory.",
+    "ss": "Çin'in altın ithalatı, üst düzey yetkililerin ülkelerini sadece bir fabrika yerine dünya pazarı haline getirme sözünün ardından benzeri görülmemiş bir satın alma çılgınlığıyla bu yıl şu ana kadar rekor 209 milyar dolara yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/gold-deluge-keeps-china-s-1-trillion-trade-surplus-in-check",
+    "ts": 1795388400000,
+    "tags": [
+     "Altın ▲"
+    ]
    },
    {
     "t": "Live: Asia-Pacific Stocks, Currencies React After Nasdaq, S&P 500 Selloff",
@@ -421,42 +459,6 @@
     "ss": "Hisse senetlerinde geçen hafta yaşanan yoğun satış sırasında temel görünüm dramatik bir şekilde değişmediğinden ve birçok değerleme ölçütü artık pazarlık çığlıkları attığında, düşüşü satın almaya yönelik karşıt dürtüler güçlü bir şekilde devam ediyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/dip-buyers-hesitate-to-step-in-as-nasdaq-100-nears-a-bear-market",
     "ts": 1795379504000,
-    "tags": []
-   },
-   {
-    "t": "Compass Plans to Move Main Listing to New York From London",
-    "tt": "FT, Compass'ın Ana Listeyi New York'a Taşımayı Planladığını Açıkladı",
-    "s": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, according to a person familiar with the matter, marking yet another disappointment for the UK stock market.",
-    "ss": "Financial Times'ın haberine göre, Birleşik Krallık'taki Compass Group Plc, ana listelemesini Londra'dan New York'a taşımayı planlıyor ve bu, Birleşik Krallık borsası için bir başka hayal kırıklığını daha işaret ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
-    "ts": 1795367284000,
-    "tags": []
-   },
-   {
-    "t": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
-    "tt": "Tahvil Piyasasının, Hisse Senetlerindeki Geri Çekilmenin Etkilediği Fed Artışları İçin Ticarete Yönelik Hareketi",
-    "s": "Wall Street is coalescing around one of the bond market’s favorite ways to bet that the Federal Reserve will press ahead with its vow to tame inflation, even as slumping stocks darken the economic outlook.",
-    "ss": "Wall Street, düşen hisse senetleri ekonomik görünümü karartsa bile, Fed'in enflasyonu kontrol altına alma vaadini sürdüreceğine dair tahvil piyasasının favori yollarından biri etrafında birleşiyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
-    "ts": 1795377600000,
-    "tags": []
-   },
-   {
-    "t": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
-    "tt": "Goldman Yatırımcıları ABD Hisse Senetlerine Giriş Noktasını Görüyor Ancak Risklere Karşı Uyardı",
-    "s": "Goldman Sachs Group Inc.’s trading desk says last week’s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a meaningful rally could be missing.",
-    "ss": "Goldman Sachs Group Inc.'in ticaret masası, geçen haftaki satışların ABD hisse senetlerinin yükselişi için cazip bir fırsat yarattığını söylüyor. Yine de banka, genel yatırımcı pozisyonunun yüksek kalmaya devam ettiği konusunda uyararak, anlamlı bir yükseliş için gereken daha geniş kapitülasyonun eksik olabileceğine işaret ediyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
-    "ts": 1795374302000,
-    "tags": []
-   },
-   {
-    "t": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
-    "tt": "Teknoloji Ticaretine Yönelik Piyasa Kaygısı, Yöneticiler Yapay Zeka Çerçevesini Açıkladı, Tatillerde Oyun Başlıyor",
-    "s": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by ABC News State Department Reporter Shannon Kingston, Maryland Gov. Wes Moore, Indiana Gov. Mike Bra",
-    "ss": "Piyasalar kapanınca haberler bitmiyor. Sunucular David Gura, Christina Ruffini ve Lisa Mateo, hafta sonunun en büyük manşetleri olan New York'tan CANLI yayına netlik, bağlam ve biraz mizah getiriyor. ABC Haber Dışişleri Bakanlığı Muhabiri Shannon Kingston, Maryland Valisi Wes Moore, Indiana Valisi Mike Bra da katıldı",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
-    "ts": 1795368444000,
     "tags": []
    }
   ],
@@ -652,6 +654,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Former Postal Contractor Admits To Stealing Mail In Multimillion-Dollar Fraud Operation",
+    "tt": "Eski Posta Yüklenicisi Milyonlarca Dolarlık Dolandırıcılık Operasyonunda Posta Çaldığını İtiraf Etti",
+    "s": "Former Postal Contractor Admits To Stealing Mail In Multimillion-Dollar Fraud Operation A Kansas City-area man who transported mail for the U.S. Postal Service has admitted to taking checks and financial cards from the mail system and supplying them to others involved in a fraud operation valued at ",
+    "ss": "Eski Posta Müteahhidi Multimilyon Dolarlık Dolandırıcılık Operasyonunda Posta Çaldığını İtiraf Etti ABD Posta Servisi için posta taşıyan Kansas City bölgesinden bir adam, posta sisteminden çekler ve mali kartlar aldığını ve bunları 200 milyon dolarlık bir dolandırıcılık operasyonuna karışan diğer kişilere verdiğini itiraf etti.",
+    "u": "https://www.zerohedge.com/markets/former-postal-contractor-admits-stealing-mail-multimillion-dollar-fraud-operation",
+    "ts": 1795392000000,
+    "tags": []
+   },
+   {
+    "t": "Watch: Sorkin Sinks In His Chair As Palmer Luckey Dismantles Him On Ukraine, Trump And Musk",
+    "tt": "İzle: Palmer Luckey Ukrayna, Trump ve Musk Konusunda Onu Parçalarken Sorkin Sandalyesine Battı",
+    "s": "Watch: Sorkin Sinks In His Chair As Palmer Luckey Dismantles Him On Ukraine, Trump And Musk Asked by Andrew Ross Sorkin at the New York Times' DealBook Summit whether anyone can tell which side President Trump is really on in Ukraine, Anduril founder Palmer Luckey said Trump \"was put into an impossi",
+    "ss": "İzleyin: Palmer Luckey Ukrayna, Trump ve Musk Konusunda Onu Parçalarken Sorkin Sandalyesine Battı New York Times'ın DealBook Zirvesi'nde Andrew Ross Sorkin tarafından Başkan Trump'ın Ukrayna'da gerçekte hangi tarafta olduğunu söyleyebilecek birisinin olup olmadığı sorulduğunda, Anduril'in kurucusu Palmer Luckey, Trump'ın \"imkansız bir duruma düşürüldüğünü\" söyledi.",
+    "u": "https://www.zerohedge.com/political/watch-sorkin-sinks-his-chair-palmer-luckey-dismantles-him-ukraine-trump-and-musk",
+    "ts": 1795390500000,
+    "tags": []
+   },
+   {
+    "t": "Taiwan Kills The Shorts: Blanket Ban, Stock-Lending Freeze And A $15 Billion Rescue Fund After The Taiex's Worst Week Since 1991",
+    "tt": "Tayvan Şortları Öldürüyor: Tam Yasak, Hisse Senedi Borçlarının Dondurulması ve Taiex'in 1991'den Bu Yana En Kötü Haftasının Ardından 15 Milyar Dolarlık Kurtarma Fonu",
+    "s": "Taiwan Kills The Shorts: Blanket Ban, Stock-Lending Freeze And A $15 Billion Rescue Fund After The Taiex's Worst Week Since 1991 Last Thursday we reported that \" Taiwan Strangles The Shorts After The Taiex Loses 5,000 Points In Three Days .\" Well, Taiwan has now killed them. On Saturday, one day aft",
+    "ss": "Tayvan Shorts'u Öldürüyor: Taiex'in 1991'den Bu Yana En Kötü Haftasının Ardından Battaniye Yasağı, Hisse Senedi Borçlarının Dondurulması ve 15 Milyar Dolarlık Kurtarma Fonu Geçen Perşembe günü \"Taiex Üç Günde 5.000 Puan Kaybettikten Sonra Tayvan Shorts'u Boğuyor\" haberini vermiştik. Tayvan şimdi onları öldürdü. Cumartesi günü, bir gün sonra",
+    "u": "https://www.zerohedge.com/markets/taiwan-kills-shorts-blanket-ban-stock-lending-freeze-and-15-billion-rescue-fund-after",
+    "ts": 1795389000000,
+    "tags": []
+   },
+   {
     "t": "Texas Razor Wire Stays For 30 Years - And The New Democrat Governor Can't Pull It",
     "tt": "Texas Jiletli Tel 30 Yıl Boyunca Kalıyor - Ve Yeni Demokrat Vali Bunu Çekemiyor",
     "s": "Texas Razor Wire Stays For 30 Years - And The New Democrat Governor Can't Pull It Texas has locked its concertina wire in place along the Rio Grande for the next 30 years, in a settlement with the Trump administration that Gov. Greg Abbott and Attorney General Ken Paxton signed weeks before both lea",
@@ -712,33 +741,6 @@
     "ss": "Bessent'in Şaşırtıcı Jensen Huang'ı Bir hafta önce Nvidia'nın yönetim kuruluna yeni bir genel müdür bulmak için şirket dışına çıkmasını söyleyen Hazine Bakanı Scott Bessent, Pazar günü Jensen Huang'ın işini geri almaması gerektiğini söylemeyi reddetti ve sona eren skandalın Çin casusluk açısı olduğunu söyledi.",
     "u": "https://www.zerohedge.com/ai/watch-bessents-stunning-jensen-huang-about-face",
     "ts": 1795378500000,
-    "tags": []
-   },
-   {
-    "t": "Three \"Strong\" Men and One Weak Market",
-    "tt": "Üç \"Güçlü\" Adam ve Bir Zayıf Pazar",
-    "s": "Three \"Strong\" Men and One Weak Market Submitted by Peter Tchir, Academy Securities We’ve been very cautious on U.S. markets , especially the tech/chip space. Please see Mechanicals, Technicals, and an Election , a Lot to Digest , and Still Digesting . Last weekend was the first time in a while that",
-    "ss": "Üç \"Güçlü\" Adam ve Bir Zayıf Piyasa Akademi Menkul Kıymetler'den Peter Tchir tarafından sunulmuştur. ABD piyasalarına, özellikle de teknoloji/çip alanına karşı çok temkinli davrandık. Lütfen Mekanik, Teknik ve Seçim, Sindirilecek Çok Şey ve Hala Özetleniyor bölümüne bakın. Geçen hafta sonu uzun zamandır ilk kez oldu",
-    "u": "https://www.zerohedge.com/markets/three-strong-men-and-one-weak-market",
-    "ts": 1795377000000,
-    "tags": []
-   },
-   {
-    "t": "\"Allah Told Me To Kill A Person\": Ex-NYPD Cop Confesses To Killing Brooklyn Jogger In Jailhouse Interview",
-    "tt": "\"Allah Bana Bir Kişiyi Öldürmemi Söyledi\": Eski NYPD Polisi, Hapishane Röportajında ​​Brooklyn Jogger'ı Öldürdüğünü İtiraf Etti",
-    "s": "\"Allah Told Me To Kill A Person\": Ex-NYPD Cop Confesses To Killing Brooklyn Jogger In Jailhouse Interview The former NYPD officer charged with murdering Brooklyn jogger Katie Suarez has dropped the blackout story he gave detectives, and now says he killed her because Allah ordered him to. Sayed Moha",
-    "ss": "\"Allah Bana Bir Kişiyi Öldürmemi Söyledi\": Eski NYPD Polisi, Hapishane Röportajında ​​Brooklyn Jogger'ını Öldürdüğünü İtiraf Etti Brooklyn'li koşucu Katie Suarez'i öldürmekle suçlanan eski NYPD memuru, dedektiflere verdiği bilinç kaybı hikayesini bıraktı ve şimdi onu Allah emrettiği için öldürdüğünü söylüyor. Sayed Moha",
-    "u": "https://www.zerohedge.com/political/allah-told-me-kill-person-ex-nypd-cop-confesses-killing-brooklyn-jogger-jailhouse",
-    "ts": 1795375500000,
-    "tags": []
-   },
-   {
-    "t": "Seven Down, Three To Go: America's Microreactors Keep Going Critical",
-    "tt": "Yedi Düştü, Üç Kaldı: Amerika'nın Mikroreaktörleri Kritik Olmaya Devam Ediyor",
-    "s": "Seven Down, Three To Go: America's Microreactors Keep Going Critical Of the four nuclear executive orders President Trump signed in May 2025, the most ambitious target was arguably within EO 14301 : approve at least three test reactors outside the national labs, \" with the goal of achieving critical",
-    "ss": "Yedi Düştü, Üç Kaldı: Amerika'nın Mikroreaktörleri Kritik Duruma Devam Ediyor Başkan Trump'ın Mayıs 2025'te imzaladığı dört nükleer idari emir arasında en iddialı hedef muhtemelen EO 14301'deydi: kritik hedeflere ulaşma hedefiyle ulusal laboratuvarların dışında en az üç test reaktörünün onaylanması",
-    "u": "https://www.zerohedge.com/energy/seven-down-three-go-americas-microreactors-keep-going-critical",
-    "ts": 1795374000000,
     "tags": []
    }
   ],
