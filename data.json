@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T02:48:31.226738+00:00",
+ "generated": "2026-11-23T03:49:53.106321+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3578.4,
-   "c": 1.79,
-   "d": 63.0,
+   "p": 3606.0,
+   "c": 2.58,
+   "d": 90.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.525,
-   "c": 1.19,
-   "d": 0.49,
+   "p": 42.105,
+   "c": 2.61,
+   "d": 1.07,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.04,
-   "c": -1.12,
-   "d": -0.94,
+   "p": 83.24,
+   "c": -0.88,
+   "d": -0.74,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 89.53,
-   "c": -3.28,
-   "d": -3.04,
+   "p": 89.78,
+   "c": -3.01,
+   "d": -2.79,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.736,
-   "c": -0.07,
-   "d": -0.074,
+   "p": 103.763,
+   "c": -0.05,
+   "d": -0.047,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5706,
-   "c": 0.02,
-   "d": 0.008,
+   "p": 50.5762,
+   "c": 0.03,
+   "d": 0.014,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60455,
-   "c": 1.64,
+   "p": 61184,
+   "c": 3.56,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1700.31,
-   "c": 2.01,
+   "p": 1730.24,
+   "c": 4.65,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 69.96,
-   "c": 0.7,
+   "p": 71.2,
+   "c": 2.96,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.914426,
-   "c": -0.66,
+   "p": 0.93084,
+   "c": 1.7,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 551.36,
-   "c": 1.58,
+   "p": 557.64,
+   "c": 3.44,
    "k": "usd"
   }
  ],
@@ -364,21 +364,66 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "China’s Record State Fund Rescue Masks Deepening Investor Gloom",
+    "tt": "Çin'in Rekor Devlet Fonu Kurtarma Maskeleri Yatırımcının Kasvetini Derinleştiriyor",
+    "s": "China’s state-backed funds poured a record amount of money into the market on Friday in another forceful attempt to stem a deepening selloff.",
+    "ss": "Çin'in devlet destekli fonları, derinleşen satışları durdurmak için Cuma günü piyasaya rekor miktarda para akıttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/china-state-funds-ramp-up-etf-buying-to-record-as-rout-deepens",
+    "ts": 1795398510000,
+    "tags": []
+   },
+   {
+    "t": "European Gas Surges as Cold Snap Threatens Tight Inventories",
+    "tt": "Avrupa Gazı, Soğuk Ani Stokların Sıkışmasını Tehdit Ederken Yükseliyor",
+    "s": "European natural gas prices jumped after temperature forecasts shifted sharply lower, which could put further pressure on inventories already depleted by export disruptions stemming from the US-Iran war.",
+    "ss": "Avrupa doğal gaz fiyatları, sıcaklık tahminlerinin keskin bir şekilde düşmesinin ardından sıçradı; bu durum, ABD-İran savaşından kaynaklanan ihracat kesintileri nedeniyle halihazırda tükenen stoklar üzerinde daha fazla baskı yaratabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/european-gas-surges-as-cold-snap-threatens-tight-inventories",
+    "ts": 1795401987000,
+    "tags": []
+   },
+   {
+    "t": "South Korea Says Market Measures Will Ease Investor Jitters",
+    "tt": "Güney Kore, Piyasa Önlemlerinin Yatırımcıların Heyecanını Azaltacağını Söyledi",
+    "s": "South Korea’s finance minister said the government’s latest market-stabilization measures should help restore investor confidence, even as the benchmark Kospi slumped another 5% on Monday following last week’s selloff.",
+    "ss": "Güney Kore maliye bakanı, Kospi endeksinin geçen haftaki satışın ardından Pazartesi günü yüzde 5 daha değer kaybetmesine rağmen, hükümetin en son piyasa istikrarı önlemlerinin yatırımcı güvenini yeniden sağlamaya yardımcı olması gerektiğini söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-says-market-measures-will-ease-investor-jitters",
+    "ts": 1795403354000,
+    "tags": []
+   },
+   {
+    "t": "India’s Appeal Grows as Global Tech Selloff Deepens",
+    "tt": "Küresel Teknoloji Satışları Derinleştikçe Hindistan'ın Cazibesi Artıyor",
+    "s": "India’s appeal as an anti-AI market is growing as the global tech selloff deepens. From stocks to the currency, Indian assets are drawing fresh foreign interest as several tailwinds fall into place. Bloomberg’s Abhishek Vishnoi explains what to watch this week. (Source: Bloomberg)",
+    "ss": "Hindistan'ın yapay zeka karşıtı bir pazar olarak çekiciliği, küresel teknoloji satışları derinleştikçe artıyor. Hisse senetlerinden para birimine kadar Hint varlıkları, bazı olumsuzlukların ortadan kalkmasıyla yabancıların yeni ilgisini çekiyor. Bloomberg'den Abhishek Vishnoi bu hafta ne izleyeceğini açıklıyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-23/india-s-appeal-grows-as-global-tech-selloff-deepens-video",
+    "ts": 1795403334000,
+    "tags": []
+   },
+   {
+    "t": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
+    "tt": "Bakır, AI Gloom'da Geçen Hafta %9'dan Fazla Düştükten Sonra Yükseldi",
+    "s": "Copper briefly sank below $12,000 a ton on the London Metal Exchange, deepening a sharp selloff as doubts grow about demand from artificial intelligence.",
+    "ss": "Bakır, yapay zeka stoklarındaki satışlarla ilgili küresel talebe ilişkin derinleşen endişeler nedeniyle geçen hafta %9'dan fazla düştükten sonra yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
+    "ts": 1795395930000,
+    "tags": []
+   },
+   {
+    "t": "US Stock Futures Bounce After Rout, Havens Decline: Markets Wrap",
+    "tt": "Asya, ABD'deki Satışların Ardından Daha Fazla Volatiliteye Hazırlanıyor: Piyasalar Tamamlandı",
+    "s": "US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.",
+    "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+    "ts": 1795384947000,
+    "tags": []
+   },
+   {
     "t": "Asian Stocks Drop as AI Worries Offset State Support Measures",
     "tt": "Asya'nın hisse senedi kurtarma çabaları Wall Street'teki çöküşün ardından hız kazandı",
     "s": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing.",
     "ss": "Güney Kore hisseleri, küresel teknoloji hisselerindeki düşüş yoğunlaştıkça düştü ve Asyalı yetkililerin yapay zeka ticareti çözüldüğünde yatırımcıların güvenini yeniden kazanma çabalarını test etti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
     "ts": 1795345579000,
-    "tags": []
-   },
-   {
-    "t": "Copper Falls Below $12,000 in London as Metals Turmoil Deepens",
-    "tt": "Bakır, AI Gloom'da Geçen Hafta %9'dan Fazla Düştükten Sonra Yükseldi",
-    "s": "Copper sank below $12,000 a ton on the London Metal Exchange, deepening a sharp selloff as doubts grow about demand from artificial intelligence.",
-    "ss": "Bakır, yapay zeka stoklarındaki satışlarla ilgili küresel talebe ilişkin derinleşen endişeler nedeniyle geçen hafta %9'dan fazla düştükten sonra yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/copper-rises-after-falling-more-than-9-last-week-on-ai-gloom",
-    "ts": 1795395930000,
     "tags": []
    },
    {
@@ -406,51 +451,6 @@
     "ss": "Tartışma hakkında bilgisi olan kaynaklara göre, MSCI Inc. İcra Kurulu Başkanı Henry Fernandez, Başkan Prabowo Subianto ile yakın zamanda yapılan doğrudan görüşmelerde Endonezya'nın borsa statüsünün iki aşamalı notunun düşürülmesi yerine alternatifleri değerlendirme isteğini dile getirdi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-23/msci-discussed-avoiding-indonesia-downgrade-with-prabowo-dalio",
     "ts": 1795400859000,
-    "tags": []
-   },
-   {
-    "t": "Gold Rebounds as Tech Rout Spurs Shift to Havens, Treasury Rally",
-    "tt": "Altın, Yatırımcıların Yakın Vadeli Fed Faiz Artırımlarına Yönelik Bahisleriyle Yükselişe Geçti",
-    "s": "Gold rebounded from its biggest weekly decline in eight months as a technology-stock rout pushed traders to seek haven assets, driving down US Treasury yields and the dollar.",
-    "ss": "Altın, yatırımcıların Fed'in yakın vadede faiz artırımına gideceği yönündeki bahisleri azaltmasıyla sekiz ayın en büyük haftalık düşüşünü yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-    "ts": 1795393683000,
-    "tags": []
-   },
-   {
-    "t": "Asia Market Measures May Buffer Stock Losses: BNP",
-    "tt": "Asya Piyasası Önlemleri Hisse Senedi Kayıplarını Tamponlayabilir: BNP",
-    "s": "Jason Lui, Head of APAC Equity Derivative Strategy at BNP Paribas, says market support measures in China, Taiwan and South Korea may provide a buffer against weak sentiment, but longer-term investment returns will still face long-term uncertainty from US data-center regulations and restrictions on r",
-    "ss": "BNP Paribas APAC Hisse Türev Stratejisi Başkanı Jason Lui, Çin, Tayvan ve Güney Kore'deki piyasa destek önlemlerinin zayıf güvene karşı bir tampon sağlayabileceğini, ancak uzun vadeli yatırım getirilerinin ABD veri merkezi düzenlemeleri ve r üzerindeki kısıtlamalardan kaynaklanan uzun vadeli belirsizliklerle karşı karşıya kalacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-23/asia-market-measures-may-buffer-stock-losses-bnp-video",
-    "ts": 1795399478000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 23",
-    "tt": "23 Kasım'a Ait Son Petrol Piyasası Haberleri ve Analizleri",
-    "s": "Oil dipped as traders weighed signs of robust crude exports against the prospect of escalating hostilities in the Middle East.",
-    "ss": "Petrol fiyatları, tüccarların Orta Doğu'da düşmanlıkların artacağı beklentisi karşısında güçlü ham petrol ihracatına ilişkin işaretlere ağırlık vermesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
-    "ts": 1795388766000,
-    "tags": []
-   },
-   {
-    "t": "Why Asia Market Stabilization Measures May Not Be Enough",
-    "tt": "Asya Pazarı İstikrar Tedbirleri Neden Yeterli Olmayabilir?",
-    "s": "Bloomberg's Lianting Tu talks about investor sentiment that recent stabilization measures in China, Taiwan and Korea are not quite enough, and how near-term outlook depends on dip buying and whether hedge funds keep cutting positions. (Source: Bloomberg)",
-    "ss": "Bloomberg'den Lianting Tu, Çin, Tayvan ve Kore'deki son istikrar önlemlerinin yeterli olmadığı yönündeki yatırımcı duyarlılığından ve yakın vadeli görünümün nasıl dip alımlarına ve hedge fonlarının pozisyon kesmeye devam edip etmeyeceğine bağlı olduğundan bahsediyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-23/why-asia-market-stabilization-measures-may-not-be-enough-video",
-    "ts": 1795399143000,
-    "tags": []
-   },
-   {
-    "t": "US Stock Futures Bounce After Rout, Havens Drop: Markets Wrap",
-    "tt": "Asya, ABD'deki Satışların Ardından Daha Fazla Volatiliteye Hazırlanıyor: Piyasalar Tamamlandı",
-    "s": "US equity-index futures rallied as buyers returned following Friday’s selloff in artificial intelligence companies. Treasury futures fell and the yen weakened as demand for haven assets ebbed.",
-    "ss": "Asya'daki traderlar, Wall Street'teki keskin satış dalgasının risk iştahını sarsmasının ardından, bölgesel yetkililerin piyasaları destekleme çabalarını hızlandırmasına rağmen yeni bir volatilite dönemine hazırlanıyorlardı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-    "ts": 1795384947000,
     "tags": []
    }
   ],
@@ -646,6 +646,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Will Trump Cave On Immigration To Cut A Deal With Democrats?",
+    "tt": "Trump Demokratlarla Anlaşma Yapmak İçin Göçmenlik Konusunda Pes Edecek mi?",
+    "s": "Will Trump Cave On Immigration To Cut A Deal With Democrats? President Trump said Saturday that the incoming Democratic-controlled Congress gives him an opening to strike compromise deals on healthcare and immigration , two days after House Democrats introduced legislation that would put long-term i",
+    "ss": "Trump Demokratlarla Anlaşma Yapmak İçin Göçmenlik Konusunda Pes Edecek mi? Başkan Trump Cumartesi günü yaptığı açıklamada, Demokratların kontrolündeki Kongre'nin kendisine sağlık ve göçmenlik konularında uzlaşma anlaşmaları yapması için bir fırsat sağladığını söyledi.",
+    "u": "https://www.zerohedge.com/political/will-trump-cave-immigration-cut-deal-democrats",
+    "ts": 1795404000000,
+    "tags": []
+   },
+   {
+    "t": "White Flight Hits Germany, Destroying The 'Desire For Diversity' Myth",
+    "tt": "Beyaz Uçuş Almanya'yı Vurarak 'Çeşitlilik Arzusu' Efsanesini Yerle Bir Etti",
+    "s": "White Flight Hits Germany, Destroying The 'Desire For Diversity' Myth Authored by Remix News Staff via Remix News , Recent official data confirm a clear pattern in German urban demography: as the share of foreigners rises sharply in major cities, net outflows of Germans follow . The same pattern hol",
+    "ss": "Beyaz Uçuş Almanya'yı Vurarak 'Çeşitlilik Arzusu' Efsanesini Yerle Bir Ediyor Remix Haber Ekibi tarafından Remix News aracılığıyla yazılmıştır, Son resmi veriler Alman kentsel demografisinde açık bir modeli doğrulamaktadır: büyük şehirlerde yabancıların payı keskin bir şekilde arttıkça, bunu Almanlardan net çıkış takip etmektedir. Aynı model hol",
+    "u": "https://www.zerohedge.com/geopolitical/white-flight-hits-germany-519000-foreigners-159000-germans-out-berlin",
+    "ts": 1795402200000,
+    "tags": []
+   },
+   {
     "t": "ActBlue CEO Responds After Paxton Abandons 'Landmark' Lawsuit",
     "tt": "ActBlue CEO'su, Paxton'un 'Landmark' Davasından Vazgeçmesinin Ardından Yanıt Verdi",
     "s": "ActBlue CEO Responds After Paxton Abandons 'Landmark' Lawsuit Authored by Luis Cornelio via Headline USA , ActBlue CEO Regina Wallace-Jones, in remarks first shared with Headline USA, celebrated Texas Attorney General Ken Paxton's decision to drop his \"landmark\" lawsuit against the Democratic Party'",
@@ -715,24 +733,6 @@
     "ss": "İzleyin: Palmer Luckey Ukrayna, Trump ve Musk Konusunda Onu Parçalarken Sorkin Sandalyesine Battı New York Times'ın DealBook Zirvesi'nde Andrew Ross Sorkin tarafından Başkan Trump'ın Ukrayna'da gerçekte hangi tarafta olduğunu söyleyebilecek birisinin olup olmadığı sorulduğunda, Anduril'in kurucusu Palmer Luckey, Trump'ın \"imkansız bir duruma düşürüldüğünü\" söyledi.",
     "u": "https://www.zerohedge.com/political/watch-sorkin-sinks-his-chair-palmer-luckey-dismantles-him-ukraine-trump-and-musk",
     "ts": 1795390500000,
-    "tags": []
-   },
-   {
-    "t": "Taiwan Kills The Shorts: Blanket Ban, Stock-Lending Freeze And A $15 Billion Rescue Fund After The Taiex's Worst Week Since 1991",
-    "tt": "Tayvan Şortları Öldürüyor: Tam Yasak, Hisse Senedi Borçlarının Dondurulması ve Taiex'in 1991'den Bu Yana En Kötü Haftasının Ardından 15 Milyar Dolarlık Kurtarma Fonu",
-    "s": "Taiwan Kills The Shorts: Blanket Ban, Stock-Lending Freeze And A $15 Billion Rescue Fund After The Taiex's Worst Week Since 1991 Last Thursday we reported that \" Taiwan Strangles The Shorts After The Taiex Loses 5,000 Points In Three Days .\" Well, Taiwan has now killed them. On Saturday, one day aft",
-    "ss": "Tayvan Shorts'u Öldürüyor: Taiex'in 1991'den Bu Yana En Kötü Haftasının Ardından Battaniye Yasağı, Hisse Senedi Borçlarının Dondurulması ve 15 Milyar Dolarlık Kurtarma Fonu Geçen Perşembe günü \"Taiex Üç Günde 5.000 Puan Kaybettikten Sonra Tayvan Shorts'u Boğuyor\" haberini vermiştik. Tayvan şimdi onları öldürdü. Cumartesi günü, bir gün sonra",
-    "u": "https://www.zerohedge.com/markets/taiwan-kills-shorts-blanket-ban-stock-lending-freeze-and-15-billion-rescue-fund-after",
-    "ts": 1795389000000,
-    "tags": []
-   },
-   {
-    "t": "Texas Razor Wire Stays For 30 Years - And The New Democrat Governor Can't Pull It",
-    "tt": "Texas Jiletli Tel 30 Yıl Boyunca Kalıyor - Ve Yeni Demokrat Vali Bunu Çekemiyor",
-    "s": "Texas Razor Wire Stays For 30 Years - And The New Democrat Governor Can't Pull It Texas has locked its concertina wire in place along the Rio Grande for the next 30 years, in a settlement with the Trump administration that Gov. Greg Abbott and Attorney General Ken Paxton signed weeks before both lea",
-    "ss": "Texas Jiletli Tel 30 Yıl Boyunca Kalıyor - Ve Yeni Demokrat Vali Bunu Çekemiyor Teksas, Vali Greg Abbott ve Başsavcı Ken Paxton'ın her iki anlaşmanın imzalanmasından haftalar önce Trump yönetimiyle imzaladığı bir anlaşma uyarınca, akordeon telini önümüzdeki 30 yıl boyunca Rio Grande boyunca yerine kilitledi.",
-    "u": "https://www.zerohedge.com/political/texas-razor-wire-stays-30-years-and-new-democrat-governor-cant-pull-it",
-    "ts": 1795387500000,
     "tags": []
    }
   ],
