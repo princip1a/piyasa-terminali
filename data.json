@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-23T17:30:57.465548+00:00",
+ "generated": "2026-11-23T18:27:45.792248+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7249.71,
-   "c": 4.91,
-   "d": 339.32,
+   "p": 7257.73,
+   "c": 5.03,
+   "d": 347.34,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 24163.54,
-   "c": 6.83,
-   "d": 1545.81,
+   "p": 24183.53,
+   "c": 6.92,
+   "d": 1565.8,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 49657.09,
-   "c": 3.14,
-   "d": 1509.762,
+   "p": 49733.04,
+   "c": 3.29,
+   "d": 1585.712,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 27.27,
-   "c": -24.02,
-   "d": -8.62,
+   "p": 27.04,
+   "c": -24.66,
+   "d": -8.85,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3666.6,
-   "c": 4.3,
-   "d": 151.2,
+   "p": 3654.2,
+   "c": 3.95,
+   "d": 138.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 43.46,
-   "c": 5.91,
-   "d": 2.425,
+   "p": 43.16,
+   "c": 5.18,
+   "d": 2.125,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 80.88,
-   "c": -3.69,
-   "d": -3.1,
+   "p": 81.08,
+   "c": -3.45,
+   "d": -2.9,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 87.32,
-   "c": -5.67,
-   "d": -5.25,
+   "p": 87.43,
+   "c": -5.55,
+   "d": -5.14,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 104.461,
-   "c": 0.63,
-   "d": 0.651,
+   "p": 104.49,
+   "c": 0.66,
+   "d": 0.68,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.948,
-   "c": 0.73,
-   "d": 0.036,
+   "p": 4.94,
+   "c": 0.57,
+   "d": 0.028,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.5876,
-   "c": 0.05,
-   "d": 0.025,
+   "p": 50.5942,
+   "c": 0.06,
+   "d": 0.032,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 61703,
-   "c": 1.49,
+   "p": 61617,
+   "c": 1.67,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1754.98,
-   "c": 2.42,
+   "p": 1745.91,
+   "c": 2.02,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 73.9,
-   "c": 5.04,
+   "p": 73.63,
+   "c": 4.86,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.966142,
-   "c": 4.13,
+   "p": 0.953351,
+   "c": 2.91,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 563.1,
-   "c": 1.03,
+   "p": 561.72,
+   "c": 0.85,
    "k": "usd"
   }
  ],
@@ -241,16 +241,6 @@
    "reading": null
   },
   {
-   "title": "Unemployment Claims",
-   "impact": "Medium",
-   "forecast": "201K",
-   "previous": "203K",
-   "actual": "",
-   "ts": 1795613400000,
-   "tr": "Çar 25.11 16:30",
-   "reading": null
-  },
-  {
    "title": "Core Durable Goods Orders m/m",
    "impact": "Low",
    "forecast": "0.5%",
@@ -285,6 +275,16 @@
    "impact": "Low",
    "forecast": "0.4%",
    "previous": "0.5%",
+   "actual": "",
+   "ts": 1795613400000,
+   "tr": "Çar 25.11 16:30",
+   "reading": null
+  },
+  {
+   "title": "Unemployment Claims",
+   "impact": "Low",
+   "forecast": "201K",
+   "previous": "203K",
    "actual": "",
    "ts": 1795613400000,
    "tr": "Çar 25.11 16:30",
@@ -364,6 +364,84 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Anthropic Shares Fluctuate as AI Sector Rallies on Nvidia CEO Return",
+    "tt": "Yapay Zeka Sektörü Nvidia CEO'sunun Geri Dönüşüyle ​​Toplanırken Antropik Hisseler Dalgalanıyor",
+    "s": "Anthropic PBC shares turned positive Monday, bringing the artificial intelligence lab in line with the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
+    "ss": "Antropik PBC hisseleri Pazartesi günü pozitife döndü ve yapay zeka laboratuvarını, Nvidia Corp.'tan Jensen Huang'ın eski durumuna getirilmesinin ardından sektörün geri kalan toparlanmasına paralel hale getirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
+    "ts": 1795445508000,
+    "tags": []
+   },
+   {
+    "t": "US Large-Cap Stocks Upgraded to Most Favorable at Wells Fargo",
+    "tt": "ABD Büyük Hisse Senetleri Wells Fargo'da En Avantajlı Seviyeye Yükseltildi",
+    "s": "Wells Fargo Investment Institute analysts upgraded US large-cap stocks to its highest rating, after last week’s rout offered investors the opportunity to add equity exposure at more attractive levels.",
+    "ss": "Wells Fargo Yatırım Enstitüsü analistleri, geçen haftaki yenilginin yatırımcılara daha cazip seviyelerde hisse senedi riski ekleme fırsatı sunmasının ardından ABD'deki büyük hisse senetlerini en yüksek notuna yükseltti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/us-large-cap-stocks-upgraded-to-most-favorable-at-wells-fargo",
+    "ts": 1795457894000,
+    "tags": []
+   },
+   {
+    "t": "Gold Rebounds as Huang’s Return to Nvidia Revives Risk Appetite",
+    "tt": "Altın, Huang'ın Nvidia'ya Dönüşünün Risk İştahını Canlandırmasıyla Yükseliyor",
+    "s": "Gold extended its rebound in a broad risk-on rally triggered by the reinstatement of Jensen Huang as chief executive officer of Nvidia Corp.",
+    "ss": "Altın, Jensen Huang'ın Nvidia Corp.'un icra kurulu başkanı olarak görevine geri getirilmesiyle tetiklenen geniş bir risk iştahı rallisiyle toparlanmasını sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+    "ts": 1795393683000,
+    "tags": [
+     "Altın ▲"
+    ]
+   },
+   {
+    "t": "Stocks Jump Most Since April 2025 as Huang Is Back: Markets Wrap",
+    "tt": "ABD Hisse Senedi Vadeli İşlemleri Yapay Zeka Odaklı Düzeltmeden Sonra Yükseldi: Piyasalar Sarıldı",
+    "s": "An overnight bounce in stocks erupted into the biggest rally since April 2025 after Nvidia Corp.’s reinstatement of Jensen Huang as chief executive officer recharged artificial-intelligence bets.",
+    "ss": "ABD hisse senedi vadeli işlemleri, S&P 500'ü teknik düzeltmeye gönderen yapay zeka ticaretindeki bozgundan sonra toparlanma kaydediyor ve güvenli limanlara olan talebin azalması Hazine tahvilleri ve yen üzerinde baskı yaratıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+    "ts": 1795384947000,
+    "tags": []
+   },
+   {
+    "t": "Braskem, Creditors Reach Deal on Out-of-Court Debt Revamp",
+    "tt": "Braskem ve Alacaklılar Mahkeme Dışı Borç Yenileme Konusunda Anlaşmaya Vardı",
+    "s": "Braskem SA and its creditors have reached an agreement on the main terms of an out-of-court restructuring deal, a key step in the Brazilian petrochemical giant’s efforts to rework its debt after months of tense negotiations.",
+    "ss": "Braskem SA ve alacaklıları, Brezilya petrokimya devinin aylarca süren gergin müzakerelerin ardından borcunu yeniden düzenleme çabalarında önemli bir adım olan mahkeme dışı yeniden yapılandırma anlaşmasının ana şartları üzerinde anlaşmaya vardı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/braskem-creditors-reach-deal-on-out-of-court-debt-revamp",
+    "ts": 1795451127000,
+    "tags": []
+   },
+   {
+    "t": "Jeff Currie Sees a Liquidity Crisis Behind Copper Selloff",
+    "tt": "Jeff Currie Bakır Satışlarının Arkasında Bir Likidite Krizi Görüyor",
+    "s": "Jeff Currie, CEO at Real Macro, examines the copper selloff and explains what would make him return to being long gold and copper. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "ss": "Real Macro CEO'su Jeff Currie, bakır satışlarını inceliyor ve onu neyin uzun altın ve bakır haline döndüreceğini açıklıyor. “Bloomberg Gözetim” hakkında konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-23/jeff-currie-sees-liquidity-crisis-behind-copper-selloff-video",
+    "ts": 1795455930000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "Goldman’s Trivedi Says Dollar ‘Has Some Fight’ Left on Rate Path",
+    "tt": "Goldman'dan Trivedi, Doların Faiz Yolunda 'Biraz Mücadelesinin Kaldığını' Söyledi",
+    "s": "The US dollar rally has legs with rising interest rates spurring the currency further before it weakens “modestly” next year, according to Kamakshya Trivedi at Goldman Sachs Group Inc.",
+    "ss": "Goldman Sachs Group Inc.'den Kamakshya Trivedi'ye göre, ABD dolarındaki yükselişin, yükselen faiz oranlarının para birimini gelecek yıl \"mütevazı\" bir şekilde zayıflamadan önce daha da teşvik etmesiyle birlikte ayakları var.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/goldman-s-trivedi-says-dollar-has-some-fight-left-on-rate-path",
+    "ts": 1795455430000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Nvidia’s Comeback Exposes the Trap Gripping Stock Investors",
+    "tt": "Nvidia'nın Geri Dönüşü Hisse Senedi Yatırımcılarını Sıkıcı Tuzağı Ortaya Çıkardı",
+    "s": "Monday’s spectacular stock rebound exposes the latest trap facing investors in a market dominated by a handful of technology giants: Selling them offers protection when markets plunge, but risks missing the recovery.",
+    "ss": "Pazartesi günkü muhteşem hisse senedi toparlanması, bir avuç teknoloji devinin hakim olduğu bir piyasada yatırımcıların karşı karşıya olduğu son tuzağı açığa çıkarıyor: Bunları satmak, piyasalar düştüğünde koruma sağlar, ancak toparlanmayı kaçırma riski taşır.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-s-comeback-exposes-the-trap-gripping-stock-investors",
+    "ts": 1795455394000,
+    "tags": []
+   },
+   {
     "t": "Credit Heads ‘Swivel’ as Huang Return Ignites Tech Debt Rally",
     "tt": "Huang'ın Geri Dönüşü Teknoloji Borçlarında Yükselişi Ateşlerken Kredi Başları 'Dönüyor'",
     "s": "Corporate-debt markets rallied globally on Monday, with US fear gauges improving the most in months and technology firms’ bonds rebounding after Nvidia Corp.’s board reinstated Jensen Huang as chief executive officer.",
@@ -373,86 +451,12 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks Drop As AI Worries Offset State Support Measures",
-    "tt": "Yapay Zeka Endişelerinin Devlet Desteği Önlemlerini Dengelemesiyle Asya Hisse Senetleri Düştü",
-    "s": "South Korean and Chinese shares fell, showing investor sentiment toward the AI trade remains fragile even after Asian authorities rolled out support measures and US markets showed signs of stabilizing. (Source: Bloomberg)",
-    "ss": "Güney Kore ve Çin hisseleri düştü; bu durum, Asyalı yetkililerin destek önlemlerini uygulamaya koyması ve ABD piyasalarının istikrar işaretleri göstermesinden sonra bile yatırımcıların yapay zekâ ticaretine yönelik duyarlılığının kırılganlığını sürdürdüğünü gösterdi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-23/asian-stocks-drop-as-ai-worries-offset-state-support-measures",
-    "ts": 1795453986000,
-    "tags": []
-   },
-   {
-    "t": "Stocks Rally as Nvidia Brings Back Huang as CEO: Markets Wrap",
-    "tt": "ABD Hisse Senedi Vadeli İşlemleri Yapay Zeka Odaklı Düzeltmeden Sonra Yükseldi: Piyasalar Sarıldı",
-    "s": "An overnight bounce in stocks erupted into the biggest rally since April 2025 after Nvidia Corp.’s reinstatement of Jensen Huang as chief executive officer recharged artificial-intelligence bets.",
-    "ss": "ABD hisse senedi vadeli işlemleri, S&P 500'ü teknik düzeltmeye gönderen yapay zeka ticaretindeki bozgundan sonra toparlanma kaydediyor ve güvenli limanlara olan talebin azalması Hazine tahvilleri ve yen üzerinde baskı yaratıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-    "ts": 1795384947000,
-    "tags": []
-   },
-   {
-    "t": "Port Authority Eyes $1 Billion Muni Sale as Cost Pressures Mount",
-    "tt": "Liman İdaresi, Maliyet Baskısı Artarken 1 Milyar Dolarlık Muni Satışını Gözetliyor",
-    "s": "The Port Authority of New York and New Jersey is planning to issue more than $1 billion of municipal bonds as rising construction costs add pressure to its $45 billion capital program.",
-    "ss": "New York ve New Jersey Liman İdaresi, artan inşaat maliyetlerinin 45 milyar dolarlık sermaye programına baskı oluşturması nedeniyle 1 milyar dolardan fazla belediye tahvili ihraç etmeyi planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/port-authority-eyes-1-billion-muni-sale-as-cost-pressures-mount",
-    "ts": 1795453239000,
-    "tags": []
-   },
-   {
-    "t": "Stellantis Quits Auto Racing as CEO Ramps Up Cost Cuts",
-    "tt": "CEO Maliyet Kesintilerini Artırırken Stellantis Otomobil Yarışlarından Ayrılıyor",
-    "s": "Stellantis NV is withdrawing from auto racing in Europe, as the car manufacturer pushes ahead with cost cuts and a turnaround plan that’s struggling to win over investors.",
-    "ss": "Otomobil üreticisi, maliyet kesintileri ve yatırımcıları kazanmakta zorlanan bir geri dönüş planıyla ilerlemeye devam ederken Stellantis NV, Avrupa'daki otomobil yarışlarından çekiliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/stellantis-pulls-out-of-auto-racing-as-ceo-ramps-up-cost-cuts",
-    "ts": 1795445100000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Rehires Huang in Stunning Comeback",
-    "tt": "Nvidia Çarpıcı Geri Dönüşte Huang'ı Yeniden İşe Aldı",
-    "s": "Nvidia’s board reinstated Jensen Huang as head of the world’s largest chipmaker in one of the most startling corporate comebacks in history, sending the stock on its biggest rally in decades. Ed Ludlow explains how we got here (Source: Bloomberg)",
-    "ss": "Nvidia'nın yönetim kurulu, tarihteki en şaşırtıcı kurumsal geri dönüşlerden birinde Jensen Huang'ı dünyanın en büyük çip üreticisinin başına getirerek hisseleri on yıllardır en büyük yükselişine gönderdi. Ed Ludlow buraya nasıl geldiğimizi anlatıyor (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-rehires-huang-in-stunning-comeback",
-    "ts": 1795452883000,
-    "tags": []
-   },
-   {
-    "t": "Brazil’s Real Weakens Past 6 Per Dollar as Selloff Extends",
-    "tt": "Brezilya Reali Selloff Uzadıkça Dolar Başına 6'yı Geçti",
-    "s": "The Brazilian real briefly tumbled past 6 to the dollar for the first time in over 19 months, extending a post-election selloff that’s turned it into one of the world’s worst performing currencies amid mounting concern about the government’s fiscal outlook.",
-    "ss": "Brezilya reali, 19 aydan fazla bir süreden sonra ilk kez dolar karşısında kısa süreliğine 6 puanın üzerine geriledi ve seçim sonrası satışları uzatarak, hükümetin mali görünümüne ilişkin endişelerin arttığı bir ortamda dünyanın en kötü performans gösteren para birimlerinden biri haline getirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/brazil-s-real-weakens-past-6-per-dollar-as-lula-selloff-extends",
-    "ts": 1795439474000,
-    "tags": [
-     "DXY ▼"
-    ]
-   },
-   {
-    "t": "UBS Debate Turns to Amendments on $16 Billion Capital Bill",
-    "tt": "UBS Tartışması 16 Milyar Dolarlık Sermaye Tasarısındaki Değişikliklere Döndü",
-    "s": "At least four competing proposals are on the table when Swiss lawmakers convene to discuss UBS Group AG’s capital requirements on Tuesday, with little sign yet of the path to consensus.",
-    "ss": "İsviçreli milletvekilleri Salı günü UBS Group AG'nin sermaye gereksinimlerini tartışmak üzere bir araya geldiğinde en az dört rakip teklif masada bulunuyor ve henüz fikir birliğine giden yola dair çok az işaret var.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/ubs-debate-turns-to-amendments-on-16-billion-capital-bill",
-    "ts": 1795452786000,
-    "tags": []
-   },
-   {
-    "t": "Ukraine Hits Russian Oil Refinery as 15 Attacked This Month",
-    "tt": "Ukrayna Bu Ay 15 Saldırıyla Rus Petrol Rafinerisi'ni Vurdu",
-    "s": "Ukraine said it hit yet another Russian refinery, this time striking a major fuel-producing plant in the Perm region, as the two countries continued to trade attacks on each other’s energy infrastructure.",
-    "ss": "Ukrayna, iki ülke birbirlerinin enerji altyapısına yönelik saldırılarını sürdürürken, bu kez Perm bölgesindeki büyük bir yakıt üreten tesisin başka bir Rus rafinerisine çarptığını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/small-refinery-in-southern-russia-halts-operations-after-attack",
-    "ts": 1795433444000,
-    "tags": []
-   },
-   {
-    "t": "Treasuries Slip as Huang’s Nvidia Return Revives Risk Trade",
-    "tt": "Huang'ın Nvidia Getirisi Risk Ticaretini Canlandırırken Hazine Tahvilleri Kayıyor",
-    "s": "US Treasuries fell as Jensen Huang’s return to the helm of Nvidia Corp. revived demand for risk assets, unwinding some of the haven bid that had swept through the bond market during last week’s AI-fueled selloff.",
-    "ss": "ABD Hazine tahvilleri, Jensen Huang'ın Nvidia Corp.'un yönetimine dönüşünün riskli varlıklara yönelik talebi canlandırması ve geçen hafta yapay zekânın desteklediği satış dalgası sırasında tahvil piyasasını kasıp kavuran güvenli liman talebinin bir kısmını gevşetmesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
-    "ts": 1795391946000,
+    "t": "Germany to Press Ahead With Gasoline Price Cap From Next Year",
+    "tt": "Almanya Gelecek Yıldan İtibaren Benzin Fiyat Tavanına Devam Edecek",
+    "s": "Germany is set to move ahead with a temporary three-month cap on gasoline prices from the start of next year as Berlin attempts to shield drivers in Europe’s biggest economy from higher fuel costs caused by the Iran war.",
+    "ss": "Berlin, Avrupa'nın en büyük ekonomisindeki sürücüleri İran savaşının neden olduğu yüksek yakıt maliyetlerinden korumaya çalışırken, Almanya önümüzdeki yılın başından itibaren benzin fiyatlarına üç aylık geçici bir tavan getirmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/germany-to-press-ahead-with-gasoline-price-cap-from-next-year",
+    "ts": 1795454075000,
     "tags": []
    }
   ],
@@ -463,7 +467,7 @@
     "s": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
     "ss": "Wall Street stratejistleri, harcama ve veri merkezi risklerinin devam etmesine rağmen Jensen Huang'ın Nvidia'ya dönüşünün yapay zeka ticaretini istikrarlı hale getirebileceğini söylüyor.",
     "u": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-    "ts": 1795452837000,
+    "ts": 1795456847000,
     "tags": []
    },
    {
@@ -556,6 +560,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
+    "tt": "En zengin Amerikalıların tatillerde diğer herkese kıyasla ne kadar daha fazla para harcadığını görün",
+    "s": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+    "ss": "Teneo'ya göre çoğu hane \"gündelik eşyaların artan maliyetleri nedeniyle sıkışıyor\", ancak üst gelirli haneler \"direnç gösteriyor.\"",
+    "u": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+    "ts": 1795457640000,
+    "tags": []
+   },
+   {
+    "t": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
+    "tt": "Yapay zeka ticaretindeki çatlakların ortasında güvenli bahis olarak görülen tüketici hisseleri, Pazartesi günü S&P 500'ün en çok kaybedenleri arasında yer alıyor",
+    "s": "Shares of Kroger and Tyson Foods are down, as Nvidia storms higher",
+    "ss": "Nvidia yükselirken Kroger ve Tyson Foods'un hisseleri düştü",
+    "u": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+    "ts": 1795456440000,
+    "tags": []
+   },
+   {
+    "t": "More AI jobs are coming. That’s one of the big hiring trends in 2027.",
+    "tt": "Daha fazla AI işi geliyor. Bu, 2027'deki en büyük işe alım trendlerinden biri.",
+    "s": "Maybe artificial intelligence will end up destroying lots of jobs, but the new technology might be creating more work in the short run.",
+    "ss": "Belki yapay zeka birçok işi ortadan kaldıracak, ancak yeni teknoloji kısa vadede daha fazla iş yaratabilir.",
+    "u": "https://www.marketwatch.com/story/more-ai-jobs-are-coming-thats-one-of-the-big-hiring-trends-in-2027-3d810209?mod=mw_rss_topstories",
+    "ts": 1795455420000,
+    "tags": []
+   },
+   {
     "t": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
     "tt": "66 yaşındaki hemşire, biriktirdiği sadece 500 dolarla emeklilikle karşı karşıya. Kim suçlanacak?",
     "s": "“Retirement is a financial status, not an age.”",
@@ -617,36 +648,45 @@
     "u": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
     "ts": 1795444620000,
     "tags": []
-   },
-   {
-    "t": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
-    "tt": "Marketlerde Şükran Günü için 'şaşırtıcı fırsatlar' var - ancak bu düşük fiyatlara henüz alışmayın",
-    "s": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
-    "ss": "Walmart, Target ve Amazon bu yıl yemek sepeti fırsatları sunan perakendecilerden bazıları.",
-    "u": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-    "ts": 1795443240000,
-    "tags": []
-   },
-   {
-    "t": "The number of 401(k) millionaires drops amid stock-market swings",
-    "tt": "401(k) milyonerlerin sayısı borsadaki dalgalanmaların ortasında düştü",
-    "s": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
-    "ss": "Fidelity, 'Zorlu bir çeyrekti': 401(k) bakiyeleri düşüyor ve karşılanabilirlik endişeleri sürüyor",
-    "u": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-    "ts": 1795443000000,
-    "tags": []
-   },
-   {
-    "t": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
-    "tt": "Siber güvenlik hisseleri sıcaktı ve şimdi CrowdStrike, Zscaler'ı satın almak için anlaşma imzaladı",
-    "s": "CrowdStrike on Monday said it will acquire Zscaler in an all-stock transaction that values the company at approximately $43.9 billion.",
-    "ss": "CrowdStrike Pazartesi günü yaptığı açıklamada, şirkete yaklaşık 43,9 milyar dolar değerinde tamamen hisse senedi işlemiyle Zscaler'ı satın alacağını söyledi.",
-    "u": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-    "ts": 1795441620000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Solid 2Y Auction Stops Through As Foreign Demand Rises",
+    "tt": "Dış Talep Arttıkça 2 Yıllık Sağlam Açık Artırma Durdu",
+    "s": "Solid 2Y Auction Stops Through As Foreign Demand Rises In a day that will almost literally explode if there was any more market-moving news, it's probably a good thing that today's 2Y coupon auction (recall we have a truncated scheduled due to Thanksgiving day), was a non-event. The auction priced a",
+    "ss": "Dış Talep Arttıkça Sağlam 2 Yıllık Açık Artırma Duruyor Piyasayı hareketlendirecek başka bir haber olursa neredeyse kelimenin tam anlamıyla patlayacak bir günde, bugünkü 2 Yıllık kupon müzayedesinin (Şükran Günü nedeniyle kısaltılmış bir programımız olduğunu hatırlayın) bir olay olmaması muhtemelen iyi bir şey. Açık artırmanın fiyatı",
+    "u": "https://www.zerohedge.com/markets/solid-2y-auction-stops-through-foreign-demand-rises",
+    "ts": 1795458337000,
+    "tags": []
+   },
+   {
+    "t": "Queens Daycare Director Guilty Of $127 Million In Medicare Fraud",
+    "tt": "Queens Gündüz Bakımevi Müdürü Medicare Dolandırıcılığından 127 Milyon Dolar Suçlu",
+    "s": "Queens Daycare Director Guilty Of $127 Million In Medicare Fraud Authored by Catherine Salgado via PJ Media , The exposés of mass fraud continue, with one fraudster recently pleading guilty to over $120 million worth of theft from American taxpayers. Healthcare fraud is one of the most common types,",
+    "ss": "Queens Gündüz Bakım Müdürü Medicare Dolandırıcılığından 127 Milyon Dolarlık Suçlu Yazan Catherine Salgado, PJ Media aracılığıyla, Kitlesel dolandırıcılık ifşaları devam ediyor; bir dolandırıcı yakın zamanda Amerikalı vergi mükelleflerinden 120 milyon dolar değerinde hırsızlık suçunu kabul etti. Sağlık hizmetlerinde dolandırıcılık en yaygın türlerden biridir.",
+    "u": "https://www.zerohedge.com/political/queens-daycare-director-guilty-127-million-medicare-fraud",
+    "ts": 1795457700000,
+    "tags": []
+   },
+   {
+    "t": "The 200-Day Average Broke. The Next 4 Weeks Are Critical",
+    "tt": "200 Günlük Ortalama Kırıldı. Önümüzdeki 4 Hafta Kritik",
+    "s": "The 200-Day Average Broke. The Next 4 Weeks Are Critical Authored by Lance Roberts via RealInvestmentAdvice.com , Update (1200ET): Despite the huge surge in stocks since Jensen Huang's reinstatement as CEO of Nvidia, SPX and NDX remain well below their 200DMAs... Key Insights The break below the 200",
+    "ss": "200 Günlük Ortalama Kırıldı. Önümüzdeki 4 Hafta Kritik Yazan: RealInvestmentAdvice.com aracılığıyla Lance Roberts, Güncelleme (1200ET): Jensen Huang'ın Nvidia'nın CEO'su olarak yeniden göreve getirilmesinden bu yana hisse senetlerindeki büyük artışa rağmen, SPX ve NDX 200 DMA'larının oldukça altında kalıyor... Temel Görüşler 200 seviyesinin altındaki kırılma",
+    "u": "https://www.zerohedge.com/markets/200-day-average-broke-next-4-weeks-are-critical",
+    "ts": 1795456800000,
+    "tags": []
+   },
+   {
+    "t": "The Real Reason Trump Wanted Jensen Back?",
+    "tt": "Trump'ın Jensen'ı Geri İstemesinin Gerçek Sebebi?",
+    "s": "The Real Reason Trump Wanted Jensen Back? Jensen Huang's return to Nvidia was a market rescue before it was a national security call , if Fox Business' Charles Gasparino has it right. His sources say that after last week's AI-stock rout, major investors told people close to the White House the proba",
+    "ss": "Trump'ın Jensen'ı Geri İstemesinin Gerçek Sebebi? Fox Business'tan Charles Gasparino haklıysa, Jensen Huang'ın Nvidia'ya dönüşü, ulusal güvenlik çağrısı olmadan önce piyasanın kurtarılmasıydı. Kaynakları, geçen haftaki AI hisse senedi bozgunundan sonra büyük yatırımcıların Beyaz Saray'a yakın insanlara bu ihtimali anlattığını söylüyor.",
+    "u": "https://www.zerohedge.com/ai/real-reason-trump-wanted-jensen-back",
+    "ts": 1795455900000,
+    "tags": []
+   },
    {
     "t": "Kroger Told Investors Exactly Where 3,000 US Corporate Jobs Are Going",
     "tt": "Kroger Yatırımcılara 3.000 ABD Kurumsal İşinin Tam Olarak Nereye Gideceğini Anlattı",
@@ -700,45 +740,45 @@
     "u": "https://www.zerohedge.com/markets/thoughts-and-prayers-jensens-return-wipes-out-3x-short-nvidia-etp-seconds-volmageddon",
     "ts": 1795449900000,
     "tags": []
-   },
-   {
-    "t": "Castro's Daughter Warns New Yorkers That Mamdani's Socialism Is Her 'Worst Déjà Vu Nightmare'",
-    "tt": "Castro'nun Kızı New Yorkluları Mamdani'nin Sosyalizminin 'En Kötü Déjà Vu Kabusu' Olduğu Konusunda Uyardı",
-    "s": "Castro's Daughter Warns New Yorkers That Mamdani's Socialism Is Her 'Worst Déjà Vu Nightmare' Authored by Steve Watson via Modernity , Fidel Castro's daughter Alina Fernández has a clear message for New Yorkers: she has heard all this before. Speaking on Newsmax, Fernández said listening to Mayor Zo",
-    "ss": "Castro'nun Kızı New Yorkluları Mamdani'nin Sosyalizminin 'En Kötü Déjà Vu Kabusu' Olduğu Konusunda Uyardı Steve Watson'ın Modernity aracılığıyla yazdığı Fidel Castro'nun kızı Alina Fernández'in New Yorklulara açık bir mesajı var: Bütün bunları daha önce duymuştu. Newsmax'e konuşan Fernández, Belediye Başkanı Zo'yu dinlediğini söyledi",
-    "u": "https://www.zerohedge.com/political/castros-daughter-warns-new-yorkers-mamdanis-socialism-her-worst-deja-vu-nightmare",
-    "ts": 1795449000000,
-    "tags": []
-   },
-   {
-    "t": "WTF Is Happening In Markets? Collum, Bianco, Johnson Join Tonight",
-    "tt": "Piyasalarda WTF Oluyor mu? Collum, Bianco ve Johnson Bu Geceye Katılıyor",
-    "s": "WTF Is Happening In Markets? Collum, Bianco, Johnson Join Tonight Stocks are soaring Monday after Nvidia's board reinstated Jensen Huang as CEO , following a week in which the AI trade dragged Wall Street into a full-blown correction. The AI names that carried markets to record highs led the decline",
-    "ss": "Piyasalarda WTF Oluyor mu? Collum, Bianco ve Johnson Bu Geceye Katılıyor Yapay zeka ticaretinin Wall Street'i tam anlamıyla bir düzeltmeye sürüklediği bir haftanın ardından Nvidia yönetim kurulunun Jensen Huang'ı yeniden CEO olarak görevlendirmesinin ardından Pazartesi günü hisse senetleri yükselişe geçti. Düşüşün öncüsü piyasaları rekor seviyelere taşıyan yapay zeka isimleri oldu",
-    "u": "https://www.zerohedge.com/markets/wtf-happening-markets-collum-bianco-johnson-join-tonight",
-    "ts": 1795448400000,
-    "tags": []
-   },
-   {
-    "t": "\"Now We Don't Have A Chance\": ICE Rips Houston Mayor's Post-Election Order",
-    "tt": "\"Artık Hiç Şansımız Yok\": ICE, Houston Belediye Başkanının Seçim Sonrası Kararını Yırtıyor",
-    "s": "\"Now We Don't Have A Chance\": ICE Rips Houston Mayor's Post-Election Order Houston's top ICE official says Mayor John Whitmire's post-election executive order to stop cooperating with the agency means city police who pull over an MS-13 gang member with a homicide conviction and a final deportation o",
-    "ss": "\"Artık Hiç Şansımız Yok\": ICE, Houston Belediye Başkanının Seçim Sonrası Kararını Yığdı Houston'ın üst düzey ICE yetkilisi, Belediye Başkanı John Whitmire'ın seçim sonrası yönetim tarafından teşkilatla işbirliğini durdurma emrinin, şehir polisinin bir MS-13 çete üyesini cinayetten hüküm giyerek ve nihai olarak sınır dışı ederek ele geçirmesi anlamına geldiğini söyledi.",
-    "u": "https://www.zerohedge.com/markets/now-we-dont-have-chance-ice-rips-houston-mayors-post-election-order",
-    "ts": 1795447500000,
-    "tags": []
-   },
-   {
-    "t": "\"I Convinced Them\": Trump Brags He Got Jensen Huang His Job Back As Questions Swirl",
-    "tt": "Trump, NYT'nin Metresini Çin'in Casus Teşkilatına Bağlamasından Saatler Sonra Nvidia'nın Jensen Huang'ı Yeniden İşe Almasını İstedi",
-    "s": "\"I Convinced Them\": Trump Brags He Got Jensen Huang His Job Back As Questions Swirl Summary Nvidia has reinstated Jensen Huang as President and CEO Trump says spoke to board, personally intervened, saying \" I convinced them \"&nbsp; Questions are swirling over the 'real reasons' behind his rehiring T",
-    "ss": "Trump, Nvidia'nın Jensen Huang'ı Yeniden İşe Almasını İstedi, NYT'nin Metresini Çin'in Casus Teşkilatı'na Bağlamasından Birkaç Saat Sonra Başkan Trump, Pazar gecesi Nvidia'nın yönetim kuruluna, New York Times'ın ABD istihbaratının kadını takip ettiğini bildirmesinden iki saatten biraz fazla bir süre sonra, Jensen Huang'ı genel müdür olarak yeniden işe alması çağrısında bulundu.",
-    "u": "https://www.zerohedge.com/political/trump-demands-nvidia-rehire-jensen-huang-hours-after-nyt-ties-his-mistress-chinas-spy",
-    "ts": 1795447200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "İran'dan halka enerji tasarrufu çağrısı",
+    "tt": null,
+    "s": "İran Petrol Bakan Vekili Hamid Boverd, yüksek enerji tüketimine dikkati çekerek halktan dizel yakıt başta olmak üzere enerji kullanımını azaltmasını istedi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iran-dan-halka-enerji-tasarrufu-cagrisi-3795490",
+    "ts": 1795458096000,
+    "tags": []
+   },
+   {
+    "t": "Amazon, Decart'ın teknolojisini satın alıyor",
+    "tt": null,
+    "s": "Amazon, Decart AI'ın optimizasyon teknolojilerini satın almak ve kurucularını ekipleriyle bünyesine katmak üzere anlaşmaya vardı. Uluslararası basında anlaşmanın değerinin yaklaşık 7,5 milyar dolar olduğu belirtildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/amazon-decart-in-teknolojisini-satin-aliyor-3795489",
+    "ts": 1795457434000,
+    "tags": []
+   },
+   {
+    "t": "Danimarka, okullarda cep telefonu kullanımını yasaklıyor",
+    "tt": null,
+    "s": "Danimarka'da 2027-2028 eğitim-öğretim yılından itibaren ilkokul ve ortaokullarda cep telefonu ve internete erişebilen diğer kişisel elektronik cihazların kullanımı yasaklanacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/danimarka-okullarda-cep-telefonu-kullanimini-yasakliyor-3795488",
+    "ts": 1795457145000,
+    "tags": []
+   },
+   {
+    "t": "Fitch, ABD bankacılık sektörünün 2027 görünümünü düşürdü",
+    "tt": null,
+    "s": "Fitch Ratings, kredi koşullarında zayıflama beklentisiyle ABD bankacılık sektörünün 2027 görünümünü \"nötr\"den \"kötüleşiyor\"a düşürdü. Kuruluş, artan fonlama ve kredi maliyetlerinin bankaların kârlılığını baskılayacağını öngördü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fitch-abd-bankacilik-sektorunun-2027-gorunumunu-dusurdu-3795487",
+    "ts": 1795455533000,
+    "tags": []
+   },
    {
     "t": "AB'nin eğitim platformuna siber saldırı: Kullanıcı verileri sızdı",
     "tt": null,
@@ -791,42 +831,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/jensen-huang-geri-dondu-3795459",
     "ts": 1795442428000,
-    "tags": []
-   },
-   {
-    "t": "Kayatur Filo Kiralama bono ödemesinde temerrüde düştü",
-    "tt": null,
-    "s": "Kayatur Filo Kiralama 134 milyon TL nominal tutarlı finansman bonosunda itfa ve kupon ödemelerinin tarihinde gerçekleştirilemediğini duyurdu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/kayatur-filo-kiralama-bono-odemesinde-temerrude-dustu-3795455",
-    "ts": 1795440857000,
-    "tags": []
-   },
-   {
-    "t": "Hazır giyim sektöründen 2027 için iflas dalgası uyarısı",
-    "tt": null,
-    "s": "Ege Hazır Giyim ve Konfeksiyon İhracatçıları Birliği Başkanı Çağlar Bağcı, 2027 yılının Mart ve Nisan aylarında yalnızca hazır giyim sektöründe değil, diğer sektörlerde de ciddi bir iflas dalgası yaşanabileceği uyarısında bulundu. Bağcı, hazır giyim ve konfeksiyon ihracatının 2026 yılını yüzde 10 ka",
-    "ss": null,
-    "u": "https://www.bloomberght.com/hazir-giyim-sektorunden-2027-icin-iflas-dalgasi-uyarisi-3795454",
-    "ts": 1795438807000,
-    "tags": []
-   },
-   {
-    "t": "AB'den \"COP31 son taslağının neden reddedildiği\" açıklaması",
-    "tt": null,
-    "s": "Avrupa Birliği (AB) Komisyonu Sözcüsü Anna-Kaisa Itkonen, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Konferansı'nda (COP31) fosil yakıtlara ilişkin bir ifadenin yer almadığı son taslağın iklim hedefleri açısından geri adım anlamına geleceğini, bu nedenle metni kabul etmedikleri",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ab-den-cop31-son-taslaginin-neden-reddedildigi-aciklamasi-3795453",
-    "ts": 1795438389000,
-    "tags": []
-   },
-   {
-    "t": "Yurt dışı piyasada TL borçlanma maliyeti 9 ayın zirvesini gördü",
-    "tt": null,
-    "s": "Yabancı yatırımcıların carry trade pozisyonlarından çıkış sinyalleri vermesiyle offshore piyasalarda TL borçlanma maliyeti Şubat ayından bu yana en yüksek seviyesine ulaştı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/yurt-disi-piyasada-tl-borclanma-maliyeti-9-ayin-zirvesini-gordu-3795450",
-    "ts": 1795436246000,
     "tags": []
    }
   ]
