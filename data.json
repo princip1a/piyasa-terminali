@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T01:53:31.303388+00:00",
+ "generated": "2026-11-24T02:46:11.072688+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3673.3,
-   "c": 4.49,
-   "d": 157.9,
+   "p": 3652.3,
+   "c": 0.02,
+   "d": 0.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 43.495,
-   "c": 5.99,
-   "d": 2.46,
+   "p": 43.015,
+   "c": -0.31,
+   "d": -0.132,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 79.84,
-   "c": -4.93,
-   "d": -4.14,
+   "p": 79.86,
+   "c": -0.39,
+   "d": -0.31,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 86.31,
-   "c": -6.76,
-   "d": -6.26,
+   "p": 86.22,
+   "c": -3.52,
+   "d": -3.15,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 104.222,
-   "c": 0.4,
-   "d": 0.412,
+   "p": 104.233,
+   "c": -0.08,
+   "d": -0.087,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6119,
+   "p": 50.6096,
    "c": 0.07,
-   "d": 0.036,
+   "d": 0.034,
    "k": "idx"
   },
   {
    "n": "BIST 100",
    "p": 11104.38,
-   "c": -2.59,
-   "d": -295.72,
+   "c": -0.24,
+   "d": -26.92,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 61082,
-   "c": 0.47,
+   "p": 60284,
+   "c": -0.28,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1704.18,
-   "c": -0.31,
+   "p": 1688.33,
+   "c": -0.67,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.92,
-   "c": 2.21,
+   "p": 71.17,
+   "c": 1.72,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.947157,
-   "c": 3.28,
+   "p": 0.943963,
+   "c": 3.21,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 557.83,
-   "c": 0.31,
+   "p": 552.02,
+   "c": 0.15,
    "k": "usd"
   }
  ],
@@ -364,6 +364,24 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
+    "tt": "Yatırımcılar Nvidia'daki Dramanın Ötesine Bakarken Bakır Düşüşüne Devam Ediyor",
+    "s": "Copper resumed a decline after a spike driven by Jensen Huang’s return to Nvidia Corp., with investors still cautious about demand.",
+    "ss": "Bakır, Jensen Huang'ın Nvidia Corp.'a dönüşünün neden olduğu yükselişin ardından yatırımcıların talep konusunda hâlâ temkinli davranmasıyla yeniden düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
+    "ts": 1795487899000,
+    "tags": []
+   },
+   {
+    "t": "AI Trade Rebound Drives Limit Up Moves in Nvidia Supplier Stocks",
+    "tt": "Huang'ın Geri Dönüşü Yapay Zeka Ticaretini Yeniden Ateşlerken Asya Chip Hisseleri Yükseliyor",
+    "s": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade.",
+    "ss": "Asya'daki yarı iletkenlerle ilgili hisseler, Nvidia Corp.'un yönetim kurulunun Jensen Huang'ı yeniden göreve getirmesinin ardından tırmandı ve yatırımcıların yapay zeka ticaretine olan iştahını yeniden canlandırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+    "ts": 1795477520000,
+    "tags": []
+   },
+   {
     "t": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
     "tt": "Huang'ın Dönüşü Yapay Zekayı Canlandırırken Asya Hisse Senetleri Yükselecek: Piyasalar Tamamlandı",
     "s": "Asian shares rallied as Jensen Huang’s return to lead Nvidia Corp. revived enthusiasm for the artificial intelligence trade, helping the region’s major chipmakers rebound from last week’s rout.",
@@ -373,7 +391,7 @@
     "tags": []
    },
    {
-    "t": "Copper Smelters Face Worsening Squeeze As Negotiations Stall",
+    "t": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
     "tt": "Bakır İzabe Tesisleri, Müzakerelerin Durması Nedeniyle Kötüleşen Sıkışmayla Karşı Karşıya",
     "s": "Copper smelters are bracing for a period of extreme financial pressure as closely-watched negotiations over supply contracts for next year go down to the wire.",
     "ss": "Bakır izabe tesisleri, gelecek yıla ait tedarik sözleşmeleri üzerinde yakından izlenen müzakerelerin sona ermesiyle birlikte, aşırı mali baskının olduğu bir döneme hazırlanıyor.",
@@ -420,15 +438,6 @@
     "tags": []
    },
    {
-    "t": "AI Trade Resurgence Drives 9% Rally in Taiwanese Stock Index",
-    "tt": "Huang'ın Geri Dönüşü Yapay Zeka Ticaretini Yeniden Ateşlerken Asya Chip Hisseleri Yükseliyor",
-    "s": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade.",
-    "ss": "Asya'daki yarı iletkenlerle ilgili hisseler, Nvidia Corp.'un yönetim kurulunun Jensen Huang'ı yeniden göreve getirmesinin ardından tırmandı ve yatırımcıların yapay zeka ticaretine olan iştahını yeniden canlandırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
-    "ts": 1795477520000,
-    "tags": []
-   },
-   {
     "t": "Keppel Agrees to Merge M1 and Starhub in All-Share Deal",
     "tt": "Keppel, M1 ve Starhub'ı Tamamen Hisse Anlaşmasıyla Birleştirmeyi Kabul Ediyor",
     "s": "Keppel Ltd. agreed to combine M1 with Starhub Ltd. in an all-share deal, bringing together two of Singapore’s major telecommunications operators.",
@@ -444,15 +453,6 @@
     "ss": "Kanada hisse senedi endeksi, Nvidia Corp.'un Jensen Huang'ı yeniden CEO olarak görevlendirmesinin ardından değerli metallerdeki ve teknoloji hisselerindeki yükselişin etkisiyle Nisan 2025'ten bu yana en büyük kazancını kaydetti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-23/canadian-stocks-recover-as-huang-s-return-fuels-metals-tech",
     "ts": 1795449034000,
-    "tags": []
-   },
-   {
-    "t": "US Senate Probes Vance Role in Vitol Choice for Venezuela Oil",
-    "tt": "ABD Senatosu Venezüella Petrolü İçin Vitol Seçiminde Vance'ın Rolünü Araştırıyor",
-    "s": "A US senator is investigating the role Vice President JD Vance played in awarding a lucrative Venezuelan oil contract to a political donor and then-executive at commodities trader Vitol Group.",
-    "ss": "ABD'li bir senatör, Başkan Yardımcısı JD Vance'in, Venezuela'daki kârlı bir petrol ihalesinin siyasi bir bağışçıya ve o dönemde emtia tüccarı Vitol Group'ta yönetici olarak görev yapan birine verilmesinde oynadığı rolü araştırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
-    "ts": 1795479111000,
     "tags": []
    }
   ],
@@ -648,6 +648,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "US Weighs Military Training for Syrian Army Despite Massacres of Alawites, Christians & Druze",
+    "tt": "ABD, Alevi, Hıristiyan ve Dürzi Katliamlarına Rağmen Suriye Ordusunun Askeri Eğitimini Ağırlaştırıyor",
+    "s": "US Weighs Military Training for Syrian Army Despite Massacres of Alawites, Christians &amp; Druze For the first time since the overthrow of secular Ba'ath President Bashar al-Assad, &nbsp;Washington is said to be readying a plan to train the Syrian military , though nothing has yet been publicaly ap",
+    "ss": "ABD, Alevi, Hıristiyan ve Dürzi Katliamlarına Rağmen Suriye Ordusu İçin Askeri Eğitimi Ağırlaştırıyor Laik Baas Devlet Başkanı Beşar Esad'ın devrilmesinden bu yana ilk kez Washington'un Suriye ordusunu eğitmek için bir plan hazırladığı söyleniyor, ancak henüz hiçbir şey kamuya açıklanmadı",
+    "u": "https://www.zerohedge.com/geopolitical/us-weighs-military-training-syrian-army-despite-massacres-alawites-christians-druze",
+    "ts": 1795488300000,
+    "tags": []
+   },
+   {
     "t": "\"This Is Not 1990\": Swalwell Ally Jimmy Gomez Quits After Ethics Panel Finds Bar Encounter With Staffer Could Be Sexual Assault",
     "tt": "\"Bu 1990 Değil\": Swalwell Müttefiki Jimmy Gomez, Etik Panelinin Barda Personelle Karşılaşmanın Cinsel Saldırı Olduğunu Bulmasının Ardından Ayrıldı",
     "s": "\"This Is Not 1990\": Swalwell Ally Jimmy Gomez Quits After Ethics Panel Finds Bar Encounter With Staffer Could Be Sexual Assault Rep. Jimmy Gomez (D-CA) will resign from Congress effective Dec. 1, he said Monday, the same day the House Ethics Committee released a report finding \"substantial evidence\"",
@@ -726,15 +735,6 @@
     "ss": "Hıristiyanlık Acımasız Saldırı Altında Yazan Steve Watson via Modernity , Başka bir tarihi kilise alevler içinde kaldı; bu sefer kırsal Maryland'de yerel yetkililerin bir zamanlar köyünde kalan en belirgin bina olarak adlandırdığı 137 yıllık bir yapı. 19 Kasım sabah saat 3'ten hemen sonra bir",
     "u": "https://www.zerohedge.com/geopolitical/christianity-under-relentless-attack",
     "ts": 1795473600000,
-    "tags": []
-   },
-   {
-    "t": "Trump's Turkeys Check Into Luxury DC Hotel As Americans Vote On Which One Gets Pardoned",
-    "tt": "Amerikalılar Hangisinin Affedileceğine Oy Verirken Trump'ın Hindileri Lüks DC Oteline Yerleşiyor",
-    "s": "Trump's Turkeys Check Into Luxury DC Hotel As Americans Vote On Which One Gets Pardoned The two West Virginia turkeys headed for President Trump's Thanksgiving pardon checked into the Willard InterContinental, one of Washington's grandest hotels, on Sunday , red carpet and all. The Agriculture Depar",
-    "ss": "Amerikalılar Hangisinin Affedileceğine Oy Verirken Trump'ın Hindileri Lüks DC Oteline Yerleşiyor Başkan Trump'ın Şükran Günü affına giden iki Batı Virjinya hindisi, Pazar günü kırmızı halıyla Washington'un en büyük otellerinden biri olan Willard InterContinental'e giriş yaptı. Tarım Departmanı",
-    "u": "https://www.zerohedge.com/political/trumps-turkeys-check-luxury-dc-hotel-americans-vote-which-one-gets-pardoned",
-    "ts": 1795472400000,
     "tags": []
    }
   ],
