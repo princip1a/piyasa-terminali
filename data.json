@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T03:48:23.236946+00:00",
+ "generated": "2026-11-24T04:54:02.674841+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3633.9,
-   "c": -0.48,
-   "d": -17.5,
+   "p": 3629.9,
+   "c": -0.59,
+   "d": -21.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.555,
-   "c": -1.37,
-   "d": -0.592,
+   "p": 42.48,
+   "c": -1.55,
+   "d": -0.667,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 80.0,
-   "c": -0.21,
-   "d": -0.17,
+   "p": 79.67,
+   "c": -0.62,
+   "d": -0.5,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 86.5,
-   "c": -3.21,
-   "d": -2.87,
+   "p": 86.19,
+   "c": -3.56,
+   "d": -3.18,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 104.262,
-   "c": -0.06,
-   "d": -0.058,
+   "p": 104.285,
+   "c": -0.03,
+   "d": -0.035,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6094,
-   "c": 0.07,
-   "d": 0.033,
+   "p": 50.617,
+   "c": 0.08,
+   "d": 0.041,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60255,
-   "c": -1.53,
+   "p": 60351,
+   "c": -1.2,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1691.71,
-   "c": -2.2,
+   "p": 1699.32,
+   "c": -1.37,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.01,
-   "c": -0.21,
+   "p": 71.55,
+   "c": 0.46,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.944593,
-   "c": 1.48,
+   "p": 0.951452,
+   "c": 2.13,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 551.41,
-   "c": -1.11,
+   "p": 553.13,
+   "c": -0.63,
    "k": "usd"
   }
  ],
@@ -364,43 +364,58 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Shares in Chinese Cobalt Producers Jump After Congo Bans Exports",
-    "tt": "Kongo'nun İhracatı Yasaklamasının Ardından Çinli Kobalt Üreticilerinin Hisseleri Yükseldi",
-    "s": "Shares in Chinese cobalt producers surged after the Democratic Republic of Congo slapped an export ban on the battery metal from the end of the month in a bid to arrest a price decline.",
-    "ss": "Çinli kobalt üreticilerinin hisseleri, Demokratik Kongo Cumhuriyeti'nin fiyat düşüşünü durdurmak amacıyla ay sonundan itibaren pil metaline ihracat yasağı getirmesinin ardından yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/shares-in-chinese-cobalt-producers-jump-after-congo-bans-exports",
-    "ts": 1795490276000,
+    "t": "Singapore, China to Deepen Yuan Ties With Focus on Corporates",
+    "tt": "Singapur ve Çin, Şirketlere Odaklanarak Yuan İlişkilerini Derinleştirecek",
+    "s": "The central banks of Singapore and China agreed to expand a yuan liquidity facility in the city-state to help finance a broader range of corporate activities, marking another step in efforts to promote the currency’s international use.",
+    "ss": "Singapur ve Çin merkez bankaları, daha geniş bir kurumsal faaliyet yelpazesinin finansmanına yardımcı olmak için şehir devletindeki yuan likidite olanağını genişletme konusunda anlaşarak, para biriminin uluslararası kullanımını teşvik etme çabalarında bir başka adıma işaret etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
+    "ts": 1795495854000,
     "tags": []
    },
    {
-    "t": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
-    "tt": "Japon Tahvilleri Yurt İçi Hisse Senetlerinin Yükselişiyle Eğri Boyunca Yükseliyor",
-    "s": "Japanese government bonds rallied across the curve after a three-day holiday, with gains holding even as domestic equities surged on easing concerns over the outlook for artificial intelligence investment.",
-    "ss": "Japon devlet tahvilleri, üç günlük tatilin ardından yükselişe geçti; yurt içi hisse senetleri, yapay zeka yatırımlarına yönelik görünümle ilgili endişelerin azalmasıyla yükselirken bile kazanımlar korundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
-    "ts": 1795489640000,
+    "t": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+    "tt": "Ucuz Petrolün Enflasyon Endişelerini Azaltmasıyla Hazine Tahvilleri Yükseliyor",
+    "s": "US Treasuries gained across the curve as a drop in oil prices eased concerns about inflation, a notable move on a day when Jensen Huang’s return to Nvidia Corp. revived investor appetite for risk assets.",
+    "ss": "Jensen Huang'ın Nvidia Corp.'a dönüşünün yatırımcıların risk varlıklarına yönelik iştahını canlandırdığı bir günde, petrol fiyatlarındaki düşüşün enflasyona ilişkin endişeleri hafifletmesiyle ABD Hazine tahvilleri yükseliş kaydetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+    "ts": 1795495353000,
     "tags": []
    },
    {
-    "t": "AI Trade Rebound Drives Limit Up Moves in Nvidia Supplier Stocks",
+    "t": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
     "tt": "Huang'ın Geri Dönüşü Yapay Zeka Ticaretini Yeniden Ateşlerken Asya Chip Hisseleri Yükseliyor",
-    "s": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade.",
+    "s": "Asia’s AI trade came roaring back Tuesday, with chipmakers and data-center plays from Taiwan to Kuala Lumpur surging as Jensen Huang’s return to Nvidia unleashed a buying frenzy across a sector battered by weeks of doubts over the durability of the AI boom.",
     "ss": "Asya'daki yarı iletkenlerle ilgili hisseler, Nvidia Corp.'un yönetim kurulunun Jensen Huang'ı yeniden göreve getirmesinin ardından tırmandı ve yatırımcıların yapay zeka ticaretine olan iştahını yeniden canlandırdı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
     "ts": 1795477520000,
     "tags": []
    },
    {
-    "t": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
-    "tt": "Huang'ın Dönüşü Yapay Zekayı Canlandırırken Asya Hisse Senetleri Yükselecek: Piyasalar Tamamlandı",
-    "s": "Asian shares jumped the most in three months as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
-    "ss": "Asya hisse senetleri, Jensen Huang'ın Nvidia Corp.'a liderlik etmesiyle ateşlenen bir iyimserlik dalgasına hazır görünüyordu; bu, Wall Street'i Nisan 2025'ten bu yana en iyi gününe taşıyan çarpıcı bir gelişmeydi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795471606000,
+    "t": "Tokyo Core Used-Condo Prices Fall for First Time Since 2013",
+    "tt": "Tokyo Çekirdek İkinci El Daire Fiyatları 2013'ten Bu Yana İlk Defa Düştü",
+    "s": "Prices of used condominiums in central Tokyo fell from a year earlier for the first time in more than 13 years, a sign that the market is cooling amid higher interest rates and a glut in inventories.",
+    "ss": "Tokyo'nun merkezinde ikinci el konut fiyatları, 13 yıldan fazla bir süreden sonra ilk kez bir yıl öncesine göre düştü; bu, yüksek faiz oranları ve stoklardaki fazlalık nedeniyle piyasanın soğuduğunun bir işareti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
+    "ts": 1795486926000,
     "tags": []
    },
    {
-    "t": "Keppel Shakes Up Singapore Telecom Sector as M1, Starhub Merge",
+    "t": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
+    "tt": "Goldman, Kazanılan İstikrarın Soğuyan Enflasyondaki Faiz Artışlarını Geride Bıraktığını Söyledi",
+    "s": "Goldman Sachs Group Inc. said stabilizing South Korea’s currency would be a more effective way to curb inflation than raising interest rates, arguing that price pressures stem more from rising import costs than from strong domestic demand.",
+    "ss": "Goldman Sachs Group Inc., fiyat baskılarının güçlü iç talepten ziyade artan ithalat maliyetlerinden kaynaklandığını öne sürerek, Güney Kore para birimini istikrara kavuşturmanın enflasyonu frenlemenin faiz oranlarını yükseltmekten daha etkili bir yol olacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
+    "ts": 1795494790000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Keppel Agrees to Merge Telecom Firms M1 and Starhub",
     "tt": "Keppel, M1 ve Starhub'ı Tamamen Hisse Anlaşmasıyla Birleştirmeyi Kabul Ediyor",
     "s": "Asset manager Keppel Ltd. agreed to combine M1 Ltd. with Starhub Ltd. in an all-share deal, bringing together two of Singapore’s major telecommunications operators following months of talks.",
     "ss": "Keppel Ltd., M1'i Starhub Ltd. ile tamamı hisseli bir anlaşmayla birleştirmeyi kabul ederek Singapur'un iki büyük telekomünikasyon operatörünü bir araya getirdi.",
@@ -409,51 +424,46 @@
     "tags": []
    },
    {
-    "t": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
-    "tt": "Yatırımcılar Nvidia'daki Dramanın Ötesine Bakarken Bakır Düşüşüne Devam Ediyor",
-    "s": "Copper resumed a decline after a spike driven by Jensen Huang’s return to Nvidia Corp., with investors still cautious about demand.",
-    "ss": "Bakır, Jensen Huang'ın Nvidia Corp.'a dönüşünün neden olduğu yükselişin ardından yatırımcıların talep konusunda hâlâ temkinli davranmasıyla yeniden düşüşe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
-    "ts": 1795487899000,
-    "tags": []
-   },
-   {
-    "t": "Copper Smelters Face Worsening Squeeze as Negotiations Stall",
-    "tt": "Bakır İzabe Tesisleri, Müzakerelerin Durması Nedeniyle Kötüleşen Sıkışmayla Karşı Karşıya",
-    "s": "Copper smelters are bracing for a period of extreme financial pressure as closely-watched negotiations over supply contracts for next year go down to the wire.",
-    "ss": "Bakır izabe tesisleri, gelecek yıla ait tedarik sözleşmeleri üzerinde yakından izlenen müzakerelerin sona ermesiyle birlikte, aşırı mali baskının olduğu bir döneme hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
-    "ts": 1795483781000,
-    "tags": []
-   },
-   {
-    "t": "Margin Calls Rose in Taiwan Before Huang Return Fueled Rally",
-    "tt": "Yatırımcıların Yapay Zeka Bahislerinden Kaçmasıyla Tayvan'da Marj Çağrıları 200 Kat Arttı",
-    "s": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.",
-    "ss": "Tayvan'da bir borsacı olan Julia Lee, geçen hafta marj çağrısı yapmak için o kadar çok zaman harcadı ki, insani bir dokunuş eklemeye karar verdi. Acı çeken tüccarlara, fırtınadan kurtulmalarına yardımcı olmak için orada olduğunu söyleyen empatik mesajlar gönderdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
-    "ts": 1795428688000,
-    "tags": []
-   },
-   {
     "t": "Latest Oil Market News and Analysis for Nov. 24",
     "tt": "24 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil steadied after sliding more than 3% in the previous session on cautious optimism over efforts to end the US-Iran war.",
+    "s": "Oil pushed lower after sliding more than 3% in the previous session on cautious optimism over efforts to end the US-Iran war.",
     "ss": "Petrol fiyatları, ABD-İran savaşını sona erdirme çabalarına ilişkin temkinli iyimserliğin etkisiyle önceki seansta neredeyse %4 oranında kayıp yaşadıktan sonra yatay seyretti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
     "ts": 1795475052000,
     "tags": []
    },
    {
-    "t": "Gold Extends Gain After Nvidia’s Rehiring of Huang Sparks Rally",
-    "tt": "Altın, Nvidia'nın Huang Sparks Rally'yi Yeniden İşe Almasının Ardından Kazanmayı Tuttu",
-    "s": "Gold rose for a second day, after Jensen Huang’s surprise return to the helm of Nvidia Corp. recharged bets on artificial intelligence and spurred rallies across markets.",
-    "ss": "Altın Pazartesi günü yükselişin ardından istikrarını korudu; Jensen Huang'ın Nvidia Corp.'un başına sürpriz dönüşü, yapay zeka konusundaki bahisleri yeniden canlandırdı ve piyasalarda yükselişleri tetikledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
-    "ts": 1795478817000,
+    "t": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
+    "tt": "Avustralya Tahvilleri RBA Kesinti Bahislerinde Hazirandan Bu Yana En Uzun Yükselişini Gerçekleştirecek",
+    "s": "Australia’s bond market is heading for its longest rally in over five months as mounting signs of economic weakness fuel bets the Reserve Bank’s next move will be an interest-rate cut.",
+    "ss": "Avustralya tahvil piyasası, artan ekonomik zayıflık işaretlerinin Merkez Bankası'nın bir sonraki hamlesinin faiz indirimi olacağı yönündeki iddiaları körüklemesiyle beş aydan uzun bir sürenin en uzun yükselişine doğru ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
+    "ts": 1795493172000,
     "tags": [
-     "Altın ▲"
+     "DXY ▼",
+     "Altın ▲",
+     "Gümüş ▲",
+     "BTC ▲",
+     "Altcoin ▲"
     ]
+   },
+   {
+    "t": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+    "tt": "Huang'ın Dönüşü Yapay Zekayı Canlandırırken Asya Hisse Senetleri Yükselecek: Piyasalar Tamamlandı",
+    "s": "Asian shares jumped the most since July as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
+    "ss": "Asya hisse senetleri, Jensen Huang'ın Nvidia Corp.'a liderlik etmesiyle ateşlenen bir iyimserlik dalgasına hazır görünüyordu; bu, Wall Street'i Nisan 2025'ten bu yana en iyi gününe taşıyan çarpıcı bir gelişmeydi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795471606000,
+    "tags": []
+   },
+   {
+    "t": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
+    "tt": "GQG Hisseleri Yapay Zeka Ticaretinin Canlanmasıyla Sidney'de Rekor Artışa Hazır",
+    "s": "GQG Partners Inc.’s Australia-listed shares are on track for a record daily gain, as a rebound in the artificial intelligence trade drew investors back into Rajiv Jain’s beaten-down investment firm.",
+    "ss": "GQG Partners Inc.'in Avustralya'da listelenen hisseleri, yapay zeka ticaretindeki toparlanmanın yatırımcıları Rajiv Jain'in mağlup yatırım şirketine geri çekmesiyle rekor günlük kazanç yolunda ilerliyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
+    "ts": 1795491720000,
+    "tags": []
    }
   ],
   "CNBC": [
@@ -648,12 +658,39 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Saudi Arabia Turns To South Korea, Ukraine To Bolster Air Defenses",
+    "tt": "Suudi Arabistan Hava Savunmasını Güçlendirmek İçin Güney Kore ve Ukrayna'ya Dönüyor",
+    "s": "Saudi Arabia Turns To South Korea, Ukraine To Bolster Air Defenses Via The Cradle Amid difficulty in defending its territory during wars with Iran and Yemen, Saudi Arabia is seeking to bolster its US-made air defenses by partnering with additional countries and producing missile interceptors and dro",
+    "ss": "Suudi Arabistan, Hava Savunmasını Beşik Aracılığıyla Desteklemek İçin Güney Kore ve Ukrayna'ya Dönüyor İran ve Yemen'le yapılan savaşlar sırasında topraklarını savunmanın zor olduğu bir dönemde Suudi Arabistan, başka ülkelerle ortaklık kurarak ve füze önleyici ve insansız hava araçları üreterek ABD yapımı hava savunmasını güçlendirmenin yollarını arıyor.",
+    "u": "https://www.zerohedge.com/geopolitical/saudi-arabia-turns-south-korea-ukraine-bolster-air-defenses",
+    "ts": 1795495800000,
+    "tags": []
+   },
+   {
+    "t": "Trump Says US Will Catch China On Rare Earth Mineral Production In 10 Months",
+    "tt": "Trump, ABD'nin 10 Ay İçinde Nadir Toprak Madenleri Üretiminde Çin'i Yakalayacağını Söyledi",
+    "s": "Trump Says US Will Catch China On Rare Earth Mineral Production In 10 Months US President Donald Trump has claimed that the United States could catch up with China in rare earth supplies within 10 months, but industry experts argue that decades of Chinese dominance make such a timeline highly improb",
+    "ss": "Trump, ABD'nin Nadir Toprak Maden Üretiminde Çin'i 10 Ay İçinde Yakalayacağını Söyledi ABD Başkanı Donald Trump, ABD'nin nadir toprak madenleri üretiminde 10 ay içinde Çin'i yakalayabileceğini iddia etti, ancak endüstri uzmanları, Çin'in onlarca yıllık hakimiyetinin böyle bir zaman çizelgesini son derece olasılık dışı kıldığını savunuyor",
+    "u": "https://www.zerohedge.com/markets/trump-says-us-will-catch-china-rare-earth-mineral-production-10-months",
+    "ts": 1795494300000,
+    "tags": []
+   },
+   {
     "t": "\"Crimes Over Decades\": Unsealed Ilhan Omar Warrant Reaches Back To Before She Was Born",
     "tt": "\"On Yıllar Boyunca İşlenen Suçlar\": Mühürsüz İlhan Omar Fermanı Doğmadan Öncesine Ulaştı",
     "s": "\"Crimes Over Decades\": Unsealed Ilhan Omar Warrant Reaches Back To Before She Was Born Federal prosecutors told a judge they believe Rep. Ilhan Omar \"has committed [redacted] crimes over decades - beginning long before she was ever in Congress,\" according to 169 pages of search warrant records the f",
     "ss": "\"On Yıllar Boyunca İşlenen Suçlar\": Mühürsüz İlhan Omar Emri Doğmadan Öncesine Ulaştı Federal savcılar bir yargıca, Temsilci İlhan Omar'ın \"Onlarca yıldır, Kongre'ye gelmeden çok önce başlayarak suçları [düzeltilmiş] işlediğine\" inandıklarını söylediler.",
     "u": "https://www.zerohedge.com/political/crimes-over-decades-unsealed-ilhan-omar-warrant-reaches-back-she-was-born",
     "ts": 1795491300000,
+    "tags": []
+   },
+   {
+    "t": "Caveat Emptor: Pissed GTA6 Gamers Demand Refunds As \"Super Woke\" Mandy Actress Says She Hates Straight Men",
+    "tt": "Uyarı Emptor: \"Süper Uyanmış\" Mandy Aktris Heteroseksüel Erkeklerden Nefret Ettiğini Söylediğinde GTA6 Oyuncuları Para İadesi İstedi",
+    "s": "Caveat Emptor: Pissed GTA6 Gamers Demand Refunds As \"Super Woke\" Mandy Actress Says She Hates Straight Men Grand Theft Auto VI sold an estimated 19 million copies by the time it unlocked on Nov. 19, roughly three of every four of them on PlayStation , according to Sensor Tower . Days later, a growin",
+    "ss": "Caveat Emptor: Kızgın GTA6 Oyuncuları \"Süper Uyanık\" Olarak Para İadesi Talep Ediyor Mandy Aktris Heteroseksüel Erkeklerden Nefret Ettiğini Söyledi Grand Theft Auto VI, Sensor Tower'a göre Grand Theft Auto VI 19 Kasım'da kilidi açıldığında tahminen 19 milyon kopya sattı; bu sayı yaklaşık olarak her dört kopyadan üçü PlayStation'daydı. Günler sonra büyüyen bir",
+    "u": "https://www.zerohedge.com/technology/rockstar-games-risks-alienating-gta-vis-audience-casting-super-woke-mandy-actress-hates",
+    "ts": 1795491000000,
     "tags": []
    },
    {
@@ -708,33 +745,6 @@
     "ss": "Trump Haksız Fiiller: Hakaret Yasası Trump'ın En Kalıcı Miraslarından Biri mi Olacak? Jonathan Turley tarafından JonathanTurley.org aracılığıyla yazılmıştır. Aşağıda, Başkan Donald Trump'ın geçen hafta hakaret davalarında kazandığı birkaç galibiyetle ilgili The Hill'deki köşe yazım yer alıyor. Trump'ın çeşitli alanlardaki mirası hâlâ ortaya çıkarken, onun imp'i",
     "u": "https://www.zerohedge.com/political/trump-torts-will-defamation-law-be-one-trumps-most-lasting-legacies",
     "ts": 1795482300000,
-    "tags": []
-   },
-   {
-    "t": "Boardroom Jihad: Iran-Linked Operatives Seen Directing Real-Time Attacks On US Bases",
-    "tt": "Toplantı Odası Cihadı: İran Bağlantılı Operatörlerin ABD Üslerine Gerçek Zamanlı Saldırıları Yönettiği Görüldü",
-    "s": "Boardroom Jihad: Iran-Linked Operatives Seen Directing Real-Time Attacks On US Bases Authored by Steve Watson via Modernity , Federal prosecutors have released videos showing men gathered around screens in what looks like a Middle East boardroom, issuing real-time instructions to attackers on the gr",
-    "ss": "Toplantı Odası Cihadı: İran Bağlantılı Operatörlerin ABD Üslerine Gerçek Zamanlı Saldırıları Yönettiği Görülüyor Steve Watson tarafından Modernity aracılığıyla yazılan Federal savcılar, Orta Doğu'daki bir toplantı odasına benzeyen bir yerde ekranların etrafında toplanan ve saldırganlara gerçek zamanlı talimatlar veren adamları gösteren videolar yayınladılar.",
-    "u": "https://www.zerohedge.com/geopolitical/boardroom-jihad-iran-linked-operatives-seen-directing-real-time-attacks-us-bases",
-    "ts": 1795479300000,
-    "tags": []
-   },
-   {
-    "t": "Trump Admin Mulls Softening Denuclearization Demand To Secure Meeting With Kim Jong Un",
-    "tt": "Trump Yönetimi, Kim Jong Un ile Görüşmeyi Güvenli Hale Getirmek İçin Nükleer Silahlardan Arındırma Talebini Yumuşatmayı Düşünüyor",
-    "s": "Trump Admin Mulls Softening Denuclearization Demand To Secure Meeting With Kim Jong Un Via The Libertarian Institute The Trump administration is considering dropping its demand that North Korea give up its nuclear weapons from a potential agreement in an effort to secure a meeting with Supreme Leade",
-    "ss": "Trump Yönetimi, Özgürlükçü Enstitü Aracılığıyla Kim Jong Un ile Görüşmeyi Güvenli Hale Getirmek İçin Nükleer Silahlardan Arındırma Talebini Yumuşatmayı Düşünüyor Trump yönetimi, Yüce Lider ile bir toplantıyı güvence altına almak amacıyla, Kuzey Kore'nin potansiyel bir anlaşmadan nükleer silahlarından vazgeçmesi yönündeki talebini geri çekmeyi düşünüyor",
-    "u": "https://www.zerohedge.com/geopolitical/trump-admin-mulls-softening-denuclearization-demand-secure-meeting-kim-jong-un",
-    "ts": 1795477200000,
-    "tags": []
-   },
-   {
-    "t": "Court Rules Democrats' Proxy Voting Unconstitutional, Putting Other Biden-Era Laws In Question",
-    "tt": "Mahkeme, Demokratların Vekilinin Oy Vermesinin Anayasaya Aykırı Olduğuna Karar Vererek Diğer Biden Dönemi Yasalarını Tartışmaya Açtı",
-    "s": "Court Rules Democrats' Proxy Voting Unconstitutional, Putting Other Biden-Era Laws In Question A federal appeals court ruled Friday that the House violated the Constitution when it relied on pandemic-era proxy voting to pass former President Joe Biden's $1.7 trillion spending package almost four yea",
-    "ss": "Mahkeme Demokratların Vekalet Oylamalarının Anayasaya Aykırı Olduğuna Karar Vererek Diğer Biden Dönemi Yasalarını Tartışmaya Açtı Federal temyiz mahkemesi Cuma günü, Temsilciler Meclisi'nin eski Başkan Joe Biden'ın neredeyse dört yıl süren 1,7 trilyon dolarlık harcama paketini geçirmek için pandemi dönemindeki vekalet oylamasına güvenerek Anayasayı ihlal ettiğine karar verdi",
-    "u": "https://www.zerohedge.com/political/court-rules-democrats-proxy-voting-unconstitutional-putting-other-biden-era-laws-question",
-    "ts": 1795476000000,
     "tags": []
    }
   ],
