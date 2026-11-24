@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T10:46:52.631880+00:00",
+ "generated": "2026-11-24T11:46:13.993506+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 27.91,
-   "c": 4.85,
-   "d": 1.29,
+   "p": 28.81,
+   "c": 8.23,
+   "d": 2.19,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3623.8,
-   "c": -0.76,
-   "d": -27.6,
+   "p": 3630.0,
+   "c": -0.59,
+   "d": -21.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.88,
-   "c": -2.94,
-   "d": -1.267,
+   "p": 42.06,
+   "c": -2.52,
+   "d": -1.087,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 80.05,
-   "c": -0.15,
-   "d": -0.12,
+   "p": 80.19,
+   "c": 0.02,
+   "d": 0.02,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 86.67,
-   "c": -3.02,
-   "d": -2.7,
+   "p": 87.1,
+   "c": -2.54,
+   "d": -2.27,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 104.193,
-   "c": -0.12,
-   "d": -0.127,
+   "p": 104.025,
+   "c": -0.28,
+   "d": -0.295,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.622,
+   "p": 50.6235,
    "c": 0.09,
-   "d": 0.046,
+   "d": 0.047,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 11054.67,
-   "c": -0.45,
-   "d": -49.73,
+   "p": 10971.95,
+   "c": -1.19,
+   "d": -132.45,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 59655,
-   "c": -2.64,
+   "p": 59925,
+   "c": -2.49,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1680.86,
-   "c": -2.3,
+   "p": 1693.45,
+   "c": -1.88,
    "k": "usd"
   },
   {
    "n": "SOL",
    "p": 70.44,
-   "c": -2.47,
+   "c": -3.14,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.928543,
-   "c": -1.16,
+   "p": 0.929647,
+   "c": -1.2,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 545.27,
-   "c": -1.85,
+   "p": 547.83,
+   "c": -1.58,
    "k": "usd"
   }
  ],
@@ -366,41 +366,74 @@
    {
     "t": "Stocks Turn Lower as Nvidia Euphoria Wears Off: Markets Wrap",
     "tt": "Nvidia Euphoria'nın Etkisi Geçtikçe Hisse Senetleri Düşüyor: Piyasalar Sarılıyor",
-    "s": "The extraordinary rally in stocks that followed Jensen Huang’s return to Nvidia Corp. is giving way to caution as traders wait for further evidence that the artificial intelligence trade can build on its rebound.",
+    "s": "The extraordinary rally in stocks that followed Jensen Huang’s return to Nvidia Corp. is fading as skepticism returns over whether the artificial intelligence trade can mount a sustainable rebound.",
     "ss": "Jensen Huang'ın Nvidia Corp.'a dönüşünün ardından hisse senetlerinde yaşanan olağanüstü yükseliş, yatırımcıların yapay zeka ticaretinin toparlanmayı sürdürebileceğine dair daha fazla kanıt beklemesiyle yerini temkinli olmaya bırakıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
     "ts": 1795471606000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "Compass Plans New York Main Listing, Adding to London Exodus",
+    "tt": "Compass, London Exodus'a Eklenerek New York Ana Listesini Planlıyor",
+    "s": "British catering firm Compass Group Plc plans to move its primary listing from London to New York, adding to the struggles of the UK stock market.",
+    "ss": "İngiliz catering şirketi Compass Group Plc, ana listelemesini Londra'dan New York'a taşımayı planlıyor ve bu da İngiltere borsasındaki zorluklara katkıda bulunuyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/compass-plans-to-move-main-listing-to-new-york-in-blow-to-london",
+    "ts": 1795504319000,
     "tags": []
    },
    {
-    "t": "Colleges Rejecting Fossil Fuel Divestment Enjoy a Rich Payoff",
-    "tt": "Fosil Yakıt Yatırımlarını Reddeden Üniversiteler Zengin Bir Kazanç Sağlıyor",
-    "s": "For years, campus and environmental activists concerned about climate change have pressured colleges to divest from fossil fuel companies. But those that hung tight are now glad they did. Bloomberg’s Janet Lorin explains. (Source: Bloomberg)",
-    "ss": "İklim değişikliğinden endişe duyan kampüs ve çevre aktivistleri yıllardır üniversitelere fosil yakıt şirketlerinden ayrılmaları yönünde baskı yapıyordu. Ama sıkı sıkıya bağlı olanlar artık yaptıklarından memnunlar. Bloomberg'den Janet Lorin açıklıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-24/colleges-rejecting-fossil-fuel-divestment-enjoy-a-rich-payoff",
-    "ts": 1795516233000,
+    "t": "China Probes Politburo Member and Shanghai Chief Chen Jining",
+    "tt": "Çin, Politbüro Üyesi ve Şangay Şefi Chen Jining'i Soruşturuyor",
+    "s": "China has placed Shanghai Communist Party chief Chen Jining, a member of the country’s elite Politburo, under investigation for suspected serious violations of discipline and law.",
+    "ss": "Çin, ülkenin seçkin Politbüro üyesi Şangay Komünist Partisi şefi Chen Jining'i ciddi disiplin ve hukuk ihlalleri şüphesiyle soruşturma altına aldı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining",
+    "ts": 1795520168000,
     "tags": []
    },
    {
-    "t": "Pimco’s Ivascyn Says AI Disruption Risk Boosts Appeal of Bonds",
-    "tt": "Pimco'dan Ivascyn, Yapay Zekanın Bozulması Riskinin Tahvillerin Çekiciliğini Artırdığını Söyledi",
-    "s": "The artificial intelligence boom is making the US economy more prone to disruption and market volatility, strengthening the case for Treasuries and other high-quality bonds, according to Pacific Investment Management Co.’s chief investment officer.",
-    "ss": "Pacific Investment Management Co.'nun yatırım sorumlusuna göre, yapay zeka patlaması ABD ekonomisini aksaklığa ve piyasa dalgalanmalarına daha yatkın hale getirerek Hazine tahvilleri ve diğer yüksek kaliteli tahvillerin durumunu güçlendiriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
-    "ts": 1795516200000,
+    "t": "Huang’s Return Hits the Reset Button for AI Bets",
+    "tt": "Huang'ın Dönüşü AI Bahisleri için Sıfırlama Düğmesine Basıyor",
+    "s": "Jensen Huang is back at the center of the AI trade.",
+    "ss": "Jensen Huang yapay zeka ticaretinin merkezine geri döndü.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-24/huang-s-return-hits-the-reset-button-for-ai-bets",
+    "ts": 1795520013000,
     "tags": []
    },
    {
-    "t": "Xi Delays US Chip Retaliation After Trump Seals Nvidia U-Turn",
-    "tt": "Çin, Ateşkesi Sürdürmek İçin ABD Maden Yasağını Durdurmayı Uzattı",
-    "s": "China extended the suspension of a ban on exports of several critical minerals to the US, holding back a potential response to Washington’s latest chip curbs hours after President Donald Trump helped restore Jensen Huang to the helm of Nvidia Corp.",
-    "ss": "Çin, teknolojiye ilişkin artan gerilimlere rağmen kırılgan ticaret ateşkesinin temel unsurunu koruyarak, birçok kritik madenin ABD'ye ihracatına yönelik yasağın askıya alınmasını uzattı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
-    "ts": 1795510594000,
+    "t": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman",
+    "tt": "RBC'den Wu Silverman, Nvidia Pazarında Kırılmanın Bitmekten Uzak Olduğunu Söyledi",
+    "s": "Amy Wu Silverman, head of derivatives strategy at RBC Capital Markets, sees the VIX as “still pretty inflated” following the surge in Nvidia shares with the return of Jensen Huang as CEO. She speaks on “Bloomberg Brief.” (Source: Bloomberg)",
+    "ss": "RBC Capital Markets türev stratejisi başkanı Amy Wu Silverman, Jensen Huang'ın CEO olarak geri dönmesiyle Nvidia hisselerindeki yükselişin ardından VIX'in \"hala oldukça şişkin\" olduğunu düşünüyor. “Bloomberg Özeti”nde konuşuyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
+    "ts": 1795519217000,
     "tags": []
    },
    {
-    "t": "LME to List Major New Aluminum Brand as Historic Squeeze Deepens",
+    "t": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "tt": "Antropik Piyasa Öncesi Ticarette Halka Arz Fiyatı 83 Doların Altında",
+    "s": "Anthropic PBC shares traded below the $83 IPO price in premarket trading, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut.",
+    "ss": "Antropik PBC hisseleri, piyasa öncesi ticarette 83 dolarlık halka arz fiyatının altında işlem gördü ve yapay zeka laboratuvarının rekor kıran ilk çıkışına yığılan yatırımcıların kazançlarını sildi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "ts": 1795519164000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 24",
+    "tt": "24 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil swung between losses and gains as traders assessed whether the latest diplomatic efforts to resolve the US-Iran war would consolidate a recovery in crude supply.",
+    "ss": "Yatırımcıların ABD-İran savaşını çözmeye yönelik son diplomatik çabaların ham petrol arzındaki toparlanmayı pekiştirip pekiştirmeyeceğini değerlendirmesiyle birlikte petrol, kayıp ve kazançlar arasında dalgalandı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+    "ts": 1795475052000,
+    "tags": [
+     "BTC ▲",
+     "Altcoin ▲"
+    ]
+   },
+   {
+    "t": "LME to List New Aluminum Brand as Historic Squeeze Deepens",
     "tt": "LME, Tarihi Sıkışmanın Derinleşmesiyle Büyük Yeni Alüminyum Markasını Listeleyecek",
     "s": "The London Metal Exchange is preparing to authorize deliveries of aluminum from a major new smelter in Indonesia into its warehousing network, offering potential supply relief as a historic squeeze roils the global market.",
     "ss": "Londra Metal Borsası, Endonezya'daki yeni ve büyük bir izabe tesisinden kendi depolama ağına alüminyum teslimatına izin vermeye hazırlanıyor ve bu, tarihi bir daralmanın küresel piyasayı sarstığı bir dönemde potansiyel arz rahatlaması sunuyor.",
@@ -409,48 +442,21 @@
     "tags": []
    },
    {
-    "t": "Temasek-Backed M1, Starhub Merge in Singapore Telco Shakeup",
-    "tt": "Temasek Destekli M1 ve Starhub, Singapur Telco Shakeup'ta Birleşiyor",
-    "s": "Asset manager Keppel Ltd. agreed to combine M1 Ltd. with Starhub Ltd. in an all-share deal, bringing together two major Singaporean telecommunications operators backed by state investor Temasek Holdings Pte.",
-    "ss": "Varlık yöneticisi Keppel Ltd., M1 Ltd.'yi Starhub Ltd. ile tamamı hisseli bir anlaşmayla birleştirmeyi kabul ederek, devlet yatırımcısı Temasek Holdings Pte. tarafından desteklenen iki büyük Singapurlu telekomünikasyon operatörünü bir araya getirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
-    "ts": 1795482447000,
+    "t": "Forced Buying Aided Biggest Rally Since April 2025, Nomura Says",
+    "tt": "Nomura, Zorunlu Satın Almaların Nisan 2025'ten Bu Yana En Büyük Yükselişe Destek Olduğunu Söyledi",
+    "s": "Wall Street roared back with its biggest rally since April 2025 on Monday, though analysis of the move suggests mechanical buying helped add momentum to the advance.",
+    "ss": "Wall Street Pazartesi günü Nisan 2025'ten bu yana en büyük yükselişini gerçekleştirerek toparlandı, ancak hareketin analizi mekanik satın almanın yükselişe ivme kazandırdığını gösteriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/forced-buying-aided-biggest-rally-since-april-2025-nomura-says",
+    "ts": 1795518160000,
     "tags": []
    },
    {
-    "t": "Hong Kong Hedge Fund Tax Breaks Offer Win for Pod Shop Stars",
-    "tt": "Hong Kong Hedge Fonu Vergi Muafiyetleri Pod Shop Yıldızlarına Kazanma Teklifi Sunuyor",
-    "s": "Hong Kong plans to link part of its sweeping hedge fund tax breaks to the performance of individual portfolios rather than the overall returns of funds, boosting the city’s appeal to profitable managers at pod shops.",
-    "ss": "Hong Kong, kapsamlı hedge fonu vergi indirimlerinin bir kısmını, fonların genel getirisinden ziyade bireysel portföylerin performansına bağlamayı planlıyor ve bu da şehrin bakla mağazalarındaki kârlı yöneticilere olan çekiciliğini artırıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/hong-kong-s-hedge-fund-tax-breaks-offer-boon-for-pod-shop-stars",
-    "ts": 1795507416000,
-    "tags": []
-   },
-   {
-    "t": "Mercuria Hires Alex Humphries as Global Head of Fuel Oil Trading Ahead of Eni JV",
-    "tt": "Mercuria, Eni JV'nin Öncesi Akaryakıt Ticareti Küresel Başkanı olarak Alex Humphries'i İşe Aldı",
-    "s": "Mercuria Energy Group Ltd. hired Alex Humphries from BP Plc as head of fuel oil trading, adding to the list of senior appointments ahead of the firm’s trading venture with Eni SpA.",
-    "ss": "Mercuria Energy Group Ltd., akaryakıt ticareti sorumlusu olarak BP Plc'den Alex Humphries'i işe alarak, firmanın Eni SpA ile olan ticaret girişimi öncesinde üst düzey atamalar listesine eklendi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/mercuria-hires-alex-humphries-as-global-head-of-fuel-oil-trading-ahead-of-eni-jv",
-    "ts": 1795513993000,
-    "tags": []
-   },
-   {
-    "t": "Woolworths Investors Reject Pay Report in Shareholder Rebuke",
-    "tt": "Woolworths Yatırımcıları Hissedarların Azarlamasında Ücret Raporunu Reddetti",
-    "s": "Shareholders in Woolworths Holdings Ltd. overwhelmingly rejected the South African retailer’s remuneration report, delivering a sharp rebuke over executive pay as new rules give investors greater say over compensation.",
-    "ss": "Woolworths Holdings Ltd.'nin hissedarları, Güney Afrikalı perakendecinin ücret raporunu ezici bir çoğunlukla reddetti ve yeni kuralların yatırımcılara tazminat konusunda daha fazla söz hakkı vermesi nedeniyle yönetici maaşları konusunda sert bir kınamada bulundu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/woolworths-investors-reject-pay-report-in-shareholder-rebuke",
-    "ts": 1795448738000,
-    "tags": []
-   },
-   {
-    "t": "MSCI Says No Change in Indonesia Market Consultation Process",
-    "tt": "MSCI, Endonezya Piyasası İstişare Sürecinde Değişiklik Olmadığını Açıkladı",
-    "s": "MSCI Inc. said its consultation process and proposal to lower Indonesia’s stock-market status remain unchanged, after Bloomberg News reported that the index compiler’s chief had expressed willingness to avoid a two-step downgrade in talks with President Prabowo Subianto.",
-    "ss": "MSCI Inc., Bloomberg News'in endeks derleyici şefinin Başkan Prabowo Subianto ile yaptığı görüşmelerde iki adımlı not indiriminden kaçınmaya istekli olduğunu ifade etmesinin ardından, Endonezya'nın borsa statüsünün düşürülmesine yönelik istişare süreci ve teklifinin değişmediğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/msci-says-no-change-in-indonesia-market-consultation-process",
-    "ts": 1795493628000,
+    "t": "Treasuries Advance as Cheaper Oil Eases Inflation Concerns",
+    "tt": "Ucuz Petrolün Enflasyon Endişelerini Azaltmasıyla Hazine Tahvilleri Yükseliyor",
+    "s": "US Treasuries gained across the curve as a drop in oil prices eased concerns about inflation, with a decline in stocks increasing demand for the safety of bonds.",
+    "ss": "ABD Hazine tahvilleri, petrol fiyatlarındaki düşüşün enflasyona ilişkin endişeleri hafifletmesi ve hisse senetlerindeki düşüşün tahvillerin güvenliğine yönelik talebi artırmasıyla yükselişe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+    "ts": 1795495353000,
     "tags": []
    }
   ],
@@ -554,6 +560,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
+    "tt": "Stratejist, perakende yatırımcıların 'destansı' satın almalarının Nvidia'nın yüzde 31'lik hisse artışından sonra meyvesini verdiğini söylüyor",
+    "s": "Retail investors who bought shares in the chip giant last week saw an average gain of 11% on Monday.",
+    "ss": "Geçen hafta çip devinden hisse satın alan perakende yatırımcılar Pazartesi günü ortalama %11'lik bir kazanç elde etti.",
+    "u": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
+    "ts": 1795520340000,
+    "tags": []
+   },
+   {
+    "t": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+    "tt": "66 yaşındaki hemşire, biriktirdiği sadece 500 dolarla emeklilikle karşı karşıya. Kim suçlanacak?",
+    "s": "“Retirement is a financial status, not an age.”",
+    "ss": "“Emeklilik bir yaş değil, mali durumdur.”",
+    "u": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+    "ts": 1795518900000,
+    "tags": []
+   },
+   {
     "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
     "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
     "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
@@ -598,7 +622,7 @@
    {
     "t": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
     "tt": "Yaklaşık üç yılın en büyük biyoteknoloji anlaşması 41 milyar dolarlık ağır bir fiyat etiketi taşıyor",
-    "s": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharma giant offset the patent expiration on a key drug.",
+    "s": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
     "ss": "Fransız ilaç üreticisi Sanofi Salı günü ABD'li biyoteknolojik Insmed için 41 milyar dolar ödemeyi kabul etti; bu, ilaç devinin önemli bir ilacın patent süresinin dolmasını dengelemesine yardımcı olacak yüklü bir bedel.",
     "u": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
     "ts": 1795511640000,
@@ -630,27 +654,32 @@
     "u": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
     "ts": 1795475880000,
     "tags": []
-   },
-   {
-    "t": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-    "tt": "Nvidia’nın hisseleri yeniden yükselişte. AI rallisini kovalamadan önce bilmeniz gerekenler.",
-    "s": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
-    "ss": "Jensen Huang'ın Nvidia'ya dönüşü yapay zeka ticaretinin ihtiyaç duyduğu iyi haberdi ancak yatırımcılar daha fazla oynaklığa hazırlıklı olmalı",
-    "u": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-    "ts": 1795471440000,
-    "tags": []
-   },
-   {
-    "t": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-    "tt": "Jensen Huang'ın geri dönüşünün yapay zeka coşkusunu canlandırmasıyla ABD hisse senetleri bir yıldan fazla bir sürenin en iyi gününü görüyor",
-    "s": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
-    "ss": "Jensen Huang'ın Nvidia'nın CEO'su olarak geri dönüşü, yapay zeka ticaretine olan inancın yeniden kazanılmasına yardımcı olarak Pazartesi günü ABD borsasında büyük bir sıçramaya neden oldu.",
-    "u": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-    "ts": 1795470660000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Court Rules Democrats' Proxy Voting Unconstitutional, Putting Other Biden-Era Laws In Question",
+    "tt": "Mahkeme, Demokratların Vekilinin Oy Vermesinin Anayasaya Aykırı Olduğuna Karar Vererek Diğer Biden Dönemi Yasalarını Tartışmaya Açtı",
+    "s": "Court Rules Democrats' Proxy Voting Unconstitutional, Putting Other Biden-Era Laws In Question A federal appeals court ruled Friday that the House violated the Constitution when it relied on pandemic-era proxy voting to pass former President Joe Biden's $1.7 trillion spending package almost four yea",
+    "ss": "Mahkeme Demokratların Vekalet Oylamalarının Anayasaya Aykırı Olduğuna Karar Vererek Diğer Biden Dönemi Yasalarını Tartışmaya Açtı Federal temyiz mahkemesi Cuma günü, Temsilciler Meclisi'nin eski Başkan Joe Biden'ın neredeyse dört yıl süren 1,7 trilyon dolarlık harcama paketini geçirmek için pandemi dönemindeki vekalet oylamasına güvenerek Anayasayı ihlal ettiğine karar verdi",
+    "u": "https://www.zerohedge.com/political/court-rules-democrats-proxy-voting-unconstitutional-putting-other-biden-era-laws-question",
+    "ts": 1795519200000,
+    "tags": []
+   },
+   {
+    "t": "Libya's Oil Output Plunges As Armed Groups Shut Key Pipelines",
+    "tt": "Silahlı Grupların Önemli Boru Hatlarını Kapatmasıyla Libya'nın Petrol Üretimi Düştü",
+    "s": "Libya's Oil Output Plunges As Armed Groups Shut Key Pipelines Authored by Tsvetana Paraskova via OilPrice.com , Libya's oil production has crashed by about 350,000 barrels per day (bpd) after an outlaw group closed a valve on the pipeline transporting crude oil from Sharara, the country's biggest oi",
+    "ss": "Libya'nın Petrol Üretimi, Silahlı Grupların Temel Boru Hatlarını Kapatmasıyla Düşüyor Tsvetana Paraskova tarafından OilPrice.com aracılığıyla, Libya'nın petrol üretimi, kanun kaçağı bir grubun ülkenin en büyük petrol limanı Sharara'dan ham petrol taşıyan boru hattındaki vanayı kapatmasının ardından günde yaklaşık 350.000 varil (bpd) düştü.",
+    "u": "https://www.zerohedge.com/energy/libyas-oil-output-plunges-armed-groups-shut-key-pipelines",
+    "ts": 1795518000000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
    {
     "t": "Europe Pours Billions Into Bunkers As Most People Don't Know Where To Hide",
     "tt": "Çoğu İnsan Nereye Saklanacağını Bilmediği İçin Avrupa Milyarları Sığınaklara Akıtıyor",
@@ -722,27 +751,36 @@
     "u": "https://www.zerohedge.com/geopolitical/korybko-does-putin-really-have-poland-his-sights",
     "ts": 1795499400000,
     "tags": []
-   },
-   {
-    "t": "Trump's State Department Lines Up $1 Million To Document Violence Against Afrikaners",
-    "tt": "Trump Dışişleri Bakanlığı Afrikalılara Yönelik Şiddeti Belgelemek İçin 1 Milyon Dolar Kaynak Ayırdı",
-    "s": "Trump's State Department Lines Up $1 Million To Document Violence Against Afrikaners The State Department is preparing to hand nearly $1 million to AfriForum, the Afrikaner civil rights group that has spent years cataloguing South Africa's farm attacks , to build what the department's funding notice",
-    "ss": "Trump'ın Dışişleri Bakanlığı, Afrikanerlilere Yönelik Şiddeti Belgelemek İçin 1 Milyon Dolar Kaynak Ayırdı Dışişleri Bakanlığı, bakanlığın fon duyurusunu oluşturmak için yıllarca Güney Afrika'daki çiftlik saldırılarını kataloglayan Afrikaner sivil haklar grubu AfriForum'a yaklaşık 1 milyon dolar bağışlamaya hazırlanıyor",
-    "u": "https://www.zerohedge.com/geopolitical/trumps-state-department-lines-1-million-document-violence-against-afrikaners",
-    "ts": 1795497300000,
-    "tags": []
-   },
-   {
-    "t": "Saudi Arabia Turns To South Korea, Ukraine To Bolster Air Defenses",
-    "tt": "Suudi Arabistan Hava Savunmasını Güçlendirmek İçin Güney Kore ve Ukrayna'ya Dönüyor",
-    "s": "Saudi Arabia Turns To South Korea, Ukraine To Bolster Air Defenses Via The Cradle Amid difficulty in defending its territory during wars with Iran and Yemen, Saudi Arabia is seeking to bolster its US-made air defenses by partnering with additional countries and producing missile interceptors and dro",
-    "ss": "Suudi Arabistan, Hava Savunmasını Beşik Aracılığıyla Desteklemek İçin Güney Kore ve Ukrayna'ya Dönüyor İran ve Yemen'le yapılan savaşlar sırasında topraklarını savunmanın zor olduğu bir dönemde Suudi Arabistan, başka ülkelerle ortaklık kurarak ve füze önleyici ve insansız hava araçları üreterek ABD yapımı hava savunmasını güçlendirmenin yollarını arıyor.",
-    "u": "https://www.zerohedge.com/geopolitical/saudi-arabia-turns-south-korea-ukraine-bolster-air-defenses",
-    "ts": 1795495800000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Anthropic hisseleri, halka arz fiyatının altına düştü",
+    "tt": null,
+    "s": "Anthropic hisseleri, piyasa açılış öncesi işlemlerde 83 dolarlık halka arz fiyatının altına geriledi. Böylelikle şirketin rekor kıran halka arzına akın eden yatırımcıların kazançları silindi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/anthropic-hisseleri-halka-arz-fiyatinin-altina-dustu-3795548",
+    "ts": 1795520043000,
+    "tags": []
+   },
+   {
+    "t": "Boeing, Çin'den 2017'den beri en büyük siparişini aldı",
+    "tt": null,
+    "s": "Boeing, China Southern Airlines Co.'nun bir birimi olan Xiamen Airlines'tan 50 adet tek koridorlu uçak için 7,4 milyar dolarlık bir sipariş aldı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/boeing-cinden-2017den-beri-en-buyuk-siparisini-aldi-3795546",
+    "ts": 1795519578000,
+    "tags": []
+   },
+   {
+    "t": "Pegasus CEO'su Öztürk: 2026 havacılığın 'mücadele yılı' oldu",
+    "tt": null,
+    "s": "Pegasus Hava Yolları CEO'su Güliz Öztürk 2026'da havacılığın savaşlar ve yüksek yakıt fiyatları nedeniyle 'mücadele yılı' olarak geçtiğini söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/2026-havaciligin-mucadele-yili-oldu-3795544",
+    "ts": 1795517997000,
+    "tags": []
+   },
    {
     "t": "Fatma Betül Sayan Kaya'ya ev hapsi şartıyla tahliye",
     "tt": null,
@@ -804,33 +842,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/tcmb-kredi-karti-faizlerinde-kullanilan-referans-orani-dusurdu-3795528",
     "ts": 1795508881000,
-    "tags": []
-   },
-   {
-    "t": "JPMorgan ve HSBC, Londra'da ilk kez dijital altın işlemi yaptı",
-    "tt": null,
-    "s": "JPMorgan ve diğer büyük değerli metal tüccarları, Londra'da ilk kez yeni dijital altın türüyle işlem gerçekleştirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/jpmorgan-ve-hsbc-londrada-ilk-kez-dijital-altin-islemi-yapti-3795527",
-    "ts": 1795508830000,
-    "tags": []
-   },
-   {
-    "t": "Fas'tan şeker ithalatını azaltma planı",
-    "tt": null,
-    "s": "Fas, 2026/27 sezonunda şeker pancarı ve şeker kamışı ekim alanlarını yüzde 40 artırarak 63 bin hektara çıkarmayı planlıyor. Üreticilerin borçlarının yeniden yapılandırılması ve ödemelerin bir yıl ertelenmesi de gündemde.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fastan-seker-ithalatini-azaltma-plani-3795526",
-    "ts": 1795506134000,
-    "tags": []
-   },
-   {
-    "t": "Ukrayna tarımında iflas riski büyüyor",
-    "tt": null,
-    "s": "Karadeniz'de artan saldırılar, ihraç edilemeyen tahıl stokları ve krediye erişimdeki daralma Ukraynalı çiftçileri zorluyor. Nibulon CEO'su Andriy Vadaturskyy, ilk iflas vakalarının ilkbaharda görülebileceğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/ukrayna-tariminda-iflas-riski-buyuyor-3795525",
-    "ts": 1795505573000,
     "tags": []
    }
   ]
