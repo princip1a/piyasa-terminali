@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T00:25:48.975286+00:00",
+ "generated": "2026-11-24T01:53:31.303388+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3635.5,
-   "c": 3.42,
-   "d": 120.1,
+   "p": 3673.3,
+   "c": 4.49,
+   "d": 157.9,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 43.205,
-   "c": 5.29,
-   "d": 2.17,
+   "p": 43.495,
+   "c": 5.99,
+   "d": 2.46,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 80.4,
-   "c": -4.26,
-   "d": -3.58,
+   "p": 79.84,
+   "c": -4.93,
+   "d": -4.14,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 86.88,
-   "c": -6.15,
-   "d": -5.69,
+   "p": 86.31,
+   "c": -6.76,
+   "d": -6.26,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 104.317,
-   "c": 0.49,
-   "d": 0.507,
+   "p": 104.222,
+   "c": 0.4,
+   "d": 0.412,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6017,
-   "c": 0.05,
-   "d": 0.026,
+   "p": 50.6119,
+   "c": 0.07,
+   "d": 0.036,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 61255,
-   "c": 0.17,
+   "p": 61082,
+   "c": 0.47,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1708.5,
-   "c": -0.67,
+   "p": 1704.18,
+   "c": -0.31,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.99,
-   "c": 2.01,
+   "p": 71.92,
+   "c": 2.21,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.942242,
-   "c": 1.85,
+   "p": 0.947157,
+   "c": 3.28,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 557.27,
-   "c": -0.31,
+   "p": 557.83,
+   "c": 0.31,
    "k": "usd"
   }
  ],
@@ -364,12 +364,77 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asian Stocks Rally as Huang’s Return Revives AI: Markets Wrap",
+    "t": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
     "tt": "Huang'ın Dönüşü Yapay Zekayı Canlandırırken Asya Hisse Senetleri Yükselecek: Piyasalar Tamamlandı",
-    "s": "Asian shares climbed as a wave of optimism sparked by Jensen Huang’s return to lead Nvidia Corp. fueled a rally in global equities and propelled Wall Street to its best day since April 2025.",
+    "s": "Asian shares rallied as Jensen Huang’s return to lead Nvidia Corp. revived enthusiasm for the artificial intelligence trade, helping the region’s major chipmakers rebound from last week’s rout.",
     "ss": "Asya hisse senetleri, Jensen Huang'ın Nvidia Corp.'a liderlik etmesiyle ateşlenen bir iyimserlik dalgasına hazır görünüyordu; bu, Wall Street'i Nisan 2025'ten bu yana en iyi gününe taşıyan çarpıcı bir gelişmeydi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
     "ts": 1795471606000,
+    "tags": []
+   },
+   {
+    "t": "Copper Smelters Face Worsening Squeeze As Negotiations Stall",
+    "tt": "Bakır İzabe Tesisleri, Müzakerelerin Durması Nedeniyle Kötüleşen Sıkışmayla Karşı Karşıya",
+    "s": "Copper smelters are bracing for a period of extreme financial pressure as closely-watched negotiations over supply contracts for next year go down to the wire.",
+    "ss": "Bakır izabe tesisleri, gelecek yıla ait tedarik sözleşmeleri üzerinde yakından izlenen müzakerelerin sona ermesiyle birlikte, aşırı mali baskının olduğu bir döneme hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall",
+    "ts": 1795483781000,
+    "tags": []
+   },
+   {
+    "t": "Margin Calls Rose in Taiwan Before Huang Return Fueled Rally",
+    "tt": "Yatırımcıların Yapay Zeka Bahislerinden Kaçmasıyla Tayvan'da Marj Çağrıları 200 Kat Arttı",
+    "s": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.",
+    "ss": "Tayvan'da bir borsacı olan Julia Lee, geçen hafta marj çağrısı yapmak için o kadar çok zaman harcadı ki, insani bir dokunuş eklemeye karar verdi. Acı çeken tüccarlara, fırtınadan kurtulmalarına yardımcı olmak için orada olduğunu söyleyen empatik mesajlar gönderdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
+    "ts": 1795428688000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 24",
+    "tt": "24 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil steadied after sliding more than 3% in the previous session on cautious optimism over efforts to end the US-Iran war.",
+    "ss": "Petrol fiyatları, ABD-İran savaşını sona erdirme çabalarına ilişkin temkinli iyimserliğin etkisiyle önceki seansta neredeyse %4 oranında kayıp yaşadıktan sonra yatay seyretti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
+    "ts": 1795475052000,
+    "tags": []
+   },
+   {
+    "t": "Gold Extends Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+    "tt": "Altın, Nvidia'nın Huang Sparks Rally'yi Yeniden İşe Almasının Ardından Kazanmayı Tuttu",
+    "s": "Gold rose for a second day, after Jensen Huang’s surprise return to the helm of Nvidia Corp. recharged bets on artificial intelligence and spurred rallies across markets.",
+    "ss": "Altın Pazartesi günü yükselişin ardından istikrarını korudu; Jensen Huang'ın Nvidia Corp.'un başına sürpriz dönüşü, yapay zeka konusundaki bahisleri yeniden canlandırdı ve piyasalarda yükselişleri tetikledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+    "ts": 1795478817000,
+    "tags": [
+     "Altın ▲"
+    ]
+   },
+   {
+    "t": "Malaysia Index Rejig Puts Tech, Power Stocks in Focus for 2027",
+    "tt": "Malezya Endeksi Rejig, 2027 Yılında Teknoloji ve Enerji Stoklarını Odaklıyor",
+    "s": "Malaysia is gearing up for the first major overhaul of its equity benchmark in 17 years, a shake-up that may channel more investor money into technology and energy companies just as traders rethink the profitability of the AI trade.",
+    "ss": "Malezya, 17 yıldır özsermaye ölçütünde ilk büyük revizyona hazırlanıyor; bu, yatırımcıların yapay zeka ticaretinin kârlılığını yeniden düşünmesi gibi, teknoloji ve enerji şirketlerine daha fazla yatırımcı parası aktarabilecek bir sarsıntı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-index-rejig-puts-tech-power-stocks-in-focus-for-2027",
+    "ts": 1795482757000,
+    "tags": []
+   },
+   {
+    "t": "AI Trade Resurgence Drives 9% Rally in Taiwanese Stock Index",
+    "tt": "Huang'ın Geri Dönüşü Yapay Zeka Ticaretini Yeniden Ateşlerken Asya Chip Hisseleri Yükseliyor",
+    "s": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade.",
+    "ss": "Asya'daki yarı iletkenlerle ilgili hisseler, Nvidia Corp.'un yönetim kurulunun Jensen Huang'ı yeniden göreve getirmesinin ardından tırmandı ve yatırımcıların yapay zeka ticaretine olan iştahını yeniden canlandırdı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+    "ts": 1795477520000,
+    "tags": []
+   },
+   {
+    "t": "Keppel Agrees to Merge M1 and Starhub in All-Share Deal",
+    "tt": "Keppel, M1 ve Starhub'ı Tamamen Hisse Anlaşmasıyla Birleştirmeyi Kabul Ediyor",
+    "s": "Keppel Ltd. agreed to combine M1 with Starhub Ltd. in an all-share deal, bringing together two of Singapore’s major telecommunications operators.",
+    "ss": "Keppel Ltd., M1'i Starhub Ltd. ile tamamı hisseli bir anlaşmayla birleştirmeyi kabul ederek Singapur'un iki büyük telekomünikasyon operatörünü bir araya getirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
+    "ts": 1795482447000,
     "tags": []
    },
    {
@@ -388,71 +453,6 @@
     "ss": "ABD'li bir senatör, Başkan Yardımcısı JD Vance'in, Venezuela'daki kârlı bir petrol ihalesinin siyasi bir bağışçıya ve o dönemde emtia tüccarı Vitol Group'ta yönetici olarak görev yapan birine verilmesinde oynadığı rolü araştırıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/us-senate-probes-vance-role-in-vitol-choice-for-venezuela-oil",
     "ts": 1795479111000,
-    "tags": []
-   },
-   {
-    "t": "Asian Chip Stocks Jump as Huang Comeback Reignites AI Trade",
-    "tt": "Huang'ın Geri Dönüşü Yapay Zeka Ticaretini Yeniden Ateşlerken Asya Chip Hisseleri Yükseliyor",
-    "s": "Asian semiconductor-related stocks climbed after Nvidia Corp.’s board reinstated Jensen Huang, resuscitating investor appetite for the artificial intelligence trade.",
-    "ss": "Asya'daki yarı iletkenlerle ilgili hisseler, Nvidia Corp.'un yönetim kurulunun Jensen Huang'ı yeniden göreve getirmesinin ardından tırmandı ve yatırımcıların yapay zeka ticaretine olan iştahını yeniden canlandırdı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
-    "ts": 1795477520000,
-    "tags": []
-   },
-   {
-    "t": "Petrobras Makes $470 Million Ethanol Bet in Brazil With Neomille Stake",
-    "tt": "Petrobras, Neomille Hissesi İle Brezilya'da 470 Milyon Dolarlık Etanol İddaasında Bulundu",
-    "s": "Brazil’s state-controlled oil producer Petrobras is buying a stake in corn-ethanol producer Neomille SA as part of a wider expansion into biofuels.",
-    "ss": "Brezilya'nın devlet kontrolündeki petrol üreticisi Petrobras, biyoyakıtlara yönelik daha geniş bir genişlemenin parçası olarak mısır etanol üreticisi Neomille SA'dan hisse satın alıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/petrobras-makes-470-million-ethanol-bet-in-brazil-with-neomille-stake",
-    "ts": 1795478900000,
-    "tags": []
-   },
-   {
-    "t": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
-    "tt": "Altın, Nvidia'nın Huang Sparks Rally'yi Yeniden İşe Almasının Ardından Kazanmayı Tuttu",
-    "s": "Gold steadied after surging Monday, as Jensen Huang’s surprise return to the helm of Nvidia Corp. recharged bets on artificial intelligence and spurred rallies across markets.",
-    "ss": "Altın Pazartesi günü yükselişin ardından istikrarını korudu; Jensen Huang'ın Nvidia Corp.'un başına sürpriz dönüşü, yapay zeka konusundaki bahisleri yeniden canlandırdı ve piyasalarda yükselişleri tetikledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
-    "ts": 1795478817000,
-    "tags": [
-     "Altın ▲"
-    ]
-   },
-   {
-    "t": "Margin Calls Rose 200-Fold in Taiwan as Traders Fled AI Bets",
-    "tt": "Yatırımcıların Yapay Zeka Bahislerinden Kaçmasıyla Tayvan'da Marj Çağrıları 200 Kat Arttı",
-    "s": "Julia Lee, a stockbroker in Taiwan, spent so much time making margin calls last week that she decided to add a human touch. She sent empathetic messages to suffering traders, saying she was there to help them ride out the storm.",
-    "ss": "Tayvan'da bir borsacı olan Julia Lee, geçen hafta marj çağrısı yapmak için o kadar çok zaman harcadı ki, insani bir dokunuş eklemeye karar verdi. Acı çeken tüccarlara, fırtınadan kurtulmalarına yardımcı olmak için orada olduğunu söyleyen empatik mesajlar gönderdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/margin-calls-soared-200-fold-in-taiwan-as-traders-fled-ai-bets",
-    "ts": 1795428688000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 24",
-    "tt": "24 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil steadied after sliding almost 4% in the previous session on cautious optimism over efforts to end the US-Iran war.",
-    "ss": "Petrol fiyatları, ABD-İran savaşını sona erdirme çabalarına ilişkin temkinli iyimserliğin etkisiyle önceki seansta neredeyse %4 oranında kayıp yaşadıktan sonra yatay seyretti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
-    "ts": 1795475052000,
-    "tags": []
-   },
-   {
-    "t": "Why Did Nvidia Reinstate Jensen Huang as CEO?",
-    "tt": "Nvidia neden Jensen Huang'ı CEO olarak yeniden görevlendirdi?",
-    "s": "A White House pressure campaign and a $5 trillion market slide forced Nvidia to reinstate its founder — proving that in the AI race, boardroom discipline is a luxury shareholders can’t afford.",
-    "ss": "Beyaz Saray'ın baskı kampanyası ve 5 trilyon dolarlık piyasa düşüşü, Nvidia'yı kurucusunu yeniden görevlendirmeye zorladı; bu da yapay zeka yarışında yönetim kurulu odası disiplininin hissedarların karşılayamayacağı lüks bir şey olduğunu kanıtladı.",
-    "u": "https://www.bloomberg.com/news/features/2026-11-23/why-did-nvidia-reinstate-jensen-huang-as-ceo",
-    "ts": 1795476008000,
-    "tags": []
-   },
-   {
-    "t": "Startup Options Exchange Asks SEC to Approve Two New Venues",
-    "tt": "Startup Options Exchange, SEC'den İki Yeni Mekanı Onaylamasını İstedi",
-    "s": "Options Xchange Group Inc., a startup bourse focused on equity derivatives, is seeking to start two new venues.",
-    "ss": "Hisse senedi türevlerine odaklanan yeni kurulan bir borsa olan Options Xchange Group Inc., iki yeni platform açmayı planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/startup-options-exchange-asks-sec-to-approve-two-new-venues",
-    "ts": 1795475324000,
     "tags": []
    }
   ],
@@ -556,6 +556,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+    "tt": "58 yıldır evliyim. Bu, 'onun' ve 'onun' değil, 'bizim' paramız. Neden bu kadar çok çift mali durumlarını ayrı tutuyor?",
+    "s": "“My wife stopped working outside the home in 1970.”",
+    "ss": "“Eşim 1970 yılında ev dışında çalışmayı bıraktı.”",
+    "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+    "ts": 1795482060000,
+    "tags": []
+   },
+   {
+    "t": "HPE just posted its strongest growth ever — but its stock is sinking",
+    "tt": "HPE şimdiye kadarki en güçlü büyümesini kaydetti ancak stokları dalgalanıyor",
+    "s": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+    "ss": "HPE, güçlü yapay zeka talebi karşısında Pazartesi günü mali tahminini artırdı.",
+    "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+    "ts": 1795482060000,
+    "tags": []
+   },
+   {
     "t": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
     "tt": "S&P 500'ün en yeni üyesi viral dondurma makineleri üreticisi",
     "s": "SharkNinja will join the S&amp;P 500, replacing AES.",
@@ -610,15 +628,6 @@
     "tags": []
    },
    {
-    "t": "HPE just posted its strongest growth ever — but its stock is wavering",
-    "tt": "HPE şimdiye kadarki en güçlü büyümesini kaydetti ancak stokları dalgalanıyor",
-    "s": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-    "ss": "HPE, güçlü yapay zeka talebi karşısında Pazartesi günü mali tahminini artırdı.",
-    "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-    "ts": 1795469280000,
-    "tags": []
-   },
-   {
     "t": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
     "tt": "Yatırımcılar yapay zekâdan gelen nakit akışının devam edeceğine dair iddiaya girerken Oracle ve CoreWeave hisseleri büyük kazanımlar elde ediyor",
     "s": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
@@ -635,18 +644,36 @@
     "u": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
     "ts": 1795468740000,
     "tags": []
-   },
-   {
-    "t": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-    "tt": "66 yaşındaki hemşire, biriktirdiği sadece 500 dolarla emeklilikle karşı karşıya. Kim suçlanacak?",
-    "s": "“Retirement is a financial status, not an age.”",
-    "ss": "“Emeklilik bir yaş değil, mali durumdur.”",
-    "u": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "ts": 1795468500000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"This Is Not 1990\": Swalwell Ally Jimmy Gomez Quits After Ethics Panel Finds Bar Encounter With Staffer Could Be Sexual Assault",
+    "tt": "\"Bu 1990 Değil\": Swalwell Müttefiki Jimmy Gomez, Etik Panelinin Barda Personelle Karşılaşmanın Cinsel Saldırı Olduğunu Bulmasının Ardından Ayrıldı",
+    "s": "\"This Is Not 1990\": Swalwell Ally Jimmy Gomez Quits After Ethics Panel Finds Bar Encounter With Staffer Could Be Sexual Assault Rep. Jimmy Gomez (D-CA) will resign from Congress effective Dec. 1, he said Monday, the same day the House Ethics Committee released a report finding \"substantial evidence\"",
+    "ss": "\"Bu 1990 Değil\": Swalwell Müttefiki Jimmy Gomez, Etik Panelinin Personelle Barda Karşılaşmanın Cinsel Saldırı Olduğunu Bulmasının Ardından Ayrıldı Temsilci Jimmy Gomez (D-CA), 1 Aralık'tan itibaren Kongre'den istifa edecek, Pazartesi günü, Temsilciler Meclisi Etik Komitesi'nin \"önemli kanıtlar\" bulan bir rapor yayınladığı gün olduğunu söyledi.",
+    "u": "https://www.zerohedge.com/political/not-1990-swalwell-ally-jimmy-gomez-quits-after-ethics-panel-finds-bar-encounter-staffer",
+    "ts": 1795485300000,
+    "tags": []
+   },
+   {
+    "t": "\"Don't Ask About Our Methods\": California's Samurai Eviction Squad Faces A Jury",
+    "tt": "\"Yöntemlerimiz Hakkında Sormayın\": Kaliforniya'nın Samuray Tahliye Ekibi Jüriyle Karşı Karşıya",
+    "s": "\"Don't Ask About Our Methods\": California's Samurai Eviction Squad Faces A Jury James Jacobs, the katana-carrying founder of ASAP Squatter Removal, is headed for a jury trial over a 2 a.m. raid on a San Bruno home - and ten months after his crew broke in, the man they came to throw out is still livi",
+    "ss": "\"Yöntemlerimizi Sormayın\": Kaliforniya'nın Samuray Tahliye Ekibi Jüriyle Karşı Karşıya ASAP Gecekondu Kaldırma'nın katana taşıyan kurucusu James Jacobs, sabah saat 2'de San Bruno'daki bir eve yapılan baskın nedeniyle jüri duruşmasına gidiyor - ve ekibi içeri girdikten on ay sonra, dışarı atmaya geldikleri adam hâlâ hayatta.",
+    "u": "https://www.zerohedge.com/political/dont-ask-about-our-methods-californias-samurai-eviction-squad-faces-jury",
+    "ts": 1795483800000,
+    "tags": []
+   },
+   {
+    "t": "Trump Torts: Will Defamation Law Be One Of Trump's Most Lasting Legacies?",
+    "tt": "Trump Haksız Fiiller: Hakaret Yasası Trump'ın En Kalıcı Miraslarından Biri mi Olacak?",
+    "s": "Trump Torts: Will Defamation Law Be One Of Trump's Most Lasting Legacies? Authored by Jonathan Turley via JonathanTurley.org , Below is my column in The Hill on a couple of wins for President Donald Trump in defamation cases last week. While Trump's legacy in various areas is still emerging, his imp",
+    "ss": "Trump Haksız Fiiller: Hakaret Yasası Trump'ın En Kalıcı Miraslarından Biri mi Olacak? Jonathan Turley tarafından JonathanTurley.org aracılığıyla yazılmıştır. Aşağıda, Başkan Donald Trump'ın geçen hafta hakaret davalarında kazandığı birkaç galibiyetle ilgili The Hill'deki köşe yazım yer alıyor. Trump'ın çeşitli alanlardaki mirası hâlâ ortaya çıkarken, onun imp'i",
+    "u": "https://www.zerohedge.com/political/trump-torts-will-defamation-law-be-one-trumps-most-lasting-legacies",
+    "ts": 1795482300000,
+    "tags": []
+   },
    {
     "t": "Boardroom Jihad: Iran-Linked Operatives Seen Directing Real-Time Attacks On US Bases",
     "tt": "Toplantı Odası Cihadı: İran Bağlantılı Operatörlerin ABD Üslerine Gerçek Zamanlı Saldırıları Yönettiği Görüldü",
@@ -708,33 +735,6 @@
     "ss": "Amerikalılar Hangisinin Affedileceğine Oy Verirken Trump'ın Hindileri Lüks DC Oteline Yerleşiyor Başkan Trump'ın Şükran Günü affına giden iki Batı Virjinya hindisi, Pazar günü kırmızı halıyla Washington'un en büyük otellerinden biri olan Willard InterContinental'e giriş yaptı. Tarım Departmanı",
     "u": "https://www.zerohedge.com/political/trumps-turkeys-check-luxury-dc-hotel-americans-vote-which-one-gets-pardoned",
     "ts": 1795472400000,
-    "tags": []
-   },
-   {
-    "t": "Montana Judge Blocks State's Law Defining Biological Sex",
-    "tt": "Montana Hakimi Eyalet Yasasını Biyolojik Cinsiyeti Tanımlayarak Engelledi",
-    "s": "Montana Judge Blocks State's Law Defining Biological Sex Authored by Savannah Hulsey Pointer via The Epoch Times , Montana has been blocked from enforcing a law that would define sex as based on a person's reproductive system. Missoula County District Court Judge Leslie Halligan granted a preliminar",
-    "ss": "Montana Hakimi Eyalet Yasasını Engelledi Biyolojik Cinsiyeti Tanımlayan Savannah Hulsey Pointer tarafından The Epoch Times aracılığıyla yazılan Montana'nın, cinsiyeti kişinin üreme sistemine dayalı olarak tanımlayacak bir yasayı uygulaması engellendi. Missoula İlçe Bölge Mahkemesi Yargıcı Leslie Halligan bir ön duruşma verdi",
-    "u": "https://www.zerohedge.com/political/montana-judge-blocks-states-law-defining-biological-sex",
-    "ts": 1795471200000,
-    "tags": []
-   },
-   {
-    "t": "Don't Even Boil It: California City Warns Residents Not To Drink Tap Water After Suspicious Tank 'Tampering' Alarm",
-    "tt": "Kaynatmayın Bile: California Şehri, Şüpheli Tank 'Kurcalama' Alarmından Sonra Sakinlerini Musluk Suyu İçmemeleri konusunda Uyardı",
-    "s": "Don't Even Boil It: California City Warns Residents Not To Drink Tap Water After Suspicious Tank 'Tampering' Alarm The City of San Luis Obispo told residents of its Serrano and Patricia neighborhoods early Monday not to drink or cook with their tap water, after an intrusion alarm at a city drinking ",
-    "ss": "Kaynatmayın Bile: Kaliforniya Şehri, Şüpheli Tank 'Kurcalama' Alarmından Sonra Sakinlerini Musluk Suyu İçmemeleri konusunda Uyardı San Luis Obispo Şehri, bir şehir içki içme yerinde izinsiz giriş alarmı sonrasında Pazartesi günü erken saatlerde Serrano ve Patricia mahallelerinin sakinlerine musluk suyunu içmemeleri veya onunla yemek pişirmemeleri gerektiğini söyledi",
-    "u": "https://www.zerohedge.com/medical/dont-even-boil-it-california-city-warns-residents-not-drink-tap-water-after-sinister-tank",
-    "ts": 1795470000000,
-    "tags": []
-   },
-   {
-    "t": "Kunstler: \"He's Stringing You Along\"",
-    "tt": "Kunstler: \"Seni Oyalıyor\"",
-    "s": "Kunstler: \"He's Stringing You Along\" Authored by James Howard Kunstler via Clusterfuck Nation , Looney Tunes \"We haven't ruled anything in, and we haven't ruled anything out.\" - Hakeem Jeffries It's kind of amazing to see so many people who ought to know better repeat the midterm election cover stor",
-    "ss": "Kunstler: \"Seni Oyalıyor\" Yazan: James Howard Kunstler, Clusterfuck Nation aracılığıyla, Looney Tunes \"Hiçbir şeyi göz ardı etmedik ve hiçbir şeyi göz ardı etmedik.\" - Hakeem Jeffries Daha iyi bilmesi gereken bu kadar çok insanın ara seçim kapak hikayesini tekrarladığını görmek şaşırtıcı",
-    "u": "https://www.zerohedge.com/political/kunstler-hes-stringing-you-along",
-    "ts": 1795468800000,
     "tags": []
    }
   ],
