@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-24T18:26:02.709636+00:00",
+ "generated": "2026-11-24T19:37:37.208672+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7205.99,
-   "c": -0.43,
-   "d": -31.18,
+   "p": 7189.68,
+   "c": -0.66,
+   "d": -47.49,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 23755.082,
-   "c": -1.39,
-   "d": -334.479,
+   "p": 23674.797,
+   "c": -1.72,
+   "d": -414.764,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 50014.01,
-   "c": 0.84,
-   "d": 418.701,
+   "p": 49957.72,
+   "c": 0.73,
+   "d": 362.411,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 26.58,
-   "c": -0.15,
-   "d": -0.04,
+   "p": 26.54,
+   "c": -0.3,
+   "d": -0.08,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3561.9,
-   "c": -2.45,
-   "d": -89.5,
+   "p": 3558.9,
+   "c": -2.53,
+   "d": -92.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.795,
-   "c": -5.45,
-   "d": -2.352,
+   "p": 40.8,
+   "c": -5.44,
+   "d": -2.347,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.45,
-   "c": 1.6,
-   "d": 1.28,
+   "p": 81.82,
+   "c": 2.06,
+   "d": 1.65,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 87.95,
-   "c": -1.59,
-   "d": -1.42,
+   "p": 88.49,
+   "c": -0.98,
+   "d": -0.88,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.795,
-   "c": -0.5,
-   "d": -0.525,
+   "p": 103.814,
+   "c": -0.49,
+   "d": -0.506,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.904,
-   "c": -0.28,
-   "d": -0.014,
+   "p": 4.906,
+   "c": -0.24,
+   "d": -0.012,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.6213,
+   "p": 50.619,
    "c": 0.09,
-   "d": 0.045,
+   "d": 0.043,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59990,
-   "c": -2.63,
+   "p": 59793,
+   "c": -2.41,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1682.46,
-   "c": -3.67,
+   "p": 1678.2,
+   "c": -3.09,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 69.56,
-   "c": -5.52,
+   "p": 69.17,
+   "c": -5.11,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.922855,
-   "c": -3.25,
+   "p": 0.918837,
+   "c": -2.74,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 549.97,
-   "c": -2.13,
+   "p": 548.68,
+   "c": -1.75,
    "k": "usd"
   }
  ],
@@ -364,21 +364,75 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
+    "tt": "Raporlara Göre Brezilya Reali Kazançlı Lula Daha Fazla Harcama Kısıtlamasına Destek Veriyor",
+    "s": "The Brazilian real rallied by the most in nearly two months on reports that President Luiz Inácio Lula da Silva is backing moves to curb fiscal spending, easing the concerns about the budget deficit that have dragged the currency down since his surprise re-election.",
+    "ss": "Brezilya reali, Başkan Luiz Inácio Lula da Silva'nın mali harcamaları kısmaya yönelik hamleleri desteklediği ve sürpriz yeniden seçilmesinden bu yana para birimini aşağı çeken bütçe açığına ilişkin endişeleri hafiflettiği yönündeki haberlerin ardından yaklaşık iki ayın en büyük yükselişini gerçekleştirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
+    "ts": 1795533121000,
+    "tags": []
+   },
+   {
+    "t": "Quant Funds Reduce US Treasury Short Bets, Fueling Bond Rally",
+    "tt": "Quant Fund'lar ABD Hazinesi'nin Kısa Pozisyonlarını Azaltarak Tahvildeki Yükselişi Artırdı",
+    "s": "Trend-chasing quant funds are trimming their long-held short positions in US Treasuries, fueling a bond rally as an equity selloff revives haven demand for government debt.",
+    "ss": "Trend peşinde koşan miktar fonları, ABD Hazine tahvillerinde uzun süredir tuttukları açık pozisyonlarını azaltarak, hisse senedi satışlarının hükümet tahvillerine yönelik güvenli liman talebini canlandırmasıyla tahvillerdeki ralliyi körüklüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
+    "ts": 1795547297000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq 100 Sinks as AI Rout Fuels Gains in Bonds: Markets Wrap",
+    "tt": "Nvidia Euphoria'nın Etkisi Geçtikçe Hisse Senetleri Düşüyor: Piyasalar Sarılıyor",
+    "s": "Wall Street’s doubts about the durability of the artificial-intelligence trade spurred losses in technology stocks while driving investors to the safety of bonds.",
+    "ss": "Jensen Huang'ın Nvidia Corp.'a dönüşünün ardından hisse senetlerinde yaşanan olağanüstü yükseliş, yatırımcıların yapay zeka ticaretinin toparlanmayı sürdürebileceğine dair daha fazla kanıt beklemesiyle yerini temkinli olmaya bırakıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795471606000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Advance as Stocks Fall, Reviving Haven Demand",
+    "tt": "Hisse Senetleri Düşerken Hazine Tahvili Yükseliyor, Haven Talebi Canlanıyor",
+    "s": "Treasuries rose on haven demand as US stocks surrendered a portion of Monday’s steep gains, suggesting investors remain uneasy about the potential for technology investment to continue to drive economic growth.",
+    "ss": "Hazine tahvilleri, ABD hisse senetlerinin Pazartesi günkü yüksek kazanımlarının bir kısmını geri vermesiyle birlikte güvenli liman talebiyle yükseldi; bu da yatırımcıların teknoloji yatırımının ekonomik büyümeyi desteklemeye devam etme potansiyeli konusunda tedirgin olmaya devam ettiğini gösteriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+    "ts": 1795495353000,
+    "tags": []
+   },
+   {
+    "t": "FHFA Clears FICO 10T Scores for Fannie Mae and Freddie Mac",
+    "tt": "FHFA, Fannie Mae ve Freddie Mac'in FICO 10T Puanlarını Temizledi",
+    "s": "Fannie Mae and Freddie Mac will allow FICO 10T credit scores, the Federal Housing Finance Agency announced Tuesday.",
+    "ss": "Federal Konut Finansmanı Ajansı Salı günü yaptığı açıklamada, Fannie Mae ve Freddie Mac'in FICO 10T kredi puanlarına izin vereceğini duyurdu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/fhfa-clears-fico-10t-scores-for-fannie-mae-and-freddie-mac",
+    "ts": 1795546129000,
+    "tags": []
+   },
+   {
+    "t": "Latam Currencies Lead EM Losses as Global Selloff Hits Risk Mood",
+    "tt": "Latin Para Birimleri Küresel Satışların Risk Ortamını Etkilemesiyle Gelişmekte Olan Ülkelerin Kayıplarına Liderlik Ediyor",
+    "s": "Most Latin American currencies slumped Tuesday as falling metal prices and a renewed selloff in US tech stocks fanned a move away from riskier assets.",
+    "ss": "Çoğu Latin Amerika para birimi Salı günü, metal fiyatlarındaki düşüş ve ABD teknoloji hisselerinde yeniden yaşanan satışların riskli varlıklardan uzaklaşmayı körüklemesiyle değer kaybetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
+    "ts": 1795501604000,
+    "tags": []
+   },
+   {
+    "t": "AI Is a Financing Story",
+    "tt": "Yapay Zeka Bir Finansman Hikayesidir",
+    "s": "And the next chapter will be tougher.",
+    "ss": "Ve bir sonraki bölüm daha zorlu olacak.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-24/ai-is-a-financing-story",
+    "ts": 1795545777000,
+    "tags": []
+   },
+   {
     "t": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
     "tt": "Antropik Hisseler Dördüncü İşlem Gününde Halka Arz Fiyatının Altına Düştü",
     "s": "Anthropic PBC shares sank as much as nearly 9% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
     "ss": "Antropik PBC hisseleri, 83 dolarlık ilk halka arz fiyatının neredeyse %9 kadar altına düştü ve geçen hafta yapay zeka laboratuvarının rekor kıran açılışına yığılan yatırımcıların kazançları silindi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
     "ts": 1795519164000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq 100 Sinks as Nvidia, Anthropic Get Hammered: Markets Wrap",
-    "tt": "Nvidia Euphoria'nın Etkisi Geçtikçe Hisse Senetleri Düşüyor: Piyasalar Sarılıyor",
-    "s": "Wall Street’s renewed doubts about the durability of the artificial-intelligence trade spurred a rotation into a broader category of stocks while lifting bonds.",
-    "ss": "Jensen Huang'ın Nvidia Corp.'a dönüşünün ardından hisse senetlerinde yaşanan olağanüstü yükseliş, yatırımcıların yapay zeka ticaretinin toparlanmayı sürdürebileceğine dair daha fazla kanıt beklemesiyle yerini temkinli olmaya bırakıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795471606000,
     "tags": []
    },
    {
@@ -398,68 +452,27 @@
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/iraq-rejects-opec-assessment-of-its-oil-production-capacity",
     "ts": 1795539874000,
     "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 24",
-    "tt": "24 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil edged higher in thin holiday trading as reports of further tanker attacks overshadowed the latest diplomatic efforts to resolve the US-Iran war.",
-    "ss": "Petrol, yeni tanker saldırılarının ABD-İran savaşını çözmeye yönelik son diplomatik çabaları gölgede bırakmasıyla zayıf tatil ticaretinde yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
-    "ts": 1795475052000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "Kalshi Users Under 21 Lost $8.9 Million in NYC, Probe Finds",
-    "tt": "Sondaya Göre 21 Yaş Altı Kalshi Kullanıcıları New York'ta 8,9 Milyon Dolar Kaybetti",
-    "s": "Over 50,000 people between the ages of 18 and 21 are using Kalshi in New York City, and they are losing money at a disproportionate rate, according to internal data that Kalshi released to the New York City Council.",
-    "ss": "Kalshi'nin New York Kent Konseyi'ne açıkladığı dahili verilere göre, New York City'de 18 ila 21 yaşları arasındaki 50.000'den fazla kişi Kalshi kullanıyor ve orantısız bir oranda para kaybediyorlar.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/nyc-calls-on-kalshi-polymarket-to-testify-on-marketing-to-youth",
-    "ts": 1795533677000,
-    "tags": []
-   },
-   {
-    "t": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated",
-    "tt": "Nasdaq 100, Nvidia Euphoria'nın Kaybolması ve Yeni Tarifelerin Açıklanmasıyla Düştü",
-    "s": "The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs also weighed on stocks, reigniting trade concerns.",
-    "ss": "Nasdaq 100 Endeksi, teknoloji hisselerindeki rahatlamanın yerini yapay zeka ticaretinin dayanıklılığına ilişkin endişelerin yenilenmesine yol açan yonga üreticilerindeki bir başka sert düşüşe bağlı olarak Salı günü düştü. Yeni ABD tarifelerine ilişkin planlar da hisse senetleri üzerinde baskı yaratarak ticari endişeleri yeniden alevlendirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
-    "ts": 1795513527000,
-    "tags": []
-   },
-   {
-    "t": "Hormuz Strait Authority Blacklists Tugboats, Raising Pressure on Tanker Traffic",
-    "tt": "Hürmüz Boğazı İdaresi Römorkörleri Kara Listeye Aldı, Tanker Trafiği Üzerindeki Baskıyı Artırdı",
-    "s": "The Iranian body seeking to control traffic through the Strait of Hormuz added tugboats to its “non-compliance list,” in the latest sign that Tehran is ratcheting up pressure on the ecosystem that’s supporting tanker traffic.",
-    "ss": "Hürmüz Boğazı'ndaki trafiği kontrol etmeye çalışan İran kurumu, römorkörleri \"uyumsuzluk listesine\" ekledi; bu, Tahran'ın tanker trafiğini destekleyen ekosistem üzerindeki baskıyı artırdığının son işareti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/iran-adds-tugs-to-hormuz-blacklist-as-pressure-on-shipping-grows",
-    "ts": 1795542874000,
-    "tags": []
-   },
-   {
-    "t": "Zelenskyy Says Congress Should Pressure Russia if Trump Talks Fail",
-    "tt": "Zelenskyy, Trump'ın Görüşmelerinin Başarısız Olması Halinde Kongre'nin Rusya'ya Baskı Yapması Gerektiğini Söyledi",
-    "s": "Volodymyr Zelenskyy says he’ll ask the new Democrat-controlled Congress to pile pressure on Russia if President Trump fails to secure a peace deal by year-end. Alex Morgan has the key takeaways from the Ukrainian president’s exclusive interview with Bloomberg News. (Source: Bloomberg)",
-    "ss": "Volodymyr Zelenskyy, Başkan Trump'ın yıl sonuna kadar bir barış anlaşması sağlamaması durumunda Demokratların kontrolündeki yeni Kongre'den Rusya üzerinde baskı kurmasını isteyeceğini söyledi. Alex Morgan, Ukrayna cumhurbaşkanının Bloomberg News ile yaptığı özel röportajdan önemli çıkarımlar yapıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-24/zelenskyy-congress-should-press-russia-if-talks-fail-video",
-    "ts": 1795542707000,
-    "tags": []
-   },
-   {
-    "t": "Bank of Canada Warns of Oil Passthrough, Sticky Inflation",
-    "tt": "Kanada Bankası Petrol Geçişi ve Yapışkan Enflasyon Konusunda Uyardı",
-    "s": "The head of the Bank of Canada warned that higher oil costs will be passed on to consumers as the economy holds up better than officials expected.",
-    "ss": "Kanada Merkez Bankası başkanı, ekonominin yetkililerin beklediğinden daha iyi durumda olması nedeniyle yüksek petrol maliyetlerinin tüketicilere yansıyacağı konusunda uyardı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-chief-warns-of-oil-passthrough-sticky-inflation",
-    "ts": 1795541100000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+    "tt": "Kalshi'nin günlük 'faili' ticareti hacmi tahmin piyasalarında zirveye çıkmaya başladı",
+    "s": "The product, the first one beyond event contracts, was introduced in May.",
+    "ss": "Etkinlik sözleşmelerinin ötesinde ilk ürün olan ürün, mayıs ayında tanıtıldı.",
+    "u": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+    "ts": 1795545295000,
+    "tags": []
+   },
+   {
+    "t": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+    "tt": "Utah, şirketin eyaletteki faaliyetlerini askıya almasının ardından Kalshi kurucularına yönelik suçlamaları düşürdü",
+    "s": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+    "ss": "Tahmin piyasası platformunun kurucu ortaklarının Aralık ayında eyalet bölge mahkemesinde görünmesi planlanıyordu.",
+    "u": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+    "ts": 1795544913000,
+    "tags": []
+   },
    {
     "t": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
     "tt": "Fed'den John Williams, yüksek faiz oranlarının muhtemelen 'zaman içinde' enflasyonla mücadele edeceğini belirtti",
@@ -531,33 +544,54 @@
     "u": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
     "ts": 1795181390000,
     "tags": []
-   },
-   {
-    "t": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-    "tt": "Trump, tarihi üçlü toplantısı öncesinde Putin ve Xi ile ayrı ayrı görüştü",
-    "s": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
-    "ss": "ABD Başkanı Donald Trump, perşembe günü Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping ile ayrı ayrı görüştü.",
-    "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-    "ts": 1795078920000,
-    "tags": []
-   },
-   {
-    "t": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-    "tt": "Tutanaklara göre Fed yetkilileri daha fazla faiz artırımı bekliyor ve yapay zekanın enflasyon üzerindeki etkisinden endişe ediyor",
-    "s": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-    "ss": "Federal Reserve Çarşamba günü, gösterge faiz oranının %3,75-%4 aralığında tutulması yönünde oy kullandığı Ekim politika toplantısının tutanaklarını yayınladı.",
-    "u": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-    "ts": 1795030919000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    }
   ],
   "MarketWatch": [
+   {
+    "t": "Anthropic’s stock just broke below its IPO price for the first time",
+    "tt": "Anthropic'in hisseleri ilk kez halka arz fiyatının altına düştü",
+    "s": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on the Nasdaq.",
+    "ss": "Hisseler, Nasdaq'taki ilk çıkışlarından bir haftadan kısa bir süre sonra, Salı günü halka arz fiyatı olan 83 doların altında işlem görüyor.",
+    "u": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+    "ts": 1795548660000,
+    "tags": []
+   },
+   {
+    "t": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
+    "tt": "Pek çok kişi emeklilik planlamasının bu önemli kısmını gözden kaçırıyor - ve bu para değil",
+    "s": "Picking your retirement date should include factors beyond finances.",
+    "ss": "Emeklilik tarihinizi seçerken mali durumun ötesinde faktörler de bulunmalıdır.",
+    "u": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
+    "ts": 1795548060000,
+    "tags": []
+   },
+   {
+    "t": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+    "tt": "Yorgun mu hissediyorsunuz ve saçlarınızı mı kaybediyorsunuz? Daha önce \"normal\" test sonucu vermiş olsanız bile demiriniz düşük olabilir.",
+    "s": "A “silent epidemic”: Doctors are rethinking how to diagnose iron deficiency. Here’s what you should know about the science of ferritin.",
+    "ss": "“Sessiz bir salgın”: Doktorlar demir eksikliğinin nasıl teşhis edileceğini yeniden düşünüyor. İşte ferritin bilimi hakkında bilmeniz gerekenler.",
+    "u": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+    "ts": 1795546920000,
+    "tags": []
+   },
+   {
+    "t": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+    "tt": "Las Vegas'ı ziyaret etmek çok pahalı hale geliyor - ancak uçak biletlerini suçlamayın",
+    "s": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or on cruise ships",
+    "ss": "Analistler, müşterilerin diğer şehirlerde veya yolcu gemilerinde daha iyi fırsatlar bulması nedeniyle Vegas otellerinin pahalılaştığını söylüyor",
+    "u": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+    "ts": 1795546080000,
+    "tags": []
+   },
+   {
+    "t": "Micron’s stock falls as an analyst warns about a future supply glut",
+    "tt": "Bir analistin gelecekteki arz bolluğu konusunda uyarmasıyla Micron'un hisseleri düştü",
+    "s": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+    "ss": "Bir BNP Paribas analisti, bellek yongaları için \"fazla arz senaryosu riskinin arttığını\" ve bunun Micron'un fiyatlandırma gücünü tehdit edebileceğini söylüyor.",
+    "u": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+    "ts": 1795545180000,
+    "tags": []
+   },
    {
     "t": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
     "tt": "Eski şüpheci, Tesla'nın robotaksi alanında 'meşru multitrilyon dolarlık fırsata' sahip olduğunu söylüyor",
@@ -602,54 +636,45 @@
     "u": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
     "ts": 1795542480000,
     "tags": []
-   },
-   {
-    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
-    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
-    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
-    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "ts": 1795541400000,
-    "tags": []
-   },
-   {
-    "t": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "tt": "Kocam eski karısına işini kaybettikten sonra gizlice ayda 1.500 dolar gönderiyor. 2,4 milyon dolarımız var. İhmal ederek yalan mı söyledi?",
-    "s": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-    "ss": "\"Ödemeyi saklamaya çalışmadığını ancak eski karısının bir tıbbi faturalandırma şirketindeki işini kaybettiğini açıkladı.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "ts": 1795540500000,
-    "tags": []
-   },
-   {
-    "t": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-    "tt": "'Alıcılar kan peşinde': Konut satışları rekor düşük seviyedeyken, kararları alıcılar veriyor",
-    "s": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-    "ss": "Emlakçılar, rekor yüksek ev fiyatlarına ve yüzde 7'lik konut kredisi oranlarına göğüs gererek piyasada kalan az sayıda alıcının kararları almaya başladığını söylüyor.",
-    "u": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-    "ts": 1795540200000,
-    "tags": []
-   },
-   {
-    "t": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
-    "tt": "Amerikalılar Trump'ın tarifelerinden hoşlanmıyor. Zaten bu hafta itibariyle ikiye katlanıyor.",
-    "s": "The move risks new trade friction, but spares already imported holiday goods.",
-    "ss": "Hareket, yeni ticari sürtüşme riskini taşıyor ancak halihazırda ithal edilen tatil mallarından tasarruf ediliyor.",
-    "u": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
-    "ts": 1795537440000,
-    "tags": []
-   },
-   {
-    "t": "HPE just posted its strongest growth ever — but its stock is sinking",
-    "tt": "HPE şimdiye kadarki en güçlü büyümesini kaydetti ancak stokları düşüyor",
-    "s": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-    "ss": "HPE, güçlü yapay zeka talebi karşısında Pazartesi günü mali tahminini artırdı.",
-    "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-    "ts": 1795537380000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "\"There Is Always Someone Crazier Than You\": Michigan Student Paper Rationalizes Campus Assault",
+    "tt": "\"Her Zaman Senden Daha Çılgın Biri Vardır\": Michigan Öğrenci Makalesi Kampüs Saldırısını Mantıksallaştırıyor",
+    "s": "\"There Is Always Someone Crazier Than You\": Michigan Student Paper Rationalizes Campus Assault Authored by Jonathan Turley via JonathanTurley.org , This weekend, we discussed how higher education has radicalized many students in an ideological echo chamber. That culture of intolerance is normalizing",
+    "ss": "\"Her Zaman Senden Daha Çılgın Biri Vardır\": Michigan Öğrenci Makalesi Kampüs Saldırısını Rasyonalize Ediyor Jonathan Turley tarafından JonathanTurley.org aracılığıyla yazılmıştır. Bu hafta sonu, yüksek öğrenimin ideolojik bir yankı odasında birçok öğrenciyi nasıl radikalleştirdiğini tartıştık. Hoşgörüsüzlük kültürü normalleşiyor",
+    "u": "https://www.zerohedge.com/political/there-always-someone-crazier-you-michigan-student-paper-rationalizes-campus-assault",
+    "ts": 1795547700000,
+    "tags": []
+   },
+   {
+    "t": "Follow The Money: Major Anthropic Backer Bankrolled Podcast Peddling 'Cold War Spy Scandal' Huang Hysteria",
+    "tt": "Parayı Takip Edin: Büyük Antropik Destekçi Nakit Kaynaklarla Podcast Satıyor 'Soğuk Savaş Casus Skandalı' Huang Histeri",
+    "s": "Follow The Money: Major Anthropic Backer Bankrolled Podcast Peddling 'Cold War Spy Scandal' Huang Hysteria A prominent newsletter that demanded Jensen Huang's resignation three days before he quit, and the NPR podcast that gave five of its first 11 episodes to his downfall, have the same funder : th",
+    "ss": "Parayı Takip Et: Büyük Antropik Destekçi 'Soğuk Savaş Casus Skandalı'nı Satarak Podcast'e Kaynak Sağladı Huang Hysteria Jensen Huang'ın istifasından üç gün önce istifasını talep eden önemli bir haber bülteni ve ilk 11 bölümünün beşini onun düşüşüne veren NPR podcast'i aynı fon sağlayıcıya sahip: th",
+    "u": "https://www.zerohedge.com/ai/follow-money-major-anthropic-backer-bankrolled-podcast-peddling-cold-war-spy-scandal-huang",
+    "ts": 1795546800000,
+    "tags": []
+   },
+   {
+    "t": "Pension Goes Full CDO: New York's Giant Retirement Fund Bundles Blue Owl, Blackstone Fund Stakes Into $4BN CFO",
+    "tt": "Emeklilik Tam CDO'ya Gidiyor: New York'un Dev Emeklilik Fonu Blue Owl'u Paketledi, Blackstone Fonu 4 Milyar Dolara Ayrıldı CFO",
+    "s": "Pension Goes Full CDO: New York's Giant Retirement Fund Bundles Blue Owl, Blackstone Fund Stakes Into $4BN CFO When you can't get out of private credit, you can always lever it up. According to Bloomberg , the New York State Common Retirement Fund, which oversees about $310 billion and is one of the",
+    "ss": "Emeklilik Tam CDO'ya Gidiyor: New York'un Dev Emeklilik Fonu Blue Owl'u Paketliyor, Blackstone Fonu 4 Milyar Dolarlık CFO'ya Ayrılıyor Özel krediden çıkamadığınızda, onu her zaman artırabilirsiniz. Bloomberg'e göre, yaklaşık 310 milyar doları denetleyen New York Eyaleti Ortak Emeklilik Fonu,",
+    "u": "https://www.zerohedge.com/markets/pension-goes-full-cdo-new-yorks-giant-reitrement-fund-bundles-blue-owl-blackstone-fund",
+    "ts": 1795545900000,
+    "tags": []
+   },
+   {
+    "t": "Israel's Architect Of Covert Action In Iran Says Third Round Of War 'Inevitable'",
+    "tt": "İsrail'in İran'daki Gizli Eylem Mimarı Üçüncü Tur Savaşın 'Kaçınılmaz' Olduğunu Söyledi",
+    "s": "Israel's Architect Of Covert Action In Iran Says Third Round Of War 'Inevitable' Former Mossad Director David Barnea, whose prior leadership coincided with Israel's expanding intelligence and sabotage operations inside Iran (his stint as intel chief ran from June 2021 to June 2026), has issued a sta",
+    "ss": "İsrail'in İran'daki Gizli Eylem Mimarı, Üçüncü Tur Savaşın 'Kaçınılmaz' Olduğunu Söyledi Önceki liderliği İsrail'in İran'daki genişleyen istihbarat ve sabotaj operasyonlarıyla örtüşen eski Mossad Direktörü David Barnea (istihbarat şefi olarak görevi Haziran 2021'den Haziran 2026'ya kadar sürdü), bir rapor yayınladı.",
+    "u": "https://www.zerohedge.com/geopolitical/israels-architect-covert-action-iran-says-third-round-war-inevitable",
+    "ts": 1795545000000,
+    "tags": []
+   },
    {
     "t": "Ugly 5Y Auction: Foreign Demand Slides Resulting In 13th Consecutive Tail, Record Directs",
     "tt": "5 Yıllık Çirkin Açık Artırma: Dış Talepte Ardışık 13. Kuyrukla Sonuçlanan Kaymalar, Rekor Yönlendirmeler",
@@ -703,48 +728,27 @@
     "u": "https://www.zerohedge.com/geopolitical/nearly-dozen-injured-after-houthi-missile-strikes-tallest-tower-saudi-capital",
     "ts": 1795538700000,
     "tags": []
-   },
-   {
-    "t": "Anthropic, OpenAI Insiders Insist They've Built Something So Dangerous They Can't Control It... And Want Everyone Leashed",
-    "tt": "İnsancıl, OpenAI İçerdekiler, Kontrol edemeyecekleri Kadar Tehlikeli Bir Şey Yaptıklarında Israr Ediyorlar... Ve Herkesin Tasmalanmasını İstiyorlar",
-    "s": "Anthropic, OpenAI Insiders Insist They've Built Something So Dangerous They Can't Control It... And Want Everyone Leashed AI FUD is back - this time with more employees at Anthropic and OpenAI are saying that their companies' most powerful models are too dangerous to release to the public , accordin",
-    "ss": "Antropik, OpenAI İçerdekiler Kontrol edemeyecekleri Kadar Tehlikeli Bir Şey Yaptıklarında Israr Ediyorlar... Ve Herkesin Taslağını İstiyorlar AI FUD geri döndü - bu sefer Anthropic ve OpenAI'de daha fazla çalışanla, şirketlerinin en güçlü modellerinin halka yayınlanamayacak kadar tehlikeli olduğunu söylüyorlar",
-    "u": "https://www.zerohedge.com/markets/anthropic-and-openai-insiders-insist-theyve-built-something-so-dangerous-they-cant-control",
-    "ts": 1795537800000,
-    "tags": []
-   },
-   {
-    "t": "Third Deputy Out: After Bongino And Bailey, FBI No. 2 Raia To Retire Days After Patel Skips Hearing",
-    "tt": "Üçüncü Milletvekili Çıktı: Bongino ve Bailey'den Sonra FBI 2 Numaralı Raia, Patel'in Duruşmayı Atladıktan Günler Sonra Emekli Olacak",
-    "s": "Third Deputy Out: After Bongino And Bailey, FBI No. 2 Raia To Retire Days After Patel Skips Hearing The FBI's No. 2, Deputy Director Christopher Raia, plans to retire in December , three people familiar with his plans told the Washington Post on Monday. That would make Raia the third deputy director",
-    "ss": "Üçüncü Milletvekili Çıktı: Bongino ve Bailey'den Sonra, FBI'ın 2 Numaralı Raia'sı, Patel'in FBI'ın 2 Numaralı Direktör Yardımcısı Christopher Raia'yı Dinlemeyi Atladıktan Günler Sonra Emekli Olacak Planlarını bilen üç kişi Pazartesi günü Washington Post'a verdiği demeçte, Aralık ayında emekli olmayı planlıyor. Bu Raia'yı üçüncü müdür yardımcısı yapacak",
-    "u": "https://www.zerohedge.com/political/third-deputy-out-after-bongino-and-bailey-fbi-no-2-raia-retire-days-after-patel-skips",
-    "ts": 1795536900000,
-    "tags": []
-   },
-   {
-    "t": "Nvidiaaargh! > Nvidiaaah?",
-    "tt": "Nvidiaaargh! > Nvidiaaah?",
-    "s": "Nvidiaaargh! &gt; Nvidiaaah? By Michael Every of Rabobank Huang around long enough and things work out…. or fall apart, depending on how you look at it. Yesterday saw wild swings in markets, and in US politics and geopolitics, after Jensen Huang was reinstated as Nvidia CEO 11 days after his firing ",
-    "ss": "Nvidiaaargh! > Nvidiaaah? Yazan: Rabobank Huang'dan Michael Every yeterince uzun süre ortalıkta dolanırsa işler yoluna girer…. ya da nasıl baktığınıza bağlı olarak dağılabilir. Jensen Huang'ın kovulmasından 11 gün sonra Nvidia CEO'su olarak görevine geri getirilmesinin ardından dün piyasalarda, ABD siyasetinde ve jeopolitiğinde sert dalgalanmalar görüldü.",
-    "u": "https://www.zerohedge.com/markets/nvidiaaargh-nvidiaaah",
-    "ts": 1795536000000,
-    "tags": []
-   },
-   {
-    "t": "\"Lock And Load\" On Gold & Commodities When Fed Pivots, Jeff Currie Says. Until Then, More Pain Ahead...",
-    "tt": "Jeff Currie, Fed Döndüğünde Altın ve Emtialarda \"Kilitle ve Yükle\" Diyor. O zamana kadar Daha Çok Acı Gelecek...",
-    "s": "\"Lock And Load\" On Gold &amp; Commodities When Fed Pivots, Jeff Currie Says. Until Then, More Pain Ahead... Commodities have declined sharply since peaking in mid-September , with the retreat in gold and copper primarily reflecting elevated real yields, US dollar strength and liquidity pressures, ac",
-    "ss": "Jeff Currie, Fed Döndüğünde Altın ve Emtialarda \"Kilitle ve Yükle\" Diyor. O zamana kadar, daha çok acı gelecek... Emtialar Eylül ortasındaki zirveden bu yana keskin bir düşüş yaşadı; altın ve bakırdaki gerileme öncelikle yüksek reel getirileri, ABD dolarının gücünü ve likidite baskılarını yansıtıyor.",
-    "u": "https://www.zerohedge.com/commodities/lock-and-load-gold-and-commodities-when-fed-pivots-jeff-currie-says-until-then-more",
-    "ts": 1795535400000,
-    "tags": [
-     "Altın ▼",
-     "DXY ▼"
-    ]
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Axios: Anthropic ve OpenAI, en gelişmiş modellerini kontrol etmekte zorlanıyor",
+    "tt": null,
+    "s": "OpenAI ve Anthropic'in, kamuoyuna sunmadıkları daha gelişmiş yapay zeka modellerini kontrol altında tutmakta zorlandığı öne sürüldü. Axios'un haberine göre, gelecekteki modellerin yalnızca kurum içinde kullanılması veya yeni modellerin eğitiminin durdurulması seçenekleri tartışılıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/axios-anthropic-ve-openai-en-gelismis-modellerini-kontrol-etmekte-zorlaniyor-3795584",
+    "ts": 1795546598000,
+    "tags": []
+   },
+   {
+    "t": "Xiaomi'nin üçüncü çeyrek kârında sert düşüş",
+    "tt": null,
+    "s": "Xiaomi'nin üçüncü çeyrek net kârı, artan hafıza çipi maliyetleri ve düşen elektrikli araç satışlarının etkisiyle yüzde 56,8 azaldı. Şirketin gelirleri de yıllık yüzde 5,2 gerileyerek 16 milyar dolar oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/xiaomi-nin-ucuncu-ceyrek-krinda-sert-dusus-3795583",
+    "ts": 1795544606000,
+    "tags": []
+   },
    {
     "t": "Fitch: ABD'de verimlilik istikrarlı biçimde artıyor",
     "tt": null,
@@ -815,24 +819,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/abd-de-konut-fiyatlarinin-yillik-artis-hizi-degismedi-3795566",
     "ts": 1795533427000,
-    "tags": []
-   },
-   {
-    "t": "OSD: AB'nin kararını endişe verici buluyoruz",
-    "tt": null,
-    "s": "Otomotiv Sanayii Derneği (OSD) AB'nin Türkiye'nin de aralarında bulunduğu ülkelerden hibrit araç ithalatına kota getirme kararını değerlendirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/osd-ab-nin-kararini-endise-verici-buluyoruz-3795563",
-    "ts": 1795531658000,
-    "tags": []
-   },
-   {
-    "t": "Dünyada ham çelik üretimi azaldı, Türkiye'de arttı",
-    "tt": null,
-    "s": "Küresel ham çelik üretimi Ekim'de geçen yılın aynı ayına göre yüzde 1,1 azalarak 142,4 milyon ton oldu.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/dunyada-ham-celik-uretimi-azaldi-turkiye-de-artti-3795561",
-    "ts": 1795529535000,
     "tags": []
    }
   ]
