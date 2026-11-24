@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T21:30:25.221728+00:00",
+ "generated": "2026-11-24T22:32:03.582777+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3549.7,
-   "c": -2.79,
-   "d": -101.7,
+   "p": 3555.1,
+   "c": -2.64,
+   "d": -96.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.59,
-   "c": -5.93,
-   "d": -2.557,
+   "p": 40.71,
+   "c": -5.65,
+   "d": -2.437,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.43,
-   "c": 1.57,
-   "d": 1.26,
+   "p": 81.69,
+   "c": 1.9,
+   "d": 1.52,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.29,
-   "c": -1.21,
-   "d": -1.08,
+   "p": 88.5,
+   "c": -0.97,
+   "d": -0.87,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.815,
-   "c": -0.48,
-   "d": -0.505,
+   "p": 103.841,
+   "c": -0.46,
+   "d": -0.479,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.5965,
-   "c": 0.04,
-   "d": 0.02,
+   "p": 50.6352,
+   "c": 0.12,
+   "d": 0.059,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59847,
-   "c": -2.48,
+   "p": 59932,
+   "c": -2.05,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1678.73,
-   "c": -2.55,
+   "p": 1682.29,
+   "c": -1.91,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 69.43,
-   "c": -4.23,
+   "p": 69.66,
+   "c": -3.46,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.921705,
-   "c": -2.01,
+   "p": 0.923079,
+   "c": -1.62,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 549.35,
-   "c": -1.63,
+   "p": 549.31,
+   "c": -1.28,
    "k": "usd"
   }
  ],
@@ -364,12 +364,83 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Escalation in Iran Appears As the Default",
-    "tt": "İran'da gerilimi tırmandırmak varsayılan olarak görünüyor",
-    "s": "The US and Israel assassinated Supreme Leader Ali Khamenei, the only man with the authority to force an unpalatable compromise like a deal with Washington on regime hardliners. That leaves escalation as the default, Bloomberg Opinion columnist Marc Champion says. (Source: Bloomberg)",
-    "ss": "ABD ve İsrail, Washington'la rejimin sertlik yanlılarına yönelik bir anlaşma gibi nahoş bir uzlaşmayı zorlama yetkisine sahip tek kişi olan Dini Lider Ali Hamaney'e suikast düzenledi. Bloomberg Opinion köşe yazarı Marc Champion, bunun varsayılan olarak tırmanmayı bıraktığını söylüyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-24/opinion-escalation-in-iran-appears-as-the-default-video",
-    "ts": 1795555661000,
+    "t": "Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
+    "tt": "Borç Baskısı Arttıkça Icahn'ın Serveti 1,3 Milyar Dolara Düştü",
+    "s": "Carl Icahn’s fortune has dwindled to about $1.3 billion as mounting debt squeezes his business empire, leaving the longtime corporate raider and activist investor facing one of the toughest stretches of his career. When Icahn Enterprises reported third-quarter earnings this month, it warned there wa",
+    "ss": "Carl Icahn'ın serveti, artan borcun iş imparatorluğunu daraltması ve uzun süredir kurumsal yağmacı ve aktivist yatırımcıyı kariyerinin en zorlu dönemlerinden biriyle karşı karşıya bırakmasıyla yaklaşık 1,3 milyar dolara düştü. Icahn Enterprises bu ay üçüncü çeyrek kazançlarını açıkladığında,",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
+    "ts": 1795559373000,
+    "tags": []
+   },
+   {
+    "t": "Canadian Dollar Gains Most Since August on Inflation Warning",
+    "tt": "Kanada Doları Enflasyon Uyarısıyla Ağustos'tan Bu Yana En Çok Kazandı",
+    "s": "The Canadian dollar logged its biggest gain in more than three months after the head of the Bank of Canada warned higher oil costs will further drive up consumer prices, compounding persistent inflation.",
+    "ss": "Kanada Bankası başkanının, yüksek petrol maliyetlerinin tüketici fiyatlarını daha da yükselterek kalıcı enflasyonu artıracağı konusunda uyarmasının ardından Kanada doları, üç aydan uzun bir sürenin en büyük artışını kaydetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
+    "ts": 1795548685000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
+    "tt": "ABD'li Çelik Alıcıları, Veri Merkezi Artışı Tedarikteki Zorluklar Nedeniyle Yurt Dışına Dönüyor",
+    "s": "Cheaper Asian imports are gaining traction with US steel buyers despite Washington’s tariffs, as a data center construction boom squeezes domestic supplies and drives up prices.",
+    "ss": "Veri merkezi inşaatındaki patlamanın yurt içi arzı daraltması ve fiyatları artırması nedeniyle, Washington'un tarifelerine rağmen ucuz Asya ithalatları ABD'li çelik alıcılarının ilgisini çekiyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
+    "ts": 1795558377000,
+    "tags": []
+   },
+   {
+    "t": "Gold Slips as Investors Weigh Fed Outlook, US Tariff Plans",
+    "tt": "Altın, Yatırımcıların Fed Görünümü ve ABD Tarife Planlarını Tartmasıyla Düşüyor",
+    "s": "Gold slumped, erasing most of Monday’s dramatic rebound as investors bet on further interest-rate hikes while a tariff-driven rout in equities prompted some traders to sell bullion to cover losses elsewhere.",
+    "ss": "Altın, yatırımcıların faiz oranlarının daha da artırılacağına dair bahis oynaması ve hisse senetlerindeki tarife kaynaklı bozgun nedeniyle bazı trader'ların başka yerlerdeki kayıplarını karşılamak için külçe altın satması nedeniyle Pazartesi günkü dramatik toparlanmanın çoğunu silip geriledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+    "ts": 1795478817000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "US Readies Tariff Hike on China, EU Goods",
+    "tt": "ABD, Çin ve AB Ürünleri İçin Tarife Artışına Hazırlanıyor",
+    "s": "The US is set to announce as soon as Tuesday plans to raise tariffs on goods from China, the European Union and more than a dozen other economies, according to people familiar with the matter. Alicia Diaz reports. (Source: Bloomberg)",
+    "ss": "Konuya aşina kaynaklara göre ABD, Salı günü Çin, Avrupa Birliği ve bir düzineden fazla başka ekonomiden gelen mallara yönelik gümrük vergilerini artırma planlarını duyurmaya hazırlanıyor. Alicia Diaz bildiriyor. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video",
+    "ts": 1795557495000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
+    "tt": "Nasdaq 100, Nvidia Euphoria'nın Kaybolması ve Yeni Tarifelerin Yaklaşmasıyla Düştü",
+    "s": "The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs also weighed on stocks.",
+    "ss": "Nasdaq 100 Endeksi, teknoloji hisselerindeki rahatlamanın yerini yapay zeka ticaretinin dayanıklılığına ilişkin endişelerin yenilenmesine yol açan yonga üreticilerindeki bir başka sert düşüşe bağlı olarak Salı günü düştü. Yeni ABD tarifelerine ilişkin planlar da hisse senetleri üzerinde baskı yarattı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
+    "ts": 1795513527000,
+    "tags": []
+   },
+   {
+    "t": "Latam Currencies Lag Emerging Peers as Global Selloff Weighs",
+    "tt": "Latin Para Birimleri Küresel Satışların Ağırlaşmasıyla Gelişen Para Birimlerinin Gerisinde Kaldı",
+    "s": "Most Latin American currencies slumped Tuesday as falling metal prices and a renewed selloff in US tech stocks fanned a move away from riskier assets.",
+    "ss": "Çoğu Latin Amerika para birimi Salı günü, metal fiyatlarındaki düşüş ve ABD teknoloji hisselerinde yeniden yaşanan satışların riskli varlıklardan uzaklaşmayı körüklemesiyle değer kaybetti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
+    "ts": 1795501604000,
+    "tags": []
+   },
+   {
+    "t": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+    "tt": "Quant Fund'lar Bu Pazara Ayak Uydurmakta Zorlanıyor",
+    "s": "The stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.",
+    "ss": "Borsa anlatısı o kadar hızlı değişiyor ki sözde hızlı para bile buna ayak uyduramıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
+    "ts": 1795556182000,
     "tags": []
    },
    {
@@ -382,76 +453,19 @@
     "tags": []
    },
    {
-    "t": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
-    "tt": "Dell, İş Listesi 132 Milyar Dolar Rekoruna Ulaşırken Yapay Zeka Sunucusu Görünümünü Artırdı | Kapanış Zili",
-    "s": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-    "ss": "Romaine Bostick, Carol Massar ve Tim Stenovec'in katılımıyla Bloomberg Televizyonu, Bloomberg Radyosu ve YouTube'da ABD pazarı kapanışına ilişkin platformlar arası kapsamlı kapsamlı yayın. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
-    "ts": 1795555285000,
-    "tags": []
-   },
-   {
-    "t": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
-    "tt": "Raporlara Göre Brezilya Reali Kazançlı Lula Daha Fazla Harcama Kısıtlamasına Destek Veriyor",
-    "s": "The Brazilian real gained on Tuesday on reports that President Luiz Inácio Lula da Silva is backing moves to curb fiscal spending, easing the concerns about the budget deficit that have dragged the currency down since his surprise re-election.",
-    "ss": "Brezilya reali, Başkan Luiz Inácio Lula da Silva'nın mali harcamaları kısmaya yönelik hamleleri desteklediği ve sürpriz yeniden seçilmesinden bu yana para birimini aşağı çeken bütçe açığına ilişkin endişeleri hafiflettiği yönündeki haberlerin ardından yaklaşık iki ayın en büyük yükselişini gerçekleştirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
-    "ts": 1795533121000,
-    "tags": []
-   },
-   {
-    "t": "Copper Edges Closer to Bear Market on Tech Rout, Tariff Anxiety",
-    "tt": "Bakır, Teknoloji Rotası ve Tarife Kaygısı Nedeniyle Ayı Piyasasına Yaklaşıyor",
-    "s": "Copper closed at a 13-month low as a selloff in technology giants dragged down stocks and commodities, while the White House is set to unleash another round of tariffs.",
-    "ss": "Bakır, teknoloji devlerindeki satış dalgasının hisse senetleri ve emtiaları aşağı çekmesiyle 13 ayın en düşük seviyesinde kapandı. Beyaz Saray yeni bir tarife turu daha uygulamaya hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
-    "ts": 1795487899000,
-    "tags": []
-   },
-   {
-    "t": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
-    "tt": "Nvidia Option Trader, CEO Huang'ın Dönüşünden Sonra %1.984 Kazanç Elde Etti",
-    "s": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
-    "ss": "Reddit kullanıcısı Outrageous-Voice1459 Pazartesi günü çok para kazandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return",
-    "ts": 1795555043000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
-    "tt": "Antropik Hisseler Dördüncü İşlem Gününde Halka Arz Fiyatının Altına Düştü",
-    "s": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
-    "ss": "Antropik PBC hisseleri ilk kez 83 dolarlık halka arz fiyatının altında işlem gördü ve geçen hafta yapay zeka laboratuvarının rekor kıran açılışına yığılan yatırımcıların kazançlarını sildi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-    "ts": 1795519164000,
-    "tags": []
-   },
-   {
-    "t": "Russian Pleads Not Guilty in Snooping Case Targeting Palantir",
-    "tt": "Rusya, Palantir'i hedef alan gözetleme davasında suçsuz olduğunu iddia etti",
-    "s": "A Russian national pleaded not guilty to US charges that he acted as a foreign agent who covertly sought information about workers at Palantir Technologies Inc. over Ukraine’s wartime use of the company’s software.",
-    "ss": "Bir Rus vatandaşı, Ukrayna'nın savaş zamanında şirketin yazılımını kullanması nedeniyle Palantir Technologies Inc.'deki işçiler hakkında gizlice bilgi arayan yabancı bir ajan olarak hareket ettiği yönündeki ABD suçlamalarını kabul etmedi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/russian-pleads-not-guilty-in-snooping-case-targeting-palantir",
-    "ts": 1795554259000,
-    "tags": []
-   },
-   {
-    "t": "Bank of Canada Shakes Up Core Measures, Focuses on 2% Inflation Target",
-    "tt": "Kanada Merkez Bankası Temel Tedbirleri Değiştirerek %2 Enflasyon Hedefine Odaklandı",
-    "s": "The Bank of Canada is changing the metrics it uses to weigh underlying price pressures as part of its new monetary policy framework, Governor Tiff Macklem said.",
-    "ss": "Başkan Tiff Macklem, Kanada Merkez Bankası'nın yeni para politikası çerçevesinin bir parçası olarak temel fiyat baskılarını tartmak için kullandığı ölçümleri değiştirdiğini söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-fades-core-inflation-switches-gauges",
-    "ts": 1795541152000,
-    "tags": []
-   },
-   {
-    "t": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
-    "tt": "JPMorgan, Consensus S&P 500'ün 2027 Yılı Hedefi olan 8.200'ün Altına Koydu",
-    "s": "JPMorgan Chase &amp; Co. strategists see US stocks advancing through the end of 2027, with artificial intelligence remaining a driving force behind earnings growth.",
-    "ss": "JPMorgan Chase & Co. stratejistleri, ABD hisse senetlerinin 2027 sonuna kadar yükseleceğini ve yapay zekanın kazanç artışının arkasındaki itici güç olmaya devam edeceğini öngörüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
-    "ts": 1795553749000,
-    "tags": []
+    "t": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+    "tt": "Tahvil yatırımcıları, Fed'in Ekonomiyi Durduran Faiz Artışları Riskinden Korunmak İçin Acele Ediyor",
+    "s": "Bond traders are racing to hedge the risk that the Federal Reserve’s interest-rate hikes and the stock market’s slide will significantly slow the US economy, forcing the central bank to shift back to easing monetary policy as soon as late next year.",
+    "ss": "Tahvil tüccarları, Federal Rezerv'in faiz artırımlarının ve borsadaki düşüşün ABD ekonomisini önemli ölçüde yavaşlatacağı ve merkez bankasını gelecek yılın sonlarında para politikasını gevşetmeye geri dönmeye zorlayacağı riskinden korunmak için yarışıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
+    "ts": 1795555800000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
    }
   ],
   "CNBC": [
@@ -548,6 +562,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+    "tt": "12 günlük sardalya ve Croc cazibesi: Advent takvimleri kontrolden mi çıkıyor?",
+    "s": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+    "ss": "Özellikle yüzlerce dolara mal olabilen Lüks Advent takvimlerinin satışlarında ani bir artış görüldü. İşte nedeni.",
+    "u": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+    "ts": 1795557180000,
+    "tags": []
+   },
+   {
+    "t": "Anthropic’s stock just broke below its IPO price for the first time",
+    "tt": "Anthropic'in hisseleri ilk kez halka arz fiyatının altına düştü",
+    "s": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+    "ss": "Hisseler, Nasdaq'taki ilk çıkışlarından bir haftadan kısa bir süre sonra, halka arz fiyatı olan 83 doların altında işlem görüyor.",
+    "u": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+    "ts": 1795556760000,
+    "tags": []
+   },
+   {
+    "t": "HPE just posted its strongest growth ever — but its stock is sinking",
+    "tt": "HPE şimdiye kadarki en güçlü büyümesini kaydetti ancak stokları düşüyor",
+    "s": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+    "ss": "HPE, güçlü yapay zeka talebi karşısında Pazartesi günü mali tahminini artırdı.",
+    "u": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+    "ts": 1795556700000,
+    "tags": []
+   },
+   {
     "t": "How much more are richest Americans spending on the holidays compared to everyone else?",
     "tt": "En zengin Amerikalılar tatillerde diğer herkese kıyasla ne kadar daha fazla harcama yapıyor?",
     "s": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
@@ -609,36 +650,36 @@
     "u": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
     "ts": 1795554840000,
     "tags": []
-   },
-   {
-    "t": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
-    "tt": "Marketlerde Şükran Günü için 'şaşırtıcı indirimler' var ancak bu düşük fiyatlara alışmayın",
-    "s": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
-    "ss": "Walmart, Target ve Amazon bu yıl yemek sepeti fırsatları sunan perakendecilerden bazıları.",
-    "u": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-    "ts": 1795553880000,
-    "tags": []
-   },
-   {
-    "t": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
-    "tt": "Trump'ın Huang'ın dönüşü yönündeki baskısının ardından Washington'da iki partiden bir tepki Nvidia'yı vuruyor",
-    "s": "Congress appears even more likely to OK new restrictions on the chip giant’s dealings with China — and it’s calling for more investigations, additional hearings and briefings",
-    "ss": "Kongre'nin çip devinin Çin'le olan ilişkilerine yönelik yeni kısıtlamaları onaylama olasılığı daha da yüksek görünüyor ve daha fazla soruşturma, ek duruşma ve brifing çağrısında bulunuyor",
-    "u": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
-    "ts": 1795552920000,
-    "tags": []
-   },
-   {
-    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
-    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
-    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
-    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "ts": 1795552200000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Huawei Found Guilty Of Plotting To Steal US Trade Secrets And Lying To Banks Over Iran",
+    "tt": "Huawei, ABD'nin ticari sırlarını çalmak için komplo kurmaktan ve İran yüzünden bankalara yalan söylemekten suçlu bulundu",
+    "s": "Huawei Found Guilty Of Plotting To Steal US Trade Secrets And Lying To Banks Over Iran A federal jury in Brooklyn on Tuesday found Huawei guilty on 10 of the 12 criminal counts it faced, including conspiracy to steal trade secrets from American companies and bank fraud , closing out a case that bega",
+    "ss": "Huawei, ABD Ticari Sırlarını Çalma Komplosu Yapmaktan ve İran Üzerinden Bankalara Yalan Söylemekten Suçlu Bulundu Brooklyn'deki bir federal jüri Salı günü, Huawei'yi, Amerikan şirketlerinden ticari sırları çalmak için komplo kurmak ve banka dolandırıcılığı da dahil olmak üzere karşı karşıya kaldığı 12 suçtan 10'unda suçlu buldu ve böylece açılan bir davayı kapattı.",
+    "u": "https://www.zerohedge.com/geopolitical/huawei-found-guilty-plotting-steal-us-trade-secrets-and-lying-banks-over-iran",
+    "ts": 1795558800000,
+    "tags": []
+   },
+   {
+    "t": "Sotomayor Discovers Term Limits... 17 Years Into Her Lifetime Seat",
+    "tt": "Sotomayor Süre Sınırlarını Keşfediyor... Ömür Boyu Koltuğunun 17. Yılında",
+    "s": "Sotomayor Discovers Term Limits... 17 Years Into Her Lifetime Seat Authored by Jonathan Turley via JonathanTurley.org , “I Wouldn’t Be Unhappy”: Justice Sotomayor Embraces Possible Term Limits Justice Sonia Sotomayor made news in Philadelphia last Friday by offering support for the concept of term l",
+    "ss": "Sotomayor Süre Sınırlarını Keşfediyor... Ömür Boyu Koltuğunda 17 Yıl Yazan Jonathan Turley, JonathanTurley.org aracılığıyla, \"Mutsuz Olmazdım\": Yargıç Sotomayor Olası Süre Sınırlarını Benimsiyor Yargıç Sonia Sotomayor geçen Cuma Philadelphia'da l kavramına destek sunarak bir haber yaptı.",
+    "u": "https://www.zerohedge.com/political/sotomayor-discovers-term-limits-17-years-her-lifetime-seat",
+    "ts": 1795557600000,
+    "tags": []
+   },
+   {
+    "t": "Iranian Leaders Seen Working In Dim Offices In Winter Clothes As Power Cuts Hit",
+    "tt": "İranlı Liderler Elektrik Kesintileri Sırasında Loş Ofislerde Kışlık Kıyafetlerle Çalışırken Görüldü",
+    "s": "Iranian Leaders Seen Working In Dim Offices In Winter Clothes As Power Cuts Hit \"A land blockade of Iran is virtually impossible , both because of the country’s vast territory and the large number of provinces, each possessing diverse capacities,\" Iran's Foreign Minister Abbas Araghchi told other to",
+    "ss": "İran Dışişleri Bakanı Abbas Araghchi, \"İran'ın kara ablukası, hem ülkenin geniş toprakları hem de her biri farklı kapasitelere sahip çok sayıda vilayet nedeniyle neredeyse imkansız\" dedi.",
+    "u": "https://www.zerohedge.com/geopolitical/iranian-leaders-seen-working-dim-offices-winter-clothes-power-cuts-hit",
+    "ts": 1795556400000,
+    "tags": []
+   },
    {
     "t": "Garbage In, Garbage Out: Why AI Hates Men",
     "tt": "Çöp İçeri, Çöp Dışarı: Yapay Zeka Neden Erkeklerden Nefret Ediyor",
@@ -700,33 +741,6 @@
     "ss": "3,5 Trilyon Dolarlık Tesla-SpaceX Mega Birleşme Anlaşması için Müzakere Eden Beş İçerle Tanışın Yeni bir Financial Times raporuna göre, Tesla'nın 3 Aralık'ta yapılması planlanan 2026 Yıllık Hissedarlar Toplantısı'na bir haftadan biraz daha uzun bir süre kaldı, üçü Tesla'dan ve ikisi SpaceX'ten olmak üzere beş yöneticinin, ne olabileceği konusunda pazarlık yaptığı belirtiliyor",
     "u": "https://www.zerohedge.com/markets/meet-five-insiders-negotiating-35-trillion-tesla-spacex-mega-merger-deal",
     "ts": 1795549620000,
-    "tags": []
-   },
-   {
-    "t": "Iraq Refuses To Accept OPEC+ Assessment Of Its Production Capacity",
-    "tt": "Irak, OPEC+'ın Üretim Kapasitesine İlişkin Değerlendirmesini Kabul Etmeyi Reddediyor",
-    "s": "Iraq Refuses To Accept OPEC+ Assessment Of Its Production Capacity Submitted by Julianne Geiger of OilPrice.com Iraq is refusing to accept an OPEC+ assessment that says the country can sustainably produce less than 5 million barrels of oil per day. Baghdad wants OPEC+ to recognize a capacity of arou",
-    "ss": "Irak, OilPrice.com'dan Julianne Geiger'in Sunduğu Üretim Kapasitesine İlişkin OPEC+ Değerlendirmesini Kabul Etmeyi Reddediyor Irak, ülkenin sürdürülebilir bir şekilde günde 5 milyon varilden az petrol üretebileceğini söyleyen bir OPEC+ değerlendirmesini kabul etmeyi reddediyor. Bağdat, OPEC+'ın AB'nin kapasitesini tanımasını istiyor",
-    "u": "https://www.zerohedge.com/energy/iraq-refuses-accept-opec-assessment-its-production-capacity",
-    "ts": 1795549500000,
-    "tags": []
-   },
-   {
-    "t": "\"There Is Always Someone Crazier Than You\": Michigan Student Paper Rationalizes Campus Assault",
-    "tt": "\"Her Zaman Senden Daha Çılgın Biri Vardır\": Michigan Öğrenci Makalesi Kampüs Saldırısını Mantıksallaştırıyor",
-    "s": "\"There Is Always Someone Crazier Than You\": Michigan Student Paper Rationalizes Campus Assault Authored by Jonathan Turley via JonathanTurley.org , This weekend, we discussed how higher education has radicalized many students in an ideological echo chamber. That culture of intolerance is normalizing",
-    "ss": "\"Her Zaman Senden Daha Çılgın Biri Vardır\": Michigan Öğrenci Makalesi Kampüs Saldırısını Rasyonalize Ediyor Jonathan Turley tarafından JonathanTurley.org aracılığıyla yazılmıştır. Bu hafta sonu, yüksek öğrenimin ideolojik bir yankı odasında birçok öğrenciyi nasıl radikalleştirdiğini tartıştık. Hoşgörüsüzlük kültürü normalleşiyor",
-    "u": "https://www.zerohedge.com/political/there-always-someone-crazier-you-michigan-student-paper-rationalizes-campus-assault",
-    "ts": 1795547700000,
-    "tags": []
-   },
-   {
-    "t": "Pension Goes Full CDO: New York's Giant Retirement Fund Bundles Blue Owl, Blackstone Fund Stakes Into $4BN CFO",
-    "tt": "Emeklilik Tam CDO'ya Gidiyor: New York'un Dev Emeklilik Fonu Blue Owl'u Paketledi, Blackstone Fonu 4 Milyar Dolara Ayrıldı CFO",
-    "s": "Pension Goes Full CDO: New York's Giant Retirement Fund Bundles Blue Owl, Blackstone Fund Stakes Into $4BN CFO When you can't get out of private credit, you can always lever it up. According to Bloomberg , the New York State Common Retirement Fund, which oversees about $310 billion and is one of the",
-    "ss": "Emeklilik Tam CDO'ya Gidiyor: New York'un Dev Emeklilik Fonu Blue Owl'u Paketliyor, Blackstone Fonu 4 Milyar Dolarlık CFO'ya Ayrılıyor Özel krediden çıkamadığınızda, onu her zaman artırabilirsiniz. Bloomberg'e göre, yaklaşık 310 milyar doları denetleyen New York Eyaleti Ortak Emeklilik Fonu,",
-    "u": "https://www.zerohedge.com/markets/pension-goes-full-cdo-new-yorks-giant-reitrement-fund-bundles-blue-owl-blackstone-fund",
-    "ts": 1795545900000,
     "tags": []
    }
   ],
