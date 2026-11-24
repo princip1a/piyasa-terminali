@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T04:54:02.674841+00:00",
+ "generated": "2026-11-24T05:49:48.893405+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3629.9,
-   "c": -0.59,
-   "d": -21.5,
+   "p": 3637.3,
+   "c": -0.39,
+   "d": -14.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 42.48,
-   "c": -1.55,
-   "d": -0.667,
+   "p": 42.45,
+   "c": -1.62,
+   "d": -0.697,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 79.67,
-   "c": -0.62,
-   "d": -0.5,
+   "p": 79.61,
+   "c": -0.7,
+   "d": -0.56,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 86.19,
-   "c": -3.56,
-   "d": -3.18,
+   "p": 86.15,
+   "c": -3.6,
+   "d": -3.22,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 104.285,
-   "c": -0.03,
-   "d": -0.035,
+   "p": 104.273,
+   "c": -0.05,
+   "d": -0.047,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.617,
-   "c": 0.08,
-   "d": 0.041,
+   "p": 50.6093,
+   "c": 0.07,
+   "d": 0.033,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60351,
-   "c": -1.2,
+   "p": 60634,
+   "c": -1.69,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1699.32,
-   "c": -1.37,
+   "p": 1706.97,
+   "c": -1.46,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.55,
-   "c": 0.46,
+   "p": 71.77,
+   "c": -0.39,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.951452,
-   "c": 2.13,
+   "p": 0.9576,
+   "c": 1.83,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 553.13,
-   "c": -0.63,
+   "p": 554.85,
+   "c": -1.12,
    "k": "usd"
   }
  ],
@@ -364,12 +364,68 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Singapore, China to Deepen Yuan Ties With Focus on Corporates",
+    "t": "Singapore, China Deepen Yuan Ties With Focus on Corporates",
     "tt": "Singapur ve Çin, Şirketlere Odaklanarak Yuan İlişkilerini Derinleştirecek",
-    "s": "The central banks of Singapore and China agreed to expand a yuan liquidity facility in the city-state to help finance a broader range of corporate activities, marking another step in efforts to promote the currency’s international use.",
+    "s": "The central banks of Singapore and China will expand ways for financial institutions to access yuan funding in the city-state to help finance a broader range of corporate activities, in another step to promote the currency’s international use.",
     "ss": "Singapur ve Çin merkez bankaları, daha geniş bir kurumsal faaliyet yelpazesinin finansmanına yardımcı olmak için şehir devletindeki yuan likidite olanağını genişletme konusunda anlaşarak, para biriminin uluslararası kullanımını teşvik etme çabalarında bir başka adıma işaret etti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
     "ts": 1795495854000,
+    "tags": []
+   },
+   {
+    "t": "India Banking Cash Turns to Deficit, First Time Since June",
+    "tt": "Hindistan Bankacılık Nakitleri Haziran'dan Bu Yana İlk Kez Açığa Çıktı",
+    "s": "India’s banking-system liquidity slipped into deficit for the first time in about five months, as recent tax outflows drained cash from lenders.",
+    "ss": "Hindistan'ın bankacılık sistemi likiditesi, son vergi çıkışlarının borç verenlerden nakit çekmesi nedeniyle yaklaşık beş aydan bu yana ilk kez açığa çıktı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june",
+    "ts": 1795423330000,
+    "tags": []
+   },
+   {
+    "t": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+    "tt": "Huang'ın Dönüşü Yapay Zekayı Canlandırırken Asya Hisse Senetleri Yükselecek: Piyasalar Tamamlandı",
+    "s": "Asian shares jumped the most since July as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
+    "ss": "Asya hisse senetleri, Jensen Huang'ın Nvidia Corp.'a liderlik etmesiyle ateşlenen bir iyimserlik dalgasına hazır görünüyordu; bu, Wall Street'i Nisan 2025'ten bu yana en iyi gününe taşıyan çarpıcı bir gelişmeydi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795471606000,
+    "tags": []
+   },
+   {
+    "t": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+    "tt": "Altın, Nvidia'nın Huang Sparks Rally'yi Yeniden İşe Almasının Ardından Kazanmayı Tuttu",
+    "s": "Gold held a gain after surging Monday on the back of Jensen Huang’s surprise return to the helm of Nvidia Corp., which recharged bets on artificial intelligence and spurred rallies across markets.",
+    "ss": "Altın, Pazartesi günü Jensen Huang'ın yapay zeka konusundaki bahisleri yeniden canlandıran ve piyasalarda yükselişlere yol açan Nvidia Corp.'un başına sürpriz bir şekilde geri dönmesinin ardından yükselişinin ardından kazançlarını korudu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+    "ts": 1795478817000,
+    "tags": [
+     "Altın ▲"
+    ]
+   },
+   {
+    "t": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
+    "tt": "Huang'ın Geri Dönüşü Yapay Zeka Ticaretini Artırırken Asya Hisse Senetleri Yükseliyor",
+    "s": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping g",
+    "ss": "\"Bloomberg: Asya Ticareti\", Asya'da ticaret günü başlarken ilerlemeniz için bilmeniz gereken her şeyi size getiriyor. Bloomberg TV, Haidi Stroud-Watts ve Avril Hong ile Sidney ve Singapur'dan canlı yayında, haber yapımcıları ve sektör liderlerinden dünyayı şekillendiren en büyük hikayeler hakkında fikir ve analiz alıyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
+    "ts": 1795496429000,
+    "tags": []
+   },
+   {
+    "t": "EV Surge Helps Europe Auto Sales Gains to Nine-Month Run",
+    "tt": "EV Surge, Avrupa Otomobil Satışlarının Dokuz Aylık Dönemde Artmasına Yardımcı Oldu",
+    "s": "European car sales rose for a ninth straight month in October, with a surge in electric-vehicle demand helping sustain a market facing record fuel prices and pressure on household budgets.",
+    "ss": "Avrupa'da otomobil satışları, elektrikli araç talebindeki artışın rekor yakıt fiyatları ve hane halkı bütçeleri üzerindeki baskıyla karşı karşıya olan pazarın sürdürülmesine yardımcı olmasıyla Ekim ayında art arda dokuzuncu ayda da arttı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/ev-surge-helps-europe-auto-sales-gains-to-nine-month-run",
+    "ts": 1795496400000,
+    "tags": []
+   },
+   {
+    "t": "Temasek-Backed M1, Starhub Merge in Singapore Telecoms Shakeup",
+    "tt": "Keppel, M1 ve Starhub'ı Tamamen Hisse Anlaşmasıyla Birleştirmeyi Kabul Ediyor",
+    "s": "Asset manager Keppel Ltd. agreed to combine M1 Ltd. with Starhub Ltd. in an all-share deal, bringing together two major Singaporean telecommunications operators backed by state investor Temasek Holdings Pte.",
+    "ss": "Keppel Ltd., M1'i Starhub Ltd. ile tamamı hisseli bir anlaşmayla birleştirmeyi kabul ederek Singapur'un iki büyük telekomünikasyon operatörünü bir araya getirdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
+    "ts": 1795482447000,
     "tags": []
    },
    {
@@ -397,72 +453,6 @@
     "ss": "Tokyo'nun merkezinde ikinci el konut fiyatları, 13 yıldan fazla bir süreden sonra ilk kez bir yıl öncesine göre düştü; bu, yüksek faiz oranları ve stoklardaki fazlalık nedeniyle piyasanın soğuduğunun bir işareti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
     "ts": 1795486926000,
-    "tags": []
-   },
-   {
-    "t": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
-    "tt": "Goldman, Kazanılan İstikrarın Soğuyan Enflasyondaki Faiz Artışlarını Geride Bıraktığını Söyledi",
-    "s": "Goldman Sachs Group Inc. said stabilizing South Korea’s currency would be a more effective way to curb inflation than raising interest rates, arguing that price pressures stem more from rising import costs than from strong domestic demand.",
-    "ss": "Goldman Sachs Group Inc., fiyat baskılarının güçlü iç talepten ziyade artan ithalat maliyetlerinden kaynaklandığını öne sürerek, Güney Kore para birimini istikrara kavuşturmanın enflasyonu frenlemenin faiz oranlarını yükseltmekten daha etkili bir yol olacağını söyledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
-    "ts": 1795494790000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Keppel Agrees to Merge Telecom Firms M1 and Starhub",
-    "tt": "Keppel, M1 ve Starhub'ı Tamamen Hisse Anlaşmasıyla Birleştirmeyi Kabul Ediyor",
-    "s": "Asset manager Keppel Ltd. agreed to combine M1 Ltd. with Starhub Ltd. in an all-share deal, bringing together two of Singapore’s major telecommunications operators following months of talks.",
-    "ss": "Keppel Ltd., M1'i Starhub Ltd. ile tamamı hisseli bir anlaşmayla birleştirmeyi kabul ederek Singapur'un iki büyük telekomünikasyon operatörünü bir araya getirdi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal",
-    "ts": 1795482447000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 24",
-    "tt": "24 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil pushed lower after sliding more than 3% in the previous session on cautious optimism over efforts to end the US-Iran war.",
-    "ss": "Petrol fiyatları, ABD-İran savaşını sona erdirme çabalarına ilişkin temkinli iyimserliğin etkisiyle önceki seansta neredeyse %4 oranında kayıp yaşadıktan sonra yatay seyretti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/latest-oil-market-news-and-analysis-for-nov-24",
-    "ts": 1795475052000,
-    "tags": []
-   },
-   {
-    "t": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets",
-    "tt": "Avustralya Tahvilleri RBA Kesinti Bahislerinde Hazirandan Bu Yana En Uzun Yükselişini Gerçekleştirecek",
-    "s": "Australia’s bond market is heading for its longest rally in over five months as mounting signs of economic weakness fuel bets the Reserve Bank’s next move will be an interest-rate cut.",
-    "ss": "Avustralya tahvil piyasası, artan ekonomik zayıflık işaretlerinin Merkez Bankası'nın bir sonraki hamlesinin faiz indirimi olacağı yönündeki iddiaları körüklemesiyle beş aydan uzun bir sürenin en uzun yükselişine doğru ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
-    "ts": 1795493172000,
-    "tags": [
-     "DXY ▼",
-     "Altın ▲",
-     "Gümüş ▲",
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
-    "tt": "Huang'ın Dönüşü Yapay Zekayı Canlandırırken Asya Hisse Senetleri Yükselecek: Piyasalar Tamamlandı",
-    "s": "Asian shares jumped the most since July as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
-    "ss": "Asya hisse senetleri, Jensen Huang'ın Nvidia Corp.'a liderlik etmesiyle ateşlenen bir iyimserlik dalgasına hazır görünüyordu; bu, Wall Street'i Nisan 2025'ten bu yana en iyi gününe taşıyan çarpıcı bir gelişmeydi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795471606000,
-    "tags": []
-   },
-   {
-    "t": "GQG Shares Set for Record Surge in Sydney With AI Trade Revival",
-    "tt": "GQG Hisseleri Yapay Zeka Ticaretinin Canlanmasıyla Sidney'de Rekor Artışa Hazır",
-    "s": "GQG Partners Inc.’s Australia-listed shares are on track for a record daily gain, as a rebound in the artificial intelligence trade drew investors back into Rajiv Jain’s beaten-down investment firm.",
-    "ss": "GQG Partners Inc.'in Avustralya'da listelenen hisseleri, yapay zeka ticaretindeki toparlanmanın yatırımcıları Rajiv Jain'in mağlup yatırım şirketine geri çekmesiyle rekor günlük kazanç yolunda ilerliyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gqg-shares-set-for-record-surge-in-sydney-with-ai-trade-revival",
-    "ts": 1795491720000,
     "tags": []
    }
   ],
@@ -658,6 +648,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Korybko: Does Putin Really Have Poland In His Sights?",
+    "tt": "Korybko: Putin'in Hedefinde Gerçekten Polonya Var mı?",
+    "s": "Korybko: Does Putin Really Have Poland In His Sights? Authored by Andrew Korybko via Substack , Putin isn't afraid of Poland since Russia could just nuke it in self-defense, rather, he's afraid that Poland could become the tripwire for World War III if it's manipulated by a false flag into invading ",
+    "ss": "Korybko: Putin'in Hedefinde Gerçekten Polonya Var mı? Substack aracılığıyla Andrew Korybko tarafından yazılan Putin, Polonya'dan korkmuyor, çünkü Rusya nefsi müdafaa amacıyla nükleer bomba atabilir; aksine, Polonya'nın sahte bir bayrakla işgale yönlendirilmesi halinde Üçüncü Dünya Savaşı'nın tuzak teli haline gelmesinden korkuyor.",
+    "u": "https://www.zerohedge.com/geopolitical/korybko-does-putin-really-have-poland-his-sights",
+    "ts": 1795499400000,
+    "tags": []
+   },
+   {
+    "t": "Trump's State Department Lines Up $1 Million To Document Violence Against Afrikaners",
+    "tt": "Trump Dışişleri Bakanlığı Afrikalılara Yönelik Şiddeti Belgelemek İçin 1 Milyon Dolar Kaynak Ayırdı",
+    "s": "Trump's State Department Lines Up $1 Million To Document Violence Against Afrikaners The State Department is preparing to hand nearly $1 million to AfriForum, the Afrikaner civil rights group that has spent years cataloguing South Africa's farm attacks , to build what the department's funding notice",
+    "ss": "Trump'ın Dışişleri Bakanlığı, Afrikanerlilere Yönelik Şiddeti Belgelemek İçin 1 Milyon Dolar Kaynak Ayırdı Dışişleri Bakanlığı, bakanlığın fon duyurusunu oluşturmak için yıllarca Güney Afrika'daki çiftlik saldırılarını kataloglayan Afrikaner sivil haklar grubu AfriForum'a yaklaşık 1 milyon dolar bağışlamaya hazırlanıyor",
+    "u": "https://www.zerohedge.com/geopolitical/trumps-state-department-lines-1-million-document-violence-against-afrikaners",
+    "ts": 1795497300000,
+    "tags": []
+   },
+   {
     "t": "Saudi Arabia Turns To South Korea, Ukraine To Bolster Air Defenses",
     "tt": "Suudi Arabistan Hava Savunmasını Güçlendirmek İçin Güney Kore ve Ukrayna'ya Dönüyor",
     "s": "Saudi Arabia Turns To South Korea, Ukraine To Bolster Air Defenses Via The Cradle Amid difficulty in defending its territory during wars with Iran and Yemen, Saudi Arabia is seeking to bolster its US-made air defenses by partnering with additional countries and producing missile interceptors and dro",
@@ -728,27 +736,45 @@
     "u": "https://www.zerohedge.com/political/not-1990-swalwell-ally-jimmy-gomez-quits-after-ethics-panel-finds-bar-encounter-staffer",
     "ts": 1795485300000,
     "tags": []
-   },
-   {
-    "t": "\"Don't Ask About Our Methods\": California's Samurai Eviction Squad Faces A Jury",
-    "tt": "\"Yöntemlerimiz Hakkında Sormayın\": Kaliforniya'nın Samuray Tahliye Ekibi Jüriyle Karşı Karşıya",
-    "s": "\"Don't Ask About Our Methods\": California's Samurai Eviction Squad Faces A Jury James Jacobs, the katana-carrying founder of ASAP Squatter Removal, is headed for a jury trial over a 2 a.m. raid on a San Bruno home - and ten months after his crew broke in, the man they came to throw out is still livi",
-    "ss": "\"Yöntemlerimizi Sormayın\": Kaliforniya'nın Samuray Tahliye Ekibi Jüriyle Karşı Karşıya ASAP Gecekondu Kaldırma'nın katana taşıyan kurucusu James Jacobs, sabah saat 2'de San Bruno'daki bir eve yapılan baskın nedeniyle jüri duruşmasına gidiyor - ve ekibi içeri girdikten on ay sonra, dışarı atmaya geldikleri adam hâlâ hayatta.",
-    "u": "https://www.zerohedge.com/political/dont-ask-about-our-methods-californias-samurai-eviction-squad-faces-jury",
-    "ts": 1795483800000,
-    "tags": []
-   },
-   {
-    "t": "Trump Torts: Will Defamation Law Be One Of Trump's Most Lasting Legacies?",
-    "tt": "Trump Haksız Fiiller: Hakaret Yasası Trump'ın En Kalıcı Miraslarından Biri mi Olacak?",
-    "s": "Trump Torts: Will Defamation Law Be One Of Trump's Most Lasting Legacies? Authored by Jonathan Turley via JonathanTurley.org , Below is my column in The Hill on a couple of wins for President Donald Trump in defamation cases last week. While Trump's legacy in various areas is still emerging, his imp",
-    "ss": "Trump Haksız Fiiller: Hakaret Yasası Trump'ın En Kalıcı Miraslarından Biri mi Olacak? Jonathan Turley tarafından JonathanTurley.org aracılığıyla yazılmıştır. Aşağıda, Başkan Donald Trump'ın geçen hafta hakaret davalarında kazandığı birkaç galibiyetle ilgili The Hill'deki köşe yazım yer alıyor. Trump'ın çeşitli alanlardaki mirası hâlâ ortaya çıkarken, onun imp'i",
-    "u": "https://www.zerohedge.com/political/trump-torts-will-defamation-law-be-one-trumps-most-lasting-legacies",
-    "ts": 1795482300000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Petrolde jeopolitik iyimserlik",
+    "tt": null,
+    "s": "Petrol fiyatları, ABD-İran savaşını sona erdirmeye yönelik diplomatik çabaların yarattığı temkinli iyimserlikle önceki gün yüzde 3'ten fazla değer kaybetmesinin ardından düşüşünü sürdürdü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrolde-jeopolitik-iyimserlik-3795503",
+    "ts": 1795498840000,
+    "tags": []
+   },
+   {
+    "t": "Küresel piyasalarda Nvidia gündemi",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump'ın müdahalesinin ardından Jensen Huang'ın yeniden CEO olarak atanması, Nvidia hisselerinde sert yükselişi tetiklerken Wall Street'in geneline de destek verdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-nvidia-gundemi-3795502",
+    "ts": 1795498156000,
+    "tags": []
+   },
+   {
+    "t": "Citadel'den küresel finansal kriz uyarısı",
+    "tt": null,
+    "s": "Citadel, Fed'in daha şahin bir tutuma yöneldiği bir dönemde büyüme görünümünün zayıfladığına dikkat çekerek, mevcut piyasa koşullarının 2018 sonundaki sert satışlar öncesine benzediği uyarısında bulundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/citadel-den-kuresel-finansal-kriz-uyarisi-3795501",
+    "ts": 1795497786000,
+    "tags": []
+   },
+   {
+    "t": "Fed cephesinde faiz artışlarına destek büyüyor",
+    "tt": null,
+    "s": "New York Fed Başkanı Williams, enflasyonun halen fazla yüksek olduğunu ve yüzde 2 hedefine dönmek için Fed'in zaman içinde adım atması gerektiğini söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fed-cephesinde-faiz-artislarina-destek-buyuyor-3795500",
+    "ts": 1795497225000,
+    "tags": []
+   },
    {
     "t": "Resmi Gazete'de bugün (24.11.2026)",
     "tt": null,
@@ -801,42 +827,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/almanya-ve-ukrayna-savunma-isbirligini-genisletiyor-3795494",
     "ts": 1795466383000,
-    "tags": []
-   },
-   {
-    "t": "CrowdStrike, Zscaler'ı 43,9 milyar dolara satın alıyor",
-    "tt": null,
-    "s": "Siber güvenlik şirketi CrowdStrike, bulut tabanlı güvenlik şirketi Zscaler'ı 43,9 milyar dolarlık, tamamen hisse takasına dayalı bir anlaşmayla satın alacak.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/crowdstrike-zscaler-i-43-9-milyar-dolara-satin-aliyor-3795493",
-    "ts": 1795463986000,
-    "tags": []
-   },
-   {
-    "t": "Trump: Çin'in 250 Boeing daha almasını bekliyorum",
-    "tt": null,
-    "s": "ABD Başkanı Donald Trump, Çin'e 250 Boeing uçağı sattığını belirterek, 250 uçak daha almalarını beklediğini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/trump-cin-in-250-boeing-daha-almasini-bekliyorum-3795492",
-    "ts": 1795461656000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de yüksek gelirli tüketiciler de taksitli ödemeye yöneldi",
-    "tt": null,
-    "s": "Block'un araştırmasına göre, ABD'de \"şimdi al, sonra öde\" (BNPL) hizmetleri farklı gelir ve yaş gruplarında yaygınlaşıyor. Yüksek gelirli tüketiciler de nakitlerini korumak ve harcamalarını zamana yaymak için bu taksitli ödemeye yöneliyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-yuksek-gelirli-tuketiciler-de-taksitli-odemeye-yoneldi-3795491",
-    "ts": 1795460229000,
-    "tags": []
-   },
-   {
-    "t": "İran'dan halka enerji tasarrufu çağrısı",
-    "tt": null,
-    "s": "İran Petrol Bakan Vekili Hamid Boverd, yüksek enerji tüketimine dikkati çekerek halktan dizel yakıt başta olmak üzere enerji kullanımını azaltmasını istedi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-dan-halka-enerji-tasarrufu-cagrisi-3795490",
-    "ts": 1795458096000,
     "tags": []
    }
   ]
