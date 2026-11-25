@@ -1,81 +1,81 @@
 {
- "generated": "2026-11-25T17:28:11.491930+00:00",
+ "generated": "2026-11-25T18:20:45.092787+00:00",
  "prices": [
   {
    "n": "S&P 500",
-   "p": 7080.49,
-   "c": -1.67,
-   "d": -120.6,
+   "p": 7164.54,
+   "c": -0.51,
+   "d": -36.55,
    "k": "idx"
   },
   {
    "n": "Nasdaq",
-   "p": 23091.44,
-   "c": -2.71,
-   "d": -642.099,
+   "p": 23446.346,
+   "c": -1.21,
+   "d": -287.193,
    "k": "idx"
   },
   {
    "n": "Dow",
-   "p": 49743.81,
-   "c": -0.55,
-   "d": -274.889,
+   "p": 50203.82,
+   "c": 0.37,
+   "d": 185.121,
    "k": "idx"
   },
   {
    "n": "VIX",
-   "p": 31.06,
-   "c": 17.83,
-   "d": 4.7,
+   "p": 29.6,
+   "c": 12.29,
+   "d": 3.24,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3534.3,
-   "c": -0.77,
-   "d": -27.6,
+   "p": 3555.2,
+   "c": -0.19,
+   "d": -6.7,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.01,
-   "c": -1.84,
-   "d": -0.75,
+   "p": 40.405,
+   "c": -0.87,
+   "d": -0.355,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.48,
-   "c": 1.74,
-   "d": 1.43,
+   "p": 83.7,
+   "c": 2.01,
+   "d": 1.65,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.05,
-   "c": -1.48,
-   "d": -1.35,
+   "p": 90.42,
+   "c": -1.07,
+   "d": -0.98,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.603,
+   "p": 103.602,
    "c": -0.2,
-   "d": -0.207,
+   "d": -0.208,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.832,
-   "c": -1.47,
-   "d": -0.072,
+   "p": 4.836,
+   "c": -1.39,
+   "d": -0.068,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.6742,
-   "c": 0.15,
-   "d": 0.073,
+   "p": 50.6715,
+   "c": 0.14,
+   "d": 0.071,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59063,
-   "c": -1.03,
+   "p": 59885,
+   "c": -0.14,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1656.68,
-   "c": -1.14,
+   "p": 1689.48,
+   "c": 0.38,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 68.55,
-   "c": -0.9,
+   "p": 69.91,
+   "c": 0.52,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.915977,
-   "c": 0.07,
+   "p": 0.928789,
+   "c": 0.59,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 543.68,
-   "c": -0.55,
+   "p": 550.25,
+   "c": 0.06,
    "k": "usd"
   }
  ],
@@ -374,6 +374,66 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Ontario Teachers’ CEO Says ‘Very Long’ AI Buildout Imperils Bets",
+    "tt": "Ontario Öğretmenler CEO'su \"Çok Uzun\" Yapay Zeka Oluşturma Imperils Bahislerini Söyledi",
+    "s": "Ontario Teachers’ Pension Plan Chief Executive Officer Jo Taylor said the success of artificial intelligence will hinge on how long it takes to build infrastructure for the technology.",
+    "ss": "Ontario Öğretmen Emeklilik Planı İcra Kurulu Başkanı Jo Taylor, yapay zekanın başarısının, teknoloji için altyapı oluşturmanın ne kadar zaman alacağına bağlı olacağını söyledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/ontario-teachers-ceo-says-very-long-ai-buildout-imperils-bets",
+    "ts": 1795629771000,
+    "tags": []
+   },
+   {
+    "t": "Treasury Yields Hit Two-Month Low as Risk-Off Move Accelerates",
+    "tt": "Hazine Getirileri, Hisse Senedi Bozgununun Yoğunlaşmasıyla İki Ayın En Düşük Seviyesine Düştü",
+    "s": "Treasuries soared on Wednesday as a full-blown selloff in global equities over the sustainability of the AI trade prompted investors to rush into the safety of US government debt.",
+    "ss": "Yapay zeka ticaretinin sürdürülebilirliği üzerine küresel hisse senetlerinde yaşanan sert satışın yatırımcıları ABD devlet borçlarının güvenliğine itmesiyle hazine tahvilleri Çarşamba günü yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+    "ts": 1795589374000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Stocks Fall as AI Jitters Spur Rush to Treasuries: Markets Wrap",
+    "tt": "Yapay Zeka Gerginlikleri Hazine Tahvillerine Yönelirken Hisse Senetleri Düşüyor: Piyasalar Sarsıntılı",
+    "s": "Another burst of selling in tech stocks rattled Wall Street on mounting doubts about the artificial-intelligence trade, with investors turning to the safety of bonds.",
+    "ss": "Teknoloji hisselerinde bir başka satış patlaması, yatırımcıların tahvil güvenliğine yönelmesiyle birlikte yapay zeka ticaretine ilişkin şüphelerin artması nedeniyle Wall Street'i sarstı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+    "ts": 1795558158000,
+    "tags": []
+   },
+   {
+    "t": "JPMorgan Backs Drone Engine Maker’s Muni Sale in Wisconsin",
+    "tt": "JPMorgan, Drone Motoru Üreticisinin Wisconsin'deki Muni Satışını Destekliyor",
+    "s": "A drone engine manufacturer is making its debut in the US municipal bond market with a familiar name standing behind the debt: JPMorgan Chase &amp; Co.",
+    "ss": "Bir drone motoru üreticisi, borcun arkasında duran tanıdık bir isimle ABD belediye tahvili piyasasında ilk kez sahneye çıkıyor: JPMorgan Chase & Co.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
+    "ts": 1795620002000,
+    "tags": []
+   },
+   {
+    "t": "Nasdaq 100 Slumps as AI Worries Fuel Selloff in Tech Shares",
+    "tt": "Nasdaq 100, Yapay Zeka Endişelerinin Teknoloji Hisselerindeki Satışları Artırmasıyla Düştü",
+    "s": "The Nasdaq 100 Index declined for a second day, sending it briefly into bear-market territory before paring some losses, as mounting fears about over-investment in AI pummeled shares of the biggest technology companies.",
+    "ss": "Nasdaq 100 Endeksi ikinci günde de düşüş yaşadı ve yapay zekaya aşırı yatırım yapılmasına ilişkin artan korkuların en büyük teknoloji şirketlerinin hisselerini altüst etmesiyle, bazı kayıplarını telafi etmeden önce kısa süreliğine ayı piyasası bölgesine girdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+    "ts": 1795593103000,
+    "tags": []
+   },
+   {
+    "t": "BC Partners Buys GSE Agency With Golfer DeChambeau on List",
+    "tt": "BC Partners, Golfçü DeChambeau'nun Listede Olduğu GSE Ajansını Satın Aldı",
+    "s": "BC Partners’ credit arm has agreed to buy a majority stake in GSE Worldwide, a sports marketing agency which represents athletes such as golf celebrity Bryson DeChambeau and former NFL and MLB star Bo Jackson.",
+    "ss": "BC Partners'ın kredi kolu, golf ünlüsü Bryson DeChambeau ve eski NFL ve MLB yıldızı Bo Jackson gibi sporcuları temsil eden bir spor pazarlama ajansı olan GSE Worldwide'ın çoğunluk hissesini satın almayı kabul etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
+    "ts": 1795615260000,
+    "tags": []
+   },
+   {
     "t": "CoreWeave’s Banks to Sell $4.5 Billion Meta-Tied Loan Next Week",
     "tt": "CoreWeave Bankaları Gelecek Hafta 4,5 Milyar Dolarlık Meta Bağlı Kredi Satacak",
     "s": "CoreWeave Inc.’s bankers at Morgan Stanley and Mitsubishi UFJ Financial Group Inc. are preparing a $4.5 billion loan sale for as soon as next week, with the financing secured by graphics processing units for Meta Platforms Inc.",
@@ -414,65 +474,6 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
-   },
-   {
-    "t": "Michael Burry Is More Long Than Short After Dumping Nasdaq Puts",
-    "tt": "Michael Burry, Nasdaq Satışlarını Düşürdükten Sonra Kısadan Daha Uzun",
-    "s": "The selloff in technology stocks has left investor Michael Burry, who became famous for betting against the US mortgage market in 2008, with more long equity positions than short ones after unloading his put options on the tech-heavy Nasdaq 100 Index.",
-    "ss": "Teknoloji hisselerindeki satışlar, 2008'de ABD mortgage piyasasına karşı bahis oynamasıyla ünlü olan yatırımcı Michael Burry'yi, teknoloji ağırlıklı Nasdaq 100 Endeksi'ndeki satım opsiyonlarını boşalttıktan sonra kısa pozisyonlara kıyasla daha uzun hisse pozisyonlarıyla baş başa bıraktı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts",
-    "ts": 1795627089000,
-    "tags": []
-   },
-   {
-    "t": "US Army Detonates Explosives Cache in Middletown, Iowa",
-    "tt": "ABD Ordusu Middletown, Iowa'da Patlayıcı Deposunu Patlattı",
-    "s": "The US Army blew up five tons of hazardous materials stored at a facility in Iowa, with early indications suggesting planners had averted the worst-case scenario of a massive cloud of toxic lead. (Source: Bloomberg)",
-    "ss": "ABD Ordusu, Iowa'daki bir tesiste depolanan beş ton tehlikeli maddeyi havaya uçurdu; ilk göstergeler, planlamacıların devasa bir toksik kurşun bulutu şeklindeki en kötü senaryoyu önlediğini gösteriyordu. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-25/us-army-detonates-explosives-cache-in-middletown-iowa-video",
-    "ts": 1795626706000,
-    "tags": []
-   },
-   {
-    "t": "Russian Refinery Runs Drop to Lowest in Decades, Rystad Says",
-    "tt": "Rystad, Rus Rafinerisinin Faaliyetlerinin Son On Yılların En Düşük Seviyesine Düştüğünü Söyledi",
-    "s": "Russia’s oil processing rates have plunged to the lowest in more than two decades as Ukraine continues to strike refineries, according to Rystad Energy, heaping pressure on the country’s domestic fuel supplies.",
-    "ss": "Rystad Energy'ye göre, Ukrayna'nın rafinerilere saldırmaya devam etmesi ve ülkenin yerli yakıt tedariki üzerindeki baskının artmasıyla Rusya'nın petrol işleme oranları yirmi yılı aşkın sürenin en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/russian-refinery-runs-plunge-to-lowest-in-decades-rystad-says",
-    "ts": 1795624696000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "El Salvador Finally Reaps Economic Gains From Gang Crackdown",
-    "tt": "El Salvador Nihayet Çete Baskılarından Ekonomik Kazanç Elde Ediyor",
-    "s": "El Salvador’s economic fortunes are finally starting to match its dramatic improvement in security.",
-    "ss": "El Salvador'un ekonomik şansı nihayet güvenlikteki dramatik iyileşmeyle eşleşmeye başlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown",
-    "ts": 1795625727000,
-    "tags": []
-   },
-   {
-    "t": "Treasury Yields Sink to Two-Month Low as Stocks Rout Intensifies",
-    "tt": "Hazine Getirileri, Hisse Senedi Bozgununun Yoğunlaşmasıyla İki Ayın En Düşük Seviyesine Düştü",
-    "s": "Treasuries soared on Wednesday as a full-blown selloff in global equities over the sustainability of the AI trade prompted investors to rush into the safety of US government debt.",
-    "ss": "Yapay zeka ticaretinin sürdürülebilirliği üzerine küresel hisse senetlerinde yaşanan sert satışın yatırımcıları ABD devlet borçlarının güvenliğine itmesiyle hazine tahvilleri Çarşamba günü yükseldi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-    "ts": 1795589374000,
-    "tags": []
-   },
-   {
-    "t": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
-    "tt": "Anthropic'in Halka Arz Sonrası Mücadeleleri, SpaceX'in İlk Günleriyle Zıtlık Oluşturuyor",
-    "s": "Anthropic PBC is experiencing a rougher initiation to public markets than SpaceX, and a host of market and technical factors threaten to weigh down its stock performance before the Claude developer reports for the first time as a public company early next year.",
-    "ss": "Antropik PBC, kamu piyasalarına SpaceX'ten daha zorlu bir başlangıç ​​yaşıyor ve Claude geliştiricisinin gelecek yılın başında halka açık bir şirket olarak ilk kez rapor vermesi öncesinde bir dizi piyasa ve teknik faktör, hisse senedi performansını düşürme tehdidinde bulunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
-    "ts": 1795625100000,
-    "tags": []
    }
   ],
   "CNBC": [
@@ -569,6 +570,33 @@
   ],
   "MarketWatch": [
    {
+    "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+    "tt": "Nvidia'dan Jensen Huang'ın 401(k) bakiyenizi dikte etmesi durumunda tehlikeli zamanlarda yaşıyoruz",
+    "s": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+    "ss": "Huang'ın ileri görüşlü vizyonuna sahip bir fütürist neden tüm yolların kendisine çıktığı bir şirket kurdu?",
+    "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "ts": 1795629600000,
+    "tags": []
+   },
+   {
+    "t": "Why this stock-market selloff is probably going to get worse before it gets better",
+    "tt": "Neden borsadaki bu satışlar iyileşmeden önce muhtemelen daha da kötüleşecek?",
+    "s": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+    "ss": "Pazartesi günkü ralli, kalıcı bir dip noktasına ulaşmadan önce çözülmesi gereken daha derin sorunların ele alınmasına yardımcı oldu.",
+    "u": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+    "ts": 1795628340000,
+    "tags": []
+   },
+   {
+    "t": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+    "tt": "Enflasyon kötüleşiyor. Artık Fed'in ABD faiz oranlarını artırmaktan başka seçeneği yok.",
+    "s": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
+    "ss": "Federal Rezerv'in ABD faiz oranlarını etkilemek için kullandığı enflasyon ölçüsü Ekim ayında yeniden hızlandırılmış bir oranda yükseldi ve neredeyse merkez bankasının gelecek ay borçlanma maliyetlerini artıracağına dair güvence verdi.",
+    "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+    "ts": 1795627860000,
+    "tags": []
+   },
+   {
     "t": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
     "tt": "HP'nin hisseleri teknoloji rotasında dikkat çekici bir kazanç elde ederken, kazançların aşılması hâlâ önemli",
     "s": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
@@ -630,36 +658,36 @@
     "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
     "ts": 1795625100000,
     "tags": []
-   },
-   {
-    "t": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-    "tt": "66 yaşındaki hemşire, biriktirdiği sadece 500 dolarla emeklilikle karşı karşıya. Kim suçlanacak?",
-    "s": "“Retirement is a financial status, not an age.”",
-    "ss": "“Emeklilik bir yaş değil, mali durumdur.”",
-    "u": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "ts": 1795624200000,
-    "tags": []
-   },
-   {
-    "t": "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
-    "tt": "Şükran Günü uçuşunuz gecikirse ne yapmalısınız - özellikle de Nor'easter yaklaşırken",
-    "s": "Plus some advice on cutting your Thanksgiving grocery tab.",
-    "ss": "Ayrıca Şükran Günü bakkaliye faturanızı kesmeniz için bazı tavsiyeler.",
-    "u": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
-    "ts": 1795623660000,
-    "tags": []
-   },
-   {
-    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
-    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
-    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
-    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "ts": 1795623300000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "FCC Clears Musk's Million-Satellite AI Empire In Heavens As Dems Signal Moratoriums On Earth",
+    "tt": "FCC, Dems Dünyadaki Moratoryumların Sinyalini Verirken Musk'un Milyon Uydulu Yapay Zeka İmparatorluğunu Göklerde Temizledi",
+    "s": "FCC Clears Musk's Million-Satellite AI Empire In Heavens As Dems Signal Moratoriums On Earth FCC Chairman Brendan Carr announced on X that SpaceX had received authorization to deploy up to 1 million orbital compute modules for space-based data centers. \" Today, in a historic first, the FCC approved ",
+    "ss": "FCC, Dems'in Dünya'daki Moratoryumlara Sinyal Vermesiyle Musk'un Milyon Uydulu Yapay Zeka İmparatorluğunu Göklerde Temizledi FCC Başkanı Brendan Carr, X'te SpaceX'in uzay tabanlı veri merkezleri için 1 milyona kadar yörünge bilgi işlem modülünü dağıtma yetkisi aldığını duyurdu. \" Bugün, tarihi bir ilkle, FCC onayladı",
+    "u": "https://www.zerohedge.com/markets/fcc-clears-musks-million-satellite-ai-empire-heavens-dems-signal-moratoriums-earth",
+    "ts": 1795630200000,
+    "tags": []
+   },
+   {
+    "t": "German Judge Hands Would-Be Citizen A Children's Book, Exposing Her Fake Language Certificate",
+    "tt": "Alman Yargıç, Sahte Dil Sertifikasını İfşa Eden Vatandaş Olmak Üzere Bir Çocuk Kitabı Verdi",
+    "s": "German Judge Hands Would-Be Citizen A Children's Book, Exposing Her Fake Language Certificate Authored by Remix News Staff via Remix News , In a local court in Wildeshausen in Lower Saxony, a simple children's book became the decisive piece of evidence against a 45-year-old Iraqi woman seeking Germa",
+    "ss": "Alman Yargıç, Sahte Dil Sertifikasını İfşa Eden Vatandaş Müstakbel Vatandaşa Bir Çocuk Kitabı Verdi Remix Haber Çalışanları tarafından Remix News aracılığıyla hazırlandı , Aşağı Saksonya'daki Wildeshausen'deki yerel bir mahkemede, basit bir çocuk kitabı, Germa'yı arayan 45 yaşındaki Iraklı bir kadına karşı kesin delil haline geldi",
+    "u": "https://www.zerohedge.com/geopolitical/german-judge-hands-would-be-citizen-childrens-book-exposing-her-fake-language",
+    "ts": 1795629600000,
+    "tags": []
+   },
+   {
+    "t": "Democrats Are Already Betraying Their Biggest Campaign Promise, And The Base Is Going To Be Furious",
+    "tt": "Demokratlar Zaten En Büyük Kampanya Vaatlerine İhanet Ediyor Ve Taban Öfkelenecek",
+    "s": "Democrats Are Already Betraying Their Biggest Campaign Promise, And The Base Is Going To Be Furious Well, that didn't take long. Just weeks after the midterms, Democrats are already dialing back their Medicare for All ambitions as the campaign trail's fantastical healthcare promises collide with fis",
+    "ss": "Demokratlar Zaten En Büyük Kampanya Vaatlerine İhanet Ediyorlar Ve Taban Öfkelenecek Peki, bu çok uzun sürmedi. Ara seçimlerden sadece haftalar sonra, kampanya sürecinin fantastik sağlık vaatleri fis ile çatışırken, Demokratlar Herkes için Medicare hedeflerini geri çekmeye başladı bile.",
+    "u": "https://www.zerohedge.com/political/democrats-are-already-betraying-their-biggest-campaign-promise-and-base-going-be-furious",
+    "ts": 1795629300000,
+    "tags": []
+   },
    {
     "t": "Texas' First Data-Center Permit After The Freeze Went To SpaceX's $24B Starbase Project",
     "tt": "Donmadan Sonra Teksas'ın İlk Veri Merkezi İzni SpaceX'in 24 Milyar Dolarlık Starbase Projesine Gitti",
@@ -722,41 +750,27 @@
     "u": "https://www.zerohedge.com/political/when-we-hang-elon-musk-democratic-socialist-americas-la-leaders-violent-bluesky-posts",
     "ts": 1795623000000,
     "tags": []
-   },
-   {
-    "t": "WTI Holds Gains After Big SPR Drain, Record US Crude Production",
-    "tt": "WTI, Büyük SPR Gerilemesinin Ardından Kazançlarını Koruyarak ABD Ham Petrol Üretiminde Rekor Tuttu",
-    "s": "WTI Holds Gains After Big SPR Drain, Record US Crude Production Oil edged higher this morning (WTI back above $83 and Brent above $92) as escalating attacks in the Middle East clouded the recovery in crude shipments from the region in recent months. Saudi Arabian forces&nbsp;said&nbsp;early on Wedne",
-    "ss": "WTI, Büyük SPR Gerilemesinin Ardından Kazançlarını Korudu, Rekor ABD Ham Petrol Üretimi bu sabah yükseldi (WTI yeniden 83 doların üzerine çıktı ve Brent 92 doların üzerine çıktı), Orta Doğu'da artan saldırıların son aylarda bölgeden yapılan ham petrol sevkıyatlarındaki toparlanmayı gölgelemesiyle. Suudi Arabistan kuvvetleri Çarşamba günü erken saatlerde bunu söyledi",
-    "u": "https://www.zerohedge.com/energy/wti-holds-gains-after-big-spr-drain-record-us-crude-production",
-    "ts": 1795622400000,
-    "tags": [
-     "Petrol ▲",
-     "DXY ▲",
-     "Altın ▼",
-     "BTC ▼"
-    ]
-   },
-   {
-    "t": "DOJ Forced Into Embarrassing Apology Over Ilhan Omar Raid",
-    "tt": "Adalet Bakanlığı, İlhan Omar Baskını Üzerine Utanç verici Özür Dilemek Zorunda Kaldı",
-    "s": "DOJ Forced Into Embarrassing Apology Over Ilhan Omar Raid The Justice Department apologized to a federal court on Tuesday for telling it that the House of Representatives' top lawyer had endorsed its view that Rep. Ilhan Omar's home was outside the Constitution's protections for lawmakers , admittin",
-    "ss": "Adalet Bakanlığı, İlhan Omar Baskını Nedeniyle Utanç verici Özür Dilemek Zorunda Kaldı Adalet Bakanlığı, Temsilciler Meclisi'nin baş avukatının Temsilci İlhan Omar'ın evinin Anayasa'nın milletvekillerine yönelik koruması dışında olduğu yönündeki görüşünü desteklediğini söylediği için Salı günü federal mahkemeden özür diledi.",
-    "u": "https://www.zerohedge.com/political/houses-top-lawyer-never-blessed-omar-raid-after-all-doj-admits",
-    "ts": 1795622400000,
-    "tags": []
-   },
-   {
-    "t": "\"It's Very Clear In The Data\": Ramp CEO Says AI's Jevons Paradox Broke",
-    "tt": "\"Veriler Çok Açık\": Ramp CEO'su Yapay Zekanın Jevons Paradoksunun Bozulduğunu Söyledi",
-    "s": "\"It's Very Clear In The Data\": Ramp CEO Says AI's Jevons Paradox Broke For two years, every cut in the price of AI was supposed to pay for itself. Now the CEO of the corporate card company that watches what tens of thousands of American businesses actually spend on OpenAI and Anthropic says that mat",
-    "ss": "\"Veriler Çok Açık\": Ramp CEO'su, Yapay Zekanın Jevons Paradoksunun Bozulduğunu Söyledi İki yıl boyunca, yapay zekanın fiyatındaki her kesintinin kendi maliyetini karşılaması gerekiyordu. Artık on binlerce Amerikan işletmesinin OpenAI ve Anthropic'e gerçekte ne kadar harcadığını izleyen kurumsal kart şirketinin CEO'su şunu söylüyor:",
-    "u": "https://www.zerohedge.com/ai/its-very-clear-data-ramp-ceo-says-ais-jevons-paradox-broke",
-    "ts": 1795620900000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "HSK kararnamesiyle 957 hakim ve savcının görev yeri değişti",
+    "tt": null,
+    "s": "HSK'nin yayımladığı mazeret kararnamesiyle 957 hakim ve savcı yeni görevlere atandı. İstanbul Anadolu Cumhuriyet Başsavcılığına Kemal Aktaş, Bakırköy Cumhuriyet Başsavcılığına Ömer Örücü, İzmir Cumhuriyet Başsavcılığına ise Kurtca Eker getirildi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/hsk-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-3795682",
+    "ts": 1795630184000,
+    "tags": []
+   },
+   {
+    "t": "AB'den ABD'nin 'kapasite fazlası' iddiasına yalanlama",
+    "tt": null,
+    "s": "AB Komisyonu, ABD'nin ek gümrük vergilerine gerekçe gösterdiği Avrupa'nın sanayide kapasite fazlasına yol açtığı iddiasını reddetti. Komisyon, alınacak tedbirlerin Turnberry ticaret mutabakatına ve yüzde 15'lik tarife tavanına uygun olmasını beklediğini bildirdi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-den-abd-nin-kapasite-fazlasi-iddiasina-yalanlama-3795681",
+    "ts": 1795627818000,
+    "tags": []
+   },
    {
     "t": "Hassett: Enflasyon hedefin biraz üzerinde olabilir ama hızlanmıyor",
     "tt": null,
@@ -827,24 +841,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/fedin-favori-enflasyon-gostergesi-3-ayda-da-yuzde-0-3-artti-3795658",
     "ts": 1795614244000,
-    "tags": []
-   },
-   {
-    "t": "İSO Başkanı Dalgakıran'dan rekabet uyarısı",
-    "tt": null,
-    "s": "İstanbul Sanayi Odası Başkanı Adnan Dalgakıran, düşük ücretler üzerine bir rekabet hesabı yapılabilecek dönemin geride kaldığını söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iso-baskani-dalgakiran-dan-rekabet-uyarisi-3795656",
-    "ts": 1795614036000,
-    "tags": []
-   },
-   {
-    "t": "Henkel'in üçünçü çeyrek satışları yüzde 11 arttı",
-    "tt": null,
-    "s": "Henkel grup düzeyinde satışlarını yüzde 11 oranında artışla 5,7 milyar euroya çıkardı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/henkel-in-ucuncu-ceyrek-satislari-yuzde-11-artti-3795654",
-    "ts": 1795613530000,
     "tags": []
    }
   ]
