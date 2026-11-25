@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T00:25:40.249243+00:00",
+ "generated": "2026-11-25T01:57:41.332531+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3547.8,
-   "c": -2.84,
-   "d": -103.6,
+   "p": 3550.0,
+   "c": -2.78,
+   "d": -101.4,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.705,
-   "c": -5.66,
-   "d": -2.442,
+   "p": 40.865,
+   "c": -5.29,
+   "d": -2.282,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.7,
-   "c": 1.91,
-   "d": 1.53,
+   "p": 81.47,
+   "c": 1.62,
+   "d": 1.3,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.51,
-   "c": -0.96,
-   "d": -0.86,
+   "p": 88.24,
+   "c": -1.26,
+   "d": -1.13,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.848,
-   "c": -0.45,
-   "d": -0.472,
+   "p": 103.882,
+   "c": -0.42,
+   "d": -0.438,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6632,
-   "c": 0.12,
-   "d": 0.062,
+   "p": 50.669,
+   "c": 0.13,
+   "d": 0.068,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59543,
-   "c": -2.74,
+   "p": 59224,
+   "c": -3.08,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1672.29,
-   "c": -2.04,
+   "p": 1657.83,
+   "c": -2.84,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 69.72,
-   "c": -3.1,
+   "p": 69.04,
+   "c": -4.01,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.922165,
-   "c": -2.07,
+   "p": 0.914398,
+   "c": -3.63,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 546.38,
-   "c": -1.9,
+   "p": 543.14,
+   "c": -2.7,
    "k": "usd"
   }
  ],
@@ -374,36 +374,57 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asian Stocks Fall as AI Trade Doubts Resurface: Markets Wrap",
+    "t": "Asian Stocks Fall as AI Trade Falters, Gold Drops: Markets Wrap",
     "tt": "Yapay Zeka Ticaretine İlişkin Şüphelerin Yeniden Ortaya Çıkmasıyla Asya Hisse Senetleri Düşecek: Piyasalar Sarılıyor",
-    "s": "Asian stocks retreated, tracking losses on Wall Street, after a renewed selloff in US technology stocks revived doubts about the durability of the artificial intelligence trade.",
+    "s": "Asian stocks retreated after a selloff in US technology shares revived doubts about the durability of the artificial intelligence trade, extending losses from Wall Street into the region. Gold fell.",
     "ss": "Asya hisse senetleri, ABD'li çip üreticilerindeki yenilenen satış dalgasının yapay zeka ticaretinin dayanıklılığına ilişkin şüpheleri yeniden canlandırması ve yatırımcıları tahvillerin güvenliğine yöneltmesinin ardından düşmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
     "ts": 1795558158000,
+    "tags": [
+     "Altın ▼"
+    ]
+   },
+   {
+    "t": "Australia’s Hot Inflation Vindicates RBA’s Hawkish Policy Stance",
+    "tt": "Avustralya'nın Sıcak Enflasyonu RBA'nın Şahin Politika Duruşunu Doğruluyor",
+    "s": "Australia’s core inflation unexpectedly accelerated in October, highlighting persistent price pressures in the economy and vindicating Reserve Bank officials’ hawkish commentary.",
+    "ss": "Avustralya'nın çekirdek enflasyonu Ekim ayında beklenmedik bir şekilde hızlandı; bu durum ekonomideki kalıcı fiyat baskılarına dikkat çekti ve Merkez Bankası yetkililerinin şahin yorumlarını doğruladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+    "ts": 1795566721000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Australia Edges China Out of Pacific Foothold in Solomon Islands",
+    "tt": "Avustralya, Çin'i Solomon Adaları'ndaki Pasifik Dayanağından Uzaklaştırıyor",
+    "s": "Australia signed a new treaty with the Solomon Islands aimed at rolling back China’s access to the Pacific, partly reversing Beijing’s gains in the region three years ago that alarmed the US and its allies.",
+    "ss": "Avustralya, Solomon Adaları ile Çin'in Pasifik'e erişimini geri almayı ve Pekin'in üç yıl önce ABD ve müttefiklerini alarma geçiren bölgedeki kazanımlarını kısmen tersine çevirmeyi amaçlayan yeni bir anlaşma imzaladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
+    "ts": 1795510889000,
     "tags": []
    },
    {
-    "t": "HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
-    "tt": "HDBank, Vietnam'daki Büyümeyi Fonlamak İçin Tahvil ve Krediyle Küresel Yatırımcılara Dönüyor",
-    "s": "Ho Chi Minh City Development JSC Bank is planning to both sell global bonds and borrow via the syndicated loan market, turning to overseas investors to meet rising credit demand in an economy chasing ambitious growth goals.",
-    "ss": "Ho Chi Minh City Development JSC Bank, iddialı büyüme hedefleri peşinde koşan bir ekonomide artan kredi talebini karşılamak için yurt dışı yatırımcılara yönelerek hem küresel tahvil satmayı hem de sendikasyon kredisi piyasası aracılığıyla borç almayı planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
-    "ts": 1795564800000,
+    "t": "India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
+    "tt": "Hindistan Emeklilik Fonları, Hisse Riski Üst Sınıra Yaklaşırken Tahvillere Dönüyor",
+    "s": "India’s biggest pension funds are directing more of their inflows to government bonds as they near a regulatory threshold on equity investments, just as local stocks rebound from a bruising selloff.",
+    "ss": "Hindistan'ın en büyük emeklilik fonları, yerel hisse senetlerinin sert satışlardan sonra toparlandığı bir dönemde, sermaye yatırımları için düzenleyici eşiğe yaklaştıkça, girişlerinin daha fazlasını devlet tahvillerine yönlendiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap",
+    "ts": 1795570200000,
     "tags": []
    },
    {
     "t": "Latest Oil Market News and Analysis for Nov. 25",
     "tt": "25 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil slipped as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
+    "s": "Oil steadied as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
     "ss": "Petrol fiyatları, tüccarların Hürmüz Boğazı çevresindeki gemilere yönelik artan saldırılara karşı artan arz işaretlerine ağırlık vermesiyle kayıplar yaşadı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
     "ts": 1795561589000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
+    "tags": []
    },
    {
     "t": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
@@ -419,6 +440,15 @@
      "BTC ▼",
      "Altcoin ▼"
     ]
+   },
+   {
+    "t": "HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
+    "tt": "HDBank, Vietnam'daki Büyümeyi Fonlamak İçin Tahvil ve Krediyle Küresel Yatırımcılara Dönüyor",
+    "s": "Ho Chi Minh City Development JSC Bank is planning to both sell global bonds and borrow via the syndicated loan market, turning to overseas investors to meet rising credit demand in an economy chasing ambitious growth goals.",
+    "ss": "Ho Chi Minh City Development JSC Bank, iddialı büyüme hedefleri peşinde koşan bir ekonomide artan kredi talebini karşılamak için yurt dışı yatırımcılara yönelerek hem küresel tahvil satmayı hem de sendikasyon kredisi piyasası aracılığıyla borç almayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
+    "ts": 1795564800000,
+    "tags": []
    },
    {
     "t": "RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
@@ -446,36 +476,18 @@
     "u": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
     "ts": 1795561937000,
     "tags": []
-   },
-   {
-    "t": "Advent Weighs Takeover Of Testing Firm Bureau Veritas",
-    "tt": "Advent, Test Firması Bureau Veritas'ın Devralınmasını Ağırlaştırıyor",
-    "s": "Advent is considering a bid to acquire French testing firm Bureau Veritas SA, people with knowledge of the matter said, in what would be one of the largest buyouts of a European company this year.",
-    "ss": "Konuyla ilgili bilgisi olan kişilerin söylediğine göre Advent, bu yıl bir Avrupalı ​​şirketin en büyük satın alımlarından biri olacak Fransız test firması Bureau Veritas SA'yı satın almak için bir teklif yapmayı düşünüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
-    "ts": 1795550303000,
-    "tags": []
-   },
-   {
-    "t": "Xi Plays Long Game on US Chip Retaliation After Nvidia Saga",
-    "tt": "Xi, Nvidia Saga'nın Ardından ABD'nin Fiş Misillemesinde Uzun Bir Oyun Oynadı",
-    "s": "After a week of whiplash over Jensen Huang’s future and new US chip curbs, Beijing sent a clear message to Washington about their trade truce: China is holding up its side of the bargain — for now.",
-    "ss": "Jensen Huang'ın geleceği ve ABD'nin yeni çip kısıtlamaları konusunda bir hafta süren sert tepkinin ardından Pekin, Washington'a ticari ateşkes konusunda net bir mesaj gönderdi: Çin, şimdilik pazarlığın kendi payına düşen kısmını tutuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
-    "ts": 1795510594000,
-    "tags": []
-   },
-   {
-    "t": "Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
-    "tt": "Borç Baskısı Arttıkça Icahn'ın Serveti 1,3 Milyar Dolara Düştü",
-    "s": "Carl Icahn’s fortune has dwindled to about $1.3 billion as mounting debt squeezes his business empire, leaving the longtime corporate raider and activist investor facing one of the toughest stretches of his career. When Icahn Enterprises reported third-quarter earnings this month, it warned there wa",
-    "ss": "Carl Icahn'ın serveti, artan borcun iş imparatorluğunu daraltması ve uzun süredir kurumsal yağmacı ve aktivist yatırımcıyı kariyerinin en zorlu dönemlerinden biriyle karşı karşıya bırakmasıyla yaklaşık 1,3 milyar dolara düştü. Icahn Enterprises bu ay üçüncü çeyrek kazançlarını açıkladığında,",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
-    "ts": 1795559373000,
-    "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+    "tt": "Jensen Huang'ın Nvidia'ya dönüşü, ABD-Çin yapay zeka yarışının çiplerden daha fazlası olduğunu gösteriyor",
+    "s": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+    "ss": "Jensen Huang'ın Nvidia CEO'su olarak geri dönüşü, ABD-Çin yapay zeka yarışının sadece yarı iletkenlerle ilgili olmadığını, aynı zamanda teknolojik yeteneklerle de ilgili olduğunu gösteriyor.",
+    "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "ts": 1795569236000,
+    "tags": []
+   },
    {
     "t": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
     "tt": "Kalshi'nin günlük 'faili' ticareti hacmi tahmin piyasalarında zirveye çıkmaya başladı",
@@ -556,25 +568,16 @@
     "u": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
     "ts": 1795184129000,
     "tags": []
-   },
-   {
-    "t": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-    "tt": "Trump Asya'dan dönerken ABD-Çin ticareti, Tayvan ve teknoloji gerilimleri çözümsüz kalmayı sürdürüyor",
-    "s": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-    "ss": "Analistler, bu hafta Shenzhen'de düzenlenen yüksek profilli üçlü toplantılardan ve APEC için yapılan diğer toplantılardan elde edilen çok az somut sonuca dikkat çekiyor.",
-    "u": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-    "ts": 1795181390000,
-    "tags": []
    }
   ],
   "MarketWatch": [
    {
-    "t": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "tt": "Kocam eski karısına işini kaybettikten sonra gizlice ayda 1.500 dolar gönderiyor. 2,4 milyon dolarımız var. İhmal ederek yalan mı söyledi?",
-    "s": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-    "ss": "\"Ödemeyi saklamaya çalışmadığını ancak eski karısının bir tıbbi faturalandırma şirketindeki işini kaybettiğini açıkladı.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "ts": 1795565100000,
+    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
+    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
+    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
+    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "ts": 1795572000000,
     "tags": []
    },
    {
@@ -583,7 +586,16 @@
     "s": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
     "ss": "Dell, birikmiş iş yükünün \"müşteri kalitesi ve sermaye, arazi ve enerjiye erişim açısından titizlikle incelendiğini\" söylüyor.",
     "u": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-    "ts": 1795563240000,
+    "ts": 1795569060000,
+    "tags": []
+   },
+   {
+    "t": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+    "tt": "Kocam eski karısına işini kaybettikten sonra gizlice ayda 1.500 dolar gönderiyor. 2,4 milyon dolarımız var. İhmal ederek yalan mı söyledi?",
+    "s": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+    "ss": "\"Ödemeyi saklamaya çalışmadığını ancak eski karısının bir tıbbi faturalandırma şirketindeki işini kaybettiğini açıkladı.\"",
+    "u": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+    "ts": 1795565100000,
     "tags": []
    },
    {
@@ -648,18 +660,54 @@
     "u": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
     "ts": 1795555320000,
     "tags": []
-   },
-   {
-    "t": "The stock market is hardly cheap, even taking recent declines into account",
-    "tt": "Son düşüşler dikkate alındığında bile borsa pek ucuz değil",
-    "s": "Equities are still extremely overvalued, notwithstanding the stock market’s steep declines over the past several weeks.",
-    "ss": "Borsanın son birkaç haftadaki keskin düşüşlerine rağmen, hisse senetleri hâlâ aşırı değerli.",
-    "u": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
-    "ts": 1795555320000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Can Robotaxis Save The Economy?",
+    "tt": "Robotaksi Ekonomiyi Kurtarabilir mi?",
+    "s": "Can Robotaxis Save The Economy? Tesla began rolling out version 15 of its \"FSD Supervised\" system over the weekend, with deployments already in its pilot \"Robotaxi\" service and on Cybercabs in Texas and Florida. What has everyone talking is the video game-style visualization on the infotainment scre",
+    "ss": "Robotaksi Ekonomiyi Kurtarabilir mi? Tesla, hafta sonu \"FSD Denetimli\" sisteminin 15. versiyonunu piyasaya sürmeye başladı; halihazırda pilot \"Robotaxi\" hizmetinde ve Teksas ve Florida'daki Siber Kabinlerde dağıtımlar yapıldı. Herkesin konuştuğu şey, bilgi-eğlence ekranındaki video oyunu tarzı görselleştirmedir",
+    "u": "https://www.zerohedge.com/technology/how-much-could-robotaxis-save-economy",
+    "ts": 1795572000000,
+    "tags": []
+   },
+   {
+    "t": "Muslim Influencer \"Sneako\" Goes On Embarrassing Taliban Propaganda Tour",
+    "tt": "Müslüman Etkileyici \"Sneako\" Utanç verici Taliban Propaganda Turuna Devam Ediyor",
+    "s": "Muslim Influencer \"Sneako\" Goes On Embarrassing Taliban Propaganda Tour The woke leftist-to-Muslim political pipeline has been a confounding development of the post-Biden era. &nbsp;Many conservatives have pointed with humor at the hypocrisy of progressives who claim to defend the rights of \"oppress",
+    "ss": "Etkileyici Müslüman \"Sneako\" Utanç verici Taliban Propaganda Turuna Devam Ediyor Solculardan Müslümanlara uzanan siyasi boru hattı, Biden sonrası dönemde kafa karıştırıcı bir gelişme oldu.  Pek çok muhafazakar, \"ezilenlerin\" haklarını savunduklarını iddia eden ilericilerin ikiyüzlülüğüne mizahla dikkat çekti.",
+    "u": "https://www.zerohedge.com/political/muslim-influencer-sneako-goes-embarrassing-taliban-propaganda-tour",
+    "ts": 1795570800000,
+    "tags": []
+   },
+   {
+    "t": "\"It's Very Clear In The Data\": Ramp CEO Says AI's Jevons Paradox Broke",
+    "tt": "\"Veriler Çok Açık\": Ramp CEO'su Yapay Zekanın Jevons Paradoksunun Bozulduğunu Söyledi",
+    "s": "\"It's Very Clear In The Data\": Ramp CEO Says AI's Jevons Paradox Broke For two years, every cut in the price of AI was supposed to pay for itself. Now the CEO of the corporate card company that watches what tens of thousands of American businesses actually spend on OpenAI and Anthropic says that mat",
+    "ss": "\"Veriler Çok Açık\": Ramp CEO'su, Yapay Zekanın Jevons Paradoksunun Bozulduğunu Söyledi İki yıl boyunca, yapay zekanın fiyatındaki her kesintinin kendi maliyetini karşılaması gerekiyordu. Artık on binlerce Amerikan işletmesinin OpenAI ve Anthropic'e gerçekte ne kadar harcadığını izleyen kurumsal kart şirketinin CEO'su şunu söylüyor:",
+    "u": "https://www.zerohedge.com/ai/its-very-clear-data-ramp-ceo-says-ais-jevons-paradox-broke",
+    "ts": 1795569600000,
+    "tags": []
+   },
+   {
+    "t": "Bessent Downplays Bank Outage Fears: Think Of It As A \"Vaccine\"",
+    "tt": "Bessent Banka Kesintisi Korkularını Küçümsüyor: Bunu Bir \"Aşı\" Olarak Düşünün",
+    "s": "Bessent Downplays Bank Outage Fears: Think Of It As A \"Vaccine\" Authored by Jack Phillips via The Epoch Times , Treasury Secretary Scott Bessent on Sunday reassured Americans regarding outages that hit banks earlier this month, saying financial institutions are \"the most resilient\" when it comes to ",
+    "ss": "Bessent, Banka Kesintisi Korkularını Küçümsüyor: Bunu Bir \"Aşı\" Olarak Düşünün Yazan Jack Phillips, The Epoch Times aracılığıyla, Hazine Bakanı Scott Bessent Pazar günü Amerikalılara bu ayın başlarında bankaları vuran kesintiler konusunda güvence verdi ve konu finansal kurumlar olduğunda \"en dirençli\" olduklarını söyledi.",
+    "u": "https://www.zerohedge.com/markets/bessent-downplays-bank-outage-fears-think-it-vaccine",
+    "ts": 1795568400000,
+    "tags": []
+   },
+   {
+    "t": "Iconic Thanksgiving Day Tradition In Jeopardy For First Time In More Than Half A Century",
+    "tt": "İkonik Şükran Günü Geleneği Yarım Asırdan Fazla Bir Süredir İlk Kez Tehlikede",
+    "s": "Iconic Thanksgiving Day Tradition In Jeopardy For First Time In More Than Half A Century Millions of Americans could be in for a major disappointment this Thanksgiving as a powerful storm threatens to ground the iconic balloons of the Macy's Thanksgiving Day Parade for the first time in 55 years . T",
+    "ss": "İkonik Şükran Günü Geleneği Yarım Asırdan Fazla Bir Süredir İlk Kez Tehlikede Güçlü bir fırtına, Macy's Şükran Günü Geçit Töreninin ikonik balonlarını 55 yıldan beri ilk kez yere düşürme tehlikesiyle karşı karşıya olduğundan, milyonlarca Amerikalı bu Şükran Günü'nde büyük bir hayal kırıklığıyla karşı karşıya kalabilir. T",
+    "u": "https://www.zerohedge.com/weather/iconic-thanksgiving-day-tradition-jeopardy-first-time-more-half-century",
+    "ts": 1795567200000,
+    "tags": []
+   },
    {
     "t": "\"Unprecedented\": Judge Forces Missouri County To Pay Back Every Dollar It Illegally Overtaxed 170,000 Homeowners",
     "tt": "\"Eşi benzeri görülmemiş\": Yargıç Missouri İlçesini Her Doları Geri Ödemeye Zorladı 170.000 Ev Sahibine Yasadışı Olarak Fazla Vergi Verdi",
@@ -703,51 +751,6 @@
     "ss": "Demokrat Milletvekili 240 Bin Dolardan Fazla Kovid Sahtekarlığıyla Suçlandı - Ve Gerçek Hayır Kurumu Kapatıldı Alabama Meclisi'nde ikinci bir dönem için yeniden seçilen Birmingham bölgesindeki bir Demokrat, dört elektronik dolandırıcılık suçlamasıyla suçlandı ve federal savcılar eyalet Temsilcisi Patrick Sellers'ın para topladığını iddia etti.",
     "u": "https://www.zerohedge.com/political/democrat-lawmaker-indicted-over-240k-covid-fraud-and-real-charity-got-shut-out",
     "ts": 1795560000000,
-    "tags": []
-   },
-   {
-    "t": "Huawei Found Guilty Of Plotting To Steal US Trade Secrets And Lying To Banks Over Iran",
-    "tt": "Huawei, ABD'nin ticari sırlarını çalmak için komplo kurmaktan ve İran yüzünden bankalara yalan söylemekten suçlu bulundu",
-    "s": "Huawei Found Guilty Of Plotting To Steal US Trade Secrets And Lying To Banks Over Iran A federal jury in Brooklyn on Tuesday found Huawei guilty on 10 of the 12 criminal counts it faced, including conspiracy to steal trade secrets from American companies and bank fraud , closing out a case that bega",
-    "ss": "Huawei, ABD Ticari Sırlarını Çalma Komplosu Yapmaktan ve İran Üzerinden Bankalara Yalan Söylemekten Suçlu Bulundu Brooklyn'deki bir federal jüri Salı günü, Huawei'yi, Amerikan şirketlerinden ticari sırları çalmak için komplo kurmak ve banka dolandırıcılığı da dahil olmak üzere karşı karşıya kaldığı 12 suçtan 10'unda suçlu buldu ve böylece açılan bir davayı kapattı.",
-    "u": "https://www.zerohedge.com/geopolitical/huawei-found-guilty-plotting-steal-us-trade-secrets-and-lying-banks-over-iran",
-    "ts": 1795558800000,
-    "tags": []
-   },
-   {
-    "t": "Sotomayor Discovers Term Limits... 17 Years Into Her Lifetime Seat",
-    "tt": "Sotomayor Süre Sınırlarını Keşfediyor... Ömür Boyu Koltuğunun 17. Yılında",
-    "s": "Sotomayor Discovers Term Limits... 17 Years Into Her Lifetime Seat Authored by Jonathan Turley via JonathanTurley.org , “I Wouldn’t Be Unhappy”: Justice Sotomayor Embraces Possible Term Limits Justice Sonia Sotomayor made news in Philadelphia last Friday by offering support for the concept of term l",
-    "ss": "Sotomayor Süre Sınırlarını Keşfediyor... Ömür Boyu Koltuğunda 17 Yıl Yazan Jonathan Turley, JonathanTurley.org aracılığıyla, \"Mutsuz Olmazdım\": Yargıç Sotomayor Olası Süre Sınırlarını Benimsiyor Yargıç Sonia Sotomayor geçen Cuma Philadelphia'da l kavramına destek sunarak bir haber yaptı.",
-    "u": "https://www.zerohedge.com/political/sotomayor-discovers-term-limits-17-years-her-lifetime-seat",
-    "ts": 1795557600000,
-    "tags": []
-   },
-   {
-    "t": "Iranian Leaders Seen Working In Dim Offices In Winter Clothes As Power Cuts Hit",
-    "tt": "İranlı Liderler Elektrik Kesintileri Sırasında Loş Ofislerde Kışlık Kıyafetlerle Çalışırken Görüldü",
-    "s": "Iranian Leaders Seen Working In Dim Offices In Winter Clothes As Power Cuts Hit \"A land blockade of Iran is virtually impossible , both because of the country’s vast territory and the large number of provinces, each possessing diverse capacities,\" Iran's Foreign Minister Abbas Araghchi told other to",
-    "ss": "İran Dışişleri Bakanı Abbas Araghchi, \"İran'ın kara ablukası, hem ülkenin geniş toprakları hem de her biri farklı kapasitelere sahip çok sayıda vilayet nedeniyle neredeyse imkansız\" dedi.",
-    "u": "https://www.zerohedge.com/geopolitical/iranian-leaders-seen-working-dim-offices-winter-clothes-power-cuts-hit",
-    "ts": 1795556400000,
-    "tags": []
-   },
-   {
-    "t": "Garbage In, Garbage Out: Why AI Hates Men",
-    "tt": "Çöp İçeri, Çöp Dışarı: Yapay Zeka Neden Erkeklerden Nefret Ediyor",
-    "s": "Garbage In, Garbage Out: Why AI Hates Men Authored by J.R. Dunn via American Thinker , We've seen a bit of a mini-commotion in recent days over a study that demonstrates that AI treats men more harshly than women in situations more harshly than women. The paper, \" Harsher on Male? Evaluating LLMs on",
-    "ss": "Çöp İçeri, Çöp Dışarı: Yapay Zeka Erkeklerden Neden Nefret Ediyor? J.R. Dunn tarafından American Thinker aracılığıyla yazılmıştır. Yapay zekanın kadınlardan daha sert durumlarda erkeklere kadınlardan daha sert davrandığını gösteren bir çalışmayla ilgili son günlerde küçük bir kargaşa gördük. \"Erkekler için Daha Sert mi? Yüksek Lisans Derecelerinin Değerlendirilmesi\" başlıklı makale",
-    "u": "https://www.zerohedge.com/technology/garbage-garbage-out-why-ai-hates-men",
-    "ts": 1795555200000,
-    "tags": []
-   },
-   {
-    "t": "Army Will Blow Up 5 Tons Of Lead Explosive In Iowa Tomorrow After Governor-Elect Refuses To Sign Off",
-    "tt": "Gelecek Valinin İmzayı Reddetmesinin Ardından Ordu, Yarın Iowa'da 5 Ton Kurşun Patlayıcıyı Patlatacak",
-    "s": "Army Will Blow Up 5 Tons Of Lead Explosive In Iowa Tomorrow After Governor-Elect Refuses To Sign Off The US Army will detonate nearly five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown at about 9 a.m. Central on Wednesday, Nov. 25, after a federal appeals court lifted i",
-    "ss": "Ordu, Gelecek Valinin İmzayı Reddetmesinin Ardından Yarın Iowa'da 5 Ton Kurşun Patlayıcıyı Patlatacak ABD Ordusu, federal temyiz mahkemesinin kararı kaldırmasının ardından 25 Kasım Çarşamba günü sabah saat 9 civarında Middletown'daki Iowa Ordu Mühimmat Fabrikasında yaklaşık beş ton bozunmuş kurşun azidi patlatacak.",
-    "u": "https://www.zerohedge.com/political/army-will-blow-5-tons-lead-explosive-iowa-tomorrow-after-governor-elect-refuses-sign",
-    "ts": 1795553100000,
     "tags": []
    }
   ],
@@ -856,6 +859,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "events": "429 Client Error: Too Many Requests for url: https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
