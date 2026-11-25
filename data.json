@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T05:53:42.553161+00:00",
+ "generated": "2026-11-25T06:57:03.070758+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3531.8,
-   "c": -0.85,
-   "d": -30.1,
+   "p": 3521.6,
+   "c": -1.13,
+   "d": -40.3,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.24,
-   "c": -1.28,
-   "d": -0.52,
+   "p": 40.195,
+   "c": -1.39,
+   "d": -0.565,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 80.57,
-   "c": -1.8,
-   "d": -1.48,
+   "p": 80.61,
+   "c": -1.76,
+   "d": -1.44,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 87.32,
-   "c": -4.46,
-   "d": -4.08,
+   "p": 87.41,
+   "c": -4.37,
+   "d": -3.99,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 104.011,
-   "c": 0.19,
-   "d": 0.201,
+   "p": 104.048,
+   "c": 0.23,
+   "d": 0.238,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.664,
-   "c": 0.13,
-   "d": 0.063,
+   "p": 50.6583,
+   "c": 0.11,
+   "d": 0.058,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59040,
-   "c": -2.56,
+   "p": 59150,
+   "c": -2.2,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1655.15,
-   "c": -2.99,
+   "p": 1658.18,
+   "c": -2.46,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 68.6,
-   "c": -4.47,
+   "p": 68.78,
+   "c": -4.31,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.915643,
-   "c": -4.38,
+   "p": 0.918927,
+   "c": -3.28,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 541.61,
-   "c": -2.34,
+   "p": 542.83,
+   "c": -1.81,
    "k": "usd"
   }
  ],
@@ -374,109 +374,95 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Stock Losses Build as AI Trade Falters, Bonds Gain: Markets Wrap",
+    "tt": "Yapay Zeka Ticaretine İlişkin Şüphelerin Yeniden Ortaya Çıkmasıyla Asya Hisse Senetleri Düşecek: Piyasalar Sarılıyor",
+    "s": "Stocks sold off and Nasdaq 100 futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove investors out of technology shares. Treasuries and the dollar gained on haven demand.",
+    "ss": "Asya hisse senetleri, ABD'li çip üreticilerindeki yenilenen satış dalgasının yapay zeka ticaretinin dayanıklılığına ilişkin şüpheleri yeniden canlandırması ve yatırımcıları tahvillerin güvenliğine yöneltmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+    "ts": 1795558158000,
+    "tags": [
+     "DXY ▲"
+    ]
+   },
+   {
+    "t": "Horizons Middle East & Africa 25/112026 (Video)",
+    "tt": "Horizons Orta Doğu ve Afrika 25/112026 (Video)",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
+    "ts": 1795589872000,
+    "tags": []
+   },
+   {
+    "t": "Dangote Refinery Said to List in Lagos on December 1",
+    "tt": "Dangote Rafinerisi'nin 1 Aralık'ta Lagos'ta Listeleneceği Söyleniyor",
+    "s": "Bloomberg understands billionaire Aliko Dangote’s oil refinery will start trading in Lagos as soon as next week. Dangote Petroleum Refinery & Petrochemicals debut is being set for December 1, in what will be Africa’s biggest IPO. Chief Africa correspondent, Jennifer Zabasajja reports from Johannesbu",
+    "ss": "Bloomberg, milyarder Aliko Dangote'un petrol rafinerisinin önümüzdeki hafta Lagos'ta işlem görmeye başlayacağını biliyor. Dangote Petrol Rafinerisi ve Petrokimya'nın ilk çıkışı, Afrika'nın en büyük halka arzı olacak olan 1 Aralık'ta yapılacak. Afrika baş muhabiri Jennifer Zabasajja, Johannesbu'dan bildiriyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
+    "ts": 1795589587000,
+    "tags": []
+   },
+   {
+    "t": "GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
+    "tt": "JPMorgan, GPIF Gündeminin Portföy İncelemesinde İlerleme Sinyali Verebileceğini Söyledi",
+    "s": "Japan’s largest pension fund may be moving closer to deciding whether to revise its asset allocation, according to JPMorgan Chase &amp; Co., potentially reviving speculation that it could steer more of its ¥314 trillion ($2 trillion) portfolio toward domestic bonds.",
+    "ss": "JPMorgan Chase & Co.'ya göre, Japonya'nın en büyük emeklilik fonu, varlık tahsisini revize edip etmeme kararına yaklaşıyor olabilir; bu durum, 314 trilyon Yen'lik (2 trilyon dolar) portföyünün daha fazlasını yerli tahvillere yönlendirebileceği yönündeki spekülasyonları potansiyel olarak yeniden canlandırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
+    "ts": 1795589336000,
+    "tags": []
+   },
+   {
+    "t": "FTSE 100 Live: UK Stocks to Rebound, Pound Slips Further Below $1.31",
+    "tt": "FTSE 100 Live: İngiltere Hisse Senetleri Yükseliyor, Pound 1,31 Doların Altına Düşüyor",
+    "s": "",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/live-blog/2026-11-25/ftse-100-live-updates-ai-stocks-pound-gilts-bonds-energy-bills-what-s-moving-uk-markets-right-now-markets-today",
+    "ts": 1795589236000,
+    "tags": []
+   },
+   {
+    "t": "Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
+    "tt": "Dangote Rafinerisi 1 Aralık'ta Lagos'ta Ticarete Başlayacak",
+    "s": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos. The operation owned by tycoon Aliko Dangote is valued at the equivalent of about $48 billion through its initial public offering. Bloomberg's ",
+    "ss": "Dangote Petrol Rafinerisi ve Petrokimya FZE, Lagos'ta ticarete başladıktan sonra Afrika'da birincil listeye giren en büyük şirket olacak. İş adamı Aliko Dangote'ye ait olan operasyonun değeri, ilk halka arz yoluyla yaklaşık 48 milyar dolara eşdeğer. Bloomberg'in",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
+    "ts": 1795588381000,
+    "tags": []
+   },
+   {
+    "t": "Saudi-Houthi Fighting Intensifies",
+    "tt": "Suudi-Husi Çatışmaları Yoğunlaşıyor",
+    "s": "The Houthis injured 11 people with an attack on a tower in Riyadh’s main business district on Tuesday, Saudi Arabian authorities said. The assault came less than a week after the headquarters of the nation’s Public Investment Fund was damaged by the Iran-backed Yemeni group. Bloomberg's Onur Ant rep",
+    "ss": "Suudi Arabistanlı yetkililer, Husilerin Salı günü Riyad'ın ana iş bölgesindeki bir kuleye düzenlediği saldırıda 11 kişinin yaralandığını söyledi. Saldırı, ülkenin Kamu Yatırım Fonu genel merkezinin İran destekli Yemenli grup tarafından zarar görmesinden bir haftadan kısa bir süre sonra gerçekleşti. Bloomberg'den Onur Ant temsilcisi",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/saudi-houthi-fighting-intensifies-video",
+    "ts": 1795587562000,
+    "tags": []
+   },
+   {
+    "t": "SailGP Launches UAE Team, Aims to Grow to 20 Teams",
+    "tt": "SailGP BAE Ekibini Kurdu, 20 Takıma Çıkmayı Hedefliyor",
+    "s": "SailGP CEO and founder Russell Coutts discusses the launch of a UAE team for the 2027 season and the league’s plans to expand to 20 teams and more than 20 events. He also talks about team economics, investor conflicts and SailGP’s growth strategy with Abeer Abu Omar on Bloomberg’s “Horizons Middle E",
+    "ss": "SailGP CEO'su ve kurucusu Russell Coutts, 2027 sezonu için bir BAE takımının kurulmasını ve ligin 20 takıma ve 20'den fazla etkinliğe genişleme planlarını tartışıyor. Ayrıca Bloomberg'in \"Horizons Middle E\" programında takım ekonomisi, yatırımcı çatışmaları ve Abeer Abu Omar ile SailGP'nin büyüme stratejisi hakkında konuşuyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video",
+    "ts": 1795587406000,
+    "tags": []
+   },
+   {
+    "t": "Maybank Reviews Exposure as US Chip Curbs Hit",
+    "tt": "Maybank, ABD Talaş Kısıtlamalarının Etkisiyle Riski Değerlendiriyor",
+    "s": "Maybank Investment Bank Group CEO Michael Oh-Lau tells Haslinda Amin the lender is reviewing its portfolio as new US chip restrictions prompt greater scrutiny of data-center clients and their financing needs. (Source: Bloomberg)",
+    "ss": "Maybank Yatırım Bankası Grubu CEO'su Michael Oh-Lau, Haslinda Amin'e, ABD'deki yeni çip kısıtlamalarının veri merkezi müşterileri ve onların finansman ihtiyaçları üzerinde daha fazla incelemeye yol açması nedeniyle borç verenin portföyünü gözden geçirdiğini söyledi. (Kaynak: Bloomberg)",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/maybank-reviews-exposure-as-us-chip-curbs-hit-video",
+    "ts": 1795586576000,
+    "tags": []
+   },
+   {
     "t": "Global Rotation on AI Fears Lifts Indian Stocks to Top Spot",
     "tt": "Yapay Zeka Korkularındaki Küresel Rotasyon Hindistan Hisse Senetlerini En Üst Sıraya Yükseltti",
     "s": "Indian stocks surged, extending their world-beating November rally as renewed selling in global artificial intelligence names bolstered a rotation toward markets with limited exposure to the theme.",
     "ss": "Hint hisse senetleri, küresel yapay zeka isimlerinde yenilenen satışların, temaya sınırlı maruz kalan pazarlara doğru bir dönüşü desteklemesiyle, Kasım ayındaki dünya rekorunu kıran rallisini genişleterek yükseldi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
     "ts": 1795583060000,
-    "tags": []
-   },
-   {
-    "t": "Gold Holds Decline as AI Doubts and Rate-Hike Bets Rattle Stocks",
-    "tt": "Altın, Yapay Zeka Şüpheleri ve Faiz Artışı Bahislerinin Hisse Senetlerini Sarsması Nedeniyle Düşüşü Durduruyor",
-    "s": "Gold held a decline, as stocks sold off on doubts over the durability of the artificial intelligence boom, and the White House’s latest tariff plans reinforced expectations for an interest-rate hike by the Federal Reserve.",
-    "ss": "Altın, yapay zeka patlamasının kalıcılığı konusundaki şüpheler nedeniyle hisse senetlerinin satılması ve Beyaz Saray'ın son tarife planlarının Federal Rezerv'in faiz artırımına ilişkin beklentileri güçlendirmesiyle düşüşünü sürdürdü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-    "ts": 1795564282000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
-    "tt": "Anwar Aide, Malezya Hükümetinin Muhtemelen Tam Dönem Görevde Kalacağını Söyledi",
-    "s": "Malaysian Prime Minister Anwar Ibrahim’s government is likely to serve until the end of its term despite recent speculation over an early election, according to his senior political adviser Zafrul Aziz.",
-    "ss": "Malezya Başbakanı Enver İbrahim'in kıdemli siyasi danışmanı Zafrul Aziz'e göre, erken seçime ilişkin son spekülasyonlara rağmen, hükümetinin görev süresinin sonuna kadar görev yapması muhtemel.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
-    "ts": 1795583028000,
-    "tags": []
-   },
-   {
-    "t": "Kochugovindan: Tech Volatility Is Here to Stay",
-    "tt": "Kochugovindan: Teknolojideki Değişkenlik Kalıcıdır",
-    "s": "Aberdeen Investments Senior Research Economist Sree Kochugovindan says the AI trade faces further downside risks as investors scrutinize valuations, earnings potential and returns on investment. She also discusses the outlook for US consumer spending, inflation and Federal Reserve policy with Abeer ",
-    "ss": "Aberdeen Investments Kıdemli Araştırma Ekonomisti Sree Kochugovindan, yatırımcıların değerlemeleri, kazanç potansiyelini ve yatırım getirilerini incelemesi nedeniyle yapay zeka ticaretinin daha fazla aşağı yönlü riskle karşı karşıya olduğunu söyledi. Ayrıca Abeer ile ABD tüketici harcamaları, enflasyon ve Federal Rezerv politikasının görünümünü de tartışıyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
-    "ts": 1795585031000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 25",
-    "tt": "25 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil slipped as signs of rising crude supply outweighed escalating attacks on vessels around the Strait of Hormuz.",
-    "ss": "Petrol fiyatları, tüccarların Hürmüz Boğazı çevresindeki gemilere yönelik artan saldırılara karşı artan arz işaretlerine ağırlık vermesiyle kayıplar yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-    "ts": 1795561589000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
-    "tt": "Maybank Portföyü İnceliyor, Çip Sınırları Veri Merkezi Projelerini Etkiliyor",
-    "s": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
-    "ss": "Malezya'nın en büyük bankası, kısıtlamaların veri merkezi müşterilerini ve finansman ihtiyaçlarını nasıl etkileyebileceğini değerlendirirken, portföyünü ABD'deki en son çip kısıtlamalarına maruz kalma potansiyeli açısından gözden geçiriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
-    "ts": 1795581330000,
-    "tags": []
-   },
-   {
-    "t": "Stock Losses Build as AI Trade Falters, Oil Drops: Markets Wrap",
-    "tt": "Yapay Zeka Ticaretine İlişkin Şüphelerin Yeniden Ortaya Çıkmasıyla Asya Hisse Senetleri Düşecek: Piyasalar Sarılıyor",
-    "s": "Stocks sold off and futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove a retreat from technology shares. Treasuries advanced on haven demand.",
-    "ss": "Asya hisse senetleri, ABD'li çip üreticilerindeki yenilenen satış dalgasının yapay zeka ticaretinin dayanıklılığına ilişkin şüpheleri yeniden canlandırması ve yatırımcıları tahvillerin güvenliğine yöneltmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-    "ts": 1795558158000,
-    "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
-    ]
-   },
-   {
-    "t": "Xi Probes Shanghai Boss, Widening Political Shakeup",
-    "tt": "Xi, Şanghay Patronunu Soruşturarak Siyasi Sarsıntıyı Genişletiyor",
-    "s": "China has opened an investigation into Chen Jining, a member of the country's elite Politburo and the party chief of Shanghai, for suspected serious violations of law and discipline. Bloomberg Economics' Neil Thomas has the context. (Source: Bloomberg)",
-    "ss": "Çin, ülkenin seçkin Politbüro üyesi ve Şangay parti şefi Chen Jining hakkında ciddi yasa ve disiplin ihlallerinden şüphelenildiği için soruşturma başlattı. Bloomberg Economics'ten Neil Thomas'ın bağlamı var. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
-    "ts": 1795580711000,
-    "tags": []
-   },
-   {
-    "t": "Dangote Refinery Set to Become Africa’s Biggest Listed Company",
-    "tt": "Dangote Rafinerisi Afrika'nın En Büyük Borsaya Açık Şirketi Olacak",
-    "s": "Dangote Petroleum Refinery and Petrochemicals FZE will rank as the biggest company with a primary listing in Africa once it makes its trading debut in Lagos, far exceeding the size of the next-largest business on the continent.",
-    "ss": "Dangote Petrol Rafineri ve Petrokimya FZE, Lagos'ta ticarete ilk adımını attığında Afrika'da birincil listeye alınan en büyük şirket olarak yer alacak ve kıtadaki bir sonraki en büyük işletme boyutunu çok aşacak.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
-    "ts": 1795580100000,
-    "tags": []
-   },
-   {
-    "t": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
-    "tt": "Tayvan Hisselerinin %8 Düşmesiyle Jensen Huang'ın Yükselişi Hızla Kayboldu",
-    "s": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
-    "ss": "Asya borsalarının Jensen Huang'ın kariyerinin yeniden canlanmasına duyduğu heyecan, yatırımcıların yeniden küresel yapay zeka ticaretiyle ilgili endişelere odaklanmasıyla Çarşamba günü hızla buharlaştı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
-    "ts": 1795574727000,
     "tags": []
    }
   ],
@@ -666,6 +652,33 @@
   ],
   "ZeroHedge": [
    {
+    "t": "AfD Co-Leader Chrupalla Calls For Deportation Of Up To 2.6 Million Foreigners",
+    "tt": "AfD Eş Lideri Chrupalla, 2,6 Milyona Kadar Yabancının Sınır Dışı Edilmesi Çağrısında Bulundu",
+    "s": "AfD Co-Leader Chrupalla Calls For Deportation Of Up To 2.6 Million Foreigners Authored by Remix News Staff via Remix News , Alternative for Germany (AfD) co-leader Tino Chrupalla has called for remigration of up to 2.6 million people from Germany during an appearance on the Bild podcast \" Unter Zwei",
+    "ss": "AfD Eş Lideri Chrupalla, 2,6 Milyona Kadar Yabancının Sınır Dışı Edilmesi Çağrısında Bulundu Remix Haber Personeli tarafından Remix News aracılığıyla yazılmıştır, Almanya İçin Alternatif (AfD) eş lideri Tino Chrupalla, Bild podcast'inde \" Unter Zwei\" programında yer aldığı sırada, 2,6 milyona yakın yabancının Almanya'dan geri göç etmesi yönünde çağrıda bulunmuştur.",
+    "u": "https://www.zerohedge.com/political/afd-co-leader-chrupalla-calls-deportation-26-million-foreigners",
+    "ts": 1795590000000,
+    "tags": []
+   },
+   {
+    "t": "Tiny Spanish Island Of 12,000 Swamped By 1,239 Migrants In 24 Hours, Just Five Days Before Nation Votes",
+    "tt": "12.000 Nüfuslu Küçük İspanyol Adası, Ulusal Oylamalardan Sadece Beş Gün Önce, 24 Saat İçinde 1.239 Göçmen Tarafından Sular Altında Kaldı",
+    "s": "Tiny Spanish Island Of 12,000 Swamped By 1,239 Migrants In 24 Hours, Just Five Days Before Nation Votes Three more wooden boats carrying 604 people reached the port of La Restinga on El Hierro before dawn on Tuesday, bringing arrivals to Spain's Canary Islands to 1,419 people since early Monday, 1,2",
+    "ss": "12.000 Nüfuslu Minik İspanyol Adası, Ulusal Oylamalardan Sadece Beş Gün Önce, 24 Saat İçinde 1.239 Göçmen Tarafından Sular Altında Kaldı 604 kişiyi taşıyan üç ahşap tekne daha, Salı günü şafak sökmeden El Hierro'daki La Restinga limanına ulaştı.",
+    "u": "https://www.zerohedge.com/geopolitical/tiny-spanish-island-12000-swamped-1239-migrants-24-hours-just-five-days-nation-votes",
+    "ts": 1795588200000,
+    "tags": []
+   },
+   {
+    "t": "German Judge Hands Would-Be Citizen A Children's Book, Exposing Her Fake Language Certificate",
+    "tt": "Alman Yargıç, Sahte Dil Sertifikasını İfşa Eden Vatandaş Olmak Üzere Bir Çocuk Kitabı Verdi",
+    "s": "German Judge Hands Would-Be Citizen A Children's Book, Exposing Her Fake Language Certificate Authored by Remix News Staff via Remix News , In a local court in Wildeshausen in Lower Saxony, a simple children's book became the decisive piece of evidence against a 45-year-old Iraqi woman seeking Germa",
+    "ss": "Alman Yargıç, Sahte Dil Sertifikasını İfşa Eden Vatandaş Müstakbel Vatandaşa Bir Çocuk Kitabı Verdi Remix Haber Çalışanları tarafından Remix News aracılığıyla hazırlandı , Aşağı Saksonya'daki Wildeshausen'deki yerel bir mahkemede, basit bir çocuk kitabı, Germa'yı arayan 45 yaşındaki Iraklı bir kadına karşı kesin delil haline geldi",
+    "u": "https://www.zerohedge.com/geopolitical/german-judge-hands-would-be-citizen-childrens-book-exposing-her-fake-language",
+    "ts": 1795586400000,
+    "tags": []
+   },
+   {
     "t": "South Africa's President Pledges To Spend Millions On AI Development",
     "tt": "Güney Afrika Devlet Başkanı Yapay Zeka Geliştirmeye Milyonlarca Dolar Harcama Sözü Verdi",
     "s": "South Africa's President Pledges To Spend Millions On AI Development There is a debate raging around the world, particularly in the west, about where AI development stands in the long list of societal priorities. &nbsp;In the US, a country on the cutting edge of AI technology, public support is larg",
@@ -727,36 +740,54 @@
     "u": "https://www.zerohedge.com/geopolitical/no-boots-ground-us-flew-drone-over-mexican-territory-help-capture-drug-lord-sinaloa",
     "ts": 1795576800000,
     "tags": []
-   },
-   {
-    "t": "'No Direct Threat': Opposition's Eisenkot Challenges Bibi's Call To Escalation Against Iran",
-    "tt": "'Doğrudan Tehdit Yok': Muhalefetin Eisenkot'u Bibi'nin İran'a Karşı Gerilimi Yükseltme Çağrısına Karşı Çıktı",
-    "s": "'No Direct Threat': Opposition's Eisenkot Challenges Bibi's Call To Escalation Against Iran Via The Cradle Gadi Eisenkot, the head of Israel's Zionist opposition bloc, said on Monday that he does not see an immediate threat from Iran that requires military action prior to the formation of a new Isra",
-    "ss": "'Doğrudan Tehdit Yok': Muhalefetin Eisenkot'u, Bibi'nin Beşik Yoluyla İran'a Karşı Gerilimi Yükseltme Çağrısına Karşı Çıkıyor İsrail'in Siyonist muhalefet bloğunun başkanı Gadi Eisenkot, Pazartesi günü yaptığı açıklamada, İran'dan gelecek, yeni bir İsrail'in kurulmasından önce askeri eylem gerektiren acil bir tehdit görmediğini söyledi.",
-    "u": "https://www.zerohedge.com/geopolitical/no-direct-threat-oppositions-eisenkot-challenges-netanyahus-call-escalation-against",
-    "ts": 1795575600000,
-    "tags": []
-   },
-   {
-    "t": "NYC Schools Were So Determined To Hide These Records, A Judge Just Held Them In Contempt",
-    "tt": "NYC Okulları Bu Kayıtları Saklamakta O Kadar Kararlıydı ki Bir Yargıç Onları Hakaret Etti",
-    "s": "NYC Schools Were So Determined To Hide These Records, A Judge Just Held Them In Contempt New York City's Department of Education has been held in contempt of court for ignoring two orders to hand over emails tied to the firing of teachers who refused the COVID-19 vaccine , four years after a lawyer ",
-    "ss": "NYC Okulları Bu Kayıtları Saklamakta O Kadar Kararlıydı ki, Bir Hakim Onları Hakaret Etti New York Şehri Eğitim Bakanlığı, bir avukattan dört yıl sonra, COVID-19 aşısını reddeden öğretmenlerin işten atılmasına ilişkin e-postaların teslim edilmesine yönelik iki emri göz ardı ettiği için mahkemeye saygısızlıkla suçlandı.",
-    "u": "https://www.zerohedge.com/political/nyc-schools-were-so-determined-hide-these-records-judge-just-held-them-contempt",
-    "ts": 1795574400000,
-    "tags": []
-   },
-   {
-    "t": "\"Is This The Beginning Of The End?\": Are The Outages Making Us Paranoid",
-    "tt": "\"Bu Sonun Başlangıcı mı?\": Kesintiler Bizi Paranoyaklaştırıyor mu?",
-    "s": "\"Is This The Beginning Of The End?\": Are The Outages Making Us Paranoid Authored by Theodore Dalrymple via The Epoch Times , Repeated and consecutive outages of vital services that depend upon electronic communication are not merely inconvenient in practical ways - canceled flights, delays in paymen",
-    "ss": "\"Bu Sonun Başlangıcı mı?\": Kesintiler Bizi Paranoyaklaştırıyor mu? Yazan: Theodore Dalrymple, The Epoch Times aracılığıyla, Elektronik iletişime bağlı hayati hizmetlerin tekrarlanan ve ardışık kesintileri yalnızca pratik açıdan sakıncalı değildir - iptal edilen uçuşlar, ödemelerde gecikmeler",
-    "u": "https://www.zerohedge.com/geopolitical/beginning-end-dalrymple-outages-making-us-paranoid",
-    "ts": 1795573200000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Trump: Bu savaşı istediğimiz zaman bitirebiliriz",
+    "tt": null,
+    "s": "ABD Başkanı Donald Trump, İran'la savaşı \"istedikleri an bitirebileceklerini\" belirterek, ara seçimlerde Kongre'de çoğunluğu sağlayan Demokrat Partililerin \"ellerindeki kazancı kayba çevireceğini\" savundu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/trump-bu-savasi-istedigimiz-zaman-bitirebiliriz-3795608",
+    "ts": 1795589552000,
+    "tags": []
+   },
+   {
+    "t": "Bitcoin ETF'leri en kötü ayına ilerliyor",
+    "tt": null,
+    "s": "Bitcoin'e yatırım yapan ve ABD'de işlem gören borsa yatırım fonları (ETF), 2024'teki piyasaya girişlerinden bu yana en kötü sermaye çıkışı ayını yaşamaya hazırlanıyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bitcoin-etfler-en-kotu-ayina-ilerliyor-3795607",
+    "ts": 1795589014000,
+    "tags": []
+   },
+   {
+    "t": "Küresel piyasalarda yeni tedirginlik",
+    "tt": null,
+    "s": "ABD, Yüksek Mahkeme'nin iptal ettiği tarifelerin yerine Çin, AB ve 12'den fazla ekonomiyi hedefleyen yeni tarifeler açıklamaya hazırlanırken risk iştahı da baskı gördü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/kuresel-piyasalarda-yeni-tedirginlik-3795601",
+    "ts": 1795587471000,
+    "tags": []
+   },
+   {
+    "t": "Sistematik fonlar sert dalgalanmalara ayak uyduramıyor",
+    "tt": null,
+    "s": "Hisse senetlerindeki sert dalgalanmalar sistematik fonları satışa yöneltirken, emtia işlem danışmanlarının önümüzdeki beş günde 68 milyar dolarlık küresel hisse satması bekleniyor.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/sistematik-fonlar-sert-dalgalanmalara-ayak-uyduramiyor-3795600",
+    "ts": 1795586727000,
+    "tags": []
+   },
+   {
+    "t": "Altında şimdi de tarife baskısı",
+    "tt": null,
+    "s": "Altın fiyatları, yapay zeka şirketlerine yönelik temkinli beklentiler ve Beyaz Saray'ın yeni gümrük vergisi planlarının Fed'in faiz artıracağı beklentilerini güçlendirmesiyle düşüşünü sürdürdü.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/altinda-simdi-de-tarife-baskisi-3795599",
+    "ts": 1795585992000,
+    "tags": []
+   },
    {
     "t": "Petrolde arz iyimserliği",
     "tt": null,
@@ -785,66 +816,21 @@
     "tags": []
    },
    {
+    "t": "Dolar/TL'de son durum ne? 25 Kasım 2026 Euro ve döviz fiyatları…",
+    "tt": null,
+    "s": "Dolar haftanın üçüncü işlem gününde (saat 09:30 itibari ile) 50.6780 liradan, euro ise 55.4190 liradan işlem görüyor. Serbest döviz piyasalarındaki anlık dolar/euro işlemleri ile ilgili merak ettiğiniz tüm detaylar burada; dolar kaç TL oldu, euro kaç liradan satılıyor, dolar/euro bugün ne kadar? gib",
+    "ss": null,
+    "u": "https://www.bloomberght.com/dolartlde-son-durum-ne-25-kasim-2026-euro-ve-doviz-fiyatlari-pkh2-3795604",
+    "ts": 1795588202000,
+    "tags": []
+   },
+   {
     "t": "Resmi Gazete'de bugün (25.11.2026)",
     "tt": null,
     "s": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
     "ss": null,
     "u": "https://www.bloomberght.com/resmi-gazete-de-bugun-25112026-3795595",
     "ts": 1795554183000,
-    "tags": []
-   },
-   {
-    "t": "Birleşik Krallık'tan yapay zeka destekli siber saldırılara karşı uyarı",
-    "tt": null,
-    "s": "Birleşik Krallık hükümetinin siber güvenlik birimi, son aylarda yapay zeka destekli siber saldırılarda belirgin bir artış gözlemlediklerini açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/birlesik-krallik-tan-yapay-zeka-destekli-siber-saldirilara-karsi-uyari-3795594",
-    "ts": 1795553314000,
-    "tags": []
-   },
-   {
-    "t": "İran: ABD'nin deniz ablukasını kırmaya kararlıyız",
-    "tt": null,
-    "s": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin deniz ablukasını kırmaya kararlı olduklarını söyledi. Rızai, yeni bir saldırganlığa tüm güçleriyle karşılık vereceklerini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/iran-abd-nin-deniz-ablukasini-kirmaya-kararliyiz-3795593",
-    "ts": 1795552702000,
-    "tags": []
-   },
-   {
-    "t": "CIA ve DNI'da siber güvenlik ihlali iddiası",
-    "tt": null,
-    "s": "ABD Merkezi Haberalma Teşkilatı (CIA) ve Ulusal İstihbarat Direktörlüğü'nün (DNI) kullandığı açık kaynak istihbarat analiz sisteminde siber güvenlik ihlali yaşandığı ve bazı bilgilerin sızdırıldığı öne sürüldü. NYT'ye konuşan kaynaklar, gizli bilgilerin tehlikeye girmediğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-istihbarat-kurumlarinda-siber-guvenlik-ihlali-iddiasi-3795592",
-    "ts": 1795551957000,
-    "tags": []
-   },
-   {
-    "t": "Uber ve Nuro, Lucid robotaksilerle sürücüsüz testlere başlıyor",
-    "tt": null,
-    "s": "Nuro, Lucid ve Uber ortaklığında geliştirilen Lucid Gravity tabanlı robotaksiler, San Francisco Körfez Bölgesi'nde kamuya açık yollarda güvenlik sürücüsü olmadan tamamen sürücüsüz testlere başladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/uber-ve-nuro-lucid-robotaksilerle-surucusuz-testlere-basliyor-3795591",
-    "ts": 1795551432000,
-    "tags": []
-   },
-   {
-    "t": "Bakan Uraloğlu: HGS'de usulsüz tahsilatlar iade edilecek",
-    "tt": null,
-    "s": "Bakan Uraloğlu, HGS'de yasal takibin durdurulduğunu ve usulüne uygun yapılmayan ödemelerin iade edileceğini açıkladı. Uraloğlu, sorunların çözümü için yarın işletmecilerle toplantı yapılacağını bildirdi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/bakan-uraloglu-hgs-de-usulsuz-tahsilatlar-iade-edilecek-3795590",
-    "ts": 1795550386000,
-    "tags": []
-   },
-   {
-    "t": "Fonlarda ara ödemelerin 27 Kasım'da tamamlanması hedefleniyor",
-    "tt": null,
-    "s": "İletişim Başkanlığı, fonların tasfiye sürecinde 1 milyon liraya kadar ara ödemelerin son kısmının 27 Kasım Cuma günü tamamlanmasının hedeflendiğini açıkladı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/fonlarda-ara-odemelerin-27-kasim-da-tamamlanmasi-hedefleniyor-3795589",
-    "ts": 1795548847000,
     "tags": []
    }
   ]
