@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T12:59:00.280010+00:00",
+ "generated": "2026-11-25T14:19:57.263584+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,97 +24,97 @@
   },
   {
    "n": "VIX",
-   "p": 30.72,
-   "c": 16.54,
-   "d": 4.36,
+   "p": 31.5,
+   "c": 19.5,
+   "d": 5.14,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3546.5,
-   "c": -0.43,
-   "d": -15.4,
+   "p": 3512.1,
+   "c": -1.4,
+   "d": -49.8,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.26,
-   "c": -1.23,
-   "d": -0.5,
+   "p": 39.65,
+   "c": -2.72,
+   "d": -1.11,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 82.27,
-   "c": 0.27,
-   "d": 0.22,
+   "p": 82.48,
+   "c": 0.52,
+   "d": 0.43,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.97,
-   "c": -2.66,
-   "d": -2.43,
+   "p": 89.33,
+   "c": -2.26,
+   "d": -2.07,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.933,
+   "p": 103.938,
    "c": 0.12,
-   "d": 0.123,
+   "d": 0.128,
    "k": "idx"
   },
   {
    "n": "ABD 10Y",
-   "p": 4.904,
-   "c": -0.28,
-   "d": -0.014,
+   "p": 4.836,
+   "c": -1.39,
+   "d": -0.068,
    "k": "yield"
   },
   {
    "n": "USD/TRY",
-   "p": 50.6719,
-   "c": 0.14,
-   "d": 0.071,
+   "p": 50.6744,
+   "c": 0.15,
+   "d": 0.074,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10766.53,
-   "c": -1.82,
-   "d": -199.37,
+   "p": 10711.04,
+   "c": -2.32,
+   "d": -254.86,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 58631,
-   "c": -2.89,
+   "p": 58214,
+   "c": -3.5,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1645.71,
-   "c": -3.25,
+   "p": 1633.09,
+   "c": -3.74,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 67.75,
-   "c": -4.06,
+   "p": 66.98,
+   "c": -4.33,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.906536,
-   "c": -2.25,
+   "p": 0.897262,
+   "c": -2.93,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 539.39,
-   "c": -2.04,
+   "p": 533.74,
+   "c": -3.13,
    "k": "usd"
   }
  ],
@@ -374,46 +374,13 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush",
-    "tt": "Güçlü Yemek Talebinin Ezmeyi Artırmasıyla Soya Yağı Dokuz Ayın En Düşük Seviyesine Ulaştı",
-    "s": "Soybean oil prices fell to their lowest level since February as high demand for meal boosted crushing, while weakening crude added pressure ahead of the Thanksgiving holiday in the US.",
-    "ss": "Soya fasulyesi yağı fiyatları, yüksek küspe talebinin ezmeyi artırması ve ham petrolün zayıflamasının ABD'deki Şükran Günü tatili öncesinde baskıyı artırması nedeniyle Şubat ayından bu yana en düşük seviyesine geriledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/soy-oil-hits-nine-month-low-as-strong-meal-demand-boosts-crush",
-    "ts": 1795585521000,
+    "t": "NYC Private School to Buy Farm Previously Owned by Bankrupt Peer",
+    "tt": "NYC Özel Okulu, Daha Önce İflas Eden Bir Arkadaşa Ait Olan Çiftliği Satın Alacak",
+    "s": "A private school on Manhattan’s Upper West Side is planning to purchase a 165-acre farm in the Catskills that was previously owned by its bankrupt peer.",
+    "ss": "Manhattan'ın Yukarı Batı Yakası'ndaki özel bir okul, Catskills'de daha önce iflas eden akranına ait olan 165 dönümlük bir çiftliği satın almayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/nyc-private-school-to-buy-farm-previously-owned-by-bankrupt-peer",
+    "ts": 1795615835000,
     "tags": []
-   },
-   {
-    "t": "Nasdaq Futures Tumble as Tech Selloff Rolls On: Markets Wrap",
-    "tt": "Haven Talebi Tahvilleri Yükseltirken Teknoloji Satışları Devam Ediyor: Piyasalar Sarılıyor",
-    "s": "A global selloff in technology stocks is showing no sign of letting up as questions about the outlook for the artificial intelligence trade pile up, with investors turning to bonds for safety.",
-    "ss": "Yatırımcıların güvenlik için tahvillere yönelmesiyle birlikte yapay zeka ticaretinin görünümüne ilişkin soruların artmasıyla birlikte, teknoloji hisselerindeki küresel satışlarda herhangi bir azalma emaresi görünmüyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-    "ts": 1795558158000,
-    "tags": []
-   },
-   {
-    "t": "Bullrich confía en que la reforma electoral de Milei será aprobada",
-    "tt": "Bullrich, Milei'deki seçim reformunun yaklaştığını düşünüyor",
-    "s": "Patricia Bullrich asegura que hay votos suficientes en el Senado para suspender las PASO en Argentina, una reforma que acortaría el calendario electoral antes de la presidencial de 2027. (Source: Bloomberg)",
-    "ss": "Patricia Bullrich, Arjantin'de PASO'yu askıya almak için Senato'daki oyların yeterli olduğunu ve 2027 başkanlıktan önce seçim takvimini düzenleyen bir reform olduğunu söyledi. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-25/bullrich-confia-en-que-la-reforma-electoral-de-milei-sera-aprobada",
-    "ts": 1795610752000,
-    "tags": []
-   },
-   {
-    "t": "Gold Slumps Below $3,500 an Ounce to Lowest in More Than a Year",
-    "tt": "Altın, Fed Bahislerine Yön Verecek Enflasyon Verileri Öncesinde Düştü",
-    "s": "Gold dipped below $3,500 an ounce as a selloff in stocks continued and investors waited for a key inflation print that could shape expectations of further Federal Reserve rate hikes.",
-    "ss": "Altın, hisse senetlerindeki satışların devam etmesi ve yatırımcıların Fed'in daha fazla faiz artırımına ilişkin beklentileri şekillendirebilecek temel enflasyon verilerini beklemesiyle düştü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-    "ts": 1795564282000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
    },
    {
     "t": "Latest Oil Market News and Analysis for Nov. 25",
@@ -430,48 +397,81 @@
     ]
    },
    {
-    "t": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
-    "tt": "Nvidia Hala Piyasa Değerinde 2 Trilyon Dolara Mal Olan Sorunlarla Karşı Karşıya",
-    "s": "The euphoria surrounding Nvidia Corp. shares following the return of Chief Executive Officer Jensen Huang on Monday is wearing off as investors come to grips with the questions still hanging over the world’s biggest chipmaker.",
-    "ss": "İcra Kurulu Başkanı Jensen Huang'ın Pazartesi günü geri dönüşünün ardından Nvidia Corp. hisselerini çevreleyen coşku, yatırımcıların dünyanın en büyük çip üreticisinin üzerinde hala asılı olan sorularla yüzleşmesiyle birlikte azalıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
-    "ts": 1795609258000,
+    "t": "Stocks Meltdown Spills Into Unlikely Market, Sinking Carry Trade",
+    "tt": "Hisse Senetlerindeki Erime Beklenmeyen Piyasaya Sızıyor, Carry Ticareti Batan",
+    "s": "One of Wall Street’s most reliable wagers of 2026 is starting to lose its surefire status.",
+    "ss": "Wall Street'in 2026'nın en güvenilir bahislerinden biri kesin statüsünü kaybetmeye başlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
+    "ts": 1795615271000,
     "tags": []
    },
    {
-    "t": "Metals Rout Deepens as AI, Fed Worries Fuel Bearish Sentiment",
-    "tt": "Yapay Zeka ve Fed'in Düşüş Duyarlılığını Arttırmasından Endişe Etmesiyle Metal Rutunu Derinleşiyor",
-    "s": "Copper, aluminum and tin all added to Tuesday’s sharp selloff in metals as tech stocks extended losses and traders braced for US inflation data that will feed the Federal Reserve’s next moves on interest rates.",
-    "ss": "Bakır, alüminyum ve kalay, teknoloji hisselerinin kayıplarını artırması ve tüccarların Fed'in faiz oranlarına ilişkin bir sonraki hamlesini besleyecek ABD enflasyon verilerine hazırlanmasıyla Salı günkü keskin satışlara eklendi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
-    "ts": 1795579032000,
+    "t": "BC Partners Buys GSE Sport Agency With Golfer DeChambeau on List",
+    "tt": "BC Partners, Listede Golfçü DeChambeau'nun Bulunduğu GSE Spor Ajansını Satın Aldı",
+    "s": "BC Partners’ credit arm has agreed to buy a majority stake in GSE Worldwide, a sports marketing agency which represents athletes such as golf celebrity Bryson DeChambeau and former NFL and MLB star Bo Jackson.",
+    "ss": "BC Partners'ın kredi kolu, golf ünlüsü Bryson DeChambeau ve eski NFL ve MLB yıldızı Bo Jackson gibi sporcuları temsil eden bir spor pazarlama ajansı olan GSE Worldwide'ın çoğunluk hissesini satın almayı kabul etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
+    "ts": 1795615260000,
     "tags": []
    },
    {
-    "t": "Treasury Rally Picks Up as Stock Selloff Dents Risk Appetite",
-    "tt": "Hazine tahvilleri, teknoloji hisselerinin risk iştahını azaltmasıyla yükselişe geçti",
-    "s": "Treasuries rallied across the curve on Wednesday as renewed losses in technology shares dented investor appetite for risk assets.",
-    "ss": "Hazine tahvilleri Çarşamba günü teknoloji hisselerindeki yenilenen kayıpların yatırımcıların risk varlıklarına yönelik iştahını azaltmasıyla yükselişe geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-    "ts": 1795589374000,
-    "tags": []
-   },
-   {
-    "t": "US Tech Stocks Set to Extend Declines on Lingering AI Worries",
+    "t": "US Stock Futures Plunge as Renewed AI Worries Fuels Tech Losses",
     "tt": "ABD Teknoloji Hisse Senetleri, Süregelen Yapay Zeka Endişeleri Nedeniyle Düşüşlerini Uzatacak",
-    "s": "US technology stocks were set to decline for a second day as investors worried about the payoff from hefty investments in the artificial intelligence buildout.",
+    "s": "US equity futures fell for a second day, extending losses on a wave of heavy selling as traders dumped technology shares, with worries around AI dominating sentiment on Wall Street.",
     "ss": "Yatırımcıların yapay zekaya yapılan büyük yatırımların getirisi konusunda endişe duymasıyla ABD teknoloji hisseleri ikinci günde de düşüşe geçti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
     "ts": 1795593103000,
     "tags": []
    },
    {
-    "t": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
-    "tt": "Rusya'nın Artan Petrol İhracatı Küresel Arz Fazlasını Arttırdı",
-    "s": "Exports this year&nbsp;top all annual averages&nbsp;since the 2022&nbsp;full-scale invasion of Ukraine",
-    "ss": "Bu yılki ihracat, Ukrayna'nın 2022'deki tam ölçekli işgalinden bu yana tüm yıllık ortalamaların zirvesinde yer alıyor",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/russia-s-elevated-oil-exports-add-to-global-supply-surplus",
-    "ts": 1795608160000,
+    "t": "Gold Slumps Below $3,500 on Rate Hike Outlook, AI Stocks Selloff",
+    "tt": "Altın, Fed Bahislerine Yön Verecek Enflasyon Verileri Öncesinde Düştü",
+    "s": "Gold slid below $3,500 an ounce as a selloff in stocks continued and a key inflation print reinforced bets on further Federal Reserve rate hikes.",
+    "ss": "Altın, hisse senetlerindeki satışların devam etmesi ve yatırımcıların Fed'in daha fazla faiz artırımına ilişkin beklentileri şekillendirebilecek temel enflasyon verilerini beklemesiyle düştü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+    "ts": 1795564282000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Why Is Thanksgiving So Expensive This Year?",
+    "tt": "Şükran Günü Bu Yıl Neden Bu Kadar Pahalı?",
+    "s": "Planning your Thanksgiving grocery run? You might notice a few changes in the aisles this year. From the disappearing “free turkey” promotion to milk prices jumping nearly 8%, Deena Shanker joins Max Chafkin on Everybody’s Business to unpack the real cost of Thanksgiving dinner—and what’s driving gr",
+    "ss": "Şükran Günü market alışverişinizi mi planlıyorsunuz? Bu yıl koridorlarda birkaç değişiklik fark edebilirsiniz. Ortadan kaybolan \"bedava hindi\" promosyonundan neredeyse %8 oranında artan süt fiyatlarına kadar Deena Shanker, Şükran Günü yemeğinin gerçek maliyetini ve bizi buna iten şeyin ne olduğunu ortaya çıkarmak için Herkesin İşi'nde Max Chafkin'e katılıyor.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/why-is-thanksgiving-so-expensive-this-year",
+    "ts": 1795615003000,
+    "tags": []
+   },
+   {
+    "t": "Treasuries Rally as Tech Stock Losses Dent Risk Appetite",
+    "tt": "Hazine tahvilleri, teknoloji hisselerinin risk iştahını azaltmasıyla yükselişe geçti",
+    "s": "US Treasuries rallied as renewed losses in technology shares sent investors rushing back into the haven trade.",
+    "ss": "Hazine tahvilleri Çarşamba günü teknoloji hisselerindeki yenilenen kayıpların yatırımcıların risk varlıklarına yönelik iştahını azaltmasıyla yükselişe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+    "ts": 1795589374000,
+    "tags": []
+   },
+   {
+    "t": "Stocks Swoon as AI Fears Spur Rush to Treasuries: Markets Wrap",
+    "tt": "Haven Talebi Tahvilleri Yükseltirken Teknoloji Satışları Devam Ediyor: Piyasalar Sarılıyor",
+    "s": "The rout in tech stocks is showing no sign of letting up as questions about the artificial-intelligence outlook pile up, with traders turning to bonds despite elevated inflation data.",
+    "ss": "Yatırımcıların güvenlik için tahvillere yönelmesiyle birlikte yapay zeka ticaretinin görünümüne ilişkin soruların artmasıyla birlikte, teknoloji hisselerindeki küresel satışlarda herhangi bir azalma emaresi görünmüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+    "ts": 1795558158000,
+    "tags": []
+   },
+   {
+    "t": "Tech Selloff Pesists Ahead of PCE; US Prepares Tariff Hikes",
+    "tt": "Tech Selloff PCE'den Önce Direniyor; ABD Tarife Artışlarına Hazırlanıyor",
+    "s": "US equity futures drop as questions mount over the outlook for the AI trade, while Treasuries rally ahead of the latest PCE data. China calls the prospect of new US tariffs on its exports “political maneuvering” and urges both sides to maintain their trade truce. Max Kettner of HSBC joins \"Bloomberg",
+    "ss": "ABD hisse senedi vadeli kontratları yapay zeka ticaretinin görünümüne ilişkin soruların artmasıyla düşerken, Hazine tahvilleri en son PCE verileri öncesinde toparlanıyor. Çin, ABD'nin ihracatına yeni gümrük vergileri getirme ihtimalini \"siyasi manevra\" olarak nitelendiriyor ve her iki tarafı da ticari ateşkesi sürdürmeye çağırıyor. HSBC'den Max Kettner \"Bloomberg'e katıldı\"",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-brief-11-25-2026-video",
+    "ts": 1795613293000,
     "tags": []
    }
   ],
@@ -569,21 +569,143 @@
   ],
   "MarketWatch": [
    {
-    "t": "Here’s how to find value in cybersecurity stocks after a strong year",
-    "tt": "Güçlü bir yılın ardından siber güvenlik hisse senetlerinde nasıl değer bulacağınız aşağıda açıklanmıştır",
-    "s": "Put stocks through this two-question stress test to avoid overpaying for growth that may not materialize.",
-    "ss": "Gerçekleşmeyebilecek büyüme için fazla ödeme yapmaktan kaçınmak için hisse senetlerini bu iki sorulu stres testine tabi tutun.",
-    "u": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
-    "ts": 1795609800000,
+    "t": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
+    "tt": "Trump en sevdiği ticari silah konusunda ısrar ederken ABD, Çin ve diğerlerine yeni gümrük vergileri teklif ediyor",
+    "s": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
+    "ss": "Yeni vergiler için bir plan, Yüksek Mahkeme'nin bu yılın başlarında daha geniş Trump tarifelerini kaldırmasının ardından geldi.",
+    "u": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+    "ts": 1795616040000,
     "tags": []
    },
    {
-    "t": "This strategist’s bond-trading model is outperforming by a wide margin. A Fed that’s slowing the economy is a good thing, he says.",
-    "tt": "Bu strateji uzmanının tahvil ticareti modeli açık ara daha iyi performans gösteriyor. Fed'in ekonomiyi yavaşlatmasının iyi bir şey olduğunu savunuyor",
-    "s": "Inflation and nominal growth have been way too high for too long, argued Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
-    "ss": "Michael Darda, enflasyonun ve nominal büyümenin çok uzun süredir çok yüksek olduğunu savunuyor. Fed'i şahin olduğu için eleştirmek yerine piyasalar onu alkışlamalı ve talebi yavaşlatmak için gerektiği kadar ileri gitmesini tavsiye etmeli.",
-    "u": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
-    "ts": 1795609740000,
+    "t": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+    "tt": "Gelecek yıl geliyor: Neredeyse 640.000 kişi için ilaç teminatı olmayan Medicare Advantage planları ve geri kalanlar için daha az seçenek",
+    "s": "Medicare Advantage is starting to lose its all-in-one benefit.",
+    "ss": "Medicare Advantage, hepsi bir arada avantajını kaybetmeye başlıyor.",
+    "u": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+    "ts": 1795615980000,
+    "tags": []
+   },
+   {
+    "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "tt": "Jensen Huang'ın Nvidia'ya geri dönmesinden nefret ediyorum ama bunun 401(k) için yaptıklarını seviyorum. Ben ikiyüzlü müyüm?",
+    "s": "“I was paralyzed during the market downturn.”",
+    "ss": "“Piyasanın gerilemesi sırasında felç oldum.”",
+    "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "ts": 1795615260000,
+    "tags": []
+   },
+   {
+    "t": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
+    "tt": "Tech'in çöküşü derinleşiyor. Amerikalılar Kara Cuma'ya daha az satın alma gücüyle mi giriyor?",
+    "s": "October’s spending report will show how much Americans are actually buying. Plus, why Dell checks whether its AI customers have enough electricity, and why shoppers snapped up an $800 Advent calendar.",
+    "ss": "Ekim ayının harcama raporu Amerikalıların gerçekte ne kadar satın aldığını gösterecek. Ayrıca Dell'in yapay zeka müşterilerinin yeterli elektriğe sahip olup olmadığını neden kontrol ettiği ve alışveriş yapanların neden 800 dolarlık Noel takvimini kaptığı da merak ediliyor.",
+    "u": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
+    "ts": 1795614600000,
+    "tags": [
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Third-quarter GDP already looked great. Now it looks even better.",
+    "tt": "Üçüncü çeyrek GSYİH zaten harika görünüyordu. Şimdi daha da iyi görünüyor.",
+    "s": "The economy grew in the late spring and summer at the fastest pace in three years to set the U.S. up for a strong finish in 2026. Gross domestic product expanded at a 4.3% annual pace in the third quarter, up from an initial estimate of a 3.4%.",
+    "ss": "Ekonomi, bahar sonu ve yaz aylarında son üç yılın en hızlı temposuyla büyüyerek ABD'yi 2026'da güçlü bir bitirmeye hazırladı. Gayri safi yurt içi hasıla, üçüncü çeyrekte ilk tahmin olan %3,4'ten %4,3'e yükseldi.",
+    "u": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+    "ts": 1795614060000,
+    "tags": []
+   },
+   {
+    "t": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+    "tt": "Enflasyon kötüleşiyor. Artık Fed'in ABD faiz oranlarını artırmaktan başka seçeneği yok.",
+    "s": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
+    "ss": "Federal Rezerv'in ABD faiz oranlarını etkilemek için kullandığı enflasyon ölçüsü Ekim ayında yeniden hızlandırılmış bir oranda yükseldi ve neredeyse merkez bankasının gelecek ay borçlanma maliyetlerini artıracağına dair güvence verdi.",
+    "u": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+    "ts": 1795613640000,
+    "tags": []
+   },
+   {
+    "t": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
+    "tt": "Jensen Huang'ın Nvidia'ya dönüşünün gerçek bedeli: Şirket ve tüm AI endüstrisi için daha yüksek düzenleme maliyetleri",
+    "s": "After an initial rally, Nvidia shares fell as investors now must consider the legal and regulatory risks around having a scandal-ridden CEO back at the helm.",
+    "ss": "Yatırımcılar artık skandallarla dolu bir CEO'nun yeniden yönetime gelmesiyle ilgili yasal ve düzenleyici riskleri dikkate almak zorunda kaldığından, ilk yükselişin ardından Nvidia hisseleri düştü.",
+    "u": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
+    "ts": 1795613400000,
+    "tags": []
+   },
+   {
+    "t": "The S&P 500 is headed for a 14% gain next year — and downturns like this one are actually part of the reason, says JPMorgan",
+    "tt": "JPMorgan, S&P 500'ün 8.200'e doğru ilerlediğini ve bunun gibi düşüşlerin aslında bunun bir parçası olduğunu söylüyor",
+    "s": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
+    "ss": "Yapay zeka hâlâ sermaye harcamalarına göre değerlendiriliyor olsa da stratejistler, yapay zekanın benimsenmesine daha fazla bakmanın zamanının geldiğini savundu.",
+    "u": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+    "ts": 1795612980000,
+    "tags": []
+   },
+   {
+    "t": "What the options market says to do with Nvidia’s stock — and the rest of the stock market",
+    "tt": "Opsiyon piyasasının Nvidia hisseleri ve borsanın geri kalanıyla ilgili söyledikleri",
+    "s": "The put-call ratio is sending a strong message about Nvidia’s stock, and history suggests a post-Thanksgiving “bull spread” strategy for the Russell 2000 ETF.",
+    "ss": "Alım oranı Nvidia'nın hisseleri hakkında güçlü bir mesaj veriyor ve tarih, Russell 2000 ETF'si için Şükran Günü sonrası bir \"boğa yayılımı\" stratejisi öneriyor.",
+    "u": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
+    "ts": 1795612560000,
+    "tags": []
+   },
+   {
+    "t": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+    "tt": "12 günlük sardalya ve Croc cazibesi: Advent takvimleri kontrolden mi çıkıyor?",
+    "s": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+    "ss": "Özellikle yüzlerce dolara mal olabilen Lüks Advent takvimlerinin satışlarında ani bir artış görüldü. İşte nedeni.",
+    "u": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+    "ts": 1795612140000,
+    "tags": []
+   }
+  ],
+  "ZeroHedge": [
+   {
+    "t": "They Survived Hasan's Rampage, But The Army Won't Let Them Watch Him Die",
+    "tt": "Hasan'ın Saldırısından Kurtuldular Ama Ordu Onun Ölmesini İzlemelerine İzin Vermiyor",
+    "s": "They Survived Hasan's Rampage, But The Army Won't Let Them Watch Him Die The Army has turned away Fort Hood survivors who asked to witness the Dec. 3 firing-squad execution of Nidal Hasan, telling people who were in the line of fire in 2009 that they don't qualify as victims because they weren't hit",
+    "ss": "Hasan'ın Saldırısından Kurtuldular Ama Ordu Onun Ölmesini İzlemelerine İzin Vermiyor Ordu, 3 Aralık'ta Nidal Hasan'ın idam mangasında infazına tanık olmak isteyen Fort Hood'dan sağ kurtulanları geri çevirdi ve 2009'da ateş hattında olan insanlara vurulmadıkları için kurban olarak nitelendirilmediklerini söyledi.",
+    "u": "https://www.zerohedge.com/political/they-survived-hasans-rampage-army-wont-let-them-watch-him-die",
+    "ts": 1795616100000,
+    "tags": []
+   },
+   {
+    "t": "Trump Moves To Rebuild Tariff Wall Against China, EU, & 12 Others; Catching Investors Off Guard",
+    "tt": "Trump Çin, AB ve Diğer 12 Ülkeye Karşı Tarife Duvarı Yeniden İnşa Etmek İçin Harekete Geçti; Yatırımcıları Hazırlıksız Yakalamak",
+    "s": "Trump Moves To Rebuild Tariff Wall Against China, EU, &amp; 12 Others; Catching Investors Off Guard A risk-off tone dominated US equity futures this morning, with Nasdaq futures falling nearly 3% and Nvidia sliding more than 5% to around $147.55. The prospect of additional tariffs on major US tradin",
+    "ss": "Trump Çin, AB ve Diğer 12 Ülkeye Karşı Tarife Duvarı Yeniden İnşa Etmek İçin Harekete Geçti; Yatırımcıları Hazırlıksız Yakalamak Bu sabah ABD hisse senedi vadeli işlemlerine riskten kaçınma havası hakim oldu; Nasdaq vadeli işlemleri yaklaşık %3 düşerken Nvidia %5'ten fazla düşüşle 147,55 dolar civarına geriledi. Büyük ABD ticaretine yönelik ek gümrük tarifeleri beklentisi",
+    "u": "https://www.zerohedge.com/markets/trump-moves-rebuild-tariff-wall-against-china-eu-and-12-others-catching-investors-guard",
+    "ts": 1795615500000,
+    "tags": []
+   },
+   {
+    "t": "Jobless Claims Plummet Near 57 Year Lows As Job Hope Rebounds",
+    "tt": "İş Umutlarının Yükselişiyle İşsizlik Başvuruları Son 57 Yılın En Düşük Seviyelerine Düştü",
+    "s": "Jobless Claims Plummet Near 57 Year Lows As Job Hope Rebounds The number of Americans filing for jobless benefits for the first time tumbled back to 189k last week, matching the lowest level of the year... ...and basically at the lowest level since 1969... Continuing also plunged back near cycle low",
+    "ss": "İşsizlik Başvuruları, İş Umudunun Yükselişiyle 57 Yılın En Düşük Seviyesine Düştü İlk kez işsizlik yardımları için başvuran Amerikalıların sayısı, geçen hafta 189 bine geriledi, bu da yılın en düşük seviyesiyle eşleşiyor... ...ve temelde 1969'dan bu yana en düşük seviye... Devam ediyor, aynı zamanda döngünün en düşük seviyesine geriledi.",
+    "u": "https://www.zerohedge.com/personal-finance/jobless-claims-plummet-near-57-year-lows-job-hope-rebounds",
+    "ts": 1795615200000,
+    "tags": []
+   },
+   {
+    "t": "Pentagon UFO Files: Radar Caught Something That May Have Hit 1,650 MPH At Up To 70,000 Feet",
+    "tt": "Pentagon UFO Dosyaları: Radar, 70.000 Feet'e Kadar 1.650 MPH'ye Vurabilecek Bir Şey Yakaladı",
+    "s": "Pentagon UFO Files: Radar Caught Something That May Have Hit 1,650 MPH At Up To 70,000 Feet Authored by Naveen Athrappully via The Epoch Times , The Department of War has released its eighth tranche of declassified UFO files , which includes videos and documents from the military and other sources, ",
+    "ss": "Pentagon UFO Dosyaları: Radar, 70.000 Feet'e Kadar Hızda 1.650 MPH'ye Vurmuş Olabilecek Bir Şey Yakaladı Naveen Athrappully tarafından The Epoch Times aracılığıyla yazılmıştır, Savaş Bakanlığı, askeri ve diğer kaynaklardan alınan video ve belgeleri içeren, gizliliği kaldırılmış UFO dosyalarının sekizinci dilimini yayınladı.",
+    "u": "https://www.zerohedge.com/technology/pentagon-ufo-files-radar-caught-something-may-have-hit-1650-mph-70000-feet",
+    "ts": 1795614600000,
+    "tags": []
+   },
+   {
+    "t": "Fed's Favorite Inflation Indicator Jumps To Hottest In 3 Years; Americans' Savings Rate Ticks Up Ahead Of Black Friday",
+    "tt": "Fed'in Favori Enflasyon Göstergesi 3 Yılın En Sıcak Seviyesine Sıçradı; Amerikalıların Tasarruf Oranı Kara Cuma Öncesinde Yükseliyor",
+    "s": "Fed's Favorite Inflation Indicator Jumps To Hottest In 3 Years; Americans' Savings Rate Ticks Up Ahead Of Black Friday Following the hot CPI and PPI (and the internals), this morning's PCE should not provide too many surprises with expectations for the headline price Index to rise 0.3% MoM in Octobe",
+    "ss": "Fed'in Favori Enflasyon Göstergesi 3 Yılın En Sıcak Seviyesine Sıçradı; Amerikalıların Tasarruf Oranı Kara Cuma Öncesinde Yükseliyor Sıcak TÜFE ve ÜFE'nin (ve iç piyasaların) ardından bu sabah PCE, manşet fiyat endeksinin Ekim'de bir önceki aya göre %0,3 artacağı beklentileriyle çok fazla sürpriz sunmamalı",
+    "u": "https://www.zerohedge.com/markets/feds-favorite-inflation-indicator-jumps-hottest-3-years-americans-savings-rate-ticks-ahead",
+    "ts": 1795614000000,
     "tags": [
      "DXY ▲",
      "Altın ▼",
@@ -593,82 +715,32 @@
     ]
    },
    {
-    "t": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
-    "tt": "Tech'in çöküşü derinleşiyor. Amerikalılar Kara Cuma'ya daha az satın alma gücüyle mi giriyor?",
-    "s": "October’s spending report will show how much Americans are actually buying. Plus, why Dell checks whether its AI customers have enough electricity, and why shoppers snapped up an $800 Advent calendar.",
-    "ss": "Ekim ayının harcama raporu Amerikalıların gerçekte ne kadar satın aldığını gösterecek. Ayrıca Dell'in yapay zeka müşterilerinin yeterli elektriğe sahip olup olmadığını neden kontrol ettiği ve alışveriş yapanların neden 800 dolarlık Noel takvimini kaptığı da merak ediliyor.",
-    "u": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
-    "ts": 1795609200000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
-    "tt": "JPMorgan, S&P 500'ün 8.200'e doğru ilerlediğini ve bunun gibi düşüşlerin aslında bunun bir parçası olduğunu söylüyor",
-    "s": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
-    "ss": "Yapay zeka hâlâ sermaye harcamalarına göre değerlendiriliyor olsa da stratejistler, yapay zekanın benimsenmesine daha fazla bakmanın zamanının geldiğini savundu.",
-    "u": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
-    "ts": 1795606020000,
+    "t": "Zelenskyy Says Pentagon Is Holding Up Patriot Missiles As Putin Bets On \"Breaking Ukraine\" This Winter",
+    "tt": "Zelenskyy, Putin'in Bu Kış \"Ukrayna'yı Parçalayacağına\" Bahis Yaparken Pentagon'un Patriot Füzelerini Elinde Tuttuğunu Söyledi",
+    "s": "Zelenskyy Says Pentagon Is Holding Up Patriot Missiles As Putin Bets On \"Breaking Ukraine\" This Winter Authored by Guy Birchall via The Epoch Times , Ukrainian President Volodymyr Zelenskyy said on Tuesday the United States had delayed the delivery of Patriot missiles . \"It is deeply troubling when,",
+    "ss": "Zelenskyy, Putin'in Bu Kış \"Ukrayna'yı Kırmak\" Üzerine Bahis Yaparken Pentagon'un Patriot Füzelerini Elinde Tuttuğunu Söyledi Guy Birchall tarafından The Epoch Times aracılığıyla yazılan Ukrayna Devlet Başkanı Volodymyr Zelenskyy Salı günü ABD'nin Patriot füzelerinin teslimatını ertelediğini söyledi. \"Bu çok rahatsız edici bir durum,",
+    "u": "https://www.zerohedge.com/geopolitical/zelenskyy-says-pentagon-holding-patriot-missiles-putin-bets-breaking-ukraine-winter",
+    "ts": 1795613400000,
     "tags": []
    },
    {
-    "t": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
-    "tt": "Kylie Jenner, Los Angeles'taki beton malikaneyi 38 milyon dolara yeniden satıyor",
-    "s": "Kylie Jenner’s fortress-like home is back on the market, this time with a fresh set of listing images—some of which have been enhanced by AI.",
-    "ss": "Kylie Jenner'ın kale benzeri evi, bu sefer bazıları yapay zeka tarafından geliştirilmiş yeni liste görselleriyle yeniden piyasaya çıktı.",
-    "u": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
-    "ts": 1795601100000,
+    "t": "Futures Slide As Trump Pardon Talk Turns Jensen's Comeback Into Another Huangover",
+    "tt": "Trump'ın af konuşması Jensen'in geri dönüşünü başka bir Huangover'a dönüştürürken vadeli işlemler geriliyor",
+    "s": "Futures Slide As Trump Pardon Talk Turns Jensen's Comeback Into Another Huangover US futures tumble as the AI rout resumes with a vengeance: Monday's Jensen Huang euphoria has now fully evaporated and replaced by a Huangover, after Trump told the NY Post a pardon for the Nvidia CEO was \"always an op",
+    "ss": "Trump'ın Af Konuşması Jensen'in Geri Dönüşünü Başka Bir Huangover'a Dönüştürdüğünde Vadeli İşlemler Kayıyor Yapay Zeka yenilgisi intikamla devam ederken ABD vadeli işlemleri altüst oldu: Trump'ın NY Post'a Nvidia CEO'su için affın \"her zaman bir operasyon\" olduğunu söylemesinin ardından Pazartesi günkü Jensen Huang coşkusu tamamen buharlaştı ve yerini bir Huangover aldı.",
+    "u": "https://www.zerohedge.com/markets/futures-slide-trump-pardon-talk-turns-jensens-comeback-another-huangover",
+    "ts": 1795612688000,
     "tags": []
    },
    {
-    "t": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "tt": "Jensen Huang'ın Nvidia'ya geri dönmesinden nefret ediyorum ama bunun 401(k) için yaptıklarını seviyorum. Ben ikiyüzlü müyüm?",
-    "s": "“I was paralyzed during the market downturn.”",
-    "ss": "“Piyasanın gerilemesi sırasında felç oldum.”",
-    "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "ts": 1795601100000,
+    "t": "Brent Surges As Escalating Houthi-Saudi Conflict Revives War Risk Premium",
+    "tt": "Artan Husi-Suudi Çatışmasının Savaş Riski Primini Canlandırmasıyla Brent Yükseldi",
+    "s": "Brent Surges As Escalating Houthi-Saudi Conflict Revives War Risk Premium Brent crude futures briefly tumbled to $89.50 a barrel early Wednesday before reversing course and climbing above $92, as Yemen's Iran-backed Houthis attacked Saudi Arabia's largest oil refinery with one-way attack drones and ",
+    "ss": "Artan Husi-Suudi Çatışması Savaş Riskini Canlandırırken Brent Yükseliyor Brent ham vadeli işlemleri Çarşamba günü erken saatlerde kısa süreliğine varil başına 89,50 dolara geriledi, ardından rotayı tersine çevirip 92 doların üzerine çıktı.",
+    "u": "https://www.zerohedge.com/energy/brent-surge-escalating-houthi-saudi-conflict-revives-war-risk-premium",
+    "ts": 1795612500000,
     "tags": []
    },
-   {
-    "t": "NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
-    "tt": "NBA yıldızı Kevin Durant, Houston'la takastan bir yıl sonra Arizona'daki malikanesini 13,9 milyon dolara listeledi",
-    "s": "Houston Rockets star Kevin Durant has listed his sprawling Arizona property for $13.9 million—just three years after he picked up the palatial pad.",
-    "ss": "Houston Rockets'ın yıldızı Kevin Durant, Arizona'daki geniş mülkünü 13,9 milyon dolara listeledi; görkemli daireyi aldıktan sadece üç yıl sonra.",
-    "u": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
-    "ts": 1795600860000,
-    "tags": []
-   },
-   {
-    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
-    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
-    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
-    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "ts": 1795572000000,
-    "tags": []
-   },
-   {
-    "t": "Dell’s stock rises as the AI boom helps sales more than double",
-    "tt": "Yapay zeka patlaması satışlara iki kattan fazla yardımcı olurken Dell'in hisseleri artıyor",
-    "s": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
-    "ss": "Dell, birikmiş iş yükünün \"müşteri kalitesi ve sermaye, arazi ve enerjiye erişim açısından titizlikle incelendiğini\" söylüyor.",
-    "u": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-    "ts": 1795569060000,
-    "tags": []
-   },
-   {
-    "t": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "tt": "Kocam eski karısına işini kaybettikten sonra gizlice ayda 1.500 dolar gönderiyor. 2,4 milyon dolarımız var. İhmal ederek yalan mı söyledi?",
-    "s": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-    "ss": "\"Ödemeyi saklamaya çalışmadığını ancak eski karısının bir tıbbi faturalandırma şirketindeki işini kaybettiğini açıkladı.\"",
-    "u": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "ts": 1795565100000,
-    "tags": []
-   }
-  ],
-  "ZeroHedge": [
    {
     "t": "Kilmar Abrego Garcia Is Gone... But His Lawyer Says He's Coming Back",
     "tt": "Kilmar Abrego Garcia Gitti Ama Avukatı Geri Döneceğini Söyledi",
@@ -679,91 +751,79 @@
     "tags": []
    },
    {
-    "t": "\"Monster Storm\" Threatens Thanksgiving Travel Along I-95 Corridor, May Spark Widespread Power Outages",
-    "tt": "\"Canavar Fırtınası\" I-95 Koridoru Boyunca Şükran Günü Seyahatini Tehdit Ediyor, Yaygın Elektrik Kesintilerine Yol Açabilir",
-    "s": "\"Monster Storm\" Threatens Thanksgiving Travel Along I-95 Corridor, May Spark Widespread Power Outages The Thanksgiving travel rush is well underway, with AAA projecting that 81.5 million Americans will travel at least 50 miles from home over the holiday period, including 72.9 million by car. Followi",
-    "ss": "\"Canavar Fırtınası\" I-95 Koridoru Boyunca Şükran Günü Seyahatini Tehdit Ediyor, Mayıs Yaygın Elektrik Kesintilerine Yol Açabilir Şükran Günü seyahat telaşı devam ediyor ve AAA, 72,9 milyonu arabayla olmak üzere 81,5 milyon Amerikalının tatil dönemi boyunca evlerinden en az 80 mil uzakta seyahat edeceğini tahmin ediyor. Takip et",
-    "u": "https://www.zerohedge.com/weather/monster-storm-threatens-thanksgiving-travel-along-i-95-corridor-may-spark-widespread-power",
-    "ts": 1795610400000,
-    "tags": []
-   },
-   {
-    "t": "EU Admits AI Cyberattack Leaked Users' Personal Data",
-    "tt": "AB, Yapay Zeka Siber Saldırısının Kullanıcıların Kişisel Verilerini Sızdırdığını Kabul Etti",
-    "s": "EU Admits AI Cyberattack Leaked Users' Personal Data Authored by Jack Phillips via The Epoch Times , European Union officials on Nov. 23 warned that personal data on one of its websites had been leaked in an AI-driven cyberattack last month . The EU's executive branch, the European Commission, said ",
-    "ss": "AB, Yapay Zeka Siber Saldırısının Kullanıcıların Kişisel Verilerini Sızdırdığını Kabul Etti Jack Phillips tarafından The Epoch Times aracılığıyla yazılan Avrupa Birliği yetkilileri, 23 Kasım'da, web sitelerinden birindeki kişisel verilerin geçen ay yapay zeka destekli bir siber saldırıda sızdırıldığı konusunda uyardı. AB'nin yürütme organı Avrupa Komisyonu şunları söyledi:",
-    "u": "https://www.zerohedge.com/political/eu-admits-ai-cyberattack-leaked-users-personal-data",
-    "ts": 1795609200000,
-    "tags": []
-   },
-   {
-    "t": "Germany Accuses Russia Of Seeking To Put Nuclear Arms In Space Within Two Months",
-    "tt": "Almanya, Rusya'yı İki Ay İçinde Nükleer Silahları Uzaya Göndermeye Çalışmakla Suçluyor",
-    "s": "Germany Accuses Russia Of Seeking To Put Nuclear Arms In Space Within Two Months Germany has just thrown out a whopper of an allegation against Russia, which has prompted a swift denial out of the Kremlin. Berlin says that Russia could be preparing to put nuclear weapons in space, or is developing l",
-    "ss": "Almanya, Rusya'yı İki Ay İçinde Uzaya Nükleer Silah Göndermeye Çalışmakla Suçluyor Almanya'nın az önce Rusya'ya yönelik çok sayıda iddiayı ortaya atması Kremlin'in hızla yalanlanmasına yol açtı. Berlin, Rusya'nın uzaya nükleer silah yerleştirmeye hazırlanabileceğini ya da nükleer silahlar geliştiriyor olabileceğini söylüyor.",
-    "u": "https://www.zerohedge.com/geopolitical/germany-accuses-russia-seeking-put-nuclear-weapons-space-within-two-months",
-    "ts": 1795608000000,
-    "tags": []
-   },
-   {
-    "t": "Bitcoin Miners \"Switching Off Machines\" As Hash Rate Shrinks For First Time Since China Ban",
-    "tt": "Bitcoin Madencileri, Çin Yasağından Bu Yana İlk Kez Hash Oranı Düşerken \"Makinelerini Kapatıyor\"",
-    "s": "Bitcoin Miners \"Switching Off Machines\" As Hash Rate Shrinks For First Time Since China Ban Crypto market sentiment hit extreme fear early Saturday morning as Bitcoin plunged toward $55,000, its lowest level since September 2024. Data released Tuesday morning showed a year-over-year decline in the n",
-    "ss": "Bitcoin Madencileri, Çin'in Yasaklamasından Bu Yana Hash Oranı İlk Kez Düşerken \"Makinelerini Kapatıyor\" Bitcoin Eylül 2024'ten bu yana en düşük seviyesi olan 55.000 dolara düşerken, kripto piyasası duyarlılığı Cumartesi sabahı aşırı korkuya çarptı. Salı sabahı açıklanan veriler, Bitcoin'de yıldan yıla bir düşüş olduğunu gösterdi.",
-    "u": "https://www.zerohedge.com/crypto/bitcoin-miners-switching-machines-hash-rate-shrinks-first-time-china-ban",
-    "ts": 1795604400000,
-    "tags": [
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "Where Inflation Is Worst In Europe... And Getting Worse",
-    "tt": "Avrupa'da Enflasyonun En Kötü Olduğu ve Daha da Kötüleştiği Yer",
-    "s": "Where Inflation Is Worst In Europe... And Getting Worse Inflation is back above 4% across Europe, and not one of the 21 countries that use the euro is running below the European Central Bank's 2% target . Eurostat's final October figures , released Nov. 18, put annual inflation at 4.0% in both the e",
-    "ss": "Enflasyonun Avrupa'da En Kötü Olduğu Yer... Ve Daha da Kötüleşiyor Enflasyon Avrupa genelinde yeniden %4'ün üzerine çıktı ve euro kullanan 21 ülkeden hiçbiri Avrupa Merkez Bankası'nın %2 hedefinin altına düşmüyor. Eurostat'ın 18 Kasım'da açıklanan nihai Ekim rakamları, yıllık enflasyonun her iki ülkede de %4,0 olduğunu gösteriyor.",
-    "u": "https://www.zerohedge.com/economics/where-inflation-worst-europe-and-getting-worse",
-    "ts": 1795602000000,
-    "tags": []
-   },
-   {
-    "t": "Grand Theft Auto VI Hacker Released From Custody By UK Judge After Sentencing",
-    "tt": "Grand Theft Auto VI Hacker'ı, Cezanın Ardından Birleşik Krallık Hakimi Tarafından Gözaltından Serbest Bırakıldı",
-    "s": "Grand Theft Auto VI Hacker Released From Custody By UK Judge After Sentencing Authored by Chris Summers via The Epoch Times , A British member of the Lapsus$ hacking group, who obtained and leaked 90 clips of Grand Theft Auto 6 (GTA 6) online in 2022, was released from custody by a London judge on M",
-    "ss": "Grand Theft Auto VI Hacker'ı, Cezanın Ardından Birleşik Krallık Hakimi Tarafından Gözaltından Serbest Bırakıldı Chris Summers tarafından The Epoch Times aracılığıyla yazılmıştır. 2022'de Grand Theft Auto 6'nın (GTA 6) 90 klibini çevrimiçi olarak elde eden ve sızdıran Lapsus$ hack grubunun İngiliz üyesi, M tarihinde Londralı bir hakim tarafından gözaltından serbest bırakıldı.",
-    "u": "https://www.zerohedge.com/technology/grand-theft-auto-vi-hacker-released-custody-uk-judge-after-sentencing",
-    "ts": 1795599600000,
-    "tags": []
-   },
-   {
-    "t": "Imam Who Ran 'Britain's Biggest' Sharia Court Network Sued Over Historic Rapes",
-    "tt": "'İngiltere'nin En Büyük' ​​Şeriat Mahkemesi Ağı'nı Yöneten İmam, Tarihi Tecavüzler Nedeniyle Dava Açtı",
-    "s": "Imam Who Ran 'Britain's Biggest' Sharia Court Network Sued Over Historic Rapes The cleric who sat as chief judge of one of Britain's biggest networks of sharia courts is being sued at the High Court in London by a woman who says he repeatedly raped her as a girl in the 1980s, after his father had al",
-    "ss": "'İngiltere'nin En Büyük' ​​Şeriat Mahkemesi Ağı'nı Yöneten İmam, Tarihi Tecavüzler Nedeniyle Dava Açıldı İngiltere'nin en büyük şeriat mahkemeleri ağlarından birinin baş yargıcı olarak görev yapan din adamı, 1980'lerde kızken kendisine defalarca tecavüz ettiğini söyleyen bir kadın tarafından Londra Yüksek Mahkemesi'nde dava ediliyor.",
-    "u": "https://www.zerohedge.com/political/imam-who-ran-britains-biggest-sharia-court-network-sued-over-historic-rapes",
-    "ts": 1795597200000,
-    "tags": []
-   },
-   {
-    "t": "Russia Warns Estonia's Actions On Verge Of 'Triggering Open War'",
-    "tt": "Rusya, Estonya'nın Eylemlerini 'Açık Savaşı Tetiklemenin' Eşiğinde Uyardı",
-    "s": "Russia Warns Estonia's Actions On Verge Of 'Triggering Open War' Russia has just threatened the tiny NATO and EU-member nation of Estonia with \"open war\" - after a series of provocations as well as plans to outright shutter its entire border with Russia . The Kremlin cited this and other events as c",
-    "ss": "Rusya, Estonya'nın Eylemlerini 'Açık Savaşın Tetiklenmesinin' Eşiğinde Uyardı Rusya, bir dizi provokasyonun yanı sıra Rusya ile olan tüm sınırını tamamen kapatma planlarının ardından, küçük NATO ve AB üyesi ülke Estonya'yı \"açık savaş\" ile tehdit etti. Kremlin bunu ve diğer olayları c olarak gösterdi",
-    "u": "https://www.zerohedge.com/geopolitical/russia-warns-estonias-actions-verge-triggering-open-war",
-    "ts": 1795594800000,
-    "tags": []
-   },
-   {
-    "t": "Burnham Opens The Door To 300,000 Young Europeans, As Nearly A Million Young Brits Sit Idle",
-    "tt": "Yaklaşık Bir Milyon Genç İngiliz Boşta Otururken Burnham 300.000 Genç Avrupalıya Kapıyı Açıyor",
-    "s": "Burnham Opens The Door To 300,000 Young Europeans, As Nearly A Million Young Brits Sit Idle Prime Minister Andy Burnham's reset deal with Brussels lets 100,000 young Europeans a year come to live, work and study in Britain for up to three years, which means that once the scheme is running, up to 300",
-    "ss": "Yaklaşık Bir Milyon Genç İngiliz Boş Otururken Burnham 300.000 Genç Avrupalıya Kapıyı Açıyor Başbakan Andy Burnham'ın Brüksel ile yaptığı sıfırlama anlaşması, yılda 100.000 genç Avrupalının üç yıla kadar Britanya'da yaşamasına, çalışmasına ve eğitim görmesine olanak tanıyor;",
-    "u": "https://www.zerohedge.com/political/burnham-opens-door-300000-young-europeans-nearly-million-young-brits-sit-idle",
-    "ts": 1795592400000,
+    "t": "This Red State Is Wooing Conservatives Terrified That Texas Is Becoming The Next California",
+    "tt": "Bu Kızıl Eyalet, Muhafazakarları Teksas'ın Bir Sonraki Kaliforniya Olacağından Korkutuyor",
+    "s": "This Red State Is Wooing Conservatives Terrified That Texas Is Becoming The Next California Oklahoma Republicans are rolling out the welcome mat for Americans having second thoughts about moving to Texas after Democrats notched a series of stunning midterm victories in the longtime Republican strong",
+    "ss": "Bu Kızıl Eyalet, Muhafazakârları Teksas'ın Bir Sonraki Kaliforniya Olacağından Korkuyor Oklahoma Cumhuriyetçileri, Demokratların uzun süredir Cumhuriyetçilerin güçlü olduğu eyalette bir dizi baş döndürücü ara dönem zaferi elde etmesinin ardından Teksas'a taşınma konusunda ikinci kez düşünen Amerikalılar için karşılama minderini yayıyor",
+    "u": "https://www.zerohedge.com/political/red-state-wooing-conservatives-terrified-texas-becoming-next-california",
+    "ts": 1795611480000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "ABD'de işsizlik maaşı başvuruları düştü",
+    "tt": null,
+    "s": "ABD'de ilk kez işsizlik maaşına başvuranların sayısı, 21 Kasım ile biten haftada 189 bine düşerek piyasa beklentilerinin altında gerçekleşti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-dustu-3795659",
+    "ts": 1795614561000,
+    "tags": []
+   },
+   {
+    "t": "Fed'in favori enflasyon göstergesi 3. ayda da yüzde 0,3 arttı",
+    "tt": null,
+    "s": "Fed'in temel enflasyon göstergesi olarak tercih ettiği, çekirdek PCE endeksi aylık bazda üçüncü ayda da yüzde 0,3 oranında arttı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/fedin-favori-enflasyon-gostergesi-3-ayda-da-yuzde-0-3-artti-3795658",
+    "ts": 1795614244000,
+    "tags": []
+   },
+   {
+    "t": "İSO Başkanı Dalgakıran'dan rekabet uyarısı",
+    "tt": null,
+    "s": "İstanbul Sanayi Odası Başkanı Adnan Dalgakıran, düşük ücretler üzerine bir rekabet hesabı yapılabilecek dönemin geride kaldığını söyledi.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/iso-baskani-dalgakiran-dan-rekabet-uyarisi-3795656",
+    "ts": 1795614036000,
+    "tags": []
+   },
+   {
+    "t": "Henkel'in üçünçü çeyrek satışları yüzde 11 arttı",
+    "tt": null,
+    "s": "Henkel grup düzeyinde satışlarını yüzde 11 oranında artışla 5,7 milyar euroya çıkardı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/henkel-in-ucuncu-ceyrek-satislari-yuzde-11-artti-3795654",
+    "ts": 1795613530000,
+    "tags": []
+   },
+   {
+    "t": "ABD uygulayacağı yeni tarife oranlarını açıkladı",
+    "tt": null,
+    "s": "Trump yönetimi, 14 büyük ticaret ortağına yönelik yeni gümrük vergileri önerdi. Önerilen en büyük vergi oranı, Washington'un dünya pazarlarını ucuz ihracat ürünleriyle doldurmakla suçladığı Çin'e uygulanacak.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/abd-uygulayacagi-yeni-tarife-oranlarini-acikladi-3795646",
+    "ts": 1795613298000,
+    "tags": []
+   },
+   {
+    "t": "AB kuantum teknolojilerini geliştirme planı",
+    "tt": null,
+    "s": "Avrupa Birliği (AB) Komisyonu, kuantum araştırmalarının ticari ürün ve hizmetlere dönüşmesini hızlandırmak ve tedarik zincirlerini güçlendirmek üzere 50 milyar euroluk plan hazırladı.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/ab-kuantum-teknolojilerini-gelistirme-plani-3795643",
+    "ts": 1795612957000,
+    "tags": []
+   },
+   {
+    "t": "Bloomberg HT'nin büyüme anketi sonuçlandı",
+    "tt": null,
+    "s": "Bloomberg HT'nin anketine göre Türkiye ekonomisinin 2026 yılının üçüncü çeyreğinde dönemsel yüzde 0,8; yıllık yüzde 2,7; 2026 yılının tamamında yüzde 2,8 büyümesi bekleniyor. 2027 yılına yönelik büyüme beklentisi ise yüzde 3,7 oldu.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/bloomberg-ht-nin-buyume-anketi-sonuclandi-3795639",
+    "ts": 1795612550000,
+    "tags": []
+   },
    {
     "t": "\"Fuar maliyetleri yüzde 40'a varan oranda arttı\"",
     "tt": null,
@@ -789,69 +849,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/altin-bir-yildan-uzun-surenin-en-dusuk-seviyesinde-3795599",
     "ts": 1795585992000,
-    "tags": []
-   },
-   {
-    "t": "İTO'dan ticari kredi faizlerinde indirim çağrısı",
-    "tt": null,
-    "s": "İTO Başkanı Şekib Avdagiç, konut kredilerindeki gevşeme ve kredi kartı faizlerinde açıklanan indirimin ardından ticari kredi faizlerinde de indirim beklediklerini söyledi.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/itodan-ticari-kredi-faizlerinde-indirim-cagrisi-3795628",
-    "ts": 1795599565000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de 'tatil sezonu' harcamalarında 1 trilyon dolar beklentisi",
-    "tt": null,
-    "s": "ABD'de tüketiciler, yüksek enflasyonun bütçeleri üzerindeki baskısına rağmen harcamalarını sürdürürken, Kasım ve Aralık aylarını kapsayan \"tatil sezonunda\" perakende satışların bu yıl geçen yıla kıyasla yüzde 4,2 artarak 1 trilyon 13 milyar dolara ulaşacağı tahmin ediliyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-tatil-sezonu-harcamalarinda-1-trilyon-dolar-beklentisi-3795627",
-    "ts": 1795597633000,
-    "tags": []
-   },
-   {
-    "t": "Çin: ABD'nin gümrük vergisi hazırlığı 'siyasi manevra'",
-    "tt": null,
-    "s": "Çin, ABD'nin ihracatına yönelik yeni gümrük vergileri getirme hazırlığını \"siyasi manevra\" olarak nitelendirdi ve iki ülkenin ticaret ateşkesini korumak için birlikte çalışması gerektiğini belirtti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/cin-abd-nin-gumruk-vergisi-hazirligi-siyasi-manevra-3795624",
-    "ts": 1795596682000,
-    "tags": []
-   },
-   {
-    "t": "TEPAV: Yıllık gıda enflasyonu yüzde 31'e yükseldi",
-    "tt": null,
-    "s": "TEPAV'ın 1-25 Kasım verilerine göre aylık gıda enflasyonu hız kesse de fiyatlar yüzde 1,97 arttı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/tepav-yillik-gida-enflasyonu-yuzde-31e-yukseldi-3795622",
-    "ts": 1795596581000,
-    "tags": []
-   },
-   {
-    "t": "Almanya'da beklentilerin altında büyüme",
-    "tt": null,
-    "s": "Almanya ekonomisi, yılın üçüncü çeyreğinde bir önceki çeyreğe kıyasla yüzde 0,1 büyüyerek öncü verilerin altında kaldı.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/almanya-da-beklentilerin-altinda-buyume-3795620",
-    "ts": 1795595741000,
-    "tags": []
-   },
-   {
-    "t": "Dünya Bankası ve BBVA'dan MKOBİ'lere finansman artışı",
-    "tt": null,
-    "s": "Dünya Bankası Grubu ve İspanya merkezli BBVA'ya 2025'te sağladığı 1 milyar dolarlık sermaye optimizasyonu garantisinin tutarını 2 milyar dolara yükseltti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/dunya-bankasi-ve-bbva-dan-mkobi-lere-finansman-artisi-3795619",
-    "ts": 1795595184000,
-    "tags": []
-   },
-   {
-    "t": "ABD'de Huawei'ye birçok suçlamadan mahkumiyet kararı",
-    "tt": null,
-    "s": "ABD'de federal jüri, Çinli teknoloji şirketi Huawei'yi ticari sırları çalmak için komplo kurma, İran'a yönelik yaptırımları ihlal etme ve banka dolandırıcılığı dahil çeşitli suçlamalardan mahkum etti.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/abd-de-huawei-ye-bircok-suclamadan-mahkumiyet-karari-3795618",
-    "ts": 1795594981000,
     "tags": []
    }
   ]
