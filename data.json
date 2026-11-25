@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T01:57:41.332531+00:00",
+ "generated": "2026-11-25T02:50:31.830488+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3550.0,
-   "c": -2.78,
-   "d": -101.4,
+   "p": 3559.3,
+   "c": -0.07,
+   "d": -2.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.865,
-   "c": -5.29,
-   "d": -2.282,
+   "p": 40.88,
+   "c": 0.29,
+   "d": 0.12,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 81.47,
-   "c": 1.62,
-   "d": 1.3,
+   "p": 80.9,
+   "c": -1.4,
+   "d": -1.15,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 88.24,
-   "c": -1.26,
-   "d": -1.13,
+   "p": 87.65,
+   "c": -4.1,
+   "d": -3.75,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.882,
-   "c": -0.42,
-   "d": -0.438,
+   "p": 103.868,
+   "c": 0.06,
+   "d": 0.058,
    "k": "idx"
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.669,
+   "p": 50.6687,
    "c": 0.13,
    "d": 0.068,
    "k": "idx"
@@ -81,8 +81,8 @@
   {
    "n": "BIST 100",
    "p": 10965.93,
-   "c": -1.49,
-   "d": -165.37,
+   "c": -1.25,
+   "d": -138.47,
    "k": "idx"
   }
  ],
@@ -90,31 +90,31 @@
   {
    "n": "BTC",
    "p": 59224,
-   "c": -3.08,
+   "c": -1.64,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1657.83,
-   "c": -2.84,
+   "p": 1657.04,
+   "c": -1.72,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 69.04,
-   "c": -4.01,
+   "p": 68.72,
+   "c": -3.3,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.914398,
-   "c": -3.63,
+   "p": 0.917313,
+   "c": -2.59,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 543.14,
-   "c": -2.7,
+   "p": 541.32,
+   "c": -1.73,
    "k": "usd"
   }
  ],
@@ -313,7 +313,7 @@
   {
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "2.0M",
    "previous": "3.4M",
    "actual": "",
    "ts": 1795620600000,
@@ -374,14 +374,49 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Asian Stocks Fall as AI Trade Falters, Gold Drops: Markets Wrap",
+    "t": "Stock Losses Build as AI Trade Falters, Oil Drops: Markets Wrap",
     "tt": "Yapay Zeka Ticaretine İlişkin Şüphelerin Yeniden Ortaya Çıkmasıyla Asya Hisse Senetleri Düşecek: Piyasalar Sarılıyor",
-    "s": "Asian stocks retreated after a selloff in US technology shares revived doubts about the durability of the artificial intelligence trade, extending losses from Wall Street into the region. Gold fell.",
+    "s": "Stocks extended their decline and futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove a retreat from technology shares. Treasuries advanced on haven demand.",
     "ss": "Asya hisse senetleri, ABD'li çip üreticilerindeki yenilenen satış dalgasının yapay zeka ticaretinin dayanıklılığına ilişkin şüpheleri yeniden canlandırması ve yatırımcıları tahvillerin güvenliğine yöneltmesinin ardından düşmeye hazırlanıyor.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
     "ts": 1795558158000,
     "tags": [
-     "Altın ▼"
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
+    "tt": "Hindistan'ın Yapay Zeka Karşıtı Hisse Senedi Ticareti Zengin Değerlemelerle ve Küresel Tarife Riskleriyle Karşı Karşıya",
+    "s": "Meanwhile, a cash crunch in India’s banking system is forcing lenders to borrow at higher costs.",
+    "ss": "Bu arada, Hindistan'ın bankacılık sistemindeki nakit sıkıntısı borç verenleri daha yüksek maliyetlerle borç almaya zorluyor.",
+    "u": "https://www.bloomberg.com/news/newsletters/2026-11-25/india-s-anti-ai-stock-trade-confronts-rich-valuations-global-tariff-risks",
+    "ts": 1795573828000,
+    "tags": []
+   },
+   {
+    "t": "Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
+    "tt": "Yen Tahvili Arzının Hurdaya Çıkarılmasının Ardından Rakuten Kredi Riski Yükseldi",
+    "s": "Rakuten Group Inc.’s credit risk surged by the most since April 2025 after the company scrapped plans to raise about ¥150 billion ($942 million) in the bond market.",
+    "ss": "Rakuten Group Inc.'in kredi riski, şirketin tahvil piyasasında yaklaşık 150 milyar Yen (942 milyon $) artırma planlarını iptal etmesinin ardından Nisan 2025'ten bu yana en büyük artışını gösterdi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/rakuten-credit-risk-surges-after-yen-bond-offering-scrapped",
+    "ts": 1795573380000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 25",
+    "tt": "25 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil slipped as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
+    "ss": "Petrol fiyatları, tüccarların Hürmüz Boğazı çevresindeki gemilere yönelik artan saldırılara karşı artan arz işaretlerine ağırlık vermesiyle kayıplar yaşadı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+    "ts": 1795561589000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
     ]
    },
    {
@@ -418,15 +453,6 @@
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 25",
-    "tt": "25 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil steadied as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
-    "ss": "Petrol fiyatları, tüccarların Hürmüz Boğazı çevresindeki gemilere yönelik artan saldırılara karşı artan arz işaretlerine ağırlık vermesiyle kayıplar yaşadı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-    "ts": 1795561589000,
-    "tags": []
-   },
-   {
     "t": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
     "tt": "Altın, ABD Tarife Planlarının Faiz Artışı Bahislerini Güçlendirmesiyle Düşüşünü Tutuyor",
     "s": "Gold held a decline, after the White House’s latest tariff plans drove equities lower and reinforced expectations for an interest-rate hike by the Federal Reserve.",
@@ -457,24 +483,6 @@
     "ss": "Üst düzey bir Merkez Bankası yetkilisi, bu yılki beş faiz artışının ardından Avustralya'nın mali koşullarının \"açıkça kısıtlayıcı\" olduğunu söylerken, kapsamı belirlemenin zorluğuna da dikkat çekti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
     "ts": 1795564200000,
-    "tags": []
-   },
-   {
-    "t": "US Readies Tariff Hike on China, EU Goods",
-    "tt": "ABD, Çin ve AB Ürünleri İçin Tarife Artışına Hazırlanıyor",
-    "s": "The US is set to announce plans to raise tariffs on goods from China, the European Union and more than a dozen other economies, according to people familiar with the matter. Bloomberg’s Derek Wallbank has the latest. (Source: Bloomberg)",
-    "ss": "Konuya yakın kaynaklara göre ABD, Çin, Avrupa Birliği ve bir düzineden fazla ekonomiden gelen mallara yönelik gümrük vergilerini artırma planlarını duyurmaya hazırlanıyor. Bloomberg'den Derek Wallbank en son haberlere sahip. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
-    "ts": 1795563719000,
-    "tags": []
-   },
-   {
-    "t": "Butterball CEO on Thanksgiving Dinner Outlook",
-    "tt": "Butterball CEO'su Şükran Günü Yemeği Görünümü hakkında",
-    "s": "Jay Jandrain, Butterball CEO, says U.S. turkey production is slightly higher than last year and holiday turkey prices are broadly consistent with prior years. Some retailers are offering turkey deals below last year’s prices, and Thanksgiving meal baskets may cost the same or less. Jandrain says ret",
-    "ss": "Butterball CEO'su Jay Jandrain, ABD'deki hindi üretiminin geçen yıla göre biraz daha yüksek olduğunu ve tatil hindisi fiyatlarının önceki yıllarla büyük ölçüde tutarlı olduğunu söyledi. Bazı perakendeciler geçen yılın fiyatlarının altında hindi fırsatları sunuyor ve Şükran Günü yemek sepetlerinin fiyatı aynı veya daha düşük olabilir. Jandrain geri diyor",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
-    "ts": 1795561937000,
     "tags": []
    }
   ],
@@ -664,6 +672,24 @@
   ],
   "ZeroHedge": [
    {
+    "t": "NYC Schools Were So Determined To Hide These Records, A Judge Just Held Them In Contempt",
+    "tt": "NYC Okulları Bu Kayıtları Saklamakta O Kadar Kararlıydı ki Bir Yargıç Onları Hakaret Etti",
+    "s": "NYC Schools Were So Determined To Hide These Records, A Judge Just Held Them In Contempt New York City's Department of Education has been held in contempt of court for ignoring two orders to hand over emails tied to the firing of teachers who refused the COVID-19 vaccine , four years after a lawyer ",
+    "ss": "NYC Okulları Bu Kayıtları Saklamakta O Kadar Kararlıydı ki, Bir Hakim Onları Hakaret Etti New York Şehri Eğitim Bakanlığı, bir avukattan dört yıl sonra, COVID-19 aşısını reddeden öğretmenlerin işten atılmasına ilişkin e-postaların teslim edilmesine yönelik iki emri göz ardı ettiği için mahkemeye saygısızlıkla suçlandı.",
+    "u": "https://www.zerohedge.com/political/nyc-schools-were-so-determined-hide-these-records-judge-just-held-them-contempt",
+    "ts": 1795574400000,
+    "tags": []
+   },
+   {
+    "t": "\"Is This The Beginning Of The End?\": Are The Outages Making Us Paranoid",
+    "tt": "\"Bu Sonun Başlangıcı mı?\": Kesintiler Bizi Paranoyaklaştırıyor mu?",
+    "s": "\"Is This The Beginning Of The End?\": Are The Outages Making Us Paranoid Authored by Theodore Dalrymple via The Epoch Times , Repeated and consecutive outages of vital services that depend upon electronic communication are not merely inconvenient in practical ways - canceled flights, delays in paymen",
+    "ss": "\"Bu Sonun Başlangıcı mı?\": Kesintiler Bizi Paranoyaklaştırıyor mu? Yazan: Theodore Dalrymple, The Epoch Times aracılığıyla, Elektronik iletişime bağlı hayati hizmetlerin tekrarlanan ve ardışık kesintileri yalnızca pratik açıdan sakıncalı değildir - iptal edilen uçuşlar, ödemelerde gecikmeler",
+    "u": "https://www.zerohedge.com/geopolitical/beginning-end-dalrymple-outages-making-us-paranoid",
+    "ts": 1795573200000,
+    "tags": []
+   },
+   {
     "t": "Can Robotaxis Save The Economy?",
     "tt": "Robotaksi Ekonomiyi Kurtarabilir mi?",
     "s": "Can Robotaxis Save The Economy? Tesla began rolling out version 15 of its \"FSD Supervised\" system over the weekend, with deployments already in its pilot \"Robotaxi\" service and on Cybercabs in Texas and Florida. What has everyone talking is the video game-style visualization on the infotainment scre",
@@ -733,24 +759,6 @@
     "ss": "\"Bu California saçmalığını bir kez daha mı yapacağız?\": Carville, Newsom'un 2028 Sorununu Adlandırıyor Demokrat stratejisti James Carville, Gavin Newsom'un Beyaz Saray'a giden yolda en büyük engelinin yönettiği eyalet olduğunu düşünüyor. Konuk sunucu Mark McKinnon'dan Politika W'ye ilişkin 2028 Demokratik alanını değerlendirmesini istedi",
     "u": "https://www.zerohedge.com/political/are-we-going-do-california-sht-again-carville-names-newsoms-2028-problem",
     "ts": 1795562400000,
-    "tags": []
-   },
-   {
-    "t": "Judge Refuses To Block Trump's Sanctions On ICC Judges Who Targeted US, Israel",
-    "tt": "Hakim, Trump'ın ABD ve İsrail'i Hedef Alan ICC Hakimlerine Yönelik Yaptırımlarını Engellemeyi Reddetti",
-    "s": "Judge Refuses To Block Trump's Sanctions On ICC Judges Who Targeted US, Israel Authored by Aldgra Fredly via The Epoch Times , A federal judge on Monday denied a bid to block enforcement of President Donald Trump's executive order that authorized sanctions against International Criminal Court (ICC) ",
-    "ss": "Yargıç, Trump'ın ABD ve İsrail'i Hedef Alan ICC Yargıçlarına Yönelik Yaptırımlarını Engellemeyi Reddetti Aldgra Fredly tarafından The Epoch Times aracılığıyla yazıldı, Pazartesi günü bir federal yargıç, Başkan Donald Trump'ın Uluslararası Ceza Mahkemesi'ne (ICC) karşı yaptırımlara izin veren yürütme emrinin uygulanmasını engelleme teklifini reddetti",
-    "u": "https://www.zerohedge.com/geopolitical/judge-refuses-block-trumps-sanctions-icc-judges-who-targeted-us-israel",
-    "ts": 1795561200000,
-    "tags": []
-   },
-   {
-    "t": "Democrat Lawmaker Indicted Over $240K COVID Fraud - And The Real Charity Got Shut Out",
-    "tt": "Demokrat Milletvekili 240.000 Dolardan Fazla Kovid Dolandırıcılığıyla Suçlandı - Ve Gerçek Hayır Kurumu Kapatıldı",
-    "s": "Democrat Lawmaker Indicted Over $240K COVID Fraud - And The Real Charity Got Shut Out A Birmingham-area Democrat who was just re-elected to a second term in the Alabama House has been indicted on four counts of wire fraud, with federal prosecutors alleging that state Rep. Patrick Sellers collected m",
-    "ss": "Demokrat Milletvekili 240 Bin Dolardan Fazla Kovid Sahtekarlığıyla Suçlandı - Ve Gerçek Hayır Kurumu Kapatıldı Alabama Meclisi'nde ikinci bir dönem için yeniden seçilen Birmingham bölgesindeki bir Demokrat, dört elektronik dolandırıcılık suçlamasıyla suçlandı ve federal savcılar eyalet Temsilcisi Patrick Sellers'ın para topladığını iddia etti.",
-    "u": "https://www.zerohedge.com/political/democrat-lawmaker-indicted-over-240k-covid-fraud-and-real-charity-got-shut-out",
-    "ts": 1795560000000,
     "tags": []
    }
   ],
@@ -859,7 +867,6 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
-  "events": "429 Client Error: Too Many Requests for url: https://nfs.faireconomy.media/ff_calendar_thisweek.json",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
