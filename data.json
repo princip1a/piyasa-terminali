@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T04:57:12.950768+00:00",
+ "generated": "2026-11-25T05:53:42.553161+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3547.9,
-   "c": -0.39,
-   "d": -14.0,
+   "p": 3531.8,
+   "c": -0.85,
+   "d": -30.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 40.57,
-   "c": -0.47,
-   "d": -0.19,
+   "p": 40.24,
+   "c": -1.28,
+   "d": -0.52,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 80.71,
-   "c": -1.63,
-   "d": -1.34,
+   "p": 80.57,
+   "c": -1.8,
+   "d": -1.48,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 87.5,
-   "c": -4.27,
-   "d": -3.9,
+   "p": 87.32,
+   "c": -4.46,
+   "d": -4.08,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.984,
-   "c": 0.17,
-   "d": 0.174,
+   "p": 104.011,
+   "c": 0.19,
+   "d": 0.201,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6627,
-   "c": 0.12,
-   "d": 0.062,
+   "p": 50.664,
+   "c": 0.13,
+   "d": 0.063,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 59065,
-   "c": -2.11,
+   "p": 59040,
+   "c": -2.56,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1656.11,
-   "c": -2.53,
+   "p": 1655.15,
+   "c": -2.99,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 68.73,
-   "c": -3.84,
+   "p": 68.6,
+   "c": -4.47,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.917121,
-   "c": -3.51,
+   "p": 0.915643,
+   "c": -4.38,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 541.08,
-   "c": -2.13,
+   "p": 541.61,
+   "c": -2.34,
    "k": "usd"
   }
  ],
@@ -374,26 +374,45 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Stock Losses Build as AI Trade Falters, Oil Drops: Markets Wrap",
-    "tt": "Yapay Zeka Ticaretine İlişkin Şüphelerin Yeniden Ortaya Çıkmasıyla Asya Hisse Senetleri Düşecek: Piyasalar Sarılıyor",
-    "s": "Stocks sold off and futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove a retreat from technology shares. Treasuries advanced on haven demand.",
-    "ss": "Asya hisse senetleri, ABD'li çip üreticilerindeki yenilenen satış dalgasının yapay zeka ticaretinin dayanıklılığına ilişkin şüpheleri yeniden canlandırması ve yatırımcıları tahvillerin güvenliğine yöneltmesinin ardından düşmeye hazırlanıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-    "ts": 1795558158000,
+    "t": "Global Rotation on AI Fears Lifts Indian Stocks to Top Spot",
+    "tt": "Yapay Zeka Korkularındaki Küresel Rotasyon Hindistan Hisse Senetlerini En Üst Sıraya Yükseltti",
+    "s": "Indian stocks surged, extending their world-beating November rally as renewed selling in global artificial intelligence names bolstered a rotation toward markets with limited exposure to the theme.",
+    "ss": "Hint hisse senetleri, küresel yapay zeka isimlerinde yenilenen satışların, temaya sınırlı maruz kalan pazarlara doğru bir dönüşü desteklemesiyle, Kasım ayındaki dünya rekorunu kıran rallisini genişleterek yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
+    "ts": 1795583060000,
+    "tags": []
+   },
+   {
+    "t": "Gold Holds Decline as AI Doubts and Rate-Hike Bets Rattle Stocks",
+    "tt": "Altın, Yapay Zeka Şüpheleri ve Faiz Artışı Bahislerinin Hisse Senetlerini Sarsması Nedeniyle Düşüşü Durduruyor",
+    "s": "Gold held a decline, as stocks sold off on doubts over the durability of the artificial intelligence boom, and the White House’s latest tariff plans reinforced expectations for an interest-rate hike by the Federal Reserve.",
+    "ss": "Altın, yapay zeka patlamasının kalıcılığı konusundaki şüpheler nedeniyle hisse senetlerinin satılması ve Beyaz Saray'ın son tarife planlarının Federal Rezerv'in faiz artırımına ilişkin beklentileri güçlendirmesiyle düşüşünü sürdürdü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+    "ts": 1795564282000,
     "tags": [
-     "Petrol ▼",
-     "DXY ▼",
-     "Altın ▲",
-     "BTC ▲"
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
     ]
    },
    {
-    "t": "Maybank Reviews Portfolio as Chip Curbs Hit Data Center Projects",
-    "tt": "Maybank Portföyü İnceliyor, Çip Sınırları Veri Merkezi Projelerini Etkiliyor",
-    "s": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
-    "ss": "Malezya'nın en büyük bankası, kısıtlamaların veri merkezi müşterilerini ve finansman ihtiyaçlarını nasıl etkileyebileceğini değerlendirirken, portföyünü ABD'deki en son çip kısıtlamalarına maruz kalma potansiyeli açısından gözden geçiriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
-    "ts": 1795581330000,
+    "t": "Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
+    "tt": "Anwar Aide, Malezya Hükümetinin Muhtemelen Tam Dönem Görevde Kalacağını Söyledi",
+    "s": "Malaysian Prime Minister Anwar Ibrahim’s government is likely to serve until the end of its term despite recent speculation over an early election, according to his senior political adviser Zafrul Aziz.",
+    "ss": "Malezya Başbakanı Enver İbrahim'in kıdemli siyasi danışmanı Zafrul Aziz'e göre, erken seçime ilişkin son spekülasyonlara rağmen, hükümetinin görev süresinin sonuna kadar görev yapması muhtemel.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
+    "ts": 1795583028000,
+    "tags": []
+   },
+   {
+    "t": "Kochugovindan: Tech Volatility Is Here to Stay",
+    "tt": "Kochugovindan: Teknolojideki Değişkenlik Kalıcıdır",
+    "s": "Aberdeen Investments Senior Research Economist Sree Kochugovindan says the AI trade faces further downside risks as investors scrutinize valuations, earnings potential and returns on investment. She also discusses the outlook for US consumer spending, inflation and Federal Reserve policy with Abeer ",
+    "ss": "Aberdeen Investments Kıdemli Araştırma Ekonomisti Sree Kochugovindan, yatırımcıların değerlemeleri, kazanç potansiyelini ve yatırım getirilerini incelemesi nedeniyle yapay zeka ticaretinin daha fazla aşağı yönlü riskle karşı karşıya olduğunu söyledi. Ayrıca Abeer ile ABD tüketici harcamaları, enflasyon ve Federal Rezerv politikasının görünümünü de tartışıyor",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
+    "ts": 1795585031000,
     "tags": []
    },
    {
@@ -403,6 +422,29 @@
     "ss": "Petrol fiyatları, tüccarların Hürmüz Boğazı çevresindeki gemilere yönelik artan saldırılara karşı artan arz işaretlerine ağırlık vermesiyle kayıplar yaşadı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
     "ts": 1795561589000,
+    "tags": [
+     "Petrol ▼",
+     "DXY ▼",
+     "Altın ▲",
+     "BTC ▲"
+    ]
+   },
+   {
+    "t": "Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
+    "tt": "Maybank Portföyü İnceliyor, Çip Sınırları Veri Merkezi Projelerini Etkiliyor",
+    "s": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
+    "ss": "Malezya'nın en büyük bankası, kısıtlamaların veri merkezi müşterilerini ve finansman ihtiyaçlarını nasıl etkileyebileceğini değerlendirirken, portföyünü ABD'deki en son çip kısıtlamalarına maruz kalma potansiyeli açısından gözden geçiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+    "ts": 1795581330000,
+    "tags": []
+   },
+   {
+    "t": "Stock Losses Build as AI Trade Falters, Oil Drops: Markets Wrap",
+    "tt": "Yapay Zeka Ticaretine İlişkin Şüphelerin Yeniden Ortaya Çıkmasıyla Asya Hisse Senetleri Düşecek: Piyasalar Sarılıyor",
+    "s": "Stocks sold off and futures signaled further weakness as doubts over the durability of the artificial intelligence boom drove a retreat from technology shares. Treasuries advanced on haven demand.",
+    "ss": "Asya hisse senetleri, ABD'li çip üreticilerindeki yenilenen satış dalgasının yapay zeka ticaretinin dayanıklılığına ilişkin şüpheleri yeniden canlandırması ve yatırımcıları tahvillerin güvenliğine yöneltmesinin ardından düşmeye hazırlanıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+    "ts": 1795558158000,
     "tags": [
      "Petrol ▼",
      "DXY ▼",
@@ -435,42 +477,6 @@
     "ss": "Asya borsalarının Jensen Huang'ın kariyerinin yeniden canlanmasına duyduğu heyecan, yatırımcıların yeniden küresel yapay zeka ticaretiyle ilgili endişelere odaklanmasıyla Çarşamba günü hızla buharlaştı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
     "ts": 1795574727000,
-    "tags": []
-   },
-   {
-    "t": "Australia Edges China Out of Pacific Foothold in Solomon Islands",
-    "tt": "Avustralya, Çin'i Solomon Adaları'ndaki Pasifik Dayanağından Uzaklaştırıyor",
-    "s": "Australia signed a new treaty with the Solomon Islands aimed at rolling back China’s access to the Pacific, partly reversing Beijing’s gains in the region three years ago that alarmed the US and its allies.",
-    "ss": "Avustralya, Solomon Adaları ile Çin'in Pasifik'e erişimini geri almayı ve Pekin'in üç yıl önce ABD ve müttefiklerini alarma geçiren bölgedeki kazanımlarını kısmen tersine çevirmeyi amaçlayan yeni bir anlaşma imzaladı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-24/australia-aims-to-sign-another-deal-to-block-china-in-pacific",
-    "ts": 1795510889000,
-    "tags": []
-   },
-   {
-    "t": "Japan’s 40-Year Bond Sale Draws Weaker Demand on Risk Off Mood",
-    "tt": "Japonya 40 Yıllık Tahvil Satışında Talep 12 Aylık Ortalamadan Daha Zayıf",
-    "s": "Japan’s 40-year government bond auction on Wednesday drew weaker demand as global risk-off sentiment weighed on investor appetite.",
-    "ss": "Japonya'nın Çarşamba günü 40 yıllık devlet tahvili ihalesi, mali belirsizliğin yatırımcı iştahını baskılaması nedeniyle 12 aylık ortalamanın altında talep gördü.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
-    "ts": 1795577950000,
-    "tags": []
-   },
-   {
-    "t": "Metals Mixed After Major Selloff as Traders Await US Inflation",
-    "tt": "Yatırımcılar ABD Enflasyonunu Beklerken Büyük Satışların Ardından Metaller Karışık",
-    "s": "Copper ticked higher and aluminum steadied after a major selloff across metals on Tuesday, as traders awaited US inflation data that will feed into the Federal Reserve’s next decision on interest rates.",
-    "ss": "Yatırımcılar Federal Rezerv'in faiz oranlarına ilişkin bir sonraki kararını besleyecek ABD enflasyon verilerini beklerken, Salı günü metallerdeki büyük satışın ardından bakır yükseldi ve alüminyum sakinleşti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
-    "ts": 1795579032000,
-    "tags": []
-   },
-   {
-    "t": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
-    "tt": "Starbucks'ın Japonya'daki İşletmelerin Satışı İçin Bankalarla Anlaştığı Söyleniyor",
-    "s": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre Starbucks Corp., Japonya'daki işletmesinin birkaç milyar dolara potansiyel satışına hazırlanmak için danışmanlarla temasa geçti.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-    "ts": 1795576223000,
     "tags": []
    }
   ],
@@ -660,6 +666,15 @@
   ],
   "ZeroHedge": [
    {
+    "t": "South Africa's President Pledges To Spend Millions On AI Development",
+    "tt": "Güney Afrika Devlet Başkanı Yapay Zeka Geliştirmeye Milyonlarca Dolar Harcama Sözü Verdi",
+    "s": "South Africa's President Pledges To Spend Millions On AI Development There is a debate raging around the world, particularly in the west, about where AI development stands in the long list of societal priorities. &nbsp;In the US, a country on the cutting edge of AI technology, public support is larg",
+    "ss": "Güney Afrika Devlet Başkanı Yapay Zeka Geliştirmeye Milyonlarca Dolar Harcama Sözü Verdi Tüm dünyada, özellikle de batıda, yapay zeka gelişiminin uzun toplumsal öncelikler listesinde nerede durduğuna dair bir tartışma sürüyor.  Yapay zeka teknolojisinin son noktasında yer alan ABD'de kamu desteği büyük",
+    "u": "https://www.zerohedge.com/political/south-africas-president-pledges-spend-millions-ai-development",
+    "ts": 1795584600000,
+    "tags": []
+   },
+   {
     "t": "Ex-CIA Analyst Drops Bombshell Claim About Who Armed Saddam's Gas Attacks On Iran",
     "tt": "Eski CIA Analisti, Saddam'ın İran'a Gaz Saldırılarını Kimin Silahlandırdığına İlişkin Bomba İddiasını Açıkladı",
     "s": "Ex-CIA Analyst Drops Bombshell Claim About Who Armed Saddam's Gas Attacks On Iran Former CIA analyst Ray McGovern says Americans have never been told that \"we provided Iraq with the precursor chemicals and other things necessary to use chemical weapons\" against Iran in the 1980s, and that the same p",
@@ -678,20 +693,20 @@
     "tags": []
    },
    {
-    "t": "Latest YouGov Poll Shows Majority Of Americas Still Support Mass Deportations",
-    "tt": "Son YouGov Anketi, Amerika Kıtasının Çoğunun Kitlesel Sınırdışı Etmeyi Hala Desteklediğini Gösteriyor",
-    "s": "Latest YouGov Poll Shows Majority Of Americas Still Support Mass Deportations It's yet another piece of polling information that makes the results of the 2026 midterms even more difficult to believe. &nbsp;Democrats were buried in 2024, only two years ago, based in large part on their abject refusal",
-    "ss": "Son YouGov Anketi, Amerika Kıtasının Çoğunun Hala Kitlesel Sınırdışı Etmeyi Desteklediğini Gösteriyor Bu, 2026 ara sınav sonuçlarına inanılmasını daha da zorlaştıran bir başka anket bilgisi.  Demokratlar, yalnızca iki yıl önce, 2024'te, büyük ölçüde onların rezil reddetmeleri nedeniyle gömüldü",
-    "u": "https://www.zerohedge.com/political/latest-yougov-poll-shows-majority-americas-still-support-mass-deportations",
-    "ts": 1795579200000,
-    "tags": []
-   },
-   {
     "t": "No Smoking Gun: WSJ Abruptly Walks Back The Alice Huang Spy Story",
     "tt": "Sigara İçilmez: WSJ Aniden Alice Huang Casus Hikayesine Geri Döndü",
     "s": "No Smoking Gun: WSJ Abruptly Walks Back The Alice Huang Spy Story The Wall Street Journal is backing away from the Nvidia spy narrative it heavily promoted. Three weeks after the outlet reported that officials in the US, Singapore and Taiwan feared Alice Huang was \"a Chinese intelligence source,\" th",
     "ss": "Sigara İçilmez: WSJ Aniden Geri Dönüyor Alice Huang Casus Hikayesi Wall Street Journal, yoğun bir şekilde desteklediği Nvidia casus hikayesinden uzaklaşıyor. Yayının ABD, Singapur ve Tayvan'daki yetkililerin Alice Huang'ın \"Çin istihbarat kaynağı\" olmasından korktuklarını bildirmesinden üç hafta sonra, bu haber yayımlandı.",
     "u": "https://www.zerohedge.com/ai/no-smoking-gun-wsj-abruptly-walks-back-alice-huang-spy-story",
+    "ts": 1795579200000,
+    "tags": []
+   },
+   {
+    "t": "Latest YouGov Poll Shows Majority Of Americas Still Support Mass Deportations",
+    "tt": "Son YouGov Anketi, Amerika Kıtasının Çoğunun Kitlesel Sınırdışı Etmeyi Hala Desteklediğini Gösteriyor",
+    "s": "Latest YouGov Poll Shows Majority Of Americas Still Support Mass Deportations It's yet another piece of polling information that makes the results of the 2026 midterms even more difficult to believe. &nbsp;Democrats were buried in 2024, only two years ago, based in large part on their abject refusal",
+    "ss": "Son YouGov Anketi, Amerika Kıtasının Çoğunun Hala Kitlesel Sınırdışı Etmeyi Desteklediğini Gösteriyor Bu, 2026 ara sınav sonuçlarına inanılmasını daha da zorlaştıran bir başka anket bilgisi.  Demokratlar, yalnızca iki yıl önce, 2024'te, büyük ölçüde onların rezil reddetmeleri nedeniyle gömüldü",
+    "u": "https://www.zerohedge.com/political/latest-yougov-poll-shows-majority-americas-still-support-mass-deportations",
     "ts": 1795579200000,
     "tags": []
    },
@@ -739,18 +754,18 @@
     "u": "https://www.zerohedge.com/geopolitical/beginning-end-dalrymple-outages-making-us-paranoid",
     "ts": 1795573200000,
     "tags": []
-   },
-   {
-    "t": "Can Robotaxis Save The Economy?",
-    "tt": "Robotaksi Ekonomiyi Kurtarabilir mi?",
-    "s": "Can Robotaxis Save The Economy? Tesla began rolling out version 15 of its \"FSD Supervised\" system over the weekend, with deployments already in its pilot \"Robotaxi\" service and on Cybercabs in Texas and Florida. What has everyone talking is the video game-style visualization on the infotainment scre",
-    "ss": "Robotaksi Ekonomiyi Kurtarabilir mi? Tesla, hafta sonu \"FSD Denetimli\" sisteminin 15. versiyonunu piyasaya sürmeye başladı; halihazırda pilot \"Robotaxi\" hizmetinde ve Teksas ve Florida'daki Siber Kabinlerde dağıtımlar yapıldı. Herkesin konuştuğu şey, bilgi-eğlence ekranındaki video oyunu tarzı görselleştirmedir",
-    "u": "https://www.zerohedge.com/technology/how-much-could-robotaxis-save-economy",
-    "ts": 1795572000000,
-    "tags": []
    }
   ],
   "Bloomberg HT": [
+   {
+    "t": "Petrolde arz iyimserliği",
+    "tt": null,
+    "s": "Petrol fiyatları, ham petrol arzının arttığına yönelik sinyallerin Hürmüz Boğazı çevresinde gemilere düzenlenen saldırıların tırmanışını gölgede bırakmasıyla düşüşe geçti.",
+    "ss": null,
+    "u": "https://www.bloomberght.com/petrolde-arz-iyimserligi-3795598",
+    "ts": 1795584133000,
+    "tags": []
+   },
    {
     "t": "Huang, Trump'ın baskısıyla Nvidia'ya döndüğü iddiasını reddetti",
     "tt": null,
@@ -830,15 +845,6 @@
     "ss": null,
     "u": "https://www.bloomberght.com/fonlarda-ara-odemelerin-27-kasim-da-tamamlanmasi-hedefleniyor-3795589",
     "ts": 1795548847000,
-    "tags": []
-   },
-   {
-    "t": "Axios: Anthropic ve OpenAI, en gelişmiş modellerini kontrol etmekte zorlanıyor",
-    "tt": null,
-    "s": "OpenAI ve Anthropic'in, kamuoyuna sunmadıkları daha gelişmiş yapay zeka modellerini kontrol altında tutmakta zorlandığı öne sürüldü. Axios'un haberine göre, gelecekteki modellerin yalnızca kurum içinde kullanılması veya yeni modellerin eğitiminin durdurulması seçenekleri tartışılıyor.",
-    "ss": null,
-    "u": "https://www.bloomberght.com/axios-anthropic-ve-openai-en-gelismis-modellerini-kontrol-etmekte-zorlaniyor-3795584",
-    "ts": 1795546598000,
     "tags": []
    }
   ]
