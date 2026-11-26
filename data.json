@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:49:44.041961+00:00",
+ "generated": "2026-11-26T19:56:05.528274+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 27.15,
-   "c": -4.03,
-   "d": -1.14,
+   "p": 26.8,
+   "c": -5.27,
+   "d": -1.49,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3583.9,
-   "c": 1.36,
-   "d": 48.1,
+   "p": 3593.4,
+   "c": 1.63,
+   "d": 57.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.605,
-   "c": 3.88,
-   "d": 1.553,
+   "p": 41.75,
+   "c": 4.24,
+   "d": 1.698,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.87,
-   "c": 0.23,
-   "d": 0.19,
+   "p": 84.91,
+   "c": 1.47,
+   "d": 1.23,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.45,
-   "c": -4.4,
-   "d": -4.16,
+   "p": 91.73,
+   "c": -3.04,
+   "d": -2.88,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.733,
-   "c": 0.06,
-   "d": 0.063,
+   "p": 103.775,
+   "c": 0.1,
+   "d": 0.105,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6721,
+   "p": 50.6718,
    "c": 0.01,
    "d": 0.005,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10873.63,
-   "c": 2.05,
-   "d": 217.93,
+   "p": 10743.11,
+   "c": 0.82,
+   "d": 87.41,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 60461,
-   "c": 2.68,
+   "p": 60672,
+   "c": 1.16,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1693.11,
-   "c": 2.97,
+   "p": 1704.67,
+   "c": 1.11,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.54,
-   "c": 4.27,
+   "p": 71.32,
+   "c": 1.29,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.947711,
-   "c": 4.02,
+   "p": 0.953173,
+   "c": 1.36,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 550.18,
-   "c": 1.83,
+   "p": 554.53,
+   "c": 0.29,
    "k": "usd"
   }
  ],
@@ -374,97 +374,120 @@
  "news": {
   "Bloomberg": [
    {
-    "t": "Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035",
-    "tt": "Vietnam Nükleer Santralleri 2035 Sonrasına Ertelemeyi Ağırlaştırıyor",
-    "s": "Vietnam may be forced to delay its first nuclear power plants until after 2035, complicating efforts to boost energy security and economic growth.",
-    "ss": "Vietnam, ilk nükleer santrallerini 2035 sonrasına ertelemek zorunda kalabilir, bu da enerji güvenliğini ve ekonomik büyümeyi artırma çabalarını zorlaştırabilir.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target",
-    "ts": 1795674734000,
+    "t": "Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
+    "tt": "Gana Güveni Artırmak İçin 1,1 Milyar Dolarlık Yerli Tahvili Geri Aldı",
+    "s": "Ghana redeemed a four-year domestic bond three months ahead of maturity, as the government sought to bolster investor confidence in an economy recovering from a debt restructuring.",
+    "ss": "Gana, hükümetin borçların yeniden yapılandırılmasından sonra toparlanan ekonomiye yönelik yatırımcıların güvenini artırmaya çalışması nedeniyle vadesinden üç ay önce dört yıllık bir yerel tahvili itfa etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
+    "ts": 1795721506000,
+    "tags": []
+   },
+   {
+    "t": "Copper Rebounds as Tech Rally Lifts Battered Industrial Metals",
+    "tt": "Bakır, Tech Rallinin Hırpalanmış Endüstriyel Metalleri Yükseltmesiyle Yükseliyor",
+    "s": "Copper recovered from an 11-month low on Thursday alongside gains in other commodities and technology stocks, as investors returned to riskier assets following days of sharp losses.",
+    "ss": "Bakır, diğer emtia ve teknoloji hisselerindeki artışlarla birlikte Perşembe günü 11 ayın en düşük seviyesinden toparlandı; yatırımcılar günlerin keskin kayıplarının ardından riskli varlıklara döndü.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
+    "ts": 1795658470000,
     "tags": []
    },
    {
     "t": "Global Stocks Climb as AI Trade Mounts a Comeback: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Son Yükselişin Ardından Yükselişe Hazır: Piyasalar İyileşti",
-    "s": "Stocks rose as investors in Europe and Asia tracked a comeback in technology shares on Wall Street after days of sharp swings.",
+    "s": "Stocks rose as investors in Europe and Asia took their cue from a comeback in technology shares on Wall Street after days of sharp swings.",
     "ss": "Asya hisse senetleri, Wall Street'teki geç toparlanmanın Nasdaq 100'ü ayı piyasasının eşiğinden çekmesinin ardından mütevazı kazançlar elde etmeye hazır görünürken, yapay zeka ticaretinin sürdürülebilirliğine ilişkin devam eden endişeler Hazine tahvillerini destekledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
     "ts": 1795644642000,
     "tags": []
    },
    {
-    "t": "South Africa’s IDC in Talks for $257 Million Stake in Sugar Firm",
-    "tt": "Güney Afrikalı IDC, Şeker Firmasında 257 Milyon Dolarlık Hisse İçin Görüşmelerde",
-    "s": "South Africa’s biggest development-finance institution plans to take a 4.5 billion-rand ($257 million) stake in an investment firm that’s looking to buy a holding in Tongaat Hulett Sugar SA Ltd., South Africa’s top refiner of the sweetener.",
-    "ss": "Güney Afrika'nın en büyük kalkınma finansmanı kurumu, Güney Afrika'nın en büyük tatlandırıcı rafinerisi olan Tongaat Hulett Sugar SA Ltd.'de hisse satın almak isteyen bir yatırım firmasından 4,5 milyar rand (257 milyon dolar) hisse almayı planlıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/south-africa-s-idc-in-talks-for-257-million-stake-in-sugar-firm",
-    "ts": 1795686938000,
+    "t": "New Zealand Poised to Learn Who Can Form Its Next Government",
+    "tt": "Yeni Zelanda Yeni Hükümetini Kimin Kurabileceğini Öğrenmeye Hazır",
+    "s": "New Zealand will learn Friday who is in a position to form its next government, three weeks after an election that was too close to call.",
+    "ss": "Yeni Zelanda, karara çok yakın olan seçimlerden üç hafta sonra, bir sonraki hükümetini kimin kurabileceğini Cuma günü öğrenecek.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
+    "ts": 1795716000000,
     "tags": []
    },
    {
-    "t": "German Bond Haven Trade Shifts as Investors Turn to Asset Swaps",
-    "tt": "Yatırımcıların Varlık Swaplarına yönelmesiyle Alman Tahvil Haven Ticareti Kayıyor",
-    "s": "Investors are changing how they trade German government bonds, Europe’s go-to haven in times of stress.",
-    "ss": "Yatırımcılar, stres zamanlarında Avrupa'nın sığınağı olan Alman devlet tahvillerinin ticaretini değiştiriyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
-    "ts": 1795686755000,
+    "t": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
+    "tt": "KKR Bankaları, Logoplaste'in Satın Alınmasını Desteklemek İçin 550 Milyon Euro'luk Borcunu Hazırladı",
+    "s": "Banks have lined up €550 million ($603.5 million) of loans to back KKR &amp; Co.’s acquisition of packaging company Logoplaste, according to people familiar with the situation.",
+    "ss": "Durum hakkında bilgi sahibi kaynaklara göre bankalar, KKR & Co.'nun ambalaj şirketi Logoplaste'yi satın almasını desteklemek için 550 milyon Euro (603,5 milyon $) tutarında kredi hazırladı.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
+    "ts": 1795715250000,
     "tags": []
    },
    {
-    "t": "Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
-    "tt": "Trump, %40 Tarife Tehdidi İle Çin Üzerinde Herhangi Bir Avantaj Sağlayabilir mi?",
-    "s": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-    "ss": "İzleyicilere önemli hikayelerin tam resmini vermek için derinlemesine, yüksek profilli röportajlar ve analizler içeren günlük bir haber programı olan Haslinda Amin ile İçgörü. Gösteride iş, finans, siyaset ve kültür dünyalarından önde gelen liderler yer alıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-26/insight-with-haslinda-amin-11-26-2026-video",
-    "ts": 1795684156000,
+    "t": "Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
+    "tt": "Kazakistan Yerel Bankaları Altın Madencisine İlişkin Anlaşmayı Finanse Etmeye Teşvik Etti",
+    "s": "Kazakhstan has encouraged domestic banks to lend more than $1 billion to construction tycoon Shakhmurat Mutalip and revised financing regulations to help him buy gold miner AK Altynalmas JSC, according to people familiar with the matter.",
+    "ss": "Konuyu bilen kaynaklara göre Kazakistan, yerli bankaları inşaat kralı Shakhmurat Mutalip'e 1 milyar dolardan fazla kredi vermeye teşvik etti ve altın madencisi AK Altynalmas JSC'yi satın almasına yardımcı olmak için finansman düzenlemelerini revize etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
+    "ts": 1795714540000,
     "tags": []
    },
    {
-    "t": "Marc Levinson on How UPS Created Modern Logistics",
-    "tt": "Marc Levinson, UPS'in Modern Lojistiği Nasıl Yarattığını Anlatıyor",
-    "s": "The forgotten history of one of the world's most important companies.",
-    "ss": "Dünyanın en önemli şirketlerinden birinin unutulmuş tarihi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
-    "ts": 1795683622000,
+    "t": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
+    "tt": "Altria, Japan Tobacco Imperial Markalarının Devralınmasını Keşfetti",
+    "s": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential takeover of British cigarette maker Imperial Brands Plc, accelerating consolidation in the declining cigarette market in what would be one of the biggest UK acquisitions in a decade.",
+    "ss": "Altria Group Inc. ve Japan Tobacco Inc., İngiliz sigara üreticisi Imperial Brands Plc'nin potansiyel olarak devralınmasını araştırıyor ve bu, on yıl içinde İngiltere'deki en büyük satın almalardan biri olacak olan, azalan sigara pazarındaki konsolidasyonu hızlandırıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+    "ts": 1795698533000,
     "tags": []
    },
    {
-    "t": "Turkey’s Defense Chief to Meet Hegseth to Discuss Russian S-400s",
-    "tt": "Türkiye Savunma Bakanı, Rus S-400'lerini Görüşmek İçin Hegseth'le Buluşacak",
-    "s": "Turkey’s Defense Minister Yasar Guler will meet his American counterpart Pete Hegseth in the US next week, as Ankara steps up efforts to resolve tensions over its purchase of a Russian air defense system.",
-    "ss": "Ankara, Rusya'dan hava savunma sistemi satın almasıyla ilgili gerilimi çözme çabalarını hızlandırırken, Türkiye Savunma Bakanı Yaşar Güler, Amerikalı mevkidaşı Pete Hegseth ile önümüzdeki hafta ABD'de bir araya gelecek.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-defense-chief-to-meet-hegseth-to-discuss-russian-s-400s",
-    "ts": 1795683601000,
+    "t": "Gold Hovers Near 15-Month Low as Traders Eye Fed Path, AI Stocks",
+    "tt": "Altın, Yatırımcıların Gözü Fed Yolu ve AI Hisseleriyle 15 Ayın En Düşük Seviyesine Yakın",
+    "s": "Gold hovered near the lowest level in about 15 months on Thursday, as investors weighed the prospect of further Federal Reserve rate hikes against a relief rally in wider markets amid a comeback in technology shares.",
+    "ss": "Altın, Perşembe günü, yatırımcıların teknoloji hisselerindeki geri dönüş nedeniyle daha geniş piyasalarda görülen rahatlama rallisine karşı Fed'in daha fazla faiz artırımı beklentisini değerlendirmesiyle yaklaşık 15 ayın en düşük seviyesi yakınında seyrediyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+    "ts": 1795652289000,
+    "tags": [
+     "DXY ▲",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 26",
+    "tt": "26 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil rose after fluctuating in thin trading during the US holiday as an attack on Saudi refinery threatened to undermine a recovery in the region’s crude exports.",
+    "ss": "Petrol fiyatları, Suudi rafinerisine yönelik saldırının bölgenin ham ihracatındaki toparlanmayı baltalama tehdidi oluşturmasıyla ABD tatili sırasında zayıf ticarette dalgalandıktan sonra yükseldi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+    "ts": 1795647795000,
     "tags": []
    },
    {
-    "t": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
-    "tt": "Garip Sayılar: Levinson, UPS'in Modern Lojistiği Nasıl Yarattığını Anlatıyor (Podcast)",
-    "s": "UPS was founded nearly a century ago in the basement of a Seattle saloon by James E. Casey and his business partner Claude Ryan. They initially called the company American Messenger Company, and the first iteration of the firm that became UPS was a bike courier service. It is now hard to imagine mod",
-    "ss": "UPS, yaklaşık bir yüzyıl önce James E. Casey ve iş ortağı Claude Ryan tarafından Seattle'daki bir barın bodrumunda kuruldu. Başlangıçta şirketi American Messenger Company olarak adlandırdılar ve UPS haline gelen firmanın ilk versiyonu bisikletli kurye hizmetiydi. Modu hayal etmek artık zor",
-    "u": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
-    "ts": 1795683600000,
-    "tags": []
-   },
-   {
-    "t": "UniCredit Clears Final Hurdle to Take Over Commerzbank",
-    "tt": "UniCredit, Commerzbank'ı Devralmak İçin Son Engeli Aştı",
-    "s": "UniCredit cleared the final regulatory hurdle to take control of Commerzbank, and plans to propose its CEO, Andrea Orcel, as chairman of the German bank’s supervisory board. Bloomberg's Steven Arons reports. (Source: Bloomberg)",
-    "ss": "UniCredit, Commerzbank'ın kontrolünü ele geçirmenin önündeki son düzenleme engelini de aştı ve CEO'su Andrea Orcel'i Alman bankasının denetim kurulu başkanı olarak önermeyi planlıyor. Bloomberg'den Steven Arons bildiriyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video",
-    "ts": 1795683020000,
-    "tags": []
-   },
-   {
-    "t": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
-    "tt": "Trump, Çin+1'in Altını Kesen Tarifelerle Ticaret Ortaklarını Kızdırdı",
-    "s": "President Donald Trump’s latest tariff push risks undercutting one of the signature shifts in global manufacturing since the US-China trade war began: the movement of supply chains out of China.",
-    "ss": "Başkan Donald Trump'ın son gümrük vergileri artışı, ABD-Çin ticaret savaşının başlamasından bu yana küresel üretimde görülen en belirgin değişimlerden birinin altını çizme riski taşıyor: Tedarik zincirlerinin Çin dışına hareketi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
-    "ts": 1795680324000,
+    "t": "Stellantis to Pause More Europe Plants as Chinese Rivals Advance",
+    "tt": "Stellantis, Çinli Rakipler İlerledikçe Avrupa'daki Daha Fazla Fabrikayı Duraklatacak",
+    "s": "Stellantis NV is planning further plant stoppages in Europe in the coming weeks as the carmaker grapples with mounting competition, high costs and weak demand for some models.",
+    "ss": "Stellantis NV, otomobil üreticisinin artan rekabet, yüksek maliyetler ve bazı modellere yönelik zayıf taleple boğuşması nedeniyle önümüzdeki haftalarda Avrupa'daki tesislerini daha fazla durdurmayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance",
+    "ts": 1795711756000,
     "tags": []
    }
   ],
   "CNBC": [
+   {
+    "t": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+    "tt": "Alıcı dikkatli mi? Nvidia'nın değişken dalgalanmaları tek hisse senedi ETF'lerinin risklerini açığa çıkarıyor",
+    "s": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's sharp losses and latest comeback.",
+    "ss": "ETF Action kurucu ortağı Mike Akins ve GraniteShares CEO'su Will Rhind, Nvidia'nın keskin kayıplarına ve son geri dönüşüne tepki gösterdi.",
+    "u": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+    "ts": 1795708801000,
+    "tags": []
+   },
+   {
+    "t": "Semiconductor chips are the new oil. Here's why",
+    "tt": "Yarı iletken çipler yeni yağdır. İşte nedeni",
+    "s": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+    "ss": "Yapay zeka patlamasının çip talebini artırmasıyla yarı iletken ihracatı 2026'da ilk kez petrol ve doğalgazı geride bıraktı.",
+    "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+    "ts": 1795715535000,
+    "tags": []
+   },
    {
     "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
     "tt": "Çinli EV firması, robotların sadece 1-2 yıl içinde ev işlerini yapabileceğini söylüyor",
@@ -536,91 +559,16 @@
     "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
     "ts": 1795527206000,
     "tags": []
-   },
-   {
-    "t": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
-    "tt": "'Bu bir dip oluşturuyor': Jensen Huang'ın dönüşünün şimdilik piyasadaki satışları durdurması muhtemel görünüyor",
-    "s": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
-    "ss": "Wall Street stratejistleri, harcama ve veri merkezi risklerinin devam etmesine rağmen Jensen Huang'ın Nvidia'ya dönüşünün yapay zeka ticaretini istikrarlı hale getirebileceğini söylüyor.",
-    "u": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-    "ts": 1795456847000,
-    "tags": []
-   },
-   {
-    "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-    "tt": "Eric Trump destekli robot girişimindeki çalışanlar, şirketin nakit sıkıntısı derinleştikçe sağlık yardımlarını kaybediyor",
-    "s": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-    "ss": "Vakıf acil bir köprü kredisi peşinde ve Güney Kore'nin Base Group'undan 150 milyon dolarlık bir yatırım beklerken VC firmalarıyla görüşmelerde bulunuyor.",
-    "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-    "ts": 1795476499000,
-    "tags": []
    }
   ],
   "MarketWatch": [
-   {
-    "t": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-    "tt": "Küresel piyasalar ABD'nin direncini memnuniyetle karşılarken, vadeli işlemler Wall Street'in Kara Cuma kazanımlarına işaret ediyor.",
-    "s": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
-    "ss": "S&P 500 endeksinin Çarşamba günkü düşük seviyelerinden toparlanması, AI'nın ortadan kalkmasının ardından borsaları sakinleştirdi",
-    "u": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-    "ts": 1795689420000,
-    "tags": []
-   },
-   {
-    "t": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-    "tt": "Deutsche Bank, S&P 500'ün %25'lik bir yükselişle birlikte teknoloji rotasının yakında dibe vuracağını söylüyor",
-    "s": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
-    "ss": "Deutsche Bank, odak noktasının sermaye harcamalarından yapay zekadan para kazanmaya kaymasıyla birlikte gösterge endeksinin 2027 sonuna kadar 9.000 puana ulaşacağını öngörüyor.",
-    "u": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-    "ts": 1795687860000,
-    "tags": []
-   },
-   {
-    "t": "Is the stock market open for Thanksgiving? The answer might surprise you.",
-    "tt": "Borsa Şükran Günü'nde açık mı? Cevap sizi şaşırtabilir.",
-    "s": "The answer to the question of whether the stock market is open on Thanksgiving isn’t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
-    "ss": "Şükran Günü'nde borsanın açık olup olmadığı sorusunun cevabı basit bir evet veya hayır değil, çünkü büyük borsalar kapalı ancak hisse senedi vadeli işlemleri günün bir bölümünde açık.",
-    "u": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
-    "ts": 1795677360000,
-    "tags": [
-     "BTC ▲",
-     "Altcoin ▲"
-    ]
-   },
-   {
-    "t": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-    "tt": "Nvidia'dan Jensen Huang'ın 401(k) bakiyenizi dikte etmesi durumunda tehlikeli zamanlarda yaşıyoruz",
-    "s": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-    "ss": "Huang'ın ileri görüşlü vizyonuna sahip bir fütürist neden tüm yolların kendisine çıktığı bir şirket kurdu?",
-    "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-    "ts": 1795655700000,
-    "tags": []
-   },
-   {
-    "t": "Why this stock-market selloff is probably going to get worse before it gets better",
-    "tt": "Neden borsadaki bu satışlar iyileşmeden önce muhtemelen daha da kötüleşecek?",
-    "s": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
-    "ss": "Pazartesi günkü ralli, kalıcı bir dip noktasına ulaşmadan önce çözülmesi gereken daha derin sorunların ele alınmasına yardımcı oldu.",
-    "u": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-    "ts": 1795653180000,
-    "tags": []
-   },
    {
     "t": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
     "tt": "66 yaşındaki hemşire, biriktirdiği sadece 500 dolarla emeklilikle karşı karşıya. Kim suçlanacak?",
     "s": "“Retirement is a financial status, not an age.”",
     "ss": "“Emeklilik bir yaş değil, mali durumdur.”",
     "u": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "ts": 1795649400000,
-    "tags": []
-   },
-   {
-    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
-    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
-    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
-    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "ts": 1795649400000,
+    "ts": 1795719600000,
     "tags": []
    },
    {
@@ -629,7 +577,7 @@
     "s": "“My wife stopped working outside the home in 1970.”",
     "ss": "“Eşim 1970 yılında evin dışında çalışmayı bıraktı.”",
     "u": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "ts": 1795647600000,
+    "ts": 1795717800000,
     "tags": []
    },
    {
@@ -638,200 +586,254 @@
     "s": "Doing nothing and maintaining an even temperament is often the work of gods.",
     "ss": "Hiçbir şey yapmamak ve dengeli bir mizaca sahip olmak çoğu zaman tanrıların işidir.",
     "u": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "ts": 1795646700000,
+    "ts": 1795710600000,
     "tags": []
    },
    {
-    "t": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-    "tt": "Oracle, CoreWeave ve diğer teknoloji hisseleri satışların ardından toparlanıyor",
-    "s": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market’s close.",
-    "ss": "Oracle, CoreWeave ve diğer teknoloji hisseleri, piyasa kapanışı öncesinde büyük bir satış dalgasının hafiflemesinin ardından Çarşamba günü erken kayıplarından toparlandı.",
-    "u": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-    "ts": 1795644960000,
+    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
+    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
+    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
+    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "ts": 1795708800000,
+    "tags": []
+   },
+   {
+    "t": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+    "tt": "Nvidia'dan Jensen Huang'ın 401(k) bakiyenizi dikte etmesi durumunda tehlikeli zamanlarda yaşıyoruz",
+    "s": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+    "ss": "Huang'ın ileri görüşlü vizyonuna sahip bir fütürist neden tüm yolların kendisine çıktığı bir şirket kurdu?",
+    "u": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "ts": 1795707000000,
+    "tags": []
+   },
+   {
+    "t": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+    "tt": "Kocam eski karısına işini kaybettikten sonra gizlice ayda 1.500 dolar gönderiyor. 2,4 milyon dolarımız var. İhmal ederek yalan mı söyledi?",
+    "s": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+    "ss": "\"Ödemeyi saklamaya çalışmadığını ancak eski karısının bir tıbbi faturalandırma şirketindeki işini kaybettiğini açıkladı.\"",
+    "u": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+    "ts": 1795705980000,
+    "tags": []
+   },
+   {
+    "t": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "tt": "Bu emekli profesör, bir Taylor Swift akademisyeni olarak kendini yeniden keşfetti",
+    "s": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
+    "ss": "Yeğeni onu emekliliğini Taylor Swift'in sözlerini analiz ederek geçirmeye ikna etti. Şimdi 72 yaşında başarılı bir podcast yayıncısı.",
+    "u": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "ts": 1795703700000,
+    "tags": []
+   },
+   {
+    "t": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+    "tt": "Nvidia ve yapay zeka ticaretinin tamamı kontrolden çıkmış değil - uzak bir ihtimal değil",
+    "s": "The ‘Bank of AI’ faces a host of troubles ahead.",
+    "ss": "'Yapay Zeka Bankası'nın önünde birçok sorun var.",
+    "u": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+    "ts": 1795701600000,
+    "tags": []
+   },
+   {
+    "t": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+    "tt": "Küresel piyasalar ABD'nin direncini memnuniyetle karşılarken, vadeli işlemler Wall Street'in Kara Cuma kazanımlarına işaret ediyor.",
+    "s": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after the tech washout.",
+    "ss": "S&P 500 endeksinin Çarşamba günkü düşük seviyelerinden toparlanması, AI'nın ortadan kalkmasının ardından borsaları sakinleştirdi",
+    "u": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+    "ts": 1795700460000,
+    "tags": []
+   },
+   {
+    "t": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+    "tt": "Roth IRA dönüşümleri bedava para değildir. Bu 5 maliyetli hataya dikkat edin.",
+    "s": "Do it poorly, and you trigger taxes you didn’t even know existed.",
+    "ss": "Bunu kötü yaparsanız, varlığından bile haberdar olmadığınız vergileri tetiklersiniz.",
+    "u": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+    "ts": 1795699440000,
     "tags": []
    }
   ],
   "ZeroHedge": [
    {
-    "t": "Europe Plays Russian Roulette",
-    "tt": "Avrupa Rus Ruleti Oynuyor",
-    "s": "Europe Plays Russian Roulette Authored by J.B. Shurk via American Thinker , Europe is a bar full of drunks all itching for a fight. Its inebriated nation states (too hammered to realize that they've dissolved into a plasmic sludge called \"the E.U.\" - eww! ) have plenty of \"liquid courage. \" They bea",
-    "ss": "Avrupa Rus Ruleti Oynuyor J.B. Shurk tarafından American Thinker aracılığıyla yazılmıştır. Avrupa, kavga için can atan sarhoşlarla dolu bir bardır. Sarhoş ulus devletleri (\"AB\" adı verilen plazmik bir çamura dönüştüklerini fark edemeyecek kadar dövülmüşler - eyw!) bol miktarda \"akışkan cesarete\" sahipler.",
-    "u": "https://www.zerohedge.com/geopolitical/europe-plays-russian-roulette",
-    "ts": 1795688400000,
+    "t": "Watch: Ex-NBA Star Enes Kanter Gets Death Threats Every Couple Hours, Has To Tell FBI Wherever He Goes",
+    "tt": "İzle: Eski NBA Yıldızı Enes Kanter Birkaç Saatte Bir Ölüm Tehditleri Alıyor, Gittiği Her Yerde FBI'a Söylemek Zorunda",
+    "s": "Watch: Ex-NBA Star Enes Kanter Gets Death Threats Every Couple Hours, Has To Tell FBI Wherever He Goes Former NBA center Enes Kanter Freedom, three months into his bid to enter the WNBA draft, says the death threats now come \"once every couple hours\" and that he has to tell the FBI wherever he goes.",
+    "ss": "İzleyin: Eski NBA Yıldızı Enes Kanter Her Birkaç Saatte Bir Ölüm Tehditleri Alıyor, Nereye Giderse Gitsin FBI'a Söylemek Zorunda Eski NBA pivotu Enes Kanter WNBA draftına katılma teklifine üç ay kala Freedom, ölüm tehditlerinin artık \"birkaç saatte bir\" geldiğini ve nereye giderse gitsin FBI'a söylemek zorunda olduğunu söylüyor.",
+    "u": "https://www.zerohedge.com/political/watch-ex-nba-star-enes-kanter-gets-death-threats-every-couple-hours-has-tell-fbi-wherever",
+    "ts": 1795723200000,
     "tags": []
    },
    {
-    "t": "A Tonne Of Dead Fish Tossed Overboard Every Five Minutes As Big UK Trawlers Dodge Fines",
-    "tt": "Büyük Britanya Trol Gemileri Cezalardan Kaçarken Her Beş Dakikada Bir Tonlarca Ölü Balık Denize Atılıyor",
-    "s": "A Tonne Of Dead Fish Tossed Overboard Every Five Minutes As Big UK Trawlers Dodge Fines Fishing boats are throwing more than 100,000 tonnes of fish a year back into UK waters, roughly a tonne every five minutes, in breach of rules that have required them to land their whole catch since 2019 , accord",
-    "ss": "Birleşik Krallık'taki Büyük Trol Gemileri Cezalardan Kaçarken Her Beş Dakikada Bir Ton Ölü Balık Denize Atılıyor Balıkçı tekneleri, 2019'dan bu yana avladıkları tüm balıkları karaya çıkarmalarını gerektiren kuralları ihlal ederek yılda 100.000 tondan fazla, yani her beş dakikada bir ton balığı İngiltere sularına atıyor.",
-    "u": "https://www.zerohedge.com/political/tonne-dead-fish-tossed-overboard-every-five-minutes-big-uk-trawlers-dodge-fines",
-    "ts": 1795686000000,
+    "t": "US Renews Travel Alert For Middle East, Says Hostilities Could Rapidly Escalate",
+    "tt": "ABD, Ortadoğu İçin Seyahat Uyarısını Yeniledi, Düşmanlıkların Hızla Artabileceğini Söyledi",
+    "s": "US Renews Travel Alert For Middle East, Says Hostilities Could Rapidly Escalate Authored by Jack Phillips via The Epoch Times , The U.S. Department of State on Tuesday renewed an advisory that Americans traveling in the Middle East should be more vigilant due to the increased threat posed by Iran an",
+    "ss": "ABD, Ortadoğu İçin Seyahat Uyarısını Yeniledi, Düşmanlıkların Hızla Artabileceğini Söyledi Jack Phillips tarafından The Epoch Times aracılığıyla yazıldı, ABD Dışişleri Bakanlığı Salı günü, Orta Doğu'ya seyahat eden Amerikalıların, İran'ın oluşturduğu artan tehdit nedeniyle daha dikkatli olmaları gerektiği yönündeki tavsiyesini yeniledi.",
+    "u": "https://www.zerohedge.com/geopolitical/us-renews-travel-alert-middle-east-says-hostilities-could-rapidly-escalate",
+    "ts": 1795722000000,
     "tags": []
    },
    {
-    "t": "Europe's Demographic Crisis: Share Of Households With Children Drops To Record-Low 23.3%",
-    "tt": "Avrupa'nın Demografik Krizi: Çocuklu Hanelerin Payı %23,3 ile Rekor Düşük Seviyeye Düştü",
-    "s": "Europe's Demographic Crisis: Share Of Households With Children Drops To Record-Low 23.3% Authored by Remix News Staff via Remix News , The share of European Union households that include at least one person under the age of 18 has fallen to 23.3 percent, the lowest level recorded in the Eurostat sta",
-    "ss": "Avrupa'nın Demografik Krizi: Çocuklu Hanelerin Payı Rekor Düşük Seviyeye Düştü %23,3",
-    "u": "https://www.zerohedge.com/political/europes-demographic-crisis-share-households-children-drops-record-low-233",
-    "ts": 1795683600000,
+    "t": "America's Weapons \"Cupboard\" Will Soon Be Full, Trump Says",
+    "tt": "Trump, Amerika'nın Silah \"Dolabının\" Yakında Dolacağını Söyledi",
+    "s": "America's Weapons \"Cupboard\" Will Soon Be Full, Trump Says Defense stocks sold off sharply through late summer and fall as traders tracked Polymarket odds of a Democratic sweep and weighed the potential risks of decreased Department of War spending. With the election outcome proving apocalyptic for ",
+    "ss": "Trump, Amerika'nın Silah \"Dolabının\" Yakında Dolu Olacağını Söyledi Trump, tüccarların Polymarket'ta Demokratların yükseliş ihtimalini takip etmesi ve Savaş Bakanlığı harcamalarının azalmasına ilişkin potansiyel riskleri tartması nedeniyle Savunma stoklarının yaz sonu ve sonbaharda keskin bir şekilde satıldığını söyledi. Seçim sonuçlarının kıyamet gibi olduğunu kanıtlarken",
+    "u": "https://www.zerohedge.com/military/americas-weapons-cupboard-will-soon-be-full-trump-says-buy-beaten-down-missile-stocks",
+    "ts": 1795720800000,
     "tags": []
    },
    {
-    "t": "Poland Plans No-Fly Zone Along Eastern Border With Ukraine",
-    "tt": "Polonya, Ukrayna ile Doğu Sınırı Boyunca Uçuşa Yasak Bölge Planlıyor",
-    "s": "Poland Plans No-Fly Zone Along Eastern Border With Ukraine The past year has seen a surge in 'errant' cross-border drone as well as aircraft incursions in Eastern Europe and the Blatic region, in connection with the Ukraine war. Poland has seen plenty of incidents throughout the war, including a Nov",
-    "ss": "Polonya, Ukrayna ile Doğu Sınırı Boyunca Uçuşa Yasak Bölge Planlıyor Geçtiğimiz yıl, Ukrayna savaşıyla bağlantılı olarak 'hatalı' sınır ötesi insansız hava araçlarının yanı sıra Doğu Avrupa ve Blatik bölgesine uçak saldırılarında da artış görüldü. Polonya, savaş boyunca pek çok olaya tanık oldu;",
-    "u": "https://www.zerohedge.com/geopolitical/poland-plans-no-fly-zone-along-eastern-border-extend-miles-ukraine",
-    "ts": 1795680000000,
+    "t": "Refugees, Other Immigrants Sue To Block Trump's Medicaid Cutoff",
+    "tt": "Mülteciler ve Diğer Göçmenler Trump'ın Sağlık Yardımı Kesimini Engellemek İçin Dava Açtı",
+    "s": "Refugees, Other Immigrants Sue To Block Trump's Medicaid Cutoff Authored by Guy Birchall via The Epoch Times , A group of refugees and other immigrants filed a lawsuit on Tuesday arguing the government cut off their Medicaid coverage through an unlawful interpretation of the president's One Big Beau",
+    "ss": "Mülteciler ve Diğer Göçmenler Trump'ın Medicaid Kesintisini Engellemek İçin Dava Açtı Guy Birchall tarafından The Epoch Times aracılığıyla , Bir grup mülteci ve diğer göçmen Salı günü, başkanın One Big Beau'sunun yasadışı bir şekilde yorumlanması yoluyla hükümetin Medicaid kapsamını kestiğini öne süren bir dava açtı",
+    "u": "https://www.zerohedge.com/political/refugees-other-immigrants-sue-block-trumps-medicaid-cutoff",
+    "ts": 1795718400000,
     "tags": []
    },
    {
-    "t": "Le Pen Vs. AfD: The Feud That Exposes The Sovereignty Paradox",
-    "tt": "Le Pen Vs. AfD: Egemenlik Paradoksunu Ortaya Çıkaran Kan Davası",
-    "s": "Le Pen Vs. AfD: The Feud That Exposes The Sovereignty Paradox Authored by Frank-Christian Hansel via American Greatness , It began, as so many political quarrels now do, with a post on social media. Tomasz Froelich, a member of the European Parliament for Germany's Alternative für Deutschland (AfD),",
-    "ss": "Le Pen Vs. AfD: Egemenlik Paradoksunu Ortaya Çıkaran Kan Davası Frank-Christian Hansel tarafından American Greatness aracılığıyla yazıldı. Artık pek çok siyasi tartışmanın yaptığı gibi, sosyal medyadaki bir gönderiyle başladı. Avrupa Parlamentosu'nun Almanya'nın Alternatifi (AfD) üyesi Tomasz Froelich,",
-    "u": "https://www.zerohedge.com/geopolitical/le-pen-vs-afd-feud-exposes-sovereignty-paradox",
-    "ts": 1795677300000,
+    "t": "Kremlin Fires Back After Trump And NATO Chief Warn Moscow Not To \"Expand The War\"",
+    "tt": "Kremlin, Trump ve NATO Başkanının Moskova'yı \"Savaşı Genişletmemesi\" konusunda uyarmasının ardından karşılık verdi",
+    "s": "Kremlin Fires Back After Trump And NATO Chief Warn Moscow Not To \"Expand The War\" President Trump and NATO Secretary General Mark Rutte emerged from a Wednesday night meeting at Mar-a-Lago with a warning for Moscow: Russia must avoid \"any actions that intentionally, or unintentionally, expand the wa",
+    "ss": "Kremlin, Trump ve NATO Şefinin Moskova'yı \"Savaşı Genişletmemesi\" Konusunda Uyarmasının Ardından Karşılık Verdi Başkan Trump ve NATO Genel Sekreteri Mark Rutte, Çarşamba gecesi Mar-a-Lago'da yaptıkları toplantıdan Moskova'ya bir uyarıda bulundular: Rusya, \"savaşı kasıtlı veya kasıtsız olarak genişletecek her türlü eylemden kaçınmalı\"",
+    "u": "https://www.zerohedge.com/geopolitical/kremlin-fires-back-after-trump-and-nato-chief-warn-moscow-not-expand-war",
+    "ts": 1795717200000,
     "tags": []
    },
    {
-    "t": "Libya Vows Revenge After Two Naval Officers Die Of Wounds From Ukrainian Drone Attack",
-    "tt": "Libya, Ukrayna'nın insansız hava aracı saldırısında iki deniz subayının yaralanarak ölmesinin ardından intikam sözü verdi",
-    "s": "Libya Vows Revenge After Two Naval Officers Die Of Wounds From Ukrainian Drone Attack Sunday's unprecedented Ukrainian drone attack on the eastern Libyan port of Benghazi has resulted in two Libyan navy officers killed . A Libyan official has also said that at least ten people were wounded in the at",
-    "ss": "Libya, İki Deniz Subayının Ukrayna Drone Saldırısında Yaralanarak Ölmesinin Ardından İntikam Yemini Verdi Pazar günü, doğu Libya'nın Bingazi limanına yapılan benzeri görülmemiş Ukrayna drone saldırısı, iki Libya donanma subayının öldürülmesiyle sonuçlandı. Libyalı bir yetkili de olayda en az 10 kişinin yaralandığını söyledi.",
-    "u": "https://www.zerohedge.com/geopolitical/libya-vows-revenge-after-two-naval-officers-die-wounds-ukrainian-drone-attack",
-    "ts": 1795674600000,
+    "t": "'Not One Single Person On This Planet Can Be Trusted With Power': AI Is COVID 2.0",
+    "tt": "'Bu Gezegendeki Tek Bir Kişiye Güç Konusunda Güvenilemez': Yapay Zeka, COVID 2.0'dır",
+    "s": "'Not One Single Person On This Planet Can Be Trusted With Power': AI Is COVID 2.0 Authored by J.B. Shurk via American Thinker , We are living through some crazy times, aren't we? We oscillate between good and bad news so quickly that it feels as if we can't ever just relax and take a breath. Perhaps",
+    "ss": "'Bu Gezegende Güç Konusunda Tek Bir Kişiye Güvenilemez': Yapay Zeka, J.B. Shurk tarafından American Thinker aracılığıyla yazılan COVID 2.0 mı? Çılgın zamanlar yaşıyoruz, değil mi? İyi ve kötü haberler arasında o kadar hızlı gidip geliyoruz ki sanki bir daha rahatlayıp nefes alamayacakmışız gibi geliyor. Belki",
+    "u": "https://www.zerohedge.com/covid-19/not-one-single-person-planet-can-be-trusted-power-ai-covid-20",
+    "ts": 1795716000000,
     "tags": []
    },
    {
-    "t": "Refuse To Use A Classmate's Pronouns? UK Bill Could Take Your 10-Year-Old Away",
-    "tt": "Bir Sınıf Arkadaşınızın Zamirlerini Kullanmayı Reddediyor musunuz? İngiltere Yasa Tasarısı 10 Yaşındaki Çocuğunuzu Elinizden Alabilir",
-    "s": "Refuse To Use A Classmate's Pronouns? UK Bill Could Take Your 10-Year-Old Away Authored by Steve Watson via Modernity , The draft Conversion Practices Bill now before Parliament in the U.K. contains no minimum age for prosecution. In a Free Speech Union interview, Baroness Kishwer Falkner, former ch",
-    "ss": "Bir Sınıf Arkadaşınızın Zamirlerini Kullanmayı Reddediyor musunuz? Birleşik Krallık Yasa Tasarısı 10 Yaşındaki Çocuğunuzu Elinizden Alabilir Steve Watson tarafından Modernity aracılığıyla yazılmıştır, Şu anda Birleşik Krallık Parlamentosu'nun önünde bulunan Dönüşüm Uygulamaları Yasa Tasarısı taslağı, kovuşturma için herhangi bir asgari yaş içermemektedir. Özgür İfade Birliği röportajında, eski başkan Barones Kishwer Falkner",
-    "u": "https://www.zerohedge.com/political/refuse-use-classmates-pronouns-uk-bill-could-take-your-10-year-old-away",
-    "ts": 1795671900000,
+    "t": "SAP Prepares To Cut 10,000 Jobs In Second Round Of AI Restructuring",
+    "tt": "SAP, Yapay Zeka Yeniden Yapılanmasının İkinci Turunda 10.000 Kişiyi İşten Çıkarmaya Hazırlanıyor",
+    "s": "SAP Prepares To Cut 10,000 Jobs In Second Round Of AI Restructuring German enterprise-software company SAP SE is preparing to cut at least 10,000 workers as part of a broader effort to reshape its operations, reduce costs, and improve efficiency through AI . Bloomberg reported Thursday that the prop",
+    "ss": "SAP, Yapay Zeka Yeniden Yapılanmasının İkinci Turunda 10.000 Kişiyi İşten Çıkarmaya Hazırlanıyor Alman kurumsal yazılım şirketi SAP SE, yapay zeka yoluyla operasyonlarını yeniden şekillendirmek, maliyetleri düşürmek ve verimliliği artırmak için daha geniş bir çabanın parçası olarak en az 10.000 işçiyi işten çıkarmaya hazırlanıyor. Bloomberg perşembe günü pervanenin",
+    "u": "https://www.zerohedge.com/markets/sap-prepares-cut-10000-jobs-second-round-ai-restructuring",
+    "ts": 1795714800000,
     "tags": []
    },
    {
-    "t": "Macy's 100th Thanksgiving Day Parade Postponed",
-    "tt": "Macy'nin 100. Şükran Günü Geçit Töreni Ertelendi",
-    "s": "Macy's 100th Thanksgiving Day Parade Postponed Update (1720ET): Welp, it's happened - the Macy's 100th Thanksgiving Day Parade has been postponed until Saturday due to weather, after the National Weather Service predicted a large coastal storm that will bring heavy rains and strong winds to New York",
-    "ss": "Macy'nin 100. Şükran Günü Geçit Töreni Ertelendi Güncelleme (1720ET): Vay be, oldu - Macy'nin 100. Şükran Günü Geçit Töreni, Ulusal Hava Durumu Servisi'nin New York'a şiddetli yağışlar ve kuvvetli rüzgarlar getirecek büyük bir kıyı fırtınası öngörmesinin ardından hava koşulları nedeniyle Cumartesi gününe ertelendi",
-    "u": "https://www.zerohedge.com/weather/iconic-thanksgiving-day-tradition-jeopardy-first-time-more-half-century",
-    "ts": 1795667737000,
+    "t": "You'll Never Believe What 'Uranium One' Hillary Clinton Said About Nvidia Scandal",
+    "tt": "'Uranyum Bir' Hillary Clinton'ın Nvidia Skandalı Hakkında Söylediklerine Asla İnanmayacaksınız",
+    "s": "You'll Never Believe What 'Uranium One' Hillary Clinton Said About Nvidia Scandal Hillary Clinton wants Nvidia's reinstatement of Jensen Huang called \"Supergate.\" \"Is it a national security scandal? Yes,\" Clinton wrote on X on Monday, hours after Nvidia's board put Huang back in charge at President ",
+    "ss": "'Uranyum Bir' Hillary Clinton'ın Nvidia Skandalı Hakkında Söylediklerine Asla İnanmayacaksınız Hillary Clinton, Nvidia'nın \"Supergate\" adlı Jensen Huang'ı eski durumuna döndürmesini istiyor. Nvidia yönetim kurulunun Huang'ı Başkanlık görevine geri getirmesinden saatler sonra Pazartesi günü X'te Clinton \"Bu bir ulusal güvenlik skandalı mı? Evet\" diye yazdı.",
+    "u": "https://www.zerohedge.com/political/youll-never-believe-what-uranium-one-hillary-clinton-said-about-nvidia-scandal",
+    "ts": 1795713600000,
     "tags": []
    },
    {
-    "t": "There Is No Rogue AI: The Real Threat Is The Coming AI Patriot Act",
-    "tt": "Sahte Yapay Zeka Yok: Gerçek Tehdit Yaklaşan Yapay Zeka Vatanseverlik Yasası",
-    "s": "There Is No Rogue AI: The Real Threat Is The Coming AI Patriot Act Authored by Mike Adams via NaturalNews.com , The Coming AI Patriot Act I build AI systems. I run a data center with Nvidia and AMD GPUs in my own facility. I have tested virtually every major model released in the last three years, o",
-    "ss": "Sahte Yapay Zeka Yok: Gerçek Tehdit Yaklaşan Yapay Zeka Vatanseverlik Yasasıdır Mike Adams tarafından NaturalNews.com aracılığıyla yazılmıştır, Gelecek Yapay Zeka Vatanseverlik Yasası Yapay zeka sistemleri inşa ediyorum. Kendi tesisimde Nvidia ve AMD GPU'ların bulunduğu bir veri merkezi işletiyorum. Son üç yılda piyasaya sürülen hemen hemen her büyük modeli test ettim.",
-    "u": "https://www.zerohedge.com/ai/there-no-rogue-ai-real-threat-coming-ai-patriot-act",
-    "ts": 1795667400000,
+    "t": "Houthis Target Saudi Arabia's Red Sea Port Of Jeddah For First Time Ever",
+    "tt": "Husiler İlk Kez Suudi Arabistan'ın Kızıldeniz'deki Cidde Limanı'nı Hedef Aldı",
+    "s": "Houthis Target Saudi Arabia's Red Sea Port Of Jeddah For First Time Ever Via The Cradle The Yemeni Armed Forces (YAF/Houthis) announced on Wednesday its first operation targeting the Saudi port of Jeddah, in response to the kingdom’s recent airstrikes on Hodeidah Port .&nbsp; The YAF also announced ",
+    "ss": "Husiler, Suudi Arabistan'ın Kızıldeniz'deki Cidde Limanı'nı İlk Kez Beşik Aracılığıyla Hedef Aldı Yemen Silahlı Kuvvetleri (YAF/Husiler), krallığın Hudeyde Limanı'na yönelik son hava saldırılarına yanıt olarak Çarşamba günü Suudi Arabistan'ın Cidde limanını hedef alan ilk operasyonunu duyurdu.  YAF da açıkladı",
+    "u": "https://www.zerohedge.com/geopolitical/houthis-target-saudi-arabias-red-sea-port-jeddah-first-time-ever",
+    "ts": 1795711500000,
     "tags": []
    },
    {
-    "t": "Teflon Bibi Strikes Again: Israeli Judges Recommend Dropping Most Serious Charges As Corruption Case Collapsing",
-    "tt": "Teflon Bibi Tekrar İş Başında: İsrailli Hakimler Yolsuzluk Davası Çökerken En Ciddi Suçlamaların Düşürülmesini Tavsiye Ediyor",
-    "s": "Teflon Bibi Strikes Again: Israeli Judges Recommend Dropping Most Serious Charges As Corruption Case Collapsing 'Teflon Bibi' dodges another big bullet? Israeli judges have dealt a massive blow to the prosecution in caretaker Prime Minister Benjamin Netanyahu's corruption trial on Wednesday. They've",
-    "ss": "Teflon Bibi Tekrar İş Başında: İsrailli Hakimler Yolsuzluk Davası Çöken 'Teflon Bibi'nin bir başka büyük kurşundan kaçmasını sağladığı için En Ciddi Suçlamaların Düşürülmesini Tavsiye Ediyor? İsrailli yargıçlar, geçici Başbakan Binyamin Netanyahu'nun çarşamba günkü yolsuzluk davasında iddia makamına büyük bir darbe indirdi. Onlar",
-    "u": "https://www.zerohedge.com/geopolitical/teflon-bibi-strikes-again-israeli-judges-recommend-dropping-most-serious-charges",
-    "ts": 1795665600000,
+    "t": "Georgia Voters To Decide Fate Of Massive $17 Billion Data Center After Furious Residents Revolt",
+    "tt": "Öfkeli Sakinlerin İsyanı Sonrasında Georgia Seçmenleri 17 Milyar Dolarlık Devasa Veri Merkezinin Kaderine Karar Verecek",
+    "s": "Georgia Voters To Decide Fate Of Massive $17 Billion Data Center After Furious Residents Revolt Coweta County voters will decide in a Jan. 12 special election whether to repeal the rezoning for Project Sail , a $17 billion data center campus on more than 800 rural acres about 45 miles southwest of A",
+    "ss": "Georgia Seçmenleri, Öfkeli Sakinlerin İsyanı Sonrası 17 Milyar Dolarlık Devasa Veri Merkezinin Kaderine Karar Verecek Coweta County seçmenleri, 12 Ocak'ta yapılacak özel seçimde, A'nın yaklaşık 45 mil güneybatısında, 800 dönümden fazla kırsal alanda yer alan 17 milyar dolarlık bir veri merkezi kampüsü olan Project Sail için yeniden imar kararının iptal edilip edilmeyeceğine karar verecek.",
+    "u": "https://www.zerohedge.com/ai/georgia-voters-decide-fate-massive-17-billion-data-center-after-furious-residents-revolt",
+    "ts": 1795711200000,
     "tags": []
    }
   ],
   "Bloomberg HT": [
    {
-    "t": "Çin'in Avrupa'da otomobil satışları ikiye katlandı",
+    "t": "TCMB, TL zorunlu karşılık faizini artırdı",
     "tt": null,
-    "s": "Çinli otomobil üreticileri, hibrit araçlara olan talep sayesinde Avrupa'daki satışlarını ikiye katladı.",
+    "s": "TCMB, TL mevduatın zorunlu karşılıklarına yönelik faiz veya telafi ödemesini, ağırlıklı ortalama fonlama maliyetinin yüzde 86'sından yüzde 90'ına çıkardı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/cinin-avrupada-otomobil-satislari-ikiye-katlandi-3795738",
-    "ts": 1795685272000,
+    "u": "https://www.bloomberght.com/tcmb-tl-zorunlu-karsilik-faizini-artirdi-3795856",
+    "ts": 1795722142000,
     "tags": []
    },
    {
-    "t": "UniCredit, Commerzbank'ın Yönetim Kurulu Başkanlığı'na Orcel'i önerdi",
+    "t": "TCMB bir hafta vadeli repo ihalelerine geçici ara verdi",
     "tt": null,
-    "s": "İtalyan bankacılık devi UniCredit, Alman rakibi Commerzbank üzerinde kontrol sağlama hamlesi kapsamında, kendi CEO'su Andrea Orcel'i Commerzbank'ın yönetim kurulu başkanlığına önerdi.",
+    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB), açık piyasa işlemleri kapsamında düzenlenen bir hafta vadeli repo ihalelerine geçici olarak ara verilmesini kararlaştırdı.",
     "ss": null,
-    "u": "https://www.bloomberght.com/unicredit-commerzbank-in-yonetim-kurulu-baskanligi-na-orcel-i-onerdi-3795736",
-    "ts": 1795682972000,
+    "u": "https://www.bloomberght.com/tcmb-bir-hafta-vadeli-repo-ihalelerine-gecici-ara-verdi-3795855",
+    "ts": 1795720906000,
     "tags": []
    },
    {
-    "t": "SPK'dan Yapı Kredi Portföy'ün Azimut'a devrine onay çıktı",
+    "t": "AB liderleri AMB Başkanlığı için De Cos'ta uzlaştı",
     "tt": null,
-    "s": "Sermaye Piyasası Kurulu (SPK), Yapı Kredi Portföy Yönetimi A.Ş.'nin İtalya merkezli varlık yönetim grubu Azimut bünyesindeki şirketlere devrine onay verdi.",
+    "s": "Euro Bölgesi liderleri, Christine Lagarde'ın ardından AMB Başkanlığına Pablo Hernandez de Cos'un getirilmesi konusunda siyasi anlaşmaya vardı. Atamaların 17 Aralık'taki AB zirvesinde kesinleştirilmesi bekleniyor.",
     "ss": null,
-    "u": "https://www.bloomberght.com/spkdan-yapi-kredi-portfoyun-azimuta-devrine-onay-cikti-3795735",
-    "ts": 1795682816000,
+    "u": "https://www.bloomberght.com/ab-liderleri-amb-baskanligi-icin-hernandez-de-cos-ta-uzlasti-3795852",
+    "ts": 1795719328000,
     "tags": []
    },
    {
-    "t": "Hürmüz Boğazı'nda tanker trafiği arttı",
+    "t": "Trump'tan revize edilen büyüme verilerine soruşturma talebi",
     "tt": null,
-    "s": "Vortexa verilerine göre, bu ay Hürmüz Boğazı'ndaki tanker trafiği gemilere yönelik saldırılar artmasına rağmen yükseldi.",
+    "s": "ABD Başkanı Donald Trump, üçüncü çeyrek büyümesinin yüzde 3,4'ten yüzde 4,3'e revize edilmesinin ardından seçim öncesindeki verilerin \"sahte\" olduğunu öne sürdü. Trump, doğru verinin seçimden önce yayımlanmadığını savunarak derhal soruşturma yapılmasını istedi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/hurmuz-bogazinda-tanker-trafigi-artti-3795733",
-    "ts": 1795681247000,
+    "u": "https://www.bloomberght.com/trump-tan-revize-edilen-buyume-verilerine-sorusturma-talebi-3795782",
+    "ts": 1795709020000,
     "tags": []
    },
    {
-    "t": "TCMB'den yeni dolar/TL swap ihaleleri",
+    "t": "Cevdet Yılmaz, Mehmet Şimşek ve Akın Gürlek'ten fon gündemine dair açıklamalar",
     "tt": null,
-    "s": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 1 hafta, 2 hafta ve 1 aylık dolar/TL swap ihaleleri açtı.",
+    "s": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek ile Adalet Bakanı Akın Gürlek fon meselesine ilişkin açıklamalarda bulundu.",
     "ss": null,
-    "u": "https://www.bloomberght.com/tcmb-den-yeni-dolartl-swap-ihaleleri-3795732",
-    "ts": 1795680541000,
+    "u": "https://www.bloomberght.com/cevdet-yilmaz-mehmet-simsek-ve-akin-gurlek-fon-gundemine-dair-aciklamalar-3795781",
+    "ts": 1795708649000,
     "tags": []
    },
    {
-    "t": "Musk'ın şirketine beyin-bilgisayar arayüzünün klinik deneyleri için FDA onayı",
+    "t": "BASE, 129 yeni mezun sanatçıyı sanatseverlerle buluşturacak",
     "tt": null,
-    "s": "Tesla ve SpaceX'in CEO'su Elon Musk'ın nöroteknoloji şirketi Neuralink, geliştirdiği beyin-bilgisayar arayüzü LINK'in klinik deneylerini başlatmak üzere ABD Gıda ve İlaç İdaresi'nden (FDA) onay aldı.",
+    "s": "BASE, 10'uncu edisyonunda 29 şehir ve 42 üniversiteden 129 yeni mezun sanatçının eserlerini bir araya getirecek. 9-13 Aralık 2026'da Akaretler Sıraevler'de düzenlenecek etkinlikte ana sergiye beş sergi eşlik edecek.",
     "ss": null,
-    "u": "https://www.bloomberght.com/musk-in-sirketine-beyin-bilgisayar-arayuzunun-klinik-deneyleri-icin-fda-onayi-3795730",
-    "ts": 1795679975000,
+    "u": "https://www.bloomberght.com/base-129-yeni-mezun-sanatciyi-sanatseverlerle-bulusturacak-3795779",
+    "ts": 1795706186000,
     "tags": []
    },
    {
-    "t": "Piyasa enflasyonun yeniden yüzde 30'un üzerine çıkmasını bekliyor",
+    "t": "THY/Murat Şeker: Bazı yatırımları 2027'nin ikinci yarısına öteledik",
     "tt": null,
-    "s": "Bloomberg HT'nin anketine göre Kasım'da enflasyonun aylık yüzde 1,10, yıllık yüzde 30,10 olması bekleniyor.",
+    "s": "Türk Hava Yolları Yönetim Kurulu Başkanı Prof. Dr. Murat Şeker Bloomberg HT'ye bu yıl yüzde 8-9'luk büyüme hedeflerinin gerisinde kalacaklarını belirterek \"Ama olumsuzluklara rağmen ticari faaliyetlerimizde negatif gelişmeleri önemli ölçüde bertaraf etmeyi başardık\" dedi. Şeker bazı yatırımları 2027",
     "ss": null,
-    "u": "https://www.bloomberght.com/piyasa-enflasyonun-yeniden-yuzde-30un-uzerine-cikmasini-bekliyor-3795728",
-    "ts": 1795678305000,
+    "u": "https://www.bloomberght.com/thymurat-seker-bazi-yatirimlari-2027nin-ikinci-yarisina-oteledik-3795777",
+    "ts": 1795703945000,
     "tags": []
    },
    {
-    "t": "Altın, Fed endişeleriyle dalgalı seyrediyor",
+    "t": "AMB tutanaklarında \"kalıcı enflasyon baskısı\" uyarısı",
     "tt": null,
-    "s": "Altın fiyatları, Fed'in enflasyonla mücadele etmek için faizleri artıracağına dair endişelerin ağır basmasıyla yaklaşık 15 ayın en düşük seviyesinin bir miktar üzerinde dalgalanıyor.",
+    "s": "Avrupa Merkez Bankası (AMB) Yönetim Konseyi, enerji fiyatlarındaki son yükselişin kalıcı enflasyon baskısı riskini ön plana çıkardığını belirtti.",
     "ss": null,
-    "u": "https://www.bloomberght.com/altin-fed-endiseleriyle-dalgali-seyrediyor-3795726",
-    "ts": 1795677090000,
+    "u": "https://www.bloomberght.com/amb-tutanaklarinda-kalici-enflasyon-baskisi-uyarisi-3795767",
+    "ts": 1795701771000,
     "tags": []
    },
    {
-    "t": "Yılmaz, Gürlek ve Şimşek'ten fon krizine ilişkin toplantı",
+    "t": "Avrupa'da paranın yeni patronu İspanyol mu oluyor?",
     "tt": null,
-    "s": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in katılımıyla fon meselesine ilişkin saat 19.00'da ortak basın toplantısı düzenlenecek.",
+    "s": "Hollanda'nın Avrupa Merkez Bankası'nın (AMB) yönetim kurulundaki üç boş pozisyonla ilgili olarak Avrupa liderleri arasında varılan mutabakatı desteklemeye hazır olduğu bildirildi.",
     "ss": null,
-    "u": "https://www.bloomberght.com/yilmaz-gurlek-ve-simsek-ten-fon-krizine-iliskin-toplanti-3795725",
-    "ts": 1795676792000,
+    "u": "https://www.bloomberght.com/ispanyol-de-cos-un-amb-baskani-oldu-3795766",
+    "ts": 1795700557000,
     "tags": []
    },
    {
-    "t": "Wall Street'te sert dalgalanmalar devam etti",
+    "t": "Emlak Konut'tan İstanbul'da 55 bin TL'den başlayan taksitlerle ev sahibi olma imkanı",
     "tt": null,
-    "s": "Yapay zeka yatırımlarının kârlılığına ve artan finansman maliyetlerine ilişkin endişelerle Nasdaq 100 seans içinde ayı piyasası sınırına yaklaşırken, dipten gelen alımlarla kayıplarının büyük bölümünü geri aldı ve günü yüzde 0,6 düşüşle tamamladı.",
+    "s": "Emlak Konut GYO, konut sahibi olmak isteyenlere yönelik \"Emlak Konut İlk Adım Ödeme Sistemi\"ni hayata geçirdi. İstanbul'da dört yeni projeyi kapsayan kampanyayla yüzde 5 peşinat, 120 aya kadar vade ve 55 bin TL'den başlayan taksit imkânı sunulurken, ilk taksit ödemeleri 2027 yılı ocak ayı itibarıyla",
     "ss": null,
-    "u": "https://www.bloomberght.com/wall-streette-sert-dalgalanmalar-devam-etti-3795724",
-    "ts": 1795676497000,
+    "u": "https://www.bloomberght.com/emlak-konut-tan-istanbul-da-55-bin-tl-den-baslayan-taksitlerle-ev-sahibi-olma-imkani-3795764",
+    "ts": 1795699832000,
     "tags": []
    }
   ]
