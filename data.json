@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T03:48:14.036899+00:00",
+ "generated": "2026-11-26T04:55:49.483448+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -17,9 +17,9 @@
   },
   {
    "n": "Dow",
-   "p": 50182.95,
+   "p": 50182.9,
    "c": 0.33,
-   "d": 164.251,
+   "d": 164.201,
    "k": "idx"
   },
   {
@@ -31,37 +31,37 @@
   },
   {
    "n": "Altın",
-   "p": 3604.5,
-   "c": 1.94,
-   "d": 68.7,
+   "p": 3624.4,
+   "c": 2.51,
+   "d": 88.6,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.925,
-   "c": 4.68,
-   "d": 1.873,
+   "p": 42.205,
+   "c": 5.38,
+   "d": 2.153,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 84.28,
-   "c": 0.72,
-   "d": 0.6,
+   "p": 84.37,
+   "c": 0.82,
+   "d": 0.69,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 91.05,
-   "c": -3.76,
-   "d": -3.56,
+   "p": 91.1,
+   "c": -3.71,
+   "d": -3.51,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.82,
-   "c": 0.14,
-   "d": 0.15,
+   "p": 103.793,
+   "c": 0.12,
+   "d": 0.123,
    "k": "idx"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.674,
+   "p": 50.6729,
    "c": 0.01,
-   "d": 0.007,
+   "d": 0.006,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60735,
-   "c": 2.28,
+   "p": 60908,
+   "c": 3.16,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1696.51,
-   "c": 2.05,
+   "p": 1701.06,
+   "c": 2.7,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.12,
-   "c": 2.69,
+   "p": 71.09,
+   "c": 3.45,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.957858,
-   "c": 4.17,
+   "p": 0.958435,
+   "c": 4.5,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 558.07,
-   "c": 2.83,
+   "p": 559.6,
+   "c": 3.45,
    "k": "usd"
   }
  ],
@@ -374,6 +374,57 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+    "tt": null,
+    "s": "US tariff rates announced Wednesday put pressure on India to agree to a trade deal or face a higher levy, leaving exporters and investors with little clarity on the trade outlook.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+    "ts": 1795640597000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 26",
+    "tt": "26 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil extended gains as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
+    "ss": "Petrol, Orta Doğu'da devam eden düşmanlıkların bölgenin ham ihracatındaki toparlanmayı sekteye uğratma tehdidi oluşturmasıyla iki günlük yükselişini korudu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+    "ts": 1795647795000,
+    "tags": []
+   },
+   {
+    "t": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
+    "tt": null,
+    "s": "Australian businesses expect inflation will remain well above the top of the Reserve Bank’s 2-3% target band for the next 12 months, even after policymakers delivered five interest-rate hikes this year to try to rein in consumer prices.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
+    "ts": 1795667400000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+    "tt": "Asya Hisse Senetleri ABD'deki Son Yükselişin Ardından Yükselişe Hazır: Piyasalar İyileşti",
+    "s": "Stocks rose alongside US equity-index futures as investors returned to the artificial intelligence trade in the runup to the Thanksgiving holiday after a week of whipsawing.",
+    "ss": "Asya hisse senetleri, Wall Street'teki geç toparlanmanın Nasdaq 100'ü ayı piyasasının eşiğinden çekmesinin ardından mütevazı kazançlar elde etmeye hazır görünürken, yapay zeka ticaretinin sürdürülebilirliğine ilişkin devam eden endişeler Hazine tahvillerini destekledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795644642000,
+    "tags": []
+   },
+   {
+    "t": "China-Backed Pakistan Exchange Prepares to Launch Stock Options",
+    "tt": null,
+    "s": "The Pakistani bourse is looking to introduce equity options next year, giving investors another tool to bet on a market that’s tripled over the past three years.",
+    "ss": null,
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
+    "ts": 1795665615000,
+    "tags": []
+   },
+   {
     "t": "Dubai Seals Deal to Form $159 Billion Islamic Banking Giant",
     "tt": "Dubai, 159 Milyar Dolarlık İslami Bankacılık Devi Oluşturmak İçin Anlaşma İmzaladı",
     "s": "Dubai Islamic Bank PJSC said it’s buying Emirates Islamic Bank PJSC in an all-stock deal that will create one of the world’s largest listed Islamic-banking groups, with combined assets of about $159 billion.",
@@ -401,15 +452,6 @@
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 26",
-    "tt": "26 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil held a two-day gain as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
-    "ss": "Petrol, Orta Doğu'da devam eden düşmanlıkların bölgenin ham ihracatındaki toparlanmayı sekteye uğratma tehdidi oluşturmasıyla iki günlük yükselişini korudu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
-    "ts": 1795647795000,
-    "tags": []
-   },
-   {
     "t": "Cracks in AI Stocks Sink the Once Reliable Carry Trade",
     "tt": "AI Hisse Senetlerindeki Çatlaklar Bir Zamanların Güvenilir Carry Ticaretini Batırdı",
     "s": "One of Wall Street’s most reliable wagers of 2026 is starting to lose its surefire status.",
@@ -419,56 +461,12 @@
     "tags": []
    },
    {
-    "t": "Asian Stocks Rise as Tech Gains in Taiwan, Korea: Markets Wrap",
-    "tt": "Asya Hisse Senetleri ABD'deki Son Yükselişin Ardından Yükselişe Hazır: Piyasalar İyileşti",
-    "s": "Asian stocks gained as a late recovery on Wall Street brought some stability to markets, following a flight to Treasuries driven by doubts over the artificial intelligence trade.",
-    "ss": "Asya hisse senetleri, Wall Street'teki geç toparlanmanın Nasdaq 100'ü ayı piyasasının eşiğinden çekmesinin ardından mütevazı kazançlar elde etmeye hazır görünürken, yapay zeka ticaretinin sürdürülebilirliğine ilişkin devam eden endişeler Hazine tahvillerini destekledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795644642000,
-    "tags": []
-   },
-   {
     "t": "Copper Rebounds From Lowest This Year as Volatility Grips Metals",
     "tt": "Bakır, Volatilitenin Metalleri Etkilemesiyle Bu Yılın En Düşük Seviyesinden Yükseldi",
     "s": "Copper jumped more than 3% from an 11-month low, tracking gains in tech stocks even as doubts lingered over the durability of the AI boom and related industrial metals demand.",
     "ss": "Bakır, yapay zeka patlamasının ve ilgili endüstriyel metal talebinin dayanıklılığına ilişkin şüphelerin sürmesine rağmen, teknoloji hisselerindeki kazanımları takip ederek 11 ayın en düşük seviyesinden %3'ten fazla sıçradı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
     "ts": 1795658470000,
-    "tags": []
-   },
-   {
-    "t": "Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion: INR",
-    "tt": "Hindistan'a Kasım Hisse Girişi 14,7 Milyar Dolara Ulaşırken Rupi 8 Ayın En Yüksek Seviyesine Ulaştı: INR",
-    "s": "ANZ Banking Group sees room for the rupee to gain further to 90-91 per dollar.",
-    "ss": "ANZ Banking Group, rupinin dolar başına 90-91 seviyesine kadar daha da yükselebileceğine inanıyor.",
-    "u": "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion",
-    "ts": 1795660342000,
-    "tags": [
-     "DXY ▲"
-    ]
-   },
-   {
-    "t": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
-    "tt": "Hawkish Bank of Japan Üyesi Enflasyonda Hızlı Faiz Artışı İstiyor",
-    "s": "A hawkish member of the Bank of Japan’s policy board called for early action to keep raising the BOJ’s benchmark rate, supporting market expectations for a rate hike next month.",
-    "ss": "Japonya Merkez Bankası'nın politika kurulunun şahin bir üyesi, BOJ'un gösterge faiz oranını yükseltmeye devam etmek için erken harekete geçilmesi çağrısında bulunarak piyasanın önümüzdeki ay faiz artırımına ilişkin beklentilerini destekledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
-    "ts": 1795660110000,
-    "tags": [
-     "DXY ▲",
-     "Altın ▼",
-     "Gümüş ▼",
-     "BTC ▼",
-     "Altcoin ▼"
-    ]
-   },
-   {
-    "t": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
-    "tt": "KK Mart, Malaysia Socks Row'un Geciktirdiği 112 Milyon Dolarlık Halka Arzına Başladı",
-    "s": "KK Mart Retail Bhd., the Malaysian convenience-store chain whose first attempt at an initial public offering was delayed by a religious controversy, is launching a 462 million ringgit ($112 million) share sale as it prepares to add hundreds of outlets across the country.",
-    "ss": "İlk halka arz girişimi dini bir tartışma nedeniyle ertelenen Malezya market zinciri KK Mart Retail Bhd., ülke çapında yüzlerce mağaza açmaya hazırlanırken 462 milyon ringgit (112 milyon dolar) hisse satışı başlatıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
-    "ts": 1795658591000,
     "tags": []
    }
   ],
@@ -658,6 +656,42 @@
   ],
   "ZeroHedge": [
    {
+    "t": "Watch: MIT Nuclear Expert Warns Of One Nightmare Scenario For Iran",
+    "tt": null,
+    "s": "Watch: MIT Nuclear Expert Warns Of One Nightmare Scenario For Iran If the US used a 500-kiloton nuclear weapon on Iran's Pickaxe Mountain and the wind blew south, anyone in a band that takes in Isfahan who stayed put would take \"roughly twice a lethal dose of radiation\" within 24 hours , according t",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/watch-mit-nuclear-expert-warns-one-nightmare-scenario-iran",
+    "ts": 1795669200000,
+    "tags": []
+   },
+   {
+    "t": "Macy's 100th Thanksgiving Day Parade Postponed",
+    "tt": null,
+    "s": "Macy's 100th Thanksgiving Day Parade Postponed Update (1720ET): Welp, it's happened - the Macy's 100th Thanksgiving Day Parade has been postponed until Saturday due to weather, after the National Weather Service predicted a large coastal storm that will bring heavy rains and strong winds to New York",
+    "ss": null,
+    "u": "https://www.zerohedge.com/weather/iconic-thanksgiving-day-tradition-jeopardy-first-time-more-half-century",
+    "ts": 1795667737000,
+    "tags": []
+   },
+   {
+    "t": "There Is No Rogue AI: The Real Threat Is The Coming AI Patriot Act",
+    "tt": null,
+    "s": "There Is No Rogue AI: The Real Threat Is The Coming AI Patriot Act Authored by Mike Adams via NaturalNews.com , The Coming AI Patriot Act I build AI systems. I run a data center with Nvidia and AMD GPUs in my own facility. I have tested virtually every major model released in the last three years, o",
+    "ss": null,
+    "u": "https://www.zerohedge.com/ai/there-no-rogue-ai-real-threat-coming-ai-patriot-act",
+    "ts": 1795667400000,
+    "tags": []
+   },
+   {
+    "t": "Teflon Bibi Strikes Again: Israeli Judges Recommend Dropping Most Serious Charges As Corruption Case Collapsing",
+    "tt": null,
+    "s": "Teflon Bibi Strikes Again: Israeli Judges Recommend Dropping Most Serious Charges As Corruption Case Collapsing 'Teflon Bibi' dodges another big bullet? Israeli judges have dealt a massive blow to the prosecution in caretaker Prime Minister Benjamin Netanyahu's corruption trial on Wednesday. They've",
+    "ss": null,
+    "u": "https://www.zerohedge.com/geopolitical/teflon-bibi-strikes-again-israeli-judges-recommend-dropping-most-serious-charges",
+    "ts": 1795665600000,
+    "tags": []
+   },
+   {
     "t": "House Democrat Expands Investigation Into Donald Trump Jr.'s Investment Firm",
     "tt": "Temsilciler Meclisi Demokratı, Donald Trump Jr.'ın Yatırım Firmasına Yönelik Soruşturmayı Genişletiyor",
     "s": "House Democrat Expands Investigation Into Donald Trump Jr.'s Investment Firm Authored by Headline USA Editor via Headline USA , A top House Democrat is broadening his investigation into Donald Trump Jr.'s venture capital fund 1789 Capital by demanding records from four companies that secured an inve",
@@ -709,42 +743,6 @@
     "ss": "Beanie Bebeklerden Hiçbir Şey Öğrenmedik mi? Pokemon Card Mania Aşırı Üretim Korkularıyla Buluşuyor Daha yaşlı Y kuşağı, X kuşağı ve baby boomer kuşağı, spekülatif talep ve kıtlığın \"Prenses Diana ayı\" gibi 5 dolarlık küçük peluş ayıların fiyatlarını en üst düzeye çıkardığı 1990'ların sonundaki Beanie Baby çılgınlığını hatırlıyor.",
     "u": "https://www.zerohedge.com/personal-finance/did-we-learn-nothing-beanie-babies-pokemon-card-mania-meets-overproduction-fears",
     "ts": 1795656600000,
-    "tags": []
-   },
-   {
-    "t": "California City Nixed CFIUS Clause From Chinese Water Deal Near Air Base After Attorney Warned Feds 'May Take It Out On You'",
-    "tt": "Kaliforniya Şehri, Avukatın Federalleri 'Sizden Çıkarabileceği' konusunda uyarmasının ardından, Çin'in Hava Üssü Yakınındaki Su Anlaşmasındaki CFIUS Maddesini Reddetti",
-    "s": "California City Nixed CFIUS Clause From Chinese Water Deal Near Air Base After Attorney Warned Feds 'May Take It Out On You' Authored by Arthur Zhang via The Epoch Times , A California city has approved a 15-year water agreement with a Chinese-owned beverage manufacturer near a military installation",
-    "ss": "Kaliforniya Şehri, Avukatın Federalleri 'Sizden Çıkarabilir' Uyarısı Sonrası Hava Üssü Yakınındaki Çin Su Anlaşmasındaki CFIUS Maddesini İptal Etti",
-    "u": "https://www.zerohedge.com/political/california-city-nixed-cfius-clause-chinese-water-deal-near-air-base-after-attorney-warned",
-    "ts": 1795655100000,
-    "tags": []
-   },
-   {
-    "t": "One Of America's Most Famous Whiskey Distilleries Is Staying Dark Indefinitely",
-    "tt": "Amerika'nın En Ünlü Viski Fabrikalarından Biri Süresiz Olarak Karanlık Kalıyor",
-    "s": "One Of America's Most Famous Whiskey Distilleries Is Staying Dark Indefinitely Jim Beam won't restart distilling at its flagship James B. Beam distillery in Clermont, Kentucky next year, and the Suntory-owned bourbon brand won't say when the stills there will run again . When the company announced t",
-    "ss": "Amerika'nın En Ünlü Viski Fabrikalarından Biri Süresiz Olarak Karanlık Kalıyor Jim Beam önümüzdeki yıl Clermont, Kentucky'deki amiral gemisi James B. Beam içki fabrikasında damıtma işlemine yeniden başlamayacak ve Suntory'nin sahibi olduğu burbon markası da oradaki fotoğrafların tekrar ne zaman çalışacağını söylemeyecek. Şirket bunu duyurduğunda",
-    "u": "https://www.zerohedge.com/personal-finance/one-americas-most-famous-whiskey-distilleries-staying-dark-indefinitely",
-    "ts": 1795653600000,
-    "tags": []
-   },
-   {
-    "t": "Trump Prepares To Blame Democrats For Premature Iran War End: Turning A \"Total Win\" Into \"A Loss\"",
-    "tt": "Trump, İran Savaşının Erken Bitirilmesinden Demokratları Suçlamaya Hazırlanıyor: \"Toplam Kazanmayı\" \"Kayıp\"a Dönüştürmek",
-    "s": "Trump Prepares To Blame Democrats For Premature Iran War End: Turning A \"Total Win\" Into \"A Loss\" President Trump is preparing to blame Democrats for a US 'loss' in the Iran conflict that he initiated nearly nine months ago by ordering Operation Epic Fury. He told the NY Post in a freshly published ",
-    "ss": "Trump, İran Savaşının Erken Sona Ermesi İçin Demokratları Suçlamaya Hazırlanıyor: \"Toplam Galibiyeti\" \"Kayıp\"a Dönüştürmek Başkan Trump, yaklaşık dokuz ay önce Epik Öfke Operasyonu emrini vererek başlattığı İran çatışmasındaki ABD'nin \"kaybı\" için Demokratları suçlamaya hazırlanıyor. New York Post'a yeni yayınlanan bir yazısında şunları söyledi:",
-    "u": "https://www.zerohedge.com/political/trump-prepares-blame-democrats-premature-iran-war-end-turning-total-win-loss",
-    "ts": 1795650600000,
-    "tags": []
-   },
-   {
-    "t": "Florida AG Busts Halal Plant: Staff Tortured Animals, Forced Child To Kill Sheep",
-    "tt": "Florida AG Helal Fabrikayı Bastırdı: Çalışanlar Hayvanlara İşkence Yaptı, Çocukları Koyunları Öldürmeye Zorladı",
-    "s": "Florida AG Busts Halal Plant: Staff Tortured Animals, Forced Child To Kill Sheep Authored by Steve Watson via Modernity , Florida Attorney General James Uthmeier just shut down a halal slaughterhouse in Orlando after video showed workers and customers torturing animals - and forcing a child to parti",
-    "ss": "Florida AG Helal Fabrikayı Bastırdı: Personel Hayvanlara İşkence Yaptı, Çocukları Koyun Öldürmeye Zorladı Yazan: Steve Watson via Modernity, Florida Başsavcısı James Uthmeier, işçilerin ve müşterilerin hayvanlara işkence yaptığını ve bir çocuğu partiye zorladığını gösteren videonun ardından Orlando'daki bir helal mezbahayı kapattı.",
-    "u": "https://www.zerohedge.com/political/florida-ag-busts-halal-plant-staff-tortured-animals-forced-child-kill-sheep",
-    "ts": 1795649100000,
     "tags": []
    }
   ],
@@ -853,6 +851,7 @@
   "fred:ICSA": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred:UMCSENT": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=25)",
   "fred": "boş sonuç",
+  "çeviri": "429 Client Error: Too Many Requests for url: https://translate.googleapis.com/translate_a/single?cli",
   "haber:FXStreet": "403 Client Error: Forbidden for url: https://www.fxstreet.com/rss/news"
  }
 }
