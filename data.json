@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T09:43:59.758661+00:00",
+ "generated": "2026-11-26T10:49:44.041961+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -24,44 +24,44 @@
   },
   {
    "n": "VIX",
-   "p": 27.18,
-   "c": -3.92,
-   "d": -1.11,
+   "p": 27.15,
+   "c": -4.03,
+   "d": -1.14,
    "k": "idx"
   },
   {
    "n": "Altın",
-   "p": 3602.3,
-   "c": 1.88,
-   "d": 66.5,
+   "p": 3583.9,
+   "c": 1.36,
+   "d": 48.1,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.865,
-   "c": 4.53,
-   "d": 1.813,
+   "p": 41.605,
+   "c": 3.88,
+   "d": 1.553,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.46,
-   "c": -0.26,
-   "d": -0.22,
+   "p": 83.87,
+   "c": 0.23,
+   "d": 0.19,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.01,
-   "c": -4.86,
-   "d": -4.6,
+   "p": 90.45,
+   "c": -4.4,
+   "d": -4.16,
    "k": "usd"
   },
   {
    "n": "DXY",
-   "p": 103.692,
-   "c": 0.02,
-   "d": 0.022,
+   "p": 103.733,
+   "c": 0.06,
+   "d": 0.063,
    "k": "idx"
   },
   {
@@ -73,48 +73,48 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6709,
+   "p": 50.6721,
    "c": 0.01,
-   "d": 0.004,
+   "d": 0.005,
    "k": "idx"
   },
   {
    "n": "BIST 100",
-   "p": 10873.64,
+   "p": 10873.63,
    "c": 2.05,
-   "d": 217.94,
+   "d": 217.93,
    "k": "idx"
   }
  ],
  "crypto": [
   {
    "n": "BTC",
-   "p": 60877,
-   "c": 3.51,
+   "p": 60461,
+   "c": 2.68,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1703.22,
-   "c": 4.04,
+   "p": 1693.11,
+   "c": 2.97,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 71.14,
-   "c": 5.51,
+   "p": 70.54,
+   "c": 4.27,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.952811,
-   "c": 4.38,
+   "p": 0.947711,
+   "c": 4.02,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 555.07,
-   "c": 3.01,
+   "p": 550.18,
+   "c": 1.83,
    "k": "usd"
   }
  ],
@@ -374,12 +374,39 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035",
+    "tt": "Vietnam Nükleer Santralleri 2035 Sonrasına Ertelemeyi Ağırlaştırıyor",
+    "s": "Vietnam may be forced to delay its first nuclear power plants until after 2035, complicating efforts to boost energy security and economic growth.",
+    "ss": "Vietnam, ilk nükleer santrallerini 2035 sonrasına ertelemek zorunda kalabilir, bu da enerji güvenliğini ve ekonomik büyümeyi artırma çabalarını zorlaştırabilir.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target",
+    "ts": 1795674734000,
+    "tags": []
+   },
+   {
     "t": "Global Stocks Climb as AI Trade Mounts a Comeback: Markets Wrap",
     "tt": "Asya Hisse Senetleri ABD'deki Son Yükselişin Ardından Yükselişe Hazır: Piyasalar İyileşti",
-    "s": "Stocks rose as investors in Europe and Asia tracked a comeback in technology shares on Wall Street, with days of sharp swings likely to give way to thin holiday trading.",
+    "s": "Stocks rose as investors in Europe and Asia tracked a comeback in technology shares on Wall Street after days of sharp swings.",
     "ss": "Asya hisse senetleri, Wall Street'teki geç toparlanmanın Nasdaq 100'ü ayı piyasasının eşiğinden çekmesinin ardından mütevazı kazançlar elde etmeye hazır görünürken, yapay zeka ticaretinin sürdürülebilirliğine ilişkin devam eden endişeler Hazine tahvillerini destekledi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
     "ts": 1795644642000,
+    "tags": []
+   },
+   {
+    "t": "South Africa’s IDC in Talks for $257 Million Stake in Sugar Firm",
+    "tt": "Güney Afrikalı IDC, Şeker Firmasında 257 Milyon Dolarlık Hisse İçin Görüşmelerde",
+    "s": "South Africa’s biggest development-finance institution plans to take a 4.5 billion-rand ($257 million) stake in an investment firm that’s looking to buy a holding in Tongaat Hulett Sugar SA Ltd., South Africa’s top refiner of the sweetener.",
+    "ss": "Güney Afrika'nın en büyük kalkınma finansmanı kurumu, Güney Afrika'nın en büyük tatlandırıcı rafinerisi olan Tongaat Hulett Sugar SA Ltd.'de hisse satın almak isteyen bir yatırım firmasından 4,5 milyar rand (257 milyon dolar) hisse almayı planlıyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/south-africa-s-idc-in-talks-for-257-million-stake-in-sugar-firm",
+    "ts": 1795686938000,
+    "tags": []
+   },
+   {
+    "t": "German Bond Haven Trade Shifts as Investors Turn to Asset Swaps",
+    "tt": "Yatırımcıların Varlık Swaplarına yönelmesiyle Alman Tahvil Haven Ticareti Kayıyor",
+    "s": "Investors are changing how they trade German government bonds, Europe’s go-to haven in times of stress.",
+    "ss": "Yatırımcılar, stres zamanlarında Avrupa'nın sığınağı olan Alman devlet tahvillerinin ticaretini değiştiriyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
+    "ts": 1795686755000,
     "tags": []
    },
    {
@@ -434,33 +461,6 @@
     "ss": "Başkan Donald Trump'ın son gümrük vergileri artışı, ABD-Çin ticaret savaşının başlamasından bu yana küresel üretimde görülen en belirgin değişimlerden birinin altını çizme riski taşıyor: Tedarik zincirlerinin Çin dışına hareketi.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
     "ts": 1795680324000,
-    "tags": []
-   },
-   {
-    "t": "Latest Oil Market News and Analysis for Nov. 26",
-    "tt": "26 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil swung as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
-    "ss": "Orta Doğu'da devam eden düşmanlıkların bölgenin ham ihracatındaki toparlanmayı sekteye uğratma tehdidi oluşturmasıyla petrol dalgalandı.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
-    "ts": 1795647795000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stock Markets Are Cheap Enough Now: Market Analysis",
-    "tt": "Asya Hisse Senedi Piyasaları Artık Yeterince Ucuz: Piyasa Analizi",
-    "s": "Tom Mackenzie, Skylar Montgomery Koning and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "ss": "Tom Mackenzie, Skylar Montgomery Koning ve Mark Cudmore \"Bloomberg: Açılış Ticareti\"nde analistler ve yatırımcılar için bugünün ana temalarını ayrıntılarıyla anlatıyor. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-26/asian-stock-markets-are-cheap-enough-now-3-minutes-mliv-video",
-    "ts": 1795681791000,
-    "tags": []
-   },
-   {
-    "t": "Japan’s Insurers Have ‘Given Up’ on Yen With Record-Low Hedging",
-    "tt": "Japon Sigortacılar Rekor Düşük Riskten Korunma ile Yen'den 'Vazgeçti'",
-    "s": "Japan’s concerted push to bolster the yen is running into a major headwind, after the nation’s biggest life insurers slashed their currency hedging to a record low in the fiscal first half.",
-    "ss": "Japonya'nın yeni desteklemeye yönelik kararlı çabası, ülkenin en büyük hayat sigorta şirketlerinin para birimi riskten korunma önlemlerini mali yılın ilk yarısında rekor düşük seviyeye indirmesinin ardından büyük bir olumsuzlukla karşılaşıyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
-    "ts": 1795664205000,
     "tags": []
    }
   ],
@@ -558,6 +558,24 @@
   ],
   "MarketWatch": [
    {
+    "t": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+    "tt": "Küresel piyasalar ABD'nin direncini memnuniyetle karşılarken, vadeli işlemler Wall Street'in Kara Cuma kazanımlarına işaret ediyor.",
+    "s": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
+    "ss": "S&P 500 endeksinin Çarşamba günkü düşük seviyelerinden toparlanması, AI'nın ortadan kalkmasının ardından borsaları sakinleştirdi",
+    "u": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+    "ts": 1795689420000,
+    "tags": []
+   },
+   {
+    "t": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+    "tt": "Deutsche Bank, S&P 500'ün %25'lik bir yükselişle birlikte teknoloji rotasının yakında dibe vuracağını söylüyor",
+    "s": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+    "ss": "Deutsche Bank, odak noktasının sermaye harcamalarından yapay zekadan para kazanmaya kaymasıyla birlikte gösterge endeksinin 2027 sonuna kadar 9.000 puana ulaşacağını öngörüyor.",
+    "u": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+    "ts": 1795687860000,
+    "tags": []
+   },
+   {
     "t": "Is the stock market open for Thanksgiving? The answer might surprise you.",
     "tt": "Borsa Şükran Günü'nde açık mı? Cevap sizi şaşırtabilir.",
     "s": "The answer to the question of whether the stock market is open on Thanksgiving isn’t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
@@ -631,27 +649,18 @@
     "u": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
     "ts": 1795644960000,
     "tags": []
-   },
-   {
-    "t": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-    "tt": "Dip alıcılarının para kazanmasıyla Nvidia hisseleri Pazartesi günkü rallinin büyük bir kısmını geri verdi",
-    "s": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
-    "ss": "Vanda Research'e göre perakende yatırımcıların geçen haftaki düşüşte Nvidia hisselerini nereden satın aldıklarına bakılırsa, kazançlarının neredeyse tamamı yok oldu.",
-    "u": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-    "ts": 1795644660000,
-    "tags": []
-   },
-   {
-    "t": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
-    "tt": "Elon Musk ve SpaceX 'Trump hesaplarına' yaklaşık 17,8 milyar dolar bağışlayacak",
-    "s": "SpaceX to provide one newly issued Class A share to every active ‘Trump account,’ and CEO Musk will match that gift.",
-    "ss": "SpaceX, her aktif 'Trump hesabına' yeni verilen bir A Sınıfı hisse sağlayacak ve CEO Musk da bu hediyeyi karşılayacak.",
-    "u": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-    "ts": 1795643400000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Europe Plays Russian Roulette",
+    "tt": "Avrupa Rus Ruleti Oynuyor",
+    "s": "Europe Plays Russian Roulette Authored by J.B. Shurk via American Thinker , Europe is a bar full of drunks all itching for a fight. Its inebriated nation states (too hammered to realize that they've dissolved into a plasmic sludge called \"the E.U.\" - eww! ) have plenty of \"liquid courage. \" They bea",
+    "ss": "Avrupa Rus Ruleti Oynuyor J.B. Shurk tarafından American Thinker aracılığıyla yazılmıştır. Avrupa, kavga için can atan sarhoşlarla dolu bir bardır. Sarhoş ulus devletleri (\"AB\" adı verilen plazmik bir çamura dönüştüklerini fark edemeyecek kadar dövülmüşler - eyw!) bol miktarda \"akışkan cesarete\" sahipler.",
+    "u": "https://www.zerohedge.com/geopolitical/europe-plays-russian-roulette",
+    "ts": 1795688400000,
+    "tags": []
+   },
    {
     "t": "A Tonne Of Dead Fish Tossed Overboard Every Five Minutes As Big UK Trawlers Dodge Fines",
     "tt": "Büyük Britanya Trol Gemileri Cezalardan Kaçarken Her Beş Dakikada Bir Tonlarca Ölü Balık Denize Atılıyor",
@@ -731,15 +740,6 @@
     "ss": "Teflon Bibi Tekrar İş Başında: İsrailli Hakimler Yolsuzluk Davası Çöken 'Teflon Bibi'nin bir başka büyük kurşundan kaçmasını sağladığı için En Ciddi Suçlamaların Düşürülmesini Tavsiye Ediyor? İsrailli yargıçlar, geçici Başbakan Binyamin Netanyahu'nun çarşamba günkü yolsuzluk davasında iddia makamına büyük bir darbe indirdi. Onlar",
     "u": "https://www.zerohedge.com/geopolitical/teflon-bibi-strikes-again-israeli-judges-recommend-dropping-most-serious-charges",
     "ts": 1795665600000,
-    "tags": []
-   },
-   {
-    "t": "House Democrat Expands Investigation Into Donald Trump Jr.'s Investment Firm",
-    "tt": "Temsilciler Meclisi Demokratı, Donald Trump Jr.'ın Yatırım Firmasına Yönelik Soruşturmayı Genişletiyor",
-    "s": "House Democrat Expands Investigation Into Donald Trump Jr.'s Investment Firm Authored by Headline USA Editor via Headline USA , A top House Democrat is broadening his investigation into Donald Trump Jr.'s venture capital fund 1789 Capital by demanding records from four companies that secured an inve",
-    "ss": "Temsilciler Meclisi Demokratı, Donald Trump Jr.'ın Yatırım Firmasına Yönelik Soruşturmayı Genişletiyor Headline USA Editörü tarafından Headline USA aracılığıyla yazılmıştır, Temsilciler Meclisi'nin üst düzey bir Demokratı, Donald Trump Jr.'ın risk sermayesi fonu 1789 Capital'e yönelik soruşturmasını, yatırım garantileyen dört şirketten kayıt talep ederek genişletiyor",
-    "u": "https://www.zerohedge.com/political/house-democrat-expands-investigation-donald-trump-jrs-investment-firm",
-    "ts": 1795664100000,
     "tags": []
    }
   ],
