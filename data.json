@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T23:27:00.092864+00:00",
+ "generated": "2026-11-26T00:27:22.517625+00:00",
  "prices": [
   {
    "n": "S&P 500",
@@ -31,30 +31,30 @@
   },
   {
    "n": "Altın",
-   "p": 3602.1,
-   "c": 1.13,
-   "d": 40.2,
+   "p": 3603.4,
+   "c": 1.17,
+   "d": 41.5,
    "k": "usd"
   },
   {
    "n": "Gümüş",
-   "p": 41.635,
-   "c": 2.15,
-   "d": 0.875,
+   "p": 41.73,
+   "c": 2.38,
+   "d": 0.97,
    "k": "usd"
   },
   {
    "n": "WTI",
-   "p": 83.9,
-   "c": 2.25,
-   "d": 1.85,
+   "p": 84.05,
+   "c": 2.44,
+   "d": 2.0,
    "k": "usd"
   },
   {
    "n": "Brent",
-   "p": 90.57,
-   "c": -0.91,
-   "d": -0.83,
+   "p": 90.65,
+   "c": -0.82,
+   "d": -0.75,
    "k": "usd"
   },
   {
@@ -73,9 +73,9 @@
   },
   {
    "n": "USD/TRY",
-   "p": 50.6744,
-   "c": 0.15,
-   "d": 0.074,
+   "p": 50.6728,
+   "c": 0.01,
+   "d": 0.006,
    "k": "idx"
   },
   {
@@ -89,32 +89,32 @@
  "crypto": [
   {
    "n": "BTC",
-   "p": 60197,
-   "c": 0.38,
+   "p": 60865,
+   "c": 2.27,
    "k": "usd"
   },
   {
    "n": "ETH",
-   "p": 1690.11,
-   "c": 0.48,
+   "p": 1704.05,
+   "c": 1.98,
    "k": "usd"
   },
   {
    "n": "SOL",
-   "p": 70.36,
-   "c": 0.54,
+   "p": 71.12,
+   "c": 2.05,
    "k": "usd"
   },
   {
    "n": "XRP",
-   "p": 0.934768,
-   "c": 1.02,
+   "p": 0.94294,
+   "c": 2.28,
    "k": "usd"
   },
   {
    "n": "BNB",
-   "p": 551.57,
-   "c": 0.46,
+   "p": 557.04,
+   "c": 2.03,
    "k": "usd"
   }
  ],
@@ -374,21 +374,72 @@
  "news": {
   "Bloomberg": [
    {
+    "t": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+    "tt": "ABD Enflasyon Verileri Faiz Artırımlarına Yönelik Bahisleri Artırırken Altın Avantajları Düşüyor",
+    "s": "Gold edged lower, after rising on Wednesday, as inflation data reinforced bets the Federal Reserve will hike interest rates further.",
+    "ss": "Altın, Çarşamba günü yükselişinin ardından, enflasyon verilerinin Fed'in faiz oranlarını daha da artıracağı yönündeki beklentileri güçlendirmesiyle düşüşe geçti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+    "ts": 1795652289000,
+    "tags": [
+     "DXY ▲",
+     "Altın ▼",
+     "Gümüş ▼",
+     "BTC ▼",
+     "Altcoin ▼"
+    ]
+   },
+   {
+    "t": "Emerging Asia’s Best Bond Rally Seen Extending in Philippines",
+    "tt": "Gelişmekte Olan Asya'nın En İyi Tahvil Rallisi Filipinler'de Genişliyor",
+    "s": "Philippine government bonds look poised to build on this month’s sharp rally as expectations of easing price pressures and a landmark global index inclusion may stimulate fresh demand next year, according to some market watchers.",
+    "ss": "Bazı piyasa gözlemcilerine göre, fiyat baskılarının hafifletilmesi ve önemli bir küresel endeks katılımının gelecek yıl taze talebi canlandırabileceği beklentileriyle, Filipin devlet tahvilleri bu ayki keskin yükselişini sürdürmeye hazır görünüyor.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
+    "ts": 1795651545000,
+    "tags": []
+   },
+   {
+    "t": "Asian Equities Advance After Late Rebound in US: Markets Wrap",
+    "tt": "Asya Hisse Senetleri ABD'deki Son Yükselişin Ardından Yükselişe Hazır: Piyasalar İyileşti",
+    "s": "Asian stocks rose after dip buyers helped drive a late recovery on Wall Street, even as doubts over the sustainability of the artificial intelligence trade sent investors to the safety of Treasuries.",
+    "ss": "Asya hisse senetleri, Wall Street'teki geç toparlanmanın Nasdaq 100'ü ayı piyasasının eşiğinden çekmesinin ardından mütevazı kazançlar elde etmeye hazır görünürken, yapay zeka ticaretinin sürdürülebilirliğine ilişkin devam eden endişeler Hazine tahvillerini destekledi.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+    "ts": 1795644642000,
+    "tags": []
+   },
+   {
+    "t": "China 2027 Growth to Top 4.5%, Ex-Official Says",
+    "tt": "Eski Yetkili, Çin 2027 Büyümesinin İlk %4,5'e Çıkacağını Söyledi",
+    "s": "China’s economy is on track to grow more than 4.5% in 2027, according to former Vice Finance Minister Zhu Guangyao. Speaking to Bloomberg TV’s Avril Hong in Singapore on Wednesday, Zhu noted that Beijing still has room to loosen fiscal policy next year, while also stressing the need for AI regulatio",
+    "ss": "Eski Maliye Bakan Yardımcısı Zhu Guangyao'ya göre Çin ekonomisi 2027'de %4,5'ten fazla büyüme yolunda ilerliyor. Çarşamba günü Singapur'da Bloomberg TV'den Avril Hong'a konuşan Zhu, Pekin'in gelecek yıl maliye politikasını gevşetmek için hala alanı olduğunu belirtti ve aynı zamanda yapay zeka düzenlemelerine duyulan ihtiyacı da vurguladı.",
+    "u": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
+    "ts": 1795650881000,
+    "tags": []
+   },
+   {
+    "t": "Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations",
+    "tt": "RadioShack Revivers, SEC Dolandırıcılık Davası İddialarını Çözdü",
+    "s": "Three entrepreneurs accused of misleading investors about pandemic-era plans to revive distressed retailers including RadioShack and Pier 1 Imports agreed to pay more than $6.8 million to end a US regulator’s lawsuit claiming they were running a Ponzi-like scam.",
+    "ss": "Yatırımcıları, aralarında RadioShack ve Pier 1 Imports'un da bulunduğu, pandemi dönemindeki sıkıntılı perakendecileri canlandırma planları konusunda yanıltmakla suçlanan üç girişimci, ABD'li bir düzenleyicinin saadet zinciri benzeri bir dolandırıcılık yürüttüklerini iddia eden davasını sona erdirmek için 6,8 milyon dolardan fazla ödemeyi kabul etti.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
+    "ts": 1795650275000,
+    "tags": []
+   },
+   {
+    "t": "Latest Oil Market News and Analysis for Nov. 26",
+    "tt": "26 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
+    "s": "Oil held a two-day gain as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
+    "ss": "Petrol, Orta Doğu'da devam eden düşmanlıkların bölgenin ham ihracatındaki toparlanmayı sekteye uğratma tehdidi oluşturmasıyla iki günlük yükselişini korudu.",
+    "u": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+    "ts": 1795647795000,
+    "tags": []
+   },
+   {
     "t": "Egypt Road Accident Kills at Least 31 in Greater Cairo",
     "tt": "Mısır'da Büyük Kahire'deki Trafik Kazasında En Az 31 Kişi Öldü",
     "s": "At least 31 people were killed in Greater Cairo after a truck carrying petroleum products caught fire in one Egypt’s deadliest road accidents in years.",
     "ss": "Mısır'da son yılların en ölümcül trafik kazalarından birinde petrol ürünleri taşıyan bir kamyonun alev alması sonucu Büyük Kahire'de en az 31 kişi hayatını kaybetti.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo",
     "ts": 1795637301000,
-    "tags": []
-   },
-   {
-    "t": "Asian Stocks Set for Gains After Late US Rebound: Markets Wrap",
-    "tt": "Asya Hisse Senetleri ABD'deki Son Yükselişin Ardından Yükselişe Hazır: Piyasalar İyileşti",
-    "s": "Asian stocks looked set for modest gains after a late Wall Street recovery pulled the Nasdaq 100 back from the brink of a bear market, while lingering concerns over the sustainability of the artificial intelligence trade boosted Treasuries.",
-    "ss": "Asya hisse senetleri, Wall Street'teki geç toparlanmanın Nasdaq 100'ü ayı piyasasının eşiğinden çekmesinin ardından mütevazı kazançlar elde etmeye hazır görünürken, yapay zeka ticaretinin sürdürülebilirliğine ilişkin devam eden endişeler Hazine tahvillerini destekledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
-    "ts": 1795644642000,
     "tags": []
    },
    {
@@ -410,57 +461,12 @@
     "tags": []
    },
    {
-    "t": "Latest Oil Market News and Analysis for Nov. 26",
-    "tt": "26 Kasım Petrol Piyasası Son Haberleri ve Analizleri",
-    "s": "Oil held a two-day gain as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
-    "ss": "Petrol, Orta Doğu'da devam eden düşmanlıkların bölgenin ham ihracatındaki toparlanmayı sekteye uğratma tehdidi oluşturmasıyla iki günlük yükselişini korudu.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
-    "ts": 1795647795000,
-    "tags": []
-   },
-   {
-    "t": "Asia Fund Beating 89% of Peers Trims Tech, Adds Defensive Names",
+    "t": "Jupiter’s $3.6 Billion Fund Goes Defensive, Skirts Tech Selloff",
     "tt": "Asya Fonu Benzerlerinin %89'unu Geride Bırakıyor Teknolojiyi Düzeltiyor, Savunma Amaçlı İsimler Ekliyor",
     "s": "An Asia-focused fund run by Jupiter Asset Management has beaten 89% of its peers this year, thanks to a pivot toward defensive stocks before the AI trade started unraveling in the summer, according to the fund’s co-manager Sam Konrad.",
     "ss": "Fonun eş yöneticisi Sam Konrad'a göre, Jüpiter Varlık Yönetimi tarafından yönetilen Asya odaklı bir fon, yapay zeka ticaretinin yaz aylarında çözülmeye başlamasından önce savunma amaçlı hisse senetlerine yönelmesi sayesinde bu yıl emsallerinin %89'unu geride bıraktı.",
     "u": "https://www.bloomberg.com/news/articles/2026-11-25/asia-fund-beating-89-of-peers-trims-tech-adds-defensive-names",
     "ts": 1795647600000,
-    "tags": []
-   },
-   {
-    "t": "Venus Williams on WeWard Deal and Her Investing Mindset",
-    "tt": "Venus Williams, WeWard Anlaşması ve Yatırımcı Zihniyetini Anlatıyor",
-    "s": "Tennis legend Venus Williams sat down with Bloomberg’s Romaine Bostick in an exclusive interview on November 17, 2026, to talk about her origin story with WeWard and how she decided to invest in the walking app. (Source: Bloomberg)",
-    "ss": "Tenis efsanesi Venus Williams, 17 Kasım 2026'da Bloomberg'den Romaine Bostick ile özel bir röportaj yaparak WeWard'la olan başlangıç ​​hikayesini ve yürüyüş uygulamasına nasıl yatırım yapmaya karar verdiğini anlattı. (Kaynak: Bloomberg)",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-25/venus-williams-on-weward-deal-and-her-investing-mindset-video",
-    "ts": 1795647529000,
-    "tags": []
-   },
-   {
-    "t": "Next 20 Days Is ‘Mission Critical’ for Retailers: Yih",
-    "tt": "Önümüzdeki 20 Gün Perakendeciler İçin 'Görev Kritik': Yih",
-    "s": "Adrienne Yih, Barclays Managing Director and Senior Retail Analyst, says consumer spending is holding up despite shoppers’ concerns about high prices. She argues that household income and purchasing power have adjusted alongside inflation and wage growth, helping explain continued spending. She spea",
-    "ss": "Barclays Genel Müdürü ve Kıdemli Perakende Analisti Adrienne Yih, alışveriş yapanların yüksek fiyatlara ilişkin endişelerine rağmen tüketici harcamalarının devam ettiğini söylüyor. Hanehalkı gelirinin ve satın alma gücünün enflasyon ve ücret artışıyla birlikte uyum sağladığını ve bunun devam eden harcamaları açıklamaya yardımcı olduğunu savunuyor. O konuştu",
-    "u": "https://www.bloomberg.com/news/videos/2026-11-25/next-20-days-is-mission-critical-for-retailers-yih-video",
-    "ts": 1795645917000,
-    "tags": []
-   },
-   {
-    "t": "Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
-    "tt": "Targa'nın Büyük Boru Hattı Bağlantısında Kinetik'i Satın Almak İçin Görüşmelerde Bulunduğu Söyleniyor",
-    "s": "Targa Resources Corp. is in talks to acquire Kinetik Holdings Inc., a publicly-listed pipeline company partly owned by Blackstone Inc., according to people familiar with the matter.",
-    "ss": "Konuyu bilen kaynaklara göre Targa Resources Corp., kısmen Blackstone Inc.'e ait olan halka açık boru hattı şirketi Kinetik Holdings Inc.'i satın almak için görüşmelerde bulunuyor.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
-    "ts": 1795640457000,
-    "tags": []
-   },
-   {
-    "t": "Compass Delays $380 Million ABS After Data Center Outage",
-    "tt": "Compass, Veri Merkezi Kesintisinden Sonra 380 Milyon Dolarlık ABS'yi Geciktirdi",
-    "s": "Compass Datacenters has put off a $380 million sale of asset-backed securities after one of its data centers faced an operational disruption and investors dropped out of the offering.",
-    "ss": "Compass Datacenters, veri merkezlerinden birinin operasyonel bir kesinti yaşaması ve yatırımcıların tekliften çekilmesinin ardından 380 milyon dolarlık varlığa dayalı menkul kıymet satışını erteledi.",
-    "u": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
-    "ts": 1795645629000,
     "tags": []
    }
   ],
@@ -567,6 +573,15 @@
     "tags": []
    },
    {
+    "t": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+    "tt": "70'li yaşlarımdayım ve yeni bir BMW X1 satın alıyorum. Unvana tek oğlumu koymalı mıyım?",
+    "s": "“Given my age, I never make a major new purchase without thinking about the future.”",
+    "ss": "\"Yaşım göz önüne alındığında, geleceği düşünmeden asla büyük bir yeni satın alma yapmam.\"",
+    "u": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "ts": 1795649400000,
+    "tags": []
+   },
+   {
     "t": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
     "tt": "58 yıldır evliyim. Bu, 'onun' ve 'onun' değil, 'bizim' paramız. Neden bu kadar çok çift mali durumlarını ayrı tutuyor?",
     "s": "“My wife stopped working outside the home in 1970.”",
@@ -637,18 +652,18 @@
     "u": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
     "ts": 1795642140000,
     "tags": []
-   },
-   {
-    "t": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
-    "tt": "Nvidia, hisse senetleri mücadeleye devam ederken Mart 2025'ten bu yana ilk 'ölüm haçına' doğru gidiyor",
-    "s": "This tape has not been kind to Nvidia.",
-    "ss": "Bu kaset Nvidia'ya pek nazik davranmadı.",
-    "u": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-    "ts": 1795635780000,
-    "tags": []
    }
   ],
   "ZeroHedge": [
+   {
+    "t": "Trump Prepares To Blame Democrats For Premature Iran War End: Turning A \"Total Win\" Into \"A Loss\"",
+    "tt": "Trump, İran Savaşının Erken Bitirilmesinden Demokratları Suçlamaya Hazırlanıyor: \"Toplam Kazanmayı\" \"Kayıp\"a Dönüştürmek",
+    "s": "Trump Prepares To Blame Democrats For Premature Iran War End: Turning A \"Total Win\" Into \"A Loss\" President Trump is preparing to blame Democrats for a US 'loss' in the Iran conflict that he initiated nearly nine months ago by ordering Operation Epic Fury. He told the NY Post in a freshly published ",
+    "ss": "Trump, İran Savaşının Erken Sona Ermesi İçin Demokratları Suçlamaya Hazırlanıyor: \"Toplam Galibiyeti\" \"Kayıp\"a Dönüştürmek Başkan Trump, yaklaşık dokuz ay önce Epik Öfke Operasyonu emrini vererek başlattığı İran çatışmasındaki ABD'nin \"kaybı\" için Demokratları suçlamaya hazırlanıyor. New York Post'a yeni yayınlanan bir yazısında şunları söyledi:",
+    "u": "https://www.zerohedge.com/political/trump-prepares-blame-democrats-premature-iran-war-end-turning-total-win-loss",
+    "ts": 1795650600000,
+    "tags": []
+   },
    {
     "t": "Florida AG Busts Halal Plant: Staff Tortured Animals, Forced Child To Kill Sheep",
     "tt": "Florida AG Helal Fabrikayı Bastırdı: Çalışanlar Hayvanlara İşkence Yaptı, Çocukları Koyunları Öldürmeye Zorladı",
@@ -728,15 +743,6 @@
     "ss": "İzle: Yakıt Tankeri Patlayınca Gize Otoyolu Ateş Topuna Dönüştü, En Az 30 Kişi Öldü Mısır Sağlık Bakanlığı'nın ön değerlendirmesini yapan Mısır Sağlık Bakanlığı'na göre, petrol ürünleri taşıyan bir tanker Çarşamba akşamı Kahire Çevre Yolu'nda devrilip patladı, en az 30 kişi öldü ve 15 kişi yaralandı.",
     "u": "https://www.zerohedge.com/markets/watch-giza-highway-turns-fireball-fuel-tanker-explodes-killing-least-30",
     "ts": 1795640700000,
-    "tags": []
-   },
-   {
-    "t": "Someone Is Actually Making 'George Floyd: The Musical'",
-    "tt": "Birisi Aslında 'George Floyd: The Musical'ı Yapıyor",
-    "s": "Someone Is Actually Making 'George Floyd: The Musical' A small New Jersey record label is developing a satirical musical about George Floyd's 2020 death, and a casting notice for the project on a job board run by Playbill drew outrage from Broadway stars before the theater publication pulled the ad,",
-    "ss": "Birisi Aslında 'George Floyd: The Musical'ı Yapıyor New Jersey'li küçük bir plak şirketi, George Floyd'un 2020'deki ölümü hakkında hicivli bir müzikal geliştiriyor ve Playbill tarafından yönetilen bir iş kurulunda proje için oyuncu seçimi ilanı, tiyatro yayını reklamı çekmeden önce Broadway yıldızlarının öfkesine yol açtı.",
-    "u": "https://www.zerohedge.com/political/someone-actually-making-george-floyd-musical",
-    "ts": 1795639800000,
     "tags": []
    }
   ],
